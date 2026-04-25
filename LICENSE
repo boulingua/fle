@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 R. Heller
+Copyright (c) 2026 S. Le Boulanger
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+The MIT licence above covers the website code (Quarto configuration, Lua
+shortcodes, Python helper scripts, YAML schemas, SCSS).
+
+The didactic and curatorial content of this repository — Units, exam
+examples, learning objectives, pedagogical prose — is licensed separately
+under Creative Commons Attribution-ShareAlike 4.0 International
+(CC-BY-SA 4.0). See `LICENSE-content` for the full terms.

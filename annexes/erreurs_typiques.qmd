@@ -1,0 +1,16 @@
+---
+title: "Erreurs typiques"
+---
+
+::: {.hero-kicker}
+FLE BW · ANNEXE
+:::
+
+# Erreurs typiques
+
+::: {.callout-note}
+**Phase 5 (à venir).** Cette annexe sera remplie après l'écriture
+des 156 Unités, afin de pouvoir lier des passages concrets.
+:::
+
+Erreurs L1-allemand → français (genre, ordre des mots, faux amis, prononciation), par Klassenstufe.

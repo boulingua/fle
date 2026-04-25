@@ -1,0 +1,25 @@
+---
+title: "Klasse 11 — Niveau E"
+---
+
+::: {.hero-kicker}
+PARCOURS E · KLASSE 11
+:::
+
+# Klasse 11 — Niveau E
+
+::: {.callout-note}
+**Phase 2 (à venir).** Les 12 Unités de ce cours seront listées
+ici en cartes après l'établissement du plan thématique
+(`_resources/curriculum_outline.yml`).
+:::
+
+## Cap visé
+
+(E) Entrée en Oberstufe : textes plus complexes, premières analyses littéraires.
+
+## Voir aussi
+
+- [Programme complet](../programme.qmd)
+- [Bildungsplan](../bildungsplan.qmd)
+- [Accueil](../index.qmd)

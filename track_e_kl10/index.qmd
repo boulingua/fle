@@ -1,0 +1,25 @@
+---
+title: "Klasse 10 — Niveau E"
+---
+
+::: {.hero-kicker}
+PARCOURS E · KLASSE 10
+:::
+
+# Klasse 10 — Niveau E
+
+::: {.callout-note}
+**Phase 2 (à venir).** Les 12 Unités de ce cours seront listées
+ici en cartes après l'établissement du plan thématique
+(`_resources/curriculum_outline.yml`).
+:::
+
+## Cap visé
+
+Mediation simple, écrit structuré. (G+M : préparation finale de la Mittlere Reife.)
+
+## Voir aussi
+
+- [Programme complet](../programme.qmd)
+- [Bildungsplan](../bildungsplan.qmd)
+- [Accueil](../index.qmd)

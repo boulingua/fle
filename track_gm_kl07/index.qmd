@@ -1,0 +1,25 @@
+---
+title: "Klasse 7 — Niveau G+M"
+---
+
+::: {.hero-kicker}
+PARCOURS G+M · KLASSE 7
+:::
+
+# Klasse 7 — Niveau G+M
+
+::: {.callout-note}
+**Phase 2 (à venir).** Les 12 Unités de ce cours seront listées
+ici en cartes après l'établissement du plan thématique
+(`_resources/curriculum_outline.yml`).
+:::
+
+## Cap visé
+
+Consolidation présent + passé composé, vie quotidienne, ami·e·s et famille.
+
+## Voir aussi
+
+- [Programme complet](../programme.qmd)
+- [Bildungsplan](../bildungsplan.qmd)
+- [Accueil](../index.qmd)

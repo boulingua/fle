@@ -1,0 +1,25 @@
+---
+title: "Klasse 6 — Niveau E"
+---
+
+::: {.hero-kicker}
+PARCOURS E · KLASSE 6
+:::
+
+# Klasse 6 — Niveau E
+
+::: {.callout-note}
+**Phase 2 (à venir).** Les 12 Unités de ce cours seront listées
+ici en cartes après l'établissement du plan thématique
+(`_resources/curriculum_outline.yml`).
+:::
+
+## Cap visé
+
+Première année de FLE comme 2e langue vivante. Sons, salutations, premiers échanges.
+
+## Voir aussi
+
+- [Programme complet](../programme.qmd)
+- [Bildungsplan](../bildungsplan.qmd)
+- [Accueil](../index.qmd)

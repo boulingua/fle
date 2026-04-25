@@ -1,0 +1,43 @@
+---
+title: "Programme"
+---
+
+::: {.hero-kicker}
+FLE BW · 156 UNITÉS · 13 COURS
+:::
+
+# Programme complet
+
+::: {.callout-note}
+**Phase 1 (scaffold).** Le programme complet (156 Unités sur 13
+cours) sera généré en Phase 2 à partir de
+`_resources/curriculum_outline.yml`. Cette page sera alors
+regénérée automatiquement par `_scripts/generate_programme.py`.
+:::
+
+## Cours
+
+### Parcours G+M (Kl. 6–10)
+
+- [Klasse 6](track_gm_kl06/index.qmd)
+- [Klasse 7](track_gm_kl07/index.qmd)
+- [Klasse 8](track_gm_kl08/index.qmd)
+- [Klasse 9](track_gm_kl09/index.qmd)
+- [Klasse 10](track_gm_kl10/index.qmd)
+
+### Parcours E (Kl. 6–13)
+
+- [Klasse 6](track_e_kl06/index.qmd)
+- [Klasse 7](track_e_kl07/index.qmd)
+- [Klasse 8](track_e_kl08/index.qmd)
+- [Klasse 9](track_e_kl09/index.qmd)
+- [Klasse 10](track_e_kl10/index.qmd)
+- [Klasse 11](track_e_kl11/index.qmd)
+- [Klasse 12](track_e_kl12/index.qmd)
+- [Klasse 13](track_e_kl13/index.qmd)
+
+## Structure de chaque cours
+
+12 Unités de ~3 semaines chacune, alignées sur l'année scolaire.
+Modèle pédagogique en cinq étapes (*Activer · Apporter ·
+S'entraîner · Produire · Réfléchir*).

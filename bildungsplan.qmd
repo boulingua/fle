@@ -1,0 +1,50 @@
+---
+title: "Bildungsplan"
+---
+
+::: {.hero-kicker}
+FLE BW · BILDUNGSPLAN-ALIGNEMENT
+:::
+
+# Bildungsplan-BW Französisch — alignement
+
+Ce site est aligné sur deux Bildungspläne :
+
+- **Bildungsplan 2016 Sekundarstufe I — Französisch (2.
+  Fremdsprache)** — pour Klasse 6 à 10, parcours G+M et E.
+- **Bildungsplan gymnasiale Oberstufe 2021 — Französisch** — pour
+  Klasse 11 à 13, parcours E (Basisfach + Leistungsfach).
+
+## Structure des compétences
+
+| Code      | Bezeichnung                                          |
+|-----------|------------------------------------------------------|
+| 3.1.1     | Soziokulturelles Orientierungswissen / Themen        |
+| 3.1.2     | Interkulturelle kommunikative Kompetenz              |
+| 3.1.3     | Funktionale kommunikative Kompetenz                  |
+| 3.1.3.1   | Hör-/Hörsehverstehen                                 |
+| 3.1.3.2   | Leseverstehen                                        |
+| 3.1.3.3   | Sprechen — an Gesprächen teilnehmen                  |
+| 3.1.3.4   | Sprechen — zusammenhängendes monologisches Sprechen  |
+| 3.1.3.5   | Schreiben                                            |
+| 3.1.3.6   | Sprachmittlung                                       |
+| 3.1.3.7   | Verfügen über sprachliche Mittel — Wortschatz        |
+| 3.1.3.8   | Verfügen über sprachliche Mittel — Grammatik         |
+| 3.1.3.9   | Verfügen über sprachliche Mittel — Aussprache        |
+| 3.1.4     | Text- und Medienkompetenz                            |
+
+Prozessbezogene Kompetenzen : 2.1–2.5 (kommunikativ,
+interkulturell, Text/Medien, Sprachbewusstheit, Sprachlern-
+kompetenz).
+
+## Niveaux G/M/E
+
+Dans la Sek I, les codes ci-dessus sont identiques entre G, M et
+E ; **la profondeur d'exigence varie**. Chaque Unité spécifie son
+niveau dans `niveau:` et cite les sous-codes pertinents dans
+`bildungsplan:`.
+
+## Source
+
+Données brutes : [`_resources/bildungsplan_bw_franzoesisch.yml`](https://github.com/boulingua/fle/blob/main/_resources/bildungsplan_bw_franzoesisch.yml).
+Pages officielles vérifiées 2026-04-25.

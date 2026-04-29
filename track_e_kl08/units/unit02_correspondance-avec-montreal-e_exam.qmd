@@ -1,0 +1,57 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 2"
+subtitle: "Correspondance avec Montréal · Klasse 8 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le courriel d'Inès (Unité 2, texte C). Répondez :
+
+1. Quel est l'objet du courriel ?
+2. Quelle classe a Inès au Québec ?
+3. Que signifie *écœurant(e)* au Québec ?
+4. Que veut dire *plate* dans le texte ?
+5. Qui est Antoine ?
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Donnez l'équivalent français de France :
+
+- magasiner · chum · jaser · plate · écœurant · dépanneur ·
+  blonde · char.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez un **courriel-réponse** à Inès en **150 mots** :
+structure complète (objet, salutation, 3 nouvelles, 1 question,
+clôture, signature) + **2 québécismes** entre guillemets.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Nouvelles d'octobre. 2) Secondaire 2 (= 7e en
+France). 3) *Génial ! Super !* (positif au Québec). 4)
+*Ennuyeux*. 5) Le chum (copain) d'Inès.
+
+**Tâche 2.** faire les magasins · copain · parler/discuter ·
+ennuyeux · génial · épicerie de quartier · copine · voiture.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · structure
+complète · 2 québécismes · format courriel.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 2*

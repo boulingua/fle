@@ -1,0 +1,67 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 6"
+subtitle: "Médiation avancée DE↔FR · Klasse 10 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 10
+
+### Tâche 1 — Sprachmittlung DE → FR (15 P.)
+
+Lisez le mail médical (Unité 6, texte C). **Médiez** en
+**français** (~120 mots), pour un **destinataire familier**
+(la petite-fille de la patiente, par message). Précisez le
+**registre** (familier / tutoiement) et conservez **toutes les
+infos** essentielles : valeur, recommandations, délai, contact.
+
+### Tâche 2 — Sprachmittlung FR → DE (10 P.)
+
+Médiez en **allemand** (~50 mots) :
+
+> *« Salut maman ! L'école a appelé : Léa a oublié son sac de
+> sport. Elle veut savoir si tu peux l'apporter avant 14h. Si
+> tu ne peux pas, ce n'est pas grave, elle empruntera celui
+> de Théo. Bisous, Léa. »*
+
+### Tâche 3 — Reflexion (5 P.)
+
+Pour la Tâche 1, précisez les **4 paramètres** :
+
+1. Source : ___
+2. Cible : ___
+3. Destinataire : ___
+4. Genre : ___
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — DE → FR           | 15      |
+| Tâche 2 — FR → DE           | 10      |
+| Tâche 3 — Reflexion         | 5       |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** Modèle : *Salut Léa, voilà ce que dit le médecin
+pour ta grand-mère : son cholestérol est un peu haut
+(245 mg/dl). Il faut manger moins gras, marcher 30 min par
+jour, et refaire une analyse dans 3 mois. S'il y a des
+questions, appeler le 03 88 12 34 56. Bisous.* Critères :
+familier · 120 mots · 4 infos · pas de mot-à-mot.
+
+**Tâche 2.** Modèle : *Hallo Mama! Die Schule hat angerufen:
+Léa hat ihre Sporttasche vergessen. Kannst du sie bis 14 Uhr
+bringen? Sonst leiht sie sich Théos Tasche. Küsse, Léa.*
+Critères : 50 mots · familier · 3 infos · construction DE
+correcte.
+
+**Tâche 3.** 1) mail médical en allemand · 2) français,
+niveau B1 · 3) familier (petite-fille) · 4) message
+informel.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 6*

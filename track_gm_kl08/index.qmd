@@ -1,25 +1,135 @@
 ---
-title: "Klasse 8 — Niveau G+M"
+title: "Klasse 8 — Niveau G+M (cours prototype)"
 ---
 
 ::: {.hero-kicker}
-PARCOURS G+M · KLASSE 8
+PARCOURS G+M · KLASSE 8 · COURS PROTOTYPE
 :::
 
 # Klasse 8 — Niveau G+M
 
-::: {.callout-note}
-**Phase 2 (à venir).** Les 12 Unités de ce cours seront listées
-ici en cartes après l'établissement du plan thématique
-(`_resources/curriculum_outline.yml`).
-:::
+[M]{.cefr-badge .b1}
+
+Douze Unités sur le niveau **M** (mittel) en Klasse 8. Cours
+**prototype** de la site FLE BW — la voix, la structure et la
+didactique de toutes les 156 Unités s'y mesurent.
 
 ## Cap visé
 
-Récit, futur, opinions simples. Premiers contacts avec la francophonie.
+Récit, opinions, futur, ouverture sur la francophonie. Premier
+contact systématique avec :
+
+- la **médiation** linguistique DE↔FR (U5 + U10)
+- la **francophonie** non-hexagonale (Québec U1+U10, Maghreb U6,
+  Afrique U11)
+- l'**argumentation simple** et les **stéréotypes** (U9)
+- le **futur simple** (U4) et la combinaison de trois temps (U12)
+
+## Cast récurrent
+
+- **Léa**, 13 ans, élève à Karlsruhe — protagoniste fil rouge.
+- **Karim**, correspondant en visite depuis Lille.
+- **Madame Renault**, prof de français à la Gemeinschaftsschule.
+- **Inès Tremblay**, correspondante à Montréal (Québec).
+- **Mehdi**, correspondant tunisien (apparaît en Kl. 9 G+M).
+- **Sandrine**, grande sœur de Léa, étudiante.
+
+## Les douze Unités
+
+::: {.card-grid}
+
+::: {.card}
+### [Unité 1 — Correspondance avec Montréal](units/unit01_correspondance-avec-montreal.qmd)
+Modul : Lesen. Léa reçoit un courriel d'Inès ; FR-de-France vs.
+FR-du-Québec.
+:::
+
+::: {.card}
+### [Unité 2 — Mes médias préférés](units/unit02_mes-medias-preferes.qmd)
+Modul : Sprechen. Karim et Léa comparent leurs habitudes médiatiques.
+:::
+
+::: {.card}
+### [Unité 3 — Autour de la planète francophone](units/unit03_autour-de-la-planete-francophone.qmd)
+Modul : Lesen. 5 portraits courts (Sénégal, Suisse, Belgique,
+Maroc, Côte d'Ivoire).
+:::
+
+::: {.card}
+### [Unité 4 — Futurs projets](units/unit04_futurs-projets.qmd)
+Modul : Schreiben. Futur simple, irréguliers, projet personnel.
+:::
+
+::: {.card}
+### [Unité 5 — Sprachmittlung DE → FR](units/unit05_sprachmittlung-de-fr-resume.qmd)
+Modul : Schreiben. Médiation : résumé de 5 phrases.
+:::
+
+::: {.card}
+### [Unité 6 — Musiques du Maghreb](units/unit06_musiques-du-maghreb.qmd)
+Modul : Hören. Raï, chaâbi, rap maghrébin ; double identité.
+:::
+
+::: {.card}
+### [Unité 7 — Sport et esprit d'équipe](units/unit07_sport-et-equipe.qmd)
+Modul : Sprechen. Inscription au tournoi Strasbourg.
+:::
+
+::: {.card}
+### [Unité 8 — Un·e Allemand·e à Paris](units/unit08_un-allemand-a-paris.qmd)
+Modul : Lesen. Trois extraits du journal de Léa ; passé composé /
+imparfait.
+:::
+
+::: {.card}
+### [Unité 9 — Stéréotypes et préjugés](units/unit09_stereotypes-et-prejuges.qmd)
+Modul : Sprechen. Distinguer stéréotype, préjugé, discrimination.
+:::
+
+::: {.card}
+### [Unité 10 — Cinéma québécois](units/unit10_cinema-quebecois.qmd)
+Modul : Hören. Xavier Dolan, Denys Arcand ; québécismes.
+:::
+
+::: {.card}
+### [Unité 11 — Un projet solidaire](units/unit11_un-projet-solidaire.qmd)
+Modul : Schreiben. Projet en 4 étapes ; *parce que / pour /
+afin de*.
+:::
+
+::: {.card}
+### [Unité 12 — Bilan : portrait d'une rencontre](units/unit12_bilan-portrait-d-une-rencontre.qmd)
+Modul : Hören. Portrait avec 3 temps en équilibre ; bilan de
+l'année.
+:::
+
+:::
+
+## Cap d'épreuve
+
+Klassenarbeit BW au format M, ~30 points par épreuve, avec
+parfois un **mündlicher Anteil** (U2, U7, U9, U10). Notenschlüssel
+typique : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8*.
+
+## Couverture des compétences fonctionnelles (3.1.3.x)
+
+| Code        | Compétence                                  | Unités       |
+|-------------|---------------------------------------------|--------------|
+| 3.1.3.1     | Hör-/Hörsehverstehen                        | 6, 10, 12    |
+| 3.1.3.2     | Leseverstehen                               | 1, 3, 7, 8   |
+| 3.1.3.3     | Sprechen (Dialog)                           | 2, 7, 9      |
+| 3.1.3.4     | Sprechen (Monolog)                          | 3, 4, 11, 12 |
+| 3.1.3.5     | Schreiben                                   | 1, 4, 5, 8, 9, 11, 12 |
+| 3.1.3.6     | Sprachmittlung                              | 5, (10)      |
+| 3.1.4       | Text- und Medienkompetenz                   | 2, 6, 10     |
+| 3.1.2       | Interkulturelle kommunikative Kompetenz     | 8, 9, 12     |
+
+Toutes les sous-compétences 3.1.3.1–3.1.3.6 + 3.1.4 + 3.1.2 sont
+couvertes au moins **deux fois** sur l'année.
 
 ## Voir aussi
 
-- [Programme complet](../programme.qmd)
+- [Plan hebdomadaire](uebersicht.qmd)
+- [Programme complet (156 Unités)](../programme.qmd)
 - [Bildungsplan](../bildungsplan.qmd)
 - [Accueil](../index.qmd)

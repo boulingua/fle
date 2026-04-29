@@ -3,23 +3,116 @@ title: "Klasse 7 — Niveau E"
 ---
 
 ::: {.hero-kicker}
-PARCOURS E · KLASSE 7
+PARCOURS E (Gymnasium) · KLASSE 7
 :::
 
 # Klasse 7 — Niveau E
 
-::: {.callout-note}
-**Phase 2 (à venir).** Les 12 Unités de ce cours seront listées
-ici en cartes après l'établissement du plan thématique
-(`_resources/curriculum_outline.yml`).
-:::
+[E]{.cefr-badge .a2}
+
+Douze Unités au niveau **E** (Gymnasium) en Klasse 7. Récit,
+descriptions, premiers extraits littéraires, ouverture sur le
+**Québec** et la **Bretagne**.
 
 ## Cap visé
 
-Consolidation présent + passé composé, vie quotidienne, ami·e·s et famille.
+Passé composé + imparfait, premières médiations DE→FR,
+exposition à 5 artistes francophones (FR/BE/QC/MA/CI).
+
+## Cast récurrent
+
+- **Anouk Schmidt**, 12 ans, en 7e au Gymnasium de Karlsruhe.
+- **Inès Tremblay**, cousine québécoise (Montréal).
+- **Mme Devos**, prof de français.
+- **Camille**, libraire et amie de la famille.
+
+## Les douze Unités
+
+::: {.card-grid}
+
+::: {.card}
+### [Unité 1 — La rentrée](units/unit01_la-rentree-e.qmd)
+Modul : Sprechen. Anouk + Inès retrouvent la classe.
+:::
+
+::: {.card}
+### [Unité 2 — Raconter une anecdote](units/unit02_raconter-une-anecdote.qmd)
+Modul : Sprechen. PC + imparfait, marqueurs temporels.
+:::
+
+::: {.card}
+### [Unité 3 — Mon quartier](units/unit03_mon-quartier-e.qmd)
+Modul : Lesen. 10 lieux + prépositions de lieu.
+:::
+
+::: {.card}
+### [Unité 4 — Repas en famille](units/unit04_repas-en-famille-e.qmd)
+Modul : Hören. 15 aliments + partitifs.
+:::
+
+::: {.card}
+### [Unité 5 — Amis et conflits](units/unit05_amis-et-conflits-e.qmd)
+Modul : Sprechen. 8 sentiments + pronoms COD.
+:::
+
+::: {.card}
+### [Unité 6 — Transports et mobilité](units/unit06_transports-et-mobilite.qmd)
+Modul : Lesen. Annonces SNCF + *en/à*.
+:::
+
+::: {.card}
+### [Unité 7 — Vacances en Bretagne](units/unit07_vacances-en-bretagne.qmd)
+Modul : Hören. Saint-Malo, crêpes, Mont-Saint-Michel.
+:::
+
+::: {.card}
+### [Unité 8 — Le Québec](units/unit08_le-quebec-e.qmd)
+Modul : Lesen. Inès + 8 québécismes.
+:::
+
+::: {.card}
+### [Unité 9 — Fête et invitations](units/unit09_fete-et-invitations.qmd)
+Modul : Schreiben. Carton + futur proche.
+:::
+
+::: {.card}
+### [Unité 10 — Musique et chansons](units/unit10_musique-et-chanson-e.qmd)
+Modul : Hören. Stromae, Aya Nakamura, Céline Dion.
+:::
+
+::: {.card}
+### [Unité 11 — Première médiation](units/unit11_premiere-mediation.qmd)
+Modul : Sprachmittlung. ZKM Karlsruhe DE → FR.
+:::
+
+::: {.card}
+### [Unité 12 — Bilan : progrès en 7e](units/unit12_bilan-progres-7e-e.qmd)
+Modul : Schreiben. Bilan en 3 temps.
+:::
+
+:::
+
+## Cap d'épreuve
+
+Klassenarbeit BW au format E, ~30 points par épreuve.
+Notenschlüssel : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 ·
+6 < 8*.
+
+## Couverture des compétences fonctionnelles (3.1.3.x)
+
+| Code        | Compétence                                  | Unités       |
+|-------------|---------------------------------------------|--------------|
+| 3.1.3.1     | Hör-/Hörsehverstehen                        | 4, 7, 10     |
+| 3.1.3.2     | Leseverstehen                               | 3, 6, 8      |
+| 3.1.3.3     | Sprechen (Dialog)                           | 1, 4, 5, 9   |
+| 3.1.3.4     | Sprechen (Monolog)                          | 2, 6, 12     |
+| 3.1.3.5     | Schreiben                                   | 2, 3, 5, 9, 12 |
+| 3.1.3.6     | Sprachmittlung                              | 11           |
+| 3.1.4       | Text- und Medienkompetenz                   | 8, 10        |
+| 3.1.2       | Interkulturelle kommunikative Kompetenz     | 7, 8         |
 
 ## Voir aussi
 
-- [Programme complet](../programme.qmd)
+- [Programme complet (156 Unités)](../programme.qmd)
 - [Bildungsplan](../bildungsplan.qmd)
 - [Accueil](../index.qmd)

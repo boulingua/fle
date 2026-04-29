@@ -1,0 +1,62 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 4"
+subtitle: "Ma journée · Klasse 6 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+
+### Tâche 1 — Conjugaison (10 P.)
+
+Conjuguez au présent.
+
+1. Je *(se lever)* à 7h.
+2. Tu *(s'habiller)* vite.
+3. Il *(se laver)* les mains.
+4. Nous *(se brosser)* les dents.
+5. Vous *(se coucher)* tard ?
+6. Elles *(se réveiller)* à 6h.
+7. On *(se promener)* au parc.
+8. Mes amis *(se voir)* le samedi.
+
+### Tâche 2 — L'heure (8 P.)
+
+Écrivez l'heure en lettres.
+
+1. 8h00 · 2. 9h30 · 3. 10h15 · 4. 12h00 · 5. 14h45 · 6. 16h00
+· 7. 19h30 · 8. 0h00.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Décrivez **votre journée** en **80 mots** : **5 verbes
+pronominaux** + **5 heures**. Plan : matin – midi – après-midi
+– soir.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Conjugaison       | 10      |
+| Tâche 2 — L'heure           | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) me lève · 2) t'habilles · 3) se lave · 4) nous
+brossons · 5) vous couchez · 6) se réveillent · 7) se promène
+· 8) se voient.
+
+**Tâche 2.** 1) huit heures · 2) neuf heures et demie ·
+3) dix heures et quart · 4) midi · 5) trois heures moins le
+quart (de l'après-midi) · 6) quatre heures · 7) sept heures et
+demie (du soir) · 8) minuit.
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · 5 verbes
+pronominaux · 5 heures.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 4*

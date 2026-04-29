@@ -1,0 +1,63 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 1"
+subtitle: "La rentrée en 8e · Klasse 8 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+
+### Tâche 1 — Leseverstehen (8 P.)
+
+Lisez la présentation d'Anouk (Unité 1, texte C). Répondez :
+
+1. Où est partie Anouk cet été ?
+2. Cite ses 3 projets de 8e.
+3. Qui est Tante Soraya ? Profession et lieu ?
+4. Quel livre va-t-elle lire ?
+
+### Tâche 2 — Conjugaison 3 temps (10 P.)
+
+Conjuguez avec le bon temps.
+
+1. *Je (passer, PC) ___ l'été en Bretagne.*
+2. *Maintenant, je (être, présent) ___ en 8e.*
+3. *Je (correspondre, futur proche) ___ avec Karim.*
+4. *Je (visiter, futur proche) ___ Tunis l'été prochain.*
+5. *Tu (lire, futur proche) ___ *Le Petit Prince* ?*
+6. *Anouk (rentrer, PC) ___ tard hier.*
+7. *Nous (écrire, présent) ___ tous les mois.*
+8. *Vous (aller voir, futur proche) ___ Soraya ?*
+
+### Tâche 3 — Schreiben (12 P.)
+
+Présentez **votre rentrée en 8e** en **100 mots** :
+1 souvenir d'été (PC) + 2 projets de l'année (futur proche) +
+1 question à un(e) correspondant(e).
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 8       |
+| Tâche 2 — Conjugaison       | 10      |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Saint-Malo. 2) Correspondre avec Karim, visiter
+Soraya à Tunis, lire *Le Petit Prince*. 3) Sa tante, architecte
+à Tunis. 4) *Le Petit Prince*.
+
+**Tâche 2.** 1) ai passé · 2) suis · 3) vais correspondre ·
+4) vais visiter · 5) vas lire · 6) est rentrée · 7) écrivons ·
+8) allez voir.
+
+**Tâche 3.** Réponses libres. Critères : 100 mots · 3 éléments
+demandés · 1 PC + 2 futurs proches.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 1*

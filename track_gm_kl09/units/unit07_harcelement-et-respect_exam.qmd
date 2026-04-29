@@ -1,0 +1,59 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 7"
+subtitle: "Harcèlement et respect · Klasse 9 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la lettre de Léa à Sara (Unité 7, texte D). Répondez :
+
+1. Pourquoi Léa écrit-elle à Sara ?
+2. Qu'a-t-elle déjà fait pour aider ?
+3. Quelles qualités cite-t-elle de Sara ?
+4. Quel est le programme de demain ?
+5. Comment Léa termine-t-elle sa lettre ?
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Traduisez :
+
+- mobben · beleidigen · sich lustig machen · isolieren ·
+  Zeugin · melden · das Vertrauen · die Hilfe.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez une **lettre de soutien** (~120 mots) à un(e) ami(e)
+victime de harcèlement : reconnaître la situation, proposer
+**3 solutions** concrètes, exprimer le soutien. Citez **2 mots**
+de la liste B + le numéro **3018**.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Pour la soutenir face au harcèlement à la
+cantine. 2) Parlé à Mme Renault. 3) Magnifiques cheveux, drôle,
+intelligente, importante. 4) Voir le CPE tous les trois.
+5) « À demain. Bisous fort, Léa. »
+
+**Tâche 2.** harceler · insulter · se moquer · isoler · témoin
+· signaler · la confiance · l'aide.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 3 solutions
+concrètes · 2 mots du lexique · 3018 cité · ton bienveillant.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 7*

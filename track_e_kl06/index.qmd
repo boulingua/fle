@@ -3,23 +3,118 @@ title: "Klasse 6 — Niveau E"
 ---
 
 ::: {.hero-kicker}
-PARCOURS E · KLASSE 6
+PARCOURS E (Gymnasium) · KLASSE 6
 :::
 
 # Klasse 6 — Niveau E
 
-::: {.callout-note}
-**Phase 2 (à venir).** Les 12 Unités de ce cours seront listées
-ici en cartes après l'établissement du plan thématique
-(`_resources/curriculum_outline.yml`).
-:::
+[E]{.cefr-badge .a1}
+
+Douze Unités sur le **niveau E** (gymnasium). Première année de
+FLE comme 2ᵉ langue vivante au Gymnasium. Sons, salutations,
+premières interactions, première rencontre avec **Prévert**.
 
 ## Cap visé
 
-Première année de FLE comme 2e langue vivante. Sons, salutations, premiers échanges.
+Présent dominant, présent des verbes pronominaux, partitifs au
+marché, accords adjectifs simples, première poésie. Ouverture
+sur **Strasbourg** (U11) — ville-pont franco-allemande.
+
+## Cast récurrent
+
+- **Anouk Schmidt**, 11 ans, élève de 6ᵉ B au Gymnasium de
+  Karlsruhe. Protagoniste fil rouge.
+- **Tristan Devos**, 11 ans, Belge installé à Strasbourg —
+  copain de classe.
+- **Mme Devos**, prof de français.
+- **M. Boulanger**, commerçant au marché de Karlsruhe.
+
+## Les douze Unités
+
+::: {.card-grid}
+
+::: {.card}
+### [Unité 1 — Salutations et prénoms](units/unit01_salutations-et-prenoms-e.qmd)
+Modul : Sprechen. 6 salutations + alphabet.
+:::
+
+::: {.card}
+### [Unité 2 — Ma famille](units/unit02_ma-famille-e.qmd)
+Modul : Sprechen. 10 membres + possessifs.
+:::
+
+::: {.card}
+### [Unité 3 — Mon collège](units/unit03_mon-college-e.qmd)
+Modul : Lesen. 8 lieux + 8 matières.
+:::
+
+::: {.card}
+### [Unité 4 — Ma journée](units/unit04_ma-journee-e.qmd)
+Modul : Sprechen. Verbes pronominaux + l'heure.
+:::
+
+::: {.card}
+### [Unité 5 — Goûts et couleurs](units/unit05_gouts-et-couleurs.qmd)
+Modul : Sprechen. 10 couleurs + accord adjectifs.
+:::
+
+::: {.card}
+### [Unité 6 — Au marché](units/unit06_au-marche-e.qmd)
+Modul : Hören. M. Boulanger · 10 fruits/légumes.
+:::
+
+::: {.card}
+### [Unité 7 — Le temps et l'heure](units/unit07_le-temps-et-l-heure-e.qmd)
+Modul : Lesen. 7 jours + 12 mois + météo.
+:::
+
+::: {.card}
+### [Unité 8 — Première poésie : Prévert](units/unit08_premiere-poesie.qmd)
+Modul : Lesen. *Le Cancre* + atelier d'écriture.
+:::
+
+::: {.card}
+### [Unité 9 — Ma chambre, ma maison](units/unit09_ma-chambre-e.qmd)
+Modul : Sprechen. 8 pièces + 8 meubles + prépositions.
+:::
+
+::: {.card}
+### [Unité 10 — Mes loisirs](units/unit10_mes-loisirs-e.qmd)
+Modul : Sprechen. *Faire de / jouer à / jouer de* + fréquence.
+:::
+
+::: {.card}
+### [Unité 11 — Voyage à Strasbourg](units/unit11_voyage-decouverte.qmd)
+Modul : Hören. Cathédrale, Petite France, Parlement européen.
+:::
+
+::: {.card}
+### [Unité 12 — Bilan : mon portrait](units/unit12_bilan-portrait-e.qmd)
+Modul : Sprechen. Portrait personnel intégrant les 11 Unités.
+:::
+
+:::
+
+## Cap d'épreuve
+
+Klassenarbeit BW au format E (Gymnasium), ~30 points par
+épreuve. Notenschlüssel : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 ·
+5 ≥ 8 · 6 < 8*.
+
+## Couverture des compétences fonctionnelles (3.1.3.x)
+
+| Code        | Compétence                                  | Unités       |
+|-------------|---------------------------------------------|--------------|
+| 3.1.3.1     | Hör-/Hörsehverstehen                        | 6, 11        |
+| 3.1.3.2     | Leseverstehen                               | 2, 3, 7, 8, 10 |
+| 3.1.3.3     | Sprechen (Dialog)                           | 1, 5, 6, 10  |
+| 3.1.3.4     | Sprechen (Monolog)                          | 2, 4, 9, 11, 12 |
+| 3.1.3.5     | Schreiben                                   | 3, 4, 5, 7, 9, 12 |
+| 3.1.4       | Text- und Medienkompetenz                   | 8            |
+| 3.1.2       | Interkulturelle kommunikative Kompetenz     | 11, 12       |
 
 ## Voir aussi
 
-- [Programme complet](../programme.qmd)
+- [Programme complet (156 Unités)](../programme.qmd)
 - [Bildungsplan](../bildungsplan.qmd)
 - [Accueil](../index.qmd)

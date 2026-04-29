@@ -1,0 +1,69 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 3"
+subtitle: "Écologie au quotidien · Klasse 9 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'article (Unité 3, texte C). Répondez :
+
+1. Combien de CO₂ un Français produit-il par an ?
+2. Quel est l'objectif de l'Accord de Paris cité ?
+3. Citez les **3 leviers** proposés.
+4. Combien représente la viande rouge dans l'empreinte
+   alimentaire ?
+5. Selon le sondage 2024, combien de jeunes considèrent
+   l'écologie comme prioritaire ?
+
+### Tâche 2 — Grammatik : *il faut / on devrait* (8 P.)
+
+Reformulez avec la formule indiquée.
+
+1. Triez les déchets ! → *(il faut)*
+2. Prends ton vélo ! → *(on devrait)*
+3. N'achetez pas de neuf ! → *(il faudrait)*
+4. Mange moins de viande ! → *(il est important de)*
+5. Réparons nos vêtements ! → *(on devrait)*
+6. Éteins la lumière ! → *(il faut)*
+
+### Tâche 3 — Schreiben (12 P.)
+
+Prise de position sur un **dilemme écologique** au choix
+(~**120 mots**) :
+
+a) « Faut-il interdire l'avion court-courrier ? »
+b) « Faut-il devenir végétarien ? »
+c) « Faut-il acheter d'occasion ? »
+
+Donnez **2 arguments pour** + **1 contre** + votre conclusion.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Grammatik         | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 9 tonnes. 2) 2 tonnes. 3) Moins de viande, moins
+d'avion, isoler le logement. 4) 25 %. 5) 78 %.
+
+**Tâche 2.** 1) Il faut trier les déchets. 2) On devrait prendre
+le vélo. 3) Il faudrait acheter d'occasion. 4) Il est important
+de manger moins de viande. 5) On devrait réparer nos vêtements.
+6) Il faut éteindre la lumière.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 2 arguments
+pour · 1 contre · conclusion · *il faut / on devrait* utilisé.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 3*

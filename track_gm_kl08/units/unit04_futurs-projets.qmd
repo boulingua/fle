@@ -1,0 +1,232 @@
+---
+title: "Unité 4 — Futurs projets (futur simple)"
+subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 4
+slug: "futurs-projets"
+bildungsplan:
+  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
+  - "3.1.3.5 Schreiben"
+  - "3.1.3.8 Verfügen über sprachliche Mittel — Grammatik"
+skills_focus:
+  - sprechen_monolog
+  - schreiben
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit04_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je conjugue le **futur simple** des verbes les plus courants.
+- Je distingue *futur proche* et *futur simple*.
+- Je présente trois projets futurs en monologue ou par écrit.
+
+## Alignement Bildungsplan
+
+- **3.1.3.4** Sprechen — monologisches Sprechen (futur simple).
+- **3.1.3.5** Schreiben (texte projet).
+- **3.1.3.8** Grammatik (futur simple).
+
+## Histoire d'introduction
+
+Vendredi après-midi. Madame Renault demande : *« Léa, qu'est-ce
+que tu feras dans dix ans ? »* Léa réfléchit deux secondes :
+*« Je serai vétérinaire. »* — *« Bien. Et toi, Karim ? »* — *« Je
+ne sais pas. Je voyagerai. »* La classe rit. Madame Renault
+sourit : *« Très bien. Aujourd'hui, on fixe le futur simple. »*
+
+## 1. Activer
+
+- Que ferez-vous **demain** ? Et **dans dix ans** ?
+- Connaissez-vous le futur simple ?
+- Différence entre *je vais aller* et *j'irai* ?
+
+## 2. Apporter
+
+### A. Conjugaison futur simple
+
+Formation : **infinitif + terminaisons** *-ai · -as · -a · -ons
+· -ez · -ont*.
+
+| Personne     | parler        | finir         | prendre        |
+|--------------|---------------|---------------|----------------|
+| je           | parlerai      | finirai       | prendrai       |
+| tu           | parleras      | finiras       | prendras       |
+| il/elle/on   | parlera       | finira        | prendra        |
+| nous         | parlerons     | finirons      | prendrons      |
+| vous         | parlerez      | finirez       | prendrez       |
+| ils/elles    | parleront     | finiront      | prendront      |
+
+**Verbes irréguliers fréquents :**
+
+| Infinitif | Radical futur | Exemple              |
+|-----------|---------------|----------------------|
+| être      | ser-          | je serai             |
+| avoir     | aur-          | tu auras             |
+| aller     | ir-           | il ira               |
+| faire     | fer-          | nous ferons          |
+| voir      | verr-         | vous verrez          |
+| pouvoir   | pourr-        | ils pourront         |
+| vouloir   | voudr-        | je voudrai           |
+| venir     | viendr-       | elle viendra         |
+| savoir    | saur-         | tu sauras            |
+
+### B. Futur proche vs. futur simple
+
+| Futur proche                  | Futur simple                  |
+|-------------------------------|-------------------------------|
+| *aller* + infinitif           | infinitif + terminaisons      |
+| futur immédiat / certain      | futur plus lointain / projet  |
+| *Je vais manger.* (dans 5 min)| *Je mangerai.* (à 19h, demain)|
+| *Tu vas tomber !* (alarme)    | *Tu tomberas un jour.* (vie)  |
+
+### C. Texte modèle
+
+> Dans dix ans, je serai à l'université. J'étudierai la
+> biologie. Je voyagerai au Sénégal pour faire un stage. Je
+> rencontrerai des chercheur·euse·s qui parlent français. Je
+> publierai mon premier article scientifique. Et le soir, je
+> téléphonerai à Inès, qui sera devenue prof à Montréal.
+
+## 3. S'entraîner
+
+**Ex. 1 — Conjugaison.** Mettez au futur simple :
+
+1. (être) Tu *…* en classe demain.
+2. (faire) Nous *…* nos devoirs.
+3. (aller) Elles *…* à Paris.
+4. (avoir) Vous *…* trois cours mardi.
+5. (savoir) Je *…* la réponse.
+
+**Ex. 2 — Proche ou simple ?** Choisissez :
+
+1. *Je …* (vais partir / partirai) maintenant !
+2. Quand j'aurai 30 ans, *je …* (vais habiter / habiterai) à
+   Lyon.
+3. Attention, *tu …* (vas tomber / tomberas) !
+4. Plus tard, *nous …* (allons sauver / sauverons) la planète,
+   peut-être.
+
+**Ex. 3 — Réécrire.** Mettez le texte modèle (B) à la **3e
+personne** *(« Léa »)* — pas *« je »*.
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) seras · 2) ferons · 3) iront · 4) aurez · 5)
+saurai.
+
+**Ex. 2.** 1) vais partir · 2) habiterai · 3) vas tomber · 4)
+sauverons.
+
+**Ex. 3.** *Dans dix ans, Léa sera à l'université. Elle
+étudiera la biologie. Elle voyagera au Sénégal …* (etc.)
+
+:::
+
+## 4. Produire
+
+**Tâche d'écriture (M, ~80 mots) :**
+
+Écrivez **vos propres futurs projets** en utilisant le futur
+simple. Mentionnez :
+
+- **où** vous serez (lieu),
+- **ce que** vous étudierez ou ferez professionnellement,
+- **un projet personnel** (voyage, famille, animal, hobby).
+
+Au moins **6 verbes** au futur simple, dont **deux irréguliers**.
+
+**Modèle (M, ~85 mots) :**
+
+> Dans cinq ans, je serai à Strasbourg. J'étudierai
+> l'architecture à l'université. Je vivrai dans une petite
+> chambre près de la cathédrale. Le week-end, je prendrai le
+> train pour Karlsruhe pour voir ma famille. Je voyagerai
+> aussi au Maroc, parce que mon père y est né. Plus tard,
+> j'aurai un bureau d'architecture spécialisé dans les
+> bâtiments écologiques. Et je n'oublierai pas le français —
+> je l'utiliserai tous les jours.
+
+## 5. Réfléchir
+
+- [ ] Je conjugue 9 verbes irréguliers au futur simple.
+- [ ] Je choisis entre futur proche et futur simple.
+- [ ] Je peux écrire un texte de ~80 mots avec 6 verbes au futur
+      simple.
+
+## Exemple d'épreuve — Klassenarbeit BW (M)
+
+**Tâche 1 — Grammatik (10 P.)**
+
+Mettez ces phrases au futur simple :
+
+1. Karim *(prendre)* le train demain matin.
+2. Nous *(aller)* à Lille pour les vacances.
+3. Tu *(faire)* tes devoirs ce soir ?
+4. Léa *(être)* à Strasbourg dans cinq ans.
+5. Vous *(savoir)* la réponse après le cours.
+
+**Tâche 2 — Distinguer (5 P.)**
+
+Pour chacune, choisissez futur proche ou futur simple, puis
+**justifiez** en 4–5 mots.
+
+1. *Je vais manger / mangerai* dans cinq minutes.
+2. *Je vais habiter / habiterai* à Paris quand j'aurai 25 ans.
+3. *Attention, tu vas tomber / tu tomberas* — la marche est
+   cassée.
+
+**Tâche 3 — Schreiben (15 P.)**
+
+Écrivez ~80 mots sur **vos futurs projets**. Au moins 6 verbes
+au futur simple, dont 2 irréguliers.
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+
+**Plan (90 min) :** Activer 5' · Apporter (conjugaisons + futur
+proche / simple + modèle) 22' · S'entraîner 18' · Produire 25' ·
+Réfléchir 5' · Aperçu 15'.
+
+**Différenciation :** plus rapides : ajouter un projet en
+conditionnel (*j'aimerais …*). Moins rapides : grille de
+conjugaison en blanc à compléter.
+
+:::
+
+## Pièges fréquents
+
+- **« je serai »** ≠ **« je saurai »**. *Être* → *je serai*.
+  *Savoir* → *je saurai*.
+- **Futur proche** : aller au présent, pas à l'imparfait.
+  *J'allais aller* = imparfait, pas futur proche.
+- **Doubler le -r dans certains verbes** : *je verrai, tu
+  pourras, nous voudrons, ils mourront.*
+
+## Pour aller plus loin
+
+- **Grammaire-FLE — Le Point du FLE** :
+  <https://www.lepointdufle.net/>
+- **Bonjour de France — futur simple** :
+  <https://www.bonjourdefrance.com/>

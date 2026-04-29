@@ -1,0 +1,63 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau M) — Unité 9"
+subtitle: "Fête d'anniversaire · Klasse 7 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 7
+
+### Tâche 1 — Grammatik : futur proche (10 P.)
+
+Conjuguez au futur proche.
+
+1. Je *(faire)* un gâteau.
+2. Tu *(venir)* à la fête ?
+3. Nous *(danser)* toute la nuit.
+4. Ils *(apporter)* des cadeaux.
+5. On *(jouer)* au karaoké.
+6. Vous *(arriver)* à quelle heure ?
+7. Léa *(souffler)* ses bougies.
+8. Mes parents *(préparer)* les pizzas.
+
+### Tâche 2 — Leseverstehen (8 P.)
+
+Lisez le carton d'invitation et le dialogue (Unité 9). Vrai/faux :
+
+|   | Affirmation                                             | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Léa a 12 ans.                                           | ☐ | ☐ |
+| 2 | La fête a lieu samedi 15 mars.                          | ☐ | ☐ |
+| 3 | Il faut apporter un cadeau.                             | ☐ | ☐ |
+| 4 | Inès va dormir chez tante Marie.                        | ☐ | ☐ |
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre invitation d'anniversaire** en **80 mots** :
+date, lieu, programme, RSVP. Utilisez **3 verbes au futur
+proche**.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Grammatik         | 10      |
+| Tâche 2 — Leseverstehen     | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) vais faire · 2) vas venir · 3) allons danser ·
+4) vont apporter · 5) va jouer · 6) allez arriver · 7) va
+souffler · 8) vont préparer.
+
+**Tâche 2.** 1) F (13). 2) V. 3) F (« Pas de cadeau »). 4) V.
+
+**Tâche 3.** Réponses libres. Critères : format invitation ·
+80 mots · 3 futurs proches · date/lieu/RSVP.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 9*

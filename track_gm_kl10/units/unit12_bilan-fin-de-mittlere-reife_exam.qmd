@@ -1,0 +1,64 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 12"
+subtitle: "Bilan : fin de la Mittlere Reife · Klasse 10 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la lettre d'adieu de Léa (Unité 12, texte C). Répondez :
+
+1. Combien d'années Léa a-t-elle fait de français ?
+2. Quels **3 correspondants** cite-t-elle ?
+3. Quels **3 auteurs** cite-t-elle, et leur leçon ?
+4. Quels **2 projets** pour la 11ᵉ ?
+5. Quelle est la phrase-clé qui résume sa transformation ?
+
+### Tâche 2 — Auto-évaluation CECRL (5 P.)
+
+Notez-vous (A2, B1, B2) sur les 5 compétences. **Justifiez** en
+1 phrase pour deux d'entre elles.
+
+| Compétence              | Niveau | Justification |
+|-------------------------|--------|---------------|
+| Compréhension écrite    |        |               |
+| Expression écrite       |        |               |
+| Compréhension orale     |        |               |
+| Expression orale        |        |               |
+| Médiation               |        |               |
+
+### Tâche 3 — Schreiben (15 P.)
+
+Rédigez **votre lettre d'adieu** (~250 mots) à votre classe /
+prof(esseur) de français. Plan : intro + bilan (3 souvenirs) +
+remerciements (2-3) + projets 11ᵉ + formule finale. **2 figures
+de style** + **5 connecteurs**.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Auto-évaluation   | 5       |
+| Tâche 3 — Schreiben         | 15      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 5 ans. 2) Karim (Lille), Inès (Montréal), Mehdi
+(Sfax). 3) Bondoux (mémoire), Camus (absurde), Murail
+(tendresse). 4) DELF B1 + Erasmus Montréal. 5) « Le français
+n'est plus une matière. C'est devenu une partie de moi. »
+
+**Tâche 2.** Réponses libres mais justifiées.
+
+**Tâche 3.** Réponses libres. Critères : 250 mots · plan
+complet · 2 figures · 5 connecteurs · sincérité.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 12*

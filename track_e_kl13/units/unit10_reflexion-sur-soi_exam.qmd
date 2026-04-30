@@ -1,0 +1,62 @@
+---
+title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 10"
+subtitle: "Réflexion sur son propre parcours FLE · Klasse 13 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le récit de parcours d'Anouk (Unité 10, texte C).
+Répondez :
+
+1. Quel est le premier mot écrit en français ?
+2. Qui est Inès ?
+3. Qui est Karim et quand est-il arrivé ?
+4. Quelle citation d'Ernaux est mentionnée ?
+5. Que fera Anouk en septembre 2030 ?
+
+### Tâche 2 — 6 axes de réflexion (8 P.)
+
+Reliez chaque axe à sa question :
+
+- origine · transformations · voix marquantes · difficultés
+  · réussites · avenir
+
+(Questions : Comment ai-je rencontré ? · Qu'a changé en
+moi ? · Quel·le·s auteur·e·s ? · Qu'ai-je trouvé difficile ?
+· De quoi suis-je fier·ère ? · Qu'en ferai-je ?)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre récit de parcours FLE** (~500 mots) :
+6 axes + 5 moments-clés + 4 citations littéraires + 1
+projet d'avenir + 1 chute mémorable.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — 6 axes            | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) *Anouk*. 2) Cousine québécoise, premier
+contact francophonie autre. 3) Correspondant lillois, en
+8e. 4) *« Toutes les images disparaîtront. »* 5) Stage à
+Bordeaux, chez Mollat.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 500 mots · 6 axes
+· 5 moments · 4 citations · 1 projet · 1 chute.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 10*

@@ -1,0 +1,64 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 10"
+subtitle: "Cinéma québécois · Klasse 8 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+
+### Tâche 1 — Hörverstehen (10 P.)
+
+Écoutez la présentation orale de *Monsieur Lazhar* (Unité 10,
+texte C). Répondez :
+
+1. Qui est le réalisateur du film ?
+2. En quelle année est-il sorti ?
+3. Qui est l'acteur principal ?
+4. Quel est le métier de Bachir ?
+5. Quel est le thème du film ?
+
+### Tâche 2 — Vocabulaire cinéma (8 P.)
+
+Reliez chaque mot à sa définition :
+
+- bande-annonce · intrigue · réalisateur · personnage ·
+  scène · générique · acteur · genre
+
+(Définitions : pub courte · trame · metteur en scène · figure
+fictive · moment du film · liste des participants · interprète
+· catégorie.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Présentez par écrit un **film francophone** de votre choix
+(~120 mots) : titre + année + réalisateur·rice + acteur
+principal + intrigue (3 phrases) + 1 scène marquante +
+verdict.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen      | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Philippe Falardeau. 2) 2011. 3) Mohamed
+Fellag. 4) Instituteur. 5) Le deuil et l'immigration.
+
+**Tâche 2.** bande-annonce = pub courte · intrigue = trame ·
+réalisateur = metteur en scène · personnage = figure fictive
+· scène = moment · générique = liste · acteur = interprète ·
+genre = catégorie.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 6
+éléments demandés · vocabulaire de cinéma.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 10*

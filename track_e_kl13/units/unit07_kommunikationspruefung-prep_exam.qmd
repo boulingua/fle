@@ -1,0 +1,63 @@
+---
+title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 7"
+subtitle: "Kommunikationsprüfung : préparation · Klasse 13 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le plan-modèle Camus (Unité 7, texte C). Répondez :
+
+1. Quels 2 livres de 1942 sont cités ?
+2. Quelle est la conclusion sur Sisyphe ?
+3. Pourquoi Meursault est-il condamné selon Anouk ?
+4. Quelle citation de *L'Homme révolté* ?
+5. Quelle est la chute du monologue ?
+
+### Tâche 2 — Stratégies anti-stress (8 P.)
+
+Reliez chaque stratégie à son effet :
+
+- respiration 4-7-8 · cartes A6 · pause naturelle · ancrage
+  corporel · reformulation · sourire
+
+(Effets : calme physiologique · support visuel · combat la
+panique · projette voix · vérifie compréhension · détend
+visage.)
+
+### Tâche 3 — Plan de monologue (12 P.)
+
+Préparez **votre plan de monologue 5 min** sur un sujet
+au choix (Camus / Senghor / Slimani / Despentes /
+francophonie). Structure I-II-III + 4 citations + 1 chute
++ 5 cartes mémoire.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Stratégies        | 8       |
+| Tâche 3 — Plan de monologue | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) *L'Étranger* + *Le Mythe de Sisyphe*. 2)
+*« Il faut imaginer Sisyphe heureux. »* 3) Pour n'avoir
+pas pleuré à l'enterrement (en plus du meurtre). 4) *« Je
+me révolte, donc nous sommes. »* 5) *« Je laisse Sisyphe au
+bas de la montagne. On retrouve toujours son fardeau. »*
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : plan I-II-III · 4
+citations · 1 chute · 5 cartes mémoire.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 7*

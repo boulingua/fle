@@ -1,0 +1,175 @@
+---
+title: "Unité 11 — Discours politique : analyser"
+subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 11
+slug: "discours-politique"
+bildungsplan:
+  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.4 Sprechen — monologisches Sprechen"
+skills_focus:
+  - leseverstehen
+  - sprechen_monolog
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit11_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- J'analyse un **discours politique** (Mitterrand, de Gaulle,
+  Macron).
+- Je connais **6 procédés rhétoriques** politiques.
+- Je présente **oralement** une analyse en 5 minutes.
+
+## Histoire d'introduction
+
+Théodore distribue le **discours du Bundestag** de **François
+Mitterrand** (20 janvier 1983, en allemand !) et l'**appel
+du 18 juin 1940** de **De Gaulle**. *« Deux moments
+fondateurs des relations FR/DE. »*
+
+## 1. Activer
+
+- Quel grand discours connaissez-vous ?
+- *« I have a dream »* — qui ? quand ?
+- Ton plutôt accusateur ou rassembleur ?
+
+## 2. Apporter
+
+### A. 6 procédés rhétoriques politiques
+
+| Procédé           | Effet                                |
+|-------------------|---------------------------------------|
+| anaphore          | renforcement                          |
+| triade            | rythme ternaire                       |
+| nous inclusif     | rassemblement                         |
+| antithèse         | contraste fort                         |
+| question rhét.    | implication de l'auditoire           |
+| chute mémorable   | effet final                           |
+
+### B. 3 contextes — 3 discours
+
+| Discours              | Date         | Lieu         |
+|-----------------------|--------------|---------------|
+| Appel de De Gaulle    | 18 juin 1940 | Londres (BBC) |
+| Mitterrand au Bundestag | 20 janv. 1983 | Bonn       |
+| Macron Sorbonne       | 26 sept. 2017| Paris         |
+
+### C. Extrait *Appel du 18 juin 1940* (texte original)
+
+> **Appel du 18 juin 1940 — Charles de Gaulle (BBC, Londres)**
+>
+> *Mais le dernier mot est-il dit ? L'espérance doit-elle
+> disparaître ? La défaite est-elle définitive ? Non !*
+>
+> Croyez-moi, moi qui vous parle en connaissance de cause
+> et qui vous dis que rien n'est perdu pour la France.
+>
+> Cette guerre n'est pas limitée au territoire malheureux de
+> notre pays. Cette guerre **n'est pas tranchée par la
+> bataille de France**. Cette guerre est une guerre
+> mondiale.
+>
+> *Quoi qu'il arrive, la flamme de la résistance française
+> ne doit pas s'éteindre et ne s'éteindra pas.*
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quelle est la 1ʳᵉ phrase et combien de questions
+   rhétoriques ?
+2. Pourquoi la guerre **n'est pas finie**, selon de Gaulle ?
+3. Quelle est la chute du discours ?
+4. Quel mot revient comme métaphore ?
+
+**Ex. 2 — Procédés.** Identifiez :
+
+a) **3 questions rhétoriques** consécutives → ___
+b) **Anaphore** : *Cette guerre … Cette guerre … Cette
+   guerre …* → ___
+c) **Métaphore** : *flamme de la résistance* → ___
+
+**Ex. 3 — Effet.** En 2 phrases, expliquez l'effet du « Non !»
+isolé.
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) *Mais le dernier mot est-il dit ?* + 2 autres
+(L'espérance ? La défaite ?). 2) Parce qu'elle est mondiale,
+pas seulement française. 3) *La flamme de la résistance ne
+doit pas s'éteindre et ne s'éteindra pas.* 4) *La flamme*
+(résistance).
+
+**Ex. 2.** a) anaphore interrogative · b) anaphore
+nominale · c) métaphore.
+
+**Ex. 3.** Modèle : *Le « Non ! » crée une rupture brutale
+qui galvanise. C'est le refus catégorique de la défaite,
+porté par une seule syllabe.*
+
+:::
+
+## 4. Produire
+
+**Tâche orale (E, ~5 min) :**
+
+Analysez **un discours politique francophone** (de Gaulle,
+Mitterrand, Macron, Trudeau) : contexte + 4 procédés
+rhétoriques + 1 chute marquante + lien à votre époque.
+
+## 5. Réfléchir
+
+- [ ] Je connais 6 procédés rhétoriques.
+- [ ] J'analyse un discours en 4 étapes.
+- [ ] Je présente 5 min en public.
+
+## Exemple d'épreuve — Abitur Bf (E)
+
+**Tâche 1 — Leseverstehen (10 P.)** : appel du 18 juin,
+5 questions.
+**Tâche 2 — Procédés (8 P.)** : 4 identifications.
+**Tâche 3 — Schreiben (12 P.)** : analyse d'un discours
+(~280 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+:::
+
+## Pièges fréquents
+
+- **« Anaphore interrogative »** = série de questions
+  rhétoriques consécutives.
+- **« Quoi qu'il arrive »** : subjonctif (et non *quoiqu'il*).
+- **« Ne … pas tranchée »** = anaphorique négatif (3 fois
+  en 3 phrases).
+
+## Pour aller plus loin
+
+- **INA — discours célèbres** :
+  <https://www.ina.fr/>
+- **Charles de Gaulle — site officiel** :
+  <https://www.charles-de-gaulle.org/>

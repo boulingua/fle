@@ -3,23 +3,122 @@ title: "Klasse 13 — Niveau E"
 ---
 
 ::: {.hero-kicker}
-PARCOURS E · KLASSE 13
+PARCOURS E (Gymnasium) · KLASSE 13 · ABITUR
 :::
 
 # Klasse 13 — Niveau E
 
-::: {.callout-note}
-**Phase 2 (à venir).** Les 12 Unités de ce cours seront listées
-ici en cartes après l'établissement du plan thématique
-(`_resources/curriculum_outline.yml`).
-:::
+[E]{.cefr-badge .c1}
+
+Douze Unités au niveau **E** (Gymnasium) en Klasse 13.
+**Préparation finale Abitur** (écrit + Kommunikations-
+prüfung). Synthèse et clôture du parcours E.
 
 ## Cap visé
 
-(E) Préparation à l'Abitur (écrit + Kommunikationsprüfung).
+Synthèse 4 ans d'Oberstufe, 3 mocks Abitur, préparation orale
+intensive, parcours réflexif, lettre d'au revoir.
+
+## Cast récurrent
+
+- **Anouk** en 13e Lf (juste avant Abitur).
+- **Théodore**, prof de littérature comparée.
+- **Voix** : tous les auteur·e·s rencontré·e·s en 11e + 12e
+  (Camus, Senghor, Ernaux, Modiano, Slimani, Condé,
+  Despentes, Ben Jelloun).
+
+## Les douze Unités
+
+::: {.card-grid}
+
+::: {.card}
+### [Unité 1 — Synthèse des thèmes littéraires](units/unit01_synthese-themes-litteraires.qmd)
+Modul : Lesen + Schreiben. 6 thèmes, 8 voix.
+:::
+
+::: {.card}
+### [Unité 2 — Francophonie : pluralité culturelle](units/unit02_francophonie-pluralite.qmd)
+Modul : Lesen + Sprechen. OIF, 5 variantes.
+:::
+
+::: {.card}
+### [Unité 3 — Essai personnel : structure](units/unit03_essai-personnel.qmd)
+Modul : Schreiben. *Pourquoi le français ?*
+:::
+
+::: {.card}
+### [Unité 4 — Abitur mock 1 — texte journalistique](units/unit04_abitur-mock-1.qmd)
+Modul : Lesen + Schreiben. 270 min complets.
+:::
+
+::: {.card}
+### [Unité 5 — Abitur mock 2 — extrait littéraire](units/unit05_abitur-mock-2.qmd)
+Modul : Lesen + Schreiben. Slimani, *Chanson douce*.
+:::
+
+::: {.card}
+### [Unité 6 — Médiation FR↔DE (finale)](units/unit06_mediation-finale.qmd)
+Modul : Sprachmittlung. Faux amis + inversion.
+:::
+
+::: {.card}
+### [Unité 7 — Kommunikationsprüfung : préparation](units/unit07_kommunikationspruefung-prep.qmd)
+Modul : Sprechen monolog + dialog. Camus / Senghor.
+:::
+
+::: {.card}
+### [Unité 8 — Discussion sur stimulus visuel](units/unit08_discussion-sur-stimulus.qmd)
+Modul : Sprechen. Photo, dessin, peinture.
+:::
+
+::: {.card}
+### [Unité 9 — Monologue : présenter un dossier](units/unit09_monologue-et-presentation.qmd)
+Modul : Sprechen + Schreiben. Dossier Ernaux 12 min.
+:::
+
+::: {.card}
+### [Unité 10 — Réflexion sur son propre parcours FLE](units/unit10_reflexion-sur-soi.qmd)
+Modul : Sprechen + Schreiben. 8 ans de français.
+:::
+
+::: {.card}
+### [Unité 11 — Abitur mock final](units/unit11_abitur-mock-final.qmd)
+Modul : Lesen + Schreiben. Conditions réelles 270 min.
+:::
+
+::: {.card}
+### [Unité 12 — Bilan final : Abitur en vue](units/unit12_bilan-final-abitur.qmd)
+Modul : Schreiben. Lettre d'au revoir.
+:::
+
+:::
+
+## Cap d'épreuve
+
+**Abitur Lf BW** : écrit (4 h 30 / 270 min) + Kommunikations-
+prüfung (5 + 10 min). Notenschlüssel 15 Points BW.
+
+## Couverture des compétences fonctionnelles (3.1.3.x)
+
+| Code        | Compétence                                  | Unités          |
+|-------------|---------------------------------------------|-----------------|
+| 3.1.3.1     | Hör-/Hörsehverstehen                        | (intégré dans Sprechen) |
+| 3.1.3.2     | Leseverstehen                               | 1, 2, 4, 5, 11 |
+| 3.1.3.3     | Sprechen (Dialog)                           | 7, 8            |
+| 3.1.3.4     | Sprechen (Monolog)                          | 2, 7, 8, 9, 10  |
+| 3.1.3.5     | Schreiben                                   | 1, 3, 4, 5, 9, 10, 11, 12 |
+| 3.1.3.6     | Sprachmittlung                              | 6               |
+| 3.1.4       | Text- und Medienkompetenz                   | 4, 5, 8         |
 
 ## Voir aussi
 
-- [Programme complet](../programme.qmd)
+- [Programme complet (156 Unités)](../programme.qmd)
 - [Bildungsplan](../bildungsplan.qmd)
 - [Accueil](../index.qmd)
+
+## ⚓ Fin du parcours E (Gymnasium)
+
+**8 ans · 96 Unités · de la 6e à la 13e.** Bonne chance
+pour votre Abitur — et au-delà, pour votre vie en français.
+
+*« On ne quitte jamais vraiment une langue qu'on a aimée. »*

@@ -1,0 +1,64 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 1"
+subtitle: "Le monde du travail (BOGY) · Klasse 9 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le rapport de stage d'Anouk (Unité 1, texte C). Répondez :
+
+1. Où Anouk fait-elle son stage ?
+2. À quelle heure arrive-t-elle ?
+3. Combien de livres classe-t-elle ?
+4. Quel cours observe-t-elle ?
+5. Que dit-elle de sa tutrice à la fin ?
+
+### Tâche 2 — Vocabulaire du travail (8 P.)
+
+Reliez chaque mot à sa définition :
+
+- stage · stagiaire · tuteur · patron · collègue · contrat ·
+  rapport · entreprise
+
+(Définitions : période de formation · personne en stage ·
+accompagnateur · chef direct · personne qui travaille avec
+vous · accord écrit · compte rendu · société.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **une journée de stage** (réelle ou imaginaire,
+~150 mots) : 4 étapes (matin, midi, après-midi, soir) +
+**5 connecteurs** + **6 mots du travail** + 1 phrase-bilan.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) À l'Institut français de Karlsruhe. 2) À 9 h.
+3) Environ 40. 4) Cours de FLE pour adultes débutants. 5)
+Grâce à elle, elle comprend mieux le métier de
+bibliothécaire.
+
+**Tâche 2.** stage = formation · stagiaire = personne en
+stage · tuteur = accompagnateur · patron = chef · collègue =
+co-travailleur · contrat = accord · rapport = compte rendu ·
+entreprise = société.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 4 étapes
+· 5 connecteurs · 6 mots du travail.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 1*

@@ -1,0 +1,60 @@
+---
+title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 1"
+subtitle: "Introduire : *L'Étranger* (Camus) · Klasse 12 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'incipit de *L'Étranger* (Unité 1, texte C). Répondez :
+
+1. Quelle est la 1ʳᵉ phrase et pourquoi célèbre ?
+2. Que dit le télégramme exactement ?
+3. Où est l'asile et à quelle distance d'Alger ?
+4. Que demande Meursault à son patron ?
+5. Que dit Meursault à son patron ?
+
+### Tâche 2 — Concepts camusiens (8 P.)
+
+Reliez chaque concept à son repérage dans l'incipit :
+
+- l'absurde · le « je » sec · la distance affective · le
+  motif administratif
+
+(Repérages : *Cela ne veut rien dire* · phrases courtes ·
+*sentiments distingués* · *Ce n'est pas de ma faute*.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre étude d'incipit** (~350 mots) : 4 § + 5
+citations + 3 concepts camusiens + lien à un autre incipit.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Concepts          | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) *Aujourd'hui, maman est morte. Ou peut-être
+hier, je ne sais pas.* — brièveté + distance émotionnelle.
+2) *Mère décédée. Enterrement demain. Sentiments
+distingués.* 3) Marengo, 80 km d'Alger. 4) Deux jours de
+congé. 5) *Ce n'est pas de ma faute.*
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 350 mots · 4 § ·
+5 citations · 3 concepts.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 1*

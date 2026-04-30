@@ -1,0 +1,168 @@
+---
+title: "Unité 6 — Étude de roman complet (extraits)"
+subtitle: "Parcours E (Gymnasium) · Klasse 12 · Niveau E"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 6
+slug: "etude-de-roman"
+bildungsplan:
+  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.5 Schreiben"
+skills_focus:
+  - leseverstehen
+  - schreiben
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit06_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf)
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je connais la **structure** de *L'Étranger* (2 parties, 11
+  chapitres).
+- Je rédige une **synthèse de roman** (~400 mots).
+- Je construis une **fiche-bilan** par chapitre clé.
+
+## Histoire d'introduction
+
+Théodore : *« Avant le mock final, on récapitule **la
+structure** de *L'Étranger*. Vous devez en avoir la carte
+mentale. »*
+
+## 1. Activer
+
+- *L'Étranger* : combien de parties ?
+- Chapitre du **meurtre** : lequel ?
+- *Procès* : 1ʳᵉ ou 2ᵉ partie ?
+
+## 2. Apporter
+
+### A. *L'Étranger* — structure narrative
+
+| Partie    | Chapitre | Événement-clé                  |
+|-----------|----------|---------------------------------|
+| **I**     | 1        | enterrement de la mère          |
+| I         | 2        | vie quotidienne, Marie          |
+| I         | 3-5      | Salamano, Raymond, sortie       |
+| I         | **6**    | **meurtre de l'Arabe**          |
+| **II**    | 1-3      | détention, juge, prison         |
+| II        | 4-5      | procès                          |
+| II        | **6**    | **dernière nuit + révolte**     |
+
+### B. 5 axes thématiques
+
+1. **L'absurde** : monde sans sens.
+2. **L'étranger** : Meursault, l'Arabe, Salamano.
+3. **Le soleil** : motif récurrent.
+4. **Le procès** : injustice + jugement moral.
+5. **La révolte** : refus final du non-sens.
+
+### C. Fin du roman — extrait clé (Camus, 1942)
+
+> **Dernière page de *L'Étranger* (Camus, 1942)**
+>
+> *Comme si cette grande colère m'avait purgé du mal,
+> vidé d'espoir, devant cette nuit chargée de signes et
+> d'étoiles, je m'ouvrais pour la première fois à la
+> tendre indifférence du monde.*
+>
+> De l'éprouver si pareil à moi, si fraternel enfin, j'ai
+> senti que j'avais été heureux, et que je l'étais encore.
+> Pour que tout soit consommé, pour que je me sente moins
+> seul, il me restait à souhaiter qu'il y ait beaucoup de
+> spectateurs le jour de mon exécution et qu'ils
+> m'accueillent avec des cris de haine.
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quel sentiment Meursault exprime-t-il en premier ?
+2. Quelle est la métaphore centrale (« tendre … ») ?
+3. À quel événement futur pense-t-il ?
+4. Que souhaite-t-il pour ce jour-là ?
+
+**Ex. 2 — Structure.** Reliez chapitre ↔ événement (5
+associations à partir du tableau A).
+
+**Ex. 3 — Concepts.** Identifiez 3 axes thématiques dans
+la dernière page.
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) Une grande colère qui l'a « purgé du mal,
+vidé d'espoir ». 2) *La tendre indifférence du monde.* 3)
+Son exécution. 4) Que beaucoup de spectateurs viennent et
+qu'ils l'accueillent avec des cris de haine.
+
+**Ex. 2.** Voir tableau A.
+
+**Ex. 3.** *Absurde* : indifférence du monde. *Révolte* :
+ouverture face à la mort. *Étranger* : statut social, à
+exécuter.
+
+:::
+
+## 4. Produire
+
+**Tâche d'écriture (E, ~400 mots) :**
+
+Rédigez une **synthèse de *L'Étranger*** : 4 § (résumé,
+structure, thèmes, interprétation finale) + 5 citations
+intégrées + 3 axes thématiques + 1 lien à un autre roman
+(Slimani, Ernaux).
+
+## 5. Réfléchir
+
+- [ ] Je connais la structure de *L'Étranger*.
+- [ ] J'identifie 5 axes thématiques.
+- [ ] Je rédige une synthèse de 400 mots.
+
+## Exemple d'épreuve — Abitur Lf (E)
+
+**Tâche 1 — Leseverstehen (10 P.)** : dernière page,
+5 questions.
+**Tâche 2 — Structure (8 P.)** : 4 chapitres à associer.
+**Tâche 3 — Schreiben (12 P.)** : synthèse (~400 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+:::
+
+## Pièges fréquents
+
+- **« Tendre indifférence du monde »** : oxymore + cœur
+  thématique. À citer **mot pour mot**.
+- **2 parties symétriques** : I = vie + crime ; II = procès
+  + condamnation. Le **ch. 6** des deux parties est la
+  pointe.
+- **« Cris de haine »** : Meursault souhaite le **rejet**
+  pour ne pas être trompé par la pitié.
+
+## Pour aller plus loin
+
+- **Albert Camus, *L'Étranger* (Folio classique)** :
+  <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio>
+- **Cours en ligne — Camus / *Étranger* (BNF)** :
+  <https://gallica.bnf.fr/>

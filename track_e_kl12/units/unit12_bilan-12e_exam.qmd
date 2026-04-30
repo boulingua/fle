@@ -1,0 +1,62 @@
+---
+title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 12"
+subtitle: "Bilan : 12e · Klasse 12 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le portfolio d'Anouk (Unité 12, texte C). Répondez :
+
+1. Quels 4 auteurs/autrices sont cités ?
+2. Quelle citation ouvre le bilan ?
+3. Quelles notes mocks BW Anouk a-t-elle obtenues ?
+4. Quels sont les 3 priorités 13e ?
+5. Quel projet post-Abitur ?
+
+### Tâche 2 — Références (8 P.)
+
+Reliez chaque autrice/auteur à son œuvre + année :
+
+- Camus · Condé · Modiano · Despentes · Senghor · Slimani
+  · Ernaux · Ben Jelloun
+
+(Œuvres : *L'Étranger* (1942) · *Moi, Tituba sorcière*
+(1986) · *Dora Bruder* (1997) · *King Kong théorie* (2006)
+· *Chants d'ombre* (1945) · *Chanson douce* (2016) · *Les
+Années* (2008) · *Le racisme expliqué …* (1998).)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre portfolio Abitur Lf** (~350 mots) :
+4 acquis + 3 priorités 13e + 4 références + 1 objectif
+chiffré.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Références        | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Camus, Condé, Modiano, Despentes. 2)
+*« Aujourd'hui, maman est morte. »* 3) 13/15 et 14/15 BW.
+4) Mock final · Kommunikationsprüfung · synthèse 4 ans. 5)
+Erasmus à Bordeaux chez Mollat, rentrée 2030.
+
+**Tâche 2.** Réponses libres (associations canoniques).
+
+**Tâche 3.** Réponses libres. Critères : 350 mots · 4
+acquis · 3 priorités · 4 références · 1 objectif chiffré.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 12*

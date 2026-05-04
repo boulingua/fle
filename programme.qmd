@@ -8,33 +8,32 @@ FLE BW · 156 UNITÉS · 13 COURS
 
 # Programme complet
 
-::: {.callout-note}
-**Phase 1 (scaffold).** Le programme complet (156 Unités sur 13
-cours) sera généré en Phase 2 à partir de
-`_resources/curriculum_outline.yml`. Cette page sera alors
-regénérée automatiquement par `_scripts/generate_programme.py`.
+::: {.callout-tip}
+**Programme complet.** Les 156 Unités (13 cours × 12 Unités)
+sont en place. Chaque Unité comprend un cours `.qmd` (~150
+lignes) + une Klassenarbeit / Klausur PDF.
 :::
 
 ## Cours
 
-### Parcours G+M (Kl. 6–10)
+### Parcours G+M — Realschule (Kl. 6–10) — **60 Unités**
 
-- [Klasse 6](track_gm_kl06/index.qmd)
-- [Klasse 7](track_gm_kl07/index.qmd)
-- [Klasse 8](track_gm_kl08/index.qmd)
-- [Klasse 9](track_gm_kl09/index.qmd)
-- [Klasse 10](track_gm_kl10/index.qmd)
+- [Klasse 6](track_gm_kl06/index.qmd) — A1, premiers contacts
+- [Klasse 7](track_gm_kl07/index.qmd) — A1+, passé composé
+- [Klasse 8](track_gm_kl08/index.qmd) — A2, futur, francophonie
+- [Klasse 9](track_gm_kl09/index.qmd) — A2+, BORS, argumentation
+- [Klasse 10](track_gm_kl10/index.qmd) — B1, fin Mittlere Reife
 
-### Parcours E (Kl. 6–13)
+### Parcours E — Gymnasium (Kl. 6–13) — **96 Unités**
 
-- [Klasse 6](track_e_kl06/index.qmd)
-- [Klasse 7](track_e_kl07/index.qmd)
-- [Klasse 8](track_e_kl08/index.qmd)
-- [Klasse 9](track_e_kl09/index.qmd)
-- [Klasse 10](track_e_kl10/index.qmd)
-- [Klasse 11](track_e_kl11/index.qmd)
-- [Klasse 12](track_e_kl12/index.qmd)
-- [Klasse 13](track_e_kl13/index.qmd)
+- [Klasse 6](track_e_kl06/index.qmd) — A1+
+- [Klasse 7](track_e_kl07/index.qmd) — A2, PC + imparfait
+- [Klasse 8](track_e_kl08/index.qmd) — A2+, conditionnel
+- [Klasse 9](track_e_kl09/index.qmd) — B1, BOGY, *Petit Nicolas*
+- [Klasse 10](track_e_kl10/index.qmd) — B1+, fin Sek I, Senghor
+- [Klasse 11](track_e_kl11/index.qmd) — B2, Ernaux, Ben Jelloun
+- [Klasse 12](track_e_kl12/index.qmd) — B2+, Camus, Modiano
+- [Klasse 13](track_e_kl13/index.qmd) — C1, Abitur Lf
 
 ## Structure de chaque cours
 

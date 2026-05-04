@@ -1,0 +1,228 @@
+---
+title: "Unité 10 — Cinéma québécois"
+subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 10
+slug: "cinema-quebecois"
+bildungsplan:
+  - "3.1.3.1 Hör-/Hörsehverstehen"
+  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
+  - "3.1.4 Text- und Medienkompetenz"
+skills_focus:
+  - hör_hörsehverstehen
+  - sprechen_monolog
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit10_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je suis un dialogue court en français du Québec.
+- Je présente un film en deux minutes.
+- Je connais 3 réalisateur·rice·s québécois·es.
+
+## Alignement Bildungsplan
+
+- **3.1.3.1** Hör-/Hörsehverstehen.
+- **3.1.3.4** Sprechen — monologisches Sprechen.
+- **3.1.4** Text- und Medienkompetenz.
+
+## Histoire d'introduction
+
+Inès écrit à Léa : *« Tu connais Xavier Dolan ? Ses films sont
+vraiment écœurants. »* Léa rit — depuis l'Unité 1, elle sait
+que *« écœurant »* au Québec veut dire *génial*. Madame Renault
+propose de regarder ensemble un extrait court (3 minutes) d'un
+film québécois.
+
+## 1. Activer
+
+- Quel est le dernier film francophone que vous avez vu ?
+- Connaissez-vous des films québécois ?
+- À quoi vous attendez-vous d'un cinéma « du Québec » par
+  rapport à un cinéma de France ?
+
+## 2. Apporter
+
+### A. Trois réalisateur·rice·s québécois·es
+
+| Nom                  | Type de cinéma                              |
+|----------------------|---------------------------------------------|
+| **Xavier Dolan**     | drames de famille, jeunesse, esthétique forte |
+| **Denys Arcand**     | drames sociaux, *Les Invasions barbares* (2003) |
+| **Anaïs Barbeau-Lavalette** | documentaires, féminisme, *La déesse des mouches à feu* (2020) |
+
+### B. Mini-extrait — dialogue (texte original)
+
+> *(Une mère et sa fille, dans la cuisine, à Montréal.)*
+>
+> **Mère :** T'as fini tes devoirs, ma belle ?
+>
+> **Fille :** Pas encore. C'est plate, l'algèbre.
+>
+> **Mère :** *Pis* ton examen demain ?
+>
+> **Fille :** Je le passerai. Inquiète-toi pas.
+>
+> **Mère :** Bon. Je t'attends pas pour souper. Y a du restant
+> dans le frigo.
+
+**Québécismes (mots ou usages spécifiques au Québec) :**
+
+- *« plate »* = ennuyeux.
+- *« pis »* = et puis.
+- *« souper »* = dîner (le repas du soir).
+- *« restant »* = restes.
+- *« inquiète-toi pas »* = construction québécoise pour *« ne
+  t'inquiète pas »*.
+
+### C. Vocabulaire cinéma
+
+| Mot                    | Sens                                  |
+|------------------------|---------------------------------------|
+| un·e réalisateur·rice  | personne qui fait le film             |
+| un·e scénariste        | personne qui écrit l'histoire         |
+| un long-métrage        | film de plus de 60 minutes            |
+| un court-métrage       | film de moins de 30 minutes           |
+| une bande-annonce      | extrait promotionnel avant la sortie  |
+| un sous-titre          | texte écrit pour traduire la voix     |
+
+## 3. S'entraîner
+
+**Ex. 1 — Québécismes.** Reformulez en français hexagonal :
+
+1. *« C'est plate, l'algèbre. »*
+2. *« Pis ton examen ? »*
+3. *« Je t'attends pas pour souper. »*
+4. *« Y a du restant dans le frigo. »*
+
+**Ex. 2 — Cinéma vocabulaire.** Reliez :
+
+a) un long-métrage · b) un court-métrage · c) un sous-titre ·
+   d) une bande-annonce
+
+1. Texte traduit affiché au bas de l'écran.
+2. Film de moins de 30 minutes.
+3. Extrait promotionnel.
+4. Film de plus de 60 minutes.
+
+**Ex. 3 — Hörsehverstehen (simulation).** Le prof joue
+l'extrait B 2 fois. Vrai/faux ?
+
+1. La fille a fini ses devoirs.
+2. La fille trouve l'algèbre intéressante.
+3. La mère propose de manger ensemble.
+4. Il reste de la nourriture au frigo.
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) *Les maths, c'est ennuyeux.* 2) *Et ton examen ?*
+3) *Je ne t'attends pas pour le dîner du soir.* 4) *Il y a des
+restes dans le frigo.*
+
+**Ex. 2.** a–4 · b–2 · c–1 · d–3.
+
+**Ex. 3.** 1) F. 2) F (« plate » = ennuyeuse). 3) F (elle ne
+l'attend pas). 4) V.
+
+:::
+
+## 4. Produire
+
+**Tâche orale (M, monologue 2 min) :**
+
+Présentez **un film** que vous avez aimé (n'importe quelle
+langue d'origine). Structure :
+
+1. **Titre + réalisateur·rice + année.**
+2. **L'histoire** en 2-3 phrases.
+3. **Une scène** qui vous a marqué·e.
+4. **Pourquoi** le voir (ou pas).
+
+**Modèle (M, ~110 mots) :**
+
+> J'ai choisi *« Mommy »* de Xavier Dolan, un film québécois de
+> 2014. C'est l'histoire d'une mère seule qui élève son fils
+> adolescent, qui souffre de troubles du comportement. Une scène
+> m'a marquée : la mère reçoit une lettre de l'école qui rejette
+> son fils, et elle pleure dans la cuisine. Je trouve cette
+> scène très réelle. Je recommande ce film parce qu'il montre
+> une famille qui s'aime malgré les difficultés. Attention :
+> le film est dur, certains passages sont durs à regarder, mais
+> Anouk avait raison de me le conseiller.
+
+## 5. Réfléchir
+
+- [ ] Je reconnais 4 québécismes courants.
+- [ ] Je sais que *souper* = dîner au Québec.
+- [ ] Je peux présenter un film en 2 minutes.
+
+## Exemple d'épreuve — Klassenarbeit BW (M)
+
+**Tâche 1 — Hörsehverstehen (12 P.)**
+
+Vous écoutez 2 fois le mini-dialogue (B). Répondez :
+
+1. Où se passe la scène ?
+2. Que fait la fille en ce moment ?
+3. Que dit la mère sur le souper ?
+4. Citez **deux québécismes** et donnez leur équivalent français
+   hexagonal.
+
+**Tâche 2 — Sprechen monologue (12 P.)**
+
+Présentation d'un film (2 minutes) — voir consigne section 4.
+
+Critères : Inhalt 5 P. + Sprache 4 P. + Aussprache 3 P.
+
+**Tâche 3 — Schreiben (6 P.)**
+
+3-4 phrases : « *Pourquoi je voudrais (ou non) voir un film
+québécois.* »
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+
+**Plan (90 min) :** Activer 7' · Apporter (extrait + vocabulaire)
+20' · S'entraîner 15' · Produire (monologues, micro-rotations)
+30' · Réfléchir 3' · Aperçu 15'.
+
+:::
+
+## Pièges fréquents
+
+- **« plate »** au Québec = ennuyeux. En France, *plate* signifie
+  *plat·e* (sans relief).
+- **« souper »** au Québec = dîner du soir. En France ancienne,
+  *souper* = repas tard ; aujourd'hui rare.
+- **« inquiète-toi pas »** : non recommandé à l'écrit hexagonal,
+  mais correct à l'oral québécois.
+
+## Pour aller plus loin
+
+- **ONF — Office national du film du Canada** :
+  <https://www.onf.ca/>
+- **Cinémathèque québécoise** : <https://www.cinematheque.qc.ca/>
+- **Festival de Cannes — sélection francophone** :
+  <https://www.festival-cannes.com/>

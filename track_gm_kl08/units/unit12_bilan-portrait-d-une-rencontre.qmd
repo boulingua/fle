@@ -1,0 +1,225 @@
+---
+title: "Unité 12 — Bilan : portrait d'une rencontre"
+subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 12
+slug: "bilan-portrait-d-une-rencontre"
+bildungsplan:
+  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
+  - "3.1.3.5 Schreiben"
+  - "3.1.2 Interkulturelle kommunikative Kompetenz"
+skills_focus:
+  - sprechen_monolog
+  - schreiben
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit12_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je dresse le **portrait** d'une rencontre marquante de l'année.
+- Je relie présent (description) + passé composé (événements) +
+  futur simple (suite).
+- Je clôture le cours Klasse 8 par un texte personnel.
+
+## Alignement Bildungsplan
+
+- **3.1.3.4** Sprechen — monologisches Sprechen.
+- **3.1.3.5** Schreiben.
+- **3.1.2** Interkulturelle kommunikative Kompetenz.
+
+## Histoire d'introduction
+
+Dernière séance avant les vacances. Madame Renault demande à
+chacun·e : *« Citez **une rencontre** francophone de l'année — en
+personne, par écrit, par film. »* Léa pense à Inès. Karim pense
+à la dame âgée parlant allemand devant Notre-Dame. Une autre
+élève parle d'une chanson de Soolking. Et chacun·e va écrire
+son **portrait**.
+
+## 1. Activer
+
+- Quelle est la rencontre francophone la plus marquante de
+  votre année ?
+- En quoi a-t-elle changé votre regard ?
+- Que voudriez-vous savoir d'elle dans 5 ans ?
+
+## 2. Apporter
+
+### A. Modèle de portrait (texte original, ~150 mots)
+
+> **Inès Tremblay, 14 ans, Montréal.**
+>
+> Inès est ma correspondante depuis octobre. Elle est en 2e
+> secondaire à l'école polyvalente Saint-Henri. Elle vit avec
+> sa mère (infirmière), son père (déménageur) et son petit
+> frère Olivier (8 ans, joueur de hockey).
+>
+> Je l'ai rencontrée — par écrit — dès l'Unité 1 de Klasse 8.
+> Elle m'a appris que *« écœurant »* veut dire *génial* au
+> Québec. Elle m'a aussi raconté ses matchs d'improvisation
+> théâtrale.
+>
+> Pour moi, Inès n'est pas seulement une correspondante. Elle
+> est la preuve que le français vit autrement de l'autre côté
+> de l'océan, que les mots peuvent retourner leur sens, et que
+> la rencontre par écrit est aussi forte qu'en personne.
+>
+> Plus tard, j'irai à Montréal. Je verrai le mont Royal en
+> hiver. Et je rencontrerai Inès, enfin, en personne.
+
+### B. Trois temps en équilibre
+
+| Fonction               | Temps                         |
+|------------------------|-------------------------------|
+| Description (qui est) | présent (*Inès est, elle vit*) |
+| Événements passés     | passé composé (*je l'ai rencontrée*) |
+| Habitudes / contexte  | imparfait (*elle m'racontait …*) |
+| Futur (suite)         | futur simple (*j'irai, je verrai*) |
+
+### C. Connecteurs utiles
+
+- **Présentation :** *Voici · Il s'agit de · Cette rencontre est …*
+- **Articulation :** *D'abord · Ensuite · Puis · Enfin*
+- **Réflexion :** *Cela m'a appris que · Pour moi · Plus tard,
+  j'aimerais …*
+
+## 3. S'entraîner
+
+**Ex. 1 — Repérez les temps.** Dans le texte A, identifiez :
+
+- 3 verbes au **présent**.
+- 2 verbes au **passé composé**.
+- 2 verbes au **futur simple**.
+
+**Ex. 2 — Connecteurs.** Reliez :
+
+a) Voici · b) D'abord · c) Cela m'a appris que · d) Plus tard
+
+1. Articulation chronologique.
+2. Présentation initiale.
+3. Réflexion conclusive.
+4. Projet futur.
+
+**Ex. 3 — Phrase de portrait.** Écrivez **une phrase** sur :
+
+1. *Qui est cette personne (présent).*
+2. *Comment vous l'avez rencontrée (passé composé).*
+3. *Ce que vous ferez avec elle plus tard (futur simple).*
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** Présent : *est, vit, est (la preuve)*. Passé
+composé : *je l'ai rencontrée, elle m'a appris*. Futur simple :
+*j'irai, je verrai, je rencontrerai*.
+
+**Ex. 2.** a–2 · b–1 · c–3 · d–4.
+
+**Ex. 3.** Individuel.
+
+:::
+
+## 4. Produire
+
+**Tâche d'écriture (M, ~120 mots) :**
+
+Écrivez le **portrait** d'une rencontre francophone de votre
+année. Suivez la structure du modèle A :
+
+1. Présentation (qui est cette personne ? présent).
+2. Comment et quand vous l'avez rencontrée (passé composé).
+3. Ce qu'elle vous a apporté (passé composé / imparfait).
+4. Réflexion personnelle (présent / cela m'a appris que …).
+5. Projet futur la concernant (futur simple).
+
+**Bonus :** présenter à voix haute en 2 minutes pour la classe.
+
+## 5. Réfléchir — Bilan de Klasse 8
+
+- [ ] Je peux écrire un portrait de ~120 mots avec 3 temps
+      différents.
+- [ ] Je connais les **5 axes** des Unités 1-12 : correspondance,
+      médias, francophonie, futur simple, médiation, Maghreb,
+      sport, voyage culturel, stéréotypes, cinéma québécois,
+      projet solidaire, portrait.
+- [ ] Je connais ma cast : Léa, Karim, Madame Renault, Inès,
+      Mehdi, Sandrine, et la dame âgée de Notre-Dame.
+
+## Bilan-Klasse 8
+
+Cette unité **clôt** le cours **Klasse 8 G+M**. Vous avez :
+
+- communiqué avec une correspondante québécoise (U1),
+- analysé vos médias (U2),
+- exploré la francophonie (U3),
+- conjugué le futur simple (U4),
+- pratiqué la médiation DE↔FR (U5),
+- écouté du raï et du chaâbi (U6),
+- discuté du tournoi inter-collèges (U7),
+- voyagé à Paris (U8),
+- réfléchi aux stéréotypes (U9),
+- découvert le cinéma québécois (U10),
+- proposé un projet solidaire (U11),
+- et — maintenant — dressé le portrait d'une rencontre.
+
+Ce sont les compétences que vous emporterez en Klasse 9.
+
+## Exemple d'épreuve — Klassenarbeit BW (M, finale)
+
+**Tâche unique — Portrait écrit (30 P.)**
+
+Écrivez un **portrait** d'une rencontre francophone (réelle ou
+fictive) en **120-150 mots**. Critères :
+
+- **Structure** (présentation · rencontre · apport · réflexion
+  · projet futur) : 8 P.
+- **Trois temps en équilibre** (présent + passé composé + futur
+  simple) : 10 P.
+- **Vocabulaire et connecteurs** (au moins 4 connecteurs du
+  cours) : 6 P.
+- **Sens fidèle et personnel** (pas de copier-coller du modèle) :
+  6 P.
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+
+**Plan (90 min, finale) :** Activer (questions de bilan) 8' ·
+Apporter (modèle + temps) 17' · S'entraîner 15' · Produire
+(rédaction + lecture à 2 voix) 30' · Réfléchir + Bilan 12' ·
+Aperçu 8'.
+
+:::
+
+## Pièges fréquents
+
+- **Mélanger trois temps** demande un plan : commencer par le
+  présent (qui est), puis passé composé (rencontre), puis futur
+  simple (projet).
+- **« Cela m'a appris que »** + indicatif (pas subjonctif).
+- **Portrait** ≠ description physique seulement : il inclut
+  aussi *ce que la personne représente pour vous*.
+
+## Pour aller plus loin
+
+- **France Culture — Portraits** :
+  <https://www.radiofrance.fr/franceculture>
+- **Portraits France Inter** : <https://www.radiofrance.fr/franceinter>

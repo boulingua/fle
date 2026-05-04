@@ -1,0 +1,57 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 3"
+subtitle: "Mon quartier · Klasse 7 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la lettre d'Anouk (Unité 3, texte C). Répondez :
+
+1. Comment est sa rue ?
+2. Qui est Hugo ? Qui est Camille ?
+3. Où est la pharmacie ?
+4. Combien de minutes pour aller au parc ?
+5. Comment va-t-elle à la gare ?
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Traduisez :
+
+- die Bäckerei · die Konditorei · der Buchladen · die Post ·
+  das Rathaus · der Bahnhof · die Apotheke · der Supermarkt.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Écrivez une **lettre** à un(e) correspondant(e) sur votre
+quartier en **120 mots** : 5 lieux + 4 prépositions + ce que
+vous y aimez.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Calme, beaucoup d'arbres. 2) Hugo : pâtissier ;
+Camille : libraire. 3) En face de chez Anouk. 4) 5 min. 5) En
+tram (20 min).
+
+**Tâche 2.** la boulangerie · la pâtisserie · la librairie · la
+poste · la mairie · la gare · la pharmacie · le supermarché.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 5 lieux ·
+4 prépositions · format lettre.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 3*

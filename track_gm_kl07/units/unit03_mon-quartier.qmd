@@ -1,0 +1,165 @@
+---
+title: "Unité 3 — Mon quartier"
+subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 3
+slug: "mon-quartier"
+bildungsplan:
+  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.5 Schreiben"
+  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+skills_focus:
+  - leseverstehen
+  - schreiben
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit03_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je nomme **10 lieux du quartier** (boulangerie, pharmacie…).
+- Je situe avec **à côté de, en face de, près de, loin de**.
+- Je décris mon quartier en 6 phrases.
+
+## Histoire d'introduction
+
+Léa montre son quartier à sa cousine québécoise Inès. *« Ici,
+c'est la boulangerie d'Hugo. En face, il y a la pharmacie. Et là,
+au coin, c'est le café. »* Inès rit : *« Chez nous, à Montréal,
+on dit *le dépanneur*, pas *l'épicerie*. »*
+
+## 1. Activer
+
+- Qu'est-ce qu'il y a dans votre quartier ?
+- Où achetez-vous le pain ?
+- Où est l'arrêt de bus ?
+
+## 2. Apporter
+
+### A. Vocabulaire — lieux du quartier
+
+| Français          | Allemand           |
+|-------------------|--------------------|
+| la boulangerie    | die Bäckerei       |
+| la pharmacie      | die Apotheke       |
+| le supermarché    | der Supermarkt     |
+| la poste          | die Post           |
+| la banque         | die Bank           |
+| le café           | das Café           |
+| le parc           | der Park           |
+| la bibliothèque   | die Bibliothek     |
+| l'arrêt de bus    | die Bushaltestelle |
+| la mairie         | das Rathaus        |
+
+### B. Prépositions de lieu
+
+- **à côté de** (neben), **en face de** (gegenüber)
+- **près de** (in der Nähe), **loin de** (weit von)
+- **au coin de** (an der Ecke), **entre … et …** (zwischen)
+- **devant** (vor), **derrière** (hinter)
+
+> *La pharmacie est **en face de** la boulangerie.*
+> *Le parc est **près de** l'école, **loin de** la gare.*
+
+### C. Le quartier de Léa (texte original)
+
+> J'habite dans un petit quartier à Karlsruhe. À côté de chez moi,
+> il y a la boulangerie d'Hugo — son pain au chocolat est le
+> meilleur ! En face, on trouve la pharmacie. Au coin de la rue,
+> il y a un café avec une terrasse. Le parc est juste derrière la
+> bibliothèque, à cinq minutes à pied. L'arrêt de bus n°3 est
+> devant la mairie. J'aime mon quartier : tout est près !
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture.** Au texte C :
+
+1. Où est la boulangerie ?
+2. Qu'y a-t-il en face ?
+3. Où se trouve le parc ?
+4. Quel bus passe devant la mairie ?
+
+**Ex. 2 — Prépositions.** Complétez.
+
+1. La poste est ___ la banque (neben).
+2. Le café est ___ la rue (an der Ecke).
+3. L'école est ___ la maison (in der Nähe).
+4. Le parc est ___ la bibliothèque (hinter).
+
+**Ex. 3 — Vocabulaire.** Reliez.
+
+a) On y achète des médicaments.
+b) On y prend le bus.
+c) On y emprunte des livres.
+d) On y boit un café.
+
+1. la bibliothèque · 2. la pharmacie · 3. le café ·
+4. l'arrêt de bus.
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) À côté de chez Léa. 2) La pharmacie. 3) Derrière la
+bibliothèque. 4) Le bus n°3.
+
+**Ex. 2.** 1) à côté de · 2) au coin de · 3) près de · 4) derrière.
+
+**Ex. 3.** a–2 · b–4 · c–1 · d–3.
+
+:::
+
+## 4. Produire
+
+**Tâche d'écriture (M, ~70 mots) :**
+
+Décrivez **votre quartier** en 6 phrases. Au moins **5 lieux** et
+**3 prépositions** de lieu différentes.
+
+## 5. Réfléchir
+
+- [ ] Je nomme 10 lieux du quartier.
+- [ ] J'utilise *à côté de, en face de, près de, derrière*.
+- [ ] J'écris une description de quartier de 6 phrases.
+
+## Exemple d'épreuve — Klassenarbeit BW (M)
+
+**Tâche 1 — Vocabulaire (10 P.)** : 10 lieux à traduire.
+**Tâche 2 — Lecture (10 P.)** : texte C, 5 questions.
+**Tâche 3 — Schreiben (10 P.)** : votre quartier (~70 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 13' ·
+Produire 10' · Réfléchir 2' · Aperçu 3'.
+:::
+
+## Pièges fréquents
+
+- **« en face de la »** mais **« en face du »** (de + le).
+- **« à côté de »** + nom : *à côté **de la** poste*.
+- **« chez »** + personne : *chez moi, chez Hugo*.
+
+## Pour aller plus loin
+
+- **Géoportail** (cartes des villes) :
+  <https://www.geoportail.gouv.fr/>

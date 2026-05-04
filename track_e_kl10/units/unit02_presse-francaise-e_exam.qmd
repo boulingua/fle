@@ -1,0 +1,61 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 2"
+subtitle: "La presse française · Klasse 10 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la brève (Unité 2, texte C). Répondez :
+
+1. Quel jour a eu lieu l'événement ?
+2. Combien de livres ont été collectés ?
+3. À quelle école sont-ils destinés ?
+4. Comment seront-ils envoyés ?
+5. Qui prononce la citation finale ?
+
+### Tâche 2 — Lignes éditoriales / genres (8 P.)
+
+Reliez chaque journal à sa ligne éditoriale :
+
+- Le Monde · Libération · Le Figaro · La Croix · L'Équipe ·
+  Ouest-France
+
+(Lignes : centre-gauche · gauche · droite libérale ·
+catholique · sport · régional.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez une **brève d'actualité** (~120 mots) sur un
+événement de votre école : titre + chapeau + 5 W + 1
+citation directe.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Lignes/genres     | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Mardi 4 mars 2026. 2) 200. 3) École Ibn
+Khaldoun (Tunis). 4) Par bateau via une association. 5) Mme
+Devos.
+
+**Tâche 2.** Le Monde = centre-gauche · Libé = gauche · Le
+Figaro = droite libérale · La Croix = catholique · L'Équipe
+= sport · Ouest-France = régional.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 5 W ·
+1 citation.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 2*

@@ -1,0 +1,314 @@
+# curriculum_outline.yml — plan thématique complet FLE BW
+#
+# 13 cours × 12 Unités = 156 Unités au total.
+# G+M : Kl. 6-10 (5 cours)  ·  E : Kl. 6-13 (8 cours)
+#
+# Chaque Unité reçoit :
+#   - un thème principal (progressif par Klassenstufe),
+#   - un focus par compétence (compétences fonctionnelles 3.1.3.x),
+#   - un type d'épreuve (klassenarbeit Kl. 6-10 ; abitur_bf / abitur_lf Kl. 11-13),
+#   - une référence Bildungsplan-Code (verbatim),
+#   - des cast-personnages récurrents (introduits par Klassenstufe).
+#
+# Statut : Phase 2 Turn 6 — proposé. La cast et la progression
+# suivent la logique BW Bildungsplan 2016 + OS 2021.
+
+site: "fle-bw"
+outline_version: "2026-04-25-draft1"
+courses_total: 13
+units_total: 156
+
+module_balance_target_per_course:
+  hör_hörsehverstehen: 2     # 3.1.3.1
+  leseverstehen: 2            # 3.1.3.2
+  sprechen_dialog: 2          # 3.1.3.3
+  sprechen_monolog: 1         # 3.1.3.4
+  schreiben: 2                # 3.1.3.5
+  sprachmittlung: 1           # 3.1.3.6
+  sprachreflexion: 1          # 3.1.3.7-9 + 3.1.4
+  text_medien: 1              # 3.1.4
+
+# ===========================================================
+# PARCOURS G+M (Klasse 6-10) — 5 cours, 60 Unités
+# ===========================================================
+
+courses:
+
+  - id: "track_gm_kl06"
+    track: "gm"
+    klassenstufe: 6
+    niveau: "M"
+    cap: "Premiers échanges, vie quotidienne, école, famille."
+    cast: ["Léa (élève allemande)", "Théo (Belge à Strasbourg)", "Madame Renault (prof FLE)", "Boulanger Hugo (commerçant)"]
+    cast_setting: "Strasbourg, échange Allemagne-France"
+    voice_guidance: "concret, présent, phrases 5-8 mots, beaucoup d'images"
+    units:
+      - {unit_nr: 1,  slug: "salutations-et-prenoms",     title: "Salutations et prénoms",          skills_focus: ["sprechen_dialog"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "ma-famille",                  title: "Ma famille",                       skills_focus: ["sprechen_monolog","leseverstehen"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.2 Leseverstehen"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "mon-ecole",                   title: "Mon école",                        skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "ma-journee",                  title: "Ma journée",                       skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "j-aime-je-n-aime-pas",        title: "J'aime, je n'aime pas",            skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "au-marche",                   title: "Au marché",                        skills_focus: ["hör_hörsehverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "le-temps-et-l-heure",         title: "Le temps et l'heure",              skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "la-meteo-et-les-saisons",     title: "La météo et les saisons",          skills_focus: ["hör_hörsehverstehen"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "ma-chambre",                  title: "Ma chambre, ma maison",            skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "mes-loisirs",                  title: "Mes loisirs",                      skills_focus: ["sprechen_dialog","leseverstehen"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.2 Leseverstehen"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "voyage-en-france",            title: "Voyage en France — premières impressions", skills_focus: ["hör_hörsehverstehen","text_medien"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "bilan-portrait-de-classe",     title: "Bilan : portrait de classe",        skills_focus: ["sprechen_monolog","sprachmittlung"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.6 Sprachmittlung"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+  - id: "track_gm_kl07"
+    track: "gm"
+    klassenstufe: 7
+    niveau: "M"
+    cap: "Routines, vie sociale, passé composé."
+    cast: ["Léa (en 7e)", "Inès (cousine québécoise)", "Madame Renault", "M. Bertrand (prof de musique)"]
+    cast_setting: "Suite de Kl. 6 ; introduction d'une perspective québécoise"
+    voice_guidance: "phrases 7-12 mots, passé composé introduit, dialogues plus longs"
+    units:
+      - {unit_nr: 1,  slug: "ma-rentree",                   title: "Ma rentrée",                       skills_focus: ["sprechen_dialog"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "raconter-le-week-end",         title: "Raconter le week-end (passé composé)", skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "mon-quartier",                 title: "Mon quartier",                     skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "les-repas",                    title: "Les repas en famille",             skills_focus: ["hör_hörsehverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "amis-et-conflits",             title: "Amis et conflits",                 skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "les-transports",               title: "Les transports",                   skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "vacances-en-famille",          title: "Vacances en famille",              skills_focus: ["hör_hörsehverstehen","schreiben"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.5 Schreiben"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "le-quebec",                    title: "Le Québec — un autre français",     skills_focus: ["text_medien","leseverstehen"], bildungsplan: ["3.1.4 Text- und Medienkompetenz","3.1.3.2 Leseverstehen"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "fete-d-anniversaire",          title: "Fête d'anniversaire (invitations)", skills_focus: ["schreiben","sprechen_dialog"], bildungsplan: ["3.1.3.5 Schreiben","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "musique-et-clips",             title: "Musique et clips francophones",    skills_focus: ["hör_hörsehverstehen","text_medien"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "mediation-de-base",            title: "Médiation de base (DE → FR simple)", skills_focus: ["sprachmittlung"], bildungsplan: ["3.1.3.6 Sprachmittlung"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "bilan-portrait-d-une-annee",   title: "Bilan : portrait d'une année",     skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+  - id: "track_gm_kl08"
+    track: "gm"
+    klassenstufe: 8
+    niveau: "M"
+    cap: "Récit, opinions, futur, francophonie."
+    cast: ["Léa (en 8e)", "Karim (correspondant à Lille)", "Madame Renault", "Sandrine (grande sœur étudiante)"]
+    voice_guidance: "phrases 9-14 mots, futur simple, récits plus longs"
+    units:
+      - {unit_nr: 1,  slug: "correspondance-avec-montreal", title: "Correspondance avec Montréal",     skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "mes-medias-preferes",          title: "Mes médias préférés",              skills_focus: ["sprechen_dialog","text_medien"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "autour-de-la-planete-francophone", title: "Autour de la planète francophone", skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "futurs-projets",               title: "Futurs projets (futur simple)",    skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "sprachmittlung-de-fr-resume",  title: "Sprachmittlung DE → résumé FR",     skills_focus: ["sprachmittlung"], bildungsplan: ["3.1.3.6 Sprachmittlung"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "musiques-du-maghreb",          title: "Musiques du Maghreb",              skills_focus: ["hör_hörsehverstehen","text_medien"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "sport-et-equipe",              title: "Sport et esprit d'équipe",         skills_focus: ["sprechen_dialog","leseverstehen"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.2 Leseverstehen"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "un-allemand-a-paris",          title: "Un·e Allemand·e à Paris",          skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "stereotypes-et-prejuges",      title: "Stéréotypes et préjugés",          skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "cinema-quebecois",             title: "Cinéma québécois",                 skills_focus: ["hör_hörsehverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "un-projet-solidaire",          title: "Un projet solidaire",              skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "bilan-portrait-d-une-rencontre", title: "Bilan — Portrait d'une rencontre", skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+  - id: "track_gm_kl09"
+    track: "gm"
+    klassenstufe: 9
+    niveau: "M"
+    cap: "Argumentation simple, vie sociale, préparation à la Mittlere Reife."
+    cast: ["Léa (en 9e)", "Mehdi (correspondant tunisien)", "Madame Renault", "M. Klein (prof d'orientation)"]
+    voice_guidance: "phrases 12-17 mots, argumentation, conditionnel introduit"
+    units:
+      - {unit_nr: 1,  slug: "le-monde-du-travail",          title: "Le monde du travail (Praktikum)",  skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "lettre-de-motivation",         title: "Lettre de motivation",             skills_focus: ["schreiben"], bildungsplan: ["3.1.3.5 Schreiben"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "ecologie-au-quotidien",        title: "Écologie au quotidien",            skills_focus: ["sprechen_dialog","leseverstehen"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.2 Leseverstehen"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "argumenter-pour-contre",       title: "Argumenter pour / contre",         skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "vivre-en-tunisie",             title: "Vivre en Tunisie",                 skills_focus: ["text_medien","leseverstehen"], bildungsplan: ["3.1.4 Text- und Medienkompetenz","3.1.3.2 Leseverstehen"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "podcasts-en-francais",         title: "Podcasts en français",             skills_focus: ["hör_hörsehverstehen"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "harcelement-et-respect",       title: "Harcèlement et respect (au collège)", skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "differences-culturelles",      title: "Différences culturelles franco-allemandes", skills_focus: ["sprechen_monolog","sprachmittlung"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.6 Sprachmittlung"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "internet-et-vie-privee",       title: "Internet et vie privée",           skills_focus: ["leseverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "consommation-responsable",     title: "Consommation responsable",         skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "francais-au-travail",          title: "Français au travail (un peu de jargon)", skills_focus: ["sprachmittlung","sprechen_dialog"], bildungsplan: ["3.1.3.6 Sprachmittlung","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "preparation-mittlere-reife",   title: "Préparation Mittlere Reife (révisions)", skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+  - id: "track_gm_kl10"
+    track: "gm"
+    klassenstufe: 10
+    niveau: "M"
+    cap: "Synthèse, médiation avancée, finalisation Mittlere Reife."
+    cast: ["Léa (en 10e, vers la fin de la Mittlere Reife)", "Karim, Mehdi, Inès en visite", "Madame Renault", "Mlle Lefèvre (prof d'option)"]
+    voice_guidance: "phrases 15-20 mots, conditionnel + subjonctif simples, synthèse"
+    units:
+      - {unit_nr: 1,  slug: "transition-formation-emploi",  title: "Transition formation / emploi",    skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "presse-francaise",             title: "La presse française au quotidien", skills_focus: ["leseverstehen","text_medien"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "vie-democratique",             title: "Vie démocratique en France",       skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "francophonie-aujourd-hui",     title: "Francophonie aujourd'hui",         skills_focus: ["text_medien","sprechen_monolog"], bildungsplan: ["3.1.4 Text- und Medienkompetenz","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "raconter-une-histoire-vraie",  title: "Raconter une histoire vraie",      skills_focus: ["schreiben","sprechen_monolog"], bildungsplan: ["3.1.3.5 Schreiben","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "mediation-avancee",            title: "Médiation avancée DE↔FR",          skills_focus: ["sprachmittlung"], bildungsplan: ["3.1.3.6 Sprachmittlung"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "engagement-citoyen",           title: "Engagement citoyen des jeunes",    skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "reseaux-sociaux",              title: "Réseaux sociaux et identité",      skills_focus: ["leseverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "litterature-de-jeunesse",      title: "Littérature de jeunesse FR",       skills_focus: ["leseverstehen","text_medien"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "mobilite-erasmus-jeune",       title: "Mobilité (Erasmus jeune)",         skills_focus: ["hör_hörsehverstehen","schreiben"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.5 Schreiben"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "preparer-un-discours",         title: "Préparer un discours",             skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "bilan-fin-de-mittlere-reife",   title: "Bilan : fin de la Mittlere Reife", skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+# ===========================================================
+# PARCOURS E (Klasse 6-13) — 8 cours, 96 Unités
+# ===========================================================
+
+  - id: "track_e_kl06"
+    track: "e"
+    klassenstufe: 6
+    niveau: "E"
+    cap: "Premières années en gymnase ; rythme plus dense que G+M."
+    cast: ["Anouk (élève au Gymnasium)", "Tristan (Belge à Strasbourg)", "Mme Devos (prof FLE)", "M. Boulanger (commerçant)"]
+    voice_guidance: "phrases 5-9 mots, présent dominant, plus d'éléments cultu­rels"
+    units:
+      - {unit_nr: 1,  slug: "salutations-et-prenoms-e",      title: "Salutations et prénoms",          skills_focus: ["sprechen_dialog"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "ma-famille-e",                  title: "Ma famille",                       skills_focus: ["sprechen_monolog","leseverstehen"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.2 Leseverstehen"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "mon-college-e",                 title: "Mon collège",                      skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "ma-journee-e",                  title: "Ma journée",                       skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "gouts-et-couleurs",             title: "Goûts et couleurs",                skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "au-marche-e",                   title: "Au marché",                        skills_focus: ["hör_hörsehverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "le-temps-et-l-heure-e",         title: "Le temps et l'heure",              skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "premiere-poesie",               title: "Première poésie : Prévert simple", skills_focus: ["text_medien","leseverstehen"], bildungsplan: ["3.1.4 Text- und Medienkompetenz","3.1.3.2 Leseverstehen"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "ma-chambre-e",                  title: "Ma chambre, ma maison",            skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "mes-loisirs-e",                  title: "Mes loisirs",                      skills_focus: ["sprechen_dialog","leseverstehen"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.2 Leseverstehen"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "voyage-decouverte",             title: "Voyage de découverte (Strasbourg)", skills_focus: ["hör_hörsehverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "bilan-portrait-e",              title: "Bilan : mon portrait",             skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+  - id: "track_e_kl07"
+    track: "e"
+    klassenstufe: 7
+    niveau: "E"
+    cap: "Récit, descriptions plus riches, premiers extraits littéraires."
+    cast: ["Anouk (en 7e)", "Inès (cousine québécoise)", "Mme Devos", "Camille (libraire)"]
+    voice_guidance: "phrases 8-13 mots, passé composé + imparfait, dialogues plus longs"
+    units:
+      - {unit_nr: 1,  slug: "la-rentree-e",                   title: "La rentrée",                       skills_focus: ["sprechen_dialog"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "raconter-une-anecdote",          title: "Raconter une anecdote",            skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "mon-quartier-e",                 title: "Mon quartier",                     skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "repas-en-famille-e",             title: "Repas en famille",                 skills_focus: ["hör_hörsehverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "amis-et-conflits-e",             title: "Amis et conflits",                 skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "transports-et-mobilite",         title: "Transports et mobilité",           skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "vacances-en-bretagne",           title: "Vacances en Bretagne",             skills_focus: ["hör_hörsehverstehen","schreiben"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.5 Schreiben"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "le-quebec-e",                    title: "Le Québec — un autre français",     skills_focus: ["text_medien","leseverstehen"], bildungsplan: ["3.1.4 Text- und Medienkompetenz","3.1.3.2 Leseverstehen"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "fete-et-invitations",            title: "Fête et invitations",              skills_focus: ["schreiben","sprechen_dialog"], bildungsplan: ["3.1.3.5 Schreiben","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "musique-et-chanson-e",           title: "Musique et chanson francophones",  skills_focus: ["hör_hörsehverstehen","text_medien"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "premiere-mediation",             title: "Première médiation DE → FR",        skills_focus: ["sprachmittlung"], bildungsplan: ["3.1.3.6 Sprachmittlung"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "bilan-progres-7e-e",             title: "Bilan : mes progrès en 7e",        skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+  - id: "track_e_kl08"
+    track: "e"
+    klassenstufe: 8
+    niveau: "E"
+    cap: "Argumentation simple, projets, francophonie élargie."
+    cast: ["Anouk (en 8e)", "Karim (correspondant à Lille)", "Mme Devos", "Tante Soraya (architecte tunisienne)"]
+    voice_guidance: "phrases 10-15 mots, futur simple, conditionnel introduit"
+    units:
+      - {unit_nr: 1,  slug: "la-rentree-en-8e",               title: "La rentrée en 8e",                 skills_focus: ["sprechen_dialog"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "correspondance-avec-montreal-e", title: "Correspondance avec Montréal",     skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "mes-medias-preferes-e",          title: "Mes médias préférés",              skills_focus: ["sprechen_dialog","text_medien"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "autour-de-la-planete-francophone-e", title: "Autour de la planète francophone", skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "sprachmittlung-de-fr-resume-e",  title: "Sprachmittlung DE → résumé FR",     skills_focus: ["sprachmittlung"], bildungsplan: ["3.1.3.6 Sprachmittlung"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "musiques-du-maghreb-e",          title: "Musiques du Maghreb",              skills_focus: ["hör_hörsehverstehen","text_medien"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "champs-de-bataille",              title: "Champs de bataille (Verdun/Ypres)", skills_focus: ["leseverstehen","text_medien"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "un-allemand-a-paris-e",          title: "Un·e Allemand·e à Paris",          skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "stereotypes-et-prejuges-e",      title: "Stéréotypes et préjugés",          skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "cinema-quebecois-e",             title: "Cinéma québécois",                 skills_focus: ["hör_hörsehverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "un-projet-solidaire-e",          title: "Un projet solidaire",              skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "bilan-portrait-d-une-rencontre-e", title: "Bilan — Portrait d'une rencontre", skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+  - id: "track_e_kl09"
+    track: "e"
+    klassenstufe: 9
+    niveau: "E"
+    cap: "Texte argumentatif, vie sociale, premiers grands textes littéraires."
+    cast: ["Anouk (en 9e)", "Mehdi (correspondant tunisien)", "Mme Devos", "M. Klein (prof d'orientation)"]
+    voice_guidance: "phrases 13-18 mots, conditionnel + subjonctif simple"
+    units:
+      - {unit_nr: 1,  slug: "le-monde-du-travail-e",          title: "Le monde du travail (BOGY)",       skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "lettre-de-motivation-e",         title: "Lettre de motivation (FR)",        skills_focus: ["schreiben"], bildungsplan: ["3.1.3.5 Schreiben"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "ecologie-au-quotidien-e",        title: "Écologie au quotidien",            skills_focus: ["sprechen_dialog","leseverstehen"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.2 Leseverstehen"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "argumenter-pour-contre-e",       title: "Argumenter pour / contre",         skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "le-petit-nicolas",               title: "Lecture suivie : *Le Petit Nicolas* (extraits)", skills_focus: ["leseverstehen","text_medien"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "podcasts-en-francais-e",         title: "Podcasts en français",             skills_focus: ["hör_hörsehverstehen"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "harcelement-et-respect-e",       title: "Harcèlement et respect",           skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "differences-culturelles-e",      title: "Différences culturelles franco-allemandes", skills_focus: ["sprechen_monolog","sprachmittlung"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.6 Sprachmittlung"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "internet-et-vie-privee-e",       title: "Internet et vie privée",           skills_focus: ["leseverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "consommation-responsable-e",     title: "Consommation responsable",         skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "francais-au-travail-e",          title: "Français au travail",              skills_focus: ["sprachmittlung","sprechen_dialog"], bildungsplan: ["3.1.3.6 Sprachmittlung","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "bilan-9e-e",                     title: "Bilan : 9e en route vers la Kursstufe", skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+  - id: "track_e_kl10"
+    track: "e"
+    klassenstufe: 10
+    niveau: "E"
+    cap: "Synthèse Sek I, transition vers la Kursstufe ; analyse + production complexe."
+    cast: ["Anouk (en 10e)", "Karim, Mehdi, Inès en visite", "Mme Devos", "Mlle Lefèvre (prof d'option littérature)"]
+    voice_guidance: "phrases 15-22 mots, plus de subjonctif, premières analyses littéraires"
+    units:
+      - {unit_nr: 1,  slug: "transition-vers-la-kursstufe",   title: "Transition vers la Kursstufe",     skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 1,  exam_type: "klassenarbeit"}
+      - {unit_nr: 2,  slug: "presse-francaise-e",             title: "La presse française",              skills_focus: ["leseverstehen","text_medien"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 2,  exam_type: "klassenarbeit"}
+      - {unit_nr: 3,  slug: "vie-democratique-e",             title: "Vie démocratique en France",       skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 3,  exam_type: "klassenarbeit"}
+      - {unit_nr: 4,  slug: "francophonie-aujourd-hui-e",     title: "Francophonie aujourd'hui",         skills_focus: ["text_medien","sprechen_monolog"], bildungsplan: ["3.1.4 Text- und Medienkompetenz","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 4,  exam_type: "klassenarbeit"}
+      - {unit_nr: 5,  slug: "premiere-analyse-poesie",        title: "Première analyse : un poème",      skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 5,  exam_type: "klassenarbeit"}
+      - {unit_nr: 6,  slug: "mediation-avancee-e",            title: "Médiation avancée DE↔FR",          skills_focus: ["sprachmittlung"], bildungsplan: ["3.1.3.6 Sprachmittlung"], theme_arc_position: 6,  exam_type: "klassenarbeit"}
+      - {unit_nr: 7,  slug: "engagement-citoyen-e",           title: "Engagement citoyen des jeunes",    skills_focus: ["sprechen_dialog","schreiben"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.5 Schreiben"], theme_arc_position: 7,  exam_type: "klassenarbeit"}
+      - {unit_nr: 8,  slug: "reseaux-sociaux-e",              title: "Réseaux sociaux et identité",      skills_focus: ["leseverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 8,  exam_type: "klassenarbeit"}
+      - {unit_nr: 9,  slug: "extraits-romans-jeunes",         title: "Extraits de romans jeunes (FR)",   skills_focus: ["leseverstehen","text_medien"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 9,  exam_type: "klassenarbeit"}
+      - {unit_nr: 10, slug: "mobilite-erasmus-jeune-e",       title: "Mobilité (Erasmus jeune)",         skills_focus: ["hör_hörsehverstehen","schreiben"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.5 Schreiben"], theme_arc_position: 10, exam_type: "klassenarbeit"}
+      - {unit_nr: 11, slug: "preparer-un-discours-e",         title: "Préparer un discours",             skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 11, exam_type: "klassenarbeit"}
+      - {unit_nr: 12, slug: "bilan-fin-sek-i",                 title: "Bilan : fin de la Sekundarstufe I", skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 12, exam_type: "klassenarbeit"}
+
+  - id: "track_e_kl11"
+    track: "e"
+    klassenstufe: 11
+    niveau: "E"
+    cap: "Entrée en Oberstufe : analyses littéraires, presse, francophonie."
+    cast: ["Anouk en 11e", "Théodore (prof de littérature comparée)", "Voix d'auteur·e·s : Annie Ernaux, Marie NDiaye, Tahar Ben Jelloun"]
+    voice_guidance: "phrases 18-25 mots, subjonctif, vocabulaire analytique"
+    units:
+      - {unit_nr: 1,  slug: "ecrire-sur-soi",                  title: "Écrire sur soi (Annie Ernaux)",     skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 1,  exam_type: "abitur_bf"}
+      - {unit_nr: 2,  slug: "francophonie-postcoloniale",     title: "Francophonie postcoloniale",       skills_focus: ["leseverstehen","text_medien"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 2,  exam_type: "abitur_bf"}
+      - {unit_nr: 3,  slug: "presse-d-opinion",                title: "Presse d'opinion",                 skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 3,  exam_type: "abitur_bf"}
+      - {unit_nr: 4,  slug: "court-metrage",                   title: "Court-métrage francophone",        skills_focus: ["hör_hörsehverstehen","text_medien"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 4,  exam_type: "abitur_bf"}
+      - {unit_nr: 5,  slug: "mediation-academique",            title: "Médiation académique",             skills_focus: ["sprachmittlung"], bildungsplan: ["3.1.3.6 Sprachmittlung"], theme_arc_position: 5,  exam_type: "abitur_bf"}
+      - {unit_nr: 6,  slug: "argumentation-structuree",        title: "Argumentation structurée",         skills_focus: ["schreiben","sprechen_monolog"], bildungsplan: ["3.1.3.5 Schreiben","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 6,  exam_type: "abitur_bf"}
+      - {unit_nr: 7,  slug: "extrait-roman-contemporain",      title: "Extrait de roman contemporain",    skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 7,  exam_type: "abitur_bf"}
+      - {unit_nr: 8,  slug: "voix-feminines",                  title: "Voix féminines en littérature",    skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 8,  exam_type: "abitur_bf"}
+      - {unit_nr: 9,  slug: "histoire-et-memoire",             title: "Histoire et mémoire (Vichy, Algérie)", skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 9,  exam_type: "abitur_bf"}
+      - {unit_nr: 10, slug: "ecologie-en-france",              title: "Écologie en France",              skills_focus: ["leseverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 10, exam_type: "abitur_bf"}
+      - {unit_nr: 11, slug: "discours-politique",              title: "Discours politique : analyser",   skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 11, exam_type: "abitur_bf"}
+      - {unit_nr: 12, slug: "bilan-classe-11",                 title: "Bilan : 11e",                      skills_focus: ["schreiben","sprechen_monolog"], bildungsplan: ["3.1.3.5 Schreiben","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 12, exam_type: "abitur_bf"}
+
+  - id: "track_e_kl12"
+    track: "e"
+    klassenstufe: 12
+    niveau: "E"
+    cap: "Analyses approfondies, dossier d'auteur, préparation Abitur écrit."
+    cast: ["Anouk en 12e (Leistungsfach)", "Théodore", "Voix : Albert Camus, Maryse Condé, Leïla Slimani"]
+    voice_guidance: "phrases 22-30 mots, vocabulaire analytique, analyse stylistique"
+    units:
+      - {unit_nr: 1,  slug: "introduire-camus",                title: "Introduire : *L'Étranger* (Camus)", skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 1,  exam_type: "abitur_lf"}
+      - {unit_nr: 2,  slug: "analyse-stylistique",             title: "Analyse stylistique",              skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 2,  exam_type: "abitur_lf"}
+      - {unit_nr: 3,  slug: "decolonisation-litteraire",       title: "Décolonisation littéraire (Condé)", skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 3,  exam_type: "abitur_lf"}
+      - {unit_nr: 4,  slug: "presse-engagee",                  title: "Presse engagée (Le Monde diplomatique)", skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 4,  exam_type: "abitur_lf"}
+      - {unit_nr: 5,  slug: "mediation-fr-de",                 title: "Médiation FR↔DE (Abitur)",          skills_focus: ["sprachmittlung"], bildungsplan: ["3.1.3.6 Sprachmittlung"], theme_arc_position: 5,  exam_type: "abitur_lf"}
+      - {unit_nr: 6,  slug: "etude-de-roman",                  title: "Étude de roman complet (extraits)", skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 6,  exam_type: "abitur_lf"}
+      - {unit_nr: 7,  slug: "discours-radio",                  title: "Discours et radio (France Inter)",  skills_focus: ["hör_hörsehverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.1 Hör-/Hörsehverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 7,  exam_type: "abitur_lf"}
+      - {unit_nr: 8,  slug: "gender-litteraire",               title: "Gender et littérature contemporaine", skills_focus: ["leseverstehen","sprechen_dialog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 8,  exam_type: "abitur_lf"}
+      - {unit_nr: 9,  slug: "memoire-et-traumatisme",          title: "Mémoire et traumatisme (Modiano)", skills_focus: ["leseverstehen","text_medien"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.4 Text- und Medienkompetenz"], theme_arc_position: 9,  exam_type: "abitur_lf"}
+      - {unit_nr: 10, slug: "argumenter-en-public",            title: "Argumenter en public (Kommunikationsprüfung)", skills_focus: ["sprechen_monolog","sprechen_dialog"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 10, exam_type: "abitur_lf"}
+      - {unit_nr: 11, slug: "preparer-l-abitur-ecrit",         title: "Préparer l'Abitur écrit",          skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 11, exam_type: "abitur_lf"}
+      - {unit_nr: 12, slug: "bilan-12e",                        title: "Bilan : 12e",                      skills_focus: ["schreiben","sprechen_monolog"], bildungsplan: ["3.1.3.5 Schreiben","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 12, exam_type: "abitur_lf"}
+
+  - id: "track_e_kl13"
+    track: "e"
+    klassenstufe: 13
+    niveau: "E"
+    cap: "Préparation finale Abitur (écrit + Kommunikationsprüfung)."
+    cast: ["Anouk en 13e (juste avant Abitur)", "Théodore", "Voix : tous les auteur·e·s rencontré·e·s en 11e + 12e"]
+    voice_guidance: "phrases 25+ mots, niveau examen, hyperprécision"
+    units:
+      - {unit_nr: 1,  slug: "synthese-themes-litteraires",     title: "Synthèse des thèmes littéraires",   skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 1,  exam_type: "abitur_lf"}
+      - {unit_nr: 2,  slug: "francophonie-pluralite",          title: "Francophonie : pluralité culturelle", skills_focus: ["leseverstehen","sprechen_monolog"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 2,  exam_type: "abitur_lf"}
+      - {unit_nr: 3,  slug: "essai-personnel",                  title: "Essai personnel : structure",      skills_focus: ["schreiben"], bildungsplan: ["3.1.3.5 Schreiben"], theme_arc_position: 3,  exam_type: "abitur_lf"}
+      - {unit_nr: 4,  slug: "abitur-mock-1",                    title: "Abitur mock 1 — texte journalistique", skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 4,  exam_type: "abitur_lf"}
+      - {unit_nr: 5,  slug: "abitur-mock-2",                    title: "Abitur mock 2 — extrait littéraire", skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 5,  exam_type: "abitur_lf"}
+      - {unit_nr: 6,  slug: "mediation-finale",                 title: "Médiation FR↔DE (finale)",         skills_focus: ["sprachmittlung"], bildungsplan: ["3.1.3.6 Sprachmittlung"], theme_arc_position: 6,  exam_type: "abitur_lf"}
+      - {unit_nr: 7,  slug: "kommunikationspruefung-prep",      title: "Kommunikationsprüfung : préparation", skills_focus: ["sprechen_monolog","sprechen_dialog"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.3 Sprechen — an Gesprächen teilnehmen"], theme_arc_position: 7,  exam_type: "abitur_lf"}
+      - {unit_nr: 8,  slug: "discussion-sur-stimulus",          title: "Discussion sur stimulus visuel",   skills_focus: ["sprechen_dialog","sprechen_monolog"], bildungsplan: ["3.1.3.3 Sprechen — an Gesprächen teilnehmen","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 8,  exam_type: "abitur_lf"}
+      - {unit_nr: 9,  slug: "monologue-et-presentation",        title: "Monologue : présenter un dossier", skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 9,  exam_type: "abitur_lf"}
+      - {unit_nr: 10, slug: "reflexion-sur-soi",                title: "Réflexion sur son propre parcours FLE", skills_focus: ["sprechen_monolog","schreiben"], bildungsplan: ["3.1.3.4 Sprechen — monologisches Sprechen","3.1.3.5 Schreiben"], theme_arc_position: 10, exam_type: "abitur_lf"}
+      - {unit_nr: 11, slug: "abitur-mock-final",                title: "Abitur mock final (Bedingungen réelles)", skills_focus: ["leseverstehen","schreiben"], bildungsplan: ["3.1.3.2 Leseverstehen","3.1.3.5 Schreiben"], theme_arc_position: 11, exam_type: "abitur_lf"}
+      - {unit_nr: 12, slug: "bilan-final-abitur",               title: "Bilan final : Abitur en vue",      skills_focus: ["schreiben","sprechen_monolog"], bildungsplan: ["3.1.3.5 Schreiben","3.1.3.4 Sprechen — monologisches Sprechen"], theme_arc_position: 12, exam_type: "abitur_lf"}

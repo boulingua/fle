@@ -1,0 +1,67 @@
+---
+title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 8"
+subtitle: "Discussion sur stimulus visuel · Klasse 13 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la description (Unité 8, texte C). Répondez :
+
+1. Où se trouve Anouk sur la photo ?
+2. Quel livre tient-elle ?
+3. D'où vient la lumière ?
+4. Quelles couleurs dominantes ?
+5. Quelle citation conclut la description ?
+
+### Tâche 2 — Termes de description (8 P.)
+
+Reliez :
+
+- premier plan · arrière-plan · contre-jour · plan américain
+  · chiaroscuro · cadrage · centre · décor
+
+(Définitions : devant · derrière · lumière de face · hauteur
+hanche · clair-obscur · découpe · milieu · environnement.)
+
+### Tâche 3 — Description + discussion (12 P.)
+
+À partir d'une **photo fournie** (au choix : photo Frontex /
+photo Mollat / photo manifestation climat), rédigez :
+
+- description objective (1 §)
+- description technique (1 §)
+- interprétation (1 §)
+- lien personnel ou littéraire (1 §)
+
+(~350 mots cumulés.)
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Termes            | 8       |
+| Tâche 3 — Description       | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Premier plan, centre, devant Mollat
+(Bordeaux). 2) *L'Étranger* de Camus. 3) Soleil de
+septembre, par la gauche (contre-jour léger). 4) Bleu
+(façade) + orange (livre). 5) *« La langue française m'a
+adopté »* (Ben Jelloun).
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 4 § · 4 étapes
+(objectif/technique/interprétation/personnel).
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 8*

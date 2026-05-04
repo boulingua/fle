@@ -1,0 +1,118 @@
+---
+title: "Klasse 11 — Niveau E"
+---
+
+::: {.hero-kicker}
+PARCOURS E (Gymnasium) · KLASSE 11 · OBERSTUFE
+:::
+
+# Klasse 11 — Niveau E
+
+[E]{.cefr-badge .b2}
+
+Douze Unités au niveau **E** (Gymnasium) en Klasse 11.
+Entrée en **Oberstufe** : analyses littéraires, presse,
+francophonie postcoloniale. Préparation Abitur Bf.
+
+## Cap visé
+
+Première année d'Oberstufe : analyse littéraire (Ernaux,
+Slimani, Ben Jelloun, Beauvoir), dissertation TAS,
+médiation académique, discours politique.
+
+## Cast récurrent
+
+- **Anouk** en 11e (Lf ou Bf).
+- **Théodore**, prof de littérature comparée.
+- **Voix d'auteur·e·s** : Ernaux, NDiaye, Ben Jelloun,
+  Slimani, Beauvoir, Senghor.
+
+## Les douze Unités
+
+::: {.card-grid}
+
+::: {.card}
+### [Unité 1 — Écrire sur soi (Annie Ernaux)](units/unit01_ecrire-sur-soi.qmd)
+Modul : Lesen + Schreiben. *Les Années* (2008).
+:::
+
+::: {.card}
+### [Unité 2 — Francophonie postcoloniale](units/unit02_francophonie-postcoloniale.qmd)
+Modul : Lesen + Text-Medien. Ben Jelloun, NDiaye.
+:::
+
+::: {.card}
+### [Unité 3 — Presse d'opinion](units/unit03_presse-d-opinion.qmd)
+Modul : Lesen + Sprechen. Édito, fait/opinion.
+:::
+
+::: {.card}
+### [Unité 4 — Court-métrage francophone](units/unit04_court-metrage.qmd)
+Modul : Hören + Text-Medien. Fitoussi, *Bonbon au poivre*.
+:::
+
+::: {.card}
+### [Unité 5 — Médiation académique](units/unit05_mediation-academique.qmd)
+Modul : Sprachmittlung. Article *Spektrum* IA.
+:::
+
+::: {.card}
+### [Unité 6 — Argumentation structurée](units/unit06_argumentation-structuree.qmd)
+Modul : Schreiben. Dissertation TAS 400 mots.
+:::
+
+::: {.card}
+### [Unité 7 — Extrait de roman contemporain](units/unit07_extrait-roman-contemporain.qmd)
+Modul : Lesen. Slimani, *Chanson douce*.
+:::
+
+::: {.card}
+### [Unité 8 — Voix féminines en littérature](units/unit08_voix-feminines.qmd)
+Modul : Lesen + Sprechen. Beauvoir, Duras, NDiaye.
+:::
+
+::: {.card}
+### [Unité 9 — Histoire et mémoire (Vichy, Algérie)](units/unit09_histoire-et-memoire.qmd)
+Modul : Lesen + Schreiben. Vél d'Hiv 1942, 17 oct. 1961.
+:::
+
+::: {.card}
+### [Unité 10 — Écologie en France](units/unit10_ecologie-en-france.qmd)
+Modul : Lesen + Sprechen. Mix énergétique FR/DE.
+:::
+
+::: {.card}
+### [Unité 11 — Discours politique : analyser](units/unit11_discours-politique.qmd)
+Modul : Lesen + Sprechen. De Gaulle 18 juin 1940.
+:::
+
+::: {.card}
+### [Unité 12 — Bilan : 11e](units/unit12_bilan-classe-11.qmd)
+Modul : Schreiben. Cap sur l'Abitur.
+:::
+
+:::
+
+## Cap d'épreuve
+
+Klausuren BW au format Abitur Bf, ~30 points par épreuve.
+Notenschlüssel 15 Points BW : *15 ≥ 95 % · 10 ≥ 65 % · 5 ≥
+40 % · 0 < 20 %*.
+
+## Couverture des compétences fonctionnelles (3.1.3.x)
+
+| Code        | Compétence                                  | Unités          |
+|-------------|---------------------------------------------|-----------------|
+| 3.1.3.1     | Hör-/Hörsehverstehen                        | 4               |
+| 3.1.3.2     | Leseverstehen                               | 1, 2, 3, 7, 8, 9, 10, 11 |
+| 3.1.3.3     | Sprechen (Dialog)                           | 10              |
+| 3.1.3.4     | Sprechen (Monolog)                          | 3, 6, 8, 11, 12 |
+| 3.1.3.5     | Schreiben                                   | 1, 6, 7, 9, 12  |
+| 3.1.3.6     | Sprachmittlung                              | 5               |
+| 3.1.4       | Text- und Medienkompetenz                   | 2, 4            |
+
+## Voir aussi
+
+- [Programme complet (156 Unités)](../programme.qmd)
+- [Bildungsplan](../bildungsplan.qmd)
+- [Accueil](../index.qmd)

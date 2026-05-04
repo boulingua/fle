@@ -1,0 +1,62 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 12"
+subtitle: "Préparation Mittlere Reife · Klasse 9 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le bilan de Léa (Unité 12, texte C). Répondez :
+
+1. Où Léa a-t-elle fait son Praktikum ?
+2. À quel journal a-t-elle écrit une lettre de motivation ?
+3. Qui est Mehdi ?
+4. Citez **3 thèmes** abordés cette année.
+5. Quel est son projet pour la 10ᵉ ? Et son rêve plus tard ?
+
+### Tâche 2 — Sprachmittlung (8 P.)
+
+Médiez en **3 phrases françaises** :
+
+> *« Die mündliche Prüfung dauert 15 Minuten und besteht aus
+> einem 3-minütigen Vortrag und einem Gespräch. Die Prüfer
+> stellen Fragen zu deinem Thema. »*
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre bilan de 9ᵉ** en **150 mots** : intro + 3
+paragraphes (3 réussites · 2 difficultés · 1 projet) +
+conclusion. Utilisez **5 connecteurs** + **les 3 temps**
+(présent, passé composé, futur proche).
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Sprachmittlung    | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Chez Hugo, le boulanger. 2) *Le Monde*.
+3) Son correspondant tunisien. 4) Stage, lettre de motivation,
+Tunisie, argumenter, podcasts, différences FR-DE. 5) Préparer
+le Realschulabschluss en 10ᵉ + Erasmus à Montréal.
+
+**Tâche 2.** Modèle : *L'épreuve orale dure 15 minutes : un
+exposé de 3 minutes puis un échange. Les examinateurs posent
+des questions sur le sujet préparé.* Critères : 3 phrases ·
+sens transmis · pas de mot-à-mot.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 5
+connecteurs · 3 temps · plan complet.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 12*

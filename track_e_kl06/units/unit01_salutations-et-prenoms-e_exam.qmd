@@ -1,0 +1,57 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 1"
+subtitle: "Salutations et prénoms · Klasse 6 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+
+### Tâche 1 — Vocabulaire (10 P.)
+
+Traduisez :
+
+- Guten Tag · Guten Abend · Hallo · Auf Wiedersehen ·
+  Schönen Tag · Bis bald · Wie heißt du? · Wie alt bist du? ·
+  Ich heiße ... · Ich bin ... Jahre alt.
+
+### Tâche 2 — Leseverstehen (8 P.)
+
+Lisez le mini-dialogue (Unité 1, texte D). Répondez :
+
+1. Quels sont les noms de famille des deux personnages ?
+2. D'où vient Tristan ? Où habite-t-il ?
+3. Quel âge ont les deux personnages ?
+4. Dans quelle classe sont-ils ?
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre carte d'identité** en **50 mots** : prénom +
+nom + âge + classe + nationalité + ville. Épelez votre **nom
+de famille** à la fin.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Vocabulaire       | 10      |
+| Tâche 2 — Leseverstehen     | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** Bonjour · Bonsoir · Salut · Au revoir · Bonne
+journée · À bientôt · Comment t'appelles-tu ? · Quel âge as-tu ?
+· Je m'appelle ... · J'ai ... ans.
+
+**Tâche 2.** 1) Schmidt et Devos. 2) Belge, Strasbourg.
+3) 11 ans tous deux. 4) 6ᵉ B.
+
+**Tâche 3.** Réponses libres. Critères : 50 mots · 5 infos
+demandées · épellation correcte.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 1*

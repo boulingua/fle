@@ -1,0 +1,60 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 9"
+subtitle: "Extraits de romans jeunes (FR) · Klasse 10 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'extrait *La Tresse* (Unité 9, texte C). Répondez :
+
+1. Qui est Smita et de quel pays vient-elle ?
+2. Quel rêve a-t-elle pour sa fille Lalita ?
+3. Que dit la maîtresse à Lalita ?
+4. Comment Smita a-t-elle économisé ?
+5. Quelle décision finale prend-elle ?
+
+### Tâche 2 — Notions narratives (8 P.)
+
+Identifiez (extrait Unité 9, texte C) :
+
+1. Qui est l'**auteure** du roman ?
+2. Le **narrateur** est-il interne (1ʳᵉ pers.) ou externe
+   (3ᵉ pers.) ?
+3. Citez 2 **personnages** principaux.
+4. Quel est le **thème** principal ?
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez une **fiche de lecture** (~150 mots) sur un roman
+jeunesse FR au choix : auteur·e + résumé (3 phrases) +
+personnage central + thème + 1 citation + verdict.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Notions           | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Mère dalit, Inde. 2) Qu'elle aille à l'école.
+3) *« Rentre chez toi, intouchable. »* 4) Roupie après
+roupie. 5) Partir à Bénarès.
+
+**Tâche 2.** 1) Laetitia Colombani. 2) Externe (3ᵉ pers.).
+3) Smita + Lalita. 4) L'éducation, l'inégalité de caste.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 5
+éléments demandés · 1 citation.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 9*

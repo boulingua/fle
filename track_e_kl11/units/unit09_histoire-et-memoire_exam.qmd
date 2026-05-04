@@ -1,0 +1,67 @@
+---
+title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 9"
+subtitle: "Histoire et mémoire (Vichy, Algérie) · Klasse 11 · Niveau E (Abitur Bf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la note historique (Unité 9, texte C). Répondez :
+
+1. Date de la rafle du Vél d'Hiv ?
+2. Combien de personnes ? Combien d'enfants ?
+3. Combien d'années de silence officiel ?
+4. Quel président reconnaît la responsabilité, quand ?
+5. Combien de noms au Mémorial de la Shoah ?
+
+### Tâche 2 — Dates pivots (8 P.)
+
+Reliez chaque date à son événement :
+
+- 16 juillet 1942 · 1ᵉʳ nov. 1954 · 17 oct. 1961 · 19 mars
+  1962 · 16 juillet 1995 · 2018
+
+(Événements : Vél d'Hiv · Toussaint rouge · massacre Paris ·
+Accords d'Évian · discours Chirac · reconnaissance torture
+Algérie.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez une **note historique** (~300 mots) sur :
+
+- 17 octobre 1961 (massacre Paris) **OU**
+- 19 mars 1962 (Accords d'Évian)
+
+Structure : faits + 4 dates + 1 reconnaissance officielle +
+1 citation + 1 paragraphe « histoire vs mémoire ».
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Dates             | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 16 juillet 1942. 2) 13 152 / 4 115 enfants.
+3) 50 ans (1944-1995). 4) Jacques Chirac, 16 juillet 1995.
+5) 76 000.
+
+**Tâche 2.** 16-VII-1942 = Vél d'Hiv · 1-XI-1954 =
+Toussaint rouge · 17-X-1961 = massacre Paris · 19-III-1962
+= Évian · 16-VII-1995 = Chirac · 2018 = Macron-torture
+Algérie.
+
+**Tâche 3.** Réponses libres. Critères : 300 mots · 4
+dates · 1 reconnaissance · 1 citation.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 9*

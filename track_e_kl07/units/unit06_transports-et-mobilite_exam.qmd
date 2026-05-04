@@ -1,0 +1,59 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 6"
+subtitle: "Transports et mobilité · Klasse 7 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'annonce SNCF + le récit (Unité 6, textes C+D). Répondez :
+
+1. À quelle heure part le TGV ? Voie ?
+2. Combien dure le trajet ?
+3. Où Inès attend-elle ?
+4. Quelle ligne de métro prennent-elles ?
+5. Jusqu'à quelle station ?
+
+### Tâche 2 — *en* / *à* (8 P.)
+
+1. Je vais à l'école ___ vélo.
+2. Mes parents partent ___ voiture.
+3. Anouk va à Paris ___ train.
+4. Hugo part ___ pied.
+5. On voyage ___ avion en vacances.
+6. Tu vas au sport ___ tram.
+7. Karim rentre ___ métro.
+8. Tristan rentre ___ Belgique ___ TGV.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Décrivez **un trajet** entre 2 villes en **80 mots** : départ,
+arrivée, horaires, transport, durée. **3 *en/à*** + **2 PC**.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — *en* / *à*        | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 9h22, voie 4. 2) 1h45. 3) Sur le quai. 4) Ligne
+4. 5) Châtelet.
+
+**Tâche 2.** 1) à · 2) en · 3) en · 4) à · 5) en · 6) en ·
+7) en · 8) en (Belgique) / en (TGV).
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · 5 éléments
+demandés · 3 *en/à* · 2 PC.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 6*

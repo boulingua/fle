@@ -1,0 +1,61 @@
+---
+title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 2"
+subtitle: "Francophonie postcoloniale · Klasse 11 · Niveau E (Abitur Bf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'extrait Ben Jelloun (Unité 2, texte C). Répondez :
+
+1. Combien de races humaines existe-t-il selon l'auteur ?
+2. Quelles 3 causes du racisme cite-t-il ?
+3. Quels 3 remèdes propose-t-il ?
+4. Pourquoi écrit-il en français ?
+5. Qui est l'interlocutrice du dialogue ?
+
+### Tâche 2 — Concepts postcoloniaux (8 P.)
+
+Reliez :
+
+- colonisation · décolonisation · diaspora · créolité ·
+  hybridité · postcolonial
+
+(Définitions : domination · indépendance · diffusion ·
+Glissant/Chamoiseau · Bhabha · après l'empire.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez une **mini-dissertation** (~300 mots) : *« La langue
+française est-elle un héritage ou une appropriation pour les
+écrivains postcoloniaux ? »* — 4 § + 2 références +
+3 concepts.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Concepts          | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Une seule. 2) Peur, ignorance, intérêt
+politique. 3) Lire, voyager, rencontrer l'autre. 4) Le
+français l'a adopté, lui permet de parler aux Français.
+5) Sa fille.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 300 mots · 4 § ·
+2 auteurs · 3 concepts.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 2*

@@ -1,0 +1,54 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 11"
+subtitle: "Voyage en France · Klasse 6 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 6
+
+### Tâche 1 — Géographie (10 P.)
+
+Reliez chaque ville/monument à sa description.
+
+a) Paris · b) Marseille · c) Lyon · d) Strasbourg · e) Nice ·
+f) Mont-Saint-Michel · g) Pont du Gard · h) tour Eiffel
+
+1. Sur la Seine, capitale.
+2. Sur la mer Méditerranée, sud.
+3. Sur le Rhône, est.
+4. Sur le Rhin, frontière allemande.
+5. Côte d'Azur.
+6. Île-monastère en Normandie.
+7. Aqueduc romain en Occitanie.
+8. Monument-symbole de Paris.
+
+### Tâche 2 — Lecture (10 P.)
+
+Lisez la carte postale de Léa (Unité 11, texte B). Répondez :
+
+1. D'où écrit-elle ?
+2. Quel temps fait-il ?
+3. Qu'a-t-elle mangé ?
+4. Que fera-t-elle demain ?
+5. Comment finit-elle la carte ?
+
+### Tâche 3 — Schreiben (10 P.)
+
+Écrivez une **carte postale** d'une ville française imaginaire,
+~50 mots : lieu+date · salutation · météo+activité+nourriture ·
+au revoir+bisous.
+
+## Total : 30 P.
+
+## Solutions
+
+**Tâche 1.** 1–a · 2–b · 3–c · 4–d · 5–e · 6–f · 7–g · 8–h.
+
+**Tâche 2.** 1) Marseille. 2) Très chaud. 3) Une bouillabaisse.
+4) Monter à Notre-Dame de la Garde. 5) Bisous, Léa.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 11*

@@ -1,0 +1,59 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 11"
+subtitle: "Première médiation DE → FR · Klasse 7 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+
+### Tâche 1 — Sprachmittlung DE → FR (15 P.)
+
+Lisez le texte allemand ZKM (Unité 11, texte C). **Médiez** son
+contenu en **français** pour un(e) ami(e) québécois(e) en
+**5 phrases** (~70 mots). Pas de mot-à-mot.
+
+### Tâche 2 — Leseverstehen (8 P.)
+
+Vrai ou faux ? (sur le texte source)
+
+|   | Affirmation                                             | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Le ZKM est ouvert tous les jours.                       | ☐ | ☐ |
+| 2 | L'entrée pour adultes coûte 8 €.                        | ☐ | ☐ |
+| 3 | Les enfants de moins de 12 ans payent 4 €.              | ☐ | ☐ |
+| 4 | C'est un musée d'art numérique.                         | ☐ | ☐ |
+
+### Tâche 3 — Schreiben (7 P.)
+
+Écrivez un **courriel** (~50 mots) à un(e) ami(e) québécois(e)
+qui visite Karlsruhe : invitez-le/la au ZKM en résumant les
+infos pratiques.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Sprachmittlung    | 15      |
+| Tâche 2 — Leseverstehen     | 8       |
+| Tâche 3 — Schreiben         | 7       |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** Modèle : *Le ZKM est un musée d'art numérique à
+Karlsruhe. On y voit de l'art médiatique, des installations
+vidéo, de l'art informatique. Il est ouvert du mercredi au
+dimanche de 10h à 18h. L'entrée coûte 8 € (4 € pour les
+élèves). Les enfants de moins de 12 ans entrent gratuitement.*
+Critères : 5 phrases · sens transmis · pas de mot-à-mot.
+
+**Tâche 2.** 1) F. 2) V. 3) F (gratuit). 4) V.
+
+**Tâche 3.** Réponses libres. Critères : 50 mots · format
+courriel · 3 infos pratiques · ton amical (*tu*).
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 11*

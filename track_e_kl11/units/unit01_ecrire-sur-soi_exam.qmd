@@ -1,0 +1,64 @@
+---
+title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 1"
+subtitle: "Écrire sur soi (Annie Ernaux) · Klasse 11 · Niveau E (Abitur Bf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'extrait *Les Années* (Unité 1, texte C). Répondez :
+
+1. Quel est l'incipit du livre ?
+2. Quelles 3 images personnelles sont citées ?
+3. À quelle époque renvoie *La Famille Mora* ?
+4. Que veut « sauver » la narratrice ?
+5. Comment qualifie-t-elle ce projet ?
+
+### Tâche 2 — Genres autobiographiques (8 P.)
+
+Reliez chaque genre à sa définition :
+
+- autobiographie · autofiction · récit transpersonnel ·
+  journal intime · mémoires · témoignage
+
+(Définitions : « je » + vérité · « je » + fiction · « je » →
+« nous » · au jour le jour · vie publique · expérience
+collective.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+À la manière d'Ernaux, rédigez votre **page d'écriture de
+soi** (~250 mots) : 5 images personnelles + 2 collectives
++ 1 incipit + 1 chute.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Genres            | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) *Toutes les images disparaîtront.* 2) Femme
+accroupie urinant ; Claude Piéplu dans *La Famille Mora* ;
+mari devant la cuisinière à charbon. 3) 1969. 4) Ses images
+personnelles + collectives. 5) *« Ce qu'on appelle une vie. »*
+
+**Tâche 2.** autobiographie = « je » + vérité ; autofiction
+= « je » + fiction ; transpersonnel = « je » → « nous » ;
+journal = au jour le jour ; mémoires = vie publique ;
+témoignage = expérience collective.
+
+**Tâche 3.** Réponses libres. Critères : 250 mots · 5 images
+perso · 2 collectives · 1 incipit · 1 chute.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 1*

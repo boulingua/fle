@@ -1,0 +1,99 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 2"
+subtitle: "Mes médias préférés · Klasse 8 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 8
+
+::: {.callout-warning}
+Format Klassenarbeit BW (niveau M) avec **partie orale
+enregistrée**, durée totale ~60 min (incl. enregistrement).
+Stimuli originaux.
+:::
+
+### Tâche 1 — Leseverstehen (8 P.)
+
+Lisez le mini-dialogue suivant.
+
+> **Madame Renault :** Karim, qu'est-ce que tu as regardé hier
+> soir ?
+>
+> **Karim :** Des vidéos courtes sur YouTube. Genre 30 secondes
+> chacune. Sur tout — sport, animaux, des trucs marrants.
+>
+> **Léa :** Moi, j'ai lu un article sur les vacances scolaires
+> dans *1 jour, 1 actu*.
+>
+> **Madame Renault :** Très bien. La différence, c'est que ton
+> article, Léa, a une **source** signée. Toi, Karim, est-ce que
+> tu sais qui a fait tes vidéos ?
+
+Répondez en phrases complètes :
+
+1. Que regardait Karim hier soir ? (2 P.)
+2. Pourquoi Madame Renault préfère-t-elle l'article de Léa ?
+   (3 P.)
+3. Que veut dire « fiable » dans ce contexte ? (3 P.)
+
+### Tâche 2 — Mündlicher Anteil (12 P.)
+
+Vous enregistrez un mini-interview de **90 secondes** avec un·e
+camarade. Posez et répondez à **trois questions** :
+
+- *Quels médias suis-tu régulièrement ?*
+- *Comment vérifies-tu qu'un article / une vidéo est fiable ?*
+- *Qu'est-ce qui te plaît dans tes médias ?*
+
+Critères de notation :
+
+- **Erfüllung** (3 questions posées + réponses claires) : 4 P.
+- **Sprache** (vocabulaire des médias + structures M) : 4 P.
+- **Aussprache** (intelligibilité) : 4 P.
+
+### Tâche 3 — Schreiben (10 P.)
+
+Écrivez un texte d'environ **70 mots** :
+
+> *« Mon média préféré et pourquoi. »*
+
+Mentionnez le nom du média, le type (papier / vidéo / radio /
+réseau social), un avantage, un inconvénient.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 8       |
+| Tâche 2 — Mündlich          | 12      |
+| Tâche 3 — Schreiben         | 10      |
+| **Total**                   | **30**  |
+
+Notenschlüssel BW typique :
+*1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
+
+## Solutions (extrait)
+
+**Tâche 1.**
+
+1. Karim regardait des vidéos courtes (≈ 30 secondes) sur
+   YouTube, sur des sujets très variés.
+2. Parce que l'article de Léa a une **source signée** : on sait
+   qui a écrit le texte.
+3. *Fiable* = digne de confiance / sérieux ; on peut s'y fier
+   parce que l'auteur·rice est identifiable.
+
+**Tâche 3 (modèle, ~72 mots).**
+
+> Mon média préféré, c'est *1 jour, 1 actu*. C'est un magazine
+> en vidéo et en texte qui explique l'actualité aux ados. Un
+> avantage : les explications sont courtes et claires. Un
+> inconvénient : il y a parfois des sujets difficiles que je dois
+> relire. Je le préfère à TikTok, parce que je sais qui écrit
+> les articles, et il y a une **vraie source**.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 2*

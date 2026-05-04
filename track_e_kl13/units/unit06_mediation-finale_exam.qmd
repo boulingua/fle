@@ -1,0 +1,75 @@
+---
+title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 6"
+subtitle: "Médiation FR↔DE (finale) · Klasse 13 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+
+### Tâche 1 — Verstehen (8 P.)
+
+Lisez la médiation DE (Unité 6, texte C). Répondez :
+
+1. Quel jour Anouk a-t-elle gagné ?
+2. Quelle est la dotation du prix ?
+3. Quels 4 auteurs cite-t-elle ?
+4. Quelle est la phrase finale de Marie-Christine
+   Saragosse ?
+
+### Tâche 2 — Faux amis franco-allemands (8 P.)
+
+Donnez la **bonne traduction** :
+
+1. *peut-être* → ___ (allemand)
+2. *réunion* → ___
+3. *débat* → ___
+4. *éventuellement* (en français) → ___ (allemand,
+   attention faux ami !)
+
+### Tâche 3 — Sprachmittlung finale (14 P.)
+
+Médiez ce texte français en allemand (~350 mots) :
+
+> *Selon l'OIF, en 2024, la francophonie compte 88 États et
+> 321 millions de locuteurs sur 5 continents. En Afrique,
+> où le français progresse, on prévoit 600 millions de
+> locuteurs en 2050. Tahar Ben Jelloun, écrivain marocain,
+> rappelle : « La langue française m'a adopté, et elle
+> me permet de parler aux Français de leur histoire. » La
+> francophonie est ainsi un patrimoine partagé, plus
+> qu'un héritage.*
+
+## Notation
+
+| Tâche                    | Points |
+|--------------------------|--------|
+| Verstehen                | 8      |
+| Faux amis                | 8      |
+| Sprachmittlung           | 14     |
+| **Total**                | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 9 mai 2029 (Europatag). 2) 5 000 €. 3)
+Camus, Senghor, Ben Jelloun, Despentes. 4) *« Diese neue
+Generation erfindet die Frankophonie neu. »*
+
+**Tâche 2.** 1) *vielleicht* · 2) *Sitzung* · 3)
+*Debatte* · 4) *gegebenenfalls* (le piège : « eventuell »
+ne signifie *pas* éventuellement en français).
+
+**Tâche 3.** Modèle : *Laut der OIF zählt die Frankophonie
+2024 88 Staaten und 321 Millionen Sprecher·innen auf 5
+Kontinenten. In Afrika, wo Französisch zunimmt, werden für
+2050 600 Millionen Sprecher·innen prognostiziert. Tahar
+Ben Jelloun, marokkanischer Schriftsteller, erinnert: « Die
+französische Sprache hat mich adoptiert, und sie erlaubt
+mir, mit den Franzosen über ihre Geschichte zu sprechen. »
+Die Frankophonie ist somit ein **geteiltes Erbe**, mehr als
+eine **Hinterlassenschaft**.* (~280 mots).
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 6*

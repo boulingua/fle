@@ -1,0 +1,63 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau M) — Unité 2"
+subtitle: "Raconter le week-end · Klasse 7 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 7
+
+### Tâche 1 — Grammatik : passé composé (12 P.)
+
+Conjuguez au passé composé.
+
+1. J' *(manger)* une pomme.
+2. Tu *(aller)* à l'école.
+3. Il *(jouer)* au foot avec Théo.
+4. Nous *(partir)* tôt samedi.
+5. Vous *(regarder)* un film.
+6. Elles *(arriver)* en retard.
+7. Léa *(parler)* à sa grand-mère.
+8. On *(rester)* à la maison dimanche.
+
+### Tâche 2 — Leseverstehen (8 P.)
+
+Lisez le mini-récit de Léa (Unité 2, texte C). Vrai ou faux ?
+
+|   | Affirmation                                            | V | F |
+|---|--------------------------------------------------------|:-:|:-:|
+| 1 | Samedi matin, Léa a joué au tennis.                    | ☐ | ☐ |
+| 2 | Léa a aidé sa mère à la cuisine.                       | ☐ | ☐ |
+| 3 | Léa est allée chez sa grand-mère à Strasbourg.         | ☐ | ☐ |
+| 4 | Léa et sa grand-mère sont rentrées à 17h.              | ☐ | ☐ |
+
+### Tâche 3 — Schreiben (10 P.)
+
+Racontez **votre week-end** en **5 phrases** (~70 mots).
+Au moins **3 verbes au passé composé** dont **1 avec *être***.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Grammatik         | 12      |
+| Tâche 2 — Leseverstehen     | 8       |
+| Tâche 3 — Schreiben         | 10      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) ai mangé · 2) es allé(e) · 3) a joué · 4) sommes
+parti(e)s · 5) avez regardé · 6) sont arrivées · 7) a parlé ·
+8) est resté(e)s.
+
+**Tâche 2.** 1) F (volley). 2) V. 3) V. 4) V.
+
+**Tâche 3.** Réponses libres. Critères : 5 phrases · 3 verbes au
+passé composé · 1 verbe avec *être* · accord du participe avec
+*être*.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 2*

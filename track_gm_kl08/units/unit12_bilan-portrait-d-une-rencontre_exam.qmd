@@ -1,0 +1,67 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 12 (finale)"
+subtitle: "Bilan : portrait d'une rencontre · Klasse 8 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit finale — Niveau M, Klasse 8
+
+### Tâche unique — Portrait écrit (30 P.)
+
+Écrivez le **portrait** d'une rencontre francophone (réelle ou
+fictive) que vous avez faite cette année — par écrit, en
+personne, en film ou en chanson. Longueur : **120-150 mots**.
+
+**Structure obligatoire** (5 parties) :
+
+1. **Présentation** (qui est cette personne ? — présent).
+2. **Comment vous l'avez rencontrée** (quand et comment — passé
+   composé).
+3. **Ce qu'elle vous a apporté** (passé composé ou imparfait).
+4. **Une réflexion personnelle** (au présent : *Cela m'a appris
+   que · Pour moi · Cette rencontre …*).
+5. **Un projet futur** la concernant (futur simple).
+
+Au moins **4 connecteurs** du cours (D'abord · Ensuite · Puis ·
+Enfin · Pour moi · Cela m'a appris que · Plus tard …).
+
+## Notation
+
+| Critère                                                 | Points |
+|---------------------------------------------------------|-------:|
+| Structure (5 parties présentes)                         | 8      |
+| Trois temps équilibrés (présent + passé composé + futur)| 10     |
+| Vocabulaire + 4 connecteurs minimum                     | 6      |
+| Sens fidèle et personnel (pas de copie du modèle)       | 6      |
+| **Total**                                               | **30** |
+
+Notenschlüssel BW typique :
+*1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
+
+## Modèle (~140 mots, à comparer mais ne pas copier)
+
+> **Inès Tremblay, 14 ans, Montréal.**
+>
+> Inès est ma correspondante depuis octobre. Elle est en 2e
+> secondaire à Montréal et joue à l'improvisation théâtrale.
+> Elle vit avec sa famille — sa mère infirmière, son père
+> déménageur, son petit frère hockey.
+>
+> D'abord, je l'ai rencontrée par écrit, dès le premier jour de
+> Klasse 8. Ensuite, on a échangé chaque semaine. Elle m'a
+> appris que *« écœurant »* veut dire *génial* au Québec, et
+> que les mots peuvent retourner leur sens.
+>
+> Pour moi, Inès est plus qu'une correspondante : elle est la
+> preuve que le français vit autrement de l'autre côté de
+> l'océan. Cela m'a appris que la rencontre par écrit peut être
+> aussi forte qu'en personne.
+>
+> Plus tard, j'irai à Montréal. Je verrai le mont Royal en
+> hiver. Et je rencontrerai Inès, enfin, en personne.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 12 · Klassenarbeit finale*

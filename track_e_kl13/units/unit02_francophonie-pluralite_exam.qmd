@@ -1,0 +1,61 @@
+---
+title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 2"
+subtitle: "Francophonie : pluralité culturelle · Klasse 13 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la présentation francophonie (Unité 2, texte C).
+Répondez :
+
+1. Combien d'États OIF en 2024 ?
+2. Combien de locuteurs en Afrique subsaharienne ?
+3. Quelle linguiste française est citée ?
+4. Quelle citation de Senghor ?
+5. Quelle est la thèse de la présentation ?
+
+### Tâche 2 — Variantes francophones (8 P.)
+
+Reliez chaque mot à sa variante :
+
+- char · septante · moussa · bezzef · poutine · drink ·
+  yallah · écœurant
+
+(Variantes : québécois · belge · sénégalais · maghrébin ·
+québécois · belge · maghrébin · québécois.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez votre **dissertation** (~400 mots) : *« La
+francophonie est-elle un héritage colonial ou un patrimoine
+partagé ? »* — TAS + 3 citations + 2 références.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Variantes         | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 88. 2) 140 millions. 3) Henriette Walter.
+4) *« Le français est une langue à laquelle nous nous
+donnons et qui nous a donné. »* 5) Pluralité = richesse.
+
+**Tâche 2.** char/poutine/écœurant = QC · septante/drink =
+BE · moussa = SN · bezzef/yallah = MA.
+
+**Tâche 3.** Réponses libres. Critères : 400 mots · TAS ·
+3 citations · 2 références.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 2*

@@ -1,0 +1,59 @@
+---
+title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 11 (mock final)"
+subtitle: "Abitur mock final · Klasse 13 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf — mock final)
+
+### Tâche 1 — Verstehen (10 P.) — 60 min
+
+Lisez les 3 textes (Unité 11, texte C). Répondez :
+
+1. Quelle date pour la campagne OIF ?
+2. Qui est marraine ?
+3. Combien de locuteurs OIF ?
+4. Quel rang pour le français en Allemagne ?
+5. Quel anniversaire l'OFAJ ?
+
+### Tâche 2 — Analyse / Schreiben (10 P.) — 90 min
+
+Comparez **la voix de Senghor (1945)** et celle d'**Aya
+Nakamura (2030)** (~400 mots). TAS + 3 citations + 1
+interprétation de l'évolution.
+
+### Tâche 3 — Sprachmittlung (10 P.) — 60 min
+
+Médiez le texte 3 en français (~280 mots) : 5 verbes-
+charnières + lien interculturel.
+
+## Notation
+
+| Tâche                 | Points | Durée  |
+|-----------------------|--------|--------|
+| Verstehen             | 10     | 60 min |
+| Analyse / Schreiben   | 10     | 90 min |
+| Sprachmittlung        | 10     | 60 min |
+| **Total**             | **30** | **210 min** |
+
+## Solutions
+
+**Tâche 1.** 1) 9 mai 2030. 2) Aya Nakamura. 3) 321
+millions. 4) 2ᵉ langue étrangère. 5) 67 ans.
+
+**Tâche 2.** Réponses libres. Critères : 400 mots · TAS ·
+3 citations · 1 interprétation.
+
+**Tâche 3.** Modèle : *Selon une étude du Goethe-Institut
+(2030), le français reste la deuxième langue étrangère la
+plus choisie en Allemagne, après l'anglais. 1,2 million
+d'élèves apprennent le français. L'OFAJ fête en 2030 ses
+67 ans d'existence. Cette continuité reflète la solidité
+de la coopération franco-allemande, malgré la concurrence
+mondiale de l'anglais.*
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 11*

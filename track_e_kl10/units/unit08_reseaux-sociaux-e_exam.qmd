@@ -1,0 +1,61 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 8"
+subtitle: "Réseaux sociaux et identité · Klasse 10 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le journal de détox (Unité 8, texte C). Répondez :
+
+1. Combien de jours dure la détox ?
+2. Combien d'heures dort-elle après ? Avant ?
+3. Quel piège lui semble le plus dur ?
+4. Que lit-elle le 3ᵉ jour ?
+5. Comment réinstalle-t-elle Instagram ?
+
+### Tâche 2 — Conditionnel pour conseiller (8 P.)
+
+Reformulez avec « Si … , tu … » :
+
+1. désinstaller / dormir mieux → ___
+2. suivre / avis nuancé → ___
+3. désactiver / moins distrait → ___
+4. vérifier / pas de désinfo → ___
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez un **dialogue** (~140 mots, 10 répliques) avec un·e
+ami·e sur l'usage des RS : 5 pièges + 5 stratégies + 2
+conditionnels + 1 citation chiffrée.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Conditionnel      | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 7 jours. 2) 9 h après / 6 h avant. 3)
+Comparaison sociale. 4) Article du *Monde* sur le climat.
+5) Notifications désactivées + 5 comptes francophones.
+
+**Tâche 2.** 1) *Si tu désinstallais, tu dormirais mieux.*
+· 2) *Si tu suivais des comptes diversifiés, tu aurais …*
+· 3) *Si tu désactivais …, tu serais moins distrait.* · 4)
+*Si tu vérifiais, tu éviterais la désinformation.*
+
+**Tâche 3.** Réponses libres. Critères : 140 mots · 10
+répliques · 5 pièges · 5 stratégies.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 8*

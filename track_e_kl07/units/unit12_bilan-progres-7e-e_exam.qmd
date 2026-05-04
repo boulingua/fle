@@ -1,0 +1,63 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 12"
+subtitle: "Bilan : mes progrès en 7e · Klasse 7 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le bilan d'Anouk (Unité 12, texte C). Répondez :
+
+1. Quels temps a-t-elle appris cette année ?
+2. Quelles 2 régions/pays a-t-elle découverts ?
+3. Que sait-elle faire maintenant (3 choses) ?
+4. Que va-t-elle lire en 8e ?
+5. Quel est son rêve plus tard ?
+
+### Tâche 2 — Conjugaison 3 temps (8 P.)
+
+Conjuguez avec le bon temps.
+
+1. *Cette année, j' (apprendre, PC) ___ le PC.*
+2. *Maintenant, je (savoir, présent) ___ raconter.*
+3. *L'an prochain, je (lire, futur proche) ___ un roman.*
+4. *Tu (parler, présent) ___ français.*
+5. *Tu (visiter, PC) ___ la Bretagne ?*
+6. *Vous (aller voir, futur proche) ___ Inès ?*
+7. *Léa (rentrer, PC) ___ tard hier.*
+8. *Anouk (étudier, présent) ___ tous les jours.*
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre bilan de 7e** en **150 mots / 3 paragraphes** :
+3 acquis (PC) + 2 compétences actuelles (présent) + 2 projets
+8e (futur proche). **5 connecteurs**.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Conjugaison       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) PC + imparfait. 2) Québec, Bretagne.
+3) Raconter une anecdote, écrire une lettre, médiation DE→FR.
+4) *Le Petit Prince*. 5) Erasmus à Montréal.
+
+**Tâche 2.** 1) ai appris · 2) sais · 3) vais lire · 4) parles
+· 5) as visité · 6) allez voir · 7) est rentrée · 8) étudie.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3
+paragraphes · 3 temps · 5 connecteurs.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 12*

@@ -1,0 +1,268 @@
+/*-- scss:rules --*/
+
+/* =========================================================
+   FLE BW — boulingua design system (palette-free layout)
+   Reads palette from CSS custom properties defined in
+   light.scss / dark.scss. No hex colours in this file.
+   ========================================================= */
+
+/* Stop flatly/darkly stock backgrounds bleeding through */
+html,
+body {
+  background: var(--bg) !important;
+  color: var(--fg);
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Navbar — quiet, monochrome brand, accent on hover */
+.navbar,
+.navbar-default,
+nav.navbar {
+  background: var(--bg) !important;
+  border-bottom: 1px solid var(--rule);
+  color: var(--fg);
+}
+
+.navbar .navbar-brand {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--fg) !important;
+}
+
+.navbar .nav-link,
+.navbar .navbar-nav .nav-link,
+.navbar .dropdown-item {
+  color: var(--fg) !important;
+  font-weight: 500;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-link.active,
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus {
+  color: var(--accent) !important;
+  background: transparent;
+}
+
+.navbar .dropdown-menu {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+}
+
+/* Search box + dark-mode toggle live in the navbar but aren't .nav-link.
+   Flatly/Darkly stamp data-bs-theme on .navbar, which would otherwise paint
+   their icons in the wrong palette. Force them onto our palette. */
+.navbar .quarto-navigation-tool,
+.navbar .quarto-color-scheme-toggle,
+.navbar .quarto-search,
+.navbar #quarto-search,
+.navbar .aa-DetachedSearchButton,
+.navbar input.aa-Input {
+  color: var(--fg) !important;
+}
+
+.navbar .quarto-navigation-tool:hover,
+.navbar .quarto-color-scheme-toggle:hover,
+.navbar .aa-DetachedSearchButton:hover {
+  color: var(--accent) !important;
+}
+
+.navbar .quarto-color-scheme-toggle .bi,
+.navbar .quarto-search .bi,
+.navbar .aa-DetachedSearchButtonIcon,
+.navbar .aa-SubmitIcon {
+  color: var(--fg) !important;
+  fill: var(--fg);
+}
+
+.navbar .aa-DetachedSearchButton {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+}
+
+.navbar .aa-DetachedSearchButton:focus,
+.navbar .aa-DetachedSearchButton:hover {
+  border-color: var(--accent);
+}
+
+/* Footer matches body */
+.nav-footer,
+.page-footer,
+footer.footer {
+  background: var(--bg) !important;
+  color: var(--fg-alt);
+  border-top: 1px solid var(--rule);
+}
+
+.nav-footer a,
+.page-footer a,
+footer.footer a {
+  color: var(--accent);
+}
+
+.nav-footer a:hover,
+.page-footer a:hover,
+footer.footer a:hover {
+  color: var(--accent-hover);
+}
+
+/* TOC */
+#TOC,
+.sidebar nav[role="doc-toc"],
+nav#TOC {
+  color: var(--fg-alt);
+}
+
+#TOC a,
+.sidebar nav[role="doc-toc"] a,
+nav#TOC a {
+  color: var(--fg-alt);
+  border-left-color: var(--rule);
+}
+
+#TOC a:hover,
+.sidebar nav[role="doc-toc"] a:hover,
+nav#TOC a:hover {
+  color: var(--accent);
+  border-left-color: var(--accent);
+}
+
+#TOC a.active,
+.sidebar nav[role="doc-toc"] a.active,
+nav#TOC a.active {
+  color: var(--accent);
+  border-left-color: var(--accent);
+  font-weight: 500;
+}
+
+/* Hero block (landing pages) */
+.hero-kicker {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.hero-block h1 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--fg);
+}
+
+.hero-block .lead {
+  font-size: 1.15rem;
+  color: var(--fg-alt);
+  max-width: 42em;
+}
+
+/* Card grid */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.card-grid .card {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 1rem 1.1rem;
+  transition: transform 0.15s ease, border-color 0.15s ease;
+  color: var(--fg);
+}
+
+.card-grid .card:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+}
+
+.card-grid .card h3 {
+  font-size: 1rem;
+  margin: 0 0 0.4rem 0;
+  color: var(--fg);
+}
+
+.card-grid .card p {
+  color: var(--fg-alt);
+  margin: 0;
+  font-size: 0.92rem;
+}
+
+/* Lucide icon helper — inline in prose */
+.icon-circle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6em;
+  height: 1.6em;
+  border-radius: 50%;
+  background: var(--surface);
+  color: var(--accent);
+  vertical-align: middle;
+  margin: 0 0.1em;
+}
+
+.icon-circle svg {
+  width: 1em;
+  height: 1em;
+}
+
+/* Generic meme-template frame on slides */
+.meme-frame {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 0.6rem;
+  max-width: 100%;
+}
+
+.meme-frame svg {
+  max-width: 100%;
+  height: auto;
+}
+
+/* CEFR level badges — palette-specific colours come from light/dark */
+.cefr-badge {
+  display: inline-block;
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 500;
+  font-size: 0.78rem;
+  padding: 0.15em 0.55em;
+  border-radius: 4px;
+  letter-spacing: 0.04em;
+}
+
+/* Tables — quieter rules */
+table {
+  border-collapse: collapse;
+  color: var(--fg);
+}
+
+table th,
+table td {
+  border-color: var(--rule);
+}
+
+/* Code blocks */
+code,
+pre {
+  background: var(--code-bg);
+  color: var(--fg);
+}
+
+pre {
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+}
+
+/* Callouts */
+.callout {
+  background: var(--surface);
+  border-color: var(--rule);
+}

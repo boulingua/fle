@@ -1,0 +1,61 @@
+---
+title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 9"
+subtitle: "Mémoire et traumatisme (Modiano) · Klasse 12 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'ouverture de *Dora Bruder* (Unité 9, texte C).
+Répondez :
+
+1. Quelle est la source de la découverte ?
+2. Quelle date du journal ?
+3. Quel âge avait Dora ?
+4. Quelle adresse parisienne ?
+5. Pourquoi Modiano s'y intéresse-t-il personnellement ?
+
+### Tâche 2 — Motifs modianiens (8 P.)
+
+Reliez :
+
+- archive · trace · Paris occupé · enquête · mémoire trouée
+  · voix juive disparue · narrateur-détective · description
+  physique
+
+(Définitions : document trouvé · indice · ville-décor 1940-44
+· *retrouver* · creux mémoriel · Dora · Modiano lui-même ·
+manteau gris/pull bordeaux.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre mini-enquête mémorielle** (~400 mots) :
+1 nom oublié + 1 archive citée + 4 traces + interprétation.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Motifs            | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Vieux journal *Paris-Soir*. 2) 31 décembre
+1941. 3) 15 ans. 4) 41 boulevard Ornano. 5) Quartier
+d'enfance de Modiano.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 400 mots · 1 nom
+· 1 archive · 4 traces · interprétation.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 9*

@@ -1,0 +1,59 @@
+---
+title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 8"
+subtitle: "Voix féminines en littérature · Klasse 11 · Niveau E (Abitur Bf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la présentation Beauvoir (Unité 8, texte C). Répondez :
+
+1. Où et quand est née Beauvoir ?
+2. Avec qui a-t-elle formé un couple intellectuel ?
+3. En quelle année *Le Deuxième Sexe* ?
+4. Quel Goncourt et en quelle année ?
+5. Quel manifeste a-t-elle signé ?
+
+### Tâche 2 — 4 vagues féministes (8 P.)
+
+Reliez chaque vague à sa cause-clé :
+
+- 1ʳᵉ vague · 2ᵉ vague · 3ᵉ vague · 4ᵉ vague
+
+(Causes : droit de vote · IVG-MLF · intersectionnalité ·
+#MeToo.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez le **portrait** d'une autrice francophone (~280
+mots) : vie + œuvre clé + 1 citation analysée + 1 lien à
+une vague féministe.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Vagues            | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Paris, 1908. 2) Jean-Paul Sartre. 3) 1949.
+4) *Les Mandarins*, Goncourt 1954. 5) Manifeste des 343
+(1971, IVG).
+
+**Tâche 2.** 1ʳᵉ = vote · 2ᵉ = IVG-MLF · 3ᵉ =
+intersectionnalité · 4ᵉ = #MeToo.
+
+**Tâche 3.** Réponses libres. Critères : 280 mots · vie ·
+œuvre · 1 citation · 1 vague.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 8*

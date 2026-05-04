@@ -1,0 +1,58 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 8"
+subtitle: "Le Québec · Klasse 7 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+
+### Tâche 1 — Leseverstehen (12 P.)
+
+Lisez la lettre d'Inès (Unité 8, texte C). Répondez :
+
+1. D'où écrit Inès ?
+2. Quelle saison + temps ?
+3. Qu'a mangé Inès chez sa grand-mère ?
+4. Qui est Antoine ?
+5. Qu'a-t-elle acheté en magasinant ?
+6. Que va-t-elle faire le mois prochain ?
+
+### Tâche 2 — Québécismes (8 P.)
+
+Traduisez en français de France :
+
+- char · chum · magasiner · dépanneur · souper · déjeuner ·
+  blonde · dîner.
+
+### Tâche 3 — Schreiben (10 P.)
+
+Rédigez une **réponse à Inès** en **120 mots** : votre saison
++ ce que vous mangez + ce que vous faites le week-end. **2
+québécismes** entre guillemets.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 12      |
+| Tâche 2 — Québécismes       | 8       |
+| Tâche 3 — Schreiben         | 10      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Montréal. 2) Automne, 5 °C. 3) Poutine + tarte
+au sirop d'érable. 4) Son chum (copain). 5) Une tuque (bonnet).
+6) Voir les Canadiens de Montréal (hockey).
+
+**Tâche 2.** voiture · copain · faire les magasins · épicerie
+de quartier · dîner · petit-déjeuner · copine · déjeuner.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · format
+lettre · 2 québécismes guillemetés.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 8*

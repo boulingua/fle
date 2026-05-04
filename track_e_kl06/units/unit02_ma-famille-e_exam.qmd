@@ -1,0 +1,56 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 2"
+subtitle: "Ma famille · Klasse 6 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+
+### Tâche 1 — Vocabulaire (10 P.)
+
+Traduisez :
+
+- der Vater · die Mutter · der Bruder · die Schwester · der Opa
+  · die Oma · der Onkel · die Tante · der Cousin · die Cousine.
+
+### Tâche 2 — Leseverstehen (8 P.)
+
+Lisez la famille d'Anouk (Unité 2, texte C). Répondez :
+
+1. Combien d'enfants ont les parents d'Anouk ?
+2. Quelles sont les professions des parents ?
+3. Où vivent les grands-parents ?
+4. Comment s'appelle le chien ?
+
+### Tâche 3 — Schreiben (12 P.)
+
+Présentez **votre famille** en **70 mots** : 4 membres minimum,
+prénoms, âges, professions, ville. Utilisez **5 possessifs**
+(*mon, ma, mes*).
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Vocabulaire       | 10      |
+| Tâche 2 — Leseverstehen     | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** le père · la mère · le frère · la sœur · le grand-
+père · la grand-mère · l'oncle · la tante · le cousin · la
+cousine.
+
+**Tâche 2.** 1) 2 (Anouk + Lena). 2) Père ingénieur, mère
+médecin. 3) Stuttgart. 4) Bello.
+
+**Tâche 3.** Réponses libres. Critères : 70 mots · 4 membres ·
+5 possessifs · accord article + possessif.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 2*

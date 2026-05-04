@@ -1,0 +1,62 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 11"
+subtitle: "Un projet solidaire · Klasse 8 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 8
+
+### Tâche 1 — Lecture + vocabulaire (10 P.)
+
+Lisez le texte sur le projet de l'école de Mbour (Unité 11,
+texte A). Répondez :
+
+1. Quel est le problème de l'école de Mbour ?
+2. Combien de livres faut-il acheter, et pour quel montant ?
+3. Comment l'argent est-il transféré ?
+4. Comment fait-on le suivi du projet ?
+
+### Tâche 2 — Grammatik (10 P.)
+
+Reliez les phrases avec : **parce que · pour · afin que ·
+grâce à**.
+
+1. Nous vendons des gâteaux. Nous voulons aider l'école.
+2. La fête est réussie. Beaucoup de parents sont venus.
+3. On affiche les résultats. Tous voient ce qu'on a fait.
+4. L'école manque de manuels. On a entendu parler du problème
+   par la prof.
+
+### Tâche 3 — Schreiben (10 P.)
+
+Décrivez en ~80 mots **un projet solidaire** que votre classe
+pourrait organiser. Incluez les **4 étapes** : problème ·
+proposition · objectif · suivi.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Lecture           | 10      |
+| Tâche 2 — Grammatik         | 10      |
+| Tâche 3 — Schreiben         | 10      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Trois élèves par manuel scolaire. 2) 80 manuels
+× 5 € ≈ 400 €. 3) Virement à l'association partenaire. 4)
+L'association envoie une photo + liste des manuels achetés ; on
+l'affiche au collège.
+
+**Tâche 2.** 1) *Nous vendons des gâteaux **pour** aider
+l'école.* / *parce que nous voulons aider l'école.* 2) *La fête
+est réussie **grâce à** la venue de nombreux parents.* 3) *On
+affiche les résultats **afin que** tous voient.* 4) *L'école
+manque de manuels ; on l'a su **grâce à** la prof.*
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 11*

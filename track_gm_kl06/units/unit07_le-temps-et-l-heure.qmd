@@ -1,0 +1,166 @@
+---
+title: "Unité 7 — Le temps et l'heure"
+subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 7
+slug: "le-temps-et-l-heure"
+bildungsplan:
+  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.5 Schreiben"
+  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+skills_focus:
+  - leseverstehen
+  - schreiben
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit07_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je dis l'heure : *Il est 8h, midi, 14h30*.
+- Je nomme les **7 jours de la semaine** + **12 mois**.
+- Je lis un emploi du temps + un calendrier.
+
+## Histoire d'introduction
+
+Théo demande à Léa : *« On se voit lundi à 16h ? »* Léa
+réfléchit : *« Lundi, j'ai sport. Mardi, c'est mieux. À 17 heures
+dans le parc ? »*
+
+## 1. Activer
+
+- Quel jour est-on aujourd'hui ?
+- Quelle heure est-il maintenant ?
+- Citez les 12 mois en allemand.
+
+## 2. Apporter
+
+### A. Jours et mois
+
+| Jours        | Mois             |
+|--------------|------------------|
+| lundi        | janvier          |
+| mardi        | février          |
+| mercredi     | mars             |
+| jeudi        | avril            |
+| vendredi     | mai              |
+| samedi       | juin             |
+| dimanche     | juillet          |
+|              | août             |
+|              | septembre        |
+|              | octobre          |
+|              | novembre         |
+|              | décembre         |
+
+### B. L'heure
+
+| Heure   | Façon formelle    | Façon informelle      |
+|---------|-------------------|-----------------------|
+| 8h00    | il est 8 heures   | huit heures           |
+| 8h15    | il est 8h15       | huit heures et quart  |
+| 8h30    | il est 8h30       | huit heures et demie  |
+| 8h45    | il est 8h45       | neuf heures moins le quart |
+| 12h00   | il est midi       | midi                  |
+| 0h00    | il est minuit     | minuit                |
+
+### C. Phrases utiles
+
+- *On est quel jour ?* — *On est lundi.*
+- *Quelle heure est-il ?* — *Il est 8h30.*
+- *À quelle heure …?* — *À 14 heures.*
+- *Mon anniversaire est le 14 mai.*
+
+## 3. S'entraîner
+
+**Ex. 1 — Heure.** Écrivez l'heure en français formel :
+
+1. 9h45 → ____________
+2. 12h30 → ____________
+3. 16h15 → ____________
+4. 19h00 → ____________
+
+**Ex. 2 — Jours/mois.** Quel mois suit ?
+
+1. mars → ____________
+2. juin → ____________
+3. octobre → ____________
+4. décembre → ____________
+
+**Ex. 3 — Lecture.** Quand est l'anniversaire ?
+
+> *Mon anniversaire est le 14 février. Mon frère est né le 3
+> juillet. Et notre chien Bruno, c'est le 25 décembre — comme
+> Noël !*
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) il est neuf heures quarante-cinq. 2) il est midi
+trente / midi et demi. 3) il est seize heures quinze / quatre
+heures et quart. 4) il est dix-neuf heures.
+
+**Ex. 2.** 1) avril · 2) juillet · 3) novembre · 4) janvier.
+
+**Ex. 3.** Léa : 14 février. Frère : 3 juillet. Bruno : 25
+décembre.
+
+:::
+
+## 4. Produire
+
+**Tâche d'écriture (M, ~40 mots) :**
+
+Écrivez **3 dates** importantes pour vous (anniversaire, fête,
+date préférée) avec le **jour** et l'**heure** quand c'est
+pertinent.
+
+## 5. Réfléchir
+
+- [ ] Je dis l'heure formelle et informelle.
+- [ ] Je nomme les 7 jours et les 12 mois.
+- [ ] J'écris une date complète : *le 14 mai à 17 heures*.
+
+## Exemple d'épreuve — Klassenarbeit BW (M)
+
+**Tâche 1 — Vocabulaire (10 P.)** : 7 jours + 5 mois.
+**Tâche 2 — Heure (10 P.)** : 5 horloges à transcrire.
+**Tâche 3 — Schreiben (10 P.)** : 3 dates personnelles.
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' ·
+Produire 10' · Réfléchir 3' · Aperçu 4'.
+:::
+
+## Pièges fréquents
+
+- **« on est lundi »** ou **« nous sommes lundi »** — pas
+  *« c'est lundi »*.
+- **« et demie »** : *demi* féminin parce qu'il s'accorde avec
+  *heure*.
+- **Mois sans majuscule** : *en janvier*, pas *Janvier*.
+
+## Pour aller plus loin
+
+- **Bonjour de France — l'heure** :
+  <https://www.bonjourdefrance.com/>

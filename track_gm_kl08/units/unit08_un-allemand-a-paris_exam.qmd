@@ -1,0 +1,60 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 8"
+subtitle: "Un·e Allemand·e à Paris · Klasse 8 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 8
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez les trois extraits du journal de Léa (Unité 8, texte A).
+Répondez :
+
+1. Pourquoi Léa est-elle surprise par le métro de Paris ?
+2. Quel mot existe à Bordeaux mais pas à Paris ?
+3. Pourquoi la dame âgée connaît-elle l'allemand ?
+
+### Tâche 2 — Grammatik passé composé / imparfait (10 P.)
+
+Mettez le verbe au temps qui convient.
+
+1. Lundi soir, *(arriver, je)* _____________ à l'hôtel à 19h.
+2. Il *(faire)* _____________ très chaud dans la rame.
+3. Soudain, la dame *(parler)* _____________ en allemand.
+4. Pendant cinq jours, je *(visiter)* _____________ Paris.
+5. Mardi matin, *(commander, je)* _____________ un café crème.
+
+### Tâche 3 — Schreiben (10 P.)
+
+Écrivez **3 mini-extraits de journal** (~70 mots total) sur
+3 jours dans une ville française de votre choix. Utilisez
+**passé composé + imparfait**, mentionnez **une différence
+culturelle**.
+
+## Notation
+
+| Tâche                    | Points  |
+|--------------------------|--------:|
+| Tâche 1 — Leseverstehen  | 10      |
+| Tâche 2 — Grammatik      | 10      |
+| Tâche 3 — Schreiben      | 10      |
+| **Total**                | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Il fait 30°C dans la rame — plus chaud qu'à
+Karlsruhe. 2) *Chocolatine* (Bordeaux) au lieu de *pain au
+chocolat* (Paris). 3) Elle a habité à Karlsruhe dix ans dans
+les années 1970.
+
+**Tâche 2.** 1) je suis arrivée (passé composé, action). 2) il
+faisait (imparfait, description). 3) la dame a parlé (passé
+composé, ponctuel). 4) j'ai visité (passé composé, durée
+précise). 5) j'ai commandé (passé composé, action).
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 8*

@@ -1,0 +1,65 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 9"
+subtitle: "Littérature de jeunesse FR · Klasse 10 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'extrait du *Temps des miracles* d'A.-L. Bondoux
+(Unité 9, texte C). Répondez :
+
+1. Comment s'appelle vraiment le narrateur ?
+2. Pourquoi a-t-il changé de nom ?
+3. Qui est Gloria ? Pourquoi est-elle importante ?
+4. Quelle est la conclusion personnelle du narrateur ?
+5. Quel est le **thème** principal de l'extrait ?
+
+### Tâche 2 — Analyse littéraire (8 P.)
+
+1. Le narrateur écrit à la **1ʳᵉ** ou à la **3ᵉ** personne ?
+2. Quel **âge** a-t-il au début de l'extrait ?
+3. Quel **registre** (familier, courant, soutenu) ?
+4. Citez **une phrase** qui exprime la **gratitude**.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez un **avis personnel** structuré (~180 mots) sur
+l'extrait :
+
+1. **Résumé** en 2 phrases.
+2. **Ce qui vous a touché** : 2 éléments précis.
+3. **Évaluation** + recommandation à un(e) ami(e).
+
+3 connecteurs minimum (*d'abord, ensuite, en conclusion*).
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Analyse           | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Koumaïl. 2) Pour qu'il soit français
+(protection / nouvelle identité après la guerre). 3) La femme
+qui l'a sauvé du train ; il lui doit la vie. 4) « Je suis
+vivant grâce à Gloria. Et ça, c'est plus important que tout. »
+5) Identité, exil, mémoire, gratitude.
+
+**Tâche 2.** 1) 1ʳᵉ. 2) 7 ans. 3) Courant. 4) « Je suis vivant
+grâce à Gloria. »
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 3 parties ·
+3 connecteurs · cohérence.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 9*

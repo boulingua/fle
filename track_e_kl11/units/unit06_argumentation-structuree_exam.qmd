@@ -1,0 +1,62 @@
+---
+title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 6"
+subtitle: "Argumentation structurée · Klasse 11 · Niveau E (Abitur Bf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la dissertation d'Anouk (Unité 6, texte C). Répondez :
+
+1. Quel événement déclencheur en 2015 ?
+2. Quel article de la Déclaration fonde la liberté ?
+3. Citez 3 limites légales.
+4. Quelles 2 instances distinguent opinion / haine ?
+5. Que cite Anouk de Beaumarchais ?
+
+### Tâche 2 — Connecteurs logiques (8 P.)
+
+Insérez le bon connecteur (*certes, toutefois, en revanche,
+finalement, cela étant, en outre, de surcroît, au
+contraire*) :
+
+1. ___, l'article 11 de 1789 affirme la libre communication.
+2. ___, aucune liberté n'est absolue.
+3. ___, l'incitation à la haine est punie par la loi.
+4. ___, la liberté doit être large mais responsable.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez votre **dissertation TAS** (~400 mots) sur un sujet
+au choix : IA / climat / réseaux sociaux. 4 parties + 6
+connecteurs + 2 références + 1 citation.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Connecteurs       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Attentat *Charlie Hebdo*. 2) Article 11 de
+1789. 3) Haine, harcèlement, diffamation. 4) Loi de 1881 +
+Cour européenne des droits de l'homme. 5) *« Sans la
+liberté de blâmer, il n'est point d'éloge flatteur. »*
+
+**Tâche 2.** 1) Certes · 2) Toutefois · 3) En revanche ·
+4) Finalement.
+
+**Tâche 3.** Réponses libres. Critères : 400 mots · 4
+parties · 6 connecteurs · 2 références · 1 citation.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 6*

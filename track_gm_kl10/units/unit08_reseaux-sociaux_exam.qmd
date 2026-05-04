@@ -1,0 +1,64 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 8"
+subtitle: "Réseaux sociaux et identité · Klasse 10 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'article EnCLASS 2024 (Unité 8, texte C). Répondez :
+
+1. Quelle proportion de jeunes ressent un impact négatif ?
+2. Filles ou garçons plus touchés ? Avec quels chiffres ?
+3. Citez les **3 facteurs** principaux + leur pourcentage.
+4. Quelle proportion garde malgré tout ses comptes ?
+5. Citez **3 solutions** proposées.
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Définition simple en français :
+
+- la FOMO · la bulle de filtre · l'addiction au scroll ·
+  la détox numérique · l'algorithme · le filtre beauté ·
+  la comparaison · le syndrome de l'imposteur.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Prise de position (~**150 mots**) :
+
+> *« Faut-il interdire les filtres beauté sur les réseaux ? »*
+
+Plan : thèse + 2 arguments pour + 2 arguments contre +
+conclusion. **5 connecteurs** minimum.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 27 %. 2) Filles 33 %, garçons 21 %. 3) Comparaison
+physique (47 %), cyberharcèlement (29 %), dépendance au scroll
+(24 %). 4) 80 %. 5) Déconnexion 1h avant coucher, compte privé,
+pause d'une semaine par trimestre.
+
+**Tâche 2.** Peur de rater · algorithme qui ne montre que ce qui
+nous ressemble · habitude irrépressible · période sans réseaux ·
+trie automatique du contenu · retouche photo · se mesurer aux
+autres · sentiment de ne pas mériter sa place.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · plan complet
+· 5 connecteurs · arguments concrets.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 8*

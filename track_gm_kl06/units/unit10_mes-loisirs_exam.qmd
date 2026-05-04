@@ -1,0 +1,49 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 10"
+subtitle: "Mes loisirs · Klasse 6 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 6
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'affiche des activités du collège (Unité 10, texte C).
+Répondez :
+
+1. Quel club a lieu le mercredi ?
+2. À quelle heure se tient l'équipe de basket ?
+3. Où se réunit le club de lecture ?
+4. Quel jour est-il réservé aux échecs ?
+5. Quelle activité est mentionnée pour le jeudi ?
+
+### Tâche 2 — Grammatik (10 P.)
+
+Complétez avec : *au · à la · aux · du · de la · des*.
+
+1. Je joue ___ tennis.
+2. Tu fais ___ piano.
+3. Elle joue ___ guitare.
+4. Nous allons ___ cinéma.
+5. Vous jouez ___ cartes.
+6. Ils font ___ équitation.
+
+### Tâche 3 — Sprechen mündlich (10 P.)
+
+Interview en binôme : 3 questions sur les loisirs + restitution
+orale (1 minute).
+
+## Total : 30 P.
+
+## Solutions
+
+**Tâche 1.** 1) théâtre. 2) 17h. 3) salle 12. 4) vendredi.
+5) danse moderne (16h, gymnase B).
+
+**Tâche 2.** 1) au · 2) du · 3) de la · 4) au · 5) aux · 6) de l'.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 10*

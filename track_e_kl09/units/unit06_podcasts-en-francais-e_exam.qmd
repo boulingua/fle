@@ -1,0 +1,60 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 6"
+subtitle: "Podcasts en français · Klasse 9 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+
+### Tâche 1 — Hörverstehen (10 P.)
+
+Écoutez l'extrait *Les Odyssées* (Unité 6, texte C). Répondez :
+
+1. Qui est le personnage principal ?
+2. Quelle est sa profession ?
+3. Où se déroule l'histoire ?
+4. Quelle date est mentionnée pour la découverte de la tombe ?
+5. Que dit Carter à son mécène ?
+
+### Tâche 2 — Vocabulaire podcast (8 P.)
+
+Reliez chaque mot à sa définition :
+
+- podcast · épisode · animateur · transcription · abonnement
+  · saison · plateforme · téléchargement
+
+(Définitions : émission audio à la demande · épisode unitaire
+· voix qui guide · texte écrit du podcast · suivi régulier ·
+série annuelle · service de diffusion · récupération du
+fichier.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+À partir d'un autre extrait fourni, rédigez un **résumé**
+(~140 mots) : 6 questions (qui/quoi/où/quand/pourquoi/comment)
++ 1 opinion + 5 verbes au présent ou PC.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen      | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Howard Carter. 2) Archéologue. 3) En Égypte.
+4) 26 novembre 1922. 5) *Oui, des merveilles !*
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 140 mots · 6
+questions · 1 opinion · 5 verbes.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 6*

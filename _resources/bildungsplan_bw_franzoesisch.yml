@@ -1,0 +1,133 @@
+# Bildungsplan Baden-Württemberg 2016 — Französisch (2. Fremdsprache)
+#
+# Quellen (abgerufen 2026-04-25):
+# - https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/F2/IK/6-7-8-9
+#   (Sekundarstufe I, allgemein, Klassen 6-9 für G+M / Gemeinschaftsschule
+#   und vergleichbare Schularten)
+# - https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/F2/IK/6-7-8
+#   (Gymnasium, Klassen 6-8 für Niveau E)
+# - https://www.bildungsplaene-bw.de/bildungsplan,Lde/Startseite/BP2016BW_ALLG
+#   (Übergeordneter Index)
+#
+# WICHTIGER HINWEIS ZUR STRUKTUR
+# ------------------------------
+# Der Bildungsplan-BW gliedert die inhaltsbezogenen Kompetenzen NICHT
+# pro Klassenstufe, sondern pro KLASSENSTUFEN-CLUSTER:
+#   Sek I (G+M):  Kl. 6-9 + separater Block Kl. 10 (Anschlussstufe)
+#   Gymnasium (E): Kl. 6-8 + Kl. 9-10 + Oberstufe 11-13 (Basis/Leistung)
+#
+# Diese Datei dokumentiert die Kompetenz-Bereiche und -Codes verbatim aus
+# der offiziellen Quelle. Die einzelnen Unit-Dateien zitieren die
+# konkreten Sub-Codes (z.B. "3.1.3.2 Leseverstehen") und werden NICHT
+# erfunden — bei Unklarheit STOP und Quelle prüfen.
+#
+# Niveaustufen G/M/E
+# ------------------
+# Innerhalb der Sek I unterscheidet der Bildungsplan auf den
+# Detail-Unterseiten nach Niveaustufen G (grundlegend), M (mittel) und E
+# (erweitert). Diese werden im Front Matter jeder Unit über das Feld
+# `niveau:` ("G", "M" oder "E") spezifiziert. Die Kompetenzcodes selbst
+# sind über alle drei Niveaus identisch — die Anforderungstiefe
+# variiert.
+
+bildungsplan: "Bildungsplan 2016 Baden-Württemberg"
+fach: "Französisch (2. Fremdsprache)"
+inkrafttreten: "1. August 2016"
+schularten:
+  sek_I_allgemein:    # G+M, Gemeinschaftsschule + vergleichbare
+    klassenstufen_cluster:
+      - cluster: "6-9"
+        url: "https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/F2/IK/6-7-8-9"
+      - cluster: "10"
+        url: "https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/F2/IK/10"
+  gymnasium:          # E (erweitert)
+    klassenstufen_cluster:
+      - cluster: "6-8"
+        url: "https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/F2/IK/6-7-8"
+      - cluster: "9-10"
+        url: "https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/F2/IK/9-10"
+  oberstufe:          # Bildungsplan gymnasiale Oberstufe 2021
+    klassenstufen: [11, 12, 13]
+    url: "https://www.bildungsplaene-bw.de/,Lde/LS/BP2021/ALLG/GYMOS/F2"
+    spezialisierung:
+      - "Basisfach"
+      - "Leistungsfach"
+
+# Kompetenzbereiche (verbatim aus Sek I, Kl. 6-9)
+# Die Top-Level-Codes sind in allen Schularten und Clustern identisch;
+# nur die Klassenstufen-Nummerierung ändert sich (3.1 → 3.2 → 3.3 für
+# Anschlusscluster).
+
+kompetenzbereiche:
+
+  - code: "3.1.1"
+    bezeichnung: "Soziokulturelles Orientierungswissen / Themen"
+    beschreibung: >-
+      Themenbereiche der frankophonen Welt: Familie, Schule, Wohnen,
+      Freizeit, Stadt/Land, Frankreich + Frankophonie (Belgien,
+      Schweiz, Québec, Maghreb, Subsahara-Afrika, Karibik), kulturelle
+      Vielfalt, soziale Themen.
+
+  - code: "3.1.2"
+    bezeichnung: "Interkulturelle kommunikative Kompetenz"
+    beschreibung: >-
+      Sensibilisierung für kulturelle Unterschiede, Perspektivübernahme,
+      Reflexion eigener und fremder Kulturmuster.
+
+  - code: "3.1.3"
+    bezeichnung: "Funktionale kommunikative Kompetenz"
+    sub_kompetenzen:
+      - code: "3.1.3.1"
+        bezeichnung: "Hör-/Hörsehverstehen"
+      - code: "3.1.3.2"
+        bezeichnung: "Leseverstehen"
+      - code: "3.1.3.3"
+        bezeichnung: "Sprechen — an Gesprächen teilnehmen"
+      - code: "3.1.3.4"
+        bezeichnung: "Sprechen — zusammenhängendes monologisches Sprechen"
+      - code: "3.1.3.5"
+        bezeichnung: "Schreiben"
+      - code: "3.1.3.6"
+        bezeichnung: "Sprachmittlung"
+      - code: "3.1.3.7"
+        bezeichnung: "Verfügen über sprachliche Mittel — Wortschatz"
+      - code: "3.1.3.8"
+        bezeichnung: "Verfügen über sprachliche Mittel — Grammatik"
+      - code: "3.1.3.9"
+        bezeichnung: "Verfügen über sprachliche Mittel — Aussprache und Intonation"
+
+  - code: "3.1.4"
+    bezeichnung: "Text- und Medienkompetenz"
+    beschreibung: >-
+      Umgang mit literarischen, journalistischen und medialen Texten;
+      Reflexion über Textsorten und Wirkungen.
+
+# Prozessbezogene Kompetenzen (übergreifend, codiert "2.x")
+prozessbezogene_kompetenzen:
+  - code: "2.1"
+    bezeichnung: "Funktionale kommunikative Kompetenz"
+  - code: "2.2"
+    bezeichnung: "Interkulturelle kommunikative Kompetenz"
+  - code: "2.3"
+    bezeichnung: "Text- und Medienkompetenz"
+  - code: "2.4"
+    bezeichnung: "Sprachbewusstheit"
+  - code: "2.5"
+    bezeichnung: "Sprachlernkompetenz"
+
+# Anwendungs-Hinweis für die Site
+# --------------------------------
+# Jede Unit-qmd zitiert im Feld `bildungsplan:` die konkreten
+# Kompetenzcodes (z.B. ["3.1.3.2 Leseverstehen", "3.1.4 Text-/
+# Medienkompetenz"]). Die Klassenstufen-Differenzierung (Niveau G/M/E,
+# Klasse 6 vs. 9 vs. 12) drückt sich in der Anforderungstiefe aus, nicht
+# in unterschiedlichen Codes.
+
+note_zur_quelle: |
+  Diese YAML-Datei ist ein Auszug der offiziellen Bildungsplan-
+  Struktur. Die ausführlichen Beschreibungen jedes Sub-Kompetenz-
+  Standards (mehrere Absätze pro Code) liegen auf den verlinkten
+  Unterseiten — sie werden in den Unit-qmd nicht reproduziert,
+  sondern verbatim zitiert, wo nötig. Bei jeder Unit-Erstellung
+  ist die jeweilige BW-Quelle zu prüfen, bevor Codes im Front
+  Matter aufgenommen werden.

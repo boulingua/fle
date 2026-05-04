@@ -1,0 +1,60 @@
+site: "fle-bw"
+current_phase: 0
+current_phase_label: "Préflight — Bildungsplan-BW Französisch erfassen"
+last_completed_turn: 1
+last_completed_at: "2026-04-25T00:00:00Z"
+last_commit_sha: ""
+
+phase_0_status:
+  bildungsplan_yml: "complete"      # _resources/bildungsplan_bw_franzoesisch.yml
+  fetch_strategy: "Konsolidiertes YAML statt 13 separater Klassenstufen-Dateien — Bildungsplan-BW gliedert nicht pro Klasse sondern pro Cluster (Sek I 6-9 + 10; Gym 6-8 + 9-10; Oberstufe 11-13)."
+  source_pages_geprueft:
+    - "https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/F2/IK/6-7-8-9 (Sek I G+M)"
+    - "https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/F2/IK/6-7-8 (Gym E)"
+  niveau_differenzierung: "G/M/E innerhalb derselben Codes; Anforderungstiefe variiert."
+
+preflight_context:
+  github:
+    org: "boulingua"
+    repo: "fle"
+    origin: "https://github.com/boulingua/fle.git"
+    pages_url: "https://boulingua.github.io/fle/"
+    admin_account: "r-heller"
+  git_identity:
+    name: "R. Heller"
+    email: "58561665+r-heller@users.noreply.github.com"
+  content_author: "S. Le Boulanger"
+  licensing:
+    code: "MIT"
+    content: "CC-BY-SA 4.0"
+  impressum:
+    name: "S. Le Boulanger"
+    strasse: "Albert-Einstein-Straße 47"
+    plz: "02977"
+    ort: "Hoyerswerda"
+    land: "Deutschland"
+    email: "277736839+s-leboulanger@users.noreply.github.com"
+  metasprache: "Französisch (immersiv, CLIL)"
+  start_klasse: 6                     # Default per FLE-Prompt; Kl. 5 nur auf explizite Bestätigung
+
+structure:
+  total_courses: 13
+  total_units: 156
+  tracks:
+    gm: ["track_gm_kl06", "track_gm_kl07", "track_gm_kl08", "track_gm_kl09", "track_gm_kl10"]
+    e:  ["track_e_kl06", "track_e_kl07", "track_e_kl08", "track_e_kl09", "track_e_kl10", "track_e_kl11", "track_e_kl12", "track_e_kl13"]
+
+next_turn:
+  action: "scaffold_repo_basics"
+  description: >-
+    FLE Phase 1 Turn 2 — Repo-Basics (LICENSE-content, README, .gitignore, .nojekyll)
+    analog zu DaF-Pattern. Danach _quarto.yml mit FLE-Navbar (G+M Kl. 6-10 + E Kl. 6-13),
+    Styles (identisch zu DaF), assets/slides.scss, CI-Workflow,
+    Lua-Shortcode + _exam.tex, Python-Helfer, Top-Level-Seiten auf Französisch,
+    13 Kursordner-Stubs, 5 Anhang-Stubs.
+  estimated_duration_minutes: 3
+
+notes:
+  - "Bildungsplan-BW-Cluster-Strategie statt 13 separater YAMLs; spart 12 Phase-0-Turns ohne inhaltlichen Verlust."
+  - "Metasprache der Site ist Französisch; nur Bildungsplan-Zitate, BW-Prüfungstermini und deutsche Quellentexte (für Sprachmittlung) bleiben deutsch."
+  - "Cast-Vorschlag pro Track wird in Phase 2 Outline festgelegt — analog zu DaF."

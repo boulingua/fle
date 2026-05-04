@@ -1,0 +1,64 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 7"
+subtitle: "Vacances en Bretagne · Klasse 7 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+
+### Tâche 1 — Hörverstehen (10 P.)
+
+Écoutez le journal d'Anouk (Unité 7, texte C). Répondez :
+
+1. Où passe-t-elle ses vacances ?
+2. Que mange-t-elle ce jour-là ?
+3. Que visite-t-elle l'après-midi ?
+4. Quel est le programme de demain ?
+5. Pourquoi le Mont-Saint-Michel n'est-il pas en Bretagne ?
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Reliez :
+
+| Spécialité           | Type                 |
+|----------------------|----------------------|
+| 1. crêpe             | a. plat salé sarrasin |
+| 2. galette           | b. dessert sucré      |
+| 3. cidre             | c. confiserie         |
+| 4. kouign-amann      | d. boisson            |
+
+Plus, traduisez : *die Küste · die Gezeiten · die Insel · die
+Burg*.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez un **journal de vacances** de 3 jours en **120 mots**
+(Bretagne ou autre) : météo + 1 visite + 1 spécialité +
+1 anecdote. **5 PC** + **3 imparfaits**.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen      | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Saint-Malo (Bretagne). 2) Crêpe sucre + caramel
+beurre salé. 3) Le Mont-Saint-Michel. 4) Bateau aux îles
+Chausey. 5) En Normandie (à 50 km).
+
+**Tâche 2.** 1-b · 2-a · 3-d · 4-c. + la côte · les marées ·
+l'île · le château.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 4 éléments ·
+5 PC + 3 imparfaits.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 7*

@@ -1,0 +1,53 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 7"
+subtitle: "Sport et esprit d'équipe · Klasse 8 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 8
+
+### Tâche 1 — Leseverstehen (12 P.)
+
+Lisez le règlement du tournoi inter-collèges Strasbourg
+(Article 1-6 — Unité 7, texte A). Répondez en phrases complètes.
+
+1. Combien de joueur·euse·s minimum dans une équipe ?
+2. Quelle est la composition obligatoire ?
+3. Quelle est la durée totale d'un match (avec pause incluse) ?
+4. Combien de matchs minimum joue chaque équipe ?
+5. Que se passe-t-il à la 3e insulte ?
+6. Quand expire l'inscription ?
+
+### Tâche 2 — Sprechen (mündlicher Anteil, 12 P.)
+
+Avec un·e camarade : mini-dialogue d'inscription au tournoi,
+4 questions/réponses. A inscrit son équipe, B est
+organisateur·rice.
+
+Critères : Erfüllung 4 P. · Sprache 4 P. · Aussprache 4 P.
+
+### Tâche 3 — Schreiben (6 P.)
+
+Écrivez **4 phrases** sur votre équipe idéale :
+nombre de joueur·euse·s · sport · ambiance · capitaine.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 12      |
+| Tâche 2 — Sprechen mündlich | 12      |
+| Tâche 3 — Schreiben         | 6       |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 6 joueur·euse·s. 2) Mixte : au moins 2 garçons
++ 2 filles. 3) 35 minutes (2×15 + pause de 5). 4) Au moins 3
+matchs. 5) Exclusion définitive. 6) Avant le 1er mars.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 7*

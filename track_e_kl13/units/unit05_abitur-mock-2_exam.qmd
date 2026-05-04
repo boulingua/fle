@@ -1,0 +1,71 @@
+---
+title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 5 (mock 2)"
+subtitle: "Abitur mock 2 — extrait littéraire · Klasse 13 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf — mock 2)
+
+### Tâche 1 — Verstehen (10 P.) — 60 min
+
+Lisez l'extrait *Chanson douce* (Unité 5, texte C). Répondez :
+
+1. Qui sont Louise et Mila ?
+2. Quels types d'histoires Louise raconte-t-elle ?
+3. Que fait Mila la nuit ?
+4. Le matin, que demande Mila ?
+5. Quel mot apparaît à la fin et pourquoi inquiète-t-il ?
+
+### Tâche 2 — Analyse stylistique (12 P.) — 90 min
+
+Rédigez (~350 mots) : *« Le danger derrière la douceur »*
+— 3 procédés stylistiques + interprétation du mot *vide*
++ 1 référence à *L'Étranger* OU *Dora Bruder*.
+
+### Tâche 3 — Sprachmittlung (10 P.) — 60 min
+
+Médiez ce texte allemand (~280 mots) :
+
+> *Leïla Slimani, geboren 1981 in Rabat, ist eine der
+> wichtigsten Stimmen der zeitgenössischen französischen
+> Literatur. Ihr Roman *Dann schlaf auch du* (frz.
+> Originaltitel: *Chanson douce*, 2016) gewann den Prix
+> Goncourt. Slimani schreibt mit kühler Präzision: « Das
+> Baby ist tot. » Ihre Themen: Mutterschaft, soziale
+> Klassen, Migration. Sie engagiert sich auch politisch:
+> 2017 wurde sie von Präsident Macron zur Beauftragten für
+> die Frankophonie ernannt.*
+
+## Notation
+
+| Tâche                   | Points | Durée  |
+|-------------------------|--------|--------|
+| Verstehen               | 10     | 60 min |
+| Analyse stylistique     | 12     | 90 min |
+| Sprachmittlung          | 8      | 60 min |
+| **Total**               | **30** | **210 min** |
+
+## Solutions
+
+**Tâche 1.** 1) Louise = nounou, Mila = enfant. 2)
+Princesses + histoires sombres. 3) Cauchemars. 4) D'autres
+histoires. 5) *« Vide »* — annonce la dérive intérieure
+de Louise.
+
+**Tâche 2.** Réponses libres. Critères : 350 mots · 3
+procédés · interprétation · 1 référence.
+
+**Tâche 3.** Modèle : *Leïla Slimani, née en 1981 à Rabat,
+est l'une des grandes voix de la littérature française
+contemporaine. Son roman Chanson douce (2016) a obtenu le
+prix Goncourt. Slimani écrit avec une précision glacée :
+« Le bébé est mort. » Ses thèmes : maternité, classes
+sociales, migration. Engagée politiquement, elle a été
+nommée en 2017 par Emmanuel Macron déléguée à la
+francophonie.* (~280 mots).
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 5*

@@ -1,0 +1,16 @@
+---
+title: "Glossaire"
+---
+
+::: {.hero-kicker}
+FLE BW · ANNEXE
+:::
+
+# Glossaire
+
+::: {.callout-note}
+**Phase 5 (à venir).** Cette annexe sera remplie après l'écriture
+des 156 Unités, afin de pouvoir lier des passages concrets.
+:::
+
+Termes FLE, BW (Klassenarbeit, Sprachmittlung, Niveau G/M/E, Bildungsplan) et CECR. Alphabétique, premier-rencontre lié à l'Unité d'introduction.

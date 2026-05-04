@@ -1,0 +1,69 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 4"
+subtitle: "Futurs projets · Klasse 8 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 8
+
+### Tâche 1 — Grammatik / Futur simple (10 P.)
+
+Mettez les verbes entre parenthèses au futur simple.
+
+1. Karim *(prendre)* _____________ le train demain matin.
+2. Nous *(aller)* _____________ à Lille pour les vacances.
+3. Tu *(faire)* _____________ tes devoirs ce soir ?
+4. Léa *(être)* _____________ à Strasbourg dans cinq ans.
+5. Vous *(savoir)* _____________ la réponse après le cours.
+
+### Tâche 2 — Distinguer futur proche / simple (5 P.)
+
+Pour chaque phrase, choisissez la forme correcte et **justifiez
+en 4–5 mots**.
+
+1. *Je (vais manger / mangerai)* dans cinq minutes.
+2. *Je (vais habiter / habiterai)* à Paris quand j'aurai 25 ans.
+3. *Attention, tu (vas tomber / tomberas)* — la marche est cassée.
+
+### Tâche 3 — Schreiben (15 P.)
+
+Écrivez environ **80 mots** sur **vos futurs projets**. Au moins
+**6 verbes au futur simple**, dont **2 irréguliers**. Mentionnez :
+
+- où vous serez,
+- ce que vous étudierez ou ferez,
+- un projet personnel (voyage, famille, hobby).
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Grammatik         | 10      |
+| Tâche 2 — Distinguer        | 5       |
+| Tâche 3 — Schreiben         | 15      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) prendra · 2) irons · 3) feras · 4) sera · 5)
+saurez.
+
+**Tâche 2.** 1) *vais manger* (futur immédiat, dans 5 min). 2)
+*habiterai* (futur lointain, projet). 3) *vas tomber* (alarme,
+imminent).
+
+**Tâche 3 (modèle, ~85 mots).** *Dans cinq ans, je serai à
+Strasbourg. J'étudierai l'architecture. Je vivrai dans une
+petite chambre. Le week-end, je prendrai le train pour
+Karlsruhe. Je voyagerai aussi au Maroc, parce que mon père y est
+né. Plus tard, j'aurai un bureau d'architecture spécialisé dans
+les bâtiments écologiques. Je n'oublierai pas le français.*
+*(verbes futur simple : serai, étudierai, vivrai, prendrai,
+voyagerai, aurai, oublierai — 7 verbes, dont* serai *et* aurai
+*irréguliers.)*
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 4*

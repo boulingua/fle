@@ -1,0 +1,58 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 4"
+subtitle: "Autour de la planète francophone · Klasse 8 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le texte sur la francophonie (Unité 4, texte C). Répondez :
+
+1. Combien y a-t-il de locuteurs francophones dans le monde ?
+2. Cite 3 pays francophones d'Afrique.
+3. Où vit Tante Soraya ?
+4. Où vit la cousine de Karim ?
+5. Sur combien de continents se trouve la francophonie ?
+
+### Tâche 2 — Prépositions de pays (8 P.)
+
+Complétez avec *en, au, aux, à* :
+
+1. Anouk habite ___ Karlsruhe, ___ Allemagne.
+2. Karim vit ___ Lille, ___ France.
+3. Inès étudie ___ Montréal, ___ Canada.
+4. Tante Soraya travaille ___ Tunis, ___ Tunisie.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez un **portrait d'un pays francophone** de votre choix
+en **120 mots** : continent + capitale + 2 faits culturels
++ phrase de motivation (*J'aimerais y aller parce que …*).
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Prépositions      | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 321 millions. 2) Sénégal, Tunisie, Côte
+d'Ivoire (etc.). 3) À Tunis, en Tunisie. 4) À Dakar, au
+Sénégal. 5) 5 continents.
+
+**Tâche 2.** 1) à / en · 2) à / en · 3) à / au · 4) à / en.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 5
+prépositions correctes · 2 faits culturels.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 4*

@@ -1,0 +1,62 @@
+---
+title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 10"
+subtitle: "Argumenter en public · Klasse 12 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le plan de monologue Senghor (Unité 10, texte C).
+Répondez :
+
+1. Quelles 2 dates clés ?
+2. Quel mouvement Senghor co-fonde-t-il ?
+3. Combien d'années préside-t-il ?
+4. Combien de langues nationales protège-t-il ?
+5. Quelle est la chute citée ?
+
+### Tâche 2 — Stratégies de rebond (8 P.)
+
+Reliez chaque stratégie à son exemple :
+
+- reformuler · demander précision · concéder + nuancer ·
+  exemple concret · citer autorité · conclure-rebondir
+
+(Exemples : *« Si je comprends bien … »* · *« Pouvez-vous
+préciser ? »* · *« Certes, mais … »* · *« Prenons par
+exemple … »* · *« Comme l'écrit Camus … »* · *« Cela ouvre
+la question de … »*.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Préparez **votre plan de monologue 5 min** sur un sujet :
+auteur·rice ou thème. Structure I-II-III + 4 citations + 1
+chute mémorable + 6 stratégies de rebond préparées.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Stratégies        | 8       |
+| Tâche 3 — Plan de monologue | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 1960 et 1980. 2) La Négritude. 3) 20 ans.
+4) 6 langues nationales. 5) *« Les vraies civilisations
+sont des rendez-vous du donner et du recevoir. »*
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : plan complet · 4
+citations · 1 chute · 6 stratégies de rebond.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 10*

@@ -1,0 +1,60 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau M) — Unité 4"
+subtitle: "Les repas · Klasse 7 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 7
+
+### Tâche 1 — Grammatik : partitifs (10 P.)
+
+Complétez avec *du, de la, de l', des, de*.
+
+1. Je mange ___ pain le matin.
+2. Tu bois ___ eau ?
+3. Elle achète ___ pommes au marché.
+4. Nous voulons ___ salade.
+5. Vous mangez ___ fromage ?
+6. Je ne prends pas ___ café.
+7. Il commande ___ jus d'orange.
+8. On ne mange pas ___ viande aujourd'hui.
+
+### Tâche 2 — Leseverstehen (8 P.)
+
+Lisez le dialogue D de l'Unité 4 (au café). Répondez :
+
+1. Qui est le serveur ?
+2. Que commande Léa ?
+3. Que prend Inès comme boisson ?
+4. Inès veut-elle de la confiture ?
+
+### Tâche 3 — Sprechen / Schreiben (12 P.)
+
+Écrivez un **dialogue au café** en **6 répliques** :
+serveur ↔ client(e). Utilisez **3 partitifs** différents.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Grammatik         | 10      |
+| Tâche 2 — Leseverstehen     | 8       |
+| Tâche 3 — Dialogue          | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) du · 2) de l' · 3) des · 4) de la · 5) du ·
+6) de · 7) du · 8) de.
+
+**Tâche 2.** 1) L'employé du café. 2) Une crêpe au chocolat + un
+jus d'orange. 3) Un chocolat chaud. 4) Non, juste du beurre.
+
+**Tâche 3.** Réponses libres. Critères : 6 répliques · 3 partitifs ·
+formules polies (*je voudrais, s'il vous plaît, merci*).
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 4*

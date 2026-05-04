@@ -1,0 +1,64 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 11"
+subtitle: "Préparer un discours · Klasse 10 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le discours d'Anouk (Unité 11, texte C). Répondez :
+
+1. À qui s'adresse le discours ?
+2. Quelle est l'anecdote sur la 6e ?
+3. Citez 3 destinations « traversées ».
+4. Que dit Anouk sur la suite (Lf / Bf / arrêt) ?
+5. Quelle est la chute du discours ?
+
+### Tâche 2 — Figures de style (8 P.)
+
+Identifiez la figure :
+
+1. *Cinq ans ensemble. Cinq ans d'apprentissages. Cinq ans
+   d'amitié.* → ___
+2. *Notre français est devenu **un pont**.* → ___
+3. *Bretagne, Québec, Verdun.* → ___
+4. *« Le français, ce n'est pas une matière — c'est une
+   manière … »* → ___
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez votre **discours-cause** (~250 mots) sur un sujet
+au choix : 4 parties + 3 figures + 1 citation + 1 chute
+mémorable.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Figures           | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Camarades + profs + parents. 2) Mme Devos
+fait écrire le prénom au tableau, « long voyage ». 3)
+Bretagne, Québec, Verdun, francophonie maghrébine, Aya
+Nakamura (3 au choix). 4) Lf, Bf ou arrêt — le voyage
+continue. 5) *« Bon vent à toustes — et rendez-vous en
+Kursstufe ! »*
+
+**Tâche 2.** 1) anaphore · 2) métaphore · 3) triade · 4)
+chiasme / chute (citation marquante).
+
+**Tâche 3.** Réponses libres. Critères : 250 mots · 4
+parties · 3 figures · 1 citation · 1 chute.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 11*

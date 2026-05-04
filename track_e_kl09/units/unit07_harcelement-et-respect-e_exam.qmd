@@ -1,0 +1,59 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 7"
+subtitle: "Harcèlement et respect · Klasse 9 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la lettre ouverte (Unité 7, texte C). Répondez :
+
+1. À qui s'adresse cette lettre ?
+2. Quel numéro français est mentionné ?
+3. Que peut faire un·e victime ?
+4. Que peut faire un·e témoin (3 actions) ?
+5. Quel est le mot de conclusion ?
+
+### Tâche 2 — Subjonctif après *il faut que* (8 P.)
+
+Conjuguez :
+
+1. *Il faut que tu ___ (parler) à un·e adulte.*
+2. *Il faut qu'on ___ (agir) ensemble.*
+3. *Il faut que vous ___ (être) courageux·ses.*
+4. *Il faut que je ___ (avoir) le numéro 3018.*
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre lettre ouverte** (~150 mots) contre le
+harcèlement : 3 § (victime / témoin / ensemble) + 5 verbes
+d'action + 1 subjonctif + numéro 3018.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Subjonctif        | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Aux camarades de Klasse 9. 2) **3018**. 3)
+Parler à un·e adulte de confiance, appeler 3018. 4)
+Soutenir / signaler / briser le silence. 5) *Le respect est
+un droit — pour chacun·e.*
+
+**Tâche 2.** 1) parles · 2) agisse · 3) soyez · 4) aie.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3 § ·
+5 verbes d'action · 1 subjonctif · 3018.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 7*

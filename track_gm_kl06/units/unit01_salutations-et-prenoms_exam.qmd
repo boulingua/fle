@@ -1,0 +1,51 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 1"
+subtitle: "Salutations et prénoms · Klasse 6 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 6
+
+### Tâche 1 — Hören (10 P.)
+
+La prof lit 5 mini-situations. Pour chacune, choisissez la
+formule juste : **Bonjour · Salut · Au revoir · Merci · S'il
+vous plaît**.
+
+1. Le matin, vous arrivez en classe et la prof entre. → ___
+2. Votre copain·ine vous appelle dans la cour. → ___
+3. Vous partez de la boulangerie. → ___
+4. Vous demandez un croissant. → ___
+5. La boulangère vous donne le croissant. → ___
+
+### Tâche 2 — Sprechen mündlich (10 P.)
+
+Avec un·e camarade : se saluer · se présenter · épeler son
+prénom · se dire au revoir.
+
+Critères : Erfüllung 4 P. · Aussprache 4 P. · Sprache 2 P.
+
+### Tâche 3 — Schreiben (10 P.)
+
+Écrivez un mini-dialogue de **4 lignes** : se saluer · dire son
+prénom · demander celui de l'autre · au revoir.
+
+## Notation
+
+| Tâche                  | Points  |
+|------------------------|--------:|
+| Tâche 1 — Hören        | 10      |
+| Tâche 2 — Sprechen     | 10      |
+| Tâche 3 — Schreiben    | 10      |
+| **Total**              | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Bonjour. 2) Salut. 3) Au revoir. 4) S'il vous
+plaît. 5) Merci.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 1*

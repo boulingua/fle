@@ -1,0 +1,58 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 3"
+subtitle: "Écologie au quotidien · Klasse 9 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'article éco-gestes (Unité 3, texte C). Répondez :
+
+1. Combien d'éco-gestes sont présentés ?
+2. Quel est le 1ᵉʳ geste ?
+3. Pourquoi éteindre les appareils en veille ?
+4. Quel pourcentage de déchets le compostage évite-t-il ?
+5. Quelle agence affirme la réduction de 25 % ?
+
+### Tâche 2 — Verbes d'éco-action (8 P.)
+
+Conjuguez le verbe correct :
+
+1. Je ___ (trier) mes déchets en 5 poubelles.
+2. Nous ___ (covoiturer) avec mes voisins.
+3. Si je ___ (éteindre) ma box, j'économiserais 15 %.
+4. Tu ___ (composter) les épluchures de légumes.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **un dialogue** (~140 mots, 10 répliques) entre vous
+et un·e ami·e sur vos **éco-gestes** : 5 gestes chacun + 1
+défi à venir + 1 conditionnel + 5 verbes d'action.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Verbes            | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Cinq. 2) Trier ses déchets. 3) Économise 15 %
+de la facture. 4) 40 %. 5) L'ADEME.
+
+**Tâche 2.** 1) trie · 2) covoiturons · 3) éteignais ·
+4) composte / compostes.
+
+**Tâche 3.** Réponses libres. Critères : 140 mots · 10
+répliques · 5 gestes · 1 conditionnel.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 3*

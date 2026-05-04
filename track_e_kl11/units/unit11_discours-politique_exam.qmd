@@ -1,0 +1,61 @@
+---
+title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 11"
+subtitle: "Discours politique : analyser · Klasse 11 · Niveau E (Abitur Bf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'appel du 18 juin (Unité 11, texte C). Répondez :
+
+1. Combien de questions rhétoriques ouvrent le discours ?
+2. Pourquoi la guerre n'est-elle pas finie, selon de Gaulle ?
+3. Quelle est la chute du discours ?
+4. Quel mot revient comme métaphore ?
+5. Où le discours a-t-il été prononcé ?
+
+### Tâche 2 — Procédés rhétoriques (8 P.)
+
+Identifiez le procédé :
+
+1. *Cette guerre … Cette guerre … Cette guerre …* → ___
+2. *Mais le dernier mot est-il dit ? L'espérance doit-elle
+   disparaître ? La défaite est-elle définitive ?* → ___
+3. *La flamme de la résistance* → ___
+4. *Non !* (isolé après les 3 questions) → ___
+
+### Tâche 3 — Schreiben (12 P.)
+
+Analysez un **discours politique francophone** (~280 mots) :
+contexte + 4 procédés + 1 chute + lien époque.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Procédés          | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Trois (dernier mot, espérance, défaite). 2)
+Parce qu'elle est mondiale. 3) *La flamme de la résistance
+ne doit pas s'éteindre et ne s'éteindra pas.* 4) La flamme
+(résistance). 5) Londres, BBC.
+
+**Tâche 2.** 1) anaphore · 2) questions rhétoriques en
+anaphore · 3) métaphore · 4) chute / interjection
+(rupture).
+
+**Tâche 3.** Réponses libres. Critères : 280 mots ·
+contexte · 4 procédés · 1 chute · 1 lien.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 11*

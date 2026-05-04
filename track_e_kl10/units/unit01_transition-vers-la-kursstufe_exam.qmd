@@ -1,0 +1,58 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 1"
+subtitle: "Transition vers la Kursstufe · Klasse 10 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la lettre d'Anouk (Unité 1, texte C). Répondez :
+
+1. Quel choix sollicite Anouk ?
+2. Quels acquis grammaticaux mentionne-t-elle ?
+3. Quel stage cite-t-elle ?
+4. Combien d'œuvres complètes prévoit-elle ?
+5. Quel niveau CECRL vise-t-elle ?
+
+### Tâche 2 — Verbes d'engagement au futur simple (8 P.)
+
+Conjuguez :
+
+1. Je ___ (s'engager) à lire 3 œuvres.
+2. Nous ___ (persévérer) vers le C1.
+3. Tu ___ (viser) un Erasmus.
+4. Vous ___ (s'investir) en cours de littérature.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre lettre de motivation** (Lf ou Bf) au comité
+d'orientation (~180 mots) : 3 § + 5 verbes d'engagement + 4
+futurs simples + 2 formules de politesse.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Verbes engagement | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Lf Französisch. 2) Conditionnel + subjonctif.
+3) Stage à l'Institut français de Karlsruhe. 4) 3-4. 5) C1.
+
+**Tâche 2.** 1) m'engagerai · 2) persévérerons · 3) viseras
+· 4) vous investirez.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 3 § ·
+5 verbes engagement · 4 futurs · 2 politesse.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 1*

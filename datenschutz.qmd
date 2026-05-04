@@ -1,0 +1,45 @@
+---
+title: "Datenschutzerklärung"
+---
+
+## Verantwortliche Stelle
+
+**S. Le Boulanger**
+Albert-Einstein-Straße 47
+02977 Hoyerswerda
+Deutschland
+
+E-Mail: [277736839+s-leboulanger@users.noreply.github.com](mailto:277736839+s-leboulanger@users.noreply.github.com)
+
+## Hosting bei GitHub Pages
+
+Diese Website wird auf **GitHub Pages** gehostet, einem Dienst
+der GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107,
+USA. Beim Aufruf der Seiten überträgt Ihr Browser technisch
+notwendige Daten an GitHub (IP-Adresse, Datum/Zeit, User-Agent,
+angefragte URL, ggf. Referrer). Rechtsgrundlage ist
+**Art. 6 Abs. 1 lit. f DSGVO** (berechtigtes Interesse an
+zuverlässiger Auslieferung).
+[GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement).
+
+## Keine Cookies, kein Tracking
+
+Diese Website setzt keine Cookies, verwendet keine Analyse-Tools
+und bindet keine Drittanbieter-Videos oder Social-Media-Widgets
+ein. Google Fonts werden über die Google-Fonts-CDN eingebunden;
+wer das vermeiden möchte, kann über Browser-Einstellungen
+Drittanbieter-Netzwerke blockieren — die Seite funktioniert dann
+mit System-Schriften weiter.
+
+## Ihre Rechte
+
+Sie haben nach DSGVO das Recht auf Auskunft (Art. 15),
+Berichtigung (16), Löschung (17), Einschränkung (18),
+Datenübertragbarkeit (20) und Widerspruch (21).
+
+## Beschwerderecht
+
+**Der Sächsische Datenschutz- und Transparenzbeauftragte**
+(zuständig für Hoyerswerda) — <https://www.saechsdsb.de/>.
+
+*Stand: April 2026.*

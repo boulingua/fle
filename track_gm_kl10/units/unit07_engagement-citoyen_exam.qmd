@@ -1,0 +1,62 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 7"
+subtitle: "Engagement citoyen · Klasse 10 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 10
+
+### Tâche 1 — Leseverstehen (8 P.)
+
+Lisez la tribune de Léa (Unité 7, texte C). Répondez :
+
+1. Quel jour Léa manifeste-t-elle, à quelle heure ?
+2. Citez ses **3 raisons**.
+3. Quel droit n'a-t-elle pas encore ?
+4. Quelle phrase de la conclusion résume sa position ?
+
+### Tâche 2 — Vocabulaire (10 P.)
+
+Traduisez :
+
+- das Ehrenamt · die Petition · die Demonstration · der Boykott
+  · der Verein · die Tribüne (Meinung) · der Aktivismus ·
+  die Bürgerinitiative.
+
+Plus, 2 jeunes français engagés (FR) à nommer (avec leur cause) :
+*Hugo Travers · Camille Étienne · Bilal Hassani*.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez une **tribune** de **200 mots** sur une cause qui vous
+tient à cœur. Plan : accroche + **3 arguments** (5 connecteurs)
++ conclusion-appel. Style engagé, respectueux.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 8       |
+| Tâche 2 — Vocabulaire       | 10      |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Vendredi, 11h. 2) GIEC 2024 + voter ne suffit
+pas (pas encore 18 ans) + se taire = consentir. 3) Le droit de
+vote. 4) « Mon engagement n'est pas politique : il est vital. »
+
+**Tâche 2.** le bénévolat · la pétition · la manifestation · le
+boycott · l'association · la tribune (d'opinion) · le militantisme
+· l'initiative citoyenne. + Hugo Travers (info jeune), Camille
+Étienne (climat), Bilal Hassani (LGBTQ+/liberté).
+
+**Tâche 3.** Réponses libres. Critères : 200 mots · plan
+complet · 5 connecteurs · style engagé.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 7*

@@ -1,0 +1,55 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 10"
+subtitle: "Cinéma québécois · Klasse 8 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 8
+
+### Tâche 1 — Hörsehverstehen (12 P.)
+
+Vous écoutez deux fois le mini-dialogue mère-fille à Montréal
+(Unité 10, texte B). Répondez :
+
+1. Où se passe la scène ?
+2. Que fait la fille en ce moment ?
+3. Que dit la mère sur le souper ?
+4. Citez **deux québécismes** + leur équivalent français
+   hexagonal.
+
+### Tâche 2 — Sprechen monologue (12 P.)
+
+Présentez en 2 minutes **un film** que vous avez aimé. Inclure :
+titre + réalisateur·rice + année · histoire en 2-3 phrases · une
+scène marquante · raison de le voir.
+
+Critères : Inhalt 5 P. · Sprache 4 P. · Aussprache 3 P.
+
+### Tâche 3 — Schreiben (6 P.)
+
+Écrivez **3-4 phrases** sur :
+
+> *« Pourquoi je voudrais (ou non) voir un film québécois. »*
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Hörsehverstehen   | 12      |
+| Tâche 2 — Sprechen monologue| 12      |
+| Tâche 3 — Schreiben         | 6       |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Dans la cuisine, à Montréal. 2) Pas encore fait
+ses devoirs ; trouve l'algèbre ennuyeuse. 3) La mère ne l'attend
+pas pour souper et précise qu'il y a des restes au frigo. 4)
+Modèles : *plate* = ennuyeux ; *pis* = et puis ; *souper* =
+dîner ; *restant* = restes.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 10*

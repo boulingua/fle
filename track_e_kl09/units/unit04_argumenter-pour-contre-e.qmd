@@ -1,0 +1,164 @@
+---
+title: "Unité 4 — Argumenter pour / contre"
+subtitle: "Parcours E (Gymnasium) · Klasse 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 4
+slug: "argumenter-pour-contre-e"
+bildungsplan:
+  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.5 Schreiben"
+skills_focus:
+  - sprechen_monolog
+  - schreiben
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit04_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je structure un texte **argumentatif** (3 §, intro-pour-
+  contre).
+- J'utilise **8 connecteurs logiques**.
+- Je rédige un **billet d'opinion** (~180 mots) sur les
+  écrans à l'école.
+
+## Histoire d'introduction
+
+Cours d'éducation civique. Mme Devos lance le débat : *« Faut-
+il interdire les écrans en classe ? »* Anouk doit défendre une
+position **nuancée**, avec **2 arguments pour, 2 contre**.
+
+## 1. Activer
+
+- Pour ou contre les écrans en classe ?
+- Quel est votre **meilleur argument** ?
+- *Argument* / *opinion* : différence ?
+
+## 2. Apporter
+
+### A. Structure d'un texte argumentatif
+
+| § | Contenu                                       |
+|---|------------------------------------------------|
+| 1 | **Introduction** : sujet + question posée      |
+| 2 | **Pour** : 2 arguments + 2 exemples            |
+| 3 | **Contre** : 2 arguments + 2 exemples          |
+| 4 | **Conclusion** : prise de position personnelle |
+
+### B. 8 connecteurs logiques
+
+- *D'une part / d'autre part · en effet · par ailleurs ·
+  cependant · néanmoins · pourtant · de plus · enfin.*
+
+### C. Billet d'opinion d'Anouk (texte original)
+
+> **Faut-il interdire les écrans à l'école ?**
+>
+> **D'une part**, les écrans permettent un accès rapide aux
+> ressources : encyclopédies, vidéos, simulations. **En
+> effet**, en cours d'histoire, on visite Versailles en 3D.
+> **De plus**, les élèves visuels apprennent mieux.
+>
+> **D'autre part**, les écrans distraient. **Pourtant**, des
+> études montrent que 30 % des élèves consultent leurs réseaux
+> en classe. **Néanmoins**, une discipline stricte permettrait
+> un usage raisonné.
+>
+> **En conclusion**, je suis **pour un usage encadré** : pas
+> d'interdiction totale, mais des règles claires (durée
+> limitée, applications validées par le prof).
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quelle est la question posée ?
+2. Donnez 2 arguments « pour ».
+3. Donnez 2 arguments « contre ».
+4. Quelle est la position d'Anouk ?
+
+**Ex. 2 — Connecteurs.** Insérez 5 connecteurs dans :
+*Les écrans sont utiles. Ils distraient. La discipline est
+la solution.*
+
+**Ex. 3 — Pour / contre.** Donnez 1 argument **pour** et 1
+**contre** chaque sujet :
+
+a) Uniforme à l'école · b) Voyage scolaire · c) Smartphone à
+12 ans.
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) Faut-il interdire les écrans à l'école ? 2)
+Accès rapide aux ressources, élèves visuels apprennent mieux.
+3) Distraction, 30 % consultent les réseaux. 4) Pour un
+usage **encadré**.
+
+**Ex. 2.** *D'une part, les écrans sont utiles. Cependant,
+ils distraient. De plus, la discipline est la solution.*
+
+**Ex. 3.** Réponses libres.
+
+:::
+
+## 4. Produire
+
+**Tâche d'écriture (E, ~180 mots) :**
+
+Rédigez un **billet d'opinion** sur un sujet au choix
+(uniforme, smartphone à 12 ans, viande à la cantine) :
+4 paragraphes (intro / pour / contre / conclusion) +
+**6 connecteurs** logiques + 1 conditionnel.
+
+## 5. Réfléchir
+
+- [ ] Je structure 4 § argumentatifs.
+- [ ] J'utilise 6 connecteurs logiques.
+- [ ] J'exprime une position nuancée.
+
+## Exemple d'épreuve — Klassenarbeit BW (E)
+
+**Tâche 1 — Lecture (10 P.)** : billet écrans, 5 questions.
+**Tâche 2 — Connecteurs (8 P.)** : 5 à insérer.
+**Tâche 3 — Schreiben (12 P.)** : votre billet (~180 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+:::
+
+## Pièges fréquents
+
+- **« D'une part / d'autre part »** vont **toujours**
+  ensemble (introduit pour ET contre).
+- **« Pourtant »** = *jedoch* (concession), pas *deshalb*.
+- **« En conclusion »** ≠ *finalement* (qui marque l'ordre).
+
+## Pour aller plus loin
+
+- **France Inter — débat ado** :
+  <https://www.radiofrance.fr/franceinter>
+- **Lumni — éducation aux médias** :
+  <https://www.lumni.fr/>

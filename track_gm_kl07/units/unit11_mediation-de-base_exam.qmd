@@ -1,0 +1,61 @@
+---
+title: "Klassenarbeit FLE — Klasse 7 (Niveau M) — Unité 11"
+subtitle: "Médiation de base · Klasse 7 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 7
+
+### Tâche 1 — Sprachmittlung DE → FR (15 P.)
+
+Lisez le texte allemand (Unité 11, texte C : Karlsruher Schloss).
+**Médiez** son contenu en **français** pour un(e) ami(e)
+québécois(e), en **5 phrases** (~70 mots). Ne traduisez pas mot
+à mot — transmettez l'essentiel : qui/quoi, horaires, prix,
+particularités.
+
+### Tâche 2 — Leseverstehen (8 P.)
+
+Vrai ou faux ? (Sur le texte source allemand.)
+
+|   | Affirmation                                             | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Le château a été construit en 1715.                     | ☐ | ☐ |
+| 2 | Le château est ouvert le lundi.                         | ☐ | ☐ |
+| 3 | Les élèves payent 4 €.                                  | ☐ | ☐ |
+| 4 | Le parc est gratuit.                                    | ☐ | ☐ |
+
+### Tâche 3 — Schreiben (7 P.)
+
+Écrivez un **petit courriel** (~50 mots) à un(e) ami(e)
+québécois(e) qui veut visiter Karlsruhe : invitez-le/la et
+résumez les infos pratiques du château.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Sprachmittlung    | 15      |
+| Tâche 2 — Leseverstehen     | 8       |
+| Tâche 3 — Schreiben         | 7       |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** Modèle : *Le château de Karlsruhe a été construit
+en 1715. C'est aujourd'hui un musée, ouvert tous les jours sauf
+le lundi, de 10h à 18h. L'entrée coûte 8 € pour les adultes et
+4 € pour les élèves. Le parc, gratuit, est très grand. Des
+concerts y ont lieu en été.* Critères : pas de mot-à-mot · 5
+phrases · 5 infos · français correct.
+
+**Tâche 2.** 1) V. 2) F. 3) V. 4) V.
+
+**Tâche 3.** Réponses libres. Critères : format courriel ·
+50 mots · 3 infos pratiques · ton amical (*tu*).
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 11*

@@ -1,0 +1,165 @@
+---
+title: "Unité 9 — Internet et vie privée"
+subtitle: "Parcours E (Gymnasium) · Klasse 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 9
+slug: "internet-et-vie-privee-e"
+bildungsplan:
+  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+skills_focus:
+  - leseverstehen
+  - sprechen_dialog
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit09_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je comprends les **5 droits numériques** (RGPD).
+- Je connais **8 mots** d'identité numérique.
+- Je dialogue **10 répliques** sur le respect de la vie
+  privée.
+
+## Histoire d'introduction
+
+Un dimanche, Mehdi montre à Anouk son fil **Insta** : 200
+followers, 3 000 photos. *« Tu mets tout en ligne ? »* demande
+Anouk. *« Oui, mais je suis en *privé*. »* — *« Et le RGPD,
+tu connais ? »*
+
+## 1. Activer
+
+- Combien d'apps utilisez-vous chaque jour ?
+- *Compte privé* / *public* : différence ?
+- Votre nom est-il **googleable** ?
+
+## 2. Apporter
+
+### A. RGPD : 5 droits numériques en France/UE
+
+| Droit                | En clair                              |
+|----------------------|----------------------------------------|
+| droit d'accès        | savoir ce qu'on a sur toi              |
+| droit de rectification| corriger les erreurs                  |
+| droit à l'oubli      | demander la suppression                |
+| droit à la portabilité| reprendre ses données                 |
+| droit d'opposition   | refuser le traitement (pub ciblée…)    |
+
+### B. 8 mots d'identité numérique
+
+- *un compte · un·e abonné·e · un·e follower · un·e
+  influenceur·euse · les cookies · le mot de passe · le
+  pseudo · l'empreinte numérique.*
+
+### C. Article CNIL ado (texte original, simplifié)
+
+> **« Mes données m'appartiennent ! » — La CNIL aux 14-18 ans**
+>
+> Tu as des **droits**. Sur Internet, ton nom, ta photo, tes
+> *likes* sont des **données personnelles**. Elles
+> t'appartiennent.
+>
+> **Le RGPD** (règlement européen, 2018) te garantit **5
+> droits** : accès, rectification, oubli, portabilité,
+> opposition. Tu peux **demander la suppression** de tes
+> photos d'enfance, par exemple.
+>
+> *« La meilleure protection, c'est la prudence »*, dit la
+> CNIL. **Ne partage pas** ton mot de passe, ton adresse,
+> ton numéro. Et vérifie toujours **les paramètres de
+> confidentialité** de tes apps.
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Que veut dire RGPD ?
+2. Combien de droits sont garantis ?
+3. Cite 3 données personnelles.
+4. Que conseille la CNIL ?
+
+**Ex. 2 — Conditionnel pour donner un conseil.** Reformulez :
+
+a) *Ne partage pas ton mot de passe.* → *Tu ___ (devoir) ne
+pas partager …*
+b) *Vérifie tes paramètres.* → *Il ___ (falloir, conditionnel)
+que tu vérifies tes paramètres.*
+
+**Ex. 3 — Vocabulaire.** Reliez : *cookies · pseudo ·
+follower · mot de passe.*
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) Règlement général sur la protection des
+données (UE 2018). 2) 5. 3) Nom, photo, likes (etc.). 4)
+Prudence : ne pas partager mots de passe, adresse, numéro.
+
+**Ex. 2.** a) *Tu devrais ne pas partager …* · b) *Il
+faudrait que tu vérifies …*
+
+**Ex. 3.** Réponses libres (associations).
+
+:::
+
+## 4. Produire
+
+**Tâche dialogique (E, en binôme, ~10 répliques) :**
+
+A et B discutent du **partage en ligne** : 5 conseils + 3
+droits RGPD + 1 conditionnel + 1 question ouverte.
+
+## 5. Réfléchir
+
+- [ ] Je connais les 5 droits du RGPD.
+- [ ] J'utilise 8 mots d'identité numérique.
+- [ ] Je dialogue 10 répliques.
+
+## Exemple d'épreuve — Klassenarbeit BW (E)
+
+**Tâche 1 — Lecture (10 P.)** : article CNIL, 5 questions.
+**Tâche 2 — Conditionnel (8 P.)** : 4 conseils.
+**Tâche 3 — Schreiben (12 P.)** : votre dialogue (~140 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+:::
+
+## Pièges fréquents
+
+- **RGPD** = règlement européen ; en allemand c'est
+  *DSGVO*. Les deux ont **les mêmes 5 droits**.
+- **« Privée »** : dans *vie privée* avec **e** (féminin) ;
+  dans *compte privé* sans accent.
+- **« Mot de passe »** : pluriel = *mots de passe* (deux *s*
+  uniquement à *mots*).
+
+## Pour aller plus loin
+
+- **CNIL — espace ado** :
+  <https://www.cnil.fr/fr/cnil-direct/jeunes>
+- **Internet sans crainte** :
+  <https://www.internetsanscrainte.fr/>

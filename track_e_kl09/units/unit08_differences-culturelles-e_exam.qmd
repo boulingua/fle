@@ -1,0 +1,64 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 8"
+subtitle: "Différences culturelles franco-allemandes · Klasse 9 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la fiche-comparaison (Unité 8, texte C). Répondez :
+
+1. À quelle heure dîne la plupart des Français ?
+2. Qu'est-ce que l'*Abendbrot* ?
+3. Combien de bises en France ?
+4. Comment se saluent la plupart des Allemand·e·s ?
+5. Que respecte-t-on tous·tes en Allemagne ?
+
+### Tâche 2 — Modalisation (8 P.)
+
+Reformulez avec *certain·e·s, beaucoup, la plupart, tous·tes* :
+
+1. 100 % des magasins fermés dimanche → ___
+2. 75 % des Français bisent → ___
+3. 50 % des Allemands font le hug → ___
+4. 25 % des Français vouvoient leurs profs → ___
+
+### Tâche 3 — Sprachmittlung (12 P.)
+
+Médiez ces 3 phrases en français (~140 mots cumulés) :
+
+1. *In Deutschland schließen die Geschäfte am Sonntag.*
+2. *Viele deutsche Familien essen das Abendbrot um 18 Uhr.*
+3. *Die meisten Franzosen geben 2-4 Küsse zur Begrüßung.*
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Modalisation      | 8       |
+| Tâche 3 — Sprachmittlung    | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Vers 20 h. 2) Pain, charcuterie, fromage à
+18 h. 3) 2 ou 4 bises. 4) Poignée de main. 5) Le dimanche
+tranquille (Ruhetag).
+
+**Tâche 2.** 1) *Tous·tes les magasins …* · 2) *La plupart
+des Français bisent …* · 3) *Beaucoup d'Allemands font le
+hug.* · 4) *Certain·e·s Français vouvoient …*
+
+**Tâche 3.** Modèle : *En Allemagne, les magasins ferment le
+dimanche. Beaucoup de familles allemandes prennent
+l'Abendbrot à 18 h. La plupart des Français font 2 à 4
+bises pour saluer.*
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 8*

@@ -1,0 +1,43 @@
+---
+title: "À propos"
+---
+
+::: {.hero-kicker}
+FLE BW · BOULINGUA
+:::
+
+# À propos de ce site
+
+Site FLE par **S. Le Boulanger** pour la Gesamtschule du Bade-
+Wurtemberg, Klasse 6 à 13. Tout le contenu — Unités, exemples
+d'épreuves, fiches — est sous **CC-BY-SA 4.0** (`LICENSE-content`).
+Le code est sous **MIT** (`LICENSE`).
+
+## Pourquoi ce site
+
+Le français comme 2e langue vivante est sous-représenté dans le
+matériel ouvert FLE-BW. Cette site veut combler le manque : un
+curriculum cohérent, BW-aligné, qui se laisse réutiliser, remixer,
+étendre.
+
+## Ce que ce site n'est pas
+
+- **Aucune paraphrase de manuels** Hachette FLE, CLE
+  International, Didier, Klett. Tous les textes sont originaux.
+- **Aucun texte verbatim d'épreuves Abitur passées.** Les
+  exemples d'épreuve s'orientent au format BW, mais avec des
+  stimuli originaux.
+- **Aucune image sous droit d'auteur.** Icônes Lucide (ISC),
+  SVG originaux uniquement.
+
+## Auteure
+
+S. Le Boulanger — enseignante FLE avec expérience en Klasse 6
+à 13.
+
+## Voir aussi
+
+- [Programme](programme.qmd)
+- [Bildungsplan](bildungsplan.qmd)
+- [Bibliographie](bibliographie.qmd)
+- [Remerciements](remerciements.qmd)

@@ -1,0 +1,170 @@
+---
+title: "Unité 5 — Amis et conflits"
+subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 5
+slug: "amis-et-conflits"
+bildungsplan:
+  - "3.1.3.3 Sprechen — dialogisches Sprechen"
+  - "3.1.3.5 Schreiben"
+  - "3.1.2 Interkulturelle kommunikative Kompetenz"
+skills_focus:
+  - sprechen_dialog
+  - schreiben
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit05_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- J'exprime mes **sentiments** : *content, fâché, triste, jaloux*.
+- Je raconte un **conflit** entre ami(e)s.
+- J'utilise les **pronoms COD** : *me, te, le, la, les, nous,
+  vous*.
+
+## Histoire d'introduction
+
+Léa et Théo se disputent. *« Tu ne m'écoutes jamais ! »* — *« Mais
+si, je t'écoute ! C'est toi qui ne me parles pas. »* — *« Bon…
+on fait la paix ? »* — *« D'accord. »* Ils se sourient.
+
+## 1. Activer
+
+- Avez-vous un meilleur ami / une meilleure amie ?
+- Vous arrive-t-il de vous disputer ?
+- Comment fait-on **la paix** ?
+
+## 2. Apporter
+
+### A. Vocabulaire — les sentiments
+
+| Français       | Allemand      |
+|----------------|---------------|
+| content(e)     | zufrieden     |
+| heureux(se)    | glücklich     |
+| triste         | traurig       |
+| fâché(e)       | böse          |
+| jaloux(se)     | eifersüchtig  |
+| déçu(e)        | enttäuscht    |
+| inquiet(e)     | besorgt       |
+| amoureux(se)   | verliebt      |
+
+### B. Pronoms COD
+
+|         | singulier | pluriel |
+|---------|-----------|---------|
+| 1ère    | me / m'   | nous    |
+| 2ème    | te / t'   | vous    |
+| 3ème m. | le / l'   | les     |
+| 3ème f. | la / l'   | les     |
+
+> *Tu écoutes Léa ?* → *Oui, je **l'**écoute.*
+> *Vous voyez Léa et Théo ?* → *Oui, je **les** vois.*
+> *Tu m'aides ?* → *Oui, je **t'**aide.*
+
+### C. La dispute (texte original)
+
+> Lundi matin. Léa boude. Théo s'approche.
+>
+> — Qu'est-ce que tu as ? Tu es fâchée ?
+> — Tu m'as oubliée samedi ! On devait aller au ciné !
+> — Oh non, je suis désolé ! J'ai eu un match de foot, je t'ai
+> envoyé un message…
+> — Je ne l'ai pas reçu.
+> — Excuse-moi. On se voit ce soir ?
+> — D'accord. Mais tu m'invites à une glace !
+
+## 3. S'entraîner
+
+**Ex. 1 — Pronoms COD.** Remplacez par un pronom.
+
+1. J'écoute *la prof*. → Je ___ écoute.
+2. Tu invites *Léa et moi* ? → Tu ___ invites ?
+3. Elle voit *Théo*. → Elle ___ voit.
+4. Vous regardez *les photos* ? → Vous ___ regardez ?
+
+**Ex. 2 — Sentiments.** Quel sentiment ?
+
+1. Hugo a eu 1 en maths. Il est ___.
+2. Léa rentre de Paris. Elle est ___ de revoir Théo.
+3. Inès attend une lettre. Elle est ___.
+4. Théo a trouvé un cadeau. Il est ___.
+
+**Ex. 3 — Lecture.** Au texte C :
+
+1. Pourquoi Léa est-elle fâchée ?
+2. Que dit Théo pour s'excuser ?
+3. Comment finit la dispute ?
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) l' · 2) nous · 3) le · 4) les.
+
+**Ex. 2.** 1) triste/déçu · 2) heureuse/contente · 3) inquiète ·
+4) content/heureux.
+
+**Ex. 3.** 1) Théo l'a oubliée samedi (cinéma). 2) Il s'excuse,
+explique le match de foot, propose une glace. 3) Ils se
+réconcilient — Théo invite Léa à une glace.
+
+:::
+
+## 4. Produire
+
+**Tâche d'écriture (M, ~80 mots) :**
+
+Racontez une **petite dispute** avec un(e) ami(e) en 6-7 phrases.
+Utilisez **2 sentiments** + **2 pronoms COD** + le **passé
+composé**. Comment vous êtes-vous réconciliés ?
+
+## 5. Réfléchir
+
+- [ ] Je nomme 6 sentiments.
+- [ ] J'utilise les pronoms COD *me, te, le, la, les*.
+- [ ] J'écris un récit de réconciliation.
+
+## Exemple d'épreuve — Klassenarbeit BW (M)
+
+**Tâche 1 — Grammatik (10 P.)** : 8 phrases avec pronoms COD.
+**Tâche 2 — Lecture (8 P.)** : texte C, 4 questions.
+**Tâche 3 — Schreiben (12 P.)** : votre dispute (~80 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 13' ·
+Produire 11' · Réfléchir 2' · Aperçu 2'.
+:::
+
+## Pièges fréquents
+
+- **Place du pronom :** avant le verbe — *Je **le** vois* (pas
+  *Je vois le*).
+- **Élision :** *me, te, le, la* → *m', t', l'* devant voyelle.
+- **Accord du participe passé** au passé composé avec COD
+  antéposé : *Léa, je **l'**ai vu**e**.*
+
+## Pour aller plus loin
+
+- **France TV — Une fille comme elle** (série pour ados) :
+  <https://www.france.tv/>

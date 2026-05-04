@@ -1,0 +1,64 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 5"
+subtitle: "Raconter une histoire vraie · Klasse 10 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 10
+
+### Tâche 1 — Leseverstehen (8 P.)
+
+Lisez le récit de Karim (Unité 5, texte C). Répondez :
+
+1. Quel âge avait Karim et où vivait-il ?
+2. Pourquoi sa famille a-t-elle déménagé ?
+3. Quel temps faisait-il le jour du départ ?
+4. Quelle phrase conclut le récit ?
+
+### Tâche 2 — Conjugaison (10 P.)
+
+Mettez au passé composé ou à l'imparfait selon le sens.
+
+1. *Il (faire) ___ beau ce matin-là.*
+2. *Soudain, j'(voir) ___ un accident.*
+3. *Nous (habiter) ___ à Paris en 2015.*
+4. *Le téléphone (sonner) ___ trois fois.*
+5. *Mon grand-père (avoir) ___ 80 ans.*
+6. *Pendant que je (lire) ___, ma sœur (entrer) ___.*
+7. *Hier, on (aller) ___ au cinéma.*
+8. *Quand j'(être) ___ petit, je (jouer) ___ au foot.*
+
+### Tâche 3 — Schreiben (12 P.)
+
+Racontez une **histoire vraie** qui vous a marqué(e) en
+**200 mots**. Plan : intro avec décor (imparfait), événement
+(passé composé), conclusion réflexive. **5 verbes PC** +
+**5 imparfait** minimum.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 8       |
+| Tâche 2 — Conjugaison       | 10      |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 7 ans, à Lille. 2) Le père a reçu une offre
+d'emploi à Karlsruhe. 3) Il a plu très fort. 4) « Cette journée
+a changé ma vie. »
+
+**Tâche 2.** 1) faisait · 2) ai vu · 3) habitions · 4) a sonné
+· 5) avait · 6) lisais / est entrée · 7) est allé(e)(s) ·
+8) étais / jouais.
+
+**Tâche 3.** Réponses libres. Critères : 200 mots · 3
+paragraphes · 5 PC + 5 imparfait · cohérence narrative.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 5*

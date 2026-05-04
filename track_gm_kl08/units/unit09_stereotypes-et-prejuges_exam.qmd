@@ -1,0 +1,57 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 9"
+subtitle: "Stéréotypes et préjugés · Klasse 8 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 8
+
+### Tâche 1 — Lecture + définitions (10 P.)
+
+Pour chaque énoncé, indiquez **S** (stéréotype), **P** (préjugé)
+ou **D** (discrimination), et **justifiez en 1 phrase**.
+
+1. *« Les Espagnols mangent tard le soir. »*
+2. *« Je ne veux pas travailler avec elle parce qu'elle est
+   Roumaine. »*
+3. *« Une boulangerie refuse de servir une cliente voilée. »*
+4. *« Les Belges aiment les frites. »*
+5. *« Les Asiatiques sont meilleurs en maths. »*
+
+### Tâche 2 — Sprechen mündlich (12 P.)
+
+Mini-dialogue de 3 minutes en binôme. A énonce un stéréotype, B
+relativise avec au moins 3 expressions du cours. Échangez les
+rôles.
+
+Critères : Erfüllung 4 P. · Sprache 4 P. · Aussprache 4 P.
+
+### Tâche 3 — Schreiben (8 P.)
+
+Écrivez **5 phrases** sur :
+
+> *« Un stéréotype dont j'ai été victime ou témoin. »*
+
+Inclure : le stéréotype · qui le portait · effet sur la personne
+visée · une réaction respectueuse · ce que vous en retenez.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Catégoriser       | 10      |
+| Tâche 2 — Sprechen mündlich | 12      |
+| Tâche 3 — Schreiben         | 8       |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1 = S (généralisation neutre). 2 = P (refus avant
+connaissance). 3 = D (acte concret). 4 = S. 5 = S, mais à
+mi-chemin du préjugé selon le contexte.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 9*

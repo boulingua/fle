@@ -1,0 +1,69 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 10"
+subtitle: "Consommation responsable · Klasse 9 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'article (Unité 10, texte C : Vinted). Répondez :
+
+1. Combien de comptes Vinted en France ?
+2. Quel pourcentage des 16-25 ans y achètent ?
+3. Citez les **3 raisons** de son succès.
+4. Combien de fois acheter d'occasion divise l'empreinte CO₂ ?
+5. Quelle est la règle d'or pour un effet écologique réel ?
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Reliez chaque label à sa définition (5 P.) :
+
+| Label                  | Définition                       |
+|------------------------|----------------------------------|
+| 1. GOTS                | a. sans matière animale           |
+| 2. Fairtrade           | b. commerce équitable             |
+| 3. Oeko-Tex            | c. coton biologique               |
+| 4. PETA Approved Vegan | d. entreprise à mission           |
+| 5. B Corp              | e. sans substances nocives        |
+
+Plus, traduisez (3 P.) : *seconde main · empreinte (CO₂) ·
+atelier de confection*.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez une **critique d'une habitude de consommation**
+(~150 mots) en **3 paragraphes** :
+
+1. Description du comportement (votre génération, ou vous).
+2. **2 arguments** pour changer ce comportement.
+3. **3 actions concrètes** que vous proposez.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 30 millions. 2) 70 %. 3) Prix bas, choix immense,
+conscience écologique. 4) Par 3. 5) « Acheter moins, garder plus
+longtemps. »
+
+**Tâche 2.** 1-c · 2-b · 3-e · 4-a · 5-d. + Secondhand /
+zweite Hand · der CO₂-Fußabdruck · die Werkstatt
+(Konfektionsatelier).
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3
+paragraphes · 2 arguments · 3 actions concrètes.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 10*

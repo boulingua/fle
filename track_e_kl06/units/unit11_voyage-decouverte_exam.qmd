@@ -1,0 +1,56 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 11"
+subtitle: "Voyage de découverte (Strasbourg) · Klasse 6 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+
+### Tâche 1 — Hörverstehen (12 P.)
+
+Écoutez l'annonce du guide (Unité 11, texte C). Répondez :
+
+1. À quelle heure et où commence la visite ?
+2. Quelle est la hauteur de la cathédrale ?
+3. À quelle heure sonne l'horloge astronomique ?
+4. Combien dure la visite ?
+5. Quels tarifs (adulte / jeune) ?
+6. Combien coûte l'audioguide ?
+
+### Tâche 2 — Vocabulaire (6 P.)
+
+Traduisez :
+
+- ein Guide · ein Museum · der Eintritt · die Führung ·
+  ein Audioguide · der Tarif.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Présentez **une visite** d'un monument en **70 mots** : nom +
+lieu + date + 2 particularités + votre avis.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen      | 12      |
+| Tâche 2 — Vocabulaire       | 6       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Place de la Cathédrale, 10h. 2) 142 m. 3) 12h30.
+4) 2h. 5) 8 € adulte / 4 € jeune. 6) 2 €.
+
+**Tâche 2.** un guide · un musée · l'entrée · une visite (guidée)
+· un audioguide · le tarif.
+
+**Tâche 3.** Réponses libres. Critères : 70 mots · 5 éléments
+demandés · vocabulaire correct.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 11*

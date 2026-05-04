@@ -1,0 +1,46 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 6"
+subtitle: "Au marché · Klasse 6 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 6
+
+### Tâche 1 — Hörverstehen (10 P.)
+
+La prof lit deux fois le dialogue Léa-Hugo. Répondez :
+
+1. Combien de kilos de pommes Léa achète-t-elle ?
+2. Que demande-t-elle d'autre ?
+3. Quel est le total ?
+4. Que dit Hugo à la fin ?
+5. Comment Léa demande-t-elle poliment ?
+
+### Tâche 2 — Vocabulaire (10 P.)
+
+Traduisez : 1) la pomme · 2) die Karotte · 3) la fraise · 4) der
+Salat · 5) la baguette · 6) der Apfel · 7) la tomate · 8) die
+Banane · 9) le pain au chocolat · 10) die Kartoffel.
+
+### Tâche 3 — Sprechen mündlich (10 P.)
+
+Achat simulé en binôme : 3 produits + total. Critères :
+Erfüllung 4 P · Aussprache 4 P · Sprache 2 P.
+
+## Total : 30 P.
+
+## Solutions
+
+**Tâche 1.** 1) 1 kilo. 2) Une baguette. 3) 4,80 €. 4) Merci,
+bonne journée. 5) *Je voudrais …* + *s'il vous plaît*.
+
+**Tâche 2.** 1) der Apfel · 2) la carotte · 3) die Erdbeere ·
+4) la salade · 5) das Baguette · 6) la pomme · 7) die Tomate ·
+8) la banane · 9) das Schokoladenbrötchen · 10) la pomme de
+terre.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 6*

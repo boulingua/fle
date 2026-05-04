@@ -1,0 +1,63 @@
+---
+title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 6"
+subtitle: "Musiques du Maghreb · Klasse 8 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 8 (avec écoute)
+
+### Tâche 1 — Hörverstehen (15 P.)
+
+Vous écoutez deux fois le refrain suivant.
+
+> Entre Marseille et Oran,
+> entre l'écran et le vent,
+> je chante deux pays —
+> et aucun n'est entier.
+
+Répondez :
+
+1. Quels sont les deux lieux mentionnés ? (3 P.)
+2. Que signifie « aucun n'est entier » ? (5 P.)
+3. À votre avis, qui chante ? Justifiez. (7 P.)
+
+### Tâche 2 — Text-/Medienkompetenz (10 P.)
+
+Trois indices, trois genres. Identifiez :
+
+a) Mélange arabe-français + voix puissantes + Oran années 1980 → ___
+b) Oud + derbouka + mariages, héritage andalou → ___
+c) Banlieue + double identité + années 2000 → ___
+
+### Tâche 3 — Schreiben (5 P.)
+
+Décrivez en **3 phrases** votre chanson préférée :
+genre · artiste · pourquoi vous l'aimez.
+
+## Notation
+
+| Tâche                        | Points  |
+|------------------------------|--------:|
+| Tâche 1 — Hörverstehen       | 15      |
+| Tâche 2 — Text-/Medien        | 10      |
+| Tâche 3 — Schreiben          | 5       |
+| **Total**                    | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Marseille (FR) et Oran (Algérie). 2) Aucun
+des deux pays n'est complet pour la voix qui chante — image de
+la double identité / de la diaspora. 3) Probablement une voix
+de la diaspora maghrébine en France ; indices : double lieu, *je
+chante deux pays*.
+
+**Tâche 2.** a) raï · b) chaâbi · c) rap maghrébin.
+
+**Tâche 3.** Modèle libre. Critère : 3 phrases avec verbe
+conjugué, vocabulaire des médias / musique adéquat.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 6*

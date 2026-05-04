@@ -1,0 +1,43 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 7"
+subtitle: "Le temps et l'heure · Klasse 6 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 6
+
+### Tâche 1 — Vocabulaire jours/mois (10 P.)
+
+Traduisez :
+
+- 7 jours : Montag, Dienstag, Mittwoch, Donnerstag, Freitag,
+  Samstag, Sonntag.
+- 5 mois : Januar, März, Mai, August, Dezember.
+
+### Tâche 2 — Heure (10 P.)
+
+Écrivez l'heure en français :
+
+1. 8h15 · 2. 12h30 · 3. 14h45 · 4. 17h00 · 5. 23h30.
+
+### Tâche 3 — Schreiben (10 P.)
+
+Écrivez **3 dates** importantes pour vous (anniversaire, fête,
+événement) avec **jour + heure** quand pertinent.
+
+## Total : 30 P.
+
+## Solutions
+
+**Tâche 1.** lundi · mardi · mercredi · jeudi · vendredi ·
+samedi · dimanche / janvier · mars · mai · août · décembre.
+
+**Tâche 2.** 1) huit heures et quart. 2) midi et demi /
+midi trente. 3) quinze heures moins le quart. 4) dix-sept heures.
+5) vingt-trois heures trente.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 7*

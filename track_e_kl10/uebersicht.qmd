@@ -1,0 +1,12 @@
+---
+title: "Klasse 10 — Plan hebdomadaire"
+---
+
+::: {.callout-note}
+**Phase 2 (à venir).** Le plan hebdomadaire des 12 Unités sera
+généré à partir de `_resources/curriculum_outline.yml`.
+:::
+
+## Voir aussi
+
+- [Page du cours](index.qmd)

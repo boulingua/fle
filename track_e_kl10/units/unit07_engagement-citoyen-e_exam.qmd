@@ -1,0 +1,61 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 7"
+subtitle: "Engagement citoyen des jeunes · Klasse 10 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la tribune d'Anouk (Unité 7, texte C). Répondez :
+
+1. Quel mouvement rejoint Anouk ?
+2. Pourquoi ne vote-t-elle pas encore ?
+3. Quelle association soutient-elle (combien d'heures) ?
+4. Quelle citation utilise-t-elle ?
+5. Que dit-elle sur son père ?
+
+### Tâche 2 — Verbes d'engagement (8 P.)
+
+Conjuguez :
+
+1. Je ___ (militer) chaque vendredi.
+2. Nous ___ (manifester) dans la rue.
+3. Tu ___ (signer) des pétitions.
+4. Vous ___ (sensibiliser) votre famille.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre tribune** (~180 mots) sur un sujet
+d'engagement : 4 § + 6 connecteurs + 5 verbes d'engagement
++ 1 citation.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Verbes engagement | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Fridays for Future Karlsruhe. 2) Pas encore
+18 ans. 3) Secours Populaire, 4 h/mois. 4) *« No one is too
+small to make a difference. »* (Greta Thunberg). 5) Il
+n'avait jamais entendu parler du bilan carbone, maintenant
+oui.
+
+**Tâche 2.** 1) milite · 2) manifestons · 3) signes ·
+4) sensibilisez.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 4 § ·
+6 connecteurs · 5 verbes engagement · 1 citation.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 7*

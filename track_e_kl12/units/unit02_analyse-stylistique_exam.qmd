@@ -1,0 +1,62 @@
+---
+title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 2"
+subtitle: "Analyse stylistique · Klasse 12 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la scène du meurtre (Unité 2, texte C). Répondez :
+
+1. Combien de coups de feu Meursault tire-t-il en tout ?
+2. Quel mot revient comme isotopie dominante ?
+3. Citez un oxymore.
+4. Quelle métaphore finale ?
+5. Que dit Meursault sur l'équilibre du jour ?
+
+### Tâche 2 — Outils stylistiques (8 P.)
+
+Reliez chaque outil à sa définition :
+
+- isotopie · oxymore · chiasme · ironie · litote ·
+  hypotypose · polyphonie · paratexte
+
+(Définitions : réseau lexical · contraires unis · construction
+AB-BA · sens inverse · dire moins · description visuelle ·
+plusieurs voix · titre/dédicace.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre étude stylistique** (~400 mots) d'un
+passage de *L'Étranger* ou *La Peste* : 5 étapes
+méthodologiques + 4 outils + 5 citations + interprétation.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Outils            | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 5 coups (1 + 4 sur corps inerte). 2) Soleil
+/ sueur / sensoriel. 3) *Bruit à la fois sec et
+assourdissant.* 4) *Quatre coups brefs sur la porte du
+malheur.* 5) Il l'a détruit + le silence d'une plage où il
+avait été heureux.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 400 mots · 5
+étapes · 4 outils · 5 citations.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 2*

@@ -1,0 +1,61 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 5"
+subtitle: "Goûts et couleurs · Klasse 6 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+
+### Tâche 1 — Vocabulaire (10 P.)
+
+Traduisez :
+
+- rot · blau · gelb · grün · schwarz · weiß · orange · lila ·
+  rosa · grau.
+
+Plus, traduisez : *j'adore · j'aime · je n'aime pas · je
+déteste*.
+
+### Tâche 2 — Accord (8 P.)
+
+Complétez avec la bonne forme.
+
+1. Une chemise *(bleu)* ___.
+2. Des yeux *(noir)* ___.
+3. Une voiture *(rouge)* ___.
+4. Des chaussures *(blanc)* ___.
+5. Un manteau *(vert)* ___.
+6. Des cheveux *(jaune)* ___.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Présentez **vos goûts** en **70 mots** : 2 j'adore + 1 j'aime
++ 1 je n'aime pas + 1 je déteste. Citez **3 couleurs** avec
+accord correct.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Vocabulaire       | 10      |
+| Tâche 2 — Accord            | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** rouge · bleu · jaune · vert · noir · blanc ·
+orange · violet · rose · gris. + j'adore · j'aime · je n'aime
+pas · je déteste.
+
+**Tâche 2.** 1) bleue · 2) noirs · 3) rouge · 4) blanches ·
+5) vert · 6) jaunes.
+
+**Tâche 3.** Réponses libres. Critères : 70 mots · 4 verbes de
+goût · 3 couleurs accordées.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 5*

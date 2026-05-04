@@ -1,0 +1,51 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 8"
+subtitle: "La météo et les saisons · Klasse 6 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 6
+
+### Tâche 1 — Hörverstehen (12 P.)
+
+La prof lit deux fois le mini-bulletin (Unité 8, texte B).
+Répondez :
+
+1. Quelle ville aura 22 degrés ?
+2. Où pleut-il ?
+3. Combien de degrés à Marseille ?
+4. Quelle ville aura beaucoup de vent ?
+5. À Strasbourg, à quel moment de la journée pleuvra-t-il ?
+6. Citez **deux** expressions météo entendues.
+
+### Tâche 2 — Saisons (8 P.)
+
+Reliez chaque description à une saison.
+
+1. Il fait très chaud, 30°C, on va à la plage.
+2. Les feuilles tombent, il y a du vent.
+3. Il neige et il fait -5°C.
+4. Les fleurs poussent, il fait doux.
+
+a) printemps · b) été · c) automne · d) hiver.
+
+### Tâche 3 — Schreiben (10 P.)
+
+Décrivez la météo dans **3 villes** (~30 mots) avec température
+et phénomène (soleil/pluie/vent/nuages).
+
+## Total : 30 P.
+
+## Solutions
+
+**Tâche 1.** 1) Paris. 2) Strasbourg. 3) 28°C. 4) Lille. 5)
+L'après-midi. 6) *Il fera beau · il pleuvra · il y aura du soleil
+· il y aura du vent.*
+
+**Tâche 2.** 1–b · 2–c · 3–d · 4–a.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 8*

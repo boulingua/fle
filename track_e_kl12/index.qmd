@@ -1,0 +1,117 @@
+---
+title: "Klasse 12 — Niveau E"
+---
+
+::: {.hero-kicker}
+PARCOURS E (Gymnasium) · KLASSE 12 · OBERSTUFE
+:::
+
+# Klasse 12 — Niveau E
+
+[E]{.cefr-badge .c1}
+
+Douze Unités au niveau **E** (Gymnasium) en Klasse 12.
+Analyses approfondies, dossier d'auteur, préparation Abitur
+écrit + Kommunikationsprüfung Lf.
+
+## Cap visé
+
+Étude complète de *L'Étranger* (Camus), décolonisation
+littéraire (Condé), mémoire (Modiano), gender (Despentes),
+médiation FR↔DE Abitur, premier mock écrit.
+
+## Cast récurrent
+
+- **Anouk** en 12e Lf.
+- **Théodore**, prof de littérature comparée.
+- **Voix** : Albert Camus, Maryse Condé, Patrick Modiano,
+  Virginie Despentes, Leïla Slimani.
+
+## Les douze Unités
+
+::: {.card-grid}
+
+::: {.card}
+### [Unité 1 — Introduire : *L'Étranger* (Camus)](units/unit01_introduire-camus.qmd)
+Modul : Lesen + Schreiben. Incipit *L'Étranger*.
+:::
+
+::: {.card}
+### [Unité 2 — Analyse stylistique](units/unit02_analyse-stylistique.qmd)
+Modul : Lesen. Scène du meurtre.
+:::
+
+::: {.card}
+### [Unité 3 — Décolonisation littéraire (Condé)](units/unit03_decolonisation-litteraire.qmd)
+Modul : Lesen + Sprechen. *Moi, Tituba sorcière*.
+:::
+
+::: {.card}
+### [Unité 4 — Presse engagée (*Le Monde diplomatique*)](units/unit04_presse-engagee.qmd)
+Modul : Lesen + Schreiben. Article IA.
+:::
+
+::: {.card}
+### [Unité 5 — Médiation FR↔DE (Abitur)](units/unit05_mediation-fr-de.qmd)
+Modul : Sprachmittlung. Format Abitur Lf.
+:::
+
+::: {.card}
+### [Unité 6 — Étude de roman complet](units/unit06_etude-de-roman.qmd)
+Modul : Lesen + Schreiben. Structure *L'Étranger*.
+:::
+
+::: {.card}
+### [Unité 7 — Discours et radio (France Inter)](units/unit07_discours-radio.qmd)
+Modul : Hören + Sprechen. Édito 3 min.
+:::
+
+::: {.card}
+### [Unité 8 — Gender et littérature contemporaine](units/unit08_gender-litteraire.qmd)
+Modul : Lesen + Sprechen. Despentes, Édouard Louis.
+:::
+
+::: {.card}
+### [Unité 9 — Mémoire et traumatisme (Modiano)](units/unit09_memoire-et-traumatisme.qmd)
+Modul : Lesen + Text-Medien. *Dora Bruder*.
+:::
+
+::: {.card}
+### [Unité 10 — Argumenter en public (Kommunikationsprüfung)](units/unit10_argumenter-en-public.qmd)
+Modul : Sprechen monolog + dialog. 5 + 10 min.
+:::
+
+::: {.card}
+### [Unité 11 — Préparer l'Abitur écrit](units/unit11_preparer-l-abitur-ecrit.qmd)
+Modul : Lesen + Schreiben. Mock 1, format 270 min.
+:::
+
+::: {.card}
+### [Unité 12 — Bilan : 12e](units/unit12_bilan-12e.qmd)
+Modul : Schreiben. Portfolio Abitur Lf.
+:::
+
+:::
+
+## Cap d'épreuve
+
+Klausuren BW au format Abitur Lf, ~30 points par épreuve.
+Notenschlüssel 15 Points BW.
+
+## Couverture des compétences fonctionnelles (3.1.3.x)
+
+| Code        | Compétence                                  | Unités          |
+|-------------|---------------------------------------------|-----------------|
+| 3.1.3.1     | Hör-/Hörsehverstehen                        | 7               |
+| 3.1.3.2     | Leseverstehen                               | 1, 2, 3, 4, 6, 8, 9, 11 |
+| 3.1.3.3     | Sprechen (Dialog)                           | 8, 10           |
+| 3.1.3.4     | Sprechen (Monolog)                          | 3, 7, 10        |
+| 3.1.3.5     | Schreiben                                   | 1, 2, 4, 6, 11, 12 |
+| 3.1.3.6     | Sprachmittlung                              | 5               |
+| 3.1.4       | Text- und Medienkompetenz                   | 9               |
+
+## Voir aussi
+
+- [Programme complet (156 Unités)](../programme.qmd)
+- [Bildungsplan](../bildungsplan.qmd)
+- [Accueil](../index.qmd)

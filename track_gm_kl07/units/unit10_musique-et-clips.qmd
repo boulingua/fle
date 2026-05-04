@@ -1,0 +1,169 @@
+---
+title: "Unité 10 — Musique et clips"
+subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 10
+slug: "musique-et-clips"
+bildungsplan:
+  - "3.1.3.1 Hör-/Hörsehverstehen"
+  - "3.1.4 Text- und Medienkompetenz"
+skills_focus:
+  - hoerverstehen
+  - textmedienkompetenz
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit10_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je nomme **6 styles** musicaux.
+- Je décris un **clip** (qui, où, action).
+- J'exprime mes **goûts** : *j'adore, j'aime, je n'aime pas*.
+
+## Histoire d'introduction
+
+Léa et Théo regardent un clip d'Aya Nakamura. *« Tu aimes ça ? »* —
+*« Beaucoup ! Sa voix est top. »* — *« Moi, je préfère le rap.
+Mais ce clip est génial — les couleurs, la danse… »*
+
+## 1. Activer
+
+- Quel(le) est votre chanteur / chanteuse préféré(e) ?
+- Quel style musical aimez-vous ?
+- Regardez-vous des clips sur YouTube ?
+
+## 2. Apporter
+
+### A. Vocabulaire — styles musicaux
+
+| Français       | Allemand     |
+|----------------|--------------|
+| la pop         | der Pop      |
+| le rock        | der Rock     |
+| le rap         | der Rap      |
+| le hip-hop     | der Hip-Hop  |
+| la chanson     | das Chanson  |
+| le R'n'B       | der R'n'B    |
+| la musique électronique | die elektronische Musik |
+| le reggae      | der Reggae   |
+
+### B. Décrire un clip
+
+- *Le clip se passe à …*
+- *On voit …*
+- *Le chanteur / La chanteuse porte …*
+- *Les couleurs sont …*
+- *La musique est rapide / lente / joyeuse / triste.*
+
+### C. Exprimer ses goûts
+
+| Très positif | Positif    | Négatif       | Très négatif      |
+|--------------|------------|---------------|-------------------|
+| j'adore      | j'aime     | je n'aime pas | je déteste        |
+| c'est génial | c'est bien | bof…          | c'est nul         |
+
+### D. Description d'un clip (texte original)
+
+> Le clip de la chanson *« Pookie »* d'Aya Nakamura se passe
+> dans une maison colorée. La chanteuse porte une robe rouge et
+> danse avec ses amies. Les couleurs sont vives : rose, jaune,
+> bleu. La musique est rapide, joyeuse. Aya sourit beaucoup.
+> Le clip dure 3 minutes 20 et a 800 millions de vues sur
+> YouTube. C'est un clip très populaire des années 2020.
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte D).**
+
+1. Qui chante *Pookie* ?
+2. Où se passe le clip ?
+3. Que porte Aya Nakamura ?
+4. Combien de vues a le clip ?
+
+**Ex. 2 — Vocabulaire.** Quel style ?
+
+a) *« Petit Papa Noël »* (Tino Rossi) ·
+b) *« On ira »* (Jain) — rythmes africains ·
+c) *« Au DD »* (PNL) — paroles rapides, son urbain ·
+d) *« Dommage »* (Bigflo et Oli) — paroles + mélodie.
+
+**Ex. 3 — J'aime / Je n'aime pas.** Donnez votre avis.
+
+1. Le rap français.
+2. Les chansons des années 80.
+3. La musique électronique.
+4. Le reggae.
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) Aya Nakamura. 2) Dans une maison colorée. 3) Une
+robe rouge. 4) 800 millions.
+
+**Ex. 2.** a) chanson · b) pop / world music · c) rap · d) rap /
+chanson.
+
+**Ex. 3.** Réponses libres avec *j'aime, j'adore, je n'aime pas,
+je déteste*.
+
+:::
+
+## 4. Produire
+
+**Tâche orale (M, ~8 phrases) :**
+
+Décrivez **votre clip préféré** : titre, chanteur, lieu,
+couleurs, action, durée. Exprimez **2 goûts** (*j'adore, je
+préfère*).
+
+## 5. Réfléchir
+
+- [ ] Je nomme 6 styles musicaux.
+- [ ] Je décris un clip vidéo.
+- [ ] J'exprime mes goûts musicaux.
+
+## Exemple d'épreuve — Klassenarbeit BW (M)
+
+**Tâche 1 — Hörverstehen (10 P.)** : description de clip,
+6 questions vrai/faux.
+**Tâche 2 — Vocabulaire (8 P.)** : 8 styles musicaux à traduire.
+**Tâche 3 — Schreiben (12 P.)** : votre clip préféré (~80 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 11' · S'entraîner 14' ·
+Produire 11' · Réfléchir 2' · Aperçu 3'.
+:::
+
+## Pièges fréquents
+
+- **« la musique »** (toujours singulier).
+- **« Faire de la musique »** = jouer d'un instrument.
+- **« Écouter de la musique »** vs. **« regarder un clip »**.
+
+## Pour aller plus loin
+
+- **Aya Nakamura — chaîne officielle** :
+  <https://www.youtube.com/@AyaNakamuraOfficiel>
+- **France Inter — Pop & Co** (émission musicale) :
+  <https://www.radiofrance.fr/franceinter/>

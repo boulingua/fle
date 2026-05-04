@@ -1,0 +1,50 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 12 (finale)"
+subtitle: "Bilan : portrait de classe · Klasse 6 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit finale — Niveau M, Klasse 6
+
+### Tâche 1 — Sprachmittlung (15 P.)
+
+Lisez le texte allemand sur la 6c.
+
+> Wir sind 24 Schüler:innen — 12 Mädchen und 12 Jungen. Unser
+> Lehrerinnen-Team besteht aus Frau Renault (Französisch) und
+> Herrn Klein (Mathe). Acht Schüler:innen machen Sport in einem
+> Verein, fünf spielen ein Instrument. Die beliebteste
+> Aktivität ist Fußball.
+
+Écrivez en **français** un résumé en **3 à 5 phrases courtes**
+pour Inès à Montréal. Inclure : nombre d'élèves · profs ·
+activités · activité préférée.
+
+Critères : Inhalt 6 P · Sprache 5 P · Sens fidèle 4 P.
+
+### Tâche 2 — Sprechen mündlich (15 P.)
+
+Présentation orale de votre classe en 1-2 minutes. Inclure :
+
+- Nombre d'élèves (filles/garçons).
+- Nom de 2 profs.
+- 3 activités fréquentes.
+- 1 chose unique.
+
+Critères : Inhalt 6 P · Sprache 5 P · Aussprache 4 P.
+
+## Total : 30 P.
+
+## Modèle de médiation (~50 mots)
+
+> Nous sommes 24 élèves dans la 6c, à Karlsruhe : 12 filles et
+> 12 garçons. Nos profs sont Madame Renault (français) et
+> Monsieur Klein (maths). Huit élèves font du sport en club et
+> cinq jouent d'un instrument. L'activité préférée de la classe
+> est le foot.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 12 · Klassenarbeit finale*

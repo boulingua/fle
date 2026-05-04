@@ -1,0 +1,61 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 4"
+subtitle: "Francophonie aujourd'hui · Klasse 10 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le portrait Aya Nakamura (Unité 4, texte C). Répondez :
+
+1. Quel est son vrai nom ?
+2. Où est-elle née ?
+3. Combien de streams cumule-t-elle sur Spotify ?
+4. Quels mots a-t-elle popularisés ?
+5. Que s'est-il passé en 2024 ?
+
+### Tâche 2 — OIF / Francophonie (8 P.)
+
+Reliez chaque donnée à sa valeur :
+
+- États membres OIF · Locuteurs francophones · Continents ·
+  Journée internationale · Mouvement littéraire · Co-
+  fondateur Négritude
+
+(Valeurs : 88 · 321 millions · 5 · 20 mars · Négritude ·
+Senghor.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez le **portrait** d'une figure francophone (~150 mots) :
+3 § (vie / œuvre / impact) + 5 dates précises + 2 citations.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — OIF/Francophonie  | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Aya Coco Danioko. 2) À Bamako (Mali) le 10
+mai 1995. 3) Plus de 6 milliards. 4) *catchana, bazardée,
+djadja*. 5) Elle a interprété Édith Piaf aux JO de Paris.
+
+**Tâche 2.** OIF = 88 · locuteurs = 321 M · continents = 5 ·
+journée = 20 mars · mouvement = Négritude · co-fondateur =
+Senghor.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3 § ·
+5 dates · 2 citations.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 4*

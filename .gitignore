@@ -1,0 +1,39 @@
+# Quarto build artifacts
+_site/
+_freeze/
+.quarto/
+
+# Generated Pages artifact
+docs/
+
+# Generated placeholder downloads (CI rebuilds on every run)
+downloads/
+
+# RStudio / R legacy (no R in this project; kept as safety net)
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS cruft
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor cruft
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Local tinytex state
+.tinytex/

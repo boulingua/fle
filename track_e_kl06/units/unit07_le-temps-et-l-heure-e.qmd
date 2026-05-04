@@ -1,0 +1,154 @@
+---
+title: "Unité 7 — Le temps et l'heure"
+subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 7
+slug: "le-temps-et-l-heure-e"
+bildungsplan:
+  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.5 Schreiben"
+skills_focus:
+  - leseverstehen
+  - schreiben
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit07_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je connais les **7 jours** + **12 mois** + **4 saisons**.
+- Je décris le **temps** : *il fait beau, il pleut…*
+- Je rédige une **météo de la semaine**.
+
+## Histoire d'introduction
+
+Dimanche soir. Anouk regarde la météo : *« Lundi : pluie.
+Mardi : soleil. Mercredi : neige. »* Sa mère : *« Prends ton
+parapluie demain. »*
+
+## 1. Activer
+
+- Quel jour sommes-nous ?
+- En quel mois ?
+- Quel temps fait-il aujourd'hui ?
+
+## 2. Apporter
+
+### A. 7 jours
+
+> *lundi · mardi · mercredi · jeudi · vendredi · samedi · dimanche.*
+
+### B. 12 mois
+
+> *janvier · février · mars · avril · mai · juin · juillet ·
+> août · septembre · octobre · novembre · décembre.*
+
+### C. 4 saisons + météo
+
+| Saison      | Mois          | Météo type             |
+|-------------|---------------|------------------------|
+| le printemps| mars-mai      | il fait doux, il pleut |
+| l'été       | juin-août     | il fait chaud, soleil  |
+| l'automne   | septembre-novembre | il fait frais, vent |
+| l'hiver     | décembre-février | il fait froid, neige |
+
+### D. Météo de la semaine (texte original)
+
+> **Météo Karlsruhe — semaine du 6 au 12 janvier 2026**
+>
+> - Lundi : il fait froid (-2 °C), neige.
+> - Mardi : il fait gris, il pleut.
+> - Mercredi : il y a du vent, 5 °C.
+> - Jeudi : il fait beau, soleil, 7 °C.
+> - Vendredi : il fait nuageux, pluie l'après-midi.
+> - Samedi : grand froid (-5 °C), neige le matin.
+> - Dimanche : ciel bleu, 3 °C, parfait pour le ski !
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte D).**
+
+1. Quel jour neige-t-il ?
+2. Quelle est la température le mardi ?
+3. Quel jour fait-il le plus froid ?
+4. Quel jour est conseillé pour le ski ?
+
+**Ex. 2 — Date.** Écrivez en lettres.
+
+1. 1/1 · 2. 14/7 · 3. 25/12 · 4. 8/3 · 5. 31/10.
+
+**Ex. 3 — Météo.** Quel temps en…
+
+a) été · b) hiver · c) automne · d) printemps.
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) Lundi (et samedi matin). 2) Pas dit (gris, pluie).
+3) Samedi (-5 °C). 4) Dimanche.
+
+**Ex. 2.** 1) Le 1ᵉʳ janvier · 2) le 14 juillet · 3) le 25
+décembre · 4) le 8 mars · 5) le 31 octobre.
+
+**Ex. 3.** Réponses libres. Modèles : a) chaud + soleil ·
+b) froid + neige · c) frais + vent · d) doux + pluie.
+
+:::
+
+## 4. Produire
+
+**Tâche d'écriture (E, ~70 mots) :**
+
+Rédigez **votre météo de la semaine** (lundi-dimanche) :
+température, soleil/pluie/vent, vêtements à prendre.
+
+## 5. Réfléchir
+
+- [ ] Je connais 7 jours + 12 mois + 4 saisons.
+- [ ] Je décris le temps.
+- [ ] Je rédige une météo hebdomadaire.
+
+## Exemple d'épreuve — Klassenarbeit BW (E)
+
+**Tâche 1 — Lecture (10 P.)** : météo, 5 questions.
+**Tâche 2 — Date (8 P.)** : 6 dates à écrire en lettres.
+**Tâche 3 — Schreiben (12 P.)** : votre météo (~70 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+:::
+
+## Pièges fréquents
+
+- **« 1ᵉʳ janvier »** = ordinal pour le 1ᵉʳ jour seulement,
+  ensuite cardinaux : *2 février, 14 juillet*.
+- **« Mois »** sans article devant : *en janvier, en juillet*.
+- **« Il fait + adjectif »** : *il fait beau / mauvais / chaud
+  / froid*.
+
+## Pour aller plus loin
+
+- **Météo France** :
+  <https://meteofrance.com/>

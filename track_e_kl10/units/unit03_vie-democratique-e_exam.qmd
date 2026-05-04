@@ -1,0 +1,61 @@
+---
+title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 3"
+subtitle: "Vie démocratique en France · Klasse 10 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le dossier civique (Unité 3, texte C). Répondez :
+
+1. Depuis quand existe la Vᵉ République ?
+2. Qui l'a fondée ?
+3. Pour combien d'années est élu le président ?
+4. Pour combien d'années sont élus les députés ? Les sénateurs ?
+5. Que vérifie le Conseil constitutionnel ?
+
+### Tâche 2 — Institutions (8 P.)
+
+Reliez chaque lieu à sa fonction :
+
+- Élysée · Matignon · Palais Bourbon · Palais du Luxembourg
+  · Conseil constitutionnel · Conseil d'État
+
+(Fonctions : président · Premier ministre · Assemblée
+nationale · Sénat · juges des lois · juridiction
+administrative.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre présentation civique** (~150 mots) :
+3 pouvoirs + 2 institutions par pouvoir + séparation des
+pouvoirs + 1 comparaison FR/DE (Bundestag, Bundesrat).
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Institutions      | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) 1958. 2) Le général de Gaulle. 3) 5 ans.
+4) 5 ans / 6 ans. 5) Que les lois respectent la Constitution.
+
+**Tâche 2.** Élysée = président · Matignon = PM · Bourbon
+= AN · Luxembourg = Sénat · CC = juges des lois · CE =
+juridiction admin.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3
+pouvoirs · 2 institutions/pouvoir · 1 comparaison FR/DE.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 3*

@@ -1,0 +1,60 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 9"
+subtitle: "Internet et vie privée · Klasse 9 · Niveau E"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez l'article CNIL (Unité 9, texte C). Répondez :
+
+1. Que veut dire RGPD ?
+2. En quelle année est-il entré en vigueur ?
+3. Combien de droits garantit-il ?
+4. Citez 3 données personnelles mentionnées.
+5. Quelle est la première recommandation de la CNIL ?
+
+### Tâche 2 — Conditionnel pour conseiller (8 P.)
+
+Reformulez ces conseils avec un **conditionnel** :
+
+1. *Ne partage pas ton mot de passe.* → Tu ___
+2. *Vérifie tes paramètres.* → Il ___
+3. *Demande l'effacement de tes photos.* → Tu ___
+4. *Lis les conditions générales.* → Tu ___
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez un **dialogue** (~140 mots, 10 répliques) entre vous
+et un·e ami·e sur le partage en ligne : 5 conseils + 3 droits
+RGPD + 1 conditionnel + 1 question ouverte.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Conditionnel      | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Règlement général sur la protection des
+données (UE). 2) 2018. 3) 5. 4) Nom, photo, likes (etc.).
+5) Ne pas partager mot de passe, adresse, numéro.
+
+**Tâche 2.** 1) *Tu devrais ne pas partager …* · 2) *Il
+faudrait que tu vérifies …* · 3) *Tu pourrais demander …* ·
+4) *Tu devrais lire …*
+
+**Tâche 3.** Réponses libres. Critères : 140 mots · 10
+répliques · 5 conseils · 3 droits · 1 conditionnel.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 9*

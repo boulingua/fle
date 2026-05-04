@@ -1,0 +1,50 @@
+---
+title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 2"
+subtitle: "Ma famille · Klasse 6 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 6
+
+### Tâche 1 — Vocabulaire (10 P.)
+
+Traduisez en français :
+
+1. der Bruder · 2. die Tante · 3. die Eltern · 4. der Sohn ·
+5. die Großmutter.
+
+### Tâche 2 — Schreiben (10 P.)
+
+Présentez votre famille en **environ 40 mots**, avec au moins
+**3 possessifs** *mon · ma · mes*.
+
+### Tâche 3 — Sprechen mündlich (10 P.)
+
+Présentation orale de votre famille (1 minute) avec photo ou
+arbre généalogique. Critères : Erfüllung 4 P. · Aussprache 3 P.
+· Sprache 3 P.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Vocabulaire       | 10      |
+| Tâche 2 — Schreiben         | 10      |
+| Tâche 3 — Sprechen mündlich | 10      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) le frère · 2) la tante · 3) les parents · 4) le
+fils · 5) la grand-mère.
+
+**Tâche 2 (modèle, ~42 mots).** *Voici ma famille. Ma mère
+s'appelle Anne, elle a 42 ans. Mon père s'appelle Stefan, il a
+45 ans. Mon petit frère Jonas a 8 ans. Et mes grands-parents
+habitent à Berlin.*
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 2*

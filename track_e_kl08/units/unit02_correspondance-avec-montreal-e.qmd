@@ -1,0 +1,167 @@
+---
+title: "Unité 2 — Correspondance avec Montréal"
+subtitle: "Parcours E (Gymnasium) · Klasse 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 2
+slug: "correspondance-avec-montreal-e"
+bildungsplan:
+  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.5 Schreiben"
+skills_focus:
+  - leseverstehen
+  - schreiben
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit02_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je rédige un **courriel** structuré (~150 mots).
+- Je distingue **français de France** et **français du Québec**.
+- J'utilise **5 expressions** québécoises avec aisance.
+
+## Histoire d'introduction
+
+Anouk reçoit un long courriel de sa cousine Inès. *« Salut !
+Comment ça va à Karlsruhe ? Ici à Montréal, c'est l'automne, mes
+études se passent bien… »*
+
+## 1. Activer
+
+- Écrivez-vous des courriels ou des messages ?
+- À qui écrivez-vous en français ?
+- Quelle différence entre Québec et France ?
+
+## 2. Apporter
+
+### A. Structure d'un courriel personnel
+
+1. **Salutation** : *Salut, Bonjour, Cher/Chère …*
+2. **Accroche** : *Comment ça va ? J'espère que tu vas bien.*
+3. **Corps** : nouvelles, questions (2-3 paragraphes).
+4. **Clôture** : *Réponds-moi vite ! À bientôt.*
+5. **Signature** : prénom + bisous / amicalement.
+
+### B. 5 québécismes (révision + nouveaux)
+
+- *magasiner · char · chum/blonde · dépanneur · poutine.*
+- **Nouveaux** : *jaser* (parler), *plate* (ennuyeux),
+  *écœurant* (génial !).
+
+### C. Courriel d'Inès (texte original)
+
+> **De :** ines.tremblay@montreal.qc.ca
+> **À :** anouk.schmidt@karlsruhe.de
+> **Objet :** Nouvelles d'octobre
+>
+> Salut Anouk !
+>
+> Comment ça va ? J'espère que ta rentrée en 8e s'est bien
+> passée. Ici, j'ai commencé le secondaire 2 (= 7e en France).
+> J'aime ma nouvelle prof de maths — elle est *écœurante* !
+>
+> La semaine dernière, on a fait du **magasinage** au centre-
+> ville. J'ai trouvé une jolie tuque rouge. Mon **chum**
+> Antoine, lui, n'a rien acheté — il a dit que c'était
+> *plate*.
+>
+> Demain, je vais **jaser** avec ma grand-mère par téléphone —
+> elle vit à Québec. Et toi, comment va Karim, ton nouveau
+> correspondant à Lille ?
+>
+> À bientôt !
+>
+> Inès
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quelle est l'objet du courriel ?
+2. Quelle classe a Inès au Québec ?
+3. Que signifie *écœurant(e)* ?
+4. Pourquoi Antoine n'a rien acheté ?
+
+**Ex. 2 — Québécismes.** Donnez l'équivalent français de France :
+
+a) magasiner · b) chum · c) jaser · d) plate · e) écœurant.
+
+**Ex. 3 — Structure.** Repérez dans le texte C :
+
+- la salutation, l'accroche, 1 question, la clôture.
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) Nouvelles d'octobre. 2) Secondaire 2 (= 7e). 3)
+*Génial ! Super !* (au Québec). 4) Il a trouvé que c'était
+*plate* (ennuyeux).
+
+**Ex. 2.** a) faire les magasins · b) copain · c) parler/discuter
+· d) ennuyeux · e) génial.
+
+**Ex. 3.** Salutation : *« Salut Anouk ! »*. Accroche :
+*« Comment ça va ? »*. Question : *« Comment va Karim ? »*.
+Clôture : *« À bientôt ! »*.
+
+:::
+
+## 4. Produire
+
+**Tâche d'écriture (E, ~150 mots) :**
+
+Rédigez un **courriel-réponse** à Inès : structure complète +
+3 nouvelles + 1 question + **2 québécismes** entre guillemets.
+
+## 5. Réfléchir
+
+- [ ] Je rédige un courriel structuré.
+- [ ] Je connais 8 québécismes.
+- [ ] Je dialogue par courriel avec une Québécoise.
+
+## Exemple d'épreuve — Klassenarbeit BW (E)
+
+**Tâche 1 — Leseverstehen (10 P.)** : courriel d'Inès,
+5 questions.
+**Tâche 2 — Vocabulaire (8 P.)** : 8 québécismes.
+**Tâche 3 — Schreiben (12 P.)** : votre courriel (~150 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+:::
+
+## Pièges fréquents
+
+- **« Écœurant »** au Québec = positif (super !) ; en France,
+  ça veut dire *qui dégoûte* (négatif !).
+- **« Jaser »** au Québec = bavarder gentiment ; en France, ça
+  peut être négatif (cancaner).
+- **« Plate »** au Québec = ennuyeux ; en France, ça veut dire
+  plat (sans relief).
+
+## Pour aller plus loin
+
+- **Office québécois de la langue française — vitrine** :
+  <https://vitrinelinguistique.oqlf.gouv.qc.ca/>

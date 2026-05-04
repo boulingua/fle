@@ -1,0 +1,54 @@
+% _exam.tex — entête LaTeX commun pour tous les PDFs d'épreuve FLE.
+% Inclus par chaque unit<NN>_<slug>_exam.qmd via include-in-header
+% dans le front matter. Définit les métadonnées du document, un
+% pied de page récurrent et un filigrane diagonal "S. Le Boulanger".
+%
+% Le CI vérifie que chaque PDF dans docs/downloads porte
+% S. Le Boulanger comme /Author dans ses métadonnées.
+
+% --- Métadonnées du document ---
+\usepackage{hyperref}
+\hypersetup{
+  pdftitle={Épreuve type — FLE BW},
+  pdfauthor={S. Le Boulanger},
+  pdfsubject={FLE BW — Klassenarbeit / Abitur},
+  pdfkeywords={FLE, Französisch, Baden-Württemberg, Bildungsplan, Klassenarbeit, Abitur}
+}
+
+% --- Pied de page récurrent ---
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[L]{\small © S. Le Boulanger · FLE BW}
+\fancyfoot[C]{\small \thepage\ / \pageref{LastPage}}
+\fancyfoot[R]{\small CC-BY-SA 4.0}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.3pt}
+
+% --- Filigrane diagonal sur chaque page ---
+\IfFileExists{draftwatermark.sty}{%
+  \usepackage{draftwatermark}
+  \SetWatermarkText{S. Le Boulanger}
+  \SetWatermarkScale{0.6}
+  \SetWatermarkLightness{0.92}
+  \SetWatermarkAngle{55}
+}{%
+  \IfFileExists{eso-pic.sty}{%
+    \usepackage{eso-pic}
+    \usepackage{graphicx}
+    \AddToShipoutPictureBG{%
+      \put(0.5\paperwidth,0.5\paperheight){%
+        \makebox(0,0){%
+          \rotatebox{55}{%
+            \textcolor{gray!20}{\fontsize{48}{58}\selectfont S. Le Boulanger}%
+          }%
+        }%
+      }%
+    }
+  }{%
+    \PackageError{_exam.tex}{%
+      Ni draftwatermark ni eso-pic ne sont disponibles.%
+    }{Installer draftwatermark ou eso-pic dans tinytex.}
+  }%
+}

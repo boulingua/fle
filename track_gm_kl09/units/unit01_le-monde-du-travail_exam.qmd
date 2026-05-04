@@ -1,0 +1,57 @@
+---
+title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 1"
+subtitle: "Le monde du travail · Klasse 9 · Niveau M"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klassenarbeit — Niveau M, Klasse 9
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez le rapport de stage de Léa (Unité 1, texte D). Répondez :
+
+1. Quelle est la date du stage ?
+2. À quelle heure Léa arrive-t-elle ?
+3. Quelles tâches fait-elle (3 au minimum) ?
+4. Que lui dit Hugo sur le pain et la vie ?
+5. Quelles 3 leçons retient-elle ?
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Traduisez les métiers :
+
+- Bäcker · Krankenpflegerin · Lehrer · Ingenieurin ·
+  Journalist · Friseuse · Informatiker · Architektin.
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre rapport de Praktikum** en **120 mots** :
+date, lieu, tuteur, **3 tâches** au passé composé, **2 choses
+apprises**, ressenti.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Vocabulaire       | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Mardi 14 mars. 2) 5h. 3) Pesé farine, pétri
+pâte, accueilli clients. 4) « Le pain, c'est comme la vie : il
+faut du temps. » 5) Patience, précision, aimer son métier.
+
+**Tâche 2.** boulanger · infirmière · professeur · ingénieure ·
+journaliste · coiffeuse · informaticien · architecte.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 3 tâches au
+passé composé · 2 leçons · format rapport.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 1*

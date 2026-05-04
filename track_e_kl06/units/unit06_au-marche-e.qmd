@@ -1,0 +1,160 @@
+---
+title: "Unité 6 — Au marché"
+subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 6
+slug: "au-marche-e"
+bildungsplan:
+  - "3.1.3.1 Hör-/Hörsehverstehen"
+  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+skills_focus:
+  - hör_hörsehverstehen
+  - sprechen_dialog
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit06_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+:::
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je nomme **10 fruits et légumes**.
+- Je connais les **prix** et les **kilos / grammes**.
+- Je joue un **dialogue** au marché (8 répliques).
+
+## Histoire d'introduction
+
+Samedi 9h. Anouk et sa mère vont au marché. M. Boulanger, le
+commerçant, sourit : *« Bonjour ! Aujourd'hui, j'ai des
+fraises de Plougastel — délicieuses ! »*
+
+## 1. Activer
+
+- Allez-vous au marché ?
+- Quels fruits aimez-vous ?
+- Combien coûte un kilo de pommes ?
+
+## 2. Apporter
+
+### A. 10 fruits et légumes
+
+| Français     | Allemand        |
+|--------------|-----------------|
+| la pomme     | der Apfel       |
+| la poire     | die Birne       |
+| la fraise    | die Erdbeere    |
+| la banane    | die Banane      |
+| l'orange (f) | die Orange      |
+| la tomate    | die Tomate      |
+| la carotte   | die Karotte     |
+| la salade    | der Salat       |
+| la courgette | die Zucchini    |
+| la pomme de terre | die Kartoffel |
+
+### B. Quantités et prix
+
+- *un kilo (de) · un demi-kilo (de) · 250 grammes (de) ·
+  une botte (de) · un bouquet (de) · une barquette (de).*
+- *Ça fait 2,50 €.* (deux euros cinquante)
+
+### C. Dialogue au marché (texte original)
+
+> — Bonjour Madame, bonjour Anouk ! Que puis-je pour vous ?
+> — Bonjour M. Boulanger. Un kilo de pommes, s'il vous plaît,
+> et 500 grammes de fraises.
+> — Voilà. Avec ceci ?
+> — Une botte de carottes et une salade.
+> — Ça fait 8,40 € au total.
+> — Merci, voilà 10 euros.
+> — Et 1,60 € qui vous revient. Bonne journée !
+> — À samedi prochain !
+
+## 3. S'entraîner
+
+**Ex. 1 — Compréhension orale (texte C).**
+
+1. Que demande la mère d'Anouk ?
+2. Combien de fraises ?
+3. Combien coûte le total ?
+4. Combien rend M. Boulanger ?
+
+**Ex. 2 — Vocabulaire.** Fruit ou légume ?
+
+a) la pomme · b) la carotte · c) la fraise · d) la salade ·
+e) la banane · f) la courgette.
+
+**Ex. 3 — Calcul.** Combien ?
+
+1. 1 kg pommes (3 €) + 500 g fraises (4 €/kg) = ___
+2. 2 kg de tomates à 2,50 €/kg = ___
+3. 1 botte de carottes (1,80 €) + 1 salade (1,20 €) = ___
+
+::: {.callout-tip collapse="true" title="Solutions"}
+
+**Ex. 1.** 1) 1 kg pommes + 500 g fraises + 1 botte carottes
++ 1 salade. 2) 500 g. 3) 8,40 €. 4) 1,60 €.
+
+**Ex. 2.** Fruits : a, c, e. Légumes : b, d, f.
+
+**Ex. 3.** 1) 5 €. 2) 5 €. 3) 3 €.
+
+:::
+
+## 4. Produire
+
+**Tâche dialogique (E, en binôme, ~8 répliques) :**
+
+A est le/la **client(e)**, B est le/la **commerçant(e)**.
+Achat de **3 fruits/légumes** différents avec quantités
++ paiement + monnaie.
+
+## 5. Réfléchir
+
+- [ ] Je nomme 10 fruits/légumes.
+- [ ] Je dis les quantités et prix.
+- [ ] Je joue un dialogue de marché de 8 répliques.
+
+## Exemple d'épreuve — Klassenarbeit BW (E)
+
+**Tâche 1 — Hörverstehen (10 P.)** : dialogue marché,
+5 questions.
+**Tâche 2 — Vocabulaire (8 P.)** : 10 fruits/légumes.
+**Tâche 3 — Sprechen / Schreiben (12 P.)** : dialogue écrit
+(8 répliques).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+::: {.notes}
+**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' ·
+Produire 13' (binôme) · Réfléchir 2' · Aperçu 2'.
+:::
+
+## Pièges fréquents
+
+- **« Un kilo de »** → *de* sans article (*un kilo **de** pommes*).
+- **« € »** se dit *« euro »* au singulier, *« euros »* au pluriel.
+- **Virgule décimale :** *2,50 €* en français (vs. point en
+  allemand).
+
+## Pour aller plus loin
+
+- **TV5 Monde — Au marché de Provence** :
+  <https://apprendre.tv5monde.com/>

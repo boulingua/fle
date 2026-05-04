@@ -1,0 +1,63 @@
+---
+title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 6"
+subtitle: "Étude de roman complet · Klasse 12 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+
+### Tâche 1 — Leseverstehen (10 P.)
+
+Lisez la dernière page de *L'Étranger* (Unité 6, texte C).
+Répondez :
+
+1. Quel sentiment ouvre l'extrait ?
+2. Quelle est la métaphore centrale ?
+3. À quel événement futur pense Meursault ?
+4. Que souhaite-t-il ce jour-là ? Pourquoi ?
+5. Comment Camus parle-t-il du monde ?
+
+### Tâche 2 — Structure narrative (8 P.)
+
+Reliez chapitre ↔ événement-clé :
+
+- Partie I, ch. 1 · I, ch. 6 · II, ch. 5 · II, ch. 6
+
+(Événements : enterrement · meurtre · procès · révolte
+finale.)
+
+### Tâche 3 — Schreiben (12 P.)
+
+Rédigez **votre synthèse de *L'Étranger*** (~400 mots) :
+4 § (résumé, structure, thèmes, interprétation finale) +
+5 citations + 3 axes thématiques + 1 lien à un autre
+roman.
+
+## Notation
+
+| Tâche                       | Points  |
+|-----------------------------|--------:|
+| Tâche 1 — Leseverstehen     | 10      |
+| Tâche 2 — Structure         | 8       |
+| Tâche 3 — Schreiben         | 12      |
+| **Total**                   | **30**  |
+
+## Solutions
+
+**Tâche 1.** 1) Une grande colère qui l'a purgé. 2) *La
+tendre indifférence du monde.* 3) Son exécution. 4) Que
+beaucoup de spectateurs viennent et l'accueillent avec des
+cris de haine — pour ne pas être trompé par la pitié. 5)
+Indifférent mais fraternel.
+
+**Tâche 2.** I-1 = enterrement · I-6 = meurtre · II-5 =
+procès · II-6 = révolte finale.
+
+**Tâche 3.** Réponses libres. Critères : 400 mots · 4 § ·
+5 citations · 3 axes · 1 lien.
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 6*

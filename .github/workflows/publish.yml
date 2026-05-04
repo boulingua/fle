@@ -1,0 +1,119 @@
+name: Render and deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps
+        run: pip install pyyaml pandas jupyter reportlab pypdf
+
+      - uses: actions/cache@v4
+        with:
+          path: _freeze
+          key: ${{ runner.os }}-quarto-freeze-${{ hashFiles('**/*.qmd') }}
+          restore-keys: ${{ runner.os }}-quarto-freeze-
+
+      - name: Impressum / Datenschutz TODO gate
+        run: |
+          if [ -f impressum.qmd ] || [ -f datenschutz.qmd ]; then
+            if grep -E "<TODO" impressum.qmd datenschutz.qmd 2>/dev/null; then
+              echo "::error::Unfilled <TODO> placeholders in impressum.qmd or datenschutz.qmd."
+              exit 1
+            fi
+          fi
+
+      - name: Generate placeholder worksheet PDFs
+        run: |
+          if [ -f _scripts/make_placeholder_worksheets.py ]; then
+            python _scripts/make_placeholder_worksheets.py
+          else
+            echo "make_placeholder_worksheets.py not yet present — skipping (scaffold phase)."
+          fi
+
+      - name: Render site (HTML articles + Reveal.js decks + exam PDFs)
+        run: quarto render
+
+      - name: Organise exam PDFs into canonical paths
+        run: |
+          if [ -f _scripts/organise_downloads.sh ]; then
+            bash _scripts/organise_downloads.sh
+          else
+            echo "organise_downloads.sh not yet present — skipping (scaffold phase)."
+          fi
+
+      - name: Verify all PDFs are present (156 exam + 156 worksheet at full build)
+        run: |
+          UNIT_COUNT=$(find track_gm_kl0[6-9] track_gm_kl10 track_e_kl0[6-9] track_e_kl1[0-3] -name "unit*.qmd" 2>/dev/null | grep -v "_exam.qmd" | wc -l)
+          if [ "$UNIT_COUNT" -eq 0 ]; then
+            echo "No Units yet — gate deferred to content phase."
+            exit 0
+          fi
+          EXAMS=$(find docs/downloads -name "*_exam.pdf" 2>/dev/null | wc -l)
+          WORKS=$(find docs/downloads -name "*_worksheet.pdf" 2>/dev/null | wc -l)
+          echo "Exam PDFs:      $EXAMS (expected 156 at full build)"
+          echo "Worksheet PDFs: $WORKS (expected 156 at full build)"
+          if [ "$UNIT_COUNT" -eq 156 ]; then
+            test "$EXAMS" -eq 156
+            test "$WORKS" -eq 156
+          fi
+
+      - name: Verify every PDF attributes S. Le Boulanger
+        run: |
+          python - <<'PY'
+          import sys, pathlib
+          from pypdf import PdfReader
+          pdfs = list(pathlib.Path('docs/downloads').rglob('*.pdf')) if pathlib.Path('docs/downloads').exists() else []
+          bad = []
+          for p in pdfs:
+              try:
+                  r = PdfReader(str(p))
+                  author = (r.metadata or {}).get('/Author', '') or ''
+                  if 'Le Boulanger' not in author:
+                      bad.append(str(p))
+              except Exception as exc:
+                  bad.append(f"{p} (read error: {exc})")
+          if bad:
+              print('MISSING ATTRIBUTION:')
+              for b in bad: print('  ' + b)
+              sys.exit(1)
+          print(f'All {len(pdfs)} PDFs attributed to S. Le Boulanger.')
+          PY
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

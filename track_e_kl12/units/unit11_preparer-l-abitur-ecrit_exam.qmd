@@ -1,0 +1,70 @@
+---
+title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 11"
+subtitle: "Préparer l'Abitur écrit · Klasse 12 · Niveau E (Abitur Lf)"
+author: "S. Le Boulanger"
+format:
+  pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
+---
+
+## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf — mock)
+
+### Tâche 1 — Verstehen (10 P.) — 60 min
+
+Lisez le texte sur la loi IA (Unité 11, texte C).
+Répondez :
+
+1. Quand la loi a-t-elle été votée ?
+2. Citez les 3 mesures principales.
+3. Quand entre-t-elle en vigueur ?
+4. Qui sont les deux personnes citées ?
+5. Quelle position défend chacun·e ?
+
+### Tâche 2 — Analyse / Schreiben (10 P.) — 90 min
+
+Rédigez un **commentaire personnel** (~350 mots) :
+pour ou contre cette loi, en mobilisant **1 référence**
+(Camus, Despentes, Senghor, Modiano…). 4 § + 4
+connecteurs + 2 citations.
+
+### Tâche 3 — Sprachmittlung (10 P.) — 60 min
+
+Médiez ce texte allemand en français (~280 mots) :
+
+> *Berlin diskutiert über ein eigenes KI-Gesetz. Der
+> Bundestag hat im Februar 2026 eine Anhörung dazu
+> abgehalten. Cédric O, ehemaliger französischer
+> Staatssekretär, sprach in Berlin über das französische
+> Modell. Die Wissenschaftlerin Asma Mhalla betont, dass
+> nur eine europäische Koordination wirksam sei. Das
+> deutsche Gesetz soll 2027 verabschiedet werden.*
+
+## Notation
+
+| Tâche                    | Points | Durée  |
+|--------------------------|--------|--------|
+| Verstehen                | 10     | 60 min |
+| Analyse / Schreiben      | 10     | 90 min |
+| Sprachmittlung           | 10     | 60 min |
+| **Total écrit**          | **30** | **210 min** |
+
+## Solutions
+
+**Tâche 1.** 1) 16 mars 2026. 2) Interdit deepfakes /
+étiquetage IA / Observatoire IA. 3) 1ᵉʳ janvier 2027. 4)
+Cédric O + Asma Mhalla. 5) Cédric O = enthousiaste ; Asma
+Mhalla = nuance (besoin d'Europe).
+
+**Tâche 2.** Réponses libres. Critères : 350 mots · 4 § ·
+4 connecteurs · 1 référence · 2 citations.
+
+**Tâche 3.** Modèle : *L'article expose le débat allemand
+sur une future loi IA. Le Bundestag a tenu une audition en
+février 2026. L'ancien secrétaire d'État français Cédric O
+y est intervenu pour présenter le modèle français. La
+chercheuse Asma Mhalla rappelle que seule une coordination
+européenne sera efficace. Le texte allemand est attendu pour
+2027.* (~280 mots).
+
+---
+
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 11*

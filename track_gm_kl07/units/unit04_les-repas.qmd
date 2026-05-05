@@ -1,14 +1,14 @@
 ---
 title: "Unité 4 — Les repas"
-subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 4
 slug: "les-repas"
 bildungsplan:
-  - "3.1.3.3 Sprechen — dialogisches Sprechen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+  - "3.1.3.3 Expression orale — dialogisches Expression orale"
+  - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
   - sprechen_dialog
   - wortschatz
@@ -53,28 +53,28 @@ jus d'orange et un croissant. »* — *« Très bien, j'arrive. »*
 
 ### A. Vocabulaire — les 3 repas
 
-| Français          | Allemand        |
+| Français | Allemand |
 |-------------------|-----------------|
-| le petit déjeuner | das Frühstück   |
-| le déjeuner       | das Mittagessen |
-| le dîner          | das Abendessen  |
-| le goûter         | der Imbiss      |
+| le petit déjeuner | das Frühstück |
+| le déjeuner | das Mittagessen |
+| le dîner | das Abendessen |
+| le goûter | der Imbiss |
 
 ### B. 12 aliments + boissons
 
-| Français       | Allemand     |
+| Français | Allemand |
 |----------------|--------------|
-| le pain        | das Brot     |
-| le fromage     | der Käse     |
-| le beurre      | die Butter   |
-| la confiture   | die Marmelade|
-| le jambon      | der Schinken |
-| la salade      | der Salat    |
-| la pomme       | der Apfel    |
-| le yaourt      | der Joghurt  |
-| l'eau          | das Wasser   |
+| le pain | das Brot |
+| le fromage | der Käse |
+| le beurre | die Butter |
+| la confiture | die Marmelade|
+| le jambon | der Schinken |
+| la salade | der Salat |
+| la pomme | der Apfel |
+| le yaourt | der Joghurt |
+| l'eau | das Wasser |
 | le jus d'orange| der Orangensaft|
-| le café        | der Kaffee   |
+| le café | der Kaffee |
 | le chocolat chaud | die heiße Schokolade |
 
 ### C. Les partitifs
@@ -142,11 +142,11 @@ question du serveur, choix, prix. Utilisez **3 partitifs**.
 - [ ] J'utilise *du, de la, des*.
 - [ ] Je joue un dialogue au café de 6 répliques.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Grammaire (10 P.)** : 8 phrases avec partitifs.
 **Tâche 2 — Lecture (8 P.)** : dialogue D, 4 questions.
-**Tâche 3 — Sprechen (12 P.)** : dialogue au café, 6 répliques.
+**Tâche 3 — Expression orale (« Sprechen ») (12 P.)** : dialogue au café, 6 répliques.
 
 **Total : 30 P.**
 
@@ -162,12 +162,12 @@ Produire 12' (binôme) · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Article partitif vs. défini :** *J'aime **le** pain* (en
-  général) vs. *Je mange **du** pain* (une partie).
+ général) vs. *Je mange **du** pain* (une partie).
 - **Négation :** *du / de la / des* → *de* après *ne … pas*.
 - **« Je voudrais »** (poli) au lieu de *« je veux »* dans une
-  commande.
+ commande.
 
 ## Pour aller plus loin
 
 - **TV5 Monde — À table !** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

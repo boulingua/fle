@@ -1,15 +1,15 @@
 ---
 title: "Unité 7 — Le temps et l'heure"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 7
 slug: "le-temps-et-l-heure"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -53,31 +53,31 @@ dans le parc ? »*
 
 ### A. Jours et mois
 
-| Jours        | Mois             |
+| Jours | Mois |
 |--------------|------------------|
-| lundi        | janvier          |
-| mardi        | février          |
-| mercredi     | mars             |
-| jeudi        | avril            |
-| vendredi     | mai              |
-| samedi       | juin             |
-| dimanche     | juillet          |
-|              | août             |
-|              | septembre        |
-|              | octobre          |
-|              | novembre         |
-|              | décembre         |
+| lundi | janvier |
+| mardi | février |
+| mercredi | mars |
+| jeudi | avril |
+| vendredi | mai |
+| samedi | juin |
+| dimanche | juillet |
+| | août |
+| | septembre |
+| | octobre |
+| | novembre |
+| | décembre |
 
 ### B. L'heure
 
-| Heure   | Façon formelle    | Façon informelle      |
+| Heure | Façon formelle | Façon informelle |
 |---------|-------------------|-----------------------|
-| 8h00    | il est 8 heures   | huit heures           |
-| 8h15    | il est 8h15       | huit heures et quart  |
-| 8h30    | il est 8h30       | huit heures et demie  |
-| 8h45    | il est 8h45       | neuf heures moins le quart |
-| 12h00   | il est midi       | midi                  |
-| 0h00    | il est minuit     | minuit                |
+| 8h00 | il est 8 heures | huit heures |
+| 8h15 | il est 8h15 | huit heures et quart |
+| 8h30 | il est 8h30 | huit heures et demie |
+| 8h45 | il est 8h45 | neuf heures moins le quart |
+| 12h00 | il est midi | midi |
+| 0h00 | il est minuit | minuit |
 
 ### C. Phrases utiles
 
@@ -135,11 +135,11 @@ pertinent.
 - [ ] Je nomme les 7 jours et les 12 mois.
 - [ ] J'écris une date complète : *le 14 mai à 17 heures*.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Vocabulaire (10 P.)** : 7 jours + 5 mois.
 **Tâche 2 — Heure (10 P.)** : 5 horloges à transcrire.
-**Tâche 3 — Schreiben (10 P.)** : 3 dates personnelles.
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : 3 dates personnelles.
 
 **Total : 30 P.**
 
@@ -155,12 +155,12 @@ Produire 10' · Réfléchir 3' · Aperçu 4'.
 ## Pièges fréquents
 
 - **« on est lundi »** ou **« nous sommes lundi »** — pas
-  *« c'est lundi »*.
+ *« c'est lundi »*.
 - **« et demie »** : *demi* féminin parce qu'il s'accorde avec
-  *heure*.
+ *heure*.
 - **Mois sans majuscule** : *en janvier*, pas *Janvier*.
 
 ## Pour aller plus loin
 
 - **Bonjour de France — l'heure** :
-  <https://www.bonjourdefrance.com/>
+ <https://www.bonjourdefrance.com/>

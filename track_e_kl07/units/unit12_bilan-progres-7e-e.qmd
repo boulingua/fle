@@ -1,14 +1,14 @@
 ---
 title: "Unité 12 — Bilan : mes progrès en 7e"
-subtitle: "Parcours E (Gymnasium) · Klasse 7 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 12
 slug: "bilan-progres-7e-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je dresse mon **bilan de 7e** en 3 temps (présent, PC, futur
-  proche).
+ proche).
 - Je rédige un **portrait** de 150 mots.
 - J'évalue mes **progrès** sur 5 compétences.
 
@@ -53,16 +53,16 @@ Québec, Bretagne, Stromae… Que retenez-vous ? »*
 
 ### A. Bilan en 3 temps
 
-| Temps         | Bilan                                |
+| Temps | Bilan |
 |---------------|---------------------------------------|
-| présent       | *Je sais …*                           |
-| passé composé | *J'ai appris …*                       |
-| futur proche  | *Je vais …* (en 8e)                   |
+| présent | *Je sais …* |
+| passé composé | *J'ai appris …* |
+| futur proche | *Je vais …* (en 8e) |
 
 ### B. Connecteurs
 
 - **Cette année** · **Avant** · **Maintenant** · **L'an
-  prochain** · **Plus tard**.
+ prochain** · **Plus tard**.
 
 ### C. Bilan d'Anouk (texte original)
 
@@ -93,7 +93,7 @@ Québec, Bretagne, Stromae… Que retenez-vous ? »*
 - Conjugaison PC + imparfait ___
 - Vocabulaire des relations (famille, amis) ___
 - Compréhension d'un texte court ___
-- Expression écrite (lettre, anecdote) ___
+- Expression écrite (« Schreiben ») (lettre, anecdote) ___
 - Médiation DE→FR ___
 
 **Ex. 3 — Plan.** Listez **5 acquis** de votre 7e en français.
@@ -123,11 +123,11 @@ futur proche. **5 connecteurs**.
 - [ ] J'enchaîne avec des connecteurs.
 - [ ] Je rédige un bilan de 150 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : bilan d'Anouk, 5 questions.
 **Tâche 2 — Conjugaison (8 P.)** : 6 verbes, 3 temps.
-**Tâche 3 — Schreiben (12 P.)** : votre bilan (~150 mots).
+**Tâche 3 — Expression écrite (12 P.)** : votre bilan (~150 mots).
 
 **Total : 30 P.**
 
@@ -143,11 +143,11 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Mélange des temps** : le bilan utilise **PC** pour les
-  acquis, **présent** pour les compétences actuelles, **futur
-  proche** pour les projets.
+ acquis, **présent** pour les compétences actuelles, **futur
+ proche** pour les projets.
 - **Connecteurs** au début, avec virgule.
 
 ## Pour aller plus loin
 
-- **Aperçu Kl. 8 E** :
-  [Klasse 8 — index](../../track_e_kl08/index.qmd)
+- **Aperçu cl. 8 E** :
+ [classe 8 — index](../../track_e_kl08/index.qmd)

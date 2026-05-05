@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 3"
-subtitle: "Écologie au quotidien · Klasse 9 · Niveau M"
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 3"
+subtitle: "Écologie au quotidien · classe 9 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 9
+## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'article (Unité 3, texte C). Répondez :
 
@@ -16,9 +16,9 @@ Lisez l'article (Unité 3, texte C). Répondez :
 2. Quel est l'objectif de l'Accord de Paris cité ?
 3. Citez les **3 leviers** proposés.
 4. Combien représente la viande rouge dans l'empreinte
-   alimentaire ?
+ alimentaire ?
 5. Selon le sondage 2024, combien de jeunes considèrent
-   l'écologie comme prioritaire ?
+ l'écologie comme prioritaire ?
 
 ### Tâche 2 — Grammatik : *il faut / on devrait* (8 P.)
 
@@ -31,7 +31,7 @@ Reformulez avec la formule indiquée.
 5. Réparons nos vêtements ! → *(on devrait)*
 6. Éteins la lumière ! → *(il faut)*
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Prise de position sur un **dilemme écologique** au choix
 (~**120 mots**) :
@@ -44,12 +44,12 @@ Donnez **2 arguments pour** + **1 contre** + votre conclusion.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Grammatik         | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Grammatik | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -66,4 +66,4 @@ pour · 1 contre · conclusion · *il faut / on devrait* utilisé.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 3*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 3*

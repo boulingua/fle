@@ -1,14 +1,14 @@
 ---
 title: "Unité 3 — Mon quartier"
-subtitle: "Parcours E (Gymnasium) · Klasse 7 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 3
 slug: "mon-quartier-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -34,9 +34,9 @@ format:
 
 - Je nomme **10 lieux** du quartier (commerces, services).
 - J'utilise les **prépositions de lieu** : *en face de, à côté
-  de, près de…*
+ de, près de…*
 - J'écris une **lettre** à un(e) correspondant(e) sur mon
-  quartier.
+ quartier.
 
 ## Histoire d'introduction
 
@@ -54,23 +54,23 @@ et ma librairie préférée — chez Camille ! »*
 
 ### A. 10 lieux du quartier
 
-| Français          | Allemand           |
+| Français | Allemand |
 |-------------------|--------------------|
-| la boulangerie    | die Bäckerei       |
-| la pâtisserie     | die Konditorei     |
-| la librairie      | der Buchladen      |
-| la poste          | die Post           |
-| la mairie         | das Rathaus        |
-| le parc           | der Park           |
-| la gare           | der Bahnhof        |
-| la pharmacie      | die Apotheke       |
-| le supermarché    | der Supermarkt     |
-| la médiathèque    | die Mediathek      |
+| la boulangerie | die Bäckerei |
+| la pâtisserie | die Konditorei |
+| la librairie | der Buchladen |
+| la poste | die Post |
+| la mairie | das Rathaus |
+| le parc | der Park |
+| la gare | der Bahnhof |
+| la pharmacie | die Apotheke |
+| le supermarché | der Supermarkt |
+| la médiathèque | die Mediathek |
 
 ### B. Prépositions de lieu
 
 - *en face de · à côté de · près de · loin de · au coin de ·
-  entre … et … · devant · derrière.*
+ entre … et … · devant · derrière.*
 
 ### C. Lettre d'Anouk à Inès (texte original)
 
@@ -142,12 +142,12 @@ quartier : 5 lieux + 4 prépositions + ce que vous y aimez.
 - [ ] J'utilise les prépositions de lieu.
 - [ ] J'écris une lettre de quartier en 120 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : lettre Anouk,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : lettre Anouk,
 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 lieux à traduire.
-**Tâche 3 — Schreiben (12 P.)** : votre lettre (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre lettre (~120 mots).
 
 **Total : 30 P.**
 
@@ -165,9 +165,9 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 - **« En face du »** = de + le (contraction obligatoire).
 - **« À côté de »** : *à côté **de la** poste*.
 - **« Pâtisserie »** ≠ *boulangerie*. La 1ʳᵉ vend gâteaux ; la
-  2ᵉ, pain.
+ 2ᵉ, pain.
 
 ## Pour aller plus loin
 
 - **Géoportail (cartes des villes)** :
-  <https://www.geoportail.gouv.fr/>
+ <https://www.geoportail.gouv.fr/>

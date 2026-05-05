@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 11"
-subtitle: "Préparer un discours · Klasse 10 · Niveau M"
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 11"
+subtitle: "Préparer un discours · classe 10 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 10
+## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez le discours de Léa (Unité 11, texte C). Répondez :
 
@@ -22,16 +22,16 @@ Lisez le discours de Léa (Unité 11, texte C). Répondez :
 Anaphore (A), question rhétorique (Q) ou métaphore (M) ?
 
 1. *« Je rêve d'égalité. Je rêve de fraternité. Je rêve de
-   paix. »*
+ paix. »*
 2. *« La nature est notre première maison. »*
 3. *« Comment pouvons-nous rester silencieux ? »*
 4. *« Vous avez le droit de savoir. Vous avez le droit de
-   choisir. Vous avez le droit de partir. »*
+ choisir. Vous avez le droit de partir. »*
 5. *« L'éducation est la clé qui ouvre toutes les portes. »*
 6. *« Est-il acceptable que des enfants n'aient pas accès à
-   l'école ? »*
+ l'école ? »*
 
-### Tâche 3 — Schreiben (14 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (14 P.)
 
 Rédigez **votre discours** (~250 mots) sur un sujet au choix.
 Plan complet : **accroche** + **thèse** + **3 arguments** +
@@ -39,12 +39,12 @@ Plan complet : **accroche** + **thèse** + **3 arguments** +
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Figures           | 8       |
-| Tâche 3 — Schreiben         | 14      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Figures | 8 |
+| Tâche 3 — Expression écrite | 14 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -62,4 +62,4 @@ complet · 2 figures · style oratoire.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau M · Unité 11*

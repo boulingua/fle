@@ -1,15 +1,15 @@
 ---
 title: "Unité 10 — Cinéma québécois"
-subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 10
 slug: "cinema-quebecois"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - hör_hörsehverstehen
   - sprechen_monolog
@@ -37,11 +37,11 @@ format:
 - Je présente un film en deux minutes.
 - Je connais 3 réalisateur·rice·s québécois·es.
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.1** Hör-/Hörsehverstehen.
-- **3.1.3.4** Sprechen — monologisches Sprechen.
-- **3.1.4** Text- und Medienkompetenz.
+- **3.1.3.1** Compréhension orale (« Hören ») et audiovisuelle (« Hör-/Hörsehverstehen »).
+- **3.1.3.4** Expression orale (« Sprechen ») — monologisches Expression orale.
+- **3.1.4** Compétence textuelle et médiatique (« Text- und Medienkompetenz »).
 
 ## Histoire d'introduction
 
@@ -56,16 +56,16 @@ film québécois.
 - Quel est le dernier film francophone que vous avez vu ?
 - Connaissez-vous des films québécois ?
 - À quoi vous attendez-vous d'un cinéma « du Québec » par
-  rapport à un cinéma de France ?
+ rapport à un cinéma de France ?
 
 ## 2. Apporter
 
 ### A. Trois réalisateur·rice·s québécois·es
 
-| Nom                  | Type de cinéma                              |
+| Nom | Type de cinéma |
 |----------------------|---------------------------------------------|
-| **Xavier Dolan**     | drames de famille, jeunesse, esthétique forte |
-| **Denys Arcand**     | drames sociaux, *Les Invasions barbares* (2003) |
+| **Xavier Dolan** | drames de famille, jeunesse, esthétique forte |
+| **Denys Arcand** | drames sociaux, *Les Invasions barbares* (2003) |
 | **Anaïs Barbeau-Lavalette** | documentaires, féminisme, *La déesse des mouches à feu* (2020) |
 
 ### B. Mini-extrait — dialogue (texte original)
@@ -90,18 +90,18 @@ film québécois.
 - *« souper »* = dîner (le repas du soir).
 - *« restant »* = restes.
 - *« inquiète-toi pas »* = construction québécoise pour *« ne
-  t'inquiète pas »*.
+ t'inquiète pas »*.
 
 ### C. Vocabulaire cinéma
 
-| Mot                    | Sens                                  |
+| Mot | Sens |
 |------------------------|---------------------------------------|
-| un·e réalisateur·rice  | personne qui fait le film             |
-| un·e scénariste        | personne qui écrit l'histoire         |
-| un long-métrage        | film de plus de 60 minutes            |
-| un court-métrage       | film de moins de 30 minutes           |
-| une bande-annonce      | extrait promotionnel avant la sortie  |
-| un sous-titre          | texte écrit pour traduire la voix     |
+| un·e réalisateur·rice | personne qui fait le film |
+| un·e scénariste | personne qui écrit l'histoire |
+| un long-métrage | film de plus de 60 minutes |
+| un court-métrage | film de moins de 30 minutes |
+| une bande-annonce | extrait promotionnel avant la sortie |
+| un sous-titre | texte écrit pour traduire la voix |
 
 ## 3. S'entraîner
 
@@ -115,7 +115,7 @@ film québécois.
 **Ex. 2 — Cinéma vocabulaire.** Reliez :
 
 a) un long-métrage · b) un court-métrage · c) un sous-titre ·
-   d) une bande-annonce
+ d) une bande-annonce
 
 1. Texte traduit affiché au bas de l'écran.
 2. Film de moins de 30 minutes.
@@ -173,7 +173,7 @@ langue d'origine). Structure :
 - [ ] Je sais que *souper* = dîner au Québec.
 - [ ] Je peux présenter un film en 2 minutes.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Hörsehverstehen (12 P.)**
 
@@ -183,15 +183,15 @@ Vous écoutez 2 fois le mini-dialogue (B). Répondez :
 2. Que fait la fille en ce moment ?
 3. Que dit la mère sur le souper ?
 4. Citez **deux québécismes** et donnez leur équivalent français
-   hexagonal.
+ hexagonal.
 
-**Tâche 2 — Sprechen monologue (12 P.)**
+**Tâche 2 — Expression orale monologue (12 P.)**
 
 Présentation d'un film (2 minutes) — voir consigne section 4.
 
-Critères : Inhalt 5 P. + Sprache 4 P. + Aussprache 3 P.
+Critères : Contenu 5 P. + Langue 4 P. + Aussprache 3 P.
 
-**Tâche 3 — Schreiben (6 P.)**
+**Tâche 3 — Expression écrite (« Schreiben ») (6 P.)**
 
 3-4 phrases : « *Pourquoi je voudrais (ou non) voir un film
 québécois.* »
@@ -213,16 +213,16 @@ québécois.* »
 ## Pièges fréquents
 
 - **« plate »** au Québec = ennuyeux. En France, *plate* signifie
-  *plat·e* (sans relief).
+ *plat·e* (sans relief).
 - **« souper »** au Québec = dîner du soir. En France ancienne,
-  *souper* = repas tard ; aujourd'hui rare.
+ *souper* = repas tard ; aujourd'hui rare.
 - **« inquiète-toi pas »** : non recommandé à l'écrit hexagonal,
-  mais correct à l'oral québécois.
+ mais correct à l'oral québécois.
 
 ## Pour aller plus loin
 
 - **ONF — Office national du film du Canada** :
-  <https://www.onf.ca/>
+ <https://www.onf.ca/>
 - **Cinémathèque québécoise** : <https://www.cinematheque.qc.ca/>
 - **Festival de Cannes — sélection francophone** :
-  <https://www.festival-cannes.com/>
+ <https://www.festival-cannes.com/>

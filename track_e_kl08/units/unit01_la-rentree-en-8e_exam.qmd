@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 1"
-subtitle: "La rentrée en 8e · Klasse 8 · Niveau E"
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 1"
+subtitle: "La rentrée en 8e · classe 8 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez la présentation d'Anouk (Unité 1, texte C). Répondez :
 
@@ -30,7 +30,7 @@ Conjuguez avec le bon temps.
 7. *Nous (écrire, présent) ___ tous les mois.*
 8. *Vous (aller voir, futur proche) ___ Soraya ?*
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Présentez **votre rentrée en 8e** en **100 mots** :
 1 souvenir d'été (PC) + 2 projets de l'année (futur proche) +
@@ -38,12 +38,12 @@ Présentez **votre rentrée en 8e** en **100 mots** :
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Conjugaison       | 10      |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Conjugaison | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -60,4 +60,4 @@ demandés · 1 PC + 2 futurs proches.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 1*

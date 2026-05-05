@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 8"
-subtitle: "Réseaux sociaux et identité · Klasse 10 · Niveau M"
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 8"
+subtitle: "Réseaux sociaux et identité · classe 10 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 10
+## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'article EnCLASS 2024 (Unité 8, texte C). Répondez :
 
@@ -23,10 +23,10 @@ Lisez l'article EnCLASS 2024 (Unité 8, texte C). Répondez :
 Définition simple en français :
 
 - la FOMO · la bulle de filtre · l'addiction au scroll ·
-  la détox numérique · l'algorithme · le filtre beauté ·
-  la comparaison · le syndrome de l'imposteur.
+ la détox numérique · l'algorithme · le filtre beauté ·
+ la comparaison · le syndrome de l'imposteur.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Prise de position (~**150 mots**) :
 
@@ -37,12 +37,12 @@ conclusion. **5 connecteurs** minimum.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -61,4 +61,4 @@ autres · sentiment de ne pas mériter sa place.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau M · Unité 8*

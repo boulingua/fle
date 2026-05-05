@@ -1,14 +1,14 @@
 ---
 title: "Unité 2 — Raconter une anecdote"
-subtitle: "Parcours E (Gymnasium) · Klasse 7 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 2
 slug: "raconter-une-anecdote"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je distingue **passé composé** (action) / **imparfait**
-  (décor).
+ (décor).
 - Je raconte une **anecdote** drôle (~150 mots).
 - J'utilise les marqueurs *un jour, soudain, alors*.
 
@@ -53,10 +53,10 @@ freiné… mais je suis tombé dans un fossé ! »* Anouk rit.
 
 ### A. PC vs. imparfait
 
-| Temps         | Usage                       | Exemple                  |
+| Temps | Usage | Exemple |
 |---------------|------------------------------|--------------------------|
-| imparfait     | décor, habitude, en cours    | *Il pleuvait, je marchais* |
-| passé composé | action ponctuelle, soudaine  | *Soudain, j'ai vu …*     |
+| imparfait | décor, habitude, en cours | *Il pleuvait, je marchais* |
+| passé composé | action ponctuelle, soudaine | *Soudain, j'ai vu …* |
 
 ### B. Marqueurs temporels
 
@@ -127,11 +127,11 @@ conclusion. **3 marqueurs** + **5 PC** + **5 imparfaits**.
 - [ ] J'utilise les marqueurs temporels.
 - [ ] Je raconte une anecdote en 150 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (8 P.)** : anecdote de Tristan, 4 questions.
 **Tâche 2 — Conjugaison (10 P.)** : 8 verbes PC/imparfait.
-**Tâche 3 — Schreiben (12 P.)** : votre anecdote (~150 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre anecdote (~150 mots).
 
 **Total : 30 P.**
 
@@ -153,4 +153,4 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pour aller plus loin
 
 - **Anecdotes en classe — Bonjour de France** :
-  <https://www.bonjourdefrance.com/>
+ <https://www.bonjourdefrance.com/>

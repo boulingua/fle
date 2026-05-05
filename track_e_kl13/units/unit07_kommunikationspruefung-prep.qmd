@@ -1,14 +1,14 @@
 ---
-title: "Unité 7 — Kommunikationsprüfung : préparation"
-subtitle: "Parcours E (Gymnasium) · Klasse 13 · Niveau E"
+title: "Unité 7 — épreuve communicative : préparation"
+subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 7
 slug: "kommunikationspruefung-prep"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - sprechen_monolog
   - sprechen_dialog
@@ -25,14 +25,14 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf — 13e)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
 :::
 
 {{< downloads >}}
 
 ## Objectifs
 
-- Je connais le **format Kommunikationsprüfung** Lf BW.
+- Je connais le **format épreuve communicative (« Kommunikationsprüfung »)** Lf.
 - Je prépare **3 sujets** maîtrisés (auteur·rice / thème).
 - Je connais **6 stratégies** de gestion du stress oral.
 
@@ -50,19 +50,19 @@ par sujet. C'est notre dernier sprint. »*
 
 ## 2. Apporter
 
-### A. Format Kommunikationsprüfung Lf BW
+### A. Format épreuve communicative Lf
 
-| Phase            | Durée  | Détail                       |
+| Phase | Durée | Détail |
 |------------------|--------|------------------------------|
-| Préparation      | 30 min | choix sujet + plan           |
-| Monologue        | 5 min  | présentation préparée        |
-| Dialogue         | 10 min | questions des examinateurs   |
-| Évaluation       | 0 min  | grille B2-C1                 |
+| Préparation | 30 min | choix sujet + plan |
+| Monologue | 5 min | présentation préparée |
+| Dialogue | 10 min | questions des examinateurs |
+| Évaluation | 0 min | grille B2-C1 |
 
 ### B. 6 stratégies de gestion du stress oral
 
 1. **Respiration** : 4-7-8 avant d'entrer (4 sec inspirer,
-   7 retenir, 8 expirer).
+ 7 retenir, 8 expirer).
 2. **Cartes mémoire** : 5 cartes A6 max, lisibles.
 3. **Pause naturelle** : pas de panique en cas de blanc.
 4. **Ancrage corporel** : pieds bien posés, dos droit.
@@ -154,7 +154,7 @@ stratégies anti-stress.
 - [ ] J'ai **3 sujets** prêts.
 - [ ] Je gère mon stress avec 6 stratégies.
 
-## Exemple d'épreuve — Kommunikationsprüfung Lf (E)
+## Exemple d'épreuve — épreuve communicative Lf (E)
 
 **Phase 1 — Monologue (15 P.)** : 5 min.
 **Phase 2 — Dialogue (15 P.)** : 10 min.
@@ -172,16 +172,16 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 ## Pièges fréquents
 
-- **« 5 cartes A6 max »** : le règlement BW limite la
-  feuille de notes ; ne pas écrire un texte rédigé.
+- **« 5 cartes A6 max »** : le règlement limite la
+ feuille de notes ; ne pas écrire un texte rédigé.
 - **« Imaginer Sisyphe heureux »** : citation très utilisée
-  — connaître la nuance (lucidité, pas optimisme).
+ — connaître la nuance (lucidité, pas optimisme).
 - **« Je me révolte, donc nous sommes »** : variante de
-  *cogito* cartésien — un des cœurs de Camus.
+ *cogito* cartésien — un des cœurs de Camus.
 
 ## Pour aller plus loin
 
 - **Albert Camus — Le Mythe de Sisyphe (Folio essais)** :
-  <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais>
+ <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais>
 - **Société des études camusiennes** :
-  <https://www.etudes-camusiennes.fr/>
+ <https://www.etudes-camusiennes.fr/>

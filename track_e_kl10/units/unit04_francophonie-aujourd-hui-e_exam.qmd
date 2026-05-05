@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 4"
-subtitle: "Francophonie aujourd'hui · Klasse 10 · Niveau E"
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 4"
+subtitle: "Francophonie aujourd'hui · classe 10 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le portrait Aya Nakamura (Unité 4, texte C). Répondez :
 
@@ -23,25 +23,25 @@ Lisez le portrait Aya Nakamura (Unité 4, texte C). Répondez :
 Reliez chaque donnée à sa valeur :
 
 - États membres OIF · Locuteurs francophones · Continents ·
-  Journée internationale · Mouvement littéraire · Co-
-  fondateur Négritude
+ Journée internationale · Mouvement littéraire · Co-
+ fondateur Négritude
 
 (Valeurs : 88 · 321 millions · 5 · 20 mars · Négritude ·
 Senghor.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez le **portrait** d'une figure francophone (~150 mots) :
 3 § (vie / œuvre / impact) + 5 dates précises + 2 citations.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — OIF/Francophonie  | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — OIF/Francophonie | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -58,4 +58,4 @@ Senghor.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 4*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 4*

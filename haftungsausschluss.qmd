@@ -6,8 +6,6 @@ aliases:
   - /disclaimer/
 ---
 
-# Haftungsausschluss
-
 ## Haftung für Inhalte
 
 Als Diensteanbieterin bin ich gemäß § 7 Abs. 1 DDG für eigene

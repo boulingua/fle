@@ -1,14 +1,14 @@
 ---
 title: "Unité 8 — Réseaux sociaux et identité"
-subtitle: "Parcours E (Gymnasium) · Klasse 10 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 8
 slug: "reseaux-sociaux-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - leseverstehen
   - sprechen_dialog
@@ -34,7 +34,7 @@ format:
 
 - Je distingue **identité réelle** et **identité numérique**.
 - Je comprends les **pièges** des algorithmes (bulle de
-  filtrage, addiction).
+ filtrage, addiction).
 - Je dialogue **10 répliques** sur l'usage critique des RS.
 
 ## Histoire d'introduction
@@ -53,12 +53,12 @@ visioconférence : *« Tu tiens ? »* — *« 4 jours sans Insta —
 
 ### A. 4 pièges des algorithmes
 
-| Piège                   | Explication                       |
+| Piège | Explication |
 |-------------------------|------------------------------------|
-| bulle de filtrage       | tu ne vois que des avis comme toi |
-| dopamine du scroll      | satisfaction courte, addictive     |
-| comparaison sociale     | « tout le monde sauf moi … »       |
-| désinformation virale   | rumeur > vérité                    |
+| bulle de filtrage | tu ne vois que des avis comme toi |
+| dopamine du scroll | satisfaction courte, addictive |
+| comparaison sociale | « tout le monde sauf moi … » |
+| désinformation virale | rumeur > vérité |
 
 ### B. 5 stratégies de **détox numérique**
 
@@ -133,11 +133,11 @@ stratégies + 2 conditionnels + 1 citation chiffrée.
 - [ ] Je connais 5 stratégies de détox.
 - [ ] Je dialogue 10 répliques.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : journal détox, 5 questions.
 **Tâche 2 — Conditionnel (8 P.)** : 4 conseils.
-**Tâche 3 — Schreiben (12 P.)** : votre dialogue (~140 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dialogue (~140 mots).
 
 **Total : 30 P.**
 
@@ -154,13 +154,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **« Bulle de filtrage »** ≠ *bulle Internet* (économique).
 - **« Désintox »** = familier ; *détox numérique* est plus
-  accepté à l'écrit.
+ accepté à l'écrit.
 - **Comparaison sociale** : phénomène psy étudié dès 1954
-  (Festinger).
+ (Festinger).
 
 ## Pour aller plus loin
 
 - **CLEMI — Éducation aux médias** :
-  <https://www.clemi.fr/>
+ <https://www.clemi.fr/>
 - **Center for Humane Technology (Tristan Harris)** :
-  <https://www.humanetech.com/>
+ <https://www.humanetech.com/>

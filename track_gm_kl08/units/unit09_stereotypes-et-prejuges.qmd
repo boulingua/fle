@@ -1,15 +1,15 @@
 ---
 title: "Unité 9 — Stéréotypes et préjugés"
-subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 9
 slug: "stereotypes-et-prejuges"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.2 Interkulturelle kommunikative Kompetenz"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.2 Compétence interculturelle communicative"
 skills_focus:
   - sprechen_dialog
   - schreiben
@@ -35,14 +35,14 @@ format:
 
 - Je distingue **stéréotype** et **préjugé**.
 - Je discute trois stéréotypes franco-allemands sans les
-  renforcer.
+ renforcer.
 - J'écris une mini-réplique respectueuse à une généralisation.
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.3** Sprechen — an Gesprächen teilnehmen.
-- **3.1.3.5** Schreiben.
-- **3.1.2** Interkulturelle kommunikative Kompetenz.
+- **3.1.3.3** Expression orale — interaction (« Sprechen — an Gesprächen teilnehmen »).
+- **3.1.3.5** Expression écrite (« Schreiben »).
+- **3.1.2** Compétence interculturelle communicative (« Interkulturelle kommunikative Kompetenz »).
 
 ## Histoire d'introduction
 
@@ -55,7 +55,7 @@ mangent pas des escargots tous les jours. »*
 ## 1. Activer
 
 - Citez **trois stéréotypes** que vous avez entendus sur les
-  Français.
+ Français.
 - Et trois sur les Allemands ?
 - D'où viennent ces images ?
 
@@ -91,12 +91,12 @@ mangent pas des escargots tous les jours. »*
 
 ### C. Expressions pour réagir
 
-| Pour relativiser           | Pour contrer poliment        |
+| Pour relativiser | Pour contrer poliment |
 |----------------------------|------------------------------|
-| *Pas tous les …*           | *Je ne suis pas d'accord, parce que …* |
-| *La majorité, peut-être, mais …* | *J'ai un contre-exemple : …*  |
-| *Cela dépend de …*         | *C'est une généralisation, en fait …* |
-| *Selon mon expérience …*   | *Tu as réfléchi à pourquoi tu dis ça ?* |
+| *Pas tous les …* | *Je ne suis pas d'accord, parce que …* |
+| *La majorité, peut-être, mais …* | *J'ai un contre-exemple : …* |
+| *Cela dépend de …* | *C'est une généralisation, en fait …* |
+| *Selon mon expérience …* | *Tu as réfléchi à pourquoi tu dis ça ?* |
 
 ## 3. S'entraîner
 
@@ -104,7 +104,7 @@ mangent pas des escargots tous les jours. »*
 
 1. *« Les Allemands aiment la bière. »*
 2. *« Je ne veux pas qu'il s'asseye à côté de moi parce qu'il
-   est turc. »*
+ est turc. »*
 3. *« Une banque refuse un prêt à cause du nom de famille. »*
 
 **Ex. 2 — Réplique polie.** Reformulez ces phrases pour les
@@ -129,11 +129,11 @@ concrète qui défavorise).
 
 **Ex. 2.** Modèles :
 1. *Pas tous les Français mangent des escargots ; c'est une
-   spécialité régionale.*
+ spécialité régionale.*
 2. *Cela dépend de la personne ; il y a des Allemands très
-   décontractés.*
+ décontractés.*
 3. *La majorité des ados lisent moins qu'avant, mais ce n'est
-   pas vrai pour tous.*
+ pas vrai pour tous.*
 
 **Ex. 3.** Modèles :
 - B : *Pas tous. Mes voisins italiens sont très calmes.*
@@ -162,9 +162,9 @@ tableau C. Échangez les rôles.
 - [ ] Je distingue stéréotype, préjugé, discrimination.
 - [ ] Je relativise une généralisation poliment.
 - [ ] Je peux mener un mini-dialogue de 3 minutes sur un
-      stéréotype.
+ stéréotype.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture+définitions (10 P.)**
 
@@ -173,19 +173,19 @@ tableau C. Échangez les rôles.
 
 1. *« Les Espagnols mangent tard le soir. »*
 2. *« Je ne veux pas travailler avec elle parce qu'elle est
-   Roumaine. »*
+ Roumaine. »*
 3. *« Une boulangerie refuse de servir une cliente voilée. »*
 4. *« Les Belges aiment les frites. »*
 5. *« Les Asiatiques sont meilleurs en maths. »*
 
-**Tâche 2 — Sprechen mündlich (12 P.)**
+**Tâche 2 — Expression orale mündlich (12 P.)**
 
 Mini-dialogue 3 min en binôme : A énonce un stéréotype, B
 relativise (au moins 3 expressions). Échangez les rôles.
 
-Critères : Erfüllung 4 P. + Sprache 4 P. + Aussprache 4 P.
+Critères : Erfüllung 4 P. + Langue 4 P. + Aussprache 4 P.
 
-**Tâche 3 — Schreiben (8 P.)**
+**Tâche 3 — Expression écrite (8 P.)**
 
 Écrivez **5 phrases** : *« Un stéréotype dont j'ai été victime
 ou témoin. »*
@@ -210,9 +210,9 @@ Toujours encadrer par les expressions pour relativiser.
 
 - **« stéréotype »** est masculin. *Le stéréotype.*
 - **« préjugé »** ≠ allemand *Vorurteil* en composition mais en
-  sens, oui.
+ sens, oui.
 - **« discrimination »** est un acte, pas une opinion ; mot
-  sérieux à manier prudemment.
+ sérieux à manier prudemment.
 
 ## Pour aller plus loin
 

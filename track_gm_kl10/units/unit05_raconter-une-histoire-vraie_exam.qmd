@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 5"
-subtitle: "Raconter une histoire vraie · Klasse 10 · Niveau M"
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 5"
+subtitle: "Raconter une histoire vraie · classe 10 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 10
+## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez le récit de Karim (Unité 5, texte C). Répondez :
 
@@ -30,7 +30,7 @@ Mettez au passé composé ou à l'imparfait selon le sens.
 7. *Hier, on (aller) ___ au cinéma.*
 8. *Quand j'(être) ___ petit, je (jouer) ___ au foot.*
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Racontez une **histoire vraie** qui vous a marqué(e) en
 **200 mots**. Plan : intro avec décor (imparfait), événement
@@ -39,12 +39,12 @@ Racontez une **histoire vraie** qui vous a marqué(e) en
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Conjugaison       | 10      |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Conjugaison | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -61,4 +61,4 @@ paragraphes · 5 PC + 5 imparfait · cohérence narrative.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau M · Unité 5*

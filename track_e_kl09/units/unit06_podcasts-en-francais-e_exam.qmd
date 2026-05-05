@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 6"
-subtitle: "Podcasts en français · Klasse 9 · Niveau E"
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 6"
+subtitle: "Podcasts en français · classe 9 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
 ### Tâche 1 — Hörverstehen (10 P.)
 
@@ -23,14 +23,14 @@ format:
 Reliez chaque mot à sa définition :
 
 - podcast · épisode · animateur · transcription · abonnement
-  · saison · plateforme · téléchargement
+ · saison · plateforme · téléchargement
 
 (Définitions : émission audio à la demande · épisode unitaire
 · voix qui guide · texte écrit du podcast · suivi régulier ·
 série annuelle · service de diffusion · récupération du
 fichier.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 À partir d'un autre extrait fourni, rédigez un **résumé**
 (~140 mots) : 6 questions (qui/quoi/où/quand/pourquoi/comment)
@@ -38,12 +38,12 @@ fichier.)
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Hörverstehen      | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ questions · 1 opinion · 5 verbes.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 6*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 6*

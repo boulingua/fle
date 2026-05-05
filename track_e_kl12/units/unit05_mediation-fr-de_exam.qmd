@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 5"
-subtitle: "Médiation FR↔DE (Abitur) · Klasse 12 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 5"
+subtitle: "Médiation FR↔DE (épreuve finale) · classe 12 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez la médiation FR (Unité 5, texte C). Répondez :
 
@@ -26,7 +26,7 @@ Reformulez en français :
 3. *Die FDP lehnt ab …* → ___
 4. *Grimm fordert …* → ___
 
-### Tâche 3 — Sprachmittlung (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)
 
 Médiez ce dossier allemand en français (~350 mots) :
 
@@ -45,12 +45,12 @@ interculturel (France 130 km/h sur autoroute par défaut).
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Verbes            | 8       |
-| Tâche 3 — Sprachmittlung    | 14      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Verbes | 8 |
+| Tâche 3 — médiation linguistique | 14 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -76,4 +76,4 @@ notable.* (~350 mots).
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 5*

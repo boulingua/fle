@@ -1,45 +1,45 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 3"
-subtitle: "Mon collège · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 3"
+subtitle: "Mon collège · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'emploi du temps d'Anouk (Unité 3, texte C). Vrai/faux :
 
-|   | Affirmation                                              | V | F |
+| | Affirmation | V | F |
 |---|----------------------------------------------------------|:-:|:-:|
-| 1 | Anouk a français 4 fois par semaine.                     | ☐ | ☐ |
-| 2 | Le mercredi 9h-10h, Anouk fait du sport.                | ☐ | ☐ |
-| 3 | Anouk n'a jamais arts plastiques.                        | ☐ | ☐ |
-| 4 | Le vendredi à 8h, Anouk a anglais.                       | ☐ | ☐ |
-| 5 | Citez les 4 matières du mardi.                           |   |   |
+| 1 | Anouk a français 4 fois par semaine. | ☐ | ☐ |
+| 2 | Le mercredi 9h-10h, Anouk fait du sport. | ☐ | ☐ |
+| 3 | Anouk n'a jamais arts plastiques. | ☐ | ☐ |
+| 4 | Le vendredi à 8h, Anouk a anglais. | ☐ | ☐ |
+| 5 | Citez les 4 matières du mardi. | | |
 
 ### Tâche 2 — Vocabulaire (8 P.)
 
 Traduisez :
 
 - die Mensa · die Bibliothek · die Sporthalle · der Pausenhof
-  · Mathe · Französisch · Kunst · Naturwissenschaften.
+ · Mathe · Französisch · Kunst · Naturwissenschaften.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Décrivez **votre lundi** en **70 mots** : 4 matières + heures
-+ 1 matière préférée + 1 lieu du collège qui vous plaît.
++ 1 matière préférée + 1 lieu du collège (« Realschule ») qui vous plaît.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -55,4 +55,4 @@ heures · 1 matière préférée · 1 lieu.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 3*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 3*

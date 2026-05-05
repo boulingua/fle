@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 8"
-subtitle: "Le Québec · Klasse 7 · Niveau E"
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 8"
+subtitle: "Le Québec · classe 7 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Leseverstehen (12 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)
 
 Lisez la lettre d'Inès (Unité 8, texte C). Répondez :
 
@@ -24,9 +24,9 @@ Lisez la lettre d'Inès (Unité 8, texte C). Répondez :
 Traduisez en français de France :
 
 - char · chum · magasiner · dépanneur · souper · déjeuner ·
-  blonde · dîner.
+ blonde · dîner.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Rédigez une **réponse à Inès** en **120 mots** : votre saison
 + ce que vous mangez + ce que vous faites le week-end. **2
@@ -34,12 +34,12 @@ québécismes** entre guillemets.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 12      |
-| Tâche 2 — Québécismes       | 8       |
-| Tâche 3 — Schreiben         | 10      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 12 |
+| Tâche 2 — Québécismes | 8 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -55,4 +55,4 @@ lettre · 2 québécismes guillemetés.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 8*

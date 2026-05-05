@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 11"
-subtitle: "Voyage en France · Klasse 6 · Niveau M"
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 11"
+subtitle: "Voyage en France · classe 6 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 6
+## Devoir surveillé — Niveau M, classe 6
 
 ### Tâche 1 — Géographie (10 P.)
 
@@ -34,7 +34,7 @@ Lisez la carte postale de Léa (Unité 11, texte B). Répondez :
 4. Que fera-t-elle demain ?
 5. Comment finit-elle la carte ?
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Écrivez une **carte postale** d'une ville française imaginaire,
 ~50 mots : lieu+date · salutation · météo+activité+nourriture ·
@@ -51,4 +51,4 @@ au revoir+bisous.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 11*

@@ -1,14 +1,14 @@
 ---
 title: "Unité 1 — Synthèse des thèmes littéraires"
-subtitle: "Parcours E (Gymnasium) · Klasse 13 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 1
 slug: "synthese-themes-litteraires"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -25,7 +25,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf — 13e)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
 :::
 
 {{< downloads >}}
@@ -38,7 +38,7 @@ format:
 
 ## Histoire d'introduction
 
-Théodore : *« Avant l'Abitur, **on cartographie tout ce
+Théodore : *« Avant l'épreuve finale, **on cartographie tout ce
 qu'on a lu**. Six thèmes, huit voix. Vous devez pouvoir
 naviguer dans cette carte mentale en 30 secondes. »*
 
@@ -52,14 +52,14 @@ naviguer dans cette carte mentale en 30 secondes. »*
 
 ### A. 6 grands thèmes du programme E
 
-| Thème                | Auteur·e·s clés                  |
+| Thème | Auteur·e·s clés |
 |----------------------|------------------------------------|
-| Écriture de soi      | Ernaux                             |
-| Francophonie postcoloniale | Ben Jelloun, Condé          |
-| L'absurde / révolte  | Camus                              |
-| Mémoire trouée       | Modiano                            |
-| Gender / 4ᵉ vague    | Despentes, Slimani                 |
-| Engagement / écologie| Édouard Louis, Lola Lafon          |
+| Écriture de soi | Ernaux |
+| Francophonie postcoloniale | Ben Jelloun, Condé |
+| L'absurde / révolte | Camus |
+| Mémoire trouée | Modiano |
+| Gender / 4ᵉ vague | Despentes, Slimani |
+| Engagement / écologie| Édouard Louis, Lola Lafon |
 
 ### B. 8 auteur·e·s — œuvres clés
 
@@ -168,13 +168,13 @@ mémorable.
 - [ ] Je cite 5 œuvres précisément.
 - [ ] Je rédige 450 mots synthétiques.
 
-## Exemple d'épreuve — Abitur Lf (E, 13e)
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E, 13e)
 
-**Tâche 1 — Leseverstehen (10 P.)** : synthèse-modèle,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : synthèse-modèle,
 5 questions.
 **Tâche 2 — Cartographie (8 P.)** : 4 associations
 thème-auteur·e.
-**Tâche 3 — Schreiben (12 P.)** : votre synthèse (~450
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre synthèse (~450
 mots).
 
 **Total : 30 P.**
@@ -191,15 +191,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Récit transpersonnel »** : terme **technique**
-  d'Ernaux. À utiliser avec rigueur.
+ d'Ernaux. À utiliser avec rigueur.
 - **8 voix** : ne pas mélanger — chaque autrice/auteur a
-  son **œuvre + année** précises.
+ son **œuvre + année** précises.
 - **Synthèse** : pas un **résumé**, mais une **mise en
-  rapport**.
+ rapport**.
 
 ## Pour aller plus loin
 
 - **Bibliothèque nationale de France — *Gallica*** :
-  <https://gallica.bnf.fr/>
+ <https://gallica.bnf.fr/>
 - **Académie Goncourt** :
-  <https://www.academiegoncourt.com/>
+ <https://www.academiegoncourt.com/>

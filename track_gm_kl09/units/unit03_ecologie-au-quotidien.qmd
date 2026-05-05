@@ -1,14 +1,14 @@
 ---
 title: "Unité 3 — Écologie au quotidien"
-subtitle: "Parcours G+M · Klasse 9 · Niveau M"
+subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 3
 slug: "ecologie-au-quotidien"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.2 Compréhension écrite"
 skills_focus:
   - sprechen_dialog
   - leseverstehen
@@ -34,7 +34,7 @@ format:
 
 - Je nomme **8 gestes** écologiques du quotidien.
 - Je discute des **dilemmes** : *prendre l'avion ?, manger de la
-  viande ?*
+ viande ?*
 - J'utilise **il faut + INF**, **on devrait + INF**.
 
 ## Histoire d'introduction
@@ -55,16 +55,16 @@ mange beaucoup de légumes — c'est le climat ! »*
 
 ### A. 8 gestes écologiques
 
-| Geste                     | Allemand                 |
+| Geste | Allemand |
 |---------------------------|--------------------------|
-| trier les déchets         | Müll trennen             |
-| prendre une douche courte | kurz duschen             |
-| éteindre la lumière       | das Licht ausschalten    |
-| acheter local             | regional einkaufen       |
-| manger moins de viande    | weniger Fleisch essen    |
-| utiliser le vélo          | mit dem Rad fahren       |
-| réparer (ne pas jeter)    | reparieren               |
-| acheter d'occasion        | gebraucht kaufen         |
+| trier les déchets | Müll trennen |
+| prendre une douche courte | kurz duschen |
+| éteindre la lumière | das Licht ausschalten |
+| acheter local | regional einkaufen |
+| manger moins de viande | weniger Fleisch essen |
+| utiliser le vélo | mit dem Rad fahren |
+| réparer (ne pas jeter) | reparieren |
+| acheter d'occasion | gebraucht kaufen |
 
 ### B. Modaux écologiques
 
@@ -98,7 +98,7 @@ mange beaucoup de légumes — c'est le climat ! »*
 2. Quel est l'objectif visé ?
 3. Cite les 3 leviers proposés.
 4. Quel est le pourcentage de jeunes qui considèrent l'écologie
-   comme prioritaire ?
+ comme prioritaire ?
 
 **Ex. 2 — *il faut / on devrait*.** Reformulez.
 
@@ -141,12 +141,12 @@ question. Utilisez **3 fois** *il faut / on devrait*.
 - [ ] J'utilise *il faut / on devrait* + INF.
 - [ ] Je donne 2 arguments pour ou contre.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Leseverstehen (10 P.)** : article + 5 questions.
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : article + 5 questions.
 **Tâche 2 — Grammatik (8 P.)** : 6 phrases avec *il faut / on
 devrait*.
-**Tâche 3 — Schreiben (12 P.)** : prise de position (~120 mots)
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : prise de position (~120 mots)
 sur un dilemme écologique.
 
 **Total : 30 P.**
@@ -163,13 +163,13 @@ Produire 13' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Il faut »** est impersonnel — toujours suivi de *de* ou
-  d'un INF : *Il faut **agir**.*
+ d'un INF : *Il faut **agir**.*
 - **« On devrait »** = conditionnel poli, doux.
 - **CO₂** : se prononce *cé o deux*.
 
 ## Pour aller plus loin
 
 - **ADEME — gestes écologiques** :
-  <https://www.ademe.fr/>
+ <https://www.ademe.fr/>
 - **GIEC — rapport (résumé) en français** :
-  <https://www.ipcc.ch/languages-2/francais/>
+ <https://www.ipcc.ch/languages-2/francais/>

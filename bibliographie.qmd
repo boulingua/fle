@@ -3,24 +3,24 @@ title: "Bibliographie"
 ---
 
 ::: {.hero-kicker}
-FLE BW · BIBLIOGRAPHIE
+FLE · BIBLIOGRAPHIE
 :::
-
-# Bibliographie
 
 Ouvrages et ressources qui ont servi de cadre théorique et
 pédagogique. **Aucune** de ces sources n'a été paraphrasée dans
-les Unités ; ce sont des bornes de référence.
+les unités ; ce sont des bornes de référence.
 
-## Cadre européen et BW
+## Cadres officiels de référence
 
 - *Cadre européen commun de référence pour les langues : apprendre,
   enseigner, évaluer.* Conseil de l'Europe (2001).
 - *Volume complémentaire du CECR* (2018/2020).
 - **Bildungsplan 2016 Baden-Württemberg** — Sekundarstufe I,
-  Französisch 2. Fremdsprache.
-- **Bildungsplan gymnasiale Oberstufe 2021** — Französisch,
-  Basisfach + Leistungsfach.
+  Französisch 2. Fremdsprache. *(Référentiel régional ayant
+  servi de cadre indicatif ; le présent curriculum ne s'y
+  conforme pas nécessairement à 100 %.)*
+- **Bildungsplan gymnasiale Oberstufe 2021 Baden-Württemberg** —
+  Französisch, Basisfach + Leistungsfach. *(Idem.)*
 
 ## Didactique FLE
 

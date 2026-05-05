@@ -1,14 +1,14 @@
 ---
 title: "Unité 4 — Repas en famille"
-subtitle: "Parcours E (Gymnasium) · Klasse 7 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 4
 slug: "repas-en-famille-e"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - hör_hörsehverstehen
   - sprechen_dialog
@@ -34,7 +34,7 @@ format:
 
 - Je nomme **15 aliments** (entrée, plat, dessert).
 - J'utilise les **partitifs** *du, de la, des* + *de* à la
-  négation.
+ négation.
 - Je discute du **menu familial** dominical.
 
 ## Histoire d'introduction
@@ -53,12 +53,12 @@ pommes en dessert. »*
 
 ### A. 15 aliments
 
-| Catégorie    | Aliments                                       |
+| Catégorie | Aliments |
 |--------------|------------------------------------------------|
-| Entrée       | quiche, salade, soupe, charcuterie             |
-| Plat         | gigot d'agneau, poulet rôti, poisson, pâtes    |
-| Dessert      | tarte, gâteau, glace, mousse au chocolat       |
-| Boisson      | eau, jus de pomme, soda                        |
+| Entrée | quiche, salade, soupe, charcuterie |
+| Plat | gigot d'agneau, poulet rôti, poisson, pâtes |
+| Dessert | tarte, gâteau, glace, mousse au chocolat |
+| Boisson | eau, jus de pomme, soda |
 
 ### B. Partitifs
 
@@ -76,7 +76,7 @@ pommes en dessert. »*
 > — Oui, maman. J'ai posé les assiettes et les couverts.
 > — Qu'est-ce qu'on mange aujourd'hui ?
 > — Quiche lorraine en entrée, gigot d'agneau avec haricots
->   verts en plat, et tarte aux pommes au dessert.
+> verts en plat, et tarte aux pommes au dessert.
 > — Génial ! Tu veux **du** vin ?
 > — Non, **pas de** vin pour moi. **De l'**eau, s'il te plaît.
 > — D'accord. Et toi, Lena ?
@@ -84,7 +84,7 @@ pommes en dessert. »*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Compréhension orale (texte C).**
+**Ex. 1 — Compréhension orale (« Hören ») (texte C).**
 
 1. Qui met la table ?
 2. Quels 3 plats sont prévus ?
@@ -129,11 +129,11 @@ boisson. **3 partitifs** + **1 négation** + **1 question**.
 - [ ] J'utilise *du, de la, de l', des* + *de* à la négation.
 - [ ] Je dialogue d'un menu familial.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Hörverstehen (10 P.)** : dialogue, 5 questions.
 **Tâche 2 — Partitifs (8 P.)** : 8 phrases à compléter.
-**Tâche 3 — Sprechen / Schreiben (12 P.)** : votre menu (~80
+**Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 P.)** : votre menu (~80
 mots).
 
 **Total : 30 P.**
@@ -150,12 +150,12 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Je ne veux pas du vin »** ❌ → *« je ne veux pas **de**
-  vin »* ✅.
+ vin »* ✅.
 - **« Bon appétit ! »** = formule avant de manger.
 - **Article défini** avec verbes d'opinion : *J'aime **le**
-  fromage* (≠ *du fromage*).
+ fromage* (≠ *du fromage*).
 
 ## Pour aller plus loin
 
 - **Cuisine actuelle (recettes simples)** :
-  <https://www.cuisineactuelle.fr/>
+ <https://www.cuisineactuelle.fr/>

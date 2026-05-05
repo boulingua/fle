@@ -1,12 +1,12 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 5 (mock 2)"
-subtitle: "Abitur mock 2 — extrait littéraire · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 5 (mock 2)"
+subtitle: "épreuve finale mock 2 — extrait littéraire · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf — mock 2)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock 2)
 
 ### Tâche 1 — Verstehen (10 P.) — 60 min
 
@@ -24,7 +24,7 @@ Rédigez (~350 mots) : *« Le danger derrière la douceur »*
 — 3 procédés stylistiques + interprétation du mot *vide*
 + 1 référence à *L'Étranger* OU *Dora Bruder*.
 
-### Tâche 3 — Sprachmittlung (10 P.) — 60 min
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 P.) — 60 min
 
 Médiez ce texte allemand (~280 mots) :
 
@@ -40,12 +40,12 @@ Médiez ce texte allemand (~280 mots) :
 
 ## Notation
 
-| Tâche                   | Points | Durée  |
+| Tâche | Points | Durée |
 |-------------------------|--------|--------|
-| Verstehen               | 10     | 60 min |
-| Analyse stylistique     | 12     | 90 min |
-| Sprachmittlung          | 8      | 60 min |
-| **Total**               | **30** | **210 min** |
+| Verstehen | 10 | 60 min |
+| Analyse stylistique | 12 | 90 min |
+| médiation linguistique | 8 | 60 min |
+| **Total** | **30** | **210 min** |
 
 ## Solutions
 
@@ -68,4 +68,4 @@ francophonie.* (~280 mots).
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 5*

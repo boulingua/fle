@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 8"
-subtitle: "La météo et les saisons · Klasse 6 · Niveau M"
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 8"
+subtitle: "La météo et les saisons · classe 6 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 6
+## Devoir surveillé — Niveau M, classe 6
 
 ### Tâche 1 — Hörverstehen (12 P.)
 
@@ -31,7 +31,7 @@ Reliez chaque description à une saison.
 
 a) printemps · b) été · c) automne · d) hiver.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Décrivez la météo dans **3 villes** (~30 mots) avec température
 et phénomène (soleil/pluie/vent/nuages).
@@ -48,4 +48,4 @@ L'après-midi. 6) *Il fera beau · il pleuvra · il y aura du soleil
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 8*

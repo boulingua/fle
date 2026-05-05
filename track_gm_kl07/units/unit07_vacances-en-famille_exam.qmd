@@ -1,24 +1,24 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau M) — Unité 7"
-subtitle: "Vacances en famille · Klasse 7 · Niveau M"
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 7"
+subtitle: "Vacances en famille · classe 7 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 7
+## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la carte postale de Léa (Unité 7, texte C). Vrai/faux :
 
-|   | Affirmation                                             | V | F |
+| | Affirmation | V | F |
 |---|---------------------------------------------------------|:-:|:-:|
-| 1 | Léa est arrivée à Cannes mardi.                         | ☐ | ☐ |
-| 2 | Il fait 30 °C.                                          | ☐ | ☐ |
-| 3 | Elle s'est baignée à la plage.                          | ☐ | ☐ |
-| 4 | Elle a visité Marseille.                                | ☐ | ☐ |
-| 5 | Elle rentre dimanche.                                   | ☐ | ☐ |
+| 1 | Léa est arrivée à Cannes mardi. | ☐ | ☐ |
+| 2 | Il fait 30 °C. | ☐ | ☐ |
+| 3 | Elle s'est baignée à la plage. | ☐ | ☐ |
+| 4 | Elle a visité Marseille. | ☐ | ☐ |
+| 5 | Elle rentre dimanche. | ☐ | ☐ |
 
 ### Tâche 2 — Grammatik : passé composé (8 P.)
 
@@ -31,7 +31,7 @@ Conjuguez.
 5. Tu *(partir)* en vacances ?
 6. Vous *(prendre)* le train ?
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez une **carte postale** de **80 mots** :
 date, lieu, météo, **3 activités** au passé composé, projet
@@ -39,12 +39,12 @@ pour demain. Salutation + signature.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Grammatik         | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Grammatik | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ pour demain. Salutation + signature.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 7*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau M · Unité 7*

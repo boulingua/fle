@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 12 (finale)"
-subtitle: "Bilan : portrait d'une rencontre · Klasse 8 · Niveau M"
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 12 (finale)"
+subtitle: "Bilan : portrait d'une rencontre · classe 8 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit finale — Niveau M, Klasse 8
+## Devoir surveillé finale — Niveau M, classe 8
 
 ### Tâche unique — Portrait écrit (30 P.)
 
@@ -18,10 +18,10 @@ personne, en film ou en chanson. Longueur : **120-150 mots**.
 
 1. **Présentation** (qui est cette personne ? — présent).
 2. **Comment vous l'avez rencontrée** (quand et comment — passé
-   composé).
+ composé).
 3. **Ce qu'elle vous a apporté** (passé composé ou imparfait).
 4. **Une réflexion personnelle** (au présent : *Cela m'a appris
-   que · Pour moi · Cette rencontre …*).
+ que · Pour moi · Cette rencontre …*).
 5. **Un projet futur** la concernant (futur simple).
 
 Au moins **4 connecteurs** du cours (D'abord · Ensuite · Puis ·
@@ -29,15 +29,15 @@ Enfin · Pour moi · Cela m'a appris que · Plus tard …).
 
 ## Notation
 
-| Critère                                                 | Points |
+| Critère | Points |
 |---------------------------------------------------------|-------:|
-| Structure (5 parties présentes)                         | 8      |
-| Trois temps équilibrés (présent + passé composé + futur)| 10     |
-| Vocabulaire + 4 connecteurs minimum                     | 6      |
-| Sens fidèle et personnel (pas de copie du modèle)       | 6      |
-| **Total**                                               | **30** |
+| Structure (5 parties présentes) | 8 |
+| Trois temps équilibrés (présent + passé composé + futur)| 10 |
+| Vocabulaire + 4 connecteurs minimum | 6 |
+| Sens fidèle et personnel (pas de copie du modèle) | 6 |
+| **Total** | **30** |
 
-Notenschlüssel BW typique :
+barème de notes (« Notenschlüssel ») typique :
 *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
 
 ## Modèle (~140 mots, à comparer mais ne pas copier)
@@ -50,7 +50,7 @@ Notenschlüssel BW typique :
 > déménageur, son petit frère hockey.
 >
 > D'abord, je l'ai rencontrée par écrit, dès le premier jour de
-> Klasse 8. Ensuite, on a échangé chaque semaine. Elle m'a
+> classe 8. Ensuite, on a échangé chaque semaine. Elle m'a
 > appris que *« écœurant »* veut dire *génial* au Québec, et
 > que les mots peuvent retourner leur sens.
 >
@@ -64,4 +64,4 @@ Notenschlüssel BW typique :
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 12 · Klassenarbeit finale*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 12 · devoir surveillé (« Klassenarbeit ») finale*

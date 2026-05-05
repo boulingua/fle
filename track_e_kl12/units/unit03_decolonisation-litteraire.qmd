@@ -1,14 +1,14 @@
 ---
 title: "Unité 3 — Décolonisation littéraire (Maryse Condé)"
-subtitle: "Parcours E (Gymnasium) · Klasse 12 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 3
 slug: "decolonisation-litteraire"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - leseverstehen
   - sprechen_monolog
@@ -25,7 +25,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 :::
 
 {{< downloads >}}
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je découvre **Maryse Condé** (1934-2024, *« Nobel
-  alternatif »* 2018).
+ alternatif »* 2018).
 - Je comprends la **créolité** (Glissant, Chamoiseau).
 - Je présente une **œuvre décoloniale** en 6 minutes.
 
@@ -53,25 +53,25 @@ voix aux silences de l'histoire. »*
 
 ### A. Maryse Condé — fiche
 
-| Donnée                  | Valeur                            |
+| Donnée | Valeur |
 |-------------------------|------------------------------------|
-| Naissance               | 1934, Pointe-à-Pitre (Guadeloupe)  |
-| Mort                    | 2024                               |
-| Nobel alternatif        | 2018 (*New Academy Prize*)         |
-| Œuvres clés             | *Moi, Tituba sorcière* (1986),     |
-|                         | *Ségou* (1984-85),                 |
-|                         | *Traversée de la Mangrove* (1989)  |
+| Naissance | 1934, Pointe-à-Pitre (Guadeloupe) |
+| Mort | 2024 |
+| Nobel alternatif | 2018 (*New Academy Prize*) |
+| Œuvres clés | *Moi, Tituba sorcière* (1986), |
+| | *Ségou* (1984-85), |
+| | *Traversée de la Mangrove* (1989) |
 
 ### B. 4 concepts décoloniaux
 
 - **Créolité** : *« Ni Européens, ni Africains, ni
-  Asiatiques, nous nous proclamons Créoles »* (Bernabé,
-  Chamoiseau, Confiant, 1989).
+ Asiatiques, nous nous proclamons Créoles »* (Bernabé,
+ Chamoiseau, Confiant, 1989).
 - **Tout-monde** (Édouard Glissant) : créolisation comme
-  modèle d'humanité.
+ modèle d'humanité.
 - **Voix oubliées** : redonner la parole aux invisibilisé·e·s.
 - **Réécriture** : reprendre un texte canonique et
-  l'inverser.
+ l'inverser.
 
 ### C. Extrait *Moi, Tituba sorcière* (Condé, 1986, adapté)
 
@@ -147,11 +147,11 @@ tout-monde…) + 2 citations + 1 lien à votre époque.
 - [ ] Je présente une œuvre en 6 minutes.
 - [ ] J'analyse une citation en 3 phrases.
 
-## Exemple d'épreuve — Abitur Lf (E)
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : Tituba, 5 questions.
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : Tituba, 5 questions.
 **Tâche 2 — Concepts (8 P.)** : 4 identifications.
-**Tâche 3 — Schreiben (12 P.)** : analyse + lien
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : analyse + lien
 (~350 mots).
 
 **Total : 30 P.**
@@ -168,14 +168,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Tituba »** : personnage **historique**, esclave
-  caribéenne accusée à Salem en 1692.
+ caribéenne accusée à Salem en 1692.
 - **« Créolité »** ≠ *créole* (langue) : la créolité est un
-  mouvement littéraire (1989).
+ mouvement littéraire (1989).
 - **Tout-monde** : néologisme **un seul mot** chez Glissant.
 
 ## Pour aller plus loin
 
 - **Maryse Condé — site officiel** :
-  <https://www.maryse-conde.com/>
+ <https://www.maryse-conde.com/>
 - **Édouard Glissant — Institut du Tout-Monde** :
-  <https://www.tout-monde.com/>
+ <https://www.tout-monde.com/>

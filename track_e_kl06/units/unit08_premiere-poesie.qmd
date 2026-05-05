@@ -1,14 +1,14 @@
 ---
 title: "Unité 8 — Première poésie : Prévert simple"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 8
 slug: "premiere-poesie"
 bildungsplan:
-  - "3.1.4 Text- und Medienkompetenz"
-  - "3.1.3.2 Leseverstehen"
+  - "3.1.4 Compétence textuelle et médiatique"
+  - "3.1.3.2 Compréhension écrite"
 skills_focus:
   - text_medien
   - leseverstehen
@@ -127,11 +127,11 @@ au choix : l'école, l'amitié, la pluie, un animal.
 - [ ] Je récite un poème.
 - [ ] J'écris un petit poème à la manière de Prévert.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : *Le Cancre*, 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 6 mots du poème.
-**Tâche 3 — Schreiben (12 P.)** : votre poème (~50 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre poème (~50 mots).
 
 **Total : 30 P.**
 
@@ -147,7 +147,7 @@ haute 5' · S'entraîner 13' · Produire 11' · Réfléchir 2'.
 ## Pièges fréquents
 
 - **« Cancre »** = mauvais élève (terme un peu daté, mais clé
-  du poème).
+ du poème).
 - **Vers libres** = pas de rimes obligatoires.
 - **Prévert** se prononce *« Pré-vère »* (le t final est muet).
 
@@ -155,4 +155,4 @@ haute 5' · S'entraîner 13' · Produire 11' · Réfléchir 2'.
 
 - **Recueil *Paroles* (1946)** — Gallimard.
 - **France Culture — Prévert** :
-  <https://www.radiofrance.fr/franceculture/>
+ <https://www.radiofrance.fr/franceculture/>

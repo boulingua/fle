@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 2"
-subtitle: "La presse française · Klasse 10 · Niveau E"
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 2"
+subtitle: "La presse française · classe 10 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la brève (Unité 2, texte C). Répondez :
 
@@ -23,12 +23,12 @@ Lisez la brève (Unité 2, texte C). Répondez :
 Reliez chaque journal à sa ligne éditoriale :
 
 - Le Monde · Libération · Le Figaro · La Croix · L'Équipe ·
-  Ouest-France
+ Ouest-France
 
 (Lignes : centre-gauche · gauche · droite libérale ·
 catholique · sport · régional.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez une **brève d'actualité** (~120 mots) sur un
 événement de votre école : titre + chapeau + 5 W + 1
@@ -36,12 +36,12 @@ citation directe.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Lignes/genres     | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Lignes/genres | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -58,4 +58,4 @@ Figaro = droite libérale · La Croix = catholique · L'Équipe
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 2*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 2*

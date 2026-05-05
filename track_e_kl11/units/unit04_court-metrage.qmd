@@ -1,14 +1,14 @@
 ---
 title: "Unité 4 — Court-métrage francophone"
-subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 4
 slug: "court-metrage"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - hör_hörsehverstehen
   - text_medien
@@ -34,7 +34,7 @@ format:
 
 - J'analyse un **court-métrage** (3-15 min) en français.
 - Je connais **8 termes** d'analyse filmique (plan, cadrage,
-  ellipse…).
+ ellipse…).
 - Je rédige une **fiche d'analyse** (~250 mots).
 
 ## Histoire d'introduction
@@ -53,16 +53,16 @@ un plan-séquence. »*
 
 ### A. 8 termes d'analyse filmique
 
-| Terme              | Définition                          |
+| Terme | Définition |
 |--------------------|--------------------------------------|
-| plan               | unité minimale (cadrage)            |
-| plan-séquence      | un plan = une scène entière         |
-| champ / contre-champ| 2 plans alternés (dialogue)        |
-| ellipse            | saut temporel non montré            |
-| voix off           | narrateur·rice non visible          |
-| gros plan          | visage / objet en très près         |
-| plan d'ensemble    | large, situe l'action               |
-| montage cut        | coupe nette sans transition         |
+| plan | unité minimale (cadrage) |
+| plan-séquence | un plan = une scène entière |
+| champ / contre-champ| 2 plans alternés (dialogue) |
+| ellipse | saut temporel non montré |
+| voix off | narrateur·rice non visible |
+| gros plan | visage / objet en très près |
+| plan d'ensemble | large, situe l'action |
+| montage cut | coupe nette sans transition |
 
 ### B. 4 étapes d'analyse d'un court-métrage
 
@@ -85,9 +85,9 @@ un plan-séquence. »*
 >
 > **3 plans-clés** :
 > 1. **Gros plan** sur la main d'Annie qui tremble en tenant
->    le bonbon-test.
+> le bonbon-test.
 > 2. **Plan-séquence** dans la salle de stage : 2 minutes
->    sans coupe.
+> sans coupe.
 > 3. **Champ-contre-champ** lors du dialogue final.
 >
 > **Interprétation** : le **bonbon au poivre** est une
@@ -137,12 +137,12 @@ interprétation) + 6 termes filmiques + 1 citation du dialogue.
 - [ ] Je rédige une fiche en 4 étapes.
 - [ ] Je propose une interprétation argumentée.
 
-## Exemple d'épreuve — Abitur Bf (E)
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
 
 **Tâche 1 — Hörverstehen (10 P.)** : court-métrage à
 visionner, 5 questions.
 **Tâche 2 — Termes (8 P.)** : 4 identifications.
-**Tâche 3 — Schreiben (12 P.)** : fiche d'analyse
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : fiche d'analyse
 (~250 mots).
 
 **Total : 30 P.**
@@ -159,13 +159,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Plan »** ≠ *scène* : le plan est une unité de prise
-  de vue ; la scène est dramatique.
+ de vue ; la scène est dramatique.
 - **« Plan-séquence »** : trait d'union obligatoire.
 - **« Voix off »** invariable au pluriel (*des voix off*).
 
 ## Pour aller plus loin
 
 - **Festival Premiers Plans d'Angers** :
-  <https://www.premiersplans.org/>
+ <https://www.premiersplans.org/>
 - **Brefcinema (plateforme courts FR)** :
-  <https://www.brefcinema.com/>
+ <https://www.brefcinema.com/>

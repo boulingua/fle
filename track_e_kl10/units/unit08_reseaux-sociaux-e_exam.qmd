@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 8"
-subtitle: "Réseaux sociaux et identité · Klasse 10 · Niveau E"
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 8"
+subtitle: "Réseaux sociaux et identité · classe 10 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le journal de détox (Unité 8, texte C). Répondez :
 
@@ -20,14 +20,14 @@ Lisez le journal de détox (Unité 8, texte C). Répondez :
 
 ### Tâche 2 — Conditionnel pour conseiller (8 P.)
 
-Reformulez avec « Si … , tu … » :
+Reformulez avec « Si …, tu … » :
 
 1. désinstaller / dormir mieux → ___
 2. suivre / avis nuancé → ___
 3. désactiver / moins distrait → ___
 4. vérifier / pas de désinfo → ___
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez un **dialogue** (~140 mots, 10 répliques) avec un·e
 ami·e sur l'usage des RS : 5 pièges + 5 stratégies + 2
@@ -35,12 +35,12 @@ conditionnels + 1 citation chiffrée.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Conditionnel      | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Conditionnel | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -58,4 +58,4 @@ répliques · 5 pièges · 5 stratégies.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 8*

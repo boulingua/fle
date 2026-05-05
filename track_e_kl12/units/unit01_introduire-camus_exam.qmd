@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 1"
-subtitle: "Introduire : *L'Étranger* (Camus) · Klasse 12 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 1"
+subtitle: "Introduire : *L'Étranger* (Camus) · classe 12 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'incipit de *L'Étranger* (Unité 1, texte C). Répondez :
 
@@ -23,24 +23,24 @@ Lisez l'incipit de *L'Étranger* (Unité 1, texte C). Répondez :
 Reliez chaque concept à son repérage dans l'incipit :
 
 - l'absurde · le « je » sec · la distance affective · le
-  motif administratif
+ motif administratif
 
 (Repérages : *Cela ne veut rien dire* · phrases courtes ·
 *sentiments distingués* · *Ce n'est pas de ma faute*.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre étude d'incipit** (~350 mots) : 4 § + 5
 citations + 3 concepts camusiens + lien à un autre incipit.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Concepts          | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Concepts | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ congé. 5) *Ce n'est pas de ma faute.*
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 1*

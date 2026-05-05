@@ -1,46 +1,46 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau M) — Unité 3"
-subtitle: "Mon quartier · Klasse 7 · Niveau M"
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 3"
+subtitle: "Mon quartier · classe 7 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 7
+## Devoir surveillé — Niveau M, classe 7
 
 ### Tâche 1 — Vocabulaire (10 P.)
 
 Traduisez :
 
 - die Bäckerei · die Apotheke · der Supermarkt · die Post ·
-  die Bank · das Café · der Park · die Bibliothek ·
-  die Bushaltestelle · das Rathaus.
+ die Bank · das Café · der Park · die Bibliothek ·
+ die Bushaltestelle · das Rathaus.
 
-### Tâche 2 — Leseverstehen (10 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le texte C de l'Unité 3 (le quartier de Léa). Vrai/faux :
 
-|   | Affirmation                                             | V | F |
+| | Affirmation | V | F |
 |---|---------------------------------------------------------|:-:|:-:|
-| 1 | La boulangerie d'Hugo est loin de chez Léa.             | ☐ | ☐ |
-| 2 | La pharmacie est en face de la boulangerie.             | ☐ | ☐ |
-| 3 | Le parc est devant la bibliothèque.                     | ☐ | ☐ |
-| 4 | Le bus n°3 passe devant la mairie.                      | ☐ | ☐ |
-| 5 | Léa n'aime pas son quartier.                            | ☐ | ☐ |
+| 1 | La boulangerie d'Hugo est loin de chez Léa. | ☐ | ☐ |
+| 2 | La pharmacie est en face de la boulangerie. | ☐ | ☐ |
+| 3 | Le parc est devant la bibliothèque. | ☐ | ☐ |
+| 4 | Le bus n°3 passe devant la mairie. | ☐ | ☐ |
+| 5 | Léa n'aime pas son quartier. | ☐ | ☐ |
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Décrivez **votre quartier** en **6 phrases** (~70 mots).
 Au moins **5 lieux** + **3 prépositions de lieu** différentes.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Vocabulaire       | 10      |
-| Tâche 2 — Leseverstehen     | 10      |
-| Tâche 3 — Schreiben         | 10      |
-| **Total**                   | **30**  |
+| Tâche 1 — Vocabulaire | 10 |
+| Tâche 2 — Compréhension écrite | 10 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -55,4 +55,4 @@ de bus · la mairie.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 3*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau M · Unité 3*

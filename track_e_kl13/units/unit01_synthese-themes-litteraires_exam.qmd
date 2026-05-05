@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 1"
-subtitle: "Synthèse des thèmes littéraires · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 1"
+subtitle: "Synthèse des thèmes littéraires · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la synthèse comparative (Unité 1, texte C). Répondez :
 
@@ -23,12 +23,12 @@ Lisez la synthèse comparative (Unité 1, texte C). Répondez :
 Reliez chaque thème à son·sa auteur·rice principal·e :
 
 - écriture de soi · postcolonial · absurde · mémoire trouée
-  · gender · engagement · Négritude · roman thriller social
+ · gender · engagement · Négritude · roman thriller social
 
 (Auteur·e·s : Ernaux · Ben Jelloun-Condé · Camus · Modiano ·
 Despentes · É. Louis · Senghor · Slimani.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre synthèse comparative** (~450 mots) : 6
 thèmes + 8 auteur·e·s + 5 citations + 1 thèse personnelle +
@@ -36,12 +36,12 @@ thèmes + 8 auteur·e·s + 5 citations + 1 thèse personnelle +
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Cartographie      | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Cartographie | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ thèmes · 8 auteur·e·s · 5 citations · 1 thèse · 1 chute.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 1*

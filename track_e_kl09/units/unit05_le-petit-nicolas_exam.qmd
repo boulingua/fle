@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 5"
-subtitle: "Le Petit Nicolas (extraits) · Klasse 9 · Niveau E"
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 5"
+subtitle: "Le Petit Nicolas (extraits) · classe 9 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'extrait *On a eu l'inspecteur* (Unité 5, texte C).
 Répondez :
@@ -26,7 +26,7 @@ Classez en **imparfait** (description) ou **PC** (action) :
 1. *allait* · 2. *a dit* · 3. *mangeait* · 4. *est entré* ·
 5. *dormait* · 6. *a rigolé* · 7. *était* · 8. *a applaudi*.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez la **suite de l'extrait** (~150 mots) : que se passe-
 t-il **après** le départ de l'inspecteur ? 5 personnages +
@@ -34,12 +34,12 @@ PC + imparfait + 1 réplique au discours direct.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Imparfait / PC    | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Imparfait / PC | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -54,4 +54,4 @@ personnages · PC + imparfait · 1 discours direct.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 5*

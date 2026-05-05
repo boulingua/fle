@@ -1,14 +1,14 @@
 ---
 title: "Unité 8 — Gender et littérature contemporaine"
-subtitle: "Parcours E (Gymnasium) · Klasse 12 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 8
 slug: "gender-litteraire"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - leseverstehen
   - sprechen_dialog
@@ -25,7 +25,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 :::
 
 {{< downloads >}}
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je connais **5 voix de la littérature gender FR** (Despentes,
-  Slimani, Despentes, Vivian, Kerangal, Lestrade).
+ Slimani, Despentes, Vivian, Kerangal, Lestrade).
 - Je comprends les **gender studies** francophones.
 - Je dialogue **15 répliques** sur un texte gender.
 
@@ -53,13 +53,13 @@ ouvre la 4ᵉ vague féministe française. »*
 
 ### A. 5 voix gender contemporaines
 
-| Autrice/Auteur       | Œuvre clé                  | Année |
+| Autrice/Auteur | Œuvre clé | Année |
 |----------------------|----------------------------|-------|
-| Virginie Despentes   | *King Kong théorie*        | 2006  |
-| Maylis de Kerangal   | *Réparer les vivants*      | 2014  |
-| Édouard Louis        | *En finir avec Eddy Bellegueule* | 2014 |
-| Mathieu Lindon       | *Ce qu'aimer veut dire*    | 2011  |
-| Lola Lafon           | *Mercy, Mary, Patty*       | 2017  |
+| Virginie Despentes | *King Kong théorie* | 2006 |
+| Maylis de Kerangal | *Réparer les vivants* | 2014 |
+| Édouard Louis | *En finir avec Eddy Bellegueule* | 2014 |
+| Mathieu Lindon | *Ce qu'aimer veut dire* | 2011 |
+| Lola Lafon | *Mercy, Mary, Patty* | 2017 |
 
 ### B. 6 concepts gender (FR)
 
@@ -140,12 +140,12 @@ exemple #MeToo / #NousToutes.
 - [ ] J'utilise 6 concepts gender.
 - [ ] Je dialogue 15 répliques.
 
-## Exemple d'épreuve — Abitur Lf (E)
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : Despentes,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : Despentes,
 5 questions.
 **Tâche 2 — Concepts (8 P.)** : 4 identifications.
-**Tâche 3 — Schreiben (12 P.)** : dialogue (~300 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : dialogue (~300 mots).
 
 **Total : 30 P.**
 
@@ -161,15 +161,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Gender »** vs **« genre »** : *gender studies* en
-  anglais, *études de genre* en français académique
-  (l'Académie tolère les deux).
+ anglais, *études de genre* en français académique
+ (l'Académie tolère les deux).
 - **Écriture inclusive** : pas obligatoire, mais
-  reconnaître la forme à l'écrit.
+ reconnaître la forme à l'écrit.
 - **Despentes** : avec *S* à la fin (≠ *Despente*).
 
 ## Pour aller plus loin
 
 - **Virginie Despentes — Grasset** :
-  <https://www.grasset.fr/auteurs/virginie-despentes>
+ <https://www.grasset.fr/auteurs/virginie-despentes>
 - **CNRS — Études de genre** :
-  <https://www.cnrs.fr/fr/etudes-de-genre>
+ <https://www.cnrs.fr/fr/etudes-de-genre>

@@ -1,14 +1,14 @@
 ---
-title: "Unité 11 — Préparer l'Abitur écrit"
-subtitle: "Parcours E (Gymnasium) · Klasse 12 · Niveau E"
+title: "Unité 11 — Préparer l'épreuve finale écrit"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 11
 slug: "preparer-l-abitur-ecrit"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -25,45 +25,45 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 :::
 
 {{< downloads >}}
 
 ## Objectifs
 
-- Je connais le **format Abitur écrit Lf BW** (270 min, 3
-  parties).
+- Je connais le **format de l'épreuve finale écrite (option d'approfondissement)** (270 min, 3
+ parties).
 - Je m'entraîne au **mock 1** (texte journalistique).
-- Je connais les **5 critères d'évaluation** (Inhalt,
-  Sprache, Aufbau, Stil, Lexik).
+- Je connais les **5 critères d'évaluation** (Contenu,
+ Langue, Aufbau, Stil, Lexik).
 
 ## Histoire d'introduction
 
 Théodore : *« 270 minutes. Texte de 700 mots. Production de
-350 mots. Sprachmittlung 60 min. Vous êtes prêts. »*
+350 mots. Médiation linguistique (« Sprachmittlung ») 60 min. Vous êtes prêts. »*
 
 ## 1. Activer
 
-- Combien de minutes pour l'Abitur Lf BW ?
+- Combien de minutes pour l'épreuve finale (option d'approfondissement) ?
 - 3 parties : lesquelles ?
 - Quelle est la **durée recommandée** par partie ?
 
 ## 2. Apporter
 
-### A. Format Abitur écrit Lf BW (4 ou 5 heures)
+### A. Format épreuve finale écrit Lf (4 ou 5 heures)
 
-| Partie               | Durée  | Tâche                       |
+| Partie | Durée | Tâche |
 |----------------------|--------|------------------------------|
-| **Verstehen**        | 60 min | 6-8 questions sur le texte  |
-| **Analyse / Schreiben** | 150 min | 350-400 mots argumentés |
-| **Sprachmittlung**   | 60 min | DE → FR ~280 mots           |
-| **Total**            | 270 min | 1 texte source FR + 1 DE   |
+| **Verstehen** | 60 min | 6-8 questions sur le texte |
+| **Analyse / Expression écrite (« Schreiben »)** | 150 min | 350-400 mots argumentés |
+| **médiation linguistique** | 60 min | DE → FR ~280 mots |
+| **Total** | 270 min | 1 texte source FR + 1 DE |
 
-### B. 5 critères d'évaluation (KMK / BW)
+### B. 5 critères d'évaluation (officiels)
 
-1. **Inhalt** : compréhension + couverture des questions.
-2. **Sprache** : richesse lexicale, structures variées.
+1. **Contenu** : compréhension + couverture des questions.
+2. **Langue** : richesse lexicale, structures variées.
 3. **Aufbau** : structure logique, paragraphage.
 4. **Stil** : registre adapté, élégance.
 5. **Lexik** : précision lexicale, idiomatique.
@@ -89,7 +89,7 @@ Théodore : *« 270 minutes. Texte de 700 mots. Production de
 > positions** (Cédric O / Asma Mhalla) ? Comment l'auteur
 > les présente-t-il ?
 >
-> **Question 3 (Schreiben, 10 P.)** : Rédigez un
+> **Question 3 (Expression écrite, 10 P.)** : Rédigez un
 > commentaire personnel (~350 mots) : pour ou contre cette
 > loi, en mobilisant 1 référence (Camus, Despentes,
 > Senghor, Modiano…).
@@ -128,23 +128,23 @@ pour · §3 arguments contre + référence (ex. Camus —
 
 **Mock 1 complet (E, ~270 min) :**
 
-Réalisez **un Abitur Lf complet** : Verstehen (60 min) +
-Analyse (90 min) + Schreiben (60 min) + Sprachmittlung
+Réalisez **un épreuve finale (option d'approfondissement) complet** : Verstehen (60 min) +
+Analyse (90 min) + Expression écrite (60 min) + médiation linguistique
 (60 min). 5 critères évalués.
 
 ## 5. Réfléchir
 
-- [ ] Je connais le format Abitur Lf BW.
+- [ ] Je connais le format épreuve finale (option d'approfondissement).
 - [ ] Je tiens 270 min concentré·e.
 - [ ] J'auto-évalue selon 5 critères.
 
-## Exemple d'épreuve — Abitur Lf BW (E)
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E)
 
 **Verstehen (10 P.)** : 5 questions sur le texte.
-**Analyse / Schreiben (10 P.)** : 350-400 mots argumentés.
-**Sprachmittlung (10 P.)** : DE → FR ~280 mots.
+**Analyse / Expression écrite (10 P.)** : 350-400 mots argumentés.
+**médiation linguistique (10 P.)** : DE → FR ~280 mots.
 
-**Total : 30 P.** sur 60 réels (+ 30 oral) en BW.
+**Total : 30 P.** sur 60 réels (+ 30 oral) en.
 
 ## Téléchargements {#downloads}
 
@@ -158,14 +158,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **270 min** : ne pas dépasser 60 min sur Verstehen
-  (chronométrer).
+ (chronométrer).
 - **5 critères** : *Aufbau* (structure) compte autant que
-  *Sprache* (langue) — ne pas négliger.
+ *Langue* (langue) — ne pas négliger.
 - **Référence** : citer **mot pour mot** + auteur·e + année.
 
 ## Pour aller plus loin
 
-- **Modèles d'Abitur Lf BW (passés)** :
-  <https://www.bildungsplaene-bw.de/>
+- **Modèles d'épreuve finale (option d'approfondissement) (passés)** :
+ <https://www.bildungsplaene-bw.de/>
 - **CNDP — IA et éducation** :
-  <https://www.reseau-canope.fr/>
+ <https://www.reseau-canope.fr/>

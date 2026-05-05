@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 10"
-subtitle: "Cinéma québécois · Klasse 8 · Niveau M"
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 10"
+subtitle: "Cinéma québécois · classe 8 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 8
+## Devoir surveillé — Niveau M, classe 8
 
 ### Tâche 1 — Hörsehverstehen (12 P.)
 
@@ -17,17 +17,17 @@ Vous écoutez deux fois le mini-dialogue mère-fille à Montréal
 2. Que fait la fille en ce moment ?
 3. Que dit la mère sur le souper ?
 4. Citez **deux québécismes** + leur équivalent français
-   hexagonal.
+ hexagonal.
 
-### Tâche 2 — Sprechen monologue (12 P.)
+### Tâche 2 — Expression orale (« Sprechen ») monologue (12 P.)
 
 Présentez en 2 minutes **un film** que vous avez aimé. Inclure :
 titre + réalisateur·rice + année · histoire en 2-3 phrases · une
 scène marquante · raison de le voir.
 
-Critères : Inhalt 5 P. · Sprache 4 P. · Aussprache 3 P.
+Critères : Contenu 5 P. · Langue 4 P. · Aussprache 3 P.
 
-### Tâche 3 — Schreiben (6 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (6 P.)
 
 Écrivez **3-4 phrases** sur :
 
@@ -35,12 +35,12 @@ Critères : Inhalt 5 P. · Sprache 4 P. · Aussprache 3 P.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Hörsehverstehen   | 12      |
-| Tâche 2 — Sprechen monologue| 12      |
-| Tâche 3 — Schreiben         | 6       |
-| **Total**                   | **30**  |
+| Tâche 1 — Hörsehverstehen | 12 |
+| Tâche 2 — Expression orale monologue| 12 |
+| Tâche 3 — Expression écrite | 6 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -52,4 +52,4 @@ dîner ; *restant* = restes.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 10*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 10*

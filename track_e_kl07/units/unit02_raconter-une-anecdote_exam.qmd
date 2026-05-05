@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 2"
-subtitle: "Raconter une anecdote · Klasse 7 · Niveau E"
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 2"
+subtitle: "Raconter une anecdote · classe 7 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez l'anecdote de Tristan (Unité 2, texte C). Répondez :
 
@@ -29,7 +29,7 @@ Conjuguez selon le sens.
 6. *Hier, on (aller) ___ au cinéma.*
 7. *Pendant que je (lire) ___, ma sœur (entrer) ___.*
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Racontez **une anecdote drôle** en **150 mots** : décor
 (imparfait) + action (PC) + conclusion. **3 marqueurs** +
@@ -37,12 +37,12 @@ Racontez **une anecdote drôle** en **150 mots** : décor
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — PC / imparfait    | 10      |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — PC / imparfait | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -60,4 +60,4 @@ entrée.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 2*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 2*

@@ -1,14 +1,14 @@
 ---
 title: "Unité 10 — Mes loisirs"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 10
 slug: "mes-loisirs-e"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.2 Compréhension écrite"
 skills_focus:
   - sprechen_dialog
   - leseverstehen
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je nomme **8 loisirs** + **3 verbes** clés (*faire de, jouer
-  à, jouer de*).
+ à, jouer de*).
 - Je distingue *du / de la / des* (sport vs. instrument).
 - J'exprime ma fréquence (*toujours, souvent, jamais…*).
 
@@ -52,16 +52,16 @@ du judo et je joue au foot. Tu veux essayer ? »*
 
 ### A. 8 loisirs
 
-| Français            | Allemand           |
+| Français | Allemand |
 |---------------------|--------------------|
-| le foot             | Fußball            |
-| la danse            | das Tanzen         |
-| le judo             | Judo               |
-| la natation         | das Schwimmen      |
-| le théâtre          | das Theater        |
-| la guitare          | die Gitarre        |
-| le piano            | das Klavier        |
-| la lecture          | das Lesen          |
+| le foot | Fußball |
+| la danse | das Tanzen |
+| le judo | Judo |
+| la natation | das Schwimmen |
+| le théâtre | das Theater |
+| la guitare | die Gitarre |
+| le piano | das Klavier |
+| la lecture | das Compréhension écrite (« Leseverstehen ») |
 
 ### B. 3 verbes clés
 
@@ -137,11 +137,11 @@ fréquence + invitation à essayer.
 - [ ] J'utilise *faire de / jouer à / jouer de*.
 - [ ] J'utilise les adverbes de fréquence.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Vocabulaire (10 P.)** : 8 loisirs + 3 verbes clés.
 **Tâche 2 — Lecture (8 P.)** : texte D, 4 questions.
-**Tâche 3 — Schreiben (12 P.)** : vos loisirs (~70 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : vos loisirs (~70 mots).
 
 **Total : 30 P.**
 
@@ -157,12 +157,12 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Faire du sport »** ≠ *« jouer au sport »*. Le 1ᵉʳ est
-  général ; le 2ᵉ inexistant.
+ général ; le 2ᵉ inexistant.
 - **« Jouer à + sport collectif »** : *jouer au foot, au tennis*.
 - **« Jouer de + instrument »** : *jouer du piano, de la
-  guitare*.
+ guitare*.
 
 ## Pour aller plus loin
 
 - **Vocabulaire des loisirs (TV5 Monde)** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

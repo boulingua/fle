@@ -1,14 +1,14 @@
 ---
 title: "Unité 10 — Musique et clips"
-subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 10
 slug: "musique-et-clips"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - hoerverstehen
   - textmedienkompetenz
@@ -52,16 +52,16 @@ Mais ce clip est génial — les couleurs, la danse… »*
 
 ### A. Vocabulaire — styles musicaux
 
-| Français       | Allemand     |
+| Français | Allemand |
 |----------------|--------------|
-| la pop         | der Pop      |
-| le rock        | der Rock     |
-| le rap         | der Rap      |
-| le hip-hop     | der Hip-Hop  |
-| la chanson     | das Chanson  |
-| le R'n'B       | der R'n'B    |
+| la pop | der Pop |
+| le rock | der Rock |
+| le rap | der Rap |
+| le hip-hop | der Hip-Hop |
+| la chanson | das Chanson |
+| le R'n'B | der R'n'B |
 | la musique électronique | die elektronische Musik |
-| le reggae      | der Reggae   |
+| le reggae | der Reggae |
 
 ### B. Décrire un clip
 
@@ -73,10 +73,10 @@ Mais ce clip est génial — les couleurs, la danse… »*
 
 ### C. Exprimer ses goûts
 
-| Très positif | Positif    | Négatif       | Très négatif      |
+| Très positif | Positif | Négatif | Très négatif |
 |--------------|------------|---------------|-------------------|
-| j'adore      | j'aime     | je n'aime pas | je déteste        |
-| c'est génial | c'est bien | bof…          | c'est nul         |
+| j'adore | j'aime | je n'aime pas | je déteste |
+| c'est génial | c'est bien | bof… | c'est nul |
 
 ### D. Description d'un clip (texte original)
 
@@ -137,12 +137,12 @@ préfère*).
 - [ ] Je décris un clip vidéo.
 - [ ] J'exprime mes goûts musicaux.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Hörverstehen (10 P.)** : description de clip,
 6 questions vrai/faux.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 styles musicaux à traduire.
-**Tâche 3 — Schreiben (12 P.)** : votre clip préféré (~80 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre clip préféré (~80 mots).
 
 **Total : 30 P.**
 
@@ -164,6 +164,6 @@ Produire 11' · Réfléchir 2' · Aperçu 3'.
 ## Pour aller plus loin
 
 - **Aya Nakamura — chaîne officielle** :
-  <https://www.youtube.com/@AyaNakamuraOfficiel>
+ <https://www.youtube.com/@AyaNakamuraOfficiel>
 - **France Inter — Pop & Co** (émission musicale) :
-  <https://www.radiofrance.fr/franceinter/>
+ <https://www.radiofrance.fr/franceinter/>

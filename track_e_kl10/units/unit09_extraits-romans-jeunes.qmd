@@ -1,14 +1,14 @@
 ---
 title: "Unité 9 — Extraits de romans jeunes (FR)"
-subtitle: "Parcours E (Gymnasium) · Klasse 10 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 9
 slug: "extraits-romans-jeunes"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - leseverstehen
   - text_medien
@@ -53,16 +53,16 @@ continents, 1 tresse.
 
 ### A. 3 notions de base
 
-| Notion       | Définition                              |
+| Notion | Définition |
 |--------------|------------------------------------------|
-| auteur·e     | personne réelle qui écrit                |
+| auteur·e | personne réelle qui écrit |
 | narrateur·rice| voix qui raconte (peut être personnage) |
-| personnage   | être fictif dans le roman                |
+| personnage | être fictif dans le roman |
 
 ### B. Vocabulaire d'analyse
 
 - *roman · récit · chapitre · narration · point de vue ·
-  personnage principal · intrigue · dénouement.*
+ personnage principal · intrigue · dénouement.*
 
 ### C. Extrait *La Tresse* (Colombani, 2017, adapté)
 
@@ -94,9 +94,9 @@ continents, 1 tresse.
 
 **Ex. 2 — Notions.** Identifiez :
 
-- L'**auteure** du roman → ___ .
-- Le **narrateur** est ___ (interne / externe ?) .
-- 2 **personnages** principaux → ___ .
+- L'**auteure** du roman → ___.
+- Le **narrateur** est ___ (interne / externe ?).
+- 2 **personnages** principaux → ___.
 
 **Ex. 3 — Plus-que-parfait.** Repérez 3 verbes au PQP dans
 l'extrait.
@@ -129,12 +129,12 @@ choix : auteur·e + résumé (3 phrases) + personnage central
 - [ ] J'utilise 5 notions d'analyse romanesque.
 - [ ] Je rédige une fiche de lecture de 150 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : extrait *La Tresse*,
 5 questions.
 **Tâche 2 — Notions (8 P.)** : auteur/narrateur/personnage.
-**Tâche 3 — Schreiben (12 P.)** : fiche de lecture
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : fiche de lecture
 (~150 mots).
 
 **Total : 30 P.**
@@ -151,15 +151,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Auteur·e »** = personne réelle ; **narrateur·rice** =
-  voix dans le texte (peut être un personnage).
+ voix dans le texte (peut être un personnage).
 - **« Plus-que-parfait »** : *avait* + PP, marque
-  l'antériorité dans un récit au passé.
+ l'antériorité dans un récit au passé.
 - **« Dalit »** = ex-« intouchable » dans la société indienne
-  ; à respecter dans la traduction.
+ ; à respecter dans la traduction.
 
 ## Pour aller plus loin
 
 - **Laetitia Colombani — *La Tresse*** :
-  <https://www.grasset.fr/livres/la-tresse-9782246813957>
+ <https://www.grasset.fr/livres/la-tresse-9782246813957>
 - **Babelio (FR)** :
-  <https://www.babelio.com/>
+ <https://www.babelio.com/>

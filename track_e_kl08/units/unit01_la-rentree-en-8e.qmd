@@ -1,13 +1,13 @@
 ---
 title: "Unité 1 — La rentrée en 8e"
-subtitle: "Parcours E (Gymnasium) · Klasse 8 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 1
 slug: "la-rentree-en-8e"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - sprechen_dialog
 format:
@@ -32,7 +32,7 @@ format:
 
 - Je raconte mes vacances + projets de 8e.
 - Je connais Karim (correspondant lillois) et Tante Soraya
-  (architecte tunisienne).
+ (architecte tunisienne).
 - J'utilise les **3 temps** pour résumer.
 
 ## Histoire d'introduction
@@ -58,7 +58,7 @@ lillois — Karim. Je vais lui écrire en français ! »*
 ### B. Vocabulaire des projets
 
 - *un correspondant · un échange · une classe-projet ·
-  un voyage scolaire · un défi · une ambition.*
+ un voyage scolaire · un défi · une ambition.*
 
 ### C. Présentation d'Anouk (texte original)
 
@@ -68,7 +68,7 @@ lillois — Karim. Je vais lui écrire en français ! »*
 > Cette année en 8e, j'ai 3 projets :
 > 1. **Correspondre** avec Karim, un Lillois de mon âge.
 > 2. **Visiter** ma tante Soraya à Tunis l'été prochain — elle
->    est architecte là-bas.
+> est architecte là-bas.
 > 3. **Lire** *Le Petit Prince* en français.
 >
 > Et toi, quels sont tes projets ?
@@ -121,11 +121,11 @@ A et B se présentent en début de 8e : 1 souvenir d'été (PC) +
 - [ ] Je connais le cast (Karim, Soraya).
 - [ ] Je dialogue de la rentrée en 8 répliques.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (8 P.)** : présentation Anouk, 4 questions.
 **Tâche 2 — Conjugaison (10 P.)** : 8 verbes, 3 temps.
-**Tâche 3 — Schreiben (12 P.)** : votre rentrée (~100 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre rentrée (~100 mots).
 
 **Total : 30 P.**
 
@@ -143,9 +143,9 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 - **« Correspondant »** = Brieffreund / penfriend.
 - **« Échange »** ≠ *Wechsel*. C'est *Austausch*.
 - **« Tante Soraya »** sans majuscule à *Tante* dans le texte
-  courant.
+ courant.
 
 ## Pour aller plus loin
 
 - **Sites de correspondance pour ados** :
-  <https://www.epals.com/>
+ <https://www.epals.com/>

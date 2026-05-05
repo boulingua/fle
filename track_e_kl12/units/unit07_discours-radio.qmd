@@ -1,14 +1,14 @@
 ---
 title: "Unité 7 — Discours et radio (France Inter)"
-subtitle: "Parcours E (Gymnasium) · Klasse 12 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 7
 slug: "discours-radio"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - hör_hörsehverstehen
   - sprechen_monolog
@@ -25,7 +25,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 :::
 
 {{< downloads >}}
@@ -38,7 +38,7 @@ format:
 
 ## Histoire d'introduction
 
-Théodore : *« Préparons l'oral d'Abitur. France Inter
+Théodore : *« Préparons l'oral d'épreuve finale. France Inter
 publie chaque matin un édito de 3 minutes. C'est le format
 parfait. »*
 
@@ -52,13 +52,13 @@ parfait. »*
 
 ### A. Codes de l'éditorial radio
 
-| Code           | Détail                              |
+| Code | Détail |
 |----------------|--------------------------------------|
-| **rythme**     | 150 mots / minute en moyenne        |
-| **phrases**    | courtes (<15 mots) majoritaires     |
-| **adresse**    | « vous », « nous » directs          |
-| **chute**      | mot fort + virgule + signature      |
-| **identification**| nom + chronique + heure          |
+| **rythme** | 150 mots / minute en moyenne |
+| **phrases** | courtes (<15 mots) majoritaires |
+| **adresse** | « vous », « nous » directs |
+| **chute** | mot fort + virgule + signature |
+| **identification**| nom + chronique + heure |
 
 ### B. 6 grands éditorialistes francophones
 
@@ -148,12 +148,12 @@ courtes.
 - [ ] Je tiens 3 min en lecture-radio.
 - [ ] Je rédige 450 mots oralisables.
 
-## Exemple d'épreuve — Abitur Lf (E)
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E)
 
 **Tâche 1 — Hörverstehen (10 P.)** : édito Anouk,
 5 questions.
 **Tâche 2 — Codes (8 P.)** : 4 identifications.
-**Tâche 3 — Schreiben (12 P.)** : votre édito (~450 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre édito (~450 mots).
 
 **Total : 30 P.**
 
@@ -169,14 +169,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« 150 mots / min »** : norme professionnelle radio.
-  Pour 3 min = 450 mots.
+ Pour 3 min = 450 mots.
 - **« Toustes »** : écriture inclusive *tous + toutes*,
-  fréquente en radio jeune.
+ fréquente en radio jeune.
 - **« Pour France Inter »** : signature consacrée, à imiter.
 
 ## Pour aller plus loin
 
 - **France Inter — éditos podcast** :
-  <https://www.radiofrance.fr/franceinter>
+ <https://www.radiofrance.fr/franceinter>
 - **France Culture — La méthode scientifique** :
-  <https://www.radiofrance.fr/franceculture>
+ <https://www.radiofrance.fr/franceculture>

@@ -1,14 +1,14 @@
 ---
-title: "Unité 12 — Bilan : fin de la Mittlere Reife"
-subtitle: "Parcours G+M · Klasse 10 · Niveau M"
+title: "Unité 12 — Bilan : fin de la diplôme intermédiaire"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 12
 slug: "bilan-fin-de-mittlere-reife"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -53,17 +53,17 @@ les livres lus.
 
 ### A. Bilan CECRL — niveau visé B1
 
-| Compétence              | Indicateur B1                       |
+| Compétence | Indicateur B1 |
 |-------------------------|-------------------------------------|
-| Compréhension écrite    | comprendre un article de presse     |
-| Expression écrite       | rédiger une lettre, une tribune     |
-| Compréhension orale     | comprendre un podcast simple        |
-| Expression orale        | discours de 3 min, débat            |
-| Médiation               | médier un texte allemand            |
+| Compréhension écrite (« Leseverstehen ») | comprendre un article de presse |
+| Expression écrite (« Schreiben ») | rédiger une lettre, une tribune |
+| Compréhension orale (« Hören ») | comprendre un podcast simple |
+| Expression orale (« Sprechen ») | discours de 3 min, débat |
+| Médiation | médier un texte allemand |
 
 ### B. Portfolio à présenter
 
-1. **DELF B1** (passage en 11ᵉ pour les Gymnasium).
+1. **DELF B1** (passage en 11ᵉ pour les lycée (« Gymnasium »)).
 2. **3 lectures** marquantes (extrait + avis).
 3. **2 projets** (Praktikum, échange OFAJ, tribune…).
 4. **Auto-évaluation** sur les 5 compétences.
@@ -151,11 +151,11 @@ Utilisez **2 figures de style** + **5 connecteurs**.
 - [ ] Je présente mon portfolio.
 - [ ] Je rédige une lettre d'adieu de 250 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : lettre de Léa, 5 questions.
 **Tâche 2 — Auto-évaluation (5 P.)** : grille CECRL.
-**Tâche 3 — Schreiben (15 P.)** : votre lettre (~250 mots).
+**Tâche 3 — Expression écrite (15 P.)** : votre lettre (~250 mots).
 
 **Total : 30 P.**
 
@@ -170,16 +170,16 @@ Produire 13' · Réfléchir 1' · Aperçu 2'.
 
 ## Pièges fréquents
 
-- **« Mittlere Reife »** = fin de la 10ᵉ (équivalent du brevet
-  des collèges + CAP en France).
+- **« diplôme intermédiaire (« Mittlerer Bildungsabschluss ») »** = fin de la 10ᵉ (équivalent du brevet
+ des collèges + CAP en France).
 - **DELF B1** : 4 épreuves (lire, écrire, écouter, parler) —
-  100 points, 50/100 minimum.
+ 100 points, 50/100 minimum.
 - **« Le français n'est plus une matière »** = phrase-typique
-  d'un bilan d'apprentissage abouti.
+ d'un bilan d'apprentissage abouti.
 
 ## Pour aller plus loin
 
 - **DELF / DALF — France Éducation international** :
-  <https://www.france-education-international.fr/>
-- **Aperçu Kl. 11 G+M (BW)** : tronc commun jusqu'à
-  l'Abitur (parcours E continue).
+ <https://www.france-education-international.fr/>
+- **Aperçu cl. 11 G+M ** : tronc commun jusqu'à
+ l'épreuve finale (« Abitur ») (parcours E continue).

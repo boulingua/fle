@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 8"
-subtitle: "Discussion sur stimulus visuel · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 8"
+subtitle: "Discussion sur stimulus visuel · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la description (Unité 8, texte C). Répondez :
 
@@ -23,7 +23,7 @@ Lisez la description (Unité 8, texte C). Répondez :
 Reliez :
 
 - premier plan · arrière-plan · contre-jour · plan américain
-  · chiaroscuro · cadrage · centre · décor
+ · chiaroscuro · cadrage · centre · décor
 
 (Définitions : devant · derrière · lumière de face · hauteur
 hanche · clair-obscur · découpe · milieu · environnement.)
@@ -42,12 +42,12 @@ photo Mollat / photo manifestation climat), rédigez :
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Termes            | 8       |
-| Tâche 3 — Description       | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Termes | 8 |
+| Tâche 3 — Description | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -64,4 +64,4 @@ adopté »* (Ben Jelloun).
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 8*

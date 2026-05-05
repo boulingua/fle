@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 5"
-subtitle: "Amis et conflits · Klasse 7 · Niveau E"
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 5"
+subtitle: "Amis et conflits · classe 7 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez la lettre d'Anouk (Unité 5, texte C). Répondez :
 
@@ -30,7 +30,7 @@ Remplacez le complément par un pronom COD.
 7. Il connaît Inès et Léa. → Il ___ connaît.
 8. Léa a oublié son sac. → Elle ___ a oublié.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez une **lettre de réconciliation** en **120 mots** :
 nom du conflit + 2 sentiments + 1 action concrète + 2 pronoms
@@ -38,12 +38,12 @@ COD.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Pronoms COD       | 10      |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Pronoms COD | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ COD.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 5*

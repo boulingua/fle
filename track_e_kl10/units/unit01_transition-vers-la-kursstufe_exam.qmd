@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 1"
-subtitle: "Transition vers la Kursstufe · Klasse 10 · Niveau E"
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 1"
+subtitle: "Transition vers la cycle terminal · classe 10 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la lettre d'Anouk (Unité 1, texte C). Répondez :
 
@@ -27,7 +27,7 @@ Conjuguez :
 3. Tu ___ (viser) un Erasmus.
 4. Vous ___ (s'investir) en cours de littérature.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre lettre de motivation** (Lf ou Bf) au comité
 d'orientation (~180 mots) : 3 § + 5 verbes d'engagement + 4
@@ -35,12 +35,12 @@ futurs simples + 2 formules de politesse.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Verbes engagement | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Verbes engagement | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -55,4 +55,4 @@ futurs simples + 2 formules de politesse.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 1*

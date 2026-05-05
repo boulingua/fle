@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 11"
-subtitle: "Un projet solidaire · Klasse 8 · Niveau M"
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 11"
+subtitle: "Un projet solidaire · classe 8 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 8
+## Devoir surveillé — Niveau M, classe 8
 
 ### Tâche 1 — Lecture + vocabulaire (10 P.)
 
@@ -27,9 +27,9 @@ grâce à**.
 2. La fête est réussie. Beaucoup de parents sont venus.
 3. On affiche les résultats. Tous voient ce qu'on a fait.
 4. L'école manque de manuels. On a entendu parler du problème
-   par la prof.
+ par la prof.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Décrivez en ~80 mots **un projet solidaire** que votre classe
 pourrait organiser. Incluez les **4 étapes** : problème ·
@@ -37,19 +37,19 @@ proposition · objectif · suivi.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Lecture           | 10      |
-| Tâche 2 — Grammatik         | 10      |
-| Tâche 3 — Schreiben         | 10      |
-| **Total**                   | **30**  |
+| Tâche 1 — Lecture | 10 |
+| Tâche 2 — Grammatik | 10 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
 **Tâche 1.** 1) Trois élèves par manuel scolaire. 2) 80 manuels
 × 5 € ≈ 400 €. 3) Virement à l'association partenaire. 4)
 L'association envoie une photo + liste des manuels achetés ; on
-l'affiche au collège.
+l'affiche au collège (« Realschule »).
 
 **Tâche 2.** 1) *Nous vendons des gâteaux **pour** aider
 l'école.* / *parce que nous voulons aider l'école.* 2) *La fête
@@ -59,4 +59,4 @@ manque de manuels ; on l'a su **grâce à** la prof.*
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 11*

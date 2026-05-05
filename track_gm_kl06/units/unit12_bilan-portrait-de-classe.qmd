@@ -1,14 +1,14 @@
 ---
 title: "Unité 12 — Bilan : portrait de classe"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 12
 slug: "bilan-portrait-de-classe"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.6 Sprachmittlung"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.6 Médiation linguistique"
 skills_focus:
   - sprechen_monolog
   - sprachmittlung
@@ -34,7 +34,7 @@ format:
 
 - Je dresse le **portrait** de notre classe en français.
 - Je médie une description allemande en français simple.
-- Je clôture l'année Klasse 6 par une présentation orale.
+- Je clôture l'année classe 6 par une présentation orale.
 
 ## Histoire d'introduction
 
@@ -83,7 +83,7 @@ Combien de filles, de garçons ? Quels loisirs ?
 - **Lire 2x** le texte allemand.
 - **Compter / repérer** les chiffres (24, 12, 12, 8, 5).
 - **Reformuler** en français : *Nous sommes / il y a / la
-  majorité …*
+ majorité …*
 
 ## 3. S'entraîner
 
@@ -104,7 +104,7 @@ Combien de filles, de garçons ? Quels loisirs ?
 **Ex. 3 — Mots clés.** Reliez allemand et français :
 
 a) Verein · b) Schüler:innen · c) Mädchen · d) Jungen ·
-   e) Mathelehrer
+ e) Mathelehrer
 
 1. élèves · 2. filles · 3. garçons · 4. club · 5. prof de maths.
 
@@ -134,17 +134,17 @@ dans un autre pays. Inclure :
 - 3 activités fréquentes.
 - 1 chose unique sur votre classe.
 
-## 5. Réfléchir — Bilan Klasse 6
+## 5. Réfléchir — Bilan classe 6
 
 - [ ] Je médie un texte allemand simple en français.
 - [ ] Je présente ma classe en 1-2 minutes.
-- [ ] Je clôture Klasse 6 avec 12 Unités vues : salutations,
-      famille, école, journée, goûts, marché, heure, météo,
-      chambre, loisirs, voyage, portrait de classe.
+- [ ] Je clôture classe 6 avec 12 Unités vues : salutations,
+ famille, école, journée, goûts, marché, heure, météo,
+ chambre, loisirs, voyage, portrait de classe.
 
-## Bilan-Klasse 6
+## Bilan-classe 6
 
-Cette unité **clôt** le cours **Klasse 6 G+M**. Vous savez :
+Cette unité **clôt** le cours **classe 6 G+M**. Vous savez :
 
 - saluer + vous présenter (U1)
 - parler de votre famille (U2)
@@ -159,14 +159,14 @@ Cette unité **clôt** le cours **Klasse 6 G+M**. Vous savez :
 - écrire une carte postale (U11)
 - dresser un portrait de classe (U12)
 
-C'est la base du français A1 à orienté Bildungsplan-BW.
+C'est la base du français A1 à orienté référentiel régional (« Bildungsplan »).
 
-## Exemple d'épreuve — Klassenarbeit BW (M, finale)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M, finale)
 
-**Tâche 1 — Sprachmittlung (15 P.)** : médiation simple du texte
+**Tâche 1 — médiation linguistique (« Sprachmittlung ») (15 P.)** : médiation simple du texte
 allemand B en 3-5 phrases françaises.
 
-**Tâche 2 — Sprechen mündlich (15 P.)** : présentation orale de
+**Tâche 2 — Expression orale (« Sprechen ») mündlich (15 P.)** : présentation orale de
 votre classe (1-2 min) + 1 question du prof.
 
 **Total : 30 P.**
@@ -184,7 +184,7 @@ S'entraîner 12' · Produire 13' · Bilan 3'.
 
 - **« nous sommes 24 »** + nom : *« nous sommes 24 élèves »*.
 - **Médiation = pas de mot à mot.** Repérer les chiffres + idées
-  principales.
+ principales.
 - **« sympa »** est familier — éviter à l'écrit formel.
 
 ## Pour aller plus loin

@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 4"
-subtitle: "Futurs projets · Klasse 8 · Niveau M"
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 4"
+subtitle: "Futurs projets · classe 8 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 8
+## Devoir surveillé — Niveau M, classe 8
 
 ### Tâche 1 — Grammatik / Futur simple (10 P.)
 
@@ -27,7 +27,7 @@ en 4–5 mots**.
 2. *Je (vais habiter / habiterai)* à Paris quand j'aurai 25 ans.
 3. *Attention, tu (vas tomber / tomberas)* — la marche est cassée.
 
-### Tâche 3 — Schreiben (15 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (15 P.)
 
 Écrivez environ **80 mots** sur **vos futurs projets**. Au moins
 **6 verbes au futur simple**, dont **2 irréguliers**. Mentionnez :
@@ -38,12 +38,12 @@ en 4–5 mots**.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Grammatik         | 10      |
-| Tâche 2 — Distinguer        | 5       |
-| Tâche 3 — Schreiben         | 15      |
-| **Total**                   | **30**  |
+| Tâche 1 — Grammatik | 10 |
+| Tâche 2 — Distinguer | 5 |
+| Tâche 3 — Expression écrite | 15 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -66,4 +66,4 @@ voyagerai, aurai, oublierai — 7 verbes, dont* serai *et* aurai
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 4*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 4*

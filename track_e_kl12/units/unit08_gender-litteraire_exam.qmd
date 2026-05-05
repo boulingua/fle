@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 8"
-subtitle: "Gender et littérature contemporaine · Klasse 12 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 8"
+subtitle: "Gender et littérature contemporaine · classe 12 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'extrait *King Kong théorie* (Unité 8, texte C).
 Répondez :
@@ -24,13 +24,13 @@ Répondez :
 Reliez :
 
 - gender · intersectionnalité · patriarcat · queer ·
-  écriture inclusive · empowerment · #MeToo · 4ᵉ vague
+ écriture inclusive · empowerment · #MeToo · 4ᵉ vague
 
 (Définitions : construction sociale · Crenshaw 1989 · système
 masculin · refus des cases · iel/toustes · autonomisation ·
 Hashtag 2017 · vague récente.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez un **dialogue** (~300 mots, 15 répliques) à partir
 d'un extrait gender (Despentes / Édouard Louis) : 4 concepts
@@ -38,12 +38,12 @@ d'un extrait gender (Despentes / Édouard Louis) : 4 concepts
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Concepts          | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Concepts | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -60,4 +60,4 @@ exemple.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 8*

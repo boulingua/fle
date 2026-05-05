@@ -1,14 +1,14 @@
 ---
 title: "Unité 2 — La presse française"
-subtitle: "Parcours E (Gymnasium) · Klasse 10 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 2
 slug: "presse-francaise-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - leseverstehen
   - text_medien
@@ -54,14 +54,14 @@ régional.
 
 ### A. 6 titres + ligne éditoriale
 
-| Titre          | Ligne éditoriale       | Création |
+| Titre | Ligne éditoriale | Création |
 |----------------|-------------------------|----------|
-| Le Monde       | centre-gauche, vesperal| 1944     |
-| Libération     | gauche, contre-pouvoir | 1973     |
-| Le Figaro      | droite libérale        | 1826     |
-| La Croix       | catholique, modéré     | 1880     |
-| L'Équipe       | sport quotidien        | 1946     |
-| Ouest-France   | régional (1ᵉʳ tirage FR)| 1944    |
+| Le Monde | centre-gauche, vesperal| 1944 |
+| Libération | gauche, contre-pouvoir | 1973 |
+| Le Figaro | droite libérale | 1826 |
+| La Croix | catholique, modéré | 1880 |
+| L'Équipe | sport quotidien | 1946 |
+| Ouest-France | régional (1ᵉʳ tirage FR)| 1944 |
 
 ### B. 3 genres journalistiques
 
@@ -73,7 +73,7 @@ régional.
 
 > **Karlsruhe : 200 livres pour Tunis**
 >
-> Ce mardi 4 mars 2026, des élèves de 8e du Gymnasium de
+> Ce mardi 4 mars 2026, des élèves de 8e du lycée (« Gymnasium ») de
 > Karlsruhe ont conclu une **collecte de 200 livres
 > jeunesse** en français.
 >
@@ -127,12 +127,12 @@ Rédigez une **brève d'actualité** sur un événement de votre
 - [ ] Je distingue brève / éditorial / billet.
 - [ ] Je rédige une brève de 120 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : brève Karlsruhe-Tunis,
 5 questions.
 **Tâche 2 — Genres (8 P.)** : 4 textes courts à classer.
-**Tâche 3 — Schreiben (12 P.)** : votre brève (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre brève (~120 mots).
 
 **Total : 30 P.**
 
@@ -149,12 +149,12 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **« Une »** = page principale du journal (féminin).
 - **« Éditorial »** signé par la rédaction = engage la
-  ligne du journal ; *billet* = plus libre.
+ ligne du journal ; *billet* = plus libre.
 - **L'Équipe** : pas un quotidien généraliste mais sportif.
 
 ## Pour aller plus loin
 
 - **Bibliothèque nationale de France — *Gallica* (presse)** :
-  <https://gallica.bnf.fr/>
+ <https://gallica.bnf.fr/>
 - **Le Monde — kiosque pédagogique** :
-  <https://www.lemonde.fr/>
+ <https://www.lemonde.fr/>

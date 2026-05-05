@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 7"
-subtitle: "Vacances en Bretagne · Klasse 7 · Niveau E"
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 7"
+subtitle: "Vacances en Bretagne · classe 7 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
 ### Tâche 1 — Hörverstehen (10 P.)
 
@@ -22,17 +22,17 @@ format:
 
 Reliez :
 
-| Spécialité           | Type                 |
+| Spécialité | Type |
 |----------------------|----------------------|
-| 1. crêpe             | a. plat salé sarrasin |
-| 2. galette           | b. dessert sucré      |
-| 3. cidre             | c. confiserie         |
-| 4. kouign-amann      | d. boisson            |
+| 1. crêpe | a. plat salé sarrasin |
+| 2. galette | b. dessert sucré |
+| 3. cidre | c. confiserie |
+| 4. kouign-amann | d. boisson |
 
 Plus, traduisez : *die Küste · die Gezeiten · die Insel · die
 Burg*.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez un **journal de vacances** de 3 jours en **120 mots**
 (Bretagne ou autre) : météo + 1 visite + 1 spécialité +
@@ -40,12 +40,12 @@ Rédigez un **journal de vacances** de 3 jours en **120 mots**
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Hörverstehen      | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -61,4 +61,4 @@ l'île · le château.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 7*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 7*

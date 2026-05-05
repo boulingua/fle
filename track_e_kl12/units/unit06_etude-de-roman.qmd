@@ -1,14 +1,14 @@
 ---
 title: "Unité 6 — Étude de roman complet (extraits)"
-subtitle: "Parcours E (Gymnasium) · Klasse 12 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 6
 slug: "etude-de-roman"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -25,7 +25,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 :::
 
 {{< downloads >}}
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je connais la **structure** de *L'Étranger* (2 parties, 11
-  chapitres).
+ chapitres).
 - Je rédige une **synthèse de roman** (~400 mots).
 - Je construis une **fiche-bilan** par chapitre clé.
 
@@ -53,15 +53,15 @@ mentale. »*
 
 ### A. *L'Étranger* — structure narrative
 
-| Partie    | Chapitre | Événement-clé                  |
+| Partie | Chapitre | Événement-clé |
 |-----------|----------|---------------------------------|
-| **I**     | 1        | enterrement de la mère          |
-| I         | 2        | vie quotidienne, Marie          |
-| I         | 3-5      | Salamano, Raymond, sortie       |
-| I         | **6**    | **meurtre de l'Arabe**          |
-| **II**    | 1-3      | détention, juge, prison         |
-| II        | 4-5      | procès                          |
-| II        | **6**    | **dernière nuit + révolte**     |
+| **I** | 1 | enterrement de la mère |
+| I | 2 | vie quotidienne, Marie |
+| I | 3-5 | Salamano, Raymond, sortie |
+| I | **6** | **meurtre de l'Arabe** |
+| **II** | 1-3 | détention, juge, prison |
+| II | 4-5 | procès |
+| II | **6** | **dernière nuit + révolte** |
 
 ### B. 5 axes thématiques
 
@@ -132,12 +132,12 @@ intégrées + 3 axes thématiques + 1 lien à un autre roman
 - [ ] J'identifie 5 axes thématiques.
 - [ ] Je rédige une synthèse de 400 mots.
 
-## Exemple d'épreuve — Abitur Lf (E)
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : dernière page,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : dernière page,
 5 questions.
 **Tâche 2 — Structure (8 P.)** : 4 chapitres à associer.
-**Tâche 3 — Schreiben (12 P.)** : synthèse (~400 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : synthèse (~400 mots).
 
 **Total : 30 P.**
 
@@ -153,16 +153,16 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Tendre indifférence du monde »** : oxymore + cœur
-  thématique. À citer **mot pour mot**.
+ thématique. À citer **mot pour mot**.
 - **2 parties symétriques** : I = vie + crime ; II = procès
-  + condamnation. Le **ch. 6** des deux parties est la
-  pointe.
+ + condamnation. Le **ch. 6** des deux parties est la
+ pointe.
 - **« Cris de haine »** : Meursault souhaite le **rejet**
-  pour ne pas être trompé par la pitié.
+ pour ne pas être trompé par la pitié.
 
 ## Pour aller plus loin
 
 - **Albert Camus, *L'Étranger* (Folio classique)** :
-  <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio>
+ <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio>
 - **Cours en ligne — Camus / *Étranger* (BNF)** :
-  <https://gallica.bnf.fr/>
+ <https://gallica.bnf.fr/>

@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 1"
-subtitle: "Le monde du travail (BOGY) · Klasse 9 · Niveau E"
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 1"
+subtitle: "Le monde du travail (stage d'orientation au lycée) · classe 9 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le rapport de stage d'Anouk (Unité 1, texte C). Répondez :
 
@@ -23,13 +23,13 @@ Lisez le rapport de stage d'Anouk (Unité 1, texte C). Répondez :
 Reliez chaque mot à sa définition :
 
 - stage · stagiaire · tuteur · patron · collègue · contrat ·
-  rapport · entreprise
+ rapport · entreprise
 
 (Définitions : période de formation · personne en stage ·
 accompagnateur · chef direct · personne qui travaille avec
 vous · accord écrit · compte rendu · société.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **une journée de stage** (réelle ou imaginaire,
 ~150 mots) : 4 étapes (matin, midi, après-midi, soir) +
@@ -37,12 +37,12 @@ Rédigez **une journée de stage** (réelle ou imaginaire,
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -61,4 +61,4 @@ entreprise = société.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 1*

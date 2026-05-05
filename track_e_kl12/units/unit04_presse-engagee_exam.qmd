@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 4"
-subtitle: "Presse engagée (Le Monde diplomatique) · Klasse 12 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 4"
+subtitle: "Presse engagée (Le Monde diplomatique) · classe 12 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'article *IA : qui en profite ?* (Unité 4, texte C).
 Répondez :
@@ -28,7 +28,7 @@ Identifiez :
 3. Une **citation d'autorité** : ___
 4. La **chute** : ___
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre commentaire** (~400 mots) : 4 § (résumé,
 analyse, position, ouverture) + 4 citations + 2 chiffres +
@@ -36,12 +36,12 @@ analyse, position, ouverture) + 4 citations + 2 chiffres +
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Structure         | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Structure | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ pétrole »* (Acemoglu) · 4) *« Qui décide de l'avenir ? »*
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 4*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 4*

@@ -1,14 +1,14 @@
 ---
 title: "Unité 9 — Ma chambre, ma maison"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 9
 slug: "ma-chambre-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -52,21 +52,21 @@ poster de Tahiti. »*
 
 ### A. 8 pièces
 
-| Français          | Allemand         |
+| Français | Allemand |
 |-------------------|------------------|
-| la chambre        | das Zimmer       |
-| la cuisine        | die Küche        |
-| le salon          | das Wohnzimmer   |
-| la salle de bains | das Badezimmer   |
-| les toilettes     | die Toilette     |
-| le couloir        | der Flur         |
-| le balcon         | der Balkon       |
-| le jardin         | der Garten       |
+| la chambre | das Zimmer |
+| la cuisine | die Küche |
+| le salon | das Wohnzimmer |
+| la salle de bains | das Badezimmer |
+| les toilettes | die Toilette |
+| le couloir | der Flur |
+| le balcon | der Balkon |
+| le jardin | der Garten |
 
 ### B. 8 meubles
 
 - *un lit · une table · une chaise · un bureau · une armoire ·
-  un canapé · une étagère · un tapis.*
+ un canapé · une étagère · un tapis.*
 
 ### C. 6 prépositions
 
@@ -131,11 +131,11 @@ Décrivez **votre chambre** en 6 phrases : taille, 4 meubles,
 - [ ] J'utilise 6 prépositions.
 - [ ] Je décris ma chambre en 6 phrases.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Vocabulaire (10 P.)** : 8 pièces + 8 meubles.
 **Tâche 2 — Prépositions (8 P.)** : 6 phrases à compléter.
-**Tâche 3 — Schreiben (12 P.)** : votre chambre (~70 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre chambre (~70 mots).
 
 **Total : 30 P.**
 
@@ -151,12 +151,12 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Les toilettes »** = pluriel en français (mais 1 seule
-  pièce en général).
+ pièce en général).
 - **« Salle de bains »** ≠ *salle de bain* (la 1ʳᵉ forme est
-  académique).
+ académique).
 - **« Sur la table »** ≠ *« à la table »* (à = pour s'asseoir).
 
 ## Pour aller plus loin
 
 - **Vocabulaire visuel maison (Apprendre.tv5monde)** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

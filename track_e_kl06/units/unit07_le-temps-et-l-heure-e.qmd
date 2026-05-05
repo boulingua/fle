@@ -1,14 +1,14 @@
 ---
 title: "Unité 7 — Le temps et l'heure"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 7
 slug: "le-temps-et-l-heure-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -61,12 +61,12 @@ parapluie demain. »*
 
 ### C. 4 saisons + météo
 
-| Saison      | Mois          | Météo type             |
+| Saison | Mois | Météo type |
 |-------------|---------------|------------------------|
-| le printemps| mars-mai      | il fait doux, il pleut |
-| l'été       | juin-août     | il fait chaud, soleil  |
-| l'automne   | septembre-novembre | il fait frais, vent |
-| l'hiver     | décembre-février | il fait froid, neige |
+| le printemps| mars-mai | il fait doux, il pleut |
+| l'été | juin-août | il fait chaud, soleil |
+| l'automne | septembre-novembre | il fait frais, vent |
+| l'hiver | décembre-février | il fait froid, neige |
 
 ### D. Météo de la semaine (texte original)
 
@@ -123,11 +123,11 @@ température, soleil/pluie/vent, vêtements à prendre.
 - [ ] Je décris le temps.
 - [ ] Je rédige une météo hebdomadaire.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : météo, 5 questions.
 **Tâche 2 — Date (8 P.)** : 6 dates à écrire en lettres.
-**Tâche 3 — Schreiben (12 P.)** : votre météo (~70 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre météo (~70 mots).
 
 **Total : 30 P.**
 
@@ -143,12 +143,12 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« 1ᵉʳ janvier »** = ordinal pour le 1ᵉʳ jour seulement,
-  ensuite cardinaux : *2 février, 14 juillet*.
+ ensuite cardinaux : *2 février, 14 juillet*.
 - **« Mois »** sans article devant : *en janvier, en juillet*.
 - **« Il fait + adjectif »** : *il fait beau / mauvais / chaud
-  / froid*.
+ / froid*.
 
 ## Pour aller plus loin
 
 - **Météo France** :
-  <https://meteofrance.com/>
+ <https://meteofrance.com/>

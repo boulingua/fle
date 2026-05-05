@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 1"
-subtitle: "Écrire sur soi (Annie Ernaux) · Klasse 11 · Niveau E (Abitur Bf)"
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 1"
+subtitle: "Écrire sur soi (Annie Ernaux) · classe 11 · Niveau E (épreuve finale Bf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'extrait *Les Années* (Unité 1, texte C). Répondez :
 
@@ -23,13 +23,13 @@ Lisez l'extrait *Les Années* (Unité 1, texte C). Répondez :
 Reliez chaque genre à sa définition :
 
 - autobiographie · autofiction · récit transpersonnel ·
-  journal intime · mémoires · témoignage
+ journal intime · mémoires · témoignage
 
 (Définitions : « je » + vérité · « je » + fiction · « je » →
 « nous » · au jour le jour · vie publique · expérience
 collective.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 À la manière d'Ernaux, rédigez votre **page d'écriture de
 soi** (~250 mots) : 5 images personnelles + 2 collectives
@@ -37,12 +37,12 @@ soi** (~250 mots) : 5 images personnelles + 2 collectives
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Genres            | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Genres | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -61,4 +61,4 @@ perso · 2 collectives · 1 incipit · 1 chute.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 1*

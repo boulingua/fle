@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 6"
-subtitle: "Podcasts en français · Klasse 9 · Niveau M"
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 6"
+subtitle: "Podcasts en français · classe 9 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 9
+## Devoir surveillé — Niveau M, classe 9
 
 ### Tâche 1 — Hörverstehen (15 P.)
 
@@ -20,32 +20,32 @@ Répondez :
 
 Remplissez la grille **3-2-1** :
 
-| Catégorie         | Réponses |
+| Catégorie | Réponses |
 |-------------------|----------|
-| 3 mots-clés       |          |
-| 2 idées principales |        |
-| 1 avis personnel  |          |
+| 3 mots-clés | |
+| 2 idées principales | |
+| 1 avis personnel | |
 
 ### Tâche 2 — Vocabulaire (5 P.)
 
 Traduisez :
 
 - die Folge (Episode) · der Moderator · das Studio · der Auszug
-  · abonnieren.
+ · abonnieren.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Rédigez un **résumé en 5 phrases** (~80 mots) du podcast :
 titre + sujet + 2 idées-clés + votre avis personnel.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Hörverstehen      | 15      |
-| Tâche 2 — Vocabulaire       | 5       |
-| Tâche 3 — Schreiben         | 10      |
-| **Total**                   | **30**  |
+| Tâche 1 — Hörverstehen | 15 |
+| Tâche 2 — Vocabulaire | 5 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -66,4 +66,4 @@ sujet + 2 idées + avis · 80 mots.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 6*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 6*

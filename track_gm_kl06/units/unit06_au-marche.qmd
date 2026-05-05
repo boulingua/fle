@@ -1,14 +1,14 @@
 ---
 title: "Unité 6 — Au marché"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 6
 slug: "au-marche"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - hör_hörsehverstehen
   - sprechen_dialog
@@ -52,19 +52,19 @@ plaît. »* Hugo sourit : *« Voilà, mademoiselle. Ça fait 1,20 €. »*
 
 ### A. Vocabulaire
 
-| Fruits           | Légumes           |
+| Fruits | Légumes |
 |------------------|-------------------|
-| la pomme         | la tomate         |
-| la banane        | la pomme de terre |
-| la fraise        | la carotte        |
-| l'orange         | la salade         |
-| le raisin        | le poivron        |
+| la pomme | la tomate |
+| la banane | la pomme de terre |
+| la fraise | la carotte |
+| l'orange | la salade |
+| le raisin | le poivron |
 
-| Pain / boulangerie    |
+| Pain / boulangerie |
 |-----------------------|
-| la baguette           |
-| le croissant          |
-| le pain au chocolat   |
+| la baguette |
+| le croissant |
+| le pain au chocolat |
 
 ### B. Mini-dialogue (texte original)
 
@@ -130,14 +130,14 @@ le prix total. Échangez les rôles.
 - [ ] J'utilise *je voudrais · combien · s'il vous plaît*.
 - [ ] Je peux faire un achat simulé.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Hörverstehen (10 P.)** : la prof lit le dialogue B,
 5 questions.
 
 **Tâche 2 — Vocabulaire (10 P.)** : 8 fruits/légumes à traduire.
 
-**Tâche 3 — Sprechen mündlich (10 P.)** : achat simulé en
+**Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)** : achat simulé en
 binôme.
 
 **Total : 30 P.**
@@ -156,9 +156,9 @@ Produire 12' · Réfléchir 3' · Aperçu 4'.
 - **« Je voudrais »** est plus poli que *« Je veux »*.
 - **« combien ça coûte »** ou **« ça fait combien »** — synonymes.
 - **« mademoiselle »** est moins utilisé aujourd'hui ; on dit
-  *« madame »* ou rien.
+ *« madame »* ou rien.
 
 ## Pour aller plus loin
 
 - **TV5 Monde — Au marché** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

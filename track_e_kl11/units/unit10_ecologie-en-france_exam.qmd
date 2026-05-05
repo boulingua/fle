@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 10"
-subtitle: "Écologie en France · Klasse 11 · Niveau E (Abitur Bf)"
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 10"
+subtitle: "Écologie en France · classe 11 · Niveau E (épreuve finale Bf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le dialogue Anouk/Mehdi (Unité 10, texte C). Répondez :
 
@@ -23,14 +23,14 @@ Lisez le dialogue Anouk/Mehdi (Unité 10, texte C). Répondez :
 Reliez chaque terme à sa définition :
 
 - transition énergétique · neutralité carbone · empreinte ·
-  bilan carbone · convention citoyenne · Green Deal ·
-  lignite · renouvelables
+ bilan carbone · convention citoyenne · Green Deal ·
+ lignite · renouvelables
 
 (Définitions : passage à l'énergie propre · 0 net · CO2
 émis par personne · CO2 d'une organisation · 150 citoyens ·
 plan climat UE · charbon brun · solaire/éolien/hydro.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre dialogue FR/DE sur la transition** (~250
 mots, 12 répliques) : 5 chiffres + 4 termes verts + 1
@@ -38,12 +38,12 @@ citation + 1 conditionnel.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -58,4 +58,4 @@ conditionnel.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 10*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 10*

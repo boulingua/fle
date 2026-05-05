@@ -1,14 +1,14 @@
 ---
 title: "Unité 4 — Ma journée"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 4
 slug: "ma-journee-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je conjugue **5 verbes pronominaux** : *se lever, se laver,
-  s'habiller, se brosser, se coucher*.
+ s'habiller, se brosser, se coucher*.
 - Je dis l'**heure** simple.
 - Je raconte ma journée en 8 phrases.
 
@@ -52,14 +52,14 @@ brosse les dents, s'habille. À 7h45, le bus.
 
 ### A. 5 verbes pronominaux (présent)
 
-| Pronom    | se lever      | se brosser les dents |
+| Pronom | se lever | se brosser les dents |
 |-----------|---------------|----------------------|
-| je        | me lève       | me brosse les dents  |
-| tu        | te lèves      | te brosses           |
-| il/elle   | se lève       | se brosse            |
-| nous      | nous levons   | nous brossons        |
-| vous      | vous levez    | vous brossez         |
-| ils/elles | se lèvent     | se brossent          |
+| je | me lève | me brosse les dents |
+| tu | te lèves | te brosses |
+| il/elle | se lève | se brosse |
+| nous | nous levons | nous brossons |
+| vous | vous levez | vous brossez |
+| ils/elles | se lèvent | se brossent |
 
 ### B. L'heure (simple)
 
@@ -126,11 +126,11 @@ Décrivez **votre journée** en 8 phrases : 5 verbes pronominaux
 - [ ] Je dis l'heure.
 - [ ] Je raconte ma journée en 8 phrases.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Conjugaison (10 P.)** : 8 verbes pronominaux.
 **Tâche 2 — Heure (8 P.)** : écrire 8 horaires.
-**Tâche 3 — Schreiben (12 P.)** : votre journée (~80 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre journée (~80 mots).
 
 **Total : 30 P.**
 
@@ -146,11 +146,11 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Je me lave »** = Je nettoie mon corps. *« Je lave la
-  voiture »* = sans pronom (action sur autre chose).
+ voiture »* = sans pronom (action sur autre chose).
 - **« Et demie »** s'accorde au féminin (*heure* féminin).
 - **Midi / minuit** : pas d'article (*il est midi*).
 
 ## Pour aller plus loin
 
 - **TV5 Monde — La journée d'un Français** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

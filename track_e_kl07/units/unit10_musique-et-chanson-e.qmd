@@ -1,14 +1,14 @@
 ---
 title: "Unité 10 — Musique et chanson francophones"
-subtitle: "Parcours E (Gymnasium) · Klasse 7 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 10
 slug: "musique-et-chanson-e"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - hör_hörsehverstehen
   - text_medien
@@ -52,18 +52,18 @@ Céline est québécoise — mais chante en français pour le monde. »*
 
 ### A. 5 artistes francophones
 
-| Artiste            | Pays              | Style       |
+| Artiste | Pays | Style |
 |--------------------|-------------------|-------------|
-| Céline Dion        | Québec (CA)       | pop / chanson |
-| Stromae            | Belgique          | électro / rap |
-| Aya Nakamura       | France (Mali)     | R'n'B / pop |
-| Magic System       | Côte d'Ivoire     | zouglou     |
-| Saad Lamjarred     | Maroc             | pop arabe / FR |
+| Céline Dion | Québec (CA) | pop / chanson |
+| Stromae | Belgique | électro / rap |
+| Aya Nakamura | France (Mali) | R'n'B / pop |
+| Magic System | Côte d'Ivoire | zouglou |
+| Saad Lamjarred | Maroc | pop arabe / FR |
 
 ### B. 6 styles
 
 - *la chanson · la pop · le rap · le R'n'B · le hip-hop · la
-  musique du monde.*
+ musique du monde.*
 
 ### C. *« Papaoutai »* — Stromae (extrait, texte original)
 
@@ -92,7 +92,7 @@ Céline est québécoise — mais chante en français pour le monde. »*
 **Ex. 2 — Vocabulaire.** Quel style ?
 
 a) Céline Dion · b) Aya Nakamura · c) Stromae · d) Magic
-   System · e) Saad Lamjarred.
+ System · e) Saad Lamjarred.
 
 **Ex. 3 — Goûts.** J'aime / je n'aime pas + pourquoi.
 
@@ -123,13 +123,13 @@ artiste + pays + style + 2 émotions ressenties + votre avis.
 - [ ] Je nomme 6 styles.
 - [ ] Je comprends/résume une chanson simple.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Hörverstehen (10 P.)** : *Papaoutai* extrait,
 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 6 styles + 2 termes
 musique.
-**Tâche 3 — Schreiben (12 P.)** : votre clip (~80 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre clip (~80 mots).
 
 **Total : 30 P.**
 
@@ -151,6 +151,6 @@ S'entraîner 11' · Produire 11' · Réfléchir 2'.
 ## Pour aller plus loin
 
 - **Stromae — chaîne officielle** :
-  <https://www.youtube.com/@StromaeOfficiel>
+ <https://www.youtube.com/@StromaeOfficiel>
 - **Céline Dion — site officiel** :
-  <https://www.celinedion.com/>
+ <https://www.celinedion.com/>

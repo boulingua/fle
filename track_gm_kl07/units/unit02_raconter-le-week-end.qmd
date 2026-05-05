@@ -1,15 +1,15 @@
 ---
 title: "Unité 2 — Raconter le week-end (passé composé)"
-subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 2
 slug: "raconter-le-week-end"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel — Grammatik"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -56,44 +56,44 @@ le passé composé est lancé ! »*
 
 **avoir + participe passé** *(la majorité des verbes)*
 
-| Pronom    | parler         | finir         |
+| Pronom | parler | finir |
 |-----------|----------------|---------------|
-| j'        | ai parlé       | ai fini       |
-| tu        | as parlé       | as fini       |
-| il/elle   | a parlé        | a fini        |
-| nous      | avons parlé    | avons fini    |
-| vous      | avez parlé     | avez fini     |
-| ils/elles | ont parlé      | ont fini      |
+| j' | ai parlé | ai fini |
+| tu | as parlé | as fini |
+| il/elle | a parlé | a fini |
+| nous | avons parlé | avons fini |
+| vous | avez parlé | avez fini |
+| ils/elles | ont parlé | ont fini |
 
 **être + participe passé** *(verbes de mouvement + se …)*
 
-| Pronom    | aller (m/f)        | venir (m/f)         |
+| Pronom | aller (m/f) | venir (m/f) |
 |-----------|--------------------|---------------------|
-| je        | suis allé(e)       | suis venu(e)        |
-| tu        | es allé(e)         | es venu(e)          |
-| il/elle   | est allé(e)        | est venu(e)         |
-| nous      | sommes allé(e)s    | sommes venu(e)s     |
+| je | suis allé(e) | suis venu(e) |
+| tu | es allé(e) | es venu(e) |
+| il/elle | est allé(e) | est venu(e) |
+| nous | sommes allé(e)s | sommes venu(e)s |
 
 ### B. Les 14 verbes avec *être*
 
 > **Maison d'être** (mnémotechnique pour mémoriser) :
 
-| Verbe       | Participe passé   |
+| Verbe | Participe passé |
 |-------------|-------------------|
-| aller       | allé              |
-| venir       | venu              |
-| arriver     | arrivé            |
-| partir      | parti             |
-| entrer      | entré             |
-| sortir      | sorti             |
-| monter      | monté             |
-| descendre   | descendu          |
-| naître      | né                |
-| mourir      | mort              |
-| rester      | resté             |
-| tomber      | tombé             |
-| retourner   | retourné          |
-| passer      | passé             |
+| aller | allé |
+| venir | venu |
+| arriver | arrivé |
+| partir | parti |
+| entrer | entré |
+| sortir | sorti |
+| monter | monté |
+| descendre | descendu |
+| naître | né |
+| mourir | mort |
+| rester | resté |
+| tomber | tombé |
+| retourner | retourné |
+| passer | passé |
 
 ### C. Mini-récit (texte original)
 
@@ -156,12 +156,12 @@ passé composé** dont **1 avec *être*** (aller, partir, arriver…).
 - [ ] Je distingue les 14 verbes avec *être*.
 - [ ] J'écris un récit de week-end de 5 phrases.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Grammatik (12 P.)** : 8 phrases au passé composé
 (mélange avoir/être).
 **Tâche 2 — Lecture (8 P.)** : récit de Léa (C).
-**Tâche 3 — Schreiben (10 P.)** : votre week-end (~70 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : votre week-end (~70 mots).
 
 **Total : 30 P.**
 
@@ -177,14 +177,14 @@ Produire 10' · Réfléchir 2' · Aperçu 3'.
 ## Pièges fréquents
 
 - **Avec *être*** : le participe passé s'accorde avec le sujet.
-  *Léa est all**ée***, *Théo et moi sommes part**is***.
+ *Léa est all**ée***, *Théo et moi sommes part**is***.
 - **Verbes de mouvement** : *aller, venir, partir, arriver,
-  entrer, sortir, monter, descendre, rester, tomber, naître,
-  mourir, retourner, passer*.
+ entrer, sortir, monter, descendre, rester, tomber, naître,
+ mourir, retourner, passer*.
 - **Avoir** par défaut pour les verbes transitifs : *J'ai mangé
-  une pomme.*
+ une pomme.*
 
 ## Pour aller plus loin
 
 - **Le Point du FLE — Passé composé** :
-  <https://www.lepointdufle.net/>
+ <https://www.lepointdufle.net/>

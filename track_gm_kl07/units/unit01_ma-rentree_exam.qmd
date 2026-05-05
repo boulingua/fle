@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (M) — Unité 1"
-subtitle: "Ma rentrée · Klasse 7 · Niveau M"
+title: "devoir surveillé FLE — classe 7 (M) — Unité 1"
+subtitle: "Ma rentrée · classe 7 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 7
+## Devoir surveillé — Niveau M, classe 7
 
 ### Tâche 1 — Lecture (10 P.) : dialogue Léa-Théo (Unité 1, B)
 
@@ -16,12 +16,12 @@ format:
 4. Combien de phrases dit Théo ?
 5. Que veut dire *« avoir l'air sympa »* ?
 
-### Tâche 2 — Sprechen mündlich (10 P.)
+### Tâche 2 — Expression orale (« Sprechen ») mündlich (10 P.)
 
 Avec un·e camarade : dialogue de rentrée (~1 min). 3 questions
 + réponses : vacances · profs · sentiment.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Écrivez **~50 mots** sur votre rentrée : sentiment · 1 prof ·
 1 nouveauté.
@@ -35,4 +35,4 @@ Avec un·e camarade : dialogue de rentrée (~1 min). 3 questions
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau M · Unité 1*

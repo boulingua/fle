@@ -1,14 +1,14 @@
 ---
 title: "Unité 12 — Bilan : 11e"
-subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 12
 slug: "bilan-classe-11"
 bildungsplan:
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - schreiben
   - sprechen_monolog
@@ -33,9 +33,9 @@ format:
 ## Objectifs
 
 - Je dresse mon **bilan de 11e** (analyse littéraire,
-  argumentation, médiation académique).
+ argumentation, médiation académique).
 - Je projette **3 priorités** pour la 12e (préparation
-  Abitur).
+ épreuve finale).
 - Je rédige une **note de bilan** (~280 mots).
 
 ## Histoire d'introduction
@@ -55,22 +55,22 @@ sur Camus en 12e. »*
 
 ### A. 4 axes du bilan 11e
 
-| Axe                      | Acquis-clé 11e Bf                  |
+| Axe | Acquis-clé 11e Bf |
 |--------------------------|-------------------------------------|
-| Analyse littéraire       | Ernaux, Slimani — focalisation,    |
-|                          | rythme, registre                    |
-| Argumentation TAS        | dissertation 400 mots              |
-| Médiation académique     | article scientifique DE → FR       |
-| Voix francophones        | Beauvoir, NDiaye, Ben Jelloun…     |
+| Analyse littéraire | Ernaux, Slimani — focalisation, |
+| | rythme, registre |
+| Argumentation TAS | dissertation 400 mots |
+| Médiation académique | article scientifique DE → FR |
+| Voix francophones | Beauvoir, NDiaye, Ben Jelloun… |
 
 ### B. 3 priorités pour la 12e
 
 1. **Camus** + analyse stylistique (lecture suivie de
-   *L'Étranger*).
-2. **Abitur écrit** : entraînement régulier (Verstehen +
-   Schreiben).
-3. **Kommunikationsprüfung** : oraux préparés (5 min +
-   discussion).
+ *L'Étranger*).
+2. **épreuve finale écrit** : entraînement régulier (Verstehen +
+ Expression écrite (« Schreiben »)).
+3. **épreuve communicative (« Kommunikationsprüfung »)** : oraux préparés (5 min +
+ discussion).
 
 ### C. Note de bilan d'Anouk (texte original, ~280 mots)
 
@@ -95,11 +95,11 @@ sur Camus en 12e. »*
 >
 > Pour la **12e**, mes 3 priorités sont :
 > 1. **Camus**, *L'Étranger* — j'attaque dès l'été.
-> 2. **Abitur écrit** : 1 mock par mois.
-> 3. **Kommunikationsprüfung** : 5 min sur Senghor +
->    discussion.
+> 2. **épreuve finale écrit** : 1 mock par mois.
+> 3. **épreuve communicative** : 5 min sur Senghor +
+> discussion.
 >
-> Je vise un **B2 solide → C1 accessible** et un Abitur
+> Je vise un **B2 solide → C1 accessible** et un épreuve finale
 > Bf au-dessus de **12 points** (note allemande). Et je
 > partirai en Erasmus à **Lille** au printemps 2029, chez
 > Karim — comme prévu depuis la 8e.
@@ -116,7 +116,7 @@ sur Camus en 12e. »*
 **Ex. 2 — Auto-évaluation (4 axes).** Notez sur 5 :
 
 - Analyse littéraire : ___ · Argumentation TAS : ___ ·
-  Médiation académique : ___ · Voix francophones : ___ .
+ Médiation académique : ___ · Voix francophones : ___.
 
 **Ex. 3 — Plan 12e.** Listez **3 actions** concrètes pour
 juillet-août.
@@ -124,14 +124,14 @@ juillet-août.
 ::: {.callout-tip collapse="true" title="Solutions"}
 
 **Ex. 1.** 1) Ernaux, Ben Jelloun, Slimani, Beauvoir. 2)
-13/20. 3) Camus + Abitur écrit + Kommunikationsprüfung.
+13/20. 3) Camus + épreuve finale écrit + épreuve communicative.
 4) B2 solide → C1.
 
 **Ex. 2.** Réponses libres.
 
 **Ex. 3.** Réponses libres. Modèle : *(1) Lire L'Étranger
 en juillet · (2) Réviser le subjonctif passé · (3) Préparer
-le sujet de Kommunikationsprüfung sur Senghor.*
+le sujet de épreuve communicative sur Senghor.*
 
 :::
 
@@ -141,7 +141,7 @@ le sujet de Kommunikationsprüfung sur Senghor.*
 
 Rédigez **votre note de bilan 11e Bf** : 4 axes + 3
 priorités 12e + 4 références (autrice + œuvre + année) +
-1 objectif chiffré (CECRL ou note Abitur).
+1 objectif chiffré (CECRL ou note épreuve finale).
 
 ## 5. Réfléchir
 
@@ -149,11 +149,11 @@ priorités 12e + 4 références (autrice + œuvre + année) +
 - [ ] Je projette 3 priorités 12e.
 - [ ] Je rédige 280 mots structurés.
 
-## Exemple d'épreuve — Abitur Bf (E)
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : note Anouk, 5 questions.
 **Tâche 2 — Références (8 P.)** : 4 autrices/œuvres/années.
-**Tâche 3 — Schreiben (12 P.)** : votre bilan (~280 mots).
+**Tâche 3 — Expression écrite (12 P.)** : votre bilan (~280 mots).
 
 **Total : 30 P.**
 
@@ -169,13 +169,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Mock »** = examen blanc (anglicisme accepté en
-  contexte scolaire BW).
-- **Note allemande Abitur** : sur 15 points (≠ 20 français).
-  *« 12 points »* = environ 14/20 français.
+ contexte scolaire local).
+- **Note allemande épreuve finale** : sur 15 points (≠ 20 français).
+ *« 12 points »* = environ 14/20 français.
 - **« Synthèse molle »** = défaut classique : ne pas
-  « concilier » mais **dépasser**.
+ « concilier » mais **dépasser**.
 
 ## Pour aller plus loin
 
-- **Aperçu Kl. 12 E (Lf si choisi, sinon poursuite Bf)** :
-  [Klasse 12 — index](../../track_e_kl12/index.qmd)
+- **Aperçu cl. 12 E (Lf si choisi, sinon poursuite Bf)** :
+ [classe 12 — index](../../track_e_kl12/index.qmd)

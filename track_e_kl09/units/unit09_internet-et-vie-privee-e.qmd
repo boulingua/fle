@@ -1,14 +1,14 @@
 ---
 title: "Unité 9 — Internet et vie privée"
-subtitle: "Parcours E (Gymnasium) · Klasse 9 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 9
 slug: "internet-et-vie-privee-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - leseverstehen
   - sprechen_dialog
@@ -35,7 +35,7 @@ format:
 - Je comprends les **5 droits numériques** (RGPD).
 - Je connais **8 mots** d'identité numérique.
 - Je dialogue **10 répliques** sur le respect de la vie
-  privée.
+ privée.
 
 ## Histoire d'introduction
 
@@ -54,19 +54,19 @@ tu connais ? »*
 
 ### A. RGPD : 5 droits numériques en France/UE
 
-| Droit                | En clair                              |
+| Droit | En clair |
 |----------------------|----------------------------------------|
-| droit d'accès        | savoir ce qu'on a sur toi              |
-| droit de rectification| corriger les erreurs                  |
-| droit à l'oubli      | demander la suppression                |
-| droit à la portabilité| reprendre ses données                 |
-| droit d'opposition   | refuser le traitement (pub ciblée…)    |
+| droit d'accès | savoir ce qu'on a sur toi |
+| droit de rectification| corriger les erreurs |
+| droit à l'oubli | demander la suppression |
+| droit à la portabilité| reprendre ses données |
+| droit d'opposition | refuser le traitement (pub ciblée…) |
 
 ### B. 8 mots d'identité numérique
 
 - *un compte · un·e abonné·e · un·e follower · un·e
-  influenceur·euse · les cookies · le mot de passe · le
-  pseudo · l'empreinte numérique.*
+ influenceur·euse · les cookies · le mot de passe · le
+ pseudo · l'empreinte numérique.*
 
 ### C. Article CNIL ado (texte original, simplifié)
 
@@ -131,11 +131,11 @@ droits RGPD + 1 conditionnel + 1 question ouverte.
 - [ ] J'utilise 8 mots d'identité numérique.
 - [ ] Je dialogue 10 répliques.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : article CNIL, 5 questions.
 **Tâche 2 — Conditionnel (8 P.)** : 4 conseils.
-**Tâche 3 — Schreiben (12 P.)** : votre dialogue (~140 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dialogue (~140 mots).
 
 **Total : 30 P.**
 
@@ -151,15 +151,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **RGPD** = règlement européen ; en allemand c'est
-  *DSGVO*. Les deux ont **les mêmes 5 droits**.
+ *DSGVO*. Les deux ont **les mêmes 5 droits**.
 - **« Privée »** : dans *vie privée* avec **e** (féminin) ;
-  dans *compte privé* sans accent.
+ dans *compte privé* sans accent.
 - **« Mot de passe »** : pluriel = *mots de passe* (deux *s*
-  uniquement à *mots*).
+ uniquement à *mots*).
 
 ## Pour aller plus loin
 
 - **CNIL — espace ado** :
-  <https://www.cnil.fr/fr/cnil-direct/jeunes>
+ <https://www.cnil.fr/fr/cnil-direct/jeunes>
 - **Internet sans crainte** :
-  <https://www.internetsanscrainte.fr/>
+ <https://www.internetsanscrainte.fr/>

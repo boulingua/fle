@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 9"
-subtitle: "Internet et vie privée · Klasse 9 · Niveau E"
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 9"
+subtitle: "Internet et vie privée · classe 9 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'article CNIL (Unité 9, texte C). Répondez :
 
@@ -27,7 +27,7 @@ Reformulez ces conseils avec un **conditionnel** :
 3. *Demande l'effacement de tes photos.* → Tu ___
 4. *Lis les conditions générales.* → Tu ___
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez un **dialogue** (~140 mots, 10 répliques) entre vous
 et un·e ami·e sur le partage en ligne : 5 conseils + 3 droits
@@ -35,12 +35,12 @@ RGPD + 1 conditionnel + 1 question ouverte.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Conditionnel      | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Conditionnel | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ répliques · 5 conseils · 3 droits · 1 conditionnel.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 9*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 9*

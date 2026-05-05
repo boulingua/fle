@@ -1,15 +1,15 @@
 ---
 title: "Unité 3 — Mon école"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 3
 slug: "mon-ecole"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -54,25 +54,25 @@ allemand ! »*
 
 ### A. Vocabulaire — matières scolaires
 
-| Français       | Allemand           |
+| Français | Allemand |
 |----------------|--------------------|
-| les maths      | Mathe              |
-| le français    | Französisch        |
-| l'allemand     | Deutsch            |
-| l'anglais      | Englisch           |
-| le sport       | Sport              |
-| la musique     | Musik              |
-| les arts       | Kunst              |
-| les sciences   | Naturwissenschaften|
+| les maths | Mathe |
+| le français | Französisch |
+| l'allemand | Deutsch |
+| l'anglais | Englisch |
+| le sport | Sport |
+| la musique | Musik |
+| les arts | Kunst |
+| les sciences | Naturwissenschaften|
 
 ### B. Emploi du temps de Léa (texte original)
 
-| Heure   | Lundi      | Mardi   | Mercredi | Jeudi    | Vendredi |
+| Heure | Lundi | Mardi | Mercredi | Jeudi | Vendredi |
 |---------|------------|---------|----------|----------|----------|
-| 8h-9h   | maths      | sport   | français | allemand | anglais  |
-| 9h-10h  | français   | maths   | sport    | maths    | sciences |
-| 10h-11h | allemand   | musique | maths    | français | arts     |
-| 11h-12h | anglais    | français| anglais  | sport    | musique  |
+| 8h-9h | maths | sport | français | allemand | anglais |
+| 9h-10h | français | maths | sport | maths | sciences |
+| 10h-11h | allemand | musique | maths | français | arts |
+| 11h-12h | anglais | français| anglais | sport | musique |
 
 ### C. Phrases-clés
 
@@ -137,9 +137,9 @@ matière préférée.
 - [ ] Je lis un emploi du temps français.
 - [ ] J'écris un emploi du temps de 4 lignes.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Leseverstehen (10 P.)**
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)**
 
 Lisez l'emploi du temps de Léa (B). 5 questions vrai/faux + une
 question ouverte (Quelles matières le mardi ?).
@@ -148,7 +148,7 @@ question ouverte (Quelles matières le mardi ?).
 
 Traduisez 8 matières dans les deux sens.
 
-**Tâche 3 — Schreiben (10 P.)**
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)**
 
 Décrivez votre lundi (50 mots, 4 matières + heures).
 
@@ -166,14 +166,14 @@ Produire 10' · Réfléchir 3' · Aperçu 4'.
 ## Pièges fréquents
 
 - **« le français »** = la matière. **« en français »** = la
-  langue.
+ langue.
 - **« j'ai maths »** sans article (langue parlée). À l'écrit
-  formel : *j'ai un cours de maths*.
+ formel : *j'ai un cours de maths*.
 - **L'heure** : *à 8 heures*, *à midi*, *à 14 heures*.
 
 ## Pour aller plus loin
 
 - **TV5 Monde — Le Collège** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>
 - **Eduscol — système scolaire français** :
-  <https://eduscol.education.fr/>
+ <https://eduscol.education.fr/>

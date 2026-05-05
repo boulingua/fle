@@ -6,8 +6,6 @@ aliases:
   - /privacy/
 ---
 
-# Datenschutzerklärung
-
 ## 1. Verantwortlicher
 
 Verantwortliche Stelle im Sinne der Datenschutz-Grundverordnung
@@ -55,11 +53,11 @@ Vorgang auf:
 
 - **Art. 6 Abs. 1 lit. a DSGVO** — Einwilligung,
 - **Art. 6 Abs. 1 lit. b DSGVO** — Vertrag bzw. vorvertragliche
-  Maßnahmen,
+ Maßnahmen,
 - **Art. 6 Abs. 1 lit. f DSGVO** — berechtigte Interessen
-  (insbesondere stabiler Betrieb, Sicherheit, statistische
-  Reichweitenmessung, urheberrechtliche
-  Vergütungsansprüche).
+ (insbesondere stabiler Betrieb, Sicherheit, statistische
+ Reichweitenmessung, urheberrechtliche
+ Vergütungsansprüche).
 
 ### Empfänger und Übermittlung in Drittländer
 
@@ -144,7 +142,7 @@ Ihr Browser automatisch übermittelt:
 - Hostname des zugreifenden Rechners,
 - Uhrzeit der Serveranfrage,
 - IP-Adresse (im Rahmen der GitHub-Sicherheits- und
-  Missbrauchsanalyse).
+ Missbrauchsanalyse).
 
 Eine Zusammenführung dieser Daten mit anderen Datenquellen wird
 durch die Verantwortliche dieser Website **nicht** vorgenommen.
@@ -288,16 +286,16 @@ Im Hinblick auf die Verarbeitung Ihrer personenbezogenen Daten
 stehen Ihnen folgende Rechte zu:
 
 - **Auskunft** über die zu Ihrer Person gespeicherten Daten
-  (Art. 15 DSGVO),
+ (Art. 15 DSGVO),
 - **Berichtigung** unrichtiger Daten (Art. 16),
 - **Löschung** Ihrer Daten (Art. 17),
 - **Einschränkung der Verarbeitung** (Art. 18),
 - **Datenübertragbarkeit** (Art. 20),
 - **Widerspruch** gegen die Verarbeitung (Art. 21),
 - **Widerruf** erteilter Einwilligungen mit Wirkung für die
-  Zukunft (Art. 7 Abs. 3),
+ Zukunft (Art. 7 Abs. 3),
 - **Beschwerde** bei einer Datenschutz-Aufsichtsbehörde
-  (Art. 77).
+ (Art. 77).
 
 Zur Wahrnehmung dieser Rechte wenden Sie sich an die unter
 Abschnitt 1 genannte Verantwortliche.

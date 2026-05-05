@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 9"
-subtitle: "Mémoire et traumatisme (Modiano) · Klasse 12 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 9"
+subtitle: "Mémoire et traumatisme (Modiano) · classe 12 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'ouverture de *Dora Bruder* (Unité 9, texte C).
 Répondez :
@@ -24,26 +24,26 @@ Répondez :
 Reliez :
 
 - archive · trace · Paris occupé · enquête · mémoire trouée
-  · voix juive disparue · narrateur-détective · description
-  physique
+ · voix juive disparue · narrateur-détective · description
+ physique
 
 (Définitions : document trouvé · indice · ville-décor 1940-44
 · *retrouver* · creux mémoriel · Dora · Modiano lui-même ·
 manteau gris/pull bordeaux.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre mini-enquête mémorielle** (~400 mots) :
 1 nom oublié + 1 archive citée + 4 traces + interprétation.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Motifs            | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Motifs | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -58,4 +58,4 @@ d'enfance de Modiano.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 9*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 9*

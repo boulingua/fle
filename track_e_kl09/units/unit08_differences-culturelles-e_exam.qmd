@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 8"
-subtitle: "Différences culturelles franco-allemandes · Klasse 9 · Niveau E"
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 8"
+subtitle: "Différences culturelles franco-allemandes · classe 9 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la fiche-comparaison (Unité 8, texte C). Répondez :
 
@@ -27,7 +27,7 @@ Reformulez avec *certain·e·s, beaucoup, la plupart, tous·tes* :
 3. 50 % des Allemands font le hug → ___
 4. 25 % des Français vouvoient leurs profs → ___
 
-### Tâche 3 — Sprachmittlung (12 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (12 P.)
 
 Médiez ces 3 phrases en français (~140 mots cumulés) :
 
@@ -37,12 +37,12 @@ Médiez ces 3 phrases en français (~140 mots cumulés) :
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Modalisation      | 8       |
-| Tâche 3 — Sprachmittlung    | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Modalisation | 8 |
+| Tâche 3 — médiation linguistique | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -61,4 +61,4 @@ bises pour saluer.*
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 8*

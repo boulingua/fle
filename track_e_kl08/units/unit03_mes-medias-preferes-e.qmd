@@ -1,14 +1,14 @@
 ---
 title: "Unité 3 — Mes médias préférés"
-subtitle: "Parcours E (Gymnasium) · Klasse 8 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 3
 slug: "mes-medias-preferes-e"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - sprechen_dialog
   - text_medien
@@ -53,13 +53,13 @@ ce moment ? »* Anouk hésite — entre **Lupin** (Netflix), un
 ### A. 8 verbes d'opinion
 
 - *trouver, penser, préférer, adorer, détester, aimer, croire,
-  recommander.*
+ recommander.*
 - Construction : *Je trouve que c'est …* / *Je préfère X à Y.*
 
 ### B. Vocabulaire des médias
 
 - *une série · un épisode · une saison · un podcast · une
-  chaîne · un·e youtubeur·euse · le replay · l'actualité.*
+ chaîne · un·e youtubeur·euse · le replay · l'actualité.*
 
 ### C. Dialogue Karim ↔ Anouk (texte original)
 
@@ -123,11 +123,11 @@ podcast + 1 chaîne YouTube + **3 verbes d'opinion** différents
 - [ ] Je connais 8 mots des médias.
 - [ ] Je dialogue 8 répliques sur les goûts médiatiques.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (8 P.)** : dialogue Karim/Anouk, 4 questions.
 **Tâche 2 — Verbes d'opinion (10 P.)** : 5 mini-phrases.
-**Tâche 3 — Schreiben (12 P.)** : dialogue (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : dialogue (~120 mots).
 
 **Total : 30 P.**
 
@@ -149,6 +149,6 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pour aller plus loin
 
 - **Arte radio — *Les Odyssées* (France Inter)** :
-  <https://www.radiofrance.fr/franceinter/podcasts/les-odyssees>
+ <https://www.radiofrance.fr/franceinter/podcasts/les-odyssees>
 - **HugoDécrypte (chaîne YouTube actu)** :
-  <https://www.youtube.com/@HugoDecrypte>
+ <https://www.youtube.com/@HugoDecrypte>

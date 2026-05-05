@@ -1,14 +1,14 @@
 ---
-title: "Unité 10 — Argumenter en public (Kommunikationsprüfung)"
-subtitle: "Parcours E (Gymnasium) · Klasse 12 · Niveau E"
+title: "Unité 10 — Argumenter en public (épreuve communicative)"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 10
 slug: "argumenter-en-public"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - sprechen_monolog
   - sprechen_dialog
@@ -25,22 +25,22 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 :::
 
 {{< downloads >}}
 
 ## Objectifs
 
-- Je connais le **format Kommunikationsprüfung** Lf (5 +
-  10 min).
+- Je connais le **format épreuve communicative (« Kommunikationsprüfung »)** Lf (5 +
+ 10 min).
 - Je présente un **dossier** + soutiens un **dialogue
-  argumentatif**.
+ argumentatif**.
 - Je connais **6 stratégies** pour rebondir en discussion.
 
 ## Histoire d'introduction
 
-Le **Kommunikationsprüfung** approche. Théodore : *« 5 min
+Le **épreuve communicative** approche. Théodore : *« 5 min
 de monologue préparé, 10 min de dialogue avec deux
 examinateurs. Préparons-nous comme à un grand oral. »*
 
@@ -52,19 +52,19 @@ examinateurs. Préparons-nous comme à un grand oral. »*
 
 ## 2. Apporter
 
-### A. Format Kommunikationsprüfung Lf BW
+### A. Format épreuve communicative Lf
 
-| Phase                 | Durée   | Détail                          |
+| Phase | Durée | Détail |
 |-----------------------|---------|----------------------------------|
-| Préparation           | 30 min  | choix sujet + plan              |
-| **Monologue**         | **5 min** | présentation préparée         |
-| **Dialogue**          | **10 min**| questions + débat            |
-| **Évaluation**        | 0 min   | grille CECRL B2-C1              |
+| Préparation | 30 min | choix sujet + plan |
+| **Monologue** | **5 min** | présentation préparée |
+| **Dialogue** | **10 min**| questions + débat |
+| **Évaluation** | 0 min | grille CECRL B2-C1 |
 
 ### B. 6 stratégies de rebond en dialogue
 
 1. **Reformuler** : *« Si je comprends bien, vous me
-   demandez … »*
+ demandez … »*
 2. **Demander une précision** : *« Pouvez-vous préciser ? »*
 3. **Concéder puis nuancer** : *« Certes, mais … »*
 4. **Donner un exemple concret** : *« Prenons par exemple … »*
@@ -164,13 +164,13 @@ préparées.
 - [ ] J'utilise 6 stratégies de rebond.
 - [ ] Je tiens 15 min en français à l'oral.
 
-## Exemple d'épreuve — Kommunikationsprüfung Lf (E)
+## Exemple d'épreuve — épreuve communicative Lf (E)
 
 **Phase 1 — Monologue (15 P.)** : 5 min sur sujet préparé.
 **Phase 2 — Dialogue (15 P.)** : 10 min de questions /
 débat.
 
-**Total : 30 P.** (note allemande sur 15 points BW)
+**Total : 30 P.** (note allemande sur 15 points (barème officiel))
 
 ## Téléchargements {#downloads}
 
@@ -184,15 +184,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« 5 + 10 min »** : ne pas dépasser le monologue (les
-  examinateurs coupent).
+ examinateurs coupent).
 - **« Concéder puis nuancer »** : ne PAS s'écraser ; on
-  garde une position.
+ garde une position.
 - **« Comme l'écrit Camus »** : citer **mot pour mot**, pas
-  reformuler.
+ reformuler.
 
 ## Pour aller plus loin
 
-- **Bildungsplan BW Kommunikationsprüfung** :
-  <https://www.bildungsplaene-bw.de/>
+- **référentiel (« Bildungsplan ») épreuve communicative** :
+ <https://www.bildungsplaene-bw.de/>
 - **Léopold Sédar Senghor (Académie française)** :
-  <https://www.academie-francaise.fr/>
+ <https://www.academie-francaise.fr/>

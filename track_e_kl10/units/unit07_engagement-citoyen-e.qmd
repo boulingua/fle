@@ -1,14 +1,14 @@
 ---
 title: "Unité 7 — Engagement citoyen des jeunes"
-subtitle: "Parcours E (Gymnasium) · Klasse 10 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 7
 slug: "engagement-citoyen-e"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_dialog
   - schreiben
@@ -34,7 +34,7 @@ format:
 
 - Je connais **5 formes d'engagement** des jeunes en France.
 - Je dialogue **10 répliques** sur l'engagement (climat,
-  associations, vote).
+ associations, vote).
 - Je rédige une **tribune** d'opinion (~180 mots).
 
 ## Histoire d'introduction
@@ -54,18 +54,18 @@ chez vous, comment ça marche ? »* Anouk décrit une marche du
 
 ### A. 5 formes d'engagement (jeunes en FR)
 
-| Forme                    | Détail                          |
+| Forme | Détail |
 |--------------------------|----------------------------------|
-| militer                  | Fridays for Future, etc.         |
-| s'engager dans une asso  | Secours pop., Restos du cœur     |
-| voter (dès 18 ans)       | présidentielles, législatives    |
-| service civique          | 6-12 mois, 580 € / mois         |
-| pétition / consultation  | en ligne, mairie, lycée          |
+| militer | Fridays for Future, etc. |
+| s'engager dans une asso | Secours pop., Restos du cœur |
+| voter (dès 18 ans) | présidentielles, législatives |
+| service civique | 6-12 mois, 580 € / mois |
+| pétition / consultation | en ligne, mairie, lycée (« Gymnasium ») |
 
 ### B. Verbes pour exprimer l'engagement
 
 - *militer · s'engager · pétitionner · manifester · soutenir
-  · sensibiliser · voter · agir · revendiquer · défendre.*
+ · sensibiliser · voter · agir · revendiquer · défendre.*
 
 ### C. Tribune d'Anouk (texte original)
 
@@ -138,11 +138,11 @@ connecteurs + 5 verbes d'engagement + 1 citation.
 - [ ] J'utilise 6 verbes d'engagement.
 - [ ] Je rédige une tribune de 180 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : tribune Anouk, 5 questions.
 **Tâche 2 — Verbes (8 P.)** : 4 conjugaisons d'engagement.
-**Tâche 3 — Schreiben (12 P.)** : votre tribune (~180 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre tribune (~180 mots).
 
 **Total : 30 P.**
 
@@ -158,15 +158,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Militer »** ≠ *manifester* : militer = engagement
-  durable ; manifester = défiler dans la rue.
+ durable ; manifester = défiler dans la rue.
 - **Vote à 18 ans** en France et en Allemagne ; certaines
-  élections municipales (DE) à 16 ans (Brandenburg, NRW…).
+ élections municipales (DE) à 16 ans (Brandenburg, NRW…).
 - **« Tribune »** = texte d'opinion signé dans un journal,
-  ≠ *éditorial* (signé par la rédaction).
+ ≠ *éditorial* (signé par la rédaction).
 
 ## Pour aller plus loin
 
 - **Service Civique (FR)** :
-  <https://www.service-civique.gouv.fr/>
+ <https://www.service-civique.gouv.fr/>
 - **Fridays for Future Deutschland** :
-  <https://fridaysforfuture.de/>
+ <https://fridaysforfuture.de/>

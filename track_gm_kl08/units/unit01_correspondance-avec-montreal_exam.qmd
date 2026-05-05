@@ -1,20 +1,20 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 1"
-subtitle: "Correspondance avec Montréal · Klasse 8 · Niveau M"
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 1"
+subtitle: "Correspondance avec Montréal · classe 8 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 8
+## Devoir surveillé — Niveau M, classe 8
 
 ::: {.callout-warning}
-Format Klassenarbeit BW (niveau M), durée ~45 min. Texte
+Format devoir surveillé (« Klassenarbeit ») (niveau M), durée ~45 min. Texte
 stimulus original ; aucun extrait de manuel ou d'épreuve publié
 n'a été reproduit.
 :::
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le courriel d'Inès Tremblay, élève à Montréal.
 
@@ -37,42 +37,42 @@ Lisez le courriel d'Inès Tremblay, élève à Montréal.
 Décidez : **vrai (V)** ou **faux (F)** ? Justifiez par une
 citation courte du texte.
 
-|   | Affirmation                                                      | V | F | Citation |
+| | Affirmation | V | F | Citation |
 |---|------------------------------------------------------------------|:-:|:-:|----------|
-| 1 | Inès habite dans une grande ville canadienne.                    | ☐ | ☐ |          |
-| 2 | Inès joue au hockey comme son frère.                             | ☐ | ☐ |          |
-| 3 | Sa mère travaille dans un hôpital pour enfants.                  | ☐ | ☐ |          |
-| 4 | Inès aime l'improvisation théâtrale.                             | ☐ | ☐ |          |
-| 5 | Au Québec, certains mots ont un sens différent qu'en France.     | ☐ | ☐ |          |
+| 1 | Inès habite dans une grande ville canadienne. | ☐ | ☐ | |
+| 2 | Inès joue au hockey comme son frère. | ☐ | ☐ | |
+| 3 | Sa mère travaille dans un hôpital pour enfants. | ☐ | ☐ | |
+| 4 | Inès aime l'improvisation théâtrale. | ☐ | ☐ | |
+| 5 | Au Québec, certains mots ont un sens différent qu'en France. | ☐ | ☐ | |
 
-### Tâche 2 — Sprachmittlung (5 P.)
+### Tâche 2 — médiation linguistique (« Sprachmittlung ») (5 P.)
 
 Vous écrivez une note rapide en allemand pour votre mère, qui
 ne lit pas le français. Résumez en **3 phrases** ce qu'Inès
 raconte de sa semaine.
 
-### Tâche 3 — Schreiben (15 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (15 P.)
 
 Vous êtes Léa. Répondez à Inès dans un courriel d'environ **80
 mots**. Mentionnez :
 
 - votre **âge** et votre **ville**,
 - **deux activités** de votre semaine (par exemple lundi et
-  mercredi),
+ mercredi),
 - **une question** à Inès sur le Québec.
 
-## Notation indicative (BW Niveau M)
+## Notation indicative (Niveau M)
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Sprachmittlung    | 5       |
-| Tâche 3 — Schreiben         | 15      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — médiation linguistique | 5 |
+| Tâche 3 — Expression écrite | 15 |
+| **Total** | **30** |
 
-**Notenschlüssel typique BW** :
+**barème de notes (« Notenschlüssel ») typique** :
 
-- 1 (sehr gut) ≥ 27 P.
+- 1 (très bien) ≥ 27 P.
 - 2 (gut) ≥ 23 P.
 - 3 (befriedigend) ≥ 18 P.
 - 4 (ausreichend) ≥ 14 P.
@@ -94,4 +94,4 @@ Improvisation. Abends fährt sie mit der U-Bahn nach Hause.*
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 1*

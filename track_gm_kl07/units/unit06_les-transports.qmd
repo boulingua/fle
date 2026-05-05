@@ -1,14 +1,14 @@
 ---
 title: "Unité 6 — Les transports"
-subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 6
 slug: "les-transports"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
   - hoerverstehen
   - wortschatz
@@ -52,16 +52,16 @@ courent sur le quai.
 
 ### A. Vocabulaire — moyens de transport
 
-| Français       | Allemand      |
+| Français | Allemand |
 |----------------|---------------|
-| le train       | der Zug       |
-| le TGV         | der Hochgeschwindigkeitszug |
-| la voiture     | das Auto      |
-| le bus         | der Bus       |
-| le tram        | die Straßenbahn |
-| le métro       | die U-Bahn    |
-| le vélo        | das Fahrrad   |
-| l'avion        | das Flugzeug  |
+| le train | der Zug |
+| le TGV | der Hochgeschwindigkeitszug |
+| la voiture | das Auto |
+| le bus | der Bus |
+| le tram | die Straßenbahn |
+| le métro | die U-Bahn |
+| le vélo | das Fahrrad |
+| l'avion | das Flugzeug |
 
 ### B. *en* ou *à* ?
 
@@ -87,7 +87,7 @@ courent sur le quai.
 
 ## 3. S'entraîner
 
-**Ex. 1 — Compréhension orale (texte C).** Vrai ou faux ?
+**Ex. 1 — Compréhension orale (« Hören ») (texte C).** Vrai ou faux ?
 
 1. Le TGV part à 9h22.
 2. Le TGV va à Lyon.
@@ -131,11 +131,11 @@ transport, durée, ce que vous voyez. Utilisez **2 fois** *en/à*.
 - [ ] J'utilise *en* / *à* correctement.
 - [ ] Je comprends une annonce de gare.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Hörverstehen (10 P.)** : annonce + dialogue, 6 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 transports à traduire.
-**Tâche 3 — Schreiben (12 P.)** : votre trajet (~80 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre trajet (~80 mots).
 
 **Total : 30 P.**
 
@@ -151,11 +151,11 @@ Produire 11' · Réfléchir 2' · Aperçu 3'.
 ## Pièges fréquents
 
 - **« en avion »** mais **« à pied »** (logique :
-  fermé/ouvert).
+ fermé/ouvert).
 - **TGV** = *Train à Grande Vitesse*. Prononcé *té-jé-vé*.
 - **Voie** (Gleis), **quai** (Bahnsteig), **gare** (Bahnhof).
 
 ## Pour aller plus loin
 
 - **SNCF Connect** :
-  <https://www.sncf-connect.com/>
+ <https://www.sncf-connect.com/>

@@ -1,14 +1,14 @@
 ---
 title: "Unité 5 — Lecture suivie : *Le Petit Nicolas* (extraits)"
-subtitle: "Parcours E (Gymnasium) · Klasse 9 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 5
 slug: "le-petit-nicolas"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - leseverstehen
   - text_medien
@@ -54,16 +54,16 @@ Soraya en a un poster.
 
 ### A. Auteurs et contexte
 
-| Auteur                  | Rôle             | Né-Mort       |
+| Auteur | Rôle | Né-Mort |
 |-------------------------|------------------|---------------|
-| René Goscinny           | scénariste/écriv.| 1926-1977     |
-| Jean-Jacques Sempé      | dessinateur      | 1932-2022     |
-| Première publication    | 1959 (presse)    | 1960 (livre)  |
+| René Goscinny | scénariste/écriv.| 1926-1977 |
+| Jean-Jacques Sempé | dessinateur | 1932-2022 |
+| Première publication | 1959 (presse) | 1960 (livre) |
 
 ### B. Vocabulaire « école années 60 »
 
 - *la classe · le cartable · la blouse · la récré · le
-  maître · la maîtresse · le surveillant · le bulletin.*
+ maître · la maîtresse · le surveillant · le bulletin.*
 
 ### C. Extrait — *« On a eu l'inspecteur »* (texte original)
 
@@ -126,11 +126,11 @@ PC + imparfait + 1 réplique au discours direct.
 - [ ] Je distingue PC / imparfait dans un récit.
 - [ ] Je rédige une suite de 150 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : extrait, 5 questions.
 **Tâche 2 — Imparfait/PC (8 P.)** : 6 verbes à classer.
-**Tâche 3 — Schreiben (12 P.)** : suite du chapitre
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : suite du chapitre
 (~150 mots).
 
 **Total : 30 P.**
@@ -147,14 +147,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Petit Nicolas »** : forme adjectivale (« petit »)
-  toujours après *le*, jamais *Le Nicolas Petit*.
+ toujours après *le*, jamais *Le Nicolas Petit*.
 - **Imparfait** = description / habitude ; **PC** = action
-  ponctuelle. Goscinny les mêle dans le récit.
+ ponctuelle. Goscinny les mêle dans le récit.
 - **« Récré »** = abréviation de *récréation* (familier OK).
 
 ## Pour aller plus loin
 
 - **Site officiel *Le Petit Nicolas*** :
-  <https://www.petitnicolas.com/>
+ <https://www.petitnicolas.com/>
 - **Goscinny.net (archives)** :
-  <https://www.goscinny.net/>
+ <https://www.goscinny.net/>

@@ -1,14 +1,14 @@
 ---
 title: "Unité 3 — Vie démocratique en France"
-subtitle: "Parcours G+M · Klasse 10 · Niveau M"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 3
 slug: "vie-democratique"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - leseverstehen
   - sprechen_monolog
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je connais les **3 institutions** clés (Président, Assemblée,
-  Sénat).
+ Sénat).
 - Je situe les **élections** principales et leurs dates.
 - Je présente **3 différences** France-Allemagne (institutions).
 
@@ -54,11 +54,11 @@ compliqué… »*
 
 ### A. 3 institutions
 
-| Institution           | Membres | Élu(e)s ?              | Mandat |
+| Institution | Membres | Élu(e)s ? | Mandat |
 |-----------------------|---------|------------------------|--------|
-| Président de la Rép.  | 1       | suffrage universel     | 5 ans  |
-| Assemblée nationale   | 577     | suffrage universel     | 5 ans  |
-| Sénat                 | 348     | grands électeurs       | 6 ans  |
+| Président de la Rép. | 1 | suffrage universel | 5 ans |
+| Assemblée nationale | 577 | suffrage universel | 5 ans |
+| Sénat | 348 | grands électeurs | 6 ans |
 
 ### B. 4 élections
 
@@ -69,12 +69,12 @@ compliqué… »*
 
 ### C. France vs. Allemagne
 
-| Aspect              | France                | Allemagne              |
+| Aspect | France | Allemagne |
 |---------------------|----------------------|------------------------|
-| Régime              | semi-présidentiel    | parlementaire fédéral  |
-| Chef de l'État      | Président élu        | Bundespräsident (élu indirect) |
-| Chef du gouvernement| Premier ministre     | Bundeskanzler (Bundestag) |
-| Chambre haute       | Sénat                | Bundesrat (Länder)     |
+| Régime | semi-présidentiel | parlementaire fédéral |
+| Chef de l'État | Président élu | Bundespräsident (élu indirect) |
+| Chef du gouvernement| Premier ministre | Bundeskanzler (Bundestag) |
+| Chambre haute | Sénat | Bundesrat (Länder) |
 
 ### D. Texte (texte original)
 
@@ -137,13 +137,13 @@ exemple concret.
 - [ ] Je connais les 4 élections principales.
 - [ ] Je présente 3 différences FR-DE.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : texte sur la Vᵉ République,
 5 questions.
 **Tâche 2 — Comparatif (8 P.)** : tableau France/Allemagne à
 compléter.
-**Tâche 3 — Schreiben (12 P.)** : présentation des institutions
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : présentation des institutions
 (~150 mots).
 
 **Total : 30 P.**
@@ -160,14 +160,14 @@ Produire 11' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Le Président de la République »** ≠ Premier ministre. Le
-  premier dirige l'État, le second le gouvernement.
+ premier dirige l'État, le second le gouvernement.
 - **« Le Sénat »** existe en France ET en Allemagne (Bundesrat),
-  mais avec des modes d'élection différents.
+ mais avec des modes d'élection différents.
 - **Vᵉ République** s'écrit avec un V majuscule.
 
 ## Pour aller plus loin
 
 - **Vie publique** :
-  <https://www.vie-publique.fr/>
+ <https://www.vie-publique.fr/>
 - **Bundeszentrale für politische Bildung** :
-  <https://www.bpb.de/>
+ <https://www.bpb.de/>

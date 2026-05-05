@@ -1,14 +1,14 @@
 ---
 title: "Unité 2 — Francophonie postcoloniale"
-subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 2
 slug: "francophonie-postcoloniale"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - leseverstehen
   - text_medien
@@ -33,10 +33,10 @@ format:
 ## Objectifs
 
 - Je comprends la **francophonie postcoloniale** comme
-  héritage et tension.
+ héritage et tension.
 - Je découvre **Tahar Ben Jelloun** et **Marie NDiaye**.
 - Je rédige une **mini-dissertation** sur la langue comme
-  héritage (~300 mots).
+ héritage (~300 mots).
 
 ## Histoire d'introduction
 
@@ -55,17 +55,17 @@ postcoloniale. »*
 
 ### A. 4 voix postcoloniales (focus E)
 
-| Auteur·e          | Pays / origine        | Œuvre clé             |
+| Auteur·e | Pays / origine | Œuvre clé |
 |-------------------|------------------------|------------------------|
-| Tahar Ben Jelloun | Maroc                  | *La Nuit sacrée* (1987)|
-| Marie NDiaye      | France/Sénégal         | *Trois femmes puissantes* (2009) |
-| Kamel Daoud       | Algérie                | *Meursault, contre-enquête* (2014) |
-| Maryse Condé      | Guadeloupe             | *Moi, Tituba sorcière* (1986) |
+| Tahar Ben Jelloun | Maroc | *La Nuit sacrée* (1987)|
+| Marie NDiaye | France/Sénégal | *Trois femmes puissantes* (2009) |
+| Kamel Daoud | Algérie | *Meursault, contre-enquête* (2014) |
+| Maryse Condé | Guadeloupe | *Moi, Tituba sorcière* (1986) |
 
 ### B. 5 concepts postcoloniaux
 
 - *colonisation · décolonisation · diaspora · créolité ·
-  hybridité culturelle.*
+ hybridité culturelle.*
 
 ### C. Extrait *Le racisme expliqué à ma fille* (texte original)
 
@@ -143,12 +143,12 @@ conclusion) + 2 références (Ben Jelloun, NDiaye, Condé) +
 - [ ] J'utilise 5 concepts (colonisation, hybridité…).
 - [ ] Je rédige une mini-dissertation de 300 mots.
 
-## Exemple d'épreuve — Abitur Bf (E)
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : Ben Jelloun,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : Ben Jelloun,
 5 questions.
 **Tâche 2 — Concepts (8 P.)** : 4 définitions.
-**Tâche 3 — Schreiben (12 P.)** : mini-dissertation
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : mini-dissertation
 (~300 mots).
 
 **Total : 30 P.**
@@ -165,14 +165,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Postcolonial »** sans tiret en français
-  (postcolonialisme).
+ (postcolonialisme).
 - **« Race humaine »** : terme rejeté par les sciences ;
-  Ben Jelloun le déconstruit volontairement.
+ Ben Jelloun le déconstruit volontairement.
 - **NDiaye** : sans accent, en deux mots (*N* + *Diaye*).
 
 ## Pour aller plus loin
 
 - **Tahar Ben Jelloun (site officiel)** :
-  <https://www.taharbenjelloun.org/>
+ <https://www.taharbenjelloun.org/>
 - **Maryse Condé — éditions** :
-  <https://www.editionsdumercuredefrance.fr/>
+ <https://www.editionsdumercuredefrance.fr/>

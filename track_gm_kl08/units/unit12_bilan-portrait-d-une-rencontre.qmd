@@ -1,15 +1,15 @@
 ---
 title: "Unité 12 — Bilan : portrait d'une rencontre"
-subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 12
 slug: "bilan-portrait-d-une-rencontre"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.2 Interkulturelle kommunikative Kompetenz"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.2 Compétence interculturelle communicative"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -35,14 +35,14 @@ format:
 
 - Je dresse le **portrait** d'une rencontre marquante de l'année.
 - Je relie présent (description) + passé composé (événements) +
-  futur simple (suite).
-- Je clôture le cours Klasse 8 par un texte personnel.
+ futur simple (suite).
+- Je clôture le cours classe 8 par un texte personnel.
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.4** Sprechen — monologisches Sprechen.
-- **3.1.3.5** Schreiben.
-- **3.1.2** Interkulturelle kommunikative Kompetenz.
+- **3.1.3.4** Expression orale (« Sprechen ») — monologisches Expression orale.
+- **3.1.3.5** Expression écrite (« Schreiben »).
+- **3.1.2** Compétence interculturelle communicative (« Interkulturelle kommunikative Kompetenz »).
 
 ## Histoire d'introduction
 
@@ -56,7 +56,7 @@ son **portrait**.
 ## 1. Activer
 
 - Quelle est la rencontre francophone la plus marquante de
-  votre année ?
+ votre année ?
 - En quoi a-t-elle changé votre regard ?
 - Que voudriez-vous savoir d'elle dans 5 ans ?
 
@@ -71,7 +71,7 @@ son **portrait**.
 > sa mère (infirmière), son père (déménageur) et son petit
 > frère Olivier (8 ans, joueur de hockey).
 >
-> Je l'ai rencontrée — par écrit — dès l'Unité 1 de Klasse 8.
+> Je l'ai rencontrée — par écrit — dès l'Unité 1 de classe 8.
 > Elle m'a appris que *« écœurant »* veut dire *génial* au
 > Québec. Elle m'a aussi raconté ses matchs d'improvisation
 > théâtrale.
@@ -86,19 +86,19 @@ son **portrait**.
 
 ### B. Trois temps en équilibre
 
-| Fonction               | Temps                         |
+| Fonction | Temps |
 |------------------------|-------------------------------|
 | Description (qui est) | présent (*Inès est, elle vit*) |
-| Événements passés     | passé composé (*je l'ai rencontrée*) |
-| Habitudes / contexte  | imparfait (*elle m'racontait …*) |
-| Futur (suite)         | futur simple (*j'irai, je verrai*) |
+| Événements passés | passé composé (*je l'ai rencontrée*) |
+| Habitudes / contexte | imparfait (*elle m'racontait …*) |
+| Futur (suite) | futur simple (*j'irai, je verrai*) |
 
 ### C. Connecteurs utiles
 
 - **Présentation :** *Voici · Il s'agit de · Cette rencontre est …*
 - **Articulation :** *D'abord · Ensuite · Puis · Enfin*
 - **Réflexion :** *Cela m'a appris que · Pour moi · Plus tard,
-  j'aimerais …*
+ j'aimerais …*
 
 ## 3. S'entraîner
 
@@ -150,20 +150,20 @@ année. Suivez la structure du modèle A :
 
 **Bonus :** présenter à voix haute en 2 minutes pour la classe.
 
-## 5. Réfléchir — Bilan de Klasse 8
+## 5. Réfléchir — Bilan de classe 8
 
 - [ ] Je peux écrire un portrait de ~120 mots avec 3 temps
-      différents.
+ différents.
 - [ ] Je connais les **5 axes** des Unités 1-12 : correspondance,
-      médias, francophonie, futur simple, médiation, Maghreb,
-      sport, voyage culturel, stéréotypes, cinéma québécois,
-      projet solidaire, portrait.
+ médias, francophonie, futur simple, médiation, Maghreb,
+ sport, voyage culturel, stéréotypes, cinéma québécois,
+ projet solidaire, portrait.
 - [ ] Je connais ma cast : Léa, Karim, Madame Renault, Inès,
-      Mehdi, Sandrine, et la dame âgée de Notre-Dame.
+ Mehdi, Sandrine, et la dame âgée de Notre-Dame.
 
-## Bilan-Klasse 8
+## Bilan-classe 8
 
-Cette unité **clôt** le cours **Klasse 8 G+M**. Vous avez :
+Cette unité **clôt** le cours **classe 8 G+M**. Vous avez :
 
 - communiqué avec une correspondante québécoise (U1),
 - analysé vos médias (U2),
@@ -178,9 +178,9 @@ Cette unité **clôt** le cours **Klasse 8 G+M**. Vous avez :
 - proposé un projet solidaire (U11),
 - et — maintenant — dressé le portrait d'une rencontre.
 
-Ce sont les compétences que vous emporterez en Klasse 9.
+Ce sont les compétences que vous emporterez en classe 9.
 
-## Exemple d'épreuve — Klassenarbeit BW (M, finale)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M, finale)
 
 **Tâche unique — Portrait écrit (30 P.)**
 
@@ -188,13 +188,13 @@ Ce sont les compétences que vous emporterez en Klasse 9.
 fictive) en **120-150 mots**. Critères :
 
 - **Structure** (présentation · rencontre · apport · réflexion
-  · projet futur) : 8 P.
+ · projet futur) : 8 P.
 - **Trois temps en équilibre** (présent + passé composé + futur
-  simple) : 10 P.
+ simple) : 10 P.
 - **Vocabulaire et connecteurs** (au moins 4 connecteurs du
-  cours) : 6 P.
+ cours) : 6 P.
 - **Sens fidèle et personnel** (pas de copier-coller du modèle) :
-  6 P.
+ 6 P.
 
 ## Téléchargements {#downloads}
 
@@ -212,14 +212,14 @@ Aperçu 8'.
 ## Pièges fréquents
 
 - **Mélanger trois temps** demande un plan : commencer par le
-  présent (qui est), puis passé composé (rencontre), puis futur
-  simple (projet).
+ présent (qui est), puis passé composé (rencontre), puis futur
+ simple (projet).
 - **« Cela m'a appris que »** + indicatif (pas subjonctif).
 - **Portrait** ≠ description physique seulement : il inclut
-  aussi *ce que la personne représente pour vous*.
+ aussi *ce que la personne représente pour vous*.
 
 ## Pour aller plus loin
 
 - **France Culture — Portraits** :
-  <https://www.radiofrance.fr/franceculture>
+ <https://www.radiofrance.fr/franceculture>
 - **Portraits France Inter** : <https://www.radiofrance.fr/franceinter>

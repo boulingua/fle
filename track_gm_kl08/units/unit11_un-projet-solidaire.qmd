@@ -1,15 +1,15 @@
 ---
 title: "Unité 11 — Un projet solidaire"
-subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 11
 slug: "un-projet-solidaire"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -35,14 +35,14 @@ format:
 
 - Je décris un projet solidaire en 4 étapes.
 - J'utilise *parce que / pour / afin de* pour exprimer la
-  cause et le but.
+ cause et le but.
 - Je présente le projet à un public en 2 minutes.
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.4** Sprechen — monologisches Sprechen.
-- **3.1.3.5** Schreiben.
-- **3.1.1** Soziokulturelles Orientierungswissen / Themen.
+- **3.1.3.4** Expression orale (« Sprechen ») — monologisches Expression orale.
+- **3.1.3.5** Expression écrite (« Schreiben »).
+- **3.1.1** Connaissances socio-culturelles / thèmes (« Soziokulturelles Orientierungswissen / Themen »).
 
 ## Histoire d'introduction
 
@@ -56,7 +56,7 @@ clairement. On va structurer ça. »*
 
 - Avez-vous déjà participé à un projet solidaire ? Lequel ?
 - Quels sont les **avantages** et **risques** d'un projet
-  scolaire à but solidaire ?
+ scolaire à but solidaire ?
 - Comment expliquer un projet en 2 minutes ?
 
 ## 2. Apporter
@@ -68,7 +68,7 @@ clairement. On va structurer ça. »*
 > élèves par livre.
 >
 > **2. La proposition.** Notre classe organise une vente de
-> gâteaux dans le hall du collège, le 17 mai après les cours.
+> gâteaux dans le hall du collège (« Realschule »), le 17 mai après les cours.
 >
 > **3. L'objectif.** Récolter 400 € pour acheter 80 manuels.
 > Chaque manuel coûte environ 5 € sur place.
@@ -79,12 +79,12 @@ clairement. On va structurer ça. »*
 
 ### B. Connecteurs cause + but
 
-| Cause                     | But                              |
+| Cause | But |
 |---------------------------|----------------------------------|
-| *parce que*               | *pour* + infinitif               |
-| *puisque*                 | *afin de* + infinitif            |
-| *à cause de* + nom        | *afin que* + subjonctif          |
-| *grâce à* + nom (positif) | *pour que* + subjonctif          |
+| *parce que* | *pour* + infinitif |
+| *puisque* | *afin de* + infinitif |
+| *à cause de* + nom | *afin que* + subjonctif |
+| *grâce à* + nom (positif) | *pour que* + subjonctif |
 
 **Exemples :**
 
@@ -94,15 +94,15 @@ clairement. On va structurer ça. »*
 
 ### C. Vocabulaire
 
-| Mot                         | Sens                                      |
+| Mot | Sens |
 |-----------------------------|-------------------------------------------|
-| la solidarité               | le fait de soutenir d'autres personnes    |
-| une association             | groupe organisé pour un but commun        |
-| une vente                   | événement où on vend des choses           |
-| récolter (de l'argent)      | rassembler en collectant                  |
-| un manuel scolaire          | livre utilisé en classe                   |
-| un virement (bancaire)      | transfert d'argent                        |
-| un suivi                    | accompagnement après l'événement          |
+| la solidarité | le fait de soutenir d'autres personnes |
+| une association | groupe organisé pour un but commun |
+| une vente | événement où on vend des choses |
+| récolter (de l'argent) | rassembler en collectant |
+| un manuel scolaire | livre utilisé en classe |
+| un virement (bancaire) | transfert d'argent |
+| un suivi | accompagnement après l'événement |
 
 ## 3. S'entraîner
 
@@ -111,9 +111,9 @@ clairement. On va structurer ça. »*
 1. *On organise une vente parce que l'école manque de livres.*
 2. *On vend pour récolter 400 €.*
 3. *Les élèves sont motivés grâce à la correspondance avec
-   Mbour.*
+ Mbour.*
 4. *Madame Renault prépare un communiqué afin d'informer les
-   parents.*
+ parents.*
 
 **Ex. 2 — Compléter le projet.** À partir de A, ajoutez **deux
 phrases** par étape :
@@ -148,7 +148,7 @@ votre classe. Structure :
 
 1. **Problème** que vous voulez aider à résoudre.
 2. **Proposition** concrète (ex : vente, marche solidaire,
-   collecte).
+ collecte).
 3. **Objectif** mesurable (somme, nombre, durée).
 4. **Suivi** : comment on saura que ça a marché.
 
@@ -171,7 +171,7 @@ votre classe. Structure :
 - [ ] Je structure un projet en 4 étapes.
 - [ ] Je peux présenter le projet à voix haute en 2 minutes.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture+vocabulaire (10 P.)**
 
@@ -190,9 +190,9 @@ Reliez les phrases avec **parce que · pour · afin que · grâce à**:
 2. La fête est réussie. Beaucoup de parents sont venus.
 3. On affiche les résultats. Tous voient ce qu'on a fait.
 4. L'école manque de manuels. On a entendu parler du problème
-   par la prof.
+ par la prof.
 
-**Tâche 3 — Schreiben (10 P.)**
+**Tâche 3 — Expression écrite (10 P.)**
 
 Décrivez en ~80 mots **un projet solidaire** que votre classe
 pourrait organiser. Inclure les 4 étapes (problème · proposition
@@ -214,13 +214,13 @@ Produire 25' · Réfléchir 3' · Aperçu 22'.
 ## Pièges fréquents
 
 - **« afin de + infinitif »** vs. **« afin que + subjonctif »** :
-  *Je viens afin **de** voir.* / *Je viens afin **que** tu **voies**.*
+ *Je viens afin **de** voir.* / *Je viens afin **que** tu **voies**.*
 - **« pour »** = simple but ; **« afin de »** = plus formel.
 - **« grâce à »** s'utilise pour une cause **positive** ; **« à
-  cause de »** pour une cause négative ou neutre.
+ cause de »** pour une cause négative ou neutre.
 
 ## Pour aller plus loin
 
 - **Solidarité Laïque** (associations scolaires France) :
-  <https://www.solidarite-laique.org/>
+ <https://www.solidarite-laique.org/>
 - **Croix-Rouge française** : <https://www.croix-rouge.fr/>

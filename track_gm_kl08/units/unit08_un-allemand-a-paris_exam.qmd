@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 8"
-subtitle: "Un·e Allemand·e à Paris · Klasse 8 · Niveau M"
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 8"
+subtitle: "Un·e Allemand·e à Paris · classe 8 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 8
+## Devoir surveillé — Niveau M, classe 8
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez les trois extraits du journal de Léa (Unité 8, texte A).
 Répondez :
@@ -27,7 +27,7 @@ Mettez le verbe au temps qui convient.
 4. Pendant cinq jours, je *(visiter)* _____________ Paris.
 5. Mardi matin, *(commander, je)* _____________ un café crème.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Écrivez **3 mini-extraits de journal** (~70 mots total) sur
 3 jours dans une ville française de votre choix. Utilisez
@@ -36,12 +36,12 @@ culturelle**.
 
 ## Notation
 
-| Tâche                    | Points  |
+| Tâche | Points |
 |--------------------------|--------:|
-| Tâche 1 — Leseverstehen  | 10      |
-| Tâche 2 — Grammatik      | 10      |
-| Tâche 3 — Schreiben      | 10      |
-| **Total**                | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Grammatik | 10 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ précise). 5) j'ai commandé (passé composé, action).
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 8*

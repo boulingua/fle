@@ -1,14 +1,14 @@
 ---
 title: "Unité 4 — Argumenter pour / contre"
-subtitle: "Parcours G+M · Klasse 9 · Niveau M"
+subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 4
 slug: "argumenter-pour-contre"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -33,14 +33,14 @@ format:
 ## Objectifs
 
 - Je structure une **argumentation simple** : thèse–arguments–
-  conclusion.
+ conclusion.
 - J'utilise **5 connecteurs logiques**.
 - Je présente **2 arguments pour, 2 arguments contre**.
 
 ## Histoire d'introduction
 
 En classe, Mme Renault propose un débat : *« Faut-il interdire
-les portables au collège ? »* Léa lève la main : *« Pour : on se
+les portables au collège (« Realschule ») ? »* Léa lève la main : *« Pour : on se
 concentre mieux. Mais contre : c'est utile pour les parents. »*
 
 ## 1. Activer
@@ -56,18 +56,18 @@ concentre mieux. Mais contre : c'est utile pour les parents. »*
 1. **Thèse** : *Je pense que / Selon moi / À mon avis …*
 2. **Arguments pour** (2-3) : *D'abord / Ensuite / De plus …*
 3. **Arguments contre** (1-2) : *Cependant / Toutefois /
-   Néanmoins …*
+ Néanmoins …*
 4. **Conclusion** : *En conclusion / Pour finir / Donc …*
 
 ### B. 5 connecteurs logiques
 
-| Connecteur     | Usage                          |
+| Connecteur | Usage |
 |----------------|--------------------------------|
-| d'abord        | premier argument               |
-| ensuite        | argument suivant               |
-| de plus        | argument supplémentaire        |
-| cependant      | objection / argument contraire |
-| en conclusion  | bilan                          |
+| d'abord | premier argument |
+| ensuite | argument suivant |
+| de plus | argument supplémentaire |
+| cependant | objection / argument contraire |
+| en conclusion | bilan |
 
 ### C. Texte modèle (texte original)
 
@@ -142,11 +142,11 @@ conclusion. **5 connecteurs** au minimum.
 - [ ] J'utilise 5 connecteurs.
 - [ ] J'expose un argument oralement en 2 min.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Leseverstehen (8 P.)** : texte argumenté, 4 questions.
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)** : texte argumenté, 4 questions.
 **Tâche 2 — Connecteurs (10 P.)** : compléter 8 phrases.
-**Tâche 3 — Schreiben (12 P.)** : prise de position (~150 mots,
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : prise de position (~150 mots,
 plan complet).
 
 **Total : 30 P.**
@@ -165,9 +165,9 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 - **« Cependant »** au début de phrase, pas au milieu.
 - **« De plus »** = *außerdem*, pas *zusätzlich*.
 - **Une argumentation** sans thèse claire est faible — toujours
-  commencer par un avis explicite.
+ commencer par un avis explicite.
 
 ## Pour aller plus loin
 
 - **France Culture — Les cours du Collège** :
-  <https://www.radiofrance.fr/franceculture/>
+ <https://www.radiofrance.fr/franceculture/>

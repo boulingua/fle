@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 11"
-subtitle: "Préparer un discours · Klasse 10 · Niveau E"
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 11"
+subtitle: "Préparer un discours · classe 10 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le discours d'Anouk (Unité 11, texte C). Répondez :
 
@@ -23,13 +23,13 @@ Lisez le discours d'Anouk (Unité 11, texte C). Répondez :
 Identifiez la figure :
 
 1. *Cinq ans ensemble. Cinq ans d'apprentissages. Cinq ans
-   d'amitié.* → ___
+ d'amitié.* → ___
 2. *Notre français est devenu **un pont**.* → ___
 3. *Bretagne, Québec, Verdun.* → ___
 4. *« Le français, ce n'est pas une matière — c'est une
-   manière … »* → ___
+ manière … »* → ___
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez votre **discours-cause** (~250 mots) sur un sujet
 au choix : 4 parties + 3 figures + 1 citation + 1 chute
@@ -37,12 +37,12 @@ mémorable.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Figures           | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Figures | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -51,7 +51,7 @@ fait écrire le prénom au tableau, « long voyage ». 3)
 Bretagne, Québec, Verdun, francophonie maghrébine, Aya
 Nakamura (3 au choix). 4) Lf, Bf ou arrêt — le voyage
 continue. 5) *« Bon vent à toustes — et rendez-vous en
-Kursstufe ! »*
+cycle terminal (« Kursstufe ») ! »*
 
 **Tâche 2.** 1) anaphore · 2) métaphore · 3) triade · 4)
 chiasme / chute (citation marquante).
@@ -61,4 +61,4 @@ parties · 3 figures · 1 citation · 1 chute.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 11*

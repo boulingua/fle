@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 2"
-subtitle: "Lettre de motivation · Klasse 9 · Niveau M"
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 2"
+subtitle: "Lettre de motivation · classe 9 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 9
+## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez la lettre de Léa (Unité 2, texte C). Répondez :
 
@@ -23,13 +23,13 @@ Complétez avec les formules adéquates.
 
 1. Salutation : *« _______________, »*.
 2. Pour se présenter : *« Actuellement _______________ classe
-   de 9e, je _______________ par … »*.
+ de 9e, je _______________ par … »*.
 3. Pour solliciter : *« Je me _______________ de vous écrire
-   pour _______________ un stage. »*
+ pour _______________ un stage. »*
 4. Formule finale : *« Je vous prie d'_______________, Madame,
-   Monsieur, mes salutations _______________. »*
+ Monsieur, mes salutations _______________. »*
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre lettre de motivation** en **150 mots** pour un
 stage d'une semaine. Respectez la **structure** (coordonnées,
@@ -38,12 +38,12 @@ signature) et utilisez **3 formules** apprises.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Formules          | 10      |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Formules | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -60,4 +60,4 @@ salutations distinguées. »
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 2*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 2*

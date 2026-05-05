@@ -1,14 +1,14 @@
 ---
 title: "Unité 12 — Bilan : Portrait d'une rencontre"
-subtitle: "Parcours E (Gymnasium) · Klasse 8 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 12
 slug: "bilan-portrait-d-une-rencontre-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -34,7 +34,7 @@ format:
 
 - Je rédige le **portrait** d'une rencontre marquante de la 8e.
 - J'utilise **PC + imparfait + futur simple** dans un même
-  texte.
+ texte.
 - Je rends compte de mes **acquis de 8e** en 3 paragraphes.
 
 ## Histoire d'introduction
@@ -54,11 +54,11 @@ Jonas à Paris, Souad Massi en Algérie, Bachir à Montréal…
 
 ### A. 3 temps en alternance
 
-| Temps         | Usage dans le portrait                     |
+| Temps | Usage dans le portrait |
 |---------------|---------------------------------------------|
-| imparfait     | description, contexte (*il était …*)        |
-| passé composé | actions, faits (*j'ai rencontré …*)         |
-| futur simple  | projet, suite (*je le reverrai …*)          |
+| imparfait | description, contexte (*il était …*) |
+| passé composé | actions, faits (*j'ai rencontré …*) |
+| futur simple | projet, suite (*je le reverrai …*) |
 
 ### B. 6 connecteurs
 
@@ -131,13 +131,13 @@ simple (projet) · **6 connecteurs** + 1 phrase-bilan.
 - [ ] Je rédige un portrait de 150 mots.
 - [ ] Je mesure mes **progrès** depuis la 7e.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : portrait Anouk/Karim, 5
 questions.
 **Tâche 2 — 3 temps (8 P.)** : 6 verbes (imparfait + PC +
 futur simple).
-**Tâche 3 — Schreiben (12 P.)** : votre portrait (~150 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre portrait (~150 mots).
 
 **Total : 30 P.**
 
@@ -153,13 +153,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Mélange PC / imparfait** : *imparfait* = description ;
-  *PC* = action ponctuelle. Le portrait d'une rencontre **les
-  deux** sont nécessaires.
+ *PC* = action ponctuelle. Le portrait d'une rencontre **les
+ deux** sont nécessaires.
 - **Futur simple ≠ futur proche** dans la dernière partie :
-  préférer *je partirai* à *je vais partir* en E.
+ préférer *je partirai* à *je vais partir* en E.
 - **Connecteurs** placés en début de phrase, virgule après.
 
 ## Pour aller plus loin
 
-- **Aperçu Kl. 9 E** :
-  [Klasse 9 — index](../../track_e_kl09/index.qmd)
+- **Aperçu cl. 9 E** :
+ [classe 9 — index](../../track_e_kl09/index.qmd)

@@ -1,14 +1,14 @@
 ---
 title: "Unité 11 — Discours politique : analyser"
-subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 11
 slug: "discours-politique"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - leseverstehen
   - sprechen_monolog
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - J'analyse un **discours politique** (Mitterrand, de Gaulle,
-  Macron).
+ Macron).
 - Je connais **6 procédés rhétoriques** politiques.
 - Je présente **oralement** une analyse en 5 minutes.
 
@@ -54,22 +54,22 @@ fondateurs des relations FR/DE. »*
 
 ### A. 6 procédés rhétoriques politiques
 
-| Procédé           | Effet                                |
+| Procédé | Effet |
 |-------------------|---------------------------------------|
-| anaphore          | renforcement                          |
-| triade            | rythme ternaire                       |
-| nous inclusif     | rassemblement                         |
-| antithèse         | contraste fort                         |
-| question rhét.    | implication de l'auditoire           |
-| chute mémorable   | effet final                           |
+| anaphore | renforcement |
+| triade | rythme ternaire |
+| nous inclusif | rassemblement |
+| antithèse | contraste fort |
+| question rhét. | implication de l'auditoire |
+| chute mémorable | effet final |
 
 ### B. 3 contextes — 3 discours
 
-| Discours              | Date         | Lieu         |
+| Discours | Date | Lieu |
 |-----------------------|--------------|---------------|
-| Appel de De Gaulle    | 18 juin 1940 | Londres (BBC) |
-| Mitterrand au Bundestag | 20 janv. 1983 | Bonn       |
-| Macron Sorbonne       | 26 sept. 2017| Paris         |
+| Appel de De Gaulle | 18 juin 1940 | Londres (BBC) |
+| Mitterrand au Bundestag | 20 janv. 1983 | Bonn |
+| Macron Sorbonne | 26 sept. 2017| Paris |
 
 ### C. Extrait *Appel du 18 juin 1940* (texte original)
 
@@ -94,7 +94,7 @@ fondateurs des relations FR/DE. »*
 **Ex. 1 — Lecture (texte C).**
 
 1. Quelle est la 1ʳᵉ phrase et combien de questions
-   rhétoriques ?
+ rhétoriques ?
 2. Pourquoi la guerre **n'est pas finie**, selon de Gaulle ?
 3. Quelle est la chute du discours ?
 4. Quel mot revient comme métaphore ?
@@ -103,7 +103,7 @@ fondateurs des relations FR/DE. »*
 
 a) **3 questions rhétoriques** consécutives → ___
 b) **Anaphore** : *Cette guerre … Cette guerre … Cette
-   guerre …* → ___
+ guerre …* → ___
 c) **Métaphore** : *flamme de la résistance* → ___
 
 **Ex. 3 — Effet.** En 2 phrases, expliquez l'effet du « Non !»
@@ -140,12 +140,12 @@ rhétoriques + 1 chute marquante + lien à votre époque.
 - [ ] J'analyse un discours en 4 étapes.
 - [ ] Je présente 5 min en public.
 
-## Exemple d'épreuve — Abitur Bf (E)
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : appel du 18 juin,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : appel du 18 juin,
 5 questions.
 **Tâche 2 — Procédés (8 P.)** : 4 identifications.
-**Tâche 3 — Schreiben (12 P.)** : analyse d'un discours
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : analyse d'un discours
 (~280 mots).
 
 **Total : 30 P.**
@@ -162,14 +162,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Anaphore interrogative »** = série de questions
-  rhétoriques consécutives.
+ rhétoriques consécutives.
 - **« Quoi qu'il arrive »** : subjonctif (et non *quoiqu'il*).
 - **« Ne … pas tranchée »** = anaphorique négatif (3 fois
-  en 3 phrases).
+ en 3 phrases).
 
 ## Pour aller plus loin
 
 - **INA — discours célèbres** :
-  <https://www.ina.fr/>
+ <https://www.ina.fr/>
 - **Charles de Gaulle — site officiel** :
-  <https://www.charles-de-gaulle.org/>
+ <https://www.charles-de-gaulle.org/>

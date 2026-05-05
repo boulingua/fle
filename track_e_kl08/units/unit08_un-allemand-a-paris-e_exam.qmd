@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 8"
-subtitle: "Un·e Allemand·e à Paris · Klasse 8 · Niveau E"
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 8"
+subtitle: "Un·e Allemand·e à Paris · classe 8 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le journal de Jonas (Unité 8, texte C). Répondez :
 
@@ -27,7 +27,7 @@ Conjuguez au futur simple :
 3. Tu ___ (voir) la Joconde.
 4. Vous ___ (être) à Paris dans 3 jours.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **3 entrées** de votre journal pour un futur voyage
 à Paris (~120 mots) : 1 par jour (J-1, J, J+1) · 5 verbes au
@@ -35,12 +35,12 @@ futur simple · 5 mots de voyage.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Futur simple      | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Futur simple | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -55,4 +55,4 @@ manquera.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 8*

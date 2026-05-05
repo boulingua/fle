@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 8"
-subtitle: "Première poésie : Prévert · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 8"
+subtitle: "Première poésie : Prévert · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez *Le Cancre* de Jacques Prévert (Unité 8, texte C).
 Répondez :
@@ -16,7 +16,7 @@ Répondez :
 1. Que dit le cancre avec la tête ? Et avec le cœur ?
 2. Que fait-il quand le maître le questionne ?
 3. Quelles **3 paires** de mots trouvez-vous dans
-   l'énumération ?
+ l'énumération ?
 4. Que dessine-t-il à la fin ?
 5. Que symbolise « le visage du bonheur » ?
 
@@ -25,9 +25,9 @@ Répondez :
 Définition simple :
 
 - un cancre · un fou rire · une menace · un piège ·
-  une craie · une huée · un maître · un tableau noir.
+ une craie · une huée · un maître · un tableau noir.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Écrivez **votre petit poème** *« à la manière de Prévert »* en
 **50 mots / 8-10 vers libres** : sujet au choix (école,
@@ -36,12 +36,12 @@ minimum.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ enseignant · tableau de classe.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 8*

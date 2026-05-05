@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 6"
-subtitle: "Transports et mobilité · Klasse 7 · Niveau E"
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 6"
+subtitle: "Transports et mobilité · classe 7 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'annonce SNCF + le récit (Unité 6, textes C+D). Répondez :
 
@@ -29,19 +29,19 @@ Lisez l'annonce SNCF + le récit (Unité 6, textes C+D). Répondez :
 7. Karim rentre ___ métro.
 8. Tristan rentre ___ Belgique ___ TGV.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Décrivez **un trajet** entre 2 villes en **80 mots** : départ,
 arrivée, horaires, transport, durée. **3 *en/à*** + **2 PC**.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — *en* / *à*        | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — *en* / *à* | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -56,4 +56,4 @@ demandés · 3 *en/à* · 2 PC.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 6*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 6*

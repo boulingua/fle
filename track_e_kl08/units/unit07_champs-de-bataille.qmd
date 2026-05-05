@@ -1,14 +1,14 @@
 ---
 title: "Unité 7 — Champs de bataille (Verdun / Ypres)"
-subtitle: "Parcours E (Gymnasium) · Klasse 8 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 7
 slug: "champs-de-bataille"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - leseverstehen
   - text_medien
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je comprends une **page mémoire** sur **Verdun** (1916) et
-  **Ypres** (1917).
+ **Ypres** (1917).
 - J'utilise le **passé simple** en reconnaissance (lecture).
 - Je lis un **monument aux morts** franco-allemand.
 
@@ -55,13 +55,13 @@ exposé.
 ### A. Vocabulaire de la mémoire (8 mots)
 
 - *un soldat · une tranchée · un monument · un cimetière ·
-  une bataille · la mémoire · la paix · la réconciliation.*
+ une bataille · la mémoire · la paix · la réconciliation.*
 
 ### B. Passé simple (reconnaissance E)
 
 - *Il combattit · ils tombèrent · elle fut* (lecture seule).
 - L'élève doit **identifier** ces formes mais conjugue au PC à
-  l'écrit.
+ l'écrit.
 
 ### C. Page mémoire — Verdun (texte original)
 
@@ -90,9 +90,9 @@ exposé.
 
 **Ex. 2 — Passé simple → PC.** Transformez :
 
-a) *Il combattit* → ___ . b) *Ils tombèrent* → ___ .
-c) *Elle fut blessée* → ___ . d) *Ils se serrèrent la main*
-→ ___ .
+a) *Il combattit* → ___. b) *Ils tombèrent* → ___.
+c) *Elle fut blessée* → ___. d) *Ils se serrèrent la main*
+→ ___.
 
 **Ex. 3 — Vocabulaire.** Reliez : *tranchée · ossuaire ·
 réconciliation · mémoire*.
@@ -124,11 +124,11 @@ partir de 4 faits fournis : 8 mots de vocabulaire mémoire +
 - [ ] Je transforme passé simple → PC.
 - [ ] Je rédige une page mémoire de 120 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : page Verdun, 5 questions.
 **Tâche 2 — Conjugaison (8 P.)** : 4 PS → PC.
-**Tâche 3 — Schreiben (12 P.)** : page mémoire (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : page mémoire (~120 mots).
 
 **Total : 30 P.**
 
@@ -144,15 +144,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Passé simple** : lecture seulement au niveau E. Ne jamais
-  l'écrire dans une production.
+ l'écrire dans une production.
 - **« Ossuaire »** = bâtiment qui contient des os de morts (un
-  mot rare mais clé pour Verdun).
+ mot rare mais clé pour Verdun).
 - **« Réconciliation »** ≠ *Versöhnung* est correct ; mais
-  attention à l'orthographe française.
+ attention à l'orthographe française.
 
 ## Pour aller plus loin
 
 - **Mémorial de Verdun (site officiel)** :
-  <https://memorial-verdun.fr/>
+ <https://memorial-verdun.fr/>
 - **In Flanders Fields Museum (Ypres)** :
-  <https://www.inflandersfields.be/fr>
+ <https://www.inflandersfields.be/fr>

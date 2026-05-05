@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 6"
-subtitle: "Médiation avancée DE↔FR · Klasse 10 · Niveau M"
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 6"
+subtitle: "Médiation avancée DE↔FR · classe 10 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 10
+## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Sprachmittlung DE → FR (15 P.)
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 P.)
 
 Lisez le mail médical (Unité 6, texte C). **Médiez** en
 **français** (~120 mots), pour un **destinataire familier**
@@ -16,7 +16,7 @@ Lisez le mail médical (Unité 6, texte C). **Médiez** en
 **registre** (familier / tutoiement) et conservez **toutes les
 infos** essentielles : valeur, recommandations, délai, contact.
 
-### Tâche 2 — Sprachmittlung FR → DE (10 P.)
+### Tâche 2 — médiation linguistique FR → DE (10 P.)
 
 Médiez en **allemand** (~50 mots) :
 
@@ -36,12 +36,12 @@ Pour la Tâche 1, précisez les **4 paramètres** :
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — DE → FR           | 15      |
-| Tâche 2 — FR → DE           | 10      |
-| Tâche 3 — Reflexion         | 5       |
-| **Total**                   | **30**  |
+| Tâche 1 — DE → FR | 15 |
+| Tâche 2 — FR → DE | 10 |
+| Tâche 3 — Reflexion | 5 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -64,4 +64,4 @@ informel.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 6*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau M · Unité 6*

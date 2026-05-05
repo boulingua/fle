@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 1"
-subtitle: "Salutations et prénoms · Klasse 6 · Niveau M"
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 1"
+subtitle: "Salutations et prénoms · classe 6 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 6
+## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Hören (10 P.)
+### Tâche 1 — Compréhension orale (« Hören ») (10 P.)
 
 La prof lit 5 mini-situations. Pour chacune, choisissez la
 formule juste : **Bonjour · Salut · Au revoir · Merci · S'il
@@ -20,26 +20,26 @@ vous plaît**.
 4. Vous demandez un croissant. → ___
 5. La boulangère vous donne le croissant. → ___
 
-### Tâche 2 — Sprechen mündlich (10 P.)
+### Tâche 2 — Expression orale (« Sprechen ») mündlich (10 P.)
 
 Avec un·e camarade : se saluer · se présenter · épeler son
 prénom · se dire au revoir.
 
-Critères : Erfüllung 4 P. · Aussprache 4 P. · Sprache 2 P.
+Critères : Erfüllung 4 P. · Aussprache 4 P. · Langue 2 P.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Écrivez un mini-dialogue de **4 lignes** : se saluer · dire son
 prénom · demander celui de l'autre · au revoir.
 
 ## Notation
 
-| Tâche                  | Points  |
+| Tâche | Points |
 |------------------------|--------:|
-| Tâche 1 — Hören        | 10      |
-| Tâche 2 — Sprechen     | 10      |
-| Tâche 3 — Schreiben    | 10      |
-| **Total**              | **30**  |
+| Tâche 1 — Compréhension orale | 10 |
+| Tâche 2 — Expression orale | 10 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -48,4 +48,4 @@ plaît. 5) Merci.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 1*

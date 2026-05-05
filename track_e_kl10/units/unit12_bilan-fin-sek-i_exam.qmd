@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 12"
-subtitle: "Bilan : fin de la Sekundarstufe I · Klasse 10 · Niveau E"
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 12"
+subtitle: "Bilan : fin de la Sekundarstufe I · classe 10 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le CV d'Anouk (Unité 12, texte C). Répondez :
 
@@ -27,24 +27,24 @@ Reliez chaque niveau à sa description :
 (Descriptions : élémentaire débutant · élémentaire ·
 intermédiaire seuil · avancé · expérimenté · maîtrise.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre CV scolaire** en français (~200 mots) :
 5 sections + 5 dates précises + auto-évaluation CECRL.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — CECRL             | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — CECRL | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
 **Tâche 1.** 1) 5 ans (2022-2027). 2) B2. 3) Projet
-solidaire, stage BOGY, tribune Fridays for Future. 4)
+solidaire, stage stage d'orientation (« BORS ») au lycée (« BOGY »), tribune Fridays for Future. 4)
 Sempé-Goscinny, Colombani, Senghor. 5) *Les Odyssées*.
 
 **Tâche 2.** A1 = débutant · A2 = élémentaire · B1 = seuil
@@ -55,4 +55,4 @@ sections · 5 dates · CECRL.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 12*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 12*

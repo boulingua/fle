@@ -1,14 +1,14 @@
 ---
 title: "Unité 8 — Voix féminines en littérature"
-subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 8
 slug: "voix-feminines"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - leseverstehen
   - sprechen_monolog
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je découvre **5 voix féminines** majeures (Beauvoir,
-  Duras, Ernaux, NDiaye, Slimani).
+ Duras, Ernaux, NDiaye, Slimani).
 - Je connais le **féminisme français** en 4 vagues.
 - Je présente une **voix féminine** en 5 minutes.
 
@@ -53,13 +53,13 @@ changé la littérature française. »*
 
 ### A. 5 voix majeures (focus Bf)
 
-| Autrice         | Œuvre clé             | Apport            |
+| Autrice | Œuvre clé | Apport |
 |-----------------|------------------------|-------------------|
 | Simone de Beauvoir | *Le Deuxième Sexe* (1949) | théorie féministe |
 | Marguerite Duras | *L'Amant* (1984, Goncourt)| autofiction lyrique |
-| Annie Ernaux    | *Les Années* (2008)    | récit transpersonnel |
-| Marie NDiaye    | *Trois femmes puissantes* (2009) | postcolonial |
-| Leïla Slimani   | *Chanson douce* (2016) | thriller social   |
+| Annie Ernaux | *Les Années* (2008) | récit transpersonnel |
+| Marie NDiaye | *Trois femmes puissantes* (2009) | postcolonial |
+| Leïla Slimani | *Chanson douce* (2016) | thriller social |
 
 ### B. Féminisme FR en 4 vagues
 
@@ -135,11 +135,11 @@ Duras, Ernaux, NDiaye, Slimani, Condé) : vie + œuvre clé +
 - [ ] Je distingue 4 vagues féministes.
 - [ ] Je présente une autrice en 5 minutes.
 
-## Exemple d'épreuve — Abitur Bf (E)
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : Beauvoir, 5 questions.
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : Beauvoir, 5 questions.
 **Tâche 2 — Vagues féministes (8 P.)** : 4 associations.
-**Tâche 3 — Schreiben (12 P.)** : portrait d'autrice (~280
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : portrait d'autrice (~280
 mots).
 
 **Total : 30 P.**
@@ -156,16 +156,16 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« De Beauvoir »** : *Beauvoir* est un nom propre, pas un
-  titre nobiliaire ; on dit *Simone de Beauvoir*, jamais
-  *Madame de Beauvoir* dans un texte académique.
+ titre nobiliaire ; on dit *Simone de Beauvoir*, jamais
+ *Madame de Beauvoir* dans un texte académique.
 - **« Manifeste des 343 »** : signé en 1971 par 343 femmes
-  ; pas *343 salopes* (titre ironique de l'article).
+ ; pas *343 salopes* (titre ironique de l'article).
 - **« Intersectionnalité »** : terme de Kimberlé Crenshaw
-  (1989).
+ (1989).
 
 ## Pour aller plus loin
 
 - **Bibliothèque Marguerite Durand (Paris)** :
-  <https://www.paris.fr/bmd>
+ <https://www.paris.fr/bmd>
 - **Site Simone de Beauvoir** :
-  <https://www.simonedebeauvoir.com/>
+ <https://www.simonedebeauvoir.com/>

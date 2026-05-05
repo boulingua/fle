@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 11"
-subtitle: "Français au travail · Klasse 9 · Niveau E"
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 11"
+subtitle: "Français au travail · classe 9 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez le mail médié (Unité 11, texte C, FR). Répondez :
 
@@ -26,7 +26,7 @@ Donnez l'équivalent **français** :
 3. *Sehr geehrte Frau Lambert,* → ___
 4. *Könnten Sie das weiterleiten ?* → ___
 
-### Tâche 3 — Sprachmittlung + dialogue (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») + dialogue (14 P.)
 
 À partir de ce **mail allemand**, médiez en français pro **et**
 prolongez par un dialogue téléphonique (6 répliques, ~150
@@ -39,12 +39,12 @@ mots cumulés).
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Lexique pro       | 8       |
-| Tâche 3 — Sprachmittlung    | 14      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Lexique pro | 8 |
+| Tâche 3 — médiation linguistique | 14 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -64,4 +64,4 @@ téléphone libre.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 11*

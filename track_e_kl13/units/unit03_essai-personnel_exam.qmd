@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 3"
-subtitle: "Essai personnel : structure · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 3"
+subtitle: "Essai personnel : structure · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'essai *« Pourquoi le français ? »* (Unité 3, texte C).
 Répondez :
@@ -24,13 +24,13 @@ Répondez :
 Reliez chaque genre à sa caractéristique :
 
 - essai · dissertation · commentaire · pamphlet · article ·
-  thèse · mémoire · billet
+ thèse · mémoire · billet
 
 (Caractéristiques : « je » + thèse personnelle · TAS scolaire
 neutre · analyse texte donné · attaque virulente · presse ·
 universitaire long · master · presse court.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre essai personnel** (~500 mots) sur un sujet :
 *Pourquoi le français ? · Pourquoi lire ? · Pourquoi
@@ -38,12 +38,12 @@ voyager ?* — 4-6 § + 5 citations + 1 chute + « je ».
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Genres            | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Genres | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ Caresse, mosaïque, mémoire, exigence.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 3*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 3*

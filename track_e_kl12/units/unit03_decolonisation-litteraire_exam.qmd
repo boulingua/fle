@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 3"
-subtitle: "Décolonisation littéraire (Maryse Condé) · Klasse 12 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 3"
+subtitle: "Décolonisation littéraire (Maryse Condé) · classe 12 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'extrait *Moi, Tituba* (Unité 3, texte C). Répondez :
 
@@ -23,13 +23,13 @@ Lisez l'extrait *Moi, Tituba* (Unité 3, texte C). Répondez :
 Reliez chaque concept à sa définition / référence :
 
 - créolité · tout-monde · voix oubliées · réécriture ·
-  négritude · postcolonial · diaspora · hybridité
+ négritude · postcolonial · diaspora · hybridité
 
 (Définitions : *Bernabé/Chamoiseau/Confiant 1989* · Glissant
 · Tituba/Slimani · réinverser un canon · Senghor/Césaire ·
 après l'empire · diffusion · Bhabha.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez une **analyse + lien** (~350 mots) à partir d'un
 2ᵉ extrait fourni (Glissant / Mabanckou) : 1 concept + 3
@@ -37,12 +37,12 @@ citations + 1 lien à votre époque (#MeToo, BLM…).
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Concepts          | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Concepts | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ concept · 3 citations · 1 lien.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 3*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 3*

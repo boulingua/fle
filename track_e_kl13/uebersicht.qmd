@@ -1,5 +1,5 @@
 ---
-title: "Klasse 13 — Plan hebdomadaire"
+title: "classe 13 — Plan hebdomadaire"
 ---
 
 ::: {.callout-note}

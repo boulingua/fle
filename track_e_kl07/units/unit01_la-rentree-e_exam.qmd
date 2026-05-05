@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau E) — Unité 1"
-subtitle: "La rentrée · Klasse 7 · Niveau E"
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 1"
+subtitle: "La rentrée · classe 7 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 7
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez le courriel d'Inès (Unité 1, texte C). Répondez :
 
@@ -30,7 +30,7 @@ Conjuguez avec *avoir* ou *être*.
 7. On *(rester)* à la maison.
 8. Mes parents *(rentrer)* tard.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Racontez **votre rentrée** en **80 mots** : où parti(e), avec
 qui, ce que vous avez fait + sentiments pour la 7e. **3 verbes
@@ -38,12 +38,12 @@ au passé composé** dont **1 avec être**.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Passé composé     | 10      |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Passé composé | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ avec être · sentiments rentrée.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau E · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 1*

@@ -1,13 +1,13 @@
 ---
 title: "Unité 6 — Podcasts en français"
-subtitle: "Parcours G+M · Klasse 9 · Niveau M"
+subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 6
 slug: "podcasts-en-francais"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
 skills_focus:
   - hör_hörsehverstehen
 format:
@@ -33,7 +33,7 @@ format:
 - Je comprends un **podcast** simple (3-5 min).
 - Je prends des **notes** structurées.
 - Je résume en **5 phrases** (titre, sujet, 2 idées-clés,
-  avis).
+ avis).
 
 ## Histoire d'introduction
 
@@ -52,13 +52,13 @@ posent des questions à des experts.
 
 ### A. 5 podcasts français pour ados
 
-| Podcast              | Producteur     | Durée  |
+| Podcast | Producteur | Durée |
 |----------------------|----------------|--------|
-| Les Petits Bateaux   | France Inter   | 3 min  |
-| Salut l'info !       | franceinfo     | 10 min |
-| Choses à Savoir      | indépendant    | 3 min  |
-| 7 milliards de voisins | RFI          | 50 min |
-| InnerFrench          | indépendant    | 20 min |
+| Les Petits Bateaux | France Inter | 3 min |
+| Salut l'info ! | franceinfo | 10 min |
+| Choses à Savoir | indépendant | 3 min |
+| 7 milliards de voisins | RFI | 50 min |
+| InnerFrench | indépendant | 20 min |
 
 ### B. Prise de notes : la grille **3-2-1**
 
@@ -86,8 +86,8 @@ posent des questions à des experts.
 ### D. Vocabulaire — comprendre un podcast
 
 - *l'épisode · l'animateur / animatrice · le studio · le sujet ·
-  l'extrait · l'invité(e) · diffuser · télécharger ·
-  s'abonner.*
+ l'extrait · l'invité(e) · diffuser · télécharger ·
+ s'abonner.*
 
 ## 3. S'entraîner
 
@@ -100,17 +100,17 @@ posent des questions à des experts.
 
 **Ex. 2 — Grille 3-2-1.** À partir du texte C, remplissez :
 
-| Catégorie         | Réponses |
+| Catégorie | Réponses |
 |-------------------|----------|
-| 3 mots-clés       |          |
-| 2 idées principales |        |
-| 1 avis personnel  |          |
+| 3 mots-clés | |
+| 2 idées principales | |
+| 1 avis personnel | |
 
 **Ex. 3 — Vocabulaire.** Choisissez le bon mot.
 
-1. La personne qui présente le podcast = ___ .
-2. Un petit morceau du podcast = ___ .
-3. Pour recevoir les nouveaux épisodes = ___ .
+1. La personne qui présente le podcast = ___.
+2. Un petit morceau du podcast = ___.
+3. Pour recevoir les nouveaux épisodes = ___.
 
 ::: {.callout-tip collapse="true" title="Solutions"}
 
@@ -142,12 +142,12 @@ un **résumé en 5 phrases** : titre, sujet, 2 idées-clés, avis.
 - [ ] J'utilise la grille 3-2-1.
 - [ ] Je résume en 5 phrases.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Hörverstehen (15 P.)** : podcast de 3 min, 6
 questions + grille 3-2-1.
 **Tâche 2 — Vocabulaire (5 P.)** : 5 termes du podcast.
-**Tâche 3 — Schreiben (10 P.)** : résumé en 5 phrases.
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : résumé en 5 phrases.
 
 **Total : 30 P.**
 
@@ -163,15 +163,15 @@ S'entraîner 11' · Produire 9' · Réfléchir 2'.
 ## Pièges fréquents
 
 - **Mots difficiles** : noter, ne pas bloquer dessus —
-  poursuivre l'écoute.
+ poursuivre l'écoute.
 - **Réécouter 2-3 fois** : 1ᵉʳ pass = idée générale ; 2ᵉ pass =
-  détails ; 3ᵉ pass = vérification.
+ détails ; 3ᵉ pass = vérification.
 - **Mots transparents** : *animateur ≈ Animator, studio ≈
-  Studio*.
+ Studio*.
 
 ## Pour aller plus loin
 
 - **France Inter — Les Petits Bateaux** :
-  <https://www.radiofrance.fr/franceinter/podcasts/>
+ <https://www.radiofrance.fr/franceinter/podcasts/>
 - **InnerFrench** :
-  <https://innerfrench.com/>
+ <https://innerfrench.com/>

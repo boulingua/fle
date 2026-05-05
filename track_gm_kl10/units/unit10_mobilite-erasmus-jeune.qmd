@@ -1,14 +1,14 @@
 ---
 title: "Unité 10 — Mobilité (Erasmus jeune)"
-subtitle: "Parcours G+M · Klasse 10 · Niveau M"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 10
 slug: "mobilite-erasmus-jeune"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - hör_hörsehverstehen
   - schreiben
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je connais **3 programmes** de mobilité jeune
-  (Erasmus+, OFAJ, Service civique).
+ (Erasmus+, OFAJ, Service civique).
 - Je comprends un **témoignage audio** d'ancien participant.
 - Je rédige un **dossier de candidature** simplifié.
 
@@ -54,17 +54,17 @@ plus dur ? La lettre de motivation. »*
 
 ### A. 3 programmes
 
-| Programme       | Pour qui ?        | Durée       | Bourse   |
+| Programme | Pour qui ? | Durée | Bourse |
 |-----------------|-------------------|-------------|----------|
-| Erasmus+        | étudiant·e·s 16+  | 2-12 mois   | 350-500 €/mois |
-| OFAJ / DFJW     | jeunes 13-30 (FR-DE) | 2 sem.-12 mois | bourse aide |
-| Service civique | 16-25 ans         | 6-12 mois   | 619 €/mois |
+| Erasmus+ | étudiant·e·s 16+ | 2-12 mois | 350-500 €/mois |
+| OFAJ / DFJW | jeunes 13-30 (FR-DE) | 2 sem.-12 mois | bourse aide |
+| Service civique | 16-25 ans | 6-12 mois | 619 €/mois |
 
 ### B. Vocabulaire
 
 - *un échange · un séjour à l'étranger · une famille
-  d'accueil · une lettre de motivation · un dossier · une
-  bourse · une certification linguistique.*
+ d'accueil · une lettre de motivation · un dossier · une
+ bourse · une certification linguistique.*
 
 ### C. Témoignage audio (texte original — transcription)
 
@@ -87,7 +87,7 @@ plus dur ? La lettre de motivation. »*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Compréhension orale (texte C).**
+**Ex. 1 — Compréhension orale (« Hören ») (texte C).**
 
 1. D'où vient Inès ?
 2. Combien de temps reste-t-elle ?
@@ -138,12 +138,12 @@ B1 visé).
 - [ ] Je comprends un témoignage audio.
 - [ ] Je rédige un dossier simplifié.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Hörverstehen (12 P.)** : témoignage Inès,
 6 questions.
 **Tâche 2 — Programmes (6 P.)** : 3 cas à orienter.
-**Tâche 3 — Schreiben (12 P.)** : votre dossier (~180 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dossier (~180 mots).
 
 **Total : 30 P.**
 
@@ -160,12 +160,12 @@ S'entraîner 11' · Produire 12' · Réfléchir 2'.
 
 - **« OFAJ »** = Office franco-allemand pour la jeunesse / DFJW.
 - **« Erasmus+ »** existe pour le secondaire (Erasmus+ Schools)
-  ET pour le supérieur.
+ ET pour le supérieur.
 - **« Bourse »** = aide financière (pas un sac !).
 
 ## Pour aller plus loin
 
 - **OFAJ** :
-  <https://www.ofaj.org/>
+ <https://www.ofaj.org/>
 - **Service civique** :
-  <https://www.service-civique.gouv.fr/>
+ <https://www.service-civique.gouv.fr/>

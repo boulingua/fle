@@ -1,14 +1,14 @@
 ---
 title: "Unité 8 — Réseaux sociaux et identité"
-subtitle: "Parcours G+M · Klasse 10 · Niveau M"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 8
 slug: "reseaux-sociaux"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - leseverstehen
   - sprechen_dialog
@@ -34,7 +34,7 @@ format:
 
 - Je comprends la **construction de soi** sur les réseaux.
 - Je nomme **5 mécanismes** : like, filtre, algorithme, FOMO,
-  bulle de filtre.
+ bulle de filtre.
 - Je discute des **effets** sur la santé mentale.
 
 ## Histoire d'introduction
@@ -54,18 +54,18 @@ sans Insta, comment voir mes ami(e)s ? »*
 
 ### A. 5 mécanismes des réseaux
 
-| Mécanisme         | Explication                          |
+| Mécanisme | Explication |
 |-------------------|--------------------------------------|
-| le like           | validation rapide, dopamine          |
-| le filtre         | retouche photo, beauté idéalisée     |
-| l'algorithme      | trie ce qu'on voit, capture l'attention |
-| la FOMO           | *Fear Of Missing Out*, peur de rater |
-| la bulle de filtre| on voit que ce qui nous ressemble    |
+| le like | validation rapide, dopamine |
+| le filtre | retouche photo, beauté idéalisée |
+| l'algorithme | trie ce qu'on voit, capture l'attention |
+| la FOMO | *Fear Of Missing Out*, peur de rater |
+| la bulle de filtre| on voit que ce qui nous ressemble |
 
 ### B. Vocabulaire — santé mentale numérique
 
 - *l'addiction · la comparaison · le syndrome de l'imposteur ·
-  le bien-être · la déconnexion · la détox numérique.*
+ le bien-être · la déconnexion · la détox numérique.*
 
 ### C. Article (texte original — adapté)
 
@@ -138,11 +138,11 @@ pour, B est contre. Chacun **3 arguments** + **1 question** +
 - [ ] Je connais les chiffres EnCLASS 2024.
 - [ ] Je discute pour/contre une régulation.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : article + 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 termes des réseaux.
-**Tâche 3 — Schreiben (12 P.)** : prise de position
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : prise de position
 (~150 mots).
 
 **Total : 30 P.**
@@ -159,14 +159,14 @@ Produire 13' (binôme) · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Les réseaux sociaux »** = pluriel : *Les réseaux sociaux
-  **sont** addictifs.*
+ **sont** addictifs.*
 - **« FOMO »** s'utilise sans traduction (anglicisme accepté).
 - **« Toxique »** ≠ poison ; au figuré, *malsain pour la santé
-  mentale*.
+ mentale*.
 
 ## Pour aller plus loin
 
 - **Santé publique France — EnCLASS** :
-  <https://www.santepubliquefrance.fr/>
+ <https://www.santepubliquefrance.fr/>
 - **CSA — régulation des plateformes** :
-  <https://www.csa.fr/>
+ <https://www.csa.fr/>

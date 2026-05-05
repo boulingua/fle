@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 12"
-subtitle: "Bilan final : Abitur en vue · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 12"
+subtitle: "Bilan final : épreuve finale en vue · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf — final)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — final)
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la lettre d'au revoir d'Anouk (Unité 12, texte C).
 Répondez :
@@ -28,7 +28,7 @@ Reliez chaque acte à son contenu :
 (Contenus : merci aux profs/auteur·e·s · ce que j'emporte ·
 ce que je ferai du français.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre lettre d'au revoir** (~600 mots) : 3
 actes + 5 remerciements personnels + 4 citations littéraires
@@ -36,12 +36,12 @@ actes + 5 remerciements personnels + 4 citations littéraires
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — 3 actes           | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — 3 actes | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -61,4 +61,4 @@ j'emporte · engagement = ce que je ferai.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 12 · FIN*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 12 · FIN*

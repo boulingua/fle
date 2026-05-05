@@ -1,14 +1,14 @@
 ---
 title: "Unité 9 — Histoire et mémoire (Vichy, Algérie)"
-subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 9
 slug: "histoire-et-memoire"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -33,9 +33,9 @@ format:
 ## Objectifs
 
 - Je comprends **Vichy** (1940-1944) et la **guerre
-  d'Algérie** (1954-1962) comme passés sensibles.
+ d'Algérie** (1954-1962) comme passés sensibles.
 - Je distingue **histoire** (faits) et **mémoire**
-  (perception sociale).
+ (perception sociale).
 - Je rédige une **note historique** (~300 mots).
 
 ## Histoire d'introduction
@@ -55,23 +55,23 @@ en silence. »*
 
 ### A. Vichy + Algérie : 6 dates pivots
 
-| Date     | Événement                              |
+| Date | Événement |
 |----------|------------------------------------------|
 | 16 juillet 1942 | Rafle du Vél d'Hiv (13 152 juifs) |
-| 1944     | Libération + procès Pétain              |
+| 1944 | Libération + procès Pétain |
 | 1ᵉʳ nov. 1954 | Toussaint rouge (début guerre Algérie) |
-| 17 oct. 1961 | Massacre Paris (Algériens)         |
-| 19 mars 1962 | Accords d'Évian                    |
-| 16 juillet 1995 | Chirac reconnaît Vichy           |
+| 17 oct. 1961 | Massacre Paris (Algériens) |
+| 19 mars 1962 | Accords d'Évian |
+| 16 juillet 1995 | Chirac reconnaît Vichy |
 
 ### B. Histoire vs mémoire
 
 - **Histoire** : faits documentés + sources + analyse
-  scientifique.
+ scientifique.
 - **Mémoire** : récit social, parfois partiel, parfois
-  occulté.
+ occulté.
 - **Politique mémorielle** : reconnaissance officielle,
-  loi, journée commémorative.
+ loi, journée commémorative.
 
 ### C. Note historique d'Anouk (texte original, ~300 mots)
 
@@ -145,12 +145,12 @@ mémoire ».
 - [ ] Je distingue histoire et mémoire.
 - [ ] Je rédige une note de 300 mots.
 
-## Exemple d'épreuve — Abitur Bf (E)
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : note Vél d'Hiv,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : note Vél d'Hiv,
 5 questions.
 **Tâche 2 — Histoire/mémoire (8 P.)** : 4 classifications.
-**Tâche 3 — Schreiben (12 P.)** : note historique
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : note historique
 (~300 mots).
 
 **Total : 30 P.**
@@ -167,16 +167,16 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Vichy »** = régime collaborationniste 1940-1944, à
-  distinguer de la ville.
+ distinguer de la ville.
 - **« Imprescriptible »** = qui ne peut être effacé par le
-  temps (juridique).
+ temps (juridique).
 - **17 oct. 1961** : massacre **longtemps occulté** ;
-  reconnaissance officielle 2001 (Hollande), 2012, 2021
-  (Macron).
+ reconnaissance officielle 2001 (Hollande), 2012, 2021
+ (Macron).
 
 ## Pour aller plus loin
 
 - **Mémorial de la Shoah (Paris)** :
-  <https://www.memorialdelashoah.org/>
+ <https://www.memorialdelashoah.org/>
 - **Discours Chirac 1995 (texte intégral, INA)** :
-  <https://www.ina.fr/>
+ <https://www.ina.fr/>

@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 9"
-subtitle: "Extraits de romans jeunes (FR) · Klasse 10 · Niveau E"
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 9"
+subtitle: "Extraits de romans jeunes (FR) · classe 10 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'extrait *La Tresse* (Unité 9, texte C). Répondez :
 
@@ -24,11 +24,11 @@ Identifiez (extrait Unité 9, texte C) :
 
 1. Qui est l'**auteure** du roman ?
 2. Le **narrateur** est-il interne (1ʳᵉ pers.) ou externe
-   (3ᵉ pers.) ?
+ (3ᵉ pers.) ?
 3. Citez 2 **personnages** principaux.
 4. Quel est le **thème** principal ?
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez une **fiche de lecture** (~150 mots) sur un roman
 jeunesse FR au choix : auteur·e + résumé (3 phrases) +
@@ -36,12 +36,12 @@ personnage central + thème + 1 citation + verdict.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Notions           | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Notions | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ roupie. 5) Partir à Bénarès.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 9*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 9*

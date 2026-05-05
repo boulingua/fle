@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 8"
-subtitle: "Voix féminines en littérature · Klasse 11 · Niveau E (Abitur Bf)"
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 8"
+subtitle: "Voix féminines en littérature · classe 11 · Niveau E (épreuve finale Bf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la présentation Beauvoir (Unité 8, texte C). Répondez :
 
@@ -27,7 +27,7 @@ Reliez chaque vague à sa cause-clé :
 (Causes : droit de vote · IVG-MLF · intersectionnalité ·
 #MeToo.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez le **portrait** d'une autrice francophone (~280
 mots) : vie + œuvre clé + 1 citation analysée + 1 lien à
@@ -35,12 +35,12 @@ une vague féministe.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vagues            | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vagues | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -56,4 +56,4 @@ intersectionnalité · 4ᵉ = #MeToo.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 8*

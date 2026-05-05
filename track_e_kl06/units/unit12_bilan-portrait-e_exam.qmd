@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 12"
-subtitle: "Bilan : mon portrait · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 12"
+subtitle: "Bilan : mon portrait · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le portrait d'Anouk (Unité 12, texte C). Répondez :
 
@@ -28,7 +28,7 @@ Notez-vous de 1 à 5 sur 5 domaines :
 - Compréhension d'un texte simple ___
 - Présentation orale ___
 
-### Tâche 3 — Schreiben (15 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (15 P.)
 
 Rédigez **votre portrait** en **120 mots** : 9 éléments des 11
 Unités. Plan : identité + famille + école + journée + goûts +
@@ -36,16 +36,16 @@ chambre + voyage + question finale au lecteur.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Auto-évaluation   | 5       |
-| Tâche 3 — Schreiben         | 15      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Auto-évaluation | 5 |
+| Tâche 3 — Expression écrite | 15 |
+| **Total** | **30** |
 
 ## Solutions
 
-**Tâche 1.** 1) 11 ans, 6e B Gymnasium. 2) 4 (Anouk + parents +
+**Tâche 1.** 1) 11 ans, 6e B lycée. 2) 4 (Anouk + parents +
 Lena). 3) L'art. 4) Judo avec Tristan. 5) Aller à Strasbourg
 voir la cathédrale.
 
@@ -56,4 +56,4 @@ demandés · question finale.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 12*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 12*

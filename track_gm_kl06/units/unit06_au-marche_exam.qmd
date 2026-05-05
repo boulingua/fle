@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 6"
-subtitle: "Au marché · Klasse 6 · Niveau M"
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 6"
+subtitle: "Au marché · classe 6 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 6
+## Devoir surveillé — Niveau M, classe 6
 
 ### Tâche 1 — Hörverstehen (10 P.)
 
@@ -24,10 +24,10 @@ Traduisez : 1) la pomme · 2) die Karotte · 3) la fraise · 4) der
 Salat · 5) la baguette · 6) der Apfel · 7) la tomate · 8) die
 Banane · 9) le pain au chocolat · 10) die Kartoffel.
 
-### Tâche 3 — Sprechen mündlich (10 P.)
+### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)
 
 Achat simulé en binôme : 3 produits + total. Critères :
-Erfüllung 4 P · Aussprache 4 P · Sprache 2 P.
+Erfüllung 4 P · Aussprache 4 P · Langue 2 P.
 
 ## Total : 30 P.
 
@@ -43,4 +43,4 @@ terre.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 6*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 6*

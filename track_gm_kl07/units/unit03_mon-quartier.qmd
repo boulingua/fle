@@ -1,15 +1,15 @@
 ---
 title: "Unité 3 — Mon quartier"
-subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 3
 slug: "mon-quartier"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -54,18 +54,18 @@ on dit *le dépanneur*, pas *l'épicerie*. »*
 
 ### A. Vocabulaire — lieux du quartier
 
-| Français          | Allemand           |
+| Français | Allemand |
 |-------------------|--------------------|
-| la boulangerie    | die Bäckerei       |
-| la pharmacie      | die Apotheke       |
-| le supermarché    | der Supermarkt     |
-| la poste          | die Post           |
-| la banque         | die Bank           |
-| le café           | das Café           |
-| le parc           | der Park           |
-| la bibliothèque   | die Bibliothek     |
-| l'arrêt de bus    | die Bushaltestelle |
-| la mairie         | das Rathaus        |
+| la boulangerie | die Bäckerei |
+| la pharmacie | die Apotheke |
+| le supermarché | der Supermarkt |
+| la poste | die Post |
+| la banque | die Bank |
+| le café | das Café |
+| le parc | der Park |
+| la bibliothèque | die Bibliothek |
+| l'arrêt de bus | die Bushaltestelle |
+| la mairie | das Rathaus |
 
 ### B. Prépositions de lieu
 
@@ -136,11 +136,11 @@ Décrivez **votre quartier** en 6 phrases. Au moins **5 lieux** et
 - [ ] J'utilise *à côté de, en face de, près de, derrière*.
 - [ ] J'écris une description de quartier de 6 phrases.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Vocabulaire (10 P.)** : 10 lieux à traduire.
 **Tâche 2 — Lecture (10 P.)** : texte C, 5 questions.
-**Tâche 3 — Schreiben (10 P.)** : votre quartier (~70 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : votre quartier (~70 mots).
 
 **Total : 30 P.**
 
@@ -162,4 +162,4 @@ Produire 10' · Réfléchir 2' · Aperçu 3'.
 ## Pour aller plus loin
 
 - **Géoportail** (cartes des villes) :
-  <https://www.geoportail.gouv.fr/>
+ <https://www.geoportail.gouv.fr/>

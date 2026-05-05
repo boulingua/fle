@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 7"
-subtitle: "Extrait de roman contemporain · Klasse 11 · Niveau E (Abitur Bf)"
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 7"
+subtitle: "Extrait de roman contemporain · classe 11 · Niveau E (épreuve finale Bf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'incipit de *Chanson douce* (Unité 7, texte C).
 Répondez :
@@ -28,7 +28,7 @@ Pour l'incipit, identifiez :
 3. Le **registre** dominant : ___
 4. Un **motif** (élément récurrent) : ___
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez une **analyse** (~300 mots) à partir d'un autre
 extrait (Slimani ou Modiano fourni) : 5 outils + 2 citations
@@ -36,12 +36,12 @@ extrait (Slimani ou Modiano fourni) : 5 outils + 2 citations
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Outils            | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Outils | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -58,4 +58,4 @@ outils · 2 citations · 1 lien titre.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 7*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 7*

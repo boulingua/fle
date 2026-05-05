@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 4"
-subtitle: "Ma journée · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 4"
+subtitle: "Ma journée · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
 ### Tâche 1 — Conjugaison (10 P.)
 
@@ -28,7 +28,7 @@ Conjuguez au présent.
 1. 8h00 · 2. 9h30 · 3. 10h15 · 4. 12h00 · 5. 14h45 · 6. 16h00
 · 7. 19h30 · 8. 0h00.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Décrivez **votre journée** en **80 mots** : **5 verbes
 pronominaux** + **5 heures**. Plan : matin – midi – après-midi
@@ -36,12 +36,12 @@ pronominaux** + **5 heures**. Plan : matin – midi – après-midi
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Conjugaison       | 10      |
-| Tâche 2 — L'heure           | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Conjugaison | 10 |
+| Tâche 2 — L'heure | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ pronominaux · 5 heures.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 4*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 4*

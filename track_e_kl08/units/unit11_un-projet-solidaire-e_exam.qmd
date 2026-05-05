@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 11"
-subtitle: "Un projet solidaire · Klasse 8 · Niveau E"
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 11"
+subtitle: "Un projet solidaire · classe 8 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'affiche du projet (Unité 11, texte C). Répondez :
 
@@ -27,7 +27,7 @@ Conjuguez au futur simple :
 3. Ils ___ (envoyer) le colis à Tunis.
 4. Je ___ (sensibiliser) ma classe.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre affiche-projet solidaire** (~100 mots) :
 4 questions (Quoi, Pour qui, Comment, Quand) + **5 verbes
@@ -36,12 +36,12 @@ participer.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Futur simple      | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Futur simple | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ questions · 5 verbes d'action · 3 futurs simples.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 11*

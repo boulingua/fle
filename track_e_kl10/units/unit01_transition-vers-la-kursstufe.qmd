@@ -1,14 +1,14 @@
 ---
-title: "Unité 1 — Transition vers la Kursstufe"
-subtitle: "Parcours E (Gymnasium) · Klasse 10 · Niveau E"
+title: "Unité 1 — Transition vers la cycle terminal"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 1
 slug: "transition-vers-la-kursstufe"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -32,39 +32,39 @@ format:
 
 ## Objectifs
 
-- Je comprends les enjeux de la **Kursstufe** (Lf vs Bf).
+- Je comprends les enjeux de la **cycle terminal (« Kursstufe »)** (Lf vs Bf).
 - J'utilise **8 verbes** d'engagement scolaire au futur.
 - Je rédige une **lettre de motivation** pour le Lf
-  Französisch (~180 mots).
+ Französisch (~180 mots).
 
 ## Histoire d'introduction
 
 Septembre, rentrée en 10e. Mlle Lefèvre, prof d'option
 littérature, distribue le **dossier de pré-orientation
-Kursstufe** : *« Lf ou Bf ? À vous de choisir, mais avec les
+cycle terminal** : *« Lf ou Bf ? À vous de choisir, mais avec les
 yeux ouverts. »* Anouk a 6 mois pour décider.
 
 ## 1. Activer
 
 - Quelle option visez-vous : Lf, Bf ou pas de FR ?
-- Que veut dire **Leistungsfach** ?
-- Pourquoi continuer le français au lycée ?
+- Que veut dire **option d'approfondissement (« Leistungsfach »)** ?
+- Pourquoi continuer le français au lycée (« Gymnasium ») ?
 
 ## 2. Apporter
 
-### A. Lf vs Bf en BW (focus E)
+### A. Lf vs Bf en (focus E)
 
-| Critère              | Lf (Leistungsfach) | Bf (Basisfach)   |
+| Critère | Lf (option d'approfondissement) | Bf (option de base (« Basisfach »)) |
 |----------------------|--------------------|-------------------|
-| Heures/semaine       | 5 h               | 3 h               |
-| Examen écrit Abitur  | obligatoire (4 h) | obligatoire (3 h) |
-| Niveau cible         | B2 → C1           | B1+ → B2          |
-| Œuvres littéraires   | 3-4 obligatoires  | 1-2 obligatoires  |
+| Heures/semaine | 5 h | 3 h |
+| Examen écrit épreuve finale (« Abitur ») | obligatoire (4 h) | obligatoire (3 h) |
+| Niveau cible | B2 → C1 | B1+ → B2 |
+| Œuvres littéraires | 3-4 obligatoires | 1-2 obligatoires |
 
 ### B. 8 verbes d'engagement scolaire
 
 - *s'engager · approfondir · maîtriser · soutenir ·
-  s'investir · élargir · viser · persévérer.*
+ s'investir · élargir · viser · persévérer.*
 
 ### C. Lettre d'Anouk au comité d'orientation (texte original)
 
@@ -72,8 +72,8 @@ yeux ouverts. »* Anouk a 6 mois pour décider.
 >
 > Madame, Monsieur,
 >
-> Je sollicite mon admission en **Leistungsfach Französisch**
-> à la Kursstufe.
+> Je sollicite mon admission en **option d'approfondissement Französisch**
+> à la cycle terminal.
 >
 > En 9e, j'**ai approfondi** ma maîtrise du conditionnel et
 > du subjonctif. J'**ai effectué** un stage à l'Institut
@@ -129,15 +129,15 @@ d'engagement + 4 futurs simples + 2 formules de politesse.
 
 ## 5. Réfléchir
 
-- [ ] Je distingue Lf et Bf en BW.
+- [ ] Je distingue Lf et Bf en.
 - [ ] J'utilise 8 verbes d'engagement.
 - [ ] Je rédige une lettre formelle de 180 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : lettre Anouk, 5 questions.
 **Tâche 2 — Verbes (8 P.)** : 4 futurs simples.
-**Tâche 3 — Schreiben (12 P.)** : votre lettre (~180 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre lettre (~180 mots).
 
 **Total : 30 P.**
 
@@ -153,14 +153,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Lf / Bf** : termes allemands, en italique dans un texte
-  FR.
+ FR.
 - **« Sollicite »** ≠ *demande* (registre soutenu, formel
-  pour une candidature).
+ pour une candidature).
 - **« Persévérer »** : avec accent aigu sur le 2ᵉ *e*.
 
 ## Pour aller plus loin
 
-- **Bildungsplan BW Französisch (Kursstufe)** :
-  <https://www.bildungsplaene-bw.de/>
-- **Kultusministerium BW — orientation** :
-  <https://km.baden-wuerttemberg.de/>
+- **référentiel (« Bildungsplan ») Französisch (cycle terminal)** :
+ <https://www.bildungsplaene-bw.de/>
+- **Kultusministerium — orientation** :
+ <https://km.baden-wuerttemberg.de/>

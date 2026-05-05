@@ -1,20 +1,20 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 9"
-subtitle: "Ma chambre, ma maison · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 9"
+subtitle: "Ma chambre, ma maison · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
 ### Tâche 1 — Vocabulaire (10 P.)
 
 Traduisez :
 
 - das Zimmer · die Küche · das Wohnzimmer · das Badezimmer ·
-  der Balkon · der Garten · das Bett · der Schreibtisch ·
-  das Sofa · der Schrank.
+ der Balkon · der Garten · das Bett · der Schreibtisch ·
+ das Sofa · der Schrank.
 
 ### Tâche 2 — Prépositions (8 P.)
 
@@ -29,7 +29,7 @@ Complétez avec : *sur, sous, dans, devant, derrière, à côté de*.
 7. Les vieux jouets sont ___ le lit.
 8. Le tapis est ___ le canapé et la table.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Décrivez **votre chambre** en **70 mots** : taille + **4
 meubles** + **3 prépositions** différentes + ce que vous y
@@ -37,12 +37,12 @@ aimez.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Vocabulaire       | 10      |
-| Tâche 2 — Prépositions      | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Vocabulaire | 10 |
+| Tâche 2 — Prépositions | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ côté de.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 9*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 9*

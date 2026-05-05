@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 9"
-subtitle: "Monologue : présenter un dossier · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 9"
+subtitle: "Monologue : présenter un dossier · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le dossier *Annie Ernaux* (Unité 9, texte C). Répondez :
 
@@ -23,13 +23,13 @@ Lisez le dossier *Annie Ernaux* (Unité 9, texte C). Répondez :
 Reliez chaque mode à sa caractéristique :
 
 - chronologique · thématique · comparatif · problématique
-  · biographique · à clé · synthétique · critique
+ · biographique · à clé · synthétique · critique
 
 (Caractéristiques : biographie ordonnée · 3 thèmes · 2
 auteur·e·s · question/réponse · vie éclaire l'œuvre · clé
 spécifique · synthèse globale · regard critique.)
 
-### Tâche 3 — Schreiben dossier (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») dossier (12 P.)
 
 Rédigez **votre dossier** (~600 mots) sur un·e auteur·e :
 plan I-II-III + thèse personnelle + 6 références + 5
@@ -37,12 +37,12 @@ citations + 1 ouverture.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Modes             | 8       |
-| Tâche 3 — Dossier           | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Modes | 8 |
+| Tâche 3 — Dossier | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -60,4 +60,4 @@ plan I-II-III · thèse · 6 réf. · 5 citations · 1 ouverture.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 9*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 9*

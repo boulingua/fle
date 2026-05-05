@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau M) — Unité 4"
-subtitle: "Les repas · Klasse 7 · Niveau M"
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 4"
+subtitle: "Les repas · classe 7 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 7
+## Devoir surveillé — Niveau M, classe 7
 
 ### Tâche 1 — Grammatik : partitifs (10 P.)
 
@@ -21,7 +21,7 @@ Complétez avec *du, de la, de l', des, de*.
 7. Il commande ___ jus d'orange.
 8. On ne mange pas ___ viande aujourd'hui.
 
-### Tâche 2 — Leseverstehen (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez le dialogue D de l'Unité 4 (au café). Répondez :
 
@@ -30,19 +30,19 @@ Lisez le dialogue D de l'Unité 4 (au café). Répondez :
 3. Que prend Inès comme boisson ?
 4. Inès veut-elle de la confiture ?
 
-### Tâche 3 — Sprechen / Schreiben (12 P.)
+### Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 P.)
 
 Écrivez un **dialogue au café** en **6 répliques** :
 serveur ↔ client(e). Utilisez **3 partitifs** différents.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Grammatik         | 10      |
-| Tâche 2 — Leseverstehen     | 8       |
-| Tâche 3 — Dialogue          | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Grammatik | 10 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Dialogue | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ formules polies (*je voudrais, s'il vous plaît, merci*).
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 4*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau M · Unité 4*

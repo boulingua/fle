@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 4"
-subtitle: "Autour de la planète francophone · Klasse 8 · Niveau E"
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 4"
+subtitle: "Autour de la planète francophone · classe 8 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le texte sur la francophonie (Unité 4, texte C). Répondez :
 
@@ -27,7 +27,7 @@ Complétez avec *en, au, aux, à* :
 3. Inès étudie ___ Montréal, ___ Canada.
 4. Tante Soraya travaille ___ Tunis, ___ Tunisie.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez un **portrait d'un pays francophone** de votre choix
 en **120 mots** : continent + capitale + 2 faits culturels
@@ -35,12 +35,12 @@ en **120 mots** : continent + capitale + 2 faits culturels
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Prépositions      | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Prépositions | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -55,4 +55,4 @@ prépositions correctes · 2 faits culturels.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 4*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 4*

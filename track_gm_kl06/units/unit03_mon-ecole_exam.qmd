@@ -1,45 +1,45 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 3"
-subtitle: "Mon école · Klasse 6 · Niveau M"
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 3"
+subtitle: "Mon école · classe 6 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 6
+## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'emploi du temps de Léa (Unité 3, texte B).
 
-|   | Affirmation                                              | V | F |
+| | Affirmation | V | F |
 |---|----------------------------------------------------------|:-:|:-:|
-| 1 | Léa a français quatre fois par semaine.                  | ☐ | ☐ |
-| 2 | Le mercredi entre 9h et 10h, Léa fait du sport.          | ☐ | ☐ |
-| 3 | Léa n'a jamais musique.                                  | ☐ | ☐ |
-| 4 | Le vendredi à 8h, Léa a anglais.                         | ☐ | ☐ |
-| 5 | Question ouverte : citez les 4 matières du mardi.        |   |   |
+| 1 | Léa a français quatre fois par semaine. | ☐ | ☐ |
+| 2 | Le mercredi entre 9h et 10h, Léa fait du sport. | ☐ | ☐ |
+| 3 | Léa n'a jamais musique. | ☐ | ☐ |
+| 4 | Le vendredi à 8h, Léa a anglais. | ☐ | ☐ |
+| 5 | Question ouverte : citez les 4 matières du mardi. | | |
 
 ### Tâche 2 — Vocabulaire (10 P.)
 
 Traduisez :
 
 - les maths · Französisch · l'allemand · Englisch · le sport ·
-  Musik · les arts · Naturwissenschaften.
+ Musik · les arts · Naturwissenschaften.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Décrivez votre lundi à l'école en **50 mots** : au moins 4
 matières avec heures + une matière préférée.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 10      |
-| Tâche 3 — Schreiben         | 10      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 10 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -53,4 +53,4 @@ la musique / Kunst / les sciences.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 3*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 3*

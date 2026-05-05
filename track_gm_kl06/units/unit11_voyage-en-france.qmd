@@ -1,15 +1,15 @@
 ---
 title: "Unité 11 — Voyage en France — premières impressions"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 11
 slug: "voyage-en-france"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.4 Compétence textuelle et médiatique"
+  - "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
   - hör_hörsehverstehen
   - text_medien
@@ -54,19 +54,19 @@ leur premier vrai voyage en France.
 
 ### A. 5 villes + 3 monuments
 
-| Ville          | Région / mer / fleuve         |
+| Ville | Région / mer / fleuve |
 |----------------|-------------------------------|
-| Paris          | capitale, sur la Seine        |
-| Marseille      | sud, mer Méditerranée         |
-| Lyon           | est, sur le Rhône             |
-| Strasbourg     | nord-est, sur le Rhin         |
-| Nice           | Côte d'Azur                   |
+| Paris | capitale, sur la Seine |
+| Marseille | sud, mer Méditerranée |
+| Lyon | est, sur le Rhône |
+| Strasbourg | nord-est, sur le Rhin |
+| Nice | Côte d'Azur |
 
-| Monument                | Ville         |
+| Monument | Ville |
 |-------------------------|---------------|
-| la tour Eiffel          | Paris         |
-| le Mont-Saint-Michel    | Normandie     |
-| le pont du Gard         | Sud (Occitanie)|
+| la tour Eiffel | Paris |
+| le Mont-Saint-Michel | Normandie |
+| le pont du Gard | Sud (Occitanie)|
 
 ### B. Carte postale (texte original)
 
@@ -85,12 +85,12 @@ leur premier vrai voyage en France.
 
 ### C. Vocabulaire
 
-| Mot                  | Sens                              |
+| Mot | Sens |
 |----------------------|-----------------------------------|
-| la mer · la plage    | das Meer · der Strand             |
-| la montagne · le port| der Berg · der Hafen              |
-| visiter · monter     | besichtigen · hinaufgehen         |
-| une carte postale    | eine Postkarte                    |
+| la mer · la plage | das Meer · der Strand |
+| la montagne · le port| der Berg · der Hafen |
+| visiter · monter | besichtigen · hinaufgehen |
+| une carte postale | eine Postkarte |
 | bisous (mot affectueux) | « Küsschen » à la fin d'une lettre |
 
 ## 3. S'entraîner
@@ -146,11 +146,11 @@ a) Paris · b) Marseille · c) Lyon · d) Strasbourg · e) Nice
 - [ ] Je nomme 3 monuments.
 - [ ] J'écris une carte postale de 50 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Géographie (10 P.)** : situer 5 villes + 3 monuments.
 **Tâche 2 — Lecture (10 P.)** : carte postale de Léa.
-**Tâche 3 — Schreiben (10 P.)** : votre carte postale (50 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : votre carte postale (50 mots).
 
 **Total : 30 P.**
 
@@ -167,13 +167,13 @@ Réfléchir 2' · Aperçu 4'.
 ## Pièges fréquents
 
 - **« en » France** (pas *« in »*) ; **« à »** + ville (*à
-  Paris*).
+ Paris*).
 - **« la mer »** ≠ *« la mère »* (mais homophones — vigilance
-  oral !).
+ oral !).
 - **Bouillabaisse** : prononcer *bouillabèsse*.
 
 ## Pour aller plus loin
 
 - **France-Diplomatie — découvrir la France** :
-  <https://www.diplomatie.gouv.fr/>
+ <https://www.diplomatie.gouv.fr/>
 - **Atout France** : <https://www.france.fr/>

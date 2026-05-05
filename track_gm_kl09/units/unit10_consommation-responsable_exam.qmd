@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 10"
-subtitle: "Consommation responsable · Klasse 9 · Niveau M"
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 10"
+subtitle: "Consommation responsable · classe 9 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 9
+## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'article (Unité 10, texte C : Vinted). Répondez :
 
@@ -22,18 +22,18 @@ Lisez l'article (Unité 10, texte C : Vinted). Répondez :
 
 Reliez chaque label à sa définition (5 P.) :
 
-| Label                  | Définition                       |
+| Label | Définition |
 |------------------------|----------------------------------|
-| 1. GOTS                | a. sans matière animale           |
-| 2. Fairtrade           | b. commerce équitable             |
-| 3. Oeko-Tex            | c. coton biologique               |
-| 4. PETA Approved Vegan | d. entreprise à mission           |
-| 5. B Corp              | e. sans substances nocives        |
+| 1. GOTS | a. sans matière animale |
+| 2. Fairtrade | b. commerce équitable |
+| 3. Oeko-Tex | c. coton biologique |
+| 4. PETA Approved Vegan | d. entreprise à mission |
+| 5. B Corp | e. sans substances nocives |
 
 Plus, traduisez (3 P.) : *seconde main · empreinte (CO₂) ·
 atelier de confection*.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez une **critique d'une habitude de consommation**
 (~150 mots) en **3 paragraphes** :
@@ -44,12 +44,12 @@ Rédigez une **critique d'une habitude de consommation**
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -66,4 +66,4 @@ paragraphes · 2 arguments · 3 actions concrètes.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 10*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 10*

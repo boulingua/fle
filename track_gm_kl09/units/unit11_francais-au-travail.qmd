@@ -1,14 +1,14 @@
 ---
 title: "Unité 11 — Français au travail (un peu de jargon)"
-subtitle: "Parcours G+M · Klasse 9 · Niveau M"
+subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 11
 slug: "francais-au-travail"
 bildungsplan:
-  - "3.1.3.6 Sprachmittlung"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.6 Médiation linguistique"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - sprachmittlung
   - sprechen_dialog
@@ -47,25 +47,25 @@ on archive les images. Le délai est serré. »* Léa s'interroge :
 
 - Avez-vous déjà été en stage ?
 - Quelles différences entre le français de l'école et celui du
-  travail ?
+ travail ?
 - Connaissez-vous des **anglicismes** au bureau ?
 
 ## 2. Apporter
 
 ### A. 10 expressions du jargon pro
 
-| Expression          | Signification simple        |
+| Expression | Signification simple |
 |---------------------|-----------------------------|
-| un brief            | une réunion d'information   |
-| un debrief          | un retour après l'événement |
-| un délai            | une date limite             |
-| livrer (un projet)  | terminer et remettre        |
-| en ligne            | publié sur internet         |
+| un brief | une réunion d'information |
+| un debrief | un retour après l'événement |
+| un délai | une date limite |
+| livrer (un projet) | terminer et remettre |
+| en ligne | publié sur internet |
 | asap (« as soon as possible ») | aussi vite que possible |
-| la deadline         | le délai final              |
-| un point (faire un) | une réunion brève           |
-| onboarder           | accueillir un nouveau       |
-| le feedback         | le retour, l'avis           |
+| la deadline | le délai final |
+| un point (faire un) | une réunion brève |
+| onboarder | accueillir un nouveau |
+| le feedback | le retour, l'avis |
 
 ### B. Mail professionnel — structure
 
@@ -73,7 +73,7 @@ on archive les images. Le délai est serré. »* Léa s'interroge :
 2. **Salutation** : *« Bonjour Caroline, »* (avec virgule).
 3. **Corps** : 1 idée par paragraphe court.
 4. **Formule finale** : *« Cordialement, »* (semi-formel) ou
-   *« Bien cordialement, »* (un peu plus chaleureux).
+ *« Bien cordialement, »* (un peu plus chaleureux).
 5. **Signature** : prénom + nom + fonction.
 
 ### C. Texte source (allemand) — mail à médier
@@ -159,12 +159,12 @@ journée. Utilisez **5 expressions** du jargon pro (B).
 - [ ] Je médie un mail allemand en français.
 - [ ] Je joue un dialogue professionnel.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Sprachmittlung (15 P.)** : médier un mail allemand
+**Tâche 1 — médiation linguistique (« Sprachmittlung ») (15 P.)** : médier un mail allemand
 (~80 mots de FR).
 **Tâche 2 — Vocabulaire (10 P.)** : 10 expressions du jargon.
-**Tâche 3 — Schreiben (5 P.)** : un mail-réponse poli (50 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (5 P.)** : un mail-réponse poli (50 mots).
 
 **Total : 30 P.**
 
@@ -182,9 +182,9 @@ Produire 12' (binôme) · Réfléchir 2' · Aperçu 2'.
 - **« Asap »** s'écrit en minuscules dans un mail informel.
 - **« Cordialement, »** = formule standard, sûre.
 - **Anglicismes** acceptés au bureau, mais une **alternative
-  française** existe presque toujours.
+ française** existe presque toujours.
 
 ## Pour aller plus loin
 
 - **Académie française — Langue du travail** :
-  <https://www.academie-francaise.fr/dire-ne-pas-dire>
+ <https://www.academie-francaise.fr/dire-ne-pas-dire>

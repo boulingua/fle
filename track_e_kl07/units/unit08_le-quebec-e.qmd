@@ -1,14 +1,14 @@
 ---
 title: "Unité 8 — Le Québec — un autre français"
-subtitle: "Parcours E (Gymnasium) · Klasse 7 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 8
 slug: "le-quebec-e"
 bildungsplan:
-  - "3.1.4 Text- und Medienkompetenz"
-  - "3.1.3.2 Leseverstehen"
+  - "3.1.4 Compétence textuelle et médiatique"
+  - "3.1.3.2 Compréhension écrite"
 skills_focus:
   - text_medien
   - leseverstehen
@@ -60,16 +60,16 @@ Antoine. »* Anouk : *« Magasiner ? Souper ? Chum ? Aide-moi ! »*
 
 ### B. 8 québécismes
 
-| Québec        | France               |
+| Québec | France |
 |---------------|----------------------|
-| déjeuner      | petit-déjeuner       |
-| dîner         | déjeuner             |
-| souper        | dîner                |
-| char          | voiture              |
-| chum / blonde | copain / copine      |
-| magasiner     | faire les magasins   |
-| dépanneur     | épicerie de quartier |
-| poutine       | (plat québécois)     |
+| déjeuner | petit-déjeuner |
+| dîner | déjeuner |
+| souper | dîner |
+| char | voiture |
+| chum / blonde | copain / copine |
+| magasiner | faire les magasins |
+| dépanneur | épicerie de quartier |
+| poutine | (plat québécois) |
 
 ### C. Lettre d'Inès (texte original)
 
@@ -138,11 +138,11 @@ québécismes** entre guillemets.
 - [ ] Je connais 8 québécismes.
 - [ ] J'écris une lettre à un(e) Québécois(e).
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
-**Tâche 1 — Leseverstehen (12 P.)** : lettre Inès, 6 questions.
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)** : lettre Inès, 6 questions.
 **Tâche 2 — Québécismes (8 P.)** : 8 mots à traduire.
-**Tâche 3 — Schreiben (10 P.)** : réponse (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : réponse (~120 mots).
 
 **Total : 30 P.**
 
@@ -158,11 +158,11 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Repas inversés :** au Québec, déjeuner=matin, dîner=midi,
-  souper=soir.
+ souper=soir.
 - **« Une tuque »** = bonnet.
 - **« Fin de semaine »** au Québec = week-end (anglicisme évité).
 
 ## Pour aller plus loin
 
 - **Office québécois de la langue française** :
-  <https://vitrinelinguistique.oqlf.gouv.qc.ca/>
+ <https://vitrinelinguistique.oqlf.gouv.qc.ca/>

@@ -1,12 +1,12 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 11 (mock final)"
-subtitle: "Abitur mock final · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 11 (mock final)"
+subtitle: "épreuve finale mock final · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf — mock final)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock final)
 
 ### Tâche 1 — Verstehen (10 P.) — 60 min
 
@@ -18,25 +18,25 @@ Lisez les 3 textes (Unité 11, texte C). Répondez :
 4. Quel rang pour le français en Allemagne ?
 5. Quel anniversaire l'OFAJ ?
 
-### Tâche 2 — Analyse / Schreiben (10 P.) — 90 min
+### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 P.) — 90 min
 
 Comparez **la voix de Senghor (1945)** et celle d'**Aya
 Nakamura (2030)** (~400 mots). TAS + 3 citations + 1
 interprétation de l'évolution.
 
-### Tâche 3 — Sprachmittlung (10 P.) — 60 min
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 P.) — 60 min
 
 Médiez le texte 3 en français (~280 mots) : 5 verbes-
 charnières + lien interculturel.
 
 ## Notation
 
-| Tâche                 | Points | Durée  |
+| Tâche | Points | Durée |
 |-----------------------|--------|--------|
-| Verstehen             | 10     | 60 min |
-| Analyse / Schreiben   | 10     | 90 min |
-| Sprachmittlung        | 10     | 60 min |
-| **Total**             | **30** | **210 min** |
+| Verstehen | 10 | 60 min |
+| Analyse / Expression écrite | 10 | 90 min |
+| médiation linguistique | 10 | 60 min |
+| **Total** | **30** | **210 min** |
 
 ## Solutions
 
@@ -56,4 +56,4 @@ mondiale de l'anglais.*
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 11*

@@ -1,12 +1,12 @@
 ---
-title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 4"
-subtitle: "Court-métrage francophone · Klasse 11 · Niveau E (Abitur Bf)"
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 4"
+subtitle: "Court-métrage francophone · classe 11 · Niveau E (épreuve finale Bf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
 ### Tâche 1 — Hörverstehen / fiche (10 P.)
 
@@ -24,25 +24,25 @@ Répondez :
 Reliez chaque terme à sa définition :
 
 - plan · plan-séquence · ellipse · voix off · gros plan ·
-  champ-contre-champ · plan d'ensemble · montage cut
+ champ-contre-champ · plan d'ensemble · montage cut
 
 (Définitions : unité de cadrage · une scène en un plan ·
 saut temporel · narrateur invisible · visage en gros · 2
 plans alternés · large · coupe nette.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez la **fiche d'analyse** (~250 mots) d'un court-métrage
 au choix : 4 étapes + 6 termes filmiques + 1 citation.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Hörverstehen      | 10      |
-| Tâche 2 — Termes filmiques  | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Termes filmiques | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ managériale.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 4*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 4*

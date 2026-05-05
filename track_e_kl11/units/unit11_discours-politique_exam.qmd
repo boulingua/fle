@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 11"
-subtitle: "Discours politique : analyser · Klasse 11 · Niveau E (Abitur Bf)"
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 11"
+subtitle: "Discours politique : analyser · classe 11 · Niveau E (épreuve finale Bf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'appel du 18 juin (Unité 11, texte C). Répondez :
 
@@ -24,23 +24,23 @@ Identifiez le procédé :
 
 1. *Cette guerre … Cette guerre … Cette guerre …* → ___
 2. *Mais le dernier mot est-il dit ? L'espérance doit-elle
-   disparaître ? La défaite est-elle définitive ?* → ___
+ disparaître ? La défaite est-elle définitive ?* → ___
 3. *La flamme de la résistance* → ___
 4. *Non !* (isolé après les 3 questions) → ___
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Analysez un **discours politique francophone** (~280 mots) :
 contexte + 4 procédés + 1 chute + lien époque.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Procédés          | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Procédés | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -58,4 +58,4 @@ contexte · 4 procédés · 1 chute · 1 lien.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 11*

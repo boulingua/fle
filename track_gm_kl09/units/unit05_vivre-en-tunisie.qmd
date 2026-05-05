@@ -1,14 +1,14 @@
 ---
 title: "Unité 5 — Vivre en Tunisie"
-subtitle: "Parcours G+M · Klasse 9 · Niveau M"
+subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 5
 slug: "vivre-en-tunisie"
 bildungsplan:
-  - "3.1.4 Text- und Medienkompetenz"
-  - "3.1.3.2 Leseverstehen"
+  - "3.1.4 Compétence textuelle et médiatique"
+  - "3.1.3.2 Compréhension écrite"
 skills_focus:
   - text_medien
   - leseverstehen
@@ -39,7 +39,7 @@ format:
 ## Histoire d'introduction
 
 Mehdi, 15 ans, vit à Sfax (Tunisie). Il écrit à Léa son blog
-*« Sfax-Karlsruhe »*. *« Le matin, je vais au lycée à pied.
+*« Sfax-Karlsruhe »*. *« Le matin, je vais au lycée (« Gymnasium ») à pied.
 À la récré, on parle français, arabe, anglais — tout mélangé !
 On appelle ça l'**arabizi** quand on l'écrit. »*
 
@@ -55,21 +55,21 @@ On appelle ça l'**arabizi** quand on l'écrit. »*
 
 - **12,4 millions** d'habitants (2025).
 - **3 langues** : arabe (officielle), français (administration,
-  école), berbère (~1 %).
+ école), berbère (~1 %).
 - **2011** : Révolution du Jasmin → printemps arabe.
 - **1956** : Indépendance (anciennement protectorat français
-  1881-1956).
+ 1881-1956).
 - **Capitale** : Tunis · **Plus grande ville côtière** : Sfax.
 
 ### B. Vocabulaire — vie quotidienne
 
-| Tunisien (FR de Tunisie) | Standard / Allemand        |
+| Tunisien (FR de Tunisie) | Standard / Allemand |
 |--------------------------|----------------------------|
-| la *koura*               | le foot / Fußball          |
-| la *brick*               | beignet d'œuf / Spezialität|
-| le *medina*              | vieille ville / Altstadt   |
-| le *souk*                | marché / Markt             |
-| la *darija*              | arabe parlé / Umgangssprache|
+| la *koura* | le foot / Fußball |
+| la *brick* | beignet d'œuf / Spezialität|
+| le *medina* | vieille ville / Altstadt |
+| le *souk* | marché / Markt |
+| la *darija* | arabe parlé / Umgangssprache|
 
 ### C. Blog de Mehdi (texte original)
 
@@ -139,11 +139,11 @@ mots tunisiens** entre guillemets et **1 fait** sur la Tunisie.
 - [ ] Je connais 5 mots du français de Tunisie.
 - [ ] J'écris une réponse à un correspondant maghrébin.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Leseverstehen (12 P.)** : blog de Mehdi, 6 questions.
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)** : blog de Mehdi, 6 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 mots tunisien ↔ standard.
-**Tâche 3 — Schreiben (10 P.)** : réponse à Mehdi (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : réponse à Mehdi (~120 mots).
 
 **Total : 30 P.**
 
@@ -159,15 +159,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Le français »** en Tunisie est une **langue seconde** —
-  pas une langue étrangère.
+ pas une langue étrangère.
 - **Tahar Ben Jelloun** est marocain, pas tunisien — l'auteur
-  tunisien le plus connu en français est **Albert Memmi**.
+ tunisien le plus connu en français est **Albert Memmi**.
 - **« Les pays du Maghreb »** : Maroc, Algérie, Tunisie,
-  Mauritanie, Libye.
+ Mauritanie, Libye.
 
 ## Pour aller plus loin
 
 - **TV5 Monde — Maghreb** :
-  <https://information.tv5monde.com/>
+ <https://information.tv5monde.com/>
 - **Albert Memmi — œuvre** :
-  <https://fr.wikipedia.org/wiki/Albert_Memmi>
+ <https://fr.wikipedia.org/wiki/Albert_Memmi>

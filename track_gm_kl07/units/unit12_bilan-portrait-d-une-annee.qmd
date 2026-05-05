@@ -1,15 +1,15 @@
 ---
 title: "Unité 12 — Bilan : portrait d'une année"
-subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 12
 slug: "bilan-portrait-d-une-annee"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.2 Interkulturelle kommunikative Kompetenz"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.2 Compétence interculturelle communicative"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -54,11 +54,11 @@ qui vous a plu ? Qu'est-ce que vous allez faire l'an prochain en
 
 ### A. Les 3 temps de la 7e
 
-| Temps         | Forme               | Exemple                       |
+| Temps | Forme | Exemple |
 |---------------|---------------------|-------------------------------|
-| présent       | je …                | *Je parle français.*          |
-| passé composé | j'ai/je suis + p.p. | *J'ai appris 12 leçons.*      |
-| futur proche  | je vais + INF       | *Je vais continuer en 8e.*    |
+| présent | je … | *Je parle français.* |
+| passé composé | j'ai/je suis + p.p. | *J'ai appris 12 leçons.* |
+| futur proche | je vais + INF | *Je vais continuer en 8e.* |
 
 ### B. Connecteurs pour un bilan
 
@@ -129,7 +129,7 @@ Rédigez **votre portrait d'année de 7e** :
 2. Ce que **je sais faire maintenant** (présent).
 3. Ce que **je vais faire en 8e** (futur proche).
 4. Utilisez **3 connecteurs** (*d'abord, ensuite, enfin / l'an
-   prochain*).
+ prochain*).
 
 ## 5. Réfléchir
 
@@ -137,11 +137,11 @@ Rédigez **votre portrait d'année de 7e** :
 - [ ] J'enchaîne avec des connecteurs.
 - [ ] Je rédige un portrait personnel de 100 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : bilan de Léa, 5 questions.
 **Tâche 2 — Grammatik (8 P.)** : 6 verbes aux 3 temps.
-**Tâche 3 — Schreiben (12 P.)** : votre bilan (~100 mots,
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre bilan (~100 mots,
 3 temps).
 
 **Total : 30 P.**
@@ -158,12 +158,12 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Mélanger présent et passé composé** : *Cette année, **j'ai
-  appris*** (passé) ≠ *Cette année, j'apprends* (présent).
+ appris*** (passé) ≠ *Cette année, j'apprends* (présent).
 - **Connecteurs** au début de la phrase, avec virgule.
 - **Futur proche** à l'intérieur d'un récit passé : utiliser
-  *l'an prochain, plus tard*.
+ *l'an prochain, plus tard*.
 
 ## Pour aller plus loin
 
-- **Aperçu Kl. 8 G+M** :
-  [Klasse 8 — index](../../track_gm_kl08/index.qmd)
+- **Aperçu cl. 8 G+M** :
+ [classe 8 — index](../../track_gm_kl08/index.qmd)

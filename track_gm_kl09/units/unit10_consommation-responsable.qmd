@@ -1,14 +1,14 @@
 ---
 title: "Unité 10 — Consommation responsable"
-subtitle: "Parcours G+M · Klasse 9 · Niveau M"
+subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 10
 slug: "consommation-responsable"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -53,14 +53,14 @@ choisis du coton bio. »* Léa découvre ce que veut dire
 
 ### A. Fast fashion vs. mode durable
 
-| Critère          | Fast fashion        | Mode durable          |
+| Critère | Fast fashion | Mode durable |
 |------------------|---------------------|-----------------------|
-| Prix             | très bas (5-30 €)   | moyen-élevé (30-100 €) |
-| Quantité         | 52 collections/an   | 2-4 collections/an    |
-| Origine          | Asie (souvent)      | Europe / Maghreb      |
-| Conditions       | parfois exploitation| ateliers contrôlés    |
-| Durée d'usage    | quelques mois       | plusieurs années      |
-| Pollution        | élevée              | réduite               |
+| Prix | très bas (5-30 €) | moyen-élevé (30-100 €) |
+| Quantité | 52 collections/an | 2-4 collections/an |
+| Origine | Asie (souvent) | Europe / Maghreb |
+| Conditions | parfois exploitation| ateliers contrôlés |
+| Durée d'usage | quelques mois | plusieurs années |
+| Pollution | élevée | réduite |
 
 ### B. 5 labels
 
@@ -96,7 +96,7 @@ choisis du coton bio. »* Léa découvre ce que veut dire
 2. Quel pourcentage des 16-25 ans y achètent ?
 3. Cite les **3 raisons** de son succès.
 4. Combien de fois acheter d'occasion divise-t-il l'empreinte
-   CO₂ ?
+ CO₂ ?
 5. Quelle est la règle d'or ?
 
 **Ex. 2 — Labels.** Quel label correspond ?
@@ -143,12 +143,12 @@ Rédigez une **critique d'une habitude de consommation**
 - [ ] Je connais 5 labels.
 - [ ] Je rédige une critique structurée.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Leseverstehen (10 P.)** : article Vinted, 5 questions.
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : article Vinted, 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 5 labels + 3 termes
 (*seconde main, empreinte, atelier*).
-**Tâche 3 — Schreiben (12 P.)** : critique + propositions
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : critique + propositions
 (~150 mots).
 
 **Total : 30 P.**
@@ -166,12 +166,12 @@ Produire 13' · Réfléchir 2' · Aperçu 2'.
 
 - **« Empreinte »** = trace, impact (féminin).
 - **« Acheter moins, garder plus longtemps »** = règle citée
-  par l'ADEME.
+ par l'ADEME.
 - **« Écoresponsable »** = un seul mot, pas de tiret.
 
 ## Pour aller plus loin
 
 - **ADEME — Mode et impacts** :
-  <https://www.ademe.fr/>
+ <https://www.ademe.fr/>
 - **Fairtrade Max Havelaar France** :
-  <https://maxhavelaarfrance.org/>
+ <https://maxhavelaarfrance.org/>

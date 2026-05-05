@@ -1,21 +1,21 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 9"
-subtitle: "Ma chambre · Klasse 6 · Niveau M"
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 9"
+subtitle: "Ma chambre · classe 6 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 6
+## Devoir surveillé — Niveau M, classe 6
 
 ### Tâche 1 — Vocabulaire (10 P.)
 
 Traduisez :
 
 - 6 pièces : *Schlafzimmer · Küche · Wohnzimmer · Badezimmer ·
-  Toilette · Flur*.
+ Toilette · Flur*.
 - 6 meubles : *Bett · Schreibtisch · Stuhl · Schrank · Tisch ·
-  Regal*.
+ Regal*.
 
 ### Tâche 2 — Prépositions (10 P.)
 
@@ -27,7 +27,7 @@ Complétez avec : *sur · sous · dans · à côté de · entre · devant*.
 4. Le bureau est ___ ___ la fenêtre.
 5. Le tapis est ___ le lit et la chaise.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Décrivez **votre chambre** en ~50 mots avec au moins 3
 prépositions et 5 meubles.
@@ -44,4 +44,4 @@ chaise · l'armoire · la table · l'étagère.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 9*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 9*

@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 6"
-subtitle: "Médiation avancée DE↔FR · Klasse 10 · Niveau E"
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 6"
+subtitle: "Médiation avancée DE↔FR · classe 10 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez la médiation FR (Unité 6, texte C). Répondez :
 
@@ -26,7 +26,7 @@ Reformulez chaque phrase allemande en français :
 3. *Er fordert …* → Il ___
 4. *Sie nuanciert …* → Elle ___
 
-### Tâche 3 — Sprachmittlung (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)
 
 Médiez ce texte allemand en français (~200 mots) :
 
@@ -42,12 +42,12 @@ médiation.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Verbes médiation  | 8       |
-| Tâche 3 — Sprachmittlung    | 14      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Verbes médiation | 8 |
+| Tâche 3 — médiation linguistique | 14 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -67,4 +67,4 @@ déjà fait le choix du vélo et donne raison à cette
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 6*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 6*

@@ -1,14 +1,14 @@
 ---
 title: "Unité 3 — Mon collège"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 3
 slug: "mon-college-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -32,13 +32,13 @@ format:
 
 ## Objectifs
 
-- Je nomme **8 lieux** du collège (cantine, CDI, gymnase…).
+- Je nomme **8 lieux** du collège (« Realschule ») (cantine, CDI, gymnase…).
 - Je connais **8 matières** et leurs horaires.
 - Je décris ma **journée scolaire** type.
 
 ## Histoire d'introduction
 
-Tristan visite le Gymnasium d'Anouk. *« Voilà la cantine, la
+Tristan visite le lycée (« Gymnasium ») d'Anouk. *« Voilà la cantine, la
 bibliothèque, le gymnase… »* — *« Vous avez aussi un CDI ? »* —
 *« Oui, c'est notre bibliothèque pour étudier. »*
 
@@ -52,30 +52,30 @@ bibliothèque, le gymnase… »* — *« Vous avez aussi un CDI ? »* —
 
 ### A. 8 lieux du collège
 
-| Français          | Allemand          |
+| Français | Allemand |
 |-------------------|-------------------|
-| la cantine        | die Mensa         |
+| la cantine | die Mensa |
 | la bibliothèque / CDI | die Bibliothek |
-| le gymnase        | die Sporthalle    |
-| la cour           | der Pausenhof     |
+| le gymnase | die Sporthalle |
+| la cour | der Pausenhof |
 | la salle de classe| das Klassenzimmer |
-| le couloir        | der Gang          |
-| la salle des profs| das Lehrerzimmer  |
-| le bureau du directeur | das Büro     |
+| le couloir | der Gang |
+| la salle des profs| das Lehrerzimmer |
+| le bureau du directeur | das Büro |
 
 ### B. 8 matières (avec articles)
 
 - *les maths · le français · l'allemand · l'anglais · le sport
-  · la musique · les arts plastiques · les sciences.*
+ · la musique · les arts plastiques · les sciences.*
 
 ### C. Emploi du temps d'Anouk (texte original)
 
-| Heure   | Lundi      | Mardi   | Mercredi | Jeudi    | Vendredi |
+| Heure | Lundi | Mardi | Mercredi | Jeudi | Vendredi |
 |---------|------------|---------|----------|----------|----------|
-| 8h-9h   | maths      | sport   | français | allemand | anglais  |
-| 9h-10h  | français   | maths   | sport    | maths    | sciences |
-| 10h-11h | allemand   | musique | maths    | français | arts     |
-| 11h-12h | anglais    | français| anglais  | sport    | musique  |
+| 8h-9h | maths | sport | français | allemand | anglais |
+| 9h-10h | français | maths | sport | maths | sciences |
+| 10h-11h | allemand | musique | maths | français | arts |
+| 11h-12h | anglais | français| anglais | sport | musique |
 
 ## 3. S'entraîner
 
@@ -121,12 +121,12 @@ préférée + un lieu du collège qui vous plaît.
 - [ ] Je connais 8 matières.
 - [ ] Je lis un emploi du temps + j'écris ma journée.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : emploi du temps,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : emploi du temps,
 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 lieux + matières.
-**Tâche 3 — Schreiben (12 P.)** : votre lundi (~70 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre lundi (~70 mots).
 
 **Total : 30 P.**
 
@@ -142,13 +142,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« CDI »** = Centre de Documentation et d'Information
-  (= Bibliothèque scolaire en français de France).
+ (= Bibliothèque scolaire en français de France).
 - **« Le sport »** = Sportunterricht ; mais *« faire du
-  sport »* = *Sport machen*.
+ sport »* = *Sport machen*.
 - **« En français »** = la langue ; **« le français »** = la
-  matière.
+ matière.
 
 ## Pour aller plus loin
 
 - **Eduscol — système scolaire** :
-  <https://eduscol.education.fr/>
+ <https://eduscol.education.fr/>

@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau M) — Unité 9"
-subtitle: "Fête d'anniversaire · Klasse 7 · Niveau M"
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 9"
+subtitle: "Fête d'anniversaire · classe 7 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 7
+## Devoir surveillé — Niveau M, classe 7
 
 ### Tâche 1 — Grammatik : futur proche (10 P.)
 
@@ -21,18 +21,18 @@ Conjuguez au futur proche.
 7. Léa *(souffler)* ses bougies.
 8. Mes parents *(préparer)* les pizzas.
 
-### Tâche 2 — Leseverstehen (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez le carton d'invitation et le dialogue (Unité 9). Vrai/faux :
 
-|   | Affirmation                                             | V | F |
+| | Affirmation | V | F |
 |---|---------------------------------------------------------|:-:|:-:|
-| 1 | Léa a 12 ans.                                           | ☐ | ☐ |
-| 2 | La fête a lieu samedi 15 mars.                          | ☐ | ☐ |
-| 3 | Il faut apporter un cadeau.                             | ☐ | ☐ |
-| 4 | Inès va dormir chez tante Marie.                        | ☐ | ☐ |
+| 1 | Léa a 12 ans. | ☐ | ☐ |
+| 2 | La fête a lieu samedi 15 mars. | ☐ | ☐ |
+| 3 | Il faut apporter un cadeau. | ☐ | ☐ |
+| 4 | Inès va dormir chez tante Marie. | ☐ | ☐ |
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre invitation d'anniversaire** en **80 mots** :
 date, lieu, programme, RSVP. Utilisez **3 verbes au futur
@@ -40,12 +40,12 @@ proche**.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Grammatik         | 10      |
-| Tâche 2 — Leseverstehen     | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Grammatik | 10 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -60,4 +60,4 @@ souffler · 8) vont préparer.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 9*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau M · Unité 9*

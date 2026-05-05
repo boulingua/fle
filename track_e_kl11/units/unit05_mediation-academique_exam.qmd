@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 5"
-subtitle: "Médiation académique · Klasse 11 · Niveau E (Abitur Bf)"
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 5"
+subtitle: "Médiation académique · classe 11 · Niveau E (épreuve finale Bf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez la médiation FR (Unité 5, texte C). Répondez :
 
@@ -26,7 +26,7 @@ Reformulez en français :
 3. *Eine Studie nuanciert …* → ___
 4. *Die Autoren bestreiten …* → ___
 
-### Tâche 3 — Sprachmittlung académique (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») académique (14 P.)
 
 Médiez ce texte allemand en français (~280 mots) :
 
@@ -44,12 +44,12 @@ précis + 1 citation (Müller et al., 2024).
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Verbes académiques| 8       |
-| Tâche 3 — Sprachmittlung    | 14      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Verbes académiques| 8 |
+| Tâche 3 — médiation linguistique | 14 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -71,4 +71,4 @@ pas la difficulté politique de cette réduction.*
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 5*

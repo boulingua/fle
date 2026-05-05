@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 10"
-subtitle: "Réflexion sur son propre parcours FLE · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 10"
+subtitle: "Réflexion sur son propre parcours FLE · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le récit de parcours d'Anouk (Unité 10, texte C).
 Répondez :
@@ -24,13 +24,13 @@ Répondez :
 Reliez chaque axe à sa question :
 
 - origine · transformations · voix marquantes · difficultés
-  · réussites · avenir
+ · réussites · avenir
 
 (Questions : Comment ai-je rencontré ? · Qu'a changé en
 moi ? · Quel·le·s auteur·e·s ? · Qu'ai-je trouvé difficile ?
 · De quoi suis-je fier·ère ? · Qu'en ferai-je ?)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre récit de parcours FLE** (~500 mots) :
 6 axes + 5 moments-clés + 4 citations littéraires + 1
@@ -38,12 +38,12 @@ projet d'avenir + 1 chute mémorable.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — 6 axes            | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — 6 axes | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ Bordeaux, chez Mollat.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 10*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 10*

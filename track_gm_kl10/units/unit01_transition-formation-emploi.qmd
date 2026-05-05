@@ -1,14 +1,14 @@
 ---
 title: "Unité 1 — Transition formation / emploi"
-subtitle: "Parcours G+M · Klasse 10 · Niveau M"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 1
 slug: "transition-formation-emploi"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -38,7 +38,7 @@ format:
 
 ## Histoire d'introduction
 
-Léa est en 10e — fin de la Mittlere Reife. Mlle Lefèvre, prof
+Léa est en 10e — fin de la diplôme intermédiaire (« Mittlerer Bildungsabschluss »). Mlle Lefèvre, prof
 d'option, lui demande : *« Et après la 10e, qu'est-ce que vous
 envisagez ? Une Ausbildung ? Un Berufskolleg ? Un Erasmus ? »*
 
@@ -52,18 +52,18 @@ envisagez ? Une Ausbildung ? Un Berufskolleg ? Un Erasmus ? »*
 
 ### A. 4 voies après la 10e (équivalences)
 
-| Allemagne                | France équivalent                |
+| Allemagne | France équivalent |
 |--------------------------|----------------------------------|
-| Ausbildung (3 ans)       | apprentissage (CAP, BP, Bac pro) |
-| Berufskolleg / FOS       | lycée professionnel              |
-| Studium (Hochschule)     | études supérieures (université)  |
-| FSJ (1 an volontaire)    | service civique (8 mois)         |
+| Ausbildung (3 ans) | apprentissage (CAP, BP, Bac pro) |
+| Berufskolleg / FOS | lycée (« Gymnasium ») professionnel |
+| Studium (Hochschule) | études supérieures (université) |
+| FSJ (1 an volontaire) | service civique (8 mois) |
 
 ### B. Vocabulaire
 
 - *un apprenti / une apprentie · une candidature · un CDD /
-  CDI · un salaire · un patron · un mentor · l'expérience
-  professionnelle.*
+ CDI · un salaire · un patron · un mentor · l'expérience
+ professionnelle.*
 
 ### C. Petite annonce (texte original)
 
@@ -76,7 +76,7 @@ envisagez ? Une Ausbildung ? Un Berufskolleg ? Un Erasmus ? »*
 > - **Horaires :** du lundi au samedi, 4h-12h.
 > - **Salaire :** 800 € le 1ʳᵉ année, 1100 € la 3ᵉ.
 > - **Profil :** motivé(e), ponctuel(le), aimant le travail
->   d'équipe.
+> d'équipe.
 >
 > **Candidature :** lettre + CV à hugo@chez-hugo.fr avant le
 > 15 mai 2026.
@@ -99,7 +99,7 @@ envisagez ? Une Ausbildung ? Un Berufskolleg ? Un Erasmus ? »*
 > d'apprentie boulangère que vous proposez à partir de
 > septembre 2026.
 >
-> Actuellement en classe de 10e, je termine ma Mittlere Reife
+> Actuellement en classe de 10e, je termine ma diplôme intermédiaire
 > en juin. J'ai déjà effectué un Praktikum d'une semaine chez
 > vous en 9e ; cette expérience m'a confortée dans mon choix.
 >
@@ -129,9 +129,9 @@ a) un CDI · b) un CDD · c) un mentor · d) un apprenti.
 
 **Ex. 3 — Reformuler en français standard.**
 
-1. *Ausbildung* = ___ .
-2. *FSJ* = ___ .
-3. *Berufskolleg* = ___ .
+1. *Ausbildung* = ___.
+2. *FSJ* = ___.
+3. *Berufskolleg* = ___.
 
 ::: {.callout-tip collapse="true" title="Solutions"}
 
@@ -161,11 +161,11 @@ conclusion (formule + signature). Joindre **mention CV**.
 - [ ] Je lis une petite annonce.
 - [ ] Je rédige une candidature en 180 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : annonce + lettre, 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 termes professionnels.
-**Tâche 3 — Schreiben (12 P.)** : votre candidature (~180 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre candidature (~180 mots).
 
 **Total : 30 P.**
 
@@ -181,13 +181,13 @@ Produire 13' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Apprentissage »** ≠ *Auswendiglernen*. C'est la
-  *Ausbildung* en alternance.
+ *Ausbildung* en alternance.
 - **« CV »** = *Curriculum Vitae* (en français usuel).
 - **« Candidature spontanée »** = sans annonce préalable.
 
 ## Pour aller plus loin
 
 - **ONISEP — orientation** :
-  <https://www.onisep.fr/>
+ <https://www.onisep.fr/>
 - **Pôle Emploi — apprentissage** :
-  <https://www.pole-emploi.fr/>
+ <https://www.pole-emploi.fr/>

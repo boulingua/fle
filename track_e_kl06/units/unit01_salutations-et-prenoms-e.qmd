@@ -1,13 +1,13 @@
 ---
 title: "Unité 1 — Salutations et prénoms"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 1
 slug: "salutations-et-prenoms-e"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - sprechen_dialog
 format:
@@ -23,7 +23,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Gymnasium)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (lycée (« Gymnasium »))
 :::
 
 {{< downloads >}}
@@ -36,7 +36,7 @@ format:
 
 ## Histoire d'introduction
 
-Premier jour au Gymnasium. Anouk arrive en classe. Tristan, un
+Premier jour au lycée. Anouk arrive en classe. Tristan, un
 Belge installé à Strasbourg, entre. *« Bonjour, je m'appelle
 Tristan. »* — *« Salut, moi c'est Anouk. Tu es nouveau ? »*
 
@@ -50,14 +50,14 @@ Tristan. »* — *« Salut, moi c'est Anouk. Tu es nouveau ? »*
 
 ### A. 6 salutations
 
-| Français            | Allemand            |
+| Français | Allemand |
 |---------------------|---------------------|
-| Bonjour             | Guten Tag           |
-| Bonsoir             | Guten Abend         |
-| Salut               | Hallo / Tschüss     |
-| Au revoir           | Auf Wiedersehen     |
-| Bonne journée       | Schönen Tag         |
-| À bientôt           | Bis bald            |
+| Bonjour | Guten Tag |
+| Bonsoir | Guten Abend |
+| Salut | Hallo / Tschüss |
+| Au revoir | Auf Wiedersehen |
+| Bonne journée | Schönen Tag |
+| À bientôt | Bis bald |
 
 ### B. Se présenter
 
@@ -126,12 +126,12 @@ nationalité. Épelez votre nom de famille.
 - [ ] Je me présente en 5 phrases.
 - [ ] Je connais l'alphabet français.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
-**Tâche 1 — Sprechen (10 P.)** : dialogue noté en binôme.
+**Tâche 1 — Expression orale (« Sprechen ») (10 P.)** : dialogue noté en binôme.
 **Tâche 2 — Vocabulaire (8 P.)** : 6 salutations + lettres
 particulières.
-**Tâche 3 — Schreiben (12 P.)** : ma carte d'identité (~50 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : ma carte d'identité (~50 mots).
 
 **Total : 30 P.**
 
@@ -148,10 +148,10 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **« Salut »** = familier, à éviter avec un adulte.
 - **« Tu »** vs. **« vous »** : tu = ami / camarade ; vous =
-  prof / inconnu.
+ prof / inconnu.
 - **« H »** est muet en français : *Hugo* se dit *« Ugo »*.
 
 ## Pour aller plus loin
 
 - **TV5 Monde — Apprendre le français** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

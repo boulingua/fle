@@ -1,14 +1,14 @@
 ---
 title: "Unité 4 — Francophonie aujourd'hui"
-subtitle: "Parcours G+M · Klasse 10 · Niveau M"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 4
 slug: "francophonie-aujourd-hui"
 bildungsplan:
-  - "3.1.4 Text- und Medienkompetenz"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.4 Compétence textuelle et médiatique"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - text_medien
   - sprechen_monolog
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je situe **5 zones** francophones (Europe, Afrique,
-  Amériques, Pacifique, Maghreb).
+ Amériques, Pacifique, Maghreb).
 - Je connais **3 institutions** francophones.
 - Je présente un **pays francophone** au choix (3 min).
 
@@ -54,21 +54,21 @@ français surtout en France ! »*
 
 ### A. 5 zones de la francophonie
 
-| Zone               | Pays exemples                  |
+| Zone | Pays exemples |
 |--------------------|--------------------------------|
-| Europe             | France, Belgique, Suisse, Luxembourg, Monaco |
-| Afrique            | Sénégal, Côte d'Ivoire, Cameroun, RDC, Gabon |
-| Amériques          | Québec, Acadie, Haïti          |
-| Pacifique          | Polynésie française, Vanuatu, Nouvelle-Calédonie |
-| Maghreb / Levant   | Tunisie, Maroc, Algérie, Liban |
+| Europe | France, Belgique, Suisse, Luxembourg, Monaco |
+| Afrique | Sénégal, Côte d'Ivoire, Cameroun, RDC, Gabon |
+| Amériques | Québec, Acadie, Haïti |
+| Pacifique | Polynésie française, Vanuatu, Nouvelle-Calédonie |
+| Maghreb / Levant | Tunisie, Maroc, Algérie, Liban |
 
 ### B. 3 institutions francophones
 
 - **OIF** (Organisation internationale de la Francophonie) :
-  88 États, fondée en 1970.
+ 88 États, fondée en 1970.
 - **TV5MONDE** : chaîne TV multilatérale, 354 millions de foyers.
 - **AUF** (Agence universitaire de la Francophonie) : 1 028
-  universités.
+ universités.
 
 ### C. Texte (texte original)
 
@@ -134,11 +134,11 @@ géographique, statut du français (officiel / langue d'éducation
 - [ ] Je connais l'OIF, TV5MONDE, AUF.
 - [ ] Je présente un pays francophone (3 min).
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : rapport OIF, 5 questions.
 **Tâche 2 — Géographie (8 P.)** : 8 pays à classer par zone.
-**Tâche 3 — Schreiben (12 P.)** : présentation d'un pays
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : présentation d'un pays
 (~150 mots).
 
 **Total : 30 P.**
@@ -155,16 +155,16 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« La francophonie »** (avec un f minuscule) = la communauté
-  des locuteurs ; **« la Francophonie »** (F majuscule) =
-  l'institution OIF.
+ des locuteurs ; **« la Francophonie »** (F majuscule) =
+ l'institution OIF.
 - **Tahar Ben Jelloun** est marocain ; **Léopold Sédar Senghor**
-  sénégalais ; **Maryse Condé** guadeloupéenne.
+ sénégalais ; **Maryse Condé** guadeloupéenne.
 - **Acadie** ≠ *Québec* — communauté francophone du Nouveau-
-  Brunswick (Canada atlantique).
+ Brunswick (Canada atlantique).
 
 ## Pour aller plus loin
 
 - **OIF** :
-  <https://www.francophonie.org/>
+ <https://www.francophonie.org/>
 - **TV5MONDE** :
-  <https://www.tv5monde.com/>
+ <https://www.tv5monde.com/>

@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 7"
-subtitle: "Engagement citoyen · Klasse 10 · Niveau M"
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 7"
+subtitle: "Engagement citoyen · classe 10 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 10
+## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez la tribune de Léa (Unité 7, texte C). Répondez :
 
@@ -22,13 +22,13 @@ Lisez la tribune de Léa (Unité 7, texte C). Répondez :
 Traduisez :
 
 - das Ehrenamt · die Petition · die Demonstration · der Boykott
-  · der Verein · die Tribüne (Meinung) · der Aktivismus ·
-  die Bürgerinitiative.
+ · der Verein · die Tribüne (Meinung) · der Aktivismus ·
+ die Bürgerinitiative.
 
 Plus, 2 jeunes français engagés (FR) à nommer (avec leur cause) :
 *Hugo Travers · Camille Étienne · Bilal Hassani*.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez une **tribune** de **200 mots** sur une cause qui vous
 tient à cœur. Plan : accroche + **3 arguments** (5 connecteurs)
@@ -36,12 +36,12 @@ tient à cœur. Plan : accroche + **3 arguments** (5 connecteurs)
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Vocabulaire       | 10      |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Vocabulaire | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ complet · 5 connecteurs · style engagé.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 7*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau M · Unité 7*

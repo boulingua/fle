@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 10"
-subtitle: "Cinéma québécois · Klasse 8 · Niveau E"
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 10"
+subtitle: "Cinéma québécois · classe 8 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
 ### Tâche 1 — Hörverstehen (10 P.)
 
@@ -24,13 +24,13 @@ texte C). Répondez :
 Reliez chaque mot à sa définition :
 
 - bande-annonce · intrigue · réalisateur · personnage ·
-  scène · générique · acteur · genre
+ scène · générique · acteur · genre
 
 (Définitions : pub courte · trame · metteur en scène · figure
 fictive · moment du film · liste des participants · interprète
 · catégorie.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Présentez par écrit un **film francophone** de votre choix
 (~120 mots) : titre + année + réalisateur·rice + acteur
@@ -39,12 +39,12 @@ verdict.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Hörverstehen      | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -61,4 +61,4 @@ genre = catégorie.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 10*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 10*

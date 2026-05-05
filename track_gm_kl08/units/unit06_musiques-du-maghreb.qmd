@@ -1,15 +1,15 @@
 ---
 title: "Unité 6 — Musiques du Maghreb"
-subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 6
 slug: "musiques-du-maghreb"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.4 Compétence textuelle et médiatique"
+  - "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
   - hör_hörsehverstehen
   - text_medien
@@ -37,10 +37,10 @@ format:
 - Je distingue **raï · chaâbi · rap maghrébin**.
 - Je présente une chanson en deux phrases.
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.1** Hör-/Hörsehverstehen
-- **3.1.4** Text- und Medienkompetenz
+- **3.1.3.1** Compréhension orale (« Hören ») et audiovisuelle (« Hör-/Hörsehverstehen »)
+- **3.1.4** Compétence textuelle et médiatique (« Text- und Medienkompetenz »)
 - **3.1.1** Soziokulturelles Orientierungswissen
 
 ## Histoire d'introduction
@@ -53,7 +53,7 @@ sourit : *« Vas-y. Mais explique d'abord ce que c'est. »*
 ## 1. Activer
 
 - Connaissez-vous des chanteur·euse·s francophones d'origine
-  maghrébine ?
+ maghrébine ?
 - Le mot **raï** vient de quelle langue ?
 - Quelle musique écoutent vos ami·e·s en allemand ?
 
@@ -86,14 +86,14 @@ sourit : *« Vas-y. Mais explique d'abord ce que c'est. »*
 
 ### C. Vocabulaire
 
-| Mot                 | Sens                                 |
+| Mot | Sens |
 |---------------------|--------------------------------------|
-| le raï              | genre musical algérien               |
-| le chaâbi           | musique populaire (héritage andalou) |
-| le luth / oud       | instrument à cordes                  |
-| la derbouka         | tambour                              |
-| une diaspora        | communauté qui vit hors de son pays  |
-| une double identité | appartenance à deux cultures         |
+| le raï | genre musical algérien |
+| le chaâbi | musique populaire (héritage andalou) |
+| le luth / oud | instrument à cordes |
+| la derbouka | tambour |
+| une diaspora | communauté qui vit hors de son pays |
+| une double identité | appartenance à deux cultures |
 
 ## 3. S'entraîner
 
@@ -107,13 +107,13 @@ sourit : *« Vas-y. Mais explique d'abord ce que c'est. »*
 
 1. Le texte parle d'une seule ville.
 2. *« Aucun n'est entier »* signifie qu'aucun pays n'est complet
-   pour la voix qui chante.
+ pour la voix qui chante.
 3. *« L'écran »* fait référence à la télévision ou au téléphone.
 
 **Ex. 3 — Vocabulaire.** Reliez :
 
 a) une diaspora · b) le luth · c) la derbouka · d) le rap
-   maghrébin
+ maghrébin
 
 1. Tambour de la musique chaâbi.
 2. Genre apparu dans les années 2000.
@@ -153,7 +153,7 @@ phrases :
 - [ ] Je comprends un refrain de ~30 mots.
 - [ ] Je présente une chanson en deux phrases.
 
-## Exemple d'épreuve — Klassenarbeit (M, partie écoute)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M, partie écoute)
 
 **Tâche 1 — Hörverstehen (15 P.)**
 
@@ -162,7 +162,7 @@ Vous écoutez le refrain (texte B, lu deux fois) et répondez :
 1. Quels sont les **deux lieux** mentionnés ?
 2. Que signifie *« aucun n'est entier »* ?
 3. À votre avis, qui est la voix qui chante ? Qu'est-ce qui
-   vous fait dire ça ?
+ vous fait dire ça ?
 
 **Tâche 2 — Text-/Medienkompetenz (10 P.)**
 
@@ -173,7 +173,7 @@ a) Mélange arabe-français + voix puissantes + Oran 1980 → ___
 b) Oud + derbouka + mariages → ___
 c) Banlieue + double identité + années 2000 → ___
 
-**Tâche 3 — Schreiben (5 P.)**
+**Tâche 3 — Expression écrite (« Schreiben ») (5 P.)**
 
 En 3 phrases : décrivez votre **chanson préférée** (genre +
 artiste + pourquoi).
@@ -196,14 +196,14 @@ Réfléchir 3' · Aperçu 15'.
 
 - **« le raï »** se prononce *[raj]*, pas *[ré]*.
 - **Maghreb** = trois pays principaux (Maroc · Algérie ·
-  Tunisie) ; **pas** synonyme d'Afrique du Nord (qui inclut
-  aussi la Mauritanie et la Libye).
+ Tunisie) ; **pas** synonyme d'Afrique du Nord (qui inclut
+ aussi la Mauritanie et la Libye).
 - **Diaspora** est féminin : *la* diaspora, pas *le*.
 
 ## Pour aller plus loin
 
 - **France Musique — Maghreb** :
-  <https://www.radiofrance.fr/francemusique>
+ <https://www.radiofrance.fr/francemusique>
 - **Mediapart — Cultures du Maghreb** : <https://www.mediapart.fr/>
 - **TV5 Monde — Musique francophone** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

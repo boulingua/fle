@@ -1,14 +1,12 @@
 ---
-title: "Klasse 6 — Niveau G+M (première année de FLE)"
+title: "Classe 6 — Niveau G+M (première année de FLE)"
 ---
 
 ::: {.hero-kicker}
-PARCOURS G+M · KLASSE 6 · DÉBUTANT·E·S
+PARCOURS G+M · CLASSE 6 · DÉBUTANT·E·S
 :::
 
-# Klasse 6 — Niveau G+M
-
-[A1]{.cefr-badge .a1}
+[A1]{.cefr-badge.a1}
 
 Première année de **Français Langue Étrangère** comme 2e langue
 vivante. Douze Unités sur le niveau **M** : sons, salutations,
@@ -36,89 +34,89 @@ loisirs, écrire une carte postale, dresser un portrait de classe.
 
 ::: {.card}
 ### [Unité 1 — Salutations et prénoms](units/unit01_salutations-et-prenoms.qmd)
-Modul : Sprechen. Bonjour/Salut/Au revoir, prénoms épelés.
+Module : Expression orale (« Sprechen »). Bonjour/Salut/Au revoir, prénoms épelés.
 :::
 
 ::: {.card}
 ### [Unité 2 — Ma famille](units/unit02_ma-famille.qmd)
-Modul : Sprechen. 8 membres + possessifs *mon/ma/mes*.
+Module : Expression orale. 8 membres + possessifs *mon/ma/mes*.
 :::
 
 ::: {.card}
 ### [Unité 3 — Mon école](units/unit03_mon-ecole.qmd)
-Modul : Lesen. 8 matières + emploi du temps.
+Module : Compréhension écrite (« Leseverstehen »). 8 matières + emploi du temps.
 :::
 
 ::: {.card}
 ### [Unité 4 — Ma journée](units/unit04_ma-journee.qmd)
-Modul : Schreiben. 5 verbes au présent (être/avoir/aller/manger/
+Module : Expression écrite (« Schreiben »). 5 verbes au présent (être/avoir/aller/manger/
 faire).
 :::
 
 ::: {.card}
 ### [Unité 5 — J'aime, je n'aime pas](units/unit05_j-aime-je-n-aime-pas.qmd)
-Modul : Sprechen. Échelle des goûts + négation *ne … pas*.
+Module : Expression orale. Échelle des goûts + négation *ne … pas*.
 :::
 
 ::: {.card}
 ### [Unité 6 — Au marché](units/unit06_au-marche.qmd)
-Modul : Hören. Fruits/légumes + *Je voudrais*.
+Module : Compréhension orale (« Hören »). Fruits/légumes + *Je voudrais*.
 :::
 
 ::: {.card}
 ### [Unité 7 — Le temps et l'heure](units/unit07_le-temps-et-l-heure.qmd)
-Modul : Lesen. 7 jours + 12 mois + heures.
+Module : Compréhension écrite. 7 jours + 12 mois + heures.
 :::
 
 ::: {.card}
 ### [Unité 8 — La météo et les saisons](units/unit08_la-meteo-et-les-saisons.qmd)
-Modul : Hören. 4 saisons + *Il fait/Il y a*.
+Module : Compréhension orale. 4 saisons + *Il fait/Il y a*.
 :::
 
 ::: {.card}
 ### [Unité 9 — Ma chambre, ma maison](units/unit09_ma-chambre.qmd)
-Modul : Sprechen. 6 pièces + 6 prépositions.
+Module : Expression orale. 6 pièces + 6 prépositions.
 :::
 
 ::: {.card}
 ### [Unité 10 — Mes loisirs](units/unit10_mes-loisirs.qmd)
-Modul : Sprechen. *Jouer au · faire du · aller à*.
+Module : Expression orale. *Jouer au · faire du · aller à*.
 :::
 
 ::: {.card}
 ### [Unité 11 — Voyage en France](units/unit11_voyage-en-france.qmd)
-Modul : Hören. 5 villes + 3 monuments + carte postale.
+Module : Compréhension orale. 5 villes + 3 monuments + carte postale.
 :::
 
 ::: {.card}
 ### [Unité 12 — Bilan : portrait de classe](units/unit12_bilan-portrait-de-classe.qmd)
-Modul : Sprechen. Sprachmittlung + portrait collectif.
+Module : Expression orale. Médiation linguistique (« Sprachmittlung ») + portrait collectif.
 :::
 
 :::
 
 ## Cap d'épreuve
 
-Klassenarbeit BW (M), durée ~45 minutes, 30 points par épreuve.
-Notenschlüssel typique : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5
+Devoir surveillé (M), durée ~45 minutes, 30 points par épreuve.
+barème de notes (« Notenschlüssel ») typique : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5
 ≥ 8 · 6 < 8*.
 
 ## Couverture des compétences (3.1.3.x)
 
-| Code        | Compétence                  | Unités       |
+| Code | Compétence | Unités |
 |-------------|-----------------------------|--------------|
-| 3.1.3.1     | Hör-/Hörsehverstehen        | 6, 8, 11     |
-| 3.1.3.2     | Leseverstehen               | 2, 3, 7, 10  |
-| 3.1.3.3     | Sprechen Dialog             | 1, 5, 6, 10  |
-| 3.1.3.4     | Sprechen Monolog            | 2, 4, 9, 12  |
-| 3.1.3.5     | Schreiben                   | 3, 4, 5, 9, 11 |
-| 3.1.3.6     | Sprachmittlung              | 12           |
-| 3.1.3.7     | Wortschatz                  | toutes       |
-| 3.1.3.8     | Grammatik                   | 4, 5         |
-| 3.1.4       | Text- und Medienkompetenz   | 11           |
+| 3.1.3.1 | Compréhension orale et audiovisuelle (« Hör-/Hörsehverstehen ») | 6, 8, 11 |
+| 3.1.3.2 | Compréhension écrite | 2, 3, 7, 10 |
+| 3.1.3.3 | Expression orale Dialog | 1, 5, 6, 10 |
+| 3.1.3.4 | Expression orale Monolog | 2, 4, 9, 12 |
+| 3.1.3.5 | Expression écrite | 3, 4, 5, 9, 11 |
+| 3.1.3.6 | médiation linguistique | 12 |
+| 3.1.3.7 | Wortschatz | toutes |
+| 3.1.3.8 | Grammatik | 4, 5 |
+| 3.1.4 | Compétence textuelle et médiatique (« Text- und Medienkompetenz ») | 11 |
 
 ## Voir aussi
 
 - [Plan hebdomadaire](uebersicht.qmd)
 - [Programme complet (156 Unités)](../programme.qmd)
-- [Bildungsplan](../bildungsplan.qmd)
+- [Référentiel](../bildungsplan.qmd)

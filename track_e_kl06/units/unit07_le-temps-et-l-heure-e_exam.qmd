@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 7"
-subtitle: "Le temps et l'heure · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 7"
+subtitle: "Le temps et l'heure · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la météo de la semaine (Unité 7, texte D). Répondez :
 
@@ -25,19 +25,19 @@ Lisez la météo de la semaine (Unité 7, texte D). Répondez :
 1. 1/1 · 2. 14/7 · 3. 25/12 · 4. 8/3 · 5. 31/10 · 6. 5/5 ·
 7. 6/6 · 8. 11/11.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre météo de la semaine** en **70 mots** : 7 jours
 + température + soleil/pluie/vent + 1 vêtement adapté.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Date / mois       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Date / mois | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -54,4 +54,4 @@ température · vêtement.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 7*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 7*

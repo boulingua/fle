@@ -1,14 +1,14 @@
 ---
 title: "Unité 4 — Autour de la planète francophone"
-subtitle: "Parcours E (Gymnasium) · Klasse 8 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 4
 slug: "autour-de-la-planete-francophone-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - leseverstehen
   - sprechen_monolog
@@ -53,14 +53,14 @@ pas qu'à Paris ! »* Anouk repère le **Sénégal**, Karim la
 
 ### A. Carte des 6 pays (focus E)
 
-| Pays           | Continent      | Capitale       |
+| Pays | Continent | Capitale |
 |----------------|----------------|----------------|
-| France         | Europe         | Paris          |
-| Belgique       | Europe         | Bruxelles      |
-| Sénégal        | Afrique        | Dakar          |
-| Tunisie        | Afrique        | Tunis          |
-| Canada (Qc)    | Amérique N.    | Québec         |
-| Polynésie fr.  | Océanie        | Papeete        |
+| France | Europe | Paris |
+| Belgique | Europe | Bruxelles |
+| Sénégal | Afrique | Dakar |
+| Tunisie | Afrique | Tunis |
+| Canada (Qc) | Amérique N. | Québec |
+| Polynésie fr. | Océanie | Papeete |
 
 ### B. Prépositions de pays
 
@@ -128,11 +128,11 @@ parce que …* » + 5 prépositions correctes.
 - [ ] J'utilise en/au/aux sans erreur.
 - [ ] Je présente un pays en 90 secondes.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : texte francophonie, 5 questions.
 **Tâche 2 — Prépositions (8 P.)** : 8 phrases.
-**Tâche 3 — Schreiben (12 P.)** : portrait d'un pays (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : portrait d'un pays (~120 mots).
 
 **Total : 30 P.**
 
@@ -148,12 +148,12 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« au » Québec** (provincial), mais **« à »** Montréal
-  (ville).
+ (ville).
 - **« en » Tunisie** (féminin), **« au » Sénégal** (masculin).
 - **Le Canada** est francophone seulement au **Québec** (et
-  partiellement au Nouveau-Brunswick).
+ partiellement au Nouveau-Brunswick).
 
 ## Pour aller plus loin
 
 - **Organisation internationale de la Francophonie (OIF)** :
-  <https://www.francophonie.org/>
+ <https://www.francophonie.org/>

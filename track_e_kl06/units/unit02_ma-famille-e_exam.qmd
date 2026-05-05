@@ -1,21 +1,21 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 2"
-subtitle: "Ma famille · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 2"
+subtitle: "Ma famille · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
 ### Tâche 1 — Vocabulaire (10 P.)
 
 Traduisez :
 
 - der Vater · die Mutter · der Bruder · die Schwester · der Opa
-  · die Oma · der Onkel · die Tante · der Cousin · die Cousine.
+ · die Oma · der Onkel · die Tante · der Cousin · die Cousine.
 
-### Tâche 2 — Leseverstehen (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez la famille d'Anouk (Unité 2, texte C). Répondez :
 
@@ -24,7 +24,7 @@ Lisez la famille d'Anouk (Unité 2, texte C). Répondez :
 3. Où vivent les grands-parents ?
 4. Comment s'appelle le chien ?
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Présentez **votre famille** en **70 mots** : 4 membres minimum,
 prénoms, âges, professions, ville. Utilisez **5 possessifs**
@@ -32,12 +32,12 @@ prénoms, âges, professions, ville. Utilisez **5 possessifs**
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Vocabulaire       | 10      |
-| Tâche 2 — Leseverstehen     | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Vocabulaire | 10 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -53,4 +53,4 @@ médecin. 3) Stuttgart. 4) Bello.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 2*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 2*

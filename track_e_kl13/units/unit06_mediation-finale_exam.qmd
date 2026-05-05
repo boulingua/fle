@@ -1,12 +1,12 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 6"
-subtitle: "Médiation FR↔DE (finale) · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 6"
+subtitle: "Médiation FR↔DE (finale) · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
 ### Tâche 1 — Verstehen (8 P.)
 
@@ -16,7 +16,7 @@ Lisez la médiation DE (Unité 6, texte C). Répondez :
 2. Quelle est la dotation du prix ?
 3. Quels 4 auteurs cite-t-elle ?
 4. Quelle est la phrase finale de Marie-Christine
-   Saragosse ?
+ Saragosse ?
 
 ### Tâche 2 — Faux amis franco-allemands (8 P.)
 
@@ -26,9 +26,9 @@ Donnez la **bonne traduction** :
 2. *réunion* → ___
 3. *débat* → ___
 4. *éventuellement* (en français) → ___ (allemand,
-   attention faux ami !)
+ attention faux ami !)
 
-### Tâche 3 — Sprachmittlung finale (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») finale (14 P.)
 
 Médiez ce texte français en allemand (~350 mots) :
 
@@ -43,12 +43,12 @@ Médiez ce texte français en allemand (~350 mots) :
 
 ## Notation
 
-| Tâche                    | Points |
+| Tâche | Points |
 |--------------------------|--------|
-| Verstehen                | 8      |
-| Faux amis                | 8      |
-| Sprachmittlung           | 14     |
-| **Total**                | **30** |
+| Verstehen | 8 |
+| Faux amis | 8 |
+| médiation linguistique | 14 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -65,11 +65,11 @@ ne signifie *pas* éventuellement en français).
 Kontinenten. In Afrika, wo Französisch zunimmt, werden für
 2050 600 Millionen Sprecher·innen prognostiziert. Tahar
 Ben Jelloun, marokkanischer Schriftsteller, erinnert: « Die
-französische Sprache hat mich adoptiert, und sie erlaubt
+französische Langue hat mich adoptiert, und sie erlaubt
 mir, mit den Franzosen über ihre Geschichte zu sprechen. »
 Die Frankophonie ist somit ein **geteiltes Erbe**, mehr als
 eine **Hinterlassenschaft**.* (~280 mots).
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 6*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 6*

@@ -1,14 +1,14 @@
 ---
 title: "Unité 2 — Ma famille"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 2
 slug: "ma-famille-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.2 Compréhension écrite"
 skills_focus:
   - sprechen_monolog
   - leseverstehen
@@ -52,25 +52,25 @@ Tristan : *« Tu as de la chance — moi, je suis fils unique. »*
 
 ### A. 10 membres de la famille
 
-| Français       | Allemand     |
+| Français | Allemand |
 |----------------|--------------|
 | le père / papa | der Vater / Papa |
 | la mère / maman| die Mutter / Mama |
-| le frère       | der Bruder   |
-| la sœur        | die Schwester|
-| le grand-père  | der Opa      |
-| la grand-mère  | die Oma      |
-| l'oncle        | der Onkel    |
-| la tante       | die Tante    |
-| le cousin      | der Cousin   |
-| la cousine     | die Cousine  |
+| le frère | der Bruder |
+| la sœur | die Schwester|
+| le grand-père | der Opa |
+| la grand-mère | die Oma |
+| l'oncle | der Onkel |
+| la tante | die Tante |
+| le cousin | der Cousin |
+| la cousine | die Cousine |
 
 ### B. Adjectifs possessifs (1ʳᵉ pers.)
 
-| Singulier         | Pluriel |
+| Singulier | Pluriel |
 |-------------------|---------|
-| **mon** père      | **mes** parents |
-| **ma** mère       | **mes** sœurs |
+| **mon** père | **mes** parents |
+| **ma** mère | **mes** sœurs |
 | **mon** amie *(voyelle)* | **mes** amis |
 
 ### C. La famille d'Anouk (texte original)
@@ -103,10 +103,10 @@ Tristan : *« Tu as de la chance — moi, je suis fils unique. »*
 
 **Ex. 3 — Vocabulaire.** Qui est-ce ?
 
-a) La sœur de mon père = ___ .
-b) Le fils de mon oncle = ___ .
-c) Le père de ma mère = ___ .
-d) La fille de mes parents = ___ .
+a) La sœur de mon père = ___.
+b) Le fils de mon oncle = ___.
+c) Le père de ma mère = ___.
+d) La fille de mes parents = ___.
 
 ::: {.callout-tip collapse="true" title="Solutions"}
 
@@ -134,11 +134,11 @@ Présentez **votre famille** en 6 phrases : nombres, prénoms,
 - [ ] J'utilise *mon, ma, mes*.
 - [ ] Je présente ma famille en 6 phrases.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Vocabulaire (10 P.)** : 10 membres à traduire.
 **Tâche 2 — Lecture (8 P.)** : famille d'Anouk, 4 questions.
-**Tâche 3 — Schreiben (12 P.)** : votre famille (~70 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre famille (~70 mots).
 
 **Total : 30 P.**
 
@@ -156,9 +156,9 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 - **« Mon amie »** (devant voyelle, même au féminin).
 - **« Cousin / cousine »** prend 1 *s* en français.
 - **« Bello »** = chien : article *un chien*, pas *le chien*
-  pour la 1ʳᵉ mention.
+ pour la 1ʳᵉ mention.
 
 ## Pour aller plus loin
 
 - **TV5 Monde — La famille** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

@@ -5,8 +5,6 @@ aliases:
   - /legal/impressum/
 ---
 
-# Impressum
-
 ## Angaben gemäß § 5 DDG
 
 S. Le Boulanger\
@@ -51,7 +49,7 @@ sowie zum Urheberrecht finden Sie auf der Seite
 
 Diese Materialien sind eine persönliche didaktische Sammlung der
 Autorin und stehen in **keinem offiziellen Zusammenhang** mit
-einer Schule, dem Land Baden-Württemberg oder dem Ministerium für
-Kultus, Jugend und Sport. Der Bezug zum Bildungsplan 2016 (Sek I)
-bzw. zum Bildungsplan gymnasiale Oberstufe 2021 ist
+einer Schule, dem Land oder dem Ministerium für
+Kultus, Jugend und Sport. Der Bezug zum référentiel 2016 (secondaire I)
+bzw. zum référentiel du cycle terminal (2021) ist
 inhaltlich-fachlich, **keine offizielle Freigabe**.

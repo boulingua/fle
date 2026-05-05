@@ -1,14 +1,14 @@
 ---
-title: "Unité 5 — Sprachmittlung DE → résumé FR"
-subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+title: "Unité 5 — Médiation linguistique DE → résumé FR"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 5
 slug: "sprachmittlung-de-fr-resume"
 bildungsplan:
-  - "3.1.3.6 Sprachmittlung"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.6 Médiation linguistique"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprachmittlung
 format:
@@ -33,14 +33,14 @@ format:
 
 - Je transforme un texte allemand court en **résumé français**.
 - Je distingue **médiation** (sens fidèle, pas mot à mot) et
-  **traduction** (mot à mot).
+ **traduction** (mot à mot).
 - J'utilise les **expressions du résumé** : *il s'agit de … ·
-  d'après le texte … · selon l'auteur·rice …*
+ d'après le texte … · selon l'auteur·rice …*
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.6** Sprachmittlung — médiation linguistique.
-- **3.1.3.5** Schreiben — production écrite courte.
+- **3.1.3.6** médiation linguistique (« Sprachmittlung ») — médiation linguistique.
+- **3.1.3.5** Expression écrite (« Schreiben ») — production écrite courte.
 
 ## Histoire d'introduction
 
@@ -79,13 +79,13 @@ phrases. »*
 
 ### B. Stratégies de médiation
 
-| Étape          | Action                                      |
+| Étape | Action |
 |----------------|---------------------------------------------|
-| **1. Lire**    | Lire deux fois ; surligner les noms propres et chiffres. |
+| **1. Lire** | Lire deux fois ; surligner les noms propres et chiffres. |
 | **2. Identifier** | Qui · Quoi · Où · Quand · Combien · Pourquoi ? |
-| **3. Réduire** | Sélectionner 4-6 idées principales.        |
-| **4. Reformuler** | Mettre en français, **pas** mot à mot.   |
-| **5. Vérifier** | Lecture finale ; sens fidèle ?            |
+| **3. Réduire** | Sélectionner 4-6 idées principales. |
+| **4. Reformuler** | Mettre en français, **pas** mot à mot. |
+| **5. Vérifier** | Lecture finale ; sens fidèle ? |
 
 ### C. Expressions utiles pour résumer
 
@@ -111,28 +111,28 @@ Dans le texte allemand, identifiez :
 à mot** :
 
 1. *Die sprachlichen Fortschritte sind klein, aber die
-   kulturellen Erkenntnisse sind groß.*
+ kulturellen Erkenntnisse sind groß.*
 2. *Mein Sohn ist selbstständiger zurückgekommen.*
 
 **Ex. 3 — Phrases de résumé.** Complétez avec une expression de
 B :
 
 1. ____________________ d'un échange scolaire entre Karlsruhe
-   et Lille.
+ et Lille.
 2. ____________________, les progrès linguistiques sont petits.
 3. ____________________ étendre le programme à trois semaines.
 
 ::: {.callout-tip collapse="true" title="Solutions"}
 
 **Ex. 1.** Wer = 24 Schüler:innen einer Karlsruher
-Gemeinschaftsschule + Frau Renault. Wo = Lille (collège
+Gemeinschaftsschule + Frau Renault. Wo = Lille (collège (« Realschule »)
 partenaire). Wie lange = zwei Wochen. Frau Renault sagt : les
 progrès linguistiques sont petits, mais les connaissances
 culturelles sont grandes. Plan futur : étendre à trois semaines.
 
 **Ex. 2.** Modèle :
 1. *Les progrès en langue sont modestes, mais les bénéfices
-   culturels sont nombreux.*
+ culturels sont nombreux.*
 2. *Mon fils est devenu plus autonome après l'échange.*
 
 **Ex. 3.** 1) *Il s'agit* · 2) *D'après / selon le texte* ·
@@ -163,12 +163,12 @@ traduction mot à mot.
 
 - [ ] Je distingue traduction et médiation.
 - [ ] Je sais réduire un texte allemand en cinq phrases
-      françaises.
+ françaises.
 - [ ] J'utilise au moins **trois** expressions de résumé.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche unique — Sprachmittlung (30 P.)**
+**Tâche unique — médiation linguistique (30 P.)**
 
 Vous lisez un court article allemand (~150 mots, fourni par la
 prof). Vous écrivez en **français**, en cinq à sept phrases
@@ -177,10 +177,10 @@ ami·e francophone qui ne lit pas l'allemand.
 
 **Critères :**
 
-- **Inhalt** (idées principales) : 12 P.
-- **Sprache** (résumé fluide, expressions adéquates) : 10 P.
+- **Contenu** (idées principales) : 12 P.
+- **Langue** (résumé fluide, expressions adéquates) : 10 P.
 - **Sens fidèle** (pas de contresens, pas de traduction mot à
-  mot) : 8 P.
+ mot) : 8 P.
 
 ## Téléchargements {#downloads}
 
@@ -199,14 +199,14 @@ en bonus. Moins rapides : modèle de 5 phrases avec lacunes.
 ## Pièges fréquents
 
 - **Pas de mot à mot.** *„Schüleraustausch"* ≠ *« échange
-  d'élèves »* littéralement ; on dit **« échange scolaire »**.
+ d'élèves »* littéralement ; on dit **« échange scolaire »**.
 - **Garder les noms propres** (Karlsruhe, Lille) tels quels.
 - **Citation indirecte** : *Madame Renault dit que les progrès
-  sont …* (pas *« que sont »*).
+ sont …* (pas *« que sont »*).
 
 ## Pour aller plus loin
 
-- **Goethe-Institut — Sprachmittlung pour DaF/FLE** :
-  <https://www.goethe.de/>
+- **Goethe-Institut — médiation linguistique pour DaF/FLE** :
+ <https://www.goethe.de/>
 - **CIEP / France Éducation International — Médiation** :
-  <https://www.france-education-international.fr/>
+ <https://www.france-education-international.fr/>

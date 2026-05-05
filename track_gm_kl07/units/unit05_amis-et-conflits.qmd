@@ -1,15 +1,15 @@
 ---
 title: "Unité 5 — Amis et conflits"
-subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 5
 slug: "amis-et-conflits"
 bildungsplan:
-  - "3.1.3.3 Sprechen — dialogisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.2 Interkulturelle kommunikative Kompetenz"
+  - "3.1.3.3 Expression orale — dialogisches Expression orale"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.2 Compétence interculturelle communicative"
 skills_focus:
   - sprechen_dialog
   - schreiben
@@ -36,7 +36,7 @@ format:
 - J'exprime mes **sentiments** : *content, fâché, triste, jaloux*.
 - Je raconte un **conflit** entre ami(e)s.
 - J'utilise les **pronoms COD** : *me, te, le, la, les, nous,
-  vous*.
+ vous*.
 
 ## Histoire d'introduction
 
@@ -54,25 +54,25 @@ on fait la paix ? »* — *« D'accord. »* Ils se sourient.
 
 ### A. Vocabulaire — les sentiments
 
-| Français       | Allemand      |
+| Français | Allemand |
 |----------------|---------------|
-| content(e)     | zufrieden     |
-| heureux(se)    | glücklich     |
-| triste         | traurig       |
-| fâché(e)       | böse          |
-| jaloux(se)     | eifersüchtig  |
-| déçu(e)        | enttäuscht    |
-| inquiet(e)     | besorgt       |
-| amoureux(se)   | verliebt      |
+| content(e) | zufrieden |
+| heureux(se) | glücklich |
+| triste | traurig |
+| fâché(e) | böse |
+| jaloux(se) | eifersüchtig |
+| déçu(e) | enttäuscht |
+| inquiet(e) | besorgt |
+| amoureux(se) | verliebt |
 
 ### B. Pronoms COD
 
-|         | singulier | pluriel |
+| | singulier | pluriel |
 |---------|-----------|---------|
-| 1ère    | me / m'   | nous    |
-| 2ème    | te / t'   | vous    |
-| 3ème m. | le / l'   | les     |
-| 3ème f. | la / l'   | les     |
+| 1ère | me / m' | nous |
+| 2ème | te / t' | vous |
+| 3ème m. | le / l' | les |
+| 3ème f. | la / l' | les |
 
 > *Tu écoutes Léa ?* → *Oui, je **l'**écoute.*
 > *Vous voyez Léa et Théo ?* → *Oui, je **les** vois.*
@@ -139,11 +139,11 @@ composé**. Comment vous êtes-vous réconciliés ?
 - [ ] J'utilise les pronoms COD *me, te, le, la, les*.
 - [ ] J'écris un récit de réconciliation.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Grammatik (10 P.)** : 8 phrases avec pronoms COD.
 **Tâche 2 — Lecture (8 P.)** : texte C, 4 questions.
-**Tâche 3 — Schreiben (12 P.)** : votre dispute (~80 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dispute (~80 mots).
 
 **Total : 30 P.**
 
@@ -159,12 +159,12 @@ Produire 11' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Place du pronom :** avant le verbe — *Je **le** vois* (pas
-  *Je vois le*).
+ *Je vois le*).
 - **Élision :** *me, te, le, la* → *m', t', l'* devant voyelle.
 - **Accord du participe passé** au passé composé avec COD
-  antéposé : *Léa, je **l'**ai vu**e**.*
+ antéposé : *Léa, je **l'**ai vu**e**.*
 
 ## Pour aller plus loin
 
 - **France TV — Une fille comme elle** (série pour ados) :
-  <https://www.france.tv/>
+ <https://www.france.tv/>

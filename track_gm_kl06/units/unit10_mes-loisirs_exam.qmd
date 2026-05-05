@@ -1,16 +1,16 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 10"
-subtitle: "Mes loisirs · Klasse 6 · Niveau M"
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 10"
+subtitle: "Mes loisirs · classe 6 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 6
+## Devoir surveillé — Niveau M, classe 6
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
-Lisez l'affiche des activités du collège (Unité 10, texte C).
+Lisez l'affiche des activités du collège (« Realschule ») (Unité 10, texte C).
 Répondez :
 
 1. Quel club a lieu le mercredi ?
@@ -30,7 +30,7 @@ Complétez avec : *au · à la · aux · du · de la · des*.
 5. Vous jouez ___ cartes.
 6. Ils font ___ équitation.
 
-### Tâche 3 — Sprechen mündlich (10 P.)
+### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)
 
 Interview en binôme : 3 questions sur les loisirs + restitution
 orale (1 minute).
@@ -46,4 +46,4 @@ orale (1 minute).
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 10*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 10*

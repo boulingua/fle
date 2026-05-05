@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 1"
-subtitle: "Le monde du travail · Klasse 9 · Niveau M"
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 1"
+subtitle: "Le monde du travail · classe 9 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 9
+## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le rapport de stage de Léa (Unité 1, texte D). Répondez :
 
@@ -23,9 +23,9 @@ Lisez le rapport de stage de Léa (Unité 1, texte D). Répondez :
 Traduisez les métiers :
 
 - Bäcker · Krankenpflegerin · Lehrer · Ingenieurin ·
-  Journalist · Friseuse · Informatiker · Architektin.
+ Journalist · Friseuse · Informatiker · Architektin.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre rapport de Praktikum** en **120 mots** :
 date, lieu, tuteur, **3 tâches** au passé composé, **2 choses
@@ -33,12 +33,12 @@ apprises**, ressenti.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -54,4 +54,4 @@ passé composé · 2 leçons · format rapport.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 1*

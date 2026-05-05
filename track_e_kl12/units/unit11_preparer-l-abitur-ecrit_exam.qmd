@@ -1,12 +1,12 @@
 ---
-title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 11"
-subtitle: "Préparer l'Abitur écrit · Klasse 12 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 11"
+subtitle: "Préparer l'épreuve finale écrit · classe 12 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf — mock)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock)
 
 ### Tâche 1 — Verstehen (10 P.) — 60 min
 
@@ -19,14 +19,14 @@ Répondez :
 4. Qui sont les deux personnes citées ?
 5. Quelle position défend chacun·e ?
 
-### Tâche 2 — Analyse / Schreiben (10 P.) — 90 min
+### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 P.) — 90 min
 
 Rédigez un **commentaire personnel** (~350 mots) :
 pour ou contre cette loi, en mobilisant **1 référence**
 (Camus, Despentes, Senghor, Modiano…). 4 § + 4
 connecteurs + 2 citations.
 
-### Tâche 3 — Sprachmittlung (10 P.) — 60 min
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 P.) — 60 min
 
 Médiez ce texte allemand en français (~280 mots) :
 
@@ -40,12 +40,12 @@ Médiez ce texte allemand en français (~280 mots) :
 
 ## Notation
 
-| Tâche                    | Points | Durée  |
+| Tâche | Points | Durée |
 |--------------------------|--------|--------|
-| Verstehen                | 10     | 60 min |
-| Analyse / Schreiben      | 10     | 90 min |
-| Sprachmittlung           | 10     | 60 min |
-| **Total écrit**          | **30** | **210 min** |
+| Verstehen | 10 | 60 min |
+| Analyse / Expression écrite | 10 | 90 min |
+| médiation linguistique | 10 | 60 min |
+| **Total écrit** | **30** | **210 min** |
 
 ## Solutions
 
@@ -67,4 +67,4 @@ européenne sera efficace. Le texte allemand est attendu pour
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 11*

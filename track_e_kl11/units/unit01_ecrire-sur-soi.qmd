@@ -1,14 +1,14 @@
 ---
 title: "Unité 1 — Écrire sur soi (Annie Ernaux)"
-subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 1
 slug: "ecrire-sur-soi"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -33,9 +33,9 @@ format:
 ## Objectifs
 
 - Je découvre **Annie Ernaux** (Nobel 2022) et son projet
-  d'écriture de soi.
+ d'écriture de soi.
 - Je distingue **autobiographie** / **autofiction** /
-  **récit transpersonnel**.
+ **récit transpersonnel**.
 - Je rédige une **page d'écriture de soi** (~250 mots).
 
 ## Histoire d'introduction
@@ -55,22 +55,22 @@ qui dit “je”… mais qui parle de “nous”. »*
 
 ### A. Annie Ernaux — fiche
 
-| Donnée               | Valeur                          |
+| Donnée | Valeur |
 |----------------------|----------------------------------|
-| Naissance            | 1940, Lillebonne (Normandie)     |
-| Nobel de littérature | 2022                             |
-| Œuvres clés          | *Les Armoires vides* (1974),     |
-|                      | *La Place* (1983),               |
-|                      | *Les Années* (2008)              |
-| Projet               | écriture transpersonnelle        |
+| Naissance | 1940, Lillebonne (Normandie) |
+| Nobel de littérature | 2022 |
+| Œuvres clés | *Les Armoires vides* (1974), |
+| | *La Place* (1983), |
+| | *Les Années* (2008) |
+| Projet | écriture transpersonnelle |
 
 ### B. 3 genres autobiographiques
 
-| Genre             | Particularité                       |
+| Genre | Particularité |
 |-------------------|--------------------------------------|
-| autobiographie    | « je » + pacte de vérité             |
-| autofiction       | « je » + part fictive (S. Doubrovsky)|
-| récit transpersonnel | « je » qui devient « nous »      |
+| autobiographie | « je » + pacte de vérité |
+| autofiction | « je » + part fictive (S. Doubrovsky)|
+| récit transpersonnel | « je » qui devient « nous » |
 
 ### C. Extrait *Les Années* (2008, adapté)
 
@@ -102,7 +102,7 @@ qui dit “je”… mais qui parle de “nous”. »*
 **Ex. 2 — Genre.** *Les Années* est-il :
 
 - une autobiographie classique ? une autofiction ? un
-  récit transpersonnel ? Justifiez.
+ récit transpersonnel ? Justifiez.
 
 **Ex. 3 — Vocabulaire d'analyse.** Définissez : *incipit ·
 chronotope · narrateur intradiégétique.*
@@ -136,12 +136,12 @@ phrase-incipit + 1 chute « ce qu'on appelle une vie ».
 - [ ] Je distingue 3 genres autobiographiques.
 - [ ] Je rédige une page de 250 mots à la manière de…
 
-## Exemple d'épreuve — Abitur Bf (E)
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : extrait *Les Années*,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : extrait *Les Années*,
 5 questions.
 **Tâche 2 — Genres (8 P.)** : 4 distinctions.
-**Tâche 3 — Schreiben (12 P.)** : page « à la manière de »
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : page « à la manière de »
 (~250 mots).
 
 **Total : 30 P.**
@@ -158,14 +158,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Autofiction** ≠ autobiographie : intègre une **part
-  fictive** assumée.
+ fictive** assumée.
 - **Récit transpersonnel** est un terme d'Ernaux elle-même
-  (interview *Le Monde*, 2008).
+ (interview *Le Monde*, 2008).
 - **Annie Ernaux** : pas d'accent à *Annie* (≠ *Anniek*).
 
 ## Pour aller plus loin
 
 - **Annie Ernaux — discours Nobel 2022** :
-  <https://www.nobelprize.org/prizes/literature/2022/ernaux/lecture/>
+ <https://www.nobelprize.org/prizes/literature/2022/ernaux/lecture/>
 - **Gallimard — Annie Ernaux** :
-  <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio2/Les-Annees>
+ <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio2/Les-Annees>

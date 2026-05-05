@@ -1,14 +1,14 @@
 ---
 title: "Unité 4 — Argumenter pour / contre"
-subtitle: "Parcours E (Gymnasium) · Klasse 9 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 4
 slug: "argumenter-pour-contre-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -33,10 +33,10 @@ format:
 ## Objectifs
 
 - Je structure un texte **argumentatif** (3 §, intro-pour-
-  contre).
+ contre).
 - J'utilise **8 connecteurs logiques**.
 - Je rédige un **billet d'opinion** (~180 mots) sur les
-  écrans à l'école.
+ écrans à l'école.
 
 ## Histoire d'introduction
 
@@ -54,17 +54,17 @@ position **nuancée**, avec **2 arguments pour, 2 contre**.
 
 ### A. Structure d'un texte argumentatif
 
-| § | Contenu                                       |
+| § | Contenu |
 |---|------------------------------------------------|
-| 1 | **Introduction** : sujet + question posée      |
-| 2 | **Pour** : 2 arguments + 2 exemples            |
-| 3 | **Contre** : 2 arguments + 2 exemples          |
+| 1 | **Introduction** : sujet + question posée |
+| 2 | **Pour** : 2 arguments + 2 exemples |
+| 3 | **Contre** : 2 arguments + 2 exemples |
 | 4 | **Conclusion** : prise de position personnelle |
 
 ### B. 8 connecteurs logiques
 
 - *D'une part / d'autre part · en effet · par ailleurs ·
-  cependant · néanmoins · pourtant · de plus · enfin.*
+ cependant · néanmoins · pourtant · de plus · enfin.*
 
 ### C. Billet d'opinion d'Anouk (texte original)
 
@@ -132,11 +132,11 @@ Rédigez un **billet d'opinion** sur un sujet au choix
 - [ ] J'utilise 6 connecteurs logiques.
 - [ ] J'exprime une position nuancée.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : billet écrans, 5 questions.
 **Tâche 2 — Connecteurs (8 P.)** : 5 à insérer.
-**Tâche 3 — Schreiben (12 P.)** : votre billet (~180 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre billet (~180 mots).
 
 **Total : 30 P.**
 
@@ -152,13 +152,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« D'une part / d'autre part »** vont **toujours**
-  ensemble (introduit pour ET contre).
+ ensemble (introduit pour ET contre).
 - **« Pourtant »** = *jedoch* (concession), pas *deshalb*.
 - **« En conclusion »** ≠ *finalement* (qui marque l'ordre).
 
 ## Pour aller plus loin
 
 - **France Inter — débat ado** :
-  <https://www.radiofrance.fr/franceinter>
+ <https://www.radiofrance.fr/franceinter>
 - **Lumni — éducation aux médias** :
-  <https://www.lumni.fr/>
+ <https://www.lumni.fr/>

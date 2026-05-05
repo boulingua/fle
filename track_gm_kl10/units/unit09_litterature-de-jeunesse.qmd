@@ -1,14 +1,14 @@
 ---
 title: "Unité 9 — Littérature de jeunesse FR"
-subtitle: "Parcours G+M · Klasse 10 · Niveau M"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 9
 slug: "litterature-de-jeunesse"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - leseverstehen
   - text_medien
@@ -54,18 +54,18 @@ autres… »*.
 
 ### A. 5 auteur(rice)s francophones jeunesse
 
-| Auteur(rice)         | Livre représentatif       | Thème             |
+| Auteur(rice) | Livre représentatif | Thème |
 |----------------------|---------------------------|-------------------|
-| Marie-Aude Murail    | *Oh, boy !* (2000)        | famille recomposée |
-| Daniel Pennac        | *Cabot-Caboche* (1982)    | chien narrateur    |
-| Susie Morgenstern    | *La Sixième* (1984)       | rentrée scolaire  |
-| Anne-Laure Bondoux   | *Le Temps des miracles* (2009) | exil enfant   |
-| Marie Desplechin     | *Verte* (1996)            | sorcellerie / mère-fille |
+| Marie-Aude Murail | *Oh, boy !* (2000) | famille recomposée |
+| Daniel Pennac | *Cabot-Caboche* (1982) | chien narrateur |
+| Susie Morgenstern | *La Sixième* (1984) | rentrée scolaire |
+| Anne-Laure Bondoux | *Le Temps des miracles* (2009) | exil enfant |
+| Marie Desplechin | *Verte* (1996) | sorcellerie / mère-fille |
 
 ### B. Vocabulaire de l'analyse
 
 - *un personnage · le narrateur · l'intrigue · le dénouement ·
-  un thème · le style · une métaphore · un dialogue.*
+ un thème · le style · une métaphore · un dialogue.*
 
 ### C. Extrait — *Le Temps des miracles*, Anne-Laure Bondoux
 (texte original — adapté)
@@ -139,12 +139,12 @@ Utilisez **3 connecteurs** (*d'abord, ensuite, en conclusion*).
 - [ ] J'analyse un extrait (narrateur, thème, registre).
 - [ ] Je rédige un avis personnel structuré.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : extrait Bondoux + 5 questions.
 **Tâche 2 — Analyse (8 P.)** : narrateur, thème, registre,
 champ lexical.
-**Tâche 3 — Schreiben (12 P.)** : avis personnel (~180 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : avis personnel (~180 mots).
 
 **Total : 30 P.**
 
@@ -160,15 +160,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Roman jeunesse »** ≠ *littérature pour enfants* (souvent
-  destiné aux 12-18 ans, sujets sérieux).
+ destiné aux 12-18 ans, sujets sérieux).
 - **Narrateur (« je »)** = parle à la 1ʳᵉ personne ; n'est pas
-  forcément l'auteur.
+ forcément l'auteur.
 - **Marie-Aude Murail** : Prix Andersen 2022 (équivalent du
-  Nobel pour la jeunesse).
+ Nobel pour la jeunesse).
 
 ## Pour aller plus loin
 
 - **Salon du livre jeunesse de Montreuil** :
-  <https://slpjplus.fr/>
+ <https://slpjplus.fr/>
 - **Anne-Laure Bondoux — œuvre** :
-  <https://www.ecoledesloisirs.fr/auteur/anne-laure-bondoux>
+ <https://www.ecoledesloisirs.fr/auteur/anne-laure-bondoux>

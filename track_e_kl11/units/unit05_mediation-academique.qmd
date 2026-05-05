@@ -1,13 +1,13 @@
 ---
 title: "Unité 5 — Médiation académique"
-subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 5
 slug: "mediation-academique"
 bildungsplan:
-  - "3.1.3.6 Sprachmittlung"
+  - "3.1.3.6 Médiation linguistique"
 skills_focus:
   - sprachmittlung
 format:
@@ -31,9 +31,9 @@ format:
 ## Objectifs
 
 - Je médie un **article scientifique** DE en français
-  (~280 mots).
+ (~280 mots).
 - Je préserve la **précision lexicale** et la **structure
-  argumentative**.
+ argumentative**.
 - Je distingue **médiation académique** / journalistique.
 
 ## Histoire d'introduction
@@ -63,7 +63,7 @@ revue francophone scolaire.
 ### B. 8 verbes de médiation académique
 
 - *constater · établir · démontrer · suggérer · conclure ·
-  affirmer · nuancer · contester.*
+ affirmer · nuancer · contester.*
 
 ### C. Médiation DE → FR (texte original)
 
@@ -131,12 +131,12 @@ climat (fourni, ~350 mots), rédigez la **médiation FR** :
 - [ ] J'utilise 8 verbes de médiation savante.
 - [ ] Je médie 280 mots avec sources.
 
-## Exemple d'épreuve — Abitur Bf (E)
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
 
-**Tâche 1 — Leseverstehen (8 P.)** : médiation FR (Unité 5),
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)** : médiation FR (Unité 5),
 4 questions.
 **Tâche 2 — Verbes (8 P.)** : 4 reformulations.
-**Tâche 3 — Sprachmittlung (14 P.)** : médiation
+**Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)** : médiation
 scientifique DE → FR (~280 mots).
 
 **Total : 30 P.**
@@ -153,14 +153,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Halluciner »** (IA) : néologisme spécialisé, à
-  conserver entre guillemets en FR.
+ conserver entre guillemets en FR.
 - **« et al. »** (latin) signifie *et alii* = et les autres
-  ; à conserver tel quel.
+ ; à conserver tel quel.
 - **« Suggérer »** ≠ *recommander* : suggérer = plus prudent.
 
 ## Pour aller plus loin
 
 - **Pour la Science (FR)** :
-  <https://www.pourlascience.fr/>
+ <https://www.pourlascience.fr/>
 - **CNRS Le Journal** :
-  <https://lejournal.cnrs.fr/>
+ <https://lejournal.cnrs.fr/>

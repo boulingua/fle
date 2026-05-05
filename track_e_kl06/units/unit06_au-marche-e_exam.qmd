@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 6"
-subtitle: "Au marché · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 6"
+subtitle: "Au marché · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
 ### Tâche 1 — Hörverstehen (10 P.)
 
@@ -22,9 +22,9 @@ format:
 Traduisez :
 
 - der Apfel · die Birne · die Erdbeere · die Banane · die Tomate
-  · die Karotte · die Zucchini · die Kartoffel.
+ · die Karotte · die Zucchini · die Kartoffel.
 
-### Tâche 3 — Sprechen / Schreiben (12 P.)
+### Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 P.)
 
 Écrivez un **dialogue au marché** en **8 répliques** : achat de
 **3 fruits/légumes** différents avec quantités + paiement +
@@ -32,12 +32,12 @@ monnaie.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Hörverstehen      | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Dialogue          | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Dialogue | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -52,4 +52,4 @@ articles · quantités + prix · politesse.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 6*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 6*

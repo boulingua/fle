@@ -1,14 +1,14 @@
 ---
 title: "Unité 11 — Français au travail"
-subtitle: "Parcours E (Gymnasium) · Klasse 9 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 11
 slug: "francais-au-travail-e"
 bildungsplan:
-  - "3.1.3.6 Sprachmittlung"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.6 Médiation linguistique"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - sprachmittlung
   - sprechen_dialog
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je dialogue dans **3 situations professionnelles** simples
-  (entretien, réunion, téléphone).
+ (entretien, réunion, téléphone).
 - Je médie un **mail professionnel** DE → FR.
 - Je connais **10 expressions** du français professionnel.
 
@@ -48,7 +48,7 @@ me permets de vous relancer ».*
 ## 1. Activer
 
 - Quel français vous semble le **plus difficile** : oral ou
-  écrit pro ?
+ écrit pro ?
 - *« Tu » / « vous »* : qui décide ?
 - Connaissez-vous *« Cordialement »* ?
 
@@ -56,18 +56,18 @@ me permets de vous relancer ».*
 
 ### A. 10 expressions du français pro
 
-| FR formel               | DE équivalent       |
+| FR formel | DE équivalent |
 |-------------------------|---------------------|
-| Cordialement,           | Mit freundlichen … |
-| Je me permets de …      | Ich erlaube mir …  |
-| En pièce jointe         | Im Anhang          |
-| Je vous relance au sujet| Ich erinnere an …  |
-| Bien à vous,            | Beste Grüße        |
-| Pourriez-vous …         | Könnten Sie …      |
-| Avec mes remerciements  | Mit besten Dank    |
-| Cher Monsieur, Chère …  | Sehr geehrte/r …   |
-| Cordiale invitation     | Herzliche Einladung|
-| À votre disposition     | Zu Ihrer Verfügung |
+| Cordialement, | Mit freundlichen … |
+| Je me permets de … | Ich erlaube mir … |
+| En pièce jointe | Im Anhang |
+| Je vous relance au sujet| Ich erinnere an … |
+| Bien à vous, | Beste Grüße |
+| Pourriez-vous … | Könnten Sie … |
+| Avec mes remerciements | Mit besten Dank |
+| Cher Monsieur, Chère … | Sehr geehrte/r … |
+| Cordiale invitation | Herzliche Einladung|
+| À votre disposition | Zu Ihrer Verfügung |
 
 ### B. 3 situations dialoguées
 
@@ -141,12 +141,12 @@ répliques) avec la destinataire.
 - [ ] Je médie un mail simple DE → FR.
 - [ ] Je dialogue 3 situations professionnelles.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (8 P.)** : mail FR, 4 questions.
 **Tâche 2 — Lexique pro (8 P.)** : 4 médiations
 d'expressions.
-**Tâche 3 — Sprachmittlung (14 P.)** : médiation mail DE +
+**Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)** : médiation mail DE +
 6 répliques téléphone (~150 mots).
 
 **Total : 30 P.**
@@ -163,15 +163,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Cordialement »** = registre **standard** ; *Bien à
-  vous* = un cran plus chaleureux.
+ vous* = un cran plus chaleureux.
 - **« Je me permets de »** : suivi de **l'infinitif** (*Je
-  me permets de vous écrire*).
+ me permets de vous écrire*).
 - **« Pièce jointe »** : féminin singulier (la PJ), pluriel =
-  *pièces jointes*.
+ *pièces jointes*.
 
 ## Pour aller plus loin
 
 - **Le Robert — *Français au travail*** :
-  <https://dictionnaire.lerobert.com/>
+ <https://dictionnaire.lerobert.com/>
 - **OFAJ — Tandem pro** :
-  <https://www.ofaj.org/programmes-formations.html>
+ <https://www.ofaj.org/programmes-formations.html>

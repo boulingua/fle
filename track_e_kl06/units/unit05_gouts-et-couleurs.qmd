@@ -1,14 +1,14 @@
 ---
 title: "Unité 5 — Goûts et couleurs"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 5
 slug: "gouts-et-couleurs"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_dialog
   - schreiben
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je nomme **10 couleurs** + **8 verbes de goût** (*aimer,
-  adorer, détester*).
+ adorer, détester*).
 - J'utilise les **adjectifs** (accord en genre/nombre).
 - J'exprime mes goûts en 5 phrases.
 
@@ -53,24 +53,24 @@ rouge cerise ? »*
 
 ### A. 10 couleurs
 
-| Français   | Allemand     |
+| Français | Allemand |
 |------------|--------------|
-| rouge      | rot          |
-| bleu(e)    | blau         |
-| jaune      | gelb         |
-| vert(e)    | grün         |
-| noir(e)    | schwarz      |
-| blanc(he)  | weiß         |
-| orange     | orange       |
-| violet(te) | lila         |
-| rose       | rosa         |
-| gris(e)    | grau         |
+| rouge | rot |
+| bleu(e) | blau |
+| jaune | gelb |
+| vert(e) | grün |
+| noir(e) | schwarz |
+| blanc(he) | weiß |
+| orange | orange |
+| violet(te) | lila |
+| rose | rosa |
+| gris(e) | grau |
 
 ### B. 4 verbes de goût (du + à -)
 
-| Très positif    | Positif     | Négatif         | Très négatif |
+| Très positif | Positif | Négatif | Très négatif |
 |-----------------|-------------|-----------------|--------------|
-| j'**adore**     | j'**aime**  | je n'**aime** pas | je **déteste** |
+| j'**adore** | j'**aime** | je n'**aime** pas | je **déteste** |
 
 ### C. Accord des adjectifs
 
@@ -134,11 +134,11 @@ je n'aime pas, 1 je déteste. Citez **3 couleurs** avec accord.
 - [ ] Je conjugue *aimer, adorer, détester*.
 - [ ] J'accorde les adjectifs.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Vocabulaire (10 P.)** : 10 couleurs + 4 verbes.
 **Tâche 2 — Accord (8 P.)** : 6 adjectifs à accorder.
-**Tâche 3 — Schreiben (12 P.)** : vos goûts (~70 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : vos goûts (~70 mots).
 
 **Total : 30 P.**
 
@@ -154,13 +154,13 @@ Produire 13' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Adjectifs invariables :** *rouge, jaune, rose, orange,
-  marron* (au singulier).
+ marron* (au singulier).
 - **« Adorer »** > *« aimer »* > *« aimer bien »* > *« je
-  n'aime pas »* > *« détester »*.
+ n'aime pas »* > *« détester »*.
 - **L'article défini** avec le verbe d'opinion : *J'aime **le**
-  foot* (pas *du foot*).
+ foot* (pas *du foot*).
 
 ## Pour aller plus loin
 
 - **Loto des couleurs (TV5 Monde)** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

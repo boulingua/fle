@@ -1,14 +1,14 @@
 ---
 title: "Unité 8 — Discussion sur stimulus visuel"
-subtitle: "Parcours E (Gymnasium) · Klasse 13 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 8
 slug: "discussion-sur-stimulus"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - sprechen_dialog
   - sprechen_monolog
@@ -25,7 +25,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf — 13e)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
 :::
 
 {{< downloads >}}
@@ -33,13 +33,13 @@ format:
 ## Objectifs
 
 - Je décris un **stimulus visuel** (photo, dessin, peinture)
-  en français.
+ en français.
 - Je connais **8 termes** de description visuelle.
 - Je dialogue **10 répliques** à partir d'un stimulus.
 
 ## Histoire d'introduction
 
-Théodore : *« Au Kommunikationsprüfung, on peut vous donner
+Théodore : *« Au épreuve communicative (« Kommunikationsprüfung »), on peut vous donner
 **une photo**. Décrivez, interprétez, discutez. C'est un
 exercice technique. »*
 
@@ -53,16 +53,16 @@ exercice technique. »*
 
 ### A. 8 termes de description visuelle
 
-| Terme           | Effet                                |
+| Terme | Effet |
 |-----------------|---------------------------------------|
-| premier plan    | sujet principal, devant              |
-| arrière-plan    | décor, derrière                      |
-| en haut / en bas | situation verticale                |
-| à gauche / à droite | situation horizontale            |
-| au centre       | élément central                       |
-| cadrage         | manière de couper l'image            |
-| contre-jour     | lumière de face                       |
-| **chiaroscuro** | clair-obscur                          |
+| premier plan | sujet principal, devant |
+| arrière-plan | décor, derrière |
+| en haut / en bas | situation verticale |
+| à gauche / à droite | situation horizontale |
+| au centre | élément central |
+| cadrage | manière de couper l'image |
+| contre-jour | lumière de face |
+| **chiaroscuro** | clair-obscur |
 
 ### B. 4 étapes de description-interprétation
 
@@ -112,7 +112,7 @@ exercice technique. »*
 (fournie ou imaginée), donnez :
 
 - premier plan · arrière-plan · cadrage · 2 couleurs
-  dominantes.
+ dominantes.
 
 **Ex. 3 — Dialogue.** Imaginez 4 répliques d'examinateur·rice
 sur cette photo + 4 réponses.
@@ -147,10 +147,10 @@ de presse, peinture), décrivez en 4 étapes + dialoguez
 
 - [ ] Je connais 8 termes de description.
 - [ ] Je suis les 4 étapes (objectif / technique /
-      interprétation / personnel).
+ interprétation / personnel).
 - [ ] Je dialogue 10 répliques sur stimulus.
 
-## Exemple d'épreuve — Kommunikationsprüfung Lf (E)
+## Exemple d'épreuve — épreuve communicative Lf (E)
 
 **Phase 1 — Description (5 min)** : 4 étapes.
 **Phase 2 — Discussion (10 min)** : 10 répliques.
@@ -169,15 +169,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Premier plan »** = devant ; *avant-plan* est un
-  anglicisme déconseillé.
+ anglicisme déconseillé.
 - **« Contre-jour »** : sujet sombre + lumière derrière
-  (silhouette).
+ (silhouette).
 - **« Plan américain »** : hauteur des hanches —
-  vocabulaire de cinéma transposable.
+ vocabulaire de cinéma transposable.
 
 ## Pour aller plus loin
 
 - **Centre Pompidou — analyse d'image** :
-  <https://www.centrepompidou.fr/>
+ <https://www.centrepompidou.fr/>
 - **AFP photo — actualité** :
-  <https://www.afp.com/fr>
+ <https://www.afp.com/fr>

@@ -3,14 +3,17 @@ title: "Grille d'évaluation"
 ---
 
 ::: {.hero-kicker}
-FLE BW · ANNEXE
+FLE · ANNEXE
 :::
-
-# Grille d'évaluation
 
 ::: {.callout-note}
 **Phase 5 (à venir).** Cette annexe sera remplie après l'écriture
-des 156 Unités, afin de pouvoir lier des passages concrets.
+des 156 unités, afin de pouvoir lier des passages concrets.
 :::
 
-Grilles BW : Klassenarbeit Notenschlüssel par niveau ; Abitur Erwartungshorizont, Inhalt/Sprache pour Basisfach et Leistungsfach.
+Grilles d'évaluation : barème de notes (« Notenschlüssel ») du
+devoir surveillé (« Klassenarbeit ») par niveau ; horizon
+d'attente (« Erwartungshorizont ») de l'épreuve finale
+(« Abitur »), contenu / langue pour l'option de base
+(« Basisfach ») et l'option d'approfondissement
+(« Leistungsfach »).

@@ -3,10 +3,8 @@ title: "Remerciements"
 ---
 
 ::: {.hero-kicker}
-FLE BW · REMERCIEMENTS
+FLE · REMERCIEMENTS
 :::
-
-# Remerciements
 
 Ce site n'aurait pas existé sans les sources, outils et personnes
 suivants.
@@ -16,8 +14,8 @@ suivants.
 Les traditions universitaires et associatives autour du FLE —
 depuis les travaux de Galisson, Puren, Cuq et Gruca jusqu'aux
 pratiques actuelles de l'AFFEFB et de la SIHFLES — ont fourni un
-horizon que ce site essaie d'honorer dans le quotidien d'une
-Gesamtschule du Bade-Wurtemberg.
+horizon que ce site essaie d'honorer dans le quotidien d'un
+établissement secondaire (« Gesamtschule »).
 
 ## Sources authentiques
 
@@ -39,7 +37,7 @@ Gesamtschule du Bade-Wurtemberg.
 ## Personnel
 
 Merci aux groupes-classes des dernières années chez qui les
-Unités ont d'abord été testées, et aux collègues qui ont
+unités ont d'abord été testées, et aux collègues qui ont
 commenté des formats individuels. Pas de noms par défaut ; ajout
 sur demande explicite.
 
@@ -48,6 +46,7 @@ sur demande explicite.
 - **MIT** pour le code (`LICENSE`).
 - **CC-BY-SA 4.0** pour le contenu (`LICENSE-content`).
 
-Les citations du Bildungsplan-BW restent propriété du Land
-Bade-Wurtemberg et sont utilisées au titre du droit de citation à
-des fins éducatives.
+Les citations des référentiels (« Bildungspläne ») officiels
+restent propriété de leurs ayants droit respectifs et sont
+utilisées au titre du droit de citation à des fins éducatives.
+Voir [Bibliographie](bibliographie.qmd) pour la liste détaillée.

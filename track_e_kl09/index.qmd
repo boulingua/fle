@@ -1,18 +1,16 @@
 ---
-title: "Klasse 9 — Niveau E"
+title: "Classe 9 — Niveau E"
 ---
 
 ::: {.hero-kicker}
-PARCOURS E (Gymnasium) · KLASSE 9
+PARCOURS E (lycée (« Gymnasium »)) · CLASSE 9
 :::
 
-# Klasse 9 — Niveau E
+[E]{.cefr-badge.b1}
 
-[E]{.cefr-badge .b1}
-
-Douze Unités au niveau **E** (Gymnasium) en Klasse 9.
+Douze Unités au niveau **E** (lycée) en classe 9.
 Argumentation simple, vie sociale, rencontres
-interculturelles. Préparation à la **Kursstufe** (Lf / Bf).
+interculturelles. Préparation à la **cycle terminal (« Kursstufe »)** (Lf / Bf).
 
 ## Cap visé
 
@@ -22,98 +20,98 @@ classique (*Le Petit Nicolas*).
 
 ## Cast récurrent
 
-- **Anouk Schmidt**, 14 ans, en 9e au Gymnasium de Karlsruhe.
+- **Anouk Schmidt**, 14 ans, en 9e au lycée de Karlsruhe.
 - **Mehdi**, correspondant tunisien.
 - **Mme Devos**, prof de français.
-- **M. Klein**, prof d'orientation (BOGY).
+- **M. Klein**, prof d'orientation (stage d'orientation (« BORS ») au lycée (« BOGY »)).
 
 ## Les douze Unités
 
 ::: {.card-grid}
 
 ::: {.card}
-### [Unité 1 — Le monde du travail (BOGY)](units/unit01_le-monde-du-travail-e.qmd)
-Modul : Lesen + Schreiben. Rapport de stage.
+### [Unité 1 — Le monde du travail (stage d'orientation au lycée)](units/unit01_le-monde-du-travail-e.qmd)
+Module : Compréhension écrite (« Leseverstehen ») + Expression écrite (« Schreiben »). Rapport de stage.
 :::
 
 ::: {.card}
 ### [Unité 2 — Lettre de motivation (FR)](units/unit02_lettre-de-motivation-e.qmd)
-Modul : Schreiben. Vous-Moi-Nous, 5 formules.
+Module : Expression écrite. Vous-Moi-Nous, 5 formules.
 :::
 
 ::: {.card}
 ### [Unité 3 — Écologie au quotidien](units/unit03_ecologie-au-quotidien-e.qmd)
-Modul : Sprechen + Lesen. 10 verbes éco-action.
+Module : Expression orale (« Sprechen ») + Compréhension écrite. 10 verbes éco-action.
 :::
 
 ::: {.card}
 ### [Unité 4 — Argumenter pour / contre](units/unit04_argumenter-pour-contre-e.qmd)
-Modul : Sprechen + Schreiben. Texte argumentatif 4 §.
+Module : Expression orale + Expression écrite. Texte argumentatif 4 §.
 :::
 
 ::: {.card}
 ### [Unité 5 — Lecture suivie : *Le Petit Nicolas*](units/unit05_le-petit-nicolas.qmd)
-Modul : Lesen. Sempé-Goscinny, PC + imparfait.
+Module : Compréhension écrite. Sempé-Goscinny, PC + imparfait.
 :::
 
 ::: {.card}
 ### [Unité 6 — Podcasts en français](units/unit06_podcasts-en-francais-e.qmd)
-Modul : Hören. *Les Odyssées*, *Code source*.
+Module : Compréhension orale (« Hören »). *Les Odyssées*, *Code source*.
 :::
 
 ::: {.card}
 ### [Unité 7 — Harcèlement et respect](units/unit07_harcelement-et-respect-e.qmd)
-Modul : Sprechen + Schreiben. 3018, subjonctif.
+Module : Expression orale + Expression écrite. 3018, subjonctif.
 :::
 
 ::: {.card}
 ### [Unité 8 — Différences culturelles franco-allemandes](units/unit08_differences-culturelles-e.qmd)
-Modul : Sprechen + Sprachmittlung. Modalisateurs.
+Module : Expression orale + médiation linguistique (« Sprachmittlung »). Modalisateurs.
 :::
 
 ::: {.card}
 ### [Unité 9 — Internet et vie privée](units/unit09_internet-et-vie-privee-e.qmd)
-Modul : Lesen + Sprechen. RGPD, conseils.
+Module : Compréhension écrite + Expression orale. RGPD, conseils.
 :::
 
 ::: {.card}
 ### [Unité 10 — Consommation responsable](units/unit10_consommation-responsable-e.qmd)
-Modul : Lesen + Schreiben. 5 labels (AB, Havelaar…).
+Module : Compréhension écrite + Expression écrite. 5 labels (AB, Havelaar…).
 :::
 
 ::: {.card}
 ### [Unité 11 — Français au travail](units/unit11_francais-au-travail-e.qmd)
-Modul : Sprachmittlung + Sprechen. Mail pro DE→FR.
+Module : Médiation + Expression orale. Mail pro DE→FR.
 :::
 
 ::: {.card}
-### [Unité 12 — Bilan : 9e vers la Kursstufe](units/unit12_bilan-9e-e.qmd)
-Modul : Schreiben. Lettre à mon moi de 13e.
+### [Unité 12 — Bilan : 9e vers la cycle terminal](units/unit12_bilan-9e-e.qmd)
+Module : Expression écrite. Lettre à mon moi de 13e.
 :::
 
 :::
 
 ## Cap d'épreuve
 
-Klassenarbeit BW au format E, ~30 points par épreuve.
-Notenschlüssel : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 ·
+Devoir surveillé au format E, ~30 points par épreuve.
+barème de notes (« Notenschlüssel ») : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 ·
 6 < 8*.
 
 ## Couverture des compétences fonctionnelles (3.1.3.x)
 
-| Code        | Compétence                                  | Unités          |
+| Code | Compétence | Unités |
 |-------------|---------------------------------------------|-----------------|
-| 3.1.3.1     | Hör-/Hörsehverstehen                        | 6               |
-| 3.1.3.2     | Leseverstehen                               | 1, 3, 5, 9, 10  |
-| 3.1.3.3     | Sprechen (Dialog)                           | 3, 7, 9, 11     |
-| 3.1.3.4     | Sprechen (Monolog)                          | 4, 8, 12        |
-| 3.1.3.5     | Schreiben                                   | 1, 2, 4, 7, 10, 12 |
-| 3.1.3.6     | Sprachmittlung                              | 8, 11           |
-| 3.1.4       | Text- und Medienkompetenz                   | 5               |
-| 3.1.2       | Interkulturelle kommunikative Kompetenz     | 8, 9            |
+| 3.1.3.1 | Compréhension orale et audiovisuelle (« Hör-/Hörsehverstehen ») | 6 |
+| 3.1.3.2 | Compréhension écrite | 1, 3, 5, 9, 10 |
+| 3.1.3.3 | Expression orale (interaction) | 3, 7, 9, 11 |
+| 3.1.3.4 | Expression orale (production en continu) | 4, 8, 12 |
+| 3.1.3.5 | Expression écrite | 1, 2, 4, 7, 10, 12 |
+| 3.1.3.6 | médiation linguistique | 8, 11 |
+| 3.1.4 | Compétence textuelle et médiatique (« Text- und Medienkompetenz ») | 5 |
+| 3.1.2 | Compétence interculturelle communicative (« Interkulturelle kommunikative Kompetenz ») | 8, 9 |
 
 ## Voir aussi
 
 - [Programme complet (156 Unités)](../programme.qmd)
-- [Bildungsplan](../bildungsplan.qmd)
+- [Référentiel](../bildungsplan.qmd)
 - [Accueil](../index.qmd)

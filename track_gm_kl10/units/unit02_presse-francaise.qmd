@@ -1,14 +1,14 @@
 ---
 title: "Unité 2 — La presse française au quotidien"
-subtitle: "Parcours G+M · Klasse 10 · Niveau M"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 2
 slug: "presse-francaise"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - leseverstehen
   - text_medien
@@ -53,20 +53,20 @@ que chaque journal a une ligne éditoriale ! »*
 
 ### A. 5 quotidiens français
 
-| Journal       | Tirage (2024) | Ligne éditoriale       |
+| Journal | Tirage (2024) | Ligne éditoriale |
 |---------------|--------------|------------------------|
-| Le Monde      | 470 000      | centre-gauche, généraliste |
-| Le Figaro     | 320 000      | centre-droit, généraliste |
-| Libération    | 95 000       | gauche, sociétal       |
-| L'Équipe      | 250 000      | sport                  |
-| Ouest-France  | 600 000      | régional (Ouest)       |
+| Le Monde | 470 000 | centre-gauche, généraliste |
+| Le Figaro | 320 000 | centre-droit, généraliste |
+| Libération | 95 000 | gauche, sociétal |
+| L'Équipe | 250 000 | sport |
+| Ouest-France | 600 000 | régional (Ouest) |
 
 ### B. Information vs. opinion
 
 - **Information** : faits, chiffres, sources. *« Hier, 35 000
-  manifestants ont défilé à Paris. »*
+ manifestants ont défilé à Paris. »*
 - **Opinion / éditorial** : avis du journaliste. *« Cette
-  manifestation, à mes yeux, marque un tournant. »*
+ manifestation, à mes yeux, marque un tournant. »*
 - **Reportage / interview / brève** : autres genres.
 
 ### C. Une `Une` (texte original)
@@ -98,15 +98,15 @@ que chaque journal a une ligne éditoriale ! »*
 
 1. *« Le PIB français a augmenté de 1,2 % en 2025. »*
 2. *« Cette politique économique est, à mon sens, une
-   réussite. »*
+ réussite. »*
 3. *« Selon l'INSEE, 8,5 % des Français vivent sous le seuil
-   de pauvreté. »*
+ de pauvreté. »*
 4. *« Il faut absolument réformer ce système. »*
 
 **Ex. 3 — Vocabulaire.** Reliez :
 
 a) la une · b) un éditorial · c) une brève · d) un
-   reportage · e) une interview.
+ reportage · e) une interview.
 
 1. Texte d'opinion du journal ·
 2. Article court (5-10 lignes) ·
@@ -140,12 +140,12 @@ d'**opinion** (signalées par *« à mon avis, je pense que »*).
 - [ ] Je distingue information et opinion.
 - [ ] Je rédige une revue de presse.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : une de journal, 5 questions.
 **Tâche 2 — Genres (8 P.)** : 8 extraits à classer
 (info/opinion/genre).
-**Tâche 3 — Schreiben (12 P.)** : revue de presse (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : revue de presse (~120 mots).
 
 **Total : 30 P.**
 
@@ -162,12 +162,12 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **« La une »** = la première page (féminin).
 - **« Un journal »** ≠ *un journaliste*. Le second est la
-  personne qui écrit.
+ personne qui écrit.
 - **« Tirage »** = nombre d'exemplaires imprimés.
 
 ## Pour aller plus loin
 
 - **Le Monde — édition jeunesse** :
-  <https://www.lemonde.fr/jeunesse/>
+ <https://www.lemonde.fr/jeunesse/>
 - **Le1 hebdo** :
-  <https://le1hebdo.fr/>
+ <https://le1hebdo.fr/>

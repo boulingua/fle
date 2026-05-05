@@ -1,14 +1,14 @@
 ---
 title: "Unité 11 — Préparer un discours"
-subtitle: "Parcours G+M · Klasse 10 · Niveau M"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 11
 slug: "preparer-un-discours"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je structure un **discours** en 4 parties (accroche, thèse,
-  arguments, chute).
+ arguments, chute).
 - J'utilise **3 figures de style** simples.
 - Je présente un **discours de 3 min** sur un sujet engagé.
 
@@ -47,7 +47,7 @@ dit : *« Soigne ton accroche, et termine fort ! »*
 
 - Avez-vous déjà fait un discours en public ?
 - Quel grand discours connaissez-vous (de Gaulle, Simone Veil,
-  Greta Thunberg…) ?
+ Greta Thunberg…) ?
 - Qu'est-ce qui rend un discours mémorable ?
 
 ## 2. Apporter
@@ -62,11 +62,11 @@ dit : *« Soigne ton accroche, et termine fort ! »*
 ### B. 3 figures de style simples
 
 - **Anaphore** : répétition d'un mot en début de phrase.
-  *« Je veux la justice. Je veux l'égalité. Je veux la paix. »*
+ *« Je veux la justice. Je veux l'égalité. Je veux la paix. »*
 - **Question rhétorique** : question dont la réponse est
-  évidente. *« Pouvons-nous accepter cela ? Bien sûr que non ! »*
+ évidente. *« Pouvons-nous accepter cela ? Bien sûr que non ! »*
 - **Métaphore** : image qui frappe. *« Le climat est notre
-  maison commune. »*
+ maison commune. »*
 
 ### C. Discours modèle (texte original)
 
@@ -76,7 +76,7 @@ dit : *« Soigne ton accroche, et termine fort ! »*
 > octobre 2018, j'avais 8 ans et je ne parlais pas un mot de
 > français.
 >
-> *(Thèse)* Aujourd'hui, je quitte la Mittlere Reife avec la
+> *(Thèse)* Aujourd'hui, je quitte la diplôme intermédiaire (« Mittlerer Bildungsabschluss ») avec la
 > moyenne. Je veux vous dire ceci : **apprendre une langue,
 > c'est apprendre à voir le monde autrement.**
 >
@@ -106,7 +106,7 @@ dit : *« Soigne ton accroche, et termine fort ! »*
 **Ex. 2 — Figures de style.** Identifiez :
 
 a) *« Je veux la justice. Je veux l'égalité. Je veux la
-   paix. »*
+ paix. »*
 b) *« Pouvons-nous rester silencieux face à cela ? »*
 c) *« Le climat est notre maison commune. »*
 
@@ -144,11 +144,11 @@ Présentez sans lire.
 - [ ] J'utilise 2 figures de style.
 - [ ] Je présente un discours de 3 min sans lire.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (8 P.)** : discours de Léa, 4 questions.
 **Tâche 2 — Figures (8 P.)** : 6 phrases à classer.
-**Tâche 3 — Schreiben (14 P.)** : votre discours rédigé
+**Tâche 3 — Expression écrite (« Schreiben ») (14 P.)** : votre discours rédigé
 (~250 mots).
 
 **Total : 30 P.**
@@ -165,13 +165,13 @@ Produire 12' (préparation orale) · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« L'anaphore »** = début ; **« épiphore »** = fin (rare,
-  hors-programme).
+ hors-programme).
 - **« Question rhétorique »** ne demande pas de réponse réelle.
 - **Une accroche** doit être courte (1 phrase) et concrète
-  (chiffre, image, anecdote).
+ (chiffre, image, anecdote).
 
 ## Pour aller plus loin
 
 - **Simone Veil — discours du 26 novembre 1974** (loi sur l'IVG).
 - **Grands discours du XXᵉ siècle (anthologie)** :
-  <https://www.gallimard.fr/>
+ <https://www.gallimard.fr/>

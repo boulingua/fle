@@ -1,15 +1,15 @@
 ---
 title: "Unité 5 — J'aime, je n'aime pas"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 5
 slug: "j-aime-je-n-aime-pas"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel — Grammatik"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
   - sprechen_dialog
   - schreiben
@@ -53,22 +53,22 @@ Renault sourit : *« Très bien — voilà la base. »*
 
 ### A. Échelle des goûts
 
-| Force          | Verbe              |
+| Force | Verbe |
 |----------------|--------------------|
-| ★★★★ J'adore   | *J'adore le sport.* |
-| ★★★ J'aime     | *J'aime la pizza.*  |
+| ★★★★ J'adore | *J'adore le sport.* |
+| ★★★ J'aime | *J'aime la pizza.* |
 | ★★ J'aime bien | *J'aime bien le rock.* |
-| ★ Pas trop     | *Je n'aime pas trop le foot.* |
+| ★ Pas trop | *Je n'aime pas trop le foot.* |
 | ✗ Je n'aime pas | *Je n'aime pas les épinards.* |
-| ✗✗ Je déteste  | *Je déteste les insectes.* |
+| ✗✗ Je déteste | *Je déteste les insectes.* |
 
 ### B. La négation *ne … pas*
 
-| Affirmation     | Négation                  |
+| Affirmation | Négation |
 |-----------------|---------------------------|
-| Je mange.       | Je **ne** mange **pas**.  |
-| Tu aimes.       | Tu **n'**aimes **pas**.   |
-| Elle joue.      | Elle **ne** joue **pas**. |
+| Je mange. | Je **ne** mange **pas**. |
+| Tu aimes. | Tu **n'**aimes **pas**. |
+| Elle joue. | Elle **ne** joue **pas**. |
 
 > **Astuce :** *« ne »* devient *« n' »* devant voyelle :
 > *je n'aime pas · tu n'es pas*.
@@ -136,7 +136,7 @@ Notez les réponses. Faites un mini-rapport oral à la classe :
 - [ ] Je construis la négation *ne … pas* sans erreur.
 - [ ] Je peux interviewer 3 personnes sur leurs goûts.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Grammatik (12 P.)**
 
@@ -147,7 +147,7 @@ Mettez 6 phrases à la forme négative.
 Lisez le mini-dialogue (C) et listez ce que Léa et Théo aiment
 ou n'aiment pas.
 
-**Tâche 3 — Schreiben (10 P.)**
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)**
 
 Écrivez 5 phrases sur **vos goûts** : 2 choses adorées · 2
 détestées · 1 ambivalente. Avec négation correcte.
@@ -166,13 +166,13 @@ Produire (binômes + restitution) 13' · Réfléchir 2' · Aperçu 3'.
 ## Pièges fréquents
 
 - **« ne … pas »** encadre le verbe — pas devant l'objet.
-  *Je n'aime pas le foot.* (pas *Je n'aime le foot pas.*)
+ *Je n'aime pas le foot.* (pas *Je n'aime le foot pas.*)
 - **« n' »** devant voyelle ou h muet : *je n'ai pas, je
-  n'habite pas*.
+ n'habite pas*.
 - **« de » après pas** : *Je n'ai pas **de** chien.* (pas *de un
-  chien*).
+ chien*).
 
 ## Pour aller plus loin
 
 - **TV5 Monde — Goûts et préférences** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

@@ -3,14 +3,12 @@ title: "Arbre des compétences"
 ---
 
 ::: {.hero-kicker}
-FLE BW · ANNEXE
+FLE · ANNEXE
 :::
-
-# Arbre des compétences
 
 ::: {.callout-note}
 **Phase 5 (à venir).** Cette annexe sera remplie après l'écriture
-des 156 Unités, afin de pouvoir lier des passages concrets.
+des 156 unités, afin de pouvoir lier des passages concrets.
 :::
 
-Diagramme Mermaid : besoin de compétence (écouter / lire / parler / écrire / médier / réfléchir sur la langue) → feuilles vers les Unités les plus indiquées.
+Diagramme Mermaid : besoin de compétence (écouter / lire / parler / écrire / médier / réfléchir sur la langue) → feuilles vers les unités les plus indiquées.

@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 5"
-subtitle: "J'aime, je n'aime pas · Klasse 6 · Niveau M"
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 5"
+subtitle: "J'aime, je n'aime pas · classe 6 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 6
+## Devoir surveillé — Niveau M, classe 6
 
 ### Tâche 1 — Grammatik / négation (12 P.)
 
@@ -28,7 +28,7 @@ Lisez le mini-dialogue (Unité 5, texte C). Complétez :
 - Théo adore : ____________________
 - Théo déteste : ____________________
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Écrivez **5 phrases** sur vos goûts : 2 choses adorées + 2
 détestées + 1 ambivalente (*j'aime bien · pas trop*). Au moins
@@ -36,12 +36,12 @@ détestées + 1 ambivalente (*j'aime bien · pas trop*). Au moins
 
 ## Notation
 
-| Tâche                    | Points  |
+| Tâche | Points |
 |--------------------------|--------:|
-| Tâche 1 — Grammatik      | 12      |
-| Tâche 2 — Lecture        | 8       |
-| Tâche 3 — Schreiben      | 10      |
-| **Total**                | **30**  |
+| Tâche 1 — Grammatik | 12 |
+| Tâche 2 — Lecture | 8 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -56,4 +56,4 @@ déteste : les épinards.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 5*

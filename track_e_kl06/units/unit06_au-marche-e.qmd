@@ -1,14 +1,14 @@
 ---
 title: "Unité 6 — Au marché"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 6
 slug: "au-marche-e"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.3 Expression orale — interaction"
 skills_focus:
   - hör_hörsehverstehen
   - sprechen_dialog
@@ -52,23 +52,23 @@ fraises de Plougastel — délicieuses ! »*
 
 ### A. 10 fruits et légumes
 
-| Français     | Allemand        |
+| Français | Allemand |
 |--------------|-----------------|
-| la pomme     | der Apfel       |
-| la poire     | die Birne       |
-| la fraise    | die Erdbeere    |
-| la banane    | die Banane      |
-| l'orange (f) | die Orange      |
-| la tomate    | die Tomate      |
-| la carotte   | die Karotte     |
-| la salade    | der Salat       |
-| la courgette | die Zucchini    |
+| la pomme | der Apfel |
+| la poire | die Birne |
+| la fraise | die Erdbeere |
+| la banane | die Banane |
+| l'orange (f) | die Orange |
+| la tomate | die Tomate |
+| la carotte | die Karotte |
+| la salade | der Salat |
+| la courgette | die Zucchini |
 | la pomme de terre | die Kartoffel |
 
 ### B. Quantités et prix
 
 - *un kilo (de) · un demi-kilo (de) · 250 grammes (de) ·
-  une botte (de) · un bouquet (de) · une barquette (de).*
+ une botte (de) · un bouquet (de) · une barquette (de).*
 - *Ça fait 2,50 €.* (deux euros cinquante)
 
 ### C. Dialogue au marché (texte original)
@@ -85,7 +85,7 @@ fraises de Plougastel — délicieuses ! »*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Compréhension orale (texte C).**
+**Ex. 1 — Compréhension orale (« Hören ») (texte C).**
 
 1. Que demande la mère d'Anouk ?
 2. Combien de fraises ?
@@ -128,12 +128,12 @@ Achat de **3 fruits/légumes** différents avec quantités
 - [ ] Je dis les quantités et prix.
 - [ ] Je joue un dialogue de marché de 8 répliques.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Hörverstehen (10 P.)** : dialogue marché,
 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 10 fruits/légumes.
-**Tâche 3 — Sprechen / Schreiben (12 P.)** : dialogue écrit
+**Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 P.)** : dialogue écrit
 (8 répliques).
 
 **Total : 30 P.**
@@ -152,9 +152,9 @@ Produire 13' (binôme) · Réfléchir 2' · Aperçu 2'.
 - **« Un kilo de »** → *de* sans article (*un kilo **de** pommes*).
 - **« € »** se dit *« euro »* au singulier, *« euros »* au pluriel.
 - **Virgule décimale :** *2,50 €* en français (vs. point en
-  allemand).
+ allemand).
 
 ## Pour aller plus loin
 
 - **TV5 Monde — Au marché de Provence** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

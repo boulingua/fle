@@ -1,16 +1,14 @@
 ---
-title: "Klasse 7 — Niveau G+M"
+title: "Classe 7 — Niveau G+M"
 ---
 
 ::: {.hero-kicker}
-PARCOURS G+M · KLASSE 7
+PARCOURS G+M · CLASSE 7
 :::
 
-# Klasse 7 — Niveau G+M
+[M]{.cefr-badge.a2}
 
-[M]{.cefr-badge .a2}
-
-Douze Unités sur le niveau **M** (mittel) en Klasse 7.
+Douze Unités sur le niveau **M** (mittel) en classe 7.
 Consolidation du présent, introduction systématique du **passé
 composé**, premières médiations DE→FR, ouverture sur le Québec.
 
@@ -18,7 +16,7 @@ composé**, premières médiations DE→FR, ouverture sur le Québec.
 
 Récit du week-end, vie quotidienne, amitié et conflits, premier
 contact avec une variété francophone non-hexagonale (Québec,
-U8). Premier seuil de la **Sprachmittlung** (U11) et du
+U8). Premier seuil de la **médiation linguistique** (U11) et du
 **futur proche** (U9).
 
 ## Cast récurrent
@@ -36,84 +34,84 @@ U8). Premier seuil de la **Sprachmittlung** (U11) et du
 
 ::: {.card}
 ### [Unité 1 — Ma rentrée](units/unit01_ma-rentree.qmd)
-Modul : Schreiben. Léa rentre en 7e ; emploi du temps + ressentis.
+Module : Expression écrite (« Schreiben »). Léa rentre en 7e ; emploi du temps + ressentis.
 :::
 
 ::: {.card}
 ### [Unité 2 — Raconter le week-end (passé composé)](units/unit02_raconter-le-week-end.qmd)
-Modul : Sprechen. Avoir/être + 14 verbes de mouvement.
+Module : Expression orale (« Sprechen »). Avoir/être + 14 verbes de mouvement.
 :::
 
 ::: {.card}
 ### [Unité 3 — Mon quartier](units/unit03_mon-quartier.qmd)
-Modul : Lesen. 10 lieux + prépositions de lieu.
+Module : Compréhension écrite (« Leseverstehen »). 10 lieux + prépositions de lieu.
 :::
 
 ::: {.card}
 ### [Unité 4 — Les repas](units/unit04_les-repas.qmd)
-Modul : Sprechen. Au café : partitifs *du, de la, des*.
+Module : Expression orale. Au café : partitifs *du, de la, des*.
 :::
 
 ::: {.card}
 ### [Unité 5 — Amis et conflits](units/unit05_amis-et-conflits.qmd)
-Modul : Sprechen. Sentiments + pronoms COD.
+Module : Expression orale. Sentiments + pronoms COD.
 :::
 
 ::: {.card}
 ### [Unité 6 — Les transports](units/unit06_les-transports.qmd)
-Modul : Hören. Annonces SNCF + *en/à* + véhicule.
+Module : Compréhension orale (« Hören »). Annonces SNCF + *en/à* + véhicule.
 :::
 
 ::: {.card}
 ### [Unité 7 — Vacances en famille](units/unit07_vacances-en-famille.qmd)
-Modul : Schreiben. Carte postale au passé composé.
+Module : Expression écrite. Carte postale au passé composé.
 :::
 
 ::: {.card}
 ### [Unité 8 — Le Québec](units/unit08_le-quebec.qmd)
-Modul : Lesen. Inès écrit de Montréal ; 8 québécismes.
+Module : Compréhension écrite. Inès écrit de Montréal ; 8 québécismes.
 :::
 
 ::: {.card}
 ### [Unité 9 — Fête d'anniversaire](units/unit09_fete-d-anniversaire.qmd)
-Modul : Sprechen. Invitation + futur proche.
+Module : Expression orale. Invitation + futur proche.
 :::
 
 ::: {.card}
 ### [Unité 10 — Musique et clips](units/unit10_musique-et-clips.qmd)
-Modul : Hören. Aya Nakamura ; styles + goûts.
+Module : Compréhension orale. Aya Nakamura ; styles + goûts.
 :::
 
 ::: {.card}
 ### [Unité 11 — Médiation de base](units/unit11_mediation-de-base.qmd)
-Modul : Schreiben. Sprachmittlung DE→FR (Karlsruher Schloss).
+Module : Expression écrite. Médiation linguistique (« Sprachmittlung ») DE→FR (Karlsruher Schloss).
 :::
 
 ::: {.card}
 ### [Unité 12 — Bilan : portrait d'une année](units/unit12_bilan-portrait-d-une-annee.qmd)
-Modul : Schreiben. Bilan en 3 temps (présent/passé/futur proche).
+Module : Expression écrite. Bilan en 3 temps (présent/passé/futur proche).
 :::
 
 :::
 
 ## Cap d'épreuve
 
-Klassenarbeit BW au format M, ~30 points par épreuve.
-Notenschlüssel typique : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 ·
+Devoir surveillé au format M, ~30 points par épreuve.
+barème de notes (« Notenschlüssel ») typique : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 ·
 5 ≥ 8 · 6 < 8*.
 
 ## Couverture des compétences fonctionnelles (3.1.3.x)
 
-| Code        | Compétence                                  | Unités       |
+| Code | Compétence | Unités |
 |-------------|---------------------------------------------|--------------|
-| 3.1.3.1     | Hör-/Hörsehverstehen                        | 6, 10        |
-| 3.1.3.2     | Leseverstehen                               | 3, 8         |
-| 3.1.3.3     | Sprechen (Dialog)                           | 4, 5, 9      |
-| 3.1.3.4     | Sprechen (Monolog)                          | 2, 7, 12     |
-| 3.1.3.5     | Schreiben                                   | 1, 2, 5, 7, 9, 11, 12 |
-| 3.1.3.6     | Sprachmittlung                              | 11           |
-| 3.1.4       | Text- und Medienkompetenz                   | 8, 10        |
-| 3.1.2       | Interkulturelle kommunikative Kompetenz     | 5, 8, 12     |
+| 3.1.3.1 | Compréhension orale et audiovisuelle (« Hör-/Hörsehverstehen ») | 6, 10 |
+| 3.1.3.2 | Compréhension écrite | 3, 8 |
+| 3.1.3.3 | Expression orale (interaction) | 4, 5, 9 |
+| 3.1.3.4 | Expression orale (production en continu) | 2, 7, 12 |
+| 3.1.3.5 | Expression écrite | 1, 2, 5, 7, 9, 11, 12 |
+| 3.1.3.6 | médiation linguistique | 11 |
+| 3.1.4 | Compétence textuelle et médiatique (« Text- und Medienkompetenz ») | 8, 10 |
+| 3.1.2 | Compétence interculturelle communicative (« Interkulturelle kommunikative Kompetenz ») | 5, 8, 12 |
 
 Toutes les sous-compétences 3.1.3.1–3.1.3.6 + 3.1.4 + 3.1.2 sont
 couvertes au moins **une fois** sur l'année.
@@ -121,5 +119,5 @@ couvertes au moins **une fois** sur l'année.
 ## Voir aussi
 
 - [Programme complet (156 Unités)](../programme.qmd)
-- [Bildungsplan](../bildungsplan.qmd)
+- [Référentiel](../bildungsplan.qmd)
 - [Accueil](../index.qmd)

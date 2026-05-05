@@ -1,14 +1,14 @@
 ---
 title: "Unité 8 — Différences culturelles franco-allemandes"
-subtitle: "Parcours E (Gymnasium) · Klasse 9 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 8
 slug: "differences-culturelles-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.6 Sprachmittlung"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.6 Médiation linguistique"
 skills_focus:
   - sprechen_monolog
   - sprachmittlung
@@ -52,19 +52,19 @@ en 1 jour : repas, bises, tutoiement, école, week-end.
 
 ### A. 6 différences FR/DE (focus E)
 
-| Domaine        | France                | Allemagne (DE)         |
+| Domaine | France | Allemagne (DE) |
 |----------------|------------------------|------------------------|
-| repas du soir  | 19 h-20 h, dîner chaud | 18 h-19 h, *Abendbrot* |
-| bises          | 2-4 bises             | poignée de main / hug  |
-| tutoiement     | « tu » jeune (10 ans+) | « du » dès l'enfance   |
-| école          | 8 h-17 h + cantine     | 7 h 50-13 h            |
-| week-end ouvert| supermarchés samedi   | dimanche fermé         |
-| pourboire      | 5-10 % au resto       | 10 %                   |
+| repas du soir | 19 h-20 h, dîner chaud | 18 h-19 h, *Abendbrot* |
+| bises | 2-4 bises | poignée de main / hug |
+| tutoiement | « tu » jeune (10 ans+) | « du » dès l'enfance |
+| école | 8 h-17 h + cantine | 7 h 50-13 h |
+| week-end ouvert| supermarchés samedi | dimanche fermé |
+| pourboire | 5-10 % au resto | 10 % |
 
 ### B. Modaliser (5 nuances)
 
 - *certain·e·s* (peu) · *beaucoup* (50 %) · *la plupart*
-  (75 %) · *presque tous* (90 %) · *tous·tes* (100 %).
+ (75 %) · *presque tous* (90 %) · *tous·tes* (100 %).
 
 ### C. Fiche-comparaison Anouk → Mehdi (texte original)
 
@@ -101,7 +101,7 @@ a) 100 % des Allemand·e·s ferment dimanche → ___
 b) 75 % des Français bisent → ___
 c) 25 % des Allemands font un hug → ___
 
-**Ex. 3 — Sprachmittlung courte.** Médiez en français :
+**Ex. 3 — médiation linguistique (« Sprachmittlung ») courte.** Médiez en français :
 *« In Deutschland schließt die Kasse um 20 Uhr. »* → ___
 
 ::: {.callout-tip collapse="true" title="Solutions"}
@@ -131,11 +131,11 @@ culturelles** FR/DE (à partir d'extraits DE fournis) avec
 - [ ] J'utilise 5 modalisateurs.
 - [ ] Je médie une phrase courte DE → FR.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : fiche-comparaison, 5 questions.
 **Tâche 2 — Modalisation (8 P.)** : 4 reformulations.
-**Tâche 3 — Sprachmittlung (12 P.)** : 3 phrases DE → FR
+**Tâche 3 — médiation linguistique (12 P.)** : 3 phrases DE → FR
 (~140 mots).
 
 **Total : 30 P.**
@@ -152,14 +152,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« La plupart »** + **des** + nom au pluriel (*la plupart
-  des Français*).
+ des Français*).
 - **« Tous·tes »** : accord en genre / nombre.
 - **Dimanche tranquille** est un **stéréotype** mais aussi
-  une réalité juridique en DE (*Sonntagsruhe*).
+ une réalité juridique en DE (*Sonntagsruhe*).
 
 ## Pour aller plus loin
 
 - **OFAJ — vivre la différence** :
-  <https://www.ofaj.org/>
+ <https://www.ofaj.org/>
 - **Goethe-Institut Paris — interculturel** :
-  <https://www.goethe.de/ins/fr/fr/index.html>
+ <https://www.goethe.de/ins/fr/fr/index.html>

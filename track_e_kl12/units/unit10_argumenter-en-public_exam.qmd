@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 12 (Niveau E) — Unité 10"
-subtitle: "Argumenter en public · Klasse 12 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 10"
+subtitle: "Argumenter en public · classe 12 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 12 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le plan de monologue Senghor (Unité 10, texte C).
 Répondez :
@@ -24,14 +24,14 @@ Répondez :
 Reliez chaque stratégie à son exemple :
 
 - reformuler · demander précision · concéder + nuancer ·
-  exemple concret · citer autorité · conclure-rebondir
+ exemple concret · citer autorité · conclure-rebondir
 
 (Exemples : *« Si je comprends bien … »* · *« Pouvez-vous
 préciser ? »* · *« Certes, mais … »* · *« Prenons par
 exemple … »* · *« Comme l'écrit Camus … »* · *« Cela ouvre
 la question de … »*.)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Préparez **votre plan de monologue 5 min** sur un sujet :
 auteur·rice ou thème. Structure I-II-III + 4 citations + 1
@@ -39,12 +39,12 @@ chute mémorable + 6 stratégies de rebond préparées.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Stratégies        | 8       |
-| Tâche 3 — Plan de monologue | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Stratégies | 8 |
+| Tâche 3 — Plan de monologue | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -59,4 +59,4 @@ citations · 1 chute · 6 stratégies de rebond.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 12 · Niveau E · Unité 10*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 10*

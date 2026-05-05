@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau E) — Unité 5"
-subtitle: "Sprachmittlung DE → résumé FR · Klasse 8 · Niveau E"
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 5"
+subtitle: "Médiation linguistique DE → résumé FR · classe 8 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 8
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez le résumé français (Unité 5, texte C). Répondez :
 
@@ -26,7 +26,7 @@ Complétez avec un verbe de médiation correct :
 3. On ___ que c'est un festival traditionnel.
 4. Le texte ___ 4 grandes tentes.
 
-### Tâche 3 — Sprachmittlung (14 P.)
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)
 
 À partir de cet article DE (~60 mots), rédigez un **résumé en
 français** (~80 mots) : 3 verbes de médiation + lieu + date +
@@ -39,12 +39,12 @@ français** (~80 mots) : 3 verbes de médiation + lieu + date +
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Verbes médiation  | 8       |
-| Tâche 3 — Sprachmittlung    | 14      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Verbes médiation | 8 |
+| Tâche 3 — médiation linguistique | 14 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -63,4 +63,4 @@ billets coûtent à partir de 25 €. Le texte mentionne plus de
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau E · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 5*

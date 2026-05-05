@@ -1,14 +1,14 @@
 ---
 title: "Unité 7 — Sport et esprit d'équipe"
-subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 7
 slug: "sport-et-equipe"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.2 Compréhension écrite"
 skills_focus:
   - sprechen_dialog
   - leseverstehen
@@ -36,10 +36,10 @@ format:
 - Je lis un règlement de tournoi simple.
 - Je mène un dialogue dans un club de sport.
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.3** Sprechen — an Gesprächen teilnehmen.
-- **3.1.3.2** Leseverstehen (texte informatif).
+- **3.1.3.3** Expression orale — interaction (« Sprechen — an Gesprächen teilnehmen »).
+- **3.1.3.2** Compréhension écrite (« Leseverstehen ») (texte informatif).
 
 ## Histoire d'introduction
 
@@ -53,7 +53,7 @@ remplir un formulaire en français.
 
 - Quel sport pratiquez-vous, et avec qui ?
 - Qu'est-ce qu'une **équipe** apporte de plus qu'un sport
-  individuel ?
+ individuel ?
 - Vous est-il déjà arrivé de **gagner / perdre** ensemble ?
 
 ## 2. Apporter
@@ -85,7 +85,7 @@ remplir un formulaire en français.
 
 > **Léa :** Bonjour, on s'inscrit pour le tournoi.
 >
-> **Organisateur :** Bienvenue. Vous êtes du collège de
+> **Organisateur :** Bienvenue. Vous êtes du collège (« Realschule ») de
 > Karlsruhe ?
 >
 > **Karim :** Oui. Notre équipe s'appelle « Les Renards ». Six
@@ -102,15 +102,15 @@ remplir un formulaire en français.
 
 ### C. Vocabulaire
 
-| Mot                    | Sens                                  |
+| Mot | Sens |
 |------------------------|---------------------------------------|
-| une équipe mixte       | équipe avec filles et garçons         |
-| un match               | rencontre sportive                    |
-| un·e arbitre           | personne qui dirige le match          |
-| un·e adversaire        | équipe ou personne contre laquelle on joue |
-| une pause              | temps d'arrêt                         |
-| l'esprit d'équipe      | mentalité collective                  |
-| une exclusion          | mise à l'écart d'un·e joueur·euse     |
+| une équipe mixte | équipe avec filles et garçons |
+| un match | rencontre sportive |
+| un·e arbitre | personne qui dirige le match |
+| un·e adversaire | équipe ou personne contre laquelle on joue |
+| une pause | temps d'arrêt |
+| l'esprit d'équipe | mentalité collective |
+| une exclusion | mise à l'écart d'un·e joueur·euse |
 
 ## 3. S'entraîner
 
@@ -119,7 +119,7 @@ remplir un formulaire en français.
 1. Une équipe peut être 100 % filles.
 2. Un match dure 30 minutes au total.
 3. Si on insulte trois fois, on est exclu pour le reste du
-   tournoi.
+ tournoi.
 4. L'inscription est en avril.
 
 **Ex. 2 — Dialogue.** Complétez les rôles A et B :
@@ -133,7 +133,7 @@ remplir un formulaire en français.
 **Ex. 3 — Sport vocabulaire.** Reliez :
 
 a) arbitre · b) capitaine · c) adversaire · d) pause · e)
-   match
+ match
 
 1. Temps d'arrêt entre deux mi-temps.
 2. La personne qui dirige le match.
@@ -172,9 +172,9 @@ B répond en s'appuyant sur le règlement.
 - [ ] Je mène un dialogue d'inscription.
 - [ ] Je connais 7 mots du sport collectif.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Leseverstehen (12 P.)**
+**Tâche 1 — Compréhension écrite (12 P.)**
 
 Lisez le règlement (A). Répondez :
 
@@ -185,13 +185,13 @@ Lisez le règlement (A). Répondez :
 5. Que se passe-t-il à la 3e insulte ?
 6. Quand expire l'inscription ?
 
-**Tâche 2 — Sprechen (mündlicher Anteil, 12 P.)**
+**Tâche 2 — Expression orale (mündlicher Anteil, 12 P.)**
 
 Mini-dialogue d'inscription (4 questions/réponses) avec un·e
-camarade. Critères : Erfüllung 4 P. + Sprache 4 P. + Aussprache
+camarade. Critères : Erfüllung 4 P. + Langue 4 P. + Aussprache
 4 P.
 
-**Tâche 3 — Schreiben (6 P.)**
+**Tâche 3 — Expression écrite (« Schreiben ») (6 P.)**
 
 Décrivez en 4 phrases **votre équipe idéale** : combien de
 joueur·euse·s, quel sport, quelle ambiance, quel·le capitaine.
@@ -212,14 +212,14 @@ Produire 25' · Réfléchir 5' · Aperçu 20'.
 ## Pièges fréquents
 
 - **« arbitre »** est invariable au féminin. *Une arbitre*, pas
-  *arbitresse*.
+ *arbitresse*.
 - **« mixte »** ne se conjugue pas (adjectif). *Une équipe
-  mixte*, pas *mixtée*.
+ mixte*, pas *mixtée*.
 - **« capitaine »** est masculin grammatical, mais s'applique
-  aux deux : *Léa est capitaine.*
+ aux deux : *Léa est capitaine.*
 
 ## Pour aller plus loin
 
 - **France-Sport** (jeunesse, équipes locales) :
-  <https://www.france-sport.fr/>
+ <https://www.france-sport.fr/>
 - **L'Équipe** (presse sportive) : <https://www.lequipe.fr/>

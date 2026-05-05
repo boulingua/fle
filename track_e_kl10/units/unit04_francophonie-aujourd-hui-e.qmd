@@ -1,14 +1,14 @@
 ---
 title: "Unité 4 — Francophonie aujourd'hui"
-subtitle: "Parcours E (Gymnasium) · Klasse 10 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 4
 slug: "francophonie-aujourd-hui-e"
 bildungsplan:
-  - "3.1.4 Text- und Medienkompetenz"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.4 Compétence textuelle et médiatique"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - text_medien
   - sprechen_monolog
@@ -33,10 +33,10 @@ format:
 ## Objectifs
 
 - Je comprends la **francophonie** comme espace politique
-  (OIF) **et** linguistique.
+ (OIF) **et** linguistique.
 - Je présente **3 figures francophones** contemporaines.
 - Je rédige un **portrait** d'auteur·e francophone (~150
-  mots).
+ mots).
 
 ## Histoire d'introduction
 
@@ -55,21 +55,21 @@ Nakamura** et **Léopold Sédar Senghor**.
 
 ### A. OIF : 5 chiffres
 
-| Donnée                      | Valeur 2024              |
+| Donnée | Valeur 2024 |
 |-----------------------------|--------------------------|
-| États membres OIF           | 88                       |
-| Locuteur·rice·s francophones| 321 millions             |
-| Continents                  | 5                        |
-| Sommet annuel               | oui                      |
-| Siège                       | Paris (mais Québec/Tunis) |
+| États membres OIF | 88 |
+| Locuteur·rice·s francophones| 321 millions |
+| Continents | 5 |
+| Sommet annuel | oui |
+| Siège | Paris (mais Québec/Tunis) |
 
 ### B. 3 figures francophones contemporaines
 
-| Personnalité          | Pays      | Domaine               |
+| Personnalité | Pays | Domaine |
 |-----------------------|-----------|------------------------|
-| Aya Nakamura          | FR/Mali   | musique pop urbaine    |
-| Léopold S. Senghor (†)| Sénégal   | poésie / Négritude     |
-| Boualem Sansal        | Algérie   | littérature engagée    |
+| Aya Nakamura | FR/Mali | musique pop urbaine |
+| Léopold S. Senghor (†)| Sénégal | poésie / Négritude |
+| Boualem Sansal | Algérie | littérature engagée |
 
 ### C. Portrait — Aya Nakamura (texte original)
 
@@ -134,13 +134,13 @@ choix : 3 § (vie + œuvre + impact) + 5 dates précises +
 - [ ] Je présente 3 figures francophones.
 - [ ] Je rédige un portrait de 150 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : portrait Aya Nakamura,
 5 questions.
 **Tâche 2 — Francophonie (8 P.)** : 4 chiffres / mots à
 relier.
-**Tâche 3 — Schreiben (12 P.)** : portrait d'une figure
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : portrait d'une figure
 (~150 mots).
 
 **Total : 30 P.**
@@ -157,14 +157,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Francophonie »** (avec majuscule) = espace politique
-  OIF ; *francophonie* (minuscule) = ensemble des locuteurs.
+ OIF ; *francophonie* (minuscule) = ensemble des locuteurs.
 - **« Négritude »** : mouvement littéraire (Senghor / Césaire
-  / Damas) — toujours majuscule.
+ / Damas) — toujours majuscule.
 - **« Bambara »** : langue mandingue, parlée au Mali.
 
 ## Pour aller plus loin
 
 - **Organisation internationale de la Francophonie** :
-  <https://www.francophonie.org/>
+ <https://www.francophonie.org/>
 - **TV5MONDE** :
-  <https://www.tv5monde.com/>
+ <https://www.tv5monde.com/>

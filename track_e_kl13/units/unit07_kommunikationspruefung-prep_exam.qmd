@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 13 (Niveau E) — Unité 7"
-subtitle: "Kommunikationsprüfung : préparation · Klasse 13 · Niveau E (Abitur Lf)"
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 7"
+subtitle: "épreuve communicative : préparation · classe 13 · Niveau E (épreuve finale Lf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 13 (Abitur Lf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le plan-modèle Camus (Unité 7, texte C). Répondez :
 
@@ -23,7 +23,7 @@ Lisez le plan-modèle Camus (Unité 7, texte C). Répondez :
 Reliez chaque stratégie à son effet :
 
 - respiration 4-7-8 · cartes A6 · pause naturelle · ancrage
-  corporel · reformulation · sourire
+ corporel · reformulation · sourire
 
 (Effets : calme physiologique · support visuel · combat la
 panique · projette voix · vérifie compréhension · détend
@@ -38,12 +38,12 @@ francophonie). Structure I-II-III + 4 citations + 1 chute
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Stratégies        | 8       |
-| Tâche 3 — Plan de monologue | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Stratégies | 8 |
+| Tâche 3 — Plan de monologue | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -60,4 +60,4 @@ citations · 1 chute · 5 cartes mémoire.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 13 · Niveau E · Unité 7*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 7*

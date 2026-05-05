@@ -1,22 +1,22 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 1"
-subtitle: "Salutations et prénoms · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 1"
+subtitle: "Salutations et prénoms · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
 ### Tâche 1 — Vocabulaire (10 P.)
 
 Traduisez :
 
 - Guten Tag · Guten Abend · Hallo · Auf Wiedersehen ·
-  Schönen Tag · Bis bald · Wie heißt du? · Wie alt bist du? ·
-  Ich heiße ... · Ich bin ... Jahre alt.
+ Schönen Tag · Bis bald · Wie heißt du? · Wie alt bist du? ·
+ Ich heiße... · Ich bin... Jahre alt.
 
-### Tâche 2 — Leseverstehen (8 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez le mini-dialogue (Unité 1, texte D). Répondez :
 
@@ -25,7 +25,7 @@ Lisez le mini-dialogue (Unité 1, texte D). Répondez :
 3. Quel âge ont les deux personnages ?
 4. Dans quelle classe sont-ils ?
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre carte d'identité** en **50 mots** : prénom +
 nom + âge + classe + nationalité + ville. Épelez votre **nom
@@ -33,18 +33,18 @@ de famille** à la fin.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Vocabulaire       | 10      |
-| Tâche 2 — Leseverstehen     | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Vocabulaire | 10 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
 **Tâche 1.** Bonjour · Bonsoir · Salut · Au revoir · Bonne
 journée · À bientôt · Comment t'appelles-tu ? · Quel âge as-tu ?
-· Je m'appelle ... · J'ai ... ans.
+· Je m'appelle... · J'ai... ans.
 
 **Tâche 2.** 1) Schmidt et Devos. 2) Belge, Strasbourg.
 3) 11 ans tous deux. 4) 6ᵉ B.
@@ -54,4 +54,4 @@ demandées · épellation correcte.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 1*

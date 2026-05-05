@@ -1,15 +1,15 @@
 ---
 title: "Unité 4 — Ma journée"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 4
 slug: "ma-journee"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel — Grammatik"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -34,7 +34,7 @@ format:
 ## Objectifs
 
 - Je conjugue **5 verbes** au présent (être, avoir, aller,
-  manger, faire).
+ manger, faire).
 - Je raconte ma journée en 5 phrases.
 - J'utilise *à 7h · le matin · le soir*.
 
@@ -55,14 +55,14 @@ correct ! »*
 
 ### A. Verbes au présent
 
-| Pronom    | être      | avoir     | aller     | manger    | faire     |
+| Pronom | être | avoir | aller | manger | faire |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| je        | suis      | ai        | vais      | mange     | fais      |
-| tu        | es        | as        | vas       | manges    | fais      |
-| il/elle   | est       | a         | va        | mange     | fait      |
-| nous      | sommes    | avons     | allons    | mangeons  | faisons   |
-| vous      | êtes      | avez      | allez     | mangez    | faites    |
-| ils/elles | sont      | ont       | vont      | mangent   | font      |
+| je | suis | ai | vais | mange | fais |
+| tu | es | as | vas | manges | fais |
+| il/elle | est | a | va | mange | fait |
+| nous | sommes | avons | allons | mangeons | faisons |
+| vous | êtes | avez | allez | mangez | faites |
+| ils/elles | sont | ont | vont | mangent | font |
 
 ### B. Mini-récit (texte original)
 
@@ -130,7 +130,7 @@ au présent** + **2 marqueurs de temps**.
 - [ ] J'utilise 4 marqueurs de temps.
 - [ ] Je décris ma journée en 5 phrases.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Grammatik (10 P.)**
 
@@ -141,7 +141,7 @@ personnes différentes (je-tu-il/elle-nous-ils/elles).
 
 Lisez le texte B. 5 questions à choix multiple sur la chronologie.
 
-**Tâche 3 — Schreiben (10 P.)**
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)**
 
 Décrivez votre journée d'hier en ~50 mots, 3 verbes au présent
 + 2 marqueurs de temps minimum.
@@ -160,13 +160,13 @@ S'entraîner 12' · Produire 10' · Réfléchir 2' · Aperçu 3'.
 ## Pièges fréquents
 
 - **« nous mangeons »** : -e- avant -ons (sinon « g » dur :
-  *mangons*).
+ *mangons*).
 - **« je vais »** ≠ *« je vai »* (le -s final).
 - **« à pied »** sans article : *je vais à pied / à vélo*.
 
 ## Pour aller plus loin
 
 - **TV5 Monde — Une journée à l'école** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>
 - **Bonjour de France — Routines** :
-  <https://www.bonjourdefrance.com/>
+ <https://www.bonjourdefrance.com/>

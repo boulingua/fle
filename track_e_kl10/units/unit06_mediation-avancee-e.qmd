@@ -1,13 +1,13 @@
 ---
 title: "Unité 6 — Médiation avancée DE↔FR"
-subtitle: "Parcours E (Gymnasium) · Klasse 10 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 6
 slug: "mediation-avancee-e"
 bildungsplan:
-  - "3.1.3.6 Sprachmittlung"
+  - "3.1.3.6 Médiation linguistique"
 skills_focus:
   - sprachmittlung
 format:
@@ -31,7 +31,7 @@ format:
 ## Objectifs
 
 - Je médie un **texte argumentatif** DE en français (~200
-  mots).
+ mots).
 - Je sais **inverser** : médier FR → DE en bref.
 - Je connais **6 stratégies** de médiation avancée.
 
@@ -62,7 +62,7 @@ résume-le pour notre note bilingue. Et après, un édito du
 ### B. Verbes de médiation avancée
 
 - *L'auteur soutient · défend · met en garde · plaide pour ·
-  s'oppose à · nuance · interroge · constate.*
+ s'oppose à · nuance · interroge · constate.*
 
 ### C. Médiation DE → FR (texte original)
 
@@ -129,11 +129,11 @@ exigent des mesures climatiques.*
 - [ ] Je médie un texte argumentatif DE → FR.
 - [ ] Je préserve la thèse + 1 citation.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (8 P.)** : médiation FR, 4 questions.
 **Tâche 2 — Verbes (8 P.)** : 4 verbes de médiation.
-**Tâche 3 — Sprachmittlung (14 P.)** : médiation d'un édito
+**Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)** : médiation d'un édito
 DE (~200 mots).
 
 **Total : 30 P.**
@@ -151,12 +151,12 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **« Plaider pour »** + nom (et non *plaider que …*).
 - **Citation entre guillemets français** : *« … »* (espace
-  insécable avant le 2ᵉ guillemet).
+ insécable avant le 2ᵉ guillemet).
 - **« Faute de quoi »** = *andernfalls* (registre soutenu).
 
 ## Pour aller plus loin
 
-- **KMK — Standards Sprachmittlung Sek II** :
-  <https://www.kmk.org/>
+- **KMK — Standards médiation linguistique secondaire II** :
+ <https://www.kmk.org/>
 - **Le Monde / Süddeutsche Zeitung — éditoriaux croisés** :
-  <https://www.lemonde.fr/>
+ <https://www.lemonde.fr/>

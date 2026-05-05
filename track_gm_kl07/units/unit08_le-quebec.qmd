@@ -1,15 +1,15 @@
 ---
 title: "Unité 8 — Le Québec"
-subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 8
 slug: "le-quebec"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.2 Interkulturelle kommunikative Kompetenz"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.2 Compétence interculturelle communicative"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - leseverstehen
   - interkulturelle_kompetenz
@@ -60,16 +60,16 @@ sourit : *« Il faut que je traduise tout ça… »*
 
 ### B. 8 québécismes
 
-| Québec               | France                |
+| Québec | France |
 |----------------------|-----------------------|
-| déjeuner             | petit-déjeuner        |
-| dîner                | déjeuner              |
-| souper               | dîner                 |
-| char                 | voiture               |
-| chum / blonde        | copain / copine       |
-| magasiner            | faire les magasins    |
-| dépanneur            | épicerie de quartier  |
-| poutine              | (plat québécois)      |
+| déjeuner | petit-déjeuner |
+| dîner | déjeuner |
+| souper | dîner |
+| char | voiture |
+| chum / blonde | copain / copine |
+| magasiner | faire les magasins |
+| dépanneur | épicerie de quartier |
+| poutine | (plat québécois) |
 
 ### C. Lettre d'Inès (texte original)
 
@@ -138,11 +138,11 @@ québécismes** (entre guillemets).
 - [ ] Je connais 8 québécismes.
 - [ ] J'écris une lettre à un(e) correspondant(e) québécois(e).
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Leseverstehen (12 P.)** : lettre d'Inès, 6 questions.
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)** : lettre d'Inès, 6 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 québécismes à traduire.
-**Tâche 3 — Schreiben (10 P.)** : réponse (~80 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : réponse (~80 mots).
 
 **Total : 30 P.**
 
@@ -158,14 +158,14 @@ Produire 11' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Repas inversés :** déjeuner (matin) · dîner (midi) ·
-  souper (soir) au Québec.
+ souper (soir) au Québec.
 - **Anglicismes inversés :** Le Québec dit *fin de semaine* (pas
-  *week-end*) et *courriel* (pas *e-mail*).
+ *week-end*) et *courriel* (pas *e-mail*).
 - **Accent québécois :** *moé* pour *moi*, voyelles allongées.
 
 ## Pour aller plus loin
 
 - **Office québécois de la langue française** :
-  <https://vitrinelinguistique.oqlf.gouv.qc.ca/>
+ <https://vitrinelinguistique.oqlf.gouv.qc.ca/>
 - **Bonjour Québec** (tourisme) :
-  <https://www.bonjourquebec.com/>
+ <https://www.bonjourquebec.com/>

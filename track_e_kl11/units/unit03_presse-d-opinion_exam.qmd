@@ -1,14 +1,14 @@
 ---
-title: "Klausur FLE — Klasse 11 (Niveau E) — Unité 3"
-subtitle: "Presse d'opinion · Klasse 11 · Niveau E (Abitur Bf)"
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 3"
+subtitle: "Presse d'opinion · classe 11 · Niveau E (épreuve finale Bf)"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klausur — Niveau E (Gymnasium), Klasse 11 (Abitur Bf)
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'éditorial *Climat : la jeunesse n'attendra pas*
 (Unité 3, texte C). Répondez :
@@ -26,10 +26,10 @@ Classez chaque phrase :
 1. *« Le GIEC alerte depuis 30 ans. »*
 2. *« La procrastination climatique n'est plus tolérable. »*
 3. *« Comme on pouvait s'y attendre, le gouvernement n'a
-   rien fait. »*
+ rien fait. »*
 4. *« 3 000 lycéens ont marché à Karlsruhe. »*
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre éditorial** (~300 mots) sur un sujet
 d'actualité au choix : 4 mouvements + 3 arguments + 1
@@ -37,12 +37,12 @@ contre-argument réfuté + 5 connecteurs.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Fait/opinion      | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Fait/opinion | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -62,4 +62,4 @@ connecteurs.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 11 · Niveau E · Unité 3*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 3*

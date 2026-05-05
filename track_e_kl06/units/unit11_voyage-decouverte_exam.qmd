@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 11"
-subtitle: "Voyage de découverte (Strasbourg) · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 11"
+subtitle: "Voyage de découverte (Strasbourg) · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
 ### Tâche 1 — Hörverstehen (12 P.)
 
@@ -24,21 +24,21 @@ format:
 Traduisez :
 
 - ein Guide · ein Museum · der Eintritt · die Führung ·
-  ein Audioguide · der Tarif.
+ ein Audioguide · der Tarif.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Présentez **une visite** d'un monument en **70 mots** : nom +
 lieu + date + 2 particularités + votre avis.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Hörverstehen      | 12      |
-| Tâche 2 — Vocabulaire       | 6       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Hörverstehen | 12 |
+| Tâche 2 — Vocabulaire | 6 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -53,4 +53,4 @@ demandés · vocabulaire correct.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 11*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 11*

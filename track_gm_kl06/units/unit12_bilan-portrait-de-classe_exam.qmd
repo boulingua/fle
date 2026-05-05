@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau M) — Unité 12 (finale)"
-subtitle: "Bilan : portrait de classe · Klasse 6 · Niveau M"
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 12 (finale)"
+subtitle: "Bilan : portrait de classe · classe 6 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit finale — Niveau M, Klasse 6
+## Devoir surveillé finale — Niveau M, classe 6
 
-### Tâche 1 — Sprachmittlung (15 P.)
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») (15 P.)
 
 Lisez le texte allemand sur la 6c.
 
@@ -22,9 +22,9 @@ Lisez le texte allemand sur la 6c.
 pour Inès à Montréal. Inclure : nombre d'élèves · profs ·
 activités · activité préférée.
 
-Critères : Inhalt 6 P · Sprache 5 P · Sens fidèle 4 P.
+Critères : Contenu 6 P · Langue 5 P · Sens fidèle 4 P.
 
-### Tâche 2 — Sprechen mündlich (15 P.)
+### Tâche 2 — Expression orale (« Sprechen ») mündlich (15 P.)
 
 Présentation orale de votre classe en 1-2 minutes. Inclure :
 
@@ -33,7 +33,7 @@ Présentation orale de votre classe en 1-2 minutes. Inclure :
 - 3 activités fréquentes.
 - 1 chose unique.
 
-Critères : Inhalt 6 P · Sprache 5 P · Aussprache 4 P.
+Critères : Contenu 6 P · Langue 5 P · Aussprache 4 P.
 
 ## Total : 30 P.
 
@@ -47,4 +47,4 @@ Critères : Inhalt 6 P · Sprache 5 P · Aussprache 4 P.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau M · Unité 12 · Klassenarbeit finale*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 12 · devoir surveillé (« Klassenarbeit ») finale*

@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau E) — Unité 5"
-subtitle: "Première analyse : un poème · Klasse 10 · Niveau E"
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 5"
+subtitle: "Première analyse : un poème · classe 10 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 10
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'extrait *Femme noire* (Unité 5, texte C). Répondez :
 
@@ -23,13 +23,13 @@ Lisez l'extrait *Femme noire* (Unité 5, texte C). Répondez :
 Reliez chaque outil à sa définition :
 
 - vers · strophe · rime · métaphore · anaphore ·
-  allitération · personnification · comparaison
+ allitération · personnification · comparaison
 
 (Définitions : ligne · groupe de vers · sons identiques en
 fin · image · répétition au début · répétition d'un son ·
 attribuer humain à objet · « comme ».)
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 À partir de *Déjeuner du matin* (Prévert, fourni), rédigez
 une **mini-analyse** (~150 mots) : forme + 2 outils +
@@ -37,12 +37,12 @@ interprétation + conclusion.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Outils            | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Outils | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,4 +57,4 @@ outils · interprétation · conclusion.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau E · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 5*

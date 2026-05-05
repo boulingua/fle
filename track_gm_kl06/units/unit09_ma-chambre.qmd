@@ -1,15 +1,15 @@
 ---
 title: "Unité 9 — Ma chambre, ma maison"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 9
 slug: "ma-chambre"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -53,27 +53,27 @@ Et mon chat dort sur l'oreiller. »*
 
 ### A. Vocabulaire
 
-| Pièces                | Meubles               |
+| Pièces | Meubles |
 |-----------------------|-----------------------|
-| la chambre            | le lit                |
-| la cuisine            | le bureau             |
-| le salon              | la chaise             |
-| la salle de bains     | l'armoire             |
-| les toilettes / les WC| la table              |
-| le couloir            | l'étagère             |
-|                       | la fenêtre            |
-|                       | la porte              |
+| la chambre | le lit |
+| la cuisine | le bureau |
+| le salon | la chaise |
+| la salle de bains | l'armoire |
+| les toilettes / les WC| la table |
+| le couloir | l'étagère |
+| | la fenêtre |
+| | la porte |
 
 ### B. Prépositions
 
-| Préposition           | Sens / Exemple                         |
+| Préposition | Sens / Exemple |
 |-----------------------|----------------------------------------|
-| sur                   | *Le livre est sur la table.*           |
-| sous                  | *Le chat est sous le lit.*             |
-| dans                  | *Mes vêtements sont dans l'armoire.*   |
-| à côté de             | *Le bureau est à côté de la fenêtre.*  |
-| devant / derrière     | *La chaise est devant le bureau.*      |
-| entre                 | *Le tapis est entre le lit et la table.* |
+| sur | *Le livre est sur la table.* |
+| sous | *Le chat est sous le lit.* |
+| dans | *Mes vêtements sont dans l'armoire.* |
+| à côté de | *Le bureau est à côté de la fenêtre.* |
+| devant / derrière | *La chaise est devant le bureau.* |
+| entre | *Le tapis est entre le lit et la table.* |
 
 ### C. Mini-texte
 
@@ -136,12 +136,12 @@ prépositions** (sur, sous, dans, à côté de, entre…).
 - [ ] J'utilise 5 prépositions de lieu.
 - [ ] Je décris ma chambre en 5 phrases.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Vocabulaire (10 P.)** : 6 pièces + 6 meubles à
 traduire.
 **Tâche 2 — Prépositions (10 P.)** : 5 phrases à compléter.
-**Tâche 3 — Schreiben (10 P.)** : décrire sa chambre (~50 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : décrire sa chambre (~50 mots).
 
 **Total : 30 P.**
 
@@ -163,4 +163,4 @@ Produire 10' · Réfléchir 3' · Aperçu 4'.
 ## Pour aller plus loin
 
 - **TV5 Monde — Ma maison** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

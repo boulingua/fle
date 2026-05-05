@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 7"
-subtitle: "Sport et esprit d'équipe · Klasse 8 · Niveau M"
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 7"
+subtitle: "Sport et esprit d'équipe · classe 8 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 8
+## Devoir surveillé — Niveau M, classe 8
 
-### Tâche 1 — Leseverstehen (12 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)
 
 Lisez le règlement du tournoi inter-collèges Strasbourg
 (Article 1-6 — Unité 7, texte A). Répondez en phrases complètes.
@@ -20,27 +20,27 @@ Lisez le règlement du tournoi inter-collèges Strasbourg
 5. Que se passe-t-il à la 3e insulte ?
 6. Quand expire l'inscription ?
 
-### Tâche 2 — Sprechen (mündlicher Anteil, 12 P.)
+### Tâche 2 — Expression orale (« Sprechen ») (mündlicher Anteil, 12 P.)
 
 Avec un·e camarade : mini-dialogue d'inscription au tournoi,
 4 questions/réponses. A inscrit son équipe, B est
 organisateur·rice.
 
-Critères : Erfüllung 4 P. · Sprache 4 P. · Aussprache 4 P.
+Critères : Erfüllung 4 P. · Langue 4 P. · Aussprache 4 P.
 
-### Tâche 3 — Schreiben (6 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (6 P.)
 
 Écrivez **4 phrases** sur votre équipe idéale :
 nombre de joueur·euse·s · sport · ambiance · capitaine.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 12      |
-| Tâche 2 — Sprechen mündlich | 12      |
-| Tâche 3 — Schreiben         | 6       |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 12 |
+| Tâche 2 — Expression orale mündlich | 12 |
+| Tâche 3 — Expression écrite | 6 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -50,4 +50,4 @@ matchs. 5) Exclusion définitive. 6) Avant le 1er mars.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 7*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 7*

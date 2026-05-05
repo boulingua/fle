@@ -1,14 +1,14 @@
 ---
 title: "Unité 10 — Mes loisirs"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 10
 slug: "mes-loisirs"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.2 Compréhension écrite"
 skills_focus:
   - sprechen_dialog
   - leseverstehen
@@ -53,28 +53,28 @@ Lundi midi. Léa et Théo lisent une affiche dans le couloir :
 
 ### A. Vocabulaire
 
-| Loisirs                      | Verbe              |
+| Loisirs | Verbe |
 |------------------------------|--------------------|
 | le foot · le basket · le tennis | jouer **au** … |
 | la musique · la danse · le yoga | faire **de la** … |
-| le piano · le dessin · le sport | faire **du** …  |
-| la natation · l'escalade     | faire **de la · de l'** … |
+| le piano · le dessin · le sport | faire **du** … |
+| la natation · l'escalade | faire **de la · de l'** … |
 | la lecture · la télé · les jeux vidéo | lire · regarder · jouer |
 
 ### B. *Faire / Jouer / Aller* + loisir
 
-| Construction              | Exemple                       |
+| Construction | Exemple |
 |---------------------------|-------------------------------|
-| **jouer au** + sport masc.| Je joue **au** foot.          |
-| **jouer à la** + sport fém.| Je joue **à la** pétanque.   |
-| **jouer aux** + pluriel   | Je joue **aux** échecs.       |
-| **faire du** + masc.      | Je fais **du** sport / piano. |
-| **faire de la** + fém.    | Je fais **de la** musique.    |
-| **aller à** + lieu        | Je vais **à la** piscine.     |
+| **jouer au** + sport masc.| Je joue **au** foot. |
+| **jouer à la** + sport fém.| Je joue **à la** pétanque. |
+| **jouer aux** + pluriel | Je joue **aux** échecs. |
+| **faire du** + masc. | Je fais **du** sport / piano. |
+| **faire de la** + fém. | Je fais **de la** musique. |
+| **aller à** + lieu | Je vais **à la** piscine. |
 
 ### C. Mini-affiche (texte original)
 
-> **Activités du collège — semaine 14**
+> **Activités du collège (« Realschule ») — semaine 14**
 >
 > - Lundi 16h30 : club de lecture (salle 12).
 > - Mardi 17h : équipe de basket (gymnase).
@@ -134,11 +134,11 @@ et fait du piano. »*
 - [ ] Je distingue *jouer au · faire du · aller à*.
 - [ ] Je peux interviewer un·e camarade en 2 minutes.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Leseverstehen (10 P.)** : affiche du collège (C).
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : affiche du collège (C).
 **Tâche 2 — Grammatik (10 P.)** : 6 phrases avec articles.
-**Tâche 3 — Sprechen mündlich (10 P.)** : interview + restitution.
+**Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)** : interview + restitution.
 
 **Total : 30 P.**
 
@@ -154,10 +154,10 @@ Produire 10' · Réfléchir 3' · Aperçu 4'.
 ## Pièges fréquents
 
 - **« jouer à »** pour les sports/jeux ; **« jouer de »** pour
-  les instruments. *Je joue **au** foot.* / *Je joue **du**
-  piano.*
+ les instruments. *Je joue **au** foot.* / *Je joue **du**
+ piano.*
 - **« faire »** peut s'utiliser pour la plupart des activités ;
-  c'est le passe-partout.
+ c'est le passe-partout.
 - **« aller »** + lieu, pas + activité.
 
 ## Pour aller plus loin

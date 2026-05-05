@@ -1,33 +1,33 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 8"
-subtitle: "Différences culturelles franco-allemandes · Klasse 9 · Niveau M"
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 8"
+subtitle: "Différences culturelles franco-allemandes · classe 9 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 9
+## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Sprachmittlung DE → FR (15 P.)
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 P.)
 
 Lisez le **Frankreich-Knigge** (Unité 8, texte C).
 **Médiez** son contenu en **français** en **5 phrases**
 (~70 mots) pour un(e) ami(e) qui prépare un échange en France.
 Pas de mot-à-mot — l'essentiel.
 
-### Tâche 2 — Leseverstehen (5 P.)
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (5 P.)
 
 Vrai ou faux ? (Sur le texte source.)
 
-|   | Affirmation                                             | V | F |
+| | Affirmation | V | F |
 |---|---------------------------------------------------------|:-:|:-:|
-| 1 | On salue avec 2 bises.                                  | ☐ | ☐ |
-| 2 | On casse le pain avant de le manger.                    | ☐ | ☐ |
-| 3 | Le repas principal est à midi.                          | ☐ | ☐ |
-| 4 | Il faut dire bonjour en entrant dans un magasin.        | ☐ | ☐ |
-| 5 | On ne discute pas à table.                              | ☐ | ☐ |
+| 1 | On salue avec 2 bises. | ☐ | ☐ |
+| 2 | On casse le pain avant de le manger. | ☐ | ☐ |
+| 3 | Le repas principal est à midi. | ☐ | ☐ |
+| 4 | Il faut dire bonjour en entrant dans un magasin. | ☐ | ☐ |
+| 5 | On ne discute pas à table. | ☐ | ☐ |
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Présentez en **100 mots** **3 différences** culturelles entre
 votre vie et celle d'un(e) Français(e). Pour chaque différence,
@@ -36,12 +36,12 @@ moyenne, souvent, selon la région*.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Sprachmittlung    | 15      |
-| Tâche 2 — Leseverstehen     | 5       |
-| Tâche 3 — Schreiben         | 10      |
-| **Total**                   | **30**  |
+| Tâche 1 — médiation linguistique | 15 |
+| Tâche 2 — Compréhension écrite | 5 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -62,4 +62,4 @@ souvent / selon la région*.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 8*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 8*

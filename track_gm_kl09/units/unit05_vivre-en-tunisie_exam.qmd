@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 5"
-subtitle: "Vivre en Tunisie · Klasse 9 · Niveau M"
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 5"
+subtitle: "Vivre en Tunisie · classe 9 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 9
+## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Leseverstehen (12 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)
 
 Lisez le blog de Mehdi (Unité 5, texte C). Répondez :
 
@@ -34,7 +34,7 @@ Reliez les termes tunisiens et leur équivalent standard.
 Plus, traduisez en français standard : *l'indépendance · la
 révolution · une langue officielle*.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Rédigez une **réponse à Mehdi** en **120 mots** : votre samedi
 à Karlsruhe + comparaison avec Sfax. **2 mots tunisiens** entre
@@ -42,12 +42,12 @@ guillemets + **1 fait** sur la Tunisie.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 12      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 10      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 12 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -57,11 +57,11 @@ de Tunis. 2) Couscous en famille. 3) 4h. 4) Tahar Ben Jelloun
 6) « Vous avez quoi à Karlsruhe pour vous amuser le samedi ? »
 
 **Tâche 2.** 1-b · 2-e · 3-d · 4-a · 5-c. + die Unabhängigkeit ·
-die Revolution · eine offizielle Sprache.
+die Revolution · eine offizielle Langue.
 
 **Tâche 3.** Réponses libres. Critères : 120 mots · 2 mots
 tunisiens · 1 fait sur la Tunisie · format réponse blog.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 5*

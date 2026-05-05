@@ -1,14 +1,14 @@
 ---
 title: "Unité 1 — Le monde du travail (Praktikum)"
-subtitle: "Parcours G+M · Klasse 9 · Niveau M"
+subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 1
 slug: "le-monde-du-travail"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -53,29 +53,29 @@ mais je suis curieuse. Je vais voir comment on fait du pain à
 
 ### A. 10 métiers
 
-| Français               | Allemand           |
+| Français | Allemand |
 |------------------------|--------------------|
-| boulanger / boulangère | Bäcker(in)         |
+| boulanger / boulangère | Bäcker(in) |
 | infirmier / infirmière | Krankenpfleger(in) |
-| professeur(e)          | Lehrer(in)         |
-| ingénieur(e)           | Ingenieur(in)      |
-| journaliste            | Journalist(in)     |
-| commerçant(e)          | Händler(in)        |
-| électricien(ne)        | Elektriker(in)     |
-| coiffeur / coiffeuse   | Friseur(in)        |
-| informaticien(ne)      | Informatiker(in)   |
-| architecte             | Architekt(in)      |
+| professeur(e) | Lehrer(in) |
+| ingénieur(e) | Ingenieur(in) |
+| journaliste | Journalist(in) |
+| commerçant(e) | Händler(in) |
+| électricien(ne) | Elektriker(in) |
+| coiffeur / coiffeuse | Friseur(in) |
+| informaticien(ne) | Informatiker(in) |
+| architecte | Architekt(in) |
 
 ### B. 5 secteurs
 
 - *l'artisanat* (Handwerk) · *la santé* (Gesundheit) ·
-  *l'enseignement* (Bildung) · *le commerce* (Handel) ·
-  *les nouvelles technologies* (IT).
+ *l'enseignement* (Bildung) · *le commerce* (Handel) ·
+ *les nouvelles technologies* (IT).
 
 ### C. Vocabulaire du stage
 
 - *un stage / une stagiaire* · *l'entreprise* · *le tuteur* ·
-  *les horaires* · *les tâches* · *un rapport de stage*.
+ *les horaires* · *les tâches* · *un rapport de stage*.
 
 ### D. Journée de stage de Léa (texte original)
 
@@ -138,11 +138,11 @@ apprises**, votre ressenti.
 - [ ] Je décris une journée de stage au passé composé.
 - [ ] Je rédige un rapport structuré.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : journée de Léa, 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 métiers à traduire.
-**Tâche 3 — Schreiben (12 P.)** : votre rapport (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre rapport (~120 mots).
 
 **Total : 30 P.**
 
@@ -164,4 +164,4 @@ Produire 13' · Réfléchir 2' · Aperçu 2'.
 ## Pour aller plus loin
 
 - **ONISEP — orientation** :
-  <https://www.onisep.fr/>
+ <https://www.onisep.fr/>

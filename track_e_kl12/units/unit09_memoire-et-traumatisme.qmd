@@ -1,14 +1,14 @@
 ---
 title: "Unité 9 — Mémoire et traumatisme (Modiano)"
-subtitle: "Parcours E (Gymnasium) · Klasse 12 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 9
 slug: "memoire-et-traumatisme"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
   - leseverstehen
   - text_medien
@@ -25,7 +25,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 :::
 
 {{< downloads >}}
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je découvre **Patrick Modiano** (Nobel 2014) et son
-  univers de la **mémoire trouée**.
+ univers de la **mémoire trouée**.
 - Je comprends *Dora Bruder* (1997) — enquête mémorielle.
 - Je rédige une **mini-enquête mémorielle** (~400 mots).
 
@@ -53,15 +53,15 @@ modèle d'enquête mémorielle. »*
 
 ### A. Patrick Modiano — fiche
 
-| Donnée               | Valeur                          |
+| Donnée | Valeur |
 |----------------------|----------------------------------|
-| Naissance            | 1945, Boulogne-Billancourt       |
-| Nobel de littérature | 2014                             |
-| Œuvres clés          | *Rue des Boutiques obscures* (1978),|
-|                      | *Dora Bruder* (1997),            |
-|                      | *Pour que tu ne te perdes pas*   |
-|                      | (2014)                           |
-| Thème central        | l'Occupation, mémoire, identité  |
+| Naissance | 1945, Boulogne-Billancourt |
+| Nobel de littérature | 2014 |
+| Œuvres clés | *Rue des Boutiques obscures* (1978),|
+| | *Dora Bruder* (1997), |
+| | *Pour que tu ne te perdes pas* |
+| | (2014) |
+| Thème central | l'Occupation, mémoire, identité |
 
 ### B. 5 motifs modianiens
 
@@ -139,12 +139,12 @@ nom oublié** (lien à Karlsruhe, Lille ou autre lieu) +
 - [ ] J'analyse une enquête mémorielle.
 - [ ] Je rédige 400 mots avec archives.
 
-## Exemple d'épreuve — Abitur Lf (E)
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : *Dora Bruder*,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : *Dora Bruder*,
 5 questions.
 **Tâche 2 — Motifs (8 P.)** : 4 identifications.
-**Tâche 3 — Schreiben (12 P.)** : enquête mémorielle
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : enquête mémorielle
 (~400 mots).
 
 **Total : 30 P.**
@@ -161,15 +161,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Dora Bruder »** : personnage **réel** (Paris,
-  1926-1942, déportée à Auschwitz).
+ 1926-1942, déportée à Auschwitz).
 - **Modiano cite l'annonce** mot pour mot : c'est une
-  **stratégie documentaire** assumée.
+ **stratégie documentaire** assumée.
 - **« Mémoire trouée »** : expression de Modiano
-  lui-même (entretien *Le Monde*, 1997).
+ lui-même (entretien *Le Monde*, 1997).
 
 ## Pour aller plus loin
 
 - **Patrick Modiano — Gallimard** :
-  <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio>
+ <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio>
 - **Mémorial de la Shoah — Dora Bruder** :
-  <https://bdi.memorialdelashoah.org/>
+ <https://bdi.memorialdelashoah.org/>

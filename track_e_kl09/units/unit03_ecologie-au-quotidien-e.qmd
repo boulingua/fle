@@ -1,14 +1,14 @@
 ---
 title: "Unité 3 — Écologie au quotidien"
-subtitle: "Parcours E (Gymnasium) · Klasse 9 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 3
 slug: "ecologie-au-quotidien-e"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.2 Compréhension écrite"
 skills_focus:
   - sprechen_dialog
   - leseverstehen
@@ -54,12 +54,12 @@ courte… mais son frère adore les longues douches.
 ### A. 10 verbes d'éco-action
 
 - *trier · recycler · économiser · réduire · réutiliser ·
-  composter · éteindre · débrancher · covoiturer · pédaler.*
+ composter · éteindre · débrancher · covoiturer · pédaler.*
 
 ### B. Vocabulaire des déchets / énergies
 
 - *poubelle jaune (emballages) · verte (verre) · bleue
-  (papier) · noire (résiduels) · marron (bio).*
+ (papier) · noire (résiduels) · marron (bio).*
 - *énergie renouvelable · solaire · éolienne · hydraulique.*
 
 ### C. Article — éco-gestes (texte original)
@@ -123,11 +123,11 @@ défi à venir + 1 conditionnel d'hypothèse (*Si je …, je
 - [ ] Je trie correctement (5 couleurs).
 - [ ] Je dialogue 10 répliques sur l'écologie.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : article éco, 5 questions.
 **Tâche 2 — Verbes (8 P.)** : 4 conjugaisons.
-**Tâche 3 — Schreiben (12 P.)** : votre dialogue (~140 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dialogue (~140 mots).
 
 **Total : 30 P.**
 
@@ -143,14 +143,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Si + imparfait, conditionnel »** : pas *si je serais*
-  mais *si j'étais*.
+ mais *si j'étais*.
 - **« Composter »** ≠ *kompostieren* mais l'usage est proche.
 - **Couleurs des poubelles** varient en France selon la
-  commune ; l'usage type ADEME est ci-dessus.
+ commune ; l'usage type ADEME est ci-dessus.
 
 ## Pour aller plus loin
 
 - **ADEME — éco-gestes** :
-  <https://agirpourlatransition.ademe.fr/>
+ <https://agirpourlatransition.ademe.fr/>
 - **GoodPlanet (fondation Yann Arthus-Bertrand)** :
-  <https://www.goodplanet.org/>
+ <https://www.goodplanet.org/>

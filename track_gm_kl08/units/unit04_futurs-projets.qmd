@@ -1,15 +1,15 @@
 ---
 title: "Unité 4 — Futurs projets (futur simple)"
-subtitle: "Parcours G+M · Klasse 8 · Niveau M"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 4
 slug: "futurs-projets"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel — Grammatik"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -37,10 +37,10 @@ format:
 - Je distingue *futur proche* et *futur simple*.
 - Je présente trois projets futurs en monologue ou par écrit.
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.4** Sprechen — monologisches Sprechen (futur simple).
-- **3.1.3.5** Schreiben (texte projet).
+- **3.1.3.4** Expression orale (« Sprechen ») — monologisches Expression orale (futur simple).
+- **3.1.3.5** Expression écrite (« Schreiben ») (texte projet).
 - **3.1.3.8** Grammatik (futur simple).
 
 ## Histoire d'introduction
@@ -64,37 +64,37 @@ sourit : *« Très bien. Aujourd'hui, on fixe le futur simple. »*
 Formation : **infinitif + terminaisons** *-ai · -as · -a · -ons
 · -ez · -ont*.
 
-| Personne     | parler        | finir         | prendre        |
+| Personne | parler | finir | prendre |
 |--------------|---------------|---------------|----------------|
-| je           | parlerai      | finirai       | prendrai       |
-| tu           | parleras      | finiras       | prendras       |
-| il/elle/on   | parlera       | finira        | prendra        |
-| nous         | parlerons     | finirons      | prendrons      |
-| vous         | parlerez      | finirez       | prendrez       |
-| ils/elles    | parleront     | finiront      | prendront      |
+| je | parlerai | finirai | prendrai |
+| tu | parleras | finiras | prendras |
+| il/elle/on | parlera | finira | prendra |
+| nous | parlerons | finirons | prendrons |
+| vous | parlerez | finirez | prendrez |
+| ils/elles | parleront | finiront | prendront |
 
 **Verbes irréguliers fréquents :**
 
-| Infinitif | Radical futur | Exemple              |
+| Infinitif | Radical futur | Exemple |
 |-----------|---------------|----------------------|
-| être      | ser-          | je serai             |
-| avoir     | aur-          | tu auras             |
-| aller     | ir-           | il ira               |
-| faire     | fer-          | nous ferons          |
-| voir      | verr-         | vous verrez          |
-| pouvoir   | pourr-        | ils pourront         |
-| vouloir   | voudr-        | je voudrai           |
-| venir     | viendr-       | elle viendra         |
-| savoir    | saur-         | tu sauras            |
+| être | ser- | je serai |
+| avoir | aur- | tu auras |
+| aller | ir- | il ira |
+| faire | fer- | nous ferons |
+| voir | verr- | vous verrez |
+| pouvoir | pourr- | ils pourront |
+| vouloir | voudr- | je voudrai |
+| venir | viendr- | elle viendra |
+| savoir | saur- | tu sauras |
 
 ### B. Futur proche vs. futur simple
 
-| Futur proche                  | Futur simple                  |
+| Futur proche | Futur simple |
 |-------------------------------|-------------------------------|
-| *aller* + infinitif           | infinitif + terminaisons      |
-| futur immédiat / certain      | futur plus lointain / projet  |
+| *aller* + infinitif | infinitif + terminaisons |
+| futur immédiat / certain | futur plus lointain / projet |
 | *Je vais manger.* (dans 5 min)| *Je mangerai.* (à 19h, demain)|
-| *Tu vas tomber !* (alarme)    | *Tu tomberas un jour.* (vie)  |
+| *Tu vas tomber !* (alarme) | *Tu tomberas un jour.* (vie) |
 
 ### C. Texte modèle
 
@@ -118,10 +118,10 @@ Formation : **infinitif + terminaisons** *-ai · -as · -a · -ons
 
 1. *Je …* (vais partir / partirai) maintenant !
 2. Quand j'aurai 30 ans, *je …* (vais habiter / habiterai) à
-   Lyon.
+ Lyon.
 3. Attention, *tu …* (vas tomber / tomberas) !
 4. Plus tard, *nous …* (allons sauver / sauverons) la planète,
-   peut-être.
+ peut-être.
 
 **Ex. 3 — Réécrire.** Mettez le texte modèle (B) à la **3e
 personne** *(« Léa »)* — pas *« je »*.
@@ -168,9 +168,9 @@ Au moins **6 verbes** au futur simple, dont **deux irréguliers**.
 - [ ] Je conjugue 9 verbes irréguliers au futur simple.
 - [ ] Je choisis entre futur proche et futur simple.
 - [ ] Je peux écrire un texte de ~80 mots avec 6 verbes au futur
-      simple.
+ simple.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Grammatik (10 P.)**
 
@@ -190,9 +190,9 @@ Pour chacune, choisissez futur proche ou futur simple, puis
 1. *Je vais manger / mangerai* dans cinq minutes.
 2. *Je vais habiter / habiterai* à Paris quand j'aurai 25 ans.
 3. *Attention, tu vas tomber / tu tomberas* — la marche est
-   cassée.
+ cassée.
 
-**Tâche 3 — Schreiben (15 P.)**
+**Tâche 3 — Expression écrite (15 P.)**
 
 Écrivez ~80 mots sur **vos futurs projets**. Au moins 6 verbes
 au futur simple, dont 2 irréguliers.
@@ -218,15 +218,15 @@ conjugaison en blanc à compléter.
 ## Pièges fréquents
 
 - **« je serai »** ≠ **« je saurai »**. *Être* → *je serai*.
-  *Savoir* → *je saurai*.
+ *Savoir* → *je saurai*.
 - **Futur proche** : aller au présent, pas à l'imparfait.
-  *J'allais aller* = imparfait, pas futur proche.
+ *J'allais aller* = imparfait, pas futur proche.
 - **Doubler le -r dans certains verbes** : *je verrai, tu
-  pourras, nous voudrons, ils mourront.*
+ pourras, nous voudrons, ils mourront.*
 
 ## Pour aller plus loin
 
 - **Grammaire-FLE — Le Point du FLE** :
-  <https://www.lepointdufle.net/>
+ <https://www.lepointdufle.net/>
 - **Bonjour de France — futur simple** :
-  <https://www.bonjourdefrance.com/>
+ <https://www.bonjourdefrance.com/>

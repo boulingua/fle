@@ -1,14 +1,14 @@
 ---
 title: "Unité 1 — Salutations et prénoms"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 1
 slug: "salutations-et-prenoms"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.9 Verfügen über sprachliche Mittel — Aussprache und Intonation"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.9 Moyens linguistiques — prononciation und Intonation"
 skills_focus:
   - sprechen_dialog
 format:
@@ -24,7 +24,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M (Klasse 6)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M (classe 6)
 :::
 
 {{< downloads >}}
@@ -35,9 +35,9 @@ format:
 - Je demande : *Comment t'appelles-tu ?*
 - Je comprends *Bonjour · Salut · Au revoir · Merci*.
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.3** Sprechen — an Gesprächen teilnehmen.
+- **3.1.3.3** Expression orale — interaction (« Sprechen — an Gesprächen teilnehmen »).
 - **3.1.3.9** Aussprache.
 
 ## Histoire d'introduction
@@ -57,13 +57,13 @@ Madame Renault dit : *« C'est très bien ! »*
 
 ### A. Cinq formules de base
 
-| Français       | Allemand          |
+| Français | Allemand |
 |----------------|-------------------|
-| Bonjour        | Guten Tag         |
-| Salut          | Hallo (informel)  |
-| Au revoir      | Auf Wiedersehen   |
-| Merci          | Danke             |
-| S'il vous plaît| Bitte             |
+| Bonjour | Guten Tag |
+| Salut | Hallo (informel) |
+| Au revoir | Auf Wiedersehen |
+| Merci | Danke |
+| S'il vous plaît| Bitte |
 
 ### B. Mini-dialogue (texte original)
 
@@ -138,21 +138,21 @@ demande celui de B. B répond. Échangez les rôles **3 fois** avec
 - [ ] Je dis mon prénom et je l'épelle.
 - [ ] Je demande le prénom de quelqu'un.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
-**Tâche 1 — Hören (10 P.)**
+**Tâche 1 — Compréhension orale (« Hören ») (10 P.)**
 
 La prof lit 5 mini-dialogues. Pour chacun, dites *Bonjour ·
 Salut · Au revoir · Merci · S'il vous plaît*.
 
-**Tâche 2 — Sprechen mündlich (10 P.)**
+**Tâche 2 — Expression orale mündlich (10 P.)**
 
 Avec un·e camarade : se saluer + se présenter + épeler son
 prénom + se dire au revoir.
 
-Critères : Erfüllung 4 P. + Aussprache 4 P. + Sprache 2 P.
+Critères : Erfüllung 4 P. + Aussprache 4 P. + Langue 2 P.
 
-**Tâche 3 — Schreiben (10 P.)**
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)**
 
 Écrivez un mini-dialogue de 4 lignes : se saluer + dire son
 prénom + demander celui de l'autre + au revoir.
@@ -173,11 +173,11 @@ Produire (rotation binômes) 12' · Réfléchir 3' · Aperçu 3'.
 - **« Salut »** est informel : pas pour la prof.
 - **« Au revoir »** s'écrit en deux mots, prononcé *o-rvwa*.
 - **« Bonjour Madame »** est plus poli que **« Bonjour ! »**
-  seul (à la prof).
+ seul (à la prof).
 
 ## Pour aller plus loin
 
 - **TV5 Monde — Premiers mots de français** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>
 - **Bonjour de France — niveau A1** :
-  <https://www.bonjourdefrance.com/>
+ <https://www.bonjourdefrance.com/>

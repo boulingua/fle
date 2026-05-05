@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 7"
-subtitle: "Harcèlement et respect · Klasse 9 · Niveau E"
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 7"
+subtitle: "Harcèlement et respect · classe 9 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la lettre ouverte (Unité 7, texte C). Répondez :
 
@@ -27,7 +27,7 @@ Conjuguez :
 3. *Il faut que vous ___ (être) courageux·ses.*
 4. *Il faut que je ___ (avoir) le numéro 3018.*
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre lettre ouverte** (~150 mots) contre le
 harcèlement : 3 § (victime / témoin / ensemble) + 5 verbes
@@ -35,16 +35,16 @@ d'action + 1 subjonctif + numéro 3018.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Subjonctif        | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Subjonctif | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
-**Tâche 1.** 1) Aux camarades de Klasse 9. 2) **3018**. 3)
+**Tâche 1.** 1) Aux camarades de classe 9. 2) **3018**. 3)
 Parler à un·e adulte de confiance, appeler 3018. 4)
 Soutenir / signaler / briser le silence. 5) *Le respect est
 un droit — pour chacun·e.*
@@ -56,4 +56,4 @@ un droit — pour chacun·e.*
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 7*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 7*

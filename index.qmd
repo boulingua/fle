@@ -1,50 +1,51 @@
 ---
-title: "FLE BW — Français pour la Gesamtschule, Kl. 6 à 13"
+title: "Français pour l'enseignement secondaire, classes 6 à 13"
 page-layout: full
 ---
 
 ::: {.hero-kicker}
-FLE · BADE-WURTEMBERG · KL. 6 À 13
+FLE · CLASSES 6 À 13
 :::
 
-# Français pour la Gesamtschule, Klasse 6 à 13
-
 ::: {.lead}
-Curriculum FLE complet pour la Gesamtschule du Bade-Wurtemberg :
-**156 Unités** sur deux parcours, alignées sur le Bildungsplan
-2016 (Sek I) et le Bildungsplan gymnasiale Oberstufe 2021. Une
-voix d'enseignante, pas une voix d'éditeur de manuel.
+Curriculum FLE complet pour l'enseignement secondaire :
+**156 unités** sur deux filières, alignées sur un référentiel
+(« Bildungsplan ») régional. Une voix d'enseignante, pas une
+voix d'éditeur de manuel.
 :::
 
 ## Ce que ce site est
 
-Un site sœur de **EFL BW** et de **DaF**. Mêmes principes : une
+Un site sœur de **EFL** et de **DaF**. Mêmes principes : une
 seule source `.qmd` qui rend en article HTML *et* en jeu de
-diapositives Reveal.js ; une grille à cinq étapes par Unité ;
-un exemple d'épreuve par Unité (Klassenarbeit ou Abitur) en PDF
+diapositives Reveal.js ; une grille à cinq étapes par unité ;
+un exemple d'épreuve par unité (devoir surveillé
+(« Klassenarbeit ») ou épreuve finale (« Abitur »)) en PDF
 indépendant ; une fiche d'exercices placeholder pour l'instant.
 
 ## Pour qui
 
-- **Enseignant·e·s** des deux parcours (G+M et E) qui cherchent
-  un matériel BW-conforme prêt à l'emploi.
-- **Élèves** des Klassen 6 à 13 qui veulent réviser ou
+- **Enseignant·e·s** des deux filières (G+M et E) qui cherchent
+  un matériel prêt à l'emploi, conforme au référentiel régional.
+- **Élèves** des classes 6 à 13 qui veulent réviser ou
   approfondir.
 - **Formateur·rices** qui peuvent réutiliser sous CC-BY-SA 4.0.
 
-## Les deux parcours
+## Les deux filières
 
 ::: {.card-grid}
 ::: {.card}
-### [Parcours G+M (Kl. 6–10)](#parcours-gm)
-Cinq cours, 60 Unités. Visée : Hauptschulabschluss (fin Kl. 9)
-et Mittlerer Bildungsabschluss (fin Kl. 10).
+### [Filière G+M (cl. 6–10)](#filiere-gm)
+Cinq cours, 60 unités. Visée : diplôme de fin de scolarité
+obligatoire (« Hauptschulabschluss ») (fin cl. 9) et diplôme
+intermédiaire (« Mittlerer Bildungsabschluss ») (fin cl. 10).
 :::
 
 ::: {.card}
-### [Parcours E (Kl. 6–13)](#parcours-e)
-Huit cours, 96 Unités. Visée : Allgemeine Hochschulreife
-(Abitur), épreuves écrite et communicative.
+### [Filière E (cl. 6–13)](#filiere-e)
+Huit cours, 96 unités. Visée : baccalauréat équivalent
+(« Allgemeine Hochschulreife »), épreuves écrite et communicative
+(« Kommunikationsprüfung »).
 :::
 :::
 
@@ -56,7 +57,7 @@ Huit cours, 96 Unités. Visée : Allgemeine Hochschulreife
 3. **S'entraîner** — exercices guidés avec corrigés en bloc
    replié.
 4. **Produire** — production libre : prise de parole, écriture,
-   jeu de rôle, médiation.
+   jeu de rôle, médiation linguistique (« Sprachmittlung »).
 5. **Réfléchir** — bilan métacognitif, auto-évaluation aux
    « Can-do ».
 
@@ -65,38 +66,38 @@ Tentative → Retour*.
 
 ## Une seule source, deux formats
 
-Chaque Unité existe en **HTML** (à lire / projeter en classe) et
+Chaque unité existe en **HTML** (à lire / projeter en classe) et
 en **diapositives Reveal.js** (à présenter). Le PDF d'épreuve est
 généré à partir d'une seule source de vérité ; aucune
 redondance.
 
 ## Préparation aux épreuves
 
-- **Klasse 6–10** : Klassenarbeit au format BW
-  (compétence-orientée, adaptée au niveau G/M/E).
-- **Klasse 11–13** : tâches d'**Abitur** au format BW (écrit ou
-  Kommunikationsprüfung), à dose progressive.
+- **Classes 6–10** : devoir surveillé (compétence-orientée,
+  adaptée au niveau G/M/E).
+- **Classes 11–13** : tâches d'**épreuve finale** (écrit ou
+  épreuve communicative), à dose progressive.
 
-## Bildungsplan-BW
+## Référentiel
 
-L'alignement sur le Bildungsplan-BW est documenté dans
+L'alignement sur le référentiel régional est documenté dans
 [`_resources/bildungsplan_bw_franzoesisch.yml`](https://github.com/boulingua/fle/blob/main/_resources/bildungsplan_bw_franzoesisch.yml),
 verbatim depuis les pages officielles. Aucune compétence n'est
 inventée.
 
 ## Sites sœurs
 
-- [EFL BW](https://boulingua.github.io/efl/) — Anglais, Kl. 5–13.
+- [EFL](https://boulingua.github.io/efl/) — Anglais, cl. 5–13.
 - [DaF](https://boulingua.github.io/daf/) — Allemand langue
-  étrangère, GER A1–C1.
-- [Ressources](https://boulingua.github.io/ressources/) — hub
+  étrangère, CECRL A1–C1.
+- [Ressources](https://boulingua.github.io/ressources/) — pôle
   curé.
 
 ## Plus loin
 
 - [À propos](a_propos.qmd)
-- [Bildungsplan](bildungsplan.qmd)
-- [Programme complet (156 Unités)](programme.qmd)
+- [Référentiel](bildungsplan.qmd)
+- [Programme complet (156 unités)](programme.qmd)
 - [Stratégies d'apprentissage](annexes/strategies.qmd)
 - [Glossaire](annexes/glossaire.qmd)
 - [Bibliographie](bibliographie.qmd)

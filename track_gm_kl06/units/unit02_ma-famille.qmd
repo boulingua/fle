@@ -1,15 +1,15 @@
 ---
 title: "Unité 2 — Ma famille"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 2
 slug: "ma-famille"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
   - sprechen_monolog
   - leseverstehen
@@ -37,10 +37,10 @@ format:
 - Je dis : *« C'est ma mère. Voici mon père. »*
 - Je lis une mini-présentation de famille.
 
-## Alignement Bildungsplan
+## Alignement référentiel (« Bildungsplan »)
 
-- **3.1.3.4** Sprechen monologisches Sprechen.
-- **3.1.3.2** Leseverstehen.
+- **3.1.3.4** Expression orale (« Sprechen ») monologisches Expression orale.
+- **3.1.3.2** Compréhension écrite (« Leseverstehen »).
 - **3.1.3.7** Wortschatz.
 
 ## Histoire d'introduction
@@ -60,25 +60,25 @@ La classe rit — *un chat, c'est de la famille ?*
 
 ### A. Vocabulaire
 
-| Français            | Allemand             |
+| Français | Allemand |
 |---------------------|----------------------|
-| la mère             | die Mutter           |
-| le père             | der Vater            |
-| les parents         | die Eltern           |
-| le frère            | der Bruder           |
-| la sœur             | die Schwester        |
-| le grand-père       | der Opa              |
-| la grand-mère       | die Oma              |
-| la fille / le fils  | die Tochter / der Sohn |
-| le chien · le chat  | der Hund · die Katze |
+| la mère | die Mutter |
+| le père | der Vater |
+| les parents | die Eltern |
+| le frère | der Bruder |
+| la sœur | die Schwester |
+| le grand-père | der Opa |
+| la grand-mère | die Oma |
+| la fille / le fils | die Tochter / der Sohn |
+| le chien · le chat | der Hund · die Katze |
 
 ### B. Possessifs (singulier)
 
-| Allemand         | Français (m.)  | Français (f.) |
+| Allemand | Français (m.) | Français (f.) |
 |------------------|----------------|---------------|
-| mein / meine     | mon            | ma            |
-| dein / deine     | ton            | ta            |
-| sein / ihre      | son            | sa            |
+| mein / meine | mon | ma |
+| dein / deine | ton | ta |
+| sein / ihre | son | sa |
 
 > **Astuce :** *« mon, ton, son »* + nom féminin commençant par
 > une **voyelle** : *mon amie · ton école*.
@@ -140,7 +140,7 @@ Présentez **votre famille** en français. Au moins :
 - [ ] Je distingue *mon, ma, mes*.
 - [ ] Je présente ma famille en 1 minute.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Vocabulaire (10 P.)**
 
@@ -148,12 +148,12 @@ Traduisez : 1) der Bruder · 2) die Tante (= la tante, à
 introduire si besoin) · 3) die Eltern · 4) der Sohn · 5) die
 Großmutter.
 
-**Tâche 2 — Schreiben (10 P.)**
+**Tâche 2 — Expression écrite (« Schreiben ») (10 P.)**
 
 Présentez votre famille en **40 mots**, avec au moins 3
 possessifs *mon/ma/mes*.
 
-**Tâche 3 — Sprechen mündlich (10 P.)**
+**Tâche 3 — Expression orale mündlich (10 P.)**
 
 Présentation orale de la famille avec photo (1 min).
 
@@ -178,4 +178,4 @@ Produire 12' · Réfléchir 3' · Aperçu 4'.
 
 - **DW Nico's Weg — Familie**.
 - **TV5 Monde — Vocabulaire famille** :
-  <https://apprendre.tv5monde.com/>
+ <https://apprendre.tv5monde.com/>

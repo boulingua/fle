@@ -1,14 +1,14 @@
 ---
 title: "Unité 11 — Un projet solidaire"
-subtitle: "Parcours E (Gymnasium) · Klasse 8 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 11
 slug: "un-projet-solidaire-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je présente un **projet solidaire** de classe (collecte,
-  jumelage, action écolo).
+ jumelage, action écolo).
 - J'utilise **8 verbes d'action** + **futur simple**.
 - Je rédige une **affiche-projet** de 80 mots.
 
@@ -55,7 +55,7 @@ Soraya). Karim soutient l'idée.
 ### A. 8 verbes d'action
 
 - *organiser · collecter · récolter · partager · soutenir ·
-  envoyer · sensibiliser · agir.*
+ envoyer · sensibiliser · agir.*
 
 ### B. Structure d'un projet (4 questions)
 
@@ -82,7 +82,7 @@ Soraya). Karim soutient l'idée.
 >
 > **Vous voulez nous soutenir ?** Apportez 1 ou 2 livres !
 >
-> *— Anouk, Karim et la classe de 8e du Gymnasium*
+> *— Anouk, Karim et la classe de 8e du lycée (« Gymnasium »)*
 
 ## 3. S'entraîner
 
@@ -128,11 +128,11 @@ au futur simple + 1 invitation à participer.
 - [ ] Je structure un projet en 4 questions.
 - [ ] Je conjugue 3 verbes au futur simple.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : affiche du projet, 5 questions.
 **Tâche 2 — Futur simple (8 P.)** : 4 conjugaisons.
-**Tâche 3 — Schreiben (12 P.)** : votre affiche-projet
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre affiche-projet
 (~100 mots).
 
 **Total : 30 P.**
@@ -150,13 +150,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **« Solidaire »** = qui aide (positif) ; pas *seul*.
 - **« Collecter »** ≠ *collecter* en allemand (*sammeln*) ; en
-  français aussi mais à l'écrit on préfère *recueillir* en
-  registre soutenu.
+ français aussi mais à l'écrit on préfère *recueillir* en
+ registre soutenu.
 - **Futur simple** : *enverra* (et non *envoyera*).
 
 ## Pour aller plus loin
 
 - **France Volontaires (engagement jeunes)** :
-  <https://www.france-volontaires.org/>
+ <https://www.france-volontaires.org/>
 - **Bibliothèques sans frontières (BSF)** :
-  <https://www.bibliosansfrontieres.org/>
+ <https://www.bibliosansfrontieres.org/>

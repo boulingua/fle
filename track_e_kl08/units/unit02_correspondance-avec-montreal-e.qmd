@@ -1,14 +1,14 @@
 ---
 title: "Unité 2 — Correspondance avec Montréal"
-subtitle: "Parcours E (Gymnasium) · Klasse 8 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 2
 slug: "correspondance-avec-montreal-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -62,7 +62,7 @@ Comment ça va à Karlsruhe ? Ici à Montréal, c'est l'automne, mes
 
 - *magasiner · char · chum/blonde · dépanneur · poutine.*
 - **Nouveaux** : *jaser* (parler), *plate* (ennuyeux),
-  *écœurant* (génial !).
+ *écœurant* (génial !).
 
 ### C. Courriel d'Inès (texte original)
 
@@ -134,12 +134,12 @@ Rédigez un **courriel-réponse** à Inès : structure complète +
 - [ ] Je connais 8 québécismes.
 - [ ] Je dialogue par courriel avec une Québécoise.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
-**Tâche 1 — Leseverstehen (10 P.)** : courriel d'Inès,
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : courriel d'Inès,
 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 québécismes.
-**Tâche 3 — Schreiben (12 P.)** : votre courriel (~150 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre courriel (~150 mots).
 
 **Total : 30 P.**
 
@@ -155,13 +155,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Écœurant »** au Québec = positif (super !) ; en France,
-  ça veut dire *qui dégoûte* (négatif !).
+ ça veut dire *qui dégoûte* (négatif !).
 - **« Jaser »** au Québec = bavarder gentiment ; en France, ça
-  peut être négatif (cancaner).
+ peut être négatif (cancaner).
 - **« Plate »** au Québec = ennuyeux ; en France, ça veut dire
-  plat (sans relief).
+ plat (sans relief).
 
 ## Pour aller plus loin
 
 - **Office québécois de la langue française — vitrine** :
-  <https://vitrinelinguistique.oqlf.gouv.qc.ca/>
+ <https://vitrinelinguistique.oqlf.gouv.qc.ca/>

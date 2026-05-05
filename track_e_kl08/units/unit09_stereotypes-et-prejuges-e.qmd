@@ -1,14 +1,14 @@
 ---
 title: "Unité 9 — Stéréotypes et préjugés"
-subtitle: "Parcours E (Gymnasium) · Klasse 8 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 9
 slug: "stereotypes-et-prejuges-e"
 bildungsplan:
-  - "3.1.3.3 Sprechen — an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_dialog
   - schreiben
@@ -53,20 +53,20 @@ préjugé. »*
 
 ### A. Stéréotype vs préjugé
 
-| Mot          | Définition                                    |
+| Mot | Définition |
 |--------------|-----------------------------------------------|
-| stéréotype   | image simplifiée d'un groupe                  |
-| préjugé      | jugement négatif **avant** de connaître       |
-| cliché       | stéréotype très répété                        |
+| stéréotype | image simplifiée d'un groupe |
+| préjugé | jugement négatif **avant** de connaître |
+| cliché | stéréotype très répété |
 
 ### B. Conditionnel présent (introduction E)
 
-| Verbe   | je-il-elle      | nous-vous-ils       |
+| Verbe | je-il-elle | nous-vous-ils |
 |---------|-----------------|----------------------|
-| aimer   | j'aimerais      | nous aimerions       |
-| être    | je serais       | nous serions         |
-| avoir   | j'aurais        | nous aurions         |
-| pouvoir | je pourrais     | nous pourrions       |
+| aimer | j'aimerais | nous aimerions |
+| être | je serais | nous serions |
+| avoir | j'aurais | nous aurions |
+| pouvoir | je pourrais | nous pourrions |
 
 → usage : **politesse** + **hypothèse** : *Ce serait bien si …*
 
@@ -140,12 +140,12 @@ hypothèse).
 - [ ] J'utilise 5 conditionnels présents.
 - [ ] Je nuance avec 5 connecteurs.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : dialogue Karim/Anouk, 5
 questions.
 **Tâche 2 — Conditionnel (8 P.)** : 4 conjugaisons.
-**Tâche 3 — Schreiben (12 P.)** : mini-dialogue + commentaire
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : mini-dialogue + commentaire
 (~120 mots).
 
 **Total : 30 P.**
@@ -162,14 +162,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Conditionnel ≠ futur simple** : *je verrai* (futur
-  certain) ≠ *je verrais* (hypothèse / politesse).
+ certain) ≠ *je verrais* (hypothèse / politesse).
 - **« Cependant »** placé en début de phrase, virgule après.
 - **Préjugé** est négatif par définition ; *stéréotype* peut
-  être positif ou négatif.
+ être positif ou négatif.
 
 ## Pour aller plus loin
 
 - **Geo Ado — dossier stéréotypes** :
-  <https://www.geoado.com/>
+ <https://www.geoado.com/>
 - **Conseil de l'Europe — éducation interculturelle** :
-  <https://www.coe.int/fr/web/portal>
+ <https://www.coe.int/fr/web/portal>

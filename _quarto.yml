@@ -3,68 +3,68 @@ project:
   output-dir: docs
 
 website:
-  title: "FLE BW — S. Le Boulanger"
-  description: "Curriculum FLE bilingue pour Gesamtschule Bade-Wurtemberg, Klasse 6 à 13, aligné sur le Bildungsplan."
+  title: "FLE — S. Le Boulanger"
+  description: "Curriculum FLE bilingue pour l'enseignement secondaire, classes 6 à 13, aligné sur un référentiel régional."
   site-url: "https://boulingua.github.io/fle/"
   repo-url: "https://github.com/boulingua/fle"
   navbar:
-    title: "FLE BW"
+    title: "FLE"
     left:
       - href: index.qmd
         text: "Accueil"
       - href: a_propos.qmd
         text: "À propos"
       - href: bildungsplan.qmd
-        text: "Bildungsplan"
+        text: "Référentiel"
       - href: programme.qmd
         text: "Programme"
-      - text: "Niveau G+M (Kl. 6–10)"
+      - text: "Filière G+M (cl. 6–10)"
         menu:
           - href: track_gm_kl06/index.qmd
-            text: "Klasse 6"
+            text: "Classe 6"
           - href: track_gm_kl07/index.qmd
-            text: "Klasse 7"
+            text: "Classe 7"
           - href: track_gm_kl08/index.qmd
-            text: "Klasse 8"
+            text: "Classe 8"
           - href: track_gm_kl09/index.qmd
-            text: "Klasse 9"
+            text: "Classe 9"
           - href: track_gm_kl10/index.qmd
-            text: "Klasse 10"
-      - text: "Niveau E (Kl. 6–13)"
+            text: "Classe 10"
+      - text: "Filière E (cl. 6–13)"
         menu:
           - href: track_e_kl06/index.qmd
-            text: "Klasse 6"
+            text: "Classe 6"
           - href: track_e_kl07/index.qmd
-            text: "Klasse 7"
+            text: "Classe 7"
           - href: track_e_kl08/index.qmd
-            text: "Klasse 8"
+            text: "Classe 8"
           - href: track_e_kl09/index.qmd
-            text: "Klasse 9"
+            text: "Classe 9"
           - href: track_e_kl10/index.qmd
-            text: "Klasse 10"
+            text: "Classe 10"
           - href: track_e_kl11/index.qmd
-            text: "Klasse 11"
+            text: "Classe 11"
           - href: track_e_kl12/index.qmd
-            text: "Klasse 12"
+            text: "Classe 12"
           - href: track_e_kl13/index.qmd
-            text: "Klasse 13"
+            text: "Classe 13"
     right:
-      - text: "Rechtliches"
+      - text: "Mentions légales"
         menu:
           - href: impressum.qmd
             text: "Impressum"
           - href: datenschutz.qmd
-            text: "Datenschutzerklärung"
+            text: "Protection des données"
           - href: haftungsausschluss.qmd
-            text: "Haftungsausschluss"
+            text: "Avertissement"
       - icon: github
         href: https://github.com/boulingua/fle
   page-navigation: true
   page-footer:
-    left: "FLE BW · © S. Le Boulanger · MIT / CC-BY-SA 4.0"
+    left: "FLE · © S. Le Boulanger · MIT / CC-BY-SA 4.0"
     center: |
       [Accueil](/index.qmd) · [Programme](/programme.qmd) ·
-      [Bildungsplan](/bildungsplan.qmd) ·
+      [Référentiel](/bildungsplan.qmd) ·
       [Stratégies d'apprentissage](/annexes/strategies.qmd) ·
       [Arbre des compétences](/annexes/competences.qmd) ·
       [Glossaire](/annexes/glossaire.qmd) ·
@@ -76,9 +76,9 @@ website:
       [DaF](https://boulingua.github.io/daf/) ·
       [Ressources](https://boulingua.github.io/ressources/) ·
       **[Impressum](/impressum.qmd)** ·
-      **[Datenschutz](/datenschutz.qmd)** ·
-      **[Haftungsausschluss](/haftungsausschluss.qmd)** ·
-      [Kontakt](mailto:277736839+s-leboulanger@users.noreply.github.com)
+      **[Protection des données](/datenschutz.qmd)** ·
+      **[Avertissement](/haftungsausschluss.qmd)** ·
+      [Contact](mailto:277736839+s-leboulanger@users.noreply.github.com)
     right: "Construit avec [Quarto](https://quarto.org)"
 
 filters:

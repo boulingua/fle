@@ -1,20 +1,20 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 2"
-subtitle: "Mes médias préférés · Klasse 8 · Niveau M"
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 2"
+subtitle: "Mes médias préférés · classe 8 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 8
+## Devoir surveillé — Niveau M, classe 8
 
 ::: {.callout-warning}
-Format Klassenarbeit BW (niveau M) avec **partie orale
+Format devoir surveillé (« Klassenarbeit ») (niveau M) avec **partie orale
 enregistrée**, durée totale ~60 min (incl. enregistrement).
 Stimuli originaux.
 :::
 
-### Tâche 1 — Leseverstehen (8 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
 
 Lisez le mini-dialogue suivant.
 
@@ -35,7 +35,7 @@ Répondez en phrases complètes :
 
 1. Que regardait Karim hier soir ? (2 P.)
 2. Pourquoi Madame Renault préfère-t-elle l'article de Léa ?
-   (3 P.)
+ (3 P.)
 3. Que veut dire « fiable » dans ce contexte ? (3 P.)
 
 ### Tâche 2 — Mündlicher Anteil (12 P.)
@@ -50,10 +50,10 @@ camarade. Posez et répondez à **trois questions** :
 Critères de notation :
 
 - **Erfüllung** (3 questions posées + réponses claires) : 4 P.
-- **Sprache** (vocabulaire des médias + structures M) : 4 P.
+- **Langue** (vocabulaire des médias + structures M) : 4 P.
 - **Aussprache** (intelligibilité) : 4 P.
 
-### Tâche 3 — Schreiben (10 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
 
 Écrivez un texte d'environ **70 mots** :
 
@@ -64,14 +64,14 @@ réseau social), un avantage, un inconvénient.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 8       |
-| Tâche 2 — Mündlich          | 12      |
-| Tâche 3 — Schreiben         | 10      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Mündlich | 12 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
 
-Notenschlüssel BW typique :
+barème de notes (« Notenschlüssel ») typique :
 *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
 
 ## Solutions (extrait)
@@ -79,11 +79,11 @@ Notenschlüssel BW typique :
 **Tâche 1.**
 
 1. Karim regardait des vidéos courtes (≈ 30 secondes) sur
-   YouTube, sur des sujets très variés.
+ YouTube, sur des sujets très variés.
 2. Parce que l'article de Léa a une **source signée** : on sait
-   qui a écrit le texte.
+ qui a écrit le texte.
 3. *Fiable* = digne de confiance / sérieux ; on peut s'y fier
-   parce que l'auteur·rice est identifiable.
+ parce que l'auteur·rice est identifiable.
 
 **Tâche 3 (modèle, ~72 mots).**
 
@@ -96,4 +96,4 @@ Notenschlüssel BW typique :
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 2*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 2*

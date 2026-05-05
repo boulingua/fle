@@ -1,14 +1,14 @@
 ---
 title: "Unité 7 — Vacances en famille"
-subtitle: "Parcours G+M · Klasse 7 · Niveau M"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 7
 slug: "vacances-en-famille"
 bildungsplan:
-  - "3.1.3.4 Sprechen — zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -52,22 +52,22 @@ là, c'est le marché de Nice — il y avait des fleurs partout ! »*
 
 ### A. Vocabulaire — lieux
 
-| Français     | Allemand    |
+| Français | Allemand |
 |--------------|-------------|
-| la mer       | das Meer    |
-| la plage     | der Strand  |
-| la montagne  | das Gebirge |
-| la campagne  | das Land    |
-| la ville     | die Stadt   |
-| le lac       | der See     |
-| l'hôtel      | das Hotel   |
-| le camping   | der Campingplatz |
+| la mer | das Meer |
+| la plage | der Strand |
+| la montagne | das Gebirge |
+| la campagne | das Land |
+| la ville | die Stadt |
+| le lac | der See |
+| l'hôtel | das Hotel |
+| le camping | der Campingplatz |
 
 ### B. Activités de vacances
 
 - *se baigner, nager, faire la sieste, visiter un musée,
-  faire des randonnées, faire du vélo, lire un livre, manger des
-  glaces.*
+ faire des randonnées, faire du vélo, lire un livre, manger des
+ glaces.*
 
 ### C. Carte postale (texte original)
 
@@ -132,11 +132,11 @@ pour demain. Salutation et signature.
 - [ ] Je raconte au passé composé.
 - [ ] J'écris une carte postale de 8 lignes.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Lecture (10 P.)** : carte postale, 5 questions.
 **Tâche 2 — Grammatik (8 P.)** : 6 verbes au passé composé.
-**Tâche 3 — Schreiben (12 P.)** : votre carte postale (~80 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre carte postale (~80 mots).
 
 **Total : 30 P.**
 
@@ -154,9 +154,9 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 - **« partir en vacances »** (pas *aller en vacances*).
 - **« il fait chaud / froid / beau / mauvais »** (impersonnel).
 - **Carte postale :** lieu + date à droite, salutation, corps,
-  formule finale, signature.
+ formule finale, signature.
 
 ## Pour aller plus loin
 
 - **Office de Tourisme de Cannes** :
-  <https://www.cannes-destination.com/>
+ <https://www.cannes-destination.com/>

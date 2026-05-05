@@ -1,12 +1,12 @@
 ---
-title: "Klassenarbeit FLE — Klasse 8 (Niveau M) — Unité 6"
-subtitle: "Musiques du Maghreb · Klasse 8 · Niveau M"
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 6"
+subtitle: "Musiques du Maghreb · classe 8 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 8 (avec écoute)
+## Devoir surveillé — Niveau M, classe 8 (avec écoute)
 
 ### Tâche 1 — Hörverstehen (15 P.)
 
@@ -31,19 +31,19 @@ a) Mélange arabe-français + voix puissantes + Oran années 1980 → ___
 b) Oud + derbouka + mariages, héritage andalou → ___
 c) Banlieue + double identité + années 2000 → ___
 
-### Tâche 3 — Schreiben (5 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (5 P.)
 
 Décrivez en **3 phrases** votre chanson préférée :
 genre · artiste · pourquoi vous l'aimez.
 
 ## Notation
 
-| Tâche                        | Points  |
+| Tâche | Points |
 |------------------------------|--------:|
-| Tâche 1 — Hörverstehen       | 15      |
-| Tâche 2 — Text-/Medien        | 10      |
-| Tâche 3 — Schreiben          | 5       |
-| **Total**                    | **30**  |
+| Tâche 1 — Hörverstehen | 15 |
+| Tâche 2 — Text-/Medien | 10 |
+| Tâche 3 — Expression écrite | 5 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -60,4 +60,4 @@ conjugué, vocabulaire des médias / musique adéquat.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 8 · Niveau M · Unité 6*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 6*

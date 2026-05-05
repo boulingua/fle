@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 10 (Niveau M) — Unité 1"
-subtitle: "Transition formation / emploi · Klasse 10 · Niveau M"
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 1"
+subtitle: "Transition formation / emploi · classe 10 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 10
+## Devoir surveillé — Niveau M, classe 10
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez l'annonce + la lettre de Léa (Unité 1, textes C+D).
 Répondez :
@@ -24,9 +24,9 @@ Répondez :
 Donnez l'**équivalent français** (ou définition simple) :
 
 - Ausbildung · FSJ · Berufskolleg · Mentor · CDI · CDD ·
-  un(e) apprenti(e) · une candidature spontanée.
+ un(e) apprenti(e) · une candidature spontanée.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre candidature spontanée** en **180 mots** pour
 un poste de votre choix. Structure : intro (présentation),
@@ -35,12 +35,12 @@ joint).
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -51,7 +51,7 @@ confortée dans son choix. 5) « Je vous prie d'agréer, Madame,
 Monsieur, mes salutations distinguées. »
 
 **Tâche 2.** apprentissage en alternance · service civique ·
-lycée professionnel · une personne expérimentée qui guide ·
+lycée (« Gymnasium ») professionnel · une personne expérimentée qui guide ·
 contrat à durée indéterminée · contrat à durée déterminée ·
 personne en formation chez un patron · candidature sans
 annonce préalable.
@@ -61,4 +61,4 @@ complète · 2 atouts · formule polie · mention CV.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 10 · Niveau M · Unité 1*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau M · Unité 1*

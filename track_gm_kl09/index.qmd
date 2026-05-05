@@ -1,18 +1,16 @@
 ---
-title: "Klasse 9 — Niveau G+M"
+title: "Classe 9 — Niveau G+M"
 ---
 
 ::: {.hero-kicker}
-PARCOURS G+M · KLASSE 9
+PARCOURS G+M · CLASSE 9
 :::
 
-# Klasse 9 — Niveau G+M
+[M]{.cefr-badge.a2}
 
-[M]{.cefr-badge .a2}
-
-Douze Unités sur le niveau **M** (mittel) en Klasse 9.
+Douze Unités sur le niveau **M** (mittel) en classe 9.
 Argumentation simple, monde du travail (Praktikum), citoyenneté,
-préparation à la **Mittlere Reife**.
+préparation à la **diplôme intermédiaire (« Mittlerer Bildungsabschluss »)**.
 
 ## Cap visé
 
@@ -36,85 +34,85 @@ est introduit, l'argumentation prend forme.
 
 ::: {.card}
 ### [Unité 1 — Le monde du travail (Praktikum)](units/unit01_le-monde-du-travail.qmd)
-Modul : Lesen. Stage chez Hugo ; rapport de stage.
+Module : Compréhension écrite (« Leseverstehen »). Stage chez Hugo ; rapport de stage.
 :::
 
 ::: {.card}
 ### [Unité 2 — Lettre de motivation](units/unit02_lettre-de-motivation.qmd)
-Modul : Schreiben. Structure formelle + formules de politesse.
+Module : Expression écrite (« Schreiben »). Structure formelle + formules de politesse.
 :::
 
 ::: {.card}
 ### [Unité 3 — Écologie au quotidien](units/unit03_ecologie-au-quotidien.qmd)
-Modul : Sprechen. *Il faut / on devrait* + 8 gestes.
+Module : Expression orale (« Sprechen »). *Il faut / on devrait* + 8 gestes.
 :::
 
 ::: {.card}
 ### [Unité 4 — Argumenter pour / contre](units/unit04_argumenter-pour-contre.qmd)
-Modul : Sprechen. Thèse-arguments-conclusion + 5 connecteurs.
+Module : Expression orale. Thèse-arguments-conclusion + 5 connecteurs.
 :::
 
 ::: {.card}
 ### [Unité 5 — Vivre en Tunisie](units/unit05_vivre-en-tunisie.qmd)
-Modul : Lesen. Mehdi écrit de Sfax ; français de Tunisie.
+Module : Compréhension écrite. Mehdi écrit de Sfax ; français de Tunisie.
 :::
 
 ::: {.card}
 ### [Unité 6 — Podcasts en français](units/unit06_podcasts-en-francais.qmd)
-Modul : Hören. *Choses à Savoir* + grille 3-2-1.
+Module : Compréhension orale (« Hören »). *Choses à Savoir* + grille 3-2-1.
 :::
 
 ::: {.card}
 ### [Unité 7 — Harcèlement et respect](units/unit07_harcelement-et-respect.qmd)
-Modul : Sprechen. Harcèlement vs. conflit ; numéro 3018.
+Module : Expression orale. Harcèlement vs. conflit ; numéro 3018.
 :::
 
 ::: {.card}
 ### [Unité 8 — Différences culturelles franco-allemandes](units/unit08_differences-culturelles.qmd)
-Modul : Sprechen. Stéréotype vs. fait nuancé + Sprachmittlung.
+Module : Expression orale. Stéréotype vs. fait nuancé + médiation linguistique (« Sprachmittlung »).
 :::
 
 ::: {.card}
 ### [Unité 9 — Internet et vie privée](units/unit09_internet-et-vie-privee.qmd)
-Modul : Lesen. RGPD + 8 risques numériques.
+Module : Compréhension écrite. RGPD + 8 risques numériques.
 :::
 
 ::: {.card}
 ### [Unité 10 — Consommation responsable](units/unit10_consommation-responsable.qmd)
-Modul : Lesen. Vinted, fast fashion, 5 labels.
+Module : Compréhension écrite. Vinted, fast fashion, 5 labels.
 :::
 
 ::: {.card}
 ### [Unité 11 — Français au travail](units/unit11_francais-au-travail.qmd)
-Modul : Sprachmittlung. Mail pro DE→FR + 10 expressions jargon.
+Module : Médiation. Mail pro DE→FR + 10 expressions jargon.
 :::
 
 ::: {.card}
-### [Unité 12 — Préparation Mittlere Reife](units/unit12_preparation-mittlere-reife.qmd)
-Modul : Lesen. Examen blanc MSA français complet.
+### [Unité 12 — Préparation diplôme intermédiaire](units/unit12_preparation-mittlere-reife.qmd)
+Module : Compréhension écrite. Examen blanc MSA français complet.
 :::
 
 :::
 
 ## Cap d'épreuve
 
-Klassenarbeit BW au format M, ~30 points par épreuve, plus une
+Devoir surveillé au format M, ~30 points par épreuve, plus une
 **simulation MSA** complète en U12.
-Notenschlüssel typique : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 ·
+barème de notes (« Notenschlüssel ») typique : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 ·
 5 ≥ 8 · 6 < 8*.
 
 ## Couverture des compétences fonctionnelles (3.1.3.x)
 
-| Code        | Compétence                                  | Unités       |
+| Code | Compétence | Unités |
 |-------------|---------------------------------------------|--------------|
-| 3.1.3.1     | Hör-/Hörsehverstehen                        | 6            |
-| 3.1.3.2     | Leseverstehen                               | 1, 3, 5, 9, 10, 12 |
-| 3.1.3.3     | Sprechen (Dialog)                           | 3, 7, 9, 11  |
-| 3.1.3.4     | Sprechen (Monolog)                          | 4, 8         |
-| 3.1.3.5     | Schreiben                                   | 1, 2, 4, 7, 10, 12 |
-| 3.1.3.6     | Sprachmittlung                              | 8, 11        |
-| 3.1.4       | Text- und Medienkompetenz                   | 5            |
-| 3.1.2       | Interkulturelle kommunikative Kompetenz     | 5, 7, 8      |
+| 3.1.3.1 | Compréhension orale et audiovisuelle (« Hör-/Hörsehverstehen ») | 6 |
+| 3.1.3.2 | Compréhension écrite | 1, 3, 5, 9, 10, 12 |
+| 3.1.3.3 | Expression orale (interaction) | 3, 7, 9, 11 |
+| 3.1.3.4 | Expression orale (production en continu) | 4, 8 |
+| 3.1.3.5 | Expression écrite | 1, 2, 4, 7, 10, 12 |
+| 3.1.3.6 | médiation linguistique | 8, 11 |
+| 3.1.4 | Compétence textuelle et médiatique (« Text- und Medienkompetenz ») | 5 |
+| 3.1.2 | Compétence interculturelle communicative (« Interkulturelle kommunikative Kompetenz ») | 5, 7, 8 |
 
 Toutes les sous-compétences 3.1.3.1–3.1.3.6 + 3.1.4 + 3.1.2 sont
 couvertes au moins **une fois** sur l'année.
@@ -122,5 +120,5 @@ couvertes au moins **une fois** sur l'année.
 ## Voir aussi
 
 - [Programme complet (156 Unités)](../programme.qmd)
-- [Bildungsplan](../bildungsplan.qmd)
+- [Référentiel](../bildungsplan.qmd)
 - [Accueil](../index.qmd)

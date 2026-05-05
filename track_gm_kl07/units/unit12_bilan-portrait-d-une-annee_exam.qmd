@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 7 (Niveau M) — Unité 12"
-subtitle: "Bilan : portrait d'une année · Klasse 7 · Niveau M"
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 12"
+subtitle: "Bilan : portrait d'une année · classe 7 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 7
+## Devoir surveillé — Niveau M, classe 7
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez le bilan de Léa (Unité 12, texte C). Répondez :
 
@@ -35,7 +35,7 @@ Puis, conjuguez :
 7. *(aller voir, futur proche)* Nous ___ Inès.
 8. *(visiter, futur proche)* Léa ___ Montréal.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre bilan d'année de 7e** en **100 mots** :
 
@@ -43,16 +43,16 @@ Rédigez **votre bilan d'année de 7e** en **100 mots** :
 - Ce que **vous savez faire maintenant** (présent).
 - Ce que **vous allez faire en 8e** (futur proche).
 - Utilisez **3 connecteurs** (*d'abord, ensuite, enfin /
-  l'an prochain*).
+ l'an prochain*).
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Grammatik         | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Grammatik | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -69,4 +69,4 @@ correspondre avec Inès. 5) Visiter Montréal.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 7 · Niveau M · Unité 12*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau M · Unité 12*

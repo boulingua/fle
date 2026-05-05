@@ -1,14 +1,14 @@
 ---
 title: "Unité 6 — Transports et mobilité"
-subtitle: "Parcours E (Gymnasium) · Klasse 7 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 6
 slug: "transports-et-mobilite"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - leseverstehen
   - sprechen_monolog
@@ -52,7 +52,7 @@ Ville. Le voyage dure 1h45. C'est rapide ! »*
 ### A. 8 transports
 
 - *le train, le TGV, la voiture, le bus, le tram, le métro,
-  le vélo, l'avion.*
+ le vélo, l'avion.*
 
 ### B. *en* / *à*
 
@@ -120,11 +120,11 @@ au PC**.
 - [ ] J'utilise *en* / *à*.
 - [ ] Je décris un trajet en 6 phrases.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : annonce + récit, 5 questions.
 **Tâche 2 — *en* / *à* (8 P.)** : 8 phrases.
-**Tâche 3 — Schreiben (12 P.)** : votre trajet (~80 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre trajet (~80 mots).
 
 **Total : 30 P.**
 
@@ -141,11 +141,11 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **« TGV »** se dit *« té-jé-vé »*.
 - **« Voie »** ≠ *« quai »* : la voie est l'infrastructure
-  (rails) ; le quai, l'espace pour les voyageurs.
+ (rails) ; le quai, l'espace pour les voyageurs.
 - **« Aller à pied »** ≠ *« à voiture »* (impossible — on dit
-  *en voiture*).
+ *en voiture*).
 
 ## Pour aller plus loin
 
 - **SNCF Connect** :
-  <https://www.sncf-connect.com/>
+ <https://www.sncf-connect.com/>

@@ -1,14 +1,14 @@
 ---
-title: "Unité 1 — Le monde du travail (BOGY)"
-subtitle: "Parcours E (Gymnasium) · Klasse 9 · Niveau E"
+title: "Unité 1 — Le monde du travail (stage d'orientation au lycée)"
+subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 1
 slug: "le-monde-du-travail-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - leseverstehen
   - schreiben
@@ -32,14 +32,14 @@ format:
 
 ## Objectifs
 
-- Je comprends le **BOGY** (Berufsorientierung am Gymnasium).
+- Je comprends le **stage d'orientation (« BORS ») au lycée (« Gymnasium ») (« BOGY »)** (Berufsorientierung am lycée).
 - J'utilise **10 mots** du monde du travail en français.
 - Je rédige le **rapport de stage** d'une journée (~150 mots).
 
 ## Histoire d'introduction
 
 M. Klein, prof d'orientation, distribue un dossier en 9e :
-*« Cette année, vous ferez une **semaine de stage** — le BOGY.
+*« Cette année, vous ferez une **semaine de stage** — le stage d'orientation au lycée.
 Choisissez bien votre lieu ! »* Anouk choisit l'**Institut
 français de Karlsruhe** ; Karim, lui, ira chez un éditeur à
 Lille.
@@ -55,13 +55,13 @@ Lille.
 ### A. 10 mots du travail
 
 - *un stage · un·e stagiaire · une entreprise · un·e
-  collègue · un patron / une patronne · un contrat · un
-  rapport · un emploi · un métier · un·e tuteur·rice.*
+ collègue · un patron / une patronne · un contrat · un
+ rapport · un emploi · un métier · un·e tuteur·rice.*
 
 ### B. Connecteurs de séquence (rapport de stage)
 
 - *D'abord · ensuite · puis · pendant · finalement · grâce à
-  · au début · à la fin.*
+ · au début · à la fin.*
 
 ### C. Rapport de stage d'Anouk — jour 1 (texte original)
 
@@ -123,11 +123,11 @@ imaginaire) : 4 étapes (matin, midi, après-midi, soir) +
 - [ ] J'enchaîne avec 5 connecteurs de séquence.
 - [ ] Je rédige un rapport de 150 mots.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : rapport jour 1, 5 questions.
 **Tâche 2 — Vocabulaire (8 P.)** : 8 mots du travail.
-**Tâche 3 — Schreiben (12 P.)** : votre rapport (~150 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre rapport (~150 mots).
 
 **Total : 30 P.**
 
@@ -143,13 +143,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Stage »** ≠ *Praktikum* : *un stage* = courte
-  expérience en entreprise (gratuit ou peu rémunéré).
+ expérience en entreprise (gratuit ou peu rémunéré).
 - **« Patron·ne »** = chef·fe direct ; *PDG* = grand chef.
 - **« Tuteur·rice »** = personne qui accompagne en stage.
 
 ## Pour aller plus loin
 
 - **Onisep — découvrir les métiers** :
-  <https://www.onisep.fr/decouvrir-les-metiers>
+ <https://www.onisep.fr/decouvrir-les-metiers>
 - **OFAJ — stages franco-allemands** :
-  <https://www.ofaj.org/programmes-formations/stages.html>
+ <https://www.ofaj.org/programmes-formations/stages.html>

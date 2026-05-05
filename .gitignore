@@ -37,3 +37,6 @@ __pycache__/
 
 # Local tinytex state
 .tinytex/
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,14 +1,14 @@
 ---
 title: "Unité 12 — Bilan : mon portrait"
-subtitle: "Parcours E (Gymnasium) · Klasse 6 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 12
 slug: "bilan-portrait-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_monolog
   - schreiben
@@ -71,7 +71,7 @@ avez appris cette année. »*
 ### C. Portrait d'Anouk (texte original)
 
 > Salut ! Je m'appelle Anouk, j'ai 11 ans. Je suis allemande,
-> j'habite à Karlsruhe. Je suis en 6e B au Gymnasium.
+> j'habite à Karlsruhe. Je suis en 6e B au lycée (« Gymnasium »).
 >
 > J'ai une petite famille : mon père Klaus, ma mère Sonja, et
 > ma petite sœur Lena (8 ans).
@@ -131,11 +131,11 @@ Présentez **votre portrait** en intégrant **9 éléments** des
 - [ ] Je parle 2 min sans lire.
 - [ ] Je connais mes points forts et à améliorer.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : portrait Anouk, 5 questions.
 **Tâche 2 — Auto-éval (5 P.)** : grille 5 domaines.
-**Tâche 3 — Schreiben (15 P.)** : votre portrait (~120 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (15 P.)** : votre portrait (~120 mots).
 
 **Total : 30 P.**
 
@@ -156,5 +156,5 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 ## Pour aller plus loin
 
-- **Aperçu Kl. 7 E** :
-  [Klasse 7 — index](../../track_e_kl07/index.qmd)
+- **Aperçu cl. 7 E** :
+ [classe 7 — index](../../track_e_kl07/index.qmd)

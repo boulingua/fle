@@ -1,21 +1,21 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau E) — Unité 12"
-subtitle: "Bilan : 9e en route vers la Kursstufe · Klasse 9 · Niveau E"
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 12"
+subtitle: "Bilan : 9e en route vers la cycle terminal · classe 9 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 9
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la lettre d'Anouk (Unité 12, texte C). Répondez :
 
 1. Quelles structures grammaticales Anouk a-t-elle consolidées ?
 2. Que sait-elle rédiger en français pro ?
 3. Citez 3 thèmes découverts cette année.
-4. Quel choix vise-t-elle pour la Kursstufe ?
+4. Quel choix vise-t-elle pour la cycle terminal (« Kursstufe ») ?
 5. Quel projet a-t-elle à long terme ?
 
 ### Tâche 2 — 3 temps en alternance (8 P.)
@@ -27,7 +27,7 @@ Conjuguez :
 3. *À l'avenir, je ___ (viser, futur simple) le Lf.*
 4. *Je ___ (préparer, futur simple) un Erasmus à Lille.*
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez **votre lettre** à votre moi de 13e (~180 mots) :
 4 axes (langue, contenus, méthodes, projets) + 6 connecteurs
@@ -35,18 +35,18 @@ Rédigez **votre lettre** à votre moi de 13e (~180 mots) :
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — 3 temps           | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — 3 temps | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
 **Tâche 1.** 1) Subjonctif simple + conditionnel. 2) Lettre
 de motivation + mail pro. 3) Sempé-Goscinny, RGPD, podcasts
-(France Inter), consommation responsable. 4) Leistungsfach
+(France Inter), consommation responsable. 4) option d'approfondissement (« Leistungsfach »)
 Französisch. 5) Erasmus à Lille / stagiaire libraire à
 Bordeaux (Mollat).
 
@@ -58,4 +58,4 @@ Bordeaux (Mollat).
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau E · Unité 12*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 12*

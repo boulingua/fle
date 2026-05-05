@@ -1,14 +1,14 @@
 ---
 title: "Unité 8 — La météo et les saisons"
-subtitle: "Parcours G+M · Klasse 6 · Niveau M"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 8
 slug: "la-meteo-et-les-saisons"
 bildungsplan:
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel — Wortschatz"
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
   - hör_hörsehverstehen
 format:
@@ -51,16 +51,16 @@ Léa note dans son carnet — Strasbourg, c'est près de chez elle.
 
 ### A. Saisons et météo
 
-| Saisons       | Météo                    |
+| Saisons | Météo |
 |---------------|--------------------------|
-| le printemps  | il fait beau             |
-| l'été         | il y a du soleil         |
-| l'automne     | il fait chaud            |
-| l'hiver       | il fait froid            |
-|               | il pleut                 |
-|               | il neige                 |
-|               | il y a du vent           |
-|               | il y a des nuages        |
+| le printemps | il fait beau |
+| l'été | il y a du soleil |
+| l'automne | il fait chaud |
+| l'hiver | il fait froid |
+| | il pleut |
+| | il neige |
+| | il y a du vent |
+| | il y a des nuages |
 
 ### B. Mini-bulletin (texte original)
 
@@ -124,13 +124,13 @@ vent, 17 degrés. »*
 - [ ] Je comprends une mini-météo radio.
 - [ ] Je présente la météo de 3 villes.
 
-## Exemple d'épreuve — Klassenarbeit BW (M)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
 
 **Tâche 1 — Hörverstehen (12 P.)** : la prof lit la météo (B),
 4 villes, questions vrai/faux + ouvertes.
 **Tâche 2 — Saisons (8 P.)** : associer 4 descriptions à 4
 saisons.
-**Tâche 3 — Schreiben (10 P.)** : météo de 3 villes (~30 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : météo de 3 villes (~30 mots).
 
 **Total : 30 P.**
 
@@ -147,9 +147,9 @@ Produire 10' · Réfléchir 3' · Aperçu 5'.
 
 - **« il pleut »** ≠ *« il pleure »* (= il pleure des larmes !).
 - **« il fait du soleil »** est moins courant que *« il y a du
-  soleil »*.
+ soleil »*.
 - **Les saisons** : *au printemps · en été · en automne · en
-  hiver*.
+ hiver*.
 
 ## Pour aller plus loin
 

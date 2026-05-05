@@ -1,14 +1,14 @@
 ---
-title: "Klassenarbeit FLE — Klasse 9 (Niveau M) — Unité 7"
-subtitle: "Harcèlement et respect · Klasse 9 · Niveau M"
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 7"
+subtitle: "Harcèlement et respect · classe 9 · Niveau M"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau M, Klasse 9
+## Devoir surveillé — Niveau M, classe 9
 
-### Tâche 1 — Leseverstehen (10 P.)
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
 
 Lisez la lettre de Léa à Sara (Unité 7, texte D). Répondez :
 
@@ -23,9 +23,9 @@ Lisez la lettre de Léa à Sara (Unité 7, texte D). Répondez :
 Traduisez :
 
 - mobben · beleidigen · sich lustig machen · isolieren ·
-  Zeugin · melden · das Vertrauen · die Hilfe.
+ Zeugin · melden · das Vertrauen · die Hilfe.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Rédigez une **lettre de soutien** (~120 mots) à un(e) ami(e)
 victime de harcèlement : reconnaître la situation, proposer
@@ -34,12 +34,12 @@ de la liste B + le numéro **3018**.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Leseverstehen     | 10      |
-| Tâche 2 — Vocabulaire       | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -56,4 +56,4 @@ concrètes · 2 mots du lexique · 3018 cité · ton bienveillant.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 9 · Niveau M · Unité 7*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 7*

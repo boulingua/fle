@@ -1,14 +1,14 @@
 ---
 title: "Unité 6 — Argumentation structurée"
-subtitle: "Parcours E (Gymnasium) · Klasse 11 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 6
 slug: "argumentation-structuree"
 bildungsplan:
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - schreiben
   - sprechen_monolog
@@ -33,7 +33,7 @@ format:
 ## Objectifs
 
 - Je rédige une **dissertation** courte (~400 mots) en
-  thèse-antithèse-synthèse.
+ thèse-antithèse-synthèse.
 - Je connais **8 connecteurs** logiques de haut niveau.
 - Je présente **oralement** une argumentation en 4 min.
 
@@ -42,7 +42,7 @@ format:
 Première dissertation française pour Anouk : *« La liberté
 d'expression doit-elle être absolue ? »* Théodore : *« Le
 plan en T-A-S est un classique français. Maîtrisez-le, vous
-réussirez l'Abitur. »*
+réussirez l'épreuve finale. »*
 
 ## 1. Activer
 
@@ -54,17 +54,17 @@ réussirez l'Abitur. »*
 
 ### A. Plan T-A-S (4 parties)
 
-| Partie     | Contenu                                |
+| Partie | Contenu |
 |------------|-----------------------------------------|
-| Intro      | accroche + sujet + plan annoncé         |
-| Thèse      | 2 arguments + 2 exemples                |
-| Antithèse  | 2 arguments contraires + 2 exemples     |
-| Synthèse   | dépassement, position nuancée           |
+| Intro | accroche + sujet + plan annoncé |
+| Thèse | 2 arguments + 2 exemples |
+| Antithèse | 2 arguments contraires + 2 exemples |
+| Synthèse | dépassement, position nuancée |
 
 ### B. 8 connecteurs de haut niveau
 
 - *Certes · toutefois · cela étant · en outre · de surcroît
-  · en revanche · au contraire · finalement.*
+ · en revanche · au contraire · finalement.*
 
 ### C. Mini-dissertation Anouk (texte original, ~400 mots)
 
@@ -147,12 +147,12 @@ historiques + 1 citation.
 - [ ] J'utilise 8 connecteurs logiques.
 - [ ] Je rédige 400 mots argumentés.
 
-## Exemple d'épreuve — Abitur Bf (E)
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : dissertation Anouk,
 5 questions.
 **Tâche 2 — Connecteurs (8 P.)** : 4 à insérer.
-**Tâche 3 — Schreiben (12 P.)** : votre dissertation
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dissertation
 (~400 mots).
 
 **Total : 30 P.**
@@ -169,14 +169,14 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **TAS** : la **synthèse** n'est pas un compromis mou ; elle
-  **dépasse** les deux thèses.
+ **dépasse** les deux thèses.
 - **« Cela étant »** = *cela étant dit* (forme abrégée).
 - **« Beaumarchais »** : 1732-1799, *Le Mariage de Figaro*.
 
 ## Pour aller plus loin
 
 - **Cours en ligne — La dissertation à la française
-  (Sorbonne)** :
-  <https://www.sorbonne-universite.fr/>
+ (Sorbonne)** :
+ <https://www.sorbonne-universite.fr/>
 - **Charlie Hebdo (presse satirique)** :
-  <https://charliehebdo.fr/>
+ <https://charliehebdo.fr/>

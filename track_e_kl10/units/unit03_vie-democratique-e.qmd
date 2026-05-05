@@ -1,14 +1,14 @@
 ---
 title: "Unité 3 — Vie démocratique en France"
-subtitle: "Parcours E (Gymnasium) · Klasse 10 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 3
 slug: "vie-democratique-e"
 bildungsplan:
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
   - leseverstehen
   - sprechen_monolog
@@ -52,11 +52,11 @@ adresse a un pouvoir. Vous saurez bientôt qui fait quoi. »*
 
 ### A. 3 pouvoirs (Vᵉ République, depuis 1958)
 
-| Pouvoir       | Qui ?                          | Lieu            |
+| Pouvoir | Qui ? | Lieu |
 |---------------|--------------------------------|-----------------|
-| exécutif      | Président + Premier ministre   | Élysée/Matignon |
-| législatif    | Parlement (AN + Sénat)         | Bourbon / Lux.  |
-| judiciaire    | Conseil constitutionnel + juges| Palais-Royal    |
+| exécutif | Président + Premier ministre | Élysée/Matignon |
+| législatif | Parlement (AN + Sénat) | Bourbon / Lux. |
+| judiciaire | Conseil constitutionnel + juges| Palais-Royal |
 
 ### B. 6 institutions clés
 
@@ -131,11 +131,11 @@ Bundesrat).
 - [ ] Je situe 6 institutions clés.
 - [ ] Je présente un dossier civique en 2 min.
 
-## Exemple d'épreuve — Klassenarbeit BW (E)
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
 
 **Tâche 1 — Lecture (10 P.)** : dossier civique, 5 questions.
 **Tâche 2 — Institutions (8 P.)** : 4 associations.
-**Tâche 3 — Schreiben (12 P.)** : présentation civique
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : présentation civique
 (~150 mots).
 
 **Total : 30 P.**
@@ -152,13 +152,13 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **Vᵉ République** : chiffre romain V (et non « 5 ») dans
-  le nom officiel.
+ le nom officiel.
 - **« Matignon »** = lieu = Premier ministre (métonymie).
 - **« Députés / sénateurs »** : 5 ans / 6 ans, 577 / 348.
 
 ## Pour aller plus loin
 
 - **Vie publique (FR)** :
-  <https://www.vie-publique.fr/>
+ <https://www.vie-publique.fr/>
 - **Conseil constitutionnel — espace pédagogique** :
-  <https://www.conseil-constitutionnel.fr/>
+ <https://www.conseil-constitutionnel.fr/>

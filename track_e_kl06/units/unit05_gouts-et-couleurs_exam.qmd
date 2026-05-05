@@ -1,19 +1,19 @@
 ---
-title: "Klassenarbeit FLE — Klasse 6 (Niveau E) — Unité 5"
-subtitle: "Goûts et couleurs · Klasse 6 · Niveau E"
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 5"
+subtitle: "Goûts et couleurs · classe 6 · Niveau E"
 author: "S. Le Boulanger"
 format:
   pdf: { documentclass: article, papersize: a4, fontsize: 11pt, geometry: [margin=25mm], include-in-header: ../../_includes/_exam.tex, number-sections: false, toc: false }
 ---
 
-## Klassenarbeit — Niveau E (Gymnasium), Klasse 6
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
 
 ### Tâche 1 — Vocabulaire (10 P.)
 
 Traduisez :
 
 - rot · blau · gelb · grün · schwarz · weiß · orange · lila ·
-  rosa · grau.
+ rosa · grau.
 
 Plus, traduisez : *j'adore · j'aime · je n'aime pas · je
 déteste*.
@@ -29,7 +29,7 @@ Complétez avec la bonne forme.
 5. Un manteau *(vert)* ___.
 6. Des cheveux *(jaune)* ___.
 
-### Tâche 3 — Schreiben (12 P.)
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
 
 Présentez **vos goûts** en **70 mots** : 2 j'adore + 1 j'aime
 + 1 je n'aime pas + 1 je déteste. Citez **3 couleurs** avec
@@ -37,12 +37,12 @@ accord correct.
 
 ## Notation
 
-| Tâche                       | Points  |
+| Tâche | Points |
 |-----------------------------|--------:|
-| Tâche 1 — Vocabulaire       | 10      |
-| Tâche 2 — Accord            | 8       |
-| Tâche 3 — Schreiben         | 12      |
-| **Total**                   | **30**  |
+| Tâche 1 — Vocabulaire | 10 |
+| Tâche 2 — Accord | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
 ## Solutions
 
@@ -58,4 +58,4 @@ goût · 3 couleurs accordées.
 
 ---
 
-*© S. Le Boulanger · CC-BY-SA 4.0 · FLE BW · Klasse 6 · Niveau E · Unité 5*
+*© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 5*

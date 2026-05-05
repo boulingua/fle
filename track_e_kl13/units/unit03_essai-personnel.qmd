@@ -1,13 +1,13 @@
 ---
 title: "Unité 3 — Essai personnel : structure"
-subtitle: "Parcours E (Gymnasium) · Klasse 13 · Niveau E"
+subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 3
 slug: "essai-personnel"
 bildungsplan:
-  - "3.1.3.5 Schreiben"
+  - "3.1.3.5 Expression écrite"
 skills_focus:
   - schreiben
 format:
@@ -23,7 +23,7 @@ format:
 ---
 
 ::: {.callout-note}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Abitur Lf — 13e)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
 :::
 
 {{< downloads >}}
@@ -32,7 +32,7 @@ format:
 
 - Je distingue **essai** / **dissertation** / **commentaire**.
 - Je connais **5 grands essais** francophones (Montaigne,
-  Beauvoir, Camus, Glissant, Lordon).
+ Beauvoir, Camus, Glissant, Lordon).
 - Je rédige **mon premier essai personnel** (~500 mots).
 
 ## Histoire d'introduction
@@ -51,11 +51,11 @@ français par excellence depuis Montaigne. »*
 
 ### A. Essai vs dissertation vs commentaire
 
-| Genre        | Particularités                       |
+| Genre | Particularités |
 |--------------|---------------------------------------|
-| dissertation | TAS, neutre, scolaire                |
-| commentaire  | analyse d'un texte donné             |
-| **essai**    | **« je »** + thèse personnelle libre  |
+| dissertation | TAS, neutre, scolaire |
+| commentaire | analyse d'un texte donné |
+| **essai** | **« je »** + thèse personnelle libre |
 
 ### B. 5 grands essais francophones
 
@@ -157,11 +157,11 @@ personnelle (« je »).
 - [ ] Je rédige 500 mots à la 1ʳᵉ personne.
 - [ ] Je cite 5 auteur·e·s avec précision.
 
-## Exemple d'épreuve — Abitur Lf (E, 13e)
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E, 13e)
 
 **Tâche 1 — Lecture (10 P.)** : essai-modèle, 5 questions.
 **Tâche 2 — Genres (8 P.)** : 4 distinctions.
-**Tâche 3 — Schreiben (12 P.)** : votre essai (~500 mots).
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre essai (~500 mots).
 
 **Total : 30 P.**
 
@@ -177,15 +177,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 ## Pièges fréquents
 
 - **« Essai »** : *« je »* possible voire **recommandé**
-  (≠ dissertation).
+ (≠ dissertation).
 - **« Montaigne »** : *« Que sais-je ? »* (1580) — devise
-  fondatrice.
+ fondatrice.
 - **« Apprivoiser »** : référence à Saint-Exupéry, *Le Petit
-  Prince* (1943).
+ Prince* (1943).
 
 ## Pour aller plus loin
 
 - **Montaigne — Essais (Pléiade)** :
-  <https://www.gallimard.fr/Catalogue/Pleiade>
+ <https://www.gallimard.fr/Catalogue/Pleiade>
 - **Frédéric Lordon — *Imperium*** :
-  <https://www.fabrique.fr/>
+ <https://www.fabrique.fr/>

@@ -46,14 +46,6 @@ jobs:
             fi
           fi
 
-      - name: Generate placeholder worksheet PDFs
-        run: |
-          if [ -f _scripts/make_placeholder_worksheets.py ]; then
-            python _scripts/make_placeholder_worksheets.py
-          else
-            echo "make_placeholder_worksheets.py not yet present — skipping (scaffold phase)."
-          fi
-
       - name: Render site (HTML articles + Reveal.js decks + exam PDFs)
         run: quarto render
 
@@ -63,6 +55,14 @@ jobs:
             bash _scripts/organise_downloads.sh
           else
             echo "organise_downloads.sh not yet present — skipping (scaffold phase)."
+          fi
+
+      - name: Generate placeholder worksheet PDFs
+        run: |
+          if [ -f _scripts/make_placeholder_worksheets.py ]; then
+            python _scripts/make_placeholder_worksheets.py
+          else
+            echo "make_placeholder_worksheets.py not yet present — skipping (scaffold phase)."
           fi
 
       - name: Verify all PDFs are present (156 exam + 156 worksheet at full build)

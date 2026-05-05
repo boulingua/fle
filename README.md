@@ -52,6 +52,29 @@ n'est inventée ; chaque Unité cite des codes vérifiables.
 
 `© S. Le Boulanger · MIT / CC-BY-SA 4.0`.
 
+## Citation
+
+Si vous réutilisez ce curriculum, merci de le citer :
+
+> Le Boulanger, S. (2026). *FLE — Curriculum bilingue pour
+> l'enseignement secondaire, classes 6 à 13* [Cours en ligne].
+> Boulingua. <https://boulingua.github.io/fle/>
+
+```bibtex
+@misc{leboulanger2026fle,
+  author       = {Le Boulanger, S.},
+  title        = {{FLE} --- Curriculum bilingue pour l'enseignement
+                  secondaire, classes 6 {\`a} 13},
+  year         = {2026},
+  howpublished = {\url{https://boulingua.github.io/fle/}},
+  note         = {Boulingua. Code sous licence MIT ; contenu sous
+                  licence CC-BY-SA 4.0.}
+}
+```
+
+Voir la page **[Références](https://boulingua.github.io/fle/references.html)**
+pour la bibliographie complète et les remerciements.
+
 ## Build local
 
 ```

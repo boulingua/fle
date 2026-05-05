@@ -18,6 +18,8 @@ website:
         text: "Référentiel"
       - href: programme.qmd
         text: "Programme"
+      - href: references.qmd
+        text: "Références"
       - text: "Filière G+M (cl. 6–10)"
         menu:
           - href: track_gm_kl06/index.qmd

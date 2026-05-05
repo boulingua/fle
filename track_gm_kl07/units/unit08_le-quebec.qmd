@@ -169,3 +169,15 @@ Produire 11' · Réfléchir 2' · Aperçu 2'.
  <https://vitrinelinguistique.oqlf.gouv.qc.ca/>
 - **Bonjour Québec** (tourisme) :
  <https://www.bonjourquebec.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2bb3df2b8c1b4ecba14ef33dc51c40a0 -->
+<img src="https://vg09.met.vgwort.de/na/2bb3df2b8c1b4ecba14ef33dc51c40a0"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

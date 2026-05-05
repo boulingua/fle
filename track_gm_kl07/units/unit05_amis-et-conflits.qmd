@@ -168,3 +168,15 @@ Produire 11' · Réfléchir 2' · Aperçu 2'.
 
 - **France TV — Une fille comme elle** (série pour ados) :
  <https://www.france.tv/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2b40e0b531a140c38b546e2b2c0bda18 -->
+<img src="https://vg09.met.vgwort.de/na/2b40e0b531a140c38b546e2b2c0bda18"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

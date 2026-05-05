@@ -58,3 +58,15 @@ répliques · 5 conseils · 3 droits · 1 conditionnel.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 9*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2213da75f58c4586b2aee16c99b9cf09 -->
+<img src="https://vg09.met.vgwort.de/na/2213da75f58c4586b2aee16c99b9cf09"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -97,3 +97,15 @@ barème de notes (« Notenschlüssel ») typique :
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 2*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2c9f2a62586f4d499a6722df45603486 -->
+<img src="https://vg09.met.vgwort.de/na/2c9f2a62586f4d499a6722df45603486"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

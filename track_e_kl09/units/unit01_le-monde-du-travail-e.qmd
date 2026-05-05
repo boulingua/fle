@@ -153,3 +153,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.onisep.fr/decouvrir-les-metiers>
 - **OFAJ — stages franco-allemands** :
  <https://www.ofaj.org/programmes-formations/stages.html>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 20a704d960ef4074a205f68f20c5bd67 -->
+<img src="https://vg09.met.vgwort.de/na/20a704d960ef4074a205f68f20c5bd67"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -227,3 +227,15 @@ Le français vous accompagnera au-delà. **À toute heure, à
 toute occasion, à toute génération.**
 
 — *S. Le Boulanger, juin 2030.*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 289e5a33ab96403fab2e00f9d5a08cc0 -->
+<img src="https://vg09.met.vgwort.de/na/289e5a33ab96403fab2e00f9d5a08cc0"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

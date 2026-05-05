@@ -181,3 +181,15 @@ Produire 13' (binôme) · Réfléchir 2' · Aperçu 2'.
  <https://www.cnil.fr/>
 - **Génération Numérique** :
  <https://www.asso-generationnumerique.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2ec0ab6995d0405dac7040152346130c -->
+<img src="https://vg09.met.vgwort.de/na/2ec0ab6995d0405dac7040152346130c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

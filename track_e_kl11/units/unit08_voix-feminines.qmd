@@ -169,3 +169,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.paris.fr/bmd>
 - **Site Simone de Beauvoir** :
  <https://www.simonedebeauvoir.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 249d1a3fdcd748a180d5d0955d50b2f0 -->
+<img src="https://vg09.met.vgwort.de/na/249d1a3fdcd748a180d5d0955d50b2f0"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

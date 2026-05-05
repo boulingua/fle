@@ -56,3 +56,15 @@ répliques · 5 gestes · 1 conditionnel.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 3*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 20f9b372eb91445ea7d64382a3024423 -->
+<img src="https://vg09.met.vgwort.de/na/20f9b372eb91445ea7d64382a3024423"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

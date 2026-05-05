@@ -67,3 +67,15 @@ paragraphes · 2 arguments · 3 actions concrètes.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 10*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2eedc41392b14f6b81dba6ba36b41574 -->
+<img src="https://vg09.met.vgwort.de/na/2eedc41392b14f6b81dba6ba36b41574"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

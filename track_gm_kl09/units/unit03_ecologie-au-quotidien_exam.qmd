@@ -67,3 +67,15 @@ pour · 1 contre · conclusion · *il faut / on devrait* utilisé.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 3*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2e31527170a9495f8e9a2b335877a2b5 -->
+<img src="https://vg09.met.vgwort.de/na/2e31527170a9495f8e9a2b335877a2b5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

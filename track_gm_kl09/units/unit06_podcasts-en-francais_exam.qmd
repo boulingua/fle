@@ -67,3 +67,15 @@ sujet + 2 idées + avis · 80 mots.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 6*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2e7d0210eb9c41c4969afc6339715cba -->
+<img src="https://vg09.met.vgwort.de/na/2e7d0210eb9c41c4969afc6339715cba"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

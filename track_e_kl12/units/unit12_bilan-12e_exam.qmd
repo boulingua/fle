@@ -60,3 +60,15 @@ acquis · 3 priorités · 4 références · 1 objectif chiffré.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 12*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 26f09051db19441c9df6819f7138a24f -->
+<img src="https://vg09.met.vgwort.de/na/26f09051db19441c9df6819f7138a24f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

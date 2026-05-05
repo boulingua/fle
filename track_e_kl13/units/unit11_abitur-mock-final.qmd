@@ -180,3 +180,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.ofaj.org/>
 - **Goethe-Institut Paris** :
  <https://www.goethe.de/ins/fr/fr/index.html>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 287c79c7c6454b7082d96d769fabfb1a -->
+<img src="https://vg09.met.vgwort.de/na/287c79c7c6454b7082d96d769fabfb1a"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -64,3 +64,15 @@ de la mémoire · phrase de paix.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 7*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2004cf49b5fa46d685923e9921a7ab85 -->
+<img src="https://vg09.met.vgwort.de/na/2004cf49b5fa46d685923e9921a7ab85"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

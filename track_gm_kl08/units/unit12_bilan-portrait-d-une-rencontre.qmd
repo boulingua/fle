@@ -223,3 +223,15 @@ Aperçu 8'.
 - **France Culture — Portraits** :
  <https://www.radiofrance.fr/franceculture>
 - **Portraits France Inter** : <https://www.radiofrance.fr/franceinter>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d76d05a48ce45b3a7f8efd697e66c36 -->
+<img src="https://vg09.met.vgwort.de/na/2d76d05a48ce45b3a7f8efd697e66c36"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

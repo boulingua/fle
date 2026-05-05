@@ -58,3 +58,15 @@ congé. 5) *Ce n'est pas de ma faute.*
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 1*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 25b56b4eb63040e2acf876aa71cb4a9c -->
+<img src="https://vg09.met.vgwort.de/na/25b56b4eb63040e2acf876aa71cb4a9c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

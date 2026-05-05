@@ -181,3 +181,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.centrepompidou.fr/>
 - **AFP photo — actualité** :
  <https://www.afp.com/fr>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 283735ce66d5448d8404fc2c773523bc -->
+<img src="https://vg09.met.vgwort.de/na/283735ce66d5448d8404fc2c773523bc"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

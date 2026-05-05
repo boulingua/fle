@@ -60,3 +60,15 @@ parties · 6 connecteurs · 2 références · 1 citation.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 6*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2478220ae6c74565b038bae98b489925 -->
+<img src="https://vg09.met.vgwort.de/na/2478220ae6c74565b038bae98b489925"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

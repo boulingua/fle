@@ -61,3 +61,15 @@ salutations distinguées. »
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 2*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2df593e8f9424e92ac46ea83310f2efe -->
+<img src="https://vg09.met.vgwort.de/na/2df593e8f9424e92ac46ea83310f2efe"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

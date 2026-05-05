@@ -156,3 +156,15 @@ S'entraîner 11' · Produire 11' · Réfléchir 2'.
 
 - **Office de tourisme de Strasbourg** :
  <https://www.visitstrasbourg.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1d1eeb688d16475ab442f3cf2df51729 -->
+<img src="https://vg09.met.vgwort.de/na/1d1eeb688d16475ab442f3cf2df51729"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

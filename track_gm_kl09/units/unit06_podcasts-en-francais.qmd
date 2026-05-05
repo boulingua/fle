@@ -175,3 +175,15 @@ S'entraîner 11' · Produire 9' · Réfléchir 2'.
  <https://www.radiofrance.fr/franceinter/podcasts/>
 - **InnerFrench** :
  <https://innerfrench.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2e72425156544419b79c860c5ed696a8 -->
+<img src="https://vg09.met.vgwort.de/na/2e72425156544419b79c860c5ed696a8"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

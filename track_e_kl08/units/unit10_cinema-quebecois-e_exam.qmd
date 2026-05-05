@@ -62,3 +62,15 @@ genre = catégorie.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 10*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2040889ae3d94373a19c794a034915f5 -->
+<img src="https://vg09.met.vgwort.de/na/2040889ae3d94373a19c794a034915f5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

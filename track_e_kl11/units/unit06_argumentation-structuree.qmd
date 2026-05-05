@@ -180,3 +180,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.sorbonne-universite.fr/>
 - **Charlie Hebdo (presse satirique)** :
  <https://charliehebdo.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 24667e913e7041b598a105d378da2365 -->
+<img src="https://vg09.met.vgwort.de/na/24667e913e7041b598a105d378da2365"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

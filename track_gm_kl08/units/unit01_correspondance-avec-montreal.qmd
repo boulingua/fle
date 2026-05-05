@@ -293,3 +293,15 @@ opposé en France et au Québec, et pourquoi est-ce drôle ? »*
  termes** : <https://www.oqlf.gouv.qc.ca/>
 - **Radio-Canada — extraits courts pour cl. 8** :
  <https://ici.radio-canada.ca/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2c5fd8b7b43d40a9b54e67ceaf81f43b -->
+<img src="https://vg09.met.vgwort.de/na/2c5fd8b7b43d40a9b54e67ceaf81f43b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

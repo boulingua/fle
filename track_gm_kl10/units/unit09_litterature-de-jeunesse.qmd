@@ -172,3 +172,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://slpjplus.fr/>
 - **Anne-Laure Bondoux — œuvre** :
  <https://www.ecoledesloisirs.fr/auteur/anne-laure-bondoux>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2fe6a666eed842b5b9d4c8411d12bca3 -->
+<img src="https://vg09.met.vgwort.de/na/2fe6a666eed842b5b9d4c8411d12bca3"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -166,3 +166,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio>
 - **Cours en ligne — Camus / *Étranger* (BNF)** :
  <https://gallica.bnf.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2630bb98f7b143198523c44329149c24 -->
+<img src="https://vg09.met.vgwort.de/na/2630bb98f7b143198523c44329149c24"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

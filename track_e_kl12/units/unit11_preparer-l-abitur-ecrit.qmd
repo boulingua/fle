@@ -169,3 +169,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.bildungsplaene-bw.de/>
 - **CNDP — IA et éducation** :
  <https://www.reseau-canope.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 26c3e2b4d6e64ecb8b3a2ad19ec8c12c -->
+<img src="https://vg09.met.vgwort.de/na/26c3e2b4d6e64ecb8b3a2ad19ec8c12c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

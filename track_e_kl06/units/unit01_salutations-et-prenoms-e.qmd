@@ -155,3 +155,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **TV5 Monde — Apprendre le français** :
  <https://apprendre.tv5monde.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1be616bdc20c4f11bb1248ef8af10b56 -->
+<img src="https://vg09.met.vgwort.de/na/1be616bdc20c4f11bb1248ef8af10b56"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

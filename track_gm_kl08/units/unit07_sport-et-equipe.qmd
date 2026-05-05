@@ -223,3 +223,15 @@ Produire 25' · Réfléchir 5' · Aperçu 20'.
 - **France-Sport** (jeunesse, équipes locales) :
  <https://www.france-sport.fr/>
 - **L'Équipe** (presse sportive) : <https://www.lequipe.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d10b580ba1a44a99cd1c11075084176 -->
+<img src="https://vg09.met.vgwort.de/na/2d10b580ba1a44a99cd1c11075084176"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

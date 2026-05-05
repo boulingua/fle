@@ -173,3 +173,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.geoado.com/>
 - **Conseil de l'Europe — éducation interculturelle** :
  <https://www.coe.int/fr/web/portal>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2010eb80921e4d91855aa088c9666d7a -->
+<img src="https://vg09.met.vgwort.de/na/2010eb80921e4d91855aa088c9666d7a"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

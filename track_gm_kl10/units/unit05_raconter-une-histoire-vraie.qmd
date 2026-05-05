@@ -166,3 +166,15 @@ Produire 13' · Réfléchir 1' · Aperçu 2'.
 - **Annie Ernaux — *La Place*** (1983), récit familial fondateur.
 - **Émile Zola — *L'Affaire Dreyfus, lettres et témoignages*** :
  <https://gallica.bnf.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2f8717b1a6a34013a3665cdd10195970 -->
+<img src="https://vg09.met.vgwort.de/na/2f8717b1a6a34013a3665cdd10195970"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

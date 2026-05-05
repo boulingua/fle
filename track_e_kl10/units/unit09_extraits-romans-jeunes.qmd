@@ -163,3 +163,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.grasset.fr/livres/la-tresse-9782246813957>
 - **Babelio (FR)** :
  <https://www.babelio.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 23514fe6ce47467495aafaa7bf033489 -->
+<img src="https://vg09.met.vgwort.de/na/23514fe6ce47467495aafaa7bf033489"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

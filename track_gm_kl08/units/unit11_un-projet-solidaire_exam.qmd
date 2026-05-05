@@ -60,3 +60,15 @@ manque de manuels ; on l'a su **grâce à** la prof.*
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 11*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d75c1bc09aa44acb3fd5fd3f7e7c98d -->
+<img src="https://vg09.met.vgwort.de/na/2d75c1bc09aa44acb3fd5fd3f7e7c98d"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

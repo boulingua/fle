@@ -61,3 +61,15 @@ partitifs · 1 négation.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 4*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1e05dd05fa38401eb89231c4e8a6483e -->
+<img src="https://vg09.met.vgwort.de/na/1e05dd05fa38401eb89231c4e8a6483e"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

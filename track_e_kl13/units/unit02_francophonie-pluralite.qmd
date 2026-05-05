@@ -197,3 +197,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.francophonie.org/>
 - **Henriette Walter — *Le français dans tous les sens*** :
  <https://www.editions-laffont.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2738da1a4ff14bc4b7b8cefa2856d73f -->
+<img src="https://vg09.met.vgwort.de/na/2738da1a4ff14bc4b7b8cefa2856d73f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

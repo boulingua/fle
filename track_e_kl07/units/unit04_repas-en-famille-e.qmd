@@ -159,3 +159,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **Cuisine actuelle (recettes simples)** :
  <https://www.cuisineactuelle.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1deb0c44c1d547e7b08f880286ad8e3e -->
+<img src="https://vg09.met.vgwort.de/na/1deb0c44c1d547e7b08f880286ad8e3e"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

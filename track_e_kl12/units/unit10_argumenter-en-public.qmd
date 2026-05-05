@@ -196,3 +196,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.bildungsplaene-bw.de/>
 - **Léopold Sédar Senghor (Académie française)** :
  <https://www.academie-francaise.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 26b48723128f4015959b3675694789e5 -->
+<img src="https://vg09.met.vgwort.de/na/26b48723128f4015959b3675694789e5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

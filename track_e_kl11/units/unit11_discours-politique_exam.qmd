@@ -59,3 +59,15 @@ contexte · 4 procédés · 1 chute · 1 lien.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 11*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 254c47061c6944e18e597a885fac1ce9 -->
+<img src="https://vg09.met.vgwort.de/na/254c47061c6944e18e597a885fac1ce9"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

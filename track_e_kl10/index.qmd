@@ -114,3 +114,15 @@ barème de notes (« Notenschlüssel ») : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 
 - [Programme complet (156 Unités)](../programme.qmd)
 - [Référentiel](../bildungsplan.qmd)
 - [Accueil](../index.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 22785e759724430483fb09ae3909f5e9 -->
+<img src="https://vg09.met.vgwort.de/na/22785e759724430483fb09ae3909f5e9"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

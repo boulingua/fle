@@ -158,3 +158,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.petitnicolas.com/>
 - **Goscinny.net (archives)** :
  <https://www.goscinny.net/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2130a38685a04ceb939fd6540e22db5e -->
+<img src="https://vg09.met.vgwort.de/na/2130a38685a04ceb939fd6540e22db5e"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

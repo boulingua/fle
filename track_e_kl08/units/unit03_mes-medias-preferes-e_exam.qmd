@@ -58,3 +58,15 @@ verbes d'opinion · 3 médias différents.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 3*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1fab8702f35f4be38d05fd0dfa0d58b0 -->
+<img src="https://vg09.met.vgwort.de/na/1fab8702f35f4be38d05fd0dfa0d58b0"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

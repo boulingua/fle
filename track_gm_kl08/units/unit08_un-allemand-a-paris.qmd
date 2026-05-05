@@ -222,3 +222,15 @@ Produire 25' · Réfléchir 5' · Aperçu 17'.
 
 - **France Bleu — voyages en France** : <https://www.francebleu.fr/>
 - **Lonely Planet France** : <https://www.lonelyplanet.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d173fcb5bea4f8cbc968217a61af6a4 -->
+<img src="https://vg09.met.vgwort.de/na/2d173fcb5bea4f8cbc968217a61af6a4"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

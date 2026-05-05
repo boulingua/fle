@@ -61,3 +61,15 @@ conjugué, vocabulaire des médias / musique adéquat.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 6*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2cfca18457ce4832b1067fe263528d9c -->
+<img src="https://vg09.met.vgwort.de/na/2cfca18457ce4832b1067fe263528d9c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

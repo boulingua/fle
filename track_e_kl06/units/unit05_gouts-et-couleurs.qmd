@@ -164,3 +164,15 @@ Produire 13' · Réfléchir 2' · Aperçu 2'.
 
 - **Loto des couleurs (TV5 Monde)** :
  <https://apprendre.tv5monde.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1c9ad1b4184c402aac2bd735f7b04be8 -->
+<img src="https://vg09.met.vgwort.de/na/1c9ad1b4184c402aac2bd735f7b04be8"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

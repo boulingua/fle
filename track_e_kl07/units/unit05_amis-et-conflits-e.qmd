@@ -156,3 +156,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **Magazine ado *Phosphore*** (réconciliation, conflits) :
  <https://www.phosphore.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1e0656248c2543458bd60879f45436e5 -->
+<img src="https://vg09.met.vgwort.de/na/1e0656248c2543458bd60879f45436e5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

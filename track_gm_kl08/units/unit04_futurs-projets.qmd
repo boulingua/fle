@@ -230,3 +230,15 @@ conjugaison en blanc à compléter.
  <https://www.lepointdufle.net/>
 - **Bonjour de France — futur simple** :
  <https://www.bonjourdefrance.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2cd7f2d63023444089d081b10fed872e -->
+<img src="https://vg09.met.vgwort.de/na/2cd7f2d63023444089d081b10fed872e"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

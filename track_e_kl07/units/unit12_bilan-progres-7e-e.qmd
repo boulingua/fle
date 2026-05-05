@@ -151,3 +151,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **Aperçu cl. 8 E** :
  [classe 8 — index](../../track_e_kl08/index.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1eee4a8671094fd0916e5ebc9152b7b5 -->
+<img src="https://vg09.met.vgwort.de/na/1eee4a8671094fd0916e5ebc9152b7b5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

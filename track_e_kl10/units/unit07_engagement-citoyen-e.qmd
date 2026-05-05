@@ -170,3 +170,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.service-civique.gouv.fr/>
 - **Fridays for Future Deutschland** :
  <https://fridaysforfuture.de/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2333fa6f03aa41a1ac94461e646ad7e5 -->
+<img src="https://vg09.met.vgwort.de/na/2333fa6f03aa41a1ac94461e646ad7e5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

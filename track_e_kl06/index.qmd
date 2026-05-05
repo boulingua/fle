@@ -116,3 +116,15 @@ Devoir surveillé au format E (lycée), ~30 points par
 - [Programme complet (156 Unités)](../programme.qmd)
 - [Référentiel](../bildungsplan.qmd)
 - [Accueil](../index.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1bc684db552e471aac7223b955bb6d11 -->
+<img src="https://vg09.met.vgwort.de/na/1bc684db552e471aac7223b955bb6d11"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

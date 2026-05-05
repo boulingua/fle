@@ -169,3 +169,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.bildungsplaene-bw.de/>
 - **Aperçu cl. 10 G+M** :
  [classe 10 — index](../../track_gm_kl10/index.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2effee652d1f43dbb5d3088ab2cd1582 -->
+<img src="https://vg09.met.vgwort.de/na/2effee652d1f43dbb5d3088ab2cd1582"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -167,3 +167,15 @@ Produire 11' · Réfléchir 2' · Aperçu 3'.
  <https://www.youtube.com/@AyaNakamuraOfficiel>
 - **France Inter — Pop & Co** (émission musicale) :
  <https://www.radiofrance.fr/franceinter/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2c0b00ad370748b6a8ce86518ff2149a -->
+<img src="https://vg09.met.vgwort.de/na/2c0b00ad370748b6a8ce86518ff2149a"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

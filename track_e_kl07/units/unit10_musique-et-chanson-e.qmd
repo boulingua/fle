@@ -154,3 +154,15 @@ S'entraîner 11' · Produire 11' · Réfléchir 2'.
  <https://www.youtube.com/@StromaeOfficiel>
 - **Céline Dion — site officiel** :
  <https://www.celinedion.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1e781032ad6346e38de767a94214342c -->
+<img src="https://vg09.met.vgwort.de/na/1e781032ad6346e38de767a94214342c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -224,3 +224,15 @@ Produire 25' · Réfléchir 3' · Aperçu 22'.
 - **Solidarité Laïque** (associations scolaires France) :
  <https://www.solidarite-laique.org/>
 - **Croix-Rouge française** : <https://www.croix-rouge.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d5feea5516749f38183922b8a174e0c -->
+<img src="https://vg09.met.vgwort.de/na/2d5feea5516749f38183922b8a174e0c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

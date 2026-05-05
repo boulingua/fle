@@ -55,3 +55,15 @@ mi-chemin du préjugé selon le contexte.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 9*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d2e5c7c3baa4fef9c3d65b7b5ef28bd -->
+<img src="https://vg09.met.vgwort.de/na/2d2e5c7c3baa4fef9c3d65b7b5ef28bd"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

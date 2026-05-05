@@ -48,3 +48,15 @@ pertinents dans `bildungsplan:`.
 
 Données brutes : [`_resources/bildungsplan_bw_franzoesisch.yml`](https://github.com/boulingua/fle/blob/main/_resources/bildungsplan_bw_franzoesisch.yml).
 Pages officielles vérifiées 2026-04-25.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1b8013b174a24109bcfb86721e2e6be9 -->
+<img src="https://vg09.met.vgwort.de/na/1b8013b174a24109bcfb86721e2e6be9"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

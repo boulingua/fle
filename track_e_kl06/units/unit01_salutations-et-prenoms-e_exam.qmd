@@ -55,3 +55,15 @@ demandées · épellation correcte.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 1*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1bfa32f4f472497c9d00e33805d27b97 -->
+<img src="https://vg09.met.vgwort.de/na/1bfa32f4f472497c9d00e33805d27b97"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

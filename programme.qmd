@@ -39,3 +39,15 @@ en PDF.
 12 unités de ~3 semaines chacune, alignées sur l'année scolaire.
 Modèle pédagogique en cinq étapes (*Activer · Apporter ·
 S'entraîner · Produire · Réfléchir*).
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1ba2663038264ad89a7f80ad0a25f6c0 -->
+<img src="https://vg09.met.vgwort.de/na/1ba2663038264ad89a7f80ad0a25f6c0"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -65,3 +65,15 @@ dates · 1 reconnaissance · 1 citation.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 9*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 24c9c4f92ec5422daac1d645a674043f -->
+<img src="https://vg09.met.vgwort.de/na/24c9c4f92ec5422daac1d645a674043f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

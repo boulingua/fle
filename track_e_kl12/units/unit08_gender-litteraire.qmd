@@ -173,3 +173,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.grasset.fr/auteurs/virginie-despentes>
 - **CNRS — Études de genre** :
  <https://www.cnrs.fr/fr/etudes-de-genre>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2677307697db44998cb51381d4dabeff -->
+<img src="https://vg09.met.vgwort.de/na/2677307697db44998cb51381d4dabeff"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

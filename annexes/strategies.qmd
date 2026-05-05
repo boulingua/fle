@@ -15,3 +15,15 @@ Sera rempli avec des stratégies de réception (écoute / lecture),
 production (parler / écrire), médiation linguistique
 (« Sprachmittlung »), et préparation aux épreuves : devoir
 surveillé (« Klassenarbeit ») et épreuve finale (« Abitur »).
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1b41d7a1f6a749c2a153a60424987b2b -->
+<img src="https://vg09.met.vgwort.de/na/1b41d7a1f6a749c2a153a60424987b2b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -56,3 +56,15 @@ sections · 5 dates · CECRL.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 12*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 23adab1dcb5d43509c90a1b1c2d8777a -->
+<img src="https://vg09.met.vgwort.de/na/23adab1dcb5d43509c90a1b1c2d8777a"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

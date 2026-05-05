@@ -158,3 +158,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://gallica.bnf.fr/>
 - **Le Monde — kiosque pédagogique** :
  <https://www.lemonde.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 229e50e5b0024e609ceabe56f1477100 -->
+<img src="https://vg09.met.vgwort.de/na/229e50e5b0024e609ceabe56f1477100"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

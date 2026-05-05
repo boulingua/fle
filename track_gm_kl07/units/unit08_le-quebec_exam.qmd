@@ -56,3 +56,15 @@ quartier · dîner · petit-déjeuner · copine · déjeuner.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau M · Unité 8*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2bbaba2a05e64898ad1fa4dc58bb65e1 -->
+<img src="https://vg09.met.vgwort.de/na/2bbaba2a05e64898ad1fa4dc58bb65e1"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

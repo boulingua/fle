@@ -175,3 +175,15 @@ Produire 12' (préparation orale) · Réfléchir 2' · Aperçu 2'.
 - **Simone Veil — discours du 26 novembre 1974** (loi sur l'IVG).
 - **Grands discours du XXᵉ siècle (anthologie)** :
  <https://www.gallimard.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 3058d551812048e6be83734ba35f56bc -->
+<img src="https://vg09.met.vgwort.de/na/3058d551812048e6be83734ba35f56bc"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -177,3 +177,15 @@ Produire 14' (binôme) · Réfléchir 2' · Aperçu 2'.
 
 - **TV5 Monde — Joyeux anniversaire en 60 langues** :
  <https://apprendre.tv5monde.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2be291a3b9fd4e72a263115d0dd86ca8 -->
+<img src="https://vg09.met.vgwort.de/na/2be291a3b9fd4e72a263115d0dd86ca8"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

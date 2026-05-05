@@ -60,3 +60,15 @@ pour demain. Salutation + signature.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau M · Unité 7*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2ba75e9eee46450b81b1f1c09360b15a -->
+<img src="https://vg09.met.vgwort.de/na/2ba75e9eee46450b81b1f1c09360b15a"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

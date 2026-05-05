@@ -10,3 +10,15 @@ généré à partir de `_resources/curriculum_outline.yml`.
 ## Voir aussi
 
 - [Page du cours](index.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 28bab522cdc4414a88c859f764669716 -->
+<img src="https://vg09.met.vgwort.de/na/28bab522cdc4414a88c859f764669716"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

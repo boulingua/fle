@@ -57,3 +57,15 @@ un droit — pour chacun·e.*
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 7*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 21ddcd87f5e64c5abc181ae66a0b7ca5 -->
+<img src="https://vg09.met.vgwort.de/na/21ddcd87f5e64c5abc181ae66a0b7ca5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -62,3 +62,15 @@ bises pour saluer.*
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 8*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 21ef7eedf006456ebd12e84948076c3b -->
+<img src="https://vg09.met.vgwort.de/na/21ef7eedf006456ebd12e84948076c3b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

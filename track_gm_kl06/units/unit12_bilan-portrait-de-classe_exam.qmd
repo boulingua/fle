@@ -48,3 +48,15 @@ Critères : Contenu 6 P · Langue 5 P · Aussprache 4 P.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 12 · devoir surveillé (« Klassenarbeit ») finale*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2ab3b278aea54af6b5ce6cedbca50c03 -->
+<img src="https://vg09.met.vgwort.de/na/2ab3b278aea54af6b5ce6cedbca50c03"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

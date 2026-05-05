@@ -177,3 +177,15 @@ Réfléchir 2' · Aperçu 4'.
 - **France-Diplomatie — découvrir la France** :
  <https://www.diplomatie.gouv.fr/>
 - **Atout France** : <https://www.france.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2a7a2712c0ad45e0aaf423542cb4907c -->
+<img src="https://vg09.met.vgwort.de/na/2a7a2712c0ad45e0aaf423542cb4907c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

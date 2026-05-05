@@ -51,3 +51,15 @@ matchs. 5) Exclusion définitive. 6) Avant le 1er mars.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 7*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d145412efb34007b1cc80574778c229 -->
+<img src="https://vg09.met.vgwort.de/na/2d145412efb34007b1cc80574778c229"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

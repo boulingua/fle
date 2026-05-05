@@ -64,3 +64,15 @@ billets coûtent à partir de 25 €. Le texte mentionne plus de
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 5*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1fd7b1a33b4a4daa91109a09f9664894 -->
+<img src="https://vg09.met.vgwort.de/na/1fd7b1a33b4a4daa91109a09f9664894"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

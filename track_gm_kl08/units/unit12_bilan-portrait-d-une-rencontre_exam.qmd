@@ -65,3 +65,15 @@ barème de notes (« Notenschlüssel ») typique :
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 12 · devoir surveillé (« Klassenarbeit ») finale*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d802ca1b9874e7b94dea05f074fe41a -->
+<img src="https://vg09.met.vgwort.de/na/2d802ca1b9874e7b94dea05f074fe41a"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

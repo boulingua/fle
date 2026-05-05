@@ -67,3 +67,15 @@ voyagerai, aurai, oublierai — 7 verbes, dont* serai *et* aurai
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 4*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2cd9f4e13af441b28dd692563efbecee -->
+<img src="https://vg09.met.vgwort.de/na/2cd9f4e13af441b28dd692563efbecee"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

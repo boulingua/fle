@@ -55,3 +55,15 @@ complète · 2 québécismes · format courriel.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 2*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1f8bd2d1f2fa4acba1254f56f46a3fee -->
+<img src="https://vg09.met.vgwort.de/na/1f8bd2d1f2fa4acba1254f56f46a3fee"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

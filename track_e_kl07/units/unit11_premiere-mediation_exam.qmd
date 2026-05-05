@@ -57,3 +57,15 @@ courriel · 3 infos pratiques · ton amical (*tu*).
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 11*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1eec790184d248ed928c4c0214ebc2f2 -->
+<img src="https://vg09.met.vgwort.de/na/1eec790184d248ed928c4c0214ebc2f2"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

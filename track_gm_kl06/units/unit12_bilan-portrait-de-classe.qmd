@@ -191,3 +191,15 @@ S'entraîner 12' · Produire 13' · Bilan 3'.
 
 - **DW Nicos Weg — Bilan A1**.
 - **TV5 Monde — Apprendre A1** : <https://apprendre.tv5monde.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2a8d902b5a554b8593e0aadc99a3dd97 -->
+<img src="https://vg09.met.vgwort.de/na/2a8d902b5a554b8593e0aadc99a3dd97"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

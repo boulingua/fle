@@ -65,3 +65,15 @@ tunisiens · 1 fait sur la Tunisie · format réponse blog.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 5*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2e4d7b9fff744438bb5d569d4fd39931 -->
+<img src="https://vg09.met.vgwort.de/na/2e4d7b9fff744438bb5d569d4fd39931"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

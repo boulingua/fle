@@ -176,3 +176,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.pole-emploi.fr/>
 - **CIDJ (Centre d'information et de documentation jeunesse)** :
  <https://www.cidj.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 20ac93c452764ba0b60c412e529b2ee9 -->
+<img src="https://vg09.met.vgwort.de/na/20ac93c452764ba0b60c412e529b2ee9"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

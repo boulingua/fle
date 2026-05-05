@@ -164,3 +164,15 @@ Produire 10' · Réfléchir 3' · Aperçu 4'.
 
 - **Bonjour de France — l'heure** :
  <https://www.bonjourdefrance.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2988551bd0a0448ea944a90fd9ef1094 -->
+<img src="https://vg09.met.vgwort.de/na/2988551bd0a0448ea944a90fd9ef1094"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

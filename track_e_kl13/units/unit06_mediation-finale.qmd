@@ -174,3 +174,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.crdp.ac-strasbourg.fr/>
 - **OFAJ — médiations bilingues** :
  <https://www.ofaj.org/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 27d62c0470fc4b509bb9c9f65bb6c4c3 -->
+<img src="https://vg09.met.vgwort.de/na/27d62c0470fc4b509bb9c9f65bb6c4c3"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

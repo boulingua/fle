@@ -58,3 +58,15 @@ roupie. 5) Partir à Bénarès.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 9*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2353e3811f254fcb96f8dcf3f10e4da8 -->
+<img src="https://vg09.met.vgwort.de/na/2353e3811f254fcb96f8dcf3f10e4da8"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

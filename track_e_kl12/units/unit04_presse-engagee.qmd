@@ -187,3 +187,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.monde-diplomatique.fr/>
 - **AI Act (Commission européenne)** :
  <https://digital-strategy.ec.europa.eu/fr/policies/regulatory-framework-ai>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 26168bca81d642529c92f8bb458671eb -->
+<img src="https://vg09.met.vgwort.de/na/26168bca81d642529c92f8bb458671eb"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

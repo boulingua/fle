@@ -189,3 +189,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.gallimard.fr/Catalogue/Pleiade>
 - **Frédéric Lordon — *Imperium*** :
  <https://www.fabrique.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 273deb8fb1a44bc2944804cd4a9f96c7 -->
+<img src="https://vg09.met.vgwort.de/na/273deb8fb1a44bc2944804cd4a9f96c7"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -173,3 +173,15 @@ Produire 13' · Réfléchir 2' · Aperçu 2'.
  <https://www.ademe.fr/>
 - **GIEC — rapport (résumé) en français** :
  <https://www.ipcc.ch/languages-2/francais/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2e1807a2c0c14311bcaeff4478e8d0b9 -->
+<img src="https://vg09.met.vgwort.de/na/2e1807a2c0c14311bcaeff4478e8d0b9"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

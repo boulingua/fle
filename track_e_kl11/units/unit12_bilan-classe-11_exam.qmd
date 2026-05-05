@@ -59,3 +59,15 @@ Rédigez **votre note de bilan 11e Bf** (~280 mots) :
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 12*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 257f396599f54a09b54a4446e5992b72 -->
+<img src="https://vg09.met.vgwort.de/na/257f396599f54a09b54a4446e5992b72"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -218,3 +218,15 @@ Toujours encadrer par les expressions pour relativiser.
 
 - **Défenseur des droits — France** : <https://www.defenseurdesdroits.fr/>
 - **France 24 — Reportages sur le racisme** : <https://www.france24.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d2cf003fb334dcd96a7c1b9f6a4209b -->
+<img src="https://vg09.met.vgwort.de/na/2d2cf003fb334dcd96a7c1b9f6a4209b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -60,3 +60,15 @@ avec être · sentiments rentrée.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 1*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1d83ca5177cd4674a07f3bc337bbe687 -->
+<img src="https://vg09.met.vgwort.de/na/1d83ca5177cd4674a07f3bc337bbe687"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

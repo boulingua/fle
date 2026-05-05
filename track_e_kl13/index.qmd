@@ -118,3 +118,15 @@ Module : Expression écrite. Lettre d'au revoir.
 pour votre épreuve finale — et au-delà, pour votre vie en français.
 
 *« On ne quitte jamais vraiment une langue qu'on a aimée. »*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 26fddee2be7b4ffba26dc95ea73c7714 -->
+<img src="https://vg09.met.vgwort.de/na/26fddee2be7b4ffba26dc95ea73c7714"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

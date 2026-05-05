@@ -185,3 +185,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-essais>
 - **Société des études camusiennes** :
  <https://www.etudes-camusiennes.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2821fac53ec445558fb057d57318b531 -->
+<img src="https://vg09.met.vgwort.de/na/2821fac53ec445558fb057d57318b531"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

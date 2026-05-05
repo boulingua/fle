@@ -165,3 +165,15 @@ Produire 13' · Réfléchir 2' · Aperçu 2'.
 
 - **ONISEP — orientation** :
  <https://www.onisep.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d9efd254a624164a84cbf62d12a81c3 -->
+<img src="https://vg09.met.vgwort.de/na/2d9efd254a624164a84cbf62d12a81c3"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

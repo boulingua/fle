@@ -57,3 +57,15 @@ Shein, Temu (fast-fashion). 5) Commencer petit (3 produits)
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 10*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2246fd545eb8435685f0499fb5af40fc -->
+<img src="https://vg09.met.vgwort.de/na/2246fd545eb8435685f0499fb5af40fc"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

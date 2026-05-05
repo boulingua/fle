@@ -173,3 +173,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio>
 - **Mémorial de la Shoah — Dora Bruder** :
  <https://bdi.memorialdelashoah.org/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 26a515dd09f9470e924102811aeb3cb5 -->
+<img src="https://vg09.met.vgwort.de/na/26a515dd09f9470e924102811aeb3cb5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -51,3 +51,15 @@ argot du français de Côte d'Ivoire (avec mots locaux).
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 3*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2ccc072dc75346598022eac0e98a14ff -->
+<img src="https://vg09.met.vgwort.de/na/2ccc072dc75346598022eac0e98a14ff"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

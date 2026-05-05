@@ -198,3 +198,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.nobelprize.org/prizes/literature/2022/ernaux/lecture/>
 - **Pierre Bourdieu — *La Distinction*** :
  <https://www.editionsdeminuit.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 28482c3340804dee9f552faec15394c0 -->
+<img src="https://vg09.met.vgwort.de/na/28482c3340804dee9f552faec15394c0"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -62,3 +62,15 @@ j'emporte · engagement = ce que je ferai.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 12 · FIN*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 28af4feae8b447f398125a3e70874767 -->
+<img src="https://vg09.met.vgwort.de/na/28af4feae8b447f398125a3e70874767"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

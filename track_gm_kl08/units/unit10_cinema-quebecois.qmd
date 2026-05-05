@@ -226,3 +226,15 @@ québécois.* »
 - **Cinémathèque québécoise** : <https://www.cinematheque.qc.ca/>
 - **Festival de Cannes — sélection francophone** :
  <https://www.festival-cannes.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d37cb99a2a24175a031ebc52f43834b -->
+<img src="https://vg09.met.vgwort.de/na/2d37cb99a2a24175a031ebc52f43834b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

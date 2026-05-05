@@ -249,3 +249,15 @@ modèle.
 - **Brut** : <https://www.brut.media/fr/>
 - **Décodeurs (Le Monde) — éducation aux médias** :
  <https://www.lemonde.fr/les-decodeurs/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2c8a013f5f2842189a8058530fcf96af -->
+<img src="https://vg09.met.vgwort.de/na/2c8a013f5f2842189a8058530fcf96af"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

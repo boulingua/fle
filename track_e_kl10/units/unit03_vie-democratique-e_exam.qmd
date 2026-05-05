@@ -59,3 +59,15 @@ pouvoirs · 2 institutions/pouvoir · 1 comparaison FR/DE.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 3*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 22b4bdf54a084956962491a1109ad33f -->
+<img src="https://vg09.met.vgwort.de/na/22b4bdf54a084956962491a1109ad33f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

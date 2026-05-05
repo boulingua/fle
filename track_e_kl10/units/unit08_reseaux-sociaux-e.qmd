@@ -164,3 +164,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.clemi.fr/>
 - **Center for Humane Technology (Tristan Harris)** :
  <https://www.humanetech.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 234bfe269c74485ab77d909071ff7d09 -->
+<img src="https://vg09.met.vgwort.de/na/234bfe269c74485ab77d909071ff7d09"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

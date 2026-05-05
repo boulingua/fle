@@ -160,3 +160,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **Office de Tourisme de Cannes** :
  <https://www.cannes-destination.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2b9428905e6c47f1a3568903c1ee9cae -->
+<img src="https://vg09.met.vgwort.de/na/2b9428905e6c47f1a3568903c1ee9cae"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

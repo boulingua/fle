@@ -162,3 +162,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.vie-publique.fr/>
 - **Conseil constitutionnel — espace pédagogique** :
  <https://www.conseil-constitutionnel.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 22b2a1b5245242d790aa01932d2f47f8 -->
+<img src="https://vg09.met.vgwort.de/na/22b2a1b5245242d790aa01932d2f47f8"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

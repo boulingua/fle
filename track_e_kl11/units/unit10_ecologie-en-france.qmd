@@ -181,3 +181,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.conventioncitoyennepourleclimat.fr/>
 - **Umweltbundesamt (DE)** :
  <https://www.umweltbundesamt.de/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 24d65356ca5c4a9cb8e69931c102e475 -->
+<img src="https://vg09.met.vgwort.de/na/24d65356ca5c4a9cb8e69931c102e475"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -72,3 +72,15 @@ pas la difficulté politique de cette réduction.*
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 5*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 245ce750c2084bb0aa688b60d97f154f -->
+<img src="https://vg09.met.vgwort.de/na/245ce750c2084bb0aa688b60d97f154f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

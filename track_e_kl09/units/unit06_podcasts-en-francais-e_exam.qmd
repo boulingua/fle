@@ -58,3 +58,15 @@ questions · 1 opinion · 5 verbes.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 6*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 21ba496458f743c0aee8f4624d0d4058 -->
+<img src="https://vg09.met.vgwort.de/na/21ba496458f743c0aee8f4624d0d4058"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

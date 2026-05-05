@@ -176,3 +176,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.taharbenjelloun.org/>
 - **Maryse Condé — éditions** :
  <https://www.editionsdumercuredefrance.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 23c1f60ff5304f6994a8e23f1ce1853d -->
+<img src="https://vg09.met.vgwort.de/na/23c1f60ff5304f6994a8e23f1ce1853d"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

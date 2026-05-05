@@ -181,3 +181,15 @@ Produire (rotation binômes) 12' · Réfléchir 3' · Aperçu 3'.
  <https://apprendre.tv5monde.com/>
 - **Bonjour de France — niveau A1** :
  <https://www.bonjourdefrance.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 28c51b14611d4eb7aadb04eecf7f10ea -->
+<img src="https://vg09.met.vgwort.de/na/28c51b14611d4eb7aadb04eecf7f10ea"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

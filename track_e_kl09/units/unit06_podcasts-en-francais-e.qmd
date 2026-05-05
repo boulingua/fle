@@ -159,3 +159,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.radiofrance.fr/podcasts>
 - **Slate Audio — Transfert** :
  <https://www.slate.fr/audio>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 21944f6b3bb94fd0a5f3a09700da05b0 -->
+<img src="https://vg09.met.vgwort.de/na/21944f6b3bb94fd0a5f3a09700da05b0"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

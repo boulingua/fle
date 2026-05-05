@@ -156,3 +156,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.youtube.com/watch?v=cF1B_RC8hYE>
 - **France Culture — la francophonie maghrébine** :
  <https://www.radiofrance.fr/franceculture>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1fe85d7bd9394244ad645671223ffa02 -->
+<img src="https://vg09.met.vgwort.de/na/1fe85d7bd9394244ad645671223ffa02"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

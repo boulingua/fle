@@ -50,3 +50,15 @@ Les citations des référentiels (« Bildungspläne ») officiels
 restent propriété de leurs ayants droit respectifs et sont
 utilisées au titre du droit de citation à des fins éducatives.
 Voir [Bibliographie](bibliographie.qmd) pour la liste détaillée.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1bb3265dec3c417eb42cf4acbd1f6130 -->
+<img src="https://vg09.met.vgwort.de/na/1bb3265dec3c417eb42cf4acbd1f6130"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

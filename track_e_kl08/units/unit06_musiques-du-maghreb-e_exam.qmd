@@ -60,3 +60,15 @@ vocabulaire musical · pays + style + opinion.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau E · Unité 6*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1ff6dc978d964efd8d6604916254631f -->
+<img src="https://vg09.met.vgwort.de/na/1ff6dc978d964efd8d6604916254631f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

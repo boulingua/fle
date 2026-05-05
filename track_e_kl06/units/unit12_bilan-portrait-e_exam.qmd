@@ -57,3 +57,15 @@ demandés · question finale.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau E · Unité 12*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1d5874765aae412f8b108ddd82fc8d0b -->
+<img src="https://vg09.met.vgwort.de/na/1d5874765aae412f8b108ddd82fc8d0b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

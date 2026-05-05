@@ -152,3 +152,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **Météo France** :
  <https://meteofrance.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1cbd28f22e49412bb639408b6651d29e -->
+<img src="https://vg09.met.vgwort.de/na/1cbd28f22e49412bb639408b6651d29e"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

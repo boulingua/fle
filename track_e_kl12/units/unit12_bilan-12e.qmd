@@ -183,3 +183,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **Aperçu cl. 13 E (sprint épreuve finale)** :
  [classe 13 — index](../../track_e_kl13/index.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 26de4bb7f9b14194bed87b1ba6307bb9 -->
+<img src="https://vg09.met.vgwort.de/na/26de4bb7f9b14194bed87b1ba6307bb9"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

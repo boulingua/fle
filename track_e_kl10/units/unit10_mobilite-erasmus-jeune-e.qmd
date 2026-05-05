@@ -162,3 +162,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.erasmusplus.fr/>
 - **OFAJ — Voltaire / Brigitte Sauzay** :
  <https://www.ofaj.org/programmes-formations/programme-voltaire.html>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2369166e6e5040b2a16f0a6d67bf2448 -->
+<img src="https://vg09.met.vgwort.de/na/2369166e6e5040b2a16f0a6d67bf2448"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

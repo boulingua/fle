@@ -60,3 +60,15 @@ citations · 1 chute · 6 stratégies de rebond.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 10*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 26bed275b8f444e68bad2c4d0e79fdc2 -->
+<img src="https://vg09.met.vgwort.de/na/26bed275b8f444e68bad2c4d0e79fdc2"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

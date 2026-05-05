@@ -63,3 +63,15 @@ complet · 5 connecteurs · arguments concrets.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 9*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2ec1e368c1424e158e69c3dd7c4fb395 -->
+<img src="https://vg09.met.vgwort.de/na/2ec1e368c1424e158e69c3dd7c4fb395"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

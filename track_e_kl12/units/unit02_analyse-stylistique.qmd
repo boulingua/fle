@@ -171,3 +171,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.seuil.com/>
 - **CNDP — Camus en classe** :
  <https://www.reseau-canope.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 25cfae4a90814f878f65052554b61b1d -->
+<img src="https://vg09.met.vgwort.de/na/25cfae4a90814f878f65052554b61b1d"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

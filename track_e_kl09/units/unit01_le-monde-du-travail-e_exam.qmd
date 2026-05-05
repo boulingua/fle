@@ -62,3 +62,15 @@ entreprise = société.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 1*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 20a7821b23ef4bc3a295b492aa0bba42 -->
+<img src="https://vg09.met.vgwort.de/na/20a7821b23ef4bc3a295b492aa0bba42"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

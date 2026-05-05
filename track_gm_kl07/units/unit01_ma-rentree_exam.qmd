@@ -36,3 +36,15 @@ Avec un·e camarade : dialogue de rentrée (~1 min). 3 questions
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau M · Unité 1*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2af8614c0c844e32aea42748a3e02181 -->
+<img src="https://vg09.met.vgwort.de/na/2af8614c0c844e32aea42748a3e02181"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -154,3 +154,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **Anecdotes en classe — Bonjour de France** :
  <https://www.bonjourdefrance.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1daae2f35b9c444ab20d81a6f7116593 -->
+<img src="https://vg09.met.vgwort.de/na/1daae2f35b9c444ab20d81a6f7116593"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -176,3 +176,15 @@ Produire (binômes + restitution) 13' · Réfléchir 2' · Aperçu 3'.
 
 - **TV5 Monde — Goûts et préférences** :
  <https://apprendre.tv5monde.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2911775a1ce1414b849fc64bd9b53ed9 -->
+<img src="https://vg09.met.vgwort.de/na/2911775a1ce1414b849fc64bd9b53ed9"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

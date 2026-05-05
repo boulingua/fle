@@ -169,3 +169,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.nobelprize.org/prizes/literature/2022/ernaux/lecture/>
 - **Gallimard — Annie Ernaux** :
  <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio2/Les-Annees>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 23bb137c55914bc7b00964ee1179a29a -->
+<img src="https://vg09.met.vgwort.de/na/23bb137c55914bc7b00964ee1179a29a"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

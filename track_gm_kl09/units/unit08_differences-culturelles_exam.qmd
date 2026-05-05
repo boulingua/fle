@@ -63,3 +63,15 @@ souvent / selon la région*.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 8*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2ea37f13104845d3ad9519c74845bdb4 -->
+<img src="https://vg09.met.vgwort.de/na/2ea37f13104845d3ad9519c74845bdb4"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

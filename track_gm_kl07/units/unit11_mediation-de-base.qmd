@@ -163,3 +163,15 @@ Produire 11' · Réfléchir 1' · Aperçu 2'.
 
 - **référentiel régional (« Bildungsplan ») médiation linguistique** :
  <https://www.bildungsplaene-bw.de/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2c10613c65aa4895bc293d8c5732bf18 -->
+<img src="https://vg09.met.vgwort.de/na/2c10613c65aa4895bc293d8c5732bf18"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

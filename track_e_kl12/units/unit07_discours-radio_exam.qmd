@@ -59,3 +59,15 @@ identification · chute · 1 citation · 5 phrases courtes.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 7*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 266d8ce9a4a645cc8e6f089cfdf9fbf8 -->
+<img src="https://vg09.met.vgwort.de/na/266d8ce9a4a645cc8e6f089cfdf9fbf8"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

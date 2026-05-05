@@ -179,3 +179,15 @@ Produire 12' · Réfléchir 3' · Aperçu 4'.
 - **DW Nico's Weg — Familie**.
 - **TV5 Monde — Vocabulaire famille** :
  <https://apprendre.tv5monde.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 28d90bc5397040f7810b820383439c13 -->
+<img src="https://vg09.met.vgwort.de/na/28d90bc5397040f7810b820383439c13"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

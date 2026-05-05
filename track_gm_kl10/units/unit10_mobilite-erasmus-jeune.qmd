@@ -169,3 +169,15 @@ S'entraîner 11' · Produire 12' · Réfléchir 2'.
  <https://www.ofaj.org/>
 - **Service civique** :
  <https://www.service-civique.gouv.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 3010a31425534cf4bc4194604450ae6b -->
+<img src="https://vg09.met.vgwort.de/na/3010a31425534cf4bc4194604450ae6b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

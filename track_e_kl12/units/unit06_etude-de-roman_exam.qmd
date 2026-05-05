@@ -61,3 +61,15 @@ procès · II-6 = révolte finale.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 12 · Niveau E · Unité 6*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 265919fc62d94c799a928a00ac2ce369 -->
+<img src="https://vg09.met.vgwort.de/na/265919fc62d94c799a928a00ac2ce369"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

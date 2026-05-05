@@ -156,3 +156,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://memorial-verdun.fr/>
 - **In Flanders Fields Museum (Ypres)** :
  <https://www.inflandersfields.be/fr>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1ff88749bde94842acc2dd69c373e144 -->
+<img src="https://vg09.met.vgwort.de/na/1ff88749bde94842acc2dd69c373e144"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

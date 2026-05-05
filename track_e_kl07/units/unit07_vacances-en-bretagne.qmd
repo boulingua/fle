@@ -162,3 +162,15 @@ S'entraîner 11' · Produire 11' · Réfléchir 2'.
 
 - **Tourisme Bretagne** :
  <https://www.tourismebretagne.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1e2fea4751d84155b260e58898e695aa -->
+<img src="https://vg09.met.vgwort.de/na/1e2fea4751d84155b260e58898e695aa"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

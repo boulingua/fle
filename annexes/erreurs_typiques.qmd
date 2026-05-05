@@ -12,3 +12,15 @@ des 156 unités, afin de pouvoir lier des passages concrets.
 :::
 
 Erreurs L1-allemand → français (genre, ordre des mots, faux amis, prononciation), par niveau de classe.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1b20e348f0cc42c89fdca91d45ad1441 -->
+<img src="https://vg09.met.vgwort.de/na/1b20e348f0cc42c89fdca91d45ad1441"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

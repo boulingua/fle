@@ -165,3 +165,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **Office québécois de la langue française — vitrine** :
  <https://vitrinelinguistique.oqlf.gouv.qc.ca/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1f7ac3027cae473aadf7c6a83caa4b2d -->
+<img src="https://vg09.met.vgwort.de/na/1f7ac3027cae473aadf7c6a83caa4b2d"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

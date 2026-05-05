@@ -55,3 +55,15 @@ poste · la mairie · la gare · la pharmacie · le supermarché.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 3*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1de088afd199407d8a92a9fd30f8145f -->
+<img src="https://vg09.met.vgwort.de/na/1de088afd199407d8a92a9fd30f8145f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

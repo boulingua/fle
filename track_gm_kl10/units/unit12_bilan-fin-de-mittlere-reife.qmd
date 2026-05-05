@@ -183,3 +183,15 @@ Produire 13' · Réfléchir 1' · Aperçu 2'.
  <https://www.france-education-international.fr/>
 - **Aperçu cl. 11 G+M ** : tronc commun jusqu'à
  l'épreuve finale (« Abitur ») (parcours E continue).
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 306d68df9c5541bdaea1cf6aeb0df111 -->
+<img src="https://vg09.met.vgwort.de/na/306d68df9c5541bdaea1cf6aeb0df111"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

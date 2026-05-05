@@ -54,3 +54,15 @@ la musique / Kunst / les sciences.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 3*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 28e3db50a6e5427997a53af9a4f577f7 -->
+<img src="https://vg09.met.vgwort.de/na/28e3db50a6e5427997a53af9a4f577f7"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -57,3 +57,15 @@ aimerais · 3) *Veuillez agréer …* · 4) *l'attente* · 5) *le*.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau E · Unité 2*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 20af803620b54e318828bf08ecd82ecd -->
+<img src="https://vg09.met.vgwort.de/na/20af803620b54e318828bf08ecd82ecd"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

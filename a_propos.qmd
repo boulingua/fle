@@ -40,3 +40,15 @@ S. Le Boulanger — enseignante FLE avec expérience en classes 6
 - [Référentiel](bildungsplan.qmd)
 - [Bibliographie](bibliographie.qmd)
 - [Remerciements](remerciements.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1b0fa7ed30714a48b7aa855c4468901b -->
+<img src="https://vg09.met.vgwort.de/na/1b0fa7ed30714a48b7aa855c4468901b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

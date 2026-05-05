@@ -171,3 +171,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.lemonde.fr/jeunesse/>
 - **Le1 hebdo** :
  <https://le1hebdo.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2f5770bd0de140369701d47b52e631de -->
+<img src="https://vg09.met.vgwort.de/na/2f5770bd0de140369701d47b52e631de"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

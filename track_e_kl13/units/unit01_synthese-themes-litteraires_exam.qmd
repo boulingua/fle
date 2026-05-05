@@ -58,3 +58,15 @@ thèmes · 8 auteur·e·s · 5 citations · 1 thèse · 1 chute.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 1*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 272d2e5a4aa64386951faff5293a036c -->
+<img src="https://vg09.met.vgwort.de/na/272d2e5a4aa64386951faff5293a036c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -95,3 +95,15 @@ Si vous réutilisez ce curriculum, merci de le citer.
 
 Toute réutilisation du contenu doit conserver la mention de
 l'auteure et la licence CC-BY-SA 4.0.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1bade19f819b4d6e9db2c34547365e7b -->
+<img src="https://vg09.met.vgwort.de/na/1bade19f819b4d6e9db2c34547365e7b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

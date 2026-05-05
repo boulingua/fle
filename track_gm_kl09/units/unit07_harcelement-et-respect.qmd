@@ -184,3 +184,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.education.gouv.fr/non-au-harcelement>
 - **e-Enfance** :
  <https://e-enfance.org/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2e8350ade2ab4affade9ec52f9fed908 -->
+<img src="https://vg09.met.vgwort.de/na/2e8350ade2ab4affade9ec52f9fed908"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

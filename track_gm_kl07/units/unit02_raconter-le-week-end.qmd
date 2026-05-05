@@ -188,3 +188,15 @@ Produire 10' · Réfléchir 2' · Aperçu 3'.
 
 - **Le Point du FLE — Passé composé** :
  <https://www.lepointdufle.net/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2afa2b7e1d934c17ab686fdd4a176b72 -->
+<img src="https://vg09.met.vgwort.de/na/2afa2b7e1d934c17ab686fdd4a176b72"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

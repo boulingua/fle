@@ -171,3 +171,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://information.tv5monde.com/>
 - **Albert Memmi — œuvre** :
  <https://fr.wikipedia.org/wiki/Albert_Memmi>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2e4bfca5e91c499ba60408e1c9b890c3 -->
+<img src="https://vg09.met.vgwort.de/na/2e4bfca5e91c499ba60408e1c9b890c3"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

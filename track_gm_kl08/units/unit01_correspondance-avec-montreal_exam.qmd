@@ -95,3 +95,15 @@ Improvisation. Abends fährt sie mit der U-Bahn nach Hause.*
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 1*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2c852f6cf095441e991fbebdd397f75a -->
+<img src="https://vg09.met.vgwort.de/na/2c852f6cf095441e991fbebdd397f75a"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

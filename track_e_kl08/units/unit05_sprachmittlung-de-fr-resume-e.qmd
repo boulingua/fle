@@ -157,3 +157,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **KMK : Standards médiation linguistique (secondaire I)** :
  <https://www.kmk.org/themen/allgemeinbildende-schulen/bildungsstandards.html>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1fd5bffa9385441f86ade8d3c69fee08 -->
+<img src="https://vg09.met.vgwort.de/na/1fd5bffa9385441f86ade8d3c69fee08"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

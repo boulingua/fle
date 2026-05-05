@@ -237,3 +237,15 @@ rapides : monologue avec carte mentale dessinée.
  <https://apprendre.tv5monde.com/>
 - **Radio France Internationale (RFI Savoirs)** :
  <https://savoirs.rfi.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2cbab0747e7f4990b89da2c4e46a7232 -->
+<img src="https://vg09.met.vgwort.de/na/2cbab0747e7f4990b89da2c4e46a7232"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

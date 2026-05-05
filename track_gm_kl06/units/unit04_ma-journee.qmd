@@ -170,3 +170,15 @@ S'entraîner 12' · Produire 10' · Réfléchir 2' · Aperçu 3'.
  <https://apprendre.tv5monde.com/>
 - **Bonjour de France — Routines** :
  <https://www.bonjourdefrance.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 28e5c97ec8fb46dba99023e6166e5619 -->
+<img src="https://vg09.met.vgwort.de/na/28e5c97ec8fb46dba99023e6166e5619"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

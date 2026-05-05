@@ -171,3 +171,15 @@ Produire 12' (binôme) · Réfléchir 2' · Aperçu 2'.
 
 - **TV5 Monde — À table !** :
  <https://apprendre.tv5monde.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2b2689b78ce246e99c86011397c621a3 -->
+<img src="https://vg09.met.vgwort.de/na/2b2689b78ce246e99c86011397c621a3"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

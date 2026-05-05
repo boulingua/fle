@@ -154,3 +154,15 @@ Produire 14' (binôme) · Réfléchir 2' · Aperçu 2'.
 
 - **Cartes Joyeux anniversaire** :
  <https://www.dromadaire.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1e65d6bab63944249edff767db09f613 -->
+<img src="https://vg09.met.vgwort.de/na/1e65d6bab63944249edff767db09f613"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

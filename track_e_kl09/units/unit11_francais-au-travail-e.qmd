@@ -175,3 +175,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://dictionnaire.lerobert.com/>
 - **OFAJ — Tandem pro** :
  <https://www.ofaj.org/programmes-formations.html>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 224e20a5129b4b1f911f956ddd29d3f5 -->
+<img src="https://vg09.met.vgwort.de/na/224e20a5129b4b1f911f956ddd29d3f5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

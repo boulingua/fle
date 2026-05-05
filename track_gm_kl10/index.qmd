@@ -127,3 +127,15 @@ sont couvertes au moins **une fois** sur l'année.
 - [Programme complet (156 Unités)](../programme.qmd)
 - [Référentiel](../bildungsplan.qmd)
 - [Accueil](../index.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2f051bac8e144f4eb4a4ed63de6b70ad -->
+<img src="https://vg09.met.vgwort.de/na/2f051bac8e144f4eb4a4ed63de6b70ad"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

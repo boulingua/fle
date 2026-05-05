@@ -53,3 +53,15 @@ dîner ; *restant* = restes.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 8 · Niveau M · Unité 10*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2d4f5ee4271f44c2b48119add0710f7c -->
+<img src="https://vg09.met.vgwort.de/na/2d4f5ee4271f44c2b48119add0710f7c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -60,3 +60,15 @@ Caresse, mosaïque, mémoire, exigence.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 13 · Niveau E · Unité 3*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 274c4be7c5684b5fa472f70e9dbf4341 -->
+<img src="https://vg09.met.vgwort.de/na/274c4be7c5684b5fa472f70e9dbf4341"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

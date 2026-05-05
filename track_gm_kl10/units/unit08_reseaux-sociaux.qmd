@@ -170,3 +170,15 @@ Produire 13' (binôme) · Réfléchir 2' · Aperçu 2'.
  <https://www.santepubliquefrance.fr/>
 - **CSA — régulation des plateformes** :
  <https://www.csa.fr/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2fd8af06ce924dafb03ffd16a0ed15c9 -->
+<img src="https://vg09.met.vgwort.de/na/2fd8af06ce924dafb03ffd16a0ed15c9"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

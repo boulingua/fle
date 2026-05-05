@@ -62,3 +62,15 @@ perso · 2 collectives · 1 incipit · 1 chute.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 11 · Niveau E · Unité 1*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 23bee363cf904a74a19c1ff4b9a6f726 -->
+<img src="https://vg09.met.vgwort.de/na/23bee363cf904a74a19c1ff4b9a6f726"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -163,3 +163,15 @@ Produire 10' · Réfléchir 3' · Aperçu 4'.
 ## Pour aller plus loin
 
 - **TV5 Monde — Loisirs** : <https://apprendre.tv5monde.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2a494e88adf74dbb8d66ebdb6bbbbeed -->
+<img src="https://vg09.met.vgwort.de/na/2a494e88adf74dbb8d66ebdb6bbbbeed"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -171,3 +171,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.bildungsplaene-bw.de/>
 - **Prix Robert Schuman (UE)** :
  <https://www.robert-schuman.eu/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2770506845c34f75952c62f2129d4c94 -->
+<img src="https://vg09.met.vgwort.de/na/2770506845c34f75952c62f2129d4c94"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

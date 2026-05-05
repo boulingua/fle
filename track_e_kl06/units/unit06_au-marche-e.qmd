@@ -158,3 +158,15 @@ Produire 13' (binôme) · Réfléchir 2' · Aperçu 2'.
 
 - **TV5 Monde — Au marché de Provence** :
  <https://apprendre.tv5monde.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1ca3fa38c1684fad94e27f2b16b328f2 -->
+<img src="https://vg09.met.vgwort.de/na/1ca3fa38c1684fad94e27f2b16b328f2"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

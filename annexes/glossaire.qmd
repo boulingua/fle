@@ -15,3 +15,15 @@ Termes FLE, terminologie scolaire — devoir surveillé
 (« Klassenarbeit »), médiation linguistique (« Sprachmittlung »),
 niveaux G/M/E, référentiel (« Bildungsplan ») — et CECRL.
 Alphabétique, première rencontre liée à l'unité d'introduction.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1b270a106f4a4ba6832ede51984a98a2 -->
+<img src="https://vg09.met.vgwort.de/na/1b270a106f4a4ba6832ede51984a98a2"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

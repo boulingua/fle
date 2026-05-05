@@ -62,3 +62,15 @@ parties · 3 figures · 1 citation · 1 chute.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 11*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 23ab9139c9ef48d48d6d1fa7757f69fe -->
+<img src="https://vg09.met.vgwort.de/na/23ab9139c9ef48d48d6d1fa7757f69fe"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

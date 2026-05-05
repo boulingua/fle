@@ -56,3 +56,15 @@ futurs simples + 2 formules de politesse.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 10 · Niveau E · Unité 1*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2298d2f5edcd46038dfcc873ffe406b9 -->
+<img src="https://vg09.met.vgwort.de/na/2298d2f5edcd46038dfcc873ffe406b9"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -60,3 +60,15 @@ connecteurs · 3 temps · plan complet.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 12*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2f00ec4200644cd2b2266f1d74f01a06 -->
+<img src="https://vg09.met.vgwort.de/na/2f00ec4200644cd2b2266f1d74f01a06"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

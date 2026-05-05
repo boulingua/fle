@@ -168,3 +168,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
 
 - **Aperçu cl. 10 E** :
  [classe 10 — index](../../track_e_kl10/index.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2261f15b84f2431891aa92863c4ffe23 -->
+<img src="https://vg09.met.vgwort.de/na/2261f15b84f2431891aa92863c4ffe23"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -57,3 +57,15 @@ concrètes · 2 mots du lexique · 3018 cité · ton bienveillant.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 9 · Niveau M · Unité 7*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2e93b7491c424a08ba1439693a91ee23 -->
+<img src="https://vg09.met.vgwort.de/na/2e93b7491c424a08ba1439693a91ee23"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

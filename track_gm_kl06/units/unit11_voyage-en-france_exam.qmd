@@ -52,3 +52,15 @@ au revoir+bisous.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 6 · Niveau M · Unité 11*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 2a8357f6d23641beac8e2b06e46c47b0 -->
+<img src="https://vg09.met.vgwort.de/na/2a8357f6d23641beac8e2b06e46c47b0"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

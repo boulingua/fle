@@ -169,3 +169,15 @@ Produire 12' · Réfléchir 2' · Aperçu 2'.
  <https://www.premiersplans.org/>
 - **Brefcinema (plateforme courts FR)** :
  <https://www.brefcinema.com/>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 24048dd28d9548129d882baf44bb78ed -->
+<img src="https://vg09.met.vgwort.de/na/24048dd28d9548129d882baf44bb78ed"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

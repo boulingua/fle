@@ -56,3 +56,15 @@ lettre · 2 québécismes guillemetés.
 ---
 
 *© S. Le Boulanger · CC-BY-SA 4.0 · FLE · classe 7 · Niveau E · Unité 8*
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1e46e4f3619b4190b233ed9031f30924 -->
+<img src="https://vg09.met.vgwort.de/na/1e46e4f3619b4190b233ed9031f30924"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

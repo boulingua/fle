@@ -49,6 +49,14 @@ website:
           - href: track_e_kl13/index.qmd
             text: "Klasse 13"
     right:
+      - text: "Rechtliches"
+        menu:
+          - href: impressum.qmd
+            text: "Impressum"
+          - href: datenschutz.qmd
+            text: "Datenschutzerklärung"
+          - href: haftungsausschluss.qmd
+            text: "Haftungsausschluss"
       - icon: github
         href: https://github.com/boulingua/fle
   page-navigation: true
@@ -68,8 +76,13 @@ website:
       [DaF](https://boulingua.github.io/daf/) ·
       [Ressources](https://boulingua.github.io/ressources/) ·
       **[Impressum](/impressum.qmd)** ·
-      **[Datenschutz](/datenschutz.qmd)**
+      **[Datenschutz](/datenschutz.qmd)** ·
+      **[Haftungsausschluss](/haftungsausschluss.qmd)** ·
+      [Kontakt](mailto:277736839+s-leboulanger@users.noreply.github.com)
     right: "Construit avec [Quarto](https://quarto.org)"
+
+filters:
+  - _scripts/vgwort.lua
 
 format:
   html:

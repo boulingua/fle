@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2effee652d1f43dbb5d3088ab2cd1582"
 presentation:
-  file: "/materials/presentations/unit12_preparation-mittlere-reife.pptx"
-  thumbnail: "/materials/presentations/unit12_preparation-mittlere-reife.png"
+  file: "/fle/materials/presentations/unit12_preparation-mittlere-reife.pptx"
+  thumbnail: "/fle/materials/presentations/unit12_preparation-mittlere-reife.png"
 worksheet:
-  file: "/materials/worksheets/unit12_preparation-mittlere-reife.pdf"
-  thumbnail: "/materials/worksheets/unit12_preparation-mittlere-reife.png"
+  file: "/fle/materials/worksheets/unit12_preparation-mittlere-reife.pdf"
+  thumbnail: "/fle/materials/worksheets/unit12_preparation-mittlere-reife.png"
 tags:
   - filiere-gm
   - classe-9

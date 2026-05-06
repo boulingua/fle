@@ -14,11 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1ff88749bde94842acc2dd69c373e144"
 presentation:
-  file: "/materials/presentations/unit07_champs-de-bataille.pptx"
-  thumbnail: "/materials/presentations/unit07_champs-de-bataille.png"
+  file: "/fle/materials/presentations/unit07_champs-de-bataille.pptx"
+  thumbnail: "/fle/materials/presentations/unit07_champs-de-bataille.png"
 worksheet:
-  file: "/materials/worksheets/unit07_champs-de-bataille.pdf"
-  thumbnail: "/materials/worksheets/unit07_champs-de-bataille.png"
+  file: "/fle/materials/worksheets/unit07_champs-de-bataille.pdf"
+  thumbnail: "/fle/materials/worksheets/unit07_champs-de-bataille.png"
 tags:
   - filiere-e
   - classe-8

@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1cf1f0ac23dd4b61b4e2f639b9cfb251"
 presentation:
-  file: "/materials/presentations/unit09_ma-chambre-e.pptx"
-  thumbnail: "/materials/presentations/unit09_ma-chambre-e.png"
+  file: "/fle/materials/presentations/unit09_ma-chambre-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit09_ma-chambre-e.png"
 worksheet:
-  file: "/materials/worksheets/unit09_ma-chambre-e.pdf"
-  thumbnail: "/materials/worksheets/unit09_ma-chambre-e.png"
+  file: "/fle/materials/worksheets/unit09_ma-chambre-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit09_ma-chambre-e.png"
 tags:
   - filiere-e
   - classe-6

@@ -14,11 +14,11 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1d18bbfe5cd943ef9b25d280cafa0493"
 presentation:
-  file: "/materials/presentations/unit10_mes-loisirs-e.pptx"
-  thumbnail: "/materials/presentations/unit10_mes-loisirs-e.png"
+  file: "/fle/materials/presentations/unit10_mes-loisirs-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit10_mes-loisirs-e.png"
 worksheet:
-  file: "/materials/worksheets/unit10_mes-loisirs-e.pdf"
-  thumbnail: "/materials/worksheets/unit10_mes-loisirs-e.png"
+  file: "/fle/materials/worksheets/unit10_mes-loisirs-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit10_mes-loisirs-e.png"
 tags:
   - filiere-e
   - classe-6

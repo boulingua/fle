@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f78091cc7e748629b8eda26247682e9"
 presentation:
-  file: "/materials/presentations/unit03_vie-democratique.pptx"
-  thumbnail: "/materials/presentations/unit03_vie-democratique.png"
+  file: "/fle/materials/presentations/unit03_vie-democratique.pptx"
+  thumbnail: "/fle/materials/presentations/unit03_vie-democratique.png"
 worksheet:
-  file: "/materials/worksheets/unit03_vie-democratique.pdf"
-  thumbnail: "/materials/worksheets/unit03_vie-democratique.png"
+  file: "/fle/materials/worksheets/unit03_vie-democratique.pdf"
+  thumbnail: "/fle/materials/worksheets/unit03_vie-democratique.png"
 tags:
   - filiere-gm
   - classe-10

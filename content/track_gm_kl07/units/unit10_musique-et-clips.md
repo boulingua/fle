@@ -14,11 +14,11 @@ skills_focus:
   - textmedienkompetenz
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c0b00ad370748b6a8ce86518ff2149a"
 presentation:
-  file: "/materials/presentations/unit10_musique-et-clips.pptx"
-  thumbnail: "/materials/presentations/unit10_musique-et-clips.png"
+  file: "/fle/materials/presentations/unit10_musique-et-clips.pptx"
+  thumbnail: "/fle/materials/presentations/unit10_musique-et-clips.png"
 worksheet:
-  file: "/materials/worksheets/unit10_musique-et-clips.pdf"
-  thumbnail: "/materials/worksheets/unit10_musique-et-clips.png"
+  file: "/fle/materials/worksheets/unit10_musique-et-clips.pdf"
+  thumbnail: "/fle/materials/worksheets/unit10_musique-et-clips.png"
 tags:
   - filiere-gm
   - classe-7

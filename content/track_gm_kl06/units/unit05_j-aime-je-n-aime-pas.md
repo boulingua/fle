@@ -15,11 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2911775a1ce1414b849fc64bd9b53ed9"
 presentation:
-  file: "/materials/presentations/unit05_j-aime-je-n-aime-pas.pptx"
-  thumbnail: "/materials/presentations/unit05_j-aime-je-n-aime-pas.png"
+  file: "/fle/materials/presentations/unit05_j-aime-je-n-aime-pas.pptx"
+  thumbnail: "/fle/materials/presentations/unit05_j-aime-je-n-aime-pas.png"
 worksheet:
-  file: "/materials/worksheets/unit05_j-aime-je-n-aime-pas.pdf"
-  thumbnail: "/materials/worksheets/unit05_j-aime-je-n-aime-pas.png"
+  file: "/fle/materials/worksheets/unit05_j-aime-je-n-aime-pas.pdf"
+  thumbnail: "/fle/materials/worksheets/unit05_j-aime-je-n-aime-pas.png"
 tags:
   - filiere-gm
   - classe-6

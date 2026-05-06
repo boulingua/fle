@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1deb0c44c1d547e7b08f880286ad8e3e"
 presentation:
-  file: "/materials/presentations/unit04_repas-en-famille-e.pptx"
-  thumbnail: "/materials/presentations/unit04_repas-en-famille-e.png"
+  file: "/fle/materials/presentations/unit04_repas-en-famille-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit04_repas-en-famille-e.png"
 worksheet:
-  file: "/materials/worksheets/unit04_repas-en-famille-e.pdf"
-  thumbnail: "/materials/worksheets/unit04_repas-en-famille-e.png"
+  file: "/fle/materials/worksheets/unit04_repas-en-famille-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit04_repas-en-famille-e.png"
 tags:
   - filiere-e
   - classe-7

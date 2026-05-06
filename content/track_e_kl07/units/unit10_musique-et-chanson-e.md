@@ -14,11 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e781032ad6346e38de767a94214342c"
 presentation:
-  file: "/materials/presentations/unit10_musique-et-chanson-e.pptx"
-  thumbnail: "/materials/presentations/unit10_musique-et-chanson-e.png"
+  file: "/fle/materials/presentations/unit10_musique-et-chanson-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit10_musique-et-chanson-e.png"
 worksheet:
-  file: "/materials/worksheets/unit10_musique-et-chanson-e.pdf"
-  thumbnail: "/materials/worksheets/unit10_musique-et-chanson-e.png"
+  file: "/fle/materials/worksheets/unit10_musique-et-chanson-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit10_musique-et-chanson-e.png"
 tags:
   - filiere-e
   - classe-7

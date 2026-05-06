@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23e3c50110a7408a847b42333d4c2acb"
 presentation:
-  file: "/materials/presentations/unit03_presse-d-opinion.pptx"
-  thumbnail: "/materials/presentations/unit03_presse-d-opinion.png"
+  file: "/fle/materials/presentations/unit03_presse-d-opinion.pptx"
+  thumbnail: "/fle/materials/presentations/unit03_presse-d-opinion.png"
 worksheet:
-  file: "/materials/worksheets/unit03_presse-d-opinion.pdf"
-  thumbnail: "/materials/worksheets/unit03_presse-d-opinion.png"
+  file: "/fle/materials/worksheets/unit03_presse-d-opinion.pdf"
+  thumbnail: "/fle/materials/worksheets/unit03_presse-d-opinion.png"
 tags:
   - filiere-e
   - classe-11

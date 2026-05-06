@@ -15,11 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2afa2b7e1d934c17ab686fdd4a176b72"
 presentation:
-  file: "/materials/presentations/unit02_raconter-le-week-end.pptx"
-  thumbnail: "/materials/presentations/unit02_raconter-le-week-end.png"
+  file: "/fle/materials/presentations/unit02_raconter-le-week-end.pptx"
+  thumbnail: "/fle/materials/presentations/unit02_raconter-le-week-end.png"
 worksheet:
-  file: "/materials/worksheets/unit02_raconter-le-week-end.pdf"
-  thumbnail: "/materials/worksheets/unit02_raconter-le-week-end.png"
+  file: "/fle/materials/worksheets/unit02_raconter-le-week-end.pdf"
+  thumbnail: "/fle/materials/worksheets/unit02_raconter-le-week-end.png"
 tags:
   - filiere-gm
   - classe-7

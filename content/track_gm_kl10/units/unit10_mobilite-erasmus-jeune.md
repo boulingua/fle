@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/3010a31425534cf4bc4194604450ae6b"
 presentation:
-  file: "/materials/presentations/unit10_mobilite-erasmus-jeune.pptx"
-  thumbnail: "/materials/presentations/unit10_mobilite-erasmus-jeune.png"
+  file: "/fle/materials/presentations/unit10_mobilite-erasmus-jeune.pptx"
+  thumbnail: "/fle/materials/presentations/unit10_mobilite-erasmus-jeune.png"
 worksheet:
-  file: "/materials/worksheets/unit10_mobilite-erasmus-jeune.pdf"
-  thumbnail: "/materials/worksheets/unit10_mobilite-erasmus-jeune.png"
+  file: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune.pdf"
+  thumbnail: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune.png"
 tags:
   - filiere-gm
   - classe-10

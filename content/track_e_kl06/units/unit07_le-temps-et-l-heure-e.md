@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1cbd28f22e49412bb639408b6651d29e"
 presentation:
-  file: "/materials/presentations/unit07_le-temps-et-l-heure-e.pptx"
-  thumbnail: "/materials/presentations/unit07_le-temps-et-l-heure-e.png"
+  file: "/fle/materials/presentations/unit07_le-temps-et-l-heure-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit07_le-temps-et-l-heure-e.png"
 worksheet:
-  file: "/materials/worksheets/unit07_le-temps-et-l-heure-e.pdf"
-  thumbnail: "/materials/worksheets/unit07_le-temps-et-l-heure-e.png"
+  file: "/fle/materials/worksheets/unit07_le-temps-et-l-heure-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit07_le-temps-et-l-heure-e.png"
 tags:
   - filiere-e
   - classe-6

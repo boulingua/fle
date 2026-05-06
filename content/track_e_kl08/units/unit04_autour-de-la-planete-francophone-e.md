@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1fb08dc97f03485fadf25557ed937604"
 presentation:
-  file: "/materials/presentations/unit04_autour-de-la-planete-francophone-e.pptx"
-  thumbnail: "/materials/presentations/unit04_autour-de-la-planete-francophone-e.png"
+  file: "/fle/materials/presentations/unit04_autour-de-la-planete-francophone-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit04_autour-de-la-planete-francophone-e.png"
 worksheet:
-  file: "/materials/worksheets/unit04_autour-de-la-planete-francophone-e.pdf"
-  thumbnail: "/materials/worksheets/unit04_autour-de-la-planete-francophone-e.png"
+  file: "/fle/materials/worksheets/unit04_autour-de-la-planete-francophone-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit04_autour-de-la-planete-francophone-e.png"
 tags:
   - filiere-e
   - classe-8

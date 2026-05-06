@@ -15,11 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c207093fff14e2eacdaa7836fbd7566"
 presentation:
-  file: "/materials/presentations/unit12_bilan-portrait-d-une-annee.pptx"
-  thumbnail: "/materials/presentations/unit12_bilan-portrait-d-une-annee.png"
+  file: "/fle/materials/presentations/unit12_bilan-portrait-d-une-annee.pptx"
+  thumbnail: "/fle/materials/presentations/unit12_bilan-portrait-d-une-annee.png"
 worksheet:
-  file: "/materials/worksheets/unit12_bilan-portrait-d-une-annee.pdf"
-  thumbnail: "/materials/worksheets/unit12_bilan-portrait-d-une-annee.png"
+  file: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-annee.pdf"
+  thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-annee.png"
 tags:
   - filiere-gm
   - classe-7

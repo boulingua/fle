@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b9428905e6c47f1a3568903c1ee9cae"
 presentation:
-  file: "/materials/presentations/unit07_vacances-en-famille.pptx"
-  thumbnail: "/materials/presentations/unit07_vacances-en-famille.png"
+  file: "/fle/materials/presentations/unit07_vacances-en-famille.pptx"
+  thumbnail: "/fle/materials/presentations/unit07_vacances-en-famille.png"
 worksheet:
-  file: "/materials/worksheets/unit07_vacances-en-famille.pdf"
-  thumbnail: "/materials/worksheets/unit07_vacances-en-famille.png"
+  file: "/fle/materials/worksheets/unit07_vacances-en-famille.pdf"
+  thumbnail: "/fle/materials/worksheets/unit07_vacances-en-famille.png"
 tags:
   - filiere-gm
   - classe-7

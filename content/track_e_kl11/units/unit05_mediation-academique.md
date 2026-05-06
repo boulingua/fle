@@ -12,11 +12,11 @@ skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2440fc3734314f58b767eb45a7218b48"
 presentation:
-  file: "/materials/presentations/unit05_mediation-academique.pptx"
-  thumbnail: "/materials/presentations/unit05_mediation-academique.png"
+  file: "/fle/materials/presentations/unit05_mediation-academique.pptx"
+  thumbnail: "/fle/materials/presentations/unit05_mediation-academique.png"
 worksheet:
-  file: "/materials/worksheets/unit05_mediation-academique.pdf"
-  thumbnail: "/materials/worksheets/unit05_mediation-academique.png"
+  file: "/fle/materials/worksheets/unit05_mediation-academique.pdf"
+  thumbnail: "/fle/materials/worksheets/unit05_mediation-academique.png"
 tags:
   - filiere-e
   - classe-11

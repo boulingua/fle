@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22d2e7f4eb3a4a25b791dfd47c01ce00"
 presentation:
-  file: "/materials/presentations/unit04_francophonie-aujourd-hui-e.pptx"
-  thumbnail: "/materials/presentations/unit04_francophonie-aujourd-hui-e.png"
+  file: "/fle/materials/presentations/unit04_francophonie-aujourd-hui-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit04_francophonie-aujourd-hui-e.png"
 worksheet:
-  file: "/materials/worksheets/unit04_francophonie-aujourd-hui-e.pdf"
-  thumbnail: "/materials/worksheets/unit04_francophonie-aujourd-hui-e.png"
+  file: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui-e.png"
 tags:
   - filiere-e
   - classe-10

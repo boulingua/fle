@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/287c79c7c6454b7082d96d769fabfb1a"
 presentation:
-  file: "/materials/presentations/unit11_abitur-mock-final.pptx"
-  thumbnail: "/materials/presentations/unit11_abitur-mock-final.png"
+  file: "/fle/materials/presentations/unit11_abitur-mock-final.pptx"
+  thumbnail: "/fle/materials/presentations/unit11_abitur-mock-final.png"
 worksheet:
-  file: "/materials/worksheets/unit11_abitur-mock-final.pdf"
-  thumbnail: "/materials/worksheets/unit11_abitur-mock-final.png"
+  file: "/fle/materials/worksheets/unit11_abitur-mock-final.pdf"
+  thumbnail: "/fle/materials/worksheets/unit11_abitur-mock-final.png"
 tags:
   - filiere-e
   - classe-13

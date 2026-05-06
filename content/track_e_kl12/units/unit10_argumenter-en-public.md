@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26b48723128f4015959b3675694789e5"
 presentation:
-  file: "/materials/presentations/unit10_argumenter-en-public.pptx"
-  thumbnail: "/materials/presentations/unit10_argumenter-en-public.png"
+  file: "/fle/materials/presentations/unit10_argumenter-en-public.pptx"
+  thumbnail: "/fle/materials/presentations/unit10_argumenter-en-public.png"
 worksheet:
-  file: "/materials/worksheets/unit10_argumenter-en-public.pdf"
-  thumbnail: "/materials/worksheets/unit10_argumenter-en-public.png"
+  file: "/fle/materials/worksheets/unit10_argumenter-en-public.pdf"
+  thumbnail: "/fle/materials/worksheets/unit10_argumenter-en-public.png"
 tags:
   - filiere-e
   - classe-12

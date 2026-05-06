@@ -15,11 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b07ec00c17943ebba012fc821fb4e28"
 presentation:
-  file: "/materials/presentations/unit03_mon-quartier.pptx"
-  thumbnail: "/materials/presentations/unit03_mon-quartier.png"
+  file: "/fle/materials/presentations/unit03_mon-quartier.pptx"
+  thumbnail: "/fle/materials/presentations/unit03_mon-quartier.png"
 worksheet:
-  file: "/materials/worksheets/unit03_mon-quartier.pdf"
-  thumbnail: "/materials/worksheets/unit03_mon-quartier.png"
+  file: "/fle/materials/worksheets/unit03_mon-quartier.pdf"
+  thumbnail: "/fle/materials/worksheets/unit03_mon-quartier.png"
 tags:
   - filiere-gm
   - classe-7

@@ -15,11 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c5fd8b7b43d40a9b54e67ceaf81f43b"
 presentation:
-  file: "/materials/presentations/unit01_correspondance-avec-montreal.pptx"
-  thumbnail: "/materials/presentations/unit01_correspondance-avec-montreal.png"
+  file: "/fle/materials/presentations/unit01_correspondance-avec-montreal.pptx"
+  thumbnail: "/fle/materials/presentations/unit01_correspondance-avec-montreal.png"
 worksheet:
-  file: "/materials/worksheets/unit01_correspondance-avec-montreal.pdf"
-  thumbnail: "/materials/worksheets/unit01_correspondance-avec-montreal.png"
+  file: "/fle/materials/worksheets/unit01_correspondance-avec-montreal.pdf"
+  thumbnail: "/fle/materials/worksheets/unit01_correspondance-avec-montreal.png"
 tags:
   - filiere-gm
   - classe-8

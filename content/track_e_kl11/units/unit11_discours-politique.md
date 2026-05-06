@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2536ff12d166404b8dc76a7c04c4e8ba"
 presentation:
-  file: "/materials/presentations/unit11_discours-politique.pptx"
-  thumbnail: "/materials/presentations/unit11_discours-politique.png"
+  file: "/fle/materials/presentations/unit11_discours-politique.pptx"
+  thumbnail: "/fle/materials/presentations/unit11_discours-politique.png"
 worksheet:
-  file: "/materials/worksheets/unit11_discours-politique.pdf"
-  thumbnail: "/materials/worksheets/unit11_discours-politique.png"
+  file: "/fle/materials/worksheets/unit11_discours-politique.pdf"
+  thumbnail: "/fle/materials/worksheets/unit11_discours-politique.png"
 tags:
   - filiere-e
   - classe-11

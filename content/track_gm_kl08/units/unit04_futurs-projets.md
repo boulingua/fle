@@ -15,11 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2cd7f2d63023444089d081b10fed872e"
 presentation:
-  file: "/materials/presentations/unit04_futurs-projets.pptx"
-  thumbnail: "/materials/presentations/unit04_futurs-projets.png"
+  file: "/fle/materials/presentations/unit04_futurs-projets.pptx"
+  thumbnail: "/fle/materials/presentations/unit04_futurs-projets.png"
 worksheet:
-  file: "/materials/worksheets/unit04_futurs-projets.pdf"
-  thumbnail: "/materials/worksheets/unit04_futurs-projets.png"
+  file: "/fle/materials/worksheets/unit04_futurs-projets.pdf"
+  thumbnail: "/fle/materials/worksheets/unit04_futurs-projets.png"
 tags:
   - filiere-gm
   - classe-8

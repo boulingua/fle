@@ -15,11 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d5feea5516749f38183922b8a174e0c"
 presentation:
-  file: "/materials/presentations/unit11_un-projet-solidaire.pptx"
-  thumbnail: "/materials/presentations/unit11_un-projet-solidaire.png"
+  file: "/fle/materials/presentations/unit11_un-projet-solidaire.pptx"
+  thumbnail: "/fle/materials/presentations/unit11_un-projet-solidaire.png"
 worksheet:
-  file: "/materials/worksheets/unit11_un-projet-solidaire.pdf"
-  thumbnail: "/materials/worksheets/unit11_un-projet-solidaire.png"
+  file: "/fle/materials/worksheets/unit11_un-projet-solidaire.pdf"
+  thumbnail: "/fle/materials/worksheets/unit11_un-projet-solidaire.png"
 tags:
   - filiere-gm
   - classe-8

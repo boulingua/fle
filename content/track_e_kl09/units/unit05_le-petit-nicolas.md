@@ -14,11 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2130a38685a04ceb939fd6540e22db5e"
 presentation:
-  file: "/materials/presentations/unit05_le-petit-nicolas.pptx"
-  thumbnail: "/materials/presentations/unit05_le-petit-nicolas.png"
+  file: "/fle/materials/presentations/unit05_le-petit-nicolas.pptx"
+  thumbnail: "/fle/materials/presentations/unit05_le-petit-nicolas.png"
 worksheet:
-  file: "/materials/worksheets/unit05_le-petit-nicolas.pdf"
-  thumbnail: "/materials/worksheets/unit05_le-petit-nicolas.png"
+  file: "/fle/materials/worksheets/unit05_le-petit-nicolas.pdf"
+  thumbnail: "/fle/materials/worksheets/unit05_le-petit-nicolas.png"
 tags:
   - filiere-e
   - classe-9

@@ -14,11 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24048dd28d9548129d882baf44bb78ed"
 presentation:
-  file: "/materials/presentations/unit04_court-metrage.pptx"
-  thumbnail: "/materials/presentations/unit04_court-metrage.png"
+  file: "/fle/materials/presentations/unit04_court-metrage.pptx"
+  thumbnail: "/fle/materials/presentations/unit04_court-metrage.png"
 worksheet:
-  file: "/materials/worksheets/unit04_court-metrage.pdf"
-  thumbnail: "/materials/worksheets/unit04_court-metrage.png"
+  file: "/fle/materials/worksheets/unit04_court-metrage.pdf"
+  thumbnail: "/fle/materials/worksheets/unit04_court-metrage.png"
 tags:
   - filiere-e
   - classe-11

@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/283735ce66d5448d8404fc2c773523bc"
 presentation:
-  file: "/materials/presentations/unit08_discussion-sur-stimulus.pptx"
-  thumbnail: "/materials/presentations/unit08_discussion-sur-stimulus.png"
+  file: "/fle/materials/presentations/unit08_discussion-sur-stimulus.pptx"
+  thumbnail: "/fle/materials/presentations/unit08_discussion-sur-stimulus.png"
 worksheet:
-  file: "/materials/worksheets/unit08_discussion-sur-stimulus.pdf"
-  thumbnail: "/materials/worksheets/unit08_discussion-sur-stimulus.png"
+  file: "/fle/materials/worksheets/unit08_discussion-sur-stimulus.pdf"
+  thumbnail: "/fle/materials/worksheets/unit08_discussion-sur-stimulus.png"
 tags:
   - filiere-e
   - classe-13

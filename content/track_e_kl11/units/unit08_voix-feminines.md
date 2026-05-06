@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/249d1a3fdcd748a180d5d0955d50b2f0"
 presentation:
-  file: "/materials/presentations/unit08_voix-feminines.pptx"
-  thumbnail: "/materials/presentations/unit08_voix-feminines.png"
+  file: "/fle/materials/presentations/unit08_voix-feminines.pptx"
+  thumbnail: "/fle/materials/presentations/unit08_voix-feminines.png"
 worksheet:
-  file: "/materials/worksheets/unit08_voix-feminines.pdf"
-  thumbnail: "/materials/worksheets/unit08_voix-feminines.png"
+  file: "/fle/materials/worksheets/unit08_voix-feminines.pdf"
+  thumbnail: "/fle/materials/worksheets/unit08_voix-feminines.png"
 tags:
   - filiere-e
   - classe-11

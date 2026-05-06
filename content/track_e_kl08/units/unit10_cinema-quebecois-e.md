@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/201e8a07f20948bdb286782e04a48002"
 presentation:
-  file: "/materials/presentations/unit10_cinema-quebecois-e.pptx"
-  thumbnail: "/materials/presentations/unit10_cinema-quebecois-e.png"
+  file: "/fle/materials/presentations/unit10_cinema-quebecois-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit10_cinema-quebecois-e.png"
 worksheet:
-  file: "/materials/worksheets/unit10_cinema-quebecois-e.pdf"
-  thumbnail: "/materials/worksheets/unit10_cinema-quebecois-e.png"
+  file: "/fle/materials/worksheets/unit10_cinema-quebecois-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit10_cinema-quebecois-e.png"
 tags:
   - filiere-e
   - classe-8

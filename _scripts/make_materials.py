@@ -263,10 +263,18 @@ def process_unit(md_path: pathlib.Path) -> dict:
         make_thumbnail(work_png, title, "Fiche d'exercices", "#2e7d32")
 
     tags = derive_tags(fm, md_path.relative_to(REPO))
-    pres_url = f"/materials/presentations/{slug}.pptx"
-    pres_thumb = f"/materials/presentations/{slug}.png"
-    work_url = f"/materials/worksheets/{slug}.pdf"
-    work_thumb = f"/materials/worksheets/{slug}.png"
+    # Hardcode the production URL prefix. Hugo's relURL/absURL do NOT
+    # prepend the baseURL path component to leading-slash inputs, so a
+    # frontmatter value of "/materials/foo" renders as href="/materials/
+    # foo" — site-root resolved, missing the /fle/ prefix → 404. Baking
+    # /fle/ into the data here keeps both server templates and the
+    # client-side JS (which reads graph.json verbatim) honest. If the
+    # site ever moves off /fle/, regenerate.
+    PREFIX = "/fle"
+    pres_url = f"{PREFIX}/materials/presentations/{slug}.pptx"
+    pres_thumb = f"{PREFIX}/materials/presentations/{slug}.png"
+    work_url = f"{PREFIX}/materials/worksheets/{slug}.pdf"
+    work_thumb = f"{PREFIX}/materials/worksheets/{slug}.png"
 
     new_fm = upsert_fm_block(fm_text, "presentation", [
         f'file: "{pres_url}"',

@@ -14,11 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1fe85d7bd9394244ad645671223ffa02"
 presentation:
-  file: "/materials/presentations/unit06_musiques-du-maghreb-e.pptx"
-  thumbnail: "/materials/presentations/unit06_musiques-du-maghreb-e.png"
+  file: "/fle/materials/presentations/unit06_musiques-du-maghreb-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit06_musiques-du-maghreb-e.png"
 worksheet:
-  file: "/materials/worksheets/unit06_musiques-du-maghreb-e.pdf"
-  thumbnail: "/materials/worksheets/unit06_musiques-du-maghreb-e.png"
+  file: "/fle/materials/worksheets/unit06_musiques-du-maghreb-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit06_musiques-du-maghreb-e.png"
 tags:
   - filiere-e
   - classe-8

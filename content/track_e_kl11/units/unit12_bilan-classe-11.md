@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/257c01928409408ba6e7d4a0220decf0"
 presentation:
-  file: "/materials/presentations/unit12_bilan-classe-11.pptx"
-  thumbnail: "/materials/presentations/unit12_bilan-classe-11.png"
+  file: "/fle/materials/presentations/unit12_bilan-classe-11.pptx"
+  thumbnail: "/fle/materials/presentations/unit12_bilan-classe-11.png"
 worksheet:
-  file: "/materials/worksheets/unit12_bilan-classe-11.pdf"
-  thumbnail: "/materials/worksheets/unit12_bilan-classe-11.png"
+  file: "/fle/materials/worksheets/unit12_bilan-classe-11.pdf"
+  thumbnail: "/fle/materials/worksheets/unit12_bilan-classe-11.png"
 tags:
   - filiere-e
   - classe-11

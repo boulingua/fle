@@ -15,11 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28e5c97ec8fb46dba99023e6166e5619"
 presentation:
-  file: "/materials/presentations/unit04_ma-journee.pptx"
-  thumbnail: "/materials/presentations/unit04_ma-journee.png"
+  file: "/fle/materials/presentations/unit04_ma-journee.pptx"
+  thumbnail: "/fle/materials/presentations/unit04_ma-journee.png"
 worksheet:
-  file: "/materials/worksheets/unit04_ma-journee.pdf"
-  thumbnail: "/materials/worksheets/unit04_ma-journee.png"
+  file: "/fle/materials/worksheets/unit04_ma-journee.pdf"
+  thumbnail: "/fle/materials/worksheets/unit04_ma-journee.png"
 tags:
   - filiere-gm
   - classe-6

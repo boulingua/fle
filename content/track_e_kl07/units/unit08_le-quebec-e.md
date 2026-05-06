@@ -14,11 +14,11 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e40b081f9184f9da6a41c8ec2521451"
 presentation:
-  file: "/materials/presentations/unit08_le-quebec-e.pptx"
-  thumbnail: "/materials/presentations/unit08_le-quebec-e.png"
+  file: "/fle/materials/presentations/unit08_le-quebec-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit08_le-quebec-e.png"
 worksheet:
-  file: "/materials/worksheets/unit08_le-quebec-e.pdf"
-  thumbnail: "/materials/worksheets/unit08_le-quebec-e.png"
+  file: "/fle/materials/worksheets/unit08_le-quebec-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit08_le-quebec-e.png"
 tags:
   - filiere-e
   - classe-7

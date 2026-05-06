@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1ca3fa38c1684fad94e27f2b16b328f2"
 presentation:
-  file: "/materials/presentations/unit06_au-marche-e.pptx"
-  thumbnail: "/materials/presentations/unit06_au-marche-e.png"
+  file: "/fle/materials/presentations/unit06_au-marche-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit06_au-marche-e.png"
 worksheet:
-  file: "/materials/worksheets/unit06_au-marche-e.pdf"
-  thumbnail: "/materials/worksheets/unit06_au-marche-e.png"
+  file: "/fle/materials/worksheets/unit06_au-marche-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit06_au-marche-e.png"
 tags:
   - filiere-e
   - classe-6

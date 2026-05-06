@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26168bca81d642529c92f8bb458671eb"
 presentation:
-  file: "/materials/presentations/unit04_presse-engagee.pptx"
-  thumbnail: "/materials/presentations/unit04_presse-engagee.png"
+  file: "/fle/materials/presentations/unit04_presse-engagee.pptx"
+  thumbnail: "/fle/materials/presentations/unit04_presse-engagee.png"
 worksheet:
-  file: "/materials/worksheets/unit04_presse-engagee.pdf"
-  thumbnail: "/materials/worksheets/unit04_presse-engagee.png"
+  file: "/fle/materials/worksheets/unit04_presse-engagee.pdf"
+  thumbnail: "/fle/materials/worksheets/unit04_presse-engagee.png"
 tags:
   - filiere-e
   - classe-12

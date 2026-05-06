@@ -13,11 +13,11 @@ skills_focus:
   - hör_hörsehverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/299de8e3d383432a93fa47956b63bebc"
 presentation:
-  file: "/materials/presentations/unit08_la-meteo-et-les-saisons.pptx"
-  thumbnail: "/materials/presentations/unit08_la-meteo-et-les-saisons.png"
+  file: "/fle/materials/presentations/unit08_la-meteo-et-les-saisons.pptx"
+  thumbnail: "/fle/materials/presentations/unit08_la-meteo-et-les-saisons.png"
 worksheet:
-  file: "/materials/worksheets/unit08_la-meteo-et-les-saisons.pdf"
-  thumbnail: "/materials/worksheets/unit08_la-meteo-et-les-saisons.png"
+  file: "/fle/materials/worksheets/unit08_la-meteo-et-les-saisons.pdf"
+  thumbnail: "/fle/materials/worksheets/unit08_la-meteo-et-les-saisons.png"
 tags:
   - filiere-gm
   - classe-6

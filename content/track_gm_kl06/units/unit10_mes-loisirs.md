@@ -14,11 +14,11 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a494e88adf74dbb8d66ebdb6bbbbeed"
 presentation:
-  file: "/materials/presentations/unit10_mes-loisirs.pptx"
-  thumbnail: "/materials/presentations/unit10_mes-loisirs.png"
+  file: "/fle/materials/presentations/unit10_mes-loisirs.pptx"
+  thumbnail: "/fle/materials/presentations/unit10_mes-loisirs.png"
 worksheet:
-  file: "/materials/worksheets/unit10_mes-loisirs.pdf"
-  thumbnail: "/materials/worksheets/unit10_mes-loisirs.png"
+  file: "/fle/materials/worksheets/unit10_mes-loisirs.pdf"
+  thumbnail: "/fle/materials/worksheets/unit10_mes-loisirs.png"
 tags:
   - filiere-gm
   - classe-6

@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26116d55a91c4b0d966cc5257832a2a8"
 presentation:
-  file: "/materials/presentations/unit03_decolonisation-litteraire.pptx"
-  thumbnail: "/materials/presentations/unit03_decolonisation-litteraire.png"
+  file: "/fle/materials/presentations/unit03_decolonisation-litteraire.pptx"
+  thumbnail: "/fle/materials/presentations/unit03_decolonisation-litteraire.png"
 worksheet:
-  file: "/materials/worksheets/unit03_decolonisation-litteraire.pdf"
-  thumbnail: "/materials/worksheets/unit03_decolonisation-litteraire.png"
+  file: "/fle/materials/worksheets/unit03_decolonisation-litteraire.pdf"
+  thumbnail: "/fle/materials/worksheets/unit03_decolonisation-litteraire.png"
 tags:
   - filiere-e
   - classe-12

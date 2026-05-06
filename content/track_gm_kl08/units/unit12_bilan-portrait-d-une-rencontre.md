@@ -15,11 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d76d05a48ce45b3a7f8efd697e66c36"
 presentation:
-  file: "/materials/presentations/unit12_bilan-portrait-d-une-rencontre.pptx"
-  thumbnail: "/materials/presentations/unit12_bilan-portrait-d-une-rencontre.png"
+  file: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.pptx"
+  thumbnail: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.png"
 worksheet:
-  file: "/materials/worksheets/unit12_bilan-portrait-d-une-rencontre.pdf"
-  thumbnail: "/materials/worksheets/unit12_bilan-portrait-d-une-rencontre.png"
+  file: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre.pdf"
+  thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre.png"
 tags:
   - filiere-gm
   - classe-8

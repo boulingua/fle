@@ -12,11 +12,11 @@ skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22f48257bcbb4d93a4e72c93acea5641"
 presentation:
-  file: "/materials/presentations/unit06_mediation-avancee-e.pptx"
-  thumbnail: "/materials/presentations/unit06_mediation-avancee-e.png"
+  file: "/fle/materials/presentations/unit06_mediation-avancee-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit06_mediation-avancee-e.png"
 worksheet:
-  file: "/materials/worksheets/unit06_mediation-avancee-e.pdf"
-  thumbnail: "/materials/worksheets/unit06_mediation-avancee-e.png"
+  file: "/fle/materials/worksheets/unit06_mediation-avancee-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit06_mediation-avancee-e.png"
 tags:
   - filiere-e
   - classe-10

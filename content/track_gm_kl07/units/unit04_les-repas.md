@@ -14,11 +14,11 @@ skills_focus:
   - wortschatz
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b2689b78ce246e99c86011397c621a3"
 presentation:
-  file: "/materials/presentations/unit04_les-repas.pptx"
-  thumbnail: "/materials/presentations/unit04_les-repas.png"
+  file: "/fle/materials/presentations/unit04_les-repas.pptx"
+  thumbnail: "/fle/materials/presentations/unit04_les-repas.png"
 worksheet:
-  file: "/materials/worksheets/unit04_les-repas.pdf"
-  thumbnail: "/materials/worksheets/unit04_les-repas.png"
+  file: "/fle/materials/worksheets/unit04_les-repas.pdf"
+  thumbnail: "/fle/materials/worksheets/unit04_les-repas.png"
 tags:
   - filiere-gm
   - classe-7

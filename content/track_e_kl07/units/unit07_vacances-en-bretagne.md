@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e2fea4751d84155b260e58898e695aa"
 presentation:
-  file: "/materials/presentations/unit07_vacances-en-bretagne.pptx"
-  thumbnail: "/materials/presentations/unit07_vacances-en-bretagne.png"
+  file: "/fle/materials/presentations/unit07_vacances-en-bretagne.pptx"
+  thumbnail: "/fle/materials/presentations/unit07_vacances-en-bretagne.png"
 worksheet:
-  file: "/materials/worksheets/unit07_vacances-en-bretagne.pdf"
-  thumbnail: "/materials/worksheets/unit07_vacances-en-bretagne.png"
+  file: "/fle/materials/worksheets/unit07_vacances-en-bretagne.pdf"
+  thumbnail: "/fle/materials/worksheets/unit07_vacances-en-bretagne.png"
 tags:
   - filiere-e
   - classe-7

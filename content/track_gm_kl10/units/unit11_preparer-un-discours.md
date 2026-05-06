@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/3058d551812048e6be83734ba35f56bc"
 presentation:
-  file: "/materials/presentations/unit11_preparer-un-discours.pptx"
-  thumbnail: "/materials/presentations/unit11_preparer-un-discours.png"
+  file: "/fle/materials/presentations/unit11_preparer-un-discours.pptx"
+  thumbnail: "/fle/materials/presentations/unit11_preparer-un-discours.png"
 worksheet:
-  file: "/materials/worksheets/unit11_preparer-un-discours.pdf"
-  thumbnail: "/materials/worksheets/unit11_preparer-un-discours.png"
+  file: "/fle/materials/worksheets/unit11_preparer-un-discours.pdf"
+  thumbnail: "/fle/materials/worksheets/unit11_preparer-un-discours.png"
 tags:
   - filiere-gm
   - classe-10

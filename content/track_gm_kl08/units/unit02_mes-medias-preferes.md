@@ -14,11 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c8a013f5f2842189a8058530fcf96af"
 presentation:
-  file: "/materials/presentations/unit02_mes-medias-preferes.pptx"
-  thumbnail: "/materials/presentations/unit02_mes-medias-preferes.png"
+  file: "/fle/materials/presentations/unit02_mes-medias-preferes.pptx"
+  thumbnail: "/fle/materials/presentations/unit02_mes-medias-preferes.png"
 worksheet:
-  file: "/materials/worksheets/unit02_mes-medias-preferes.pdf"
-  thumbnail: "/materials/worksheets/unit02_mes-medias-preferes.png"
+  file: "/fle/materials/worksheets/unit02_mes-medias-preferes.pdf"
+  thumbnail: "/fle/materials/worksheets/unit02_mes-medias-preferes.png"
 tags:
   - filiere-gm
   - classe-8

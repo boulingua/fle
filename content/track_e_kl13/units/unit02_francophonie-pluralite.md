@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2738da1a4ff14bc4b7b8cefa2856d73f"
 presentation:
-  file: "/materials/presentations/unit02_francophonie-pluralite.pptx"
-  thumbnail: "/materials/presentations/unit02_francophonie-pluralite.png"
+  file: "/fle/materials/presentations/unit02_francophonie-pluralite.pptx"
+  thumbnail: "/fle/materials/presentations/unit02_francophonie-pluralite.png"
 worksheet:
-  file: "/materials/worksheets/unit02_francophonie-pluralite.pdf"
-  thumbnail: "/materials/worksheets/unit02_francophonie-pluralite.png"
+  file: "/fle/materials/worksheets/unit02_francophonie-pluralite.pdf"
+  thumbnail: "/fle/materials/worksheets/unit02_francophonie-pluralite.png"
 tags:
   - filiere-e
   - classe-13

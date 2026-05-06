@@ -12,11 +12,11 @@ skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f9d644f34654a6392bbe0260b2cba81"
 presentation:
-  file: "/materials/presentations/unit06_mediation-avancee.pptx"
-  thumbnail: "/materials/presentations/unit06_mediation-avancee.png"
+  file: "/fle/materials/presentations/unit06_mediation-avancee.pptx"
+  thumbnail: "/fle/materials/presentations/unit06_mediation-avancee.png"
 worksheet:
-  file: "/materials/worksheets/unit06_mediation-avancee.pdf"
-  thumbnail: "/materials/worksheets/unit06_mediation-avancee.png"
+  file: "/fle/materials/worksheets/unit06_mediation-avancee.pdf"
+  thumbnail: "/fle/materials/worksheets/unit06_mediation-avancee.png"
 tags:
   - filiere-gm
   - classe-10

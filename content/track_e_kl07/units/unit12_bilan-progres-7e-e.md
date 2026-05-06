@@ -14,11 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1eee4a8671094fd0916e5ebc9152b7b5"
 presentation:
-  file: "/materials/presentations/unit12_bilan-progres-7e-e.pptx"
-  thumbnail: "/materials/presentations/unit12_bilan-progres-7e-e.png"
+  file: "/fle/materials/presentations/unit12_bilan-progres-7e-e.pptx"
+  thumbnail: "/fle/materials/presentations/unit12_bilan-progres-7e-e.png"
 worksheet:
-  file: "/materials/worksheets/unit12_bilan-progres-7e-e.pdf"
-  thumbnail: "/materials/worksheets/unit12_bilan-progres-7e-e.png"
+  file: "/fle/materials/worksheets/unit12_bilan-progres-7e-e.pdf"
+  thumbnail: "/fle/materials/worksheets/unit12_bilan-progres-7e-e.png"
 tags:
   - filiere-e
   - classe-7

@@ -14,11 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2ec0ab6995d0405dac7040152346130c"
 presentation:
-  file: "/materials/presentations/unit09_internet-et-vie-privee.pptx"
-  thumbnail: "/materials/presentations/unit09_internet-et-vie-privee.png"
+  file: "/fle/materials/presentations/unit09_internet-et-vie-privee.pptx"
+  thumbnail: "/fle/materials/presentations/unit09_internet-et-vie-privee.png"
 worksheet:
-  file: "/materials/worksheets/unit09_internet-et-vie-privee.pdf"
-  thumbnail: "/materials/worksheets/unit09_internet-et-vie-privee.png"
+  file: "/fle/materials/worksheets/unit09_internet-et-vie-privee.pdf"
+  thumbnail: "/fle/materials/worksheets/unit09_internet-et-vie-privee.png"
 tags:
   - filiere-gm
   - classe-9

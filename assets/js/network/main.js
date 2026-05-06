@@ -13,6 +13,8 @@
 import { createStore } from './store.js';
 import { createGraph } from './graph.js';
 import { mountFilters } from './filters.js';
+import { mountList } from './list.js';
+import { mountSearch } from './search.js';
 
 const SMALL_VIEWPORT = '(max-width: 767px)';
 const GRAPH_JSON_URL = '/fle/network/graph.json';
@@ -69,13 +71,24 @@ async function boot() {
 
   watchTheme(() => graph.applyTheme());
 
-  // Phase 5 will attach: search → store.set({ searchQuery })
-  // Phase 5 will subscribe: list view re-renders from store
+  // graph subscriber: combine facet filter ∩ search match
   store.subscribe(s => {
-    if (s.filteredNodeIds == null) {
+    const fid = s.filteredNodeIds;
+    const sid = s.searchMatchIds;
+    if (fid == null && sid == null) {
       graph.applyFilter(null);
     } else {
-      graph.applyFilter(d => s.filteredNodeIds.has(d.id));
+      graph.applyFilter(d => {
+        if (fid && !fid.has(d.id)) return false;
+        if (sid && !sid.has(d.id)) return false;
+        return true;
+      });
+    }
+    // bidirectional hover sync: card hover -> graph node .hover class
+    graph.cy.nodes().removeClass('hover');
+    if (s.hoveredNodeId) {
+      const node = graph.cy.getElementById(s.hoveredNodeId);
+      if (node && node.length) node.addClass('hover');
     }
   });
 
@@ -84,6 +97,27 @@ async function boot() {
   if (filterRail) {
     mountFilters({ root: filterRail, data, store });
   }
+
+  // Phase 5: list view (cards below the graph).
+  const cardsRoot = document.getElementById('network-cards');
+  if (cardsRoot) {
+    mountList({ root: cardsRoot, data, store });
+  }
+
+  // Phase 5: search input + Pagefind.
+  const searchInput = document.querySelector('.network-search-input');
+  if (searchInput) {
+    mountSearch({ input: searchInput, data, store });
+  }
+
+  // Phase 5: graph node hover -> store, so list scrolls / future
+  // hover-targeting works in the other direction too.
+  graph.cy.on('mouseover', 'node', evt => {
+    store.set({ hoveredNodeId: evt.target.id() });
+  });
+  graph.cy.on('mouseout', 'node', () => {
+    store.set({ hoveredNodeId: null });
+  });
 
   // expose for debugging — non-enumerable
   Object.defineProperty(window, '__network', {

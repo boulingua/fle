@@ -35,8 +35,8 @@
              class="network-search-input"
              placeholder="Rechercher (titre, étiquette, niveau)…"
              aria-label="Rechercher dans les matériaux"
-             disabled />
-      <span class="network-search-key" aria-hidden="true">/</span>
+             autocomplete="off" />
+      <span class="network-search-key" aria-hidden="true" title="Raccourci : /">/</span>
     </div>
 
     <div class="network-shell">
@@ -63,6 +63,25 @@
     <div class="network-counter">
       <span id="network-counter-text"><strong>468</strong> matériaux affichés</span>
     </div>
+
+    {{/* Card grid hydrated by assets/js/network/list.js. Subscribes to
+         the same store as the graph; hover on either side highlights
+         the other. */}}
+    <ul class="network-cards" id="network-cards" aria-label="Liste des matériaux affichés"></ul>
+
+    {{/* A11y mirror — every material listed in source order so screen
+         readers and keyboard users have a stable, non-graph navigation
+         path. Visually hidden on desktop; will become the only view on
+         mobile in Phase 6. */}}
+    <nav class="visually-hidden" aria-label="Tous les matériaux">
+      <ul>
+        {{- range .Site.RegularPages.ByTitle -}}
+          {{- if (or .Params.presentation .Params.worksheet) -}}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{- end -}}
+        {{- end -}}
+      </ul>
+    </nav>
   </main>
 </section>
 

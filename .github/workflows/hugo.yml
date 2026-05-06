@@ -124,6 +124,18 @@ jobs:
       - name: Verify VG Wort pixels (1:1 manifest <-> public/)
         run: bash scripts/verify-vgwort.sh vgwort-manifest.csv public
 
+      # ── Pagefind index (Phase 5 of materials network).
+      # Scans the built HTML under public/ and writes public/pagefind/.
+      # Runtime served as static assets alongside everything else.
+      - name: Pagefind index
+        run: |
+          npx -y pagefind@^1 --site public
+          # CI gate from Phase 1 prompt: index must be non-empty.
+          if [ ! -f public/pagefind/pagefind.js ]; then
+            echo "::error::Pagefind index missing — public/pagefind/pagefind.js not produced."
+            exit 1
+          fi
+
       # TODO: re-enable lychee once we figure out how to make it resolve
       # /fle/-prefixed absolute URLs against the local public/ tree without
       # false-positives. For now, the build is link-correctness-checked at

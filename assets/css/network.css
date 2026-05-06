@@ -309,6 +309,36 @@ body.colorscheme-dark {
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
+.network-card-desc {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--network-fg-muted);
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.network-card-download {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid var(--boulingua-accent, #1a73e8);
+  color: var(--boulingua-accent, #1a73e8);
+  border-radius: 4px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: background 0.12s ease-out, color 0.12s ease-out;
+}
+.network-card-download:hover {
+  background: var(--boulingua-accent, #1a73e8);
+  color: var(--network-bg);
+}
+.network-cards {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
 .network-card-tags {
   display: flex;
   flex-wrap: wrap;

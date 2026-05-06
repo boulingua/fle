@@ -1,0 +1,379 @@
+/* ============================================================
+   Materials Discovery Network — design system.
+   Phase 2 of MATERIALS_NETWORK_PLAN.md.
+
+   Layout grid, palette, typography, motion. Imported alongside
+   custom.css so site-wide tokens (--boulingua-*) cascade in.
+
+   Light/dark switching tracks Coder's body class:
+     body.colorscheme-dark  → forced dark
+     body.colorscheme-auto  → follows prefers-color-scheme
+     (default)              → light
+   ============================================================ */
+
+/* ---------- Topic palette ----------------------------------- */
+/* All 7 topic colours below MUST pass WCAG AA contrast against
+   both --network-bg-light and --network-bg-dark. Verified at
+   https://webaim.org/resources/contrastchecker/ — do not change
+   without re-checking. */
+:root {
+  /* surfaces */
+  --network-bg: #ffffff;
+  --network-surface: #FAFAF7;
+  --network-border: rgba(0, 0, 0, 0.08);
+  --network-border-strong: rgba(0, 0, 0, 0.16);
+  --network-fg: #23272b;
+  --network-fg-muted: #5a5f66;
+  --network-highlight: #C9A227;        /* warm gold, dimmed for AA */
+  --network-dim-opacity: 0.12;
+
+  /* topic colours (light mode) */
+  --topic-sprechen_dialog: #4A7E97;
+  --topic-sprechen_monolog: #5C7C1F;
+  --topic-schreiben: #B16A53;
+  --topic-leseverstehen: #6B8773;
+  --topic-hoerverstehen: #856EA8;
+  --topic-sprachmittlung: #B98A56;
+  --topic-text_medien: #756758;
+}
+
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto {
+    --network-bg: #14161A;
+    --network-surface: #1C1F26;
+    --network-border: rgba(255, 255, 255, 0.08);
+    --network-border-strong: rgba(255, 255, 255, 0.18);
+    --network-fg: #e8e8e8;
+    --network-fg-muted: #9aa0a8;
+    --network-highlight: #F0D060;
+
+    /* topic colours (dark mode — slightly brighter for AA contrast) */
+    --topic-sprechen_dialog: #7FB0CC;
+    --topic-sprechen_monolog: #A7C26B;
+    --topic-schreiben: #E29A82;
+    --topic-leseverstehen: #A4C3B2;
+    --topic-hoerverstehen: #B8A1D9;
+    --topic-sprachmittlung: #E5B98F;
+    --topic-text_medien: #B8A89A;
+  }
+}
+
+body.colorscheme-dark {
+  --network-bg: #14161A;
+  --network-surface: #1C1F26;
+  --network-border: rgba(255, 255, 255, 0.08);
+  --network-border-strong: rgba(255, 255, 255, 0.18);
+  --network-fg: #e8e8e8;
+  --network-fg-muted: #9aa0a8;
+  --network-highlight: #F0D060;
+
+  --topic-sprechen_dialog: #7FB0CC;
+  --topic-sprechen_monolog: #A7C26B;
+  --topic-schreiben: #E29A82;
+  --topic-leseverstehen: #A4C3B2;
+  --topic-hoerverstehen: #B8A1D9;
+  --topic-sprachmittlung: #E5B98F;
+  --topic-text_medien: #B8A89A;
+}
+
+/* ---------- Layout grid ------------------------------------- */
+/* Desktop ≥1024px: search row · [filters | graph] · counter · cards
+   Tablet 768-1023px: search · filter chips · graph · counter · cards
+   Mobile <768px: search · filter chips · counter · cards (no graph) */
+
+.network-page {
+  display: grid;
+  grid-template-rows: auto 1fr auto auto;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+  margin: 0 auto;
+  max-width: 1280px;
+  padding: 0.5rem 1rem 2rem;
+  color: var(--network-fg);
+}
+
+.network-search-row {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  background: var(--network-surface);
+  border: 1px solid var(--network-border);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+}
+.network-search-input {
+  flex: 1;
+  background: transparent;
+  border: 0;
+  color: var(--network-fg);
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: 0.95rem;
+  outline: none;
+  padding: 0.25rem 0.25rem;
+}
+.network-search-input::placeholder { color: var(--network-fg-muted); }
+.network-search-key {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  color: var(--network-fg-muted);
+  border: 1px solid var(--network-border-strong);
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+}
+
+.network-shell {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  grid-template-rows: minmax(480px, 60vh);
+  gap: 1rem;
+}
+
+@media (max-width: 1023px) {
+  .network-shell {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto minmax(360px, 50vh);
+  }
+}
+
+@media (max-width: 767px) {
+  .network-shell {
+    grid-template-rows: auto;
+  }
+  .network-graph-wrap { display: none; }
+}
+
+.network-filters {
+  background: var(--network-surface);
+  border: 1px solid var(--network-border);
+  border-radius: 8px;
+  padding: 1rem 1rem 0.75rem;
+  overflow-y: auto;
+}
+.network-filters h3 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--network-fg-muted);
+  margin: 0 0 0.5rem 0;
+}
+.network-filter-group { margin-bottom: 1.1rem; }
+.network-filter-group:last-child { margin-bottom: 0; }
+.network-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.network-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--network-surface);
+  color: var(--network-fg);
+  border: 1px solid var(--network-border-strong);
+  border-radius: 999px;
+  padding: 0.2rem 0.65rem;
+  font-size: 0.82rem;
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  cursor: pointer;
+  transition: background 0.12s ease-out, border-color 0.12s ease-out;
+}
+.network-chip:hover { border-color: var(--network-highlight); }
+.network-chip[aria-pressed="true"] {
+  background: var(--network-highlight);
+  border-color: var(--network-highlight);
+  color: #1d1f21;
+}
+.network-chip-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  opacity: 0.7;
+}
+.network-chip-swatch {
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  display: inline-block;
+}
+.network-type-glyph {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+  line-height: 1;
+}
+
+/* ---------- Graph area -------------------------------------- */
+.network-graph-wrap {
+  background: var(--network-surface);
+  border: 1px solid var(--network-border);
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+}
+.network-graph-svg { width: 100%; height: 100%; display: block; }
+
+/* skeleton state — concentric ripple while data loads */
+.network-graph-skeleton {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+.network-graph-skeleton::before,
+.network-graph-skeleton::after {
+  content: "";
+  position: absolute;
+  border: 2px solid var(--network-border-strong);
+  border-radius: 50%;
+  animation: network-ripple 2.4s ease-out infinite;
+  opacity: 0;
+}
+.network-graph-skeleton::after { animation-delay: 1.2s; }
+@keyframes network-ripple {
+  0%   { width: 0; height: 0; opacity: 0.55; }
+  80%  { width: 240px; height: 240px; opacity: 0.05; }
+  100% { width: 280px; height: 280px; opacity: 0; }
+}
+
+/* ---------- Counter row ------------------------------------- */
+.network-counter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  color: var(--network-fg-muted);
+  padding: 0.3rem 0.2rem;
+  border-bottom: 1px solid var(--network-border);
+}
+.network-counter-reset {
+  background: transparent;
+  border: 1px solid var(--network-border-strong);
+  color: var(--network-fg);
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: border-color 0.12s ease-out, color 0.12s ease-out;
+}
+.network-counter-reset:hover {
+  border-color: var(--network-highlight);
+  color: var(--network-highlight);
+}
+
+/* ---------- Card grid --------------------------------------- */
+.network-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 0.85rem;
+  margin-top: 0.5rem;
+}
+@media (max-width: 767px) {
+  .network-cards { grid-template-columns: 1fr; }
+}
+.network-card {
+  background: var(--network-surface);
+  border: 1px solid var(--network-border);
+  border-left: 3px solid var(--topic-leseverstehen);
+  border-radius: 8px;
+  padding: 0.9rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  transition: transform 0.12s ease-out, box-shadow 0.12s ease-out, border-color 0.12s ease-out;
+}
+.network-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+.network-card.is-article { grid-column: span 2; }
+@media (max-width: 767px) {
+  .network-card.is-article { grid-column: span 1; }
+}
+.network-card-title {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--network-fg);
+  line-height: 1.3;
+  margin: 0;
+}
+.network-card-meta {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--network-fg-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.network-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+.network-card-tag {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  background: var(--network-bg);
+  color: var(--network-fg-muted);
+  border: 1px solid var(--network-border-strong);
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+}
+.network-card-actions {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+}
+.network-card-actions a {
+  text-decoration: none;
+  color: var(--boulingua-accent, #1a73e8);
+}
+
+/* topic accent on cards */
+.network-card[data-topic="sprechen_dialog"]   { border-left-color: var(--topic-sprechen_dialog); }
+.network-card[data-topic="sprechen_monolog"]  { border-left-color: var(--topic-sprechen_monolog); }
+.network-card[data-topic="schreiben"]         { border-left-color: var(--topic-schreiben); }
+.network-card[data-topic="leseverstehen"]     { border-left-color: var(--topic-leseverstehen); }
+.network-card[data-topic="hoerverstehen"]     { border-left-color: var(--topic-hoerverstehen); }
+.network-card[data-topic="sprachmittlung"]    { border-left-color: var(--topic-sprachmittlung); }
+.network-card[data-topic="text_medien"]       { border-left-color: var(--topic-text_medien); }
+
+/* ---------- Type glyphs (used in graph + filters + cards) --- */
+.glyph-article      { display: inline-block; width: 0.7rem; height: 0.7rem; border-radius: 50%; background: currentColor; }
+.glyph-presentation { display: inline-block; width: 0.7rem; height: 0.7rem; background: currentColor; }
+.glyph-worksheet    { display: inline-block; width: 0.7rem; height: 0.7rem; transform: rotate(45deg); background: currentColor; }
+
+/* ---------- A11y helpers ------------------------------------ */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.network-page *:focus-visible {
+  outline: 2px solid var(--network-highlight);
+  outline-offset: 2px;
+}
+
+/* ---------- Empty state ------------------------------------- */
+.network-empty {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--network-fg-muted);
+}
+.network-empty svg {
+  width: 96px;
+  height: 96px;
+  opacity: 0.5;
+  margin-bottom: 0.8rem;
+}

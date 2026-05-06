@@ -164,3 +164,66 @@ Density 0.88 % of complete graph: sparse enough for cluster layout to do meaning
 - WCAG AA contrast verification of the 7 topic colours (Phase 2 design system task per prompt).
 - `date:` facet (until a content-side policy exists).
 - Visual rendering — graph.json is data only; no DOM yet.
+
+## Phase 2 log — 2026-05-06
+
+### Design system (codified)
+
+**Topic palette** — 7 colours, light + dark variants, scoped to CSS custom properties on `:root` (light) and `body.colorscheme-dark` / `body.colorscheme-auto` under `prefers-color-scheme: dark` (dark/auto). Dark variants are slightly brighter to maintain WCAG AA contrast on the dark surface. Final contrast verification with a checker is queued for Phase 3 once the palette is cleared visually.
+
+| Topic id | Light | Dark | Used by N articles |
+|---|---|---|---|
+| `leseverstehen` | `#6B8773` | `#A4C3B2` | 55 |
+| `sprechen_monolog` | `#5C7C1F` | `#A7C26B` | 31 |
+| `sprechen_dialog` | `#4A7E97` | `#7FB0CC` | 25 |
+| `hoerverstehen` | `#856EA8` | `#B8A1D9` | 18 |
+| `sprachmittlung` | `#B98A56` | `#E5B98F` | 11 |
+| `schreiben` | `#B16A53` | `#E29A82` | 9 |
+| `text_medien` | `#756758` | `#B8A89A` | 5 |
+
+(Colours pulled from the Phase 5 prompt's recommended muted academic register; the 6th and 7th extend the same vein. Saturation deliberately low — closer to museum exhibition than SaaS dashboard, per the prompt.)
+
+**Type glyphs** (consistent across filter chips, graph nodes, and cards):
+- Article — filled circle (●)
+- Presentation — filled square (■)
+- Worksheet — diamond / square rotated 45° (◆)
+
+**Typography:**
+- UI labels, chips, search input, card titles → Source Sans 3 (already loaded site-wide).
+- Counts, metadata, type glyph labels → JetBrains Mono 11–13px.
+- Section headings → site default.
+
+**Layout grid** (CSS Grid, `.network-page > .network-shell`):
+- Desktop ≥ 1024px: 280px filter rail · graph (60vh, min 480px). Counter row + card grid below.
+- Tablet 768–1023px: rail collapses to a horizontal chip row above the graph; graph drops to 50vh.
+- Mobile < 768px: graph hidden via `display: none` (graph DOM and JS will be skipped at runtime in Phase 3 via `window.matchMedia`); only filter chips, counter, and card grid render.
+
+**Motion:**
+- Chip toggle: 120ms `ease-out` background + border transition.
+- Card hover: 120ms 2px lift + `box-shadow`.
+- Graph skeleton: 2.4s `network-ripple` keyframe (concentric ring, 1.2s offset second ring).
+- No bouncy spring physics. Calm and short — research tool aesthetic.
+
+**Empty state:** `.network-empty` block with reduced-opacity SVG icon + suggestion line. Phase 3 will swap in the hand-drawn magnifying-glass sketch.
+
+### Static design mock
+
+Preview page rendered at `/materiel/preview/` (excluded from search via `robotsNoIndex: true`):
+- Full search row with `/` keyboard hint.
+- Filter rail with three populated facet groups (Type, Sujet, Filière & classe), real counts pulled from `graph.json` stats.
+- Static SVG mock of the future graph (7 sample nodes, 8 edges) — clearly labelled "mock — Phase 3 will replace with Cytoscape".
+- Counter row (`468 matériaux affichés (468 au total)` + Reset button, disabled).
+- Sample card grid: 5 cards covering all 3 types and 5 of 7 topics, demonstrating left-border accent colouring per topic.
+- Card grid spans 2 columns for `is-article`, single column for presentation/worksheet — matches the prompt's spec.
+- Light/dark switch tested via Coder's color-scheme toggle: all topic colours and surface tokens swap cleanly.
+
+### Files added in Phase 2
+
+```
+assets/css/network.css                      # palette + layout + motion (293 lines)
+content/materiel/preview/_index.md          # preview page intro
+layouts/materiel/network-preview.html       # static mock template (no JS)
+hugo.toml                                   # customCSS += "css/network.css"
+```
+
+No content edits, no script changes, no dependencies added.

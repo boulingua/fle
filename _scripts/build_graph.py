@@ -63,10 +63,13 @@ TOPIC_ALIAS = {
     "hoerverstehen": "hoerverstehen",
     "hör_hörsehverstehen": "hoerverstehen",
     "sprachmittlung": "sprachmittlung",
-    "wortschatz": "wortschatz",
     "text_medien": "text_medien",
     "textmedienkompetenz": "text_medien",
-    "interkulturelle_kompetenz": "interkulturelle_kompetenz",
+    # `wortschatz` (2 occurrences) and `interkulturelle_kompetenz` (1)
+    # appear only as secondary skills; they are deliberately absent from
+    # data/topics.yml. They are also absent here so that any future article
+    # that puts them as skills_focus[0] trips the bad_topic CI gate loudly
+    # rather than silently emitting a node with an unmapped topic.
 }
 
 FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.DOTALL)
@@ -182,19 +185,23 @@ def collect_articles(topics: dict[str, dict]) -> list[dict]:
         tags = list(fm.get("tags") or [])
         if not tags:
             no_tag.append(md)
-        # resolve topic from skills_focus[0] (first entry wins; multi-skill
-        # units appear under their primary competence). Typos are normalised
-        # via TOPIC_ALIAS, but unknown skills_focus values still fail.
+        # Resolve topic from the first resolvable entry in skills_focus.
+        # Multi-skill units appear under their primary competence. Typos
+        # are normalised via TOPIC_ALIAS. Unrecognised entries are tolerated
+        # as long as at least one entry resolves — secondary skills like
+        # `wortschatz` or `interkulturelle_kompetenz` are intentionally not
+        # registered as topics and should not break the build when they
+        # appear after a valid primary skill.
         skills = list(fm.get("skills_focus") or [])
         topic = None
         for s in skills:
             if s in TOPIC_ALIAS:
                 topic = TOPIC_ALIAS[s]
                 break
-        # if skills_focus is set but none resolve, fail loudly
-        for s in skills:
-            if s not in TOPIC_ALIAS:
-                bad_topic.append((md, s))
+        # Only fail if the article declares skills but none resolve to a
+        # registered topic — that's a real tagging error.
+        if skills and topic is None:
+            bad_topic.append((md, ", ".join(skills)))
         articles.append({
             "path": rel,
             "fm": fm,
@@ -348,6 +355,14 @@ def enforce_post_gates(nodes: list[dict], edges: list[dict],
         fail("CI gate: graph.json has zero edges — the topical layer is "
              "too sparse to form clusters. Check bildungsplan tagging.")
     used_topics = {n["topic"] for n in nodes if n.get("topic")}
+    # Every node-bound topic must exist in data/topics.yml — otherwise the
+    # graph would render that node with no colour or label. Catches the
+    # case where TOPIC_ALIAS maps a skill to an id that is missing from the
+    # registry.
+    unknown = sorted(t for t in used_topics if t not in topics)
+    if unknown:
+        fail("CI gate: node(s) carry topic id not declared in "
+             f"data/topics.yml: {', '.join(unknown)}")
     orphans = sorted(set(topics.keys()) - used_topics)
     if orphans:
         fail("CI gate: topic(s) declared in data/topics.yml but assigned "

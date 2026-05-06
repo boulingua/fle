@@ -12,6 +12,7 @@
 */
 import { createStore } from './store.js';
 import { createGraph } from './graph.js';
+import { mountFilters } from './filters.js';
 
 const SMALL_VIEWPORT = '(max-width: 767px)';
 const GRAPH_JSON_URL = '/fle/network/graph.json';
@@ -68,8 +69,6 @@ async function boot() {
 
   watchTheme(() => graph.applyTheme());
 
-  // Phase 4 will attach: filter rail → store.set({ filteredNodeIds })
-  // Phase 4 will subscribe: store.subscribe(s => graph.applyFilter(...))
   // Phase 5 will attach: search → store.set({ searchQuery })
   // Phase 5 will subscribe: list view re-renders from store
   store.subscribe(s => {
@@ -79,6 +78,12 @@ async function boot() {
       graph.applyFilter(d => s.filteredNodeIds.has(d.id));
     }
   });
+
+  // Phase 4: filter rail.
+  const filterRail = document.querySelector('.network-filters');
+  if (filterRail) {
+    mountFilters({ root: filterRail, data, store });
+  }
 
   // expose for debugging — non-enumerable
   Object.defineProperty(window, '__network', {

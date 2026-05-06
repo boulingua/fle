@@ -41,74 +41,15 @@
 
     <div class="network-shell">
 
+      {{/* Filter rail scaffold; populated by assets/js/network/filters.js
+           on DOMContentLoaded. JS reads graph.json.facets and renders four
+           groups (type / topic / course / tags) with live counts. */}}
       <aside class="network-filters" aria-label="Filtres">
-        <div class="network-filter-group">
-          <h3>Type</h3>
-          <div class="network-chips">
-            <button type="button" class="network-chip" aria-pressed="true" disabled>
-              <span class="glyph-article" style="color: var(--network-fg);"></span>
-              Article <span class="network-chip-count">156</span>
-            </button>
-            <button type="button" class="network-chip" aria-pressed="true" disabled>
-              <span class="glyph-presentation" style="color: var(--network-fg);"></span>
-              Présentation <span class="network-chip-count">156</span>
-            </button>
-            <button type="button" class="network-chip" aria-pressed="true" disabled>
-              <span class="glyph-worksheet" style="color: var(--network-fg);"></span>
-              Fiche <span class="network-chip-count">156</span>
-            </button>
-          </div>
-        </div>
-
-        <div class="network-filter-group">
-          <h3>Sujet</h3>
-          <div class="network-chips">
-            <button type="button" class="network-chip" disabled>
-              <span class="network-chip-swatch" style="background: var(--topic-leseverstehen);"></span>
-              Compréhension écrite <span class="network-chip-count">55</span>
-            </button>
-            <button type="button" class="network-chip" disabled>
-              <span class="network-chip-swatch" style="background: var(--topic-sprechen_monolog);"></span>
-              Production orale <span class="network-chip-count">31</span>
-            </button>
-            <button type="button" class="network-chip" disabled>
-              <span class="network-chip-swatch" style="background: var(--topic-sprechen_dialog);"></span>
-              Interaction orale <span class="network-chip-count">25</span>
-            </button>
-            <button type="button" class="network-chip" disabled>
-              <span class="network-chip-swatch" style="background: var(--topic-hoerverstehen);"></span>
-              Compréhension orale <span class="network-chip-count">18</span>
-            </button>
-            <button type="button" class="network-chip" disabled>
-              <span class="network-chip-swatch" style="background: var(--topic-sprachmittlung);"></span>
-              Médiation <span class="network-chip-count">11</span>
-            </button>
-            <button type="button" class="network-chip" disabled>
-              <span class="network-chip-swatch" style="background: var(--topic-schreiben);"></span>
-              Production écrite <span class="network-chip-count">9</span>
-            </button>
-            <button type="button" class="network-chip" disabled>
-              <span class="network-chip-swatch" style="background: var(--topic-text_medien);"></span>
-              Texte / médias <span class="network-chip-count">5</span>
-            </button>
-          </div>
-        </div>
-
-        <div class="network-filter-group">
-          <h3>Filière &amp; classe</h3>
-          <div class="network-chips">
-            <button type="button" class="network-chip" disabled>Parcours E (lycée)</button>
-            <button type="button" class="network-chip" disabled>Parcours GM (collège)</button>
-            <button type="button" class="network-chip" disabled>Classe 6</button>
-            <button type="button" class="network-chip" disabled>Classe 7</button>
-            <button type="button" class="network-chip" disabled>Classe 8</button>
-            <button type="button" class="network-chip" disabled>…</button>
-          </div>
-        </div>
-
-        <p style="font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--network-fg-muted); margin-top: 0.6rem;">
-          Filtres interactifs en Phase 4.
-        </p>
+        <noscript>
+          <p>Cette page de découverte nécessite JavaScript pour les filtres
+          interactifs et le graphe. Toutes les unités restent accessibles
+          via le menu « Matériel ».</p>
+        </noscript>
       </aside>
 
       <div class="network-graph-wrap" role="figure"
@@ -120,10 +61,7 @@
     </div>
 
     <div class="network-counter">
-      <span><strong>468</strong> matériaux affichés (468 au total)</span>
-      <button type="button" class="network-counter-reset" aria-disabled="true" disabled>
-        Réinitialiser les filtres
-      </button>
+      <span id="network-counter-text"><strong>468</strong> matériaux affichés</span>
     </div>
   </main>
 </section>

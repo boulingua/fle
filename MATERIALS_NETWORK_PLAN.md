@@ -287,8 +287,70 @@ layouts/materiel/network-preview.html   # rewritten — replaces SVG mock with r
 
 ### Deferred to Phase 4+
 
-- Filter rail interactivity (chips currently render but are `disabled`).
+- ~~Filter rail interactivity~~ → Phase 4 (below).
 - Card grid below the graph (currently absent — was in the static mock; will return in Phase 5 with bidirectional graph↔list sync).
 - WCAG AA contrast verification of the 7 topic colours with a checker (Phase 6 a11y pass).
 - Real Lighthouse + axe-core measurements (Phase 6).
 - Subresource-integrity hashes for the Cytoscape / fcose CDN scripts (currently no SRI; Phase 6 hardening).
+
+## Phase 4 log — 2026-05-06
+
+### Filter rail (live on `/materiel/preview/`)
+
+`assets/js/network/filters.js` mounts a four-facet rail into the existing `<aside class="network-filters">` scaffold and dims non-matching nodes in the graph by calling `store.set({ filteredNodeIds })` on every chip toggle. The graph subscription was wired in Phase 3, so this is just attaching producers.
+
+### Facets shipped
+
+| Facet | Source | UI |
+|---|---|---|
+| `type` | 3 values (article / presentation / worksheet) | chips with type glyphs (●/■/◆) |
+| `topic` | 7 values from `data/topics.yml` | chips with topic-coloured swatches |
+| `course` | 13 tracks (e_kl06–13, gm_kl06–10) | chips, "E · Classe 6" style |
+| `tags` | 12 values from `^tags:` frontmatter | plain chips, sorted by count |
+
+The Phase 5 prompt's `date_range` facet is still deferred (no `date:` field on any unit). Tag count is below the 30-tag threshold, so no top-15 collapse is needed yet.
+
+### Filter logic
+
+- Within a facet: **OR** (selecting Klasse 7 + Klasse 8 yields union).
+- Across facets: **AND** (Klasse 7 *and* topic=leseverstehen → intersection).
+- A node passes iff it satisfies every active facet. `mountFilters()` returns a `Set<id>` (or `null` when no facet has any selection) and pushes it through `store.set({ filteredNodeIds })`. The graph subscription dims non-matchers.
+
+### Live counts (cross-facet)
+
+For every chip in facet F, the displayed count is `|{nodes passing every facet ≠ F} ∩ {nodes in this chip}|`. So selecting `topic=leseverstehen` shrinks the counts on `course` chips to reflect *only those courses with a leseverstehen node*, but leaves `topic` chip counts unchanged (a chip never filters its own facet). Standard facet-search semantics. Implemented as O(N) intersections over pre-built node-id sets per facet value.
+
+### URL state
+
+Schema mirrors the prompt: `?type=...&topic=...&course=...&tags=...` (comma-separated, multi-select). On load, `readUrl()` parses it into the same `selections` object that chip clicks mutate; on every change, `writeUrl()` round-trips via `history.replaceState`. Bookmarkable; reload-stable; no `Back/Forward` history pollution.
+
+### Reset
+
+A `Réinitialiser` button at the bottom of the rail clears every facet selection in one click and triggers a `publish()` cycle.
+
+### Counter
+
+`<span id="network-counter-text">` updates after every change to either `468 matériaux affichés` (no filter) or `<n> matériaux affichés (sur 468)` (filter active).
+
+### Files added in Phase 4
+
+```
+assets/js/network/filters.js       # ~280 lines — rail + URL state + counts
+```
+
+Files modified: `main.js` (calls `mountFilters`), `layouts/materiel/network-preview.html` (replaces static disabled chips with a clean `<aside>` scaffold + counter span; adds `<noscript>` notice).
+
+### Bundle size
+
+| | Phase 3 | Phase 4 |
+|---|---|---|
+| Our JS (raw) | 4 KB | 9 KB |
+| Our JS (gz, est.) | 1.5 KB | 3 KB |
+
+Still well under the 90 KB budget for our code.
+
+### Deferred to Phase 5
+
+- Pagefind full-text search wired into the search input.
+- Card grid below the graph re-rendering from the filtered set, with hover↔node bidirectional sync.
+- `/` key shortcut to focus search; `Esc` to clear.

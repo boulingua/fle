@@ -137,6 +137,30 @@ jobs:
       - name: Verify VG Wort pixels (1:1 manifest <-> public/)
         run: bash scripts/verify-vgwort.sh vgwort-manifest.csv public
 
+      # Restored from the qmd-era publish.yml: hard-fail if any legal page
+      # contains a placeholder string (TODO, [NAME], Lorem ipsum, ...).
+      - name: Legal-page placeholder gate
+        run: bash scripts/check_legal_placeholders.sh public
+
+      # Defense-in-depth: every article page must carry the author name
+      # somewhere in the rendered HTML. Coder theme + footer partial emit
+      # it via Site.Params.author; this gate catches regressions.
+      - name: Author attribution gate
+        run: bash scripts/check_author_attribution.sh public
+
+      # Audit /Author metadata on every PDF under static/ (worksheets,
+      # exam PDFs if produced). Decoupled from the non-blocking exam-
+      # render step so failures here always block deploy.
+      - name: PDF author attribution audit
+        run: python scripts/check_pdf_attribution.py
+
+      # FLE BW only: every bildungsplan: entry in unit frontmatter must
+      # be rooted in a top-level code declared by
+      # _resources/bildungsplan_bw_franzoesisch.yml; the canonical source
+      # URLs must still resolve.
+      - name: Bildungsplan BW reference gate
+        run: python scripts/check_bildungsplan_refs.py
+
       # ── Pagefind index (Phase 5 of materials network).
       # Scans the built HTML under public/ and writes public/pagefind/.
       # Runtime served as static assets alongside everything else.

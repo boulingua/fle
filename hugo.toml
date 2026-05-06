@@ -161,7 +161,7 @@ enableEmoji = false
 # right of the navbar (margin-left:auto on the first end-aligned item).
 [[menu.main]]
   identifier = "legal"
-  name = "Mentions légales"
+  name = "Impressum"
   weight = 99
   url = "/impressum/"
   [menu.main.params]

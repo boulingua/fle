@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-9
   - niveau-e
+aliases:
+  - "/track_e_kl09/units/unit01_le-monde-du-travail-e.html"
 ---
 
 {{< callout type="note" >}}

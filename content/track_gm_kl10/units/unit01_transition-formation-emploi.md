@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-10
   - niveau-m
+aliases:
+  - "/track_gm_kl10/units/unit01_transition-formation-emploi.html"
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,8 @@ tags:
   - filiere-gm
   - classe-6
   - niveau-m
+aliases:
+  - "/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas.html"
 ---
 
 {{< callout type="note" >}}

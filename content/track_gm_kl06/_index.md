@@ -1,6 +1,8 @@
 ---
 title: "Classe 6 — Niveau G+M (première année de FLE)"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28b4d1dde71e4d269a4f381c8679b5d9"
+aliases:
+  - "/track_gm_kl06/index.html"
 ---
 
 <div class="hero-kicker">

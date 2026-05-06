@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-9
   - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit09_internet-et-vie-privee.html"
 ---
 
 {{< callout type="note" >}}

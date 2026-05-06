@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-7
   - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit10_musique-et-chanson-e.html"
 ---
 
 {{< callout type="note" >}}

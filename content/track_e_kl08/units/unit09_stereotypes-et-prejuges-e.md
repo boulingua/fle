@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-8
   - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit09_stereotypes-et-prejuges-e.html"
 ---
 
 {{< callout type="note" >}}

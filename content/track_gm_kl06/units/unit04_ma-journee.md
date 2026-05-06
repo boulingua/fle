@@ -24,6 +24,8 @@ tags:
   - filiere-gm
   - classe-6
   - niveau-m
+aliases:
+  - "/track_gm_kl06/units/unit04_ma-journee.html"
 ---
 
 {{< callout type="note" >}}

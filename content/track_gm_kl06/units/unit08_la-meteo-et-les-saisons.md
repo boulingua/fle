@@ -22,6 +22,8 @@ tags:
   - filiere-gm
   - classe-6
   - niveau-m
+aliases:
+  - "/track_gm_kl06/units/unit08_la-meteo-et-les-saisons.html"
 ---
 
 {{< callout type="note" >}}

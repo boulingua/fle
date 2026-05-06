@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-10
   - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit07_engagement-citoyen-e.html"
 ---
 
 {{< callout type="note" >}}

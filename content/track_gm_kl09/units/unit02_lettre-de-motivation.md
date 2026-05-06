@@ -21,6 +21,8 @@ tags:
   - filiere-gm
   - classe-9
   - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit02_lettre-de-motivation.html"
 ---
 
 {{< callout type="note" >}}

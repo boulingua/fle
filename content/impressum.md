@@ -1,7 +1,9 @@
 ---
 title: "Impressum"
 aliases:
+  - "/impressum.html"
   - /legal/impressum/
+  - "/LEGAL.html"
 ---
 
 ## Angaben gemäß § 5 DDG

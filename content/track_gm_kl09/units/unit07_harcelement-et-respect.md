@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-9
   - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit07_harcelement-et-respect.html"
 ---
 
 {{< callout type="note" >}}

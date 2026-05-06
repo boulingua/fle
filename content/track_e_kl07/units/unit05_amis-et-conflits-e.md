@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-7
   - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit05_amis-et-conflits-e.html"
 ---
 
 {{< callout type="note" >}}

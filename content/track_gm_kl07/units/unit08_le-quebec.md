@@ -24,6 +24,8 @@ tags:
   - filiere-gm
   - classe-7
   - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit08_le-quebec.html"
 ---
 
 {{< callout type="note" >}}

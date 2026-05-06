@@ -21,6 +21,8 @@ tags:
   - filiere-e
   - classe-13
   - niveau-e
+aliases:
+  - "/track_e_kl13/units/unit03_essai-personnel.html"
 ---
 
 {{< callout type="note" >}}

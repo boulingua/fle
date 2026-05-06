@@ -21,6 +21,8 @@ tags:
   - filiere-e
   - classe-12
   - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit05_mediation-fr-de.html"
 ---
 
 {{< callout type="note" >}}

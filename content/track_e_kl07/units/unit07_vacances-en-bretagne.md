@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-7
   - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit07_vacances-en-bretagne.html"
 ---
 
 {{< callout type="note" >}}

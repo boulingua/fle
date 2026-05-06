@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-10
   - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e.html"
 ---
 
 {{< callout type="note" >}}

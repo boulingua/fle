@@ -1,6 +1,8 @@
 ---
 title: "Classe 13 — Niveau E"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26fddee2be7b4ffba26dc95ea73c7714"
+aliases:
+  - "/track_e_kl13/index.html"
 ---
 
 <div class="hero-kicker">

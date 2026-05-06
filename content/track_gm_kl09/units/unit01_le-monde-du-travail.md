@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-9
   - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit01_le-monde-du-travail.html"
 ---
 
 {{< callout type="note" >}}

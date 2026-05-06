@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-11
   - niveau-e
+aliases:
+  - "/track_e_kl11/units/unit03_presse-d-opinion.html"
 ---
 
 {{< callout type="note" >}}

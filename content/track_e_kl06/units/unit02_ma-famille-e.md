@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-6
   - niveau-e
+aliases:
+  - "/track_e_kl06/units/unit02_ma-famille-e.html"
 ---
 
 {{< callout type="note" >}}

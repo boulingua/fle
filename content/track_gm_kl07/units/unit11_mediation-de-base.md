@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-7
   - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit11_mediation-de-base.html"
 ---
 
 {{< callout type="note" >}}

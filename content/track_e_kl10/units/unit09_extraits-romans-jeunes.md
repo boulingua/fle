@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-10
   - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit09_extraits-romans-jeunes.html"
 ---
 
 {{< callout type="note" >}}

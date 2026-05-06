@@ -1,6 +1,8 @@
 ---
 title: "Stratégies d'apprentissage"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1b41d7a1f6a749c2a153a60424987b2b"
+aliases:
+  - "/annexes/strategies.html"
 ---
 
 <div class="hero-kicker">

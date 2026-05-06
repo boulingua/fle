@@ -1,6 +1,8 @@
 ---
 title: "classe 10 — Plan hebdomadaire"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22870f6691ab48a6abd011f035d73b10"
+aliases:
+  - "/track_e_kl10/uebersicht.html"
 ---
 
 {{< callout type="note" >}}

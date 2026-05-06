@@ -1,6 +1,8 @@
 ---
 title: "classe 9 — Plan hebdomadaire"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d8d7a317d2f44129bbc5887321ec267"
+aliases:
+  - "/track_gm_kl09/uebersicht.html"
 ---
 
 {{< callout type="note" >}}

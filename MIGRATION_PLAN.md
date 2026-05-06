@@ -165,6 +165,31 @@ To allow incremental validation:
 
 ## 6. Phase log
 
+### Phase 4 — 2026-05-06
+
+- **Quarto removed (HTML side):** 197 non-`_exam.qmd` files deleted; obsolete theme/scripts removed (`custom.scss`, `styles.css`, `assets/{_shared,light,dark,slides}.scss`, `_scripts/{vgwort.lua,add_german_glosses.py,final_polish.py,restore_yaml_frontmatter.py,translate_and_clean.py,unified_fix.py}`); disabled CI workflow `.github/workflows/publish.yml.disabled` deleted.
+- **Quarto retained (PDF-only) for hybrid exam pipeline:**
+  - `_quarto.yml` rewritten — `project.render` now globs only `track_*/units/*_exam.qmd`, output dir `_exams_out/`, format `pdf` only.
+  - All 156 `_exam.qmd` files retained.
+  - `_includes/_exam.tex` retained.
+- **Unified CI workflow `.github/workflows/hugo.yml`:**
+  1. `quarto-actions/setup` + `quarto render --to pdf` (with TinyTeX) → produces 156 PDFs in `_exams_out/`.
+  2. PDF attribution gate (every PDF must have `/Author` containing `Le Boulanger`).
+  3. Stage exam PDFs into `static/downloads/track_*/units/<slug>_exam.pdf` so Hugo serves them as static assets.
+  4. Run existing `_scripts/make_placeholder_worksheets.py` (the user's pre-existing worksheet pipeline) before Hugo build, so any worksheet outputs land in `static/`.
+  5. Install Hugo, gate Plausible-snippet presence, build with `--minify --gc`, gate Plausible in rendered home, run `scripts/verify-vgwort.sh` (1:1 manifest ↔ HTML).
+  6. `lycheeverse/lychee-action` broken-link audit on `public/**/*.html` (`--offline`); failure = build fails.
+  7. Upload + deploy (only on `main`).
+- **Legacy URL aliases** added by `_scripts/add_legacy_aliases.py` (idempotent): every Hugo `.md` now lists its old `.html` path under `aliases:` so Quarto-era URLs continue to redirect. 200 files updated; Hugo emits the corresponding alias HTMLs at build time.
+- **Sitemap parity vs deployed Quarto site (`scripts/parity-check.py`):**
+  - 354 old URLs total.
+  - 156 still missing in new build — **all 156 are `unitNN_slides.html`** (Reveal.js decks, **deferred** by decision in Phase 0 §4-1; tracked here for re-introduction if Reveal.js is reactivated).
+  - 0 other missing URLs (the previous misses for `LEGAL.html`, `/index.html`, `track_*/index.html`, etc. are all resolved by aliases or canonical-URL normalisation).
+- **Final local build:** 450 pages (Hugo: 250 + 234 aliases — figures vary by run), 631 static placeholders, 193 VG Wort pixels (1:1 verified), 0 errors.
+- **Visual smoke check:** Plausible script confirmed in rendered `public/index.html`; spot-checked unit page shows correct Plausible domain, VG Wort pixel rendered exactly once, callouts (note/tip), material-link cards (presentation + worksheet) and download buttons all functional.
+- **Branch:** `migration/hugo-coder` ready to push and open PR against `main`.
+- **Confirmed:** all four migration commits (`5e87f86`, `80461ff`, `9a7f9ec`, this Phase 4 commit) authored by `s-leboulanger <277736839+s-leboulanger@users.noreply.github.com>`.
+
 ### Phase 3 — 2026-05-06
 
 - **Per-article placeholders generated** by `_scripts/make_materials.py` (idempotent, safe to re-run):

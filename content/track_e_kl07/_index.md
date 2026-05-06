@@ -1,6 +1,8 @@
 ---
 title: "Classe 7 — Niveau E"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1d5ad4f111e2453aa8da00cf4da53d0e"
+aliases:
+  - "/track_e_kl07/index.html"
 ---
 
 <div class="hero-kicker">

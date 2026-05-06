@@ -2,6 +2,7 @@
 title: "Haftungsausschluss"
 aliases:
   - /legal/disclaimer/
+  - "/haftungsausschluss.html"
   - /disclaimer/
 ---
 

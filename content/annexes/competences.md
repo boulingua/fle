@@ -1,6 +1,8 @@
 ---
 title: "Arbre des compétences"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1b1c45416a584feb93e44e2a767feb7c"
+aliases:
+  - "/annexes/competences.html"
 ---
 
 <div class="hero-kicker">

@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-10
   - niveau-m
+aliases:
+  - "/track_gm_kl10/units/unit10_mobilite-erasmus-jeune.html"
 ---
 
 {{< callout type="note" >}}

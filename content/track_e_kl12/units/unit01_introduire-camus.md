@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-12
   - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit01_introduire-camus.html"
 ---
 
 {{< callout type="note" >}}

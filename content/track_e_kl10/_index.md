@@ -1,6 +1,8 @@
 ---
 title: "Classe 10 — Niveau E"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22785e759724430483fb09ae3909f5e9"
+aliases:
+  - "/track_e_kl10/index.html"
 ---
 
 <div class="hero-kicker">

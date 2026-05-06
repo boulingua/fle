@@ -21,6 +21,8 @@ tags:
   - filiere-e
   - classe-6
   - niveau-e
+aliases:
+  - "/track_e_kl06/units/unit01_salutations-et-prenoms-e.html"
 ---
 
 {{< callout type="note" >}}

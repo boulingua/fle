@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-13
   - niveau-e
+aliases:
+  - "/track_e_kl13/units/unit08_discussion-sur-stimulus.html"
 ---
 
 {{< callout type="note" >}}

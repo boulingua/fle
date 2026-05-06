@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-10
   - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit11_preparer-un-discours-e.html"
 ---
 
 {{< callout type="note" >}}

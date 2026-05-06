@@ -1,6 +1,8 @@
 ---
 title: "Matériel"
 subtitle: "Présentations et fiches d'exercices à télécharger"
+aliases:
+  - "/materiel/index.html"
 ---
 
 Toutes les unités du curriculum FLE ont un **diaporama de présentation** (.pptx) et une **fiche d'exercices** (.pdf) à télécharger.

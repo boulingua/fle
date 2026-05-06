@@ -24,6 +24,8 @@ tags:
   - filiere-gm
   - classe-8
   - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit08_un-allemand-a-paris.html"
 ---
 
 {{< callout type="note" >}}

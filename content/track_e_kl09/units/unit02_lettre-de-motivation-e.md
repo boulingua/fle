@@ -21,6 +21,8 @@ tags:
   - filiere-e
   - classe-9
   - niveau-e
+aliases:
+  - "/track_e_kl09/units/unit02_lettre-de-motivation-e.html"
 ---
 
 {{< callout type="note" >}}

@@ -1,108 +1,29 @@
+# Slim PDF-only Quarto config.
+#
+# After the Hugo migration, this repo's HTML is rendered by Hugo (see hugo.toml).
+# Quarto remains in use for one purpose only: rendering the 156 *_exam.qmd
+# files (devoir surveillé / épreuve finale) into PDF, since LaTeX-based PDF
+# typesetting is outside Hugo's scope.
+#
+# CI runs `quarto render --to pdf` against the project root and copies the
+# resulting PDFs into `static/downloads/<track>/<unit>_exam.pdf` so Hugo can
+# serve them as static files.
+
 project:
-  type: website
-  output-dir: docs
-
-website:
-  title: "FLE — S. Le Boulanger"
-  description: "Curriculum FLE bilingue pour l'enseignement secondaire, classes 6 à 13, aligné sur un référentiel régional."
-  site-url: "https://boulingua.github.io/fle/"
-  repo-url: "https://github.com/boulingua/fle"
-  navbar:
-    title: "FLE"
-    left:
-      - href: index.qmd
-        text: "Accueil"
-      - href: a_propos.qmd
-        text: "À propos"
-      - href: bildungsplan.qmd
-        text: "Référentiel"
-      - href: programme.qmd
-        text: "Programme"
-      - href: references.qmd
-        text: "Références"
-      - text: "Filière G+M (cl. 6–10)"
-        menu:
-          - href: track_gm_kl06/index.qmd
-            text: "Classe 6"
-          - href: track_gm_kl07/index.qmd
-            text: "Classe 7"
-          - href: track_gm_kl08/index.qmd
-            text: "Classe 8"
-          - href: track_gm_kl09/index.qmd
-            text: "Classe 9"
-          - href: track_gm_kl10/index.qmd
-            text: "Classe 10"
-      - text: "Filière E (cl. 6–13)"
-        menu:
-          - href: track_e_kl06/index.qmd
-            text: "Classe 6"
-          - href: track_e_kl07/index.qmd
-            text: "Classe 7"
-          - href: track_e_kl08/index.qmd
-            text: "Classe 8"
-          - href: track_e_kl09/index.qmd
-            text: "Classe 9"
-          - href: track_e_kl10/index.qmd
-            text: "Classe 10"
-          - href: track_e_kl11/index.qmd
-            text: "Classe 11"
-          - href: track_e_kl12/index.qmd
-            text: "Classe 12"
-          - href: track_e_kl13/index.qmd
-            text: "Classe 13"
-    right:
-      - text: "Mentions légales"
-        menu:
-          - href: impressum.qmd
-            text: "Impressum"
-          - href: datenschutz.qmd
-            text: "Protection des données"
-          - href: haftungsausschluss.qmd
-            text: "Avertissement"
-      - icon: github
-        href: https://github.com/boulingua/fle
-  page-navigation: true
-  page-footer:
-    left: "FLE · © S. Le Boulanger · MIT / CC-BY-SA 4.0"
-    center: |
-      [Accueil](/index.qmd) · [Programme](/programme.qmd) ·
-      [Référentiel](/bildungsplan.qmd) ·
-      [Stratégies d'apprentissage](/annexes/strategies.qmd) ·
-      [Arbre des compétences](/annexes/competences.qmd) ·
-      [Glossaire](/annexes/glossaire.qmd) ·
-      [Erreurs typiques](/annexes/erreurs_typiques.qmd) ·
-      [Grille d'évaluation](/annexes/grille_evaluation.qmd) ·
-      [Bibliographie](/bibliographie.qmd) ·
-      [Remerciements](/remerciements.qmd) ·
-      [EFL](https://boulingua.github.io/efl/) ·
-      [DaF](https://boulingua.github.io/daf/) ·
-      [Ressources](https://boulingua.github.io/ressources/) ·
-      **[Impressum](/impressum.qmd)** ·
-      **[Protection des données](/datenschutz.qmd)** ·
-      **[Avertissement](/haftungsausschluss.qmd)** ·
-      [Contact](mailto:277736839+s-leboulanger@users.noreply.github.com)
-    right: "Construit avec [Quarto](https://quarto.org)"
-
-filters:
-  - _scripts/vgwort.lua
+  type: default
+  render:
+    - "track_*/units/*_exam.qmd"
+  output-dir: _exams_out
 
 format:
-  html:
-    theme:
-      light: [flatly, assets/light.scss]
-      dark:  [darkly, assets/dark.scss]
-    toc: true
-    toc-depth: 3
-    toc-location: right
-    link-external-newwindow: true
-    include-in-header:
-      - text: |
-          <link rel="preconnect" href="https://fonts.googleapis.com">
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-          <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-          <script defer data-domain="boulingua.github.io/fle" src="https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js"></script>
-          <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=25mm]
+    include-in-header: _includes/_exam.tex
+    number-sections: false
+    toc: false
 
-editor: source
-
+author: "S. Le Boulanger"
 lang: fr

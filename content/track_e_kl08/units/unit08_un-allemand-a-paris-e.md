@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-8
   - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit08_un-allemand-a-paris-e.html"
 ---
 
 {{< callout type="note" >}}

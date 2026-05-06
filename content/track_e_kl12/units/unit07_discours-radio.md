@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-12
   - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit07_discours-radio.html"
 ---
 
 {{< callout type="note" >}}

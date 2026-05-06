@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-11
   - niveau-e
+aliases:
+  - "/track_e_kl11/units/unit09_histoire-et-memoire.html"
 ---
 
 {{< callout type="note" >}}

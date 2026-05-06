@@ -24,6 +24,8 @@ tags:
   - filiere-gm
   - classe-8
   - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit01_correspondance-avec-montreal.html"
 ---
 
 {{< callout type="note" >}}

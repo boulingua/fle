@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-10
   - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit04_francophonie-aujourd-hui-e.html"
 ---
 
 {{< callout type="note" >}}

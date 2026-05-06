@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-9
   - niveau-e
+aliases:
+  - "/track_e_kl09/units/unit07_harcelement-et-respect-e.html"
 ---
 
 {{< callout type="note" >}}

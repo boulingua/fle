@@ -21,6 +21,8 @@ tags:
   - filiere-e
   - classe-10
   - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit06_mediation-avancee-e.html"
 ---
 
 {{< callout type="note" >}}

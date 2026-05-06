@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-6
   - niveau-e
+aliases:
+  - "/track_e_kl06/units/unit07_le-temps-et-l-heure-e.html"
 ---
 
 {{< callout type="note" >}}

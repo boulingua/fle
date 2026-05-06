@@ -2,6 +2,7 @@
 title: "Datenschutzerklärung"
 aliases:
   - /legal/privacy/
+  - "/datenschutz.html"
   - /privacy/
 ---
 

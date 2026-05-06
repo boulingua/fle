@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-9
   - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit08_differences-culturelles.html"
 ---
 
 {{< callout type="note" >}}

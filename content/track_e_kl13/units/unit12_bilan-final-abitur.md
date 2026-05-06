@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-13
   - niveau-e
+aliases:
+  - "/track_e_kl13/units/unit12_bilan-final-abitur.html"
 ---
 
 {{< callout type="note" >}}

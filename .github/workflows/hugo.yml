@@ -1,4 +1,4 @@
-name: Build and deploy (Hugo)
+name: Build and deploy
 
 on:
   push:
@@ -26,6 +26,56 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      # ── Quarto: render only the 156 *_exam.qmd files to PDF ─────
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - name: Render exam PDFs
+        run: quarto render --to pdf
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps
+        run: pip install pyyaml reportlab pypdf python-pptx pillow
+
+      - name: Verify exam PDFs are S. Le Boulanger-attributed
+        run: |
+          python - <<'PY'
+          import sys, pathlib
+          from pypdf import PdfReader
+          out = pathlib.Path('_exams_out')
+          pdfs = list(out.rglob('*_exam.pdf')) if out.exists() else []
+          if not pdfs:
+              print('No exam PDFs produced — failing.', file=sys.stderr); sys.exit(1)
+          bad = []
+          for p in pdfs:
+              author = (PdfReader(str(p)).metadata or {}).get('/Author', '') or ''
+              if 'Le Boulanger' not in author:
+                  bad.append(str(p))
+          if bad:
+              print('MISSING ATTRIBUTION:', *bad, sep='\n  '); sys.exit(1)
+          print(f'All {len(pdfs)} exam PDFs attributed to S. Le Boulanger.')
+          PY
+
+      - name: Stage exam PDFs into static/downloads/
+        run: |
+          mkdir -p static/downloads
+          # Mirror the source layout: track_*/units/<slug>_exam.pdf
+          rsync -a --include='*/' --include='*_exam.pdf' --exclude='*' \
+            _exams_out/ static/downloads/
+
+      - name: Generate worksheet placeholders (existing pipeline)
+        run: |
+          if [ -f _scripts/make_placeholder_worksheets.py ]; then
+            python _scripts/make_placeholder_worksheets.py
+          else
+            echo "make_placeholder_worksheets.py not present — skipping."
+          fi
+
+      # ── Hugo build ───────────────────────────────────────────────
       - name: Install Hugo
         run: |
           wget -q -O /tmp/hugo.deb \
@@ -34,31 +84,29 @@ jobs:
 
       - name: Verify Plausible snippet present in head partial
         run: |
-          if ! grep -q 'data-domain="boulingua.github.io/fle"' layouts/_partials/head/extensions.html; then
-            echo "::error::Plausible domain attribute missing from layouts/_partials/head/extensions.html"
-            exit 1
-          fi
+          grep -q 'data-domain="boulingua.github.io/fle"' \
+            layouts/_partials/head/extensions.html
+
+      - uses: actions/configure-pages@v5
+        id: pages
 
       - name: Hugo build
         run: hugo --minify --gc --baseURL "${{ steps.pages.outputs.base_url || 'https://boulingua.github.io/fle/' }}"
 
-      - name: Verify Plausible snippet rendered into homepage
-        run: |
-          if ! grep -q 'data-domain="boulingua.github.io/fle"' public/index.html; then
-            echo "::error::Plausible script not present in rendered public/index.html"
-            exit 1
-          fi
+      - name: Verify Plausible snippet in rendered home page
+        run: grep -q 'data-domain="boulingua.github.io/fle"' public/index.html
 
-      - name: Verify VG Wort pixels (skipped until manifest exists)
-        run: |
-          if [ -f vgwort-manifest.csv ] && [ -f scripts/verify-vgwort.sh ]; then
-            bash scripts/verify-vgwort.sh
-          else
-            echo "VG Wort manifest / verifier not yet present — gate deferred to content phase."
-          fi
+      - name: Verify VG Wort pixels (1:1 manifest <-> public/)
+        run: bash scripts/verify-vgwort.sh vgwort-manifest.csv public
 
-      - uses: actions/configure-pages@v5
-        id: pages
+      - name: Broken-link check (lychee)
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: >-
+            --no-progress --offline --include-fragments
+            --base public public/**/*.html
+          fail: true
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public

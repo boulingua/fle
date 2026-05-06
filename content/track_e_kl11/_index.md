@@ -1,6 +1,8 @@
 ---
 title: "Classe 11 — Niveau E"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23b158a72df54f0684c5b2380c43a8e9"
+aliases:
+  - "/track_e_kl11/index.html"
 ---
 
 <div class="hero-kicker">

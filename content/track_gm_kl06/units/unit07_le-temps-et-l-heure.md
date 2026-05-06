@@ -24,6 +24,8 @@ tags:
   - filiere-gm
   - classe-6
   - niveau-m
+aliases:
+  - "/track_gm_kl06/units/unit07_le-temps-et-l-heure.html"
 ---
 
 {{< callout type="note" >}}

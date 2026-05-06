@@ -24,6 +24,8 @@ tags:
   - filiere-gm
   - classe-8
   - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre.html"
 ---
 
 {{< callout type="note" >}}

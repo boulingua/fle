@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-7
   - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit09_fete-d-anniversaire.html"
 ---
 
 {{< callout type="note" >}}

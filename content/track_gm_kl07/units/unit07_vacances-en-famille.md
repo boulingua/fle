@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-7
   - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit07_vacances-en-famille.html"
 ---
 
 {{< callout type="note" >}}

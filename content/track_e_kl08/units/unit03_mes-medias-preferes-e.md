@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-8
   - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit03_mes-medias-preferes-e.html"
 ---
 
 {{< callout type="note" >}}

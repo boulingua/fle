@@ -23,6 +23,8 @@ tags:
   - filiere-gm
   - classe-8
   - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit02_mes-medias-preferes.html"
 ---
 
 {{< callout type="note" >}}

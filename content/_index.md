@@ -1,5 +1,7 @@
 ---
 title: "Français pour l'enseignement secondaire, classes 6 à 13"
+aliases:
+  - "/index.html"
 ---
 
 <div class="hero-kicker">

@@ -21,6 +21,8 @@ tags:
   - filiere-gm
   - classe-10
   - niveau-m
+aliases:
+  - "/track_gm_kl10/units/unit06_mediation-avancee.html"
 ---
 
 {{< callout type="note" >}}

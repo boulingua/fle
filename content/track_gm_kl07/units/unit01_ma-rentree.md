@@ -22,6 +22,8 @@ tags:
   - filiere-gm
   - classe-7
   - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit01_ma-rentree.html"
 ---
 
 {{< callout type="note" >}}

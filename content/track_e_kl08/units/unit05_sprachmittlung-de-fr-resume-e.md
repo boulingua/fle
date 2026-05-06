@@ -21,6 +21,8 @@ tags:
   - filiere-e
   - classe-8
   - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e.html"
 ---
 
 {{< callout type="note" >}}

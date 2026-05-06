@@ -24,6 +24,8 @@ tags:
   - filiere-gm
   - classe-7
   - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit02_raconter-le-week-end.html"
 ---
 
 {{< callout type="note" >}}

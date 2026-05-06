@@ -23,6 +23,8 @@ tags:
   - filiere-e
   - classe-9
   - niveau-e
+aliases:
+  - "/track_e_kl09/units/unit11_francais-au-travail-e.html"
 ---
 
 {{< callout type="note" >}}

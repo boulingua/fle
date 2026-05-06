@@ -34,6 +34,14 @@ body.colorscheme-dark {
   letter-spacing: 0.02em;
 }
 
+.navigation-repo {
+  margin-left: auto;
+}
+
+.navigation-repo .navigation-link {
+  font-size: 1.1rem;
+}
+
 /* ── Hero kicker (small caps eyebrow) ───────────── */
 .hero-kicker {
   font-size: 0.85rem;

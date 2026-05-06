@@ -29,6 +29,7 @@ enableEmoji = false
   since = 2025
   colorScheme = "auto"
   customCSS = ["css/custom.css"]
+  repoURL = "https://github.com/boulingua/fle"
 
 [[params.social]]
   name = "GitHub"

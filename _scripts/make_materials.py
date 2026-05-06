@@ -102,6 +102,75 @@ def make_pdf(out: pathlib.Path, title: str, subtitle: str) -> None:
     doc.build(story)
 
 
+def render_pdf_first_page(pdf: pathlib.Path, png: pathlib.Path,
+                          width: int = 480) -> bool:
+    """Render page 1 of `pdf` to `png`. Pure-Python via pypdfium2 — no
+    poppler / cairo system deps. Returns True on success."""
+    try:
+        import pypdfium2 as pdfium
+    except ImportError:
+        return False
+    try:
+        doc = pdfium.PdfDocument(str(pdf))
+        if len(doc) == 0:
+            return False
+        page = doc[0]
+        # Match width to thumb width; scale = width / page.width_in_points
+        scale = width / page.get_width()
+        bitmap = page.render(scale=scale)
+        img = bitmap.to_pil()
+        png.parent.mkdir(parents=True, exist_ok=True)
+        img.save(png, "PNG")
+        return True
+    except Exception as exc:  # pragma: no cover
+        print(f"  pdfium failed for {pdf.name}: {exc}", file=sys.stderr)
+        return False
+
+
+def _find_libreoffice() -> Optional[str]:
+    import shutil
+    for cmd in ("soffice", "libreoffice"):
+        path = shutil.which(cmd)
+        if path:
+            return path
+    # Common Windows install paths
+    for p in (
+        r"C:\Program Files\LibreOffice\program\soffice.exe",
+        r"C:\Program Files (x86)\LibreOffice\program\soffice.exe",
+    ):
+        if pathlib.Path(p).exists():
+            return p
+    return None
+
+
+def render_pptx_first_slide(pptx: pathlib.Path, png: pathlib.Path,
+                            width: int = 480) -> bool:
+    """Convert `pptx` → PDF via LibreOffice, then render page 1 to PNG.
+    Returns False (caller falls back to PIL placeholder) if LibreOffice
+    isn't installed or conversion fails."""
+    soffice = _find_libreoffice()
+    if not soffice:
+        return False
+    import subprocess
+    import tempfile
+    with tempfile.TemporaryDirectory() as td:
+        td_path = pathlib.Path(td)
+        try:
+            subprocess.run(
+                [soffice, "--headless", "--norestore",
+                 "--convert-to", "pdf",
+                 "--outdir", str(td_path), str(pptx)],
+                check=True, capture_output=True, timeout=60,
+            )
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as exc:
+            print(f"  soffice failed for {pptx.name}: {exc}", file=sys.stderr)
+            return False
+        candidates = list(td_path.glob(f"{pptx.stem}.pdf"))
+        if not candidates:
+            return False
+        return render_pdf_first_page(candidates[0], png, width=width)
+
+
 def make_thumbnail(out: pathlib.Path, title: str, kind: str, accent: str) -> None:
     from PIL import Image, ImageDraw, ImageFont
 
@@ -186,8 +255,12 @@ def process_unit(md_path: pathlib.Path) -> dict:
 
     make_pptx(pres_pptx, title, subtitle)
     make_pdf(work_pdf, title, subtitle)
-    make_thumbnail(pres_png, title, "Présentation", "#1a73e8")
-    make_thumbnail(work_png, title, "Fiche d'exercices", "#2e7d32")
+    # Real thumbnails first; fall back to PIL placeholder if the toolchain
+    # is missing (LibreOffice for PPTX, pypdfium2 for PDF).
+    if not render_pptx_first_slide(pres_pptx, pres_png):
+        make_thumbnail(pres_png, title, "Présentation", "#1a73e8")
+    if not render_pdf_first_page(work_pdf, work_png):
+        make_thumbnail(work_png, title, "Fiche d'exercices", "#2e7d32")
 
     tags = derive_tags(fm, md_path.relative_to(REPO))
     pres_url = f"/materials/presentations/{slug}.pptx"

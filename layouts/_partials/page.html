@@ -1,0 +1,16 @@
+<section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">
+          {{ .Title }}
+        </a>
+      </h1>
+      {{- with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end -}}
+    </header>
+
+    {{ .Content }}
+
+    {{- partial "vgwort.html" . -}}
+  </article>
+</section>

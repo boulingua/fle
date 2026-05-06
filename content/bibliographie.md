@@ -1,0 +1,59 @@
+---
+title: "Bibliographie"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/1b79ba4d0a44460bb5deedb7fd477f85"
+---
+
+<div class="hero-kicker">
+FLE · BIBLIOGRAPHIE
+</div>
+
+Ouvrages et ressources qui ont servi de cadre théorique et
+pédagogique. **Aucune** de ces sources n'a été paraphrasée dans
+les unités ; ce sont des bornes de référence.
+
+## Cadres officiels de référence
+
+- *Cadre européen commun de référence pour les langues : apprendre,
+  enseigner, évaluer.* Conseil de l'Europe (2001).
+- *Volume complémentaire du CECR* (2018/2020).
+- **Bildungsplan 2016 Baden-Württemberg** — Sekundarstufe I,
+  Französisch 2. Fremdsprache. *(Référentiel régional ayant
+  servi de cadre indicatif ; le présent curriculum ne s'y
+  conforme pas nécessairement à 100 %.)*
+- **Bildungsplan gymnasiale Oberstufe 2021 Baden-Württemberg** —
+  Französisch, Basisfach + Leistungsfach. *(Idem.)*
+
+## Didactique FLE
+
+- Christian Puren, *Histoire des méthodologies de l'enseignement
+  des langues*.
+- Robert Galisson, *De la linguistique appliquée à la
+  didactologie des langues-cultures*.
+- Janine Courtillon, *Élaborer un cours de FLE*.
+- Jean-Marc Defays, *Le français langue étrangère et seconde*.
+- Jean-Pierre Cuq et Isabelle Gruca, *Cours de didactique du FLE
+  et seconde*.
+
+## CLIL et apprentissage immersif
+
+- Coyle, Hood, Marsh : *CLIL — Content and Language Integrated
+  Learning*.
+- Mehisto et al. : *Uncovering CLIL*.
+
+## Médias authentiques (liens, non reproduits)
+
+- **TV5 Monde — Apprendre le français** :
+  <https://apprendre.tv5monde.com/>
+- **France Éducation International — RFI Savoirs** :
+  <https://savoirs.rfi.fr/>
+- **France Culture — podcasts** :
+  <https://www.radiofrance.fr/franceculture>
+- **Arte journal en français** :
+  <https://www.arte.tv/fr/>
+
+## Pas de paraphrase de manuels commerciaux
+
+N'ont **pas** servi de modèle textuel : Hachette FLE, CLE
+International, Didier, Klett, Cornelsen. Une lecture comparative
+a eu lieu pour vérifier les progressions typiques ; aucun texte
+n'est issu de ces œuvres.

@@ -1,0 +1,167 @@
+---
+title: "Unité 5 — épreuve finale mock 2 — extrait littéraire"
+subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 5
+slug: "abitur-mock-2"
+bildungsplan:
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
+skills_focus:
+  - leseverstehen
+  - schreiben
+vgwort_pixel: "https://vg09.met.vgwort.de/na/27ae6ae5ade6488e8aa34c3db2134c29"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je traite un **mock épreuve finale 2** (extrait littéraire).
+- J'analyse un **passage de roman** en 350 mots.
+- Je connais les **3 axes** d'analyse épreuve finale (option d'approfondissement).
+
+## Histoire d'introduction
+
+Théodore : *« Mock 2 — extrait littéraire. Cette fois, vous
+analysez un passage de Camus, Slimani ou Modiano. C'est
+votre point fort. »*
+
+## 1. Activer
+
+- Préférez-vous extrait littéraire ou article ?
+- Quel auteur vous semble le plus simple à analyser ?
+- 3 axes : intrigue, style, thème ?
+
+## 2. Apporter
+
+### A. 3 axes d'analyse littéraire (épreuve finale (option d'approfondissement))
+
+| Axe | Question à se poser |
+|-------------|---------------------------------------|
+| **Intrigue**| que se passe-t-il ? |
+| **Forme** | comment c'est écrit (style) ? |
+| **Thème** | quel sens, quel message ? |
+
+### B. 5 outils d'analyse + leur emploi
+
+- **Citation directe** entre guillemets *« … »* + ligne.
+- **Repérage** d'une figure (anaphore, oxymore…).
+- **Interprétation** : effet sur le lecteur.
+- **Lien à l'œuvre** : place dans le roman global.
+- **Lien à l'auteur·e** : démarche, biographie.
+
+### C. Mock 2 — extrait Slimani (texte original, ~600 mots)
+
+> **Source : *Chanson douce* (Slimani, 2016, ch. 5,
+> extrait, ~500 mots)** :
+>
+> *Louise sourit. Mila la regarde. Mila l'aime. Personne
+> n'avait jamais regardé Mila comme ça, avec autant
+> d'attention, autant de tendresse. Louise sait deviner
+> quand Mila a faim, quand Mila a peur, quand Mila a
+> besoin d'un câlin.*
+>
+> *Louise raconte des histoires. Des histoires de
+> princesses, mais aussi des histoires plus sombres, où il
+> y a des loups, des sorcières, des mères mortes. Mila
+> écoute, fascinée. La nuit, elle fait des cauchemars. Le
+> matin, elle réclame d'autres histoires.*
+>
+> *Pourtant, derrière le sourire de Louise, il y a quelque
+> chose qui inquiète. Une raideur. Un vide.*
+
+> **Question 1 (Verstehen, 8 P.)** : Qui sont Louise et
+> Mila ? Que fait Louise ?
+>
+> **Question 2 (Analyse, 12 P.)** : Repérez **3 procédés
+> stylistiques** + interprétez le mot *« vide »* à la fin.
+>
+> **Question 3 (Expression écrite (« Schreiben »), 10 P.)** : Rédigez un **essai**
+> (~350 mots) : *« Le danger derrière la douceur »* —
+> mobilisez Slimani + 1 autre référence (Camus, Modiano,
+> Despentes).
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Qui sont Louise et Mila ?
+2. Quels types d'histoires Louise raconte-t-elle ?
+3. Que fait Mila la nuit ?
+4. Quel mot inquiétant apparaît à la fin ?
+
+**Ex. 2 — Procédés.** Identifiez 3 procédés dans l'extrait
+(répétition, anaphore, isotopie…).
+
+**Ex. 3 — Mini-analyse (3 phrases).** Que signifie
+*« vide »* à la fin ?
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) Louise = nounou, Mila = enfant. 2) Princesses
++ histoires sombres (loups, sorcières, mères mortes). 3)
+Cauchemars. 4) *« Vide »*.
+
+**Ex. 2.** Anaphore : *Mila la regarde. Mila l'aime.*
+Isotopie : *douceur (sourire, tendresse, câlin) vs noirceur
+(loups, sorcières, vide).* Antithèse : *douceur / vide.*
+
+**Ex. 3.** Modèle : *Le « vide » est l'élément discordant.
+Il annonce la tragédie : Louise est instable, son sourire
+est masque. Slimani prépare le drame initial du roman (« Le
+bébé est mort »).*
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Mock 2 complet (E, ~270 min) :**
+
+Réalisez le **mock 2** : Verstehen + Analyse stylistique +
+médiation linguistique (« Sprachmittlung »). Auto-évaluation finale.
+
+## 5. Réfléchir
+
+- [ ] Je suis les 3 axes d'analyse littéraire.
+- [ ] J'utilise 5 outils précis.
+- [ ] Je rédige 350 mots argumentés.
+
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E, 13e)
+
+**Verstehen (10 P.)** : extrait littéraire, 5 questions.
+**Analyse (10 P.)** : ~350 mots stylistique.
+**médiation linguistique (10 P.)** : ~280 mots DE → FR.
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Vide »** dans Slimani : mot-clé de l'effacement
+ identitaire de Louise.
+- **Antithèse douceur/noirceur** : structure récurrente
+ chez Slimani.
+- **« Le bébé est mort »** : connaître l'incipit pour
+ contextualiser le ch. 5.
+
+## Pour aller plus loin
+
+- **Leïla Slimani — Gallimard** :
+ <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio>
+- **Académie Goncourt** :
+ <https://www.academiegoncourt.com/>

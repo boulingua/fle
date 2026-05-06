@@ -1,0 +1,150 @@
+---
+title: "Unité 1 — Ma rentrée"
+subtitle: "Parcours G+M · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 1
+slug: "ma-rentree"
+bildungsplan:
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.7 Moyens linguistiques — lexique"
+skills_focus:
+  - sprechen_dialog
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2ad7dcf97ba5435290d16b55875198de"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M (classe 7)
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je raconte ma rentrée (3-4 phrases).
+- Je dis : *Je suis content·e · J'ai un peu peur · J'attends …*
+- Je connais 8 mots de la rentrée (cartable, manuel, classeur…).
+
+## Histoire d'introduction
+
+Lundi 8 septembre. Léa (maintenant en 7e) retrouve Théo dans la
+cour. *« Salut ! Tu as passé de bonnes vacances ? »* — *« Oui,
+j'étais en Belgique chez mes grands-parents. Et toi ? »* — *« Moi,
+deux semaines à Karlsruhe. C'était calme. »*
+
+## 1. Activer
+
+- Comment a été votre rentrée cette année ?
+- Citez **3 sentiments** liés à la rentrée.
+- Qu'est-ce que vous emportez dans votre cartable ?
+
+## 2. Apporter
+
+### A. Vocabulaire
+
+| Matériel | Sentiments |
+|------------------------|-------------------------|
+| le cartable | content·e |
+| le manuel | inquiet·e |
+| le classeur | impatient·e |
+| la trousse | curieux·euse |
+| le stylo · le crayon | un peu nerveux·euse |
+| la règle | ravi·e |
+
+### B. Mini-dialogue (texte original)
+
+> **Léa :** Salut Théo ! Comment vas-tu ?
+>
+> **Théo :** Ça va bien. J'ai vu le nouvel emploi du temps —
+> on a français le lundi à 8h.
+>
+> **Léa :** Aïe, 8h ! Je suis un peu nerveuse — la prof est
+> nouvelle.
+>
+> **Théo :** Mme Bertrand. Je l'ai croisée hier, elle a l'air
+> sympa.
+>
+> **Léa :** Ouf, je suis rassurée.
+
+### C. Phrases-clés
+
+- *Comment vas-tu ?* — *Ça va bien · pas mal · bof.*
+- *Tu as passé de bonnes vacances ?*
+- *Je suis content·e / inquiet·e / curieux·euse.*
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture.** Au texte B :
+
+1. À quelle heure ont-ils français ?
+2. Qui est la nouvelle prof ?
+3. Comment se sent Léa au début ?
+4. Comment se sent-elle après ?
+
+**Ex. 2 — Sentiments.** Reliez :
+
+a) content·e · b) nerveux·euse · c) curieux·euse · d) ravi·e
+
+1. Avant un examen difficile.
+2. Avant une fête.
+3. Pour une nouvelle expérience.
+4. Pour un cadeau attendu.
+
+**Ex. 3 — Vocabulaire.** Citez 4 objets dans votre cartable.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) 8h le lundi. 2) Mme Bertrand. 3) Un peu nerveuse.
+4) Rassurée.
+
+**Ex. 2.** a–2 · b–1 · c–3 · d–4.
+
+**Ex. 3.** Réponses libres : *un manuel, une trousse, un
+classeur, des stylos*.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche orale (M, en binôme, 1-2 min) :**
+
+A et B se racontent leur rentrée :
+
+- Comment s'est passée la rentrée ?
+- Quels nouveaux profs ?
+- Un sentiment dominant ?
+
+## 5. Réfléchir
+
+- [ ] Je raconte ma rentrée en 3-4 phrases.
+- [ ] J'utilise 4 adjectifs de sentiment.
+- [ ] Je nomme 6 objets de cartable.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+
+**Tâche 1 — Lecture (10 P.)** : dialogue Léa-Théo.
+**Tâche 2 — Expression orale (« Sprechen ») mündlich (10 P.)** : dialogue rentrée 1 min.
+**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : ~50 mots sur votre rentrée.
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' ·
+Produire 10' · Réfléchir 3' · Aperçu 4'.
+</div>
+
+## Pièges fréquents
+
+- **« content·e »** s'accorde : *je suis content* (m.), *je suis
+ contente* (f.).
+- **« vacances »** est toujours pluriel.
+- **« la rentrée »** sans article devant *« en septembre »*.
+
+## Pour aller plus loin
+
+- **TV5 Monde — La rentrée** : <https://apprendre.tv5monde.com/>

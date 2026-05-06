@@ -1,0 +1,53 @@
+---
+title: "Remerciements"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/1bb3265dec3c417eb42cf4acbd1f6130"
+---
+
+<div class="hero-kicker">
+FLE · REMERCIEMENTS
+</div>
+
+Ce site n'aurait pas existé sans les sources, outils et personnes
+suivants.
+
+## Didactique FLE
+
+Les traditions universitaires et associatives autour du FLE —
+depuis les travaux de Galisson, Puren, Cuq et Gruca jusqu'aux
+pratiques actuelles de l'AFFEFB et de la SIHFLES — ont fourni un
+horizon que ce site essaie d'honorer dans le quotidien d'un
+établissement secondaire (« Gesamtschule »).
+
+## Sources authentiques
+
+- **TV5 Monde / France Éducation International** pour les
+  ressources DELF / DALF.
+- **Radio France et France Culture** pour les podcasts.
+- **Wikimédia France et Commons** pour les images sous CC-BY ou
+  domaine public.
+
+## Outils
+
+- **[Quarto](https://quarto.org)** — système de publication.
+- **[Pandoc](https://pandoc.org)**.
+- **[Reveal.js](https://revealjs.com)** — diapositives.
+- **[Lucide Icons](https://lucide.dev)** (ISC).
+- **Source Sans 3** + **JetBrains Mono** (OFL).
+- **reportlab**, **pypdf**, **TinyTeX**, **GitHub Actions**.
+
+## Personnel
+
+Merci aux groupes-classes des dernières années chez qui les
+unités ont d'abord été testées, et aux collègues qui ont
+commenté des formats individuels. Pas de noms par défaut ; ajout
+sur demande explicite.
+
+## Licence
+
+- **MIT** pour le code (`LICENSE`).
+- **CC-BY-SA 4.0** pour le contenu (`LICENSE-content`).
+
+Les citations des référentiels (« Bildungspläne ») officiels
+restent propriété de leurs ayants droit respectifs et sont
+utilisées au titre du droit de citation à des fins éducatives.
+Voir [Bibliographie](/bibliographie/) pour la liste détaillée.

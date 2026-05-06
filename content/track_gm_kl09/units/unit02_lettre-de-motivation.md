@@ -1,0 +1,172 @@
+---
+title: "Unité 2 — Lettre de motivation"
+subtitle: "Parcours G+M · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 2
+slug: "lettre-de-motivation"
+bildungsplan:
+  - "3.1.3.5 Expression écrite"
+skills_focus:
+  - schreiben
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2de1880116d94255b076daf9c43b40d6"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je rédige une **lettre de motivation** (Praktikum).
+- Je connais la **structure formelle** d'une lettre française.
+- J'utilise les **formules de politesse**.
+
+## Histoire d'introduction
+
+Léa veut faire un deuxième stage chez *Le Monde* à Strasbourg.
+Mme Renault lui dit : *« Une lettre de motivation, c'est sérieux.
+Il faut suivre une structure précise. Je vais te montrer. »*
+
+## 1. Activer
+
+- Avez-vous déjà écrit une lettre formelle ?
+- Quelles sont les différences avec un courriel ?
+- Pourquoi écrire « Madame, Monsieur » ?
+
+## 2. Apporter
+
+### A. Structure d'une lettre de motivation
+
+1. **En haut à gauche :** vos coordonnées.
+2. **En haut à droite :** date et lieu.
+3. **En dessous à droite :** destinataire (entreprise).
+4. **Objet :** *« Objet : Demande de stage »*.
+5. **Salutation :** *« Madame, Monsieur, »*.
+6. **Corps** (3 paragraphes) : qui je suis · pourquoi vous · ce
+ que je propose.
+7. **Formule finale :** *« Je vous prie d'agréer, Madame,
+ Monsieur, mes salutations distinguées. »*
+8. **Signature.**
+
+### B. Formules utiles
+
+- *Je me permets de vous écrire pour …*
+- *Actuellement en classe de 9e, je …*
+- *Je suis particulièrement intéressé(e) par …*
+- *Je serais ravi(e) de vous rencontrer.*
+
+### C. Lettre modèle (texte original)
+
+> Léa Schmitt
+> Karlsruher Straße 23
+> 76137 Karlsruhe
+>
+> Karlsruhe, le 5 mars 2026
+>
+> *Le Monde Strasbourg*
+> 12, place Kléber
+> 67000 Strasbourg
+>
+> **Objet : Demande de stage de 9e (1 semaine)**
+>
+> Madame, Monsieur,
+>
+> Je me permets de vous écrire pour solliciter un stage d'une
+> semaine dans votre rédaction, du 8 au 12 juin 2026.
+>
+> Actuellement en classe de 9e à la Gemeinschaftsschule de
+> Karlsruhe, je suis passionnée par le journalisme. Je lis
+> *Le Monde* en ligne et j'admire votre rubrique « Planète ».
+>
+> Je serais ravie de découvrir votre quotidien et d'apprendre
+> auprès de votre équipe. Je peux écrire en français et en
+> allemand.
+>
+> Je vous prie d'agréer, Madame, Monsieur, mes salutations
+> distinguées.
+>
+> Léa Schmitt
+
+## 3. S'entraîner
+
+**Ex. 1 — Repérer la structure (texte C).**
+
+1. Où sont les coordonnées de Léa ?
+2. Quelle est la date ?
+3. Quel est l'objet ?
+4. Quelle est la formule finale ?
+
+**Ex. 2 — Choisir la formule.**
+
+1. Au début : *« Salut »* ou *« Madame, Monsieur, »* ?
+2. Pour parler de soi : *« Je suis trop cool »* ou *« Actuellement
+ en classe de 9e, je … »* ?
+3. À la fin : *« Bisous »* ou *« Je vous prie d'agréer … »* ?
+
+**Ex. 3 — Compléter.**
+
+> *Madame, Monsieur, je me _______________ de vous écrire pour
+> _______________ un stage d'une semaine. Actuellement en classe
+> de _______________, je _______________ par le journalisme. Je
+> serais _______________ de vous rencontrer.*
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) En haut à gauche. 2) Karlsruhe, le 5 mars 2026.
+3) Demande de stage de 9e (1 semaine). 4) « Je vous prie
+d'agréer, Madame, Monsieur, mes salutations distinguées. »
+
+**Ex. 2.** 1) « Madame, Monsieur, ». 2) « Actuellement en classe
+de 9e, je … ». 3) « Je vous prie d'agréer … ».
+
+**Ex. 3.** permets · solliciter · 9e · suis passionné(e) · ravi(e).
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche d'écriture (M, ~150 mots) :**
+
+Rédigez **votre lettre de motivation** pour un stage d'une
+semaine dans une entreprise de votre choix. Respectez la
+**structure** (8 éléments) et utilisez **3 formules** apprises.
+
+## 5. Réfléchir
+
+- [ ] Je connais la structure (8 éléments).
+- [ ] J'utilise les formules de politesse.
+- [ ] Je rédige une lettre en 150 mots.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+
+**Tâche 1 — Lecture (8 P.)** : lettre modèle, 4 questions.
+**Tâche 2 — Formules (10 P.)** : compléter 8 phrases.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre lettre (~150 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 11' ·
+Produire 13' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Madame, Monsieur, »** (avec virgule, sur ligne propre).
+- **Pas d'émoji**, pas de *salut*, pas de *bisous*.
+- **Date et lieu** : *Karlsruhe, le 5 mars 2026* (avec article).
+- **« Je vous prie d'agréer »** + apostrophe + complément
+ (jamais seul).
+
+## Pour aller plus loin
+
+- **Pôle Emploi — Lettre de motivation** :
+ <https://www.pole-emploi.fr/>

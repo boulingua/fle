@@ -1,0 +1,184 @@
+---
+title: "Unité 1 — Transition formation / emploi"
+subtitle: "Parcours G+M · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 1
+slug: "transition-formation-emploi"
+bildungsplan:
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
+skills_focus:
+  - leseverstehen
+  - schreiben
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2f139f63d98f4c90a37e3c130f154a18"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je distingue **Ausbildung, Studium, FSJ, Erasmus**.
+- Je comprends une **petite annonce** d'apprentissage.
+- Je rédige une **candidature spontanée** (180 mots).
+
+## Histoire d'introduction
+
+Léa est en 10e — fin de la diplôme intermédiaire (« Mittlerer Bildungsabschluss »). Mlle Lefèvre, prof
+d'option, lui demande : *« Et après la 10e, qu'est-ce que vous
+envisagez ? Une Ausbildung ? Un Berufskolleg ? Un Erasmus ? »*
+
+## 1. Activer
+
+- Que voulez-vous faire après la 10e ?
+- Connaissez-vous des Français qui font une Ausbildung ?
+- Qu'est-ce qu'un FSJ / *service civique* ?
+
+## 2. Apporter
+
+### A. 4 voies après la 10e (équivalences)
+
+| Allemagne | France équivalent |
+|--------------------------|----------------------------------|
+| Ausbildung (3 ans) | apprentissage (CAP, BP, Bac pro) |
+| Berufskolleg / FOS | lycée (« Gymnasium ») professionnel |
+| Studium (Hochschule) | études supérieures (université) |
+| FSJ (1 an volontaire) | service civique (8 mois) |
+
+### B. Vocabulaire
+
+- *un apprenti / une apprentie · une candidature · un CDD /
+ CDI · un salaire · un patron · un mentor · l'expérience
+ professionnelle.*
+
+### C. Petite annonce (texte original)
+
+> **Boulangerie « Chez Hugo » — Karlsruhe**
+>
+> Recherche **un(e) apprenti(e) boulanger(ère)** pour la
+> rentrée 2026.
+>
+> - **Durée :** 3 ans (Ausbildung).
+> - **Horaires :** du lundi au samedi, 4h-12h.
+> - **Salaire :** 800 € le 1ʳᵉ année, 1100 € la 3ᵉ.
+> - **Profil :** motivé(e), ponctuel(le), aimant le travail
+> d'équipe.
+>
+> **Candidature :** lettre + CV à hugo@chez-hugo.fr avant le
+> 15 mai 2026.
+
+### D. Candidature spontanée (modèle)
+
+> Léa Schmitt
+> Karlsruher Straße 23
+> 76137 Karlsruhe
+>
+> Karlsruhe, le 8 avril 2026
+>
+> *Boulangerie Chez Hugo*
+>
+> **Objet : Candidature pour l'apprentissage 2026**
+>
+> Madame, Monsieur,
+>
+> Suite à votre annonce, je souhaite candidater pour le poste
+> d'apprentie boulangère que vous proposez à partir de
+> septembre 2026.
+>
+> Actuellement en classe de 10e, je termine ma diplôme intermédiaire
+> en juin. J'ai déjà effectué un Praktikum d'une semaine chez
+> vous en 9e ; cette expérience m'a confortée dans mon choix.
+>
+> Je suis motivée, ponctuelle, et j'aime le travail manuel.
+> Je serais très heureuse de poursuivre cet apprentissage chez
+> vous.
+>
+> Vous trouverez ci-joint mon CV.
+>
+> Je vous prie d'agréer, Madame, Monsieur, mes salutations
+> distinguées.
+>
+> Léa Schmitt
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (textes C+D).**
+
+1. Quelle est la durée de l'apprentissage ?
+2. Quel est le salaire la 1ʳᵉ année ?
+3. Pourquoi Léa cite-t-elle son Praktikum ?
+4. Quelle pièce jointe envoie-t-elle ?
+
+**Ex. 2 — Vocabulaire.** Définition simple :
+
+a) un CDI · b) un CDD · c) un mentor · d) un apprenti.
+
+**Ex. 3 — Reformuler en français standard.**
+
+1. *Ausbildung* = ___.
+2. *FSJ* = ___.
+3. *Berufskolleg* = ___.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) 3 ans. 2) 800 €. 3) Confirme son choix grâce à
+l'expérience pratique. 4) Son CV.
+
+**Ex. 2.** a) Contrat à durée indéterminée. b) Contrat à durée
+déterminée. c) Une personne expérimentée qui guide.
+d) Personne en formation chez un patron, en alternance.
+
+**Ex. 3.** 1) un apprentissage. 2) un service civique
+(volontaire). 3) un lycée professionnel.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche d'écriture (M, ~180 mots) :**
+
+Rédigez une **candidature spontanée** pour un poste de votre
+choix : intro (présentation), corps (motivation + 2 atouts),
+conclusion (formule + signature). Joindre **mention CV**.
+
+## 5. Réfléchir
+
+- [ ] Je distingue Ausbildung / Studium / FSJ / Erasmus.
+- [ ] Je lis une petite annonce.
+- [ ] Je rédige une candidature en 180 mots.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+
+**Tâche 1 — Lecture (10 P.)** : annonce + lettre, 5 questions.
+**Tâche 2 — Vocabulaire (8 P.)** : 8 termes professionnels.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre candidature (~180 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 3' · Apporter 13' · S'entraîner 12' ·
+Produire 13' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Apprentissage »** ≠ *Auswendiglernen*. C'est la
+ *Ausbildung* en alternance.
+- **« CV »** = *Curriculum Vitae* (en français usuel).
+- **« Candidature spontanée »** = sans annonce préalable.
+
+## Pour aller plus loin
+
+- **ONISEP — orientation** :
+ <https://www.onisep.fr/>
+- **Pôle Emploi — apprentissage** :
+ <https://www.pole-emploi.fr/>

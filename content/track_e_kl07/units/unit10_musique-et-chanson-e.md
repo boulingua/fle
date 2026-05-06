@@ -1,0 +1,147 @@
+---
+title: "Unité 10 — Musique et chanson francophones"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 10
+slug: "musique-et-chanson-e"
+bildungsplan:
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.4 Compétence textuelle et médiatique"
+skills_focus:
+  - hör_hörsehverstehen
+  - text_medien
+vgwort_pixel: "https://vg09.met.vgwort.de/na/1e781032ad6346e38de767a94214342c"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je connais **5 artistes** francophones (FR, BE, QC, MA, CI).
+- Je nomme **6 styles** musicaux.
+- J'analyse les paroles d'une chanson simple.
+
+## Histoire d'introduction
+
+Camille, la libraire, fait écouter à Anouk *« Pour que tu
+m'aimes encore »* de Céline Dion. *« C'est beau ! »* — *« Et
+Céline est québécoise — mais chante en français pour le monde. »*
+
+## 1. Activer
+
+- Quel(le) chanteur(se) francophone connaissez-vous ?
+- Aimez-vous le rap ? La chanson ? La pop ?
+- Comprenez-vous les paroles en français ?
+
+## 2. Apporter
+
+### A. 5 artistes francophones
+
+| Artiste | Pays | Style |
+|--------------------|-------------------|-------------|
+| Céline Dion | Québec (CA) | pop / chanson |
+| Stromae | Belgique | électro / rap |
+| Aya Nakamura | France (Mali) | R'n'B / pop |
+| Magic System | Côte d'Ivoire | zouglou |
+| Saad Lamjarred | Maroc | pop arabe / FR |
+
+### B. 6 styles
+
+- *la chanson · la pop · le rap · le R'n'B · le hip-hop · la
+ musique du monde.*
+
+### C. *« Papaoutai »* — Stromae (extrait, texte original)
+
+> Dis-moi d'où il vient
+> Enfin je saurai où je vais
+> Maman dit que lorsqu'on cherche bien
+> On finit toujours par trouver
+>
+> Elle dit qu'il n'est jamais bien loin
+> Qu'il part très souvent travailler
+> Maman dit « travailler c'est bien »
+> Bien mieux qu'être mal accompagné, pas vrai ?
+>
+> Refrain : Où t'es, papaoutai ?
+> Où t'es, papaoutai ? (×3)
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Qui chante *Papaoutai* ?
+2. De quel pays vient-il ?
+3. Que cherche le chanteur ?
+4. Que dit la maman du papa ?
+
+**Ex. 2 — Vocabulaire.** Quel style ?
+
+a) Céline Dion · b) Aya Nakamura · c) Stromae · d) Magic
+ System · e) Saad Lamjarred.
+
+**Ex. 3 — Goûts.** J'aime / je n'aime pas + pourquoi.
+
+1. La chanson française. 2) Le rap. 3) Le R'n'B. 4) Le zouglou.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) Stromae. 2) Belgique. 3) Son père (« d'où il
+vient »). 4) Qu'il travaille beaucoup.
+
+**Ex. 2.** a) chanson · b) R'n'B/pop · c) électro/rap ·
+d) zouglou · e) pop arabe.
+
+**Ex. 3.** Réponses libres.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche d'écoute (E, ~80 mots de résumé) :**
+
+Choisissez **un clip francophone** (3-4 min). Décrivez :
+artiste + pays + style + 2 émotions ressenties + votre avis.
+
+## 5. Réfléchir
+
+- [ ] Je connais 5 artistes francophones.
+- [ ] Je nomme 6 styles.
+- [ ] Je comprends/résume une chanson simple.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+
+**Tâche 1 — Hörverstehen (10 P.)** : *Papaoutai* extrait,
+5 questions.
+**Tâche 2 — Vocabulaire (8 P.)** : 6 styles + 2 termes
+musique.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre clip (~80 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 12' · Écoute 5' ·
+S'entraîner 11' · Produire 11' · Réfléchir 2'.
+</div>
+
+## Pièges fréquents
+
+- **Stromae** est belge, pas français.
+- **Aya Nakamura** est française d'origine malienne.
+- **« Papaoutai »** = *« papa, où es-tu ? »* (jeu phonétique).
+
+## Pour aller plus loin
+
+- **Stromae — chaîne officielle** :
+ <https://www.youtube.com/@StromaeOfficiel>
+- **Céline Dion — site officiel** :
+ <https://www.celinedion.com/>

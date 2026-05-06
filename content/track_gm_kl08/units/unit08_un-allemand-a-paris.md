@@ -1,0 +1,215 @@
+---
+title: "Unité 8 — Un·e Allemand·e à Paris"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 8
+slug: "un-allemand-a-paris"
+bildungsplan:
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
+  - "3.1.2 Compétence interculturelle communicative"
+skills_focus:
+  - leseverstehen
+  - schreiben
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2d173fcb5bea4f8cbc968217a61af6a4"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je lis un journal de voyage simple.
+- J'identifie **trois différences culturelles** Allemagne-France.
+- J'écris un message de voyage de ~70 mots.
+
+## Alignement référentiel (« Bildungsplan »)
+
+- **3.1.3.2** Compréhension écrite (« Leseverstehen »).
+- **3.1.3.5** Expression écrite (« Schreiben »).
+- **3.1.2** Compétence interculturelle communicative (« Interkulturelle kommunikative Kompetenz »).
+
+## Histoire d'introduction
+
+Léa rentre d'un voyage de classe à Paris. Pendant cinq jours,
+elle a tenu un journal. Elle partage trois extraits avec Karim,
+qui rit aux passages où elle compare la France à l'Allemagne.
+
+## 1. Activer
+
+- Quels stéréotypes connaissez-vous sur les Allemand·e·s vu·e·s
+ par les Français ?
+- Et vice-versa, sur les Français vu·e·s par les Allemand·e·s ?
+- Que signifie « se sentir étranger·ère » ?
+
+## 2. Apporter
+
+### A. Trois extraits de journal (texte original, ~150 mots)
+
+> **Lundi soir, hôtel à Montmartre.**
+>
+> Premier jour à Paris. Le métro est plus rapide qu'à
+> Karlsruhe, mais aussi plus chaud — il fait 30°C dans la
+> rame ! On s'attendait à un dîner à 19h ; ici, on dîne à 20h
+> minimum. Mon estomac proteste.
+
+> **Mercredi matin, café près de la Sorbonne.**
+>
+> J'ai commandé un *café crème* et un *pain au chocolat*. La
+> serveuse m'a corrigée : à Paris on dit *« petit pain au
+> chocolat »*, mais à Bordeaux on dit *« chocolatine »*. Je l'ai
+> noté sur mon carnet. Karim aurait adoré.
+
+> **Vendredi après-midi, devant Notre-Dame.**
+>
+> J'ai parlé en français avec une dame âgée. Elle a souri quand
+> j'ai dit *« j'aime votre ville »*, puis elle a ajouté en
+> allemand : *« Ich liebe Karlsruhe auch. »* Elle y a habité
+> dix ans dans les années 1970. Le monde est plus petit que je
+> pensais.
+
+### B. Vocabulaire
+
+| Mot | Sens |
+|------------------------------|---------------------------------------|
+| une rame (de métro) | wagon de métro / ligne entière |
+| un café crème | café avec mousse de lait |
+| une chocolatine | mot du sud-ouest pour *pain au chocolat* |
+| une serveuse / un serveur | personne qui sert au café |
+| dîner | manger le soir |
+| protester | se plaindre |
+
+### C. Grammaire — passé composé / imparfait (rappel)
+
+- **Passé composé** : action ponctuelle, événement.
+ *« J'ai commandé un café. »*
+- **Imparfait** : description, ambiance, habitude.
+ *« Il faisait 30°C. »* / *« Elle y habitait dans les années
+ 1970. »*
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture.** Vrai / faux ?
+
+1. Léa était à Paris en hiver.
+2. À Paris, on dîne plus tôt qu'en Allemagne.
+3. *« Chocolatine »* est utilisé partout en France.
+4. La dame âgée parle allemand parce qu'elle a vécu à Karlsruhe.
+
+**Ex. 2 — Passé composé / imparfait.** Choisissez :
+
+1. Mardi, *(j'ai visité / je visitais)* le Louvre.
+2. Pendant les vacances, *(il a fait / il faisait)* très chaud.
+3. Soudain, *(elle a dit / elle disait)* quelque chose en
+ allemand.
+4. À chaque petit-déjeuner, *(j'ai mangé / je mangeais)* un
+ croissant.
+
+**Ex. 3 — Trouver les différences.** Dans le journal, citez
+**trois différences** entre Paris et Karlsruhe (heure du dîner,
+mots, températures du métro …).
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) F (30°C → été). 2) F (dîner plus tard, à 20h). 3)
+F (sud-ouest seulement). 4) V.
+
+**Ex. 2.** 1) j'ai visité (action). 2) il faisait (description).
+3) elle a dit (ponctuel). 4) je mangeais (habitude).
+
+**Ex. 3.** Modèles : *Heure du dîner (19h vs. 20h+) · Métro
+chaud à Paris (30°C dans la rame) · Mots différents pour le pain
+au chocolat (Paris vs. Bordeaux).*
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche d'écriture (M, ~70 mots) :**
+
+Imaginez trois jours dans une ville française (Lyon, Lille,
+Marseille…). Écrivez **trois mini-extraits de journal** (3
+phrases chacun) :
+
+1. Une **observation** du quotidien.
+2. Une **différence** culturelle.
+3. Une **rencontre**.
+
+Utilisez **passé composé + imparfait**.
+
+**Modèle (M, ~70 mots) :**
+
+> *Lundi.* Le matin, j'ai pris le tram. Il y avait beaucoup de
+> monde. À Marseille, le tram est lent — c'est différent.
+>
+> *Mardi.* J'ai mangé une bouillabaisse au Vieux-Port. C'était
+> salé et délicieux. À Karlsruhe, on n'a pas la mer.
+>
+> *Mercredi.* J'ai parlé avec une boulangère qui était née en
+> Tunisie. Elle parlait trois langues — français, arabe, et un
+> peu d'allemand !
+
+## 5. Réfléchir
+
+- [ ] Je lis un journal de voyage simple.
+- [ ] Je distingue passé composé et imparfait.
+- [ ] Je nomme trois différences culturelles.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+
+**Tâche 1 — Compréhension écrite (10 P.)**
+
+Lisez les trois extraits (A). Répondez :
+
+1. Pourquoi Léa est-elle surprise par le métro de Paris ?
+2. Quel mot existe à Bordeaux mais pas à Paris ?
+3. Pourquoi la dame âgée connaît-elle l'allemand ?
+
+**Tâche 2 — Grammatik (10 P.)**
+
+Complétez avec passé composé ou imparfait :
+
+1. Lundi soir, *(arriver, je)* à l'hôtel à 19h.
+2. Il *(faire)* très chaud dans la rame.
+3. Soudain, la dame *(parler)* en allemand.
+4. Pendant cinq jours, je *(visiter)* Paris.
+5. Mardi matin, *(commander, je)* un café crème.
+
+**Tâche 3 — Expression écrite (10 P.)**
+
+Écrivez 3 mini-extraits de journal (~70 mots) sur 3 jours dans
+une ville française. Passé composé + imparfait, une différence
+culturelle.
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+**Plan (90 min) :** Activer 7' · Apporter 18' · S'entraîner 18' ·
+Produire 25' · Réfléchir 5' · Aperçu 17'.
+
+</div>
+
+## Pièges fréquents
+
+- **« commander »** au café = *to order* ; en allemand
+ *bestellen*. Pas *commander un soldat* (ça veut dire diriger).
+- **« chocolatine »** uniquement dans le Sud-Ouest ; ailleurs
+ *« pain au chocolat »*.
+- **Passé composé** avec *avoir* (la plupart) ou *être* (vingt
+ verbes : aller, venir, partir, arriver, monter, descendre,
+ rester, retourner, etc.).
+
+## Pour aller plus loin
+
+- **France Bleu — voyages en France** : <https://www.francebleu.fr/>
+- **Lonely Planet France** : <https://www.lonelyplanet.fr/>

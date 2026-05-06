@@ -1,0 +1,162 @@
+---
+title: "Unité 11 — Préparer l'épreuve finale écrit"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 11
+slug: "preparer-l-abitur-ecrit"
+bildungsplan:
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.5 Expression écrite"
+skills_focus:
+  - leseverstehen
+  - schreiben
+vgwort_pixel: "https://vg09.met.vgwort.de/na/26c3e2b4d6e64ecb8b3a2ad19ec8c12c"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je connais le **format de l'épreuve finale écrite (option d'approfondissement)** (270 min, 3
+ parties).
+- Je m'entraîne au **mock 1** (texte journalistique).
+- Je connais les **5 critères d'évaluation** (Contenu,
+ Langue, Aufbau, Stil, Lexik).
+
+## Histoire d'introduction
+
+Théodore : *« 270 minutes. Texte de 700 mots. Production de
+350 mots. Médiation linguistique (« Sprachmittlung ») 60 min. Vous êtes prêts. »*
+
+## 1. Activer
+
+- Combien de minutes pour l'épreuve finale (option d'approfondissement) ?
+- 3 parties : lesquelles ?
+- Quelle est la **durée recommandée** par partie ?
+
+## 2. Apporter
+
+### A. Format épreuve finale écrit Lf (4 ou 5 heures)
+
+| Partie | Durée | Tâche |
+|----------------------|--------|------------------------------|
+| **Verstehen** | 60 min | 6-8 questions sur le texte |
+| **Analyse / Expression écrite (« Schreiben »)** | 150 min | 350-400 mots argumentés |
+| **médiation linguistique** | 60 min | DE → FR ~280 mots |
+| **Total** | 270 min | 1 texte source FR + 1 DE |
+
+### B. 5 critères d'évaluation (officiels)
+
+1. **Contenu** : compréhension + couverture des questions.
+2. **Langue** : richesse lexicale, structures variées.
+3. **Aufbau** : structure logique, paragraphage.
+4. **Stil** : registre adapté, élégance.
+5. **Lexik** : précision lexicale, idiomatique.
+
+### C. Mock 1 — sujet type (texte original, condensé)
+
+> **Mock 1 — texte journalistique (extrait, *Le Monde*,
+> ~600 mots)** :
+> *Le 16 mars 2026, l'Assemblée nationale a voté la loi
+> sur l'IA générative. Le texte interdit les deepfakes
+> politiques en période électorale, oblige à étiqueter
+> tout contenu IA, et crée un Observatoire IA. Pour
+> Cédric O, ancien secrétaire d'État au numérique, *« la
+> France prend de l'avance »*. Mais la chercheuse Asma
+> Mhalla nuance : *« Sans coopération européenne, c'est un
+> vœu pieux »*. La loi entrera en vigueur le 1ᵉʳ janvier
+> 2027.*
+>
+> **Question 1 (Verstehen, 8 P.)** : Quel jour la loi
+> a-t-elle été votée ? Quelles 3 mesures ?
+>
+> **Question 2 (Analyse, 12 P.)** : Quelles sont les **deux
+> positions** (Cédric O / Asma Mhalla) ? Comment l'auteur
+> les présente-t-il ?
+>
+> **Question 3 (Expression écrite, 10 P.)** : Rédigez un
+> commentaire personnel (~350 mots) : pour ou contre cette
+> loi, en mobilisant 1 référence (Camus, Despentes,
+> Senghor, Modiano…).
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quand la loi a-t-elle été votée ?
+2. Quelles 3 mesures ?
+3. Quand entre-t-elle en vigueur ?
+4. Qui sont les deux personnes citées ?
+
+**Ex. 2 — Critères.** Pour une production de 350 mots,
+notez les 5 critères (sur 4 chacun, total 20).
+
+**Ex. 3 — Plan-éclair.** Pour la question 3, donnez un
+plan en 4 § + 1 référence.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) 16 mars 2026. 2) Interdit deepfakes
+électoraux + étiquetage obligatoire IA + Observatoire IA.
+3) 1ᵉʳ janvier 2027. 4) Cédric O (politique) + Asma Mhalla
+(chercheuse).
+
+**Ex. 2.** Réponses libres (auto-évaluation).
+
+**Ex. 3.** Modèle : §1 contexte + thèse · §2 arguments
+pour · §3 arguments contre + référence (ex. Camus —
+*L'Étranger* + indifférence aux normes) · §4 synthèse.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Mock 1 complet (E, ~270 min) :**
+
+Réalisez **un épreuve finale (option d'approfondissement) complet** : Verstehen (60 min) +
+Analyse (90 min) + Expression écrite (60 min) + médiation linguistique
+(60 min). 5 critères évalués.
+
+## 5. Réfléchir
+
+- [ ] Je connais le format épreuve finale (option d'approfondissement).
+- [ ] Je tiens 270 min concentré·e.
+- [ ] J'auto-évalue selon 5 critères.
+
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E)
+
+**Verstehen (10 P.)** : 5 questions sur le texte.
+**Analyse / Expression écrite (10 P.)** : 350-400 mots argumentés.
+**médiation linguistique (10 P.)** : DE → FR ~280 mots.
+
+**Total : 30 P.** sur 60 réels (+ 30 oral) en.
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **270 min** : ne pas dépasser 60 min sur Verstehen
+ (chronométrer).
+- **5 critères** : *Aufbau* (structure) compte autant que
+ *Langue* (langue) — ne pas négliger.
+- **Référence** : citer **mot pour mot** + auteur·e + année.
+
+## Pour aller plus loin
+
+- **Modèles d'épreuve finale (option d'approfondissement) (passés)** :
+ <https://www.bildungsplaene-bw.de/>
+- **CNDP — IA et éducation** :
+ <https://www.reseau-canope.fr/>

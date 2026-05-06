@@ -1,0 +1,172 @@
+---
+title: "Unité 3 — Décolonisation littéraire (Maryse Condé)"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 3
+slug: "decolonisation-litteraire"
+bildungsplan:
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+skills_focus:
+  - leseverstehen
+  - sprechen_monolog
+vgwort_pixel: "https://vg09.met.vgwort.de/na/26116d55a91c4b0d966cc5257832a2a8"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je découvre **Maryse Condé** (1934-2024, *« Nobel
+ alternatif »* 2018).
+- Je comprends la **créolité** (Glissant, Chamoiseau).
+- Je présente une **œuvre décoloniale** en 6 minutes.
+
+## Histoire d'introduction
+
+Théodore : *« Maryse Condé, écrivaine guadeloupéenne, a
+réécrit Tituba — la sorcière de Salem oubliée. Elle redonne
+voix aux silences de l'histoire. »*
+
+## 1. Activer
+
+- Connaissez-vous Maryse Condé ?
+- *Créolité* : qui en parle ?
+- Tituba : connue ou oubliée ?
+
+## 2. Apporter
+
+### A. Maryse Condé — fiche
+
+| Donnée | Valeur |
+|-------------------------|------------------------------------|
+| Naissance | 1934, Pointe-à-Pitre (Guadeloupe) |
+| Mort | 2024 |
+| Nobel alternatif | 2018 (*New Academy Prize*) |
+| Œuvres clés | *Moi, Tituba sorcière* (1986), |
+| | *Ségou* (1984-85), |
+| | *Traversée de la Mangrove* (1989) |
+
+### B. 4 concepts décoloniaux
+
+- **Créolité** : *« Ni Européens, ni Africains, ni
+ Asiatiques, nous nous proclamons Créoles »* (Bernabé,
+ Chamoiseau, Confiant, 1989).
+- **Tout-monde** (Édouard Glissant) : créolisation comme
+ modèle d'humanité.
+- **Voix oubliées** : redonner la parole aux invisibilisé·e·s.
+- **Réécriture** : reprendre un texte canonique et
+ l'inverser.
+
+### C. Extrait *Moi, Tituba sorcière* (Condé, 1986, adapté)
+
+> **Moi, Tituba sorcière (1986, ouverture)**
+>
+> *Je suis née de cette agression. Du viol. De cet acte de
+> haine et de mépris.*
+>
+> J'avais sept ans quand j'ai été vendue, avec ma mère, à
+> Salem, en Nouvelle-Angleterre. **Mon enfance s'est
+> arrêtée ce jour-là.** Plus tard, on m'a accusée de
+> sorcellerie : j'aurais ensorcelé les filles du pasteur
+> Parris.
+>
+> Personne ne sait que **j'étais simplement noire**, pauvre,
+> femme. Que j'avais des herbes pour soigner, comme ma
+> grand-mère en Barbade, comme toutes les vieilles femmes
+> du monde.
+>
+> *« Sorcière »*, c'est le mot qu'ils ont mis sur moi parce
+> qu'ils ne savaient pas en mettre d'autres. Le mot qui
+> efface, le mot qui tue.
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quelle est la 1ʳᵉ phrase ? Quelle violence ?
+2. À quel âge Tituba est-elle vendue ? Vers où ?
+3. De quoi est-elle accusée ?
+4. Que dit Condé du mot *« sorcière »* ?
+
+**Ex. 2 — Concepts.** Identifiez :
+
+a) Une **voix oubliée** redonnée → ___
+b) Une **réécriture** historique → ___
+c) **Créolité** → ___
+
+**Ex. 3 — Citation à analyser.** *« Le mot qui efface, le
+mot qui tue. »* — analyse en 3 phrases.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) *Je suis née de cette agression. Du viol. De
+cet acte de haine et de mépris.* — viol initial. 2) Sept
+ans, vendue à Salem (Nouvelle-Angleterre). 3) De
+sorcellerie. 4) C'est le mot qui efface et qui tue ; on l'a
+mis sur elle faute de mieux.
+
+**Ex. 2.** a) Tituba, esclave noire de Salem, oubliée par
+l'histoire officielle. b) Réécriture de la « chasse aux
+sorcières » du procès de Salem (1692). c) Liens
+Guadeloupe-Salem-Barbade tissés par la diaspora.
+
+**Ex. 3.** Modèle : *L'anaphore « Le mot qui … » montre
+que le langage a un pouvoir de destruction. Effacer = ne
+pas nommer ; tuer = condamner. Condé fait de l'écriture
+une forme de résistance.*
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche orale (E, ~6 min) :**
+
+Présentez **une œuvre décoloniale** : Condé / Glissant /
+Chamoiseau / Mabanckou. Vie + œuvre + 1 concept (créolité,
+tout-monde…) + 2 citations + 1 lien à votre époque.
+
+## 5. Réfléchir
+
+- [ ] Je connais Condé et 3 concepts décoloniaux.
+- [ ] Je présente une œuvre en 6 minutes.
+- [ ] J'analyse une citation en 3 phrases.
+
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E)
+
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : Tituba, 5 questions.
+**Tâche 2 — Concepts (8 P.)** : 4 identifications.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : analyse + lien
+(~350 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Tituba »** : personnage **historique**, esclave
+ caribéenne accusée à Salem en 1692.
+- **« Créolité »** ≠ *créole* (langue) : la créolité est un
+ mouvement littéraire (1989).
+- **Tout-monde** : néologisme **un seul mot** chez Glissant.
+
+## Pour aller plus loin
+
+- **Maryse Condé — site officiel** :
+ <https://www.maryse-conde.com/>
+- **Édouard Glissant — Institut du Tout-Monde** :
+ <https://www.tout-monde.com/>

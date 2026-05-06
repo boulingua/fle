@@ -1,0 +1,13 @@
+---
+title: "classe 9 — Plan hebdomadaire"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2d8d7a317d2f44129bbc5887321ec267"
+---
+
+{{< callout type="note" >}}
+**Phase 2 (à venir).** Le plan hebdomadaire des 12 Unités sera
+généré à partir de `_resources/curriculum_outline.yml`.
+{{< /callout >}}
+
+## Voir aussi
+
+- [Page du cours](/track_gm_kl09/)

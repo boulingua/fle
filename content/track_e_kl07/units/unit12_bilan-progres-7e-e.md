@@ -1,0 +1,144 @@
+---
+title: "Unité 12 — Bilan : mes progrès en 7e"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 12
+slug: "bilan-progres-7e-e"
+bildungsplan:
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.5 Expression écrite"
+skills_focus:
+  - sprechen_monolog
+  - schreiben
+vgwort_pixel: "https://vg09.met.vgwort.de/na/1eee4a8671094fd0916e5ebc9152b7b5"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je dresse mon **bilan de 7e** en 3 temps (présent, PC, futur
+ proche).
+- Je rédige un **portrait** de 150 mots.
+- J'évalue mes **progrès** sur 5 compétences.
+
+## Histoire d'introduction
+
+Fin juin. Mme Devos demande : *« Bilan de la 7e. Une année avec
+beaucoup de nouveautés : passé composé, imparfait, médiation,
+Québec, Bretagne, Stromae… Que retenez-vous ? »*
+
+## 1. Activer
+
+- Quelle Unité avez-vous préférée ?
+- Que savez-vous faire mieux qu'en 6e ?
+- Que voulez-vous améliorer en 8e ?
+
+## 2. Apporter
+
+### A. Bilan en 3 temps
+
+| Temps | Bilan |
+|---------------|---------------------------------------|
+| présent | *Je sais …* |
+| passé composé | *J'ai appris …* |
+| futur proche | *Je vais …* (en 8e) |
+
+### B. Connecteurs
+
+- **Cette année** · **Avant** · **Maintenant** · **L'an
+ prochain** · **Plus tard**.
+
+### C. Bilan d'Anouk (texte original)
+
+> Cette année, j'ai progressé en français. **D'abord**, j'ai
+> appris le passé composé et l'imparfait. **Ensuite**, j'ai
+> découvert le Québec grâce à ma cousine Inès, et la Bretagne
+> grâce à nos vacances à Saint-Malo.
+>
+> **Maintenant**, je sais raconter une anecdote drôle, écrire
+> une lettre, et faire ma première médiation DE→FR.
+>
+> **L'an prochain**, en 8e, je vais lire mon premier vrai roman
+> en français — *Le Petit Prince*. Je vais aussi correspondre
+> par lettre avec Inès chaque mois. **Plus tard**, je rêve de
+> faire un Erasmus à Montréal !
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quels temps a appris Anouk ?
+2. Quelles régions/pays a-t-elle découverts ?
+3. Que va-t-elle lire en 8e ?
+4. Quel est son rêve ?
+
+**Ex. 2 — Auto-évaluation.** Notez-vous (1-5) :
+
+- Conjugaison PC + imparfait ___
+- Vocabulaire des relations (famille, amis) ___
+- Compréhension d'un texte court ___
+- Expression écrite (« Schreiben ») (lettre, anecdote) ___
+- Médiation DE→FR ___
+
+**Ex. 3 — Plan.** Listez **5 acquis** de votre 7e en français.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) PC + imparfait. 2) Québec + Bretagne. 3) *Le
+Petit Prince*. 4) Erasmus à Montréal.
+
+**Ex. 2.** Réponses libres.
+
+**Ex. 3.** Réponses libres.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche d'écriture (E, ~150 mots) :**
+
+Rédigez **votre bilan de 7e** en **3 paragraphes** : 3 acquis
+au PC + 2 maintenant au présent + 2 projets pour la 8e au
+futur proche. **5 connecteurs**.
+
+## 5. Réfléchir
+
+- [ ] J'utilise présent, PC, futur proche.
+- [ ] J'enchaîne avec des connecteurs.
+- [ ] Je rédige un bilan de 150 mots.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+
+**Tâche 1 — Lecture (10 P.)** : bilan d'Anouk, 5 questions.
+**Tâche 2 — Conjugaison (8 P.)** : 6 verbes, 3 temps.
+**Tâche 3 — Expression écrite (12 P.)** : votre bilan (~150 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **Mélange des temps** : le bilan utilise **PC** pour les
+ acquis, **présent** pour les compétences actuelles, **futur
+ proche** pour les projets.
+- **Connecteurs** au début, avec virgule.
+
+## Pour aller plus loin
+
+- **Aperçu cl. 8 E** :
+ [classe 8 — index](/track_e_kl08/)

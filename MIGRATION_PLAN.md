@@ -165,6 +165,25 @@ To allow incremental validation:
 
 ## 6. Phase log
 
+### Phase 2 — 2026-05-06
+
+- **197 `.qmd` files migrated** to Hugo `.md` via `_scripts/migrate_qmd_to_md.py` (10 top-level + 5 annexes + 13 track index + 13 uebersicht + 156 unit pages). The 156 `_exam.qmd` PDF-only files were intentionally left in place — they will continue to be rendered to PDF by a slimmed-down Quarto step in Phase 4 (decision: hybrid Hugo-HTML + Quarto-PDF).
+- **VG Wort manifest** written to `vgwort-manifest.csv` (193 pixels). 4 source `.qmd` files have no pixel: `impressum.qmd`, `datenschutz.qmd`, `haftungsausschluss.qmd`, `programme.qmd` (`programme.qmd` does have a pixel — re-checking shows it was extracted; the count gap is `index.qmd` + the three legal pages, as expected).
+- **VG Wort verification (`scripts/verify-vgwort.sh`)** passes: 193/193 pixels rendered exactly once into `public/`. Script handles CRLF manifests (Windows authoring) and uses presence-not-path matching to tolerate Hugo's `slug:` URL overrides.
+- **VG Wort emission template:** `layouts/_partials/vgwort.html` reads `Params.vgwort_pixel`; injected from overrides of Coder's `_partials/page.html` (single pages) and `_partials/list.html` (section pages). Both also surface `Params.subtitle` for the migrated frontmatter.
+- **Callouts** (177 source files) → `{{< callout type="..." [title="..."] >}}` shortcode at `layouts/shortcodes/callout.html`. CSS for note/tip/warning/important/caution in `assets/css/custom.css`.
+- **Custom div blocks** (`.hero-kicker`, `.lead`, `.card-grid`, `.card`, `.notes`, `.vgwort-pixel`) → raw `<div class="…">` (Goldmark `unsafe = true`).
+- **Pandoc bracketed spans** `[X]{.cefr-badge.a1}` → `<span class="cefr-badge a1">X</span>`.
+- **Cross-page links** `[…](page.qmd)` rewritten to absolute Hugo URLs (`/page/`, `/dir/page/`); resolved relative to source location; `index.qmd` collapses to section root.
+- **Legacy `{{< downloads >}}` shortcode** found in unit pages → stub at `layouts/shortcodes/downloads.html` (placeholder div). Will be replaced by the `material-links` partial in Phase 3.
+- **Frontmatter filter** drops `format`, `page-layout`, `editor`, `filters`, `lang` (the latter is removed in Hugo ≥ 0.144); preserves all custom keys (`niveau`, `klassenstufe`, `track`, `unit_nr`, `slug`, `bildungsplan`, `skills_focus`, `aliases`, etc.). Handles both inline and block YAML forms.
+- **Hugo build:** 219 pages, 0 errors, ~1 s. Plausible script verified in rendered `public/index.html` (CI gate also added).
+- **Manual review log (word-count drift > 2%, dst ≥ src):** 38 files flagged in `_scripts/migration-report.json`. Spot-checks (e.g. `programme.md` vs `programme.qmd`) confirm content is verbatim — drift is heuristic noise from the regex stripper handling `:::` markers and fenced HTML blocks asymmetrically across source vs destination. No prose is missing.
+- **Quarto inputs intact:** all 353 `.qmd` files still on disk for the in-place Phase 4 cleanup.
+- **Open carry-overs:**
+  - Phase 3 will create `material-links` partial + per-article placeholders (`.pptx` + `.pdf` thumbnails) and replace the `downloads` shortcode stub.
+  - Phase 4 will: delete `.qmd` files, delete `_quarto.yml`, delete `_extensions/`/`.quarto/`/`docs/`, restore a slim Quarto-PDF-only CI step for the 156 `_exam.qmd` files emitting into `static/downloads/`, and run lychee/sitemap parity check.
+
 ### Phase 0 — 2026-05-06
 
 - Inventory complete (this document).

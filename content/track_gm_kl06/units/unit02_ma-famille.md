@@ -1,0 +1,172 @@
+---
+title: "Unité 2 — Ma famille"
+subtitle: "Parcours G+M · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 2
+slug: "ma-famille"
+bildungsplan:
+  - "3.1.3.4 Expression orale — production en continu"
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.7 Moyens linguistiques — lexique"
+skills_focus:
+  - sprechen_monolog
+  - leseverstehen
+vgwort_pixel: "https://vg09.met.vgwort.de/na/28d90bc5397040f7810b820383439c13"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je nomme **8 membres de la famille**.
+- Je dis : *« C'est ma mère. Voici mon père. »*
+- Je lis une mini-présentation de famille.
+
+## Alignement référentiel (« Bildungsplan »)
+
+- **3.1.3.4** Expression orale (« Sprechen ») monologisches Expression orale.
+- **3.1.3.2** Compréhension écrite (« Leseverstehen »).
+- **3.1.3.7** Wortschatz.
+
+## Histoire d'introduction
+
+Mardi. Léa apporte une photo de sa famille. Madame Renault dit :
+*« Présente-nous ta famille en français ! »* Léa montre la
+photo : *« Voici mon père, ma mère, mon frère, et mon chat. »*
+La classe rit — *un chat, c'est de la famille ?*
+
+## 1. Activer
+
+- Combien de personnes dans votre famille ?
+- Avez-vous des frères et sœurs ?
+- Et des animaux ?
+
+## 2. Apporter
+
+### A. Vocabulaire
+
+| Français | Allemand |
+|---------------------|----------------------|
+| la mère | die Mutter |
+| le père | der Vater |
+| les parents | die Eltern |
+| le frère | der Bruder |
+| la sœur | die Schwester |
+| le grand-père | der Opa |
+| la grand-mère | die Oma |
+| la fille / le fils | die Tochter / der Sohn |
+| le chien · le chat | der Hund · die Katze |
+
+### B. Possessifs (singulier)
+
+| Allemand | Français (m.) | Français (f.) |
+|------------------|----------------|---------------|
+| mein / meine | mon | ma |
+| dein / deine | ton | ta |
+| sein / ihre | son | sa |
+
+> **Astuce :** *« mon, ton, son »* + nom féminin commençant par
+> une **voyelle** : *mon amie · ton école*.
+
+### C. Mini-texte (texte original)
+
+> Voici ma famille. Mon père s'appelle Stefan. Il est ingénieur.
+> Ma mère s'appelle Anne. Elle est médecin. J'ai un petit
+> frère, Jonas. Il a 8 ans. J'ai aussi un chat, Mistigri.
+
+## 3. S'entraîner
+
+**Ex. 1 — Vocabulaire.** Que signifie en allemand ?
+
+1. la mère · 2. le grand-père · 3. la sœur · 4. le chien
+
+**Ex. 2 — Possessifs.** Mon ou ma ?
+
+1. ___ père · 2. ___ mère · 3. ___ frère · 4. ___ sœur ·
+5. ___ chat · 6. ___ amie *(voyelle !)*
+
+**Ex. 3 — Lecture.** Au texte C, vrai ou faux ?
+
+1. La mère de Léa s'appelle Anne.
+2. Léa a une sœur de 8 ans.
+3. Mistigri est un chien.
+4. Le père est médecin.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1 = die Mutter · 2 = der Opa · 3 = die Schwester ·
+4 = der Hund.
+
+**Ex. 2.** 1) mon · 2) ma · 3) mon · 4) ma · 5) mon · 6) mon.
+
+**Ex. 3.** 1) V · 2) F (frère) · 3) F (chat) · 4) F (ingénieur).
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche orale (M, monologue 1 min) :**
+
+Présentez **votre famille** en français. Au moins :
+
+- 4 membres avec leur **nom**,
+- 2 **âges**,
+- 1 **animal** (réel ou imaginaire).
+
+**Modèle :**
+
+> Voici ma famille. Ma mère s'appelle Maria, elle a 42 ans. Mon
+> père s'appelle Stefan, il a 45 ans. J'ai une grande sœur,
+> Lisa, 16 ans. Et un chien : Bruno.
+
+## 5. Réfléchir
+
+- [ ] Je nomme 8 membres de la famille.
+- [ ] Je distingue *mon, ma, mes*.
+- [ ] Je présente ma famille en 1 minute.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+
+**Tâche 1 — Vocabulaire (10 P.)**
+
+Traduisez : 1) der Bruder · 2) die Tante (= la tante, à
+introduire si besoin) · 3) die Eltern · 4) der Sohn · 5) die
+Großmutter.
+
+**Tâche 2 — Expression écrite (« Schreiben ») (10 P.)**
+
+Présentez votre famille en **40 mots**, avec au moins 3
+possessifs *mon/ma/mes*.
+
+**Tâche 3 — Expression orale mündlich (10 P.)**
+
+Présentation orale de la famille avec photo (1 min).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 10' ·
+Produire 12' · Réfléchir 3' · Aperçu 4'.
+</div>
+
+## Pièges fréquents
+
+- **« mes »** = mein/meine + pluriel : *mes parents · mes frères*.
+- **« mon amie »** : *mon* devant voyelle même si féminin.
+- **L'âge** : *Il a 8 ans* (verbe *avoir*), pas *Il est 8 ans*.
+
+## Pour aller plus loin
+
+- **DW Nico's Weg — Familie**.
+- **TV5 Monde — Vocabulaire famille** :
+ <https://apprendre.tv5monde.com/>

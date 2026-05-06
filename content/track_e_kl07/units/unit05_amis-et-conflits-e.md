@@ -1,0 +1,149 @@
+---
+title: "Unité 5 — Amis et conflits"
+subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 5
+slug: "amis-et-conflits-e"
+bildungsplan:
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.5 Expression écrite"
+skills_focus:
+  - sprechen_dialog
+  - schreiben
+vgwort_pixel: "https://vg09.met.vgwort.de/na/1e0656248c2543458bd60879f45436e5"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- J'exprime **8 sentiments**.
+- J'utilise **pronoms COD** (*me, te, le, la, les*).
+- Je rédige une **lettre de réconciliation** (~120 mots).
+
+## Histoire d'introduction
+
+Anouk et Tristan se disputent. *« Tu ne m'écoutes jamais. »* —
+*« Mais si, je t'écoute toujours. C'est toi qui parles trop ! »*
+Le soir, Anouk regrette. Elle écrit une lettre.
+
+## 1. Activer
+
+- Avez-vous un(e) meilleur(e) ami(e) ?
+- Vous arrive-t-il de vous disputer ?
+- Comment faites-vous la paix ?
+
+## 2. Apporter
+
+### A. 8 sentiments
+
+- *content(e), heureux(se), triste, fâché(e), jaloux(se),
+ déçu(e), amoureux(se), inquiet(ète).*
+
+### B. Pronoms COD
+
+| | sing. | pluriel |
+|---------|-----------|---------|
+| 1ʳᵉ | me / m' | nous |
+| 2ᵉ | te / t' | vous |
+| 3ᵉ m. | le / l' | les |
+| 3ᵉ f. | la / l' | les |
+
+### C. Lettre d'Anouk (texte original)
+
+> Cher Tristan,
+>
+> Je suis triste depuis hier. Tu **m'**as dit que je parlais
+> trop ; **je** comprends maintenant ce que tu voulais dire.
+> Mais ça **m'**a blessée.
+>
+> J'aimerais qu'on se réconcilie. Demain, je **t'**invite chez
+> Hugo : un macaron pour toi, un pour moi. On en discute ?
+>
+> Tu **me** réponds ?
+>
+> Bisous, Anouk
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Pourquoi Anouk est-elle triste ?
+2. Quel sentiment a-t-elle ?
+3. Comment veut-elle se réconcilier ?
+4. Que demande-t-elle à la fin ?
+
+**Ex. 2 — Pronoms COD.** Remplacez.
+
+1. J'écoute *Tristan*. → Je ___ écoute.
+2. Tu invites *Anouk et moi* ? → Tu ___ invites ?
+3. Elle voit *Mehdi*. → Elle ___ voit.
+4. Vous regardez *les photos* ?
+
+**Ex. 3 — Sentiments.** Quel sentiment ?
+
+1. Anouk a eu 1 en maths. Elle est ___.
+2. Tristan revoit Anouk après 1 mois. Il est ___.
+3. Inès n'a pas reçu le colis. Elle est ___.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) Tristan a dit qu'elle parlait trop. 2) Triste +
+blessée. 3) Inviter Tristan chez Hugo (macaron). 4) Une réponse
+de lui.
+
+**Ex. 2.** 1) l' · 2) nous · 3) le · 4) ___ regardez.
+
+**Ex. 3.** 1) déçue/triste · 2) heureux · 3) inquiète/déçue.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche d'écriture (E, ~120 mots) :**
+
+Écrivez une **lettre de réconciliation** à un(e) ami(e) :
+nommer le conflit + 2 sentiments + proposer 1 action concrète +
+2 pronoms COD.
+
+## 5. Réfléchir
+
+- [ ] Je nomme 8 sentiments.
+- [ ] J'utilise les pronoms COD.
+- [ ] Je rédige une lettre de réconciliation.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+
+**Tâche 1 — Lecture (8 P.)** : lettre Anouk, 4 questions.
+**Tâche 2 — Pronoms (10 P.)** : 8 phrases à transformer.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre lettre (~120 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **Pronom avant le verbe :** *Je **le** vois* (pas *Je vois
+ le*).
+- **Élision :** *m', t', l'* devant voyelle.
+- **Accord du p.p. avec COD antéposé :** *Anouk, je **l'**ai
+ vu**e***.
+
+## Pour aller plus loin
+
+- **Magazine ado *Phosphore*** (réconciliation, conflits) :
+ <https://www.phosphore.com/>

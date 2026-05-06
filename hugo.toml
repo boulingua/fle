@@ -45,7 +45,7 @@ enableEmoji = false
 [[menu.main]]
   name = "À propos"
   weight = 2
-  url = "/a-propos/"
+  url = "/a_propos/"
 
 [[menu.main]]
   name = "Référentiel"
@@ -85,7 +85,7 @@ enableEmoji = false
   identifier = "track-gm"
   name = "Filière G+M (cl. 6–10)"
   weight = 7
-  url = "#"
+  url = "/track_gm_kl06/"
 
 [[menu.main]]
   parent = "track-gm"
@@ -118,7 +118,7 @@ enableEmoji = false
   identifier = "track-e"
   name = "Filière E (cl. 6–13)"
   weight = 8
-  url = "#"
+  url = "/track_e_kl06/"
 
 [[menu.main]]
   parent = "track-e"
@@ -166,7 +166,7 @@ enableEmoji = false
   identifier = "legal"
   name = "Mentions légales"
   weight = 99
-  url = "#"
+  url = "/impressum/"
 
 [[menu.main]]
   parent = "legal"

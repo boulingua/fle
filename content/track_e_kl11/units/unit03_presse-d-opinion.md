@@ -1,0 +1,160 @@
+---
+title: "Unité 3 — Presse d'opinion"
+subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 3
+slug: "presse-d-opinion"
+bildungsplan:
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+skills_focus:
+  - leseverstehen
+  - sprechen_monolog
+vgwort_pixel: "https://vg09.met.vgwort.de/na/23e3c50110a7408a847b42333d4c2acb"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- J'analyse un **éditorial** : thèse, arguments, ton.
+- Je distingue **fait** / **opinion** / **insinuation**.
+- Je rédige un **éditorial** structuré (~300 mots).
+
+## Histoire d'introduction
+
+Anouk reçoit deux éditos sur le **même sujet** : *Le Monde*
+et *Le Figaro* sur la réforme des retraites. Théodore
+demande : *« Repérez les biais. »*
+
+## 1. Activer
+
+- Lisez-vous les éditos en ligne ?
+- *Fait* / *opinion* : sauriez-vous les distinguer ?
+- Quel ton attend-on dans un édito ?
+
+## 2. Apporter
+
+### A. Structure d'un éditorial (4 mouvements)
+
+| Mouvement | Contenu |
+|-------------|---------------------------------------|
+| accroche | actualité immédiate |
+| thèse | position en 1 phrase |
+| arguments | 2-3 + 1 contre-argument réfuté |
+| chute | image forte / appel |
+
+### B. Fait vs opinion vs insinuation
+
+- **Fait** : *« Le SMIC a augmenté de 1,8 % au 1ᵉʳ janv. »*
+- **Opinion** : *« C'est insuffisant. »*
+- **Insinuation** : *« Comme on pouvait s'y attendre du
+ gouvernement »* (sous-entendu).
+
+### C. Édito-modèle (texte original)
+
+> **Climat : la jeunesse n'attendra pas**
+>
+> Mardi à Karlsruhe, **3 000 lycéen·ne·s** ont marché sous
+> la pluie. **Pourquoi ?** Parce que les engagements
+> climatiques de 2015 (Paris) restent **lettre morte**.
+>
+> Notre **thèse** est claire : la procrastination
+> climatique des États n'est plus tolérable. **Trois
+> arguments** :
+>
+> **D'abord**, la science est unanime — le GIEC alerte
+> depuis 30 ans. **Ensuite**, les jeunes paieront le prix
+> de l'inaction. **Enfin**, des solutions existent :
+> isolation des bâtiments, sortie du charbon, mobilités
+> douces.
+>
+> *« Mais ces marches ne servent à rien »*, dira-t-on.
+> **C'est faux** : les manifestations Fridays for Future
+> ont **mis le climat à l'agenda** dans **84 pays**.
+>
+> **Conclusion** : il est temps que les gouvernements
+> entendent. **La jeunesse n'attendra plus.**
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quelle est l'accroche ?
+2. Quelle est la thèse en 1 phrase ?
+3. Quels 3 arguments ?
+4. Quel contre-argument est réfuté ?
+
+**Ex. 2 — Fait / opinion / insinuation.** Classez 6
+phrases courtes (fournies).
+
+**Ex. 3 — Connecteurs argumentatifs.** Identifiez 5
+connecteurs dans l'édito.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) 3 000 lycéen·ne·s à Karlsruhe sous la pluie.
+2) La procrastination climatique des États n'est plus
+tolérable. 3) Science unanime · jeunes paieront · solutions
+existent. 4) « Ces marches ne servent à rien. »
+
+**Ex. 2.** Réponses selon phrases fournies.
+
+**Ex. 3.** *D'abord · ensuite · enfin · mais · conclusion*
+(au moins 5).
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche d'écriture (E, ~300 mots) :**
+
+Rédigez **votre éditorial** sur un sujet d'actualité (climat,
+IA, paix Ukraine, vie démocratique) : 4 mouvements +
+3 arguments + 1 contre-argument réfuté + 5 connecteurs.
+
+## 5. Réfléchir
+
+- [ ] Je structure un édito en 4 mouvements.
+- [ ] Je distingue fait / opinion / insinuation.
+- [ ] Je rédige un édito de 300 mots.
+
+## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
+
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : édito climat,
+5 questions.
+**Tâche 2 — Fait/opinion (8 P.)** : 8 phrases.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre édito (~300 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Insinuation »** = opinion **déguisée** en fait, à
+ débusquer.
+- **« Lettre morte »** = expression idiomatique (=
+ inappliqué).
+- **« GIEC »** = Groupe d'experts intergouvernemental sur
+ l'évolution du climat (en anglais : *IPCC*).
+
+## Pour aller plus loin
+
+- **Le Monde — éditoriaux** :
+ <https://www.lemonde.fr/idees-editorial/>
+- **Mediapart (presse indépendante)** :
+ <https://www.mediapart.fr/>

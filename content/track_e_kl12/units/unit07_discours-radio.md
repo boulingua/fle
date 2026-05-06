@@ -1,0 +1,173 @@
+---
+title: "Unité 7 — Discours et radio (France Inter)"
+subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 7
+slug: "discours-radio"
+bildungsplan:
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+skills_focus:
+  - hör_hörsehverstehen
+  - sprechen_monolog
+vgwort_pixel: "https://vg09.met.vgwort.de/na/266cd8bbbc3541d68348ad5f22fa22e8"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- J'écoute un **éditorial radio** (5-7 min, France Inter).
+- Je connais les **codes de l'oralité radiophonique**.
+- Je présente **mon propre éditorial radio** (~3 min).
+
+## Histoire d'introduction
+
+Théodore : *« Préparons l'oral d'épreuve finale. France Inter
+publie chaque matin un édito de 3 minutes. C'est le format
+parfait. »*
+
+## 1. Activer
+
+- Quel éditorialiste radio FR connaissez-vous ?
+- *Édito radio* / *édito journal* : différence ?
+- 3 min = combien de mots ?
+
+## 2. Apporter
+
+### A. Codes de l'éditorial radio
+
+| Code | Détail |
+|----------------|--------------------------------------|
+| **rythme** | 150 mots / minute en moyenne |
+| **phrases** | courtes (<15 mots) majoritaires |
+| **adresse** | « vous », « nous » directs |
+| **chute** | mot fort + virgule + signature |
+| **identification**| nom + chronique + heure |
+
+### B. 6 grands éditorialistes francophones
+
+- *Brigitte Patient* (France Inter, photo)
+- *Thomas Legrand* (Libé / FI politique)
+- *Patrick Cohen* (Europe 1 / France Inter)
+- *Léa Salamé* (FI matinale)
+- *Sonia Devillers* (FI médias)
+- *Hubert Védrine* (international)
+
+### C. Édito radio Anouk (texte original, ~450 mots / 3 min)
+
+> **France Inter — Édito 8 h 12, mardi 15 mai 2029.**
+>
+> Bonjour, ici Anouk Schmidt, **chronique francophone du
+> mardi**.
+>
+> *Aujourd'hui, je voudrais parler des frontières — celles
+> qui se ferment et celles qui s'ouvrent.*
+>
+> Depuis l'été dernier, l'Union européenne a renforcé
+> Frontex. **3 000 garde-frontières supplémentaires** en
+> Méditerranée. **Un milliard d'euros** investis. Et
+> pourtant, on continue de mourir en mer — **2 200 victimes**
+> en 2024.
+>
+> **D'un côté**, des murs : Grèce-Turquie, Hongrie-Serbie,
+> Calais-Dunkerque. **De l'autre**, des ponts : Erasmus,
+> jumelages, OFAJ. Comme nos arrière-grands-parents le
+> savaient déjà : **les frontières naissent dans la peur**.
+>
+> Mais une frontière n'est pas un fait, c'est une décision.
+> *« Aucune muraille ne tient devant un peuple en
+> mouvement »*, écrivait **Édouard Glissant**.
+>
+> Alors, mardi prochain, **j'irai à Lille** — chez mon
+> correspondant Karim, dans le cadre d'**Erasmus+ jeunesse**.
+> Et le mardi suivant, à **Aix-la-Chapelle**, ville-pont
+> d'Europe.
+>
+> *Pour France Inter, c'était la chronique francophone du
+> mardi. Belle journée à toustes — et à mardi prochain.*
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture / écoute (texte C).**
+
+1. Quel jour et quelle heure de diffusion ?
+2. Combien de garde-frontières renforcent Frontex ?
+3. Combien de victimes en mer en 2024 ?
+4. Quelle citation de Glissant ?
+
+**Ex. 2 — Codes radio.** Identifiez :
+
+a) **Rythme** : combien de phrases courtes (<15 mots) ?
+b) **Adresse au public** : 1 exemple ?
+c) **Chute** : reformulez la chute en 1 phrase.
+
+**Ex. 3 — Édito miniature (3 phrases).** Sur le sujet de
+votre choix.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) Mardi, 8 h 12. 2) 3 000. 3) 2 200. 4) *« Aucune
+muraille ne tient devant un peuple en mouvement. »*
+
+**Ex. 2.** a) majoritaires (au moins 8). b) *« Bonjour, ici
+Anouk … »* / *« Belle journée à toustes … »*. c) *Un peuple
+qui voyage défait toutes les murailles.*
+
+**Ex. 3.** Réponses libres.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche orale (E, ~3 min) :**
+
+Préparez **votre édito radio** sur un sujet d'actualité
+(climat, IA, mémoire) : **450 mots** + identification
+initiale + chute mémorable + 1 citation + 5 phrases
+courtes.
+
+## 5. Réfléchir
+
+- [ ] Je connais les 5 codes de l'édito radio.
+- [ ] Je tiens 3 min en lecture-radio.
+- [ ] Je rédige 450 mots oralisables.
+
+## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E)
+
+**Tâche 1 — Hörverstehen (10 P.)** : édito Anouk,
+5 questions.
+**Tâche 2 — Codes (8 P.)** : 4 identifications.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre édito (~450 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« 150 mots / min »** : norme professionnelle radio.
+ Pour 3 min = 450 mots.
+- **« Toustes »** : écriture inclusive *tous + toutes*,
+ fréquente en radio jeune.
+- **« Pour France Inter »** : signature consacrée, à imiter.
+
+## Pour aller plus loin
+
+- **France Inter — éditos podcast** :
+ <https://www.radiofrance.fr/franceinter>
+- **France Culture — La méthode scientifique** :
+ <https://www.radiofrance.fr/franceculture>

@@ -1,0 +1,155 @@
+---
+title: "Unité 2 — Ma famille"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 2
+slug: "ma-famille-e"
+bildungsplan:
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.2 Compréhension écrite"
+skills_focus:
+  - sprechen_monolog
+  - leseverstehen
+vgwort_pixel: "https://vg09.met.vgwort.de/na/1c1d3a3a981d463c8cb6fa8fbe95f76c"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je nomme **10 membres** de la famille.
+- J'utilise les **adjectifs possessifs** (*mon, ma, mes…*).
+- Je présente ma famille en 6 phrases.
+
+## Histoire d'introduction
+
+Anouk montre une photo : *« Voici ma famille. Mon père Klaus,
+ma mère Sonja, ma petite sœur Lena. Nous habitons à Karlsruhe. »*
+Tristan : *« Tu as de la chance — moi, je suis fils unique. »*
+
+## 1. Activer
+
+- Combien êtes-vous dans votre famille ?
+- Avez-vous des frères, des sœurs ?
+- Vos grands-parents habitent-ils près de chez vous ?
+
+## 2. Apporter
+
+### A. 10 membres de la famille
+
+| Français | Allemand |
+|----------------|--------------|
+| le père / papa | der Vater / Papa |
+| la mère / maman| die Mutter / Mama |
+| le frère | der Bruder |
+| la sœur | die Schwester|
+| le grand-père | der Opa |
+| la grand-mère | die Oma |
+| l'oncle | der Onkel |
+| la tante | die Tante |
+| le cousin | der Cousin |
+| la cousine | die Cousine |
+
+### B. Adjectifs possessifs (1ʳᵉ pers.)
+
+| Singulier | Pluriel |
+|-------------------|---------|
+| **mon** père | **mes** parents |
+| **ma** mère | **mes** sœurs |
+| **mon** amie *(voyelle)* | **mes** amis |
+
+### C. La famille d'Anouk (texte original)
+
+> J'ai une petite famille. **Mon** père s'appelle Klaus, il
+> est ingénieur. **Ma** mère, Sonja, est médecin. **Ma**
+> petite sœur Lena a 8 ans — elle est en CE2.
+>
+> **Mes** grands-parents habitent à Stuttgart. **Mon** oncle
+> Hans et **ma** tante Ingrid vivent à Berlin. J'ai aussi
+> deux **cousines**, Mia et Klara, mais on se voit seulement
+> à Noël.
+>
+> Notre chien s'appelle Bello. Lui, il est avec nous tous les
+> jours !
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Comment s'appelle le père d'Anouk ? Sa profession ?
+2. Quel âge a Lena ?
+3. Où vivent les grands-parents ?
+4. Qui sont Mia et Klara ?
+
+**Ex. 2 — Possessifs.** Complétez avec *mon, ma, mes*.
+
+1. ___ père · 2. ___ mère · 3. ___ frères · 4. ___ tante ·
+5. ___ amie · 6. ___ grands-parents.
+
+**Ex. 3 — Vocabulaire.** Qui est-ce ?
+
+a) La sœur de mon père = ___.
+b) Le fils de mon oncle = ___.
+c) Le père de ma mère = ___.
+d) La fille de mes parents = ___.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) Klaus, ingénieur. 2) 8 ans. 3) Stuttgart.
+4) Les cousines (filles de l'oncle Hans / tante Ingrid).
+
+**Ex. 2.** 1) mon · 2) ma · 3) mes · 4) ma · 5) mon
+(devant voyelle) · 6) mes.
+
+**Ex. 3.** a) ma tante · b) mon cousin · c) mon grand-père ·
+d) ma sœur.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche orale (E, ~6 phrases) :**
+
+Présentez **votre famille** en 6 phrases : nombres, prénoms,
+âges, professions, ville, animaux. Utilisez **5 possessifs**.
+
+## 5. Réfléchir
+
+- [ ] Je nomme 10 membres.
+- [ ] J'utilise *mon, ma, mes*.
+- [ ] Je présente ma famille en 6 phrases.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+
+**Tâche 1 — Vocabulaire (10 P.)** : 10 membres à traduire.
+**Tâche 2 — Lecture (8 P.)** : famille d'Anouk, 4 questions.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre famille (~70 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Mon amie »** (devant voyelle, même au féminin).
+- **« Cousin / cousine »** prend 1 *s* en français.
+- **« Bello »** = chien : article *un chien*, pas *le chien*
+ pour la 1ʳᵉ mention.
+
+## Pour aller plus loin
+
+- **TV5 Monde — La famille** :
+ <https://apprendre.tv5monde.com/>

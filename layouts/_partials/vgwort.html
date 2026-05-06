@@ -1,0 +1,4 @@
+{{- /* VG Wort Zählpixel — emit a 1x1 invisible img if frontmatter declares it. */ -}}
+{{- with .Params.vgwort_pixel -}}
+<img src="{{ . | safeURL }}" width="1" height="1" alt="" loading="eager" fetchpriority="high" decoding="async" referrerpolicy="no-referrer" class="vgwort-pixel" />
+{{- end -}}

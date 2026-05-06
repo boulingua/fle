@@ -1,0 +1,149 @@
+---
+title: "Unité 11 — Voyage de découverte (Strasbourg)"
+subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 11
+slug: "voyage-decouverte"
+bildungsplan:
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.3.4 Expression orale — monologisches Expression orale"
+skills_focus:
+  - hör_hörsehverstehen
+  - sprechen_monolog
+vgwort_pixel: "https://vg09.met.vgwort.de/na/1d1eeb688d16475ab442f3cf2df51729"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je connais **5 monuments** de Strasbourg.
+- Je comprends une **annonce** de tour guidé.
+- Je présente une visite en 5 phrases.
+
+## Histoire d'introduction
+
+Voyage scolaire à Strasbourg. *« Ici, mes enfants, la
+cathédrale Notre-Dame, 142 mètres de haut. Construite entre
+1015 et 1439. »* — *« Vous voyez la pendule ? »*
+
+## 1. Activer
+
+- Avez-vous déjà visité Strasbourg ?
+- Que savez-vous du Parlement européen ?
+- Quels monuments allemands aimez-vous ?
+
+## 2. Apporter
+
+### A. 5 monuments de Strasbourg
+
+| Monument | Particularité |
+|---------------------------|--------------------------|
+| la cathédrale Notre-Dame | 142 m, gothique |
+| la Petite France | quartier alsacien |
+| le Parlement européen | siège à Strasbourg |
+| le Palais Rohan | musée + ancienne résidence|
+| les Ponts couverts | XIIIᵉ siècle |
+
+### B. Vocabulaire de tourisme
+
+- *un guide · un audioguide · un musée · une visite ·
+ un billet · un tarif · l'entrée · la sortie.*
+
+### C. Annonce du guide (texte original)
+
+> *« Bonjour à tous, bienvenue à Strasbourg ! Notre visite
+> commence à 10h, ici sur la place de la Cathédrale. Notre-Dame
+> mesure 142 mètres — pendant 200 ans, c'était l'édifice le
+> plus haut du monde !*
+>
+> *À l'intérieur, ne ratez pas l'horloge astronomique, qui
+> sonne à 12h30. Ensuite, à pied, nous irons à la Petite France
+> — un quartier de pêcheurs et tanneurs du XVIᵉ siècle.*
+>
+> *La visite dure 2 heures. Tarif : 8 € pour les adultes, 4 €
+> pour les jeunes de moins de 18 ans. Audioguide en allemand
+> ou en anglais : 2 € en plus. Bonne visite ! »*
+
+## 3. S'entraîner
+
+**Ex. 1 — Compréhension orale (« Hören ») (texte C).**
+
+1. Où commence la visite ?
+2. Quelle est la hauteur de la cathédrale ?
+3. À quelle heure sonne l'horloge astronomique ?
+4. Combien coûte la visite jeune ?
+
+**Ex. 2 — Vocabulaire.** Traduisez.
+
+a) ein Guide · b) ein Museum · c) der Eintritt · d) die
+Führung · e) ein Audioguide.
+
+**Ex. 3 — Quel monument ?**
+
+a) Quartier de pêcheurs.
+b) 142 mètres de haut.
+c) Siège européen.
+d) XIIIᵉ siècle, sur l'eau.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) Place de la Cathédrale, à 10h. 2) 142 m. 3) 12h30.
+4) 4 € (moins de 18 ans).
+
+**Ex. 2.** a) un guide · b) un musée · c) l'entrée · d) une
+visite (guidée) · e) un audioguide.
+
+**Ex. 3.** a) Petite France · b) Cathédrale · c) Parlement
+européen · d) Ponts couverts.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche orale (E, ~5 phrases) :**
+
+Présentez **une visite** d'un monument (Strasbourg ou autre) :
+nom, lieu, date de construction, particularité, votre avis.
+
+## 5. Réfléchir
+
+- [ ] Je connais 5 monuments de Strasbourg.
+- [ ] Je comprends une annonce de tour guidé.
+- [ ] Je présente une visite en 5 phrases.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+
+**Tâche 1 — Hörverstehen (12 P.)** : annonce, 6 questions.
+**Tâche 2 — Vocabulaire (6 P.)** : 6 termes de tourisme.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre visite (~70 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 12' · Écoute 5' ·
+S'entraîner 11' · Produire 11' · Réfléchir 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Cathédrale »** = féminin. *« La cathédrale Notre-Dame »*.
+- **« Le Parlement européen »** est à Strasbourg, pas à
+ Bruxelles (Commission/Conseil seulement à Bruxelles).
+- **« 1 €/2 €/8 € »** = se prononce *« un euro / deux euros /
+ huit euros »*.
+
+## Pour aller plus loin
+
+- **Office de tourisme de Strasbourg** :
+ <https://www.visitstrasbourg.fr/>

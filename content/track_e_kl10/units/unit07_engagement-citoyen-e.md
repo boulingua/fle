@@ -1,0 +1,163 @@
+---
+title: "Unité 7 — Engagement citoyen des jeunes"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 7
+slug: "engagement-citoyen-e"
+bildungsplan:
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.3.5 Expression écrite"
+skills_focus:
+  - sprechen_dialog
+  - schreiben
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2333fa6f03aa41a1ac94461e646ad7e5"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je connais **5 formes d'engagement** des jeunes en France.
+- Je dialogue **10 répliques** sur l'engagement (climat,
+ associations, vote).
+- Je rédige une **tribune** d'opinion (~180 mots).
+
+## Histoire d'introduction
+
+Anouk rejoint **Fridays for Future Karlsruhe**. Mehdi en
+visite l'interroge : *« En Tunisie, on milite autrement —
+chez vous, comment ça marche ? »* Anouk décrit une marche du
+22 mars.
+
+## 1. Activer
+
+- Quelle forme d'engagement vous attire ?
+- À 16 ans, peut-on **voter** en France ?
+- Bénévolat : combien d'heures par mois ?
+
+## 2. Apporter
+
+### A. 5 formes d'engagement (jeunes en FR)
+
+| Forme | Détail |
+|--------------------------|----------------------------------|
+| militer | Fridays for Future, etc. |
+| s'engager dans une asso | Secours pop., Restos du cœur |
+| voter (dès 18 ans) | présidentielles, législatives |
+| service civique | 6-12 mois, 580 € / mois |
+| pétition / consultation | en ligne, mairie, lycée (« Gymnasium ») |
+
+### B. Verbes pour exprimer l'engagement
+
+- *militer · s'engager · pétitionner · manifester · soutenir
+ · sensibiliser · voter · agir · revendiquer · défendre.*
+
+### C. Tribune d'Anouk (texte original)
+
+> **Pourquoi je marche le vendredi**
+>
+> J'**ai 16 ans** et je marche chaque vendredi avec **Fridays
+> for Future Karlsruhe**. Pourquoi ? Parce que **mon avenir
+> dépend** des décisions politiques d'aujourd'hui.
+>
+> **D'une part**, je ne **vote pas encore** — il faut
+> attendre 18 ans en France comme en Allemagne. Mais
+> **d'autre part**, j'ai une voix : **manifester**, c'est
+> participer.
+>
+> Je **soutiens** aussi le Secours Populaire : 4 heures par
+> mois pour distribuer des paniers solidaires. Et je **signe
+> des pétitions** sur change.org.
+>
+> **Cependant**, je ne suis pas naïve : un seul acte ne
+> change rien. **C'est l'addition** de millions de jeunes
+> qui pèse. Comme **Greta Thunberg** l'a dit : *« No one is
+> too small to make a difference. »*
+>
+> **Enfin**, je crois qu'on doit **éduquer** notre famille
+> aussi : mon père n'avait jamais entendu parler du **bilan
+> carbone**. Il en parle maintenant. C'est déjà ça.
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quel mouvement rejoint Anouk ?
+2. Pourquoi ne vote-t-elle pas encore ?
+3. Quelle association soutient-elle ?
+4. Quelle citation utilise-t-elle ?
+
+**Ex. 2 — Verbes d'engagement.** Conjuguez :
+
+a) Je ___ (militer) chaque vendredi.
+b) Nous ___ (manifester) dans la rue.
+c) Tu ___ (signer) des pétitions.
+
+**Ex. 3 — Connecteurs argumentatifs.** Identifiez 4
+connecteurs dans la tribune (texte C).
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) Fridays for Future Karlsruhe. 2) Pas encore
+18 ans. 3) Secours Populaire (4 h/mois). 4) Greta
+Thunberg : *« No one is too small to make a difference. »*
+
+**Ex. 2.** a) milite · b) manifestons · c) signes.
+
+**Ex. 3.** *D'une part / d'autre part · cependant · enfin*
+(au moins 4).
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche d'écriture (E, ~180 mots) :**
+
+Rédigez **votre tribune** sur un sujet d'engagement
+(climat, harcèlement, mémoire, droits LGBT) : 4 § + 6
+connecteurs + 5 verbes d'engagement + 1 citation.
+
+## 5. Réfléchir
+
+- [ ] Je connais 5 formes d'engagement.
+- [ ] J'utilise 6 verbes d'engagement.
+- [ ] Je rédige une tribune de 180 mots.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+
+**Tâche 1 — Lecture (10 P.)** : tribune Anouk, 5 questions.
+**Tâche 2 — Verbes (8 P.)** : 4 conjugaisons d'engagement.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre tribune (~180 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Militer »** ≠ *manifester* : militer = engagement
+ durable ; manifester = défiler dans la rue.
+- **Vote à 18 ans** en France et en Allemagne ; certaines
+ élections municipales (DE) à 16 ans (Brandenburg, NRW…).
+- **« Tribune »** = texte d'opinion signé dans un journal,
+ ≠ *éditorial* (signé par la rédaction).
+
+## Pour aller plus loin
+
+- **Service Civique (FR)** :
+ <https://www.service-civique.gouv.fr/>
+- **Fridays for Future Deutschland** :
+ <https://fridaysforfuture.de/>

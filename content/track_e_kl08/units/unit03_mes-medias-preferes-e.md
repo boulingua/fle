@@ -1,0 +1,145 @@
+---
+title: "Unité 3 — Mes médias préférés"
+subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 3
+slug: "mes-medias-preferes-e"
+bildungsplan:
+  - "3.1.3.3 Expression orale — interaction"
+  - "3.1.4 Compétence textuelle et médiatique"
+skills_focus:
+  - sprechen_dialog
+  - text_medien
+vgwort_pixel: "https://vg09.met.vgwort.de/na/1f9ede6fc1e1427d9361f798b4c3405e"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je parle de mes **médias préférés** (séries, podcasts, chaînes).
+- J'utilise **8 verbes d'opinion** (*trouver, penser, préférer …*).
+- Je dialogue **8 répliques** sur les goûts médiatiques.
+
+## Histoire d'introduction
+
+Récré du mardi. Karim demande à Anouk : *« Tu regardes quoi en
+ce moment ? »* Anouk hésite — entre **Lupin** (Netflix), un
+**podcast** Arte radio et la chaîne YouTube **HugoDécrypte**.
+
+## 1. Activer
+
+- Quelle série regardez-vous en français ?
+- Quel podcast écoutez-vous ?
+- YouTube ou télé ? Pourquoi ?
+
+## 2. Apporter
+
+### A. 8 verbes d'opinion
+
+- *trouver, penser, préférer, adorer, détester, aimer, croire,
+ recommander.*
+- Construction : *Je trouve que c'est …* / *Je préfère X à Y.*
+
+### B. Vocabulaire des médias
+
+- *une série · un épisode · une saison · un podcast · une
+ chaîne · un·e youtubeur·euse · le replay · l'actualité.*
+
+### C. Dialogue Karim ↔ Anouk (texte original)
+
+> **Karim** : Salut Anouk ! Tu regardes quoi en ce moment ?
+>
+> **Anouk** : Je regarde *Lupin* sur Netflix — j'adore Omar
+> Sy ! Et toi ?
+>
+> **Karim** : Moi, je préfère les podcasts. J'écoute *Les
+> Odyssées* d'Arte radio — c'est génial pour l'Histoire.
+>
+> **Anouk** : Tiens, je vais essayer. Tu connais
+> *HugoDécrypte* ?
+>
+> **Karim** : Oui, je trouve qu'il explique très bien
+> l'actualité. Je le recommande à tous mes amis.
+>
+> **Anouk** : Je pense que je vais m'abonner à sa chaîne.
+> Merci pour le tuyau !
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Quelle série regarde Anouk ?
+2. Quel podcast écoute Karim ?
+3. Qui est HugoDécrypte ?
+4. Que va faire Anouk après ce dialogue ?
+
+**Ex. 2 — Verbes d'opinion.** Complétez :
+
+a) Je ___ (trouver) que cette série est super.
+b) Je ___ (préférer) les podcasts aux vidéos.
+c) Je ___ (recommander) cette chaîne à mes amis.
+
+**Ex. 3 — Vocabulaire.** Reliez : *épisode · saison · replay ·
+chaîne · podcast.*
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) *Lupin*. 2) *Les Odyssées* d'Arte radio. 3) Un
+youtubeur d'actualité. 4) S'abonner à sa chaîne.
+
+**Ex. 2.** a) trouve · b) préfère · c) recommande.
+
+**Ex. 3.** Réponses libres (associations sémantiques).
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche dialogique (E, en binôme, ~8 répliques) :**
+
+A et B parlent de leurs **médias préférés** : 1 série + 1
+podcast + 1 chaîne YouTube + **3 verbes d'opinion** différents
++ 1 recommandation.
+
+## 5. Réfléchir
+
+- [ ] J'utilise 5 verbes d'opinion.
+- [ ] Je connais 8 mots des médias.
+- [ ] Je dialogue 8 répliques sur les goûts médiatiques.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+
+**Tâche 1 — Lecture (8 P.)** : dialogue Karim/Anouk, 4 questions.
+**Tâche 2 — Verbes d'opinion (10 P.)** : 5 mini-phrases.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : dialogue (~120 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Je trouve que »** + indicatif (jamais subjonctif au E).
+- **« Préférer X à Y »** (et non *que Y*).
+- **Anglicismes** : préférer *youtubeur* à *youtuber* à l'écrit.
+
+## Pour aller plus loin
+
+- **Arte radio — *Les Odyssées* (France Inter)** :
+ <https://www.radiofrance.fr/franceinter/podcasts/les-odyssees>
+- **HugoDécrypte (chaîne YouTube actu)** :
+ <https://www.youtube.com/@HugoDecrypte>

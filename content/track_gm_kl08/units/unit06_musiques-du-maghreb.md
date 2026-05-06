@@ -1,0 +1,200 @@
+---
+title: "Unité 6 — Musiques du Maghreb"
+subtitle: "Parcours G+M · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 6
+slug: "musiques-du-maghreb"
+bildungsplan:
+  - "3.1.3.1 Compréhension orale et audiovisuelle"
+  - "3.1.4 Compétence textuelle et médiatique"
+  - "3.1.1 Connaissances socio-culturelles / thèmes"
+skills_focus:
+  - hör_hörsehverstehen
+  - text_medien
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2cfab95fb94346f2a39d7f7037df11b7"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je comprends une chanson francophone du Maghreb au refrain.
+- Je distingue **raï · chaâbi · rap maghrébin**.
+- Je présente une chanson en deux phrases.
+
+## Alignement référentiel (« Bildungsplan »)
+
+- **3.1.3.1** Compréhension orale (« Hören ») et audiovisuelle (« Hör-/Hörsehverstehen »)
+- **3.1.4** Compétence textuelle et médiatique (« Text- und Medienkompetenz »)
+- **3.1.1** Soziokulturelles Orientierungswissen
+
+## Histoire d'introduction
+
+Vendredi midi, salle de musique. Madame Renault montre une carte
+du Maghreb (Maroc · Algérie · Tunisie). Karim a apporté son
+téléphone. *« Madame, je vous fais écouter du raï ? »* Elle
+sourit : *« Vas-y. Mais explique d'abord ce que c'est. »*
+
+## 1. Activer
+
+- Connaissez-vous des chanteur·euse·s francophones d'origine
+ maghrébine ?
+- Le mot **raï** vient de quelle langue ?
+- Quelle musique écoutent vos ami·e·s en allemand ?
+
+## 2. Apporter
+
+### A. Trois genres en deux lignes (texte original)
+
+> **Raï.** Né dans la région d'Oran (Algérie) dans les années
+> 1980. Mélange chant en arabe dialectal + paroles en français.
+> Voix puissantes. Un·e des plus connu·e·s : **Cheb Khaled**
+> (« *Aïcha* », 1996).
+
+> **Chaâbi.** Plus ancien. Musique populaire algérienne et
+> marocaine, héritage andalou. Souvent au mariage et dans la
+> rue. Instruments : luth (oud), violon, derbouka.
+
+> **Rap maghrébin.** Apparu dans les années 2000. Mélange
+> arabe / français / argot. Thèmes : famille, double identité,
+> banlieue. Exemples : **Soolking, Lacrim**.
+
+### B. Refrain modèle (texte original, ~30 mots)
+
+> Entre Marseille et Oran,
+> entre l'écran et le vent,
+> je chante deux pays —
+> et aucun n'est entier.
+>
+> *(Refrain didactique original — pas un texte de chanson
+> existant.)*
+
+### C. Vocabulaire
+
+| Mot | Sens |
+|---------------------|--------------------------------------|
+| le raï | genre musical algérien |
+| le chaâbi | musique populaire (héritage andalou) |
+| le luth / oud | instrument à cordes |
+| la derbouka | tambour |
+| une diaspora | communauté qui vit hors de son pays |
+| une double identité | appartenance à deux cultures |
+
+## 3. S'entraîner
+
+**Ex. 1 — Genre, deux lignes.** Quel genre se cache derrière ?
+
+1. Mélange arabe / français, voix puissante, années 1980, Algérie.
+2. Mariages, oud, derbouka, héritage andalou.
+3. Banlieue, famille, double identité, années 2000.
+
+**Ex. 2 — Refrain (texte B).** Vrai ou faux ?
+
+1. Le texte parle d'une seule ville.
+2. *« Aucun n'est entier »* signifie qu'aucun pays n'est complet
+ pour la voix qui chante.
+3. *« L'écran »* fait référence à la télévision ou au téléphone.
+
+**Ex. 3 — Vocabulaire.** Reliez :
+
+a) une diaspora · b) le luth · c) la derbouka · d) le rap
+ maghrébin
+
+1. Tambour de la musique chaâbi.
+2. Genre apparu dans les années 2000.
+3. Communauté installée hors de son pays d'origine.
+4. Instrument à cordes.
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) raï · 2) chaâbi · 3) rap maghrébin.
+
+**Ex. 2.** 1) F (Marseille + Oran) · 2) V · 3) V.
+
+**Ex. 3.** a–3 · b–4 · c–1 · d–2.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche orale (M, 1 min) :**
+
+Présentez une chanson francophone (de votre choix) en deux
+phrases :
+
+1. **Genre + artiste**.
+2. **Pourquoi vous l'avez choisie**.
+
+**Modèle (M, ~50 mots) :**
+
+> J'ai choisi *« Tiki »* de Soolking, un rap maghrébin de 2019.
+> Je l'ai choisi parce que les paroles passent du français à
+> l'arabe et c'est intéressant : on entend les deux langues
+> dans la même chanson, comme dans la vie de Karim.
+
+## 5. Réfléchir
+
+- [ ] Je distingue raï, chaâbi, rap maghrébin.
+- [ ] Je comprends un refrain de ~30 mots.
+- [ ] Je présente une chanson en deux phrases.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M, partie écoute)
+
+**Tâche 1 — Hörverstehen (15 P.)**
+
+Vous écoutez le refrain (texte B, lu deux fois) et répondez :
+
+1. Quels sont les **deux lieux** mentionnés ?
+2. Que signifie *« aucun n'est entier »* ?
+3. À votre avis, qui est la voix qui chante ? Qu'est-ce qui
+ vous fait dire ça ?
+
+**Tâche 2 — Text-/Medienkompetenz (10 P.)**
+
+Lisez les trois descriptions de genres (texte A). Choisissez le
+genre qui correspond à chaque indice :
+
+a) Mélange arabe-français + voix puissantes + Oran 1980 → ___
+b) Oud + derbouka + mariages → ___
+c) Banlieue + double identité + années 2000 → ___
+
+**Tâche 3 — Expression écrite (« Schreiben ») (5 P.)**
+
+En 3 phrases : décrivez votre **chanson préférée** (genre +
+artiste + pourquoi).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+
+**Plan (90 min) :** Activer 7' · Apporter (audio + lecture) 22' ·
+S'entraîner 18' · Produire (présentations courtes) 25' ·
+Réfléchir 3' · Aperçu 15'.
+
+</div>
+
+## Pièges fréquents
+
+- **« le raï »** se prononce *[raj]*, pas *[ré]*.
+- **Maghreb** = trois pays principaux (Maroc · Algérie ·
+ Tunisie) ; **pas** synonyme d'Afrique du Nord (qui inclut
+ aussi la Mauritanie et la Libye).
+- **Diaspora** est féminin : *la* diaspora, pas *le*.
+
+## Pour aller plus loin
+
+- **France Musique — Maghreb** :
+ <https://www.radiofrance.fr/francemusique>
+- **Mediapart — Cultures du Maghreb** : <https://www.mediapart.fr/>
+- **TV5 Monde — Musique francophone** :
+ <https://apprendre.tv5monde.com/>

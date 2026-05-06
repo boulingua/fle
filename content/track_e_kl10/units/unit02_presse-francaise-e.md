@@ -1,0 +1,151 @@
+---
+title: "Unité 2 — La presse française"
+subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 2
+slug: "presse-francaise-e"
+bildungsplan:
+  - "3.1.3.2 Compréhension écrite"
+  - "3.1.4 Compétence textuelle et médiatique"
+skills_focus:
+  - leseverstehen
+  - text_medien
+vgwort_pixel: "https://vg09.met.vgwort.de/na/229e50e5b0024e609ceabe56f1477100"
+---
+
+{{< callout type="note" >}}
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Objectifs
+
+- Je distingue **6 grands titres** de la presse française.
+- J'identifie un **éditorial**, un **billet**, une **brève**.
+- Je rédige une **brève d'actualité** (~120 mots).
+
+## Histoire d'introduction
+
+Mlle Lefèvre dépose 6 quotidiens sur la table : *Le Monde*,
+*Libération*, *Le Figaro*, *La Croix*, *L'Équipe*, *Ouest-
+France*. *« Chacun a une ligne éditoriale. Devinez ! »* Anouk
+classe : centre-gauche, gauche, droite, catholique, sport,
+régional.
+
+## 1. Activer
+
+- Quel quotidien français connaissez-vous ?
+- Lisez-vous la presse en ligne ?
+- *Une* / *éditorial* : différence ?
+
+## 2. Apporter
+
+### A. 6 titres + ligne éditoriale
+
+| Titre | Ligne éditoriale | Création |
+|----------------|-------------------------|----------|
+| Le Monde | centre-gauche, vesperal| 1944 |
+| Libération | gauche, contre-pouvoir | 1973 |
+| Le Figaro | droite libérale | 1826 |
+| La Croix | catholique, modéré | 1880 |
+| L'Équipe | sport quotidien | 1946 |
+| Ouest-France | régional (1ᵉʳ tirage FR)| 1944 |
+
+### B. 3 genres journalistiques
+
+- **Brève** : 100-150 mots, 5W (qui/quoi/où/quand/pourquoi).
+- **Éditorial** : opinion signée, ligne du journal.
+- **Billet** : ton libre, court, parfois humoristique.
+
+### C. Brève d'actualité (texte original)
+
+> **Karlsruhe : 200 livres pour Tunis**
+>
+> Ce mardi 4 mars 2026, des élèves de 8e du lycée (« Gymnasium ») de
+> Karlsruhe ont conclu une **collecte de 200 livres
+> jeunesse** en français.
+>
+> Initiée par Anouk Schmidt et Karim Belhadj, l'opération
+> bénéficiera à **l'école Ibn Khaldoun de Tunis**, où
+> exerce une architecte tunisienne. Les ouvrages seront
+> envoyés **début avril** par bateau via une association
+> partenaire.
+>
+> *« Briser les frontières par le livre »*, résume la
+> coordinatrice de classe, Mme Devos.
+
+## 3. S'entraîner
+
+**Ex. 1 — Lecture (texte C).**
+
+1. Combien de livres ont été collectés ?
+2. À quelle école sont-ils destinés ?
+3. Comment seront-ils envoyés ?
+4. Qui est la coordinatrice ?
+
+**Ex. 2 — Genres.** Identifiez : *brève · éditorial · billet*
+pour 3 textes courts (titre + 2 lignes).
+
+**Ex. 3 — Lignes éditoriales.** Reliez : *Le Monde · Libé ·
+Le Figaro · La Croix.*
+
+{{< callout type="tip" title="Solutions" >}}
+
+**Ex. 1.** 1) 200. 2) École Ibn Khaldoun (Tunis). 3) Par
+bateau via une association. 4) Mme Devos.
+
+**Ex. 2.** Réponses selon textes fournis.
+
+**Ex. 3.** Le Monde-centre-gauche · Libé-gauche · Le
+Figaro-droite · La Croix-catholique modéré.
+
+{{< /callout >}}
+
+## 4. Produire
+
+**Tâche d'écriture (E, ~120 mots) :**
+
+Rédigez une **brève d'actualité** sur un événement de votre
+école : titre + chapeau + 5 W (qui/quoi/où/quand/pourquoi)
++ 1 citation directe.
+
+## 5. Réfléchir
+
+- [ ] Je connais 6 titres de la presse française.
+- [ ] Je distingue brève / éditorial / billet.
+- [ ] Je rédige une brève de 120 mots.
+
+## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+
+**Tâche 1 — Lecture (10 P.)** : brève Karlsruhe-Tunis,
+5 questions.
+**Tâche 2 — Genres (8 P.)** : 4 textes courts à classer.
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre brève (~120 mots).
+
+**Total : 30 P.**
+
+## Téléchargements {#downloads}
+
+{{< downloads >}}
+
+<div class="notes">
+**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
+Produire 12' · Réfléchir 2' · Aperçu 2'.
+</div>
+
+## Pièges fréquents
+
+- **« Une »** = page principale du journal (féminin).
+- **« Éditorial »** signé par la rédaction = engage la
+ ligne du journal ; *billet* = plus libre.
+- **L'Équipe** : pas un quotidien généraliste mais sportif.
+
+## Pour aller plus loin
+
+- **Bibliothèque nationale de France — *Gallica* (presse)** :
+ <https://gallica.bnf.fr/>
+- **Le Monde — kiosque pédagogique** :
+ <https://www.lemonde.fr/>

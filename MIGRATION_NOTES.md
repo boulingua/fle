@@ -62,6 +62,47 @@ Reconstructed from `git show 49ce54c:.github/workflows/publish.yml`:
 4. **PDF author attribution audit** — exists only inside the non-blocking exam-render step. Should run unconditionally over `static/downloads/` + `static/materials/worksheets/` and hard-fail if any PDF lacks `/Author=Le Boulanger` (case-insensitive substring match). Decoupled from exam-render flakiness.
 5. **Front-matter `author:` field** — currently the canonical attribution comes from `Site.Params.author = "S. Le Boulanger"`, with no per-page `author:` frontmatter. Per the prompt's "no page may be missing the author" rule, either keep the site-wide default + a build-time check, or backfill `author:` per file. Recommendation: site-wide default + a frontmatter-presence-NOT-required gate (every rendered HTML must contain the author string, which is guaranteed by the Coder theme via head meta + footer).
 
+## Phase 1 — Post-conversion content verification
+
+### 1.1 Front-matter audit (`scripts/audit_content.py`)
+
+200 `content/**/*.md` files audited (156 unit pages + 13 track index + 13 uebersicht + 10 top-level + 5 annexes + 3 materiel hub pages).
+
+**Hard failures: 0.** All unit pages carry the required fields (`title`, `niveau`, `klassenstufe`, `track`, `unit_nr`, `bildungsplan`, `skills_focus`, `presentation.file`, `worksheet.file`, `vgwort_pixel`).
+
+**Soft warnings (47):**
+- 44 non-unit pages have no `tags:` — by design. Tags exist for the Materials Network's facet rail; non-unit pages aren't part of the network.
+- 3 pages have ≥1800 chars without `vgwort_pixel`: `content/_index.md` (homepage), `datenschutz.md`, `haftungsausschluss.md`. **Intentionally unregistered** — these are hub/legal pages, not editorial content. The Phase 5 (Materials Network) prompt also explicitly excludes hub/navigation pages from VG Wort coverage.
+
+CI: wired into `hugo.yml` as the **Audit content** step, immediately after `build_graph.py`. Hard-fails on any missing required frontmatter, leftover Quarto fenced div, leftover Pandoc cross-ref, leftover Quarto execution YAML, or unresolved image asset.
+
+### 1.2 Hugo build warnings
+
+`hugo --gc --minify --printPathWarnings --printUnusedTemplates` produces 13 WARNs, all of the form `Template /_partials/taxonomy/<x>.html is unused` from the upstream Coder theme. These are theme-internal taxonomy templates we don't use (`tags`/`categories`/`authors`); our overrides cover everything needed. Untouchable, expected, no action.
+
+No PathWarnings (broken intra-Hugo asset references).
+
+### 1.3 Content parity
+
+| Source | Pre-migration | Hugo today | Delta |
+|---|---|---|---|
+| Migrated `.qmd` → `.md` | 197 | 197 | 0 |
+| `_exam.qmd` (PDF-only, retained) | 156 | 156 | 0 |
+| Materials Network hub pages (new) | 0 | 3 | +3 (materiel/_index, materiel/fiches/_index, materiel/presentations/_index) |
+| `materiel/preview/` | 1 | 0 | -1 (promoted to `/materiel/`) |
+
+Total `content/**/*.md` = 200 (197 migrated + 3 hub). Matches expectation.
+
+### 1.4 Code execution carryover
+
+Phase 0 inventory of the Quarto source already established: **0** executable code blocks (`{r}`, `{python}`), **0** includes, **0** listing pages, **0** tabsets in any `.qmd`. The `_freeze/` and `.quarto/` execution caches were never tracked. Nothing to regenerate.
+
+### 1.5 Asset paths
+
+The audit script's image-resolution check passes for all 200 files (no `unresolved image path` failures). Static assets under `static/materials/` (156 × 4 = 624 placeholder files) verified by the `make_materials.py` round-trip in Phase 3 of the network rollout.
+
+---
+
 ### Gates explicitly out of scope (per repo type FLE BW)
 
 - CEFR-level enforcement (`A1..C2`) — this repo uses BW Niveau (`E`/`M`/`G`), already gated by `_scripts/build_graph.py` via `skills_focus`.

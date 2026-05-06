@@ -99,6 +99,13 @@ jobs:
       - name: Build Materials Network graph
         run: python _scripts/build_graph.py
 
+      # Hard-fail if any content/.md is missing required frontmatter,
+      # carries un-migrated Quarto constructs, or links to assets that
+      # don't exist. Soft warnings (no-tags, ≥1800 chars w/o VG Wort)
+      # only print and don't block.
+      - name: Audit content (frontmatter + Quarto carryover + assets)
+        run: python scripts/audit_content.py
+
       # ── Hugo build ───────────────────────────────────────────────
       - name: Install Hugo
         run: |

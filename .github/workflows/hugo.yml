@@ -90,6 +90,15 @@ jobs:
             echo "make_placeholder_worksheets.py not present — skipping."
           fi
 
+      # ── Materials Discovery Network: build graph.json + run CI gates.
+      # Fails the build on:
+      #   - any material-bearing article without `tags:`
+      #   - any `skills_focus` value not in TOPIC_ALIAS / data/topics.yml
+      #   - graph.json with zero edges (topical layer too sparse)
+      #   - any topic in data/topics.yml with zero articles
+      - name: Build Materials Network graph
+        run: python _scripts/build_graph.py
+
       # ── Hugo build ───────────────────────────────────────────────
       - name: Install Hugo
         run: |

@@ -9,6 +9,14 @@ docs/
 # Generated placeholder downloads (CI rebuilds on every run)
 downloads/
 
+# Materials Network graph (rebuilt by _scripts/build_graph.py at every CI run)
+/static/network/graph.json
+
+# Hugo build outputs
+/public/
+/resources/_gen/
+.hugo_build.lock
+
 # RStudio / R legacy (no R in this project; kept as safety net)
 .Rproj.user/
 .Rhistory

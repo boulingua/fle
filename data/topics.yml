@@ -1,0 +1,81 @@
+# Topic registry — single source of truth for the Materials Network.
+#
+# Each topic is the coarse "what kind of competence does this unit work on"
+# bucket used by the discovery graph at /materiel/ to colour nodes and
+# group facets. Topics are derived from the existing `skills_focus`
+# frontmatter on every unit; the four typos flagged in the Phase 0 audit
+# (`hoerverstehen` vs `hör_hörsehverstehen`, `text_medien` vs
+# `textmedienkompetenz`) are normalised at graph-build time, not in the
+# article frontmatter.
+#
+# Adding a topic: add a new entry here AND ensure at least one article's
+# `skills_focus` resolves to its `id` (otherwise the build fails).
+# Removing a topic: first move all articles using it to a different one.
+#
+# Colours: the first six follow the Phase 5 prompt's palette (sage, warm
+# sand, muted violet, slate blue, terracotta, olive). The remaining three
+# extend the same muted academic register. All colours should pass WCAG
+# AA contrast on both Coder light and dark backgrounds — verify at
+# Phase 2 with a contrast checker, not by eye.
+
+- id: sprechen_dialog
+  label_fr: "Interaction orale"
+  label_en: "Oral interaction"
+  label_de: "Mündliche Interaktion"
+  color: "#5B8FA8"
+  description_fr: "Dialogue, jeux de rôles, débats — production orale en interaction."
+  description_de: "Dialog, Rollenspiele, Debatten — mündliche Interaktion."
+
+- id: sprechen_monolog
+  label_fr: "Production orale"
+  label_en: "Oral production"
+  label_de: "Mündlicher Vortrag"
+  color: "#6B8E23"
+  description_fr: "Exposé, présentation continue, récit oral."
+  description_de: "Vortrag, monologisches Sprechen, Erzählung."
+
+- id: schreiben
+  label_fr: "Production écrite"
+  label_en: "Written production"
+  label_de: "Schreiben"
+  color: "#C97B63"
+  description_fr: "Rédiger, écrire un texte structuré, narrer ou argumenter par écrit."
+  description_de: "Texte verfassen, schriftlich erzählen oder argumentieren."
+
+- id: leseverstehen
+  label_fr: "Compréhension écrite"
+  label_en: "Reading comprehension"
+  label_de: "Leseverstehen"
+  color: "#7C9885"
+  description_fr: "Lire et comprendre un texte authentique ou didactisé."
+  description_de: "Authentische oder didaktisierte Texte lesen und verstehen."
+
+- id: hoerverstehen
+  label_fr: "Compréhension orale"
+  label_en: "Listening comprehension"
+  label_de: "Hör- und Hörsehverstehen"
+  color: "#9B7EBD"
+  description_fr: "Comprendre un document audio ou audiovisuel."
+  description_de: "Audio- und audiovisuelle Dokumente verstehen."
+
+- id: sprachmittlung
+  label_fr: "Médiation linguistique"
+  label_en: "Mediation"
+  label_de: "Sprachmittlung"
+  color: "#D4A373"
+  description_fr: "Transposer, résumer, traduire entre français et allemand."
+  description_de: "Vermitteln zwischen Französisch und Deutsch (Sinngemäßes Übertragen)."
+
+- id: text_medien
+  label_fr: "Compétence textuelle et médiatique"
+  label_en: "Text and media literacy"
+  label_de: "Text- und Medienkompetenz"
+  color: "#8C7B6E"
+  description_fr: "Analyser des textes et des médias, varier les supports et les genres."
+  description_de: "Texte und Medien analysieren, Genre und Modalität variieren."
+
+# Topics intentionally omitted because no article currently leads with them
+# as `skills_focus[0]`. Re-add when content uses them as the primary
+# competence:
+#   - id: wortschatz                 (only 2 occurrences, all secondary)
+#   - id: interkulturelle_kompetenz  (only 1 occurrence, secondary)

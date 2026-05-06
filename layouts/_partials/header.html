@@ -23,18 +23,8 @@
                 {{ if not $endSeen }}{{ $endClass = "navigation-end" }}{{ end }}
                 {{ $endSeen = true }}
               {{ end }}
-              {{ $hasChildren := gt (len .Children) 0 }}
-              <li class="navigation-item {{ $endClass }}{{ if $hasChildren }} has-children{{ end }}">
-                <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}{{ if $hasChildren }}<span class="navigation-caret" aria-hidden="true">▾</span>{{ end }}</a>
-                {{- if $hasChildren -}}
-                  <ul class="navigation-submenu" aria-label="{{ .Name }}">
-                    {{- range sort .Children -}}
-                      <li class="navigation-subitem">
-                        <a class="navigation-sublink" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
-                      </li>
-                    {{- end -}}
-                  </ul>
-                {{- end -}}
+              <li class="navigation-item {{ $endClass }}">
+                <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
               </li>
             {{ end }}
           {{ end }}

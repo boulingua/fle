@@ -256,13 +256,9 @@ jobs:
       - name: Broken-link check (lychee — internal only blocking)
         uses: lycheeverse/lychee-action@v1
         with:
-          args: >-
-            --no-progress --include-fragments
-            --offline
-            --remap "^https?://boulingua\.github\.io/fle/(.*)$ /$1"
-            --remap "^/fle/(.*)$ /$1"
-            --base public
-            public/**/*.html
+          # All flags + remap rules live in lychee.toml so the action's
+          # bash entrypoint doesn't shell-expand `$1` from regex backrefs.
+          args: --config lychee.toml public/**/*.html
           fail: true
 
       - uses: actions/upload-pages-artifact@v3

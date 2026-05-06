@@ -1,0 +1,15 @@
+# lychee config — keep here so the lychee-action's bash entrypoint
+# doesn't shell-expand `$1` from remap patterns. Lychee's pattern
+# language uses `$1`, `$2`, ... for regex backrefs.
+
+no_progress = true
+include_fragments = true
+offline = true
+base = "public"
+
+# Map production absolute URLs and the /fle/ baseURL prefix to local-root
+# paths so --base public/ can resolve them.
+remap = [
+  "^https?://boulingua\\.github\\.io/fle/(.*)$ /$1",
+  "^/fle/(.*)$ /$1",
+]

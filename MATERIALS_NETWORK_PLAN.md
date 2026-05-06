@@ -351,6 +351,67 @@ Still well under the 90 KB budget for our code.
 
 ### Deferred to Phase 5
 
-- Pagefind full-text search wired into the search input.
-- Card grid below the graph re-rendering from the filtered set, with hover↔node bidirectional sync.
-- `/` key shortcut to focus search; `Esc` to clear.
+- ~~Pagefind full-text search~~ → Phase 5.
+- ~~Card grid below the graph~~ → Phase 5.
+- ~~`/` key shortcut to focus search; `Esc` to clear~~ → Phase 5.
+
+## Phase 5 log — 2026-05-06
+
+### Pagefind search
+
+`assets/js/network/search.js` dynamic-imports `/fle/pagefind/pagefind.js` on first user interaction (cold-load JS payload stays small). Pagefind index is built post-Hugo by CI — the workflow already has the step `npx -y pagefind@^1 --site public` plus a gate that fails the build if `public/pagefind/pagefind.js` is missing.
+
+- Input event debounced 80 ms.
+- Pagefind returns article URLs → mapped to article node ids → expanded to include each article's `related[]` (presentation + worksheet) → pushed to `store.searchMatchIds` as a `Set<id>`.
+- Empty query: `searchMatchIds = null` (search has no effect; other facets still apply).
+- **Local fallback** if Pagefind 404s (e.g. when running `hugo --minify` locally without the post-build step): client-side string match on `title` + `description`. Console warn, no UI break.
+- Keyboard:
+  - `/` (when not already in an input) focuses the search box.
+  - `Esc` (when search box has focus) clears the query and blurs.
+
+### Card grid
+
+`assets/js/network/list.js` mounts into `<ul id="network-cards">` and re-renders on every `store.set(...)`. The visible set is `pool ∩ filteredNodeIds ∩ searchMatchIds`. Cards are sorted by article slug (so an article and its child material nodes stay adjacent), then by type (article → presentation → worksheet) within the same slug. Article cards span 2 grid columns; presentations and worksheets are compact. Topic-coloured 3 px left accent.
+
+Empty-state SVG (magnifying glass on empty page) renders when the filtered set is zero — text in French, suggesting to relax a filter or clear the search.
+
+### Bidirectional graph ↔ list sync
+
+Single shared `selectionStore`:
+```js
+{ filteredNodeIds, hoveredNodeId, searchMatchIds, searchQuery }
+```
+
+- `card hover` → `store.set({ hoveredNodeId })` → graph subscriber adds `.hover` class to the matching Cytoscape node (grows it + adds highlight ring).
+- `cy.on('mouseover', 'node')` → same flow in reverse; will be augmented in Phase 6 to scroll the matching card into view.
+
+### A11y nav (visually hidden, present in DOM)
+
+A `<nav class="visually-hidden" aria-label="Tous les matériaux">` containing every material in source order is rendered alongside the graph. Screen readers and keyboard users have a stable, non-graph navigation path even when the visual graph is the dominant UI. In Phase 6 this becomes visible (the only view) below 768 px.
+
+### Files added in Phase 5
+
+```
+assets/js/network/list.js          # ~135 lines — card grid + hover sync
+assets/js/network/search.js        # ~115 lines — Pagefind + keyboard shortcuts + local fallback
+```
+
+Files modified: `main.js` (mounts list/search, adds hover bridges + search∩filter intersection), `layouts/materiel/network-preview.html` (search input enabled, `<ul id="network-cards">` added, visually-hidden a11y nav added), `assets/css/network.css` (`.network-card-desc`, `.network-card-download`, `.network-cards` list-style).
+
+### Bundle size
+
+| | Phase 3 | Phase 4 | Phase 5 |
+|---|---|---|---|
+| Our JS (raw) | 4 KB | 9 KB | 14 KB |
+| Our JS (gz, est.) | 1.5 KB | 3 KB | ~5 KB |
+
+Pagefind itself adds ~75 KB gz the first time the user types in the search box (lazy-loaded module, cached afterwards). All comfortably under the 280 KB total budget the prompt sets for Phase 6.
+
+### Deferred to Phase 6
+
+- Real Lighthouse + axe-core measurements; deploy gate at score ≥ 95.
+- WCAG AA contrast verification of the 7 topic colours with a checker.
+- Subresource-integrity hashes for the Cytoscape / fcose CDN scripts.
+- Mobile-only "More filters" bottom sheet (currently rail collapses to a horizontal chip strip on tablet, hidden on mobile — Phase 6 polishes).
+- Cytoscape keyboard navigation plugin enable.
+- Node click → navigate (article) / download (presentation/worksheet). Currently only cards have action buttons; clicking a node in the graph does nothing.

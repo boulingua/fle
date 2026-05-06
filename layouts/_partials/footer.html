@@ -1,0 +1,25 @@
+{{- $copyright := printf "FLE · © %s · MIT / CC-BY-SA 4.0" (default "S. Le Boulanger" .Site.Params.author) -}}
+<footer class="footer">
+  <section class="container">
+    <p class="footer-left">{{ $copyright }}</p>
+    <p class="footer-center">
+      <a href="{{ "/" | relURL }}">Accueil</a> ·
+      <a href="{{ "/programme/" | relURL }}">Programme</a> ·
+      <a href="{{ "/bildungsplan/" | relURL }}">Référentiel</a> ·
+      <a href="{{ "/annexes/strategies/" | relURL }}">Stratégies d'apprentissage</a> ·
+      <a href="{{ "/annexes/competences/" | relURL }}">Arbre des compétences</a> ·
+      <a href="{{ "/annexes/glossaire/" | relURL }}">Glossaire</a> ·
+      <a href="{{ "/annexes/erreurs_typiques/" | relURL }}">Erreurs typiques</a> ·
+      <a href="{{ "/annexes/grille_evaluation/" | relURL }}">Grille d'évaluation</a> ·
+      <a href="{{ "/bibliographie/" | relURL }}">Bibliographie</a> ·
+      <a href="{{ "/remerciements/" | relURL }}">Remerciements</a> ·
+      <a href="https://boulingua.github.io/efl/">EFL</a> ·
+      <a href="https://boulingua.github.io/daf/">DaF</a> ·
+      <a href="https://boulingua.github.io/ressources/">Ressources</a> ·
+      <strong><a href="{{ "/impressum/" | relURL }}">Impressum</a></strong> ·
+      <strong><a href="{{ "/datenschutz/" | relURL }}">Protection des données</a></strong> ·
+      <strong><a href="{{ "/haftungsausschluss/" | relURL }}">Avertissement</a></strong> ·
+      <a href="mailto:277736839+s-leboulanger@users.noreply.github.com">Contact</a>
+    </p>
+  </section>
+</footer>

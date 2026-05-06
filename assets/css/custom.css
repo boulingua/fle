@@ -1,0 +1,165 @@
+/* boulingua / FLE design system overrides for hugo-coder.
+   Mirrors the reference site's variable scheme so all four sites share
+   the same visual language. */
+
+:root {
+  --boulingua-accent: #1a73e8;
+  --boulingua-accent-hover: #0b57d0;
+  --boulingua-panel-border: rgba(0, 0, 0, 0.12);
+  --boulingua-panel-border-hover: var(--boulingua-accent);
+  --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  --boulingua-rule: rgba(0, 0, 0, 0.12);
+}
+
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto {
+    --boulingua-accent: #79b8ff;
+    --boulingua-accent-hover: #b8d4fd;
+    --boulingua-panel-border: rgba(255, 255, 255, 0.16);
+    --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
+    --boulingua-rule: rgba(255, 255, 255, 0.16);
+  }
+}
+
+body.colorscheme-dark {
+  --boulingua-accent: #79b8ff;
+  --boulingua-accent-hover: #b8d4fd;
+  --boulingua-panel-border: rgba(255, 255, 255, 0.16);
+  --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
+  --boulingua-rule: rgba(255, 255, 255, 0.16);
+}
+
+.navigation .navigation-title {
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
+}
+
+/* ── Hero kicker (small caps eyebrow) ───────────── */
+.hero-kicker {
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--boulingua-accent);
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+/* ── Lead paragraph ─────────────────────────────── */
+.lead {
+  font-size: 1.15rem;
+  line-height: 1.55;
+}
+
+/* ── Card grid ──────────────────────────────────── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.card {
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 8px;
+  padding: 1.25rem;
+  box-shadow: var(--boulingua-panel-shadow);
+  transition: border-color 0.15s ease;
+}
+
+.card:hover {
+  border-color: var(--boulingua-panel-border-hover);
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+/* ── CEFR badge ─────────────────────────────────── */
+.cefr-badge {
+  display: inline-block;
+  padding: 0.15em 0.55em;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  background: var(--boulingua-accent);
+  color: white;
+}
+
+.cefr-badge.a1 { background: #4caf50; }
+.cefr-badge.a2 { background: #8bc34a; }
+.cefr-badge.b1 { background: #ffb300; color: #222; }
+.cefr-badge.b2 { background: #ff9800; color: #222; }
+.cefr-badge.c1 { background: #f4511e; }
+.cefr-badge.c2 { background: #b71c1c; }
+
+/* ── Callouts ───────────────────────────────────── */
+.callout {
+  border-left: 4px solid var(--boulingua-accent);
+  background: rgba(26, 115, 232, 0.06);
+  padding: 0.9rem 1.1rem;
+  margin: 1.25rem 0;
+  border-radius: 4px;
+}
+
+.callout-note    { border-left-color: #1a73e8; background: rgba(26, 115, 232, 0.06); }
+.callout-tip     { border-left-color: #2e7d32; background: rgba(46, 125, 50, 0.06); }
+.callout-warning { border-left-color: #f9a825; background: rgba(249, 168, 37, 0.08); }
+.callout-important { border-left-color: #c62828; background: rgba(198, 40, 40, 0.07); }
+.callout-caution { border-left-color: #ef6c00; background: rgba(239, 108, 0, 0.07); }
+
+.callout-title {
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+
+/* ── Material-links partial ─────────────────────── */
+.material-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.material-card {
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 8px;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+.material-card img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--boulingua-rule);
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.material-card .download-btn {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 4px;
+  background: var(--boulingua-accent);
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.material-card .download-btn:hover {
+  background: var(--boulingua-accent-hover);
+}
+
+/* ── VG Wort pixel hidden but emitted ───────────── */
+.vgwort-pixel img,
+img.vgwort-pixel {
+  position: absolute;
+  left: -9999px;
+  visibility: hidden;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--boulingua-rule);
+  margin: 2rem 0;
+}

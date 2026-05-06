@@ -1,0 +1,75 @@
+name: Build and deploy (Hugo)
+
+on:
+  push:
+    branches: [main, "migration/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  HUGO_VERSION: "0.159.2"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Install Hugo
+        run: |
+          wget -q -O /tmp/hugo.deb \
+            "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          sudo dpkg -i /tmp/hugo.deb
+
+      - name: Verify Plausible snippet present in head partial
+        run: |
+          if ! grep -q 'data-domain="boulingua.github.io/fle"' layouts/_partials/head/extensions.html; then
+            echo "::error::Plausible domain attribute missing from layouts/_partials/head/extensions.html"
+            exit 1
+          fi
+
+      - name: Hugo build
+        run: hugo --minify --gc --baseURL "${{ steps.pages.outputs.base_url || 'https://boulingua.github.io/fle/' }}"
+
+      - name: Verify Plausible snippet rendered into homepage
+        run: |
+          if ! grep -q 'data-domain="boulingua.github.io/fle"' public/index.html; then
+            echo "::error::Plausible script not present in rendered public/index.html"
+            exit 1
+          fi
+
+      - name: Verify VG Wort pixels (skipped until manifest exists)
+        run: |
+          if [ -f vgwort-manifest.csv ] && [ -f scripts/verify-vgwort.sh ]; then
+            bash scripts/verify-vgwort.sh
+          else
+            echo "VG Wort manifest / verifier not yet present — gate deferred to content phase."
+          fi
+
+      - uses: actions/configure-pages@v5
+        id: pages
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,189 @@
+baseURL = "https://boulingua.github.io/fle/"
+title = "FLE — S. Le Boulanger"
+languageCode = "fr"
+defaultContentLanguage = "fr"
+enableEmoji = false
+
+[pagination]
+  pagerSize = 20
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+  ordered = false
+
+[params]
+  author = "S. Le Boulanger"
+  description = "Curriculum FLE bilingue pour l'enseignement secondaire, classes 6 à 13, aligné sur un référentiel régional."
+  keywords = "FLE,français langue étrangère,enseignement secondaire,Bildungsplan,OER,CECRL,curriculum"
+  info = ["FLE · Classes 6 à 13", "Curriculum bilingue OER", "S. Le Boulanger"]
+  dateFormat = "2006-01-02"
+  hideFooter = false
+  hideCredits = true
+  since = 2025
+  colorScheme = "auto"
+  customCSS = ["css/custom.css"]
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/boulingua/fle"
+
+# Top navbar
+[[menu.main]]
+  name = "Accueil"
+  weight = 1
+  url = "/"
+
+[[menu.main]]
+  name = "À propos"
+  weight = 2
+  url = "/a-propos/"
+
+[[menu.main]]
+  name = "Référentiel"
+  weight = 3
+  url = "/bildungsplan/"
+
+[[menu.main]]
+  name = "Programme"
+  weight = 4
+  url = "/programme/"
+
+[[menu.main]]
+  name = "Références"
+  weight = 5
+  url = "/references/"
+
+[[menu.main]]
+  identifier = "materiel"
+  name = "Matériel"
+  weight = 6
+  url = "/materiel/"
+
+[[menu.main]]
+  parent = "materiel"
+  name = "Présentations"
+  weight = 1
+  url = "/materiel/presentations/"
+
+[[menu.main]]
+  parent = "materiel"
+  name = "Fiches d'exercices"
+  weight = 2
+  url = "/materiel/fiches/"
+
+# Filière G+M dropdown
+[[menu.main]]
+  identifier = "track-gm"
+  name = "Filière G+M (cl. 6–10)"
+  weight = 7
+  url = "#"
+
+[[menu.main]]
+  parent = "track-gm"
+  name = "Classe 6"
+  weight = 1
+  url = "/track_gm_kl06/"
+[[menu.main]]
+  parent = "track-gm"
+  name = "Classe 7"
+  weight = 2
+  url = "/track_gm_kl07/"
+[[menu.main]]
+  parent = "track-gm"
+  name = "Classe 8"
+  weight = 3
+  url = "/track_gm_kl08/"
+[[menu.main]]
+  parent = "track-gm"
+  name = "Classe 9"
+  weight = 4
+  url = "/track_gm_kl09/"
+[[menu.main]]
+  parent = "track-gm"
+  name = "Classe 10"
+  weight = 5
+  url = "/track_gm_kl10/"
+
+# Filière E dropdown
+[[menu.main]]
+  identifier = "track-e"
+  name = "Filière E (cl. 6–13)"
+  weight = 8
+  url = "#"
+
+[[menu.main]]
+  parent = "track-e"
+  name = "Classe 6"
+  weight = 1
+  url = "/track_e_kl06/"
+[[menu.main]]
+  parent = "track-e"
+  name = "Classe 7"
+  weight = 2
+  url = "/track_e_kl07/"
+[[menu.main]]
+  parent = "track-e"
+  name = "Classe 8"
+  weight = 3
+  url = "/track_e_kl08/"
+[[menu.main]]
+  parent = "track-e"
+  name = "Classe 9"
+  weight = 4
+  url = "/track_e_kl09/"
+[[menu.main]]
+  parent = "track-e"
+  name = "Classe 10"
+  weight = 5
+  url = "/track_e_kl10/"
+[[menu.main]]
+  parent = "track-e"
+  name = "Classe 11"
+  weight = 6
+  url = "/track_e_kl11/"
+[[menu.main]]
+  parent = "track-e"
+  name = "Classe 12"
+  weight = 7
+  url = "/track_e_kl12/"
+[[menu.main]]
+  parent = "track-e"
+  name = "Classe 13"
+  weight = 8
+  url = "/track_e_kl13/"
+
+# Right-side legal dropdown
+[[menu.main]]
+  identifier = "legal"
+  name = "Mentions légales"
+  weight = 99
+  url = "#"
+
+[[menu.main]]
+  parent = "legal"
+  name = "Impressum"
+  weight = 1
+  url = "/impressum/"
+[[menu.main]]
+  parent = "legal"
+  name = "Protection des données"
+  weight = 2
+  url = "/datenschutz/"
+[[menu.main]]
+  parent = "legal"
+  name = "Avertissement"
+  weight = 3
+  url = "/haftungsausschluss/"
+
+[module]
+  [[module.imports]]
+    path = "github.com/luizdepra/hugo-coder"

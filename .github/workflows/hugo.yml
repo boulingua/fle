@@ -99,6 +99,12 @@ jobs:
       - name: Build Materials Network graph
         run: python _scripts/build_graph.py
 
+      # Independent validator: catches duplicate ids/urls, dangling edges,
+      # nodes carrying topics not in data/topics.yml, and article-count
+      # drift between graph.json and content/track_*/units/*.md.
+      - name: Validate network data (post-build invariants)
+        run: python scripts/validate_network_data.py
+
       # Hard-fail if any content/.md is missing required frontmatter,
       # carries un-migrated Quarto constructs, or links to assets that
       # don't exist. Soft warnings (no-tags, ≥1800 chars w/o VG Wort)

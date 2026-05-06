@@ -84,7 +84,8 @@ jobs:
 
       - name: Verify Plausible snippet present in head partial
         run: |
-          grep -q 'data-domain="boulingua.github.io/fle"' \
+          # source partial keeps quotes; minified output drops them — accept either
+          grep -qE 'data-domain="?boulingua\.github\.io/fle"?' \
             layouts/_partials/head/extensions.html
 
       - uses: actions/configure-pages@v5
@@ -94,7 +95,7 @@ jobs:
         run: hugo --minify --gc --baseURL "${{ steps.pages.outputs.base_url || 'https://boulingua.github.io/fle/' }}"
 
       - name: Verify Plausible snippet in rendered home page
-        run: grep -q 'data-domain="boulingua.github.io/fle"' public/index.html
+        run: grep -qE 'data-domain="?boulingua\.github\.io/fle"?' public/index.html
 
       - name: Verify VG Wort pixels (1:1 manifest <-> public/)
         run: bash scripts/verify-vgwort.sh vgwort-manifest.csv public

@@ -81,30 +81,35 @@ enableEmoji = false
   identifier = "track-gm"
   name = "Filière G+M"
   weight = 4
-  url = "/track_gm_kl06/"
+  url = "/filiere-gm/"
 
 [[menu.main]]
   parent = "track-gm"
+  identifier = "gm-kl06"
   name = "Classe 6"
   weight = 1
   url = "/track_gm_kl06/"
 [[menu.main]]
   parent = "track-gm"
+  identifier = "gm-kl07"
   name = "Classe 7"
   weight = 2
   url = "/track_gm_kl07/"
 [[menu.main]]
   parent = "track-gm"
+  identifier = "gm-kl08"
   name = "Classe 8"
   weight = 3
   url = "/track_gm_kl08/"
 [[menu.main]]
   parent = "track-gm"
+  identifier = "gm-kl09"
   name = "Classe 9"
   weight = 4
   url = "/track_gm_kl09/"
 [[menu.main]]
   parent = "track-gm"
+  identifier = "gm-kl10"
   name = "Classe 10"
   weight = 5
   url = "/track_gm_kl10/"
@@ -114,45 +119,53 @@ enableEmoji = false
   identifier = "track-e"
   name = "Filière E"
   weight = 5
-  url = "/track_e_kl06/"
+  url = "/filiere-e/"
 
 [[menu.main]]
   parent = "track-e"
+  identifier = "e-kl06"
   name = "Classe 6"
   weight = 1
   url = "/track_e_kl06/"
 [[menu.main]]
   parent = "track-e"
+  identifier = "e-kl07"
   name = "Classe 7"
   weight = 2
   url = "/track_e_kl07/"
 [[menu.main]]
   parent = "track-e"
+  identifier = "e-kl08"
   name = "Classe 8"
   weight = 3
   url = "/track_e_kl08/"
 [[menu.main]]
   parent = "track-e"
+  identifier = "e-kl09"
   name = "Classe 9"
   weight = 4
   url = "/track_e_kl09/"
 [[menu.main]]
   parent = "track-e"
+  identifier = "e-kl10"
   name = "Classe 10"
   weight = 5
   url = "/track_e_kl10/"
 [[menu.main]]
   parent = "track-e"
+  identifier = "e-kl11"
   name = "Classe 11"
   weight = 6
   url = "/track_e_kl11/"
 [[menu.main]]
   parent = "track-e"
+  identifier = "e-kl12"
   name = "Classe 12"
   weight = 7
   url = "/track_e_kl12/"
 [[menu.main]]
   parent = "track-e"
+  identifier = "e-kl13"
   name = "Classe 13"
   weight = 8
   url = "/track_e_kl13/"
@@ -169,16 +182,19 @@ enableEmoji = false
 
 [[menu.main]]
   parent = "legal"
+  identifier = "legal-impressum"
   name = "Impressum"
   weight = 1
   url = "/impressum/"
 [[menu.main]]
   parent = "legal"
+  identifier = "legal-datenschutz"
   name = "Protection des données"
   weight = 2
   url = "/datenschutz/"
 [[menu.main]]
   parent = "legal"
+  identifier = "legal-haftungsausschluss"
   name = "Avertissement"
   weight = 3
   url = "/haftungsausschluss/"

@@ -1,0 +1,69 @@
+{{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
+{{ define "content" }}
+{{- $track := .Params.track -}}
+{{- $classes := .Params.classes | default slice -}}
+<section class="container page filiere-overview">
+  <header>
+    <h1 class="title"><a class="title-link" href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h1>
+    {{- with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end -}}
+  </header>
+
+  {{ .Content }}
+
+  {{- /* Build a per-class lookup of unit pages keyed by unit_nr.
+         Iterating the entire RegularPages set once is cheaper than 60
+         scoped lookups; we filter by track and bucket by klassenstufe. */ -}}
+  {{- $byClass := dict -}}
+  {{- $sc := newScratch -}}
+  {{- range .Site.RegularPages -}}
+    {{- if and (eq (.Params.track | default "") $track) (.Params.unit_nr) -}}
+      {{- $k := printf "%d" (.Params.klassenstufe) -}}
+      {{- $sc.Add (printf "class_%s" $k) (slice (dict
+            "unit_nr" .Params.unit_nr
+            "title"   .Title
+            "url"     .RelPermalink
+        )) -}}
+    {{- end -}}
+  {{- end -}}
+
+  <table class="filiere-table">
+    <caption class="visually-hidden">
+      Aperçu de la filière {{ $track | upper }} : unités par classe.
+    </caption>
+    <thead>
+      <tr>
+        <th scope="col">Unité</th>
+        {{- range $classes -}}
+          {{- $kl := printf "%02d" . -}}
+          <th scope="col">
+            <a href="{{ printf "/track_%s_kl%s/" $track $kl | relURL }}">Classe {{ . }}</a>
+          </th>
+        {{- end -}}
+      </tr>
+    </thead>
+    <tbody>
+      {{- range $unit_nr := seq 12 -}}
+        <tr>
+          <th scope="row">Unité {{ $unit_nr }}</th>
+          {{- range $kl := $classes -}}
+            {{- $items := $sc.Get (printf "class_%d" $kl) | default slice -}}
+            {{- $match := false -}}
+            {{- range $items -}}
+              {{- if eq .unit_nr $unit_nr -}}
+                {{- $match = . -}}
+              {{- end -}}
+            {{- end -}}
+            <td>
+              {{- with $match -}}
+                <a href="{{ .url }}">{{ .title | replaceRE "^Unité \\d+ — " "" }}</a>
+              {{- else -}}
+                <span class="filiere-empty" aria-hidden="true">—</span>
+              {{- end -}}
+            </td>
+          {{- end -}}
+        </tr>
+      {{- end -}}
+    </tbody>
+  </table>
+</section>
+{{ end }}

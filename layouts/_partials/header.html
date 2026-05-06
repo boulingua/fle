@@ -14,8 +14,8 @@
         {{ with .Site.Menus.main }}
           {{ $endSeen := false }}
           {{ range sort . }}
-            {{- /* Skip nested submenu entries — Coder doesn't render them
-                   in the navbar (footer/sitemap use them). */ -}}
+            {{- /* Top-level entries only; children render as a hover
+                   dropdown immediately below their parent. */ -}}
             {{ if not .Parent }}
               {{ $align := .Params.align | default "start" }}
               {{ $endClass := "" }}
@@ -23,8 +23,18 @@
                 {{ if not $endSeen }}{{ $endClass = "navigation-end" }}{{ end }}
                 {{ $endSeen = true }}
               {{ end }}
-              <li class="navigation-item {{ $endClass }}">
-                <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
+              {{ $hasChildren := gt (len .Children) 0 }}
+              <li class="navigation-item {{ $endClass }}{{ if $hasChildren }} has-children{{ end }}">
+                <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}{{ if $hasChildren }}<span class="navigation-caret" aria-hidden="true">▾</span>{{ end }}</a>
+                {{- if $hasChildren -}}
+                  <ul class="navigation-submenu" aria-label="{{ .Name }}">
+                    {{- range sort .Children -}}
+                      <li class="navigation-subitem">
+                        <a class="navigation-sublink" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
+                      </li>
+                    {{- end -}}
+                  </ul>
+                {{- end -}}
               </li>
             {{ end }}
           {{ end }}

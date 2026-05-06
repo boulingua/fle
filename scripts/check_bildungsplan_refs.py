@@ -40,7 +40,10 @@ YAML_PATH = REPO / "_resources" / "bildungsplan_bw_franzoesisch.yml"
 CONTENT = REPO / "content"
 FM_RE = re.compile(r"\A---\n(.*?)\n---\n", re.DOTALL)
 CODE_RE = re.compile(r"^([0-9]+(?:\.[0-9]+)+)(?:\s|$)")
-URL_LINE_RE = re.compile(r"https?://[^\s,]+")
+# bildungsplaene-bw.de runs Saxonia-CMS, which encodes IDs as comma-
+# separated path segments (`,Lde/...`). The URL pattern must therefore
+# accept commas inside paths; we rely on whitespace as the only delimiter.
+URL_LINE_RE = re.compile(r"https?://\S+")
 
 
 def head(url: str, timeout: int = 15) -> tuple[int, str]:

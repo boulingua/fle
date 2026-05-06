@@ -5,6 +5,14 @@
 no_progress = true
 include_fragments = true
 offline = true
+
+# Preconnect-only domains return 404 on a bare-domain GET (the browser
+# uses them for DNS warmup, not as documents). Don't fail the build on
+# these; they're not real broken links.
+exclude = [
+  '^https?://fonts\.googleapis\.com/?$',
+  '^https?://fonts\.gstatic\.com/?$',
+]
 # Resolved against a *separate* relative-baseURL build at /tmp/lychee-public
 # (see hugo.yml). That second build emits internal links as /foo/ instead
 # of the production https://boulingua.github.io/fle/foo/, so --base just

@@ -40,10 +40,12 @@ YAML_PATH = REPO / "_resources" / "bildungsplan_bw_franzoesisch.yml"
 CONTENT = REPO / "content"
 FM_RE = re.compile(r"\A---\n(.*?)\n---\n", re.DOTALL)
 CODE_RE = re.compile(r"^([0-9]+(?:\.[0-9]+)+)(?:\s|$)")
-# bildungsplaene-bw.de runs Saxonia-CMS, which encodes IDs as comma-
-# separated path segments (`,Lde/...`). The URL pattern must therefore
-# accept commas inside paths; we rely on whitespace as the only delimiter.
-URL_LINE_RE = re.compile(r"https?://\S+")
+# Single canonical liveness probe. The yaml documents many per-school-
+# form sub-page URLs (Sek I 6-9, Sek I 10, Gymnasium 6-8, Gymnasium 9-10,
+# Oberstufe …) but those are documentation references, not stable
+# probes — the CMS reorganises sub-pages periodically. The root portal
+# URL is what tells us 'curriculum-bw is up'.
+LIVENESS_URL = "https://www.bildungsplaene-bw.de/bildungsplan,Lde/Startseite/BP2016BW_ALLG"
 
 
 def head(url: str, timeout: int = 15) -> tuple[int, str]:
@@ -70,25 +72,21 @@ def main() -> int:
         print(f"::error::cannot parse yaml: {exc}", file=sys.stderr)
         return 1
 
-    # 1. Reachability of canonical source(s).
-    urls = sorted(set(URL_LINE_RE.findall(raw[: raw.find("---") if "---" in raw else len(raw)])))
-    # also include any explicit URL_LINE_RE matches in the comment block
-    urls = sorted(set(URL_LINE_RE.findall(raw[:2000])))
-
+    # 1. Liveness probe against the canonical curriculum portal.
     fails = 0
-    print(f"Checking {len(urls)} curriculum source URL(s):")
-    for u in urls:
-        code, err = head(u)
-        if 200 <= code < 400:
-            print(f"  OK   {code}  {u}")
-        elif code in (429, 503):
-            print(f"  WARN {code}  {u} (transient — not failing)", file=sys.stderr)
-        elif code == 0:
-            print(f"  WARN {err}  {u} (network error — not failing locally; "
-                  f"CI will catch a real outage)", file=sys.stderr)
-        else:
-            print(f"::error::{code} {u} — {err}", file=sys.stderr)
-            fails += 1
+    code, err = head(LIVENESS_URL)
+    if 200 <= code < 400:
+        print(f"Curriculum portal liveness OK ({code}): {LIVENESS_URL}")
+    elif code in (429, 503):
+        print(f"WARN: transient {code} from curriculum portal — not failing.",
+              file=sys.stderr)
+    elif code == 0:
+        print(f"WARN: network error reaching curriculum portal "
+              f"({err}) — not failing.", file=sys.stderr)
+    else:
+        print(f"::error::Curriculum portal returned {code}: {LIVENESS_URL}",
+              file=sys.stderr)
+        fails += 1
 
     # 2. Top-level codes declared in yaml.
     declared = set()

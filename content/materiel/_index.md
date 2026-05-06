@@ -1,13 +1,11 @@
 ---
 title: "Matériel"
-subtitle: "Présentations et fiches d'exercices à télécharger"
+subtitle: "Découvrir les présentations et fiches d'exercices par sujet, niveau et filière"
 aliases:
   - "/materiel/index.html"
+  - "/materiel/preview/"
 ---
 
-Toutes les unités du curriculum FLE ont un **diaporama de présentation** (.pptx) et une **fiche d'exercices** (.pdf) à télécharger.
+Toutes les unités du curriculum FLE ont un **diaporama** (.pptx) et une **fiche d'exercices** (.pdf). Cliquez sur un nœud du graphe pour ouvrir l'article ou télécharger le fichier ; utilisez les filtres pour restreindre la sélection ; tapez `/` pour rechercher.
 
-- [Présentations](presentations/)
-- [Fiches d'exercices](fiches/)
-
-Chaque page propose un filtre par étiquette (filière, classe, niveau) et une recherche plein texte.
+Pour une vue purement liste : [Présentations](presentations/) · [Fiches d'exercices](fiches/).

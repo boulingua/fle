@@ -136,7 +136,7 @@ jobs:
             exit 1
           fi
 
-      # ── Phase 6 CI gate: bundle size budget for /materiel/preview/.
+      # ── Phase 6 CI gate: bundle size budget for /materiel/.
       # Phase 5 prompt sets ≤ 280 KB gzipped total JS for the materials
       # hub. Walks every <script src=...> referenced from the page, sums
       # gzipped sizes (CDN scripts excluded — they're not in public/),
@@ -144,14 +144,14 @@ jobs:
       - name: Materials network — JS bundle size budget
         run: |
           set -eu
-          page=public/materiel/preview/index.html
+          page=public/materiel/index.html
           [ -f "$page" ] || { echo "::error::missing $page"; exit 1; }
           # Hugo --minify drops attribute quotes, so the regex must handle
           # both `src="...js"` and `src=...js` forms.
           mapfile -t srcs < <(grep -oE 'src=("[^"]*\.js[^"]*"|[^"<> ]*\.js[^"<> ]*)' "$page" \
             | sed -E 's/^src=//; s/^"//; s/"$//' | sort -u)
           total=0
-          echo "Local JS resources referenced from /materiel/preview/:"
+          echo "Local JS resources referenced from /materiel/:"
           for s in "${srcs[@]}"; do
             case "$s" in
               http*) continue ;;
@@ -193,7 +193,7 @@ jobs:
       - name: Lighthouse a11y (target ≥ 95)
         run: |
           npx -y lighthouse@^11 \
-            http://localhost:8080/materiel/preview/ \
+            http://localhost:8080/materiel/ \
             --only-categories=accessibility \
             --output=json --output-path=/tmp/lh.json \
             --chrome-flags="--headless --no-sandbox --disable-gpu" \

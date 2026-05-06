@@ -5,11 +5,9 @@
 no_progress = true
 include_fragments = true
 offline = true
-base = "public"
-
-# Map production absolute URLs and the /fle/ baseURL prefix to local-root
-# paths so --base public/ can resolve them.
-remap = [
-  "^https?://boulingua\\.github\\.io/fle/(.*)$ /$1",
-  "^/fle/(.*)$ /$1",
-]
+# Resolved against a *separate* relative-baseURL build at /tmp/lychee-public
+# (see hugo.yml). That second build emits internal links as /foo/ instead
+# of the production https://boulingua.github.io/fle/foo/, so --base just
+# works without remap rules (which lychee requires to produce full URLs,
+# not bare paths).
+base = "/tmp/lychee-public"

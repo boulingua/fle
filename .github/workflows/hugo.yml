@@ -253,12 +253,18 @@ jobs:
       # warned (not failed) — transient outages of bildungsplaene-bw.de,
       # YouTube, etc. shouldn't block site deploys; the bildungsplan-refs
       # gate above handles canonical-source liveness specifically.
+      # Lychee cannot resolve absolute https://boulingua.github.io/fle/
+      # internal links in --offline mode, and its --remap pipeline insists
+      # on full-URL outputs. Cleanest workaround: a second tiny Hugo
+      # build with an empty baseURL so internal links come out as /foo/,
+      # then point --base at that copy.
+      - name: Hugo build (relative baseURL, for lychee only)
+        run: hugo --minify --gc --baseURL "/" --destination /tmp/lychee-public
+
       - name: Broken-link check (lychee — internal only blocking)
         uses: lycheeverse/lychee-action@v1
         with:
-          # All flags + remap rules live in lychee.toml so the action's
-          # bash entrypoint doesn't shell-expand `$1` from regex backrefs.
-          args: --config lychee.toml public/**/*.html
+          args: --config lychee.toml /tmp/lychee-public/**/*.html
           fail: true
 
       - uses: actions/upload-pages-artifact@v3

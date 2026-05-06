@@ -62,6 +62,70 @@ Reconstructed from `git show 49ce54c:.github/workflows/publish.yml`:
 4. **PDF author attribution audit** — exists only inside the non-blocking exam-render step. Should run unconditionally over `static/downloads/` + `static/materials/worksheets/` and hard-fail if any PDF lacks `/Author=Le Boulanger` (case-insensitive substring match). Decoupled from exam-render flakiness.
 5. **Front-matter `author:` field** — currently the canonical attribution comes from `Site.Params.author = "S. Le Boulanger"`, with no per-page `author:` frontmatter. Per the prompt's "no page may be missing the author" rule, either keep the site-wide default + a build-time check, or backfill `author:` per file. Recommendation: site-wide default + a frontmatter-presence-NOT-required gate (every rendered HTML must contain the author string, which is guaranteed by the Coder theme via head meta + footer).
 
+## Phases 2–6 outcomes
+
+### Phase 2 — Materials Network data integrity
+
+`scripts/validate_network_data.py` added as a consumer-side gate on top of `_scripts/build_graph.py`. Hard-fails on missing required fields, duplicate ids/urls, dangling edges, nodes with topics not in `data/topics.yml`, and article-count drift between `graph.json` and `content/track_*/units/*.md`. First run: **468 nodes, 1270 edges, 156 articles, 0 hard / 0 soft.** Visual layer (Cytoscape rendering) deployed in Phase 3 of `MATERIALS_NETWORK_PLAN.md`; live at `/materiel/`.
+
+### Phase 3 — Plausible (already integrated)
+
+`layouts/_partials/head/extensions.html` carries the Plausible snippet. CI gate `grep -qE 'data-domain="?boulingua\.github\.io/fle"?'` verifies it appears in both source partial and rendered `public/index.html` (handles Hugo's quote-stripping minifier). Verified on the live site: HTTP 200, attribute rendered correctly.
+
+**Configurable per-site:** the snippet is currently hardcoded with the FLE domain. Lifting to `params.plausible.domain` / `params.plausible.src` was deemed unnecessary on a single-domain site; deferred until any of the four sister sites needs to override the script source.
+
+**Outbound-link script:** the source uses `script.file-downloads.outbound-links.js` (not the bare `script.js`). Decision documented as intentional — Raban put it there pre-migration; surfaced here for explicitness rather than reverted.
+
+### Phase 4 — VG Wort (already integrated)
+
+Different model than the prompt suggests: per-page `vgwort_pixel:` frontmatter + repo-root `vgwort-manifest.csv` (193 entries) + `scripts/verify-vgwort.sh` (1:1 manifest ↔ rendered HTML; CI-blocking).
+
+`scripts/audit_content.py` (added in Phase 1) emits a soft warning for any non-unit page over 1800 characters without a pixel — three legitimate cases (homepage, datenschutz, haftungsausschluss) are intentional per the Materials Network prompt's "no pixels on hub/legal pages" rule.
+
+Datenschutz already mentions VG Wort tracking (migration commit `dba672c`).
+
+### Phase 5 — Site-wide URL verification
+
+Lychee re-enabled as a **blocking** internal-link gate (commit `90bac23`).
+
+| | |
+|---|---|
+| Total URLs checked | 1791 |
+| Successful | 1709 |
+| Excluded (preconnect domains + tv5monde WAF) | 80 |
+| Errors | 0 |
+
+Two surprises along the way:
+1. The Coder theme references a standard favicon set (`favicon.svg`, `favicon-16/32x32.png`, `apple-touch-icon.png`, `safari-pinned-tab.svg`) and `/site.webmanifest` — none of these existed in `static/` until lychee surfaced the silent 404s. Generated minimal placeholder favicons (FLE wordmark on `#1a73e8`) and a manifest. **Replace with a designed favicon set when convenient.**
+2. `apprendre.tv5monde.com` returns 403 to non-browser User-Agents (WAF) — works for humans, fails for bots. Excluded.
+
+CI plumbing took several iterations: the lychee-action's bash entrypoint shell-expands `$1` from regex backrefs (moved config to `lychee.toml`); lychee's `--remap` rejects bare-path targets ("not a valid URL"); cleanest path was a second tiny Hugo build with `--baseURL "/"` into `/tmp/lychee-public/` so internal links come out relative.
+
+### Phase 6 — Re-implemented CI gates
+
+Four gates added, all blocking, all wired between the existing VG Wort verifier and the Lighthouse step in `hugo.yml`:
+
+| Script | Source of requirement | First-run result |
+|---|---|---|
+| `scripts/check_legal_placeholders.sh` | Restored from qmd-era publish.yml `Impressum / Datenschutz TODO gate` | 3 files, 8 patterns, clean |
+| `scripts/check_pdf_attribution.py` | Restored from qmd-era PDF audit; decoupled from non-blocking exam-render | 156 worksheet PDFs, all attributed |
+| `scripts/check_author_attribution.sh` | New — every article page must contain "S. Le Boulanger" | 163 pages, all attributed |
+| `scripts/check_bildungsplan_refs.py` | New (FLE BW only) — curriculum portal liveness probe + canonical-shape gate over every `bildungsplan:` cite | Portal 200 OK; 12 distinct codes used by 318 frontmatter cites, 100% rooted in 18 declared yaml codes |
+
+Out of scope per repo type: CEFR (DaF Goethe only), commercial denylist + license taxonomy (Ressourcen-Hub only).
+
+### Phase 7/8 — Deferred / not run
+
+Not done in this pass:
+- Lighthouse on the homepage / lesson pages / Ressourcen-Hub index (Lighthouse is gated only on `/materiel/`).
+- `html5validator` site-wide.
+- RSS / Atom feed parse audit.
+- Sitemap completeness audit.
+
+Each is a separate CI step worth ~30 s of runtime; flag as a next-pass cleanup. Run `25432505780` confirms the live deploy is green end-to-end with the gates above.
+
+---
+
 ## Phase 1 — Post-conversion content verification
 
 ### 1.1 Front-matter audit (`scripts/audit_content.py`)

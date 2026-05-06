@@ -12,6 +12,9 @@ offline = true
 exclude = [
   '^https?://fonts\.googleapis\.com/?$',
   '^https?://fonts\.gstatic\.com/?$',
+  # tv5monde's WAF returns 403 to non-browser User-Agents; the URL works
+  # for humans. Cited from bibliographie.md as a learner resource.
+  '^https?://apprendre\.tv5monde\.com/?$',
 ]
 # Resolved against a *separate* relative-baseURL build at /tmp/lychee-public
 # (see hugo.yml). That second build emits internal links as /foo/ instead

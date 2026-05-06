@@ -247,19 +247,23 @@ jobs:
         run: |
           if [ -f /tmp/server.pid ]; then kill "$(cat /tmp/server.pid)" || true; fi
 
-      # TODO: re-enable lychee once we figure out how to make it resolve
-      # /fle/-prefixed absolute URLs against the local public/ tree without
-      # false-positives. For now, the build is link-correctness-checked at
-      # render time by Hugo's --printPathWarnings.
-      - name: Broken-link check (lychee, advisory)
-        continue-on-error: true
+      # Broken-link check via lychee. Hugo emits absolute paths with the
+      # production /fle/ baseURL prefix, so we --remap them away before
+      # resolution against the local public/ tree. External links are
+      # warned (not failed) — transient outages of bildungsplaene-bw.de,
+      # YouTube, etc. shouldn't block site deploys; the bildungsplan-refs
+      # gate above handles canonical-source liveness specifically.
+      - name: Broken-link check (lychee — internal only blocking)
         uses: lycheeverse/lychee-action@v1
         with:
           args: >-
-            --no-progress --offline --include-fragments
-            --exclude '^/fle/'
-            --base public public/**/*.html
-          fail: false
+            --no-progress --include-fragments
+            --offline
+            --remap "^https?://boulingua\.github\.io/fle/(.*)$ /$1"
+            --remap "^/fle/(.*)$ /$1"
+            --base public
+            public/**/*.html
+          fail: true
 
       - uses: actions/upload-pages-artifact@v3
         with:

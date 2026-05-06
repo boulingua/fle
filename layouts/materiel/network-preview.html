@@ -69,18 +69,52 @@
          the other. */}}
     <ul class="network-cards" id="network-cards" aria-label="Liste des matériaux affichés"></ul>
 
-    {{/* A11y mirror — every material listed in source order so screen
-         readers and keyboard users have a stable, non-graph navigation
-         path. Visually hidden on desktop; will become the only view on
-         mobile in Phase 6. */}}
-    <nav class="visually-hidden" aria-label="Tous les matériaux">
-      <ul>
-        {{- range .Site.RegularPages.ByTitle -}}
-          {{- if (or .Params.presentation .Params.worksheet) -}}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-          {{- end -}}
+    {{/* A11y mirror — every material in source order, grouped by
+         course → topic → type. Always present in the DOM; on mobile
+         (<768px) becomes the only navigation surface (the graph is
+         hidden via CSS and the JS short-circuits there). */}}
+    {{/* Build a course-bucketed list of every material-bearing article.
+         .Scratch is the safe Hugo idiom for accumulating into a map of
+         slices (raw `merge`+`append` chokes on dict element type). */}}
+    {{/* a11y mirror: every material in source order, grouped by course.
+         Always rendered (no JS dep). Visually hidden on desktop via
+         .visually-hidden, becomes the only nav surface on mobile. */}}
+    {{- $sc := newScratch -}}
+    {{- range .Site.RegularPages -}}
+      {{- if (or .Params.presentation .Params.worksheet) -}}
+        {{- $course := "(autres)" -}}
+        {{- range $seg := split .RelPermalink "/" -}}
+          {{- if hasPrefix $seg "track_" -}}{{- $course = $seg -}}{{- end -}}
         {{- end -}}
-      </ul>
+        {{- $entry := dict
+            "title" .Title
+            "url" .RelPermalink
+            "course" $course
+            "hasPres" (ne .Params.presentation nil)
+            "hasWs" (ne .Params.worksheet nil)
+        -}}
+        {{- $sc.Add "all" (slice $entry) -}}
+      {{- end -}}
+    {{- end -}}
+    <nav class="network-a11y-nav visually-hidden" aria-label="Tous les matériaux">
+      {{- $all := $sc.Get "all" | default slice -}}
+      {{- /* Sort once by (course, title). Emit a course header only on
+             transitions — single pass, no nested grouping. */ -}}
+      {{- $sorted := sort (sort $all "title") "course" -}}
+      {{- $cur := "" -}}
+      {{- range $sorted -}}
+        {{- if ne .course $cur -}}
+          {{- if $cur -}}</ul></section>{{- end -}}
+          <section><h2>{{ .course }}</h2><ul>
+          {{- $cur = .course -}}
+        {{- end -}}
+        <li>
+          <a href="{{ .url }}">{{ .title }}</a>
+          {{- if .hasPres }} — <a href="{{ .url }}#downloads">diaporama</a>{{ end -}}
+          {{- if .hasWs }} · <a href="{{ .url }}#downloads">fiche</a>{{ end -}}
+        </li>
+      {{- end -}}
+      {{- if $cur -}}</ul></section>{{- end -}}
     </nav>
   </main>
 </section>

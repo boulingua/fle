@@ -136,6 +136,81 @@ jobs:
             exit 1
           fi
 
+      # ── Phase 6 CI gate: bundle size budget for /materiel/preview/.
+      # Phase 5 prompt sets ≤ 280 KB gzipped total JS for the materials
+      # hub. Walks every <script src=...> referenced from the page, sums
+      # gzipped sizes (CDN scripts excluded — they're not in public/),
+      # fails if over budget. Loud, specific.
+      - name: Materials network — JS bundle size budget
+        run: |
+          set -eu
+          page=public/materiel/preview/index.html
+          [ -f "$page" ] || { echo "::error::missing $page"; exit 1; }
+          mapfile -t srcs < <(grep -oE 'src="[^"]*\.js[^"]*"' "$page" \
+            | sed -E 's/src="//; s/"$//' | sort -u)
+          total=0
+          echo "Local JS resources referenced from /materiel/preview/:"
+          for s in "${srcs[@]}"; do
+            case "$s" in
+              http*) continue ;;
+              /fle/*) p="public${s#/fle}" ;;
+              /*)    p="public$s" ;;
+              *)     p="public/$s" ;;
+            esac
+            if [ -f "$p" ]; then
+              size=$(gzip -c "$p" | wc -c)
+              total=$((total + size))
+              printf "  %7d B gz  %s\n" "$size" "$p"
+            fi
+          done
+          echo "Total: $total B gzipped (budget: 286720 / 280 KB)"
+          if [ "$total" -gt 286720 ]; then
+            echo "::error::JS bundle exceeds 280 KB gzipped budget."
+            exit 1
+          fi
+
+      # ── Phase 6 a11y: Lighthouse + axe-core, ADVISORY first run.
+      # The first deploy should produce baseline numbers; once known
+      # good, flip continue-on-error to false.
+      - name: Serve public/ for audits
+        run: |
+          npx -y http-server@^14 public -p 8080 -s &
+          echo $! > /tmp/server.pid
+          # wait for the port
+          for i in $(seq 1 20); do
+            if curl -fsS http://localhost:8080/ > /dev/null; then break; fi
+            sleep 0.5
+          done
+
+      - name: axe-core (advisory)
+        continue-on-error: true
+        run: |
+          npx -y @axe-core/cli@^4 \
+            http://localhost:8080/materiel/preview/ \
+            --exit || echo "::warning::axe-core reported violations (advisory)."
+
+      - name: Lighthouse a11y (advisory, target ≥ 95)
+        continue-on-error: true
+        run: |
+          npx -y lighthouse@^11 \
+            http://localhost:8080/materiel/preview/ \
+            --only-categories=accessibility \
+            --output=json --output-path=/tmp/lh.json \
+            --chrome-flags="--headless --no-sandbox --disable-gpu" \
+            --quiet || true
+          if [ -f /tmp/lh.json ]; then
+            score=$(node -e "const d=require('/tmp/lh.json');console.log(Math.round((d.categories.accessibility.score||0)*100))")
+            echo "Lighthouse accessibility score: $score / 100 (target ≥ 95)"
+            if [ "$score" -lt 95 ]; then
+              echo "::warning::Lighthouse a11y score $score below 95 (advisory)."
+            fi
+          fi
+
+      - name: Stop audit server
+        if: always()
+        run: |
+          if [ -f /tmp/server.pid ]; then kill "$(cat /tmp/server.pid)" || true; fi
+
       # TODO: re-enable lychee once we figure out how to make it resolve
       # /fle/-prefixed absolute URLs against the local public/ tree without
       # false-positives. For now, the build is link-correctness-checked at

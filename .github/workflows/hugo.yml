@@ -146,8 +146,10 @@ jobs:
           set -eu
           page=public/materiel/preview/index.html
           [ -f "$page" ] || { echo "::error::missing $page"; exit 1; }
-          mapfile -t srcs < <(grep -oE 'src="[^"]*\.js[^"]*"' "$page" \
-            | sed -E 's/src="//; s/"$//' | sort -u)
+          # Hugo --minify drops attribute quotes, so the regex must handle
+          # both `src="...js"` and `src=...js` forms.
+          mapfile -t srcs < <(grep -oE 'src=("[^"]*\.js[^"]*"|[^"<> ]*\.js[^"<> ]*)' "$page" \
+            | sed -E 's/^src=//; s/^"//; s/"$//' | sort -u)
           total=0
           echo "Local JS resources referenced from /materiel/preview/:"
           for s in "${srcs[@]}"; do
@@ -164,46 +166,43 @@ jobs:
             fi
           done
           echo "Total: $total B gzipped (budget: 286720 / 280 KB)"
+          if [ "$total" -eq 0 ]; then
+            echo "::error::Bundle gate found 0 local JS — regex broken."
+            exit 1
+          fi
           if [ "$total" -gt 286720 ]; then
             echo "::error::JS bundle exceeds 280 KB gzipped budget."
             exit 1
           fi
 
-      # ── Phase 6 a11y: Lighthouse + axe-core, ADVISORY first run.
-      # The first deploy should produce baseline numbers; once known
-      # good, flip continue-on-error to false.
+      # ── Phase 6 a11y: Lighthouse only.
+      # Lighthouse uses axe-core internally for its accessibility category,
+      # so a separate axe-cli step would duplicate work and drag in a
+      # ChromeDriver/Chrome version dependency that breaks frequently on
+      # the GHA runner. Baseline established at 95/100 on first run; gate
+      # is hard once we have headroom.
       - name: Serve public/ for audits
         run: |
           npx -y http-server@^14 public -p 8080 -s &
           echo $! > /tmp/server.pid
-          # wait for the port
           for i in $(seq 1 20); do
             if curl -fsS http://localhost:8080/ > /dev/null; then break; fi
             sleep 0.5
           done
 
-      - name: axe-core (advisory)
-        continue-on-error: true
-        run: |
-          npx -y @axe-core/cli@^4 \
-            http://localhost:8080/materiel/preview/ \
-            --exit || echo "::warning::axe-core reported violations (advisory)."
-
-      - name: Lighthouse a11y (advisory, target ≥ 95)
-        continue-on-error: true
+      - name: Lighthouse a11y (target ≥ 95)
         run: |
           npx -y lighthouse@^11 \
             http://localhost:8080/materiel/preview/ \
             --only-categories=accessibility \
             --output=json --output-path=/tmp/lh.json \
             --chrome-flags="--headless --no-sandbox --disable-gpu" \
-            --quiet || true
-          if [ -f /tmp/lh.json ]; then
-            score=$(node -e "const d=require('/tmp/lh.json');console.log(Math.round((d.categories.accessibility.score||0)*100))")
-            echo "Lighthouse accessibility score: $score / 100 (target ≥ 95)"
-            if [ "$score" -lt 95 ]; then
-              echo "::warning::Lighthouse a11y score $score below 95 (advisory)."
-            fi
+            --quiet
+          score=$(node -e "const d=require('/tmp/lh.json');console.log(Math.round((d.categories.accessibility.score||0)*100))")
+          echo "Lighthouse accessibility score: $score / 100 (target ≥ 95)"
+          if [ "$score" -lt 95 ]; then
+            echo "::error::Lighthouse a11y score $score below 95."
+            exit 1
           fi
 
       - name: Stop audit server

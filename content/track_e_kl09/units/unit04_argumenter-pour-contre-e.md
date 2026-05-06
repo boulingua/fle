@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20fb736bae274f39b7592c310e63802b"
+presentation:
+  file: "/materials/presentations/unit04_argumenter-pour-contre-e.pptx"
+  thumbnail: "/materials/presentations/unit04_argumenter-pour-contre-e.png"
+worksheet:
+  file: "/materials/worksheets/unit04_argumenter-pour-contre-e.pdf"
+  thumbnail: "/materials/worksheets/unit04_argumenter-pour-contre-e.png"
+tags:
+  - filiere-e
+  - classe-9
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

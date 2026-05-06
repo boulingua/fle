@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/204a2fc573064e68bd8aaa21bd195f99"
+presentation:
+  file: "/materials/presentations/unit11_un-projet-solidaire-e.pptx"
+  thumbnail: "/materials/presentations/unit11_un-projet-solidaire-e.png"
+worksheet:
+  file: "/materials/worksheets/unit11_un-projet-solidaire-e.pdf"
+  thumbnail: "/materials/worksheets/unit11_un-projet-solidaire-e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

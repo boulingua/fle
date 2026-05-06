@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/21ec2a0dcd8e46a0a33f2bf2e038239d"
+presentation:
+  file: "/materials/presentations/unit08_differences-culturelles-e.pptx"
+  thumbnail: "/materials/presentations/unit08_differences-culturelles-e.png"
+worksheet:
+  file: "/materials/worksheets/unit08_differences-culturelles-e.pdf"
+  thumbnail: "/materials/worksheets/unit08_differences-culturelles-e.png"
+tags:
+  - filiere-e
+  - classe-9
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

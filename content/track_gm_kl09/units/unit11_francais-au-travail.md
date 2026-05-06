@@ -13,6 +13,16 @@ skills_focus:
   - sprachmittlung
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2eef60e9d8b54dac92ed63cde4abc105"
+presentation:
+  file: "/materials/presentations/unit11_francais-au-travail.pptx"
+  thumbnail: "/materials/presentations/unit11_francais-au-travail.png"
+worksheet:
+  file: "/materials/worksheets/unit11_francais-au-travail.pdf"
+  thumbnail: "/materials/worksheets/unit11_francais-au-travail.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

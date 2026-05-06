@@ -14,6 +14,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b07ec00c17943ebba012fc821fb4e28"
+presentation:
+  file: "/materials/presentations/unit03_mon-quartier.pptx"
+  thumbnail: "/materials/presentations/unit03_mon-quartier.png"
+worksheet:
+  file: "/materials/worksheets/unit03_mon-quartier.pdf"
+  thumbnail: "/materials/worksheets/unit03_mon-quartier.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

@@ -14,6 +14,16 @@ skills_focus:
   - hör_hörsehverstehen
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a7a2712c0ad45e0aaf423542cb4907c"
+presentation:
+  file: "/materials/presentations/unit11_voyage-en-france.pptx"
+  thumbnail: "/materials/presentations/unit11_voyage-en-france.png"
+worksheet:
+  file: "/materials/worksheets/unit11_voyage-en-france.pdf"
+  thumbnail: "/materials/worksheets/unit11_voyage-en-france.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

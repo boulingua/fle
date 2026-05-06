@@ -11,6 +11,16 @@ bildungsplan:
 skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/273deb8fb1a44bc2944804cd4a9f96c7"
+presentation:
+  file: "/materials/presentations/unit03_essai-personnel.pptx"
+  thumbnail: "/materials/presentations/unit03_essai-personnel.png"
+worksheet:
+  file: "/materials/worksheets/unit03_essai-personnel.pdf"
+  thumbnail: "/materials/worksheets/unit03_essai-personnel.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

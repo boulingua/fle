@@ -13,6 +13,16 @@ skills_focus:
   - hör_hörsehverstehen
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/266cd8bbbc3541d68348ad5f22fa22e8"
+presentation:
+  file: "/materials/presentations/unit07_discours-radio.pptx"
+  thumbnail: "/materials/presentations/unit07_discours-radio.png"
+worksheet:
+  file: "/materials/worksheets/unit07_discours-radio.pdf"
+  thumbnail: "/materials/worksheets/unit07_discours-radio.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

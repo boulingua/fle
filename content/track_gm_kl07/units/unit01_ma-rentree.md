@@ -12,6 +12,16 @@ bildungsplan:
 skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2ad7dcf97ba5435290d16b55875198de"
+presentation:
+  file: "/materials/presentations/unit01_ma-rentree.pptx"
+  thumbnail: "/materials/presentations/unit01_ma-rentree.png"
+worksheet:
+  file: "/materials/worksheets/unit01_ma-rentree.pdf"
+  thumbnail: "/materials/worksheets/unit01_ma-rentree.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

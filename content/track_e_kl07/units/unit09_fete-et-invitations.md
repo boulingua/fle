@@ -13,6 +13,16 @@ skills_focus:
   - schreiben
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e65d6bab63944249edff767db09f613"
+presentation:
+  file: "/materials/presentations/unit09_fete-et-invitations.pptx"
+  thumbnail: "/materials/presentations/unit09_fete-et-invitations.png"
+worksheet:
+  file: "/materials/worksheets/unit09_fete-et-invitations.pdf"
+  thumbnail: "/materials/worksheets/unit09_fete-et-invitations.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

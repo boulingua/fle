@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23ac70699a38474b837e7dccc6b0e306"
+presentation:
+  file: "/materials/presentations/unit12_bilan-fin-sek-i.pptx"
+  thumbnail: "/materials/presentations/unit12_bilan-fin-sek-i.png"
+worksheet:
+  file: "/materials/worksheets/unit12_bilan-fin-sek-i.pdf"
+  thumbnail: "/materials/worksheets/unit12_bilan-fin-sek-i.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

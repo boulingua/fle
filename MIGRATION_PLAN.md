@@ -165,6 +165,29 @@ To allow incremental validation:
 
 ## 6. Phase log
 
+### Phase 3 — 2026-05-06
+
+- **Per-article placeholders generated** by `_scripts/make_materials.py` (idempotent, safe to re-run):
+  - 156 `static/materials/presentations/<slug>.pptx` (real one-slide deck via `python-pptx`)
+  - 156 `static/materials/worksheets/<slug>.pdf` (real one-page A4 via `reportlab`, with PDF `/Author` set to `S. Le Boulanger`)
+  - 156 `static/materials/presentations/<slug>.png` (480×320 thumbnail via Pillow)
+  - 156 `static/materials/worksheets/<slug>.png` (same)
+  - Slug = filename stem (e.g. `unit01_salutations-et-prenoms-e`); stable, unique, independent of any `slug:` URL override.
+- **Frontmatter injected** into all 156 `content/track_*/units/*.md` files: `presentation:` (file + thumbnail), `worksheet:` (file + thumbnail), and a `tags:` block derived from existing `track`/`klassenstufe`/`niveau` (e.g. `filiere-e`, `classe-6`, `niveau-e`). Re-runs are upserts; article body untouched.
+- **`layouts/_partials/material-links.html`** renders the paired download cards (presentation left, worksheet right). Auto-injected immediately under the title block via `_partials/page.html`. Legacy `{{< downloads >}}` shortcode now also calls this partial, so the body marker is no longer a dead-end.
+- **Hub pages:**
+  - `/materiel/` — index linking to the two listings.
+  - `/materiel/presentations/` — auto-listing of every page with `presentation:` set.
+  - `/materiel/fiches/` — auto-listing of every page with `worksheet:` set.
+  - Both use `layouts/materiel/materials-list.html` selected via `layout:` frontmatter; pages are discovered by iterating `Site.RegularPages.ByTitle` and filtering by frontmatter presence — not hand-maintained.
+  - Each tile: thumbnail, title, subtitle (Cl. N · Niveau X), tag chips, download button, click-through to the article.
+  - Tag-based filter (multi-select chips) and full-text title/tag search are implemented inline as a small JS controller — no Pagefind dependency required at this stage. Pagefind can be layered on in Phase 4 if desired (would need an `npx pagefind --site public` CI step).
+- **CSS** for hub controls + tiles + chips added to `assets/css/custom.css` (already wired via `params.customCSS`).
+- **Build:** 249 pages, 0 errors, ~1.2 s. 631 static files (the new placeholders + thumbnails).
+- **VG Wort verifier still passes (193/193)** — the new material-links partial does not interfere with pixel emission.
+- **Existing worksheet pipeline (`_scripts/make_placeholder_worksheets.py`):** retained but **not yet wired** into Hugo. Recommendation for Phase 4: replace the dummy `static/materials/worksheets/<slug>.pdf` with the existing pipeline's outputs in CI (the script can be invoked before Hugo build, then the dummies overwritten). The `make_materials.py` script remains the source of truth for `.pptx` placeholders + thumbnails.
+- **Decision deferred:** whether to also pixel the hub pages (`/materiel/`, `/materiel/presentations/`, `/materiel/fiches/`). Per the migration prompt, hubs are navigation, not articles — so they stay un-pixeled. Track index/uebersicht pages keep their existing pixels.
+
 ### Phase 2 — 2026-05-06
 
 - **197 `.qmd` files migrated** to Hugo `.md` via `_scripts/migrate_qmd_to_md.py` (10 top-level + 5 annexes + 13 track index + 13 uebersicht + 156 unit pages). The 156 `_exam.qmd` PDF-only files were intentionally left in place — they will continue to be rendered to PDF by a slimmed-down Quarto step in Phase 4 (decision: hybrid Hugo-HTML + Quarto-PDF).

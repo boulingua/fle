@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23bb137c55914bc7b00964ee1179a29a"
+presentation:
+  file: "/materials/presentations/unit01_ecrire-sur-soi.pptx"
+  thumbnail: "/materials/presentations/unit01_ecrire-sur-soi.png"
+worksheet:
+  file: "/materials/worksheets/unit01_ecrire-sur-soi.pdf"
+  thumbnail: "/materials/worksheets/unit01_ecrire-sur-soi.png"
+tags:
+  - filiere-e
+  - classe-11
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

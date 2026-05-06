@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22b2a1b5245242d790aa01932d2f47f8"
+presentation:
+  file: "/materials/presentations/unit03_vie-democratique-e.pptx"
+  thumbnail: "/materials/presentations/unit03_vie-democratique-e.png"
+worksheet:
+  file: "/materials/worksheets/unit03_vie-democratique-e.pdf"
+  thumbnail: "/materials/worksheets/unit03_vie-democratique-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

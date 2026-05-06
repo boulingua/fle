@@ -14,6 +14,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d5feea5516749f38183922b8a174e0c"
+presentation:
+  file: "/materials/presentations/unit11_un-projet-solidaire.pptx"
+  thumbnail: "/materials/presentations/unit11_un-projet-solidaire.png"
+worksheet:
+  file: "/materials/worksheets/unit11_un-projet-solidaire.pdf"
+  thumbnail: "/materials/worksheets/unit11_un-projet-solidaire.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

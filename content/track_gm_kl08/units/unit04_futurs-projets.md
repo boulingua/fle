@@ -14,6 +14,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2cd7f2d63023444089d081b10fed872e"
+presentation:
+  file: "/materials/presentations/unit04_futurs-projets.pptx"
+  thumbnail: "/materials/presentations/unit04_futurs-projets.png"
+worksheet:
+  file: "/materials/worksheets/unit04_futurs-projets.pdf"
+  thumbnail: "/materials/worksheets/unit04_futurs-projets.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

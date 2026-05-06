@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e19f533d33d4ddeb044e1f61ca0bddf"
+presentation:
+  file: "/materials/presentations/unit06_transports-et-mobilite.pptx"
+  thumbnail: "/materials/presentations/unit06_transports-et-mobilite.png"
+worksheet:
+  file: "/materials/worksheets/unit06_transports-et-mobilite.pdf"
+  thumbnail: "/materials/worksheets/unit06_transports-et-mobilite.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

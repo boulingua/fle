@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_dialog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2be291a3b9fd4e72a263115d0dd86ca8"
+presentation:
+  file: "/materials/presentations/unit09_fete-d-anniversaire.pptx"
+  thumbnail: "/materials/presentations/unit09_fete-d-anniversaire.png"
+worksheet:
+  file: "/materials/worksheets/unit09_fete-d-anniversaire.pdf"
+  thumbnail: "/materials/worksheets/unit09_fete-d-anniversaire.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

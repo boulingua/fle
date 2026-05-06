@@ -1,0 +1,21 @@
+{{- /* Paired download cards: presentation (left) + worksheet (right). */ -}}
+{{- $pres := .Params.presentation -}}
+{{- $work := .Params.worksheet -}}
+{{- if or $pres $work -}}
+<div class="material-links">
+  {{- with $pres }}
+  <div class="material-card">
+    {{- with .thumbnail }}<a href="{{ $pres.file | relURL }}" download><img src="{{ . | relURL }}" alt="Aperçu de la présentation" loading="lazy"></a>{{ end -}}
+    <div class="material-card-title">Présentation</div>
+    <a class="download-btn" href="{{ .file | relURL }}" download>Télécharger .pptx</a>
+  </div>
+  {{- end -}}
+  {{- with $work }}
+  <div class="material-card">
+    {{- with .thumbnail }}<a href="{{ $work.file | relURL }}" download><img src="{{ . | relURL }}" alt="Aperçu de la fiche d'exercices" loading="lazy"></a>{{ end -}}
+    <div class="material-card-title">Fiche d'exercices</div>
+    <a class="download-btn" href="{{ .file | relURL }}" download>Télécharger .pdf</a>
+  </div>
+  {{- end -}}
+</div>
+{{- end -}}

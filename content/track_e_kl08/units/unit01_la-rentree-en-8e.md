@@ -11,6 +11,16 @@ bildungsplan:
 skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1f64fbf604164eb78769d718a93df8f8"
+presentation:
+  file: "/materials/presentations/unit01_la-rentree-en-8e.pptx"
+  thumbnail: "/materials/presentations/unit01_la-rentree-en-8e.png"
+worksheet:
+  file: "/materials/worksheets/unit01_la-rentree-en-8e.pdf"
+  thumbnail: "/materials/worksheets/unit01_la-rentree-en-8e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

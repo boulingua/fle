@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e332f8a71d541159f35e8a15bb97735"
+presentation:
+  file: "/materials/presentations/unit04_argumenter-pour-contre.pptx"
+  thumbnail: "/materials/presentations/unit04_argumenter-pour-contre.png"
+worksheet:
+  file: "/materials/worksheets/unit04_argumenter-pour-contre.pdf"
+  thumbnail: "/materials/worksheets/unit04_argumenter-pour-contre.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

@@ -13,6 +13,16 @@ skills_focus:
   - hör_hörsehverstehen
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/29422f90ffb340368e6ae261d3803471"
+presentation:
+  file: "/materials/presentations/unit06_au-marche.pptx"
+  thumbnail: "/materials/presentations/unit06_au-marche.png"
+worksheet:
+  file: "/materials/worksheets/unit06_au-marche.pdf"
+  thumbnail: "/materials/worksheets/unit06_au-marche.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26a515dd09f9470e924102811aeb3cb5"
+presentation:
+  file: "/materials/presentations/unit09_memoire-et-traumatisme.pptx"
+  thumbnail: "/materials/presentations/unit09_memoire-et-traumatisme.png"
+worksheet:
+  file: "/materials/worksheets/unit09_memoire-et-traumatisme.pdf"
+  thumbnail: "/materials/worksheets/unit09_memoire-et-traumatisme.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

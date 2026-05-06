@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1daae2f35b9c444ab20d81a6f7116593"
+presentation:
+  file: "/materials/presentations/unit02_raconter-une-anecdote.pptx"
+  thumbnail: "/materials/presentations/unit02_raconter-une-anecdote.png"
+worksheet:
+  file: "/materials/worksheets/unit02_raconter-une-anecdote.pdf"
+  thumbnail: "/materials/worksheets/unit02_raconter-une-anecdote.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

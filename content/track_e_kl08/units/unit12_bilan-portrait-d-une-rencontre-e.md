@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/206f9a723fe34052bcacf73260450d38"
+presentation:
+  file: "/materials/presentations/unit12_bilan-portrait-d-une-rencontre-e.pptx"
+  thumbnail: "/materials/presentations/unit12_bilan-portrait-d-une-rencontre-e.png"
+worksheet:
+  file: "/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-e.pdf"
+  thumbnail: "/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

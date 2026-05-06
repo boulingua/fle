@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2677307697db44998cb51381d4dabeff"
+presentation:
+  file: "/materials/presentations/unit08_gender-litteraire.pptx"
+  thumbnail: "/materials/presentations/unit08_gender-litteraire.png"
+worksheet:
+  file: "/materials/worksheets/unit08_gender-litteraire.pdf"
+  thumbnail: "/materials/worksheets/unit08_gender-litteraire.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

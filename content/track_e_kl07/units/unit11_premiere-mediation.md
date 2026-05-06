@@ -11,6 +11,16 @@ bildungsplan:
 skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1ee43e55747b4498ad09d2351de24697"
+presentation:
+  file: "/materials/presentations/unit11_premiere-mediation.pptx"
+  thumbnail: "/materials/presentations/unit11_premiere-mediation.png"
+worksheet:
+  file: "/materials/worksheets/unit11_premiere-mediation.pdf"
+  thumbnail: "/materials/worksheets/unit11_premiere-mediation.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

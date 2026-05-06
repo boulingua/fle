@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2821fac53ec445558fb057d57318b531"
+presentation:
+  file: "/materials/presentations/unit07_kommunikationspruefung-prep.pptx"
+  thumbnail: "/materials/presentations/unit07_kommunikationspruefung-prep.png"
+worksheet:
+  file: "/materials/worksheets/unit07_kommunikationspruefung-prep.pdf"
+  thumbnail: "/materials/worksheets/unit07_kommunikationspruefung-prep.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

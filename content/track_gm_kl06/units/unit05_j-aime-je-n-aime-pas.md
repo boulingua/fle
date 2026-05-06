@@ -14,6 +14,16 @@ skills_focus:
   - sprechen_dialog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2911775a1ce1414b849fc64bd9b53ed9"
+presentation:
+  file: "/materials/presentations/unit05_j-aime-je-n-aime-pas.pptx"
+  thumbnail: "/materials/presentations/unit05_j-aime-je-n-aime-pas.png"
+worksheet:
+  file: "/materials/worksheets/unit05_j-aime-je-n-aime-pas.pdf"
+  thumbnail: "/materials/worksheets/unit05_j-aime-je-n-aime-pas.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

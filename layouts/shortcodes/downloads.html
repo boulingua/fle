@@ -1,8 +1,3 @@
-{{- /*
-  Stub shortcode for the legacy Quarto `{{< downloads >}}` marker.
-  In Phase 3 this will be replaced by the material-links partial driven by
-  frontmatter (presentation: / worksheet:). For now it renders a placeholder
-  so Hugo can build during the migration.
-*/ -}}
-{{- $page := .Page -}}
-<div class="downloads-placeholder" data-slug="{{ $page.File.BaseFileName }}"></div>
+{{- /* Legacy {{< downloads >}} marker — now renders the material-links partial
+       so the article body has the same paired cards as the auto-injected pair. */ -}}
+{{- partial "material-links.html" .Page -}}

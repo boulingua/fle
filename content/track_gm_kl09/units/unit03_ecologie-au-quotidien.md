@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_dialog
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e1807a2c0c14311bcaeff4478e8d0b9"
+presentation:
+  file: "/materials/presentations/unit03_ecologie-au-quotidien.pptx"
+  thumbnail: "/materials/presentations/unit03_ecologie-au-quotidien.png"
+worksheet:
+  file: "/materials/worksheets/unit03_ecologie-au-quotidien.pdf"
+  thumbnail: "/materials/worksheets/unit03_ecologie-au-quotidien.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

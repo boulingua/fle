@@ -150,6 +150,109 @@ body.colorscheme-dark {
   background: var(--boulingua-accent-hover);
 }
 
+/* ── Materials hub listing ──────────────────────── */
+.materials-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.materials-search {
+  width: 100%;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.materials-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.tag-chip {
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--boulingua-panel-border);
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.tag-chip.active {
+  background: var(--boulingua-accent);
+  color: white;
+  border-color: var(--boulingua-accent);
+}
+
+.materials-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.material-tile {
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 8px;
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.material-tile-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.material-tile-link img {
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--boulingua-rule);
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.material-tile-title {
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.material-tile-meta {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.4rem;
+}
+
+.material-tile-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.tile-tag {
+  font-size: 0.72rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  background: rgba(26, 115, 232, 0.1);
+  color: var(--boulingua-accent);
+}
+
+.material-tile .download-btn {
+  margin-top: 0.6rem;
+  text-align: center;
+}
+
+.material-card-title {
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
 /* ── VG Wort pixel hidden but emitted ───────────── */
 .vgwort-pixel img,
 img.vgwort-pixel {

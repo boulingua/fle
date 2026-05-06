@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_dialog
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20b8b29e7abd41beaf4ed4ba8e1a8688"
+presentation:
+  file: "/materials/presentations/unit03_ecologie-au-quotidien-e.pptx"
+  thumbnail: "/materials/presentations/unit03_ecologie-au-quotidien-e.png"
+worksheet:
+  file: "/materials/worksheets/unit03_ecologie-au-quotidien-e.pdf"
+  thumbnail: "/materials/worksheets/unit03_ecologie-au-quotidien-e.png"
+tags:
+  - filiere-e
+  - classe-9
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

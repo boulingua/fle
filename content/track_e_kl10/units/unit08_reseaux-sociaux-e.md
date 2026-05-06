@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/234bfe269c74485ab77d909071ff7d09"
+presentation:
+  file: "/materials/presentations/unit08_reseaux-sociaux-e.pptx"
+  thumbnail: "/materials/presentations/unit08_reseaux-sociaux-e.png"
+worksheet:
+  file: "/materials/worksheets/unit08_reseaux-sociaux-e.pdf"
+  thumbnail: "/materials/worksheets/unit08_reseaux-sociaux-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

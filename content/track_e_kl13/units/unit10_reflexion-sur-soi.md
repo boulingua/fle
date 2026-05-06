@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/286f0ff2bd094220b325d3e797afe6af"
+presentation:
+  file: "/materials/presentations/unit10_reflexion-sur-soi.pptx"
+  thumbnail: "/materials/presentations/unit10_reflexion-sur-soi.png"
+worksheet:
+  file: "/materials/worksheets/unit10_reflexion-sur-soi.pdf"
+  thumbnail: "/materials/worksheets/unit10_reflexion-sur-soi.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

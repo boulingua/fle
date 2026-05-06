@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1c1d3a3a981d463c8cb6fa8fbe95f76c"
+presentation:
+  file: "/materials/presentations/unit02_ma-famille-e.pptx"
+  thumbnail: "/materials/presentations/unit02_ma-famille-e.png"
+worksheet:
+  file: "/materials/worksheets/unit02_ma-famille-e.pdf"
+  thumbnail: "/materials/worksheets/unit02_ma-famille-e.png"
+tags:
+  - filiere-e
+  - classe-6
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

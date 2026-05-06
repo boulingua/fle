@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22e9489ab4f644aa983aef5fb1ca54c1"
+presentation:
+  file: "/materials/presentations/unit05_premiere-analyse-poesie.pptx"
+  thumbnail: "/materials/presentations/unit05_premiere-analyse-poesie.png"
+worksheet:
+  file: "/materials/worksheets/unit05_premiere-analyse-poesie.pdf"
+  thumbnail: "/materials/worksheets/unit05_premiere-analyse-poesie.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

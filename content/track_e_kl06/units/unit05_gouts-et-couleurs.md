@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_dialog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1c9ad1b4184c402aac2bd735f7b04be8"
+presentation:
+  file: "/materials/presentations/unit05_gouts-et-couleurs.pptx"
+  thumbnail: "/materials/presentations/unit05_gouts-et-couleurs.png"
+worksheet:
+  file: "/materials/worksheets/unit05_gouts-et-couleurs.pdf"
+  thumbnail: "/materials/worksheets/unit05_gouts-et-couleurs.png"
+tags:
+  - filiere-e
+  - classe-6
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

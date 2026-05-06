@@ -13,6 +13,16 @@ skills_focus:
   - hör_hörsehverstehen
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1d1eeb688d16475ab442f3cf2df51729"
+presentation:
+  file: "/materials/presentations/unit11_voyage-decouverte.pptx"
+  thumbnail: "/materials/presentations/unit11_voyage-decouverte.png"
+worksheet:
+  file: "/materials/worksheets/unit11_voyage-decouverte.pdf"
+  thumbnail: "/materials/worksheets/unit11_voyage-decouverte.png"
+tags:
+  - filiere-e
+  - classe-6
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

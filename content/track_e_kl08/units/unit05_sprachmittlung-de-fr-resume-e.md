@@ -11,6 +11,16 @@ bildungsplan:
 skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1fd5bffa9385441f86ade8d3c69fee08"
+presentation:
+  file: "/materials/presentations/unit05_sprachmittlung-de-fr-resume-e.pptx"
+  thumbnail: "/materials/presentations/unit05_sprachmittlung-de-fr-resume-e.png"
+worksheet:
+  file: "/materials/worksheets/unit05_sprachmittlung-de-fr-resume-e.pdf"
+  thumbnail: "/materials/worksheets/unit05_sprachmittlung-de-fr-resume-e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

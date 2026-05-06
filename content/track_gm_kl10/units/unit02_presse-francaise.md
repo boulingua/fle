@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f5770bd0de140369701d47b52e631de"
+presentation:
+  file: "/materials/presentations/unit02_presse-francaise.pptx"
+  thumbnail: "/materials/presentations/unit02_presse-francaise.png"
+worksheet:
+  file: "/materials/worksheets/unit02_presse-francaise.pdf"
+  thumbnail: "/materials/worksheets/unit02_presse-francaise.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

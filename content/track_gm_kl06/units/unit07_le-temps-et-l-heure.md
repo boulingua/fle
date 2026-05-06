@@ -14,6 +14,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2988551bd0a0448ea944a90fd9ef1094"
+presentation:
+  file: "/materials/presentations/unit07_le-temps-et-l-heure.pptx"
+  thumbnail: "/materials/presentations/unit07_le-temps-et-l-heure.png"
+worksheet:
+  file: "/materials/worksheets/unit07_le-temps-et-l-heure.pdf"
+  thumbnail: "/materials/worksheets/unit07_le-temps-et-l-heure.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

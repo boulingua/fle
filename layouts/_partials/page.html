@@ -9,6 +9,8 @@
       {{- with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end -}}
     </header>
 
+    {{- partial "material-links.html" . -}}
+
     {{ .Content }}
 
     {{- partial "vgwort.html" . -}}

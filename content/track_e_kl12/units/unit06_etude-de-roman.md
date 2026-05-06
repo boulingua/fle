@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2630bb98f7b143198523c44329149c24"
+presentation:
+  file: "/materials/presentations/unit06_etude-de-roman.pptx"
+  thumbnail: "/materials/presentations/unit06_etude-de-roman.png"
+worksheet:
+  file: "/materials/worksheets/unit06_etude-de-roman.pdf"
+  thumbnail: "/materials/worksheets/unit06_etude-de-roman.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

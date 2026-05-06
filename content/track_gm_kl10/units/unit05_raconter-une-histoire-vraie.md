@@ -13,6 +13,16 @@ skills_focus:
   - schreiben
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f8717b1a6a34013a3665cdd10195970"
+presentation:
+  file: "/materials/presentations/unit05_raconter-une-histoire-vraie.pptx"
+  thumbnail: "/materials/presentations/unit05_raconter-une-histoire-vraie.png"
+worksheet:
+  file: "/materials/worksheets/unit05_raconter-une-histoire-vraie.pdf"
+  thumbnail: "/materials/worksheets/unit05_raconter-une-histoire-vraie.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

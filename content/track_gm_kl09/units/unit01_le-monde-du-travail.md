@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d9efd254a624164a84cbf62d12a81c3"
+presentation:
+  file: "/materials/presentations/unit01_le-monde-du-travail.pptx"
+  thumbnail: "/materials/presentations/unit01_le-monde-du-travail.png"
+worksheet:
+  file: "/materials/worksheets/unit01_le-monde-du-travail.pdf"
+  thumbnail: "/materials/worksheets/unit01_le-monde-du-travail.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

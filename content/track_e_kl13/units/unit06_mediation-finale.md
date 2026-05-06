@@ -11,6 +11,16 @@ bildungsplan:
 skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/27d62c0470fc4b509bb9c9f65bb6c4c3"
+presentation:
+  file: "/materials/presentations/unit06_mediation-finale.pptx"
+  thumbnail: "/materials/presentations/unit06_mediation-finale.png"
+worksheet:
+  file: "/materials/worksheets/unit06_mediation-finale.pdf"
+  thumbnail: "/materials/worksheets/unit06_mediation-finale.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

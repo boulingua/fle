@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/271dbe5ae8e543ae8440759a3076a259"
+presentation:
+  file: "/materials/presentations/unit01_synthese-themes-litteraires.pptx"
+  thumbnail: "/materials/presentations/unit01_synthese-themes-litteraires.png"
+worksheet:
+  file: "/materials/worksheets/unit01_synthese-themes-litteraires.pdf"
+  thumbnail: "/materials/worksheets/unit01_synthese-themes-litteraires.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

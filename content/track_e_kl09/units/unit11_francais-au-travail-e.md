@@ -13,6 +13,16 @@ skills_focus:
   - sprachmittlung
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/224e20a5129b4b1f911f956ddd29d3f5"
+presentation:
+  file: "/materials/presentations/unit11_francais-au-travail-e.pptx"
+  thumbnail: "/materials/presentations/unit11_francais-au-travail-e.png"
+worksheet:
+  file: "/materials/worksheets/unit11_francais-au-travail-e.pdf"
+  thumbnail: "/materials/worksheets/unit11_francais-au-travail-e.png"
+tags:
+  - filiere-e
+  - classe-9
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

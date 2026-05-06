@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/27ae6ae5ade6488e8aa34c3db2134c29"
+presentation:
+  file: "/materials/presentations/unit05_abitur-mock-2.pptx"
+  thumbnail: "/materials/presentations/unit05_abitur-mock-2.png"
+worksheet:
+  file: "/materials/worksheets/unit05_abitur-mock-2.pdf"
+  thumbnail: "/materials/worksheets/unit05_abitur-mock-2.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

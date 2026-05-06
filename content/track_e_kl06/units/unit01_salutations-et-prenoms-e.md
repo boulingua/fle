@@ -11,6 +11,16 @@ bildungsplan:
 skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1be616bdc20c4f11bb1248ef8af10b56"
+presentation:
+  file: "/materials/presentations/unit01_salutations-et-prenoms-e.pptx"
+  thumbnail: "/materials/presentations/unit01_salutations-et-prenoms-e.png"
+worksheet:
+  file: "/materials/worksheets/unit01_salutations-et-prenoms-e.pdf"
+  thumbnail: "/materials/worksheets/unit01_salutations-et-prenoms-e.png"
+tags:
+  - filiere-e
+  - classe-6
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

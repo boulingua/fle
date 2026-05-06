@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23c1f60ff5304f6994a8e23f1ce1853d"
+presentation:
+  file: "/materials/presentations/unit02_francophonie-postcoloniale.pptx"
+  thumbnail: "/materials/presentations/unit02_francophonie-postcoloniale.png"
+worksheet:
+  file: "/materials/worksheets/unit02_francophonie-postcoloniale.pdf"
+  thumbnail: "/materials/worksheets/unit02_francophonie-postcoloniale.png"
+tags:
+  - filiere-e
+  - classe-11
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

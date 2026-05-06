@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/239e2e3de4544e8f9c244e8b18affaa9"
+presentation:
+  file: "/materials/presentations/unit11_preparer-un-discours-e.pptx"
+  thumbnail: "/materials/presentations/unit11_preparer-un-discours-e.png"
+worksheet:
+  file: "/materials/worksheets/unit11_preparer-un-discours-e.pdf"
+  thumbnail: "/materials/worksheets/unit11_preparer-un-discours-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

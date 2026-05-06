@@ -14,6 +14,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28e22e581a474399ac126de180fd6101"
+presentation:
+  file: "/materials/presentations/unit03_mon-ecole.pptx"
+  thumbnail: "/materials/presentations/unit03_mon-ecole.png"
+worksheet:
+  file: "/materials/worksheets/unit03_mon-ecole.pdf"
+  thumbnail: "/materials/worksheets/unit03_mon-ecole.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

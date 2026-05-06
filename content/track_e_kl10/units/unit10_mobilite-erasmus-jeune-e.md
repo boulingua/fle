@@ -13,6 +13,16 @@ skills_focus:
   - hör_hörsehverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2369166e6e5040b2a16f0a6d67bf2448"
+presentation:
+  file: "/materials/presentations/unit10_mobilite-erasmus-jeune-e.pptx"
+  thumbnail: "/materials/presentations/unit10_mobilite-erasmus-jeune-e.png"
+worksheet:
+  file: "/materials/worksheets/unit10_mobilite-erasmus-jeune-e.pdf"
+  thumbnail: "/materials/worksheets/unit10_mobilite-erasmus-jeune-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

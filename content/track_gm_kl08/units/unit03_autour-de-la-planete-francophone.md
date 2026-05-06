@@ -14,6 +14,16 @@ skills_focus:
   - leseverstehen
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2cbab0747e7f4990b89da2c4e46a7232"
+presentation:
+  file: "/materials/presentations/unit03_autour-de-la-planete-francophone.pptx"
+  thumbnail: "/materials/presentations/unit03_autour-de-la-planete-francophone.png"
+worksheet:
+  file: "/materials/worksheets/unit03_autour-de-la-planete-francophone.pdf"
+  thumbnail: "/materials/worksheets/unit03_autour-de-la-planete-francophone.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

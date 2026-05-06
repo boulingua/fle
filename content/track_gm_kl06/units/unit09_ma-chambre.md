@@ -14,6 +14,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a23cd8ecdf04b5da01b398d69ef43e2"
+presentation:
+  file: "/materials/presentations/unit09_ma-chambre.pptx"
+  thumbnail: "/materials/presentations/unit09_ma-chambre.png"
+worksheet:
+  file: "/materials/worksheets/unit09_ma-chambre.pdf"
+  thumbnail: "/materials/worksheets/unit09_ma-chambre.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

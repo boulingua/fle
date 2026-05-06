@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26168bca81d642529c92f8bb458671eb"
+presentation:
+  file: "/materials/presentations/unit04_presse-engagee.pptx"
+  thumbnail: "/materials/presentations/unit04_presse-engagee.png"
+worksheet:
+  file: "/materials/worksheets/unit04_presse-engagee.pdf"
+  thumbnail: "/materials/worksheets/unit04_presse-engagee.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

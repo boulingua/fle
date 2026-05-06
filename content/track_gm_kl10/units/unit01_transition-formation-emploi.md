@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f139f63d98f4c90a37e3c130f154a18"
+presentation:
+  file: "/materials/presentations/unit01_transition-formation-emploi.pptx"
+  thumbnail: "/materials/presentations/unit01_transition-formation-emploi.png"
+worksheet:
+  file: "/materials/worksheets/unit01_transition-formation-emploi.pdf"
+  thumbnail: "/materials/worksheets/unit01_transition-formation-emploi.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

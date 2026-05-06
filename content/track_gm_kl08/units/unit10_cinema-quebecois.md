@@ -14,6 +14,16 @@ skills_focus:
   - hör_hörsehverstehen
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d37cb99a2a24175a031ebc52f43834b"
+presentation:
+  file: "/materials/presentations/unit10_cinema-quebecois.pptx"
+  thumbnail: "/materials/presentations/unit10_cinema-quebecois.png"
+worksheet:
+  file: "/materials/worksheets/unit10_cinema-quebecois.pdf"
+  thumbnail: "/materials/worksheets/unit10_cinema-quebecois.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

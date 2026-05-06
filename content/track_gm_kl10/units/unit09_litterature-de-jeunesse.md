@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2fe6a666eed842b5b9d4c8411d12bca3"
+presentation:
+  file: "/materials/presentations/unit09_litterature-de-jeunesse.pptx"
+  thumbnail: "/materials/presentations/unit09_litterature-de-jeunesse.png"
+worksheet:
+  file: "/materials/worksheets/unit09_litterature-de-jeunesse.pdf"
+  thumbnail: "/materials/worksheets/unit09_litterature-de-jeunesse.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

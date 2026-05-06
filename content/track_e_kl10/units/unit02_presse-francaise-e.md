@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/229e50e5b0024e609ceabe56f1477100"
+presentation:
+  file: "/materials/presentations/unit02_presse-francaise-e.pptx"
+  thumbnail: "/materials/presentations/unit02_presse-francaise-e.png"
+worksheet:
+  file: "/materials/worksheets/unit02_presse-francaise-e.pdf"
+  thumbnail: "/materials/worksheets/unit02_presse-francaise-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

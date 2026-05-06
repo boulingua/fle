@@ -14,6 +14,16 @@ skills_focus:
   - sprechen_dialog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b40e0b531a140c38b546e2b2c0bda18"
+presentation:
+  file: "/materials/presentations/unit05_amis-et-conflits.pptx"
+  thumbnail: "/materials/presentations/unit05_amis-et-conflits.png"
+worksheet:
+  file: "/materials/worksheets/unit05_amis-et-conflits.pdf"
+  thumbnail: "/materials/worksheets/unit05_amis-et-conflits.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

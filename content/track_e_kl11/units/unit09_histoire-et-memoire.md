@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24ad0cc701b249cda11083ad944267e7"
+presentation:
+  file: "/materials/presentations/unit09_histoire-et-memoire.pptx"
+  thumbnail: "/materials/presentations/unit09_histoire-et-memoire.png"
+worksheet:
+  file: "/materials/worksheets/unit09_histoire-et-memoire.pdf"
+  thumbnail: "/materials/worksheets/unit09_histoire-et-memoire.png"
+tags:
+  - filiere-e
+  - classe-11
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

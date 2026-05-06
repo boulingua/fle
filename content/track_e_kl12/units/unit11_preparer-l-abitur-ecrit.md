@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26c3e2b4d6e64ecb8b3a2ad19ec8c12c"
+presentation:
+  file: "/materials/presentations/unit11_preparer-l-abitur-ecrit.pptx"
+  thumbnail: "/materials/presentations/unit11_preparer-l-abitur-ecrit.png"
+worksheet:
+  file: "/materials/worksheets/unit11_preparer-l-abitur-ecrit.pdf"
+  thumbnail: "/materials/worksheets/unit11_preparer-l-abitur-ecrit.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2ed435d7246b4d4c9387457ebc756767"
+presentation:
+  file: "/materials/presentations/unit10_consommation-responsable.pptx"
+  thumbnail: "/materials/presentations/unit10_consommation-responsable.png"
+worksheet:
+  file: "/materials/worksheets/unit10_consommation-responsable.pdf"
+  thumbnail: "/materials/worksheets/unit10_consommation-responsable.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

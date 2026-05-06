@@ -13,6 +13,16 @@ skills_focus:
   - sprechen_monolog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/306d68df9c5541bdaea1cf6aeb0df111"
+presentation:
+  file: "/materials/presentations/unit12_bilan-fin-de-mittlere-reife.pptx"
+  thumbnail: "/materials/presentations/unit12_bilan-fin-de-mittlere-reife.png"
+worksheet:
+  file: "/materials/worksheets/unit12_bilan-fin-de-mittlere-reife.pdf"
+  thumbnail: "/materials/worksheets/unit12_bilan-fin-de-mittlere-reife.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

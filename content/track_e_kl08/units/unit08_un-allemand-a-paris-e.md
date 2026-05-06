@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20050598d87c43d4a6aa0934538afbd6"
+presentation:
+  file: "/materials/presentations/unit08_un-allemand-a-paris-e.pptx"
+  thumbnail: "/materials/presentations/unit08_un-allemand-a-paris-e.png"
+worksheet:
+  file: "/materials/worksheets/unit08_un-allemand-a-paris-e.pdf"
+  thumbnail: "/materials/worksheets/unit08_un-allemand-a-paris-e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

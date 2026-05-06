@@ -13,6 +13,16 @@ skills_focus:
   - leseverstehen
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20a704d960ef4074a205f68f20c5bd67"
+presentation:
+  file: "/materials/presentations/unit01_le-monde-du-travail-e.pptx"
+  thumbnail: "/materials/presentations/unit01_le-monde-du-travail-e.png"
+worksheet:
+  file: "/materials/worksheets/unit01_le-monde-du-travail-e.pdf"
+  thumbnail: "/materials/worksheets/unit01_le-monde-du-travail-e.png"
+tags:
+  - filiere-e
+  - classe-9
+  - niveau-e
 ---
 
 {{< callout type="note" >}}

@@ -12,6 +12,16 @@ bildungsplan:
 skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28c51b14611d4eb7aadb04eecf7f10ea"
+presentation:
+  file: "/materials/presentations/unit01_salutations-et-prenoms.pptx"
+  thumbnail: "/materials/presentations/unit01_salutations-et-prenoms.png"
+worksheet:
+  file: "/materials/worksheets/unit01_salutations-et-prenoms.pdf"
+  thumbnail: "/materials/worksheets/unit01_salutations-et-prenoms.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
 ---
 
 {{< callout type="note" >}}

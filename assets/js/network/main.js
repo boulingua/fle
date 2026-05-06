@@ -119,6 +119,26 @@ async function boot() {
     store.set({ hoveredNodeId: null });
   });
 
+  // Phase 6: graph node click → navigate (article) or download
+  // (presentation/worksheet). Uses .download attribute via a hidden
+  // <a>; lets the browser handle the file save dialog.
+  graph.cy.on('tap', 'node', evt => {
+    const d = evt.target.data();
+    const url = d.url;
+    if (!url) return;
+    if (d.type === 'article') {
+      window.location.href = url;
+    } else {
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = '';
+      a.rel = 'noopener';
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+    }
+  });
+
   // expose for debugging — non-enumerable
   Object.defineProperty(window, '__network', {
     value: { store, graph, data },

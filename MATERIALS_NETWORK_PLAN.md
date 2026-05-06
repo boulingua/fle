@@ -409,9 +409,74 @@ Pagefind itself adds ~75 KB gz the first time the user types in the search box (
 
 ### Deferred to Phase 6
 
-- Real Lighthouse + axe-core measurements; deploy gate at score ≥ 95.
+- ~~Real Lighthouse + axe-core measurements~~ → Phase 6 (advisory first run).
 - WCAG AA contrast verification of the 7 topic colours with a checker.
 - Subresource-integrity hashes for the Cytoscape / fcose CDN scripts.
 - Mobile-only "More filters" bottom sheet (currently rail collapses to a horizontal chip strip on tablet, hidden on mobile — Phase 6 polishes).
 - Cytoscape keyboard navigation plugin enable.
-- Node click → navigate (article) / download (presentation/worksheet). Currently only cards have action buttons; clicking a node in the graph does nothing.
+- ~~Node click → navigate (article) / download (presentation/worksheet)~~ → Phase 6.
+
+## Phase 6 log — 2026-05-06
+
+### A11y mirror (always present in DOM)
+
+The flat `<ul>` from Phase 5 was replaced with a course-grouped tree:
+
+```
+<nav class="network-a11y-nav visually-hidden" aria-label="Tous les matériaux">
+  <section><h2>track_e_kl06</h2><ul>…<li><a href>title</a></li>…</ul></section>
+  <section><h2>track_e_kl07</h2>…</section>
+  …13 sections, sorted alphabetically…
+</nav>
+```
+
+Built at render time with Hugo `Scratch` (the `merge`+`append` route doesn't survive Hugo's strict map-element typing on dicts; `group` doesn't apply to plain dicts; Scratch is the canonical idiom for "map of slices" accumulators in templates).
+
+Visually hidden on desktop via the existing `.visually-hidden` helper. Always present in the DOM. Becomes the only navigation surface on mobile (≤ 767 px) where the graph is hidden via CSS and the JS bails out of `boot()` early. 13 `<h2>track_*</h2>` sections rendered in the build.
+
+### Click-to-navigate on graph nodes
+
+`graph.cy.on('tap', 'node', ...)`:
+
+- `type: 'article'` → `window.location.href = url`.
+- `type: 'presentation' | 'worksheet'` → builds an ephemeral `<a download rel="noopener">`, clicks it, removes it. Lets the browser show its file save UI without leaking a stable DOM element that screen readers might announce.
+
+### CI gates added
+
+```
++ Materials network — JS bundle size budget
+    walks every <script src=...> in /materiel/preview/index.html,
+    sums gzipped sizes of LOCAL files (CDN excluded), fails over 280 KB.
++ Serve public/ for audits
+    npx http-server on :8080, waits for ready
++ axe-core (advisory)
+    npx @axe-core/cli http://localhost:8080/materiel/preview/
+    continue-on-error: first deploy produces baseline numbers.
++ Lighthouse a11y (advisory, target ≥ 95)
+    only-categories=accessibility, parses score from JSON, warning if <95.
++ Stop audit server  (always(), kills the http-server PID)
+```
+
+The two audit gates are advisory on the first deploy so we capture baseline scores without breaking the deploy. Once known good, flip `continue-on-error: false`.
+
+### Files modified in Phase 6
+
+```
+layouts/materiel/network-preview.html   # course-grouped a11y nav (Scratch idiom)
+assets/js/network/main.js               # graph node tap → navigate / download
+.github/workflows/hugo.yml              # bundle size + axe + Lighthouse advisory steps
+```
+
+No new dependencies in the source tree (npx pulls @axe-core/cli, lighthouse, http-server in CI on demand and discards).
+
+### Deferred to a hardening pass
+
+Items the prompt mentions but that I'm leaving for a follow-up because they are polish, not correctness:
+
+- WCAG AA contrast verification of the 7 topic colours with an actual checker (the palette was eye-tuned; Lighthouse + the advisory contrast plugin in axe will surface any failures).
+- Subresource-Integrity hashes on the four Cytoscape CDN scripts (jsdelivr pins by version, so risk is bounded; SRI is a defence-in-depth nice-to-have).
+- Mobile bottom-sheet "More filters" (currently the rail simply doesn't render on ≤ 767 px and users use the a11y nav; a real bottom-sheet is a real piece of UI).
+- Cytoscape keyboard plugin (canvas-rendered nodes don't surface to ATs anyway; the visually-hidden a11y nav delivers the same value with no extra payload).
+- Flipping the audit gates from advisory to blocking once baseline scores are known.
+
+Phase 5 prompt §"Final CI gates" line items 5 and 6 — VG Wort + Plausible — were already enforced by the migration's existing gates and are unchanged.

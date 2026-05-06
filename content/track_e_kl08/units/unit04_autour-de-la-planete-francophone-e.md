@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je situe **6 pays francophones** sur la carte.
@@ -138,10 +136,6 @@ parce que …* » + 5 prépositions correctes.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : portrait d'un pays (~120 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

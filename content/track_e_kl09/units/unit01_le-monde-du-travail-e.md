@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends le **stage d'orientation (« BORS ») au lycée (« Gymnasium ») (« BOGY »)** (Berufsorientierung am lycée).
@@ -133,10 +131,6 @@ imaginaire) : 4 étapes (matin, midi, après-midi, soir) +
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre rapport (~150 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·

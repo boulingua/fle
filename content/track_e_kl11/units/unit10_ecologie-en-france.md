@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends les **politiques écologiques** françaises
@@ -159,10 +157,6 @@ chiffres précis + 4 termes politiques verts + 1 citation +
 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

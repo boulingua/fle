@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je synthétise les **6 grands thèmes** travaillés en 11e-12e.
@@ -181,10 +179,6 @@ thème-auteur·e.
 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

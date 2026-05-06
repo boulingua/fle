@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je découvre **Annie Ernaux** (Nobel 2022) et son projet
@@ -148,10 +146,6 @@ phrase-incipit + 1 chute « ce qu'on appelle une vie ».
 (~250 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

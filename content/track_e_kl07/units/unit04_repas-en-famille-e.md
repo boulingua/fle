@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je nomme **15 aliments** (entrée, plat, dessert).
@@ -140,10 +138,6 @@ boisson. **3 partitifs** + **1 négation** + **1 question**.
 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·

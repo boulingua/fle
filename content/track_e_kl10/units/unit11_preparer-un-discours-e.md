@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je structure un **discours court** (3 min) en 4 parties.
@@ -155,10 +153,6 @@ style + 1 citation + 1 chute mémorable.
 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

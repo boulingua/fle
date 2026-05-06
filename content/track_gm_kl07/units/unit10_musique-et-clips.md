@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je nomme **6 styles** musicaux.
@@ -148,10 +146,6 @@ préfère*).
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre clip préféré (~80 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 11' · S'entraîner 14' ·

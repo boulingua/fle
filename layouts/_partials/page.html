@@ -9,9 +9,18 @@
       {{- with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end -}}
     </header>
 
-    {{- partial "material-links.html" . -}}
-
     {{ .Content }}
+
+    {{/* Downloads: always the last section of the article. The legacy
+         {{< downloads >}} shortcode (left in body markdown by the qmd
+         migration) is now a no-op — see layouts/shortcodes/downloads.html
+         — so the cards render exactly once, here at the end. */}}
+    {{- if or .Params.presentation .Params.worksheet -}}
+      <section class="article-downloads" aria-labelledby="downloads-heading">
+        <h2 id="downloads-heading">Téléchargements</h2>
+        {{- partial "material-links.html" . -}}
+      </section>
+    {{- end -}}
 
     {{- partial "vgwort.html" . -}}
   </article>

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends la **construction de soi** sur les réseaux.
@@ -149,10 +147,6 @@ pour, B est contre. Chacun **3 arguments** + **1 question** +
 (~150 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' ·

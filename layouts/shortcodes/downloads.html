@@ -1,3 +1,13 @@
-{{- /* Legacy {{< downloads >}} marker — now renders the material-links partial
-       so the article body has the same paired cards as the auto-injected pair. */ -}}
-{{- partial "material-links.html" .Page -}}
+{{- /*
+  Legacy {{< downloads >}} marker from the qmd migration.
+
+  Originally this rendered the material-links partial inline. That was
+  redundant: every article page already gets a "Téléchargements" section
+  appended at the bottom by layouts/_partials/page.html (via the
+  presentation: / worksheet: frontmatter), so calling it from the body
+  produced two extra duplicate cards per page.
+
+  Kept as a no-op so any unit .md still containing the marker renders
+  cleanly. The marker can be stripped from content in a future cleanup
+  pass without changing rendered output.
+*/ -}}

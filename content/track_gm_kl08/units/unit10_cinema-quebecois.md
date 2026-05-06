@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je suis un dialogue court en français du Québec.
@@ -200,10 +198,6 @@ Critères : Contenu 5 P. + Langue 4 P. + Aussprache 3 P.
 québécois.* »
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

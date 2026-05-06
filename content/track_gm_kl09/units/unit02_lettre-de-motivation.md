@@ -29,8 +29,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je rédige une **lettre de motivation** (Praktikum).
@@ -160,10 +158,6 @@ semaine dans une entreprise de votre choix. Respectez la
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre lettre (~150 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 11' ·

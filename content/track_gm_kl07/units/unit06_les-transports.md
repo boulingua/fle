@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je nomme **8 moyens de transport**.
@@ -141,10 +139,6 @@ transport, durée, ce que vous voyez. Utilisez **2 fois** *en/à*.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre trajet (~80 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 3' · Apporter 12' · S'entraîner 14' ·

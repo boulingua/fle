@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je distingue **identité réelle** et **identité numérique**.
@@ -143,10 +141,6 @@ stratégies + 2 conditionnels + 1 citation chiffrée.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dialogue (~140 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je rédige une **dissertation** courte (~400 mots) en
@@ -159,10 +157,6 @@ historiques + 1 citation.
 (~400 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

@@ -29,8 +29,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends un **podcast** simple (3-5 min).
@@ -153,10 +151,6 @@ questions + grille 3-2-1.
 **Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : résumé en 5 phrases.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 3' · Apporter 12' · Écoute 8' ·

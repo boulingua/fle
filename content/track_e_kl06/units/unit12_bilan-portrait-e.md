@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je rédige mon **portrait** en intégrant 11 Unités.
@@ -141,10 +139,6 @@ Présentez **votre portrait** en intégrant **9 éléments** des
 **Tâche 3 — Expression écrite (« Schreiben ») (15 P.)** : votre portrait (~120 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·

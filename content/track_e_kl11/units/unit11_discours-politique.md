@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - J'analyse un **discours politique** (Mitterrand, de Gaulle,
@@ -152,10 +150,6 @@ rhétoriques + 1 chute marquante + lien à votre époque.
 (~280 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

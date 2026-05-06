@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je connais **5 artistes** francophones (FR, BE, QC, MA, CI).
@@ -135,10 +133,6 @@ musique.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre clip (~80 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · Écoute 5' ·

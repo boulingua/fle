@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je découvre **Maryse Condé** (1934-2024, *« Nobel
@@ -158,10 +156,6 @@ tout-monde…) + 2 citations + 1 lien à votre époque.
 (~350 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je dis : *Je joue · Je fais · Je vais …*
@@ -144,10 +142,6 @@ et fait du piano. »*
 **Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)** : interview + restitution.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' ·

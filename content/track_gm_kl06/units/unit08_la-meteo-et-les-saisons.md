@@ -30,8 +30,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je nomme les **4 saisons** + **météo de base**.
@@ -136,10 +134,6 @@ saisons.
 **Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : météo de 3 villes (~30 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 3' · Apporter 12' · S'entraîner 12' ·

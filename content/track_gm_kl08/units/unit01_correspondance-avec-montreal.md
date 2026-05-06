@@ -33,8 +33,6 @@ aliases:
 Réfléchir · **Niveau :** M (classe 8)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs (Can-do)
 
 À la fin de cette Unité, je peux …
@@ -247,10 +245,6 @@ Vous êtes Léa. Répondez à Inès dans un courriel d'environ
 - Tâche 3 : Contenu 8 P. + Langue 7 P. = 15 P.
 - **Total 30 P.** barème de notes (« Notenschlüssel ») typique :
  *1 (très bien) ≥ 27 P. · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

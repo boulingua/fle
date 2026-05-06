@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je conjugue **5 verbes** au présent (être, avoir, aller,
@@ -150,10 +148,6 @@ Décrivez votre journée d'hier en ~50 mots, 3 verbes au présent
 + 2 marqueurs de temps minimum.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter (verbes + texte) 14' ·

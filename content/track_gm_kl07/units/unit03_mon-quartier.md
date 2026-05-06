@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je nomme **10 lieux du quartier** (boulangerie, pharmacie…).
@@ -146,10 +144,6 @@ Décrivez **votre quartier** en 6 phrases. Au moins **5 lieux** et
 **Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : votre quartier (~70 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 13' ·

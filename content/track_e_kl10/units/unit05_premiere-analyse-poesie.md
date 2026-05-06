@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je découvre **2 poèmes** francophones (Prévert, Senghor).
@@ -143,10 +141,6 @@ identifiés + interprétation + conclusion.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : mini-analyse (~150 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

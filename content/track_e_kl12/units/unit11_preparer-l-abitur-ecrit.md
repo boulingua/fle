@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je connais le **format de l'épreuve finale écrite (option d'approfondissement)** (270 min, 3
@@ -148,10 +146,6 @@ Analyse (90 min) + Expression écrite (60 min) + médiation linguistique
 **médiation linguistique (10 P.)** : DE → FR ~280 mots.
 
 **Total : 30 P.** sur 60 réels (+ 30 oral) en.
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je connais **8 outils** d'analyse stylistique.
@@ -149,10 +147,6 @@ méthodologiques + 4 outils + 5 citations + interprétation.
 (~400 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

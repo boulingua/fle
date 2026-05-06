@@ -29,8 +29,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends ce qu'est une **médiation** (médiation linguistique (« Sprachmittlung »)).
@@ -145,10 +143,6 @@ Médiez ce texte allemand pour un(e) ami(e) québécois(e) :
 (~50 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 13' ·

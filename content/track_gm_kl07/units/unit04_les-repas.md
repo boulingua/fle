@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je nomme les **3 repas** + 12 aliments.
@@ -152,10 +150,6 @@ question du serveur, choix, prix. Utilisez **3 partitifs**.
 **Tâche 3 — Expression orale (« Sprechen ») (12 P.)** : dialogue au café, 6 répliques.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 3' · Apporter 14' · S'entraîner 12' ·

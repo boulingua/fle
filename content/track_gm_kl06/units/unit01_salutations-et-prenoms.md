@@ -30,8 +30,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M (classe 6)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je dis : *Bonjour ! Je m'appelle …*
@@ -161,10 +159,6 @@ Critères : Erfüllung 4 P. + Aussprache 4 P. + Langue 2 P.
 prénom + demander celui de l'autre + au revoir.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 5' · Apporter 12' · S'entraîner 10' ·

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends **10 expressions** du jargon professionnel.
@@ -170,10 +168,6 @@ journée. Utilisez **5 expressions** du jargon pro (B).
 **Tâche 3 — Expression écrite (« Schreiben ») (5 P.)** : un mail-réponse poli (50 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

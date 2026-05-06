@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je distingue **stéréotype** et **préjugé**.
@@ -194,10 +192,6 @@ Critères : Erfüllung 4 P. + Langue 4 P. + Aussprache 4 P.
 ou témoin. »*
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

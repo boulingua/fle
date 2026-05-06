@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je distingue **Ausbildung, Studium, FSJ, Erasmus**.
@@ -171,10 +169,6 @@ conclusion (formule + signature). Joindre **mention CV**.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre candidature (~180 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 3' · Apporter 13' · S'entraîner 12' ·

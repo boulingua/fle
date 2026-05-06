@@ -30,8 +30,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M (classe 7)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je raconte ma rentrée (3-4 phrases).
@@ -140,10 +138,6 @@ A et B se racontent leur rentrée :
 **Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : ~50 mots sur votre rentrée.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' ·

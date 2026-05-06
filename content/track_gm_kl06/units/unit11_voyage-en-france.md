@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends une carte postale simple.
@@ -156,10 +154,6 @@ a) Paris · b) Marseille · c) Lyon · d) Strasbourg · e) Nice
 **Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : votre carte postale (50 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer (carte au mur) 5' · Apporter 12' ·

@@ -29,8 +29,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je médie un **article scientifique** DE en français
@@ -143,10 +141,6 @@ climat (fourni, ~350 mots), rédigez la **médiation FR** :
 scientifique DE → FR (~280 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

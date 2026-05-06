@@ -30,8 +30,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je transforme un texte allemand court en **résumé français**.
@@ -184,10 +182,6 @@ ami·e francophone qui ne lit pas l'allemand.
 - **Langue** (résumé fluide, expressions adéquates) : 10 P.
 - **Sens fidèle** (pas de contresens, pas de traduction mot à
  mot) : 8 P.
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

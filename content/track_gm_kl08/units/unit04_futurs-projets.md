@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je conjugue le **futur simple** des verbes les plus courants.
@@ -201,10 +199,6 @@ Pour chacune, choisissez futur proche ou futur simple, puis
 au futur simple, dont 2 irréguliers.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

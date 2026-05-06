@@ -29,8 +29,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je distingue **essai** / **dissertation** / **commentaire**.
@@ -167,10 +165,6 @@ personnelle (« je »).
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre essai (~500 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

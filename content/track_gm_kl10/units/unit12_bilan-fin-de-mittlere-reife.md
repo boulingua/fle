@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je dresse le **bilan** des 5 compétences (CECRL B1).
@@ -161,10 +159,6 @@ Utilisez **2 figures de style** + **5 connecteurs**.
 **Tâche 3 — Expression écrite (15 P.)** : votre lettre (~250 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·

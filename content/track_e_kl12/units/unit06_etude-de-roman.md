@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je connais la **structure** de *L'Étranger* (2 parties, 11
@@ -143,10 +141,6 @@ intégrées + 3 axes thématiques + 1 lien à un autre roman
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : synthèse (~400 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

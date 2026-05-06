@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends une chanson francophone du Maghreb au refrain.
@@ -182,10 +180,6 @@ En 3 phrases : décrivez votre **chanson préférée** (genre +
 artiste + pourquoi).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je distingue **passé composé** (action) et **imparfait**
@@ -144,10 +142,6 @@ au passé composé, conclusion réflexive). **5 verbes** au PC +
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre récit (~200 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

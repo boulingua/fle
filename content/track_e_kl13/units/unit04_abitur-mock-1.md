@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je traite un **mock épreuve finale 1** complet (texte
@@ -150,10 +148,6 @@ médiation linguistique. Auto-évaluation finale + grille KMK.
 **médiation linguistique (10 P.)** : ~280 mots DE → FR.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je décris un **stimulus visuel** (photo, dessin, peinture)
@@ -159,10 +157,6 @@ de presse, peinture), décrivez en 4 étapes + dialoguez
 **Phase 2 — Discussion (10 min)** : 10 répliques.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

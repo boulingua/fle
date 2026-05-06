@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je connais la **presse engagée** francophone (*Le Monde
@@ -165,10 +163,6 @@ citations + 2 chiffres + 1 contre-argument.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : commentaire (~400 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

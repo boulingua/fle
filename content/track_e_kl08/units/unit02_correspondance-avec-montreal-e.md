@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je rédige un **courriel** structuré (~150 mots).
@@ -145,10 +143,6 @@ Rédigez un **courriel-réponse** à Inès : structure complète +
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre courriel (~150 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je découvre **Jacques Prévert** (1900-1977) et son style.
@@ -137,10 +135,6 @@ au choix : l'école, l'amitié, la pluie, un animal.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre poème (~50 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 3' · Apporter 11' · Lecture à voix

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je conjugue **5 verbes pronominaux** : *se lever, se laver,
@@ -136,10 +134,6 @@ Décrivez **votre journée** en 8 phrases : 5 verbes pronominaux
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre journée (~80 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

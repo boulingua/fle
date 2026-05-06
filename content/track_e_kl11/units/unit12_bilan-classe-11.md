@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je dresse mon **bilan de 11e** (analyse littéraire,
@@ -159,10 +157,6 @@ priorités 12e + 4 références (autrice + œuvre + année) +
 **Tâche 3 — Expression écrite (12 P.)** : votre bilan (~280 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

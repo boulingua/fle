@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je dresse le **portrait** de notre classe en français.
@@ -173,10 +171,6 @@ allemand B en 3-5 phrases françaises.
 votre classe (1-2 min) + 1 question du prof.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min, finale) :** Activer 5' · Apporter 12' ·

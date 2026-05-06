@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - J'analyse un **éditorial** : thèse, arguments, ton.
@@ -145,10 +143,6 @@ IA, paix Ukraine, vie démocratique) : 4 mouvements +
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre édito (~300 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

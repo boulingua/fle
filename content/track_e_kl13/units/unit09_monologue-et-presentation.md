@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je présente un **dossier** d'auteur·e ou de thème
@@ -175,10 +173,6 @@ citations + 1 ouverture.
 **Phase 2 — Dialogue (15 P.)** : 5 min de questions.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

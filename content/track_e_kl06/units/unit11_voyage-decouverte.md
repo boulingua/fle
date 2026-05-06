@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je connais **5 monuments** de Strasbourg.
@@ -137,10 +135,6 @@ nom, lieu, date de construction, particularité, votre avis.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre visite (~70 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · Écoute 5' ·

@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je dresse le **portrait** d'une rencontre marquante de l'année.
@@ -198,10 +196,6 @@ fictive) en **120-150 mots**. Critères :
  cours) : 6 P.
 - **Sens fidèle et personnel** (pas de copier-coller du modèle) :
  6 P.
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

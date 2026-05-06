@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je situe la **Bretagne** sur la carte.
@@ -143,10 +141,6 @@ ailleurs) : météo + 1 visite + 1 spécialité + 1 anecdote.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : journal vacances (~120 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · Écoute 5' ·

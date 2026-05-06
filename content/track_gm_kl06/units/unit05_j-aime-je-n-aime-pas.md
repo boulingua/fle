@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je dis : *J'aime · Je n'aime pas · J'adore · Je déteste*.
@@ -156,10 +154,6 @@ ou n'aiment pas.
 détestées · 1 ambivalente. Avec négation correcte.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 3' · Apporter 12' · S'entraîner 12' ·

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je révise les **5 grandes compétences** (lire, écrire, écouter,
@@ -150,10 +148,6 @@ questions sur le sujet préparé.*
 **Tâche 3 — Expression écrite (12 P.)** : votre bilan (~150 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 11' · S'entraîner 14' ·

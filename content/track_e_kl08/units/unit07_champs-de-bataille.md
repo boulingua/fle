@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends une **page mémoire** sur **Verdun** (1916) et
@@ -134,10 +132,6 @@ partir de 4 faits fournis : 8 mots de vocabulaire mémoire +
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : page mémoire (~120 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je connais **3 programmes** de mobilité jeune
@@ -149,10 +147,6 @@ B1 visé).
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dossier (~180 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 3' · Apporter 13' · Écoute 4' ·

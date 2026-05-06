@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je dis quel sport je fais et pourquoi.
@@ -200,10 +198,6 @@ Décrivez en 4 phrases **votre équipe idéale** : combien de
 joueur·euse·s, quel sport, quelle ambiance, quel·le capitaine.
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

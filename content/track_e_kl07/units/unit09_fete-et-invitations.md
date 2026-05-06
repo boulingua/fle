@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je rédige une **invitation** d'anniversaire.
@@ -137,10 +135,6 @@ au futur proche** + **1 question** + **politesse**.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre invitation (~80 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 3' · Apporter 12' · S'entraîner 12' ·

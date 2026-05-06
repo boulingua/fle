@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je connais **5 grands quotidiens** français.
@@ -151,10 +149,6 @@ d'**opinion** (signalées par *« à mon avis, je pense que »*).
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : revue de presse (~120 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je dresse mon **bilan de secondaire I** (5 ans : 6e à 10e).
@@ -150,10 +148,6 @@ d'intérêt) + 5 dates précises + auto-évaluation CECRL.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre CV (~200 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

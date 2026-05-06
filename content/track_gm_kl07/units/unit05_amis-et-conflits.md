@@ -32,8 +32,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** M
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - J'exprime mes **sentiments** : *content, fâché, triste, jaloux*.
@@ -149,10 +147,6 @@ composé**. Comment vous êtes-vous réconciliés ?
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dispute (~80 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 13' ·

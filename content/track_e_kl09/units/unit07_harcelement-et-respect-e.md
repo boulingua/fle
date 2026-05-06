@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je comprends les **3 acteurs** du harcèlement (auteur,
@@ -141,10 +139,6 @@ ensemble) + 5 verbes d'action + 1 subjonctif + numéro 3018.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre lettre (~150 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·

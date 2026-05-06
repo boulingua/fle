@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je nomme **10 lieux** du quartier (commerces, services).
@@ -153,10 +151,6 @@ quartier : 5 lieux + 4 prépositions + ce que vous y aimez.
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre lettre (~120 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·

@@ -32,8 +32,6 @@ aliases:
 Réfléchir · **Niveau :** M (classe 8)
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - … **dire** quels médias je consomme et pourquoi.
@@ -216,10 +214,6 @@ Vous écrivez un court texte d'environ 70 mots :
 *« Mon média préféré et pourquoi. »*
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 

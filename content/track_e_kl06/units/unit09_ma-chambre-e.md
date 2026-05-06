@@ -31,8 +31,6 @@ aliases:
 **Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
-{{< downloads >}}
-
 ## Objectifs
 
 - Je nomme **8 pièces** de la maison + **8 meubles**.
@@ -141,10 +139,6 @@ Décrivez **votre chambre** en 6 phrases : taille, 4 meubles,
 **Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre chambre (~70 mots).
 
 **Total : 30 P.**
-
-## Téléchargements {#downloads}
-
-{{< downloads >}}
 
 <div class="notes">
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·

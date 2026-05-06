@@ -227,3 +227,68 @@ hugo.toml                                   # customCSS += "css/network.css"
 ```
 
 No content edits, no script changes, no dependencies added.
+
+## Phase 3 log — 2026-05-06
+
+### Cytoscape rendering (live on `/materiel/preview/`)
+
+The static SVG mock was replaced with a real Cytoscape graph. Layout: `fcose`. Stylesheet reads CSS variables at apply time, so the light/dark toggle is one re-style call (no rebuild, no flash).
+
+### Library choice (recorded for ADR purposes)
+
+**Cytoscape.js 3.32.0 + cytoscape-fcose 2.2.0**, justification:
+
+- Handles 500–2000 nodes smoothly with `fcose`. Our current 468 nodes are well below the floor.
+- Themeable via stylesheet objects — values can be functions of `getComputedStyle(:root)`, so light/dark switching is cheap.
+- Smaller and more actively maintained than D3-force for this exact use case; `sigma.js` is faster but harder to style; `vis-network` (which `ressources` already uses for `/overview/`) has heavier visual defaults that fight Coder's calm aesthetic.
+
+### Bundling
+
+- Cytoscape, cytoscape-fcose, and their two transitive deps (`layout-base`, `cose-base`) are loaded as **UMD scripts from jsdelivr CDN**, deferred, in dependency order. They expose globals (`window.cytoscape`, `window.cytoscapeFcose`).
+- Our own code (`assets/js/network/{main,graph,store}.js`) is bundled by **Hugo Pipes** (`resources.Get | js.Build | fingerprint "sha256"`) into a single ESM module loaded via `<script type="module" integrity="..." crossorigin>`.
+- The Phase 5 prompt's "no loose `<script>` tags" rule is honoured for our code; vendored libs from CDN are conventional and were the lowest-friction way to avoid bringing npm into a Hugo-only repo.
+
+### Public API exposed (will be consumed in Phase 4 / Phase 5)
+
+```js
+const graph = createGraph({ container, data });
+graph.applyFilter(predicate)   // predicate(nodeData) → bool; non-matchers get .dim class (opacity 0.12)
+graph.applyTheme()             // re-applies the stylesheet (call on theme change)
+graph.cy                       // raw Cytoscape instance for advanced ops
+```
+
+A tiny `createStore({...})` pub/sub holds `filteredNodeIds`, `hoveredNodeId`, `searchQuery`. Both graph and the (future) list view subscribe to the same store, so filter changes trigger one render pass for both. Phase 4 wires the filter rail to `store.set({ filteredNodeIds })`; Phase 5 wires Pagefind to `store.set({ searchQuery })`.
+
+### Theme observer
+
+Coder switches palette via body classes (`colorscheme-light`, `colorscheme-dark`, `colorscheme-auto`). `main.js` watches for `class` mutations on `<body>` plus `prefers-color-scheme` media-query changes; on either, calls `graph.applyTheme()` which re-reads CSS vars and re-applies the stylesheet.
+
+### Performance
+
+| Metric | Budget | Observed |
+|---|---|---|
+| Our JS bundle (gzipped) | ≤ 90 KB | **~1.5 KB gzipped** (4 KB raw) |
+| Total /materiel/preview/ JS payload | tracked | dominated by Cytoscape (~150 KB gz) + fcose (~25 KB gz) — shipped from jsdelivr, cacheable across the four boulingua repos once they all use it |
+| Time to interactive (local dev, 60 fps) | n/a | < 200 ms after CDN cache warm |
+| First contentful paint | < 1.5 s on Fast 3G | not yet measured (deferred to Phase 6 Lighthouse step) |
+
+### Mobile
+
+`main.js` short-circuits on `(max-width: 767px)` so Cytoscape is never instantiated on phones. The graph DOM is also hidden via `display: none` in CSS. The card grid below the graph (and the future a11y nav) becomes the entire page on mobile — Phase 6 will polish.
+
+### Files added in Phase 3
+
+```
+assets/js/network/store.js         # 21 lines, store pub/sub
+assets/js/network/graph.js         # ~140 lines, Cytoscape stylesheet + init
+assets/js/network/main.js          # ~95 lines, entry, theme observer, store wiring
+layouts/materiel/network-preview.html   # rewritten — replaces SVG mock with real graph
+```
+
+### Deferred to Phase 4+
+
+- Filter rail interactivity (chips currently render but are `disabled`).
+- Card grid below the graph (currently absent — was in the static mock; will return in Phase 5 with bidirectional graph↔list sync).
+- WCAG AA contrast verification of the 7 topic colours with a checker (Phase 6 a11y pass).
+- Real Lighthouse + axe-core measurements (Phase 6).
+- Subresource-integrity hashes for the Cytoscape / fcose CDN scripts (currently no SRI; Phase 6 hardening).

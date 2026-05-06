@@ -1,11 +1,25 @@
 {{/*
-  Materials Discovery Network — Phase 2 design mock.
-  Static HTML + CSS, NO JS. Hardcoded sample nodes (drawn from
-  representative units) so we can validate layout, palette,
-  typography, and motion before Phase 3 wires Cytoscape.
+  Materials Discovery Network — Phase 3 surface.
+  Loads Cytoscape (UMD via jsdelivr) + the fcose layout extension,
+  then runs our bundled assets/js/network/main.js. The graph DOM
+  is hidden via CSS at <768px and the JS short-circuits there too.
+
+  The module-bundling pipeline:
+    resources.Get assets/js/network/main.js
+      | js.Build (esbuild, format: esm) — follows ./store, ./graph
+      | minify
+      | fingerprint                      → SRI for the user bundle
 */}}
 {{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
 {{ define "content" }}
+{{ $opts := dict
+    "format" "esm"
+    "minify"  true
+    "target"  "es2018"
+    "sourceMap" "linked"
+}}
+{{ $main := resources.Get "js/network/main.js" | js.Build $opts | fingerprint "sha256" }}
+
 <section class="container">
   <header>
     <h1 class="title"><a class="title-link" href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h1>
@@ -16,7 +30,6 @@
 
   <main class="network-page" aria-label="Réseau de découverte des matériaux (aperçu)">
 
-    <!-- Search row -->
     <div class="network-search-row" role="search">
       <input type="search"
              class="network-search-input"
@@ -26,22 +39,21 @@
       <span class="network-search-key" aria-hidden="true">/</span>
     </div>
 
-    <!-- Filter rail + graph -->
     <div class="network-shell">
 
       <aside class="network-filters" aria-label="Filtres">
         <div class="network-filter-group">
           <h3>Type</h3>
           <div class="network-chips">
-            <button type="button" class="network-chip" aria-pressed="true">
+            <button type="button" class="network-chip" aria-pressed="true" disabled>
               <span class="glyph-article" style="color: var(--network-fg);"></span>
               Article <span class="network-chip-count">156</span>
             </button>
-            <button type="button" class="network-chip" aria-pressed="true">
+            <button type="button" class="network-chip" aria-pressed="true" disabled>
               <span class="glyph-presentation" style="color: var(--network-fg);"></span>
               Présentation <span class="network-chip-count">156</span>
             </button>
-            <button type="button" class="network-chip" aria-pressed="true">
+            <button type="button" class="network-chip" aria-pressed="true" disabled>
               <span class="glyph-worksheet" style="color: var(--network-fg);"></span>
               Fiche <span class="network-chip-count">156</span>
             </button>
@@ -51,31 +63,31 @@
         <div class="network-filter-group">
           <h3>Sujet</h3>
           <div class="network-chips">
-            <button type="button" class="network-chip" aria-pressed="false">
+            <button type="button" class="network-chip" disabled>
               <span class="network-chip-swatch" style="background: var(--topic-leseverstehen);"></span>
               Compréhension écrite <span class="network-chip-count">55</span>
             </button>
-            <button type="button" class="network-chip" aria-pressed="false">
+            <button type="button" class="network-chip" disabled>
               <span class="network-chip-swatch" style="background: var(--topic-sprechen_monolog);"></span>
               Production orale <span class="network-chip-count">31</span>
             </button>
-            <button type="button" class="network-chip" aria-pressed="false">
+            <button type="button" class="network-chip" disabled>
               <span class="network-chip-swatch" style="background: var(--topic-sprechen_dialog);"></span>
               Interaction orale <span class="network-chip-count">25</span>
             </button>
-            <button type="button" class="network-chip" aria-pressed="false">
+            <button type="button" class="network-chip" disabled>
               <span class="network-chip-swatch" style="background: var(--topic-hoerverstehen);"></span>
               Compréhension orale <span class="network-chip-count">18</span>
             </button>
-            <button type="button" class="network-chip" aria-pressed="false">
+            <button type="button" class="network-chip" disabled>
               <span class="network-chip-swatch" style="background: var(--topic-sprachmittlung);"></span>
               Médiation <span class="network-chip-count">11</span>
             </button>
-            <button type="button" class="network-chip" aria-pressed="false">
+            <button type="button" class="network-chip" disabled>
               <span class="network-chip-swatch" style="background: var(--topic-schreiben);"></span>
               Production écrite <span class="network-chip-count">9</span>
             </button>
-            <button type="button" class="network-chip" aria-pressed="false">
+            <button type="button" class="network-chip" disabled>
               <span class="network-chip-swatch" style="background: var(--topic-text_medien);"></span>
               Texte / médias <span class="network-chip-count">5</span>
             </button>
@@ -85,125 +97,43 @@
         <div class="network-filter-group">
           <h3>Filière &amp; classe</h3>
           <div class="network-chips">
-            <button type="button" class="network-chip">Parcours E (lycée)</button>
-            <button type="button" class="network-chip">Parcours GM (collège)</button>
-            <button type="button" class="network-chip">Classe 6</button>
-            <button type="button" class="network-chip">Classe 7</button>
-            <button type="button" class="network-chip">Classe 8</button>
-            <button type="button" class="network-chip">…</button>
+            <button type="button" class="network-chip" disabled>Parcours E (lycée)</button>
+            <button type="button" class="network-chip" disabled>Parcours GM (collège)</button>
+            <button type="button" class="network-chip" disabled>Classe 6</button>
+            <button type="button" class="network-chip" disabled>Classe 7</button>
+            <button type="button" class="network-chip" disabled>Classe 8</button>
+            <button type="button" class="network-chip" disabled>…</button>
           </div>
         </div>
+
+        <p style="font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; color: var(--network-fg-muted); margin-top: 0.6rem;">
+          Filtres interactifs en Phase 4.
+        </p>
       </aside>
 
-      <div class="network-graph-wrap" role="figure" aria-label="Aperçu du graphe (mock)">
-        <svg class="network-graph-svg" viewBox="0 0 600 480" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <!-- light, illustrative-only mock — final graph is rendered by Cytoscape in Phase 3 -->
-          <g stroke="currentColor" stroke-opacity="0.18" stroke-width="1" fill="none">
-            <line x1="200" y1="200" x2="320" y2="160" />
-            <line x1="200" y1="200" x2="280" y2="280" />
-            <line x1="320" y1="160" x2="420" y2="200" />
-            <line x1="320" y1="160" x2="380" y2="100" />
-            <line x1="280" y1="280" x2="380" y2="320" />
-            <line x1="380" y1="320" x2="450" y2="280" />
-            <line x1="450" y1="280" x2="420" y2="200" />
-            <line x1="380" y1="100" x2="420" y2="200" />
-          </g>
-          <g>
-            <circle cx="200" cy="200" r="11" fill="var(--topic-leseverstehen)" />
-            <rect x="313"  y="153" width="14" height="14" fill="var(--topic-sprechen_monolog)" />
-            <rect x="273"  y="273" width="14" height="14" fill="var(--topic-sprechen_dialog)" />
-            <circle cx="420" cy="200" r="11" fill="var(--topic-hoerverstehen)" />
-            <g transform="translate(380, 100) rotate(45)">
-              <rect x="-7" y="-7" width="14" height="14" fill="var(--topic-schreiben)" />
-            </g>
-            <g transform="translate(380, 320) rotate(45)">
-              <rect x="-7" y="-7" width="14" height="14" fill="var(--topic-sprachmittlung)" />
-            </g>
-            <circle cx="450" cy="280" r="9" fill="var(--topic-text_medien)" opacity="0.85" />
-          </g>
-          <text x="300" y="450" text-anchor="middle"
-                font-family="JetBrains Mono, monospace" font-size="11"
-                fill="currentColor" fill-opacity="0.45">
-            mock — le graphe interactif arrive en Phase 3 (Cytoscape.js)
-          </text>
-        </svg>
+      <div class="network-graph-wrap" role="figure"
+           aria-label="Graphe de découverte des matériaux">
+        <div id="network-graph" style="width: 100%; height: 100%;">
+          <div class="network-graph-skeleton" aria-hidden="true"></div>
+        </div>
       </div>
     </div>
 
-    <!-- Counter -->
     <div class="network-counter">
       <span><strong>468</strong> matériaux affichés (468 au total)</span>
-      <button type="button" class="network-counter-reset" aria-disabled="true">
+      <button type="button" class="network-counter-reset" aria-disabled="true" disabled>
         Réinitialiser les filtres
       </button>
     </div>
-
-    <!-- Card grid (sample) -->
-    <ul class="network-cards" style="list-style: none; padding: 0; margin: 0;">
-      <li class="network-card is-article" data-topic="leseverstehen">
-        <div class="network-card-meta">
-          <span class="glyph-article" style="color: var(--topic-leseverstehen);"></span>
-          Article · Classe 6 · Compréhension écrite
-        </div>
-        <h3 class="network-card-title">Unité 1 — Salutations et prénoms</h3>
-        <div class="network-card-tags">
-          <span class="network-card-tag">filiere-e</span>
-          <span class="network-card-tag">classe-6</span>
-          <span class="network-card-tag">niveau-e</span>
-        </div>
-        <div class="network-card-actions">
-          <a href="#">Article</a>
-          <a href="#">Diaporama</a>
-          <a href="#">Fiche</a>
-        </div>
-      </li>
-
-      <li class="network-card" data-topic="sprechen_monolog">
-        <div class="network-card-meta">
-          <span class="glyph-presentation" style="color: var(--topic-sprechen_monolog);"></span>
-          Présentation · Classe 8
-        </div>
-        <h3 class="network-card-title">Présenter sa famille</h3>
-        <div class="network-card-actions"><a href="#">Télécharger .pptx</a></div>
-      </li>
-
-      <li class="network-card" data-topic="schreiben">
-        <div class="network-card-meta">
-          <span class="glyph-worksheet" style="color: var(--topic-schreiben);"></span>
-          Fiche · Classe 9
-        </div>
-        <h3 class="network-card-title">Récit au passé composé</h3>
-        <div class="network-card-actions"><a href="#">Télécharger .pdf</a></div>
-      </li>
-
-      <li class="network-card is-article" data-topic="hoerverstehen">
-        <div class="network-card-meta">
-          <span class="glyph-article" style="color: var(--topic-hoerverstehen);"></span>
-          Article · Classe 10 · Compréhension orale
-        </div>
-        <h3 class="network-card-title">À l'écoute d'un podcast francophone</h3>
-        <div class="network-card-tags">
-          <span class="network-card-tag">filiere-e</span>
-          <span class="network-card-tag">classe-10</span>
-          <span class="network-card-tag">niveau-e</span>
-        </div>
-        <div class="network-card-actions">
-          <a href="#">Article</a>
-          <a href="#">Diaporama</a>
-          <a href="#">Fiche</a>
-        </div>
-      </li>
-
-      <li class="network-card" data-topic="sprachmittlung">
-        <div class="network-card-meta">
-          <span class="glyph-presentation" style="color: var(--topic-sprachmittlung);"></span>
-          Présentation · Classe 11
-        </div>
-        <h3 class="network-card-title">Médiation culturelle</h3>
-        <div class="network-card-actions"><a href="#">Télécharger .pptx</a></div>
-      </li>
-    </ul>
-
   </main>
 </section>
+
+{{/* Cytoscape + fcose layout — UMD CDN, deferred so they don't
+     block parse. Order matters: layout-base → cose-base → fcose. */}}
+<script defer src="https://cdn.jsdelivr.net/npm/cytoscape@3.32.0/dist/cytoscape.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/layout-base@2.0.1/layout-base.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/cose-base@2.2.0/cose-base.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/cytoscape-fcose@2.2.0/cytoscape-fcose.js"></script>
+<script type="module" src="{{ $main.RelPermalink }}"
+        integrity="{{ $main.Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}

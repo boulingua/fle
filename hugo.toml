@@ -30,6 +30,9 @@ enableEmoji = false
   colorScheme = "auto"
   customCSS = ["css/custom.css", "css/network.css"]
   repoURL = "https://github.com/boulingua/fle"
+  # Short brand label for the top-of-page navbar. Browser title and OG meta
+  # continue to use the full `title = "FLE — S. Le Boulanger"`.
+  navbarTitle = "FLE"
 
 [[params.social]]
   name = "GitHub"
@@ -37,7 +40,14 @@ enableEmoji = false
   weight = 1
   url = "https://github.com/boulingua/fle"
 
-# Top navbar
+# ── Top navbar ─────────────────────────────────────────────
+# Five left-aligned items, plus Mentions légales right-aligned (params.align
+# = "end") and the GitHub icon further right (rendered as a fixed item by
+# layouts/_partials/header.html). The Coder theme renders only top-level
+# menu entries — sub-items remain in the config for footer / sitemap use
+# but are not visible in the bar. Pages dropped from the bar (Référentiel,
+# Programme, Références) are reachable via the footer and cross-page links.
+
 [[menu.main]]
   name = "Accueil"
   weight = 1
@@ -49,24 +59,9 @@ enableEmoji = false
   url = "/a_propos/"
 
 [[menu.main]]
-  name = "Référentiel"
-  weight = 3
-  url = "/bildungsplan/"
-
-[[menu.main]]
-  name = "Programme"
-  weight = 4
-  url = "/programme/"
-
-[[menu.main]]
-  name = "Références"
-  weight = 5
-  url = "/references/"
-
-[[menu.main]]
   identifier = "materiel"
   name = "Matériel"
-  weight = 6
+  weight = 3
   url = "/materiel/"
 
 [[menu.main]]
@@ -84,8 +79,8 @@ enableEmoji = false
 # Filière G+M dropdown
 [[menu.main]]
   identifier = "track-gm"
-  name = "Filière G+M (cl. 6–10)"
-  weight = 7
+  name = "Filière G+M"
+  weight = 4
   url = "/track_gm_kl06/"
 
 [[menu.main]]
@@ -117,8 +112,8 @@ enableEmoji = false
 # Filière E dropdown
 [[menu.main]]
   identifier = "track-e"
-  name = "Filière E (cl. 6–13)"
-  weight = 8
+  name = "Filière E"
+  weight = 5
   url = "/track_e_kl06/"
 
 [[menu.main]]
@@ -162,12 +157,15 @@ enableEmoji = false
   weight = 8
   url = "/track_e_kl13/"
 
-# Right-side legal dropdown
+# Right-side legal dropdown — params.align = "end" pushes it to the
+# right of the navbar (margin-left:auto on the first end-aligned item).
 [[menu.main]]
   identifier = "legal"
   name = "Mentions légales"
   weight = 99
   url = "/impressum/"
+  [menu.main.params]
+    align = "end"
 
 [[menu.main]]
   parent = "legal"

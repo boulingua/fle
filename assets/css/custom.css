@@ -34,8 +34,19 @@ body.colorscheme-dark {
   letter-spacing: 0.02em;
 }
 
+/* The first item flagged params.align = "end" in hugo.toml (or the GitHub
+   icon if no end-aligned menu items exist) pushes itself + every following
+   item to the right edge of the navbar. */
+.navigation-end,
 .navigation-repo {
   margin-left: auto;
+}
+
+/* Subsequent end-aligned items don't need their own margin-left:auto — the
+   first one already pushed the whole tail right. */
+.navigation-end ~ .navigation-end,
+.navigation-end ~ .navigation-repo {
+  margin-left: 0;
 }
 
 .navigation-repo .navigation-link {

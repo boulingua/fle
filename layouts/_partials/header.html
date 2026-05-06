@@ -2,7 +2,7 @@
   <section class="container">
     {{ with .Site }}
     <a class="navigation-title" href="{{ absLangURL "" }}">
-      {{ .Title }}
+      {{ .Params.navbarTitle | default .Title }}
     </a>
     {{ end }}
     {{ if or .Site.Menus.main hugo.IsMultilingual }}
@@ -12,10 +12,21 @@
       </label>
       <ul class="navigation-list">
         {{ with .Site.Menus.main }}
+          {{ $endSeen := false }}
           {{ range sort . }}
-            <li class="navigation-item">
-              <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
-            </li>
+            {{- /* Skip nested submenu entries — Coder doesn't render them
+                   in the navbar (footer/sitemap use them). */ -}}
+            {{ if not .Parent }}
+              {{ $align := .Params.align | default "start" }}
+              {{ $endClass := "" }}
+              {{ if eq $align "end" }}
+                {{ if not $endSeen }}{{ $endClass = "navigation-end" }}{{ end }}
+                {{ $endSeen = true }}
+              {{ end }}
+              <li class="navigation-item {{ $endClass }}">
+                <a class="navigation-link {{ .Params.class }}" href="{{ index (apply (slice .URL) (.Params.urlFunc | default "relLangURL") ".") 0 }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
           {{ end }}
         {{ end }}
         {{ if hugo.IsMultilingual }}

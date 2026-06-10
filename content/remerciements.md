@@ -47,7 +47,7 @@ sur demande explicite.
 ## Licence
 
 - **MIT** pour le code (`LICENSE`).
-- **CC-BY-SA 4.0** pour le contenu (`LICENSE-content`).
+- **CC-BY 4.0** pour le contenu (`LICENSE-content`).
 
 Les citations des référentiels (« Bildungspläne ») officiels
 restent propriété de leurs ayants droit respectifs et sont

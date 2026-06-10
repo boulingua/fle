@@ -11,7 +11,7 @@ FLE · BOULINGUA
 
 Site FLE par **S. Le Boulanger** pour l'enseignement secondaire,
 classes 6 à 13. Tout le contenu — unités, exemples d'épreuves,
-fiches — est sous **CC-BY-SA 4.0** (`LICENSE-content`). Le code
+fiches — est sous **CC-BY 4.0** (`LICENSE-content`). Le code
 est sous **MIT** (`LICENSE`).
 
 ## Pourquoi ce site

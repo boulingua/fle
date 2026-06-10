@@ -30,7 +30,7 @@ indépendant ; une fiche d'exercices placeholder pour l'instant.
   un matériel prêt à l'emploi, conforme au référentiel régional.
 - **Élèves** des classes 6 à 13 qui veulent réviser ou
   approfondir.
-- **Formateur·rices** qui peuvent réutiliser sous CC-BY-SA 4.0.
+- **Formateur·rices** qui peuvent réutiliser sous CC-BY 4.0.
 
 ## Les deux filières
 
@@ -106,4 +106,4 @@ inventée.
 
 ---
 
-*© S. Le Boulanger · MIT (code) / CC-BY-SA 4.0 (contenu)*
+*© S. Le Boulanger · MIT (code) / CC-BY 4.0 (contenu)*

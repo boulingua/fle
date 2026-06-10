@@ -87,14 +87,14 @@ Si vous réutilisez ce curriculum, merci de le citer.
   year         = {2026},
   howpublished = {\url{https://boulingua.github.io/fle/}},
   note         = {Boulingua. Code sous licence MIT ; contenu sous
-                  licence CC-BY-SA 4.0.}
+                  licence CC-BY 4.0.}
 }
 ```
 
 ### Licence
 
 - **MIT** pour le code (`LICENSE`).
-- **CC-BY-SA 4.0** pour le contenu (`LICENSE-content`).
+- **CC-BY 4.0** pour le contenu (`LICENSE-content`).
 
 Toute réutilisation du contenu doit conserver la mention de
-l'auteure et la licence CC-BY-SA 4.0.
+l'auteure et la licence CC-BY 4.0.

@@ -57,4 +57,4 @@ Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte
 umgehend entfernen.
 
 Lehrinhalte dieser Website stehen zusätzlich unter der Lizenz
-**CC-BY-SA 4.0**, der Website-Code unter **MIT**.
+**CC-BY 4.0**, der Website-Code unter **MIT**.

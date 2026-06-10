@@ -47,10 +47,10 @@ n'est inventée ; chaque Unité cite des codes vérifiables.
 
 ## Licence
 
-- **MIT** (`LICENSE`) — code du site.
-- **CC-BY-SA 4.0** (`LICENSE-content`) — contenu didactique.
+- **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** (`LICENSE`) — contenu didactique.
+- **[MIT](LICENSE-CODE.md)** (`LICENSE-CODE.md`) — code du site.
 
-`© S. Le Boulanger · MIT / CC-BY-SA 4.0`.
+`© S. Le Boulanger · CC BY 4.0 (contenu) / MIT (code)`.
 
 ## Citation
 
@@ -68,7 +68,7 @@ Si vous réutilisez ce curriculum, merci de le citer :
   year         = {2026},
   howpublished = {\url{https://boulingua.github.io/fle/}},
   note         = {Boulingua. Code sous licence MIT ; contenu sous
-                  licence CC-BY-SA 4.0.}
+                  licence CC-BY 4.0.}
 }
 ```
 

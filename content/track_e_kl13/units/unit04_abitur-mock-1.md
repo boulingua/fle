@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2770506845c34f75952c62f2129d4c94"
 presentation:
-  file: "/fle/materials/presentations/unit04_abitur-mock-1.pptx"
+  file: "/fle/materials/presentations/unit04_abitur-mock-1.odp"
   thumbnail: "/fle/materials/presentations/unit04_abitur-mock-1.png"
 worksheet:
   file: "/fle/materials/worksheets/unit04_abitur-mock-1.pdf"
@@ -28,143 +28,203 @@ aliases:
 ---
 
 {{< callout type="note" >}}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
 ## Objectifs
 
-- Je traite un **mock épreuve finale 1** complet (texte
- journalistique).
-- Je tiens **270 minutes** chronométrées.
-- Je m'auto-évalue selon **5 critères** KMK.
+- Je peux **dégager le message essentiel** d'un texte journalistique et repérer les informations demandées (compréhension écrite).
+- Je peux **analyser** la manière dont l'auteur·e présente une personne et son projet (procédés, ton, mise en avant).
+- Je peux **rédiger un commentaire structuré** (thèse — arguments — synthèse) en réagissant de façon nuancée à une idée du texte (expression écrite).
+- Je peux **gérer mon temps** dans une épreuve chronométrée et **relire** ma copie selon des critères précis.
+- Je peux **m'auto-évaluer** à l'aide d'une grille de critères et repérer mes axes de progrès.
 
-## Histoire d'introduction
+## Situation de départ
 
-Théodore lance le **mock 1** : *« Trois textes sources. 270
-minutes. Pas de pause. À la fin, on corrige ensemble. »*
+*Salle d'examen, 8 h 55. Théo et Salma attendent la distribution des sujets.*
+
+**Salma :** — Un texte de presse, encore ? J'espère qu'il n'y aura pas trop de vocabulaire technique.
+
+**Théo :** — Peu importe le sujet. Le plus dur, c'est de ne pas tout lire trois fois. Je me fixe vingt minutes pour la lecture, pas une de plus.
+
+**Salma :** — Moi, je surligne les dates, les noms, les chiffres. Après, les questions vont plus vite.
+
+**Théo :** — Et pour le commentaire, tu prends position tout de suite ?
+
+**Salma :** — Non, je note d'abord deux arguments pour, deux contre. Ensuite je choisis.
+
+**Questions d'activation :**
+
+- Quelle stratégie de lecture Salma décrit-elle ?
+- Pourquoi Théo veut-il éviter de « tout lire trois fois » ?
+- Et vous : comment abordez-vous un texte de presse en temps limité ?
 
 ## 1. Activer
 
-- Avez-vous déjà fait un mock 270 min ?
-- Quelle est votre **stratégie de gestion du temps** ?
-- Quel critère vous fait perdre des points ?
+- Avez-vous déjà traité une épreuve de compréhension écrite chronométrée ? Combien de temps aviez-vous ?
+- Selon vous, quels **trois éléments** faut-il toujours repérer dès la première lecture ?
+- Qu'est-ce qui différencie une **question de compréhension** (« Que dit le texte ? ») d'une **question de commentaire** (« Qu'en pensez-vous ? ») ?
+- Citez deux connecteurs utiles pour **structurer** un commentaire argumenté.
 
 ## 2. Apporter
 
-### A. Plan-type 270 minutes
+### A. Vocabulaire — parler d'un texte de presse
 
-| Phase | Durée | Stratégie |
-|-----------------------|--------|------------------------------|
-| Lecture textes | 30 min | annotation + plan |
-| Verstehen | 60 min | 6-8 réponses précises |
-| Expression écrite (« Schreiben ») Analyse | 90 min | 350-400 mots structurés |
-| médiation linguistique (« Sprachmittlung ») | 60 min | 280 mots DE → FR |
-| Relecture finale | 30 min | orthographe + précision |
+| Français | Catégorie | Allemand |
+|------------------------------|--------------|----------------------------|
+| un article de fond | nom | ein Hintergrundartikel |
+| le chapô / l'accroche | nom | der Vorspann / der Aufhänger |
+| une citation | nom | ein Zitat |
+| mettre en avant qqch | verbe | etw. hervorheben |
+| dresser le portrait de qqn | expression | jdn. porträtieren |
+| le fil conducteur | nom | der rote Faden |
+| nuancer un propos | verbe | eine Aussage differenzieren |
+| prendre position | expression | Stellung beziehen |
+| à mon sens | locution | meines Erachtens |
+| en fin de compte | locution | letztlich |
 
-### B. 5 critères officiels (option d'approfondissement)
+### B. Point de langue — argumenter et nuancer
 
-1. **Contenu** : compréhension + couverture.
-2. **Langue** : richesse + correction.
-3. **Aufbau** : structure + paragraphage.
-4. **Stil** : registre + élégance.
-5. **Lexik** : précision + idiomatique.
+{{< callout type="info" >}}
+**Structurer un commentaire (registre soutenu) :**
 
-### C. Mock 1 — sujet (texte journalistique, ~700 mots, condensé)
+- **Annoncer sa thèse :** *Il me semble que… / On peut soutenir que…*
+- **Ajouter / renforcer :** *de plus, en outre, non seulement… mais encore…*
+- **Opposer / nuancer :** *certes… mais / toutefois / il n'en reste pas moins que…*
+- **Illustrer :** *à titre d'exemple, ainsi, comme le montre…*
+- **Conclure :** *en définitive, tout bien pesé, en fin de compte…*
 
-> **Texte source FR (extrait, *Le Monde*, mai 2029)** :
+**Attention au subjonctif** après l'expression du doute ou de l'appréciation : *Il est douteux qu'elle **ait** raison ; il est regrettable que cela **soit** si rare.*
+{{< /callout >}}
+
+### C. Texte source (original, rédigé pour cette épreuve)
+
+> **« À dix-sept ans, elle raconte l'Europe au micro »** — *texte original, ~480 mots*
 >
-> *Le 9 mai 2029, Jour de l'Europe, **Anouk Schmidt**,
-> 18 ans, lycéenne franco-allemande de Karlsruhe, a remporté
-> le **Prix Robert Schuman** pour les jeunes Européens. Son
-> essai, *« Pourquoi le français ? »*, a séduit le jury par
-> sa **sincérité** et sa **rigueur littéraire**.*
+> Chaque dimanche soir, dans une chambre d'étudiante de Strasbourg, un micro s'allume. Derrière, Léa Wagner, dix-sept ans, lance l'enregistrement de *Deux Rives*, un balado (podcast) où elle raconte la vie de part et d'autre du Rhin. En deux ans, l'émission a trouvé quelques milliers d'auditeurs réguliers, en France comme en Allemagne.
 >
-> *Schmidt cite Camus, Senghor, Ben Jelloun et Despentes. Pour
-> elle, **le français est une langue choisie**, pas
-> imposée — et *« cela change tout »*. Elle ira à Bordeaux,
-> chez Mollat, en septembre.*
+> « Je suis née à Strasbourg, mais la moitié de ma famille habite Kehl, de l'autre côté du pont », explique la lycéenne. « Petite, je traversais la frontière pour aller à la piscine. Pour moi, deux langues, ce n'était pas un exploit : c'était le quotidien. »
 >
-> *Pour Marie-Christine Saragosse, présidente de France
-> Médias Monde, *« cette nouvelle génération réinvente la
-> francophonie »*. **Le prix est doté de 5 000 €.***
+> L'idée du balado est née d'un agacement. « À la télévision, on parlait toujours des frontaliers comme d'un dossier économique : les impôts, les salaires, les bouchons sur le pont. Personne ne racontait les gens. » Léa décide alors d'interviewer, un micro à la main, une boulangère, un pompier volontaire, une retraitée qui fait ses courses des deux côtés selon les prix.
 >
-> **Question 1 (Verstehen, 8 P.)** : Quel jour le prix a-t-il
-> été décerné ? À quelle occasion ? Quelle est sa dotation ?
+> Ce qui frappe, dans sa manière de travailler, c'est la patience. Elle prépare chaque entretien pendant plusieurs jours, écrit ses questions dans les deux langues, puis coupe au montage tout ce qui « sonne faux ». « Une bonne interview, ce n'est pas quand la personne répond vite. C'est quand elle hésite, parce qu'elle réfléchit vraiment. »
 >
-> **Question 2 (Analyse, 10 P.)** : Comment l'auteur·e
-> présente-t-il/elle Anouk ? Repérez les **3 traits**
-> mis en avant.
+> Le succès n'était pourtant pas garanti. Les premiers épisodes, avoue-t-elle en riant, « étaient illisibles à l'oreille » : trop longs, trop sérieux. Elle a appris seule, en écoutant des professionnels, à raccourcir, à laisser respirer le silence. Aujourd'hui, un lycée de Fribourg utilise ses épisodes en cours de français.
 >
-> **Question 3 (Commentaire, 12 P.)** : Rédigez un
-> **commentaire personnel** (~400 mots) : que pensez-vous de
-> l'idée *« le français est une langue choisie »* ? — TAS +
-> 2 références littéraires.
+> Pour Léa, le bilinguisme n'est ni un diplôme ni un drapeau. « Beaucoup pensent qu'être bilingue, c'est posséder deux langues comme deux objets. Moi, je crois plutôt qu'on est habité par elles : selon la langue, je ne suis pas tout à fait la même personne. » En allemand, dit-elle, elle est « plus directe » ; en français, « plus prudente, plus polie ».
+>
+> Que fera-t-elle après le baccalauréat ? Elle hésite entre le journalisme et l'enseignement. « Les deux consistent à traduire un monde pour quelqu'un qui ne le connaît pas. » Une chose est sûre : le micro, lui, restera allumé. « Tant qu'il y aura deux rives, il y aura une histoire à raconter au milieu. »
+
+### D. Note culturelle — le 9 mai, Journée de l'Europe
+
+{{< callout type="note" >}}
+Le **9 mai 1950**, le ministre français des Affaires étrangères **Robert Schuman** prononce une déclaration proposant de placer la production franco-allemande de charbon et d'acier sous une autorité commune, ouverte à d'autres pays européens. Ce texte, préparé notamment avec Jean Monnet, est considéré comme l'acte fondateur de la construction européenne. En mémoire de cette déclaration, le **9 mai** est célébré comme la **Journée de l'Europe**. *(Faits encyclopédiques paraphrasés — voir Sources.)*
+{{< /callout >}}
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Ex. 1 — Compréhension globale (texte C).** Répondez brièvement.
 
-1. Quel jour le prix a-t-il été décerné ?
-2. Quel est le titre de l'essai d'Anouk ?
-3. Quels 4 auteurs cite-t-elle ?
-4. Quelle est la dotation du prix ?
+1. Quand et où Léa enregistre-t-elle son émission ?
+2. Comment s'appelle son balado et de quoi parle-t-il ?
+3. Pourquoi a-t-elle décidé de le créer ?
+4. Quel usage un lycée de Fribourg fait-il de ses épisodes ?
 
-**Ex. 2 — 5 critères.** Auto-évaluez (sur 4 chacun).
+**Ex. 2 — Repérage lexical.** Retrouvez dans le texte un mot ou une expression qui signifie :
 
-**Ex. 3 — Stratégie temps.** Pour 270 min, listez vos
-**5 jalons** chronométriques.
+a) une émission audio téléchargeable — b) hésiter à choisir entre deux options — c) supprimer un passage à l'enregistrement — d) le fait de parler couramment deux langues.
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 3 — Analyse.** Léa affirme qu'on est « habité par » les langues plutôt qu'on ne les « possède ». Expliquez cette distinction en deux phrases, avec vos propres mots.
 
-**Ex. 1.** 1) 9 mai 2029 (Jour de l'Europe). 2) *« Pourquoi
-le français ? »* 3) Camus, Senghor, Ben Jelloun, Despentes.
-4) 5 000 €.
+**Ex. 4 — Micro-écriture.** Rédigez la **phrase d'accroche (chapô)** d'un article de presse sur un·e camarade et son projet (30–40 mots), en imitant le ton du texte source.
 
-**Ex. 2.** Réponses libres (auto-évaluation).
+## Solutions
 
-**Ex. 3.** Modèle : *0-30 min lecture · 30-90 Verstehen ·
-90-180 Expression écrite · 180-240 médiation linguistique · 240-270
-relecture.*
+**Ex. 1.** 1) Le dimanche soir, dans une chambre d'étudiante à Strasbourg. 2) *Deux Rives* ; il raconte la vie quotidienne de part et d'autre du Rhin (la vie transfrontalière). 3) Par agacement : les médias traitaient les frontaliers comme un « dossier économique » sans jamais raconter les gens. 4) Un lycée de Fribourg s'en sert en cours de français.
 
+**Ex. 2.** a) un balado (podcast) — b) hésiter (entre… et…) — c) couper (au montage) — d) le bilinguisme.
+
+**Ex. 3.** Réponse-type : « posséder » une langue suggère un objet que l'on maîtrise et contrôle de l'extérieur ; « être habité par » une langue signifie qu'elle agit sur nous de l'intérieur et modifie notre manière d'être, au point que la personnalité change selon la langue parlée. *(Toute reformulation cohérente est acceptée.)*
+
+**Ex. 4.** Réponse libre. Critères : une accroche vivante (30–40 mots), présent de narration ou détail concret, mention du projet et de la personne. *Exemple :* « Chaque midi, dans la cour du lycée, Yanis sort son carnet. En un an, ce timide a rempli trois cahiers d'histoires courtes — et vient d'en publier une première en ligne. »
+
+{{< callout type="tip" >}}
+**Différenciation.**
+**G (base) :** Ex. 1 et 2 uniquement ; réponses en mots-clés autorisées.
+**M (intermédiaire) :** Ex. 1 à 3 ; phrases complètes exigées à l'Ex. 3.
+**E (approfondissement) :** les 4 exercices ; à l'Ex. 4, employer au moins un procédé stylistique du texte (question, opposition, détail sensoriel).
 {{< /callout >}}
 
 ## 4. Produire
 
-**Mock complet (E, ~270 min) :**
+**Tâche d'écriture (expression écrite, ~250 mots).**
 
-Réalisez **un épreuve finale (option d'approfondissement) complet** : Verstehen + Analyse +
-médiation linguistique. Auto-évaluation finale + grille KMK.
+Léa déclare : *« Selon la langue, je ne suis pas tout à fait la même personne. »* Rédigez un **commentaire argumenté** : partagez-vous cette idée ? Appuyez-vous sur votre propre expérience des langues et sur le texte.
+
+**Critères d'évaluation :**
+
+- **Structure (5)** : introduction avec thèse — 2 arguments développés — conclusion.
+- **Argumentation (5)** : arguments pertinents, illustrés, nuancés (au moins une objection prise en compte).
+- **Langue (5)** : connecteurs variés, registre soutenu, correction grammaticale.
+- **Lien au texte (5)** : au moins une référence précise au texte source.
 
 ## 5. Réfléchir
 
-- [ ] Je tiens 270 min en autonomie.
-- [ ] J'auto-évalue selon 5 critères.
-- [ ] J'identifie mes 2 axes de progrès.
+- [ ] Je sais repérer rapidement dates, noms, chiffres et idée directrice d'un texte de presse.
+- [ ] Je distingue une réponse de **compréhension** d'une prise de position **personnelle**.
+- [ ] Je structure un commentaire : thèse → arguments → synthèse.
+- [ ] J'emploie des connecteurs pour nuancer (certes… mais, toutefois…).
+- [ ] Je garde du temps pour la **relecture** (orthographe, accords, ponctuation).
+- [ ] J'identifie mes **deux axes de progrès** prioritaires.
 
-## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E, 13e)
+## Évaluation
 
-**Verstehen (10 P.)** : 5 questions.
-**Analyse Expression écrite (10 P.)** : ~400 mots.
-**médiation linguistique (10 P.)** : ~280 mots DE → FR.
+**Épreuve type — compréhension écrite + expression écrite (Niveau E, 13e).**
 
-**Total : 30 P.**
+Support : le texte source « À dix-sept ans, elle raconte l'Europe au micro » (partie 2.C).
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Partie A — Compréhension écrite (12 points)**
 
-## Pièges fréquents
+1. Dans quel contexte familial et géographique Léa a-t-elle grandi ? *(3 P.)*
+2. Quel reproche adressait-elle aux médias, et comment y répond son émission ? *(4 P.)*
+3. Relevez **deux traits** de sa méthode de travail et illustrez chacun par un élément du texte. *(3 P.)*
+4. Comment le texte présente-t-il l'évolution de l'émission depuis les débuts ? *(2 P.)*
 
-- **270 min** : ne pas dépasser 30 min sur la lecture.
-- **5 critères** : *Aufbau* compte autant que *Langue* —
- ne pas négliger.
-- **« Le français est une langue choisie »** : argument
- central à **discuter**, pas à approuver d'emblée.
+**Partie B — Expression écrite (18 points)**
 
-## Pour aller plus loin
+Rédigez un **commentaire structuré** de 250 à 300 mots :
 
-- **Modèles d'épreuve finale (option d'approfondissement) (passés)** :
- <https://www.bildungsplaene-bw.de/>
-- **Prix Robert Schuman (UE)** :
- <https://www.robert-schuman.eu/>
+> *« Beaucoup pensent qu'être bilingue, c'est posséder deux langues comme deux objets. »* — Discutez cette conception des langues. Le plurilinguisme est-il une possession, une identité, ou autre chose ? Nuancez et illustrez.
+
+**Barème (30 points au total)**
+
+| Critère | Points |
+|-------------------------------------------|--------|
+| Compréhension — exactitude et couverture | 12 |
+| Contenu du commentaire (pertinence, exemples) | 6 |
+| Structure et cohérence (plan, connecteurs) | 5 |
+| Richesse et correction de la langue | 5 |
+| Registre et style | 2 |
+| **Total** | **30** |
+
+## Notes pour l'enseignant·e
+
+**Durée : 45 min (séance d'entraînement).**
+
+- **Activer (4 min)** : lecture de la situation de départ, échange rapide sur les stratégies de lecture.
+- **Apporter (13 min)** : vocabulaire + point de langue (5 min) ; lecture du texte source chronométrée (8 min).
+- **S'entraîner (12 min)** : Ex. 1–4 en autonomie, correction ciblée via la section Solutions.
+- **Produire (12 min)** : rédaction guidée du commentaire (amorce collective du plan au tableau).
+- **Réfléchir (2 min)** : cocher la grille, noter deux axes de progrès.
+- **Aperçu (2 min)** : présenter l'épreuve type de la section Évaluation comme devoir chronométré.
+
+**Organisation.** Prévoir le texte source imprimé (fiche élève). Pour un vrai galop d'essai, isoler la section Évaluation et la traiter en 90 minutes séparées.
+
+**Différenciation.** Voir l'encadré G/M/E de la section 3. Fournir aux groupes G/M une banque de connecteurs affichée ; laisser les élèves E travailler sans aide et comparer ensuite leurs copies selon la grille de critères.
+
+## Sources
+
+- *Journée de l'Europe* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/Journ%C3%A9e_de_l%27Europe>, licence CC BY-SA 4.0.
+- *Déclaration Schuman* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/D%C3%A9claration_Schuman>, licence CC BY-SA 4.0.
+- *Organisation internationale de la Francophonie* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie>, licence CC BY-SA 4.0.
+- Le texte « À dix-sept ans, elle raconte l'Europe au micro » et tous les dialogues sont des créations originales rédigées pour cette unité (personnages fictifs). Plateforme sans affiliation à aucune institution mentionnée.

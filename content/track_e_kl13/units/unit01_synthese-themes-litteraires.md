@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/271dbe5ae8e543ae8440759a3076a259"
 presentation:
-  file: "/fle/materials/presentations/unit01_synthese-themes-litteraires.pptx"
+  file: "/fle/materials/presentations/unit01_synthese-themes-litteraires.odp"
   thumbnail: "/fle/materials/presentations/unit01_synthese-themes-litteraires.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_synthese-themes-litteraires.pdf"
@@ -28,175 +28,207 @@ aliases:
 ---
 
 {{< callout type="note" >}}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (filière E, classe 13)
 {{< /callout >}}
 
 ## Objectifs
 
-- Je synthétise les **6 grands thèmes** travaillés en 11e-12e.
-- Je cartographie **8 auteur·e·s** et leurs œuvres.
-- Je rédige une **synthèse comparative** (~450 mots).
+- Je peux **repérer un thème littéraire** récurrent dans un ensemble de textes lus au cours du cycle.
+- Je peux **mettre en relation** plusieurs œuvres autour d'une même question (et non les résumer l'une après l'autre).
+- Je peux **citer avec précision** un court extrait du domaine public pour appuyer une idée.
+- Je peux **rédiger une synthèse comparative** structurée (~450 mots) avec une problématique et une thèse personnelle.
+- Je peux **relire et améliorer** mon texte à l'aide de connecteurs logiques et de la nominalisation.
 
-## Histoire d'introduction
+## Situation de départ
 
-Théodore : *« Avant l'épreuve finale, **on cartographie tout ce
-qu'on a lu**. Six thèmes, huit voix. Vous devez pouvoir
-naviguer dans cette carte mentale en 30 secondes. »*
+*Deux élèves de classe 13 préparent la révision de fin de cycle. Scène originale.*
+
+**Naïma :** — On a lu tellement de textes cette année… J'ai l'impression d'avoir une pile de fiches sans fil conducteur.
+
+**Yusuf :** — Justement, l'idée n'est pas d'empiler. Une synthèse, ce n'est pas un résumé qui suit. C'est une **carte** : on choisit un thème, puis on regarde comment plusieurs auteurs le traitent.
+
+**Naïma :** — Par exemple ?
+
+**Yusuf :** — Prends « la révolte ». Chez Rimbaud, elle est poétique ; chez Hugo, elle est sociale. Même mot, deux gestes. Voilà une synthèse qui commence.
+
+**Naïma :** — D'accord. Donc je pars d'une **question**, pas d'une liste.
+
+**Questions d'activation :**
+
+1. Quelle différence Yusuf fait-il entre *résumer* et *synthétiser* ?
+2. Quel thème propose-t-il comme exemple ?
+3. Selon vous, par quoi doit commencer une bonne synthèse ?
 
 ## 1. Activer
 
-- Quel thème vous tient à cœur ?
-- Quel·le auteur·rice maîtrisez-vous le mieux ?
-- Quelle citation surgit en premier ?
+- Quel **thème** vous a le plus marqué·e cette année (mémoire, révolte, écriture de soi, société… ) ?
+- Citez **deux textes** différents qui parlent, selon vous, du même thème.
+- Complétez : « Une synthèse, ce n'est pas ______, c'est ______. »
 
 ## 2. Apporter
 
-### A. 6 grands thèmes du programme E
+### A. Vocabulaire de la synthèse littéraire
 
-| Thème | Auteur·e·s clés |
-|----------------------|------------------------------------|
-| Écriture de soi | Ernaux |
-| Francophonie postcoloniale | Ben Jelloun, Condé |
-| L'absurde / révolte | Camus |
-| Mémoire trouée | Modiano |
-| Gender / 4ᵉ vague | Despentes, Slimani |
-| Engagement / écologie| Édouard Louis, Lola Lafon |
+| Français | Allemand |
+|-----------------------------------|-------------------------------------|
+| un thème / un motif | ein Thema / ein Motiv |
+| une œuvre, un recueil | ein Werk, eine Gedichtsammlung |
+| l'écriture de soi | das Schreiben über sich selbst |
+| mettre en relation, confronter | in Beziehung setzen, gegenüberstellen |
+| une problématique | eine Leitfrage |
+| un registre (lyrique, satirique) | eine Tonlage / Stilebene |
+| un procédé stylistique | ein Stilmittel |
+| étayer une idée par une citation | eine Aussage mit einem Zitat belegen |
+| rendre compte de, paraphraser | wiedergeben, paraphrasieren |
+| en somme, en définitive | letztlich, alles in allem |
 
-### B. 8 auteur·e·s — œuvres clés
+### B. Point de langue — articuler une synthèse
 
-1. **Annie Ernaux** — *Les Années* (2008), Nobel 2022.
-2. **Tahar Ben Jelloun** — *Le racisme expliqué …* (1998).
-3. **Albert Camus** — *L'Étranger* (1942), Nobel 1957.
-4. **Maryse Condé** — *Moi, Tituba sorcière* (1986).
-5. **Patrick Modiano** — *Dora Bruder* (1997), Nobel 2014.
-6. **Virginie Despentes** — *King Kong théorie* (2006).
-7. **Leïla Slimani** — *Chanson douce* (2016).
-8. **Léopold Sédar Senghor** — *Chants d'ombre* (1945).
+{{< callout type="info" >}}
+**Connecteurs et nominalisation.** Une synthèse progresse par **étapes reliées**. Deux outils sont essentiels.
 
-### C. Synthèse comparative — modèle (texte original, ~450 mots)
+**1. Les connecteurs de mise en relation :**
+- *ajouter :* d'abord, ensuite, de plus, par ailleurs
+- *opposer :* en revanche, à l'inverse, tandis que
+- *rapprocher :* de même, à l'image de, comme
+- *conclure :* ainsi, en somme, en définitive
 
-> **« La langue française et l'expérience humaine »**
+**2. La nominalisation** rend le propos plus dense et plus abstrait :
+- *Les auteurs se révoltent* → **la révolte des auteurs**
+- *Le personnage se souvient* → **le travail de la mémoire**
+
+Nominaliser permet de comparer des idées, pas seulement de raconter des actions.
+{{< /callout >}}
+
+### C. Texte-modèle — synthèse comparative (texte original, ~430 mots)
+
+> **La révolte, du poème à la barricade**
 >
-> Au terme de quatre années d'Oberstufe, **huit voix
-> francophones** dessinent une cartographie de l'expérience
-> humaine.
+> Un même mot traverse la littérature française du XIXᵉ siècle : la **révolte**. Mais il ne désigne pas partout le même geste. En confronter quelques figures, toutes issues du domaine public, permet d'en cartographier les visages.
 >
-> **D'abord, l'écriture de soi**. Annie Ernaux ouvre la
-> voie avec *Les Années* (2008) : *« Toutes les images
-> disparaîtront »*. Elle invente le **récit
-> transpersonnel** : un « je » qui devient « nous ». À ses
-> côtés, Patrick Modiano (*Dora Bruder*, 1997) explore la
-> **mémoire trouée** — la trace, l'archive, le nom.
+> **La révolte, d'abord, peut être poétique.** Arthur Rimbaud fait de la rupture un programme d'écriture. Sa formule célèbre, « Je est un autre » (1871), fait éclater le moi ordinaire : le poète refuse la langue sage héritée de l'école et cherche une voix neuve. La révolte, ici, ne vise pas d'abord la société ; elle vise la **forme** elle-même.
 >
-> **Ensuite, la francophonie postcoloniale**. Tahar Ben
-> Jelloun, en Marocain écrivant en français, déconstruit
-> le racisme. Maryse Condé donne voix à **Tituba**, la
-> sorcière de Salem oubliée par l'Histoire. Léopold Sédar
-> Senghor, premier Africain à l'Académie française, fonde
-> la **Négritude** : *« la couleur qui est vie »*.
+> **Elle peut, ensuite, viser la société.** Victor Hugo, dans la préface des *Misérables* (1862), lie explicitement la littérature à la « damnation sociale » qui frappe les pauvres. Chez lui, écrire, c'est accuser : le roman devient une tribune. À l'image de Hugo, Émile Zola transforme, en 1898, sa colère en acte public avec son article « J'accuse… ! ». La révolte quitte la page et entre dans l'histoire.
 >
-> **Au cœur, Camus**. L'absurde n'est pas désespoir, mais
-> point de départ : *« Devant cette nuit chargée de signes
-> et d'étoiles, je m'ouvrais pour la première fois à la
-> tendre indifférence du monde. »* La **révolte** du
-> dernier chapitre est un acte de liberté.
+> **Elle peut, enfin, se cacher sous le spleen.** Charles Baudelaire, dans *Les Fleurs du mal* (1857), semble d'abord peindre l'ennui et l'échec. Son albatros, dont « ses ailes de géant l'empêchent de marcher », dit la souffrance du poète incompris. Mais cette mélancolie est déjà une révolte : refuser le monde bourgeois, c'est encore le juger.
 >
-> **Enfin, le gender et l'engagement**. Virginie Despentes
-> (*King Kong théorie*, 2006) écrit *« en tant que femme
-> moche, pour les moches »* — voix de la 4ᵉ vague féministe.
-> Leïla Slimani (*Chanson douce*, 2016) inverse le titre
-> berceur en tragédie sociale.
+> **En somme,** un seul thème réunit trois gestes distincts. Rimbaud révolte la **langue** ; Hugo et Zola révoltent la **cité** ; Baudelaire révolte le **regard**. La force d'une synthèse n'est pas d'aligner ces auteurs, mais de montrer ce qui les sépare **à l'intérieur** d'un même mot.
 >
-> **Synthèse**. Ces huit voix partagent une exigence : le
-> **français comme outil de précision** pour dire
-> l'**expérience humaine**, dans ses zones d'ombre. **Camus
-> et Senghor** posent les **fondations** (l'absurde,
-> l'identité). **Ernaux et Modiano** approfondissent la
-> **mémoire**. **Condé, Ben Jelloun, Despentes, Slimani**
-> ouvrent les **angles morts** : couleurs, genres,
-> classes.
->
-> Comme l'écrivait Senghor : *« Les vraies civilisations
-> sont des rendez-vous du donner et du recevoir. »* Cette
-> littérature francophone est **un rendez-vous**. **Notre
-> rendez-vous**.
->
-> ⏤ Anouk, 13e Lf, septembre 2029.
+> On pourrait prolonger la carte jusqu'à aujourd'hui : de nombreux auteurs contemporains de langue française reprennent, chacun à leur manière, cette énergie de la révolte — sociale, intime ou identitaire. Les nommer ici serait une autre enquête ; l'essentiel est d'avoir vu comment un thème se **décline** au lieu de se répéter.
+
+### D. Note culturelle — quand la littérature passe en procès
+
+L'année **1857** est célèbre dans l'histoire des lettres françaises : deux œuvres majeures y sont poursuivies devant les tribunaux pour « outrage à la morale publique et aux bonnes mœurs ». *Madame Bovary* de Gustave Flaubert est jugé puis **acquitté** ; *Les Fleurs du mal* de Charles Baudelaire est **condamné**, l'auteur reçoit une amende et **six poèmes** sont censurés. L'interdiction de ces « pièces condamnées » ne sera officiellement levée qu'en **1949**. Cet épisode montre combien le thème du conflit entre l'artiste et la société n'est pas abstrait : il a une histoire judiciaire concrète. *(Fait paraphrasé de l'article « Les Fleurs du mal », Wikipédia, CC BY-SA.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Exercice 1 — Compréhension du texte-modèle (C).**
+1. Quel mot-thème structure tout le texte ?
+2. Contre quoi se révolte Rimbaud, selon le texte ?
+3. Quels deux auteurs représentent la révolte « sociale » ?
+4. En quoi le spleen de Baudelaire est-il présenté comme une révolte ?
 
-1. Combien de voix sont cartographiées ?
-2. Quel auteur incarne « l'absurde » ?
-3. Quel mouvement Senghor co-fonde-t-il ?
-4. Quelle citation Senghor clôt la synthèse ?
+**Exercice 2 — Repérer le geste de synthèse.** Parmi ces trois phrases, laquelle **synthétise** (met en relation) et lesquelles ne font que **résumer** ? Justifiez.
+- (a) « Rimbaud écrit *Je est un autre*, puis Hugo écrit *Les Misérables*, puis Zola écrit *J'accuse*. »
+- (b) « Là où Rimbaud vise la langue, Hugo et Zola visent la société. »
+- (c) « Baudelaire parle de son albatros dans un poème. »
 
-**Ex. 2 — Cartographie.** Reliez 6 thèmes à 8 auteur·e·s
-(certains incarnent plusieurs thèmes).
+**Exercice 3 — Nominalisation.** Transformez chaque phrase en groupe nominal.
+- (a) Le poète refuse le monde bourgeois.
+- (b) Hugo accuse la société.
+- (c) Le personnage se souvient de son enfance.
 
-**Ex. 3 — Citation à analyser.** *« La langue française
-comme outil de précision pour dire l'expérience humaine. »*
-(3 phrases d'analyse.)
+**Exercice 4 — Connecteurs.** Complétez avec un connecteur adapté (*d'abord, en revanche, ainsi, de même*).
+- « ______, la révolte peut être poétique. ______, elle peut être sociale. »
+- « Zola transforme sa colère en acte public ; ______, Hugo fait du roman une tribune. »
+- « ______, un seul thème réunit plusieurs gestes distincts. »
 
-{{< callout type="tip" title="Solutions" >}}
-
-**Ex. 1.** 1) Huit. 2) Camus. 3) La Négritude. 4) *« Les
-vraies civilisations sont des rendez-vous du donner et du
-recevoir. »*
-
-**Ex. 2.** Voir tableau A. (Slimani peut être en gender ET
-en mémoire trouée selon angle.)
-
-**Ex. 3.** Modèle : *Cette phrase synthétise un programme
-politique : la langue précise = l'humain mieux dit. Elle
-réunit Camus et Despentes. Elle fait du français une
-**éthique**, pas seulement un **moyen**.*
-
+{{< callout type="note" >}}
+**Différenciation.**
+**G (base) :** faire les exercices 1 et 4 ; travailler avec la liste de connecteurs sous les yeux.
+**M (intermédiaire) :** ajouter l'exercice 3 (nominalisation) sans modèle.
+**E (approfondi) :** faire les quatre exercices, puis reformuler en une phrase la thèse du texte C avec vos propres mots.
 {{< /callout >}}
+
+## Solutions
+
+**Exercice 1.**
+1. La **révolte**.
+2. Contre la **langue** « sage » héritée de l'école ; il cherche une voix neuve (la révolte vise la forme).
+3. **Hugo** et **Zola**.
+4. Refuser le monde bourgeois et l'ennui, c'est déjà le **juger** : la mélancolie devient une prise de position.
+
+**Exercice 2.** La phrase (b) **synthétise** : elle oppose deux orientations de la révolte (langue / société), donc elle met en relation. Les phrases (a) et (c) ne font que **résumer** ou **juxtaposer** : (a) aligne les œuvres avec « puis, puis » sans les comparer ; (c) décrit un seul texte isolé.
+
+**Exercice 3.** (a) *le refus du monde bourgeois par le poète* — (b) *l'accusation de la société par Hugo* — (c) *le souvenir / le travail de la mémoire de l'enfance*. (Formulations proches acceptées.)
+
+**Exercice 4.**
+- « **D'abord**, la révolte peut être poétique. **En revanche** (ou *Ensuite*), elle peut être sociale. »
+- « … ; **de même**, Hugo fait du roman une tribune. »
+- « **Ainsi**, un seul thème réunit plusieurs gestes distincts. »
 
 ## 4. Produire
 
-**Tâche d'écriture (E, ~450 mots) :**
+**Tâche d'écriture (Niveau E, ~450 mots).**
 
-Rédigez **votre synthèse comparative** : 6 thèmes + 8
-auteur·e·s + 5 citations + 1 thèse personnelle + 1 chute
-mémorable.
+Rédigez une **synthèse comparative** autour d'un thème de votre choix travaillé pendant le cycle (par exemple : la mémoire, l'écriture de soi, la révolte, le rapport à la société). Votre texte doit :
+
+1. poser une **problématique** en introduction ;
+2. mettre en relation **au moins trois textes ou auteurs** (organisés par idées, non par auteur) ;
+3. contenir **une ou deux citations exactes** issues **uniquement du domaine public** (Rimbaud, Hugo, Baudelaire, Zola, Flaubert…) ; les auteurs contemporains sont **cités par référence**, sans citation ;
+4. se terminer par une **thèse personnelle** et une chute nette.
+
+**Critères d'évaluation :**
+
+| Critère | Indicateur |
+|-------------------------------|--------------------------------------------|
+| Problématique | question claire, présente dès l'introduction |
+| Mise en relation | organisation par idées, comparaisons explicites |
+| Citations | exactes, brèves, du domaine public, attribuées |
+| Langue | connecteurs variés, nominalisation, correction |
+| Prise de position | thèse personnelle + chute mémorable |
 
 ## 5. Réfléchir
 
-- [ ] Je cartographie 6 thèmes + 8 voix.
-- [ ] Je cite 5 œuvres précisément.
-- [ ] Je rédige 450 mots synthétiques.
+- [ ] J'ai posé une **problématique**, pas seulement un titre.
+- [ ] J'ai **comparé** des textes au lieu de les résumer l'un après l'autre.
+- [ ] Mes citations sont **exactes** et **du domaine public**.
+- [ ] J'ai utilisé au moins **quatre connecteurs** différents.
+- [ ] Ma conclusion contient une **thèse à moi**.
 
-## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E, 13e)
+## Évaluation
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : synthèse-modèle,
-5 questions.
-**Tâche 2 — Cartographie (8 P.)** : 4 associations
-thème-auteur·e.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre synthèse (~450
-mots).
+**Épreuve écrite — filière E, classe 13 (compétences : compréhension écrite + expression écrite).**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension écrite (12 points).** À partir du texte-modèle « La révolte, du poème à la barricade » :
+- a) Dégagez la problématique du texte (2 pts).
+- b) Expliquez, en une phrase chacun, les trois « visages » de la révolte présentés (6 pts).
+- c) Relevez un connecteur de mise en relation et expliquez sa fonction (2 pts).
+- d) Distinguez, à l'aide du texte, *résumer* et *synthétiser* (2 pts).
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Expression écrite (18 points).** Rédigez votre propre synthèse comparative (~450 mots) sur un thème du cycle, en respectant les quatre exigences de la partie Produire.
+- Contenu et mise en relation : 8 pts
+- Citations (domaine public, exactes) : 3 pts
+- Langue et articulation : 4 pts
+- Problématique et thèse personnelle : 3 pts
 
-## Pièges fréquents
+**Total : 30 points.**
 
-- **« Récit transpersonnel »** : terme **technique**
- d'Ernaux. À utiliser avec rigueur.
-- **8 voix** : ne pas mélanger — chaque autrice/auteur a
- son **œuvre + année** précises.
-- **Synthèse** : pas un **résumé**, mais une **mise en
- rapport**.
+## Notes pour l'enseignant·e
 
-## Pour aller plus loin
+**Timing (45 min) :** Activer 5' · Apporter 13' · S'entraîner 12' · Produire 11' · Réfléchir 2' · Bilan 2'.
 
-- **Bibliothèque nationale de France — *Gallica*** :
- <https://gallica.bnf.fr/>
-- **Académie Goncourt** :
- <https://www.academiegoncourt.com/>
+**Organisation :** l'Apporter peut se faire en classe entière (texte C projeté depuis la présentation) ; le S'entraîner en binômes, la correction (Solutions) au tableau. La tâche Produire se poursuit en devoir maison si le temps manque.
+
+**Différenciation :** proposer aux élèves du groupe G une banque de connecteurs et une amorce d'introduction ; laisser le groupe E travailler sans support et justifier le choix de la problématique. Insister partout sur la règle de citation : **domaine public uniquement** ; les auteurs vivants ou récents (décédés il y a moins de 70 ans) se citent **par référence**, jamais par extrait.
+
+**Prolongement :** consulter les textes libres de droits sur *Gallica* (BnF) pour vérifier une citation exacte.
+
+## Sources
+
+- *Les Fleurs du mal* (article encyclopédique) — Wikipédia, contributeurs (consulté en 2026), https://fr.wikipedia.org/wiki/Les_Fleurs_du_mal — licence CC BY-SA 4.0.
+- *Les Misérables* (article encyclopédique) — Wikipédia, contributeurs (consulté en 2026), https://fr.wikipedia.org/wiki/Les_Misérables — licence CC BY-SA 4.0.
+- *Les Fleurs du mal* — Charles Baudelaire (1857), texte du domaine public, https://gallica.bnf.fr/ — domaine public.
+- *Les Misérables* — Victor Hugo (1862), texte du domaine public, https://gallica.bnf.fr/ — domaine public.
+- Lettre dite « du voyant » — Arthur Rimbaud (1871), texte du domaine public, https://fr.wikisource.org/ — domaine public.
+- « J'accuse… ! » — Émile Zola, *L'Aurore* (1898), texte du domaine public, https://fr.wikisource.org/ — domaine public.

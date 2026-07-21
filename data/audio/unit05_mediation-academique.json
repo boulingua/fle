@@ -1,0 +1,27 @@
+[
+ {
+  "file": "/fle/materials/audio/unit05_mediation-academique/texte1.ogg",
+  "label": "Texte 1",
+  "transcript": "Léa — J'ai trouvé un super article en allemand sur les erreurs des intelligences artificielles. Mais je ne peux pas tout traduire, ce serait trop long et trop technique.\nYanis — De toute façon, on ne te demande pas de traduire. Il faut transmettre : dire l'essentiel en français, pour des lecteurs qui ne lisent pas l'allemand.\nLéa — Donc je garde les chiffres et le nom des chercheurs, mais je reformule les explications ?\nYanis — Exactement. Et surtout, tu ne rajoutes pas ton avis. On restitue ce que dit l'auteur, pas ce qu'on en pense."
+ },
+ {
+  "file": "/fle/materials/audio/unit05_mediation-academique/vocab1.ogg",
+  "label": "Vocabulaire 1",
+  "transcript": "die Studie · die Forscherin / der Forscher · die Quelle · das Ergebnis · die These · nachweisen · vermuten · die Fachbegriffe · annähernd / rund · laut (+ Dat.)"
+ },
+ {
+  "file": "/fle/materials/audio/unit05_mediation-academique/dialogue1.ogg",
+  "label": "Dialogue 1",
+  "transcript": "Médiation d'un article de vulgarisation (source allemande).\nSelon un article de vulgarisation scientifique, les grands modèles de langage — comme les agents conversationnels d'aujourd'hui — produisent parfois des réponses fausses tout en paraissant sûrs d'eux. Les spécialistes appellent ce phénomène une  hallucination  : le programme invente une information plausible mais inexacte. D'après les données citées, ces erreurs seraient plus fréquentes lorsque la question porte sur un domaine précis, par exemple la médecine ou le droit. Les auteurs ne condamnent pas la technologie ; ils suggèrent plutôt une vérification systématique des sources par des personnes compétentes. La conclusion reste prudente : l'outil peut aider, à condition que l'utilisateur garde un regard critique et ne prenne pas chaque réponse pour une vérité établie."
+ },
+ {
+  "file": "/fle/materials/audio/unit05_mediation-academique/vocab2.ogg",
+  "label": "Vocabulaire 2",
+  "transcript": "Fidélité au contenu · Précision · Reformulation · Neutralité · Langue"
+ },
+ {
+  "file": "/fle/materials/audio/unit05_mediation-academique/vocab3.ogg",
+  "label": "Vocabulaire 3",
+  "transcript": "Contenu / fidélité · Précision académique · Reformulation · Neutralité · Langue"
+ }
+]

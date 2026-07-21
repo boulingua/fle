@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/286f0ff2bd094220b325d3e797afe6af"
 presentation:
-  file: "/fle/materials/presentations/unit10_reflexion-sur-soi.pptx"
+  file: "/fle/materials/presentations/unit10_reflexion-sur-soi.odp"
   thumbnail: "/fle/materials/presentations/unit10_reflexion-sur-soi.png"
 worksheet:
   file: "/fle/materials/worksheets/unit10_reflexion-sur-soi.pdf"
@@ -28,167 +28,213 @@ aliases:
 ---
 
 {{< callout type="note" >}}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
 ## Objectifs
 
-- Je réfléchis sur mon **parcours FLE** de **8 ans**
- (6e à 13e).
-- Je rédige un **récit de soi** apprenant·e (~500 mots).
-- Je projette mon **français post-épreuve finale**.
+- Je peux **faire le bilan de mon parcours d'apprentissage du français** en distinguant mes points forts et mes points faibles.
+- Je peux **nommer mes stratégies d'apprentissage** et expliquer lesquelles m'aident le plus.
+- Je peux **présenter oralement, en continu, un bilan et un projet personnels** (monologue de 2 à 3 minutes).
+- Je peux **rédiger un texte réflexif structuré** qui relie mon passé d'apprenant·e et mes objectifs futurs.
+- Je peux **me fixer des objectifs concrets** pour continuer à progresser après l'examen.
 
-## Histoire d'introduction
+## Situation de départ
 
-Théodore : *« Avant de partir, prenez le temps. **8 ans de
-français**, c'est une part de votre vie. Pourquoi continuer
-à parler cette langue après le bac ? »*
+Deux dernières semaines avant l'examen. Dans le couloir du lycée, Léa et Malik révisent.
+
+> **Léa :** Tu te rends compte ? Sept ans de français, et c'est presque fini.
+>
+> **Malik :** Presque. Mais honnêtement, je ne sais pas ce que j'ai vraiment appris. Des listes de mots, des règles…
+>
+> **Léa :** Moi, je crois que le plus important, ce n'est pas les règles. C'est que j'ai appris *comment* j'apprends. Quand je bloque, maintenant, je sais quoi faire.
+>
+> **Malik :** Tu veux dire que réfléchir sur sa manière d'apprendre, ça compte autant que le français lui-même ?
+>
+> **Léa :** Exactement. Et après le bac, moi, je continue. Toi ?
+
+**Questions d'activation**
+
+1. Pourquoi Malik se sent-il un peu perdu ?
+2. Qu'est-ce que Léa considère comme le « plus important » ?
+3. Et vous : diriez-vous plutôt comme Léa ou comme Malik ?
 
 ## 1. Activer
 
-- En quelle classe avez-vous commencé le français ?
-- Quel souvenir d'enseignement vous reste ?
-- Pourquoi continuer après l'épreuve finale ?
+- En quelle classe avez-vous commencé le français, et pourquoi (choix, obligation, hasard) ?
+- Citez **un moment** où vous avez senti que vous progressiez vraiment.
+- Citez **une difficulté** qui revient encore aujourd'hui.
+- Quand vous ne comprenez pas un texte, que faites-vous concrètement ? (Vous relisez ? cherchez le contexte ? traduisez ?)
+- En un mot : le français, pour vous, c'est plutôt un *outil*, un *plaisir* ou une *contrainte* ?
 
 ## 2. Apporter
 
-### A. 6 axes de réflexion sur le parcours
+### Vocabulaire — parler de son apprentissage
 
-| Axe | Question |
-|------------------|----------------------------------------|
-| Origine | Comment ai-je rencontré le français ? |
-| Transformations | Qu'a changé en moi cet apprentissage ? |
-| Voix marquantes | Quels auteur·e·s m'ont changé·e ? |
-| Difficultés | Qu'ai-je trouvé difficile ? |
-| Réussites | De quoi suis-je fier·ère ? |
-| Avenir | Qu'en ferai-je ? |
+| Français | Catégorie | Explication / exemple |
+|---|---|---|
+| le parcours d'apprentissage | nom | l'ensemble du chemin parcouru depuis la 6e |
+| la métacognition | nom | le fait de réfléchir sur sa propre façon d'apprendre |
+| apprendre à apprendre | expression | acquérir des méthodes de travail utiles partout |
+| une stratégie d'apprentissage | nom | ex. relire à voix haute, faire des fiches, deviner par le contexte |
+| s'autoévaluer / l'autoévaluation | verbe / nom | juger soi-même ses compétences honnêtement |
+| se fixer un objectif | expression | décider d'un but précis et atteignable |
+| une prise de conscience | nom | le moment où l'on comprend quelque chose sur soi |
+| un point fort / un point faible | nom | ce que je réussis bien / ce que je dois travailler |
+| faire le bilan | expression | dresser un état des lieux de son travail |
+| surmonter une difficulté | verbe | réussir à dépasser un obstacle |
+| persévérer / la persévérance | verbe / nom | continuer malgré les difficultés |
+| tirer une leçon de qqch | expression | apprendre de ses erreurs ou de ses expériences |
+| désormais | connecteur | à partir de maintenant |
+| à l'avenir | connecteur | dans le futur |
 
-### B. 5 « moments-clés » à raconter
+{{< callout type="tip" >}}
+**Point de langue — raconter un bilan et projeter un projet**
 
-1. Premier contact (en 5e ou 6e).
-2. Premier livre lu.
-3. Première rencontre francophone.
-4. Premier voyage.
-5. Premier acte d'écriture personnelle.
+Un texte réflexif fait dialoguer **le passé** et **le futur** :
 
-### C. Récit-modèle Anouk (texte original, ~500 mots)
+- **Le bilan (le passé)** : on emploie le **passé composé** pour les étapes et les actions ponctuelles (*j'ai commencé*, *j'ai compris*, *j'ai réussi*) et l'**imparfait** pour le contexte et les habitudes (*je n'osais pas parler*, *je trouvais la grammaire difficile*).
+- **La projection (le futur)** : on emploie le **futur simple** pour les intentions fermes (*je continuerai*, *je lirai*) et le **conditionnel présent** pour les souhaits et les hypothèses (*j'aimerais*, *je pourrais*, *je voudrais*).
+- **Structurer** avec des connecteurs : *au début… peu à peu… aujourd'hui… désormais… à l'avenir*.
 
-> **« Mes 8 ans de français » — Anouk Schmidt, juin 2030.**
+Exemple : « **Au début**, je *n'osais pas* parler (imparfait) ; **peu à peu**, j'*ai pris* confiance (passé composé) ; **à l'avenir**, je *voudrais* (conditionnel) continuer et je *lirai* (futur) en français. »
+{{< /callout >}}
+
+### Texte — « Ce que le français m'a appris » (texte original)
+
+> Quand j'ai commencé le français, je croyais qu'apprendre une langue, c'était mémoriser des mots. Je remplissais des colonnes de vocabulaire, et le lendemain, tout avait disparu. Je trouvais cela décourageant.
 >
-> Septembre 2022, classe de 6e. Mme Devos écrit *« Je
-> m'appelle… »* au tableau. Je m'appelle **Anouk**. C'est
-> le **premier mot** que j'écris en français.
+> Un jour, une enseignante m'a posé une question simple : « Comment fais-tu, toi, pour retenir ? » Je n'avais jamais réfléchi à cela. J'ai essayé de m'observer. J'ai remarqué que je retenais mieux en lisant à voix haute et en reliant les mots à des images. C'était ma première prise de conscience : je pouvais choisir *comment* j'apprenais.
 >
-> En 7e, ma cousine québécoise **Inès** m'envoie une carte
-> postale : *« Salut ma belle ! »* — premier contact avec
-> une **francophonie autre** que parisienne.
+> Depuis, mon rapport au français a changé. Mes points faibles n'ont pas disparu — je confonds encore certains temps — mais je sais désormais les surmonter : je relis, je vérifie, je demande. J'ai appris à faire le bilan sans me juger trop durement.
 >
-> En 8e, je rencontre **Karim** par lettre. Lille, le Nord,
-> les frites belges. **Karim devient mon ami**. Notre
-> correspondance dure encore aujourd'hui.
->
-> En 9e, **stage stage d'orientation (« BORS ») au lycée (« Gymnasium ») (« BOGY »)** à l'Institut français de Karlsruhe.
-> Je découvre que **le français peut être un métier**.
->
-> En 11e, j'ouvre **Annie Ernaux**. *« Toutes les images
-> disparaîtront. »* Je comprends que **la littérature est
-> une façon de vivre**, pas un programme.
->
-> En 12e, je termine **L'Étranger**. Camus me marque pour
-> la vie. *« Je m'ouvrais pour la première fois à la tendre
-> indifférence du monde. »* Je relis cette phrase 50 fois.
->
-> En 13e, je présente *L'Étranger* au **épreuve communicative (« Kommunikationsprüfung »)**
-> et je gagne le **Prix Schuman** pour mon essai *« Pourquoi
-> le français ? »*.
->
-> **Ce que le français m'a appris** : la **précision**, la
-> **mémoire**, la **rigueur**, et **une manière de regarder
-> le monde**. Comme Senghor : *« Les vraies civilisations
-> sont des rendez-vous du donner et du recevoir. »*
->
-> **Ce que je ferai du français** : septembre prochain,
-> **Bordeaux, librairie Mollat**. Stage longue durée. Puis
-> licence de lettres modernes. Mon métier sera **autour des
-> livres**, en français — pour **transmettre** ce que mes
-> profs m'ont donné.
->
-> Le français n'est pas une langue **étrangère**. C'est ma
-> **deuxième langue maternelle**, choisie. **Comme Inès
-> m'avait dit en 7e** : *« Salut ma belle ! »*. Aujourd'hui,
-> je pourrais dire la même chose, en français, à un·e enfant
-> de 6e qui apprend ses premiers mots.
->
-> Bon vent à toustes. Et merci, Mme Devos.
+> Ce que le français m'a vraiment appris, ce n'est pas seulement une langue. C'est une méthode : observer, essayer, corriger, recommencer. À l'avenir, quelle que soit ma voie, je garderai cette manière de faire.
+
+{{< callout type="info" >}}
+**Note culturelle — « Je peux… » : s'autoévaluer avec le CECRL**
+
+Le *Cadre européen commun de référence pour les langues* (CECRL), publié par le Conseil de l'Europe en 2001, décrit les compétences en langue par niveaux (de A1 à C2). Il a rendu courantes les descriptions dites « can-do », formulées à la première personne — « **Je peux** comprendre… », « **Je peux** écrire… ». Un outil associé, le *Portfolio européen des langues*, invite précisément chaque apprenant·e à **réfléchir sur ses acquis et à s'autoévaluer** au lieu d'attendre seulement le jugement d'un enseignant. C'est exactement la démarche de cette unité. *(Paraphrasé d'après Wikipédia, CC-BY-SA — voir Sources.)*
+{{< /callout >}}
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Exercice 1 — Compréhension (texte « Ce que le français m'a appris »).**
+Répondez par une phrase complète.
 
-1. Quel est le premier mot écrit en français ?
-2. Qui est Inès et quel rôle a-t-elle ?
-3. Quelle citation d'Ernaux est mentionnée ?
-4. Que fera Anouk en septembre 2030 ?
+1. Que croyait l'auteur·e au début de son apprentissage ?
+2. Quelle question de l'enseignante a tout changé ?
+3. Quelle stratégie l'auteur·e a-t-il/elle découverte sur lui/elle-même ?
+4. Selon la conclusion, qu'est-ce que le français lui a « vraiment appris » ?
 
-**Ex. 2 — 6 axes.** Identifiez **3 axes** dans le récit
-d'Anouk + donnez 1 citation par axe.
+**Exercice 2 — Vocabulaire.** Complétez avec un mot de la liste (faire le bilan · point faible · me fixer un objectif · surmonter · s'autoévaluer).
 
-**Ex. 3 — Plan-éclair (3 phrases).** Pour votre propre
-parcours FLE, donnez 3 moments-clés.
+a) Avant de continuer, je vais ______ de mes sept années de français.
+b) La grammaire reste mon principal ______.
+c) Apprendre à ______ honnêtement est plus utile qu'attendre une note.
+d) J'ai réussi à ______ ma peur de parler devant la classe.
+e) Pour l'été, je veux ______ : lire un roman entier en français.
 
-{{< callout type="tip" title="Solutions" >}}
+**Exercice 3 — Grammaire (bilan / projection).** Mettez le verbe au temps demandé.
 
-**Ex. 1.** 1) *« Anouk »* (son prénom). 2) Cousine
-québécoise, premier contact avec francophonie autre. 3)
-*« Toutes les images disparaîtront. »* 4) Bordeaux, stage
-chez Mollat.
+a) Au début, je (ne pas oser — *imparfait*) ______ prendre la parole.
+b) En troisième, je (comprendre — *passé composé*) ______ que je pouvais progresser.
+c) Après le bac, je (continuer — *futur simple*) ______ à écouter des podcasts français.
+d) Si j'avais plus de temps, j' (aimer — *conditionnel présent*) ______ faire un séjour en France.
 
-**Ex. 2.** *Origine* : *« Mme Devos écrit Je m'appelle … »* ·
-*Voix marquantes* : Ernaux, Camus, Senghor · *Avenir* :
-Mollat / lettres modernes.
+**Exercice 4 — Vers la production.** Rédigez **trois phrases** sur votre parcours : une au passé (une étape), une au présent (où vous en êtes), une au futur ou au conditionnel (un projet). Utilisez au moins **deux connecteurs** (*au début, peu à peu, aujourd'hui, désormais, à l'avenir*).
 
-**Ex. 3.** Réponses libres.
-
+{{< callout type="note" >}}
+**Différenciation**
+- **G (base)** : à l'exercice 4, une banque de débuts de phrases est fournie (« Au début, je… », « Aujourd'hui, je… », « À l'avenir, je… »).
+- **M (moyen)** : réalisation sans aide ; au moins un passé composé *et* un imparfait à l'exercice 4.
+- **E (approfondi)** : ajoutez une phrase au conditionnel exprimant un souhait nuancé et un connecteur de concession (*même si…, malgré…*).
 {{< /callout >}}
+
+## Solutions
+
+**Exercice 1.**
+1. Elle/il croyait qu'apprendre une langue, c'était (seulement) mémoriser des mots.
+2. « Comment fais-tu, toi, pour retenir ? »
+3. Qu'elle/il retient mieux en lisant à voix haute et en reliant les mots à des images.
+4. Une méthode : observer, essayer, corriger, recommencer.
+
+**Exercice 2.** a) faire le bilan — b) point faible — c) s'autoévaluer — d) surmonter — e) me fixer un objectif.
+
+**Exercice 3.** a) n'osais pas — b) ai compris — c) continuerai — d) aimerais.
+
+**Exercice 4.** Réponses libres ; vérifier la présence des trois temps (passé, présent, futur/conditionnel) et d'au moins deux connecteurs.
 
 ## 4. Produire
 
-**Tâche d'écriture (E, ~500 mots) :**
+**Tâche — Monologue suivi (oral, 2 à 3 minutes) : « Mon parcours de français : bilan et projet ».**
 
-Rédigez **votre récit de parcours FLE** de 8 ans :
-6 axes + 5 moments-clés + 4 citations littéraires + 1
-projet d'avenir + 1 chute mémorable.
+Préparez et présentez, sans lire un texte rédigé (notes autorisées : mots-clés seulement), un monologue en trois temps :
+
+1. **Bilan** — deux ou trois étapes marquantes (passé composé / imparfait).
+2. **Aujourd'hui** — un point fort, un point faible, une stratégie qui vous aide.
+3. **Projet** — un ou deux objectifs pour continuer après l'examen (futur / conditionnel).
+
+**Critères d'évaluation**
+
+| Critère | Indicateur |
+|---|---|
+| Contenu et pertinence | bilan, présent et projet présents et personnels |
+| Structure | monologue organisé, connecteurs logiques |
+| Correction linguistique | temps du passé et du futur employés correctement |
+| Richesse lexicale | vocabulaire de l'unité réinvesti |
+| Fluidité et prononciation | parole en continu, débit régulier, intonation |
 
 ## 5. Réfléchir
 
-- [ ] Je connais 6 axes de réflexion.
-- [ ] Je rédige 500 mots à la 1ʳᵉ personne.
-- [ ] Je projette mon français post-épreuve finale.
+Cochez ce que vous savez faire :
 
-## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E, 13e)
+- [ ] Je peux distinguer mes points forts et mes points faibles en français.
+- [ ] Je peux nommer au moins deux de mes stratégies d'apprentissage.
+- [ ] Je peux raconter mon parcours au passé (passé composé / imparfait).
+- [ ] Je peux exprimer un projet au futur et un souhait au conditionnel.
+- [ ] Je peux parler en continu pendant 2 à 3 minutes sans lire.
+- [ ] Je peux me fixer un objectif concret pour après l'examen.
 
-**Tâche 1 — Lecture (10 P.)** : récit Anouk, 5 questions.
-**Tâche 2 — Axes (8 P.)** : 4 identifications.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre récit (~500 mots).
+## Évaluation
 
-**Total : 30 P.**
+**Épreuve — Bilan réflexif (skills_focus : expression orale en continu + expression écrite)**
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Partie A — Expression orale, monologue suivi (18 points).**
+Présentez pendant 2 à 3 minutes votre bilan et votre projet de français (mêmes consignes que la tâche « Produire »).
 
-## Pièges fréquents
+**Partie B — Expression écrite (12 points).**
+Rédigez un texte réflexif de **180 à 220 mots** : « Ce que le français m'a appris et ce que j'en ferai. » Reliez au moins deux étapes passées et un projet futur ; employez au moins trois connecteurs.
 
-- **« Récit de soi »** : ≠ autobiographie complète ; ici,
- focus sur **un parcours d'apprentissage**.
-- **« Bon vent »** : formule d'au revoir positive ; à
- utiliser en chute si on veut un effet final.
-- **Trop de moments** = parcours fragmenté ; **5 maximum**.
+**Barème**
 
-## Pour aller plus loin
+| Partie | Critère | Points |
+|---|---|---|
+| A (oral) | Contenu (bilan + présent + projet) | 6 |
+| A (oral) | Organisation et connecteurs | 4 |
+| A (oral) | Correction et lexique | 4 |
+| A (oral) | Fluidité et prononciation | 4 |
+| B (écrit) | Pertinence et richesse du contenu | 4 |
+| B (écrit) | Structure et connecteurs | 3 |
+| B (écrit) | Correction grammaticale (temps) | 3 |
+| B (écrit) | Lexique et orthographe | 2 |
+| **Total** | | **30** |
 
-- **France Médias Monde — *Je parle français*** :
- <https://francemediasmonde.com/>
-- **TV5MONDE — apprendre le français** :
- <https://apprendre.tv5monde.com/>
+## Notes pour l'enseignant·e
+
+**Durée : 45 minutes.**
+
+- **Activer (5 min)** : questions orales en plénière ou en binômes ; noter au tableau quelques stratégies citées.
+- **Apporter (13 min)** : vocabulaire (4 min), point de langue (4 min), lecture du texte et note culturelle (5 min).
+- **S'entraîner (12 min)** : exercices 1 à 4 en autonomie, correction rapide avec la section Solutions.
+- **Produire (11 min)** : préparation des notes (5 min) puis quelques monologues (le reste en devoir / séance suivante si le groupe est grand).
+- **Réfléchir (4 min)** : liste de contrôle individuelle.
+
+**Organisation.** Le monologue complet peut être filmé ou évalué sur deux séances si l'effectif l'exige ; l'écrit (Partie B) se prête au travail à la maison.
+
+**Différenciation.** G : banques d'amorces et liste de connecteurs affichée. M : autonomie guidée. E : exiger le conditionnel, un connecteur de concession et une conclusion ouverte. Prévoir un tutorat entre pairs (E aide G) lors de la préparation du monologue.
+
+## Sources
+
+- *Cadre européen commun de référence pour les langues* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Cadre_européen_commun_de_référence_pour_les_langues , licence CC-BY-SA.
+- *Portfolio européen des langues* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Portfolio_européen_des_langues , licence CC-BY-SA.
+- *Métacognition* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Métacognition , licence CC-BY-SA.

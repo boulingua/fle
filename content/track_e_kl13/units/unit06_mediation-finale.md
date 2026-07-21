@@ -12,7 +12,7 @@ skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/27d62c0470fc4b509bb9c9f65bb6c4c3"
 presentation:
-  file: "/fle/materials/presentations/unit06_mediation-finale.pptx"
+  file: "/fle/materials/presentations/unit06_mediation-finale.odp"
   thumbnail: "/fle/materials/presentations/unit06_mediation-finale.png"
 worksheet:
   file: "/fle/materials/worksheets/unit06_mediation-finale.pdf"
@@ -26,148 +26,188 @@ aliases:
 ---
 
 {{< callout type="note" >}}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
 ## Objectifs
 
-- Je médie un **dossier complexe** (texte + graphique +
- citation) en français et en allemand.
-- Je gère le **bilinguisme inversé** (FR → DE) si demandé.
-- Je connais les **3 pièges** typiques du médiation linguistique (« Sprachmittlung »)
- épreuve finale.
+- Je peux **transmettre l'essentiel** d'un document (texte, tableau, citation) d'une langue vers l'autre, sans le traduire mot à mot.
+- Je peux **adapter le registre et le destinataire** de mon message selon la situation de communication.
+- Je peux **repérer et éviter les pièges** de la médiation : faux amis, calques syntaxiques, ruptures de registre.
+- Je peux **médier dans les deux sens** (DE → FR et FR → DE) selon la consigne de l'épreuve.
+- Je peux **relire et corriger** ma production à l'aide d'une grille de critères.
 
-## Histoire d'introduction
+## Situation de départ
 
-Théodore : *« 6ᵉ unité, dernière médiation avant l'épreuve finale.
-Vous serez prêts pour les 3 formats : DE → FR (classique),
-FR → DE (inversé), dossier mixte. »*
+Sur le quai de la gare de Strasbourg, deux voyageurs cherchent le bon train.
+
+> **Frau Weber :** *Entschuldigung, ich verstehe diese Durchsage nicht. Was hat der Kontrolleur gerade gesagt?*
+>
+> **Léo (lycéen) :** Il a annoncé que le train pour Bâle partira du quai 3, avec dix minutes de retard. Vous avez le temps.
+>
+> **Frau Weber :** *Und muss ich umsteigen?*
+>
+> **Léo :** Non, c'est direct. Mais il a précisé qu'il ne faut pas oublier de composter — enfin, de valider — votre billet avant de monter.
+
+**Questions d'activation**
+
+1. Léo traduit-il chaque mot, ou transmet-il seulement l'essentiel ?
+2. À qui adapte-t-il son message : à un ami, à une adulte inconnue ?
+3. Pourquoi Léo reformule-t-il « composter » en « valider » ?
 
 ## 1. Activer
 
-- Le sens **FR → DE** : déjà testé ?
-- *Tableau* / *graphique* : différence dans la médiation ?
-- 3 pièges : faux amis, registre, calque ?
+- Vous avez déjà médié **DE → FR**. Avez-vous déjà travaillé le sens **FR → DE** ?
+- Un **tableau** et un **texte suivi** ne se médient pas de la même façon : où est la différence ?
+- Citez de mémoire **trois pièges** classiques de la médiation. (Indice : les mots qui se ressemblent…)
 
 ## 2. Apporter
 
-### A. 3 pièges typiques + remèdes
+### Vocabulaire — les outils de la médiation
 
-| Piège | Remède |
-|-----------------|--------------------------------------|
-| **faux amis** | toujours vérifier (*Lokal* ≠ local) |
-| **registre** | adapter (presse / acad. / oral) |
-| **calque syntaxique** | reformuler en français pur |
+| Français | Allemand | Emploi |
+|--------------------------|----------------------------|-------------------------------------|
+| transmettre l'essentiel | das Wesentliche wiedergeben | résumer sans tout traduire |
+| reformuler | umformulieren | dire autrement, plus clairement |
+| le destinataire | der Adressat / die Zielperson | la personne à qui l'on s'adresse |
+| adapter le registre | das Sprachregister anpassen | courant, soutenu, familier |
+| un faux ami | ein falscher Freund | mot trompeur d'une langue à l'autre |
+| un calque | eine Lehnübersetzung | copie de structure, fautive |
+| préciser | präzisieren / verdeutlichen | ajouter une explication |
+| selon la source | laut / gemäß der Quelle | pour citer sans copier |
 
-### B. 5 faux amis fréquents (épreuve finale)
+{{< callout type="info" title="Point de langue — le discours indirect pour médier" >}}
+Pour rapporter des propos, on passe souvent au **discours indirect**. Attention aux transformations :
 
-| Allemand | Faux ami français | Vraie traduction |
-|----------------|--------------------|------------------------|
-| Direktion | direction | **direction (lieu)** mais aussi **chefferie** |
-| Konferenz | conférence | **réunion / conférence** |
-| Diskussion | discussion | **débat (au sens de)** |
-| sympathisch | sympathique | **sympathique (OK !)** |
-| eventuell | éventuellement | **peut-être** (le sens !) |
+- **Temps :** présent → imparfait ; futur simple → conditionnel présent.
+  *« Le train partira. »* → Il a annoncé **que** le train **partirait**.
+- **Pronoms et possessifs :** *je* → *il/elle* ; *ton* → *son*.
+  *« Je valide mon billet. »* → Elle a dit **qu'**elle validait **son** billet.
+- **Questions :** *est-ce que* → **si** ; *qu'est-ce que* → **ce que**.
+  *« Est-ce que je dois changer ? »* → Elle a demandé **si** elle devait changer.
 
-### C. Médiation inversée FR → DE (texte original)
+Médier, c'est souvent rapporter : ces règles évitent le calque de l'oral direct.
+{{< /callout >}}
 
-> **Source FR (extrait, *Le Monde*, mai 2029)** :
-> *« Le 9 mai 2029, jour de l'Europe, Anouk Schmidt a
-> remporté le Prix Robert Schuman pour les jeunes
-> Européens. »*
+### Cinq faux amis fréquents à l'épreuve
+
+| Allemand | Faux ami (à éviter) | Sens réel en français |
+|----------------|----------------------|------------------------------------|
+| eventuell | éventuellement | **peut-être**, le cas échéant |
+| das Lokal | local (adjectif) | **le bar, l'établissement** |
+| die Konferenz | conférence (exposé) | souvent **une réunion** |
+| sensibel | sensible (raisonnable) | **sensible** (émotif), fragile |
+| die Direktion | direction (sens routier) | **la direction** (les cadres) |
+
+### Texte à médier (original, DE)
+
+> **Anouk (Karlsruhe) écrit à sa correspondante française :**
 >
-> **Médiation DE (modèle, ~150 mots)** :
-> *Am 9. Mai 2029, am Europatag, hat **Anouk Schmidt**
-> den **Robert-Schuman-Preis für junge Europäer** gewonnen.
-> Die 18-jährige deutsch-französische Schülerin aus
-> Karlsruhe wurde für ihren Essay *« Pourquoi le
-> français ? »* ausgezeichnet. Die Jury lobte ihre
-> **Aufrichtigkeit** und **literarische Strenge**. Schmidt
-> zitiert Camus, Senghor, Ben Jelloun und Despentes. Für
-> sie ist Französisch *« eine gewählte Langue, keine
-> auferlegte »* — und *« das ändert alles »*. Im September
-> wird sie nach Bordeaux ziehen, in die Buchhandlung
-> Mollat. Marie-Christine Saragosse, Präsidentin von France
-> Médias Monde, erklärte: *« Diese neue Generation
-> erfindet die Frankophonie neu. »* Der Preis ist mit
-> 5 000 € dotiert.*
+> *Liebe Camille, gestern war der Europatag an unserer Schule. Wir haben einen zweisprachigen Wettbewerb organisiert: Jede Klasse musste eine kurze Rede auf Deutsch halten und sie dann für die Gäste ins Französische vermitteln — nicht Wort für Wort, sondern nur das Wichtigste. Unsere Lehrerin sagte, das sei genau das, was im Abitur geprüft werde. Ich war zuerst nervös, aber am Ende hat es Spaß gemacht. Kommst du im Mai zu unserem Fest?*
+
+**Consigne :** transmettez à un ami francophone, en trois ou quatre phrases, ce qu'Anouk raconte. Ne traduisez pas mot à mot.
+
+### Note culturelle
+
+Le **Cadre européen commun de référence pour les langues** (CECRL), publié par le Conseil de l'Europe, distingue plusieurs modes de communication : la réception, la production, l'interaction et la **médiation**. Le volume complémentaire de 2018 a renforcé la place de cette dernière : médier, ce n'est pas traduire mot à mot, mais rendre un contenu accessible à une personne qui n'y aurait pas accès autrement, en l'adaptant à son destinataire et à la situation. *(Paraphrasé d'après l'article « Cadre européen commun de référence pour les langues », Wikipédia en français, licence CC BY-SA 4.0.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C, DE).**
+**Ex. 1 — Compréhension (texte d'Anouk).** Répondez en français.
 
-1. Quel jour Anouk a-t-elle gagné ?
-2. Quelle est la dotation du prix ?
-3. Quels 4 auteurs cite-t-elle ?
-4. Où ira-t-elle en septembre ?
+1. Quel événement a eu lieu à l'école d'Anouk ?
+2. En quoi consistait le concours ?
+3. Que demandait exactement l'exercice : traduire ou transmettre l'essentiel ?
+4. Quelle épreuve la professeure évoque-t-elle ?
 
-**Ex. 2 — Faux amis.** Traduisez en allemand :
+**Ex. 2 — Faux amis.** Donnez le sens correct en français.
 
-a) *peut-être* → ___ b) *réunion* → ___ c) *débat* → ___
+a) *eventuell* → ___  b) *das Lokal* → ___  c) *die Konferenz* → ___  d) *sensibel* → ___
 
-**Ex. 3 — Calque.** Réécrivez en français pur : *« J'ai
-besoin de toi pour faire ça. »* (*Ich brauche dich, um das
-zu machen* → ?)
+**Ex. 3 — Discours indirect.** Réécrivez au discours indirect (commencez par *« Elle a dit que… »* ou *« Elle a demandé si… »*).
 
-{{< callout type="tip" title="Solutions" >}}
+a) *« Je participerai au concours. »*
+b) *« Est-ce que tu viens à notre fête ? »*
+c) *« Notre professeure a raison. »*
 
-**Ex. 1.** 1) 9 mai 2029 (Europatag). 2) 5 000 €. 3)
-Camus, Senghor, Ben Jelloun, Despentes. 4) À Bordeaux
-(Mollat).
+**Ex. 4 — Médiation FR → DE.** Transmettez cette information en allemand (2–3 phrases, pas de mot à mot) :
 
-**Ex. 2.** a) *eventuell* (sens **incertitude**, pas
-*éventuellement*). b) *Sitzung / Konferenz*. c)
-*Debatte / Diskussion*.
+> *La Journée de l'Europe se fête le 9 mai. Dans cette école, chaque classe a présenté une petite scène bilingue devant les invités.*
 
-**Ex. 3.** *J'ai besoin de toi pour faire ça* est OK en
-français. Mais *« um zu »* peut donner *« afin de »* en
-français soutenu : *J'ai besoin de toi afin de faire cela.*
+### Différenciation
 
-{{< /callout >}}
+- **G (base) :** faire l'Ex. 1 et l'Ex. 2 ; l'Ex. 4 est reformulé en une seule phrase, avec amorce donnée (*« Am 9. Mai… »*).
+- **M (intermédiaire) :** tous les exercices ; l'Ex. 4 en deux phrases.
+- **E (approfondi) :** ajouter à l'Ex. 4 une phrase de conclusion et justifier un choix de reformulation à l'oral.
+
+## Solutions
+
+**Ex. 1.** 1) La Journée de l'Europe (Europatag). 2) Un concours bilingue : chaque classe prononçait un court discours en allemand, puis en transmettait l'essentiel en français pour les invités. 3) Transmettre l'essentiel, pas traduire mot à mot. 4) L'Abitur (l'épreuve finale).
+
+**Ex. 2.** a) peut-être / le cas échéant. b) le bar, l'établissement. c) une réunion. d) sensible (émotif), fragile.
+
+**Ex. 3.** a) Elle a dit qu'elle participerait au concours. b) Elle a demandé si tu venais (si je venais) à leur fête. c) Elle a dit que leur professeure avait raison.
+
+**Ex. 4 (proposition).** *Am 9. Mai wird der Europatag gefeiert. An dieser Schule hat jede Klasse vor den Gästen eine kurze zweisprachige Szene aufgeführt.*
 
 ## 4. Produire
 
-**Tâche médiation finale (E, ~350 mots, FR → DE) :**
+**Tâche de médiation finale (E, FR → DE, ~180 mots).**
 
-À partir d'un **article français** (Slimani, *Le Monde*,
-sur la francophonie, fourni), médiez en allemand
-(~280 mots). 3 pièges évités + 5 faux amis correctement
-gérés.
+À partir de la lettre d'Anouk et de la note culturelle ci-dessus, rédigez pour un ami germanophone un **court message** qui explique : (1) ce qu'est la médiation selon le CECRL, et (2) comment Anouk l'a pratiquée lors de la Journée de l'Europe. Transmettez l'essentiel, sans traduire mot à mot.
+
+**Critères d'évaluation**
+
+- **Contenu (fidélité) :** l'essentiel des deux sources est transmis, sans contresens.
+- **Adaptation :** registre et destinataire respectés ; pas de mot à mot.
+- **Langue :** faux amis évités, pas de calque syntaxique.
+- **Cohérence :** connecteurs et discours indirect employés correctement.
 
 ## 5. Réfléchir
 
-- [ ] Je connais 3 pièges du médiation linguistique.
-- [ ] Je gère 5 faux amis fréquents.
-- [ ] Je médie FR → DE en 280 mots.
+- [ ] Je distingue **médier** et **traduire mot à mot**.
+- [ ] Je repère **cinq faux amis** fréquents.
+- [ ] J'adapte mon message au **destinataire** et au **registre**.
+- [ ] J'emploie le **discours indirect** pour rapporter des propos.
+- [ ] Je médie **FR → DE** et **DE → FR** selon la consigne.
 
-## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E, 13e)
+## Évaluation
 
-**Tâche 1 — Verstehen (8 P.)** : médiation DE Unité 6,
-4 questions.
-**Tâche 2 — Faux amis (8 P.)** : 4 traductions.
-**Tâche 3 — médiation linguistique (14 P.)** : médiation finale
-DE → FR ou FR → DE (~350 mots).
+**Épreuve type — médiation linguistique (Sprachmittlung), Niveau E, classe 13.**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension du document (8 pts).** À partir du texte d'Anouk (DE), répondez en français aux quatre questions de l'Ex. 1.
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Vigilance lexicale (6 pts).** Traduisez correctement en français les cinq faux amis du tableau ; justifiez brièvement l'un d'eux.
 
-## Pièges fréquents
+**Tâche 3 — Médiation dirigée (16 pts).** Médiez FR → DE l'information suivante pour un lycéen allemand (~150 mots) : *un article annonce qu'une élève franco-allemande a remporté un prix pour un essai sur le plurilinguisme, doté de 5 000 €, et qu'elle poursuivra ses études à Bordeaux à la rentrée.* Transmettez l'essentiel, adaptez le destinataire, évitez les faux amis.
 
-- **« Eventuell »** = peut-être (incertitude), pas
- *éventuellement* (= éventuellement = par hypothèse, plus
- rare en français).
-- **« Direktion »** : peut signifier **chefferie** ou
- **direction (cadre)**, à distinguer du *Direktor*.
-- **« Sympathisch »** = sympa : OK ; mais nuance plus
- affective en allemand.
+**Barème**
 
-## Pour aller plus loin
+| Critère | Points |
+|---------------------------------|--------|
+| Compréhension (Tâche 1) | 8 |
+| Lexique / faux amis (Tâche 2) | 6 |
+| Fidélité du contenu (Tâche 3) | 6 |
+| Adaptation destinataire/registre| 5 |
+| Correction linguistique | 5 |
+| **Total** | **30** |
 
-- **Faux amis franco-allemands (CRDP Strasbourg)** :
- <https://www.crdp.ac-strasbourg.fr/>
-- **OFAJ — médiations bilingues** :
- <https://www.ofaj.org/>
+## Notes pour l'enseignant·e
+
+**Durée : 45 min.**
+
+- **Activer (4') :** questions orales, tour de table rapide.
+- **Apporter (13') :** vocabulaire + point de langue au tableau ; lecture du texte d'Anouk ; note culturelle.
+- **S'entraîner (13') :** Ex. 1–4 en autonomie ou en binômes, correction avec la section Solutions.
+- **Produire (11') :** rédaction du message FR → DE, relecture croisée entre voisins.
+- **Réfléchir (2') :** liste de contrôle individuelle.
+- **Bilan / aperçu épreuve (2').**
+
+**Organisation :** binômes pour les Ex. 3–4 (un rédige, l'autre vérifie les faux amis). Projeter le tableau des faux amis pendant toute la séance.
+
+**Différenciation :** voir l'encadré G/M/E de la partie 3. Pour les groupes G, fournir les amorces de phrase en allemand ; pour les groupes E, exiger une justification orale des choix de reformulation et l'ajout d'une phrase de conclusion à la tâche finale.
+
+## Sources
+
+- « Cadre européen commun de référence pour les langues » — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Cadre_européen_commun_de_référence_pour_les_langues>, licence CC BY-SA 4.0.
+- « Sprachmittlung » — Wikipedia, die freie Enzyklopädie (consulté en 2026), <https://de.wikipedia.org/wiki/Sprachmittlung>, licence CC BY-SA 4.0.

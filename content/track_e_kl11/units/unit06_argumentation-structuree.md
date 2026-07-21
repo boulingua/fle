@@ -8,13 +8,13 @@ unit_nr: 6
 slug: "argumentation-structuree"
 bildungsplan:
   - "3.1.3.5 Expression écrite"
-  - "3.1.3.4 Expression orale — monologisches Expression orale"
+  - "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
   - schreiben
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24667e913e7041b598a105d378da2365"
 presentation:
-  file: "/fle/materials/presentations/unit06_argumentation-structuree.pptx"
+  file: "/fle/materials/presentations/unit06_argumentation-structuree.odp"
   thumbnail: "/fle/materials/presentations/unit06_argumentation-structuree.png"
 worksheet:
   file: "/fle/materials/worksheets/unit06_argumentation-structuree.pdf"
@@ -28,152 +28,197 @@ aliases:
 ---
 
 {{< callout type="note" >}}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (Oberstufe)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
 
 ## Objectifs
 
-- Je rédige une **dissertation** courte (~400 mots) en
- thèse-antithèse-synthèse.
-- Je connais **8 connecteurs** logiques de haut niveau.
-- Je présente **oralement** une argumentation en 4 min.
+- Je peux **formuler une thèse** claire et la défendre par des arguments ordonnés.
+- Je peux **construire un plan** en trois temps (thèse, antithèse, synthèse).
+- Je peux **relier mes idées** grâce à des connecteurs logiques précis.
+- Je peux **rédiger** un texte argumenté d'environ 400 mots au niveau E.
+- Je peux **présenter oralement** mon argumentation de manière structurée pendant 4 minutes.
 
-## Histoire d'introduction
+## Situation de départ
 
-Première dissertation française pour Anouk : *« La liberté
-d'expression doit-elle être absolue ? »* Théodore : *« Le
-plan en T-A-S est un classique français. Maîtrisez-le, vous
-réussirez l'épreuve finale. »*
+Au lycée, Anouk et Malik préparent un débat pour le cours de français. Le sujet est affiché au tableau : *« Faut-il interdire les téléphones portables au lycée ? »*
+
+> **Anouk.** — Moi, je suis pour l'interdiction : en cours, tout le monde regarde son écran.
+>
+> **Malik.** — Attends, tu donnes ton avis, mais où sont tes arguments ? Il faut d'abord une thèse, puis des raisons, puis des exemples.
+>
+> **Anouk.** — D'accord. Ma thèse : le téléphone nuit à la concentration. Premier argument : il interrompt le cours. Exemple : hier, trois notifications pendant l'exercice.
+>
+> **Malik.** — Bien ! Mais un bon argumentateur envisage aussi l'objection : et si le téléphone servait à travailler ?
+>
+> **Anouk.** — Alors je réponds : *certes*, il peut aider, *toutefois* la tablette de la classe suffit.
+
+**Questions d'activation**
+
+- Quelle est la **thèse** d'Anouk ?
+- Quel **exemple** vient soutenir son argument ?
+- Pourquoi Malik lui demande-t-il d'envisager une **objection** ?
 
 ## 1. Activer
 
-- Que veut dire **TAS** en dissertation ?
-- *Concession* / *opposition* : différence ?
-- Quel sujet d'actualité aimeriez-vous disserter ?
+- Que signifie **argumenter** ? Est-ce la même chose que **donner son avis** ?
+- Quelle différence faites-vous entre une **thèse**, un **argument** et un **exemple** ?
+- Connaissez-vous des mots qui servent à **relier deux idées opposées** (par exemple : *mais*, *pourtant*) ?
+- Quel sujet d'actualité aimeriez-vous défendre en classe ?
 
 ## 2. Apporter
 
-### A. Plan T-A-S (4 parties)
+### A. Vocabulaire de l'argumentation
 
-| Partie | Contenu |
-|------------|-----------------------------------------|
-| Intro | accroche + sujet + plan annoncé |
-| Thèse | 2 arguments + 2 exemples |
-| Antithèse | 2 arguments contraires + 2 exemples |
-| Synthèse | dépassement, position nuancée |
+| Français | Fonction | Exemple |
+|---|---|---|
+| une **thèse** | l'idée que l'on défend | *Ma thèse est que le sport développe la discipline.* |
+| un **argument** | une raison qui appuie la thèse | *Il impose un entraînement régulier.* |
+| un **exemple** | un fait concret qui illustre | *Les nageurs s'entraînent chaque matin.* |
+| une **objection** | une idée contraire | *On pourrait dire que le sport fatigue.* |
+| une **concession** | reconnaître en partie l'objection | *Certes, la fatigue existe…* |
+| la **réfutation** | répondre à l'objection | *… mais le repos fait partie de l'entraînement.* |
+| la **synthèse** | dépasser les deux positions | *Le sport forme si l'on respecte l'équilibre.* |
 
-### B. 8 connecteurs de haut niveau
+### B. Point de langue — les connecteurs logiques
 
-- *Certes · toutefois · cela étant · en outre · de surcroît
- · en revanche · au contraire · finalement.*
+{{< callout type="info" >}}
+**Relier les idées.** Les **connecteurs logiques** (ou mots de liaison) montrent le rapport entre deux idées.
 
-### C. Mini-dissertation Anouk (texte original, ~400 mots)
+- **Ajouter :** *de plus · en outre · par ailleurs*
+- **Illustrer :** *par exemple · ainsi · notamment*
+- **Opposer :** *cependant · toutefois · en revanche · au contraire*
+- **Concéder :** *certes … mais · bien que + subjonctif*
+- **Conclure :** *donc · par conséquent · finalement · en somme*
 
-> **« La liberté d'expression doit-elle être absolue ? »**
+**Attention :** *certes* annonce une concession ; il appelle presque toujours un *mais*, *toutefois* ou *cependant* dans la phrase suivante.
+{{< /callout >}}
+
+### C. Le plan en trois temps (texte original)
+
+> **Comment organiser une argumentation ?**
 >
-> **Introduction** — Le 7 janvier 2015, l'attentat contre
-> *Charlie Hebdo* a relancé en France une question
-> millénaire : la liberté d'expression a-t-elle des limites ?
-> Nous examinerons d'abord les arguments en faveur d'une
-> liberté absolue, ensuite les nécessaires garde-fous, puis
-> proposerons une voie nuancée.
+> Une argumentation solide se construit en trois temps. On l'appelle souvent le **plan dialectique**.
 >
-> **Thèse — Pour une liberté large.** **Certes**, l'article
-> 11 de la Déclaration de 1789 affirme que la libre
-> communication est *« l'un des droits les plus précieux »*.
-> **De surcroît**, sans liberté d'expression, démocratie et
-> presse seraient muselées. Les caricatures de Voltaire au
-> XVIIIᵉ siècle ont permis l'émergence de la République.
+> D'abord, la **thèse** : on défend une position à l'aide de deux arguments, chacun illustré par un exemple. Ensuite, l'**antithèse** : on présente honnêtement les objections, car un bon argumentateur ne cache pas les idées contraires. Enfin, la **synthèse** : on ne choisit pas mollement un camp, mais on **dépasse** l'opposition pour proposer une position nuancée.
 >
-> **Antithèse — Des limites nécessaires.** **Toutefois**,
-> aucune liberté n'est absolue. **En revanche**, l'incitation
-> à la haine, le harcèlement, la diffamation sont punis par
-> la loi de 1881. La Cour européenne des droits de l'homme
-> distingue clairement **opinion critique** (protégée) et
-> **discours haineux** (sanctionné).
+> Prenons le sujet : *« Les réseaux sociaux rapprochent-ils les gens ? »* Thèse : ils permettent de garder le contact malgré la distance. Antithèse : toutefois, ils remplacent parfois les rencontres réelles. Synthèse : ils rapprochent à condition de rester un outil, et non un substitut à la vie sociale.
 >
-> **Synthèse — Une liberté responsable.** **Finalement**, la
-> liberté d'expression doit être **large mais responsable**.
-> Comme l'écrivait Beaumarchais : *« Sans la liberté de
-> blâmer, il n'est point d'éloge flatteur. »* Mais cette
-> liberté implique l'éthique du locuteur. **Cela étant**, le
-> dialogue, l'éducation, le contrôle judiciaire (et non la
-> censure préalable) restent les meilleurs garants d'une
-> société démocratique.
->
-> ⏤ Anouk, 11e Lf, octobre 2027.
+> ⏤ Fiche méthode, cours de français, classe 11.
+
+### D. Note culturelle — la dissertation « à la française »
+
+La tradition scolaire française accorde une place centrale à la **dissertation**, un exercice écrit d'argumentation organisée. D'après l'encyclopédie collaborative *Wikipédia*, la dissertation repose souvent sur un **plan dialectique** en trois parties — thèse, antithèse, synthèse — hérité de la pensée philosophique, où la synthèse cherche à dépasser la contradiction plutôt qu'à trancher. Cet exercice, présent au lycée comme à l'université, valorise la **rigueur du plan** autant que la richesse des idées.
+
+*(Fait paraphrasé d'après Wikipédia, « Dissertation », licence CC BY-SA — voir Sources.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Ex. 1 — Compréhension (texte C).**
 
-1. Quel événement déclencheur en 2015 ?
-2. Quel article fonde la liberté d'expression en FR ?
-3. Quelles 3 limites sont citées ?
-4. Quelle est la synthèse d'Anouk ?
+1. Comment appelle-t-on le plan en trois temps ?
+2. Que doit contenir la partie « thèse » ?
+3. Que fait-on dans l'antithèse ?
+4. Pourquoi la synthèse n'est-elle pas un simple compromis ?
 
-**Ex. 2 — Connecteurs.** Identifiez 6 connecteurs dans la
-dissertation.
+**Ex. 2 — Connecteurs.** Complétez avec le connecteur qui convient (*de plus · toutefois · par exemple · donc*).
 
-**Ex. 3 — Plan TAS.** Pour la question *« Faut-il
-réglementer l'IA ? »*, donnez 1 argument T, 1 argument A,
-1 idée de S.
+1. Le vélo est écologique. ______, il n'émet aucun gaz.
+2. Il est bon pour la santé. ______, il muscle le cœur.
+3. ______, il est peu pratique sous la pluie.
+4. Le vélo est utile en ville ; ______, la mairie développe les pistes cyclables.
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 3 — Repérer la structure.** Classez ces phrases en **thèse (T)**, **argument (A)** ou **exemple (Ex)**.
 
-**Ex. 1.** 1) Attentat *Charlie Hebdo*. 2) Article 11 de la
-Déclaration de 1789. 3) Incitation à la haine, harcèlement,
-diffamation. 4) Liberté large mais responsable, garantie par
-dialogue + éducation + justice (pas censure).
+- a) Lire développe le vocabulaire.
+- b) La lecture est essentielle pour les jeunes.
+- c) Un lecteur régulier connaît des milliers de mots de plus.
 
-**Ex. 2.** *Certes · de surcroît · toutefois · en revanche
-· finalement · cela étant.*
+**Ex. 4 — Construire un mini-plan.** Pour le sujet *« Faut-il rendre le bénévolat obligatoire au lycée ? »*, proposez : une idée de **thèse**, une idée d'**antithèse**, une idée de **synthèse**.
 
-**Ex. 3.** Réponses libres.
-
+{{< callout type="note" >}}
+**Différenciation.**
+**(G)** À l'Ex. 2, la liste des connecteurs est fournie ; à l'Ex. 4, un début de phrase est donné (*« Certes, le bénévolat… »*).
+**(M)** Réaliser les Ex. 1 à 4 sans aide supplémentaire.
+**(E)** À l'Ex. 4, rédiger chaque idée en une phrase complète comportant un connecteur logique.
 {{< /callout >}}
+
+## Solutions
+
+**Ex. 1.** 1) Le plan dialectique. 2) Deux arguments, chacun illustré par un exemple. 3) On présente honnêtement les objections / idées contraires. 4) Parce qu'elle **dépasse** l'opposition au lieu de choisir mollement un camp.
+
+**Ex. 2.** 1) **Par exemple** — 2) **De plus** — 3) **Toutefois** — 4) **donc**.
+
+**Ex. 3.** T : b) — A : a) — Ex : c).
+
+**Ex. 4.** Réponses libres. Exemple : **Thèse** : le bénévolat obligatoire développe le sens des responsabilités. **Antithèse** : toutefois, une obligation supprime le sens même du don de soi. **Synthèse** : proposer un engagement encouragé et accompagné, mais librement choisi.
 
 ## 4. Produire
 
-**Tâche d'écriture (E, ~400 mots) :**
+**Tâche d'écriture (E, ~400 mots).**
 
-Rédigez une **dissertation TAS** sur un sujet : IA et
-emploi · climat et démocratie · réseaux sociaux et
-adolescence. 4 parties + 6 connecteurs + 2 références
-historiques + 1 citation.
+Rédigez un texte argumenté en **plan dialectique (thèse — antithèse — synthèse)** sur l'un des sujets suivants :
+
+- *Faut-il limiter le temps d'écran des adolescents ?*
+- *Le sport devrait-il être une matière notée comme les autres ?*
+- *Les voyages scolaires sont-ils utiles à l'apprentissage ?*
+
+**Consignes :** une introduction annonçant le sujet et le plan · deux arguments par partie, avec un exemple chacun · au moins **six connecteurs logiques** variés · une conclusion nuancée.
+
+**Variante orale.** Présentez votre argumentation à l'oral pendant **4 minutes**, sans lire vos notes mot à mot.
+
+{{< callout type="tip" >}}
+**Critères d'évaluation.**
+- **Structure :** plan en trois temps clairement visible.
+- **Contenu :** arguments pertinents, illustrés par des exemples.
+- **Langue :** connecteurs variés et corrects ; phrases claires.
+- **Nuance :** la synthèse dépasse l'opposition.
+{{< /callout >}}
 
 ## 5. Réfléchir
 
-- [ ] Je structure une dissertation en TAS.
-- [ ] J'utilise 8 connecteurs logiques.
-- [ ] Je rédige 400 mots argumentés.
+- [ ] Je sais formuler une thèse claire.
+- [ ] Je distingue argument et exemple.
+- [ ] Je construis un plan en thèse, antithèse et synthèse.
+- [ ] J'emploie au moins six connecteurs logiques différents.
+- [ ] Ma synthèse propose une position nuancée.
 
-## Exemple d'épreuve — épreuve finale (option de base) (« Abitur Basisfach ») (E)
+## Évaluation
 
-**Tâche 1 — Lecture (10 P.)** : dissertation Anouk,
-5 questions.
-**Tâche 2 — Connecteurs (8 P.)** : 4 à insérer.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre dissertation
-(~400 mots).
+**Épreuve — Expression écrite et orale (niveau E)**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension (8 pts).** Lisez le texte C (*« Comment organiser une argumentation ? »*) et répondez :
+1. Quelles sont les trois parties du plan dialectique ? (3 pts)
+2. Quelle est la fonction de l'antithèse ? (2 pts)
+3. Expliquez la différence entre une synthèse et un compromis. (3 pts)
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Connecteurs (7 pts).** Complétez un court paragraphe par **sept connecteurs** logiques appropriés (un point par connecteur correct et adapté).
 
-## Pièges fréquents
+**Tâche 3 — Expression écrite (15 pts).** Rédigez un texte argumenté (~400 mots) en plan dialectique sur un sujet au choix. Barème : structure /5 · arguments et exemples /5 · langue et connecteurs /5.
 
-- **TAS** : la **synthèse** n'est pas un compromis mou ; elle
- **dépasse** les deux thèses.
-- **« Cela étant »** = *cela étant dit* (forme abrégée).
-- **« Beaumarchais »** : 1732-1799, *Le Mariage de Figaro*.
+**Total : 30 points.**
 
-## Pour aller plus loin
+| Note | Points |
+|---|---|
+| sehr gut | 30–27 |
+| gut | 26–22 |
+| befriedigend | 21–17 |
+| ausreichend | 16–12 |
+| mangelhaft | 11–6 |
 
-- **Cours en ligne — La dissertation à la française
- (Sorbonne)** :
- <https://www.sorbonne-universite.fr/>
-- **Charlie Hebdo (presse satirique)** :
- <https://charliehebdo.fr/>
+## Notes pour l'enseignant·e
+
+**Durée :** 45 minutes.
+
+**Déroulement indicatif :** Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Bilan/consignes 2'.
+
+**Organisation.** La *Situation de départ* se lit à deux voix (jeu de rôle rapide). Le point de langue (2.B) peut être projeté depuis la présentation. Les exercices 1 à 3 se corrigent en classe entière ; l'exercice 4 se prépare en binômes.
+
+**Différenciation.** Groupe **G** : fournir la banque de connecteurs et des amorces de phrases ; viser un texte plus court (~250 mots). Groupe **M** : consignes standard. Groupe **E** : exiger la variante orale de 4 minutes et une synthèse réellement nuancée. Prévoir la tâche de production comme devoir si le temps manque.
+
+## Sources
+
+- *Dissertation* — Wikipédia (contributeurs), consulté en 2026, <https://fr.wikipedia.org/wiki/Dissertation>, licence CC BY-SA 4.0.
+- *Connecteur logique* — Wikipédia (contributeurs), consulté en 2026, <https://fr.wikipedia.org/wiki/Connecteur_logique>, licence CC BY-SA 4.0.
+- *Déclaration des droits de l'homme et du citoyen de 1789*, article 11 (texte fondateur, 1789) — domaine public, <https://fr.wikisource.org/wiki/D%C3%A9claration_des_droits_de_l%27homme_et_du_citoyen>.
+- Beaumarchais, *Le Mariage de Figaro* (1784), acte V, scène 3 — domaine public (auteur mort en 1799), <https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro>.

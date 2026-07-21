@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/27ae6ae5ade6488e8aa34c3db2134c29"
 presentation:
-  file: "/fle/materials/presentations/unit05_abitur-mock-2.pptx"
+  file: "/fle/materials/presentations/unit05_abitur-mock-2.odp"
   thumbnail: "/fle/materials/presentations/unit05_abitur-mock-2.png"
 worksheet:
   file: "/fle/materials/worksheets/unit05_abitur-mock-2.pdf"
@@ -28,146 +28,190 @@ aliases:
 ---
 
 {{< callout type="note" >}}
-**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — 13e)
+**Modèle :** Activer → Apporter → S'entraîner → Produire → Réfléchir · **Niveau :** E
 {{< /callout >}}
+
+Cette unité propose un **deuxième examen blanc** (mock 2) orienté vers un **extrait littéraire du domaine public**. Vous vous entraînez à la compréhension écrite et à l'expression écrite argumentée, deux compétences centrales de l'épreuve finale. Le support est une nouvelle de Guy de Maupassant (auteur mort en 1893, œuvre libre de droits).
 
 ## Objectifs
 
-- Je traite un **mock épreuve finale 2** (extrait littéraire).
-- J'analyse un **passage de roman** en 350 mots.
-- Je connais les **3 axes** d'analyse épreuve finale (option d'approfondissement).
+- Je peux **comprendre un extrait littéraire authentique** du XIXe siècle et en dégager le sens global et les détails.
+- Je peux **repérer et nommer des procédés d'écriture** (champ lexical, opposition, ironie) et en expliquer l'effet.
+- Je peux **rédiger un texte argumenté** (environ 300 mots) qui interprète le passage et le relie à une problématique.
+- Je peux **gérer mon temps** dans les conditions d'un examen blanc et respecter un barème.
+- Je peux **relire et corriger** ma production à l'aide d'une grille d'auto-évaluation.
 
-## Histoire d'introduction
+## Situation de départ
 
-Théodore : *« Mock 2 — extrait littéraire. Cette fois, vous
-analysez un passage de Camus, Slimani ou Modiano. C'est
-votre point fort. »*
+*Salle de classe, deux semaines avant l'épreuve finale. Camille et Yanis comparent leurs révisions.*
+
+**Camille :** Le premier examen blanc portait sur un article de presse. Là, on nous annonce un **extrait littéraire**. Ça me stresse un peu.
+
+**Yanis :** Moi je trouve ça plus rassurant, en fait. Avec un texte littéraire, on peut s'appuyer sur des méthodes fixes : on lit, on repère les images, on interprète.
+
+**Camille :** Oui, mais il ne faut pas se contenter de raconter l'histoire. Le correcteur veut une **analyse**, pas un résumé.
+
+**Yanis :** Exactement. Et pour l'expression écrite, l'important, c'est de **prendre position** et de structurer avec des connecteurs.
+
+**Activation :**
+
+- Préférez-vous analyser un **extrait littéraire** ou un **article de presse** ? Pourquoi ?
+- Quelle est, selon vous, la différence entre **résumer** et **analyser** un texte ?
+- Quels **connecteurs logiques** connaissez-vous pour organiser une argumentation ?
 
 ## 1. Activer
 
-- Préférez-vous extrait littéraire ou article ?
-- Quel auteur vous semble le plus simple à analyser ?
-- 3 axes : intrigue, style, thème ?
+Avant de lire l'extrait, réactivez vos réflexes d'analyse.
+
+- **Anticipation par le titre.** Une nouvelle s'intitule *La Parure* (le bijou, la parure). À quoi vous fait penser ce mot ? Quels thèmes attendez-vous ?
+- **Trois axes de lecture.** Pour tout extrait, on peut se demander : *Que se passe-t-il ?* (intrigue), *Comment est-ce écrit ?* (forme, style), *Quel sens cela produit-il ?* (thème, message).
+- **Vocabulaire de la classe sociale.** Notez trois mots liés à la richesse et trois mots liés à la pauvreté. Vous en aurez besoin.
 
 ## 2. Apporter
 
-### A. 3 axes d'analyse littéraire (épreuve finale (option d'approfondissement))
+### A. Vocabulaire de l'analyse littéraire
 
-| Axe | Question à se poser |
-|-------------|---------------------------------------|
-| **Intrigue**| que se passe-t-il ? |
-| **Forme** | comment c'est écrit (style) ? |
-| **Thème** | quel sens, quel message ? |
+| Terme français | Emploi / définition | Repère allemand |
+|---|---|---|
+| un extrait | une partie d'une œuvre plus longue | *Auszug* |
+| le champ lexical | l'ensemble des mots liés à un même thème | *Wortfeld* |
+| une opposition (antithèse) | deux idées contraires rapprochées | *Gegensatz* |
+| l'ironie | dire le contraire de ce que l'on pense | *Ironie* |
+| le registre | la tonalité du texte (pathétique, comique…) | *Tonlage* |
+| la focalisation | le point de vue narratif adopté | *Erzählperspektive* |
+| une visée critique | l'intention de dénoncer, de critiquer | *kritische Absicht* |
 
-### B. 5 outils d'analyse + leur emploi
+### B. Point de langue — connecteurs pour argumenter
 
-- **Citation directe** entre guillemets *« … »* + ligne.
-- **Repérage** d'une figure (anaphore, oxymore…).
-- **Interprétation** : effet sur le lecteur.
-- **Lien à l'œuvre** : place dans le roman global.
-- **Lien à l'auteur·e** : démarche, biographie.
+{{< callout type="tip" >}}
+**Structurer une expression écrite argumentée.**
 
-### C. Mock 2 — extrait Slimani (texte original, ~600 mots)
+- **Introduire :** *tout d'abord, en premier lieu, d'une part…*
+- **Ajouter :** *de plus, en outre, par ailleurs…*
+- **Opposer :** *cependant, néanmoins, en revanche, pourtant…*
+- **Illustrer :** *par exemple, ainsi, comme le montre la ligne 4…*
+- **Conclure :** *en somme, pour conclure, on peut donc dire que…*
 
-> **Source : *Chanson douce* (Slimani, 2016, ch. 5,
-> extrait, ~500 mots)** :
+**Astuce :** citez toujours brièvement le texte entre guillemets *« … »* et indiquez la ligne, puis **interprétez** l'effet. Une citation sans interprétation ne rapporte pas de points.
+{{< /callout >}}
+
+### C. Texte support (extrait du domaine public)
+
+L'extrait suivant ouvre la nouvelle *La Parure* de Guy de Maupassant, parue en 1884. L'auteur est mort en 1893 : le texte est **libre de droits**.
+
+> *« C'était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d'employés. Elle n'avait pas de dot, pas d'espérances, aucun moyen d'être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l'Instruction publique.*
 >
-> *Louise sourit. Mila la regarde. Mila l'aime. Personne
-> n'avait jamais regardé Mila comme ça, avec autant
-> d'attention, autant de tendresse. Louise sait deviner
-> quand Mila a faim, quand Mila a peur, quand Mila a
-> besoin d'un câlin.*
+> *Elle fut simple, ne pouvant être parée ; mais malheureuse comme une déclassée ; car les femmes n'ont point de caste ni de race, leur beauté, leur grâce et leur charme leur servant de naissance et de famille.*
 >
-> *Louise raconte des histoires. Des histoires de
-> princesses, mais aussi des histoires plus sombres, où il
-> y a des loups, des sorcières, des mères mortes. Mila
-> écoute, fascinée. La nuit, elle fait des cauchemars. Le
-> matin, elle réclame d'autres histoires.*
+> *Elle souffrait sans cesse, se sentant née pour toutes les délicatesses et tous les luxes. Elle souffrait de la pauvreté de son logement, de la misère des murs, de l'usure des sièges, de la laideur des étoffes. »*
 >
-> *Pourtant, derrière le sourire de Louise, il y a quelque
-> chose qui inquiète. Une raideur. Un vide.*
+> — Guy de Maupassant, *La Parure* (1884), incipit. Domaine public.
 
-> **Question 1 (Verstehen, 8 P.)** : Qui sont Louise et
-> Mila ? Que fait Louise ?
->
-> **Question 2 (Analyse, 12 P.)** : Repérez **3 procédés
-> stylistiques** + interprétez le mot *« vide »* à la fin.
->
-> **Question 3 (Expression écrite (« Schreiben »), 10 P.)** : Rédigez un **essai**
-> (~350 mots) : *« Le danger derrière la douceur »* —
-> mobilisez Slimani + 1 autre référence (Camus, Modiano,
-> Despentes).
+### D. Note culturelle
+
+Guy de Maupassant (1850–1893) est l'un des grands auteurs français de nouvelles du XIXe siècle. Proche du courant **réaliste** et influencé par le naturalisme, il peint souvent la société de son temps : la petite bourgeoisie, les employés modestes, la vie de province et la vie parisienne. *La Parure*, publiée d'abord dans un journal en 1884, est célèbre pour sa **chute** (un retournement final inattendu) et pour sa critique de la **vanité** et du désir de paraître au-dessus de sa condition. Ces éléments sont largement documentés et paraphrasés ici d'après l'encyclopédie collaborative Wikipédia (licence CC BY-SA).
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Exercice 1 — Compréhension (G).** Répondez par une phrase complète.
 
-1. Qui sont Louise et Mila ?
-2. Quels types d'histoires Louise raconte-t-elle ?
-3. Que fait Mila la nuit ?
-4. Quel mot inquiétant apparaît à la fin ?
+1. De quel milieu social vient l'héroïne au début du texte ?
+2. Avec qui se marie-t-elle ?
+3. Pourquoi souffre-t-elle en permanence ?
 
-**Ex. 2 — Procédés.** Identifiez 3 procédés dans l'extrait
-(répétition, anaphore, isotopie…).
+**Exercice 2 — Champ lexical (M).** Relevez dans l'extrait **quatre mots ou expressions** appartenant au champ lexical de la **pauvreté / du manque**.
 
-**Ex. 3 — Mini-analyse (3 phrases).** Que signifie
-*« vide »* à la fin ?
+**Exercice 3 — Procédés (M).** Repérez **l'opposition** centrale de l'incipit et expliquez en une phrase l'effet qu'elle produit sur le lecteur.
 
-{{< callout type="tip" title="Solutions" >}}
+**Exercice 4 — Interprétation (E).** En trois phrases, expliquez ce que la première phrase (*« comme par une erreur du destin »*) révèle du **regard du narrateur** sur son personnage.
 
-**Ex. 1.** 1) Louise = nounou, Mila = enfant. 2) Princesses
-+ histoires sombres (loups, sorcières, mères mortes). 3)
-Cauchemars. 4) *« Vide »*.
+### Différenciation
 
-**Ex. 2.** Anaphore : *Mila la regarde. Mila l'aime.*
-Isotopie : *douceur (sourire, tendresse, câlin) vs noirceur
-(loups, sorcières, vide).* Antithèse : *douceur / vide.*
+- **G :** l'exercice 1 peut se faire en repérant les réponses directement dans le texte.
+- **M :** viser des relevés précis et une justification courte.
+- **E :** l'exercice 4 attend une nuance (ironie, distance du narrateur, annonce du thème de la vanité).
 
-**Ex. 3.** Modèle : *Le « vide » est l'élément discordant.
-Il annonce la tragédie : Louise est instable, son sourire
-est masque. Slimani prépare le drame initial du roman (« Le
-bébé est mort »).*
+## Solutions
 
-{{< /callout >}}
+**Exercice 1.**
+1. Elle vient d'une **famille d'employés**, un milieu modeste (« comme par une erreur du destin, dans une famille d'employés »).
+2. Elle se marie avec un **petit commis du ministère de l'Instruction publique**.
+3. Elle souffre parce qu'elle se sent **née pour le luxe** alors qu'elle vit dans la pauvreté (« se sentant née pour toutes les délicatesses et tous les luxes »).
+
+**Exercice 2.** Par exemple : *« pas de dot »*, *« pauvreté de son logement »*, *« misère des murs »*, *« usure des sièges »*, *« laideur des étoffes »* (quatre suffisent).
+
+**Exercice 3.** Opposition entre la **beauté / le charme** de l'héroïne et sa **condition sociale modeste** (« jolies et charmantes filles » / « famille d'employés », « déclassée »). Effet : elle souligne le **décalage** entre ce qu'elle est et ce à quoi elle aspire, et prépare le thème de la frustration et de la vanité.
+
+**Exercice 4.** Modèle : la formule *« comme par une erreur du destin »* montre que le narrateur adopte, avec une **légère ironie**, le point de vue de l'héroïne : celle-ci se croit victime d'une injustice sociale. Le narrateur **prend de la distance** et annonce déjà le thème central — l'illusion et la vanité de vouloir paraître au-dessus de sa condition.
 
 ## 4. Produire
 
-**Mock 2 complet (E, ~270 min) :**
+**Tâche d'expression écrite (à l'écrit, individuel).**
 
-Réalisez le **mock 2** : Verstehen + Analyse stylistique +
-médiation linguistique (« Sprachmittlung »). Auto-évaluation finale.
+Rédigez un texte argumenté d'environ **300 mots** sur le sujet suivant :
+
+> *« Vouloir paraître plus riche que l'on n'est : faiblesse humaine ou moteur social ? »*
+> Appuyez-vous sur l'extrait de Maupassant et sur au moins **un exemple personnel ou d'actualité** (réseaux sociaux, mode, consommation…).
+
+**Critères d'évaluation :**
+
+| Critère | Attendu |
+|---|---|
+| Prise de position | une thèse claire, défendue du début à la fin |
+| Structure | introduction, développement organisé, conclusion |
+| Appui sur le texte | au moins une citation interprétée de l'extrait |
+| Connecteurs | emploi correct de 4 connecteurs logiques différents |
+| Langue | phrases variées, temps maîtrisés, orthographe soignée |
 
 ## 5. Réfléchir
 
-- [ ] Je suis les 3 axes d'analyse littéraire.
-- [ ] J'utilise 5 outils précis.
-- [ ] Je rédige 350 mots argumentés.
+Auto-évaluation — cochez ce qui est acquis :
 
-## Exemple d'épreuve — épreuve finale (option d'approfondissement) (E, 13e)
+- [ ] Je distingue **résumer** et **analyser** un texte.
+- [ ] Je sais **citer** brièvement et **interpréter** la citation.
+- [ ] Je repère un **champ lexical** et une **opposition**.
+- [ ] J'organise mon argumentation avec des **connecteurs logiques**.
+- [ ] Je **relis** ma production et je corrige au moins trois erreurs.
 
-**Verstehen (10 P.)** : extrait littéraire, 5 questions.
-**Analyse (10 P.)** : ~350 mots stylistique.
-**médiation linguistique (10 P.)** : ~280 mots DE → FR.
+## Évaluation
 
-**Total : 30 P.**
+**Épreuve blanche — extrait littéraire (Niveau E, 60 min).**
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+Support : l'incipit de *La Parure* de Maupassant (partie C ci-dessus).
 
-## Pièges fréquents
+**Partie A — Compréhension écrite (12 points)**
 
-- **« Vide »** dans Slimani : mot-clé de l'effacement
- identitaire de Louise.
-- **Antithèse douceur/noirceur** : structure récurrente
- chez Slimani.
-- **« Le bébé est mort »** : connaître l'incipit pour
- contextualiser le ch. 5.
+1. Résumez en deux phrases la situation de l'héroïne au début de la nouvelle. *(4 P.)*
+2. Relevez deux procédés d'écriture (champ lexical, opposition, ironie) et expliquez l'effet de chacun. *(4 P.)*
+3. Le titre est *La Parure*. En quoi l'incipit prépare-t-il déjà le thème de l'apparence et de la vanité ? *(4 P.)*
 
-## Pour aller plus loin
+**Partie B — Expression écrite (18 points)**
 
-- **Leïla Slimani — Gallimard** :
- <https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio>
-- **Académie Goncourt** :
- <https://www.academiegoncourt.com/>
+Rédigez un texte argumenté d'environ **300 mots** :
+> *« Le désir de paraître peut-il conduire au malheur ? »*
+> Reliez l'extrait de Maupassant à votre expérience ou à l'actualité.
+
+| Barème Partie B | Points |
+|---|---|
+| Contenu et pertinence des arguments | 6 |
+| Appui sur le texte (citation interprétée) | 3 |
+| Structure et connecteurs | 4 |
+| Correction de la langue | 5 |
+
+**Total : 30 points.**
+
+## Notes pour l'enseignant·e
+
+**Minutage (45 min) :** Activer 5' · Apporter 12' · S'entraîner 12' · Produire 10' · Réfléchir 3' · Bilan / aperçu de l'épreuve blanche 3'.
+
+**Organisation :** distribuer l'extrait dès l'entrée pour gagner du temps. Le travail de compréhension (S'entraîner) se fait en binômes ; la mise en commun des Solutions se fait au tableau. La tâche d'expression écrite peut être commencée en classe et terminée à la maison, ou traitée intégralement pendant l'épreuve blanche de 60 minutes.
+
+**Différenciation :** pour les groupes G, fournir une amorce d'introduction (« De nos jours, beaucoup de personnes cherchent à… ») et une liste de connecteurs affichée. Pour les groupes E, exiger une nuance dans la thèse et une ouverture en conclusion.
+
+**Correction :** insister sur la distinction résumé / analyse, et sur la règle « citation + interprétation ». Vérifier que les élèves n'inventent pas de suite à l'extrait (rester dans l'incipit fourni).
+
+## Sources
+
+- *La Parure* — Guy de Maupassant (1884). Œuvre du domaine public (auteur mort en 1893). Texte de référence : Wikisource — <https://fr.wikisource.org/wiki/La_Parure> — domaine public.
+- *Guy de Maupassant* — Wikipédia, l'encyclopédie libre. <https://fr.wikipedia.org/wiki/Guy_de_Maupassant> — licence CC BY-SA.
+- *La Parure* (nouvelle) — Wikipédia, l'encyclopédie libre. <https://fr.wikipedia.org/wiki/La_Parure> — licence CC BY-SA.

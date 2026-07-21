@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2333fa6f03aa41a1ac94461e646ad7e5"
 presentation:
-  file: "/fle/materials/presentations/unit07_engagement-citoyen-e.pptx"
+  file: "/fle/materials/presentations/unit07_engagement-citoyen-e.odp"
   thumbnail: "/fle/materials/presentations/unit07_engagement-citoyen-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit07_engagement-citoyen-e.pdf"
@@ -33,137 +33,169 @@ aliases:
 
 ## Objectifs
 
-- Je connais **5 formes d'engagement** des jeunes en France.
-- Je dialogue **10 répliques** sur l'engagement (climat,
- associations, vote).
-- Je rédige une **tribune** d'opinion (~180 mots).
+- Je peux nommer et distinguer **cinq formes d'engagement citoyen** des jeunes en France.
+- Je peux **dialoguer** avec un·e partenaire pour comparer nos façons de nous engager et réagir à ses arguments.
+- Je peux **exprimer une opinion** et la justifier à l'aide de connecteurs argumentatifs et du subjonctif.
+- Je peux **rédiger une tribune** d'opinion structurée (environ 180 mots) sur un sujet d'engagement.
+- Je peux **paraphraser une information** sur le Service Civique et la citer correctement.
 
-## Histoire d'introduction
+## Situation de départ
 
-Anouk rejoint **Fridays for Future Karlsruhe**. Mehdi en
-visite l'interroge : *« En Tunisie, on milite autrement —
-chez vous, comment ça marche ? »* Anouk décrit une marche du
-22 mars.
+*Au foyer du lycée, pendant la pause de midi.*
+
+**Léa :** Tu as vu l'affiche ? Le lycée cherche des volontaires pour le repair café de samedi.
+
+**Karim :** Encore un truc où on donne son temps gratuitement… Franchement, ça sert à quoi ?
+
+**Léa :** À réparer des objets au lieu de les jeter. Et à rencontrer des gens du quartier. Moi, je trouve que c'est utile.
+
+**Karim :** Peut-être. Mais je n'ai pas le temps. Entre les cours et le foot…
+
+**Léa :** Deux heures, Karim. Il suffit que tu viennes une fois pour te faire une idée.
+
+**Questions d'activation :**
+
+- Qui, des deux, semble déjà engagé ? À quoi le voyez-vous ?
+- Quel argument Karim oppose-t-il à l'engagement ? Est-il convaincant ?
+- Et vous : donneriez-vous deux heures pour un repair café ? Pourquoi ?
 
 ## 1. Activer
 
-- Quelle forme d'engagement vous attire ?
-- À 16 ans, peut-on **voter** en France ?
-- Bénévolat : combien d'heures par mois ?
+- Quelle forme d'engagement vous attire le plus : le climat, la solidarité, les droits, la culture ?
+- À quel âge peut-on **voter** aux élections nationales en France ?
+- Combien d'heures par mois seriez-vous prêt·e à consacrer au bénévolat ?
+- Connaissez-vous une association près de chez vous ? Que fait-elle ?
 
 ## 2. Apporter
 
-### A. 5 formes d'engagement (jeunes en FR)
+### A. Vocabulaire de l'engagement
 
-| Forme | Détail |
-|--------------------------|----------------------------------|
-| militer | Fridays for Future, etc. |
-| s'engager dans une asso | Secours pop., Restos du cœur |
-| voter (dès 18 ans) | présidentielles, législatives |
-| service civique | 6-12 mois, 580 € / mois |
-| pétition / consultation | en ligne, mairie, lycée (« Gymnasium ») |
+| Français | Catégorie | Allemand (repère) |
+|-------------------------------|------------------|------------------------------|
+| s'engager (dans une asso) | verbe | sich engagieren |
+| le bénévolat / un·e bénévole | nom / personne | das Ehrenamt / ehrenamtlich |
+| militer / un·e militant·e | verbe / personne | sich einsetzen / Aktivist·in |
+| manifester / une manifestation| verbe / nom | demonstrieren / Demo |
+| une pétition · signer | nom · verbe | Petition · unterschreiben |
+| sensibiliser (le public) | verbe | sensibilisieren |
+| le Service Civique | dispositif | Freiwilligendienst |
+| une association (une « asso ») | nom | Verein |
+| revendiquer un droit | verbe | ein Recht einfordern |
+| le bien commun | nom | das Gemeinwohl |
 
-### B. Verbes pour exprimer l'engagement
+{{< callout type="info" >}}
+**Point de langue — argumenter au subjonctif.** Après une expression d'opinion négative, de volonté ou de nécessité, le verbe se met au **subjonctif** :
 
-- *militer · s'engager · pétitionner · manifester · soutenir
- · sensibiliser · voter · agir · revendiquer · défendre.*
+- Il faut **que** les jeunes **prennent** la parole.
+- Je ne pense pas **qu'**un seul geste **suffise**.
+- Pour **que** les choses **changent**, il faut agir.
 
-### C. Tribune d'Anouk (texte original)
+**Connecteurs pour structurer un argument :** *d'une part… d'autre part · certes… mais · cependant · en effet · par conséquent · enfin.*
+{{< /callout >}}
 
-> **Pourquoi je marche le vendredi**
+### B. Texte original — « Deux heures par semaine » (billet d'opinion)
+
+> **Deux heures par semaine**
 >
-> J'**ai 16 ans** et je marche chaque vendredi avec **Fridays
-> for Future Karlsruhe**. Pourquoi ? Parce que **mon avenir
-> dépend** des décisions politiques d'aujourd'hui.
+> J'ai seize ans et je ne peux pas encore voter. Longtemps, j'ai cru que cela voulait dire que je n'avais aucun pouvoir. Je me trompais.
 >
-> **D'une part**, je ne **vote pas encore** — il faut
-> attendre 18 ans en France comme en Allemagne. Mais
-> **d'autre part**, j'ai une voix : **manifester**, c'est
-> participer.
+> Depuis septembre, je consacre deux heures par semaine à une association de mon quartier : nous aidons des élèves de collège à faire leurs devoirs. Certes, deux heures, ce n'est pas grand-chose. Cependant, pour un enfant qui bloque sur un exercice, cela change tout.
 >
-> Je **soutiens** aussi le Secours Populaire : 4 heures par
-> mois pour distribuer des paniers solidaires. Et je **signe
-> des pétitions** sur change.org.
+> Je ne pense pas qu'un seul bénévole change la société. Mais je suis convaincu que, pour que les choses avancent, il faut que chacun donne un peu de son temps. D'une part, on aide les autres ; d'autre part, on apprend à écouter, à expliquer, à être patient.
 >
-> **Cependant**, je ne suis pas naïve : un seul acte ne
-> change rien. **C'est l'addition** de millions de jeunes
-> qui pèse. Comme **Greta Thunberg** l'a dit : *« No one is
-> too small to make a difference. »*
->
-> **Enfin**, je crois qu'on doit **éduquer** notre famille
-> aussi : mon père n'avait jamais entendu parler du **bilan
-> carbone**. Il en parle maintenant. C'est déjà ça.
+> On me dit parfois : « Tu es trop jeune. » Je réponds : justement, c'est maintenant que je veux prendre l'habitude d'agir.
+
+### C. Note culturelle — le Service Civique
+
+En France, le **Service Civique** est un dispositif d'engagement volontaire créé par une loi de 2010. Il s'adresse aux jeunes d'environ **16 à 25 ans** (et jusqu'à 30 ans en situation de handicap), qui peuvent réaliser une **mission d'intérêt général** de six à douze mois dans des domaines comme la solidarité, l'environnement, la culture ou l'éducation. En contrepartie, le·la volontaire perçoit une **indemnité** mensuelle et n'a pas besoin de diplôme pour candidater : c'est l'envie de s'engager qui compte. *(Information paraphrasée de l'article « Service civique » de Wikipédia en français, CC BY-SA — voir Sources.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Ex. 1 — Compréhension (texte B).** Répondez par une phrase complète.
 
-1. Quel mouvement rejoint Anouk ?
-2. Pourquoi ne vote-t-elle pas encore ?
-3. Quelle association soutient-elle ?
-4. Quelle citation utilise-t-elle ?
+a) Pourquoi l'auteur croyait-il n'avoir « aucun pouvoir » ?
+b) Quelle activité bénévole décrit-il ?
+c) Selon lui, que gagne-t-on en aidant les autres ?
 
-**Ex. 2 — Verbes d'engagement.** Conjuguez :
+**Ex. 2 — Vocabulaire.** Complétez avec un mot de la liste A (militant·e, bénévolat, pétition, sensibiliser, bien commun).
 
-a) Je ___ (militer) chaque vendredi.
-b) Nous ___ (manifester) dans la rue.
-c) Tu ___ (signer) des pétitions.
+a) Elle a signé une ___ contre la fermeture de la bibliothèque.
+b) Le ___ ne rapporte pas d'argent, mais beaucoup d'expérience.
+c) Cette campagne veut ___ les élèves au tri des déchets.
 
-**Ex. 3 — Connecteurs argumentatifs.** Identifiez 4
-connecteurs dans la tribune (texte C).
+**Ex. 3 — Subjonctif.** Mettez le verbe entre parenthèses à la forme correcte.
 
-{{< callout type="tip" title="Solutions" >}}
+a) Il faut que nous ___ (agir) ensemble.
+b) Je ne pense pas qu'un seul geste ___ (suffire).
+c) Pour que la ville ___ (changer), il faut voter.
 
-**Ex. 1.** 1) Fridays for Future Karlsruhe. 2) Pas encore
-18 ans. 3) Secours Populaire (4 h/mois). 4) Greta
-Thunberg : *« No one is too small to make a difference. »*
+**Ex. 4 — Argumenter (production courte).** Réagissez à l'affirmation « Les jeunes ne s'intéressent pas à la politique. » en 3 phrases : une opinion + un connecteur + un exemple.
 
-**Ex. 2.** a) milite · b) manifestons · c) signes.
-
-**Ex. 3.** *D'une part / d'autre part · cependant · enfin*
-(au moins 4).
-
+{{< callout type="tip" >}}
+**Différenciation.** **G :** exercices 1 et 2 avec la liste de mots sous les yeux. **M :** exercices 1 à 3. **E :** les quatre exercices ; à l'Ex. 4, exigez deux connecteurs différents et un verbe au subjonctif.
 {{< /callout >}}
+
+## Solutions
+
+**Ex. 1.** a) Parce qu'il ne peut pas encore voter (il a 16 ans). b) Il aide des élèves de collège à faire leurs devoirs, deux heures par semaine. c) On apprend à écouter, à expliquer et à être patient (réponses proches acceptées).
+
+**Ex. 2.** a) pétition · b) bénévolat · c) sensibiliser.
+
+**Ex. 3.** a) agissions · b) suffise · c) change.
+
+**Ex. 4.** Réponse libre. Exemple : « Je ne suis pas d'accord. En effet, beaucoup de jeunes militent pour le climat ; par exemple, ma sœur participe chaque mois à un nettoyage de la forêt. »
 
 ## 4. Produire
 
-**Tâche d'écriture (E, ~180 mots) :**
+**Tâche d'écriture (Niveau E, environ 180 mots) — une tribune.**
 
-Rédigez **votre tribune** sur un sujet d'engagement
-(climat, harcèlement, mémoire, droits LGBT) : 4 § + 6
-connecteurs + 5 verbes d'engagement + 1 citation.
+Rédigez une **tribune d'opinion** sur un sujet d'engagement de votre choix (climat, solidarité, harcèlement, droits, culture). Structurez votre texte en **quatre paragraphes** : une accroche, deux arguments, une conclusion qui appelle à agir.
+
+**Critères d'évaluation :**
+
+| Critère | Attendu |
+|-------------------------------|--------------------------------|
+| Structure | 4 paragraphes clairs |
+| Connecteurs argumentatifs | au moins 5, variés |
+| Subjonctif | au moins 1 emploi correct |
+| Vocabulaire de l'engagement | au moins 5 termes de la liste A |
+| Prise de position | opinion nette + appel à agir |
 
 ## 5. Réfléchir
 
-- [ ] Je connais 5 formes d'engagement.
-- [ ] J'utilise 6 verbes d'engagement.
-- [ ] Je rédige une tribune de 180 mots.
+- [ ] Je peux nommer cinq formes d'engagement des jeunes.
+- [ ] Je peux dialoguer et réagir aux arguments d'un·e partenaire.
+- [ ] J'emploie correctement le subjonctif après une expression d'opinion ou de nécessité.
+- [ ] J'utilise au moins cinq connecteurs argumentatifs.
+- [ ] Je peux rédiger une tribune structurée d'environ 180 mots.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+## Évaluation
 
-**Tâche 1 — Lecture (10 P.)** : tribune Anouk, 5 questions.
-**Tâche 2 — Verbes (8 P.)** : 4 conjugaisons d'engagement.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre tribune (~180 mots).
+**Épreuve — interaction orale et expression écrite (30 points).**
 
-**Total : 30 P.**
+**Partie A — Dialogue (sprechen_dialog, 14 pts).** En binôme, jouez une scène de 8 à 10 répliques : l'un·e propose de rejoindre une action citoyenne (bénévolat, pétition, manifestation), l'autre hésite. Chacun·e défend son point de vue, puis vous parvenez à une décision commune.
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+- Contenu et pertinence des arguments : 5 pts
+- Interaction (relancer, réagir, convaincre) : 5 pts
+- Correction de la langue et vocabulaire de l'engagement : 4 pts
 
-## Pièges fréquents
+**Partie B — Expression écrite (schreiben, 16 pts).** Rédigez une tribune d'opinion (environ 180 mots) sur un sujet d'engagement citoyen.
 
-- **« Militer »** ≠ *manifester* : militer = engagement
- durable ; manifester = défiler dans la rue.
-- **Vote à 18 ans** en France et en Allemagne ; certaines
- élections municipales (DE) à 16 ans (Brandenburg, NRW…).
-- **« Tribune »** = texte d'opinion signé dans un journal,
- ≠ *éditorial* (signé par la rédaction).
+- Structure et cohérence (4 paragraphes, connecteurs) : 6 pts
+- Richesse du vocabulaire et emploi du subjonctif : 5 pts
+- Correction grammaticale et orthographe : 5 pts
 
-## Pour aller plus loin
+**Total : 30 points.**
 
-- **Service Civique (FR)** :
- <https://www.service-civique.gouv.fr/>
-- **Fridays for Future Deutschland** :
- <https://fridaysforfuture.de/>
+## Notes pour l'enseignant·e
+
+**Déroulé (45 min).** Activer 5' · Apporter 13' · S'entraîner 12' · Produire 11' · Réfléchir 2' · Consignes pour la suite 2'.
+
+**Organisation.** La situation de départ se lit à deux voix (deux élèves ou l'enseignant·e + un·e élève). Le point de langue sur le subjonctif peut être projeté depuis la présentation. Les exercices 1 à 3 se corrigent en classe entière ; l'Ex. 4 se prépare en binôme.
+
+**Différenciation.** Voir l'encadré du § 3. Pour la tâche de production, proposez aux groupes G une trame de paragraphes (accroche / argument 1 / argument 2 / appel), et laissez les groupes E travailler sans support. La partie orale de l'évaluation peut être enregistrée pour une auto-évaluation.
+
+## Sources
+
+- « Service civique » — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Service_civique>, licence CC BY-SA 4.0.
+- « Le Service Civique » — Agence du Service Civique (site officiel), <https://www.service-civique.gouv.fr/>, source institutionnelle (données paraphrasées, non citées textuellement).

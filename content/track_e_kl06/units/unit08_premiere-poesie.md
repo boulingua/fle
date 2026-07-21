@@ -14,7 +14,7 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1cc72e861eb34259885839f78065b5eb"
 presentation:
-  file: "/fle/materials/presentations/unit08_premiere-poesie.pptx"
+  file: "/fle/materials/presentations/unit08_premiere-poesie.odp"
   thumbnail: "/fle/materials/presentations/unit08_premiere-poesie.png"
 worksheet:
   file: "/fle/materials/worksheets/unit08_premiere-poesie.pdf"
@@ -33,123 +33,226 @@ aliases:
 
 ## Objectifs
 
-- Je découvre **Jacques Prévert** (1900-1977) et son style.
-- Je lis et **récite** un poème simple.
-- J'écris un **petit poème** *« à la manière de »*.
+- Je peux **lire à voix haute** un poème court et simple avec le bon rythme.
+- Je peux **repérer** les vers, les strophes et les rimes d'un poème (compétence textuelle).
+- Je peux **comprendre** les idées et les images principales d'un poème simple (compréhension écrite).
+- Je peux **dire** si un poème est gai ou triste et **expliquer** pourquoi avec des mots simples.
+- Je peux **écrire** quelques vers *« à la manière de »*.
 
-## Histoire d'introduction
+## Situation de départ
 
-Mme Devos lit *« Le Cancre »* à voix haute. Anouk : *« C'est
-beau et triste à la fois. »* — *« C'est ça, Prévert : simple,
-mais profond. »*
+Dans la classe de 6e, M. Simon ouvre un livre.
+
+— *« Aujourd'hui, on ne fait pas de grammaire. On écoute un poème. »*
+— *« Un poème, c'est difficile ? »* demande Léa.
+— *« Non. Écoute juste les sons »*, répond M. Simon.
+
+Il lit lentement. La classe se tait. À la fin, Léa dit tout bas : *« C'est doux… on dirait de la musique. »*
+
+**Pour commencer :**
+
+- Quel dernier poème as-tu lu ou entendu (en français ou en allemand) ?
+- Pour toi, un poème, c'est plutôt **la musique des mots** ou **une histoire** ?
+- Aimes-tu lire à voix haute ? Pourquoi ?
 
 ## 1. Activer
 
-- Connaissez-vous des poètes français ou allemands ?
-- Aimez-vous lire à voix haute ?
-- Qu'est-ce qu'une poésie selon vous ?
+- Connais-tu des poètes français ou allemands ? Cite un nom.
+- Quels mots te font penser à la poésie ? (rime, vers, chanson, rythme…)
+- Une **chanson**, est-ce un poème ? Discute avec ton voisin.
+- Quelle saison te semble la plus « poétique » : le printemps, l'été, l'automne ou l'hiver ?
 
 ## 2. Apporter
 
-### A. Jacques Prévert en 3 dates
+### A. Vocabulaire de la poésie
 
-- **1900** : naissance à Neuilly-sur-Seine.
-- **1946** : *Paroles*, recueil culte.
-- **1977** : mort en Normandie.
+| Français | Nature | Sens (allemand) |
+|---|---|---|
+| un poème | nom (m.) | ein Gedicht |
+| un vers | nom (m.) | eine Verszeile |
+| une strophe | nom (f.) | eine Strophe |
+| une rime | nom (f.) | ein Reim |
+| un poète / une poète | nom | ein·e Dichter·in |
+| le rythme | nom (m.) | der Rhythmus |
+| la musicalité | nom (f.) | der Wohlklang |
+| une image | nom (f.) | ein (sprachliches) Bild |
+| réciter | verbe | aufsagen, rezitieren |
+| doux / douce | adjectif | sanft, weich |
 
-### B. Son style
+{{< callout type="info" >}}
+**Point de langue — la rime**
 
-- **Mots simples** du quotidien.
-- **Énumérations** (listes).
-- **Humour** + **engagement** (anti-guerre, anti-école).
+Deux vers **riment** quand ils se terminent par le **même son**.
 
-### C. *Le Cancre* — Jacques Prévert (extrait, texte original)
+- **Rimes plates** (AABB) : deux vers qui riment se suivent.
+- **Rimes croisées** (ABAB) : un vers sur deux rime.
+- **Rimes embrassées** (ABBA) : deux rimes encadrent une autre paire.
 
-> Il dit non avec la tête
-> mais il dit oui avec le cœur
-> il dit oui à ce qu'il aime
-> il dit non au professeur
-> il est debout
-> on le questionne
-> et tous les problèmes sont posés
-> soudain le fou rire le prend
-> et il efface tout
-> les chiffres et les mots
-> les dates et les noms
-> les phrases et les pièges
-> et malgré les menaces du maître
-> sous les huées des enfants prodiges
-> avec des craies de toutes les couleurs
-> sur le tableau noir du malheur
-> il dessine le visage du bonheur.
+Attention : on écoute le **son**, pas seulement les lettres.
+Ex. : *loup* et *joue* ne riment pas ; *matin* et *jardin* riment (son **[ɛ̃]**).
+{{< /callout >}}
+
+### B. Un poème du patrimoine — Paul Verlaine
+
+Paul **Verlaine** (1844-1896) est un grand poète français. Il aime les **sons doux** et la **musique** des mots. Voici le début de son poème *« Chanson d'automne »* (recueil *Poèmes saturniens*, 1866 — **domaine public**).
+
+> Les sanglots longs
+> Des violons
+> De l'automne
+> Blessent mon cœur
+> D'une langueur
+> Monotone.
+>
+> Tout suffocant
+> Et blême, quand
+> Sonne l'heure,
+> Je me souviens
+> Des jours anciens
+> Et je pleure ;
+
+*— Paul Verlaine, « Chanson d'automne » (1866), Poèmes saturniens.*
+
+Ce poème est **triste** et **musical** : les vers sont très courts et les sons se répètent doucement, comme une chanson lente.
+
+### C. Un exemple « à la manière de » (texte original)
+
+Pour montrer qu'on peut écrire simplement, voici quelques vers **originaux**, faciles à imiter :
+
+> La pluie du soir
+> tombe sans bruit
+> sur mon cahier ;
+> je ferme les yeux,
+> j'écoute la nuit
+> et je souris.
+
+Mots simples, vers courts, une image (*« j'écoute la nuit »*) : c'est déjà de la poésie.
+
+### D. Note culturelle
+
+Les premiers vers de *« Chanson d'automne »* sont devenus célèbres bien au-delà des livres. En **juin 1944**, la radio *Radio Londres* les a diffusés comme **message codé** vers la Résistance française, pour annoncer le début imminent du Débarquement. Un poème très doux a ainsi joué un rôle dans l'Histoire.
+*(D'après Wikipédia, article « Chanson d'automne », CC BY-SA 4.0.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Ex. 1 — Compréhension (texte B, Verlaine).**
 
-1. Que dit le cancre avec la tête ?
-2. Et avec le cœur ?
-3. Que fait-il à la fin ?
-4. Que symbolise *« le visage du bonheur »* ?
+1. Quelle **saison** est décrite dans le poème ?
+2. Quel **instrument de musique** est nommé ?
+3. Le poète est-il **gai** ou **triste** ?
+4. Relève **un mot** qui montre ce sentiment.
 
-**Ex. 2 — Vocabulaire poétique.**
+**Ex. 2 — Vocabulaire.** Associe chaque mot à sa définition.
 
-a) un cancre · b) un fou rire · c) une menace · d) un piège.
+1. un vers · 2. une strophe · 3. une rime · 4. réciter
 
-**Ex. 3 — Repérer.** Quelles **énumérations** trouvez-vous dans
-le poème ? (3 listes au moins.)
+a) dire un poème à voix haute — b) une ligne d'un poème — c) un groupe de vers — d) le même son à la fin de deux vers.
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 3 — Repérer les rimes (1re strophe de Verlaine).**
+Les six vers sont : *longs · violons · automne · cœur · langueur · monotone.*
+Quels vers riment ensemble ? Écris le **schéma** (A, B…).
 
-**Ex. 1.** 1) Non. 2) Oui. 3) Il efface tout et dessine le
-visage du bonheur. 4) La liberté, la joie, la rébellion contre
-l'école stricte.
+**Ex. 4 — Écriture guidée.** Complète ces vers originaux avec le mot de la liste qui **rime** (liste : *nuit · content · froid · soleil*).
 
-**Ex. 2.** a) Mauvais élève. b) Rire incontrôlable. c) Avertissement
-inquiétant. d) Question/situation difficile et dangereuse.
+> Le matin, je vois le ___(1)___ ,
+> Il fait un peu ___(2)___ ;
+> Mais dans mon cœur, je suis ___(3)___ ,
+> Et je pense à cette ___(4)___ .
 
-**Ex. 3.** *les chiffres et les mots / les dates et les noms /
-les phrases et les pièges* (3 paires) ; *des craies de toutes
-les couleurs*.
-
+{{< callout type="tip" >}}
+**Différenciation.**
+**G** (base) : Ex. 1 et Ex. 2 seulement ; le mot-réponse est déjà souligné dans le poème.
+**M** : les 4 exercices ; pour Ex. 4, la liste de mots est donnée.
+**E** (renforcé) : Ex. 4 **sans** la liste (trouve tes propres mots qui riment) + explique en une phrase pourquoi *« Chanson d'automne »* ressemble à une chanson.
 {{< /callout >}}
+
+## Solutions
+
+**Ex. 1.** 1) L'automne. 2) Les violons. 3) Triste. 4) Au choix : *sanglots*, *blessent*, *langueur*, *monotone*, *je pleure*.
+
+**Ex. 2.** 1-b · 2-c · 3-d · 4-a.
+
+**Ex. 3.** *longs / violons* riment (son **[ɔ̃]**) → A A ; *automne / monotone* riment (son **[ɔn]**) → B … B ; *cœur / langueur* riment (son **[œʁ]**) → C C. Schéma : **A A B C C B** (rimes embrassées autour de la strophe).
+
+**Ex. 4.** (1) **soleil** — (2) **froid** — (3) **content** — (4) **nuit**. (Rimes : *froid/content* est une rime approchée ; *soleil/nuit* ne riment pas entre eux mais ferment le sens — accepter toute justification correcte des paires *froid–content* comme rime à l'oreille : son **[ɑ̃]** pour *content*, à comparer à d'autres choix des élèves E.)
 
 ## 4. Produire
 
-**Tâche d'écriture (E, ~50 mots) :**
+**Tâche d'écriture (E, ~40-50 mots).**
 
-Écrivez un **petit poème** *« à la manière de Prévert »* (8-10
-vers libres, mots simples, 1 énumération de 3 éléments). Sujet
-au choix : l'école, l'amitié, la pluie, un animal.
+Écris un **petit poème** de **6 vers courts** sur une **saison** ou la **météo** (la pluie, la neige, le soleil…). Consignes :
+
+- des **mots simples** ;
+- au moins **une paire de rimes** ;
+- au moins **une image** (ex. *« la nuit chante »*).
+
+Puis **récite** ton poème à voix basse à ton voisin.
+
+{{< callout type="note" >}}
+**Critères d'évaluation (production)**
+
+| Critère | Réussi |
+|---|---|
+| 6 vers courts | ☐ |
+| Sujet respecté (saison / météo) | ☐ |
+| Au moins une paire de rimes | ☐ |
+| Au moins une image | ☐ |
+| Lecture à voix haute claire | ☐ |
+{{< /callout >}}
 
 ## 5. Réfléchir
 
-- [ ] Je connais Prévert + 3 dates.
-- [ ] Je récite un poème.
-- [ ] J'écris un petit poème à la manière de Prévert.
+- [ ] Je connais les mots : *vers, strophe, rime, poète*.
+- [ ] Je sais repérer les rimes d'un poème court.
+- [ ] Je comprends si un poème est gai ou triste et je peux le dire.
+- [ ] J'ai écrit un petit poème avec au moins une rime.
+- [ ] J'ai lu un poème à voix haute.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+## Évaluation
 
-**Tâche 1 — Lecture (10 P.)** : *Le Cancre*, 5 questions.
-**Tâche 2 — Vocabulaire (8 P.)** : 6 mots du poème.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre poème (~50 mots).
+**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+
+Lis ce court poème **original**, puis réponds.
+
+> Il pleut ce matin sur la ville,
+> les rues brillent, l'eau tranquille ;
+> un enfant court sous son parapluie,
+> et rit tout seul dans la pluie.
+> Il saute dans une grande flaque,
+> son chien joyeux le suit et claque.
+
+**Tâche 1 — Compréhension écrite (« Leseverstehen », 10 P.)**
+1. Quel temps fait-il ? (2 P.)
+2. Que fait l'enfant ? Donne deux actions. (4 P.)
+3. Qui accompagne l'enfant ? (2 P.)
+4. Le poème est-il gai ou triste ? Justifie en une phrase. (2 P.)
+
+**Tâche 2 — Compétence textuelle et médiatique (8 P.)**
+5. Combien y a-t-il de vers ? (2 P.)
+6. Relève **deux paires de mots qui riment**. (4 P.)
+7. Le schéma des rimes est-il **plat (AABB)** ou **croisé (ABAB)** ? (2 P.)
+
+**Tâche 3 — Expression écrite (« Schreiben », 12 P.)**
+8. Écris **4 à 6 vers** sur ton animal préféré ou une saison, avec **au moins une paire de rimes** et **une image**. (12 P.)
 
 **Total : 30 P.**
 
-<div class="notes">
-**Plan (45 min) :** Activer 3' · Apporter 11' · Lecture à voix
-haute 5' · S'entraîner 13' · Produire 11' · Réfléchir 2'.
-</div>
+**Barème indicatif :** 28-30 → très bien · 23-27 → bien · 18-22 → satisfaisant · 13-17 → passable · < 13 → à revoir.
 
-## Pièges fréquents
+## Notes pour l'enseignant·e
 
-- **« Cancre »** = mauvais élève (terme un peu daté, mais clé
- du poème).
-- **Vers libres** = pas de rimes obligatoires.
-- **Prévert** se prononce *« Pré-vère »* (le t final est muet).
+**Plan (45 min).** Situation + Activer 5' · Apporter (vocabulaire, point de langue, lecture Verlaine, note culturelle) 13' · Lecture à voix haute guidée 5' · S'entraîner 12' · Produire 8' · Réfléchir 2'.
 
-## Pour aller plus loin
+**Organisation.** Lire *« Chanson d'automne »* deux fois : d'abord pour le son (yeux fermés), ensuite pour le sens. Faire chuchoter la strophe en chœur pour sentir le rythme. Le repérage des rimes se fait **à l'oreille** avant l'écrit.
 
-- **Recueil *Paroles* (1946)** — Gallimard.
-- **France Culture — Prévert** :
- <https://www.radiofrance.fr/franceculture/>
+**Différenciation.** G : rester sur Ex. 1-2, réponses soulignées ; M : parcours complet avec listes-support ; E : Ex. 4 sans liste + justification écrite ; pour la production, proposer aux E une contrainte supplémentaire (rimes plates AABB sur 4 vers).
+
+**Vigilance.** Insister sur la règle *« on écoute le son, pas les lettres »*. Jacques Prévert peut être **cité comme référence** (poète du quotidien, recueil *Paroles*, 1946), mais ses poèmes sont **encore sous droits** : ne pas les photocopier ni les reproduire ; travailler sur Verlaine (domaine public) et sur des vers originaux.
+
+## Sources
+
+- *« Chanson d'automne » (texte)* — Paul Verlaine (1866), Poèmes saturniens, via Wikisource, <https://fr.wikisource.org/wiki/Chanson_d%27automne> — **domaine public**.
+- *Article « Chanson d'automne »* — Wikipédia (consulté 2026), <https://fr.wikipedia.org/wiki/Chanson_d%27automne> — **CC BY-SA 4.0**.
+- *Article « Paul Verlaine »* — Wikipédia (consulté 2026), <https://fr.wikipedia.org/wiki/Paul_Verlaine> — **CC BY-SA 4.0**.
+- *Article « Rime »* — Wikipédia (consulté 2026), <https://fr.wikipedia.org/wiki/Rime> — **CC BY-SA 4.0**.
+
+*Poème « Il pleut ce matin » et vers d'exemple : textes originaux de l'auteur de l'unité. Plateforme indépendante, sans affiliation avec les éditeurs ou ayants droit cités.*

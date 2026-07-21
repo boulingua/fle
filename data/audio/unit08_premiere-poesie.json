@@ -1,0 +1,27 @@
+[
+ {
+  "file": "/fle/materials/audio/unit08_premiere-poesie/vocab1.ogg",
+  "label": "Vocabulaire 1",
+  "transcript": "un poème · un vers · une strophe · une rime · un poète / une poète · le rythme · la musicalité · une image · réciter · doux / douce"
+ },
+ {
+  "file": "/fle/materials/audio/unit08_premiere-poesie/texte1.ogg",
+  "label": "Texte 1",
+  "transcript": "Les sanglots longs\nDes violons\nDe l'automne\nBlessent mon cœur\nD'une langueur\nMonotone.\nTout suffocant\nEt blême, quand\nSonne l'heure,\nJe me souviens\nDes jours anciens\nEt je pleure ;"
+ },
+ {
+  "file": "/fle/materials/audio/unit08_premiere-poesie/texte2.ogg",
+  "label": "Texte 2",
+  "transcript": "Le matin, je vois le ___(1)___ ,\nIl fait un peu ___(2)___ ;\nMais dans mon cœur, je suis ___(3)___ ,\nEt je pense à cette ___(4)___ ."
+ },
+ {
+  "file": "/fle/materials/audio/unit08_premiere-poesie/vocab2.ogg",
+  "label": "Vocabulaire 2",
+  "transcript": "6 vers courts · Sujet respecté (saison / météo) · Au moins une paire de rimes · Au moins une image · Lecture à voix haute claire"
+ },
+ {
+  "file": "/fle/materials/audio/unit08_premiere-poesie/texte3.ogg",
+  "label": "Texte 3",
+  "transcript": "Il pleut ce matin sur la ville,\nles rues brillent, l'eau tranquille ;\nun enfant court sous son parapluie,\net rit tout seul dans la pluie.\nIl saute dans une grande flaque,\nson chien joyeux le suit et claque."
+ }
+]

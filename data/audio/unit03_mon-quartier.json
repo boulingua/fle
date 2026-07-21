@@ -1,0 +1,17 @@
+[
+ {
+  "file": "/fle/materials/audio/unit03_mon-quartier/dialogue1.ogg",
+  "label": "Dialogue 1",
+  "transcript": "Léa : Bienvenue ! Ici, à gauche, c'est la boulangerie. On y achète le pain tous les matins.\nInès : Et ce grand bâtiment, en face, c'est quoi ?\nLéa : C'est la mairie. À côté, il y a la poste. La bibliothèque est juste derrière.\nInès : Super ! Et pour prendre le bus, c'est loin ?\nLéa : Non, l'arrêt est au coin de la rue, devant la pharmacie. Tout est près d'ici !"
+ },
+ {
+  "file": "/fle/materials/audio/unit03_mon-quartier/vocab1.ogg",
+  "label": "Vocabulaire 1",
+  "transcript": "la boulangerie · la pharmacie · le supermarché · la poste · la banque · le café · le parc · la bibliothèque · l'arrêt de bus · la mairie"
+ },
+ {
+  "file": "/fle/materials/audio/unit03_mon-quartier/texte1.ogg",
+  "label": "Texte 1",
+  "transcript": "J'habite dans un petit quartier à Karlsruhe. À côté de chez moi, il y a\nla boulangerie d'Hugo — son pain au chocolat est le meilleur du quartier !\nEn face, on trouve la pharmacie. Au coin de la rue, il y a un café avec\nune grande terrasse. Le parc est juste derrière la bibliothèque, à cinq\nminutes à pied. L'arrêt de bus n°3 est devant la mairie. Le samedi, il y\na un petit marché sur la place. J'aime beaucoup mon quartier : tout est\nprès et on connaît les voisins !"
+ }
+]

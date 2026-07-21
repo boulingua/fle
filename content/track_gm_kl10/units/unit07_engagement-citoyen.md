@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2fa48f05cdf24373b0601de6ecd67d0a"
 presentation:
-  file: "/fle/materials/presentations/unit07_engagement-citoyen.pptx"
+  file: "/fle/materials/presentations/unit07_engagement-citoyen.odp"
   thumbnail: "/fle/materials/presentations/unit07_engagement-citoyen.png"
 worksheet:
   file: "/fle/materials/worksheets/unit07_engagement-citoyen.pdf"
@@ -33,138 +33,245 @@ aliases:
 
 ## Objectifs
 
-- Je nomme **5 formes** d'engagement citoyen.
-- Je connais **les Greta Thunberg, Bilal Hassani, Hugo Travers**.
-- Je rédige une **tribune** de 200 mots.
+- Je peux **nommer plusieurs formes** d'engagement citoyen des jeunes.
+- Je peux **justifier une opinion** avec des connecteurs de cause et de but.
+- Je peux **participer à un débat** court et réagir aux arguments des autres.
+- Je peux **rédiger une lettre de motivation** courte pour rejoindre un projet.
 
-## Histoire d'introduction
+## Situation de départ
 
-Mlle Lefèvre montre un reportage : *« Ces jeunes manifestent
-chaque vendredi pour le climat. »* Léa : *« Ça change quelque
-chose ? »* — *« Au moins, ça met le sujet sur la table — c'est
-déjà un engagement. »*
+Au foyer du lycée, deux affiches sont côte à côte. Sur la première :
+*« Nettoyage du parc — samedi 10 h, rejoins-nous ! »*. Sur la seconde :
+*« Réunion du conseil des élèves — jeudi 13 h »*.
+
+> **Nour :** Tu viens samedi ? On ramasse les déchets au parc.
+> **Théo :** Bof… un samedi matin ? Pour quoi faire, franchement ?
+> **Nour :** Parce que le parc est sale et que personne ne le fait.
+> Et puis, c'est sympa : on est une équipe.
+> **Théo :** Mouais. Et ça change vraiment quelque chose ?
+> **Nour :** Un peu, oui. Et surtout, ça montre qu'on ne reste pas
+> les bras croisés.
+
+**Pour commencer :**
+
+- Qui, des deux, est déjà engagé ? À quoi le voit-on ?
+- Quel argument de Nour te semble le plus convaincant ?
+- Et toi, tu répondrais quoi à la place de Théo ?
 
 ## 1. Activer
 
-- Vous engagez-vous pour une cause ?
-- Connaissez-vous des associations pour les jeunes ?
-- Que pensez-vous des **grèves scolaires** pour le climat ?
+- Fais-tu partie d'un club, d'une association ou d'une équipe ?
+- Cite une action concrète qu'un·e jeune peut mener pour sa ville.
+- À ton avis, pourquoi certains jeunes s'engagent-ils et d'autres non ?
+- Termine la phrase à l'oral : *« Je m'engagerais volontiers pour… parce que… »*
 
 ## 2. Apporter
 
-### A. 5 formes d'engagement
+### A. Vocabulaire — l'engagement citoyen
 
-| Forme | Allemand |
-|---------------------|--------------------------------|
-| le bénévolat | das Ehrenamt |
-| la pétition | die Petition |
-| la manifestation | die Demonstration |
-| le boycott | der Boykott |
-| l'association | der Verein |
+| Français | Allemand |
+|-----------------------------|-----------------------------------|
+| le bénévolat | das Ehrenamt / die Freiwilligenarbeit |
+| une association | der Verein |
+| un·e bénévole | ehrenamtlich Tätige·r |
+| une pétition | die Petition |
+| une manifestation | die Demonstration |
+| s'engager (pour) | sich engagieren (für) |
+| une cause | eine Sache / ein Anliegen |
+| défendre (une idée) | (eine Idee) vertreten |
+| soutenir un projet | ein Projekt unterstützen |
+| avoir un impact | eine Wirkung haben |
 
-### B. 3 jeunes engagés (FR)
+### B. Point de langue — justifier
 
-- **Hugo Travers** (HugoDécrypte) : info pour les jeunes,
- YouTube/Insta — 4 millions d'abonnés.
-- **Bilal Hassani** (chanteur) : visibilité LGBTQ+ et liberté
- d'expression.
-- **Camille Étienne** : militante climat, autrice de
- *« Pour un soulèvement écologique »* (2023).
+{{< callout type="info" >}}
+**Donner une raison (la cause) :**
 
-### C. Tribune (texte original — extrait)
+- **parce que** + phrase : *Je m'engage **parce que** le climat me concerne.*
+- **car** + phrase (registre plus soutenu, écrit) : *…, **car** c'est important.*
+- **comme** + phrase (en début de phrase) : ***Comme** je suis motivé, je participe.*
+- **grâce à** + nom (cause positive) : ***Grâce à** l'association, j'ai des amis.*
+- **à cause de** + nom (cause négative) : ***À cause de** la pollution, j'agis.*
 
-> **« Pourquoi je manifeste pour le climat — par Léa, 16 ans »**
+**Donner un but :**
+
+- **pour** + infinitif : *Je manifeste **pour** protéger la nature.*
+- **afin de** + infinitif (soutenu) : *…, **afin d'**alerter les adultes.*
+
+Attention : après **pour** et **afin de**, on met un **infinitif**, jamais
+« que + subjonctif » ici.
+{{< /callout >}}
+
+### C. Texte original — « Deux heures par semaine »
+
+> Camille a seize ans. Chaque mercredi, après les cours, elle rejoint
+> une petite association de son quartier qui aide des enfants à faire
+> leurs devoirs.
 >
-> Vendredi, à 11h, je serai dans la rue avec d'autres élèves.
-> Pas pour manquer les cours. Pour exiger des actes.
+> « Au début, je venais surtout pour remplir mon dossier, avoue-t-elle
+> en riant. Mais maintenant, j'y vais parce que ça me plaît vraiment.
+> Les enfants m'attendent, et moi aussi je les attends. »
 >
-> **D'abord**, parce que la science est claire : le rapport
-> du GIEC 2024 est sans appel. Sans mesures fortes d'ici
-> 2030, c'est notre génération qui paiera.
->
-> **Ensuite**, parce que voter ne suffit plus. À 16 ans, je
-> n'ai pas encore le droit de vote. Mais j'ai le droit de
-> manifester, de pétitionner, de dire non.
->
-> **Enfin**, parce que se taire, c'est consentir. Mon
-> engagement n'est pas politique : il est vital.
->
-> Léa Schmitt, 10ᵉ, Karlsruhe.
+> Deux heures par semaine, ce n'est pas énorme. Pourtant, grâce à ce
+> petit geste régulier, Camille a compris quelque chose : on n'a pas
+> besoin d'être adulte, ni d'avoir de l'argent, pour être utile.
+> « Il suffit d'un peu de temps et d'envie », résume-t-elle.
+
+### D. Repère culturel — le Service civique
+
+En France, un dispositif appelé le **Service civique** permet à des
+jeunes de s'engager de façon encadrée. Créé par une loi de 2010, il
+s'adresse en principe aux 16-25 ans (jusqu'à 30 ans en situation de
+handicap). Il s'agit d'une **mission d'intérêt général** — par exemple
+dans l'environnement, la solidarité ou l'éducation — d'une durée de
+plusieurs mois, contre une indemnité mensuelle. L'idée centrale :
+donner à chacun·e la possibilité d'être utile, sans diplôme exigé.
+*(Paraphrasé de l'article « Service civique », Wikipédia, CC BY-SA.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Exercice 1 — Compréhension du texte C (niveau G).**
+Réponds par une phrase complète.
 
-1. Pourquoi Léa manifeste-t-elle ?
-2. Quel rapport cite-t-elle ?
-3. Quel droit n'a-t-elle pas encore ?
-4. Quelle phrase résume sa position ?
+1. Quel jour Camille est-elle bénévole ?
+2. Que fait l'association ?
+3. Pourquoi vient-elle **maintenant** ?
+4. Selon elle, que faut-il pour être utile ?
 
-**Ex. 2 — Vocabulaire.** Définition simple :
+**Exercice 2 — Vocabulaire (niveau G/M).**
+Relie chaque mot à sa définition.
 
-a) le bénévolat · b) une pétition · c) un boycott ·
-d) une association.
+a) le bénévolat — b) une pétition — c) une association —
+d) un·e bénévole
 
-**Ex. 3 — Pour ou contre ?**
+1. Un texte signé par plusieurs personnes pour demander un changement.
+2. Une personne qui aide sans être payée.
+3. Un groupement à but non lucratif.
+4. Un travail volontaire et non rémunéré.
 
-Sujet : *« Faut-il abaisser le droit de vote à 16 ans ? »*.
-Donnez **2 arguments pour** + **2 contre**.
+**Exercice 3 — Cause ou but ? (niveau M).**
+Complète avec **parce que**, **pour**, **grâce à** ou **à cause de**.
 
-{{< callout type="tip" title="Solutions" >}}
+1. J'ai rejoint le club ______ mes amis y étaient déjà.
+2. Nous ramassons les déchets ______ protéger le parc.
+3. ______ la pluie, la manifestation a été reportée.
+4. Il s'engage ______ il veut aider les autres.
 
-**Ex. 1.** 1) Pour exiger des actes climat. 2) GIEC 2024.
-3) Le droit de vote (16 ans). 4) « Mon engagement n'est pas
-politique : il est vital. »
+**Exercice 4 — Production courte (niveau M/E).**
+Écris **deux phrases** pour justifier ton choix : une avec un
+connecteur de **cause**, une avec un connecteur de **but**.
+Sujet : *« Une cause pour laquelle je m'engagerais. »*
 
-**Ex. 2.** a) Travail volontaire non rémunéré. b) Document
-signé par plusieurs personnes pour demander un changement.
-c) Refus collectif d'acheter / utiliser. d) Groupement à but
-non lucratif.
-
-**Ex. 3.** Pour : maturité politique précoce, jeunes concernés
-par climat. Contre : maturité variable, peu d'expérience civique.
-
+{{< callout type="tip" >}}
+**Différenciation.** G : Ex. 1 et 2 seulement. M : Ex. 1 à 3, puis
+2 phrases à l'Ex. 4. E : Ex. 3 et 4, puis rédige un mini-paragraphe
+de 4 phrases avec au moins 3 connecteurs différents.
 {{< /callout >}}
+
+## Solutions
+
+**Exercice 1.**
+1. Elle est bénévole **chaque mercredi**, après les cours.
+2. Elle **aide des enfants à faire leurs devoirs**.
+3. Parce que **ça lui plaît vraiment / les enfants l'attendent**.
+4. Il faut **un peu de temps et d'envie** (pas besoin d'être adulte
+   ni d'avoir de l'argent).
+
+**Exercice 2.** a → 4 · b → 1 · c → 3 · d → 2.
+
+**Exercice 3.**
+1. **parce que** — 2. **pour** — 3. **À cause de** — 4. **parce que**.
+
+**Exercice 4.** Réponses libres. Exemple attendu :
+*« Je m'engagerais pour les animaux **parce que** beaucoup sont
+abandonnés. J'irais dans un refuge **pour** m'occuper d'eux. »*
+(Vérifier : infinitif après *pour*, phrase complète après *parce que*.)
 
 ## 4. Produire
 
-**Tâche d'écriture (M, ~200 mots) :**
+**Tâche écrite (M, ~120 mots) — une lettre de motivation courte.**
 
-Rédigez une **tribune** sur une cause qui vous tient à cœur
-(climat, harcèlement, droits LGBTQ+, mode durable…). Plan :
-**accroche** · **3 arguments** (avec 5 connecteurs) ·
-**conclusion-appel**. Style **engagé** mais respectueux.
+Une association de ta ville cherche des jeunes bénévoles. Écris-lui
+un court message pour te présenter et expliquer **pourquoi** tu veux
+participer.
+
+Plan :
+1. **Formule d'appel** (*Madame, Monsieur,*).
+2. **Qui tu es** (âge, classe) et **quelle cause** t'intéresse.
+3. **Deux raisons** (au moins un connecteur de cause + un de but).
+4. **Formule de politesse** finale.
+
+{{< callout type="note" >}}
+**Critères d'évaluation (12 points).**
+
+- Contenu clair et pertinent (les 4 étapes présentes) — 4 pts.
+- Justification correcte (cause **et** but) — 3 pts.
+- Vocabulaire de l'engagement réinvesti — 2 pts.
+- Correction de la langue (verbes, connecteurs) — 2 pts.
+- Registre et formules adaptés (politesse) — 1 pt.
+{{< /callout >}}
 
 ## 5. Réfléchir
 
-- [ ] Je nomme 5 formes d'engagement.
-- [ ] Je connais 3 jeunes engagés FR.
-- [ ] Je rédige une tribune de 200 mots.
+- [ ] Je peux nommer au moins 5 formes ou mots de l'engagement.
+- [ ] Je peux justifier une opinion avec *parce que / car*.
+- [ ] Je peux exprimer un but avec *pour / afin de* + infinitif.
+- [ ] Je peux réagir à l'argument de quelqu'un dans un débat.
+- [ ] Je peux écrire une courte lettre de motivation structurée.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+## Évaluation
 
-**Tâche 1 — Lecture (8 P.)** : tribune de Léa, 4 questions.
-**Tâche 2 — Vocabulaire (10 P.)** : 8 termes engagement.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre tribune (~200 mots).
+**Épreuve type — expression orale et écrite (M).**
 
-**Total : 30 P.**
+**Tâche 1 — Interaction orale (« Sprechen », 12 pts).**
+En binôme, jouez un dialogue de 2-3 minutes : l'un·e propose de
+rejoindre un projet citoyen (nettoyage, tutorat, collecte), l'autre
+hésite. Chacun·e doit donner **au moins deux raisons** (cause ou but)
+et réagir à l'autre.
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Expression écrite (« Schreiben », 12 pts).**
+Rédige la lettre de motivation de la partie *Produire* (~120 mots).
 
-## Pièges fréquents
+**Barème (24 points au total)**
 
-- **« Manifester »** ≠ *demonstrieren* mot-à-mot, mais sens
- identique.
-- **« Tribune »** = texte d'opinion court, signé, dans la
- presse.
-- **« Bénévolat »** = volontaire et **non rémunéré** (différent
- d'un job).
+| Critère | Points |
+|-----------------------------------------------|--------|
+| Oral : contenu et arguments | 5 |
+| Oral : interaction et réactions | 4 |
+| Oral : fluidité et prononciation | 3 |
+| Écrit : contenu et structure | 5 |
+| Écrit : justification (cause + but) | 4 |
+| Écrit : correction de la langue | 3 |
+| **Total** | **24** |
 
-## Pour aller plus loin
+## Notes pour l'enseignant·e
 
-- **Camille Étienne — *Pour un soulèvement écologique*** (2023)
-- **HugoDécrypte (YouTube)** :
- <https://www.youtube.com/@HugoDecrypte>
+**Déroulement (45 min).**
+
+- **Activer** (5 min) : questions orales, tour de table rapide.
+- **Apporter** (13 min) : vocabulaire (4'), point de langue (5'),
+  lecture du texte C et repère culturel (4').
+- **S'entraîner** (12 min) : Ex. 1-3 en autonomie, correction commune
+  au vidéoprojecteur ; Ex. 4 amorcé.
+- **Produire** (11 min) : rédaction de la lettre ; passage entre les
+  rangs pour l'étayage.
+- **Réfléchir** (4 min) : auto-évaluation + annonce de l'épreuve.
+
+**Organisation.** Prévoir des binômes hétérogènes pour la Tâche 1
+orale. Afficher au tableau la banque de connecteurs pendant la
+production.
+
+**Différenciation.** Groupe G : fiche d'aide avec amorces de phrases
+(*Je m'engagerais pour… / parce que…*). Groupe E : exiger trois
+connecteurs différents et un argument nuancé (*certes… mais…*).
+
+**Prolongement possible.** Débat de classe : *« Faut-il rendre le
+bénévolat obligatoire au lycée ? »* — deux camps, arguments préparés.
+
+## Sources
+
+- « Service civique » — Wikipédia, l'encyclopédie libre (consulté en
+  2026), <https://fr.wikipedia.org/wiki/Service_civique>, licence
+  CC BY-SA 4.0.
+- Textes, dialogues et exercices : originaux, rédigés pour cette unité
+  (aucune affiliation avec un organisme cité).

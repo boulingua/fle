@@ -1,5 +1,7 @@
 # FLE BW — Français Langue Étrangère, Gesamtschule Bade-Wurtemberg
 
+<img src="brand/icon.png" alt="French icon" width="64" align="right">
+
 Curriculum FLE pour la Gesamtschule du Bade-Wurtemberg, **Klasse
 6 à 13**, aligné sur le Bildungsplan 2016 (Sek I) et le
 Bildungsplan gymnasiale Oberstufe 2021. **156 Unités** sur deux
@@ -87,3 +89,7 @@ officielles.
 ## Recours aux outils LLM
 
 Certaines parties de ce projet ont été préparées avec l'aide d'outils de grands modèles de langage pour des tâches précises et non-auctoriales : révision, lissage de la prose, mise en forme Markdown/LaTeX, génération de fichiers standard (configurations CI, scripts de build), refactorisation du code. Les outils utilisés étaient Chat AI, le service LLM de KISSKI (GWDG), et un Mistral Small (24B, Apache-2.0) auto-hébergé et exécuté localement via Ollama et le paquet R ollamar — inférence locale uniquement, sans transmission de données à des tiers pour le modèle auto-hébergé.
+
+## Signature colour & icon
+
+This project's signature accent is **`#4B8D19`** (light theme) / **`#ACE77E`** (dark theme), paired with the **square** mark (`brand/icon.svg`). The accent is *flag-safe* — the hue does not appear in the French flag — is distinct from every other boulingua language, and is kept clear of the boulingua hub blue. The whole colour system lives in the [boulingua hub](https://github.com/boulingua/website#per-language-accent-colours).

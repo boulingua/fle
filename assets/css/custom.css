@@ -3,8 +3,8 @@
    the same visual language. */
 
 :root {
-  --boulingua-accent: #1a73e8;
-  --boulingua-accent-hover: #0b57d0;
+  --boulingua-accent: #4B8D19;
+  --boulingua-accent-hover: #366612;
   --boulingua-panel-border: rgba(0, 0, 0, 0.12);
   --boulingua-panel-border-hover: var(--boulingua-accent);
   --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
@@ -13,8 +13,8 @@
 
 @media (prefers-color-scheme: dark) {
   body.colorscheme-auto {
-    --boulingua-accent: #79b8ff;
-    --boulingua-accent-hover: #b8d4fd;
+    --boulingua-accent: #ACE77E;
+    --boulingua-accent-hover: #C7EFA9;
     --boulingua-panel-border: rgba(255, 255, 255, 0.16);
     --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
     --boulingua-rule: rgba(255, 255, 255, 0.16);
@@ -22,8 +22,8 @@
 }
 
 body.colorscheme-dark {
-  --boulingua-accent: #79b8ff;
-  --boulingua-accent-hover: #b8d4fd;
+  --boulingua-accent: #ACE77E;
+  --boulingua-accent-hover: #C7EFA9;
   --boulingua-panel-border: rgba(255, 255, 255, 0.16);
   --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.5);
   --boulingua-rule: rgba(255, 255, 255, 0.16);

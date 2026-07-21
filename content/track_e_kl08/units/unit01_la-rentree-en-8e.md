@@ -12,7 +12,7 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1f64fbf604164eb78769d718a93df8f8"
 presentation:
-  file: "/fle/materials/presentations/unit01_la-rentree-en-8e.pptx"
+  file: "/fle/materials/presentations/unit01_la-rentree-en-8e.odp"
   thumbnail: "/fle/materials/presentations/unit01_la-rentree-en-8e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_la-rentree-en-8e.pdf"
@@ -31,118 +31,180 @@ aliases:
 
 ## Objectifs
 
-- Je raconte mes vacances + projets de 8e.
-- Je connais Karim (correspondant lillois) et Tante Soraya
- (architecte tunisienne).
-- J'utilise les **3 temps** pour résumer.
+- Je peux saluer un·e camarade et me présenter le jour de la rentrée.
+- Je peux décrire ma vie scolaire au présent (les matières, l'emploi du temps, mes habitudes).
+- Je peux poser des questions simples et y répondre dans un dialogue.
+- Je peux parler de mes projets pour la nouvelle année en 8e.
+- Je peux échanger à deux et réagir à ce que dit mon/ma partenaire.
 
-## Histoire d'introduction
+## Situation de départ
 
-1ᵉʳ septembre. Anouk retrouve la classe avec une **nouvelle**
-ambition : *« Cette année, je vais avoir un correspondant
-lillois — Karim. Je vais lui écrire en français ! »*
+C'est le premier jour de la 8e. Dans la cour du collège, Anouk retrouve Léo devant les casiers.
+
+> **Anouk :** Salut Léo ! Ça va ? Tu as passé de bonnes vacances ?
+> **Léo :** Salut ! Oui, super. Et toi, tu es contente de la rentrée ?
+> **Anouk :** Oui ! Cette année, j'ai un correspondant à Lille. Il s'appelle Karim.
+> **Léo :** Génial ! On est dans la même classe, cette année ?
+> **Anouk :** On regarde la liste ? Elle est là-bas, sur le panneau.
+
+**Questions d'activation :**
+
+1. Où sont Anouk et Léo ?
+2. Quel jour est-ce ?
+3. Qu'est-ce qu'Anouk a cette année ?
 
 ## 1. Activer
 
-- Avez-vous un correspondant ?
-- Quelle ville française connaissez-vous ?
-- Quels projets pour cette année ?
+Répondez oralement, en français simple.
+
+- Comment dis-tu « bonjour » à un·e ami·e le matin ?
+- Quelle est ta matière préférée ? Pourquoi ?
+- Que fais-tu, en général, un jour d'école ? (une ou deux phrases)
 
 ## 2. Apporter
 
-### A. Présenter ses projets — 3 temps
+### A. Vocabulaire — la vie scolaire
 
-- **Cette année** : *Je vais …* (futur proche).
-- **L'été dernier** : *J'ai …* (passé composé).
-- **En général** : *Je …* (présent).
+| Français | Allemand | Exemple |
+|---|---|---|
+| la rentrée | der Schulanfang | C'est la rentrée aujourd'hui. |
+| une matière | ein Fach | Ma matière préférée, c'est le français. |
+| l'emploi du temps (m.) | der Stundenplan | J'ai anglais le lundi matin. |
+| un·e camarade | ein·e Mitschüler·in | Léo est mon camarade de classe. |
+| un casier | ein Spind | Je range mon sac dans mon casier. |
+| un·e correspondant·e | ein·e Brieffreund·in | J'ai un correspondant à Lille. |
+| la cour (de récréation) | der Schulhof / die Pause | On joue dans la cour. |
+| l'emploi (m.) du temps | der Stundenplan | Mon emploi du temps change cette année. |
+| poser une question | eine Frage stellen | Je pose une question au prof. |
 
-### B. Vocabulaire des projets
+### B. Grammaire — le présent
 
-- *un correspondant · un échange · une classe-projet ·
- un voyage scolaire · un défi · une ambition.*
+{{< callout type="info" >}}
+**Le présent** sert à parler de ce qui est vrai maintenant et de nos habitudes.
 
-### C. Présentation d'Anouk (texte original)
+**Verbes en -er** (parler, aimer, jouer) :
+je parl**e** · tu parl**es** · il/elle parl**e** · nous parl**ons** · vous parl**ez** · ils/elles parl**ent**.
 
-> Bonjour à tous, je suis Anouk. Cet été, je suis allée à
-> Saint-Malo avec ma famille — c'était super.
+**Trois verbes essentiels :**
+
+- **être** : je suis · tu es · il/elle est · nous sommes · vous êtes · ils/elles sont.
+- **avoir** : j'ai · tu as · il/elle a · nous avons · vous avez · ils/elles ont.
+- **aller** : je vais · tu vas · il/elle va · nous allons · vous allez · ils/elles vont.
+
+*Astuce :* pour une question simple, on garde souvent l'ordre normal + intonation : *Tu aimes le sport ?*
+{{< /callout >}}
+
+### C. Texte — Le premier jour d'Anouk (texte original)
+
+> Bonjour ! Je m'appelle Anouk et je suis en 8e. Aujourd'hui, c'est la rentrée.
 >
-> Cette année en 8e, j'ai 3 projets :
-> 1. **Correspondre** avec Karim, un Lillois de mon âge.
-> 2. **Visiter** ma tante Soraya à Tunis l'été prochain — elle
-> est architecte là-bas.
-> 3. **Lire** *Le Petit Prince* en français.
+> Le matin, je retrouve mes camarades dans la cour. Nous regardons l'emploi du temps ensemble. Cette année, j'ai français, maths, anglais et sport. Ma matière préférée, c'est le français, parce que j'aime les langues.
 >
-> Et toi, quels sont tes projets ?
+> J'ai aussi un projet : je corresponds avec Karim, un garçon de Lille. Nous nous écrivons en français. Et toi, quelle est ta matière préférée ?
+
+### D. Note culturelle — La braderie de Lille
+
+À Lille, dans le nord de la France, la rentrée coïncide souvent avec un grand événement populaire : la braderie de Lille, un immense marché aux puces qui se tient le premier week-end de septembre. Selon Wikipédia, elle attire chaque année des centaines de milliers de visiteurs et compte parmi les plus grands marchés de ce type en Europe ; une spécialité traditionnelle de ce moment est le plat de moules-frites. Pour Karim, le correspondant lillois d'Anouk, c'est donc un début d'année animé.
+
+*(Source paraphrasée, voir Sources.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Ex. 1 — Compréhension du texte C (niveau G).** Vrai ou faux ?
 
-1. Où est partie Anouk cet été ?
-2. Cite ses 3 projets.
-3. Qui est Tante Soraya ?
-4. Quel livre va-t-elle lire ?
+1. Anouk est en 6e.
+2. Sa matière préférée, c'est le français.
+3. Karim habite à Paris.
+4. Anouk et Karim s'écrivent en français.
 
-**Ex. 2 — 3 temps.** Conjuguez.
+**Ex. 2 — Le présent des verbes en -er (niveau G/M).** Complétez.
 
-1. *Je (passer, PC) ___ l'été en Bretagne.*
-2. *Maintenant, je (être, présent) ___ en 8e.*
-3. *Je (correspondre, futur proche) ___ avec Karim.*
-4. *Je (visiter, futur proche) ___ Tunis l'été prochain.*
+1. Je (regarder) ___ l'emploi du temps.
+2. Nous (aimer) ___ le sport.
+3. Tu (parler) ___ français avec Karim.
+4. Ils (jouer) ___ dans la cour.
 
-**Ex. 3 — Vocabulaire.** Définition simple :
+**Ex. 3 — être / avoir / aller (niveau M).** Choisissez et conjuguez.
 
-a) un correspondant · b) un échange · c) un défi.
+1. Je ___ (être) en 8e.
+2. Nous ___ (avoir) un nouveau prof d'anglais.
+3. Anouk ___ (aller) au collège à vélo.
+4. Vous ___ (être) contents de la rentrée ?
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 4 — Mini-dialogue à compléter (niveau E).** Écrivez une réponse complète pour B.
 
-**Ex. 1.** 1) Saint-Malo. 2) Correspondre avec Karim, visiter
-Soraya, lire *Le Petit Prince*. 3) Sa tante, architecte à Tunis.
-4) *Le Petit Prince*.
+1. **A :** Salut ! Ça va ? — **B :** ___
+2. **A :** Quelle est ta matière préférée ? — **B :** ___
+3. **A :** Tu as un correspondant cette année ? — **B :** ___
 
-**Ex. 2.** 1) ai passé · 2) suis · 3) vais correspondre ·
-4) vais visiter.
+### Différenciation
 
-**Ex. 3.** a) Personne avec qui on s'écrit régulièrement.
-b) Visite mutuelle (ou échange épistolaire). c) Défi : tâche
-difficile à relever.
+- **G :** faites les exercices 1 et 2 ; utilisez le tableau de vocabulaire.
+- **M :** faites les exercices 1 à 3.
+- **E :** faites tous les exercices ; à l'exercice 4, ajoutez une question à votre partenaire.
 
-{{< /callout >}}
+## Solutions
+
+**Ex. 1.** 1) Faux (elle est en 8e). 2) Vrai. 3) Faux (il habite à Lille). 4) Vrai.
+
+**Ex. 2.** 1) regarde · 2) aimons · 3) parles · 4) jouent.
+
+**Ex. 3.** 1) suis · 2) avons · 3) va · 4) êtes.
+
+**Ex. 4 (propositions).** 1) Ça va bien, merci, et toi ? · 2) Ma matière préférée, c'est le français. · 3) Oui, j'ai un correspondant à Lille / Non, je n'ai pas de correspondant.
 
 ## 4. Produire
 
-**Tâche dialogique (E, en binôme, ~8 répliques) :**
+**Tâche dialogique (en binôme, ~8 répliques) :**
 
-A et B se présentent en début de 8e : 1 souvenir d'été (PC) +
-2 projets de l'année (futur proche) + 1 question.
+C'est la rentrée. A et B se retrouvent dans la cour. Jouez le dialogue :
+
+- vous vous saluez et demandez des nouvelles ;
+- chacun·e dit **une** matière préférée (au présent) ;
+- chacun·e parle d'**un** projet ou d'une habitude de l'année ;
+- posez au moins **une** question à votre partenaire.
+
+**Critères d'évaluation :**
+
+- **Réalisation de la tâche** : les 4 éléments sont présents.
+- **Interaction** : vous réagissez à votre partenaire (relance, question).
+- **Langue** : le présent est majoritairement correct ; vocabulaire de la vie scolaire employé.
+- **Prononciation / fluidité** : compréhensible, débit régulier.
 
 ## 5. Réfléchir
 
-- [ ] Je présente mes projets en 3 temps.
-- [ ] Je connais le cast (Karim, Soraya).
-- [ ] Je dialogue de la rentrée en 8 répliques.
+- [ ] Je peux saluer et me présenter à la rentrée.
+- [ ] Je peux conjuguer les verbes en -er au présent.
+- [ ] Je peux utiliser être, avoir et aller au présent.
+- [ ] Je peux poser une question simple et y répondre.
+- [ ] Je peux tenir un court dialogue avec un·e camarade.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+## Évaluation
 
-**Tâche 1 — Lecture (8 P.)** : présentation Anouk, 4 questions.
-**Tâche 2 — Conjugaison (10 P.)** : 8 verbes, 3 temps.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre rentrée (~100 mots).
+**Épreuve d'expression orale en interaction (« mündliche Prüfung », Niveau E).**
 
-**Total : 30 P.**
+En binôme, tirez au sort une situation et jouez un dialogue de la rentrée (~2 minutes). Vous devez : vous saluer, vous présenter, parler de vos matières et d'un projet au présent, et poser au moins deux questions à votre partenaire.
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Barème (20 P.) :**
 
-## Pièges fréquents
+| Critère | Points |
+|---|---|
+| Réalisation de la tâche (contenu attendu présent) | 6 P. |
+| Interaction (questions, relances, écoute) | 6 P. |
+| Correction de la langue (présent, vocabulaire scolaire) | 5 P. |
+| Prononciation et fluidité | 3 P. |
+| **Total** | **20 P.** |
 
-- **« Correspondant »** = Brieffreund / penfriend.
-- **« Échange »** ≠ *Wechsel*. C'est *Austausch*.
-- **« Tante Soraya »** sans majuscule à *Tante* dans le texte
- courant.
+## Notes pour l'enseignant·e
 
-## Pour aller plus loin
+**Plan (45 min) :** Activer 5' · Apporter 12' · S'entraîner 13' · Produire 11' · Réfléchir 2' · Aperçu de l'unité suivante 2'.
 
-- **Sites de correspondance pour ados** :
- <https://www.epals.com/>
+**Organisation :** phase Apporter en classe entière (vocabulaire + grammaire au tableau), texte C lu à voix haute ; S'entraîner en travail individuel puis correction commune ; Produire en binômes, circuler pour aider et noter deux ou trois relances utiles.
+
+**Différenciation :** proposer le tableau de vocabulaire comme aide (G), demander une question supplémentaire et un connecteur (« et », « aussi », « parce que ») aux groupes M/E. Pour l'oral, autoriser une carte-mémo de mots-clés (G) et la retirer progressivement.
+
+## Sources
+
+- « Rentrée scolaire en France » — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Rentr%C3%A9e_scolaire>, licence CC BY-SA 4.0.
+- « Braderie de Lille » — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Braderie_de_Lille>, licence CC BY-SA 4.0.
+- « Lille » — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Lille>, licence CC BY-SA 4.0.

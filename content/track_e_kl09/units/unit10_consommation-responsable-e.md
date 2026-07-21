@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22282941c5f843ccb83894d84d2fef58"
 presentation:
-  file: "/fle/materials/presentations/unit10_consommation-responsable-e.pptx"
+  file: "/fle/materials/presentations/unit10_consommation-responsable-e.odp"
   thumbnail: "/fle/materials/presentations/unit10_consommation-responsable-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit10_consommation-responsable-e.pdf"
@@ -33,128 +33,196 @@ aliases:
 
 ## Objectifs
 
-- Je comprends **5 labels** de consommation responsable.
-- J'utilise **8 verbes** d'achat éthique.
-- Je rédige une **chronique** sur un produit responsable
- (~150 mots).
+- Je peux identifier cinq labels de consommation responsable et expliquer ce qu'ils garantissent.
+- Je peux comprendre une chronique argumentative et en dégager les arguments principaux.
+- Je peux employer le vocabulaire de l'achat éthique et les connecteurs logiques pour justifier un choix.
+- Je peux comparer les avantages et les limites d'un produit responsable.
+- Je peux rédiger une chronique argumentée d'environ 180 mots pour défendre un choix de consommation.
 
-## Histoire d'introduction
+## Situation de départ
 
-Anouk parcourt un magasin **Naturalia** avec Mehdi. Il
-s'étonne : *« AB, Max Havelaar, Bleu Blanc Cœur — c'est quoi
-tous ces logos ? »* Anouk explique les **labels**.
+Devant le rayon d'un supermarché, Anouk et Mehdi comparent deux paquets de café.
+
+> **Mehdi :** Celui-ci coûte 2,50 €, l'autre 4,80 € avec le logo « Max Havelaar ». Presque le double !
+>
+> **Anouk :** Oui, mais le logo équitable garantit un prix minimum au producteur. Tu paies plus cher, donc lui gagne mieux sa vie.
+>
+> **Mehdi :** D'accord, mais je n'ai pas beaucoup d'argent. Je ne peux pas tout acheter équitable.
+>
+> **Anouk :** C'est vrai. Alors on choisit : le café équitable, oui ; et pour le reste, on fait attention. Chaque achat est un petit vote.
+
+**Questions d'activation**
+
+- Selon Anouk, pourquoi le café équitable coûte-t-il plus cher ?
+- Quel argument Mehdi donne-t-il contre l'achat équitable ?
+- Que veut dire la phrase « Chaque achat est un petit vote » ?
 
 ## 1. Activer
 
-- Connaissez-vous le label **AB** ?
-- Achetez-vous **bio** ? Pourquoi (pas) ?
-- Coût bio : combien plus cher ?
+- Regardez-vous les logos et les étiquettes quand vous faites des courses ?
+- Connaissez-vous le label **AB** ? Que signifie-t-il, selon vous ?
+- Êtes-vous prêt·e à payer plus cher un produit plus respectueux de l'environnement ? Pourquoi (pas) ?
+- Citez deux raisons d'acheter local et deux obstacles possibles.
 
 ## 2. Apporter
 
-### A. 5 labels (focus E)
+### A. Vocabulaire — l'achat responsable
 
-| Label | Ce qu'il garantit |
-|-------------------|------------------------------------------|
-| AB (Agriculture Bio) | sans pesticides chimiques de synthèse |
-| Max Havelaar | commerce équitable Sud → Nord |
-| MSC | pêche durable |
-| Bleu Blanc Cœur | alimentation animale locale |
-| GOTS | textile bio (coton) |
+| Français | Catégorie | Sens / exemple |
+|--------------------------|-------------------|-----------------------------------------------|
+| un label | nom | signe qui garantit une qualité (ex. AB) |
+| une étiquette | nom | papier avec le prix et la composition |
+| le commerce équitable | nom | échange qui paie mieux les producteurs |
+| l'empreinte écologique | nom | impact de nos choix sur la planète |
+| la fast-fashion | nom | vêtements bon marché produits en masse |
+| privilégier | verbe | choisir en priorité |
+| éviter | verbe | ne pas acheter, refuser |
+| gaspiller | verbe | jeter, utiliser sans nécessité |
+| durable | adjectif | qui dure et respecte l'environnement |
+| jetable | adjectif | fait pour être jeté après usage |
 
-### B. 8 verbes d'achat éthique
+### B. Point de langue — argumenter un choix
 
-- *acheter local · privilégier · éviter · boycotter ·
- consommer moins · choisir · vérifier l'étiquette · soutenir
- les producteurs.*
+{{< callout type="info" >}}
+**Justifier et nuancer une opinion**
 
-### C. Chronique d'Anouk (texte original)
+- **Donner son avis :** *je pense que…*, *à mon avis…*, *il me semble que…*, *je suis convaincu·e que…*
+- **La cause :** *parce que*, *car*, *puisque*, *grâce à* (+ nom).
+  *J'achète bio **parce que** c'est sans pesticides.*
+- **La conséquence :** *donc*, *c'est pourquoi*, *par conséquent*.
+  *Le producteur est mieux payé, **donc** il vit mieux.*
+- **L'opposition / la nuance :** *mais*, *cependant*, *pourtant*, *même si* (+ verbe).
+  *C'est plus cher, **mais** c'est plus juste.* · ***Même si** je manque d'argent, je fais attention.*
 
-> **Pourquoi je préfère le bio — ma chronique de fin de mois**
+Un bon argument suit souvent le schéma : **opinion → cause → nuance**.
+{{< /callout >}}
+
+### C. Texte — la chronique de Léa (texte original)
+
+> **Consommer moins, mais mieux**
 >
-> Depuis 6 mois, j'**achète** mes pâtes avec le label **AB**.
-> Elles **coûtent** 0,40 € de plus, mais je sais qu'elles
-> sont **sans pesticides** chimiques.
+> Depuis un an, je change mes habitudes. Je **privilégie** les produits locaux et de saison, parce qu'ils voyagent moins et gardent plus de goût. Pour mes vêtements, j'**évite** la fast-fashion : j'achète en friperie ou en seconde main.
 >
-> Pour mon café, je **choisis** **Max Havelaar** — équitable.
-> Le producteur colombien **reçoit** un prix juste, pas la
-> bourse fluctuante.
+> Bien sûr, tout n'est pas simple. Un tee-shirt en coton bio coûte plus cher, **mais** il dure plus longtemps, **donc** je le remplace moins souvent. **Même si** mon budget est limité, je choisis quelques produits responsables plutôt que beaucoup de produits jetables.
 >
-> J'**évite** la fast-fashion (Shein, Temu) : trop de coton
-> mal cultivé, trop de transport. Je **privilégie** les
-> seconde-main (Vinted, friperies).
->
-> **Conseil** : commencez **petit** — 3 produits bio, et
-> vérifiez toujours **l'étiquette**. Notre planète, c'est nos
-> achats.
+> Mon conseil : ne changez pas tout d'un coup. Commencez petit, lisez les étiquettes, et rappelez-vous que chaque achat compte.
+
+### D. Note culturelle — le label AB
+
+Le label **AB** (« Agriculture Biologique ») est un signe officiel français créé par le ministère de l'Agriculture au milieu des années 1980. Il indique qu'un produit alimentaire est issu de l'agriculture biologique, c'est-à-dire cultivé sans pesticides ni engrais chimiques de synthèse. Pour un produit transformé, la très grande majorité des ingrédients agricoles (au moins 95 %) doit provenir du bio. Aujourd'hui, ce logo coexiste avec le label écologique européen (la « feuille » verte). *(Faits paraphrasés d'après Wikipédia FR, CC BY-SA — voir Sources.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 
-1. Quel label utilise Anouk pour les pâtes ?
-2. Quel label pour son café ?
-3. Combien plus cher sont les pâtes bio ?
-4. Que recommande-t-elle ?
+1. Depuis combien de temps Léa a-t-elle changé ses habitudes ?
+2. Pourquoi privilégie-t-elle les produits locaux et de saison ?
+3. Où achète-t-elle ses vêtements pour éviter la fast-fashion ?
+4. Quel conseil donne-t-elle à la fin ?
 
-**Ex. 2 — Verbes éthiques.** Conjuguez :
+**Ex. 2 — Vocabulaire.** Complétez avec : *durable · gaspiller · privilégier · étiquette · empreinte écologique*.
 
-a) Je ___ (privilégier) le local.
-b) Nous ___ (éviter) la fast-fashion.
-c) Tu ___ (vérifier) l'étiquette.
+a) Avant d'acheter, je lis toujours l'\_\_\_\_ pour voir la composition.
+b) Il faut \_\_\_\_ les producteurs locaux.
+c) Un sac \_\_\_\_ remplace des dizaines de sacs jetables.
+d) Prendre le train réduit notre \_\_\_\_.
+e) Il ne faut pas \_\_\_\_ la nourriture.
 
-**Ex. 3 — Labels.** Reliez : *AB · Max Havelaar · MSC · GOTS*
-↔ *bio · équitable · poisson · textile*.
+**Ex. 3 — Connecteurs logiques.** Reliez les deux phrases avec le connecteur entre parenthèses.
 
-{{< callout type="tip" title="Solutions" >}}
+a) Le café est équitable. Le producteur reçoit un prix juste. *(donc)*
+b) Le coton bio est plus cher. Il dure plus longtemps. *(mais)*
+c) J'achète local. Les produits voyagent moins. *(parce que)*
+d) Mon budget est limité. Je choisis quelques produits responsables. *(même si)*
 
-**Ex. 1.** 1) AB. 2) Max Havelaar. 3) 0,40 € de plus. 4)
-Commencer petit (3 produits bio) + vérifier l'étiquette.
+**Ex. 4 — Argumenter.** Rédigez **deux** phrases sur le schéma **opinion → cause → nuance**, à propos de la seconde main. Exemple de début : *« À mon avis, la seconde main est une bonne idée parce que… mais… »*
 
-**Ex. 2.** a) privilégie · b) évitons · c) vérifies.
+## Solutions
 
-**Ex. 3.** AB-bio · Havelaar-équitable · MSC-poisson ·
-GOTS-textile.
+**Ex. 1.**
+1. Depuis un an, elle a changé ses habitudes.
+2. Parce que ces produits voyagent moins et gardent plus de goût.
+3. Elle achète en friperie ou en seconde main.
+4. Commencer petit, lire les étiquettes et se rappeler que chaque achat compte.
 
+**Ex. 2.** a) étiquette · b) privilégier · c) durable · d) empreinte écologique · e) gaspiller.
+
+**Ex. 3.** *(réponses possibles)*
+a) Le café est équitable, **donc** le producteur reçoit un prix juste.
+b) Le coton bio est plus cher, **mais** il dure plus longtemps.
+c) J'achète local **parce que** les produits voyagent moins.
+d) **Même si** mon budget est limité, je choisis quelques produits responsables.
+
+**Ex. 4.** *(production libre ; réponse acceptée si elle contient une opinion, une cause avec « parce que/car » et une nuance avec « mais/pourtant/même si ».)* Exemple : *À mon avis, la seconde main est une bonne idée parce qu'elle évite de gaspiller des vêtements, mais il faut parfois chercher longtemps pour trouver la bonne taille.*
+
+{{< callout type="tip" >}}
+**Différenciation**
+- **G (base) :** Ex. 1 à choix multiple ; Ex. 3 avec les connecteurs déjà placés dans un tableau.
+- **M (moyen) :** exercices tels quels.
+- **E (renforcé) :** Ex. 4 étendu à trois arguments enchaînés (opinion → cause → conséquence → nuance).
 {{< /callout >}}
 
 ## 4. Produire
 
-**Tâche d'écriture (E, ~150 mots) :**
+**Tâche d'écriture (E, ~180 mots).**
 
-Rédigez **votre chronique** sur un produit responsable de
-votre choix (alimentation, vêtement, cosmétique) : 1 label +
-3 verbes éthiques + 1 conseil + 1 prix comparé.
+Rédigez **votre chronique argumentée** intitulée *« Consommer autrement »* pour le journal de la classe. Défendez un choix de consommation responsable (alimentation, vêtement, transport ou cosmétique). Votre texte doit contenir :
+
+- **une opinion claire** exprimée dès l'introduction ;
+- **au moins deux labels ou notions** du vocabulaire de l'unité ;
+- **trois connecteurs logiques** différents (cause, conséquence, opposition) ;
+- **une nuance ou une limite** (le coût, le temps, l'accès…) ;
+- **un conseil** final adressé au lecteur.
+
+{{< callout type="note" >}}
+**Critères d'évaluation (20 points)**
+- Respect de la consigne et longueur (4 pts)
+- Richesse du vocabulaire de l'unité (4 pts)
+- Emploi correct des connecteurs et de l'argumentation (5 pts)
+- Correction grammaticale et orthographe (4 pts)
+- Cohérence et présence d'une nuance + d'un conseil (3 pts)
+{{< /callout >}}
 
 ## 5. Réfléchir
 
-- [ ] Je connais 5 labels.
-- [ ] J'utilise 8 verbes d'achat éthique.
-- [ ] Je rédige une chronique de 150 mots.
+- [ ] Je peux nommer cinq labels et dire ce qu'ils garantissent.
+- [ ] Je comprends une chronique et je retrouve ses arguments.
+- [ ] J'utilise le vocabulaire de l'achat responsable.
+- [ ] J'emploie les connecteurs de cause, de conséquence et d'opposition.
+- [ ] Je rédige une chronique argumentée d'environ 180 mots avec une nuance.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+## Évaluation
 
-**Tâche 1 — Lecture (10 P.)** : chronique Anouk, 5 questions.
-**Tâche 2 — Verbes (8 P.)** : 4 conjugaisons.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre chronique (~150 mots).
+**Devoir surveillé (« Klassenarbeit ») — Niveau E · 45 min · 40 points**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension écrite (« Leseverstehen »), 16 pts.**
+Lisez la chronique de Léa (texte C). Répondez en phrases complètes.
+1. Quels deux types d'achats Léa a-t-elle changés ? (4 pts)
+2. Relevez **deux arguments** en faveur de sa démarche. (4 pts)
+3. Quelle **limite** reconnaît-elle et comment la dépasse-t-elle ? (4 pts)
+4. Expliquez avec vos mots la phrase « chaque achat compte ». (4 pts)
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Expression écrite (« Schreiben »), 24 pts.**
+Rédigez une chronique argumentée (~180 mots) selon la consigne de la partie « Produire » : opinion, deux notions de l'unité, trois connecteurs, une nuance, un conseil.
 
-## Pièges fréquents
+*Barème Tâche 2 :* contenu et consigne 8 pts · argumentation et connecteurs 8 pts · langue (grammaire, orthographe, richesse) 8 pts.
 
-- **« Bio »** invariable : *un produit bio · des produits
- bio* (pas de *s*).
-- **« Boycotter »** = anglicisme accepté ; pas *boicotter*.
-- **« Étiquette »** : un seul *t* à la fin (≠ *Etikett*).
+**Total : 40 points.**
 
-## Pour aller plus loin
+## Notes pour l'enseignant·e
 
-- **Agence Bio (FR)** :
- <https://www.agencebio.org/>
-- **Max Havelaar France** :
- <https://maxhavelaarfrance.org/>
+**Plan (45 min) :** Activer 5' · Apporter 12' · S'entraîner 14' · Produire 10' · Réfléchir 2' · Aperçu de l'évaluation 2'.
+
+**Organisation :** projeter la situation de départ (fichier .odp) et la lire à deux voix. Le point de langue (2.B) peut être copié dans le cahier comme aide-mémoire pour la production. L'exercice 3 se corrige à l'oral, l'exercice 4 en binômes.
+
+**Différenciation :** proposer aux élèves G une banque de connecteurs affichée au tableau pendant la production ; demander aux élèves E d'ajouter un contre-argument réfuté (*« Certains disent que…, pourtant… »*). Prévoir une grille d'auto-relecture reprenant les cinq critères de la partie 4.
+
+**Pièges fréquents :** *« bio »* est invariable (*des produits bio*) ; *« étiquette »* prend un seul *t* final (≠ all. *Etikett*) ; distinguer *car* (jamais en tête de phrase) de *parce que*.
+
+## Sources
+
+- *Label agriculture biologique* — Wikipédia (contributeurs, consulté en 2026), https://fr.wikipedia.org/wiki/Label_agriculture_biologique — licence CC BY-SA 4.0.
+- *Commerce équitable* — Wikipédia (contributeurs, consulté en 2026), https://fr.wikipedia.org/wiki/Commerce_équitable — licence CC BY-SA 4.0.
+- Agence Bio (organisme public français), https://www.agencebio.org/ — site institutionnel, consulté à titre de référence (non affilié).
+
+*Plateforme indépendante, sans affiliation avec les organismes ou marques cités.*

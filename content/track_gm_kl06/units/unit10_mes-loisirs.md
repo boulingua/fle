@@ -14,7 +14,7 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a494e88adf74dbb8d66ebdb6bbbbeed"
 presentation:
-  file: "/fle/materials/presentations/unit10_mes-loisirs.pptx"
+  file: "/fle/materials/presentations/unit10_mes-loisirs.odp"
   thumbnail: "/fle/materials/presentations/unit10_mes-loisirs.png"
 worksheet:
   file: "/fle/materials/worksheets/unit10_mes-loisirs.pdf"
@@ -33,130 +33,213 @@ aliases:
 
 ## Objectifs
 
-- Je dis : *Je joue · Je fais · Je vais …*
-- Je comprends une mini-annonce de club.
-- Je connais 8 loisirs en français.
+- Je peux nommer au moins huit loisirs en français.
+- Je peux dire ce que je fais avec *faire de*, *jouer à* et *jouer de*.
+- Je peux dire à quelle fréquence je fais une activité (*souvent*, *parfois*, *ne… jamais*).
+- Je peux comprendre une courte annonce de club et y repérer les informations utiles.
+- Je peux interviewer un·e camarade sur ses loisirs et raconter ses réponses.
 
-## Histoire d'introduction
+## Situation de départ
 
-Lundi midi. Léa et Théo lisent une affiche dans le couloir :
-*« Club de théâtre — mercredi 17h. Club de foot — vendredi
-16h30. »* Théo dit : *« Je joue au foot. Et toi ? »* Léa répond :
-*« Je fais du dessin. Et de la musique. »*
+C'est la récréation de midi. Dans le couloir du collège, Léa lit une affiche
+avec son ami Théo.
+
+> **Léa :** Regarde, il y a un nouveau club le mercredi !
+> **Théo :** Ah oui ? Moi, le mercredi, je joue au foot avec mon équipe.
+> **Léa :** Tu joues souvent ?
+> **Théo :** Deux fois par semaine. Et toi, tu fais du sport ?
+> **Léa :** Pas vraiment. Je fais de la guitare et je joue aux échecs. Je ne
+> fais jamais de foot !
+> **Théo :** Alors viens au club d'échecs, il est le mardi.
+
+**Questions d'activation :**
+
+1. Quel sport fait Théo, et à quelle fréquence ?
+2. Quels deux loisirs a Léa ?
+3. Et toi : tu es plutôt Léa ou plutôt Théo ? Pourquoi ?
 
 ## 1. Activer
 
-- Citez **3 activités** que vous faites après l'école.
-- Combien d'heures par semaine ?
-- Avec qui ?
+- Citez **trois activités** que vous faites après l'école.
+- Pour chaque activité, dites **combien de fois par semaine** vous la faites.
+- Classez au tableau : *sport · musique · à la maison · dehors*.
 
 ## 2. Apporter
 
 ### A. Vocabulaire
 
-| Loisirs | Verbe |
-|------------------------------|--------------------|
-| le foot · le basket · le tennis | jouer **au** … |
-| la musique · la danse · le yoga | faire **de la** … |
-| le piano · le dessin · le sport | faire **du** … |
-| la natation · l'escalade | faire **de la · de l'** … |
-| la lecture · la télé · les jeux vidéo | lire · regarder · jouer |
+| Français | Allemand | Verbe utile |
+|-------------------------------|--------------------|--------------------------|
+| le foot, le basket, le tennis | Fußball, Basketball, Tennis | jouer **au** … |
+| les échecs, les cartes | Schach, Karten | jouer **aux** … |
+| la guitare, le piano, la batterie | Gitarre, Klavier, Schlagzeug | jouer **de la / du** … |
+| la danse, la natation, l'escalade | Tanzen, Schwimmen, Klettern | faire **de la / de l'** … |
+| le dessin, le vélo, le sport | Zeichnen, Radfahren, Sport | faire **du** … |
+| la lecture, les jeux vidéo, la télé | Lesen, Videospiele, Fernsehen | lire · jouer · regarder |
 
-### B. *Faire / Jouer / Aller* + loisir
+### B. Point de langue
 
-| Construction | Exemple |
-|---------------------------|-------------------------------|
-| **jouer au** + sport masc.| Je joue **au** foot. |
-| **jouer à la** + sport fém.| Je joue **à la** pétanque. |
-| **jouer aux** + pluriel | Je joue **aux** échecs. |
-| **faire du** + masc. | Je fais **du** sport / piano. |
-| **faire de la** + fém. | Je fais **de la** musique. |
-| **aller à** + lieu | Je vais **à la** piscine. |
+{{< callout type="info" >}}
+**Faire / Jouer + loisir, et la fréquence**
 
-### C. Mini-affiche (texte original)
+- **jouer à** + jeu ou sport : *Je joue **au** foot. · Je joue **à la**
+  pétanque. · Je joue **aux** échecs.*
+- **jouer de** + instrument de musique : *Je joue **de la** guitare. · Je
+  joue **du** piano.*
+- **faire de** + activité (le passe-partout) : *Je fais **du** vélo. · Je
+  fais **de la** danse. · Je fais **de l'**escalade.*
 
-> **Activités du collège (« Realschule ») — semaine 14**
+**Adverbes de fréquence :** *toujours · souvent · parfois · rarement · ne…
+jamais.* Ils se placent **après le verbe** : *Je fais **souvent** du sport. ·
+Je ne joue **jamais** aux cartes.* On peut aussi préciser : *une / deux fois
+par semaine.*
+{{< /callout >}}
+
+### C. Une annonce de club (texte original)
+
+> **Collège Jean-Moulin — clubs de la semaine**
 >
-> - Lundi 16h30 : club de lecture (salle 12).
-> - Mardi 17h : équipe de basket (gymnase).
-> - Mercredi 14h : club de théâtre (salle des fêtes).
-> - Jeudi 16h : danse moderne (gymnase B).
-> - Vendredi 16h30 : club d'échecs (CDI).
+> - **Lundi, 16 h 30 :** club de lecture (salle 12). On lit et on parle des
+>   livres. C'est calme et sympa.
+> - **Mardi, 17 h :** club d'échecs (CDI). Débutants bienvenus !
+> - **Mercredi, 14 h :** club de guitare (salle de musique). Apporte ton
+>   instrument.
+> - **Jeudi, 16 h :** danse moderne (gymnase B). Deux groupes : débutants et
+>   confirmés.
+> - **Vendredi, 16 h 30 :** club de vélo (cour). Sortie d'une heure autour du
+>   parc.
+
+### D. Note culturelle — la pétanque
+
+La pétanque est un jeu de boules très populaire en France, surtout dans le sud.
+D'après Wikipédia, le jeu est né vers 1910 dans la ville de La Ciotat, en
+Provence : il s'agit d'une version plus simple du « jeu provençal », où l'on
+lance les boules **les pieds joints**, sans élan. Le nom vient d'ailleurs de
+l'expression provençale *pès tancats*, « les pieds plantés ». Aujourd'hui, on
+joue à la pétanque sur les places des villages comme dans les grandes villes,
+entre ami·e·s et en famille.
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture.** Au texte C :
+**Ex. 1 — Compréhension écrite (texte C).** Réponds par une phrase courte.
 
-1. Quel club est le mercredi ?
-2. À quelle heure le basket ?
-3. Où est le club de lecture ?
-4. Quel jour pour les échecs ?
+1. Quel jour a lieu le club de guitare ?
+2. À quelle heure commence le club d'échecs ?
+3. Où se retrouve le club de lecture ?
+4. Que fait-on au club de vélo le vendredi ?
 
-**Ex. 2 — Préposition.** *au · à la · aux · du · de la · des*
+**Ex. 2 — Préposition.** Complète avec *au · à la · aux · du · de la · de l'*.
 
-1. Je joue ___ foot.
-2. Je fais ___ musique.
-3. Je vais ___ piscine.
-4. Tu joues ___ jeux vidéo.
-5. Elle fait ___ piano.
+1. Je joue ___ foot avec mes amis.
+2. Ma sœur fait ___ escalade le samedi.
+3. Nous jouons ___ échecs après les cours.
+4. Tu joues ___ guitare ou ___ piano ?
+5. Le mercredi, je fais ___ danse.
 
-**Ex. 3 — Compléter.**
+**Ex. 3 — La fréquence.** Récris la phrase avec l'adverbe entre parenthèses,
+bien placé.
 
-> Bonjour, je m'appelle Léa. _______________ du dessin et
-> _______________ de la musique. Je _______________ aussi au
-> volley le mercredi.
+1. Je fais du sport. *(souvent)*
+2. Elle joue aux cartes. *(ne… jamais)*
+3. Nous allons à la piscine. *(parfois)*
+4. Tu regardes la télé le soir. *(toujours)*
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 4 — Écrire.** Complète le petit texte de Léa avec les bons mots.
 
-**Ex. 1.** 1) théâtre. 2) 17h. 3) salle 12. 4) vendredi.
+> Bonjour ! Je m'appelle Léa. Je _______ de la guitare et je _______ aux
+> échecs. Je fais _______ danse le jeudi, mais je ne fais _______ de foot.
+> J'aime les activités calmes !
 
-**Ex. 2.** 1) au · 2) de la · 3) à la · 4) aux · 5) du.
+### Différenciation
 
-**Ex. 3.** Je fais · je fais · joue.
+- **G :** Ex. 1 et 2 seulement ; une banque de mots (*au, à la, aux…*) est
+  affichée au tableau.
+- **M :** les quatre exercices sans aide affichée.
+- **E :** après l'Ex. 4, rédige **deux phrases** de plus sur tes propres
+  loisirs, avec un adverbe de fréquence dans chacune.
 
-{{< /callout >}}
+## Solutions
+
+**Ex. 1.** 1) Le mercredi. 2) À 17 h. 3) En salle 12. 4) On fait une sortie
+d'une heure autour du parc.
+
+**Ex. 2.** 1) au · 2) de l' · 3) aux · 4) de la … du · 5) de la.
+
+**Ex. 3.** 1) Je fais **souvent** du sport. 2) Elle **ne** joue **jamais** aux
+cartes. 3) Nous allons **parfois** à la piscine. 4) Tu regardes **toujours** la
+télé le soir.
+
+**Ex. 4.** joue · joue · de la · jamais.
 
 ## 4. Produire
 
-**Tâche orale (M, en binôme, 2 min) :**
+**Tâche orale (M · en binôme · env. 3 min) — « Interview loisirs ».**
 
-A et B se posent **3 questions** :
+Chaque élève pose **quatre questions** à son ou sa camarade, puis **raconte**
+ses réponses à la classe.
 
-- Tu fais quel sport ?
-- Tu joues d'un instrument ?
+Questions possibles :
+
+- Tu fais quel sport ? À quelle fréquence ?
+- Tu joues d'un instrument de musique ?
 - Tu vas à un club après l'école ?
+- Qu'est-ce que tu ne fais jamais ?
 
-Puis chacun·e raconte ce que l'autre fait : *« Lukas joue au foot
-et fait du piano. »*
+Restitution attendue : *« Noah fait souvent du vélo. Il joue de la batterie,
+mais il ne joue jamais aux échecs. »*
+
+**Critères d'évaluation :**
+
+- Utilise correctement *faire de / jouer à / jouer de* (2 pts).
+- Emploie au moins **deux adverbes de fréquence** (2 pts).
+- Pose des questions claires et écoute la réponse (2 pts).
+- Restitue à la 3ᵉ personne (*il / elle fait…*) (2 pts).
+- Prononciation compréhensible et prise de parole fluide (2 pts).
 
 ## 5. Réfléchir
 
-- [ ] Je connais 8 loisirs en français.
-- [ ] Je distingue *jouer au · faire du · aller à*.
-- [ ] Je peux interviewer un·e camarade en 2 minutes.
+- [ ] Je connais au moins huit loisirs en français.
+- [ ] Je distingue *jouer à · jouer de · faire de*.
+- [ ] Je sais placer un adverbe de fréquence dans la phrase.
+- [ ] Je peux interviewer un·e camarade et raconter ses réponses.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+## Évaluation
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : affiche du collège (C).
-**Tâche 2 — Grammatik (10 P.)** : 6 phrases avec articles.
-**Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)** : interview + restitution.
+**Devoir surveillé (« Klassenarbeit ») — Niveau M**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 pts).** À partir de
+l'annonce de club (texte C), réponds à cinq questions (jour, heure, lieu,
+activité) et corrige deux affirmations fausses.
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' ·
-Produire 10' · Réfléchir 3' · Aperçu 4'.
-</div>
+**Tâche 2 — Grammaire (10 pts).** Complète huit phrases avec la bonne
+préposition (*au / à la / aux / du / de la / de l'*) et ajoute l'adverbe de
+fréquence demandé au bon endroit.
 
-## Pièges fréquents
+**Tâche 3 — Expression orale en interaction (« Sprechen ») (10 pts).** En
+binôme, mène une courte interview sur les loisirs (quatre échanges), puis
+restitue les réponses de ton ou ta camarade à la 3ᵉ personne.
 
-- **« jouer à »** pour les sports/jeux ; **« jouer de »** pour
- les instruments. *Je joue **au** foot.* / *Je joue **du**
- piano.*
-- **« faire »** peut s'utiliser pour la plupart des activités ;
- c'est le passe-partout.
-- **« aller »** + lieu, pas + activité.
+**Barème : 30 points** — 27–30 = très bien · 21–26,5 = bien · 15–20,5 =
+satisfaisant · en dessous : à retravailler.
 
-## Pour aller plus loin
+## Notes pour l'enseignant·e
 
-- **TV5 Monde — Loisirs** : <https://apprendre.tv5monde.com/>
+**Déroulé (45 min) :** Activer 5' · Apporter 12' · S'entraîner 13' · Produire
+10' · Réfléchir 3' · Bilan / devoirs 2'.
+
+**Organisation :** l'annonce de club (C) peut être projetée depuis la
+présentation ; l'interview de la phase Produire se fait debout, en binômes qui
+tournent. Prévoir une grille d'écoute simple pour la restitution.
+
+**Différenciation :** en phase S'entraîner, afficher la banque de prépositions
+pour le groupe G et la retirer pour M/E ; les élèves E ajoutent des phrases
+personnelles à l'Ex. 4 et peuvent enrichir l'interview avec *pourquoi*. Pour la
+note culturelle, on peut montrer une photo libre de droits d'un terrain de
+pétanque.
+
+## Sources
+
+- *Pétanque* — Wikipédia (contributeurs de Wikipédia, consulté en 2026),
+  https://fr.wikipedia.org/wiki/P%C3%A9tanque — licence CC BY-SA 4.0.
+- *La Ciotat* — Wikipédia (contributeurs de Wikipédia, consulté en 2026),
+  https://fr.wikipedia.org/wiki/La_Ciotat — licence CC BY-SA 4.0.

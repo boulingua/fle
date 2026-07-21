@@ -1,0 +1,22 @@
+[
+ {
+  "file": "/fle/materials/audio/unit10_mes-loisirs/dialogue1.ogg",
+  "label": "Dialogue 1",
+  "transcript": "Léa : Regarde, il y a un nouveau club le mercredi !\nThéo : Ah oui ? Moi, le mercredi, je joue au foot avec mon équipe.\nLéa : Tu joues souvent ?\nThéo : Deux fois par semaine. Et toi, tu fais du sport ?\nLéa : Pas vraiment. Je fais de la guitare et je joue aux échecs. Je ne\nfais jamais de foot !\nThéo : Alors viens au club d'échecs, il est le mardi."
+ },
+ {
+  "file": "/fle/materials/audio/unit10_mes-loisirs/vocab1.ogg",
+  "label": "Vocabulaire 1",
+  "transcript": "le foot, le basket, le tennis · les échecs, les cartes · la guitare, le piano, la batterie · la danse, la natation, l'escalade · le dessin, le vélo, le sport · la lecture, les jeux vidéo, la télé"
+ },
+ {
+  "file": "/fle/materials/audio/unit10_mes-loisirs/dialogue2.ogg",
+  "label": "Dialogue 2",
+  "transcript": "Collège Jean-Moulin — clubs de la semaine\n- Lundi, 16 h 30 : club de lecture (salle 12). On lit et on parle des\nlivres. C'est calme et sympa.\n- Mardi, 17 h : club d'échecs (CDI). Débutants bienvenus !\n- Mercredi, 14 h : club de guitare (salle de musique). Apporte ton\ninstrument.\n- Jeudi, 16 h : danse moderne (gymnase B). Deux groupes : débutants et\nconfirmés.\n- Vendredi, 16 h 30 : club de vélo (cour). Sortie d'une heure autour du\nparc."
+ },
+ {
+  "file": "/fle/materials/audio/unit10_mes-loisirs/texte1.ogg",
+  "label": "Texte 1",
+  "transcript": "Bonjour ! Je m'appelle Léa. Je _______ de la guitare et je _______ aux\néchecs. Je fais _______ danse le jeudi, mais je ne fais _______ de foot.\nJ'aime les activités calmes !"
+ }
+]

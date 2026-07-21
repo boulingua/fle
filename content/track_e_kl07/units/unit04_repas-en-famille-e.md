@@ -14,7 +14,7 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1deb0c44c1d547e7b08f880286ad8e3e"
 presentation:
-  file: "/fle/materials/presentations/unit04_repas-en-famille-e.pptx"
+  file: "/fle/materials/presentations/unit04_repas-en-famille-e.odp"
   thumbnail: "/fle/materials/presentations/unit04_repas-en-famille-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit04_repas-en-famille-e.pdf"
@@ -33,126 +33,181 @@ aliases:
 
 ## Objectifs
 
-- Je nomme **15 aliments** (entrée, plat, dessert).
-- J'utilise les **partitifs** *du, de la, des* + *de* à la
- négation.
-- Je discute du **menu familial** dominical.
+- Je peux comprendre un court dialogue à table et repérer le menu (entrée, plat, dessert, boisson).
+- Je peux nommer au moins quinze aliments et les classer par catégorie.
+- Je peux employer les articles partitifs *du, de la, de l', des* et la forme *de* à la négation.
+- Je peux échanger, en binôme, pour planifier un repas familial et poser des questions sur les préférences.
+- Je peux décrire brièvement une habitude alimentaire de ma famille.
 
-## Histoire d'introduction
+## Situation de départ
 
-Dimanche midi chez Anouk. *« À table ! »* — *« Aujourd'hui :
-quiche lorraine, gigot d'agneau, salade verte, et tarte aux
-pommes en dessert. »*
+Dimanche, midi, chez la famille Lemaire. Anouk met la dernière assiette sur la table pendant que son frère Théo arrive de la cuisine.
+
+> — **Anouk :** Théo, tu apportes le plat ? Tout le monde a faim.
+> — **Théo :** Deux secondes ! Aujourd'hui, c'est gigot d'agneau avec des haricots verts.
+> — **La mère :** Et en entrée, j'ai préparé une petite quiche. Anouk, tu veux **de l'**eau ou **du** jus de pomme ?
+> — **Anouk :** **De l'**eau, s'il te plaît. Mais je ne prends pas **de** viande aujourd'hui : je préfère la salade.
+> — **Théo :** Pas de problème, il y a **de la** quiche pour tout le monde. Et **de la** tarte aux pommes en dessert !
+
+**Questions d'activation :**
+
+1. Quel jour se passe la scène ?
+2. Qui a préparé l'entrée ?
+3. Pourquoi Anouk ne prend-elle pas de viande ?
 
 ## 1. Activer
 
-- Mangez-vous tous ensemble le dimanche ?
-- Quel est votre plat préféré ?
-- Aimez-vous cuisiner ?
+Répondez oralement, en classe ou en binôme :
+
+- Mangez-vous souvent tous ensemble en famille ? Quel jour ?
+- Quel est votre plat préféré à la maison ?
+- Aimez-vous cuisiner ? Que savez-vous préparer ?
+- Connaissez-vous des plats français ? Lesquels ?
 
 ## 2. Apporter
 
-### A. 15 aliments
+### A. Vocabulaire — le repas en famille
 
-| Catégorie | Aliments |
-|--------------|------------------------------------------------|
-| Entrée | quiche, salade, soupe, charcuterie |
-| Plat | gigot d'agneau, poulet rôti, poisson, pâtes |
-| Dessert | tarte, gâteau, glace, mousse au chocolat |
-| Boisson | eau, jus de pomme, soda |
+| Catégorie | Aliments et mots utiles |
+|-----------|-------------------------|
+| L'entrée | la quiche, la soupe, la salade, la charcuterie |
+| Le plat | le gigot d'agneau, le poulet rôti, le poisson, les pâtes, les haricots verts |
+| Le dessert | la tarte aux pommes, le gâteau, la glace, la mousse au chocolat |
+| Les boissons | l'eau, le jus de pomme, le soda |
+| À table | l'assiette, les couverts, le verre, mettre la table, avoir faim |
 
-### B. Partitifs
+### B. Point de langue — les articles partitifs
 
-> **du** + masculin : *du fromage*.
-> **de la** + féminin : *de la salade*.
-> **de l'** + voyelle : *de l'eau*.
-> **des** + pluriel : *des légumes*.
+{{< callout type="info" >}}
+**Les partitifs** expriment une quantité indéterminée (« une partie de »).
+
+- **du** + nom masculin : *du fromage*, *du pain*.
+- **de la** + nom féminin : *de la salade*, *de la quiche*.
+- **de l'** + nom commençant par une voyelle ou un *h* muet : *de l'eau*, *de l'huile*.
+- **des** + nom pluriel : *des légumes*, *des pâtes*.
+
+**À la forme négative**, le partitif devient toujours **de** (ou **d'** devant une voyelle) :
+*Je mange **du** pain.* → *Je ne mange pas **de** pain.*
+*Elle prend **de l'**eau.* → *Elle ne prend pas **d'**eau.*
+
+**Attention** : après un verbe d'opinion (*aimer, adorer, détester, préférer*), on emploie l'**article défini**, pas le partitif : *J'aime **le** fromage* (en général), mais *Je mange **du** fromage* (une partie).
+{{< /callout >}}
+
+### C. Texte original — À table le dimanche
+
+> Chez les Lemaire, le repas du dimanche est un moment important. Vers midi, chacun a une tâche : Anouk met la table, Théo aide à la cuisine, et les parents préparent le plat principal. On sert d'abord une entrée, puis le plat avec un accompagnement, et enfin un dessert.
 >
-> **À la négation** : *de* (toujours). *Je ne mange pas **de**
-> viande.*
+> — Qu'est-ce qu'on boit ? demande Théo.
+> — Il y a **du** jus de pomme et **de l'**eau, répond sa mère.
+> — Et pour Anouk, qui ne mange pas **de** viande, il reste **de la** quiche et **des** légumes.
+> — Parfait, dit Anouk. Et comme dessert ?
+> — **De la** tarte aux pommes, faite maison !
 
-### C. Repas dominical (texte original — dialogue)
+### D. Note culturelle — Le repas gastronomique des Français
 
-> — Chéri, tu as mis la table ?
-> — Oui, maman. J'ai posé les assiettes et les couverts.
-> — Qu'est-ce qu'on mange aujourd'hui ?
-> — Quiche lorraine en entrée, gigot d'agneau avec haricots
-> verts en plat, et tarte aux pommes au dessert.
-> — Génial ! Tu veux **du** vin ?
-> — Non, **pas de** vin pour moi. **De l'**eau, s'il te plaît.
-> — D'accord. Et toi, Lena ?
-> — Moi, je voudrais **du** soda et **de la** quiche.
+En 2010, l'UNESCO a inscrit « le repas gastronomique des Français » sur la liste représentative du patrimoine culturel immatériel de l'humanité. Selon les descriptions librement diffusées, il ne s'agit pas d'une recette précise, mais d'une **pratique sociale** : on se réunit pour célébrer les moments importants de la vie (anniversaires, fêtes, réunions de famille). Le repas suit généralement un ordre — apéritif, entrée, plat accompagné de fromage, puis dessert — et accorde une grande importance au choix des produits et à l'harmonie entre les plats et les boissons. C'est cette dimension conviviale et partagée, plus que les mets eux-mêmes, qui a été distinguée. *(Paraphrasé et cité — voir Sources.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Compréhension orale (« Hören ») (texte C).**
+**Ex. 1 — Compréhension orale.** Relisez (ou réécoutez) le texte C, puis répondez.
 
-1. Qui met la table ?
-2. Quels 3 plats sont prévus ?
-3. Que veut Anouk comme boisson ?
-4. Et Lena ?
+1. Quel repas est décrit ?
+2. Qui met la table ?
+3. Quelles boissons sont proposées ?
+4. Que reste-t-il à manger pour Anouk ?
+5. Quel est le dessert ?
 
-**Ex. 2 — Partitifs.**
+**Ex. 2 — Les partitifs.** Complétez avec *du, de la, de l', des* ou *de / d'*.
 
-1. Je voudrais ___ pain (du / de la).
-2. Tu manges ___ salade ?
-3. Elle achète ___ pommes.
-4. Nous ne prenons pas ___ viande.
-5. Vous voulez ___ eau ?
+1. Je voudrais ___ pain, s'il vous plaît.
+2. Tu manges ___ salade ce soir ?
+3. Elle achète ___ pommes au marché.
+4. Nous ne prenons pas ___ viande le vendredi.
+5. Vous voulez ___ eau ou ___ jus ?
+6. Il n'y a plus ___ tarte, désolé.
 
-**Ex. 3 — Vocabulaire.** Entrée, plat, ou dessert ?
+**Ex. 3 — Vocabulaire.** Classez chaque plat : entrée, plat ou dessert ?
 
-a) gigot d'agneau · b) tarte aux pommes · c) quiche lorraine
-· d) mousse au chocolat · e) salade · f) poisson grillé.
+a) le gigot d'agneau · b) la tarte aux pommes · c) la quiche lorraine · d) la mousse au chocolat · e) la salade · f) le poisson grillé
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 4 — Opinion ou quantité ?** Choisissez l'article correct (défini ou partitif).
 
-**Ex. 1.** 1) Anouk (« j'ai posé les assiettes »). 2) Quiche
-lorraine, gigot d'agneau, tarte aux pommes. 3) De l'eau. 4) Du
-soda et de la quiche.
+1. J'adore ___ chocolat. (le / du)
+2. Au petit-déjeuner, je bois ___ café. (le / du)
+3. Elle déteste ___ poisson. (le / du)
+4. On mange ___ pâtes ce soir. (les / des)
 
-**Ex. 2.** 1) du · 2) de la · 3) des · 4) de · 5) de l'.
+**Différenciation :**
+
+- **Niveau G :** réaliser l'Ex. 1 (questions 1 à 3) et l'Ex. 3 avec la banque de mots visible.
+- **Niveau M :** réaliser les Ex. 1 à 3 en entier.
+- **Niveau E :** réaliser les Ex. 1 à 4 et justifier oralement deux choix de l'Ex. 4.
+
+## Solutions
+
+**Ex. 1.** 1) Le repas du dimanche. 2) Anouk. 3) Du jus de pomme et de l'eau. 4) De la quiche et des légumes. 5) De la tarte aux pommes.
+
+**Ex. 2.** 1) du · 2) de la · 3) des · 4) de · 5) de l'eau / du jus · 6) de.
 
 **Ex. 3.** Entrée : c, e. Plat : a, f. Dessert : b, d.
 
-{{< /callout >}}
+**Ex. 4.** 1) le (opinion : *adorer*) · 2) du (quantité) · 3) le (opinion : *détester*) · 4) des (quantité).
 
 ## 4. Produire
 
-**Tâche dialogique (E, en binôme, ~10 répliques) :**
+**Tâche dialogique (en binôme, environ 10 répliques).**
 
-A et B planifient un repas familial : entrée, plat, dessert,
-boisson. **3 partitifs** + **1 négation** + **1 question**.
+A et B planifient un repas familial pour dimanche. Ensemble, ils décident d'une entrée, d'un plat, d'un dessert et des boissons. Chacun exprime au moins une préférence et pose au moins une question à l'autre.
+
+**Consignes de langue :** utilisez au moins **3 partitifs** (*du / de la / de l' / des*), **1 négation** avec *de* et **1 question**.
+
+**Critères d'évaluation :**
+
+| Critère | Indicateur | Points |
+|---------|-----------|--------|
+| Contenu | Menu complet (entrée, plat, dessert, boisson) | 4 |
+| Partitifs | 3 partitifs corrects + 1 négation avec *de* | 4 |
+| Interaction | Questions et réponses, tour de parole équilibré | 3 |
+| Fluidité / prononciation | Débit compréhensible, liaisons | 2 |
 
 ## 5. Réfléchir
 
-- [ ] Je nomme 15 aliments.
-- [ ] J'utilise *du, de la, de l', des* + *de* à la négation.
-- [ ] Je dialogue d'un menu familial.
+Cochez ce que vous savez faire :
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+- [ ] Je comprends un dialogue à table et j'en repère le menu.
+- [ ] Je nomme au moins quinze aliments et je les classe.
+- [ ] J'utilise *du, de la, de l', des* et *de* à la négation.
+- [ ] Je distingue l'article partitif (quantité) de l'article défini (opinion).
+- [ ] Je dialogue pour planifier un repas et je pose des questions.
 
-**Tâche 1 — Hörverstehen (10 P.)** : dialogue, 5 questions.
-**Tâche 2 — Partitifs (8 P.)** : 8 phrases à compléter.
-**Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 P.)** : votre menu (~80
-mots).
+## Évaluation
 
-**Total : 30 P.**
+Épreuve conforme aux compétences visées (compréhension orale et audiovisuelle ; expression orale — interaction).
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 1 — Compréhension orale (10 points).** L'enseignant·e lit (ou diffuse) un court dialogue à table. Répondez à 5 questions sur le menu et les préférences (2 points par réponse).
 
-## Pièges fréquents
+**Tâche 2 — Partitifs (8 points).** Complétez 8 phrases avec *du, de la, de l', des* ou *de / d'* (1 point par phrase).
 
-- **« Je ne veux pas du vin »** ❌ → *« je ne veux pas **de**
- vin »* ✅.
-- **« Bon appétit ! »** = formule avant de manger.
-- **Article défini** avec verbes d'opinion : *J'aime **le**
- fromage* (≠ *du fromage*).
+**Tâche 3 — Interaction orale (12 points).** En binôme, jouez une scène « à table » : proposez un menu, exprimez vos goûts, posez des questions (au moins 8 répliques). Barème : contenu 4, partitifs 4, interaction 4.
 
-## Pour aller plus loin
+**Total : 30 points.**
 
-- **Cuisine actuelle (recettes simples)** :
- <https://www.cuisineactuelle.fr/>
+## Notes pour l'enseignant·e
+
+**Minutage (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' · Produire 12' · Réfléchir 2' · Bilan / aperçu 2'.
+
+**Organisation :** la phase *Apporter* peut se faire en classe entière (tableau du vocabulaire + point de langue), puis les exercices en binômes. Pour la compréhension orale, lire le texte C deux fois à voix haute plutôt que de le faire lire silencieusement.
+
+**Différenciation :** proposer aux groupes G une banque de mots affichée et un menu à trous ; demander aux groupes E de justifier oralement le choix partitif / défini et d'ajouter une réplique culturelle (référence au repas dominical).
+
+**Pièges fréquents à signaler :**
+
+- *« Je ne veux pas du vin »* → *« Je ne veux pas **de** vin »*.
+- *« Bon appétit ! »* se dit avant de commencer à manger.
+- Après *aimer / préférer*, article défini : *J'aime **le** fromage*, et non *du fromage*.
+
+## Sources
+
+- « Repas gastronomique des Français » — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Repas_gastronomique_des_Fran%C3%A7ais>, licence CC BY-SA 4.0.
+- « Article partitif » — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Article_partitif>, licence CC BY-SA 4.0.
+- « Gastronomic meal of the French » — UNESCO, Patrimoine culturel immatériel (2010), <https://ich.unesco.org/fr/RL/le-repas-gastronomique-des-francais-00437>, page de référence (texte paraphrasé, non reproduit).

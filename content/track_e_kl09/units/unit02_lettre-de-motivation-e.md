@@ -12,7 +12,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20ac93c452764ba0b60c412e529b2ee9"
 presentation:
-  file: "/fle/materials/presentations/unit02_lettre-de-motivation-e.pptx"
+  file: "/fle/materials/presentations/unit02_lettre-de-motivation-e.odp"
   thumbnail: "/fle/materials/presentations/unit02_lettre-de-motivation-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit02_lettre-de-motivation-e.pdf"
@@ -31,145 +31,218 @@ aliases:
 
 ## Objectifs
 
-- Je rédige une **lettre de motivation** (~180 mots) au format
- français.
-- J'utilise **5 formules de politesse** appropriées.
-- Je structure ma lettre en **3 paragraphes** (vous / moi /
- nous).
+- Je peux **rédiger une lettre de motivation** (environ 180 mots) en respectant la mise en forme française (en-tête, date, objet, formule d'appel, formule de clôture, signature).
+- Je peux **structurer ma lettre en trois paragraphes** selon la méthode « Vous – Moi – Nous ».
+- Je peux **employer les formules de politesse** appropriées à un contexte formel (formule d'appel et formule de clôture).
+- Je peux **utiliser le conditionnel de politesse** (*je souhaiterais, j'aimerais, je serais*) pour formuler une demande courtoise.
+- Je peux **relire et corriger ma lettre** à l'aide d'une grille de critères.
 
-## Histoire d'introduction
+## Situation de départ
 
-Anouk vise un stage chez la **librairie Mollat** à Bordeaux
-pour la cycle terminal (« Kursstufe »). M. Klein insiste : *« En France, la lettre
-de motivation manuscrite reste fréquente — soignez la
-forme. »*
+Anouk cherche un stage d'observation en France. Elle montre son brouillon à son enseignant, M. Klein.
+
+> **Anouk.** — Monsieur, j'ai écrit à la librairie Mollat à Bordeaux. J'ai commencé par « Salut, je voudrais un stage ! ». C'est bon ?
+>
+> **M. Klein.** — Attention, Anouk : une candidature, c'est du registre formel. On ne dit pas « Salut », on écrit « Madame, Monsieur, ».
+>
+> **Anouk.** — Et pour terminer ? En allemand, j'écris juste « Mit freundlichen Grüßen ».
+>
+> **M. Klein.** — En français, la formule de clôture est plus longue : *« Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées. »* La forme compte autant que le contenu.
+
+**Questions d'activation :**
+
+1. Pourquoi la première phrase d'Anouk ne convient-elle pas ?
+2. Quelle différence voyez-vous entre la clôture allemande et la clôture française ?
+3. Dans quelles situations écrit-on une lettre de motivation ?
 
 ## 1. Activer
 
-- Avez-vous déjà rédigé une lettre formelle ?
-- Que mettre dans une candidature ?
-- *Vouvoiement* / *tutoiement* : différence ?
+- Avez-vous déjà rédigé une lettre formelle, en allemand ou en français ?
+- Que doit contenir, selon vous, une bonne candidature ?
+- *Vouvoiement* et *tutoiement* : quand emploie-t-on l'un ou l'autre ?
+- Quelles informations mettez-vous en haut d'une lettre (expéditeur, destinataire, date) ?
 
 ## 2. Apporter
 
-### A. Structure 3 paragraphes (méthode « Vous - Moi - Nous »)
+### A. Vocabulaire de la candidature
 
-| § | Contenu |
-|---|---------------------------------------------------|
-| 1 | **Vous** : pourquoi cette entreprise ? |
-| 2 | **Moi** : mes compétences, mon parcours |
-| 3 | **Nous** : ce que j'apporte + demande d'entretien |
+| Français | Exemple / précision | Allemand |
+|---|---|---|
+| une lettre de motivation | accompagne le CV | das Motivationsschreiben |
+| un stage (d'observation) | dans une entreprise | das Praktikum |
+| une candidature | poser sa candidature | die Bewerbung |
+| le / la destinataire | à qui l'on écrit | der/die Empfänger·in |
+| l'objet (m.) | résume le but de la lettre | der Betreff |
+| la formule d'appel | *Madame, Monsieur,* | die Anrede |
+| la formule de clôture | *Veuillez agréer…* | die Grußformel |
+| le registre formel | vouvoiement, politesse | das förmliche Register |
+| effectuer un stage | passer du temps en entreprise | ein Praktikum machen |
+| joindre (un CV) | ajouter un document | (den Lebenslauf) beilegen |
 
-### B. 5 formules de politesse
+### B. Point de langue
 
-1. *Madame, Monsieur,* (en-tête)
-2. *Je me permets de vous écrire pour …*
-3. *Je serais très intéressé·e par …*
-4. *Veuillez agréer, Madame, Monsieur, l'expression de mes
- salutations distinguées.*
-5. *Dans l'attente de votre réponse, je vous prie de
- recevoir, Madame, Monsieur, mes meilleures salutations.*
+{{< callout type="info" >}}
+**Le conditionnel de politesse.** Pour formuler une demande sans paraître exiger, on emploie le conditionnel présent :
 
-### C. Lettre d'Anouk (texte original)
+- *Je **voudrais** effectuer un stage chez vous.* (au lieu de *je veux*)
+- *J'**aimerais** découvrir votre métier.*
+- *Je **souhaiterais** vous rencontrer.*
+- *Je **serais** heureuse de contribuer à votre équipe.*
 
-> **Anouk SCHMIDT**
-> Karlsruhe, le 12 octobre 2026
+Formation : radical du futur + terminaisons de l'imparfait (*-ais, -ais, -ait, -ions, -iez, -aient*). Ex. : *je voudr**ais**, tu aimer**ais**, il souhaiter**ait***.
+{{< /callout >}}
+
+### C. La lettre d'Anouk (texte original)
+
+> **Anouk Schmidt**
+> 12 rue des Tilleuls, 76000 Karlsruhe
 >
 > Librairie Mollat
-> 15 rue Vital-Carles, Bordeaux
+> 15 rue Vital-Carles, 33000 Bordeaux
 >
-> **Madame, Monsieur,**
+> Karlsruhe, le 12 octobre 2026
 >
-> Votre librairie indépendante, la plus grande de France,
-> m'inspire profondément. Je découvre vos rencontres-
-> auteur·e·s sur YouTube depuis deux ans.
+> **Objet :** demande de stage d'observation
 >
-> Je suis élève de 9e au lycée (« Gymnasium ») de Karlsruhe et lectrice
-> passionnée. **J'aimerais** effectuer un stage de 5 jours
-> chez vous en avril 2027, dans le cadre du stage d'orientation (« BORS ») au lycée (« BOGY »).
+> Madame, Monsieur,
 >
-> Je serais heureuse de pouvoir contribuer à votre équipe et
-> de découvrir le métier de libraire. Je suis disponible pour
-> un entretien à votre convenance.
+> Votre librairie indépendante, l'une des plus grandes de France, m'inspire beaucoup. Je suis vos rencontres avec les auteur·e·s en ligne depuis deux ans et j'admire votre travail de conseil auprès des lecteurs.
 >
-> **Veuillez agréer, Madame, Monsieur, l'expression de mes
-> salutations distinguées.**
+> Je suis élève de classe 9 dans un lycée de Karlsruhe et lectrice passionnée. J'aimerais effectuer un stage d'observation d'une semaine chez vous au mois d'avril 2027, dans le cadre de mon orientation professionnelle. J'apprends le français depuis quatre ans et je suis à l'aise à l'oral comme à l'écrit.
+>
+> Je serais heureuse de découvrir le métier de libraire et de contribuer, à ma mesure, à votre équipe. Je me tiens à votre disposition pour un entretien à votre convenance.
+>
+> Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 >
 > Anouk Schmidt
 
+### D. Note culturelle
+
+En France, la lettre de motivation accompagne traditionnellement le curriculum vitæ lors d'une candidature à un emploi, à un stage ou à une formation. Elle sert à exposer les raisons pour lesquelles on postule et à mettre en valeur l'adéquation entre le profil du candidat et le poste visé. Longtemps rédigée à la main, elle est aujourd'hui le plus souvent dactylographiée, mais certains recruteurs demandent encore un exemplaire manuscrit. On y attend un registre soutenu, une mise en page soignée et des formules de politesse conventionnelles. *(Paraphrasé de l'article « Lettre de motivation », Wikipédia, CC BY-SA 4.0.)*
+
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase.
 
-1. À qui s'adresse la lettre ?
-2. Pour quel type de stage ?
-3. Combien de jours ?
-4. Quelle formule de clôture utilise Anouk ?
+a) À qui Anouk adresse-t-elle sa lettre ?
+b) Quel type de stage demande-t-elle, et pour quelle durée ?
+c) Quel argument montre qu'elle connaît déjà la librairie ?
+d) Quelle formule de clôture utilise-t-elle ?
 
-**Ex. 2 — Politesse.** Choisissez la bonne formule (formelle
-/ informelle) :
+**Ex. 2 — Registre.** Pour chaque expression, indiquez si elle est **appropriée** (A) ou **inappropriée** (I) dans une lettre de motivation. Corrigez les inappropriées.
 
-a) *Salut, Mollat !* → ___
-b) *Bisous* → ___ (clôture)
-c) *Madame, Monsieur,* → ___
+a) *Salut la librairie !*
+b) *Madame, Monsieur,*
+c) *Bisous, à plus !*
+d) *Veuillez agréer, Madame, Monsieur, mes salutations distinguées.*
 
-**Ex. 3 — Conditionnel poli.** Reformulez : *Je veux faire
-un stage chez vous.* (3 versions possibles).
+**Ex. 3 — Conditionnel de politesse.** Reformulez ces phrases trop directes.
 
-{{< callout type="tip" title="Solutions" >}}
+a) *Je veux faire un stage chez vous.*
+b) *Je peux venir en avril ?*
+c) *Donnez-moi un rendez-vous.*
 
-**Ex. 1.** 1) Librairie Mollat (Bordeaux). 2) stage d'orientation au lycée,
-librairie. 3) 5 jours. 4) *Veuillez agréer … salutations
-distinguées.*
+**Ex. 4 — Remise en ordre.** Remettez les éléments d'une lettre dans l'ordre correct (numérotez de 1 à 6).
 
-**Ex. 2.** a) inapproprié → *Madame, Monsieur,* · b)
-inapproprié → *Salutations distinguées.* · c) approprié.
+- ___ Formule de clôture
+- ___ Coordonnées de l'expéditeur
+- ___ Corps de la lettre (3 paragraphes)
+- ___ Formule d'appel (*Madame, Monsieur,*)
+- ___ Signature
+- ___ Lieu et date
 
-**Ex. 3.** *J'aimerais faire un stage chez vous.* · *Je
-souhaiterais effectuer un stage chez vous.* · *Je serais
-intéressé·e par un stage chez vous.*
-
+{{< callout type="tip" >}}
+**Différenciation.**
+**(G)** À l'ex. 3, choisissez le verbe dans une liste : *voudrais / aimerais / souhaiterais*.
+**(M)** Reformulez avec vos propres mots, un verbe au conditionnel par phrase.
+**(E)** Ajoutez une phrase de justification après chaque reformulation (ex. : *… car votre équipe m'intéresse beaucoup*).
 {{< /callout >}}
+
+## Solutions
+
+**Ex. 1.**
+a) À la librairie Mollat, à Bordeaux.
+b) Un stage d'observation d'une semaine, en avril 2027.
+c) Elle suit les rencontres avec les auteur·e·s en ligne depuis deux ans.
+d) *Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.*
+
+**Ex. 2.**
+a) **I** → *Madame, Monsieur,*
+b) **A**
+c) **I** → *Veuillez agréer, Madame, Monsieur, mes salutations distinguées.*
+d) **A**
+
+**Ex. 3.** (réponses possibles)
+a) *Je voudrais / j'aimerais effectuer un stage chez vous.*
+b) *Serait-il possible de venir en avril ? / Je pourrais venir en avril.*
+c) *Je souhaiterais convenir d'un rendez-vous avec vous.*
+
+**Ex. 4.** 1 = Coordonnées de l'expéditeur · 2 = Lieu et date · 3 = Formule d'appel · 4 = Corps de la lettre · 5 = Formule de clôture · 6 = Signature.
 
 ## 4. Produire
 
-**Tâche d'écriture (E, ~180 mots) :**
+**Tâche d'écriture (E, environ 180 mots).**
 
-Rédigez **votre lettre de motivation** pour un stage en
-France ou en Suisse romande : structure 3 paragraphes (Vous
-/ Moi / Nous) + 4 formules de politesse + 3 conditionnels
-polis.
+Rédigez **votre lettre de motivation** pour un stage d'observation d'une semaine dans une entreprise ou une institution en France ou en Suisse romande (librairie, office de tourisme, école, cinéma, etc.). Votre lettre doit contenir :
+
+- l'en-tête complet (expéditeur, destinataire, lieu et date, objet) ;
+- une formule d'appel et une formule de clôture correctes ;
+- trois paragraphes selon la méthode « Vous – Moi – Nous » ;
+- au moins trois formulations au conditionnel de politesse.
+
+**Critères d'évaluation.**
+
+| Critère | Indicateurs |
+|---|---|
+| Mise en forme | en-tête, date, objet, signature présents et bien placés |
+| Structure | trois paragraphes distincts (Vous / Moi / Nous) |
+| Registre et politesse | vouvoiement, formule d'appel et de clôture correctes |
+| Langue | conditionnel de politesse, orthographe, ponctuation |
+| Longueur | environ 180 mots |
 
 ## 5. Réfléchir
 
-- [ ] J'utilise la structure 3 §.
-- [ ] Je connais 5 formules de politesse.
-- [ ] Je rédige une lettre de 180 mots correcte.
+- [ ] J'ai écrit un en-tête complet (expéditeur, destinataire, lieu, date, objet).
+- [ ] J'ai utilisé la structure en trois paragraphes « Vous – Moi – Nous ».
+- [ ] J'ai employé une formule d'appel et une formule de clôture correctes.
+- [ ] J'ai vouvoyé mon destinataire tout au long de la lettre.
+- [ ] J'ai utilisé au moins trois conditionnels de politesse.
+- [ ] J'ai relu ma lettre et corrigé l'orthographe et la ponctuation.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+## Évaluation
 
-**Tâche 1 — Lecture (8 P.)** : lettre Anouk, 4 questions.
-**Tâche 2 — Formules (10 P.)** : 5 choix politesse.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre lettre (~180 mots).
+**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau E · 30 points**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension écrite (8 pts).** Lisez la lettre d'Anouk (texte C) et répondez à quatre questions.
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Registre et formules (10 pts).** Classez cinq expressions en « approprié / inapproprié » et corrigez les inappropriées ; complétez deux formulations au conditionnel de politesse.
 
-## Pièges fréquents
+**Tâche 3 — Expression écrite (12 pts).** Rédigez votre propre lettre de motivation (environ 180 mots) pour un stage en France ou en Suisse romande.
 
-- **« Madame, Monsieur, »** sans virgule entre les deux n'est
- pas correct ; toujours **virgule + majuscule au mot suivant**.
-- **« Veuillez agréer »** : impératif, pas conditionnel.
-- **Date** : *Karlsruhe, le 12 octobre 2026* (lieu virgule
- *le* date).
+**Barème.**
 
-## Pour aller plus loin
+| Tâche | Points |
+|---|---|
+| 1 — Compréhension écrite | 8 |
+| 2 — Registre et formules | 10 |
+| 3 — Expression écrite | 12 |
+| **Total** | **30** |
 
-- **Pôle emploi — modèles de lettre de motivation** :
- <https://www.pole-emploi.fr/>
-- **CIDJ (Centre d'information et de documentation jeunesse)** :
- <https://www.cidj.com/>
+Répartition de la tâche 3 : mise en forme 3 · structure 3 · registre et politesse 3 · langue 3.
+
+## Notes pour l'enseignant·e
+
+**Durée : 45 min.** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Bilan 2'.
+
+**Organisation.** Projeter la lettre d'Anouk (texte C) pendant la phase Apporter. Les exercices 1 à 4 se font individuellement puis se corrigent en binômes. Réserver la phase Produire pour un brouillon guidé ; la version finale peut être terminée à la maison.
+
+**Différenciation.** (G) fournir une trame de lettre à compléter (phrases à trous) ; (M) fournir la liste des formules et le squelette « Vous – Moi – Nous » ; (E) exiger un objet précis et une justification personnalisée dans chaque paragraphe.
+
+**Pièges fréquents.** *Madame, Monsieur,* prend une virgule et une majuscule au mot suivant. *Veuillez agréer* est un impératif, non un conditionnel. La date s'écrit *Karlsruhe, le 12 octobre 2026* (lieu, virgule, *le*, date).
+
+## Sources
+
+- *Lettre de motivation* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Lettre_de_motivation>, licence CC BY-SA 4.0.
+- *Curriculum vitæ* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Curriculum_vit%C3%A6>, licence CC BY-SA 4.0.
+
+*Plateforme éducative indépendante, sans affiliation aux institutions ou entreprises citées. Les noms propres servent uniquement d'exemples pédagogiques.*

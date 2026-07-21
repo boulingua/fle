@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1f7ac3027cae473aadf7c6a83caa4b2d"
 presentation:
-  file: "/fle/materials/presentations/unit02_correspondance-avec-montreal-e.pptx"
+  file: "/fle/materials/presentations/unit02_correspondance-avec-montreal-e.odp"
   thumbnail: "/fle/materials/presentations/unit02_correspondance-avec-montreal-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit02_correspondance-avec-montreal-e.pdf"
@@ -33,132 +33,193 @@ aliases:
 
 ## Objectifs
 
-- Je rédige un **courriel** structuré (~150 mots).
-- Je distingue **français de France** et **français du Québec**.
-- J'utilise **5 expressions** québécoises avec aisance.
+- Je peux comprendre un **courriel personnel** venu du Québec et en repérer les informations principales.
+- Je peux rédiger un **courriel amical structuré** (~150 mots) à un·e correspondant·e.
+- Je peux raconter des faits récents en distinguant le **présent** et le **passé composé**.
+- Je peux reconnaître et employer quelques **québécismes** courants avec justesse.
+- Je peux comparer, sans les juger, le **français du Québec** et le **français de France**.
 
-## Histoire d'introduction
+## Situation de départ
 
-Anouk reçoit un long courriel de sa cousine Inès. *« Salut !
-Comment ça va à Karlsruhe ? Ici à Montréal, c'est l'automne, mes
-études se passent bien… »*
+Anouk, élève à Karlsruhe, ouvre sa boîte de courriels un dimanche matin. Un message de sa correspondante montréalaise, Inès, vient d'arriver. Elle le lit à voix haute à sa sœur.
+
+> **Anouk.** — Écoute, Inès m'a écrit ! *« Salut Anouk ! Cette semaine, j'ai magasiné en ligne et j'ai trouvé une tuque super. Aujourd'hui, il fait frette ! »*
+>
+> **Sa sœur.** — Une *tuque* ? Il fait *frette* ? Je ne comprends rien…
+>
+> **Anouk.** — Une tuque, c'est un bonnet. Et *frette*, ça veut dire « très froid ». C'est du français, mais du français du Québec !
+
+**Questions d'activation :**
+
+- Qui écrit à qui, et depuis quel pays ?
+- Quels deux mots Anouk doit-elle expliquer à sa sœur ?
+- Repérez un verbe au **présent** et un verbe au **passé composé** dans le message.
 
 ## 1. Activer
 
-- Écrivez-vous des courriels ou des messages ?
-- À qui écrivez-vous en français ?
-- Quelle différence entre Québec et France ?
+- Écrivez-vous des courriels, des messages ou des lettres ? À qui ?
+- Avez-vous déjà écrit en français à quelqu'un·e ? Dans quelle situation ?
+- Selon vous, quelle formule ouvre un courriel amical ? Laquelle le termine ?
+- Connaissez-vous déjà un mot « québécois » ? Lequel ?
 
 ## 2. Apporter
 
-### A. Structure d'un courriel personnel
+### A. Vocabulaire — écrire un courriel amical
 
-1. **Salutation** : *Salut, Bonjour, Cher/Chère …*
-2. **Accroche** : *Comment ça va ? J'espère que tu vas bien.*
-3. **Corps** : nouvelles, questions (2-3 paragraphes).
-4. **Clôture** : *Réponds-moi vite ! À bientôt.*
-5. **Signature** : prénom + bisous / amicalement.
+| Français | Fonction dans le courriel | Allemand (Hilfe) |
+|---|---|---|
+| Salut ! / Coucou ! | salutation informelle | *Hallo!* |
+| Comment ça va ? | accroche | *Wie geht's?* |
+| J'espère que tu vas bien | accroche | *Ich hoffe, dir geht es gut* |
+| Devine quoi ! | relancer, annoncer une nouvelle | *Rate mal!* |
+| Et toi ? | poser une question en retour | *Und du?* |
+| Réponds-moi vite ! | clôture | *Antworte mir schnell!* |
+| À bientôt / Bises | formule de fin | *Bis bald / Liebe Grüße* |
 
-### B. 5 québécismes (révision + nouveaux)
+**Quelques québécismes utiles :** *magasiner* (faire les magasins), *une tuque* (un bonnet), *un char* (une voiture), *un dépanneur* (une épicerie de quartier), *jaser* (bavarder), *plate* (ennuyeux), *écœurant* (génial, dans un sens positif !).
 
-- *magasiner · char · chum/blonde · dépanneur · poutine.*
-- **Nouveaux** : *jaser* (parler), *plate* (ennuyeux),
- *écœurant* (génial !).
+### B. Point de langue — présent vs passé composé
 
-### C. Courriel d'Inès (texte original)
+{{< callout type="info" >}}
+**Raconter dans un courriel : deux temps de base**
 
-> **De :** ines.tremblay@montreal.qc.ca
-> **À :** anouk.schmidt@karlsruhe.de
-> **Objet :** Nouvelles d'octobre
+- **Présent** = ce qui est vrai maintenant, une habitude, une situation.
+  *Ici, il fait froid. J'aime ma nouvelle école.*
+- **Passé composé** = une action terminée, une nouvelle récente.
+  Formation : **avoir** ou **être** (au présent) + **participe passé**.
+  *J'ai magasiné. Nous avons visité le port. Je suis allée à Québec.*
+
+**Astuce accord :** avec **être**, le participe s'accorde avec le sujet.
+*Inès est allé**e**. Antoine est allé.*
+{{< /callout >}}
+
+### C. Le courriel d'Inès (texte original)
+
+> **De :** ines.tremblay@courriel.qc.ca
+> **À :** anouk.schmidt@courriel.de
+> **Objet :** Des nouvelles de Montréal !
 >
 > Salut Anouk !
 >
-> Comment ça va ? J'espère que ta rentrée en 8e s'est bien
-> passée. Ici, j'ai commencé le secondaire 2 (= 7e en France).
-> J'aime ma nouvelle prof de maths — elle est *écœurante* !
+> Comment ça va ? J'espère que ta rentrée s'est bien passée. Ici, à Montréal, c'est l'automne et il commence à faire *frette* le matin.
 >
-> La semaine dernière, on a fait du **magasinage** au centre-
-> ville. J'ai trouvé une jolie tuque rouge. Mon **chum**
-> Antoine, lui, n'a rien acheté — il a dit que c'était
-> *plate*.
+> Devine quoi ! La semaine dernière, j'ai **magasiné** au centre-ville avec mon amie Léa. J'ai trouvé une **tuque** rouge, vraiment *écœurante* ! Après, on a **jasé** pendant des heures dans un petit café. C'était super.
 >
-> Demain, je vais **jaser** avec ma grand-mère par téléphone —
-> elle vit à Québec. Et toi, comment va Karim, ton nouveau
-> correspondant à Lille ?
+> Aujourd'hui, je reste à la maison : je **fais** mes devoirs et j'**écoute** de la musique. Demain, mes parents et moi, nous **allons** rendre visite à ma grand-mère à Québec. Elle habite près du fleuve.
 >
-> À bientôt !
+> Et toi, qu'est-ce que tu as fait cette semaine ? Est-ce qu'il fait froid à Karlsruhe ?
 >
+> Réponds-moi vite !
+>
+> Bises,
 > Inès
+
+### D. Note culturelle — le français au Québec
+
+Au Québec, le français est la langue officielle. La *Charte de la langue française*, adoptée en 1977, en fait la langue normale du travail, de l'enseignement et de l'administration. Une institution publique, l'**Office québécois de la langue française**, veille à son usage et à sa qualité. Le français québécois partage sa grammaire avec le français de France, mais il possède un vocabulaire propre (les « québécismes ») et une prononciation particulière, héritée notamment du français parlé aux XVIIᵉ et XVIIIᵉ siècles. *(D'après Wikipédia, articles « Français québécois » et « Charte de la langue française », CC BY-SA.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Exercice 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 
-1. Quelle est l'objet du courriel ?
-2. Quelle classe a Inès au Québec ?
-3. Que signifie *écœurant(e)* ?
-4. Pourquoi Antoine n'a rien acheté ?
+1. Quel est l'objet du courriel ?
+2. En quelle saison Inès écrit-elle, et quel temps fait-il ?
+3. Qu'a fait Inès la semaine dernière avec son amie Léa ?
+4. Que va faire Inès demain, et où habite sa grand-mère ?
 
-**Ex. 2 — Québécismes.** Donnez l'équivalent français de France :
+**Exercice 2 — Québécismes.** Donnez l'équivalent en français de France.
 
-a) magasiner · b) chum · c) jaser · d) plate · e) écœurant.
+a) magasiner · b) une tuque · c) jaser · d) plate · e) écœurant (positif)
 
-**Ex. 3 — Structure.** Repérez dans le texte C :
+**Exercice 3 — Présent ou passé composé ?** Classez ces formes du texte C dans le bon temps.
 
-- la salutation, l'accroche, 1 question, la clôture.
+*j'ai magasiné · je reste · nous allons · on a jasé · j'écoute · j'ai trouvé*
 
-{{< callout type="tip" title="Solutions" >}}
+**Exercice 4 — Compléter.** Mettez le verbe entre parenthèses au **passé composé**.
 
-**Ex. 1.** 1) Nouvelles d'octobre. 2) Secondaire 2 (= 7e). 3)
-*Génial ! Super !* (au Québec). 4) Il a trouvé que c'était
-*plate* (ennuyeux).
+1. La semaine dernière, nous (visiter) ______ le Vieux-Montréal.
+2. Hier, Inès (trouver) ______ une belle tuque.
+3. Le week-end dernier, je (aller) ______ chez ma grand-mère.
+4. Léa et moi, nous (jaser) ______ pendant deux heures.
 
-**Ex. 2.** a) faire les magasins · b) copain · c) parler/discuter
-· d) ennuyeux · e) génial.
-
-**Ex. 3.** Salutation : *« Salut Anouk ! »*. Accroche :
-*« Comment ça va ? »*. Question : *« Comment va Karim ? »*.
-Clôture : *« À bientôt ! »*.
-
+{{< callout type="note" >}}
+**Différenciation.** **G** : faites l'Ex. 1 (questions 1–2) et l'Ex. 2 avec la banque de mots. **M** : traitez tous les exercices. **E** : après l'Ex. 4, réécrivez deux phrases au présent pour marquer le contraste des temps.
 {{< /callout >}}
+
+## Solutions
+
+**Exercice 1.**
+1. Donner des nouvelles de Montréal (l'objet : *« Des nouvelles de Montréal ! »*).
+2. C'est l'automne ; il commence à faire froid (*frette*) le matin.
+3. Elle a magasiné au centre-ville, a trouvé une tuque rouge, puis a jasé dans un café.
+4. Demain, elle va rendre visite à sa grand-mère à Québec ; celle-ci habite près du fleuve.
+
+**Exercice 2.** a) faire les magasins · b) un bonnet · c) bavarder / discuter · d) ennuyeux · e) génial / super.
+
+**Exercice 3.**
+- Présent : *je reste · nous allons · j'écoute.*
+- Passé composé : *j'ai magasiné · on a jasé · j'ai trouvé.*
+
+**Exercice 4.**
+1. avons visité · 2. a trouvé · 3. suis allé·e · 4. avons jasé.
 
 ## 4. Produire
 
-**Tâche d'écriture (E, ~150 mots) :**
+**Tâche d'écriture (Niveau E, ~150 mots).**
 
-Rédigez un **courriel-réponse** à Inès : structure complète +
-3 nouvelles + 1 question + **2 québécismes** entre guillemets.
+Rédigez le **courriel-réponse** d'Anouk à Inès. Votre message doit contenir :
+
+- une salutation, une accroche et une formule de clôture ;
+- **trois nouvelles** de la semaine, dont au moins deux au **passé composé** ;
+- **une phrase au présent** pour décrire une situation ou une habitude ;
+- **une question** posée à Inès ;
+- **deux québécismes** (entre guillemets), utilisés correctement.
+
+{{< callout type="tip" >}}
+**Critères d'évaluation**
+
+- Structure du courriel complète (salutation → corps → clôture).
+- Emploi correct du présent **et** du passé composé.
+- Deux québécismes bien intégrés et bien orthographiés.
+- Message clair, cohérent, d'une longueur d'environ 150 mots.
+{{< /callout >}}
 
 ## 5. Réfléchir
 
-- [ ] Je rédige un courriel structuré.
-- [ ] Je connais 8 québécismes.
-- [ ] Je dialogue par courriel avec une Québécoise.
+- [ ] Je comprends un courriel amical venu du Québec.
+- [ ] Je rédige un courriel structuré (salutation, corps, clôture).
+- [ ] J'utilise le passé composé pour raconter des faits récents.
+- [ ] J'emploie au moins deux québécismes correctement.
+- [ ] Je sais expliquer une différence entre français du Québec et de France.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+## Évaluation
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : courriel d'Inès,
-5 questions.
-**Tâche 2 — Vocabulaire (8 P.)** : 8 québécismes.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre courriel (~150 mots).
+**Devoir surveillé (« Klassenarbeit ») — Niveau E**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension écrite (10 pts).** Lisez le courriel d'Inès (texte C) et répondez à 5 questions (informations principales + sens de deux québécismes).
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Vocabulaire et langue (8 pts).** Donnez l'équivalent français de France de 4 québécismes (4 pts) et mettez 4 verbes au passé composé (4 pts).
 
-## Pièges fréquents
+**Tâche 3 — Expression écrite (12 pts).** Rédigez un courriel-réponse (~150 mots) : structure complète, présent + passé composé, deux québécismes.
 
-- **« Écœurant »** au Québec = positif (super !) ; en France,
- ça veut dire *qui dégoûte* (négatif !).
-- **« Jaser »** au Québec = bavarder gentiment ; en France, ça
- peut être négatif (cancaner).
-- **« Plate »** au Québec = ennuyeux ; en France, ça veut dire
- plat (sans relief).
+**Barème :** Tâche 1 : 10 · Tâche 2 : 8 · Tâche 3 : 12 — **Total : 30 pts.**
 
-## Pour aller plus loin
+## Notes pour l'enseignant·e
 
-- **Office québécois de la langue française — vitrine** :
- <https://vitrinelinguistique.oqlf.gouv.qc.ca/>
+**Durée : 45 min.**
+
+- Activer (5') : questions orales, tour de table rapide.
+- Apporter (14') : vocabulaire + point de langue présent/passé composé (6'), lecture guidée du texte C (5'), note culturelle (3').
+- S'entraîner (12') : Ex. 1–4 en autonomie ou en binômes ; correction avec la section Solutions.
+- Produire (11') : rédaction du courriel-réponse (brouillon amorcé en classe, finalisé à la maison si besoin).
+- Réfléchir (3') : liste d'auto-évaluation.
+
+**Organisation.** Prévoir la banque de mots au tableau pour le groupe G. Le texte C peut être projeté (voir présentation .odp).
+
+**Différenciation.** G : appui lexical et questions ciblées ; M : parcours complet ; E : contraste explicite des temps et enrichissement lexical (québécismes supplémentaires). Attention au piège interculturel : *écœurant*, *jaser* et *plate* n'ont pas le même sens qu'en France — à expliciter.
+
+## Sources
+
+- Français québécois — Wikipédia (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Fran%C3%A7ais_qu%C3%A9b%C3%A9cois>, licence CC BY-SA 4.0.
+- Charte de la langue française — Wikipédia (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Charte_de_la_langue_fran%C3%A7aise>, licence CC BY-SA 4.0.
+- Office québécois de la langue française — Vitrine linguistique (référence, non affiliée), <https://vitrinelinguistique.oqlf.gouv.qc.ca/>.

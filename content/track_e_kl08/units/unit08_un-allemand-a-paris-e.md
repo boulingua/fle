@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20050598d87c43d4a6aa0934538afbd6"
 presentation:
-  file: "/fle/materials/presentations/unit08_un-allemand-a-paris-e.pptx"
+  file: "/fle/materials/presentations/unit08_un-allemand-a-paris-e.odp"
   thumbnail: "/fle/materials/presentations/unit08_un-allemand-a-paris-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit08_un-allemand-a-paris-e.pdf"
@@ -33,124 +33,175 @@ aliases:
 
 ## Objectifs
 
-- Je lis le **journal de voyage** d'un Allemand à Paris.
-- J'utilise le **futur simple** (introduit en 8e).
-- Je rédige **3 entrées de journal** (~120 mots).
+- Je peux **comprendre un texte** (blog, carte postale) où un jeune Allemand raconte son séjour à Paris.
+- Je peux **repérer** dans un texte les détails d'une rencontre interculturelle (lieux, habitudes, malentendus).
+- Je peux **utiliser le futur simple** pour parler de projets de voyage.
+- Je peux **rédiger** trois entrées de journal (~120 mots) sur un séjour à Paris.
+- Je peux **comparer** quelques habitudes françaises et allemandes avec respect et curiosité.
 
-## Histoire d'introduction
+## Situation de départ
 
-Anouk lit le blog de **Jonas**, un lycéen de Karlsruhe parti
-**3 jours à Paris** avec sa classe. Il raconte la **tour
-Eiffel**, le **Louvre**, et son premier croissant *« qui n'a
-rien à voir avec un Brezel »*.
+Jonas, seize ans, vient de Karlsruhe. Il passe une semaine à Paris avec sa correspondante française, Léa. Le premier soir, ils discutent dans la cuisine.
+
+> **Léa.** Alors, Jonas, ta première journée à Paris, c'était comment ?
+>
+> **Jonas.** Fatigante, mais géniale ! Une chose m'a surpris : ici, on dîne très tard. Chez moi, à Karlsruhe, on mange souvent à dix-huit heures.
+>
+> **Léa.** Ah oui, chez nous, vingt heures, c'est normal. Et demain, qu'est-ce que tu **voudras** faire ?
+>
+> **Jonas.** Je **visiterai** la tour Eiffel, bien sûr ! Et j'**achèterai** des macarons pour ma mère.
+>
+> **Léa.** Parfait. On **prendra** le métro ensemble.
+
+**Questions d'activation.**
+
+1. D'où vient Jonas ? Où est-il en ce moment ?
+2. Quelle différence culturelle le surprend le premier soir ?
+3. Que projette-t-il de faire le lendemain ?
 
 ## 1. Activer
 
-- Avez-vous déjà été à Paris ?
-- Quels lieux iriez-vous voir en priorité ?
-- Quelle spécialité parisienne goûter ?
+- Avez-vous déjà rencontré une personne d'un autre pays ? Qu'est-ce qui vous a surpris·e ?
+- À quelle heure dîne-t-on chez vous ? Pensez-vous que c'est pareil partout ?
+- Citez trois lieux de Paris que vous aimeriez visiter.
+- Selon vous, quels malentendus peuvent naître entre un·e Allemand·e et un·e Français·e ?
 
 ## 2. Apporter
 
-### A. Futur simple (introduction E)
+### A. Vocabulaire — « rencontre et séjour à Paris »
 
-| Verbe | je-il-elle | nous-vous-ils |
-|---------|---------------|---------------------|
-| visiter | je visiterai | nous visiterons |
-| aller | j'irai | nous irons |
-| voir | je verrai | nous verrons |
-| être | je serai | nous serons |
-| avoir | j'aurai | nous aurons |
+| Français | Exemple | Allemand (aide) |
+|---|---|---|
+| un·e correspondant·e | *Léa est ma correspondante.* | der/die Austauschpartner·in |
+| un séjour | *un séjour d'une semaine* | der Aufenthalt |
+| une habitude | *une habitude française* | die Gewohnheit |
+| un malentendu | *éviter un malentendu* | das Missverständnis |
+| surprendre | *cela me surprend* | überraschen |
+| découvrir | *découvrir un quartier* | entdecken |
+| s'habituer à | *je m'habitue à l'heure du dîner* | sich gewöhnen an |
+| un monument | *un monument célèbre* | das Wahrzeichen |
+| accueillir | *la famille m'accueille* | aufnehmen |
 
-### B. Vocabulaire « voyage à Paris »
+### B. Point de langue — le futur simple
 
-- *un monument · un musée · une visite guidée · un croissant ·
- un métro · un quartier · un souvenir · un journal de voyage.*
+{{< callout type="info" >}}
+**Le futur simple** exprime un projet ou une prévision. On ajoute à l'infinitif les terminaisons **-ai, -as, -a, -ons, -ez, -ont**.
 
-### C. Journal de Jonas — 3 entrées (texte original)
+- *visiter* → je **visiterai**, tu **visiteras**, il/elle **visitera**, nous **visiterons**, vous **visiterez**, ils/elles **visiteront**.
 
-> **Jour 1 — lundi.** Aujourd'hui, je suis arrivé à Paris.
-> Demain, **je visiterai** la tour Eiffel et **j'irai** au
-> sommet — il **fera** beau, paraît-il.
+Attention aux **radicaux irréguliers** :
+*aller* → j'**irai** · *être* → je **serai** · *avoir* → j'**aurai** · *faire* → je **ferai** · *voir* → je **verrai** · *venir* → je **viendrai** · *vouloir* → je **voudrai** · *prendre* → je **prendrai**.
+
+Ne confondez pas le **futur simple** (*je visiterai*, projet) et le **futur proche** (*je vais visiter*, action imminente).
+{{< /callout >}}
+
+### C. Texte original — le blog de Jonas
+
+> **Mon carnet parisien — jour 3.**
 >
-> **Jour 2 — mardi.** La tour Eiffel : superbe ! Demain,
-> **nous irons** au **Louvre** voir la Joconde. **Je verrai**
-> aussi le quartier du Marais.
+> Aujourd'hui, Léa et moi, nous **sommes montés** au deuxième étage de la tour Eiffel. La vue **était** incroyable ! J'ai remarqué que les Français saluent souvent avec deux bises ; au début, cela m'a gêné, mais je **m'y habituerai**.
 >
-> **Jour 3 — mercredi.** Dernier jour. Ce soir, **je
-> mangerai** mon dernier croissant chez Poilâne et **je
-> rentrerai** demain à Karlsruhe. Paris **me manquera**.
+> Demain, nous **irons** au Louvre. Léa **dit** que la foule **sera** énorme, alors nous **arriverons** tôt. Ensuite, je **chercherai** une boulangerie : un vrai croissant parisien, ça se mérite.
+>
+> Ce séjour me montre une chose : nos deux cultures ne sont pas si différentes. Nous **rirons** des mêmes blagues, même en deux langues.
+
+### D. Note culturelle — la tour Eiffel et l'amitié franco-allemande
+
+La tour Eiffel a été construite entre 1887 et 1889 par l'entreprise de l'ingénieur Gustave Eiffel, pour l'Exposition universelle de 1889 organisée à Paris. Haute d'environ 330 mètres et dressée sur le Champ-de-Mars, elle est aujourd'hui l'un des monuments les plus visités au monde. (D'après Wikipédia, *Tour Eiffel*, CC BY-SA.)
+
+Les séjours comme celui de Jonas existent souvent grâce à l'**OFAJ** (Office franco-allemand pour la jeunesse), une organisation créée en 1963 dans le cadre du traité de l'Élysée pour encourager les rencontres et les échanges entre les jeunes des deux pays. (D'après Wikipédia, *Office franco-allemand pour la jeunesse*, CC BY-SA.)
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Ex. 1 — Compréhension écrite (texte C).**
+1. Où Jonas et Léa sont-ils montés le jour 3 ?
+2. Quelle habitude française a d'abord gêné Jonas ?
+3. Pourquoi vont-ils arriver tôt au Louvre ?
+4. Quelle conclusion Jonas tire-t-il sur les deux cultures ?
 
-1. Combien de jours Jonas reste-t-il à Paris ?
-2. Quel monument visite-t-il en premier ?
-3. Que va-t-il manger le dernier soir ?
-4. Quel sentiment exprime-t-il à la fin ?
+**Ex. 2 — Futur simple.** Conjuguez le verbe entre parenthèses.
+a) Demain, nous ___ (aller) au Louvre.
+b) Je ___ (chercher) une boulangerie.
+c) La foule ___ (être) énorme.
+d) Vous ___ (voir) la tour Eiffel de nuit.
 
-**Ex. 2 — Futur simple.** Conjuguez :
+**Ex. 3 — Vocabulaire.** Complétez avec : *malentendu · s'habituer · correspondante · surprend*.
+a) Léa est la ___ française de Jonas.
+b) L'heure du dîner le ___ beaucoup.
+c) Petit à petit, il va ___ aux bises.
+d) Bien parler évite souvent un ___.
 
-a) Demain, je ___ (visiter) le Louvre.
-b) Nous ___ (aller) à la tour Eiffel.
-c) Tu ___ (voir) la Seine.
-d) Vous ___ (être) à Paris dans 3 jours.
+**Ex. 4 — Interculturel (production courte).** En deux phrases, comparez une habitude française et une habitude allemande (repas, salutations, horaires). Utilisez *chez nous… / chez eux…*.
 
-**Ex. 3 — Vocabulaire.** Reliez : *métro · quartier · souvenir
-· musée*.
+## Solutions
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 1.** 1) Au deuxième étage de la tour Eiffel. 2) Les deux bises pour saluer. 3) Parce que la foule sera énorme (arriver tôt = éviter la foule). 4) Les deux cultures ne sont pas si différentes / on rit des mêmes choses.
 
-**Ex. 1.** 1) 3 jours. 2) La tour Eiffel. 3) Un croissant
-(chez Poilâne). 4) La nostalgie / Paris lui manquera.
+**Ex. 2.** a) irons · b) chercherai · c) sera · d) verrez.
 
-**Ex. 2.** a) visiterai · b) irons · c) verras · d) serez.
+**Ex. 3.** a) correspondante · b) surprend · c) s'habituer · d) malentendu.
 
-**Ex. 3.** Réponses libres (associations).
+**Ex. 4.** Réponse libre. Exemple : *Chez nous, en Allemagne, on dîne vers dix-huit heures ; chez eux, en France, on dîne vers vingt heures.*
 
+{{< callout type="tip" >}}
+**Différenciation.**
+- **G** : l'ex. 2 est proposé avec la liste des radicaux irréguliers sous les yeux ; l'ex. 4 se limite à une phrase.
+- **M** : travail sans aide-mémoire pour l'ex. 2 ; l'ex. 4 demande deux phrases complètes.
+- **E** : l'ex. 4 exige une justification (*parce que…*) et un connecteur (*en revanche*, *tandis que*).
 {{< /callout >}}
 
 ## 4. Produire
 
-**Tâche d'écriture (E, ~120 mots) :**
+**Tâche d'écriture (Niveau E, ~120 mots).**
 
-Rédigez **3 entrées** de votre journal d'un futur voyage à
-**Paris** : 1 entrée par jour (J-1, J, J+1) · **5 verbes** au
-futur simple · 5 mots de vocabulaire « voyage ».
+Vous passez trois jours à Paris chez un·e correspondant·e. Rédigez **trois entrées de journal** (une par jour). Chaque entrée doit :
+
+- contenir au moins **cinq verbes au futur simple** (projets du lendemain) ;
+- employer **cinq mots** du vocabulaire de la partie 2 ;
+- mentionner **une observation interculturelle** (une habitude française qui vous surprend).
+
+**Critères d'évaluation.**
+
+| Critère | Indicateur | Points |
+|---|---|---|
+| Réalisation de la tâche | 3 entrées, consigne respectée | 4 |
+| Futur simple | 5 verbes corrects | 4 |
+| Vocabulaire | 5 mots employés à bon escient | 3 |
+| Regard interculturel | observation claire et respectueuse | 2 |
+| Correction de la langue | orthographe, ponctuation | 2 |
 
 ## 5. Réfléchir
 
-- [ ] Je conjugue 5 verbes au futur simple.
-- [ ] Je lis un journal de voyage.
-- [ ] Je rédige 3 entrées de journal.
+- [ ] Je comprends un blog / journal de voyage en français.
+- [ ] Je repère une observation interculturelle dans un texte.
+- [ ] Je conjugue cinq verbes au futur simple.
+- [ ] J'emploie le vocabulaire du séjour et de la rencontre.
+- [ ] Je rédige trois entrées de journal cohérentes (~120 mots).
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (E)
+## Évaluation
 
-**Tâche 1 — Lecture (10 P.)** : journal de Jonas, 5 questions.
-**Tâche 2 — Futur simple (8 P.)** : 4 conjugaisons.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : 3 entrées de journal
-(~120 mots).
+**Devoir surveillé (« Klassenarbeit ») — Niveau E · 45 min · 30 points**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension écrite (10 P.).** Lisez le blog de Jonas (texte C) et répondez à cinq questions (lieux, habitudes, sentiments, malentendu, conclusion interculturelle).
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Futur simple (8 P.).** Conjuguez quatre verbes au futur simple (dont deux irréguliers) dans des phrases de contexte.
 
-## Pièges fréquents
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.).** Rédigez trois entrées de journal (~120 mots) sur un séjour à Paris, avec cinq verbes au futur simple, cinq mots de vocabulaire et une observation interculturelle.
 
-- **Futur simple ≠ futur proche** : *je visiterai* (futur
- simple, projet) ≠ *je vais visiter* (proche, imminent).
-- **Verbes irréguliers** : *aller → j'irai · être → je serai ·
- faire → je ferai · voir → je verrai · avoir → j'aurai*.
-- **« Paris me manquera »** = *Paris wird mir fehlen* (calque
- inverse).
+**Barème.** Compréhension 10 · Grammaire 8 · Expression écrite 12 · **Total 30 P.**
 
-## Pour aller plus loin
+## Notes pour l'enseignant·e
 
-- **OFAJ (Office franco-allemand pour la jeunesse)** :
- <https://www.ofaj.org/>
-- **Paris.fr — visites scolaires** :
- <https://www.paris.fr/pages/visites-pour-les-scolaires-2415>
+**Plan (45 min).** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Aperçu / devoirs 2'.
+
+**Organisation.** Situation de départ lue à deux voix (binômes). Les exercices 1 à 3 se corrigent en plénière ; l'exercice 4 se prépare en binôme germano-français fictif. La tâche de production peut être commencée en classe et achevée à la maison.
+
+**Différenciation.** Voir l'encadré de la partie 3. Pour les élèves rapides (E), demander une quatrième entrée « retour à Karlsruhe » avec un bilan interculturel. Pour les élèves plus fragiles (G), fournir un début d'entrée à compléter et l'aide-mémoire des radicaux irréguliers.
+
+**Interculturel.** Insister sur une posture respectueuse : observer les différences sans juger. Rappeler que l'OFAJ finance des échanges réels et que les élèves peuvent y participer.
+
+## Sources
+
+- *Tour Eiffel* — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Tour_Eiffel>, licence CC BY-SA 4.0.
+- *Office franco-allemand pour la jeunesse* — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Office_franco-allemand_pour_la_jeunesse>, licence CC BY-SA 4.0.
+- *OFAJ — Office franco-allemand pour la jeunesse* (site officiel, référence pour l'enseignant·e), <https://www.ofaj.org/>.

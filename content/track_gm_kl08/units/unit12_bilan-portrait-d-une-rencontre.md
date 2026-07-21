@@ -15,7 +15,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d76d05a48ce45b3a7f8efd697e66c36"
 presentation:
-  file: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.pptx"
+  file: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.odp"
   thumbnail: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.png"
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre.pdf"
@@ -34,189 +34,182 @@ aliases:
 
 ## Objectifs
 
-- Je dresse le **portrait** d'une rencontre marquante de l'année.
-- Je relie présent (description) + passé composé (événements) +
- futur simple (suite).
-- Je clôture le cours classe 8 par un texte personnel.
+- Je peux **décrire** une personne au présent (qui elle est, ce qu'elle fait, ce qu'elle représente).
+- Je peux **raconter** une rencontre au passé composé et à l'imparfait.
+- Je peux **exprimer un projet** futur au futur simple.
+- Je peux **rédiger** un portrait structuré d'environ 120 mots reliant les trois temps.
+- Je peux **présenter oralement** mon portrait en continu pendant deux minutes.
 
-## Alignement référentiel (« Bildungsplan »)
+## Situation de départ
 
-- **3.1.3.4** Expression orale (« Sprechen ») — monologisches Expression orale.
-- **3.1.3.5** Expression écrite (« Schreiben »).
-- **3.1.2** Compétence interculturelle communicative (« Interkulturelle kommunikative Kompetenz »).
+Dernière séance avant les vacances. Madame Renault ferme son cahier et regarde la classe.
 
-## Histoire d'introduction
+> **Mme Renault :** Cette année, vous avez rencontré le français de mille façons. Une lettre, un film, une chanson, une personne. Fermez les yeux : quel visage revient ?
+>
+> **Léa :** Moi, c'est Inès. Ma correspondante de Montréal. On ne s'est jamais vues, mais je crois la connaître.
+>
+> **Karim :** Moi, une dame âgée, devant Notre-Dame. Elle parlait allemand et français dans la même phrase. On a discuté dix minutes.
+>
+> **Sandrine :** Et moi, une voix — celle de Soolking dans une chanson. Ça compte aussi, non ?
+>
+> **Mme Renault :** Bien sûr. Une rencontre, ce n'est pas toujours une poignée de main. Aujourd'hui, chacun·e écrit le **portrait** d'une rencontre de l'année.
 
-Dernière séance avant les vacances. Madame Renault demande à
-chacun·e : *« Citez **une rencontre** francophone de l'année — en
-personne, par écrit, par film. »* Léa pense à Inès. Karim pense
-à la dame âgée parlant allemand devant Notre-Dame. Une autre
-élève parle d'une chanson de Soolking. Et chacun·e va écrire
-son **portrait**.
+**Questions d'activation :**
+
+- Quelle rencontre francophone de l'année revient dans votre mémoire ?
+- Est-elle passée par une personne, un texte, un film, une chanson ?
+- Qu'est-ce qu'elle a changé dans votre regard ?
 
 ## 1. Activer
 
-- Quelle est la rencontre francophone la plus marquante de
- votre année ?
-- En quoi a-t-elle changé votre regard ?
-- Que voudriez-vous savoir d'elle dans 5 ans ?
+- Citez trois rencontres francophones vécues cette année (réelles ou par un média).
+- En binôme : décrivez l'une d'elles en une phrase au **présent** (« C'est… », « Elle vit… »).
+- Que voudriez-vous savoir de cette personne dans cinq ans ?
 
 ## 2. Apporter
 
-### A. Modèle de portrait (texte original, ~150 mots)
+### A. Vocabulaire du portrait
+
+| Français | Traduction (allemand) |
+|---|---|
+| une rencontre marquante | eine prägende Begegnung |
+| un·e correspondant·e | ein·e Brieffreund·in |
+| dresser le portrait de | ein Porträt zeichnen von |
+| par écrit / en personne | schriftlich / persönlich |
+| un trait de caractère | ein Charakterzug |
+| ce qu'elle représente pour moi | was sie für mich bedeutet |
+| cela m'a appris que | das hat mich gelehrt, dass |
+| plus tard, j'aimerais | später möchte ich |
+
+### B. Grammaire — trois temps pour un portrait
+
+{{< callout type="tip" >}}
+**Un portrait équilibré combine trois temps.**
+
+- **Présent** — dire qui est la personne (description, situation) : *Inès **est** au Québec, elle **vit** à Montréal.*
+- **Passé composé** — raconter la rencontre et les événements : *Je **l'ai rencontrée** en octobre, elle **m'a écrit** une longue lettre.*
+- **Imparfait** — décrire l'arrière-plan, les habitudes : *À l'époque, je ne **connaissais** pas le Québec.*
+- **Futur simple** — annoncer la suite, le projet : *Un jour, j'**irai** à Montréal et je la **rencontrerai** en personne.*
+
+**Piège :** après *cela m'a appris que*, on emploie l'**indicatif**, pas le subjonctif.
+{{< /callout >}}
+
+### C. Modèle de portrait (texte original, ~150 mots)
 
 > **Inès Tremblay, 14 ans, Montréal.**
 >
-> Inès est ma correspondante depuis octobre. Elle est en 2e
-> secondaire à l'école polyvalente Saint-Henri. Elle vit avec
-> sa mère (infirmière), son père (déménageur) et son petit
-> frère Olivier (8 ans, joueur de hockey).
+> Inès est ma correspondante depuis octobre. Elle est en deuxième secondaire et vit avec sa mère, infirmière, son père, déménageur, et son petit frère Olivier, huit ans, passionné de hockey.
 >
-> Je l'ai rencontrée — par écrit — dès l'Unité 1 de classe 8.
-> Elle m'a appris que *« écœurant »* veut dire *génial* au
-> Québec. Elle m'a aussi raconté ses matchs d'improvisation
-> théâtrale.
+> Je l'ai rencontrée par écrit dès le début de l'année. Elle m'a appris qu'au Québec *« écœurant »* peut vouloir dire *génial*, et elle m'a raconté ses matchs d'improvisation théâtrale, où l'on joue comme sur une patinoire de hockey.
 >
-> Pour moi, Inès n'est pas seulement une correspondante. Elle
-> est la preuve que le français vit autrement de l'autre côté
-> de l'océan, que les mots peuvent retourner leur sens, et que
-> la rencontre par écrit est aussi forte qu'en personne.
+> Pour moi, Inès n'est pas seulement une correspondante. Elle est la preuve que le français vit autrement de l'autre côté de l'océan, que les mots peuvent retourner leur sens, et qu'une rencontre par écrit peut être aussi forte qu'en personne.
 >
-> Plus tard, j'irai à Montréal. Je verrai le mont Royal en
-> hiver. Et je rencontrerai Inès, enfin, en personne.
+> Plus tard, j'irai à Montréal. Je verrai le mont Royal sous la neige. Et je rencontrerai Inès, enfin, en personne.
 
-### B. Trois temps en équilibre
+### D. Note culturelle — l'improvisation « à la québécoise »
 
-| Fonction | Temps |
-|------------------------|-------------------------------|
-| Description (qui est) | présent (*Inès est, elle vit*) |
-| Événements passés | passé composé (*je l'ai rencontrée*) |
-| Habitudes / contexte | imparfait (*elle m'racontait …*) |
-| Futur (suite) | futur simple (*j'irai, je verrai*) |
-
-### C. Connecteurs utiles
-
-- **Présentation :** *Voici · Il s'agit de · Cette rencontre est …*
-- **Articulation :** *D'abord · Ensuite · Puis · Enfin*
-- **Réflexion :** *Cela m'a appris que · Pour moi · Plus tard,
- j'aimerais …*
+{{< callout type="info" >}}
+Quand Inès parle de ses **matchs d'improvisation**, elle évoque une tradition née au Québec. La **Ligue nationale d'improvisation (LNI)** a été fondée à Montréal en 1977 par les comédiens Robert Gravel et Yvon Leduc. Son idée : présenter le théâtre d'improvisation sous la forme d'un **match de hockey** — deux équipes, un arbitre, une patinoire, et un public qui vote. Le format a beaucoup voyagé et a inspiré des ligues scolaires dans plusieurs pays francophones. *(Paraphrasé d'après Wikipédia, « Ligue nationale d'improvisation », CC BY-SA — voir Sources.)*
+{{< /callout >}}
 
 ## 3. S'entraîner
 
-**Ex. 1 — Repérez les temps.** Dans le texte A, identifiez :
+**Ex. 1 (G) — Repérez les temps.** Dans le texte C, relevez :
 
-- 3 verbes au **présent**.
-- 2 verbes au **passé composé**.
-- 2 verbes au **futur simple**.
+1. trois verbes au **présent** ;
+2. deux verbes au **passé composé** ;
+3. deux verbes au **futur simple**.
 
-**Ex. 2 — Connecteurs.** Reliez :
+**Ex. 2 (G/M) — Connecteurs.** Reliez chaque connecteur à sa fonction.
 
-a) Voici · b) D'abord · c) Cela m'a appris que · d) Plus tard
+a) *Voici* · b) *D'abord* · c) *Cela m'a appris que* · d) *Plus tard*
 
-1. Articulation chronologique.
-2. Présentation initiale.
-3. Réflexion conclusive.
-4. Projet futur.
+1. articulation chronologique ;
+2. présentation initiale ;
+3. réflexion conclusive ;
+4. projet futur.
 
-**Ex. 3 — Phrase de portrait.** Écrivez **une phrase** sur :
+**Ex. 3 (M) — Le bon temps.** Complétez avec le verbe au temps demandé.
 
-1. *Qui est cette personne (présent).*
-2. *Comment vous l'avez rencontrée (passé composé).*
-3. *Ce que vous ferez avec elle plus tard (futur simple).*
+1. Aujourd'hui, Inès (habiter, présent) ______ à Montréal.
+2. L'an dernier, elle m'(écrire, passé composé) ______ sa première lettre.
+3. À l'époque, je ne (parler, imparfait) ______ pas de québécois.
+4. Un jour, nous nous (rencontrer, futur simple) ______ en personne.
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 4 (M/E) — Trois phrases de portrait.** Écrivez, sur une personne rencontrée cette année :
 
-**Ex. 1.** Présent : *est, vit, est (la preuve)*. Passé
-composé : *je l'ai rencontrée, elle m'a appris*. Futur simple :
-*j'irai, je verrai, je rencontrerai*.
+1. qui elle est (présent) ;
+2. comment vous l'avez rencontrée (passé composé) ;
+3. ce que vous ferez avec elle plus tard (futur simple).
+
+{{< callout type="note" >}}
+**Différenciation.** **(G)** faites les Ex. 1–2 avec le texte sous les yeux. **(M)** enchaînez Ex. 1 à 4 sans aide. **(E)** ajoutez à l'Ex. 4 une quatrième phrase à l'imparfait (l'arrière-plan) et un connecteur de réflexion.
+{{< /callout >}}
+
+## Solutions
+
+**Ex. 1.** Présent : *est, vit, est* (la preuve). Passé composé : *je l'ai rencontrée, elle m'a appris* (aussi : *elle m'a raconté*). Futur simple : *j'irai, je verrai* (aussi : *je rencontrerai*).
 
 **Ex. 2.** a–2 · b–1 · c–3 · d–4.
 
-**Ex. 3.** Individuel.
+**Ex. 3.** 1. habite — 2. a écrit — 3. parlais — 4. rencontrerons.
 
-{{< /callout >}}
+**Ex. 4.** Réponse individuelle. Vérifier : présent correct, passé composé avec le bon auxiliaire, futur simple bien formé.
 
 ## 4. Produire
 
-**Tâche d'écriture (M, ~120 mots) :**
+**Tâche d'écriture (M, ~120 mots).** Rédigez le **portrait** d'une rencontre francophone de votre année (réelle ou reconstituée). Suivez la structure du modèle C :
 
-Écrivez le **portrait** d'une rencontre francophone de votre
-année. Suivez la structure du modèle A :
+1. présentation — qui est cette personne ? (présent) ;
+2. la rencontre — comment et quand ? (passé composé) ;
+3. l'arrière-plan ou ce qu'elle vous a apporté (imparfait / passé composé) ;
+4. réflexion personnelle (présent, *cela m'a appris que…*) ;
+5. projet futur la concernant (futur simple).
 
-1. Présentation (qui est cette personne ? présent).
-2. Comment et quand vous l'avez rencontrée (passé composé).
-3. Ce qu'elle vous a apporté (passé composé / imparfait).
-4. Réflexion personnelle (présent / cela m'a appris que …).
-5. Projet futur la concernant (futur simple).
+**Bonus oral :** présentez votre portrait à voix haute, en continu, pendant deux minutes.
 
-**Bonus :** présenter à voix haute en 2 minutes pour la classe.
+**Critères d'évaluation :**
 
-## 5. Réfléchir — Bilan de classe 8
+- structure complète (cinq étapes) ;
+- trois temps employés et équilibrés ;
+- au moins quatre connecteurs du cours ;
+- sens personnel et fidèle (pas de copie du modèle).
 
-- [ ] Je peux écrire un portrait de ~120 mots avec 3 temps
- différents.
-- [ ] Je connais les **5 axes** des Unités 1-12 : correspondance,
- médias, francophonie, futur simple, médiation, Maghreb,
- sport, voyage culturel, stéréotypes, cinéma québécois,
- projet solidaire, portrait.
-- [ ] Je connais ma cast : Léa, Karim, Madame Renault, Inès,
- Mehdi, Sandrine, et la dame âgée de Notre-Dame.
+## 5. Réfléchir
 
-## Bilan-classe 8
+- [ ] Je peux écrire un portrait d'environ 120 mots reliant trois temps.
+- [ ] Je sais placer le présent (description), le passé composé (rencontre) et le futur simple (projet).
+- [ ] J'utilise au moins quatre connecteurs pour articuler mon texte.
+- [ ] Je peux présenter mon portrait à l'oral, en continu, sans le lire mot à mot.
+- [ ] Je situe cette rencontre parmi les thèmes de l'année (correspondance, francophonie, médias, Maghreb, Québec…).
 
-Cette unité **clôt** le cours **classe 8 G+M**. Vous avez :
+## Évaluation
 
-- communiqué avec une correspondante québécoise (U1),
-- analysé vos médias (U2),
-- exploré la francophonie (U3),
-- conjugué le futur simple (U4),
-- pratiqué la médiation DE↔FR (U5),
-- écouté du raï et du chaâbi (U6),
-- discuté du tournoi inter-collèges (U7),
-- voyagé à Paris (U8),
-- réfléchi aux stéréotypes (U9),
-- découvert le cinéma québécois (U10),
-- proposé un projet solidaire (U11),
-- et — maintenant — dressé le portrait d'une rencontre.
+**Devoir surveillé (« Klassenarbeit ») — Niveau M · finale — 40 P.**
 
-Ce sont les compétences que vous emporterez en classe 9.
+**Partie A — Portrait écrit (schreiben, 28 P.).** Rédigez un portrait d'une rencontre francophone (réelle ou fictive) en **120–150 mots**.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M, finale)
+- Structure : présentation · rencontre · apport · réflexion · projet futur — **8 P.**
+- Trois temps en équilibre (présent + passé composé + futur simple) — **10 P.**
+- Vocabulaire et connecteurs (au moins quatre connecteurs du cours) — **6 P.**
+- Sens fidèle et personnel (pas de copier-coller du modèle) — **4 P.**
 
-**Tâche unique — Portrait écrit (30 P.)**
+**Partie B — Présentation orale en continu (sprechen_monolog, 12 P.).** Présentez votre portrait pendant deux minutes.
 
-Écrivez un **portrait** d'une rencontre francophone (réelle ou
-fictive) en **120-150 mots**. Critères :
+- Fluidité et débit (production en continu, peu d'hésitations) — **5 P.**
+- Correction des temps à l'oral — **4 P.**
+- Contact avec l'auditoire (pas de lecture mot à mot) — **3 P.**
 
-- **Structure** (présentation · rencontre · apport · réflexion
- · projet futur) : 8 P.
-- **Trois temps en équilibre** (présent + passé composé + futur
- simple) : 10 P.
-- **Vocabulaire et connecteurs** (au moins 4 connecteurs du
- cours) : 6 P.
-- **Sens fidèle et personnel** (pas de copier-coller du modèle) :
- 6 P.
+## Notes pour l'enseignant·e
 
-<div class="notes">
+**Plan (45 min).** Activer (questions de bilan) 5' · Apporter (vocabulaire, grammaire, modèle, note culturelle) 12' · S'entraîner (Ex. 1–4 + correction) 13' · Produire (rédaction + lecture à deux voix) 12' · Réfléchir + bilan de l'année 3'.
 
-**Plan (90 min, finale) :** Activer (questions de bilan) 8' ·
-Apporter (modèle + temps) 17' · S'entraîner 15' · Produire
-(rédaction + lecture à 2 voix) 30' · Réfléchir + Bilan 12' ·
-Aperçu 8'.
+**Organisation.** Prévoir un affichage des thèmes des Unités 1–12 pour ancrer le bilan. La production écrite peut se prolonger en devoir maison ; réserver alors la présentation orale (Partie B) à la séance suivante.
 
-</div>
+**Différenciation.** **(G)** fournir une trame à trous et le tableau des trois temps. **(M)** production autonome à partir de la structure en cinq points. **(E)** exiger l'imparfait pour l'arrière-plan et une chute travaillée ; proposer une présentation orale sans notes.
 
-## Pièges fréquents
+## Sources
 
-- **Mélanger trois temps** demande un plan : commencer par le
- présent (qui est), puis passé composé (rencontre), puis futur
- simple (projet).
-- **« Cela m'a appris que »** + indicatif (pas subjonctif).
-- **Portrait** ≠ description physique seulement : il inclut
- aussi *ce que la personne représente pour vous*.
-
-## Pour aller plus loin
-
-- **France Culture — Portraits** :
- <https://www.radiofrance.fr/franceculture>
-- **Portraits France Inter** : <https://www.radiofrance.fr/franceinter>
+- « Ligue nationale d'improvisation » — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Ligue_nationale_d%27improvisation>, licence CC BY-SA 4.0.
+- France Culture — émissions et portraits (ressource éditoriale, tous droits réservés ; lien de référence) : <https://www.radiofrance.fr/franceculture>
+- France Inter — portraits et entretiens (ressource éditoriale, tous droits réservés ; lien de référence) : <https://www.radiofrance.fr/franceinter>

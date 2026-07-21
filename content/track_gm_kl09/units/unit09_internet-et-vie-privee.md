@@ -14,7 +14,7 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2ec0ab6995d0405dac7040152346130c"
 presentation:
-  file: "/fle/materials/presentations/unit09_internet-et-vie-privee.pptx"
+  file: "/fle/materials/presentations/unit09_internet-et-vie-privee.odp"
   thumbnail: "/fle/materials/presentations/unit09_internet-et-vie-privee.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_internet-et-vie-privee.pdf"
@@ -33,148 +33,160 @@ aliases:
 
 ## Objectifs
 
-- Je nomme **8 risques** liés aux réseaux sociaux.
-- Je connais **3 droits** numériques fondamentaux (RGPD).
-- Je discute des **bons réflexes** : mot de passe, paramétrage.
+- Je peux **comprendre un court article** sur la vie privée en ligne et en repérer les informations clés.
+- Je peux **nommer les risques et les bons réflexes** liés aux réseaux sociaux.
+- Je peux **donner un conseil** à quelqu'un (« Tu devrais… », « Il vaut mieux… »).
+- Je peux **discuter à deux** d'une question de société et défendre un point de vue.
+- Je peux **expliquer trois droits** que le RGPD donne aux internautes.
 
-## Histoire d'introduction
+## Situation de départ
 
-Léa et Mehdi ont 8 abonnés sur leur compte commun de TikTok.
-Mehdi propose : *« On rend public, on aura plus d'abonnés ! »*
-Léa hésite : *« Mais on montrera notre quartier… On reste en
-privé. »*
+Camille reçoit un message sur son téléphone pendant la récréation.
+
+> **Camille :** Regarde, un site me promet un bon d'achat de 100 € si je donne mon adresse, mon numéro et ma date de naissance !
+>
+> **Yanis :** Cent euros, juste pour ça ? Ça me paraît trop beau. Tu ne trouves pas ça bizarre ?
+>
+> **Camille :** Si, un peu… Mais qu'est-ce que je risque, franchement ?
+>
+> **Yanis :** À mon avis, tu devrais fermer cette page. On ne sait jamais ce qu'ils font de tes données.
+
+**Questions d'activation**
+
+- À la place de Camille, que feriez-vous ?
+- Quel indice montre que l'offre est peut-être une arnaque ?
+- Quelle expression Yanis utilise-t-il pour donner un conseil ?
 
 ## 1. Activer
 
-- Combien d'heures par jour passez-vous sur les réseaux ?
-- Vos comptes sont-ils privés ou publics ?
-- Connaissez-vous le RGPD ?
+- Combien de temps par jour passez-vous sur les réseaux sociaux ?
+- Vos comptes sont-ils publics ou privés ? Pourquoi ce choix ?
+- Avez-vous déjà regretté une photo ou un message publié en ligne ?
+- Connaissez-vous le sigle « RGPD » ? Qu'évoque-t-il pour vous ?
 
 ## 2. Apporter
 
-### A. 8 risques
+### Vocabulaire
 
-| Risque | Allemand |
-|-----------------------|---------------------------|
-| le piratage | das Hacken |
-| le vol d'identité | der Identitätsdiebstahl |
+| Français | Allemand |
+|---|---|
+| la vie privée | die Privatsphäre |
+| les données personnelles | die persönlichen Daten |
+| un mot de passe (fort) | ein (starkes) Passwort |
+| la double authentification | die Zwei-Faktor-Authentifizierung |
+| un compte privé / public | ein privates / öffentliches Konto |
 | le cyberharcèlement | das Cybermobbing |
-| la désinformation | die Desinformation |
-| l'addiction | die Sucht |
-| la dépendance aux likes| die Abhängigkeit von Likes|
-| les arnaques (phishing) | das Phishing |
-| la vente de données | der Datenverkauf |
+| une arnaque / l'hameçonnage | der Betrug / das Phishing |
+| le vol d'identité | der Identitätsdiebstahl |
+| le droit à l'oubli | das Recht auf Vergessenwerden |
+| partager / supprimer | teilen / löschen |
+| le paramétrage | die Einstellungen |
+| un conseil / conseiller | ein Ratschlag / raten |
 
-### B. 3 droits RGPD (depuis 2018)
+{{< callout type="info" >}}
+**Point de langue — donner un conseil**
 
-1. **Droit d'accès** : savoir quelles données on a sur vous.
-2. **Droit de rectification** : corriger des informations
- fausses.
-3. **Droit à l'oubli** : demander la suppression de ses
- données.
+Pour conseiller quelqu'un, on peut utiliser :
 
-### C. Bons réflexes
+- **Tu devrais + infinitif** : *Tu devrais mettre ton compte en privé.*
+- **Il faut / Il faudrait + infinitif** : *Il faudrait changer ton mot de passe.*
+- **Il vaut mieux + infinitif** : *Il vaut mieux ne pas publier ton adresse.*
+- **Si j'étais toi / À ta place** : *À ta place, je fermerais cette page.*
+- **L'impératif** (plus direct) : *Vérifie tes paramètres ! Ne clique pas sur ce lien !*
 
-- Mot de passe **fort** (12+ caractères, 1 majuscule, 1 chiffre,
- 1 symbole).
-- **Double authentification** activée.
-- Compte **privé** par défaut pour les ados.
-- Vérifier ses **paramètres** au moins une fois par mois.
+Rappel : après *devrais*, *faut*, *vaut mieux*, on emploie l'**infinitif**, jamais un présent conjugué.
+{{< /callout >}}
 
-### D. Article (texte original — adapté)
+### Court texte (original)
 
-> **Adolescents et réseaux : la moitié regrettent leurs posts**
+> **La moitié des ados regrettent au moins une publication**
 >
-> Selon une enquête CNIL/Génération Numérique 2024, **52 %**
-> des 13-17 ans **regrettent au moins un post** publié sur les
-> réseaux sociaux. Les principaux motifs : photos
-> embarrassantes (38 %), commentaires impulsifs (29 %),
-> données personnelles trop visibles (22 %).
+> Beaucoup de jeunes publient très vite, puis changent d'avis. D'après plusieurs enquêtes récentes, environ un adolescent sur deux dit regretter au moins une photo ou un commentaire mis en ligne. Les raisons ? Une image gênante, un message écrit sous le coup de la colère, ou trop d'informations personnelles visibles par tout le monde.
 >
-> Plus de la moitié des jeunes sondés ne savent pas qu'un
-> post peut être **récupéré** même après suppression. Au
-> collège (« Realschule »), **30 %** ont été confrontés à un commentaire
-> méchant. Les solutions ? Compte privé, mot de passe fort,
-> et pause des réseaux pendant les vacances.
+> Le problème, c'est qu'une publication peut être copiée ou sauvegardée par d'autres. Même effacée de son propre compte, elle peut continuer à circuler. Les spécialistes conseillent donc trois réflexes simples : mettre son compte en privé, choisir un mot de passe long et unique, et réfléchir quelques secondes avant de publier. Comme le dit un proverbe adapté au numérique : « Ce qui est publié ne s'oublie pas toujours. »
+
+### Note culturelle
+
+Depuis mai 2018, l'Union européenne applique le **RGPD** (Règlement général sur la protection des données), le texte de référence pour la protection des données personnelles en Europe. D'après la CNIL (l'autorité française chargée de ces questions), le RGPD renforce les droits des personnes et prévoit des règles particulières pour les mineurs. Il donne notamment un **droit à l'effacement** (ou « droit à l'oubli ») : face à un contenu qui dévoile des informations sur soi, on peut demander sa suppression au site, qui doit agir dans un délai d'un mois au maximum. *(Paraphrasé d'après Wikipédia « Règlement général sur la protection des données » et cnil.fr, CC-BY-SA / contenu public.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte D).**
+**Ex. 1 — Compréhension écrite (texte ci-dessus).**
 
-1. Quel pourcentage des ados regrettent un post ?
-2. Cite **3 motifs** de regret.
-3. Combien d'ados ont vécu un commentaire méchant ?
-4. Cite **2 solutions** proposées.
+1. Quelle proportion d'adolescents regrettent au moins une publication ?
+2. Cite **deux raisons** de ce regret.
+3. Pourquoi une publication effacée peut-elle continuer à circuler ?
+4. Cite les **trois réflexes** conseillés par les spécialistes.
 
-**Ex. 2 — Vocabulaire.** Définissez ces 4 termes en français
-simple :
+**Ex. 2 — Vocabulaire.** Traduis en allemand :
 
-a) le piratage · b) le RGPD · c) la double authentification ·
-d) le droit à l'oubli.
+a) le mot de passe · b) la vie privée · c) le droit à l'oubli · d) le vol d'identité · e) le paramétrage.
 
-**Ex. 3 — Pour ou contre ?**
+**Ex. 3 — Donner un conseil.** Réécris chaque phrase avec l'expression indiquée.
 
-Sujet : *« Faut-il interdire les réseaux sociaux avant 16
-ans ? »*. Donnez **2 arguments pour** et **2 contre**.
+1. Ton compte est public. *(Tu devrais…)*
+2. Ton mot de passe est trop court. *(Il faudrait…)*
+3. Tu publies ton adresse. *(Il vaut mieux…)*
+4. Tu veux cliquer sur un lien inconnu. *(À ta place, …)*
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 4 — Pour ou contre ?** Sujet : *« Faut-il interdire les réseaux sociaux avant 16 ans ? »* Note **deux arguments pour** et **deux arguments contre**.
 
-**Ex. 1.** 1) 52 %. 2) Photos embarrassantes (38 %),
-commentaires impulsifs (29 %), données trop visibles (22 %).
-3) 30 %. 4) Compte privé, mot de passe fort, pause des réseaux.
-
-**Ex. 2.** a) Accès illégal à un compte/des données.
-b) Règlement général sur la protection des données (UE).
-c) Connexion à 2 étapes (mot de passe + code SMS).
-d) Demander la suppression de ses données en ligne.
-
-**Ex. 3.** Pour : protège les jeunes, réduit l'addiction.
-Contre : restreint la liberté, isole socialement, contournement
-facile.
-
+{{< callout type="tip" >}}
+**Différenciation.** **(G)** À l'Ex. 3, un modèle de phrase complet est fourni pour l'item 1. **(M)** Réaliser les Ex. 1 à 4 tels quels. **(E)** À l'Ex. 4, rédiger en plus une phrase de synthèse (« Personnellement, je pense que… parce que… ») en réutilisant une expression de conseil.
 {{< /callout >}}
+
+## Solutions
+
+**Ex. 1.** 1) Environ un adolescent sur deux (la moitié). 2) Deux parmi : une image gênante, un message écrit sous la colère, trop d'informations personnelles visibles. 3) Parce qu'elle peut avoir été copiée ou sauvegardée par d'autres avant l'effacement. 4) Mettre son compte en privé ; choisir un mot de passe long et unique ; réfléchir avant de publier.
+
+**Ex. 2.** a) das Passwort · b) die Privatsphäre · c) das Recht auf Vergessenwerden · d) der Identitätsdiebstahl · e) die Einstellungen.
+
+**Ex. 3.** 1) Tu devrais mettre ton compte en privé. 2) Il faudrait choisir un mot de passe plus long. 3) Il vaut mieux ne pas publier ton adresse. 4) À ta place, je ne cliquerais pas sur ce lien.
+
+**Ex. 4.** *Réponses possibles.* Pour : protège les plus jeunes, réduit le risque d'addiction et de cyberharcèlement. Contre : limite la liberté, isole des amis en ligne, une interdiction est facile à contourner.
 
 ## 4. Produire
 
-**Tâche dialogique (M, en binôme, ~12 répliques) :**
+**Tâche dialogique (M, en binôme, ~12 répliques).**
 
-A et B discutent : *« Faut-il interdire les réseaux sociaux
-avant 16 ans ? »*. A est **pour**, B est **contre**. Chacun
-donne **2 arguments**, **1 question**, **1 concession**
-(« Je comprends ton point, mais… »).
+A et B discutent : *« Faut-il interdire les réseaux sociaux avant 16 ans ? »* A est **pour**, B est **contre**. Chacun donne **deux arguments**, pose **une question** à l'autre et formule **une concession** (« Je comprends ton point de vue, mais… »). Terminez par **un conseil** adressé à un ami plus jeune, en utilisant une expression du point de langue.
+
+{{< callout type="note" >}}
+**Critères d'évaluation (12 points)** — Tâche remplie et longueur respectée (3) · Deux arguments par personne (3) · Question + concession présentes (2) · Au moins un conseil correct (« tu devrais… », etc.) (2) · Fluidité et prononciation (2).
+{{< /callout >}}
 
 ## 5. Réfléchir
 
-- [ ] Je nomme 8 risques liés aux réseaux.
-- [ ] Je connais 3 droits RGPD.
-- [ ] Je discute le pour/contre d'une régulation.
+- [ ] Je comprends l'essentiel d'un court article sur la vie privée.
+- [ ] Je nomme des risques et des bons réflexes en ligne.
+- [ ] Je donne un conseil avec « tu devrais / il vaut mieux ».
+- [ ] Je participe à un dialogue et je défends un point de vue.
+- [ ] J'explique trois droits liés au RGPD.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+## Évaluation
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : article CNIL, 5 questions.
-**Tâche 2 — Vocabulaire (8 P.)** : 8 termes du numérique.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : prise de position
-(~150 mots, plan complet).
+**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)** : un court article sur la protection des données ; 5 questions de repérage et de compréhension.
+
+**Tâche 2 — Vocabulaire et langue (8 P.)** : 4 traductions (4 P.) + 4 phrases de conseil à compléter avec « tu devrais / il faudrait / il vaut mieux / à ta place » (4 P.).
+
+**Tâche 3 — Interaction orale (« Sprechen ») (12 P.)** : jeu de rôle en binôme sur une question de vie privée ; barème = tâche remplie (3), arguments (3), conseil correct (2), question/concession (2), fluidité (2).
 
 **Total : 30 P.**
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' ·
-Produire 13' (binôme) · Réfléchir 2' · Aperçu 2'.
-</div>
+## Notes pour l'enseignant·e
 
-## Pièges fréquents
+**Déroulé (45 min)** : Activer 4' · Apporter 12' · S'entraîner 13' · Produire 12' (binôme) · Réfléchir 2' · Aperçu de l'évaluation 2'.
 
-- **« Le RGPD »** : *Règlement Général sur la Protection des
- Données*, en vigueur depuis 2018 dans toute l'UE.
-- **« Privé »** ≠ *secret* : un compte privé reste accessible
- aux abonnés.
-- **« Effacer »** ≠ *supprimer* : un post sauvegardé peut être
- récupéré.
+**Organisation** : la situation de départ se lit à deux voix (deux élèves lisent Camille et Yanis). La phase Produire se prépare debout, cartes de rôle A/B distribuées.
 
-## Pour aller plus loin
+**Différenciation** : voir l'encadré après l'Ex. 4. Pour (G), fournir une banque d'amorces de phrases pour le dialogue ; pour (E), imposer l'emploi d'au moins deux expressions de conseil différentes.
 
-- **CNIL — Mes données et moi** :
- <https://www.cnil.fr/>
-- **Génération Numérique** :
- <https://www.asso-generationnumerique.fr/>
+**Pièges fréquents** : « privé » n'est pas « secret » (un compte privé reste visible des abonnés) ; « effacer » n'est pas « supprimer définitivement » (un post copié peut circuler) ; après « tu devrais », l'infinitif et non le présent.
+
+## Sources
+
+- *Règlement général sur la protection des données* — Wikipédia (consulté 2026), <https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es>, licence CC-BY-SA 4.0.
+- *Cyberviolences et cyberharcèlement : que faire ?* — CNIL (2024), <https://www.cnil.fr/fr/cyberviolences-et-cyberharcelement-que-faire>, contenu public (Licence Ouverte / Etalab).
+- *Le règlement général sur la protection des données — RGPD* — CNIL (2024), <https://www.cnil.fr/fr/reglement-europeen-protection-donnees>, contenu public (Licence Ouverte / Etalab).

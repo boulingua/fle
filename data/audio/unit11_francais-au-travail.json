@@ -1,0 +1,37 @@
+[
+ {
+  "file": "/fle/materials/audio/unit11_francais-au-travail/dialogue1.ogg",
+  "label": "Dialogue 1",
+  "transcript": "Caroline : Bonjour Léa, bienvenue ! On commence par un petit brief à 9 h, d'accord ?\nLéa : Bonjour… euh, un  brief  ?\nCaroline : Oui, une courte réunion pour se répartir les tâches. Ensuite, tu pourrais m'aider à préparer un mail pour un client ?\nLéa : Bien sûr. Le mail, c'est pour aujourd'hui ?\nCaroline : Oui, le délai est assez serré : il faut livrer avant midi."
+ },
+ {
+  "file": "/fle/materials/audio/unit11_francais-au-travail/vocab1.ogg",
+  "label": "Vocabulaire 1",
+  "transcript": "un brief · un debrief · une deadline · livrer (un projet) · un point (faire un point) · le feedback · onboarder · un courriel / un mail · en télétravail · un rendez-vous (un RDV) · solliciter · disponible"
+ },
+ {
+  "file": "/fle/materials/audio/unit11_francais-au-travail/dialogue2.ogg",
+  "label": "Dialogue 2",
+  "transcript": "Betreff: Termin am Donnerstag\nHallo Léa,\nnur kurz zur Bestätigung: Morgen um 9:00 Uhr haben wir den Brief im Konferenzraum 3. Bring bitte den USB-Stick mit den Fotos mit. Der Debrief findet danach um 11:00 Uhr statt. Die Deadline für die Veröffentlichung ist Freitagabend.\nBis morgen!\nCaroline"
+ },
+ {
+  "file": "/fle/materials/audio/unit11_francais-au-travail/dialogue3.ogg",
+  "label": "Dialogue 3",
+  "transcript": "Objet : Confirmation du rendez-vous de jeudi\nBonjour Léa,\nPetit message pour confirmer : demain à 9 h, nous avons la réunion (le brief) en salle 3. Pense à apporter la clé USB avec les photos. Le bilan (debrief) suivra à 11 h. La date limite pour la publication est vendredi soir.\nÀ demain !\nCaroline"
+ },
+ {
+  "file": "/fle/materials/audio/unit11_francais-au-travail/texte1.ogg",
+  "label": "Texte 1",
+  "transcript": "Hallo, ich schaffe die Deadline heute nicht. Können wir den Termin auf morgen 10 Uhr verschieben? Ich schicke die Fotos heute Abend. Danke!"
+ },
+ {
+  "file": "/fle/materials/audio/unit11_francais-au-travail/vocab2.ogg",
+  "label": "Vocabulaire 2",
+  "transcript": "Contenu · Lexique pro · Registre · Interaction"
+ },
+ {
+  "file": "/fle/materials/audio/unit11_francais-au-travail/texte2.ogg",
+  "label": "Texte 2",
+  "transcript": "Hallo Léa, kurze Info: Der Termin mit dem Kunden ist verschoben. Wir machen den Brief erst um 14 Uhr im Raum 3. Bitte bring deinen Laptop mit. Das Debrief ist danach. Die Deadline bleibt Freitag. Danke und bis später! Caroline"
+ }
+]

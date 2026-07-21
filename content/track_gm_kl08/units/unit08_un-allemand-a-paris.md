@@ -15,7 +15,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d173fcb5bea4f8cbc968217a61af6a4"
 presentation:
-  file: "/fle/materials/presentations/unit08_un-allemand-a-paris.pptx"
+  file: "/fle/materials/presentations/unit08_un-allemand-a-paris.odp"
   thumbnail: "/fle/materials/presentations/unit08_un-allemand-a-paris.png"
 worksheet:
   file: "/fle/materials/worksheets/unit08_un-allemand-a-paris.pdf"
@@ -34,188 +34,224 @@ aliases:
 
 ## Objectifs
 
-- Je lis un journal de voyage simple.
-- J'identifie **trois différences culturelles** Allemagne-France.
-- J'écris un message de voyage de ~70 mots.
+- Je peux comprendre un journal de voyage simple et en repérer les informations principales.
+- Je peux identifier **trois différences culturelles** entre l'Allemagne et la France dans des situations du quotidien.
+- Je peux distinguer le **passé composé** et l'**imparfait** dans un récit au passé.
+- Je peux écrire un court message de voyage d'environ 70 mots à partir d'un modèle.
+- Je peux réagir avec politesse à une petite surprise culturelle (un malentendu, une habitude différente).
 
-## Alignement référentiel (« Bildungsplan »)
+## Situation de départ
 
-- **3.1.3.2** Compréhension écrite (« Leseverstehen »).
-- **3.1.3.5** Expression écrite (« Schreiben »).
-- **3.1.2** Compétence interculturelle communicative (« Interkulturelle kommunikative Kompetenz »).
+Jonas, 14 ans, vient de Karlsruhe. Il passe une semaine à Paris chez la famille de sa correspondante, Camille. Le premier matin, à la boulangerie du coin, un petit malentendu le surprend.
 
-## Histoire d'introduction
+> **À la boulangerie, 8 h 15.**
+>
+> — Bonjour ! Je voudrais deux croissants et une *chocolatine*, s'il vous plaît.
+>
+> — Une *quoi* ? sourit la boulangère. Ici, à Paris, on dit *« pain au chocolat »*, jeune homme.
+>
+> — Ah, pardon ! Ma correspondante habite à Bordeaux, elle dit *chocolatine*…
+>
+> — Ha ! Le Sud-Ouest ! Là-bas, oui. Ici, non. Tenez, votre *pain au chocolat*. Bonne journée à Paris !
 
-Léa rentre d'un voyage de classe à Paris. Pendant cinq jours,
-elle a tenu un journal. Elle partage trois extraits avec Karim,
-qui rit aux passages où elle compare la France à l'Allemagne.
+**Questions d'activation**
+
+- Quel mot Jonas utilise-t-il ? Pourquoi la boulangère est-elle surprise ?
+- Avez-vous déjà vécu un petit malentendu de langue ou d'habitude en voyage ?
+- Selon vous, comment Jonas doit-il réagir : s'excuser, rire, se taire ? Pourquoi ?
 
 ## 1. Activer
 
-- Quels stéréotypes connaissez-vous sur les Allemand·e·s vu·e·s
- par les Français ?
-- Et vice-versa, sur les Français vu·e·s par les Allemand·e·s ?
-- Que signifie « se sentir étranger·ère » ?
+- Quels clichés connaissez-vous sur les Allemand·e·s vu·e·s par les Français ? Et sur les Français vu·e·s par les Allemand·e·s ?
+- Notez **trois habitudes du quotidien** (repas, transports, salutations) qui pourraient différer entre les deux pays.
+- Que signifie « se sentir étranger·ère » ? Donnez un exemple concret.
+
+{{< callout type="tip" >}}
+**Astuce.** Un malentendu culturel n'est pas une erreur : c'est une occasion d'apprendre. Une phrase utile : *« Ah, chez nous, c'est différent ! »*
+{{< /callout >}}
 
 ## 2. Apporter
 
-### A. Trois extraits de journal (texte original, ~150 mots)
+### A. Le journal de Jonas (texte original, ~150 mots)
 
-> **Lundi soir, hôtel à Montmartre.**
+> **Lundi soir, chambre chez Camille.**
 >
-> Premier jour à Paris. Le métro est plus rapide qu'à
-> Karlsruhe, mais aussi plus chaud — il fait 30°C dans la
-> rame ! On s'attendait à un dîner à 19h ; ici, on dîne à 20h
-> minimum. Mon estomac proteste.
+> Premier jour à Paris. Le métro est plus rapide qu'à Karlsruhe, mais il faisait très chaud dans la rame — presque 30 °C ! Le soir, nous avons dîné à 20 h 30. Chez moi, on mange à 18 h 30. Mon estomac ne comprend rien.
 
-> **Mercredi matin, café près de la Sorbonne.**
+> **Mercredi matin, à la boulangerie.**
 >
-> J'ai commandé un *café crème* et un *pain au chocolat*. La
-> serveuse m'a corrigée : à Paris on dit *« petit pain au
-> chocolat »*, mais à Bordeaux on dit *« chocolatine »*. Je l'ai
-> noté sur mon carnet. Karim aurait adoré.
+> J'ai demandé une *chocolatine* et la boulangère m'a corrigé : à Paris, on dit *« pain au chocolat »*. J'ai noté le mot dans mon carnet. Camille a beaucoup ri.
 
 > **Vendredi après-midi, devant Notre-Dame.**
 >
-> J'ai parlé en français avec une dame âgée. Elle a souri quand
-> j'ai dit *« j'aime votre ville »*, puis elle a ajouté en
-> allemand : *« Ich liebe Karlsruhe auch. »* Elle y a habité
-> dix ans dans les années 1970. Le monde est plus petit que je
-> pensais.
+> Une dame âgée m'a parlé. Quand j'ai dit *« j'aime votre ville »*, elle a souri, puis elle a répondu en allemand : *« Ich liebe Karlsruhe auch. »* Elle y avait habité dix ans. Le monde est petit.
 
 ### B. Vocabulaire
 
 | Mot | Sens |
-|------------------------------|---------------------------------------|
-| une rame (de métro) | wagon de métro / ligne entière |
-| un café crème | café avec mousse de lait |
-| une chocolatine | mot du sud-ouest pour *pain au chocolat* |
-| une serveuse / un serveur | personne qui sert au café |
-| dîner | manger le soir |
-| protester | se plaindre |
+|------------------------------|------------------------------------------|
+| une rame (de métro) | wagon(s) de métro sur une ligne |
+| une chocolatine | mot du Sud-Ouest pour *pain au chocolat* |
+| une viennoiserie | pâtisserie du petit-déjeuner (croissant…) |
+| corriger | reprendre une erreur poliment |
+| un malentendu | quand on se comprend mal |
+| dîner | manger le repas du soir |
+| une dame âgée | une femme d'un certain âge |
+| un carnet | petit cahier de notes |
 
-### C. Grammaire — passé composé / imparfait (rappel)
+{{< callout type="info" >}}
+**Point de langue — passé composé / imparfait**
 
-- **Passé composé** : action ponctuelle, événement.
- *« J'ai commandé un café. »*
-- **Imparfait** : description, ambiance, habitude.
- *« Il faisait 30°C. »* / *« Elle y habitait dans les années
- 1970. »*
+- **Passé composé** = action ponctuelle, événement précis.
+  *« J'**ai demandé** une chocolatine. »* · *« Elle **a souri**. »*
+- **Imparfait** = description, décor, habitude.
+  *« Il **faisait** 30 °C. »* · *« Chez moi, on **mangeait** à 18 h 30. »*
+- Formation de l'imparfait : radical du *nous* au présent + terminaisons *-ais, -ais, -ait, -ions, -iez, -aient*.
+  *nous fais**ons** → je fais**ais***.
+{{< /callout >}}
+
+### C. Note culturelle — « chocolatine » ou « pain au chocolat » ?
+
+En France, le nom de cette viennoiserie change selon les régions. La forme *pain au chocolat* domine dans la plus grande partie du pays, en Suisse et dans une partie de la Belgique, tandis que *chocolatine* est surtout employée dans le grand Sud-Ouest, autour de Toulouse et de Bordeaux. Le mot *chocolatine* s'est formé en ajoutant le suffixe *-ine* au mot *chocolat* ; il n'est entré dans les grands dictionnaires qu'en 2007 (*Le Petit Robert*) et 2011 (*Le Petit Larousse*). D'après un sondage de 2019, environ 84 % des Français utilisent le nom *pain au chocolat*. Pour un·e voyageur·euse, ce petit détail montre bien qu'« une langue » cache toujours plusieurs usages.
+
+*(Faits paraphrasés d'après l'article « Pain au chocolat », Wikipédia, CC BY-SA — voir Sources.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture.** Vrai / faux ?
+**Ex. 1 — Compréhension (lecture du journal, A).** Vrai ou faux ? Justifiez.
 
-1. Léa était à Paris en hiver.
-2. À Paris, on dîne plus tôt qu'en Allemagne.
-3. *« Chocolatine »* est utilisé partout en France.
-4. La dame âgée parle allemand parce qu'elle a vécu à Karlsruhe.
+1. Jonas était à Paris en hiver.
+2. À Paris, Jonas dîne plus tard que chez lui.
+3. Le mot *chocolatine* est utilisé partout en France.
+4. La dame âgée connaît l'allemand parce qu'elle a habité à Karlsruhe.
 
-**Ex. 2 — Passé composé / imparfait.** Choisissez :
+**Ex. 2 — Passé composé ou imparfait ?** Choisissez la forme correcte.
 
-1. Mardi, *(j'ai visité / je visitais)* le Louvre.
-2. Pendant les vacances, *(il a fait / il faisait)* très chaud.
-3. Soudain, *(elle a dit / elle disait)* quelque chose en
- allemand.
-4. À chaque petit-déjeuner, *(j'ai mangé / je mangeais)* un
- croissant.
+1. Lundi, *(j'ai pris / je prenais)* le métro pour la première fois.
+2. Dans la rame, *(il a fait / il faisait)* très chaud.
+3. Soudain, la dame *(a répondu / répondait)* en allemand.
+4. À chaque petit-déjeuner, Camille *(a mangé / mangeait)* une viennoiserie.
 
-**Ex. 3 — Trouver les différences.** Dans le journal, citez
-**trois différences** entre Paris et Karlsruhe (heure du dîner,
-mots, températures du métro …).
+**Ex. 3 — Repérer les différences.** Dans le journal (A), citez **trois différences** entre Paris et Karlsruhe (heure du dîner, mots, température du métro…).
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 4 — Réagir poliment.** Complétez le mini-dialogue avec une réaction adaptée (une phrase).
 
-**Ex. 1.** 1) F (30°C → été). 2) F (dîner plus tard, à 20h). 3)
-F (sud-ouest seulement). 4) V.
+> — Ici, on dit *« pain au chocolat »*, pas *chocolatine*.
+> — ______________________________________________
 
-**Ex. 2.** 1) j'ai visité (action). 2) il faisait (description).
-3) elle a dit (ponctuel). 4) je mangeais (habitude).
+## Solutions
 
-**Ex. 3.** Modèles : *Heure du dîner (19h vs. 20h+) · Métro
-chaud à Paris (30°C dans la rame) · Mots différents pour le pain
-au chocolat (Paris vs. Bordeaux).*
+**Ex. 1.** 1) Faux — il faisait presque 30 °C, donc c'était l'été. 2) Vrai — 20 h 30 à Paris contre 18 h 30 chez lui. 3) Faux — surtout dans le Sud-Ouest. 4) Faux — elle avait habité à Karlsruhe, mais elle parle allemand parce qu'elle y a vécu dix ans (pas Jonas).
 
+**Ex. 2.** 1) j'ai pris (action ponctuelle). 2) il faisait (description). 3) a répondu (événement soudain). 4) mangeait (habitude).
+
+**Ex. 3.** Modèles : *heure du dîner (18 h 30 vs 20 h 30) · chaleur dans le métro (≈ 30 °C) · le mot pour la viennoiserie (chocolatine vs pain au chocolat).*
+
+**Ex. 4.** Réponses possibles : *« Ah, chez nous à Bordeaux, on dit chocolatine ! »* / *« Merci, je vais le retenir ! »* / *« Pardon, je note le mot. »* (Toute réaction polie et cohérente est acceptée.)
+
+{{< callout type="tip" >}}
+**Différenciation.**
+**G** — Ex. 1 et 3 avec les extraits sous les yeux ; réponses en mots isolés acceptées.
+**M** — les quatre exercices ; phrases complètes attendues à l'Ex. 4.
+**E** — ajoutez : reformulez l'Ex. 3 en **une phrase complète** par différence, avec un connecteur (*par contre, tandis que, alors que*).
 {{< /callout >}}
 
 ## 4. Produire
 
-**Tâche d'écriture (M, ~70 mots) :**
+**Tâche d'écriture (M, ~70 mots).**
 
-Imaginez trois jours dans une ville française (Lyon, Lille,
-Marseille…). Écrivez **trois mini-extraits de journal** (3
-phrases chacun) :
+Imaginez trois jours dans une ville française (Lyon, Lille, Marseille, Strasbourg…). Écrivez **trois mini-extraits de journal** (2–3 phrases chacun) :
 
-1. Une **observation** du quotidien.
-2. Une **différence** culturelle.
-3. Une **rencontre**.
+1. une **observation** du quotidien,
+2. une **différence** culturelle,
+3. une **rencontre**.
 
-Utilisez **passé composé + imparfait**.
+Utilisez le **passé composé** et l'**imparfait**.
 
-**Modèle (M, ~70 mots) :**
+**Modèle (M, ~70 mots)**
 
-> *Lundi.* Le matin, j'ai pris le tram. Il y avait beaucoup de
-> monde. À Marseille, le tram est lent — c'est différent.
+> *Lundi.* Le matin, j'ai pris le tram. Il y avait beaucoup de monde. À Marseille, le tram est lent — c'est différent de chez moi.
 >
-> *Mardi.* J'ai mangé une bouillabaisse au Vieux-Port. C'était
-> salé et délicieux. À Karlsruhe, on n'a pas la mer.
+> *Mardi.* J'ai mangé une bouillabaisse au Vieux-Port. C'était salé et délicieux. À Karlsruhe, on n'a pas la mer.
 >
-> *Mercredi.* J'ai parlé avec une boulangère qui était née en
-> Tunisie. Elle parlait trois langues — français, arabe, et un
-> peu d'allemand !
+> *Mercredi.* J'ai parlé avec une boulangère qui était née en Tunisie. Elle parlait trois langues !
+
+**Critères d'évaluation**
+
+| Critère | Indicateur |
+|-----------------------------|------------------------------------------------|
+| Contenu | 3 extraits : observation, différence, rencontre |
+| Temps du passé | passé composé **et** imparfait employés à bon escient |
+| Interculturel | au moins une différence claire est nommée |
+| Langue | ~70 mots, phrases compréhensibles, ponctuation |
 
 ## 5. Réfléchir
 
-- [ ] Je lis un journal de voyage simple.
-- [ ] Je distingue passé composé et imparfait.
-- [ ] Je nomme trois différences culturelles.
+- [ ] Je comprends un journal de voyage simple.
+- [ ] Je distingue le passé composé et l'imparfait.
+- [ ] Je nomme trois différences culturelles entre l'Allemagne et la France.
+- [ ] Je réagis poliment à un petit malentendu culturel.
+- [ ] J'écris trois mini-extraits de journal d'environ 70 mots.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+## Évaluation
+
+**Devoir surveillé (« Klassenarbeit ») — Niveau M · compréhension écrite + expression écrite**
 
 **Tâche 1 — Compréhension écrite (10 P.)**
 
-Lisez les trois extraits (A). Répondez :
+Relisez les trois extraits du journal de Jonas (partie A). Répondez en phrases courtes.
 
-1. Pourquoi Léa est-elle surprise par le métro de Paris ?
-2. Quel mot existe à Bordeaux mais pas à Paris ?
-3. Pourquoi la dame âgée connaît-elle l'allemand ?
+1. Pourquoi Jonas est-il surpris par le métro de Paris ? (2 P.)
+2. Quelle différence remarque-t-il pour l'heure du dîner ? (2 P.)
+3. Quel malentendu a-t-il à la boulangerie ? (3 P.)
+4. Pourquoi la dame âgée connaît-elle l'allemand ? (3 P.)
 
-**Tâche 2 — Grammatik (10 P.)**
+**Tâche 2 — Grammaire : passé composé / imparfait (10 P.)**
 
-Complétez avec passé composé ou imparfait :
+Complétez avec le temps correct.
 
-1. Lundi soir, *(arriver, je)* à l'hôtel à 19h.
-2. Il *(faire)* très chaud dans la rame.
+1. Lundi soir, je *(arriver)* chez Camille à 20 h.
+2. Dans la rame, il *(faire)* très chaud.
 3. Soudain, la dame *(parler)* en allemand.
-4. Pendant cinq jours, je *(visiter)* Paris.
-5. Mardi matin, *(commander, je)* un café crème.
+4. Chaque matin, Camille *(manger)* une viennoiserie.
+5. Vendredi, je *(visiter)* Notre-Dame.
 
 **Tâche 3 — Expression écrite (10 P.)**
 
-Écrivez 3 mini-extraits de journal (~70 mots) sur 3 jours dans
-une ville française. Passé composé + imparfait, une différence
-culturelle.
+Écrivez **trois mini-extraits de journal** (~70 mots) sur trois jours dans une ville française. Employez le passé composé **et** l'imparfait, et nommez **une différence culturelle**.
 
 **Total : 30 P.**
 
-<div class="notes">
+**Barème**
 
-**Plan (90 min) :** Activer 7' · Apporter 18' · S'entraîner 18' ·
-Produire 25' · Réfléchir 5' · Aperçu 17'.
+| Points | Note (repère) |
+|--------|---------------|
+| 27–30  | très bien     |
+| 22–26  | bien          |
+| 17–21  | satisfaisant  |
+| 12–16  | suffisant     |
+| < 12   | à retravailler |
 
-</div>
+## Notes pour l'enseignant·e
 
-## Pièges fréquents
+**Durée : 45 min.**
 
-- **« commander »** au café = *to order* ; en allemand
- *bestellen*. Pas *commander un soldat* (ça veut dire diriger).
-- **« chocolatine »** uniquement dans le Sud-Ouest ; ailleurs
- *« pain au chocolat »*.
-- **Passé composé** avec *avoir* (la plupart) ou *être* (vingt
- verbes : aller, venir, partir, arriver, monter, descendre,
- rester, retourner, etc.).
+**Plan indicatif**
 
-## Pour aller plus loin
+- Activer — 5 min (tour de table des clichés et habitudes).
+- Apporter — 15 min (lecture du journal, vocabulaire, point de langue, note culturelle).
+- S'entraîner — 12 min (Ex. 1–4, correction rapide au tableau).
+- Produire — 10 min (lancement de la tâche d'écriture ; suite en devoir si besoin).
+- Réfléchir — 3 min (auto-évaluation).
 
-- **France Bleu — voyages en France** : <https://www.francebleu.fr/>
-- **Lonely Planet France** : <https://www.lonelyplanet.fr/>
+**Organisation.** Situation de départ lue à deux voix (élève + enseignant·e). Vocabulaire projeté depuis la présentation (`unit08_un-allemand-a-paris.odp`). Ex. 4 en binômes pour libérer la parole.
+
+**Différenciation.** Voir l'encadré après les Solutions (G/M/E). Pour les élèves rapides : rédiger un quatrième extrait « le jour du départ ». Pour les élèves fragiles : fournir la banque de verbes au passé composé (prendre → j'ai pris, manger → j'ai mangé, parler → j'ai parlé).
+
+**Interculturel.** Insister sur le fait qu'un malentendu se répare par la politesse, pas par la honte. Le débat *chocolatine / pain au chocolat* est un bon exemple, léger et vécu, de variation interne à une même langue.
+
+## Sources
+
+- « Pain au chocolat » — Wikipédia (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Pain_au_chocolat>, licence CC BY-SA 4.0.
+- « Métro de Paris » — Wikipédia (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/M%C3%A9tro_de_Paris>, licence CC BY-SA 4.0.
+- Textes (journal de Jonas, dialogues, exercices) : originaux, rédigés pour cette unité.

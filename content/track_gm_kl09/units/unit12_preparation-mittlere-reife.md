@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2effee652d1f43dbb5d3088ab2cd1582"
 presentation:
-  file: "/fle/materials/presentations/unit12_preparation-mittlere-reife.pptx"
+  file: "/fle/materials/presentations/unit12_preparation-mittlere-reife.odp"
   thumbnail: "/fle/materials/presentations/unit12_preparation-mittlere-reife.png"
 worksheet:
   file: "/fle/materials/worksheets/unit12_preparation-mittlere-reife.pdf"
@@ -33,136 +33,216 @@ aliases:
 
 ## Objectifs
 
-- Je révise les **5 grandes compétences** (lire, écrire, écouter,
- parler, médier).
-- Je prépare une **prüfungsähnliche Aufgabe** type MSA.
-- Je connais le **format de l'examen** diplôme intermédiaire (« Mittlerer Bildungsabschluss »).
+- Je peux **comprendre un texte d'examen** (article, message, consigne) et repérer les informations essentielles.
+- Je peux **rédiger un texte structuré** d'environ 150 mots (bilan, lettre, avis) en gérant mon temps.
+- Je peux **appliquer une stratégie** adaptée à chaque épreuve du diplôme intermédiaire.
+- Je peux **relire et corriger** mon texte à l'aide d'une grille simple.
+- Je peux **évaluer mes points forts et mes points faibles** pour préparer l'examen.
 
-## Histoire d'introduction
+## Situation de départ
 
-Mai. Mme Renault projette le programme : *« Dans 4 semaines,
-vous passez la **MSA** — Mittlerer Schulabschluss. En français,
-4 épreuves : compréhension écrite, expression écrite, médiation,
-expression orale. Préparons-nous ! »*
+Mai, salle 214. Mme Renault projette le calendrier au tableau.
+
+**Mme Renault :** Dans quatre semaines, vous passez l'examen intermédiaire. En français, deux écrits comptent le plus : la compréhension et l'expression écrite.
+
+**Yanis :** Madame, l'expression écrite, c'est ce qui me stresse le plus. Je ne sais jamais par où commencer.
+
+**Mme Renault :** C'est justement pour ça qu'on va s'entraîner à faire un plan en deux minutes. Un bon plan, c'est déjà la moitié du travail.
+
+**Sara :** Et pour la lecture, on doit tout comprendre, chaque mot ?
+
+**Mme Renault :** Non. Il faut comprendre l'essentiel, pas chaque mot. On apprend à lire vite, puis à chercher les réponses. Aujourd'hui, on révise les stratégies.
+
+**Questions d'activation**
+
+- Quelle épreuve écrite te semble la plus facile : lire ou écrire ? Pourquoi ?
+- Qu'est-ce que Mme Renault conseille de faire avant d'écrire ?
+- Faut-il comprendre chaque mot d'un texte d'examen ? Justifie.
 
 ## 1. Activer
 
-- Quelle compétence est votre point fort ?
-- Et votre point faible ?
-- Qu'est-ce qui vous stresse le plus ?
+Réfléchis seul·e, puis échange avec ta ou ton voisin·e.
+
+- Quelle compétence est ton point fort : lire, écrire, écouter, parler, médier ?
+- Et ton point faible ?
+- Qu'est-ce qui te stresse le plus avant un examen ? Comment gères-tu ce stress ?
+- Cite **une stratégie** que tu utilises déjà pour lire un texte long.
 
 ## 2. Apporter
 
-### A. Format MSA français (extrait)
+### Vocabulaire — le vocabulaire de l'examen
 
-| Épreuve | Durée | Points |
-|----------------------|---------|--------|
-| Compréhension écrite (« Leseverstehen ») | 30 min | 25 |
-| Expression écrite (« Schreiben ») | 60 min | 30 |
-| médiation linguistique (« Sprachmittlung ») | 30 min | 20 |
-| Expression orale (« Sprechen ») | 15 min | 25 |
-| **Total** | 2h15 | **100**|
+| Français | Allemand | Exemple |
+|---|---|---|
+| une épreuve | eine Prüfung / ein Prüfungsteil | L'épreuve dure trente minutes. |
+| la compréhension écrite | das Leseverstehen | La compréhension écrite compte pour 25 points. |
+| l'expression écrite | das Schreiben | L'expression écrite demande un texte structuré. |
+| la médiation | die Sprachmittlung | La médiation, c'est transmettre le sens d'un texte. |
+| survoler un texte | einen Text überfliegen | Je survole le texte avant de lire en détail. |
+| repérer une information | eine Information finden | Je repère les dates et les noms propres. |
+| rédiger un brouillon | einen Entwurf schreiben | Je rédige un brouillon, puis je le corrige. |
+| relire, corriger | Korrektur lesen | Je relis pour corriger les fautes. |
+| gérer son temps | seine Zeit einteilen | Gérer son temps est essentiel en examen. |
+| un bilan | eine Bilanz | Je fais le bilan de mon année. |
 
-### B. Stratégies par épreuve
+### Grammaire — les connecteurs logiques
 
-- **Lire :** survol → lecture détaillée → vérification.
-- **Écrire :** plan en 2 min, écrire en 50 min, relire en 8 min.
-- **Médier :** 3 lectures (sens, infos, vérif), 5 phrases en FR.
-- **Parler :** plan en 5 min, exposé 3 min, échange 7 min.
+{{< callout type="info" >}}
+**Point de langue : organiser un texte avec des connecteurs**
 
-### C. Texte d'examen blanc (texte original)
+Un bon texte se lit comme un chemin balisé. Les connecteurs guident le lecteur :
 
-> **Léa raconte son année — un message pour les futurs 9ᵉˢ**
->
-> Cette année, j'ai grandi en français. **D'abord**, j'ai fait
-> un Praktikum chez Hugo, le boulanger. **Ensuite**, j'ai écrit
-> ma première lettre de motivation pour *Le Monde*. **De plus**,
-> j'ai découvert la Tunisie grâce à mon correspondant Mehdi.
->
-> J'ai aussi appris à argumenter (« Faut-il interdire le
-> portable ? »), à écouter des podcasts (*Choses à Savoir*) et
-> à comprendre les différences franco-allemandes.
->
-> **L'an prochain**, en 10ᵉ, je vais continuer mon parcours et
-> préparer le Realschulabschluss. **Plus tard**, je voudrais
-> faire un échange Erasmus à Montréal.
->
-> Bon courage pour votre 9ᵉ — c'est une année dense mais riche !
+- **Ordre :** d'abord, ensuite, puis, enfin.
+- **Ajout :** de plus, en outre, par ailleurs.
+- **Cause / conséquence :** parce que, car, donc, c'est pourquoi.
+- **Opposition :** mais, cependant, pourtant, en revanche.
+- **Conclusion :** en résumé, pour conclure, finalement.
+
+**Astuce :** un paragraphe = une idée + un connecteur au début. Évite de commencer trois phrases de suite par « Je ».
+{{< /callout >}}
+
+### Texte — le message de Léa (texte original)
+
+**Léa écrit aux futurs élèves de 9ᵉ — bilan d'une année**
+
+Chers futurs neuvièmes,
+
+Cette année, j'ai beaucoup progressé en français. **D'abord**, j'ai fait un stage d'une semaine chez un boulanger : j'ai appris à parler avec les clients. **Ensuite**, j'ai écrit ma première lettre de motivation, ce qui m'a semblé difficile au début. **De plus**, j'ai correspondu avec Mehdi, un élève de Tunis, et j'ai découvert une autre culture francophone.
+
+**Cependant**, tout n'a pas été facile. La grammaire des temps du passé m'a posé problème, et j'ai souvent manqué de temps pendant les devoirs. **C'est pourquoi** j'ai appris à faire un plan avant d'écrire.
+
+**Pour conclure**, la 9ᵉ est une année dense mais riche. **L'an prochain**, en 10ᵉ, je passerai l'examen intermédiaire. Bon courage à vous : organisez votre temps et n'ayez pas peur des fautes !
+
+Léa
+
+### Note culturelle — le diplôme intermédiaire en Allemagne
+
+En Allemagne, le diplôme intermédiaire (souvent appelé *Mittlere Reife* ou *Mittlerer Schulabschluss*) est un certificat de fin d'études secondaires généralement délivré après dix années de scolarité. Son nom exact varie selon les Länder (par exemple *Realschulabschluss* ou *Qualifizierter Sekundarabschluss I*). Dans presque tous les Länder, il est lié à des examens organisés de façon centralisée. Ce diplôme ouvre l'accès à un apprentissage professionnel ou à la poursuite d'études vers le lycée. Il est souvent comparé, par son niveau, au *GCSE* britannique.
+
+*(Paraphrasé d'après les articles « Mittlere Reife » et « Mittlerer Schulabschluss » de Wikipédia, CC BY-SA — voir Sources.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Compréhension écrite (texte C).** 5 questions.
+**Exercice 1 — Compréhension écrite (texte de Léa).**
+Réponds par une phrase complète.
 
-1. Combien de temps a duré le stage ?
-2. À quel journal Léa a-t-elle écrit ?
-3. Cite **3 thèmes** abordés cette année.
-4. Quel est son projet pour la 10ᵉ ?
-5. Quel est son rêve plus tard ?
+1. Combien de temps a duré le stage de Léa ?
+2. Chez qui a-t-elle fait ce stage ?
+3. Avec qui a-t-elle correspondu, et d'où vient cette personne ?
+4. Cite **deux difficultés** que Léa a rencontrées.
+5. Que va-t-elle faire l'an prochain ?
 
-**Ex. 2 — Expression écrite (~150 mots).**
+**Exercice 2 — Connecteurs logiques.**
+Complète avec le connecteur qui convient (*d'abord · cependant · c'est pourquoi · de plus · pour conclure*).
 
-Rédigez **votre bilan de 9ᵉ** : 3 réussites + 2 difficultés +
-1 projet pour la 10ᵉ. Plan : intro + 3 paragraphes + conclusion.
+1. ______, je lis la consigne. Ensuite, je fais un plan.
+2. Le texte est court, ______ il contient beaucoup d'informations.
+3. Je manque de temps, ______ je m'entraîne à écrire vite.
+4. J'ai révisé le vocabulaire. ______, j'ai relu la grammaire.
+5. ______, cette méthode m'aide à mieux réussir.
 
-**Ex. 3 — Médiation.** Médiez en 3 phrases :
+**Exercice 3 — Repérage rapide.**
+Sans relire tout le texte de Léa, retrouve : (a) un mot lié au travail, (b) un pays francophone cité, (c) un temps verbal qui pose problème à Léa.
 
-> *« Die mündliche Prüfung dauert 15 Minuten und besteht aus
-> einem 3-minütigen Vortrag und einem Gespräch. Die Prüfer
-> stellen Fragen zu deinem Thema. »*
+**Exercice 4 — Expression écrite guidée (~150 mots).**
+Rédige **ton bilan de 9ᵉ** en suivant ce plan :
 
-{{< callout type="tip" title="Solutions" >}}
+- **Introduction :** une phrase qui annonce ton bilan.
+- **Paragraphe 1 :** deux réussites (avec *d'abord*, *ensuite*).
+- **Paragraphe 2 :** une difficulté (avec *cependant*).
+- **Conclusion :** un projet pour la 10ᵉ (avec *pour conclure*).
 
-**Ex. 1.** 1) (Non précisé — réponse libre) 1 semaine. 2) *Le
-Monde*. 3) Praktikum, lettre, Tunisie, argumenter, podcasts,
-différences FR-DE. 4) Préparer le Realschulabschluss en 10ᵉ.
-5) Échange Erasmus à Montréal.
+{{< callout type="tip" >}}
+**Différenciation**
 
-**Ex. 2.** Réponses libres.
-
-**Ex. 3.** Modèle : *L'épreuve orale dure 15 minutes : un exposé
-de 3 minutes puis un échange. Les examinateurs posent des
-questions sur le sujet préparé.*
-
+- **G :** l'exercice 4 peut être réduit à 80 mots ; une banque de connecteurs est fournie.
+- **M :** ~150 mots, plan imposé (ci-dessus).
+- **E :** ~180 mots, ajoute un paragraphe d'opinion (« Ce que je changerais… ») avec *en revanche*.
 {{< /callout >}}
+
+## Solutions
+
+**Exercice 1.**
+1. Le stage a duré une semaine.
+2. Elle l'a fait chez un boulanger.
+3. Elle a correspondu avec Mehdi, qui vient de Tunis (Tunisie).
+4. Deux difficultés parmi : la grammaire des temps du passé, le manque de temps, la lettre de motivation difficile au début.
+5. L'an prochain, en 10ᵉ, elle passera l'examen intermédiaire.
+
+**Exercice 2.**
+1. D'abord — 2. cependant — 3. c'est pourquoi — 4. De plus — 5. Pour conclure.
+
+**Exercice 3.**
+(a) stage / boulanger / clients / lettre de motivation ; (b) la Tunisie (Tunis) ; (c) les temps du passé.
+
+**Exercice 4.** Réponses libres. Vérifie : un connecteur au début de chaque paragraphe, au moins une réussite et une difficulté, un projet pour la 10ᵉ, environ 150 mots.
 
 ## 4. Produire
 
-**Tâche d'examen blanc (M, ~2h) :** simulation MSA française.
+**Tâche d'expression écrite (M, ~35 min) — écrire pour transmettre**
 
-| Étape | Durée | Tâche |
-|-------|-------|--------------------------------|
-| 1 | 30' | Compréhension écrite (texte C) |
-| 2 | 60' | Expression écrite (Ex. 2) |
-| 3 | 30' | médiation linguistique (Ex. 3 + un autre) |
+Tu écris un court message (~150 mots) à un·e élève qui entrera en 9ᵉ l'an prochain. Donne-lui **trois conseils** pour bien préparer le diplôme intermédiaire (organisation, lecture, écriture). Utilise au moins **quatre connecteurs** différents.
+
+**Étapes :** plan (3 min) → rédaction (25 min) → relecture (7 min).
+
+**Critères d'évaluation**
+
+| Critère | Indicateur | Points |
+|---|---|---|
+| Contenu | trois conseils clairs et pertinents | 6 |
+| Structure | intro, paragraphes, conclusion, connecteurs | 6 |
+| Langue | temps corrects, vocabulaire de l'examen | 5 |
+| Relecture | peu de fautes, texte lisible | 3 |
+| **Total** | | **20** |
 
 ## 5. Réfléchir
 
-- [ ] Je connais le format MSA français.
-- [ ] J'ai une stratégie par épreuve.
-- [ ] J'ai fait un examen blanc complet.
+- [ ] Je sais survoler un texte avant de le lire en détail.
+- [ ] Je fais un plan avant d'écrire.
+- [ ] J'utilise des connecteurs pour structurer mon texte.
+- [ ] Je relis mon texte pour corriger mes fautes.
+- [ ] Je connais mes points forts et mes points faibles pour l'examen.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+## Évaluation
 
-**Tâche 1 — Lecture (10 P.)** : texte C, 5 questions.
-**Tâche 2 — médiation linguistique (8 P.)** : Ex. 3 (3 phrases).
-**Tâche 3 — Expression écrite (12 P.)** : votre bilan (~150 mots).
+**Devoir surveillé (« Klassenarbeit ») — Niveau M**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension écrite (10 points).**
+Lis le texte de Léa (section 2) et réponds aux cinq questions de l'exercice 1 par des phrases complètes.
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 11' · S'entraîner 14' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Langue : connecteurs (6 points).**
+Complète les cinq phrases de l'exercice 2 avec le bon connecteur (1 point chacune, +1 pour l'orthographe soignée de l'ensemble).
 
-## Pièges fréquents
+**Tâche 3 — Expression écrite (14 points).**
+Rédige ton bilan de 9ᵉ (~150 mots) selon le plan de l'exercice 4.
+Barème : contenu (5) · structure et connecteurs (5) · langue (4).
 
-- **MSA** = *Mittlerer Schulabschluss* (= fin de la 10ᵉ).
-- En 9ᵉ, on prépare ; en 10ᵉ, on passe l'examen.
-- **Gestion du temps** = compétence transversale clé en examen.
+**Total : 30 points.**
 
-## Pour aller plus loin
+| Note | Points |
+|---|---|
+| très bien | 27–30 |
+| bien | 22–26 |
+| satisfaisant | 17–21 |
+| passable | 12–16 |
 
-- **référentiel régional (« Bildungsplan ») diplôme intermédiaire** :
- <https://www.bildungsplaene-bw.de/>
-- **Aperçu cl. 10 G+M** :
- [classe 10 — index](/track_gm_kl10/)
+## Notes pour l'enseignant·e
+
+**Déroulé (45 min)**
+
+- Activer — 4 min : questions orales, main levée.
+- Apporter — 12 min : vocabulaire, point de langue, lecture du texte de Léa, note culturelle.
+- S'entraîner — 15 min : exercices 1 à 4 (4 en autonomie).
+- Produire — 10 min : lancement de la tâche d'écriture (finalisée en devoir maison si besoin).
+- Réfléchir — 2 min : grille d'auto-évaluation.
+- Aperçu — 2 min : présentation du devoir surveillé.
+
+**Organisation :** exercices 1 à 3 en binômes, exercice 4 et tâche de production en individuel. Prévoir une banque de connecteurs affichée au tableau.
+
+**Différenciation :** voir l'encadré de la section 3 (G réduit / M standard / E enrichi). Pour les élèves rapides : rédiger une deuxième version du bilan à la première personne du pluriel (« Notre année de 9ᵉ »).
+
+## Sources
+
+- « Mittlere Reife » — Wikipedia contributors (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/Mittlere_Reife>, licence CC BY-SA 4.0.
+- « Mittlerer Schulabschluss » — Wikipedia (Autoren, consulté le 2026-07-21), <https://de.wikipedia.org/wiki/Mittlerer_Schulabschluss>, licence CC BY-SA 4.0.
+- « Mittlere Reife » — Ministerium für Kultus, Baden-Württemberg (consulté le 2026-07-21), <https://km.baden-wuerttemberg.de/de/schule/schulartuebergreifend/bildungsabschluesse/mittlere-reife>, référence institutionnelle.

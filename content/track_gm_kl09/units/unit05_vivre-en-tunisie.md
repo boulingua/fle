@@ -14,7 +14,7 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e4bfca5e91c499ba60408e1c9b890c3"
 presentation:
-  file: "/fle/materials/presentations/unit05_vivre-en-tunisie.pptx"
+  file: "/fle/materials/presentations/unit05_vivre-en-tunisie.odp"
   thumbnail: "/fle/materials/presentations/unit05_vivre-en-tunisie.png"
 worksheet:
   file: "/fle/materials/worksheets/unit05_vivre-en-tunisie.pdf"
@@ -33,138 +33,179 @@ aliases:
 
 ## Objectifs
 
-- Je situe la **Tunisie** et connais 5 faits-clés.
-- Je décris la **vie quotidienne** d'un adolescent tunisien.
-- Je distingue **français standard** et **français de Tunisie**.
+- Je peux **situer la Tunisie** en Afrique du Nord et nommer cinq faits-clés.
+- Je peux **comprendre un texte court** (blog, courriel) sur la vie quotidienne en Tunisie.
+- Je peux **expliquer la place du français** en Tunisie (langue de scolarité, sans statut officiel).
+- Je peux **relever des informations précises** dans un document et les reformuler.
+- Je peux **écrire une réponse** à un correspondant maghrébin en comparant deux modes de vie.
 
-## Histoire d'introduction
+## Situation de départ
 
-Mehdi, 15 ans, vit à Sfax (Tunisie). Il écrit à Léa son blog
-*« Sfax-Karlsruhe »*. *« Le matin, je vais au lycée (« Gymnasium ») à pied.
-À la récré, on parle français, arabe, anglais — tout mélangé !
-On appelle ça l'**arabizi** quand on l'écrit. »*
+Mehdi, 15 ans, habite à Sfax, sur la côte tunisienne. Il tient un blog qu'il partage avec sa correspondante Léa, à Karlsruhe.
+
+> **Jeudi, 18 h — Sfax**
+>
+> Salut Léa ! Chez nous, la journée d'école se passe en deux langues : les cours de maths et de sciences sont en français, le reste en arabe. À la récréation, on mélange tout — arabe, français, un peu d'anglais. C'est normal ici ! Et toi, tu as combien de langues à l'école ?
+
+**Pour commencer :**
+
+1. Dans quelles matières Mehdi a-t-il cours en français ?
+2. Quelles langues entend-on dans sa cour de récréation ?
+3. À votre avis, pourquoi le français est-il si présent en Tunisie ?
 
 ## 1. Activer
 
-- Que savez-vous de la Tunisie ?
-- Quelles langues y parle-t-on ?
-- Avez-vous déjà mangé un couscous ou une *brick* ?
+- Que savez-vous déjà de la Tunisie (situation, capitale, mer) ?
+- Citez d'autres pays où l'on parle français en dehors de la France.
+- Avez-vous déjà goûté un plat d'Afrique du Nord (couscous, *brick*, dattes) ?
+- Selon vous, « langue officielle » et « langue d'enseignement », est-ce toujours la même chose ?
 
 ## 2. Apporter
 
-### A. La Tunisie en 5 chiffres
+### A. Vocabulaire — la vie quotidienne
 
-- **12,4 millions** d'habitants (2025).
-- **3 langues** : arabe (officielle), français (administration,
- école), berbère (~1 %).
-- **2011** : Révolution du Jasmin → printemps arabe.
-- **1956** : Indépendance (anciennement protectorat français
- 1881-1956).
-- **Capitale** : Tunis · **Plus grande ville côtière** : Sfax.
+| Français | Allemand |
+|----------|----------|
+| la vieille ville (la *médina*) | die Altstadt |
+| le marché (le *souk*) | der Markt |
+| le quartier | das Viertel |
+| la côte / le littoral | die Küste |
+| la langue de scolarité | die Unterrichtssprache |
+| une matière (scolaire) | ein (Schul-)Fach |
+| le voisinage | die Nachbarschaft |
+| une habitude | eine Gewohnheit |
 
-### B. Vocabulaire — vie quotidienne
+### B. Point de langue
 
-| Tunisien (FR de Tunisie) | Standard / Allemand |
-|--------------------------|----------------------------|
-| la *koura* | le foot / Fußball |
-| la *brick* | beignet d'œuf / Spezialität|
-| le *medina* | vieille ville / Altstadt |
-| le *souk* | marché / Markt |
-| la *darija* | arabe parlé / Umgangssprache|
+{{< callout type="tip" >}}
+**Comparer : le comparatif de l'adjectif**
 
-### C. Blog de Mehdi (texte original)
+- **plus … que** : Sfax est *plus grande que* Karlsruhe.
+- **moins … que** : Il fait *moins froid* à Sfax *qu'*à Karlsruhe.
+- **aussi … que** : Le marché est *aussi animé qu'*un centre-ville allemand.
 
-> **Vendredi, 18h — Sfax**
+Attention aux formes irrégulières : *bon → meilleur*, *bien → mieux*.
+{{< /callout >}}
+
+### C. Le courriel de Mehdi (texte original)
+
+> **Objet : Une journée ordinaire**
 >
-> Salut Léa ! Aujourd'hui, je suis allé au souk avec ma mère.
-> On a acheté des dattes et des bricks pour ce soir : c'est
-> vendredi, jour de couscous en famille !
+> Coucou Léa,
 >
-> Au lycée, on a 4 heures de français par semaine. Mes auteurs
-> préférés, c'est Tahar Ben Jelloun et Albert Memmi —
-> tous deux écrivent en français mais parlent du Maghreb.
+> Aujourd'hui, après les cours, je suis allé au souk avec ma mère. On a acheté des dattes et du pain pour ce soir. Le vendredi, on mange souvent le couscous en famille.
 >
-> Le week-end, on joue à la *koura* (le foot) sur la plage.
-> Sfax est sur la mer Méditerranée, à 270 km au sud de Tunis.
+> En classe, j'aime beaucoup le français, mais ce n'est pas toujours facile : nos cours de sciences sont en français, alors il faut apprendre le vocabulaire deux fois ! Mes camarades et moi, on lit aussi des auteurs qui écrivent en français, comme l'écrivain tunisien Albert Memmi.
 >
-> **Question :** vous avez quoi à Karlsruhe pour vous amuser le
-> samedi ?
+> Le week-end, on joue au foot sur la plage. Sfax est au bord de la mer Méditerranée, à environ 270 km au sud de Tunis. Et chez toi, comment se passe le samedi ?
+>
+> À bientôt,
+> Mehdi
+
+### D. Repère culturel — le français en Tunisie
+
+En Tunisie, la langue officielle est l'arabe littéraire. Le français, lui, n'a pas de statut officiel, mais il reste très présent dans l'administration, la presse et surtout l'école. D'après des estimations transmises par le gouvernement tunisien à l'Organisation internationale de la francophonie, environ **63 %** de la population, soit à peu près **6,3 millions de personnes**, ont une certaine maîtrise du français. À l'école, le français est enseigné comme langue étrangère, mais il sert aussi de **langue d'enseignement** pour les mathématiques et les sciences. Cette situation s'explique par l'histoire : la Tunisie a été un protectorat français de **1881 à 1956**, année de son indépendance.
+
+*(Faits reformulés d'après « Langues en Tunisie », Wikipédia, licence CC BY-SA — voir Sources.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Exercice 1 — Compréhension écrite (texte C).** Répondez par des phrases complètes.
 
-1. Où vit Mehdi ? Quelle est cette ville ?
-2. Pourquoi le vendredi est-il spécial ?
-3. Combien d'heures de français a-t-il par semaine ?
-4. Quels auteurs lit-il ?
-5. Que fait-il le week-end ?
+1. Où Mehdi est-il allé après les cours, et avec qui ?
+2. Que mange sa famille le vendredi ?
+3. Pourquoi le français n'est-il « pas toujours facile » pour lui ?
+4. Où se trouve Sfax par rapport à Tunis ?
 
-**Ex. 2 — Vocabulaire.** Donnez le mot français standard.
+**Exercice 2 — Vrai ou faux ?** Corrigez les affirmations fausses.
 
-a) la koura · b) la brick · c) la medina · d) le souk · e) la
-darija.
+1. L'arabe littéraire est la langue officielle de la Tunisie.
+2. Le français est la langue officielle de la Tunisie.
+3. En Tunisie, on enseigne les sciences en français.
+4. La Tunisie est devenue indépendante en 1881.
 
-**Ex. 3 — Géographie.** Vrai/faux.
+**Exercice 3 — Vocabulaire.** Complétez avec un mot du tableau A.
 
-1. Tunis est la capitale.
-2. La Tunisie a deux langues officielles.
-3. La Révolution du Jasmin date de 2011.
-4. Sfax est au nord de Tunis.
+a) Pour acheter des fruits, on va au ______.
+b) À Sfax, la ______ méditerranéenne est tout près.
+c) En Tunisie, le français est souvent la ______ des sciences.
+d) La ______ de Tunis est célèbre pour ses ruelles anciennes.
 
-{{< callout type="tip" title="Solutions" >}}
+**Exercice 4 — Grammaire (comparatif).** Complétez avec *plus / moins / aussi … que* selon le sens.
 
-**Ex. 1.** 1) Sfax, ville côtière. 2) Couscous en famille.
-3) 4h. 4) Tahar Ben Jelloun, Albert Memmi. 5) *Koura* (foot)
-sur la plage.
+a) Sfax (270 000 hab.) est ______ grande ______ Karlsruhe (environ 300 000 hab.).
+b) En été, il fait ______ chaud à Sfax ______ à Karlsruhe.
+c) Un couscous du vendredi est ______ (bon) ______ un repas rapide.
 
-**Ex. 2.** a) le foot · b) un beignet d'œuf · c) la vieille
-ville · d) le marché · e) l'arabe parlé.
-
-**Ex. 3.** 1) V. 2) F (1 officielle : arabe). 3) V. 4) F (270
-km au sud).
-
+{{< callout type="info" >}}
+**Différenciation.** **G** : traiter les exercices 1 à 3. **M** : les quatre exercices. **E** : ajouter, à l'exercice 1, une phrase personnelle par réponse (« Et moi, … »).
 {{< /callout >}}
+
+## Solutions
+
+**Exercice 1.** 1) Il est allé au souk (au marché) avec sa mère. 2) Elle mange (souvent) du couscous. 3) Parce que les cours de sciences sont en français : il doit apprendre le vocabulaire deux fois. 4) Sfax est au bord de la mer Méditerranée, à environ 270 km au sud de Tunis.
+
+**Exercice 2.** 1) Vrai. 2) Faux — le français n'a pas de statut officiel ; la langue officielle est l'arabe littéraire. 3) Vrai. 4) Faux — l'indépendance date de 1956 (1881 = début du protectorat).
+
+**Exercice 3.** a) souk / marché · b) côte · c) langue de scolarité (langue d'enseignement) · d) médina / vieille ville.
+
+**Exercice 4.** a) aussi grande que · b) plus chaud … qu' · c) meilleur qu' (comparatif irrégulier de *bon*).
 
 ## 4. Produire
 
-**Tâche d'écriture (M, ~120 mots) :**
+**Tâche d'écriture (Niveau M, environ 120 mots).**
 
-Rédigez une **réponse au blog de Mehdi** : décrivez votre
-samedi à Karlsruhe et comparez avec sa vie à Sfax. Citez **2
-mots tunisiens** entre guillemets et **1 fait** sur la Tunisie.
+Rédigez une **réponse au courriel de Mehdi**. Décrivez votre samedi à Karlsruhe, puis comparez-le avec la vie de Mehdi à Sfax. Employez **deux comparatifs** (*plus/moins/aussi … que*) et **un fait** sur la Tunisie tiré de cette unité.
+
+**Critères d'évaluation :**
+
+- Respect de la consigne et du format (courriel, formule de salutation) — 3 pts
+- Contenu : samedi décrit + comparaison claire — 4 pts
+- Deux comparatifs corrects + un fait exact — 3 pts
+- Correction de la langue (temps, orthographe) — 2 pts
 
 ## 5. Réfléchir
 
-- [ ] Je situe la Tunisie + 5 faits.
-- [ ] Je connais 5 mots du français de Tunisie.
-- [ ] J'écris une réponse à un correspondant maghrébin.
+- [ ] Je peux situer la Tunisie et donner cinq faits-clés.
+- [ ] Je peux comprendre un courriel simple sur la vie quotidienne.
+- [ ] Je peux expliquer la place du français en Tunisie.
+- [ ] Je peux former un comparatif correct.
+- [ ] Je peux écrire une réponse à un correspondant maghrébin.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+## Évaluation
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)** : blog de Mehdi, 6 questions.
-**Tâche 2 — Vocabulaire (8 P.)** : 8 mots tunisien ↔ standard.
-**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : réponse à Mehdi (~120 mots).
+**Devoir surveillé (« Klassenarbeit ») — Niveau M**
 
-**Total : 30 P.**
+**Tâche 1 — Compréhension écrite (12 pts).** À partir du courriel de Mehdi (texte C), répondez à six questions (lieux, langues, école, week-end).
 
-<div class="notes">
-**Plan (45 min) :** Activer 3' · Apporter 13' · S'entraîner 13' ·
-Produire 12' · Réfléchir 2' · Aperçu 2'.
-</div>
+**Tâche 2 — Savoirs culturels (8 pts).** Quatre affirmations à valider ou corriger sur le français en Tunisie et sur l'histoire du pays.
 
-## Pièges fréquents
+**Tâche 3 — Expression écrite (10 pts).** Réponse au courriel de Mehdi (environ 120 mots), avec deux comparatifs et un fait sur la Tunisie.
 
-- **« Le français »** en Tunisie est une **langue seconde** —
- pas une langue étrangère.
-- **Tahar Ben Jelloun** est marocain, pas tunisien — l'auteur
- tunisien le plus connu en français est **Albert Memmi**.
-- **« Les pays du Maghreb »** : Maroc, Algérie, Tunisie,
- Mauritanie, Libye.
+**Barème — total : 30 points**
 
-## Pour aller plus loin
+| Tâche | Compétence | Points |
+|-------|------------|--------|
+| 1 | Compréhension écrite | 12 |
+| 2 | Compétence textuelle et médiatique | 8 |
+| 3 | Expression écrite | 10 |
 
-- **TV5 Monde — Maghreb** :
- <https://information.tv5monde.com/>
-- **Albert Memmi — œuvre** :
- <https://fr.wikipedia.org/wiki/Albert_Memmi>
+## Notes pour l'enseignant·e
+
+**Déroulement (45 min) :** Activer 4' · Apporter 13' · S'entraîner 14' · Produire 11' · Réfléchir 3'.
+
+**Organisation :** projeter la situation de départ ; travail individuel pour l'exercice 1, en binômes pour les exercices 3 et 4 ; mise en commun rapide des solutions.
+
+**Différenciation :** niveaux G/M/E indiqués dans l'encadré de la partie 3. Prévoir une banque de mots au tableau pour la tâche d'écriture (élèves plus faibles).
+
+**Points de vigilance :**
+
+- Le français en Tunisie est une **langue seconde / de scolarité**, pas une langue officielle — insister sur la nuance.
+- Albert Memmi (1920-2020) est un auteur **tunisien** francophone ; ne pas le confondre avec Tahar Ben Jelloun, qui est marocain.
+- Rappeler la liste du **Maghreb** : Maroc, Algérie, Tunisie (parfois aussi Libye et Mauritanie).
+
+## Sources
+
+- « Langues en Tunisie » — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/Langues_en_Tunisie>, licence CC BY-SA 4.0.
+- « Tunisia » — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/Tunisia>, licence CC BY-SA 4.0.
+- « French protectorate of Tunisia » — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/French_protectorate_of_Tunisia>, licence CC BY-SA 4.0.

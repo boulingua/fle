@@ -1,0 +1,42 @@
+[
+ {
+  "file": "/fle/materials/audio/unit03_mon-ecole/dialogue1.ogg",
+  "label": "Dialogue 1",
+  "transcript": "Léa : Bonjour ! Excuse-moi, cette place est libre ?\nNoah : Oui, assieds-toi. Tu es nouvelle ?\nLéa : Oui. Je regarde mon emploi du temps… On a maths, là ?\nNoah : Non, à 8 heures on a français. Les maths, c'est à 9 heures.\nLéa : D'accord. Et j'ai oublié ma règle. Tu as une règle ?\nNoah : Tiens, prends la mienne. Ouvre ton cahier, le prof arrive !"
+ },
+ {
+  "file": "/fle/materials/audio/unit03_mon-ecole/vocab1.ogg",
+  "label": "Vocabulaire 1",
+  "transcript": "les maths · le français · l'allemand (m.) · l'anglais (m.) · le sport / l'EPS · la musique · les arts plastiques · les sciences"
+ },
+ {
+  "file": "/fle/materials/audio/unit03_mon-ecole/vocab2.ogg",
+  "label": "Vocabulaire 2",
+  "transcript": "le cahier · le crayon · le stylo · la règle · la gomme · le cartable · le tableau · la trousse"
+ },
+ {
+  "file": "/fle/materials/audio/unit03_mon-ecole/vocab3.ogg",
+  "label": "Vocabulaire 3",
+  "transcript": "Ouvrez votre livre. · Écoutez ! · Écrivez la date. · Levez la main."
+ },
+ {
+  "file": "/fle/materials/audio/unit03_mon-ecole/vocab4.ogg",
+  "label": "Vocabulaire 4",
+  "transcript": "8h–9h · 9h–10h · 10h–11h · 11h–12h"
+ },
+ {
+  "file": "/fle/materials/audio/unit03_mon-ecole/texte1.ogg",
+  "label": "Texte 1",
+  "transcript": "* Le lundi, je commence par le français, puis j'ai maths.\nJ'aime bien le mardi : il y a musique ! Le mercredi, on finit\nà midi. Ma matière préférée, c'est le sport. * — Léa"
+ },
+ {
+  "file": "/fle/materials/audio/unit03_mon-ecole/texte2.ogg",
+  "label": "Texte 2",
+  "transcript": "Bonjour, je suis en 6e. Mes matières préférées sont\n_______________ et _______________, parce que\n_______________. Je n'aime pas trop _______________.\nLe lundi à 8 heures, j'ai _______________."
+ },
+ {
+  "file": "/fle/materials/audio/unit03_mon-ecole/texte3.ogg",
+  "label": "Texte 3",
+  "transcript": "Le lundi à 8 heures, j'ai allemand. À 9 heures, j'ai sport —\nc'est ma matière préférée, parce que j'aime bouger. À\n10 heures, j'ai français. À 11 heures, j'ai maths. Je n'aime\npas trop les maths : c'est difficile pour moi."
+ }
+]

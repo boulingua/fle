@@ -346,3 +346,14 @@ body.colorscheme-dark .colorscheme-toggle .cs-icon--sun { display: inline-block;
   body.colorscheme-auto .colorscheme-toggle .cs-icon--moon { display: none; }
   body.colorscheme-auto .colorscheme-toggle .cs-icon--sun { display: inline-block; }
 }
+
+/* ── Section audio (« Écouter ») ─────────────────── */
+.audio-section { margin: 2.5rem 0 1.5rem; }
+.audio-intro { opacity: 0.8; font-size: 0.95rem; margin: 0.4rem 0 1rem; }
+.audio-item { border: 1px solid var(--boulingua-panel-border, rgba(0,0,0,0.12)); border-radius: 8px; padding: 0.7rem 1rem; margin: 0.7rem 0; }
+.audio-item-head { display: flex; flex-wrap: wrap; align-items: center; gap: 0.8rem; }
+.audio-label { font-weight: 600; min-width: 7rem; }
+.audio-item audio { flex: 1 1 16rem; height: 2.3rem; }
+.audio-transcript { margin-top: 0.5rem; font-size: 0.9rem; }
+.audio-transcript summary { cursor: pointer; color: var(--boulingua-accent, #1a73e8); }
+.audio-transcript p { margin: 0.5rem 0 0; line-height: 1.5; }

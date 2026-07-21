@@ -1,0 +1,27 @@
+[
+ {
+  "file": "/fle/materials/audio/unit06_au-marche/dialogue1.ogg",
+  "label": "Dialogue 1",
+  "transcript": "Léa : Bonjour monsieur ! Je voudrais des pommes, s'il vous plaît.\nM. Roux : Bonjour ! Combien en voulez-vous ?\nLéa : Un kilo, s'il vous plaît. Et de la salade aussi.\nM. Roux : Voilà. Une salade et un kilo de pommes. Et avec ça ?\nLéa : C'est tout, merci. Ça fait combien ?\nM. Roux : Ça fait 4 euros 50, mademoiselle."
+ },
+ {
+  "file": "/fle/materials/audio/unit06_au-marche/vocab1.ogg",
+  "label": "Vocabulaire 1",
+  "transcript": "la pomme · la banane · la fraise · l'orange (f.) · le raisin · la poire"
+ },
+ {
+  "file": "/fle/materials/audio/unit06_au-marche/vocab2.ogg",
+  "label": "Vocabulaire 2",
+  "transcript": "Salutation et politesse (bonjour, s'il vous plaît, merci) · Trois produits demandés avec une quantité · Question sur le prix (combien ça coûte / ça fait combien) · Prononciation compréhensible, dialogue fluide"
+ },
+ {
+  "file": "/fle/materials/audio/unit06_au-marche/vocab3.ogg",
+  "label": "Vocabulaire 3",
+  "transcript": "sehr gut · gut · befriedigend · ausreichend · mangelhaft · ungenügend"
+ },
+ {
+  "file": "/fle/materials/audio/unit06_au-marche/vocab4.ogg",
+  "label": "Vocabulaire 4",
+  "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir"
+ }
+]

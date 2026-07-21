@@ -1,0 +1,27 @@
+[
+ {
+  "file": "/fle/materials/audio/unit01_salutations-et-prenoms/dialogue1.ogg",
+  "label": "Dialogue 1",
+  "transcript": "Camille : Bonjour ! Moi, c'est Camille. Et toi, comment tu t'appelles ?\nYanis : Salut Camille ! Je m'appelle Yanis. Y-A-N-I-S.\nCamille : Enchantée ! Tu as quel âge ?\nYanis : J'ai onze ans. Et toi ?\nCamille : Moi aussi, onze ans. À tout à l'heure !\n(La directrice passe.)\nCamille et Yanis : Bonjour, madame !\nLa directrice : Bonjour ! Vous êtes en 6e ? Bienvenue."
+ },
+ {
+  "file": "/fle/materials/audio/unit01_salutations-et-prenoms/vocab1.ogg",
+  "label": "Vocabulaire 1",
+  "transcript": "Bonjour · Bonsoir · Salut · Au revoir · À bientôt · Merci · S'il te plaît / vous plaît · Je m'appelle … · Comment tu t'appelles ? · Tu as quel âge ? · J'ai … ans · Enchanté·e"
+ },
+ {
+  "file": "/fle/materials/audio/unit01_salutations-et-prenoms/dialogue2.ogg",
+  "label": "Dialogue 2",
+  "transcript": "Léa : Bonsoir ! Je m'appelle Léa. Et toi ?\nThéo : Salut Léa. Moi, c'est Théo. T-H-É-O.\nLéa : Tu as quel âge, Théo ?\nThéo : J'ai douze ans. Et toi ?\nLéa : J'ai onze ans. À bientôt !\nThéo : Au revoir !"
+ },
+ {
+  "file": "/fle/materials/audio/unit01_salutations-et-prenoms/texte1.ogg",
+  "label": "Texte 1",
+  "transcript": "A : Bonjour ! Je m'appelle Camille. J'ai onze ans. Et toi, comment tu t'appelles ?\nB : Salut ! Moi, c'est Yanis. J'ai onze ans aussi.\nA : Enchantée ! À bientôt !\nB : Au revoir !"
+ },
+ {
+  "file": "/fle/materials/audio/unit01_salutations-et-prenoms/vocab2.ogg",
+  "label": "Vocabulaire 2",
+  "transcript": "Salutation adaptée (bonjour/salut + congé) · Se présenter : prénom + épellation · Âge : J'ai … ans + question à l'autre · Prononciation et intonation · Correction de la langue (tu/vous, avoir) · Total"
+ }
+]

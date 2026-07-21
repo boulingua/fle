@@ -92,4 +92,4 @@ Certaines parties de ce projet ont été préparées avec l'aide d'outils de gra
 
 ## Signature colour & icon
 
-This project's signature accent is **`#4B8D19`** (light theme) / **`#ACE77E`** (dark theme), paired with the **square** mark (`brand/icon.svg`). The accent is *flag-safe* — the hue does not appear in the French flag — is distinct from every other boulingua language, and is kept clear of the boulingua hub blue. The whole colour system lives in the [boulingua hub](https://github.com/boulingua/website#per-language-accent-colours).
+This project's signature accent is **`#4B8D19`** (light theme) / **`#ACE77E`** (dark theme), paired with the **pentagon** mark (`brand/icon.svg`). The accent is *flag-safe* — the hue does not appear in the French flag — is distinct from every other boulingua language, and is kept clear of the boulingua hub blue. The whole colour system lives in the [boulingua hub](https://github.com/boulingua/website#per-language-accent-colours).

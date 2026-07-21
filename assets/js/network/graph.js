@@ -115,7 +115,9 @@ export function createGraph({ container, data }) {
     maxZoom: 3,
     layout: window.cytoscapeFcose ? {
       name: 'fcose',
-      quality: 'default',
+      // 'draft' skips fcose's costly refinement passes — far cheaper on
+      // the main thread while staying legible for a discovery graph.
+      quality: 'draft',
       animate: false,
       randomize: true,
       nodeRepulsion: 4500,

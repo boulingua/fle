@@ -119,12 +119,13 @@
   </main>
 </section>
 
-{{/* Cytoscape + fcose layout — UMD CDN, deferred so they don't
-     block parse. Order matters: layout-base → cose-base → fcose. */}}
-<script defer src="https://cdn.jsdelivr.net/npm/cytoscape@3.32.0/dist/cytoscape.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/layout-base@2.0.1/layout-base.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/cose-base@2.2.0/cose-base.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/cytoscape-fcose@2.2.0/cytoscape-fcose.js"></script>
+{{/* Cytoscape + fcose layout — self-hosted (static/js/vendor), deferred so
+     they don't block parse. No third-party CDN. Order matters:
+     cytoscape → layout-base → cose-base → fcose. */}}
+<script defer src="{{ "js/vendor/cytoscape.min.js" | relURL }}"></script>
+<script defer src="{{ "js/vendor/layout-base.js" | relURL }}"></script>
+<script defer src="{{ "js/vendor/cose-base.js" | relURL }}"></script>
+<script defer src="{{ "js/vendor/cytoscape-fcose.js" | relURL }}"></script>
 <script type="module" src="{{ $main.RelPermalink }}"
         integrity="{{ $main.Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}

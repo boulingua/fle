@@ -19,6 +19,8 @@ enableEmoji = false
   ordered = false
 
 [params]
+  # Hide the theme's floating colour-scheme toggle; the navbar hosts the single #dark-mode-toggle.
+  hideColorSchemeToggle = true
   author = "S. Le Boulanger"
   description = "Curriculum FLE bilingue pour l'enseignement secondaire, classes 6 à 13, aligné sur un référentiel régional."
   keywords = "FLE,français langue étrangère,enseignement secondaire,Bildungsplan,OER,CECRL,curriculum"

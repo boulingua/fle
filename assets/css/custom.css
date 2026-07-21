@@ -327,3 +327,22 @@ hr {
   border-top: 1px solid var(--boulingua-rule);
   margin: 2rem 0;
 }
+
+/* ── Colour-scheme toggle (navbar) ──────────────────
+   Single toggle element bound by the theme's coder.js (#dark-mode-toggle).
+   Moon shows in light mode (click → dark); sun shows in dark mode
+   (click → light); under colorscheme-auto the icon follows the OS. */
+.colorscheme-toggle {
+  background: none; border: 0; cursor: pointer; color: inherit;
+  padding: 0 0.5rem; display: inline-flex; align-items: center; line-height: 1;
+}
+.colorscheme-toggle:hover,
+.colorscheme-toggle:focus-visible { color: var(--boulingua-accent, currentColor); }
+.colorscheme-toggle .cs-icon { display: inline-block; vertical-align: middle; }
+.colorscheme-toggle .cs-icon--sun { display: none; }
+body.colorscheme-dark .colorscheme-toggle .cs-icon--moon { display: none; }
+body.colorscheme-dark .colorscheme-toggle .cs-icon--sun { display: inline-block; }
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto .colorscheme-toggle .cs-icon--moon { display: none; }
+  body.colorscheme-auto .colorscheme-toggle .cs-icon--sun { display: inline-block; }
+}

@@ -14,7 +14,7 @@ skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a8d902b5a554b8593e0aadc99a3dd97"
 presentation:
-  file: "/fle/materials/presentations/unit12_bilan-portrait-de-classe.pptx"
+  file: "/fle/materials/presentations/unit12_bilan-portrait-de-classe.odp"
   thumbnail: "/fle/materials/presentations/unit12_bilan-portrait-de-classe.png"
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-de-classe.pdf"
@@ -33,158 +33,207 @@ aliases:
 
 ## Objectifs
 
-- Je dresse le **portrait** de notre classe en français.
-- Je médie une description allemande en français simple.
-- Je clôture l'année classe 6 par une présentation orale.
+- Je peux **présenter ma classe** à l'oral, en continu, pendant une à deux minutes.
+- Je peux **médier** un court texte allemand sur une classe en français simple.
+- Je peux **réutiliser** le vocabulaire de l'année (nombres, goûts, loisirs, école).
+- Je peux **structurer** ma présentation avec des mots-outils (*d'abord, ensuite, enfin*).
+- Je peux **faire le bilan** de ma progression en français après la classe de 6e.
 
-## Histoire d'introduction
+## Situation de départ
 
-Dernière séance de l'année. Madame Renault demande : *« Faites
-le portrait de notre classe pour Inès, à Montréal. Elle ne nous
-connaît pas. »* Léa et Théo réfléchissent : combien d'élèves ?
-Combien de filles, de garçons ? Quels loisirs ?
+C'est la dernière séance de l'année. Madame Renault entre en classe avec une enveloppe.
+
+> **Mme Renault :** Bonjour à toutes et à tous ! J'ai une nouvelle. Une classe de Lyon veut faire notre connaissance.
+>
+> **Léa :** Une vraie classe française, madame ?
+>
+> **Mme Renault :** Oui, la 6e B du collège Jean-Moulin. Ils nous envoient leur portrait de classe. À nous de leur répondre !
+>
+> **Théo :** Mais on écrit quoi ? On est vingt-quatre…
+>
+> **Mme Renault :** Parlez-leur de vous : combien vous êtes, ce que vous aimez, ce qui rend votre classe unique.
+
+**Questions d'activation :**
+
+- Qui écrit à la classe ? D'où viennent ces élèves ?
+- Que faut-il raconter dans un portrait de classe ?
+- À votre avis, qu'est-ce qui rend une classe « unique » ?
 
 ## 1. Activer
 
-- Combien d'élèves dans votre classe ?
+Répondez oralement, en français, avec votre voisin·e :
+
+- Combien d'élèves y a-t-il dans votre classe ?
 - Combien de filles et de garçons ?
-- Quel·le élève fait du sport / de la musique / du théâtre ?
+- Qui fait du sport, de la musique ou du théâtre ?
+- Quelle est votre matière préférée cette année ?
+
+**Remue-méninges (« Brainstorming ») :** au tableau, notez ensemble tous les mots français de l'année qui servent à décrire une classe (nombres, loisirs, matières, caractère).
 
 ## 2. Apporter
 
-### A. Modèle de portrait de classe (texte original)
+### Vocabulaire
+
+| Français | Allemand | Exemple |
+|---|---|---|
+| une classe | eine Klasse | Nous sommes une classe sympa. |
+| un·e élève | ein·e Schüler·in | Il y a vingt-quatre élèves. |
+| la moitié | die Hälfte | La moitié fait du sport. |
+| la majorité | die Mehrheit | La majorité aime la musique. |
+| un point commun | eine Gemeinsamkeit | Notre point commun, c'est le foot. |
+| une matière | ein (Schul-)Fach | Ma matière préférée, c'est le sport. |
+| en commun | gemeinsam | Nous avons beaucoup en commun. |
+| présenter | vorstellen | Je présente ma classe. |
+| unique | einzigartig | Notre classe est unique. |
+
+{{< callout type="info" >}}
+**Point de langue — structurer un exposé.** Pour présenter en continu, utilisez des **mots-outils** :
+
+- **D'abord**, nous sommes vingt-quatre élèves.
+- **Ensuite**, la majorité aime le sport.
+- **Enfin**, notre classe est unique parce que…
+
+Pour donner des proportions : *la moitié* (½), *un tiers* (⅓), *la majorité*, *quelques élèves*, *presque tous*.
+{{< /callout >}}
+
+### Texte modèle (texte original)
 
 > **Notre classe — la 6e M, Karlsruhe.**
 >
-> Nous sommes 24 élèves : 12 filles et 12 garçons. Notre prof
-> de français s'appelle Madame Renault. Elle est gentille mais
-> stricte.
+> D'abord, nous sommes vingt-quatre élèves : douze filles et douze garçons. Notre professeure de français s'appelle Madame Renault. Elle est gentille, mais un peu stricte.
 >
-> Dans la classe, il y a 8 élèves qui font du sport (foot,
-> basket, natation), 5 qui font de la musique (piano, guitare),
-> et 3 qui font du théâtre. La majorité aime les chiens, mais
-> il y a aussi 4 personnes qui ont un chat.
+> Ensuite, la moitié de la classe fait du sport dans un club : foot, basket, natation. Quelques élèves jouent d'un instrument, et trois personnes font du théâtre. La majorité aime les chiens ; quatre élèves ont un chat.
 >
-> Notre matière préférée est le sport. Notre matière la moins
-> aimée est les maths. Mais notre prof de maths est sympa
-> aussi !
+> Enfin, notre classe est unique parce que nous chantons une chanson française chaque vendredi. Notre matière préférée, c'est le sport. Nous n'aimons pas trop les maths… mais notre professeur de maths est très patient !
 
-### B. Texte source allemand pour la médiation (texte original)
+### Texte source allemand pour la médiation (texte original)
 
 > **Unsere 6c, Gemeinschaftsschule Karlsruhe.**
 >
-> Wir sind 24 Schüler:innen — 12 Mädchen und 12 Jungen. Unser
-> Lehrerinnen-Team besteht aus Frau Renault (Französisch) und
-> Herrn Klein (Mathe). Acht Schüler:innen machen Sport in
-> einem Verein, fünf spielen ein Instrument. Die beliebteste
-> Aktivität ist Fußball.
+> Wir sind vierundzwanzig Schülerinnen und Schüler — zwölf Mädchen und zwölf Jungen. Unser Team besteht aus Frau Renault (Französisch) und Herrn Klein (Mathe). Acht Kinder machen Sport in einem Verein, fünf spielen ein Instrument. Die beliebteste Aktivität ist Fußball. Das Besondere an unserer Klasse: Wir singen jeden Freitag ein französisches Lied.
 
-### C. Stratégie de médiation simple
+### Note culturelle — la correspondance entre classes
 
-- **Lire 2x** le texte allemand.
-- **Compter / repérer** les chiffres (24, 12, 12, 8, 5).
-- **Reformuler** en français : *Nous sommes / il y a / la
- majorité …*
+L'idée d'écrire à une autre classe n'est pas nouvelle. Selon Wikipédia, la **correspondance interscolaire** a été mise en place par le pédagogue Célestin Freinet dès 1926 : il concevait le journal de classe comme un moyen de communiquer avec des élèves d'autres villages, puis a organisé de véritables échanges de lettres entre classes. Cette pratique fait partie d'un ensemble de techniques fondées sur l'**expression libre** des enfants (texte libre, journal scolaire, enquêtes). Aujourd'hui encore, présenter sa classe à des correspondant·e·s reste une belle façon de terminer l'année.
+
+*(Source paraphrasée : Wikipédia, articles « Pédagogie Freinet » et « Journal scolaire », CC BY-SA — voir Sources.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture du portrait.** Au texte A :
+**Ex. 1 — Compréhension du texte modèle.** Répondez en français par une phrase complète :
 
-1. Combien d'élèves ?
-2. Combien font du sport ?
-3. Quelle est la matière préférée ?
-4. Comment s'appelle la prof de français ?
+1. Combien d'élèves y a-t-il dans la 6e M ?
+2. Combien d'élèves font du sport ?
+3. Qu'est-ce qui rend cette classe unique ?
+4. Comment s'appelle la professeure de français ?
 
-**Ex. 2 — Médiation simple.** À partir du texte B (allemand),
-écrivez **3 phrases françaises** :
+**Ex. 2 — Médiation.** À partir du texte source allemand, écrivez **quatre phrases françaises** qui transmettent l'essentiel à la classe de Lyon :
 
-- Nombre d'élèves.
-- Activité la plus populaire.
-- Nom des deux profs.
+- le nombre d'élèves ;
+- le nom des deux professeur·e·s ;
+- l'activité la plus populaire ;
+- ce qui est spécial dans cette classe.
 
-**Ex. 3 — Mots clés.** Reliez allemand et français :
+**Ex. 3 — Proportions.** Complétez avec *la moitié, la majorité, quelques, presque tous* :
 
-a) Verein · b) Schüler:innen · c) Mädchen · d) Jungen ·
- e) Mathelehrer
+a) ______ des élèves aiment le foot (18 sur 24).
+b) ______ élèves jouent d'un instrument (5 sur 24).
+c) ______ de la classe a un animal (12 sur 24).
+d) ______ les élèves parlent allemand (23 sur 24).
 
-1. élèves · 2. filles · 3. garçons · 4. club · 5. prof de maths.
+**Ex. 4 — Mots-outils.** Remettez la présentation dans l'ordre en ajoutant *d'abord, ensuite, enfin* :
 
-{{< callout type="tip" title="Solutions" >}}
+- ( ) notre classe est unique parce que nous cuisinons ensemble.
+- ( ) nous sommes vingt élèves.
+- ( ) la majorité aime la musique.
 
-**Ex. 1.** 1) 24. 2) 8 (foot, basket, natation). 3) le sport.
-4) Madame Renault.
+## Solutions
 
-**Ex. 2.** Modèle :
-*Nous sommes 24 élèves dans la 6c. Le foot est l'activité la
-plus populaire. Nos profs sont Madame Renault (français) et
-Monsieur Klein (maths).*
+**Ex. 1.**
+1. Il y a vingt-quatre élèves dans la 6e M.
+2. La moitié de la classe (douze élèves) fait du sport.
+3. Elle est unique parce que les élèves chantent une chanson française chaque vendredi.
+4. Elle s'appelle Madame Renault.
 
-**Ex. 3.** a–4 · b–1 · c–2 · d–3 · e–5.
+**Ex. 2.** Modèle (réponses proches acceptées) :
+*Nous sommes vingt-quatre élèves. Nos professeur·e·s sont Madame Renault (français) et Monsieur Klein (maths). L'activité la plus populaire est le football. Chaque vendredi, nous chantons une chanson française.*
 
+**Ex. 3.** a) La majorité · b) Quelques · c) La moitié · d) Presque tous.
+
+**Ex. 4.** **D'abord**, nous sommes vingt élèves. **Ensuite**, la majorité aime la musique. **Enfin**, notre classe est unique parce que nous cuisinons ensemble.
+
+{{< callout type="tip" >}}
+**Différenciation.**
+- **G :** l'Ex. 2 se fait avec les chiffres déjà surlignés dans le texte allemand ; trois phrases suffisent.
+- **M :** quatre phrases complètes, sans surlignage.
+- **E :** ajouter une cinquième phrase personnelle (une comparaison avec sa propre classe).
 {{< /callout >}}
 
 ## 4. Produire
 
-**Tâche orale (M, monologue 1-2 min) :**
+**Tâche orale (monologue, 1 à 2 minutes).**
 
-Présentez **votre classe** pour un·e correspondant·e fictif·ve
-dans un autre pays. Inclure :
+Présentez **votre classe** à la 6e B de Lyon, comme si vous parliez devant une caméra. Structurez avec *d'abord / ensuite / enfin* et incluez :
 
-- Nombre d'élèves (filles/garçons).
-- Nom des profs (au moins 2).
-- 3 activités fréquentes.
-- 1 chose unique sur votre classe.
+- le nombre d'élèves (filles et garçons) ;
+- le nom d'au moins deux professeur·e·s ;
+- trois activités ou goûts fréquents dans la classe ;
+- une chose qui rend votre classe **unique**.
 
-## 5. Réfléchir — Bilan classe 6
+**Critères d'évaluation :**
 
-- [ ] Je médie un texte allemand simple en français.
-- [ ] Je présente ma classe en 1-2 minutes.
-- [ ] Je clôture classe 6 avec 12 Unités vues : salutations,
- famille, école, journée, goûts, marché, heure, météo,
- chambre, loisirs, voyage, portrait de classe.
+| Critère | Indicateur |
+|---|---|
+| Contenu | Les quatre points sont présents. |
+| Structure | Emploi de *d'abord / ensuite / enfin*. |
+| Langue | Nombres et vocabulaire de l'année corrects. |
+| Fluidité | Discours en continu, sans longues pauses. |
 
-## Bilan-classe 6
+## 5. Réfléchir
 
-Cette unité **clôt** le cours **classe 6 G+M**. Vous savez :
+Cochez ce que vous savez faire à la fin de la classe de 6e :
 
-- saluer + vous présenter (U1)
-- parler de votre famille (U2)
-- décrire votre école (U3)
-- raconter votre journée (U4)
-- exprimer vos goûts (U5)
-- faire un achat au marché (U6)
-- dire l'heure et la date (U7)
-- décrire la météo (U8)
-- décrire votre chambre (U9)
-- parler de vos loisirs (U10)
-- écrire une carte postale (U11)
-- dresser un portrait de classe (U12)
+- [ ] Je peux présenter ma classe à l'oral pendant 1 à 2 minutes.
+- [ ] Je peux médier un court texte allemand en français simple.
+- [ ] Je peux utiliser *d'abord / ensuite / enfin* pour m'organiser.
+- [ ] Je peux donner des proportions (*la moitié, la majorité…*).
+- [ ] Je me sens capable de continuer le français en classe de 5e.
 
-C'est la base du français A1 à orienté référentiel régional (« Bildungsplan »).
+**Bilan de l'année.** En classe de 6e, vous avez appris à : saluer et vous présenter (U1), parler de votre famille (U2), décrire votre école (U3), raconter votre journée (U4), exprimer vos goûts (U5), faire un achat (U6), dire l'heure et la date (U7), décrire la météo (U8), décrire votre chambre (U9), parler de vos loisirs (U10), écrire une carte postale (U11) et dresser un portrait de classe (U12). C'est la base du niveau A1, orientée sur le référentiel régional (« Bildungsplan »).
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M, finale)
+## Évaluation
 
-**Tâche 1 — médiation linguistique (« Sprachmittlung ») (15 P.)** : médiation simple du texte
-allemand B en 3-5 phrases françaises.
+**Épreuve de fin d'année (« Klassenarbeit ») — Niveau M**
 
-**Tâche 2 — Expression orale (« Sprechen ») mündlich (15 P.)** : présentation orale de
-votre classe (1-2 min) + 1 question du prof.
+**Tâche 1 — Médiation linguistique (« Sprachmittlung ») · 15 points**
+À partir du texte source allemand (« Unsere 6c »), rédigez **cinq phrases françaises** qui transmettent l'essentiel à un·e correspondant·e français·e (nombre d'élèves, professeur·e·s, activité la plus populaire, un point commun, la particularité de la classe).
 
-**Total : 30 P.**
+*Barème :* contenu transmis 8 · correction linguistique 5 · lisibilité / phrases complètes 2.
 
-<div class="notes">
-**Plan (45 min, finale) :** Activer 5' · Apporter 12' ·
-S'entraîner 12' · Produire 13' · Bilan 3'.
-</div>
+**Tâche 2 — Expression orale (« Sprechen ») · 15 points**
+Présentation orale de votre classe (1 à 2 minutes), suivie d'**une question** de l'enseignant·e.
 
-## Pièges fréquents
+*Barème :* contenu (4 points demandés) 6 · structure (mots-outils) 3 · langue et nombres 4 · réponse à la question 2.
 
-- **« nous sommes 24 »** + nom : *« nous sommes 24 élèves »*.
-- **Médiation = pas de mot à mot.** Repérer les chiffres + idées
- principales.
-- **« sympa »** est familier — éviter à l'écrit formel.
+**Total : 30 points.**
 
-## Pour aller plus loin
+## Notes pour l'enseignant·e
 
-- **DW Nicos Weg — Bilan A1**.
-- **TV5 Monde — Apprendre A1** : <https://apprendre.tv5monde.com/>
+**Déroulé (45 min) :**
+
+- Activer — 5 min : remue-méninges au tableau, réactivation du lexique de l'année.
+- Apporter — 12 min : vocabulaire, point de langue (mots-outils, proportions), lecture du texte modèle et du texte allemand ; note culturelle Freinet en une minute.
+- S'entraîner — 12 min : Ex. 1 à 4 en binômes, correction rapide au tableau.
+- Produire — 13 min : préparation individuelle (3 min) puis passages oraux en petits groupes ou en tandem.
+- Réfléchir — 3 min : cases à cocher, bilan de l'année à l'oral.
+
+**Organisation :** prévoir une enveloppe / affiche « 6e B de Lyon » pour ancrer la situation. Les présentations orales peuvent être enregistrées (tablette) pour un vrai « portrait de classe » à archiver.
+
+**Différenciation :** voir l'encadré de la partie 3. Pour les élèves G, fournir une trame de phrases à trous ; pour les élèves E, demander une comparaison avec une classe imaginaire française.
+
+## Sources
+
+- *Pédagogie Freinet* — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/P%C3%A9dagogie_Freinet>, licence CC BY-SA 4.0.
+- *Journal scolaire* — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Journal_scolaire>, licence CC BY-SA 4.0.
+- *Célestin Freinet* — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Celestin_Freinet>, licence CC BY-SA 4.0.
+- Textes français et dialogues : originaux, rédigés pour cette unité.

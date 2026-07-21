@@ -7,14 +7,14 @@ track: "gm"
 unit_nr: 9
 slug: "fete-d-anniversaire"
 bildungsplan:
-  - "3.1.3.3 Expression orale — dialogisches Expression orale"
+  - "3.1.3.3 Expression orale — dialogisches Sprechen"
   - "3.1.3.5 Expression écrite"
 skills_focus:
   - sprechen_dialog
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2be291a3b9fd4e72a263115d0dd86ca8"
 presentation:
-  file: "/fle/materials/presentations/unit09_fete-d-anniversaire.pptx"
+  file: "/fle/materials/presentations/unit09_fete-d-anniversaire.odp"
   thumbnail: "/fle/materials/presentations/unit09_fete-d-anniversaire.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_fete-d-anniversaire.pdf"
@@ -33,144 +33,211 @@ aliases:
 
 ## Objectifs
 
-- J'écris une **invitation** à un anniversaire.
-- J'utilise le **futur proche** : *aller* + infinitif.
-- J'accepte ou je refuse poliment.
+- Je peux **rédiger une invitation** à une fête d'anniversaire (date, heure, lieu).
+- Je peux **parler d'un projet futur** avec le **futur proche** (*aller* + infinitif).
+- Je peux **accepter ou refuser** une invitation poliment, à l'oral et à l'écrit.
+- Je peux **dire une date** et **indiquer un moment** (jour, mois, heure).
+- Je peux **proposer et offrir un cadeau** en utilisant le vocabulaire de la fête.
 
-## Histoire d'introduction
+## Situation de départ
 
-Léa prépare son anniversaire. *« Samedi, je vais avoir 13 ans !
-On va faire une fête à la maison : pizzas, gâteau et karaoké. »*
-Théo répond : *« Super, je vais venir avec Hugo. On va apporter
-les boissons. »*
+Léa téléphone à son amie Inès pour préparer sa fête.
+
+> — Allô, Inès ? C'est Léa ! Samedi, je vais avoir treize ans. Tu es libre ?
+> — Oui, super ! Qu'est-ce que tu vas faire ?
+> — On va faire une petite fête à la maison : de la pizza, un gâteau au chocolat et de la musique. Tu vas venir ?
+> — Bien sûr ! Je vais apporter des ballons. Et pour le cadeau, tu veux quoi ?
+> — Oh, c'est gentil… Une surprise, ça me suffit !
+
+**Questions d'activation :**
+
+- Quel âge Léa va-t-elle avoir ?
+- Que vont manger les invité·es ?
+- Qu'est-ce qu'Inès propose d'apporter ?
 
 ## 1. Activer
 
-- Quand est votre anniversaire ?
-- Comment fêtez-vous votre anniversaire ?
-- Avez-vous déjà fait une fête à la maison ?
+Répondez oralement, en classe entière ou à deux.
+
+- Quand est votre anniversaire ? (*Mon anniversaire est le…*)
+- Comment fêtez-vous votre anniversaire dans votre famille ?
+- Avez-vous déjà organisé une fête à la maison ? Avec qui ?
+- Quel cadeau aimeriez-vous recevoir ?
+
+{{< callout type="tip" >}}
+**Pour dire une date :** *le* + chiffre + mois. → *le 15 mars*, *le 3 juin*, *le 1ᵉʳ (premier) janvier*.
+Les mois ne prennent **pas** de majuscule en français : *janvier, février, mars…*
+{{< /callout >}}
 
 ## 2. Apporter
 
 ### A. Vocabulaire — la fête
 
 | Français | Allemand |
-|-------------------|-----------------|
-| l'invitation | die Einladung |
+|---|---|
+| l'invitation (f.) | die Einladung |
+| fêter / faire la fête | feiern |
 | le cadeau | das Geschenk |
+| offrir un cadeau | ein Geschenk schenken |
 | le gâteau | der Kuchen |
 | la bougie | die Kerze |
+| souffler les bougies | die Kerzen ausblasen |
 | le ballon | der Luftballon |
-| la musique | die Musik |
-| la danse | der Tanz |
-| la surprise | die Überraschung|
+| inviter quelqu'un | jemanden einladen |
+| accepter / refuser | annehmen / ablehnen |
+| la surprise | die Überraschung |
+| Joyeux anniversaire ! | Alles Gute zum Geburtstag! |
 
-### B. Le futur proche
+{{< callout type="info" >}}
+**Point de langue — le futur proche**
 
-> **aller** (au présent) + **infinitif** = action future proche.
->
-> *Je **vais avoir** 13 ans.*
-> *Tu **vas venir** ?*
-> *On **va faire** la fête.*
-> *Ils **vont apporter** les boissons.*
+Pour parler d'une action **future et proche**, on utilise :
+**aller** (au présent) **+ infinitif**.
 
-### C. Carton d'invitation (texte original)
+| Personne | *aller* | + infinitif |
+|---|---|---|
+| je | vais | **faire** un gâteau |
+| tu | vas | **venir** à la fête |
+| il / elle / on | va | **danser** |
+| nous | allons | **inviter** les copains |
+| vous | allez | **apporter** les boissons |
+| ils / elles | vont | **arriver** à 18 h |
 
-> **Tu es invité(e) !**
+À la forme négative, on encadre *aller* : *Je **ne vais pas** venir.*
+Attention : après *aller*, on met toujours l'**infinitif**, jamais le participe passé.
+{{< /callout >}}
+
+### B. Le carton d'invitation (texte original)
+
+> **Tu es invité·e !** 🎉
 >
 > Léa fête ses **13 ans** !
 >
-> 📅 Samedi 15 mars · 18h-22h
-> 🏠 Chez Léa, 7 rue des Lilas, Karlsruhe
-> 🎁 Pas de cadeau, juste ton sourire !
+> 📅 Samedi 15 mars, de 18 h à 22 h
+> 🏠 Chez Léa, 7 rue des Lilas
+> 🎂 Au programme : pizza, gâteau au chocolat, karaoké et jeux.
 >
-> Au programme : pizzas · gâteau au chocolat · karaoké ·
-> jeux de société · danse.
->
-> **Réponds avant le 12 mars !** 📞 0721…
+> On **va bien s'amuser** ! Réponds-moi avant le 12 mars.
 >
 > Bisous, Léa
 
-### D. Mini-dialogue téléphonique
+### C. Mini-dialogue — accepter une invitation
 
-> — Allô Léa ? C'est Inès. Je viens de recevoir ton invitation,
-> merci !
-> — Super ! Tu vas pouvoir venir ?
-> — Oui, j'arrive vendredi soir avec maman. On va dormir chez
-> tante Marie.
-> — Génial ! On va bien s'amuser.
+> — Allô Léa ? C'est Karim. Je viens de recevoir ton invitation, merci !
+> — Génial ! Tu vas pouvoir venir samedi ?
+> — Oui, avec plaisir. Je vais arriver vers 18 h.
+> — Super ! Et tu peux apporter de la musique ?
+> — Bien sûr, je vais préparer une playlist. À samedi !
+
+### D. Note culturelle — le gâteau et les bougies
+
+En France, quand on apporte le gâteau, les invité·es chantent *« Joyeux anniversaire »* ; ensuite, la personne fêtée fait un vœu en silence, puis souffle ses bougies — dont le nombre correspond à son âge. La tradition raconte que, si toutes les bougies s'éteignent d'un seul souffle, le vœu se réalisera. Fait surprenant : dans les pays catholiques comme la France, l'anniversaire individuel n'est vraiment devenu populaire que dans les années 1950-1960 ; auparavant, on fêtait plutôt le saint du jour. La mélodie de *« Joyeux anniversaire »* vient de la chanson anglaise *« Happy Birthday to You »*, entrée dans le domaine public dans l'Union européenne le 1ᵉʳ janvier 2017 (paraphrasé d'après Wikipédia, CC BY-SA — voir Sources).
 
 ## 3. S'entraîner
 
-**Ex. 1 — Lecture (texte C).**
+**Ex. 1 — Compréhension écrite (texte B et C).** Répondez par une phrase.
 
-1. Quel âge a Léa ?
-2. Quand a lieu la fête ?
-3. Doit-on apporter un cadeau ?
-4. Quelles activités sont prévues ?
+1. Quel âge Léa va-t-elle avoir ?
+2. Quel jour et à quelle heure a lieu la fête ?
+3. Jusqu'à quand faut-il répondre ?
+4. Qu'est-ce que Karim va apporter ?
 
-**Ex. 2 — Futur proche.** Conjuguez.
+**Ex. 2 — Le futur proche.** Conjuguez le verbe entre parenthèses.
 
-1. Je *(faire)* un gâteau.
-2. Tu *(venir)* à la fête ?
-3. Nous *(danser)* toute la nuit !
-4. Ils *(apporter)* des cadeaux.
-5. On *(jouer)* au karaoké.
+1. Je *(faire)* un gâteau au chocolat.
+2. Tu *(venir)* à la fête de Léa ?
+3. Nous *(danser)* toute la soirée !
+4. Ils *(apporter)* des ballons.
+5. On *(souffler)* les bougies à 20 h.
+6. Vous *(offrir)* un cadeau ?
 
-**Ex. 3 — Accepter ou refuser.** Reformulez.
+**Ex. 3 — À la forme négative.** Mettez au futur proche négatif.
 
-a) Acceptez l'invitation.
-b) Refusez poliment (vous êtes en vacances).
+1. Marie vient à la fête. → …
+2. Nous invitons Paul. → …
+3. Je mange le gâteau. → …
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 4 — Accepter ou refuser.** Complétez le dialogue avec vos propres mots.
 
-**Ex. 1.** 1) 13 ans. 2) Samedi 15 mars, 18h-22h. 3) Non. 4) Pizzas,
-gâteau, karaoké, jeux, danse.
+> — Salut ! Samedi, je vais fêter mon anniversaire. Tu vas venir ?
+> — (a) *Accepte poliment et propose d'apporter quelque chose.*
+> — Super ! Et toi, Léo ?
+> — (b) *Refuse poliment : tu es en vacances ce week-end.*
 
-**Ex. 2.** 1) vais faire · 2) vas venir · 3) allons danser ·
-4) vont apporter · 5) va jouer.
+**Différenciation :**
+- **G** : Ex. 1 et Ex. 2 (items 1-4), avec la boîte de conjugaison sous les yeux.
+- **M** : les quatre exercices.
+- **E** : Ex. 4 en autonomie + ajouter deux répliques supplémentaires au dialogue.
 
-**Ex. 3.** a) *Merci pour ton invitation ! Je viens avec plaisir.*
-b) *Merci beaucoup, mais je suis en vacances ce week-end. À une
-prochaine fois !*
+## Solutions
 
-{{< /callout >}}
+**Ex. 1.** 1) Elle va avoir 13 ans. 2) Samedi 15 mars, de 18 h à 22 h. 3) Avant le 12 mars. 4) Il va apporter de la musique (une playlist).
+
+**Ex. 2.** 1) vais faire · 2) vas venir · 3) allons danser · 4) vont apporter · 5) va souffler · 6) allez offrir.
+
+**Ex. 3.** 1) Marie **ne va pas venir** à la fête. 2) Nous **n'allons pas inviter** Paul. 3) Je **ne vais pas manger** le gâteau.
+
+**Ex. 4.** Réponses possibles. (a) *Oui, avec plaisir ! Je vais apporter des boissons.* (b) *Merci beaucoup, mais je suis en vacances ce week-end. Ce sera pour une prochaine fois !*
 
 ## 4. Produire
 
-**Tâche dialogique (M, en binôme) :**
+**Tâche dialogique (en binôme, oral) :**
 
-A) Lisez le carton d'invitation (C).
-B) Jouez un **dialogue téléphonique** (6 répliques) : l'un(e)
-appelle pour accepter ou refuser. Utilisez **3 verbes au futur
-proche**.
+À partir du carton d'invitation (texte B), jouez un **dialogue téléphonique** d'au moins **6 répliques** : l'un·e appelle l'autre pour **accepter ou refuser** l'invitation et pour **proposer un cadeau ou une aide**. Utilisez au moins **trois verbes au futur proche**.
+
+**Critères d'évaluation :**
+
+| Critère | Réussi si… |
+|---|---|
+| Réalisation de la tâche | j'accepte/je refuse clairement et je propose quelque chose. |
+| Futur proche | j'emploie au moins 3 verbes au futur proche corrects. |
+| Vocabulaire de la fête | j'utilise au moins 4 mots de la leçon. |
+| Interaction | je réagis à mon/ma partenaire (relance, question). |
+| Prononciation | je suis compréhensible et j'ai un débit régulier. |
 
 ## 5. Réfléchir
 
-- [ ] J'écris une invitation.
-- [ ] J'utilise le futur proche.
-- [ ] J'accepte/refuse poliment au téléphone.
+Cochez ce que vous savez faire.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+- [ ] Je sais rédiger une invitation avec la date, l'heure et le lieu.
+- [ ] Je sais former le futur proche (*aller* + infinitif).
+- [ ] Je sais mettre le futur proche à la forme négative.
+- [ ] Je sais accepter ou refuser une invitation poliment.
+- [ ] Je connais au moins huit mots du vocabulaire de la fête.
 
-**Tâche 1 — Grammatik (10 P.)** : 8 phrases au futur proche.
-**Tâche 2 — Lecture (8 P.)** : carton + dialogue, 4 questions.
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)** : votre invitation (~80 mots).
+## Évaluation
+
+**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+
+**Tâche 1 — Grammaire (10 P.)**
+Conjuguez huit phrases au futur proche (dont deux à la forme négative).
+
+**Tâche 2 — Compréhension écrite (8 P.)**
+Lisez un carton d'invitation et un court dialogue, puis répondez à quatre questions.
+
+**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)**
+Rédigez votre propre **carton d'invitation** à une fête d'anniversaire (environ 80 mots). Indiquez la date, l'heure, le lieu, le programme et employez au moins trois verbes au futur proche.
 
 **Total : 30 P.**
 
-<div class="notes">
-**Plan (45 min) :** Activer 3' · Apporter 12' · S'entraîner 12' ·
-Produire 14' (binôme) · Réfléchir 2' · Aperçu 2'.
-</div>
+Barème indicatif de la Tâche 3 : contenu (date/heure/lieu/programme) 4 P. · futur proche 4 P. · vocabulaire de la fête 2 P. · orthographe et lisibilité 2 P.
 
-## Pièges fréquents
+## Notes pour l'enseignant·e
 
-- **Futur proche** : *aller* + INFINITIF (pas participe passé).
-- **Joyeux anniversaire** ! (pas *bon anniversaire*).
-- **R.S.V.P.** = *Répondez s'il vous plaît* (formule polie).
+**Plan (45 min) :**
+- Activer — 4 min (questions orales, tour de classe)
+- Apporter — 13 min (vocabulaire, point de langue, textes B/C, note culturelle)
+- S'entraîner — 12 min (Ex. 1-4, correction rapide)
+- Produire — 12 min (préparation + jeu de rôle en binôme)
+- Réfléchir — 2 min (auto-évaluation)
+- Aperçu de la séance suivante — 2 min
 
-## Pour aller plus loin
+**Organisation :** prévoir la boîte de conjugaison au tableau pendant l'Ex. 2. Pour la production orale, faire circuler pour noter deux ou trois binômes.
 
-- **TV5 Monde — Joyeux anniversaire en 60 langues** :
- <https://apprendre.tv5monde.com/>
+**Différenciation :** voir la note du § 3. Pour les élèves G, fournir une amorce de dialogue à trous ; pour les élèves E, demander une date exprimée à l'écrit et un cadeau justifié (*parce que…*).
+
+## Sources
+
+- *Anniversaire* — Wikipédia (contributeurs), consulté le 21 juillet 2026, <https://fr.wikipedia.org/wiki/Anniversaire>, licence CC BY-SA 4.0.
+- *Gâteau d'anniversaire* — Wikipédia (contributeurs), consulté le 21 juillet 2026, <https://fr.wikipedia.org/wiki/G%C3%A2teau_d'anniversaire>, licence CC BY-SA 4.0.
+- *Happy Birthday to You* — Wikipedia (contributors), consulté le 21 juillet 2026, <https://en.wikipedia.org/wiki/Happy_Birthday_to_You>, licence CC BY-SA 4.0.

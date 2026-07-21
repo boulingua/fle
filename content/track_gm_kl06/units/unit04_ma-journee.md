@@ -15,7 +15,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28e5c97ec8fb46dba99023e6166e5619"
 presentation:
-  file: "/fle/materials/presentations/unit04_ma-journee.pptx"
+  file: "/fle/materials/presentations/unit04_ma-journee.odp"
   thumbnail: "/fle/materials/presentations/unit04_ma-journee.png"
 worksheet:
   file: "/fle/materials/worksheets/unit04_ma-journee.pdf"
@@ -34,136 +34,193 @@ aliases:
 
 ## Objectifs
 
-- Je conjugue **5 verbes** au présent (être, avoir, aller,
- manger, faire).
-- Je raconte ma journée en 5 phrases.
-- J'utilise *à 7h · le matin · le soir*.
+- Je peux **dire l'heure** en français (heures pleines, demies et quarts).
+- Je peux **conjuguer des verbes pronominaux** au présent (se lever, se laver, s'habiller).
+- Je peux **raconter ma journée** à l'oral en 6 à 8 phrases, dans l'ordre chronologique.
+- Je peux **décrire ma routine par écrit** en utilisant des marqueurs de temps (*d'abord, ensuite, puis, enfin*).
+- Je peux **poser et répondre à des questions** sur les habitudes quotidiennes (*À quelle heure… ?*).
 
-## Histoire d'introduction
+## Situation de départ
 
-Madame Renault demande : *« Léa, raconte-moi ta journée d'hier. »*
-Léa réfléchit. *« Je me lève à 7 heures. Je mange du pain. Je
-vais à l'école. »* Très bien. *« Maintenant en français
-correct ! »*
+Léa et son correspondant belge, Timo, discutent en visio.
+
+> **Timo :** Salut Léa ! Il est déjà 8 heures chez moi. Et chez toi ?
+> **Léa :** Bonjour Timo ! Ici aussi, il est 8 heures. Je me lève tôt le lundi.
+> **Timo :** Moi, je me réveille à 6 h 45 ! Je me lave, je m'habille, puis je pars.
+> **Léa :** Six heures quarante-cinq ? C'est très tôt ! À quelle heure commences-tu les cours ?
+> **Timo :** À 8 h 30. Et l'après-midi, je rentre à la maison vers 16 heures.
+
+**Questions d'activation :**
+
+- À quelle heure Timo se réveille-t-il ?
+- Que fait-il le matin avant de partir ?
+- Et toi, à quelle heure te lèves-tu le lundi ?
 
 ## 1. Activer
 
-- À quelle heure vous levez-vous ?
-- Que mangez-vous au petit-déjeuner ?
-- Comment allez-vous à l'école ?
+En classe, à l'oral, chacun répond rapidement :
+
+- À quelle heure te lèves-tu le matin ?
+- Que fais-tu d'abord : tu te laves ou tu prends le petit-déjeuner ?
+- Comment vas-tu à l'école (à pied, à vélo, en bus) ?
+- Il est quelle heure maintenant, dans la salle de classe ?
+
+{{< callout type="tip" >}}
+**Astuce :** notez au tableau tous les verbes de la « journée » que la classe connaît déjà (*se lever, manger, aller, faire…*). Vous les réutiliserez à l'étape *Produire*.
+{{< /callout >}}
 
 ## 2. Apporter
 
-### A. Verbes au présent
+### A. Vocabulaire
 
-| Pronom | être | avoir | aller | manger | faire |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-| je | suis | ai | vais | mange | fais |
-| tu | es | as | vas | manges | fais |
-| il/elle | est | a | va | mange | fait |
-| nous | sommes | avons | allons | mangeons | faisons |
-| vous | êtes | avez | allez | mangez | faites |
-| ils/elles | sont | ont | vont | mangent | font |
+| Français | Allemand | Exemple |
+|-----------|-----------|-----------|
+| se réveiller | aufwachen | Je me réveille à 6 h 30. |
+| se lever | aufstehen | Tu te lèves tôt. |
+| se laver | sich waschen | Il se lave le matin. |
+| s'habiller | sich anziehen | Nous nous habillons vite. |
+| le petit-déjeuner | das Frühstück | Je prends le petit-déjeuner. |
+| l'après-midi (m.) | der Nachmittag | L'après-midi, j'ai sport. |
+| se coucher | ins Bett gehen | Elle se couche à 21 heures. |
+| tôt / tard | früh / spät | Je me lève tôt, je me couche tard. |
 
-### B. Mini-récit (texte original)
+### B. Grammaire — les verbes pronominaux au présent
 
-> Le matin, je me lève à 7 heures. Je mange un croissant et je
-> bois du chocolat chaud. À 7h45, je vais à l'école à pied.
-> J'ai cours jusqu'à 13 heures. À midi, je mange à la cantine.
-> Le soir, je fais mes devoirs et je joue avec mon chien.
+{{< callout type="info" >}}
+**Point de langue — *se lever* (verbe pronominal).**
 
-### C. Marqueurs de temps
+Un verbe pronominal se conjugue avec un **pronom réfléchi** (me, te, se, nous, vous, se) qui change selon le sujet.
 
-- *à 7 heures · à midi · à 18 heures*
-- *le matin · à midi · l'après-midi · le soir*
-- *d'abord · ensuite · puis · enfin*
+| Pronom | *se lever* | *se laver* |
+|-----------|-----------|-----------|
+| je | **me** lève | **me** lave |
+| tu | **te** lèves | **te** laves |
+| il / elle | **se** lève | **se** lave |
+| nous | **nous** levons | **nous** lavons |
+| vous | **vous** levez | **vous** lavez |
+| ils / elles | **se** lèvent | **se** lavent |
+
+Attention à l'accent : *je me l**è**ve* (e ouvert) mais *nous nous l**e**vons* (sans accent).
+Devant une voyelle, *me / te / se* deviennent *m' / t' / s'* : *je **m'**habille*.
+{{< /callout >}}
+
+### C. Dire l'heure
+
+- **Heure officielle (24 h) :** *Il est 7 h 30. Il est 16 h 45.*
+- **Heure courante :** *Il est sept heures et demie. Il est cinq heures moins le quart.*
+- *et quart* (h 15) · *et demie* (h 30) · *moins le quart* (h 45) · *midi* (12 h) · *minuit* (0 h).
+
+### D. Mini-récit (texte original)
+
+> Le matin, je me réveille à 6 h 45. D'abord, je me lave et je m'habille. Ensuite, je prends mon petit-déjeuner : je mange des tartines et je bois du jus d'orange. À 7 h 30, je vais à l'école à vélo. Les cours commencent à 8 heures. À midi, je mange à la cantine avec mes amis. L'après-midi, j'ai sport. Le soir, je fais mes devoirs, puis je me couche à 21 heures.
+
+### E. Note culturelle — la journée d'école en France
+
+D'après l'encyclopédie libre Wikipédia, l'école primaire française est organisée sur plusieurs demi-journées du lundi au vendredi. La journée commence souvent vers 8 h 30 et se termine autour de 16 h 30, et les élèves passent en moyenne environ six heures par jour en classe. Beaucoup d'écoles proposent aussi une garderie jusqu'à 18 heures. Le rythme diffère donc de l'emploi du temps allemand, qui se termine souvent plus tôt l'après-midi.
 
 ## 3. S'entraîner
 
-**Ex. 1 — Conjugaison.**
+**Ex. 1 — Verbes pronominaux.** Complétez avec le bon pronom réfléchi.
 
-1. Je *(être)* en 6e.
-2. Tu *(avoir)* 12 ans.
-3. Nous *(aller)* à l'école.
-4. Vous *(manger)* à la cantine.
-5. Ils *(faire)* leurs devoirs.
+1. Je ____ lève à 7 heures.
+2. Tu ____ laves dans la salle de bains.
+3. Il ____ habille rapidement.
+4. Nous ____ couchons à 21 heures.
+5. Elles ____ réveillent tôt.
 
-**Ex. 2 — Marqueurs.** Réordonnez la journée :
+**Ex. 2 — Dire l'heure.** Écrivez l'heure courante en toutes lettres.
 
-a) Je vais à l'école.
-b) Je me lève.
-c) Je mange à la cantine.
-d) Je fais mes devoirs.
+1. 8 h 00 → *Il est …*
+2. 10 h 15 → *Il est …*
+3. 13 h 30 → *Il est …*
+4. 16 h 45 → *Il est …*
+5. 12 h 00 → *Il est …*
 
-**Ex. 3 — Lecture.** Au texte B, à quelle heure …
+**Ex. 3 — Remettre dans l'ordre.** Réordonnez la journée de Léa (a → e).
 
-1. … Léa se lève-t-elle ?
-2. … va-t-elle à l'école ?
-3. … finit-elle les cours ?
+- a) Je fais mes devoirs.
+- b) Je me lève.
+- c) Je vais à l'école.
+- d) Je me couche.
+- e) Je mange à la cantine.
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 4 — Lecture (texte D).** Répondez par une phrase complète.
 
-**Ex. 1.** 1) suis · 2) as · 3) allons · 4) mangez · 5) font.
+1. À quelle heure se réveille la personne du texte ?
+2. Que mange-t-elle au petit-déjeuner ?
+3. Comment va-t-elle à l'école ?
+4. À quelle heure se couche-t-elle ?
 
-**Ex. 2.** b – a – c – d.
-
-**Ex. 3.** 1) 7 heures. 2) 7h45. 3) 13 heures.
-
+{{< callout type="note" >}}
+**Différenciation.**
+**G :** ex. 1 et 3 seulement ; l'heure limitée aux heures pleines.
+**M :** les 4 exercices.
+**E :** rédigez en plus 2 questions *À quelle heure… ?* pour votre voisin·e et échangez-les.
 {{< /callout >}}
+
+## Solutions
+
+**Ex. 1.** 1) me · 2) te · 3) s' · 4) nous · 5) se.
+
+**Ex. 2.** 1) Il est huit heures. 2) Il est dix heures et quart. 3) Il est une heure et demie. 4) Il est cinq heures moins le quart. 5) Il est midi.
+
+**Ex. 3.** b – c – e – a – d.
+
+**Ex. 4.** 1) Elle se réveille à 6 h 45 (six heures quarante-cinq). 2) Elle mange des tartines (et boit du jus d'orange). 3) Elle va à l'école à vélo. 4) Elle se couche à 21 heures (neuf heures du soir).
 
 ## 4. Produire
 
-**Tâche d'écriture (M, ~50 mots) :**
+**Tâche orale (M, ~1 minute) :** *Raconte ta journée.*
 
-Décrivez votre journée d'hier en 5 phrases. Utilisez **3 verbes
-au présent** + **2 marqueurs de temps**.
+Présentez votre journée à l'oral, dans l'ordre chronologique, en 6 à 8 phrases. Utilisez au moins **3 verbes pronominaux** et **2 indications d'heure**.
 
-**Modèle :**
+**Modèle de départ :**
 
-> Le matin, je me lève à 7 heures. Je mange du pain au lait. À
-> 7h30, je vais à l'école à vélo. À midi, je mange avec ma
-> meilleure amie. Le soir, je fais mes devoirs et je joue au
-> piano.
+> Le matin, je me réveille à… D'abord, je… Ensuite, je… À midi, je… L'après-midi, je… Le soir, je me couche à…
+
+**Critères d'évaluation :**
+
+- Chronologie claire (marqueurs *d'abord, ensuite, puis, enfin*) — 3 pts
+- Verbes pronominaux corrects (pronom + accord) — 3 pts
+- Indications d'heure correctes — 2 pts
+- Prononciation compréhensible, débit régulier — 2 pts
 
 ## 5. Réfléchir
 
-- [ ] Je conjugue 5 verbes essentiels.
-- [ ] J'utilise 4 marqueurs de temps.
-- [ ] Je décris ma journée en 5 phrases.
+- [ ] Je sais dire l'heure (heure pleine, et quart, et demie, moins le quart).
+- [ ] Je conjugue 3 verbes pronominaux au présent sans erreur de pronom.
+- [ ] J'utilise 4 marqueurs de temps différents.
+- [ ] Je raconte ma journée en 6 phrases dans le bon ordre.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+## Évaluation
 
-**Tâche 1 — Grammatik (10 P.)**
+**Devoir surveillé (« Klassenarbeit ») — Niveau M**
 
-Conjuguez 5 verbes (être · avoir · aller · manger · faire) à 5
-personnes différentes (je-tu-il/elle-nous-ils/elles).
+**Tâche 1 — Grammaire (10 P.)**
+Conjuguez deux verbes pronominaux (*se lever*, *se laver*) aux six personnes.
 
-**Tâche 2 — Lecture (10 P.)**
+**Tâche 2 — Dire l'heure (8 P.)**
+Écrivez quatre heures données en toutes lettres (heure courante).
 
-Lisez le texte B. 5 questions à choix multiple sur la chronologie.
+**Tâche 3 — Compréhension écrite (« Lesen ») (7 P.)**
+Lisez le texte D et répondez à cinq questions sur la chronologie.
 
-**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)**
+**Tâche 4 — Expression écrite (« Schreiben ») (15 P.)**
+Décrivez votre journée en ~60 mots : au moins 3 verbes pronominaux, 2 indications d'heure et 3 marqueurs de temps.
 
-Décrivez votre journée d'hier en ~50 mots, 3 verbes au présent
-+ 2 marqueurs de temps minimum.
+**Barème :** Grammaire 10 · Heure 8 · Lecture 7 · Écriture 15. **Total : 40 P.**
 
-**Total : 30 P.**
+## Notes pour l'enseignant·e
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter (verbes + texte) 14' ·
-S'entraîner 12' · Produire 10' · Réfléchir 2' · Aperçu 3'.
-</div>
+**Plan (45 min) :** Activer 5' · Apporter (vocabulaire + grammaire + heure + texte) 15' · S'entraîner 12' · Produire 8' · Réfléchir 2' · Aperçu de la séance suivante 3'.
 
-## Pièges fréquents
+**Organisation :** l'étape *Activer* en cercle ou en chaîne (chacun pose une question à son voisin). Le point *Dire l'heure* se prête bien à une horloge en carton manipulée au tableau.
 
-- **« nous mangeons »** : -e- avant -ons (sinon « g » dur :
- *mangons*).
-- **« je vais »** ≠ *« je vai »* (le -s final).
-- **« à pied »** sans article : *je vais à pied / à vélo*.
+**Différenciation :** groupe G limité aux heures pleines et aux verbes *se lever / se coucher* ; groupe E ajoute les demi-heures et une courte production orale spontanée. Prévoir une fiche d'aide (pronoms réfléchis) pour les élèves plus fragiles.
 
-## Pour aller plus loin
+**Pièges fréquents à signaler :** *je me lève* (accent) mais *nous nous levons* (sans accent) ; élision *je m'habille* ; ne pas oublier le pronom réfléchi (*je lève* ≠ *je me lève*).
 
-- **TV5 Monde — Une journée à l'école** :
- <https://apprendre.tv5monde.com/>
-- **Bonjour de France — Routines** :
- <https://www.bonjourdefrance.com/>
+## Sources
+
+- *Rythmes scolaires en France* — Wikipédia, l'encyclopédie libre (consulté le 2026-07-21), https://fr.wikipedia.org/wiki/Rythmes_scolaires_en_France — licence CC BY-SA 4.0.
+- *Se lever (conjugaison)* — Larousse, dictionnaire de conjugaison (consulté le 2026-07-21), https://www.larousse.fr/conjugaison/francais/se%20lever/5809 — référence lexicographique (conjugaison paraphrasée, non citée).

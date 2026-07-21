@@ -14,7 +14,7 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c10613c65aa4895bc293d8c5732bf18"
 presentation:
-  file: "/fle/materials/presentations/unit11_mediation-de-base.pptx"
+  file: "/fle/materials/presentations/unit11_mediation-de-base.odp"
   thumbnail: "/fle/materials/presentations/unit11_mediation-de-base.png"
 worksheet:
   file: "/fle/materials/worksheets/unit11_mediation-de-base.pdf"
@@ -33,130 +33,201 @@ aliases:
 
 ## Objectifs
 
-- Je transmets en **français** le sens d'un texte allemand court.
-- Je résume **3 informations** en 4 phrases.
-- Je distingue **traduire ≠ médier**.
+- Je peux comprendre l'essentiel d'un court message écrit en allemand.
+- Je peux transmettre en français les informations principales d'un texte allemand.
+- Je peux distinguer **traduire** (mot à mot) et **médier** (transmettre le sens).
+- Je peux adapter mon message au destinataire (registre familier ou plus formel).
+- Je peux rédiger un court texte en français à partir d'informations médiées.
 
-## Histoire d'introduction
+## Situation de départ
 
-Inès rentre de Karlsruhe avec un dépliant en allemand sur le
-Schloss. Elle ne comprend pas tout et demande à Léa : *« Tu peux
-me dire ce que ça raconte, en français ? Pas mot à mot — juste
-l'essentiel. »*
+Inès rentre d'une sortie scolaire à Karlsruhe. Elle a pris un petit dépliant en allemand sur le château (*das Schloss*), mais son amie québécoise Léa ne comprend pas l'allemand.
+
+*Léa :* « C'est joli, cette photo ! Tu peux me dire ce qui est écrit, en français ? »
+*Inès :* « Attends… ce n'est pas simple, il faut que je traduise chaque mot. »
+*Léa :* « Non, pas mot à mot ! Juste l'essentiel : c'est quoi, ça ouvre quand, ça coûte combien ? »
+*Inès :* « Ah, d'accord ! Ça, je peux le faire. »
+
+**Questions d'activation :**
+
+- Que demande vraiment Léa : une **traduction** ou un **résumé** ?
+- Pourquoi Inès trouve-t-elle d'abord la tâche difficile ?
+- Quelles trois informations Léa veut-elle connaître ?
 
 ## 1. Activer
 
-- Avez-vous déjà traduit pour un membre de votre famille ?
+- Avez-vous déjà expliqué à un membre de votre famille ce que disait un texte dans une langue étrangère ?
 - Quelle est la différence entre **traduire** et **résumer** ?
-- En allemand : *médiation linguistique (« Sprachmittlung »)* — qu'est-ce que c'est ?
+- En cours, on parle de *médiation linguistique* (en allemand : *Sprachmittlung*). D'après vous, qu'est-ce que cela veut dire ?
+- Dans quelles situations de la vie quotidienne fait-on de la médiation (à la gare, chez le médecin, en voyage, en famille…) ?
 
 ## 2. Apporter
 
-### A. Médiation : 3 règles d'or
+### Vocabulaire
 
-1. **On ne traduit pas mot à mot.** On transmet le **sens**.
-2. **On garde l'essentiel** (qui, quoi, où, quand, combien).
-3. **On adapte la langue** au destinataire (formel/familier).
+| Français | Allemand | Exemple |
+|---|---|---|
+| le sens (d'un texte) | der Sinn | *transmettre le sens* |
+| l'essentiel (m.) | das Wesentliche | *garder l'essentiel* |
+| le destinataire | der Empfänger | *adapter au destinataire* |
+| ouvert / fermé | geöffnet / geschlossen | *ouvert le lundi* |
+| l'entrée (f.) | der Eintritt | *l'entrée coûte 8 €* |
+| gratuit / payant | kostenlos / kostenpflichtig | *le parc est gratuit* |
+| environ | ungefähr | *environ deux heures* |
+| selon | laut / nach | *selon le texte…* |
 
-### B. Verbes utiles
+**Amorces utiles pour médier :**
 
-- *Le texte parle de … / Le texte dit que …*
+- *Le texte parle de… / Le texte dit que…*
 - *Selon le texte, …*
-- *L'auteur explique que …*
-- *Ce qui est important, c'est que …*
+- *L'essentiel, c'est que…*
+- *En résumé, …*
 
-### C. Texte source — allemand (texte original)
+{{< callout type="info" >}}
+**Point de langue — médier, ce n'est pas traduire.**
+
+Pour **médier** un texte, on suit trois règles :
+
+1. **On ne traduit pas mot à mot** : on transmet le **sens**.
+2. **On garde l'essentiel** — qui ? quoi ? où ? quand ? combien ?
+3. **On adapte la langue** au destinataire (*tu* pour un ami, *vous* si c'est plus formel).
+
+Astuce : on garde toujours les **chiffres** (heures, prix, dates), car ce sont souvent les informations les plus utiles.
+{{< /callout >}}
+
+### Texte source (allemand) — information pour les visiteurs
 
 > **Karlsruher Schloss — Besucherinformation**
 >
-> Das Karlsruher Schloss wurde 1715 erbaut und ist heute ein
-> Museum. Es ist täglich von 10 bis 18 Uhr geöffnet, außer
-> montags. Der Eintritt kostet 8 Euro für Erwachsene, 4 Euro für
-> Schüler. Der Schlosspark ist kostenlos und sehr groß. Im
-> Sommer finden hier Konzerte statt.
+> Das Karlsruher Schloss ist heute ein Museum. Es ist von Dienstag bis Sonntag von 10 bis 18 Uhr geöffnet. Montags ist es geschlossen. Der Eintritt kostet 8 Euro für Erwachsene und 4 Euro für Schüler. Der Schlosspark ist kostenlos. Im Sommer finden dort Konzerte statt.
 
-### D. Médiation modèle (réponse en français)
+### Médiation modèle (français)
 
-> Le château de Karlsruhe a été construit en 1715. C'est
-> aujourd'hui un musée, ouvert tous les jours sauf le lundi, de
-> 10h à 18h. L'entrée coûte 8 € (4 € pour les élèves). Le parc
-> est gratuit et il y a des concerts en été.
+> Le château de Karlsruhe est aujourd'hui un musée. Il est ouvert du mardi au dimanche, de 10 h à 18 h ; il est fermé le lundi. L'entrée coûte 8 € pour les adultes et 4 € pour les élèves. Le parc du château est gratuit et, en été, on y donne des concerts.
+
+Remarquez : la médiation est **plus courte** que le texte source, mais elle garde toutes les informations importantes.
+
+### Note culturelle — Karlsruhe, la « ville en éventail »
+
+Le château de Karlsruhe est un palais baroque commencé en 1715 pour le margrave Karl Wilhelm de Bade-Durlach, fondateur de la ville. La ville fut dessinée autour du château : trente-deux avenues rayonnent depuis la tour centrale, comme les branches d'un éventail — d'où le surnom de *Fächerstadt* (« ville en éventail »). Le bâtiment, très endommagé pendant la Seconde Guerre mondiale, fut reconstruit dans les années 1950-1960 et abrite aujourd'hui un musée. *(Paraphrasé d'après Wikipédia, CC BY-SA.)*
 
 ## 3. S'entraîner
 
-**Ex. 1 — Vrai ou faux ?**
+**Ex. 1 — Vrai ou faux ?** (d'après le texte source allemand ci-dessus)
 
-1. Le château a été construit au 19ᵉ siècle.
+1. Le château est aujourd'hui un musée.
 2. Il est ouvert le lundi.
 3. L'entrée pour les élèves coûte 4 €.
-4. Le parc est payant.
+4. Le parc du château est payant.
 
-**Ex. 2 — Traduire vs. médier.** Quelle phrase est une médiation ?
+**Ex. 2 — Traduire ou médier ?** Quelle phrase est une **médiation** réussie ?
 
-a) « Le château de Karlsruhe a été construit en mille sept cent
- quinze. »
-b) « Le château date de 1715. »
-c) « Das Karlsruher Schloss wurde im Jahre 1715 erbaut. »
+a) « Le château de Karlsruhe a été construit en mille sept cent quinze. »
+b) « Le château date du début du 18ᵉ siècle. »
+c) « Das Karlsruher Schloss wurde 1715 erbaut. »
 
-**Ex. 3 — Médiez en 3 phrases.** Texte source en allemand :
+**Ex. 3 — Médiez en 3 phrases.** Transmettez l'essentiel de ce texte à un ami francophone :
 
-> *« Die Bibliothek ist von Montag bis Freitag von 9 bis 19 Uhr
-> geöffnet. Samstags schließt sie um 14 Uhr. Sonntags ist sie
-> geschlossen. Studenten haben Zugang mit ihrem Ausweis. »*
+> *« Die Stadtbibliothek ist von Montag bis Freitag von 9 bis 19 Uhr geöffnet. Samstags schließt sie um 14 Uhr. Sonntags ist sie geschlossen. Schüler haben freien Eintritt. »*
 
-{{< callout type="tip" title="Solutions" >}}
+**Ex. 4 — Choisissez le bon registre.** Vous médiez pour votre professeur (formel) puis pour un copain (familier). Complétez :
 
-**Ex. 1.** 1) F (1715, 18ᵉ s.). 2) F (sauf lundi). 3) V. 4) F
-(gratuit).
+- Formel : « *Selon ce texte, la bibliothèque _____ ouverte du lundi au vendredi.* »
+- Familier : « *En gros, la biblio, c'est ouvert _____ de la semaine !* »
 
-**Ex. 2.** b — médiation : on conserve l'essentiel sans traduire
-mot à mot.
-
-**Ex. 3.** *La bibliothèque est ouverte du lundi au vendredi de
-9h à 19h, le samedi jusqu'à 14h. Elle est fermée le dimanche. Les
-étudiants peuvent entrer avec leur carte.*
-
+{{< callout type="tip" >}}
+**Différenciation.**
+**(G)** Ex. 1 et 2 seulement ; s'appuyer sur la médiation modèle.
+**(M)** Ex. 1 à 3 ; viser 3 phrases complètes à l'Ex. 3.
+**(E)** Tous les exercices ; à l'Ex. 3, ajouter une phrase d'introduction (*« Ce texte informe sur… »*) et soigner le registre à l'Ex. 4.
 {{< /callout >}}
+
+## Solutions
+
+**Ex. 1.** 1) V. 2) F (fermé le lundi). 3) V. 4) F (le parc est gratuit).
+
+**Ex. 2.** **b** — c'est une médiation : on garde le sens (l'époque de construction) sans traduire mot à mot. La réponse a) est une traduction très littérale ; la réponse c) reste en allemand.
+
+**Ex. 3.** Exemple de réponse : *« La bibliothèque municipale est ouverte du lundi au vendredi, de 9 h à 19 h. Le samedi, elle ferme à 14 h et le dimanche elle est fermée. L'entrée est gratuite pour les élèves. »*
+
+**Ex. 4.** Formel : *« … la bibliothèque **est** ouverte du lundi au vendredi. »* — Familier : *« … c'est ouvert **cinq jours** de la semaine ! »* (autres formulations acceptées si le registre est cohérent).
 
 ## 4. Produire
 
-**Tâche de médiation (M, ~70 mots) :**
+**Tâche de médiation (écrite, ~70 mots).**
 
-Voici un texte allemand : *« Das Schwimmbad in Karlsruhe ist
-täglich von 7 bis 22 Uhr geöffnet. Erwachsene zahlen 5 Euro,
-Kinder 2,50 Euro. Im Sommer kann man auch draußen schwimmen. »*
+Voici un texte affiché en allemand à la piscine :
 
-**Médiez en 4 phrases en français** pour un(e) ami(e) québécois(e).
+> *« Das Schwimmbad in Karlsruhe ist täglich von 7 bis 22 Uhr geöffnet. Erwachsene zahlen 5 Euro, Kinder zahlen 2,50 Euro. Im Sommer kann man auch draußen schwimmen. »*
+
+**Écrivez un court message en français** (4 phrases) à votre amie québécoise Léa pour lui transmettre l'essentiel. Utilisez le registre familier (*tu*).
+
+**Critères d'évaluation :**
+
+| Critère | Réussi si… |
+|---|---|
+| Contenu | les 3 informations clés (horaires, prix, été) sont présentes |
+| Médiation | pas de traduction mot à mot ; sens transmis |
+| Registre | adapté à un ami (*tu*, ton familier) |
+| Langue | phrases courtes et correctes, chiffres exacts |
 
 ## 5. Réfléchir
 
-- [ ] Je transmets le sens (pas mot à mot).
-- [ ] Je résume en 4 phrases.
-- [ ] Je distingue traduction et médiation.
+- [ ] Je comprends l'essentiel d'un court texte allemand.
+- [ ] Je transmets le **sens** sans traduire mot à mot.
+- [ ] Je garde les informations importantes (chiffres, horaires, prix).
+- [ ] J'adapte mon message au destinataire.
+- [ ] Je sais expliquer la différence entre traduire et médier.
 
-## Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M)
+## Évaluation
 
-**Tâche 1 — médiation linguistique (15 P.)** : médiez un dépliant
-allemand en 5 phrases françaises.
-**Tâche 2 — Lecture (8 P.)** : 4 questions vrai/faux.
-**Tâche 3 — Expression écrite (« Schreiben ») (7 P.)** : courriel à un ami avec les
-infos médiées (~50 mots).
+**Devoir surveillé (*Klassenarbeit*) — Niveau M**
 
-**Total : 30 P.**
+**Tâche 1 — Médiation linguistique (15 pts).**
+Un camarade non germanophone vous montre ce panneau :
 
-<div class="notes">
-**Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 14' ·
-Produire 11' · Réfléchir 1' · Aperçu 2'.
-</div>
+> *« Das Museum ist von Mittwoch bis Sonntag von 11 bis 17 Uhr geöffnet. Der Eintritt ist für Kinder unter 12 Jahren frei. Am ersten Sonntag im Monat kostet der Eintritt für alle nichts. »*
 
-## Pièges fréquents
+Transmettez l'essentiel en **5 phrases françaises**.
 
-- **Pas de mot-à-mot.** *Es ist geöffnet* ≠ *« il est ouvert »*
- mais bien *« le lieu est ouvert »*.
-- **Garder les chiffres** (heures, prix) — l'essentiel.
-- **Adapter le destinataire** : *vous* (formel) ou *tu* (ami).
+**Tâche 2 — Compréhension (8 pts).**
+Répondez par vrai ou faux (d'après le texte de la Tâche 1) :
+1. Le musée est ouvert le lundi.
+2. Les enfants de moins de 12 ans entrent gratuitement.
+3. Le premier dimanche du mois, l'entrée est gratuite pour tous.
+4. Le musée ferme à 18 h.
 
-## Pour aller plus loin
+**Tâche 3 — Expression écrite (7 pts).**
+Rédigez un court courriel (~50 mots) à un ami pour l'inviter à visiter ce musée, en réutilisant les informations médiées.
 
-- **référentiel régional (« Bildungsplan ») médiation linguistique** :
- <https://www.bildungsplaene-bw.de/>
+**Barème — Total : 30 points**
+
+| Tâche | Points |
+|---|---|
+| 1 · Médiation (contenu 9, langue 6) | 15 |
+| 2 · Compréhension (2 pts/réponse) | 8 |
+| 3 · Expression écrite (contenu 4, langue 3) | 7 |
+
+## Notes pour l'enseignant·e
+
+**Durée : 45 min.**
+
+| Phase | Temps | Organisation |
+|---|---|---|
+| Activer | 4 min | plénière, situation de départ |
+| Apporter | 13 min | vocabulaire + point de langue + note culturelle |
+| S'entraîner | 14 min | individuel puis correction à deux |
+| Produire | 11 min | rédaction individuelle |
+| Réfléchir | 2 min | auto-évaluation |
+| Aperçu | 1 min | annonce de la suite |
+
+**Différenciation.** Prévoir les paliers G/M/E de la section 3. Pour les élèves plus rapides (E), demander de justifier oralement pourquoi la médiation est plus courte que le texte source. Pour les élèves G, autoriser l'appui sur la médiation modèle et les amorces de phrases.
+
+**Organisation.** Les textes sources allemands sont volontairement courts et informatifs (horaires, prix). Insister sur le fait qu'une bonne médiation est **plus courte** que l'original et centrée sur l'essentiel. Rappeler qu'on garde toujours les chiffres exacts.
+
+## Sources
+
+- *Schloss Karlsruhe* — Wikipédia, Wikimedia Foundation (consulté en 2026), <https://de.wikipedia.org/wiki/Schloss_Karlsruhe>, licence CC BY-SA 4.0.
+- *Karlsruhe Palace* — Wikipedia, Wikimedia Foundation (consulté en 2026), <https://en.wikipedia.org/wiki/Karlsruhe_Palace>, licence CC BY-SA 4.0.
+- *Médiation — Cadre européen commun de référence pour les langues (CECR)* — Conseil de l'Europe (consulté en 2026), <https://www.coe.int/fr/web/common-european-framework-reference-languages/mediation>.
+- *Bildungsplan Baden-Württemberg — Französisch (médiation linguistique)* — Land de Bade-Wurtemberg, <https://www.bildungsplaene-bw.de/>.

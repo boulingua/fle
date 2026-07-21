@@ -253,25 +253,19 @@ Sicherheits- und Missbrauchszwecken.
 
 ## 5. Eingebettete Inhalte und Schriftarten
 
-### Google Fonts (CDN)
+### Schriftarten (selbst gehostet)
 
-Diese Website bindet die Schriften **Source Sans 3** und
-**JetBrains Mono** über die Google-Fonts-CDN
-(`fonts.googleapis.com`, `fonts.gstatic.com`) ein. Beim Aufruf
-der Seite überträgt Ihr Browser dabei Verbindungsdaten
-(insbesondere die IP-Adresse) an Google. Anbieter ist Google
-Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland;
-eine Übermittlung in die USA ist nicht ausgeschlossen.
+Diese Website verwendet die Schriften **Source Sans 3** und
+**JetBrains Mono**. Die Schriftdateien werden ausschließlich vom
+selben Server ausgeliefert wie die übrige Website (siehe
+Abschnitt 4, GitHub Pages); es findet **keine Einbindung über
+eine Drittanbieter-CDN** (etwa Google Fonts) und somit **keine
+gesonderte Übermittlung Ihrer IP-Adresse an Dritte** allein zum
+Zweck des Ladens von Schriften statt.
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes
 Interesse an einer konsistenten, barrierearmen typografischen
-Darstellung unabhängig vom Endgerät). Wer das vermeiden möchte,
-kann über die Browser-Einstellungen Drittanbieter-Netzwerke
-blockieren; die Seite funktioniert dann mit System-Schriften
-weiter.
-
-Weitere Informationen:
-<https://policies.google.com/privacy>
+Darstellung unabhängig vom Endgerät).
 
 ### Externe Verlinkungen
 

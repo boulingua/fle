@@ -83,3 +83,7 @@ quarto render
 
 Le CI reproduit le même build et déploie via les actions Pages
 officielles.
+
+## Recours aux outils LLM
+
+Certaines parties de ce projet ont été préparées avec l'aide d'outils de grands modèles de langage pour des tâches précises et non-auctoriales : révision, lissage de la prose, mise en forme Markdown/LaTeX, génération de fichiers standard (configurations CI, scripts de build), refactorisation du code. Les outils utilisés étaient Chat AI, le service LLM de KISSKI (GWDG), et un Mistral Small (24B, Apache-2.0) auto-hébergé et exécuté localement via Ollama et le paquet R ollamar — inférence locale uniquement, sans transmission de données à des tiers pour le modèle auto-hébergé.

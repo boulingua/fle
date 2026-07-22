@@ -1,0 +1,71 @@
+---
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 12"
+subtitle: "Bilan : 12e · classe 12 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 12
+slug: "bilan-12e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/26f09051db19441c9df6819f7138a24f"
+tags:
+  - filiere-e
+  - classe-12
+  - exam
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez le portfolio d'Anouk (Unité 12, texte C). Répondez :
+
+1. Quels 4 auteurs/autrices sont cités ?
+2. Quelle citation ouvre le bilan ?
+3. Quelles notes mocks Anouk a-t-elle obtenues ?
+4. Quels sont les 3 priorités 13e ?
+5. Quel projet post-épreuve finale ?
+
+### Tâche 2 — Références (8 P.)
+
+Reliez chaque autrice/auteur à son œuvre + année :
+
+- Camus · Condé · Modiano · Despentes · Senghor · Slimani
+ · Ernaux · Ben Jelloun
+
+(Œuvres : *L'Étranger* (1942) · *Moi, Tituba sorcière*
+(1986) · *Dora Bruder* (1997) · *King Kong théorie* (2006)
+· *Chants d'ombre* (1945) · *Chanson douce* (2016) · *Les
+Années* (2008) · *Le racisme expliqué …* (1998).)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre portfolio épreuve finale (option d'approfondissement)** (~350 mots) :
+4 acquis + 3 priorités 13e + 4 références + 1 objectif
+chiffré.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Références | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Camus, Condé, Modiano, Despentes. 2)
+*« Aujourd'hui, maman est morte. »* 3) 13/15 et 14/15.
+4) Mock final · épreuve communicative (« Kommunikationsprüfung ») · synthèse 4 ans. 5)
+Erasmus à Bordeaux chez Mollat, rentrée 2030.
+
+**Tâche 2.** Réponses libres (associations canoniques).
+
+**Tâche 3.** Réponses libres. Critères : 350 mots · 4
+acquis · 3 priorités · 4 références · 1 objectif chiffré.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 12*

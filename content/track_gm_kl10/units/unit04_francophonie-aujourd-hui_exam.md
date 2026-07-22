@@ -1,0 +1,69 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 4"
+subtitle: "Francophonie aujourd'hui · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 4
+slug: "francophonie-aujourd-hui-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2f843897d8a54fdab5b75883e054423a"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez le texte sur la francophonie (Unité 4, texte C). Répondez :
+
+1. Combien de locuteurs francophones en 2025 ?
+2. Quelle est la place du français au monde ?
+3. Quelle évolution prévoit-on pour 2050 ?
+4. Citez les **5 pays** au plus grand nombre de locuteurs.
+5. Que veut dire OIF ? AUF ?
+
+### Tâche 2 — Géographie (8 P.)
+
+Classez ces 8 pays/régions par zone (Europe, Afrique, Amériques,
+Pacifique, Maghreb/Levant) :
+
+- Sénégal · Polynésie française · Belgique · Haïti · Liban ·
+ Vanuatu · Maroc · RDC.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Présentez **un pays francophone** au choix en **150 mots** :
+situation géographique · statut du français · 1 trait culturel
+· 2 personnalités. Plan : intro + 3 paragraphes + conclusion.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Géographie | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 321 millions. 2) 5ᵉ. 3) Moitié des francophones
+seront africains. 4) France, RDC, Algérie, Maroc, Côte d'Ivoire.
+5) Organisation internationale de la Francophonie · Agence
+universitaire de la Francophonie.
+
+**Tâche 2.** Afrique : Sénégal, RDC. Pacifique : Polynésie,
+Vanuatu. Europe : Belgique. Amériques : Haïti. Maghreb/Levant :
+Liban, Maroc.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · structure
+intro/dév/conclu · 4 éléments demandés.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 4*

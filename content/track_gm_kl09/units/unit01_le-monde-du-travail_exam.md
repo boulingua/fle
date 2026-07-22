@@ -1,0 +1,66 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 1"
+subtitle: "Le monde du travail · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 1
+slug: "le-monde-du-travail-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2dc6f34d06ae4cf2a339b77b93339555"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez le rapport de stage de Léa (Unité 1, texte D). Répondez :
+
+1. Quelle est la date du stage ?
+2. À quelle heure Léa arrive-t-elle ?
+3. Quelles tâches fait-elle (3 au minimum) ?
+4. Que lui dit Hugo sur le pain et la vie ?
+5. Quelles 3 leçons retient-elle ?
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Traduisez les métiers :
+
+- Bäcker · Krankenpflegerin · Lehrer · Ingenieurin ·
+ Journalist · Friseuse · Informatiker · Architektin.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre rapport de Praktikum** en **120 mots** :
+date, lieu, tuteur, **3 tâches** au passé composé, **2 choses
+apprises**, ressenti.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Mardi 14 mars. 2) 5h. 3) Pesé farine, pétri
+pâte, accueilli clients. 4) « Le pain, c'est comme la vie : il
+faut du temps. » 5) Patience, précision, aimer son métier.
+
+**Tâche 2.** boulanger · infirmière · professeur · ingénieure ·
+journaliste · coiffeuse · informaticien · architecte.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 3 tâches au
+passé composé · 2 leçons · format rapport.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 1*

@@ -1,0 +1,68 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 2"
+subtitle: "Lettre de motivation (FR) · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 2
+slug: "lettre-de-motivation-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/3319af2e0eed4e77a8dcdb2866fe6d44"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Lisez la lettre d'Anouk (Unité 2, texte C). Répondez :
+
+1. À quelle entreprise s'adresse Anouk ?
+2. Pour quel type de stage candidate-t-elle ?
+3. Combien de jours dure le stage souhaité ?
+4. Quelle formule de clôture utilise-t-elle ?
+
+### Tâche 2 — Formules de politesse (10 P.)
+
+Choisissez la formule correcte pour chaque situation :
+
+1. En-tête d'une lettre formelle : ___
+2. Demande polie : *Je ___ effectuer un stage chez vous.*
+3. Conclusion formelle : ___
+4. Souhait de réponse : *Dans ___ de votre réponse, …*
+5. Date de lettre : *Karlsruhe, ___ 12 octobre 2026.*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre lettre de motivation** (~180 mots) pour un
+stage en France ou Suisse romande : structure 3 § (Vous /
+Moi / Nous) + 4 formules de politesse + 3 conditionnels polis.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Formules | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Librairie Mollat (Bordeaux). 2) stage d'orientation (« BORS ») au lycée (« BOGY »),
+métier de libraire. 3) 5 jours. 4) *Veuillez agréer …
+salutations distinguées.*
+
+**Tâche 2.** 1) *Madame, Monsieur,* · 2) souhaiterais /
+aimerais · 3) *Veuillez agréer …* · 4) *l'attente* · 5) *le*.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 3 § ·
+4 politesse · 3 conditionnels.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 2*

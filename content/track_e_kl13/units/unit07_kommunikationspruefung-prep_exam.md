@@ -1,0 +1,72 @@
+---
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 7"
+subtitle: "épreuve communicative : préparation · classe 13 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 7
+slug: "kommunikationspruefung-prep-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/28369009e691411283ce354cf1b51b3c"
+tags:
+  - filiere-e
+  - classe-13
+  - exam
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez le plan-modèle Camus (Unité 7, texte C). Répondez :
+
+1. Quels 2 livres de 1942 sont cités ?
+2. Quelle est la conclusion sur Sisyphe ?
+3. Pourquoi Meursault est-il condamné selon Anouk ?
+4. Quelle citation de *L'Homme révolté* ?
+5. Quelle est la chute du monologue ?
+
+### Tâche 2 — Stratégies anti-stress (8 P.)
+
+Reliez chaque stratégie à son effet :
+
+- respiration 4-7-8 · cartes A6 · pause naturelle · ancrage
+ corporel · reformulation · sourire
+
+(Effets : calme physiologique · support visuel · combat la
+panique · projette voix · vérifie compréhension · détend
+visage.)
+
+### Tâche 3 — Plan de monologue (12 P.)
+
+Préparez **votre plan de monologue 5 min** sur un sujet
+au choix (Camus / Senghor / Slimani / Despentes /
+francophonie). Structure I-II-III + 4 citations + 1 chute
++ 5 cartes mémoire.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Stratégies | 8 |
+| Tâche 3 — Plan de monologue | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) *L'Étranger* + *Le Mythe de Sisyphe*. 2)
+*« Il faut imaginer Sisyphe heureux. »* 3) Pour n'avoir
+pas pleuré à l'enterrement (en plus du meurtre). 4) *« Je
+me révolte, donc nous sommes. »* 5) *« Je laisse Sisyphe au
+bas de la montagne. On retrouve toujours son fardeau. »*
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : plan I-II-III · 4
+citations · 1 chute · 5 cartes mémoire.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 7*

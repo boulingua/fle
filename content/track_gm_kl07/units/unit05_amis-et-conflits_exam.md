@@ -1,0 +1,71 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 5"
+subtitle: "Amis et conflits · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 5
+slug: "amis-et-conflits-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2b4dfaa924114e719cebe99ed53dd002"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — Grammatik : pronoms COD (10 P.)
+
+Remplacez le complément par un pronom COD.
+
+1. J'écoute la prof. → Je ___ écoute.
+2. Tu invites Léa et moi ? → Tu ___ invites ?
+3. Elle voit Théo. → Elle ___ voit.
+4. Vous regardez les photos ? → Vous ___ regardez ?
+5. Nous aimons cette chanson. → Nous ___ aimons.
+6. Tu m'aides ? → Oui, je ___ aide.
+7. Il connaît Inès et Léa. → Il ___ connaît.
+8. Léa a oublié son sac. → Elle ___ a oublié.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Lisez le texte C de l'Unité 5 (la dispute). Répondez :
+
+1. Pourquoi Léa est-elle fâchée ?
+2. Que faisait Théo samedi ?
+3. Que propose Théo pour faire la paix ?
+4. Comment Léa accepte-t-elle ?
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Racontez une **dispute** avec un(e) ami(e) en **80 mots**.
+Utilisez **2 sentiments** + **2 pronoms COD** + le **passé
+composé**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Grammatik | 10 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) l' · 2) nous · 3) le · 4) les · 5) l' · 6) t' ·
+7) les · 8) l'.
+
+**Tâche 2.** 1) Théo l'a oubliée samedi (cinéma). 2) Un match de
+foot. 3) Une glace + se voir le soir. 4) « D'accord, mais tu
+m'invites à une glace ! »
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · 2 sentiments ·
+2 pronoms COD · passé composé · réconciliation.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 5*

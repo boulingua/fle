@@ -1,0 +1,67 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 8"
+subtitle: "Un·e Allemand·e à Paris · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 8
+slug: "un-allemand-a-paris-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/325e9d5b9f194a92b4d98ac5fe11a8dc"
+tags:
+  - filiere-e
+  - classe-8
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez le journal de Jonas (Unité 8, texte C). Répondez :
+
+1. Combien de jours Jonas reste-t-il à Paris ?
+2. Quel monument visite-t-il le 1ᵉʳ jour ?
+3. Quel musée visite-t-il le 2ᵉ jour ?
+4. Que mange-t-il le dernier soir ?
+5. Quel sentiment ressent-il à la fin ?
+
+### Tâche 2 — Futur simple (8 P.)
+
+Conjuguez au futur simple :
+
+1. Demain, je ___ (visiter) la tour Eiffel.
+2. Nous ___ (aller) au Louvre.
+3. Tu ___ (voir) la Joconde.
+4. Vous ___ (être) à Paris dans 3 jours.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **3 entrées** de votre journal pour un futur voyage
+à Paris (~120 mots) : 1 par jour (J-1, J, J+1) · 5 verbes au
+futur simple · 5 mots de voyage.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Futur simple | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 3 jours. 2) La tour Eiffel. 3) Le Louvre. 4)
+Un croissant (chez Poilâne). 5) Nostalgie / Paris lui
+manquera.
+
+**Tâche 2.** 1) visiterai · 2) irons · 3) verras · 4) serez.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 3 entrées
+· 5 futurs · 5 mots voyage.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 8*

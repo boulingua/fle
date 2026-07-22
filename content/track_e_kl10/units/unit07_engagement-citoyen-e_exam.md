@@ -1,0 +1,70 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 7"
+subtitle: "Engagement citoyen des jeunes · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 7
+slug: "engagement-citoyen-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/3450ebbc7ea044fcb23528bd98e94560"
+tags:
+  - filiere-e
+  - classe-10
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez la tribune d'Anouk (Unité 7, texte C). Répondez :
+
+1. Quel mouvement rejoint Anouk ?
+2. Pourquoi ne vote-t-elle pas encore ?
+3. Quelle association soutient-elle (combien d'heures) ?
+4. Quelle citation utilise-t-elle ?
+5. Que dit-elle sur son père ?
+
+### Tâche 2 — Verbes d'engagement (8 P.)
+
+Conjuguez :
+
+1. Je ___ (militer) chaque vendredi.
+2. Nous ___ (manifester) dans la rue.
+3. Tu ___ (signer) des pétitions.
+4. Vous ___ (sensibiliser) votre famille.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre tribune** (~180 mots) sur un sujet
+d'engagement : 4 § + 6 connecteurs + 5 verbes d'engagement
++ 1 citation.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Verbes engagement | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Fridays for Future Karlsruhe. 2) Pas encore
+18 ans. 3) Secours Populaire, 4 h/mois. 4) *« No one is too
+small to make a difference. »* (Greta Thunberg). 5) Il
+n'avait jamais entendu parler du bilan carbone, maintenant
+oui.
+
+**Tâche 2.** 1) milite · 2) manifestons · 3) signes ·
+4) sensibilisez.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 4 § ·
+6 connecteurs · 5 verbes engagement · 1 citation.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 7*

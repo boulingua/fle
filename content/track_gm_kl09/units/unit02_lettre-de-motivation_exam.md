@@ -1,0 +1,72 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 2"
+subtitle: "Lettre de motivation · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 2
+slug: "lettre-de-motivation-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2df593e8f9424e92ac46ea83310f2efe"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Lisez la lettre de Léa (Unité 2, texte C). Répondez :
+
+1. À qui Léa écrit-elle et où ?
+2. Quel est l'objet de la lettre ?
+3. Sur quelle rubrique écrit-elle ?
+4. Quelle est la formule finale ?
+
+### Tâche 2 — Formules (10 P.)
+
+Complétez avec les formules adéquates.
+
+1. Salutation : *« _______________, »*.
+2. Pour se présenter : *« Actuellement _______________ classe
+ de 9e, je _______________ par … »*.
+3. Pour solliciter : *« Je me _______________ de vous écrire
+ pour _______________ un stage. »*
+4. Formule finale : *« Je vous prie d'_______________, Madame,
+ Monsieur, mes salutations _______________. »*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre lettre de motivation** en **150 mots** pour un
+stage d'une semaine. Respectez la **structure** (coordonnées,
+date, destinataire, objet, salutation, 3 paragraphes, formule,
+signature) et utilisez **3 formules** apprises.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Formules | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) *Le Monde Strasbourg*, 12 place Kléber, 67000
+Strasbourg. 2) Demande de stage de 9e (1 semaine). 3) Rubrique
+« Planète ». 4) « Je vous prie d'agréer, Madame, Monsieur, mes
+salutations distinguées. »
+
+**Tâche 2.** 1) Madame, Monsieur · 2) en · suis passionné(e) ·
+3) permets · solliciter · 4) agréer · distinguées.
+
+**Tâche 3.** Réponses libres. Critères : structure 8 éléments ·
+150 mots · 3 formules · pas de familier.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 2*

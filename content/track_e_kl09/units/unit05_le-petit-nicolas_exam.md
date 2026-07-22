@@ -1,0 +1,66 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 5"
+subtitle: "Le Petit Nicolas (extraits) · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 5
+slug: "le-petit-nicolas-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/334ccd3344bc40e99cad39f92a920565"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez l'extrait *On a eu l'inspecteur* (Unité 5, texte C).
+Répondez :
+
+1. Qui doit venir dans la classe ?
+2. Que fait Geoffroy ?
+3. Que fait Alceste ?
+4. Comment le maître réagit-il ?
+5. Que dit l'inspecteur en partant ?
+
+### Tâche 2 — Imparfait / PC (8 P.)
+
+Classez en **imparfait** (description) ou **PC** (action) :
+
+1. *allait* · 2. *a dit* · 3. *mangeait* · 4. *est entré* ·
+5. *dormait* · 6. *a rigolé* · 7. *était* · 8. *a applaudi*.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez la **suite de l'extrait** (~150 mots) : que se passe-
+t-il **après** le départ de l'inspecteur ? 5 personnages +
+PC + imparfait + 1 réplique au discours direct.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Imparfait / PC | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) L'inspecteur. 2) Il éternue très fort. 3) Il
+mange son croissant. 4) Il devient tout rouge. 5) *Vos élèves
+sont vivants — c'est l'essentiel.*
+
+**Tâche 2.** Imparfait : 1, 3, 5, 7. PC : 2, 4, 6, 8.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 5
+personnages · PC + imparfait · 1 discours direct.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 5*

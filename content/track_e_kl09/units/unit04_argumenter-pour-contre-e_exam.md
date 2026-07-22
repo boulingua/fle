@@ -1,0 +1,71 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 4"
+subtitle: "Argumenter pour / contre · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 4
+slug: "argumenter-pour-contre-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/332a193918cb4c85b4f94b9920d0d462"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez le billet d'Anouk (Unité 4, texte C). Répondez :
+
+1. Quelle question pose le billet ?
+2. Citez 2 arguments « pour ».
+3. Citez 2 arguments « contre ».
+4. Quelle statistique mentionne le texte ?
+5. Quelle est la position finale d'Anouk ?
+
+### Tâche 2 — Connecteurs logiques (8 P.)
+
+Complétez avec un connecteur (*d'une part, cependant, de
+plus, en effet, en conclusion, néanmoins, pourtant, par
+ailleurs*) :
+
+1. ___, les écrans sont utiles en cours.
+2. ___, ils distraient les élèves faibles.
+3. ___, des règles claires sont possibles.
+4. ___, je suis pour un usage encadré.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre billet d'opinion** (~180 mots) sur un sujet :
+uniforme à l'école · smartphone à 12 ans · viande à la
+cantine. Structure 4 § + 6 connecteurs + 1 conditionnel.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Connecteurs | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Faut-il interdire les écrans à l'école ? 2)
+Accès aux ressources / élèves visuels. 3) Distraction /
+30 % consultent les réseaux. 4) 30 %. 5) Pour un usage
+encadré.
+
+**Tâche 2.** 1) D'une part · 2) Cependant · 3) Néanmoins ·
+4) En conclusion.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 4 § ·
+6 connecteurs · 1 conditionnel.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 4*

@@ -1,0 +1,73 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 12"
+subtitle: "Bilan : fin de la diplôme intermédiaire · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 12
+slug: "bilan-fin-de-mittlere-reife-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/3078ded4e55f4163acb391f664649a30"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez la lettre d'adieu de Léa (Unité 12, texte C). Répondez :
+
+1. Combien d'années Léa a-t-elle fait de français ?
+2. Quels **3 correspondants** cite-t-elle ?
+3. Quels **3 auteurs** cite-t-elle, et leur leçon ?
+4. Quels **2 projets** pour la 11ᵉ ?
+5. Quelle est la phrase-clé qui résume sa transformation ?
+
+### Tâche 2 — Auto-évaluation CECRL (5 P.)
+
+Notez-vous (A2, B1, B2) sur les 5 compétences. **Justifiez** en
+1 phrase pour deux d'entre elles.
+
+| Compétence | Niveau | Justification |
+|-------------------------|--------|---------------|
+| Compréhension écrite | | |
+| Expression écrite (« Schreiben ») | | |
+| Compréhension orale (« Hören ») | | |
+| Expression orale (« Sprechen ») | | |
+| Médiation | | |
+
+### Tâche 3 — Expression écrite (15 P.)
+
+Rédigez **votre lettre d'adieu** (~250 mots) à votre classe /
+prof(esseur) de français. Plan : intro + bilan (3 souvenirs) +
+remerciements (2-3) + projets 11ᵉ + formule finale. **2 figures
+de style** + **5 connecteurs**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Auto-évaluation | 5 |
+| Tâche 3 — Expression écrite | 15 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 5 ans. 2) Karim (Lille), Inès (Montréal), Mehdi
+(Sfax). 3) Bondoux (mémoire), Camus (absurde), Murail
+(tendresse). 4) DELF B1 + Erasmus Montréal. 5) « Le français
+n'est plus une matière. C'est devenu une partie de moi. »
+
+**Tâche 2.** Réponses libres mais justifiées.
+
+**Tâche 3.** Réponses libres. Critères : 250 mots · plan
+complet · 2 figures · 5 connecteurs · sincérité.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 12*

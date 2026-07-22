@@ -1,0 +1,69 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 3"
+subtitle: "Mes médias préférés · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 3
+slug: "mes-medias-preferes-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/3224ba8926b94be48e5cbeeaa8364bce"
+tags:
+  - filiere-e
+  - classe-8
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Lisez le dialogue Karim/Anouk (Unité 3, texte C). Répondez :
+
+1. Quelle série regarde Anouk ?
+2. Quel podcast écoute Karim ?
+3. Qui est HugoDécrypte ?
+4. Que va faire Anouk à la fin du dialogue ?
+
+### Tâche 2 — Verbes d'opinion (10 P.)
+
+Complétez avec le verbe d'opinion qui convient (*trouver,
+penser, préférer, adorer, recommander*) :
+
+1. Je ___ que cette série est passionnante.
+2. Je ___ les podcasts aux vidéos longues.
+3. Je ___ Omar Sy — il est formidable.
+4. Je ___ cette chaîne à tous mes amis.
+5. Je ___ que HugoDécrypte explique bien l'actualité.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez un **dialogue** (8 répliques, ~120 mots) entre vous et
+un·e ami·e sur vos médias préférés : 1 série + 1 podcast + 1
+chaîne YouTube + **3 verbes d'opinion** différents.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Verbes d'opinion | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) *Lupin* (Netflix). 2) *Les Odyssées* d'Arte
+radio. 3) Un youtubeur français d'actualité. 4) S'abonner à
+sa chaîne YouTube.
+
+**Tâche 2.** 1) trouve · 2) préfère · 3) adore · 4) recommande
+· 5) pense.
+
+**Tâche 3.** Réponses libres. Critères : 8 répliques · 3
+verbes d'opinion · 3 médias différents.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 3*

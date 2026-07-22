@@ -1,0 +1,73 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 1"
+subtitle: "Transition formation / emploi · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 1
+slug: "transition-formation-emploi-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2f2f160e167c4d5680fc2ec22415facb"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez l'annonce + la lettre de Léa (Unité 1, textes C+D).
+Répondez :
+
+1. Quel est l'objet de l'annonce ?
+2. Combien d'heures par semaine ?
+3. Quel est le salaire la 1ʳᵉ et la 3ᵉ année ?
+4. Pourquoi Léa cite-t-elle son Praktikum de 9ᵉ ?
+5. Quelle est la formule finale de sa lettre ?
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Donnez l'**équivalent français** (ou définition simple) :
+
+- Ausbildung · FSJ · Berufskolleg · Mentor · CDI · CDD ·
+ un(e) apprenti(e) · une candidature spontanée.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre candidature spontanée** en **180 mots** pour
+un poste de votre choix. Structure : intro (présentation),
+corps (motivation + 2 atouts), conclusion (formule polie + CV
+joint).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Apprenti(e) boulanger(ère), rentrée 2026. 2) 8h
+× 6 jours = 48h ; ou 4h-12h selon lecture (réponse acceptée si
+calcul précis). 3) 800 € / 1100 €. 4) Cette expérience l'a
+confortée dans son choix. 5) « Je vous prie d'agréer, Madame,
+Monsieur, mes salutations distinguées. »
+
+**Tâche 2.** apprentissage en alternance · service civique ·
+lycée (« Gymnasium ») professionnel · une personne expérimentée qui guide ·
+contrat à durée indéterminée · contrat à durée déterminée ·
+personne en formation chez un patron · candidature sans
+annonce préalable.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · structure
+complète · 2 atouts · formule polie · mention CV.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 1*

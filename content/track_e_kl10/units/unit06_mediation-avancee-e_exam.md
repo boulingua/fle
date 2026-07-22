@@ -1,0 +1,79 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 6"
+subtitle: "Médiation avancée DE↔FR · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 6
+slug: "mediation-avancee-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/34109cba81484a808d10f01e7a923c41"
+tags:
+  - filiere-e
+  - classe-10
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Lisez la médiation FR (Unité 6, texte C). Répondez :
+
+1. Quel sujet traite l'éditorial original ?
+2. Quelle est la thèse de l'auteur·e ?
+3. Que reproche-t-il/elle au gouvernement ?
+4. Que demande la jeune génération ?
+
+### Tâche 2 — Verbes de médiation (8 P.)
+
+Reformulez chaque phrase allemande en français :
+
+1. *Der Autor sagt …* → L'auteur ___
+2. *Sie warnt vor …* → Elle ___
+3. *Er fordert …* → Il ___
+4. *Sie nuanciert …* → Elle ___
+
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)
+
+Médiez ce texte allemand en français (~200 mots) :
+
+> *Mobilität ist die zentrale Herausforderung unserer Zeit.
+> Das Auto allein kann die Stadt der Zukunft nicht tragen.
+> Die Bundesregierung muss in Bahn, Bus und Fahrradwege
+> investieren, sonst ersticken unsere Städte. Die jüngere
+> Generation hat es verstanden — sie fährt schon Rad. Es
+> ist Zeit, dass die Politik nachzieht.*
+
+Utilisez **6 stratégies** + 1 citation + 4 verbes de
+médiation.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Verbes médiation | 8 |
+| Tâche 3 — médiation linguistique | 14 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Le changement climatique. 2) Réalité +
+nécessité d'agir. 3) Inaction. 4) Mesures concrètes.
+
+**Tâche 2.** 1) *soutient/dit* · 2) *met en garde contre*
+· 3) *plaide pour / réclame* · 4) *nuance*.
+
+**Tâche 3.** Modèle : *Dans cet éditorial, l'auteur·e
+soutient que la mobilité est l'enjeu central de notre époque.
+Il·elle plaide pour des investissements massifs dans le
+train, le bus et le vélo, faute de quoi « nos villes
+étoufferont ». L'auteur·e constate que la jeune génération a
+déjà fait le choix du vélo et donne raison à cette
+évolution.* (~200 mots).
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 6*

@@ -1,0 +1,68 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 11"
+subtitle: "Première médiation DE → FR · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 11
+slug: "premiere-mediation-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/31f9a1afa1054d4b998b427fc55d0885"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 P.)
+
+Lisez le texte allemand ZKM (Unité 11, texte C). **Médiez** son
+contenu en **français** pour un(e) ami(e) québécois(e) en
+**5 phrases** (~70 mots). Pas de mot-à-mot.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Vrai ou faux ? (sur le texte source)
+
+| | Affirmation | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Le ZKM est ouvert tous les jours. | ☐ | ☐ |
+| 2 | L'entrée pour adultes coûte 8 €. | ☐ | ☐ |
+| 3 | Les enfants de moins de 12 ans payent 4 €. | ☐ | ☐ |
+| 4 | C'est un musée d'art numérique. | ☐ | ☐ |
+
+### Tâche 3 — Expression écrite (« Schreiben ») (7 P.)
+
+Écrivez un **courriel** (~50 mots) à un(e) ami(e) québécois(e)
+qui visite Karlsruhe : invitez-le/la au ZKM en résumant les
+infos pratiques.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — médiation linguistique | 15 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 7 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** Modèle : *Le ZKM est un musée d'art numérique à
+Karlsruhe. On y voit de l'art médiatique, des installations
+vidéo, de l'art informatique. Il est ouvert du mercredi au
+dimanche de 10h à 18h. L'entrée coûte 8 € (4 € pour les
+élèves). Les enfants de moins de 12 ans entrent gratuitement.*
+Critères : 5 phrases · sens transmis · pas de mot-à-mot.
+
+**Tâche 2.** 1) F. 2) V. 3) F (gratuit). 4) V.
+
+**Tâche 3.** Réponses libres. Critères : 50 mots · format
+courriel · 3 infos pratiques · ton amical (*tu*).
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 11*

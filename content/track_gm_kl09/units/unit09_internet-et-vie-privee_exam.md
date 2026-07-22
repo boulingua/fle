@@ -1,0 +1,74 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 9"
+subtitle: "Internet et vie privée · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 9
+slug: "internet-et-vie-privee-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2ec1e368c1424e158e69c3dd7c4fb395"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez l'article CNIL (Unité 9, texte D). Répondez :
+
+1. Quel pourcentage des 13-17 ans regrettent un post ?
+2. Citez **3 motifs** de regret avec leur pourcentage.
+3. Combien savent qu'un post peut être récupéré ?
+4. Combien d'ados ont reçu un commentaire méchant ?
+5. Citez **3 solutions** proposées.
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Traduisez :
+
+- das Hacken · der Identitätsdiebstahl · das Cybermobbing ·
+ die Desinformation · die Sucht · das Phishing ·
+ der Datenverkauf · das Recht auf Vergessen.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Prise de position (~**150 mots**) :
+
+> *« Faut-il interdire les réseaux sociaux avant 16 ans ? »*
+
+Plan : thèse + 2 arguments pour + 2 arguments contre +
+conclusion. **5 connecteurs** minimum.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 52 %. 2) Photos embarrassantes (38 %),
+commentaires impulsifs (29 %), données personnelles trop
+visibles (22 %). 3) Moins de la moitié. 4) 30 %. 5) Compte
+privé, mot de passe fort, pause des réseaux pendant les
+vacances.
+
+**Tâche 2.** le piratage · le vol d'identité · le
+cyberharcèlement · la désinformation · l'addiction · le
+phishing (les arnaques) · la vente de données · le droit à
+l'oubli.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · plan
+complet · 5 connecteurs · arguments concrets.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 9*

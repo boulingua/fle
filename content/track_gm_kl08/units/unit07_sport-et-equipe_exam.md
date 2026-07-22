@@ -1,0 +1,62 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 7"
+subtitle: "Sport et esprit d'équipe · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 7
+slug: "sport-et-equipe-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2d145412efb34007b1cc80574778c229"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 P.)
+
+Lisez le règlement du tournoi inter-collèges Strasbourg
+(Article 1-6 — Unité 7, texte A). Répondez en phrases complètes.
+
+1. Combien de joueur·euse·s minimum dans une équipe ?
+2. Quelle est la composition obligatoire ?
+3. Quelle est la durée totale d'un match (avec pause incluse) ?
+4. Combien de matchs minimum joue chaque équipe ?
+5. Que se passe-t-il à la 3e insulte ?
+6. Quand expire l'inscription ?
+
+### Tâche 2 — Expression orale (« Sprechen ») (mündlicher Anteil, 12 P.)
+
+Avec un·e camarade : mini-dialogue d'inscription au tournoi,
+4 questions/réponses. A inscrit son équipe, B est
+organisateur·rice.
+
+Critères : Erfüllung 4 P. · Langue 4 P. · Aussprache 4 P.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (6 P.)
+
+Écrivez **4 phrases** sur votre équipe idéale :
+nombre de joueur·euse·s · sport · ambiance · capitaine.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 12 |
+| Tâche 2 — Expression orale mündlich | 12 |
+| Tâche 3 — Expression écrite | 6 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 6 joueur·euse·s. 2) Mixte : au moins 2 garçons
++ 2 filles. 3) 35 minutes (2×15 + pause de 5). 4) Au moins 3
+matchs. 5) Exclusion définitive. 6) Avant le 1er mars.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 7*

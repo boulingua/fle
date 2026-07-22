@@ -1,0 +1,66 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 3"
+subtitle: "Mon quartier · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 3
+slug: "mon-quartier-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/31a5b3351d4d4dc1a1ac3bb5f04abb83"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez la lettre d'Anouk (Unité 3, texte C). Répondez :
+
+1. Comment est sa rue ?
+2. Qui est Hugo ? Qui est Camille ?
+3. Où est la pharmacie ?
+4. Combien de minutes pour aller au parc ?
+5. Comment va-t-elle à la gare ?
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Traduisez :
+
+- die Bäckerei · die Konditorei · der Buchladen · die Post ·
+ das Rathaus · der Bahnhof · die Apotheke · der Supermarkt.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Écrivez une **lettre** à un(e) correspondant(e) sur votre
+quartier en **120 mots** : 5 lieux + 4 prépositions + ce que
+vous y aimez.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Calme, beaucoup d'arbres. 2) Hugo : pâtissier ;
+Camille : libraire. 3) En face de chez Anouk. 4) 5 min. 5) En
+tram (20 min).
+
+**Tâche 2.** la boulangerie · la pâtisserie · la librairie · la
+poste · la mairie · la gare · la pharmacie · le supermarché.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 5 lieux ·
+4 prépositions · format lettre.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 3*

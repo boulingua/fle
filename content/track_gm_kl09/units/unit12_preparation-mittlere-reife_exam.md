@@ -1,0 +1,71 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 12"
+subtitle: "Préparation diplôme intermédiaire · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 12
+slug: "preparation-mittlere-reife-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2f00ec4200644cd2b2266f1d74f01a06"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez le bilan de Léa (Unité 12, texte C). Répondez :
+
+1. Où Léa a-t-elle fait son Praktikum ?
+2. À quel journal a-t-elle écrit une lettre de motivation ?
+3. Qui est Mehdi ?
+4. Citez **3 thèmes** abordés cette année.
+5. Quel est son projet pour la 10ᵉ ? Et son rêve plus tard ?
+
+### Tâche 2 — médiation linguistique (« Sprachmittlung ») (8 P.)
+
+Médiez en **3 phrases françaises** :
+
+> *« Die mündliche Prüfung dauert 15 Minuten und besteht aus
+> einem 3-minütigen Vortrag und einem Gespräch. Die Prüfer
+> stellen Fragen zu deinem Thema. »*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre bilan de 9ᵉ** en **150 mots** : intro + 3
+paragraphes (3 réussites · 2 difficultés · 1 projet) +
+conclusion. Utilisez **5 connecteurs** + **les 3 temps**
+(présent, passé composé, futur proche).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — médiation linguistique | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Chez Hugo, le boulanger. 2) *Le Monde*.
+3) Son correspondant tunisien. 4) Stage, lettre de motivation,
+Tunisie, argumenter, podcasts, différences FR-DE. 5) Préparer
+le Realschulabschluss en 10ᵉ + Erasmus à Montréal.
+
+**Tâche 2.** Modèle : *L'épreuve orale dure 15 minutes : un
+exposé de 3 minutes puis un échange. Les examinateurs posent
+des questions sur le sujet préparé.* Critères : 3 phrases ·
+sens transmis · pas de mot-à-mot.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 5
+connecteurs · 3 temps · plan complet.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 12*

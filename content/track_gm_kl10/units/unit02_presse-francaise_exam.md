@@ -1,0 +1,71 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 2"
+subtitle: "Presse française · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 2
+slug: "presse-francaise-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2f693b9dbf584beabe5f1453b1cd9a5f"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez la une du Monde (Unité 2, texte C). Répondez :
+
+1. Quel est le sujet principal de la une ?
+2. Quel rapport est cité ?
+3. L'objectif de baisse des émissions sera-t-il atteint ?
+4. Quels deux secteurs sont en retard ?
+5. Quel est le titre de l'éditorial ?
+
+### Tâche 2 — Genres et types (8 P.)
+
+Information (I), opinion (O) ou genre (G : éditorial, brève,
+reportage, interview) ?
+
+1. *« Le PIB a augmenté de 1,2 %. »*
+2. *« Cette politique est une réussite, à mon avis. »*
+3. *« Hier, à 14h, 100 manifestants ont défilé à Strasbourg. »*
+4. *« Le climatologue répond : "Il faut agir vite." »*
+5. *« Notre journal soutient cette mesure. »*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez une **revue de presse** (~120 mots) sur un sujet
+d'actualité libre : **3 phrases d'information** (faits,
+chiffres) + **2 phrases d'opinion** (signalées par *« à mon
+avis, je pense que »*).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Genres | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Climat : la France en retard. 2) Haut Conseil
+pour le Climat. 3) Non. 4) Transports et bâtiment. 5) « Climat :
+il est temps d'accélérer. »
+
+**Tâche 2.** 1) I · 2) O · 3) I/G(brève) · 4) G(interview) ·
+5) O/G(éditorial).
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 3 infos ·
+2 opinions signalées · sujet d'actualité plausible.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 2*

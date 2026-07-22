@@ -1,0 +1,62 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 3"
+subtitle: "Autour de la planète francophone · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 3
+slug: "autour-de-la-planete-francophone-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2ccc072dc75346598022eac0e98a14ff"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez les portraits courts de Unité 3 (Sénégal, Suisse,
+Belgique, Maroc, Côte d'Ivoire). Répondez en phrases complètes.
+
+1. Quel pays a quatre langues officielles ?
+2. Dans quels domaines utilise-t-on le français au Maroc ?
+3. Qu'est-ce qu'un *locuteur* ?
+4. Pourquoi beaucoup de Sénégalais·es sont-ils bilingues ?
+5. Que veut dire « nouchi » en Côte d'Ivoire ?
+
+### Tâche 2 — Expression orale (« Sprechen ») monologue (15 P.)
+
+Présentez en ~90 secondes un pays francophone (en direct ou
+enregistré). Inclure : localisation · statut du français ·
+mot ou langue locale · raison de visiter.
+
+Critères : Contenu 6 P. · Langue 5 P. · Aussprache 4 P.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (5 P.)
+
+Écrivez 3 phrases sur votre rapport au français : pourquoi vous
+l'apprenez · ce qui vous plaît · une difficulté.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Expression orale monologue| 15 |
+| Tâche 3 — Expression écrite | 5 |
+| **Total** | **30** |
+
+## Solutions
+
+**1.** Suisse. **2.** Enseignement supérieur, administration.
+**3.** Personne qui parle une langue. **4.** Wolof à la maison
++ français à l'école dès le primaire. **5.** Une variété /
+argot du français de Côte d'Ivoire (avec mots locaux).
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 3*

@@ -1,0 +1,66 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 7"
+subtitle: "Le temps et l'heure · classe 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 7
+slug: "le-temps-et-l-heure-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/30e5d405c0064612b66963ff20800126"
+tags:
+  - filiere-e
+  - classe-6
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez la météo de la semaine (Unité 7, texte D). Répondez :
+
+1. Quelle est la température lundi ?
+2. Combien de jours pleut-il ?
+3. Quel jour fait-il le plus chaud ?
+4. Quel jour est parfait pour le ski ? Pourquoi ?
+5. Quels jours fait-il moins de 0 °C ?
+
+### Tâche 2 — Date / mois (8 P.)
+
+Écrivez en lettres :
+
+1. 1/1 · 2. 14/7 · 3. 25/12 · 4. 8/3 · 5. 31/10 · 6. 5/5 ·
+7. 6/6 · 8. 11/11.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre météo de la semaine** en **70 mots** : 7 jours
++ température + soleil/pluie/vent + 1 vêtement adapté.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Date / mois | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) -2 °C. 2) 2 jours (mardi + vendredi après-midi).
+3) Jeudi (7 °C). 4) Dimanche, ciel bleu et 3 °C. 5) Lundi
+(-2 °C) et samedi (-5 °C).
+
+**Tâche 2.** 1) 1ᵉʳ janvier · 2) 14 juillet · 3) 25 décembre ·
+4) 8 mars · 5) 31 octobre · 6) 5 mai · 7) 6 juin · 8) 11
+novembre.
+
+**Tâche 3.** Réponses libres. Critères : 70 mots · 7 jours ·
+température · vêtement.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 7*

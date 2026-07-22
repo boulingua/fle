@@ -1,0 +1,71 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 7"
+subtitle: "Engagement citoyen · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 7
+slug: "engagement-citoyen-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2fa9ff1e86c6434eaa1eda02fe139ce3"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Lisez la tribune de Léa (Unité 7, texte C). Répondez :
+
+1. Quel jour Léa manifeste-t-elle, à quelle heure ?
+2. Citez ses **3 raisons**.
+3. Quel droit n'a-t-elle pas encore ?
+4. Quelle phrase de la conclusion résume sa position ?
+
+### Tâche 2 — Vocabulaire (10 P.)
+
+Traduisez :
+
+- das Ehrenamt · die Petition · die Demonstration · der Boykott
+ · der Verein · die Tribüne (Meinung) · der Aktivismus ·
+ die Bürgerinitiative.
+
+Plus, 2 jeunes français engagés (FR) à nommer (avec leur cause) :
+*Hugo Travers · Camille Étienne · Bilal Hassani*.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez une **tribune** de **200 mots** sur une cause qui vous
+tient à cœur. Plan : accroche + **3 arguments** (5 connecteurs)
++ conclusion-appel. Style engagé, respectueux.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Vocabulaire | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Vendredi, 11h. 2) GIEC 2024 + voter ne suffit
+pas (pas encore 18 ans) + se taire = consentir. 3) Le droit de
+vote. 4) « Mon engagement n'est pas politique : il est vital. »
+
+**Tâche 2.** le bénévolat · la pétition · la manifestation · le
+boycott · l'association · la tribune (d'opinion) · le militantisme
+· l'initiative citoyenne. + Hugo Travers (info jeune), Camille
+Étienne (climat), Bilal Hassani (LGBTQ+/liberté).
+
+**Tâche 3.** Réponses libres. Critères : 200 mots · plan
+complet · 5 connecteurs · style engagé.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 7*

@@ -1,0 +1,70 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 11"
+subtitle: "Médiation de base · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 11
+slug: "mediation-de-base-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2c18ad58edb040b98bdef0c312c968f8"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 P.)
+
+Lisez le texte allemand (Unité 11, texte C : Karlsruher Schloss).
+**Médiez** son contenu en **français** pour un(e) ami(e)
+québécois(e), en **5 phrases** (~70 mots). Ne traduisez pas mot
+à mot — transmettez l'essentiel : qui/quoi, horaires, prix,
+particularités.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Vrai ou faux ? (Sur le texte source allemand.)
+
+| | Affirmation | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Le château a été construit en 1715. | ☐ | ☐ |
+| 2 | Le château est ouvert le lundi. | ☐ | ☐ |
+| 3 | Les élèves payent 4 €. | ☐ | ☐ |
+| 4 | Le parc est gratuit. | ☐ | ☐ |
+
+### Tâche 3 — Expression écrite (« Schreiben ») (7 P.)
+
+Écrivez un **petit courriel** (~50 mots) à un(e) ami(e)
+québécois(e) qui veut visiter Karlsruhe : invitez-le/la et
+résumez les infos pratiques du château.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — médiation linguistique | 15 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 7 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** Modèle : *Le château de Karlsruhe a été construit
+en 1715. C'est aujourd'hui un musée, ouvert tous les jours sauf
+le lundi, de 10h à 18h. L'entrée coûte 8 € pour les adultes et
+4 € pour les élèves. Le parc, gratuit, est très grand. Des
+concerts y ont lieu en été.* Critères : pas de mot-à-mot · 5
+phrases · 5 infos · français correct.
+
+**Tâche 2.** 1) V. 2) F. 3) V. 4) V.
+
+**Tâche 3.** Réponses libres. Critères : format courriel ·
+50 mots · 3 infos pratiques · ton amical (*tu*).
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 11*

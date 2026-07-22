@@ -1,0 +1,71 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 5"
+subtitle: "Amis et conflits · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 5
+slug: "amis-et-conflits-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/31ad3e5105584fc7b01ba4968d76a72e"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Lisez la lettre d'Anouk (Unité 5, texte C). Répondez :
+
+1. Pourquoi Anouk est-elle triste ?
+2. Quels 2 sentiments ressent-elle ?
+3. Comment veut-elle se réconcilier ?
+4. Que demande-t-elle à la fin ?
+
+### Tâche 2 — Pronoms COD (10 P.)
+
+Remplacez le complément par un pronom COD.
+
+1. J'écoute Tristan. → Je ___ écoute.
+2. Tu invites Anouk et moi ? → Tu ___ invites ?
+3. Elle voit Mehdi. → Elle ___ voit.
+4. Vous regardez les photos ? → Vous ___ regardez ?
+5. Nous aimons cette chanson. → Nous ___ aimons.
+6. Tu m'aides ? → Oui, je ___ aide.
+7. Il connaît Inès et Léa. → Il ___ connaît.
+8. Léa a oublié son sac. → Elle ___ a oublié.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez une **lettre de réconciliation** en **120 mots** :
+nom du conflit + 2 sentiments + 1 action concrète + 2 pronoms
+COD.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Pronoms COD | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Tristan lui a dit qu'elle parlait trop.
+2) Triste + blessée. 3) Inviter Tristan chez Hugo (macarons).
+4) Une réponse de lui.
+
+**Tâche 2.** 1) l' · 2) nous · 3) le · 4) les · 5) l' · 6) t'
+· 7) les · 8) l'.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 2 sentiments
+· 1 action · 2 pronoms COD · format lettre.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 5*

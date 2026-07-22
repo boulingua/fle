@@ -1,0 +1,72 @@
+---
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 8"
+subtitle: "Gender et littérature contemporaine · classe 12 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 8
+slug: "gender-litteraire-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2689e147898249899b5fb845c2c9cd15"
+tags:
+  - filiere-e
+  - classe-12
+  - exam
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez l'extrait *King Kong théorie* (Unité 8, texte C).
+Répondez :
+
+1. Pour qui Despentes écrit-elle ?
+2. Comment définit-elle la *féminité* classique ?
+3. Quels 2 mouvements sociaux cite-t-elle ?
+4. Selon elle, qui le patriarcat abîme-t-il ?
+5. Quel est le ton du texte (registres) ?
+
+### Tâche 2 — Concepts gender (8 P.)
+
+Reliez :
+
+- gender · intersectionnalité · patriarcat · queer ·
+ écriture inclusive · empowerment · #MeToo · 4ᵉ vague
+
+(Définitions : construction sociale · Crenshaw 1989 · système
+masculin · refus des cases · iel/toustes · autonomisation ·
+Hashtag 2017 · vague récente.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez un **dialogue** (~300 mots, 15 répliques) à partir
+d'un extrait gender (Despentes / Édouard Louis) : 4 concepts
++ 2 citations + 1 contre-argument + 1 exemple actualité.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Concepts | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Pour *moches, vieilles, exclues du marché*.
+2) Performance (sourire, plaire, séduire). 3) #MeToo,
+#NousToutes. 4) Tout le monde, hommes compris. 5) Familier
++ militant.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 300 mots ·
+15 répliques · 4 concepts · 2 citations · 1 contre · 1
+exemple.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 8*

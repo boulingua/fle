@@ -1,0 +1,68 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 6"
+subtitle: "Les transports · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 6
+slug: "les-transports-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2b8efb61d5bb4c2983a644bebcdeb788"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — Hörverstehen (10 P.)
+
+Écoutez l'annonce SNCF (Unité 6, texte C) et le dialogue (D).
+Vrai/faux :
+
+| | Affirmation | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Le TGV part à 9h22. | ☐ | ☐ |
+| 2 | Le TGV va à Lyon. | ☐ | ☐ |
+| 3 | L'Intercités part voie 6. | ☐ | ☐ |
+| 4 | La cliente achète un aller simple. | ☐ | ☐ |
+| 5 | Le billet coûte 45 €. | ☐ | ☐ |
+
+### Tâche 2 — Vocabulaire (8 P.)
+
+Traduisez :
+
+- der Zug · das Auto · der Bus · die Straßenbahn ·
+ die U-Bahn · das Fahrrad · das Flugzeug · der TGV.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Décrivez **votre trajet** école-maison en **80 mots**.
+Moyen de transport + durée + ce que vous voyez. Utilisez
+**2 fois** *en* / *à* + véhicule.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) V. 2) F (Paris-Est). 3) V. 4) F (aller-retour).
+5) V.
+
+**Tâche 2.** le train · la voiture · le bus · le tram · le métro
+· le vélo · l'avion · le TGV.
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · 2 emplois
+*en/à* · vocabulaire transport.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 6*

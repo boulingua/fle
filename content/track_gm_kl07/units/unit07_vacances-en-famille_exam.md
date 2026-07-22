@@ -1,0 +1,71 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 7"
+subtitle: "Vacances en famille · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 7
+slug: "vacances-en-famille-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2ba75e9eee46450b81b1f1c09360b15a"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez la carte postale de Léa (Unité 7, texte C). Vrai/faux :
+
+| | Affirmation | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Léa est arrivée à Cannes mardi. | ☐ | ☐ |
+| 2 | Il fait 30 °C. | ☐ | ☐ |
+| 3 | Elle s'est baignée à la plage. | ☐ | ☐ |
+| 4 | Elle a visité Marseille. | ☐ | ☐ |
+| 5 | Elle rentre dimanche. | ☐ | ☐ |
+
+### Tâche 2 — Grammatik : passé composé (8 P.)
+
+Conjuguez.
+
+1. Nous *(visiter)* le musée.
+2. Je *(aller)* à la plage.
+3. Ils *(faire)* du vélo.
+4. Léa *(manger)* une glace.
+5. Tu *(partir)* en vacances ?
+6. Vous *(prendre)* le train ?
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez une **carte postale** de **80 mots** :
+date, lieu, météo, **3 activités** au passé composé, projet
+pour demain. Salutation + signature.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Grammatik | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) F (lundi). 2) V. 3) V. 4) F (vieux Nice). 5) F
+(samedi).
+
+**Tâche 2.** 1) avons visité · 2) suis allé(e) · 3) ont fait ·
+4) a mangé · 5) es parti(e) · 6) avez pris.
+
+**Tâche 3.** Réponses libres. Critères : format carte postale ·
+80 mots · 3 activités au passé composé · projet futur.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 7*

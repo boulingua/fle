@@ -1,0 +1,67 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 12"
+subtitle: "Bilan : fin de la Sekundarstufe I · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 12
+slug: "bilan-fin-sek-i-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/34847217f89a438e885a182feda9ff4b"
+tags:
+  - filiere-e
+  - classe-10
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez le CV d'Anouk (Unité 12, texte C). Répondez :
+
+1. Combien d'années a-t-elle fait de français ?
+2. Quel niveau CECRL atteint ?
+3. Citez 3 expériences mentionnées.
+4. Quels auteurs sont cités dans les centres d'intérêt ?
+5. Quel podcast écoute-t-elle ?
+
+### Tâche 2 — CECRL (8 P.)
+
+Reliez chaque niveau à sa description :
+
+- A1 · A2 · B1 · B2 · C1 · C2
+
+(Descriptions : élémentaire débutant · élémentaire ·
+intermédiaire seuil · avancé · expérimenté · maîtrise.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre CV scolaire** en français (~200 mots) :
+5 sections + 5 dates précises + auto-évaluation CECRL.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — CECRL | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 5 ans (2022-2027). 2) B2. 3) Projet
+solidaire, stage stage d'orientation (« BORS ») au lycée (« BOGY »), tribune Fridays for Future. 4)
+Sempé-Goscinny, Colombani, Senghor. 5) *Les Odyssées*.
+
+**Tâche 2.** A1 = débutant · A2 = élémentaire · B1 = seuil
+· B2 = avancé · C1 = expérimenté · C2 = maîtrise.
+
+**Tâche 3.** Réponses libres. Critères : 200 mots · 5
+sections · 5 dates · CECRL.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 12*

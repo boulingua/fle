@@ -1,0 +1,73 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 11"
+subtitle: "Préparer un discours · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 11
+slug: "preparer-un-discours-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/346cd1208e0b4d0683a76dddd465b255"
+tags:
+  - filiere-e
+  - classe-10
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez le discours d'Anouk (Unité 11, texte C). Répondez :
+
+1. À qui s'adresse le discours ?
+2. Quelle est l'anecdote sur la 6e ?
+3. Citez 3 destinations « traversées ».
+4. Que dit Anouk sur la suite (Lf / Bf / arrêt) ?
+5. Quelle est la chute du discours ?
+
+### Tâche 2 — Figures de style (8 P.)
+
+Identifiez la figure :
+
+1. *Cinq ans ensemble. Cinq ans d'apprentissages. Cinq ans
+ d'amitié.* → ___
+2. *Notre français est devenu **un pont**.* → ___
+3. *Bretagne, Québec, Verdun.* → ___
+4. *« Le français, ce n'est pas une matière — c'est une
+ manière … »* → ___
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez votre **discours-cause** (~250 mots) sur un sujet
+au choix : 4 parties + 3 figures + 1 citation + 1 chute
+mémorable.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Figures | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Camarades + profs + parents. 2) Mme Devos
+fait écrire le prénom au tableau, « long voyage ». 3)
+Bretagne, Québec, Verdun, francophonie maghrébine, Aya
+Nakamura (3 au choix). 4) Lf, Bf ou arrêt — le voyage
+continue. 5) *« Bon vent à toustes — et rendez-vous en
+cycle terminal (« Kursstufe ») ! »*
+
+**Tâche 2.** 1) anaphore · 2) métaphore · 3) triade · 4)
+chiasme / chute (citation marquante).
+
+**Tâche 3.** Réponses libres. Critères : 250 mots · 4
+parties · 3 figures · 1 citation · 1 chute.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 11*

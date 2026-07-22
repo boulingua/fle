@@ -1,0 +1,70 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 9"
+subtitle: "Fête et invitations · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 9
+slug: "fete-et-invitations-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/31d54d3280694d27960a391eed3b4e40"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Lisez le carton d'invitation (Unité 9, texte C). Répondez :
+
+1. Quel âge a Anouk ?
+2. Date et horaires ?
+3. Adresse ?
+4. Cite **3 activités** prévues.
+
+### Tâche 2 — Futur proche (10 P.)
+
+Conjuguez.
+
+1. Je *(faire)* un gâteau.
+2. Tu *(venir)* à la fête ?
+3. Nous *(danser)* toute la nuit.
+4. Ils *(apporter)* des cadeaux.
+5. On *(jouer)* au karaoké.
+6. Vous *(arriver)* à quelle heure ?
+7. Anouk *(souffler)* ses bougies.
+8. Mes parents *(préparer)* la pizza.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre invitation d'anniversaire** en **80 mots** :
+date, lieu, programme, RSVP. **3 verbes au futur proche**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Futur proche | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 12 ans. 2) Samedi 16 mai, 17h-22h. 3) Allee 12,
+Karlsruhe. 4) Pizza, gâteau, karaoké, jeux, danse.
+
+**Tâche 2.** 1) vais faire · 2) vas venir · 3) allons danser ·
+4) vont apporter · 5) va jouer · 6) allez arriver · 7) va
+souffler · 8) vont préparer.
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · format
+invitation · 3 futurs proches · RSVP.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 9*

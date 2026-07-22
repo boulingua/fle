@@ -1,0 +1,68 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 7"
+subtitle: "Harcèlement et respect · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 7
+slug: "harcelement-et-respect-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/3399a0cea2474604a7ff034e986f871c"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)
+
+Lisez la lettre ouverte (Unité 7, texte C). Répondez :
+
+1. À qui s'adresse cette lettre ?
+2. Quel numéro français est mentionné ?
+3. Que peut faire un·e victime ?
+4. Que peut faire un·e témoin (3 actions) ?
+5. Quel est le mot de conclusion ?
+
+### Tâche 2 — Subjonctif après *il faut que* (8 P.)
+
+Conjuguez :
+
+1. *Il faut que tu ___ (parler) à un·e adulte.*
+2. *Il faut qu'on ___ (agir) ensemble.*
+3. *Il faut que vous ___ (être) courageux·ses.*
+4. *Il faut que je ___ (avoir) le numéro 3018.*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 P.)
+
+Rédigez **votre lettre ouverte** (~150 mots) contre le
+harcèlement : 3 § (victime / témoin / ensemble) + 5 verbes
+d'action + 1 subjonctif + numéro 3018.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Subjonctif | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Aux camarades de classe 9. 2) **3018**. 3)
+Parler à un·e adulte de confiance, appeler 3018. 4)
+Soutenir / signaler / briser le silence. 5) *Le respect est
+un droit — pour chacun·e.*
+
+**Tâche 2.** 1) parles · 2) agisse · 3) soyez · 4) aie.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3 § ·
+5 verbes d'action · 1 subjonctif · 3018.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 7*

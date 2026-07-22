@@ -1,0 +1,78 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 6"
+subtitle: "Podcasts en français · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 6
+slug: "podcasts-en-francais-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/2e7d0210eb9c41c4969afc6339715cba"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — Hörverstehen (15 P.)
+
+Écoutez le podcast *Choses à Savoir* (Unité 6, texte C).
+Répondez :
+
+1. Quel est le sujet de l'épisode ?
+2. Comment s'appelle le phénomène scientifique cité ?
+3. Pourquoi le ciel est-il bleu (en 1 phrase) ?
+4. Pourquoi les couchers de soleil sont rouges/oranges ?
+
+Remplissez la grille **3-2-1** :
+
+| Catégorie | Réponses |
+|-------------------|----------|
+| 3 mots-clés | |
+| 2 idées principales | |
+| 1 avis personnel | |
+
+### Tâche 2 — Vocabulaire (5 P.)
+
+Traduisez :
+
+- die Folge (Episode) · der Moderator · das Studio · der Auszug
+ · abonnieren.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 P.)
+
+Rédigez un **résumé en 5 phrases** (~80 mots) du podcast :
+titre + sujet + 2 idées-clés + votre avis personnel.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen | 15 |
+| Tâche 2 — Vocabulaire | 5 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Pourquoi le ciel est bleu. 2) Diffusion de
+Rayleigh. 3) Les molécules d'air diffusent plus le bleu (courte
+longueur d'onde). 4) La lumière traverse plus d'atmosphère, le
+bleu se disperse, le rouge domine.
+
+Grille : mots-clés *ciel, bleu, Rayleigh* ; idées
+*1) le bleu diffusé par molécules d'air, 2) au coucher le rouge
+domine* ; avis libre.
+
+**Tâche 2.** un épisode · l'animateur · le studio · un extrait
+· s'abonner.
+
+**Tâche 3.** Réponses libres. Critères : 5 phrases · titre +
+sujet + 2 idées + avis · 80 mots.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 6*

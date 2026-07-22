@@ -1,0 +1,55 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 6"
+subtitle: "Au marché · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 6
+slug: "au-marche-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/29497cdec75d4a7ca72101358ed0f4c3"
+tags:
+  - filiere-gm
+  - classe-6
+  - exam
+---
+
+## Devoir surveillé — Niveau M, classe 6
+
+### Tâche 1 — Hörverstehen (10 P.)
+
+La prof lit deux fois le dialogue Léa-Hugo. Répondez :
+
+1. Combien de kilos de pommes Léa achète-t-elle ?
+2. Que demande-t-elle d'autre ?
+3. Quel est le total ?
+4. Que dit Hugo à la fin ?
+5. Comment Léa demande-t-elle poliment ?
+
+### Tâche 2 — Vocabulaire (10 P.)
+
+Traduisez : 1) la pomme · 2) die Karotte · 3) la fraise · 4) der
+Salat · 5) la baguette · 6) der Apfel · 7) la tomate · 8) die
+Banane · 9) le pain au chocolat · 10) die Kartoffel.
+
+### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 P.)
+
+Achat simulé en binôme : 3 produits + total. Critères :
+Erfüllung 4 P · Aussprache 4 P · Langue 2 P.
+
+## Total : 30 P.
+
+## Solutions
+
+**Tâche 1.** 1) 1 kilo. 2) Une baguette. 3) 4,80 €. 4) Merci,
+bonne journée. 5) *Je voudrais …* + *s'il vous plaît*.
+
+**Tâche 2.** 1) der Apfel · 2) la carotte · 3) die Erdbeere ·
+4) la salade · 5) das Baguette · 6) la pomme · 7) die Tomate ·
+8) la banane · 9) das Schokoladenbrötchen · 10) la pomme de
+terre.
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 6*

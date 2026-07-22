@@ -1,0 +1,75 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 5"
+subtitle: "Médiation linguistique DE → résumé FR · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 5
+slug: "sprachmittlung-de-fr-resume-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+vgwort_pixel: "https://vg09.met.vgwort.de/na/324b35b8859740f5bc9d77ddbb8e7d32"
+tags:
+  - filiere-e
+  - classe-8
+  - exam
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 P.)
+
+Lisez le résumé français (Unité 5, texte C). Répondez :
+
+1. Quel est le nom du festival ?
+2. Où a-t-il lieu ?
+3. Quand se déroule-t-il ?
+4. Combien d'artistes participent ?
+
+### Tâche 2 — Verbes de médiation (8 P.)
+
+Complétez avec un verbe de médiation correct :
+
+1. Dans cet article, ___ ___ ___ d'un événement musical.
+2. L'auteur ___ les dates et le prix.
+3. On ___ que c'est un festival traditionnel.
+4. Le texte ___ 4 grandes tentes.
+
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 P.)
+
+À partir de cet article DE (~60 mots), rédigez un **résumé en
+français** (~80 mots) : 3 verbes de médiation + lieu + date +
+2 faits.
+
+> *Vom 5. bis 12. August findet in Heidelberg das **Heidelberger
+> Schlossfest** statt. Über 30 Theater- und Musikaufführungen
+> finden im Schlosshof statt. Tickets: ab 25 Euro. Mehr als
+> 10 000 Besucher werden erwartet.*
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Verbes médiation | 8 |
+| Tâche 3 — médiation linguistique | 14 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Zeltmusikfestival. 2) Sur le Mundenhof à
+Fribourg. 3) Du 12 au 21 juillet. 4) Plus de 50.
+
+**Tâche 2.** 1) il s'agit · 2) présente/explique · 3) apprend
+· 4) mentionne.
+
+**Tâche 3.** Modèle : *Dans cet article, il s'agit du
+Schlossfest de Heidelberg. Le festival a lieu du 5 au 12 août
+dans la cour du château. L'auteur présente plus de 30
+représentations de théâtre et de musique. On apprend que les
+billets coûtent à partir de 25 €. Le texte mentionne plus de
+10 000 visiteurs attendus.* (~80 mots).
+
+---
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 5*

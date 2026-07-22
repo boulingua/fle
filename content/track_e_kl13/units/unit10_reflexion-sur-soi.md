@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit10_reflexion-sur-soi.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_reflexion-sur-soi.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
+aliases:
+  - "/track_e_kl13/units/unit10_reflexion-sur-soi.html"
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit05_le-petit-nicolas.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_le-petit-nicolas.png"
+tags:
+  - filiere-e
+  - classe-9
+  - niveau-e
+aliases:
+  - "/track_e_kl09/units/unit05_le-petit-nicolas.html"
 ---
 
 {{< callout type="note" >}}

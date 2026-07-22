@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit04_presse-engagee.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_presse-engagee.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit04_presse-engagee.html"
 ---
 
 {{< callout type="note" >}}

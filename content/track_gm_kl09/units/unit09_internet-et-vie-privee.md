@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit09_internet-et-vie-privee.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_internet-et-vie-privee.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit09_internet-et-vie-privee.html"
 ---
 
 {{< callout type="note" >}}

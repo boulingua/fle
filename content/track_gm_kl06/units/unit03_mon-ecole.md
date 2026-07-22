@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit03_mon-ecole.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-ecole.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
+aliases:
+  - "/track_gm_kl06/units/unit03_mon-ecole.html"
 ---
 
 {{< callout type="note" >}}

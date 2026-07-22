@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit10_mes-loisirs.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_mes-loisirs.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
+aliases:
+  - "/track_gm_kl06/units/unit10_mes-loisirs.html"
 ---
 
 {{< callout type="note" >}}

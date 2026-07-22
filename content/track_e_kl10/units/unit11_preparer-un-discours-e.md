@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit11_preparer-un-discours-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_preparer-un-discours-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit11_preparer-un-discours-e.html"
 ---
 
 {{< callout type="note" >}}

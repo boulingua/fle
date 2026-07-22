@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit03_mes-medias-preferes-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mes-medias-preferes-e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit03_mes-medias-preferes-e.html"
 ---
 
 {{< callout type="note" >}}

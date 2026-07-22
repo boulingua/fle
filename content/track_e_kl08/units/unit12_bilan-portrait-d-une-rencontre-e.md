@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e.html"
 ---
 
 {{< callout type="note" >}}

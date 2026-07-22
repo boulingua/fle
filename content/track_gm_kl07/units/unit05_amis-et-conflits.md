@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit05_amis-et-conflits.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_amis-et-conflits.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit05_amis-et-conflits.html"
 ---
 
 {{< callout type="note" >}}

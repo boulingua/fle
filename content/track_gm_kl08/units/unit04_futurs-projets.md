@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit04_futurs-projets.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_futurs-projets.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit04_futurs-projets.html"
 ---
 
 {{< callout type="note" >}}

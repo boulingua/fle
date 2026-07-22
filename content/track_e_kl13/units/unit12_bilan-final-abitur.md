@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-final-abitur.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-final-abitur.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
+aliases:
+  - "/track_e_kl13/units/unit12_bilan-final-abitur.html"
 ---
 
 {{< callout type="note" >}}

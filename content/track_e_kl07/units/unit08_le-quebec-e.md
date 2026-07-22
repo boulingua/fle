@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit08_le-quebec-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_le-quebec-e.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit08_le-quebec-e.html"
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-fin-de-mittlere-reife.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-fin-de-mittlere-reife.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
+aliases:
+  - "/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife.html"
 ---
 
 {{< callout type="note" >}}

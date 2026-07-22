@@ -17,6 +17,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit01_la-rentree-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_la-rentree-e.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit01_la-rentree-e.html"
 ---
 
 {{< callout type="note" >}}

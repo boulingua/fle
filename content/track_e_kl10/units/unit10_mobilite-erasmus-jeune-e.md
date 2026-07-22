@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e.html"
 ---
 
 {{< callout type="note" >}}

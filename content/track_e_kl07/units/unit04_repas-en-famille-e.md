@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit04_repas-en-famille-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_repas-en-famille-e.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit04_repas-en-famille-e.html"
 ---
 
 {{< callout type="note" >}}

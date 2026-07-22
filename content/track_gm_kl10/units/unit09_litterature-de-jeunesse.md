@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit09_litterature-de-jeunesse.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_litterature-de-jeunesse.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
+aliases:
+  - "/track_gm_kl10/units/unit09_litterature-de-jeunesse.html"
 ---
 
 {{< callout type="note" >}}

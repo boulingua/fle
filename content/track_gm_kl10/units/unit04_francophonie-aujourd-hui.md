@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
+aliases:
+  - "/track_gm_kl10/units/unit04_francophonie-aujourd-hui.html"
 ---
 
 {{< callout type="note" >}}

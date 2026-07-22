@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit08_differences-culturelles-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_differences-culturelles-e.png"
+tags:
+  - filiere-e
+  - classe-9
+  - niveau-e
+aliases:
+  - "/track_e_kl09/units/unit08_differences-culturelles-e.html"
 ---
 
 {{< callout type="note" >}}

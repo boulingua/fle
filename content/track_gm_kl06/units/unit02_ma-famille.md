@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit02_ma-famille.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_ma-famille.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
+aliases:
+  - "/track_gm_kl06/units/unit02_ma-famille.html"
 ---
 
 {{< callout type="note" >}}

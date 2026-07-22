@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-de-classe.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-de-classe.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
+aliases:
+  - "/track_gm_kl06/units/unit12_bilan-portrait-de-classe.html"
 ---
 
 {{< callout type="note" >}}

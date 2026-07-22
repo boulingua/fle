@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit07_discours-radio.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_discours-radio.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit07_discours-radio.html"
 ---
 
 {{< callout type="note" >}}

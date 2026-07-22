@@ -326,7 +326,7 @@ def upsert_fm(md_path, slug):
     work = block("worksheet", f"{URL}/materials/worksheets/{slug}.pdf",
                  f"{URL}/materials/worksheets/{slug}.png")
     for key, rep in (("presentation", pres), ("worksheet", work)):
-        pat = re.compile(rf'(?ms)^{key}:\n(?:[ \t]+.*\n?)*')
+        pat = re.compile(rf'(?m)^{key}:\n(?:[ \t]+.*\n?)*')
         fm2 = pat.sub(rep+"\n", fm) if re.search(pat, fm) else fm.rstrip()+"\n"+rep
         fm = fm2
     md_path.write_text(f"---\n{fm.rstrip()}\n---\n{body}")

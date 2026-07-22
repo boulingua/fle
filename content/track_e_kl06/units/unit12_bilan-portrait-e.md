@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-e.png"
+tags:
+  - filiere-e
+  - classe-6
+  - niveau-e
+aliases:
+  - "/track_e_kl06/units/unit12_bilan-portrait-e.html"
 ---
 
 {{< callout type="note" >}}

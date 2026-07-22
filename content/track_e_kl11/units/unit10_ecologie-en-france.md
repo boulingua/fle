@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit10_ecologie-en-france.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_ecologie-en-france.png"
+tags:
+  - filiere-e
+  - classe-11
+  - niveau-e
+aliases:
+  - "/track_e_kl11/units/unit10_ecologie-en-france.html"
 ---
 
 {{< callout type="note" >}}

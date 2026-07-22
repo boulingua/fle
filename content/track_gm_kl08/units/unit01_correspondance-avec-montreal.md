@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit01_correspondance-avec-montreal.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_correspondance-avec-montreal.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit01_correspondance-avec-montreal.html"
 ---
 
 {{< callout type="note" >}}

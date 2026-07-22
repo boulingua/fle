@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit01_transition-vers-la-kursstufe.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_transition-vers-la-kursstufe.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit01_transition-vers-la-kursstufe.html"
 ---
 
 {{< callout type="note" >}}

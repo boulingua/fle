@@ -17,6 +17,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit01_la-rentree-en-8e.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_la-rentree-en-8e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit01_la-rentree-en-8e.html"
 ---
 
 {{< callout type="note" >}}

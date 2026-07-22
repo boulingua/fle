@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit03_mon-quartier-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-quartier-e.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit03_mon-quartier-e.html"
 ---
 
 {{< callout type="note" >}}

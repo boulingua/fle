@@ -17,6 +17,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit05_mediation-academique.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_mediation-academique.png"
+tags:
+  - filiere-e
+  - classe-11
+  - niveau-e
+aliases:
+  - "/track_e_kl11/units/unit05_mediation-academique.html"
 ---
 
 {{< callout type="note" >}}

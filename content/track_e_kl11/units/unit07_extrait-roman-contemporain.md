@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit07_extrait-roman-contemporain.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_extrait-roman-contemporain.png"
+tags:
+  - filiere-e
+  - classe-11
+  - niveau-e
+aliases:
+  - "/track_e_kl11/units/unit07_extrait-roman-contemporain.html"
 ---
 
 {{< callout type="note" >}}

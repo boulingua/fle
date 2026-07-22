@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit01_introduire-camus.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_introduire-camus.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit01_introduire-camus.html"
 ---
 
 {{< callout type="note" >}}

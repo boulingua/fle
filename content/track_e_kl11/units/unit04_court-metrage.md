@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit04_court-metrage.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_court-metrage.png"
+tags:
+  - filiere-e
+  - classe-11
+  - niveau-e
+aliases:
+  - "/track_e_kl11/units/unit04_court-metrage.html"
 ---
 
 {{< callout type="note" >}}

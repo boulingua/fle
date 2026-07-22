@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit06_les-transports.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_les-transports.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit06_les-transports.html"
 ---
 
 {{< callout type="note" >}}

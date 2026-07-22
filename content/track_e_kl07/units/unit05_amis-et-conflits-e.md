@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit05_amis-et-conflits-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_amis-et-conflits-e.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit05_amis-et-conflits-e.html"
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit01_ecrire-sur-soi.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_ecrire-sur-soi.png"
+tags:
+  - filiere-e
+  - classe-11
+  - niveau-e
+aliases:
+  - "/track_e_kl11/units/unit01_ecrire-sur-soi.html"
 ---
 
 {{< callout type="note" >}}

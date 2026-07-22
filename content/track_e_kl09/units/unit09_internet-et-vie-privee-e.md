@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit09_internet-et-vie-privee-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_internet-et-vie-privee-e.png"
+tags:
+  - filiere-e
+  - classe-9
+  - niveau-e
+aliases:
+  - "/track_e_kl09/units/unit09_internet-et-vie-privee-e.html"
 ---
 
 {{< callout type="note" >}}

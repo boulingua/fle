@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit01_le-monde-du-travail.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_le-monde-du-travail.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit01_le-monde-du-travail.html"
 ---
 
 {{< callout type="note" >}}

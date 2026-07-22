@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit03_vie-democratique-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_vie-democratique-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit03_vie-democratique-e.html"
 ---
 
 {{< callout type="note" >}}

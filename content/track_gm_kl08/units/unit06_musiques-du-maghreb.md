@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit06_musiques-du-maghreb.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_musiques-du-maghreb.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit06_musiques-du-maghreb.html"
 ---
 
 {{< callout type="note" >}}

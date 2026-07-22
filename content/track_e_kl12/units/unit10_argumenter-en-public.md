@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit10_argumenter-en-public.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_argumenter-en-public.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit10_argumenter-en-public.html"
 ---
 
 {{< callout type="note" >}}

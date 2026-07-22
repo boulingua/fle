@@ -17,6 +17,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit06_mediation-avancee-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_mediation-avancee-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit06_mediation-avancee-e.html"
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit03_ecologie-au-quotidien.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_ecologie-au-quotidien.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit03_ecologie-au-quotidien.html"
 ---
 
 {{< callout type="note" >}}

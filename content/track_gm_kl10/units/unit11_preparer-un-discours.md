@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit11_preparer-un-discours.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_preparer-un-discours.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
+aliases:
+  - "/track_gm_kl10/units/unit11_preparer-un-discours.html"
 ---
 
 {{< callout type="note" >}}

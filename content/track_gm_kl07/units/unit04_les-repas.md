@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit04_les-repas.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_les-repas.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit04_les-repas.html"
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit03_vie-democratique.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_vie-democratique.png"
+tags:
+  - filiere-gm
+  - classe-10
+  - niveau-m
+aliases:
+  - "/track_gm_kl10/units/unit03_vie-democratique.html"
 ---
 
 {{< callout type="note" >}}

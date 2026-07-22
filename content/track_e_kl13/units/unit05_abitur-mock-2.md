@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit05_abitur-mock-2.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_abitur-mock-2.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
+aliases:
+  - "/track_e_kl13/units/unit05_abitur-mock-2.html"
 ---
 
 {{< callout type="note" >}}

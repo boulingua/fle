@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit02_francophonie-pluralite.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_francophonie-pluralite.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
+aliases:
+  - "/track_e_kl13/units/unit02_francophonie-pluralite.html"
 ---
 
 {{< callout type="note" >}}

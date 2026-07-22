@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit02_correspondance-avec-montreal-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_correspondance-avec-montreal-e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit02_correspondance-avec-montreal-e.html"
 ---
 
 {{< callout type="note" >}}

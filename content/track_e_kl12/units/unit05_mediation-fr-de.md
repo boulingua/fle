@@ -17,6 +17,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit05_mediation-fr-de.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_mediation-fr-de.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit05_mediation-fr-de.html"
 ---
 
 {{< callout type="note" >}}

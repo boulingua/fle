@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit07_engagement-citoyen-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_engagement-citoyen-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit07_engagement-citoyen-e.html"
 ---
 
 {{< callout type="note" >}}

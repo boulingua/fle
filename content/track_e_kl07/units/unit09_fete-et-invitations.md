@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit09_fete-et-invitations.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_fete-et-invitations.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit09_fete-et-invitations.html"
 ---
 
 {{< callout type="note" >}}

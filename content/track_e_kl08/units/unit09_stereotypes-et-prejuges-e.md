@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit09_stereotypes-et-prejuges-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_stereotypes-et-prejuges-e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit09_stereotypes-et-prejuges-e.html"
 ---
 
 {{< callout type="note" >}}

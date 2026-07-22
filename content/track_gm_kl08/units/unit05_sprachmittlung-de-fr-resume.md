@@ -18,6 +18,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume.html"
 ---
 
 {{< callout type="note" >}}

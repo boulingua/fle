@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-12e.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-12e.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit12_bilan-12e.html"
 ---
 
 {{< callout type="note" >}}

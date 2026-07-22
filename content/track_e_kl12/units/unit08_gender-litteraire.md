@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit08_gender-litteraire.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_gender-litteraire.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit08_gender-litteraire.html"
 ---
 
 {{< callout type="note" >}}

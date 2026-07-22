@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit11_mediation-de-base.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_mediation-de-base.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit11_mediation-de-base.html"
 ---
 
 {{< callout type="note" >}}

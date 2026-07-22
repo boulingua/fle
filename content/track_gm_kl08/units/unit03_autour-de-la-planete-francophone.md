@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit03_autour-de-la-planete-francophone.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_autour-de-la-planete-francophone.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit03_autour-de-la-planete-francophone.html"
 ---
 
 {{< callout type="note" >}}

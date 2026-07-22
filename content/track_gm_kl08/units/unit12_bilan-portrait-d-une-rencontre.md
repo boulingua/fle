@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre.html"
 ---
 
 {{< callout type="note" >}}

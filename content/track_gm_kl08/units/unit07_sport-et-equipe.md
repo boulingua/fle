@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit07_sport-et-equipe.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_sport-et-equipe.png"
+tags:
+  - filiere-gm
+  - classe-8
+  - niveau-m
+aliases:
+  - "/track_gm_kl08/units/unit07_sport-et-equipe.html"
 ---
 
 {{< callout type="note" >}}

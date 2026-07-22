@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit06_au-marche-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_au-marche-e.png"
+tags:
+  - filiere-e
+  - classe-6
+  - niveau-e
+aliases:
+  - "/track_e_kl06/units/unit06_au-marche-e.html"
 ---
 
 {{< callout type="note" >}}

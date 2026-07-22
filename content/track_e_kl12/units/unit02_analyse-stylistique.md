@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit02_analyse-stylistique.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_analyse-stylistique.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit02_analyse-stylistique.html"
 ---
 
 {{< callout type="note" >}}

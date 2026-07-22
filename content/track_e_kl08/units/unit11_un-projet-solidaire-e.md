@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit11_un-projet-solidaire-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_un-projet-solidaire-e.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit11_un-projet-solidaire-e.html"
 ---
 
 {{< callout type="note" >}}

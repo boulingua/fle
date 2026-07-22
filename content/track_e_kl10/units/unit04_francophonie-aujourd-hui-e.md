@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit04_francophonie-aujourd-hui-e.html"
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit06_transports-et-mobilite.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_transports-et-mobilite.png"
+tags:
+  - filiere-e
+  - classe-7
+  - niveau-e
+aliases:
+  - "/track_e_kl07/units/unit06_transports-et-mobilite.html"
 ---
 
 {{< callout type="note" >}}

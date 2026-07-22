@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit08_premiere-poesie.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_premiere-poesie.png"
+tags:
+  - filiere-e
+  - classe-6
+  - niveau-e
+aliases:
+  - "/track_e_kl06/units/unit08_premiere-poesie.html"
 ---
 
 {{< callout type="note" >}}

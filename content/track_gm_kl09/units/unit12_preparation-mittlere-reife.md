@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit12_preparation-mittlere-reife.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_preparation-mittlere-reife.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit12_preparation-mittlere-reife.html"
 ---
 
 {{< callout type="note" >}}

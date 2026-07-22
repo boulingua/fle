@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit09_monologue-et-presentation.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_monologue-et-presentation.png"
+tags:
+  - filiere-e
+  - classe-13
+  - niveau-e
+aliases:
+  - "/track_e_kl13/units/unit09_monologue-et-presentation.html"
 ---
 
 {{< callout type="note" >}}

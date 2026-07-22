@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-annee.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-annee.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee.html"
 ---
 
 {{< callout type="note" >}}

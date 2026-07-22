@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit06_argumentation-structuree.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_argumentation-structuree.png"
+tags:
+  - filiere-e
+  - classe-11
+  - niveau-e
+aliases:
+  - "/track_e_kl11/units/unit06_argumentation-structuree.html"
 ---
 
 {{< callout type="note" >}}

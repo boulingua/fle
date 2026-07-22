@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit09_fete-d-anniversaire.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_fete-d-anniversaire.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit09_fete-d-anniversaire.html"
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit04_argumenter-pour-contre.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_argumenter-pour-contre.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit04_argumenter-pour-contre.html"
 ---
 
 {{< callout type="note" >}}

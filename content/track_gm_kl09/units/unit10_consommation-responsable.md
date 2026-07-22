@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit10_consommation-responsable.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_consommation-responsable.png"
+tags:
+  - filiere-gm
+  - classe-9
+  - niveau-m
+aliases:
+  - "/track_gm_kl09/units/unit10_consommation-responsable.html"
 ---
 
 {{< callout type="note" >}}

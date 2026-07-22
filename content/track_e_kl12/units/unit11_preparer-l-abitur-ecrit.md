@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit11_preparer-l-abitur-ecrit.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_preparer-l-abitur-ecrit.png"
+tags:
+  - filiere-e
+  - classe-12
+  - niveau-e
+aliases:
+  - "/track_e_kl12/units/unit11_preparer-l-abitur-ecrit.html"
 ---
 
 {{< callout type="note" >}}

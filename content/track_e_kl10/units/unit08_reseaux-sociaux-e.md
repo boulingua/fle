@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit08_reseaux-sociaux-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_reseaux-sociaux-e.png"
+tags:
+  - filiere-e
+  - classe-10
+  - niveau-e
+aliases:
+  - "/track_e_kl10/units/unit08_reseaux-sociaux-e.html"
 ---
 
 {{< callout type="note" >}}

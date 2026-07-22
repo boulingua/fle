@@ -17,6 +17,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit06_podcasts-en-francais-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_podcasts-en-francais-e.png"
+tags:
+  - filiere-e
+  - classe-9
+  - niveau-e
+aliases:
+  - "/track_e_kl09/units/unit06_podcasts-en-francais-e.html"
 ---
 
 {{< callout type="note" >}}

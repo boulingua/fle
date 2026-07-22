@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit11_voyage-en-france.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_voyage-en-france.png"
+tags:
+  - filiere-gm
+  - classe-6
+  - niveau-m
+aliases:
+  - "/track_gm_kl06/units/unit11_voyage-en-france.html"
 ---
 
 {{< callout type="note" >}}

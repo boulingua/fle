@@ -20,6 +20,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit03_mon-quartier.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-quartier.png"
+tags:
+  - filiere-gm
+  - classe-7
+  - niveau-m
+aliases:
+  - "/track_gm_kl07/units/unit03_mon-quartier.html"
 ---
 
 {{< callout type="note" >}}

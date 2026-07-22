@@ -19,6 +19,12 @@ presentation:
 worksheet:
   file: "/fle/materials/worksheets/unit07_champs-de-bataille.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_champs-de-bataille.png"
+tags:
+  - filiere-e
+  - classe-8
+  - niveau-e
+aliases:
+  - "/track_e_kl08/units/unit07_champs-de-bataille.html"
 ---
 
 {{< callout type="note" >}}

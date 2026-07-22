@@ -1,0 +1,6 @@
+{{/* VG Wort counting pixel (body copy) — emitted for EVERY page whose shared
+     resolver (_partials/vgwort/url.html) returns a Zählmarke URL, regardless of
+     which single/list/section template rendered the page. Paired with the
+     <head> rel=preload in head/extensions.html. Baseof calls this on every
+     page, so coverage never depends on a specific template. */}}
+{{ partial "vgwort.html" . }}

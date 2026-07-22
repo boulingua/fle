@@ -1,0 +1,16 @@
+# VG Wort Zählmarken registry — boulingua/fle (data-file entries).
+# Per-unit marks live in front matter (vgwort_pixel:); these entries
+# cover editorial pages (filière overviews) matched by url. The shared
+# resolver _partials/vgwort/url.html reads both.
+- url: /filiere-e/
+  public_id: 1c920712b1ac4286bba3826a4c410537
+  pixel_url: https://vg09.met.vgwort.de/na/1c920712b1ac4286bba3826a4c410537
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: '2026-07-22'
+- url: /filiere-gm/
+  public_id: 1ca3800adb624d47809df648bd176f6b
+  pixel_url: https://vg09.met.vgwort.de/na/1ca3800adb624d47809df648bd176f6b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: '2026-07-22'

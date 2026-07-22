@@ -3,3 +3,12 @@
 <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
 <script defer data-domain="boulingua.github.io/fle" src="https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js"></script>
 <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+{{- /* VG Wort Zählmarke preload — fires the counting request during <head>
+       parsing, before the body renders: the pixel loads immediately on page
+       open, with no lazy-loading and no scroll to the foot of the page. The
+       author's statutory remuneration must not be restricted by any user
+       setting, so this is an unconditional static resource hint (no JS, no
+       cookie/consent gate). Same resolver as the body <img>, so they agree. */ -}}
+{{- with (partial "vgwort/url.html" .) }}
+<link rel="preload" as="image" href="{{ . | safeURL }}" fetchpriority="high">
+{{- end }}

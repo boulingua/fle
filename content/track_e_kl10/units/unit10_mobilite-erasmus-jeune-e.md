@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2369166e6e5040b2a16f0a6d67bf2448"
 presentation:
-  file: "/fle/materials/presentations/unit10_mobilite-erasmus-jeune-e.odp"
+  file: "/fle/materials/presentations/unit10_mobilite-erasmus-jeune-e.pdf"
   thumbnail: "/fle/materials/presentations/unit10_mobilite-erasmus-jeune-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune-e.png"
-tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
-aliases:
-  - "/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e.html"
 ---
 
 {{< callout type="note" >}}

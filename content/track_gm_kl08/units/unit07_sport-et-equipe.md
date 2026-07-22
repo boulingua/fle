@@ -14,17 +14,11 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d10b580ba1a44a99cd1c11075084176"
 presentation:
-  file: "/fle/materials/presentations/unit07_sport-et-equipe.odp"
+  file: "/fle/materials/presentations/unit07_sport-et-equipe.pdf"
   thumbnail: "/fle/materials/presentations/unit07_sport-et-equipe.png"
 worksheet:
   file: "/fle/materials/worksheets/unit07_sport-et-equipe.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_sport-et-equipe.png"
-tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
-aliases:
-  - "/track_gm_kl08/units/unit07_sport-et-equipe.html"
 ---
 
 {{< callout type="note" >}}

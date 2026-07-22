@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2261f15b84f2431891aa92863c4ffe23"
 presentation:
-  file: "/fle/materials/presentations/unit12_bilan-9e-e.odp"
+  file: "/fle/materials/presentations/unit12_bilan-9e-e.pdf"
   thumbnail: "/fle/materials/presentations/unit12_bilan-9e-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-9e-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-9e-e.png"
-tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
-aliases:
-  - "/track_e_kl09/units/unit12_bilan-9e-e.html"
 ---
 
 {{< callout type="note" >}}

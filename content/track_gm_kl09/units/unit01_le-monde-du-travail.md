@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d9efd254a624164a84cbf62d12a81c3"
 presentation:
-  file: "/fle/materials/presentations/unit01_le-monde-du-travail.odp"
+  file: "/fle/materials/presentations/unit01_le-monde-du-travail.pdf"
   thumbnail: "/fle/materials/presentations/unit01_le-monde-du-travail.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_le-monde-du-travail.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_le-monde-du-travail.png"
-tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
-aliases:
-  - "/track_gm_kl09/units/unit01_le-monde-du-travail.html"
 ---
 
 {{< callout type="note" >}}

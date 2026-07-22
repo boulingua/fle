@@ -14,17 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2fe6a666eed842b5b9d4c8411d12bca3"
 presentation:
-  file: "/fle/materials/presentations/unit09_litterature-de-jeunesse.odp"
+  file: "/fle/materials/presentations/unit09_litterature-de-jeunesse.pdf"
   thumbnail: "/fle/materials/presentations/unit09_litterature-de-jeunesse.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_litterature-de-jeunesse.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_litterature-de-jeunesse.png"
-tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
-aliases:
-  - "/track_gm_kl10/units/unit09_litterature-de-jeunesse.html"
 ---
 
 {{< callout type="note" >}}

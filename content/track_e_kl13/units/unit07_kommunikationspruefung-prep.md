@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2821fac53ec445558fb057d57318b531"
 presentation:
-  file: "/fle/materials/presentations/unit07_kommunikationspruefung-prep.odp"
+  file: "/fle/materials/presentations/unit07_kommunikationspruefung-prep.pdf"
   thumbnail: "/fle/materials/presentations/unit07_kommunikationspruefung-prep.png"
 worksheet:
   file: "/fle/materials/worksheets/unit07_kommunikationspruefung-prep.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_kommunikationspruefung-prep.png"
-tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
-aliases:
-  - "/track_e_kl13/units/unit07_kommunikationspruefung-prep.html"
 ---
 
 {{< callout type="note" >}}

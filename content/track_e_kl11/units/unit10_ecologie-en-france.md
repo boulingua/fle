@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24d65356ca5c4a9cb8e69931c102e475"
 presentation:
-  file: "/fle/materials/presentations/unit10_ecologie-en-france.odp"
+  file: "/fle/materials/presentations/unit10_ecologie-en-france.pdf"
   thumbnail: "/fle/materials/presentations/unit10_ecologie-en-france.png"
 worksheet:
   file: "/fle/materials/worksheets/unit10_ecologie-en-france.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_ecologie-en-france.png"
-tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
-aliases:
-  - "/track_e_kl11/units/unit10_ecologie-en-france.html"
 ---
 
 {{< callout type="note" >}}

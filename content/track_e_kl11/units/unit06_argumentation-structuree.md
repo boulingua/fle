@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24667e913e7041b598a105d378da2365"
 presentation:
-  file: "/fle/materials/presentations/unit06_argumentation-structuree.odp"
+  file: "/fle/materials/presentations/unit06_argumentation-structuree.pdf"
   thumbnail: "/fle/materials/presentations/unit06_argumentation-structuree.png"
 worksheet:
   file: "/fle/materials/worksheets/unit06_argumentation-structuree.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_argumentation-structuree.png"
-tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
-aliases:
-  - "/track_e_kl11/units/unit06_argumentation-structuree.html"
 ---
 
 {{< callout type="note" >}}

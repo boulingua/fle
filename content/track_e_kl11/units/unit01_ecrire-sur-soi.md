@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23bb137c55914bc7b00964ee1179a29a"
 presentation:
-  file: "/fle/materials/presentations/unit01_ecrire-sur-soi.odp"
+  file: "/fle/materials/presentations/unit01_ecrire-sur-soi.pdf"
   thumbnail: "/fle/materials/presentations/unit01_ecrire-sur-soi.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_ecrire-sur-soi.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_ecrire-sur-soi.png"
-tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
-aliases:
-  - "/track_e_kl11/units/unit01_ecrire-sur-soi.html"
 ---
 
 {{< callout type="note" >}}

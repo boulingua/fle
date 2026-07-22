@@ -14,17 +14,11 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20b8b29e7abd41beaf4ed4ba8e1a8688"
 presentation:
-  file: "/fle/materials/presentations/unit03_ecologie-au-quotidien-e.odp"
+  file: "/fle/materials/presentations/unit03_ecologie-au-quotidien-e.pdf"
   thumbnail: "/fle/materials/presentations/unit03_ecologie-au-quotidien-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit03_ecologie-au-quotidien-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_ecologie-au-quotidien-e.png"
-tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
-aliases:
-  - "/track_e_kl09/units/unit03_ecologie-au-quotidien-e.html"
 ---
 
 {{< callout type="note" >}}

@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1c257801ac4440bc94f961eeb455e0cc"
 presentation:
-  file: "/fle/materials/presentations/unit03_mon-college-e.odp"
+  file: "/fle/materials/presentations/unit03_mon-college-e.pdf"
   thumbnail: "/fle/materials/presentations/unit03_mon-college-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit03_mon-college-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-college-e.png"
-tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
-aliases:
-  - "/track_e_kl06/units/unit03_mon-college-e.html"
 ---
 
 {{< callout type="note" >}}

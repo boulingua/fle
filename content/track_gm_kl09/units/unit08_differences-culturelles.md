@@ -14,17 +14,11 @@ skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e9ba058210c47a5afdece47bf49fe84"
 presentation:
-  file: "/fle/materials/presentations/unit08_differences-culturelles.odp"
+  file: "/fle/materials/presentations/unit08_differences-culturelles.pdf"
   thumbnail: "/fle/materials/presentations/unit08_differences-culturelles.png"
 worksheet:
   file: "/fle/materials/worksheets/unit08_differences-culturelles.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_differences-culturelles.png"
-tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
-aliases:
-  - "/track_gm_kl09/units/unit08_differences-culturelles.html"
 ---
 
 {{< callout type="note" >}}

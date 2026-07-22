@@ -81,14 +81,17 @@ jobs:
             echo "Exam PDFs rendered and staged."
           fi
 
-      - name: Generate worksheet placeholders (existing pipeline)
-        continue-on-error: true
+      - name: Materials — committed branded PDFs (slidegen/sheetgen)
+        # Per-unit decks + worksheets are branded PDFs generated from each
+        # unit's own content by _scripts/build_materials_latex.py (XeLaTeX,
+        # boulingua design: French accent + pentagon mark + watermark) and
+        # committed under static/materials/. The old placeholder-worksheet /
+        # .odp pipeline is retired. To regenerate locally:
+        #   python _scripts/build_materials_latex.py
         run: |
-          if [ -f _scripts/make_placeholder_worksheets.py ]; then
-            python _scripts/make_placeholder_worksheets.py
-          else
-            echo "make_placeholder_worksheets.py not present — skipping."
-          fi
+          echo "Using committed branded materials under static/materials/"
+          ls static/materials/presentations/*.pdf | wc -l
+          ls static/materials/worksheets/*.pdf | wc -l
 
       # ── Materials Discovery Network: build graph.json + run CI gates.
       # Fails the build on:

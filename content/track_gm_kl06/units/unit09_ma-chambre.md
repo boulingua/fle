@@ -15,17 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a23cd8ecdf04b5da01b398d69ef43e2"
 presentation:
-  file: "/fle/materials/presentations/unit09_ma-chambre.odp"
+  file: "/fle/materials/presentations/unit09_ma-chambre.pdf"
   thumbnail: "/fle/materials/presentations/unit09_ma-chambre.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_ma-chambre.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_ma-chambre.png"
-tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
-aliases:
-  - "/track_gm_kl06/units/unit09_ma-chambre.html"
 ---
 
 {{< callout type="note" >}}

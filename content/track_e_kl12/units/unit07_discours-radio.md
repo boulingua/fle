@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/266cd8bbbc3541d68348ad5f22fa22e8"
 presentation:
-  file: "/fle/materials/presentations/unit07_discours-radio.odp"
+  file: "/fle/materials/presentations/unit07_discours-radio.pdf"
   thumbnail: "/fle/materials/presentations/unit07_discours-radio.png"
 worksheet:
   file: "/fle/materials/worksheets/unit07_discours-radio.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_discours-radio.png"
-tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
-aliases:
-  - "/track_e_kl12/units/unit07_discours-radio.html"
 ---
 
 {{< callout type="note" >}}

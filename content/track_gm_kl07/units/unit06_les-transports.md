@@ -14,17 +14,11 @@ skills_focus:
   - wortschatz
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b8a7685d2174a05850e9e597fd5c4e9"
 presentation:
-  file: "/fle/materials/presentations/unit06_les-transports.odp"
+  file: "/fle/materials/presentations/unit06_les-transports.pdf"
   thumbnail: "/fle/materials/presentations/unit06_les-transports.png"
 worksheet:
   file: "/fle/materials/worksheets/unit06_les-transports.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_les-transports.png"
-tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
-aliases:
-  - "/track_gm_kl07/units/unit06_les-transports.html"
 ---
 
 {{< callout type="note" >}}

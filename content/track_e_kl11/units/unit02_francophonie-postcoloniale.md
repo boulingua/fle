@@ -14,17 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23c1f60ff5304f6994a8e23f1ce1853d"
 presentation:
-  file: "/fle/materials/presentations/unit02_francophonie-postcoloniale.odp"
+  file: "/fle/materials/presentations/unit02_francophonie-postcoloniale.pdf"
   thumbnail: "/fle/materials/presentations/unit02_francophonie-postcoloniale.png"
 worksheet:
   file: "/fle/materials/worksheets/unit02_francophonie-postcoloniale.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_francophonie-postcoloniale.png"
-tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
-aliases:
-  - "/track_e_kl11/units/unit02_francophonie-postcoloniale.html"
 ---
 
 {{< callout type="note" >}}

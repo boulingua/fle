@@ -15,17 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2988551bd0a0448ea944a90fd9ef1094"
 presentation:
-  file: "/fle/materials/presentations/unit07_le-temps-et-l-heure.odp"
+  file: "/fle/materials/presentations/unit07_le-temps-et-l-heure.pdf"
   thumbnail: "/fle/materials/presentations/unit07_le-temps-et-l-heure.png"
 worksheet:
   file: "/fle/materials/worksheets/unit07_le-temps-et-l-heure.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_le-temps-et-l-heure.png"
-tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
-aliases:
-  - "/track_gm_kl06/units/unit07_le-temps-et-l-heure.html"
 ---
 
 {{< callout type="note" >}}

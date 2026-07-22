@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/239e2e3de4544e8f9c244e8b18affaa9"
 presentation:
-  file: "/fle/materials/presentations/unit11_preparer-un-discours-e.odp"
+  file: "/fle/materials/presentations/unit11_preparer-un-discours-e.pdf"
   thumbnail: "/fle/materials/presentations/unit11_preparer-un-discours-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit11_preparer-un-discours-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_preparer-un-discours-e.png"
-tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
-aliases:
-  - "/track_e_kl10/units/unit11_preparer-un-discours-e.html"
 ---
 
 {{< callout type="note" >}}

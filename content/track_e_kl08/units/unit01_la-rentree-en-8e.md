@@ -12,17 +12,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1f64fbf604164eb78769d718a93df8f8"
 presentation:
-  file: "/fle/materials/presentations/unit01_la-rentree-en-8e.odp"
+  file: "/fle/materials/presentations/unit01_la-rentree-en-8e.pdf"
   thumbnail: "/fle/materials/presentations/unit01_la-rentree-en-8e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_la-rentree-en-8e.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_la-rentree-en-8e.png"
-tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
-aliases:
-  - "/track_e_kl08/units/unit01_la-rentree-en-8e.html"
 ---
 
 {{< callout type="note" >}}

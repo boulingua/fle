@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c10613c65aa4895bc293d8c5732bf18"
 presentation:
-  file: "/fle/materials/presentations/unit11_mediation-de-base.odp"
+  file: "/fle/materials/presentations/unit11_mediation-de-base.pdf"
   thumbnail: "/fle/materials/presentations/unit11_mediation-de-base.png"
 worksheet:
   file: "/fle/materials/worksheets/unit11_mediation-de-base.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_mediation-de-base.png"
-tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
-aliases:
-  - "/track_gm_kl07/units/unit11_mediation-de-base.html"
 ---
 
 {{< callout type="note" >}}

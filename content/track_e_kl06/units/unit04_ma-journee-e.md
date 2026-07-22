@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1c490128d14a4f5e8d06ba951157f3f8"
 presentation:
-  file: "/fle/materials/presentations/unit04_ma-journee-e.odp"
+  file: "/fle/materials/presentations/unit04_ma-journee-e.pdf"
   thumbnail: "/fle/materials/presentations/unit04_ma-journee-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit04_ma-journee-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_ma-journee-e.png"
-tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
-aliases:
-  - "/track_e_kl06/units/unit04_ma-journee-e.html"
 ---
 
 {{< callout type="note" >}}

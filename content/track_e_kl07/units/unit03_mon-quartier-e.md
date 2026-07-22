@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1dd06671a56d426e9b24d4abbb7b52b9"
 presentation:
-  file: "/fle/materials/presentations/unit03_mon-quartier-e.odp"
+  file: "/fle/materials/presentations/unit03_mon-quartier-e.pdf"
   thumbnail: "/fle/materials/presentations/unit03_mon-quartier-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit03_mon-quartier-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-quartier-e.png"
-tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
-aliases:
-  - "/track_e_kl07/units/unit03_mon-quartier-e.html"
 ---
 
 {{< callout type="note" >}}

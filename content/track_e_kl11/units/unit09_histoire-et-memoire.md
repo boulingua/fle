@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24ad0cc701b249cda11083ad944267e7"
 presentation:
-  file: "/fle/materials/presentations/unit09_histoire-et-memoire.odp"
+  file: "/fle/materials/presentations/unit09_histoire-et-memoire.pdf"
   thumbnail: "/fle/materials/presentations/unit09_histoire-et-memoire.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_histoire-et-memoire.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_histoire-et-memoire.png"
-tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
-aliases:
-  - "/track_e_kl11/units/unit09_histoire-et-memoire.html"
 ---
 
 {{< callout type="note" >}}

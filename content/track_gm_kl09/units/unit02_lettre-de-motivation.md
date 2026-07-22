@@ -12,17 +12,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2de1880116d94255b076daf9c43b40d6"
 presentation:
-  file: "/fle/materials/presentations/unit02_lettre-de-motivation.odp"
+  file: "/fle/materials/presentations/unit02_lettre-de-motivation.pdf"
   thumbnail: "/fle/materials/presentations/unit02_lettre-de-motivation.png"
 worksheet:
   file: "/fle/materials/worksheets/unit02_lettre-de-motivation.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_lettre-de-motivation.png"
-tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
-aliases:
-  - "/track_gm_kl09/units/unit02_lettre-de-motivation.html"
 ---
 
 {{< callout type="note" >}}

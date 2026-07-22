@@ -15,17 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28e22e581a474399ac126de180fd6101"
 presentation:
-  file: "/fle/materials/presentations/unit03_mon-ecole.odp"
+  file: "/fle/materials/presentations/unit03_mon-ecole.pdf"
   thumbnail: "/fle/materials/presentations/unit03_mon-ecole.png"
 worksheet:
   file: "/fle/materials/worksheets/unit03_mon-ecole.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-ecole.png"
-tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
-aliases:
-  - "/track_gm_kl06/units/unit03_mon-ecole.html"
 ---
 
 {{< callout type="note" >}}

@@ -14,17 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f5770bd0de140369701d47b52e631de"
 presentation:
-  file: "/fle/materials/presentations/unit02_presse-francaise.odp"
+  file: "/fle/materials/presentations/unit02_presse-francaise.pdf"
   thumbnail: "/fle/materials/presentations/unit02_presse-francaise.png"
 worksheet:
   file: "/fle/materials/worksheets/unit02_presse-francaise.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_presse-francaise.png"
-tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
-aliases:
-  - "/track_gm_kl10/units/unit02_presse-francaise.html"
 ---
 
 {{< callout type="note" >}}

@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/289e5a33ab96403fab2e00f9d5a08cc0"
 presentation:
-  file: "/fle/materials/presentations/unit12_bilan-final-abitur.odp"
+  file: "/fle/materials/presentations/unit12_bilan-final-abitur.pdf"
   thumbnail: "/fle/materials/presentations/unit12_bilan-final-abitur.png"
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-final-abitur.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-final-abitur.png"
-tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
-aliases:
-  - "/track_e_kl13/units/unit12_bilan-final-abitur.html"
 ---
 
 {{< callout type="note" >}}

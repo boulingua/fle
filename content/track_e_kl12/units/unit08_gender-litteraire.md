@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2677307697db44998cb51381d4dabeff"
 presentation:
-  file: "/fle/materials/presentations/unit08_gender-litteraire.odp"
+  file: "/fle/materials/presentations/unit08_gender-litteraire.pdf"
   thumbnail: "/fle/materials/presentations/unit08_gender-litteraire.png"
 worksheet:
   file: "/fle/materials/worksheets/unit08_gender-litteraire.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_gender-litteraire.png"
-tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
-aliases:
-  - "/track_e_kl12/units/unit08_gender-litteraire.html"
 ---
 
 {{< callout type="note" >}}

@@ -15,17 +15,11 @@ skills_focus:
   - interkulturelle_kompetenz
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2bb3df2b8c1b4ecba14ef33dc51c40a0"
 presentation:
-  file: "/fle/materials/presentations/unit08_le-quebec.odp"
+  file: "/fle/materials/presentations/unit08_le-quebec.pdf"
   thumbnail: "/fle/materials/presentations/unit08_le-quebec.png"
 worksheet:
   file: "/fle/materials/worksheets/unit08_le-quebec.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_le-quebec.png"
-tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
-aliases:
-  - "/track_gm_kl07/units/unit08_le-quebec.html"
 ---
 
 {{< callout type="note" >}}

@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1c9ad1b4184c402aac2bd735f7b04be8"
 presentation:
-  file: "/fle/materials/presentations/unit05_gouts-et-couleurs.odp"
+  file: "/fle/materials/presentations/unit05_gouts-et-couleurs.pdf"
   thumbnail: "/fle/materials/presentations/unit05_gouts-et-couleurs.png"
 worksheet:
   file: "/fle/materials/worksheets/unit05_gouts-et-couleurs.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_gouts-et-couleurs.png"
-tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
-aliases:
-  - "/track_e_kl06/units/unit05_gouts-et-couleurs.html"
 ---
 
 {{< callout type="note" >}}

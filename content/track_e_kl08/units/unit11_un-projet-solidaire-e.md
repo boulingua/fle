@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/204a2fc573064e68bd8aaa21bd195f99"
 presentation:
-  file: "/fle/materials/presentations/unit11_un-projet-solidaire-e.odp"
+  file: "/fle/materials/presentations/unit11_un-projet-solidaire-e.pdf"
   thumbnail: "/fle/materials/presentations/unit11_un-projet-solidaire-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit11_un-projet-solidaire-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_un-projet-solidaire-e.png"
-tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
-aliases:
-  - "/track_e_kl08/units/unit11_un-projet-solidaire-e.html"
 ---
 
 {{< callout type="note" >}}

@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/29422f90ffb340368e6ae261d3803471"
 presentation:
-  file: "/fle/materials/presentations/unit06_au-marche.odp"
+  file: "/fle/materials/presentations/unit06_au-marche.pdf"
   thumbnail: "/fle/materials/presentations/unit06_au-marche.png"
 worksheet:
   file: "/fle/materials/worksheets/unit06_au-marche.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_au-marche.png"
-tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
-aliases:
-  - "/track_gm_kl06/units/unit06_au-marche.html"
 ---
 
 {{< callout type="note" >}}

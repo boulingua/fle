@@ -14,17 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26a515dd09f9470e924102811aeb3cb5"
 presentation:
-  file: "/fle/materials/presentations/unit09_memoire-et-traumatisme.odp"
+  file: "/fle/materials/presentations/unit09_memoire-et-traumatisme.pdf"
   thumbnail: "/fle/materials/presentations/unit09_memoire-et-traumatisme.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_memoire-et-traumatisme.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_memoire-et-traumatisme.png"
-tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
-aliases:
-  - "/track_e_kl12/units/unit09_memoire-et-traumatisme.html"
 ---
 
 {{< callout type="note" >}}

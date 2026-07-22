@@ -13,17 +13,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28c51b14611d4eb7aadb04eecf7f10ea"
 presentation:
-  file: "/fle/materials/presentations/unit01_salutations-et-prenoms.odp"
+  file: "/fle/materials/presentations/unit01_salutations-et-prenoms.pdf"
   thumbnail: "/fle/materials/presentations/unit01_salutations-et-prenoms.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_salutations-et-prenoms.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_salutations-et-prenoms.png"
-tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
-aliases:
-  - "/track_gm_kl06/units/unit01_salutations-et-prenoms.html"
 ---
 
 {{< callout type="note" >}}

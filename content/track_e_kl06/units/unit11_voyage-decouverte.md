@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1d1eeb688d16475ab442f3cf2df51729"
 presentation:
-  file: "/fle/materials/presentations/unit11_voyage-decouverte.odp"
+  file: "/fle/materials/presentations/unit11_voyage-decouverte.pdf"
   thumbnail: "/fle/materials/presentations/unit11_voyage-decouverte.png"
 worksheet:
   file: "/fle/materials/worksheets/unit11_voyage-decouverte.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_voyage-decouverte.png"
-tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
-aliases:
-  - "/track_e_kl06/units/unit11_voyage-decouverte.html"
 ---
 
 {{< callout type="note" >}}

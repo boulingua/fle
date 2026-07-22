@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2010eb80921e4d91855aa088c9666d7a"
 presentation:
-  file: "/fle/materials/presentations/unit09_stereotypes-et-prejuges-e.odp"
+  file: "/fle/materials/presentations/unit09_stereotypes-et-prejuges-e.pdf"
   thumbnail: "/fle/materials/presentations/unit09_stereotypes-et-prejuges-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_stereotypes-et-prejuges-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_stereotypes-et-prejuges-e.png"
-tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
-aliases:
-  - "/track_e_kl08/units/unit09_stereotypes-et-prejuges-e.html"
 ---
 
 {{< callout type="note" >}}

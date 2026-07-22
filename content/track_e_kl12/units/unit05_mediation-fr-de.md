@@ -12,17 +12,11 @@ skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2623e5dfbbf14a188a39e25749b7805c"
 presentation:
-  file: "/fle/materials/presentations/unit05_mediation-fr-de.odp"
+  file: "/fle/materials/presentations/unit05_mediation-fr-de.pdf"
   thumbnail: "/fle/materials/presentations/unit05_mediation-fr-de.png"
 worksheet:
   file: "/fle/materials/worksheets/unit05_mediation-fr-de.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_mediation-fr-de.png"
-tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
-aliases:
-  - "/track_e_kl12/units/unit05_mediation-fr-de.html"
 ---
 
 {{< callout type="note" >}}

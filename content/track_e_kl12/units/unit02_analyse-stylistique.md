@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/25cfae4a90814f878f65052554b61b1d"
 presentation:
-  file: "/fle/materials/presentations/unit02_analyse-stylistique.odp"
+  file: "/fle/materials/presentations/unit02_analyse-stylistique.pdf"
   thumbnail: "/fle/materials/presentations/unit02_analyse-stylistique.png"
 worksheet:
   file: "/fle/materials/worksheets/unit02_analyse-stylistique.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_analyse-stylistique.png"
-tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
-aliases:
-  - "/track_e_kl12/units/unit02_analyse-stylistique.html"
 ---
 
 {{< callout type="note" >}}

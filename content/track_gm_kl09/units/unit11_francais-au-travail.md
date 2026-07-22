@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2eef60e9d8b54dac92ed63cde4abc105"
 presentation:
-  file: "/fle/materials/presentations/unit11_francais-au-travail.odp"
+  file: "/fle/materials/presentations/unit11_francais-au-travail.pdf"
   thumbnail: "/fle/materials/presentations/unit11_francais-au-travail.png"
 worksheet:
   file: "/fle/materials/worksheets/unit11_francais-au-travail.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_francais-au-travail.png"
-tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
-aliases:
-  - "/track_gm_kl09/units/unit11_francais-au-travail.html"
 ---
 
 {{< callout type="note" >}}

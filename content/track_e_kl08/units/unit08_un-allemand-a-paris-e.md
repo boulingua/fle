@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20050598d87c43d4a6aa0934538afbd6"
 presentation:
-  file: "/fle/materials/presentations/unit08_un-allemand-a-paris-e.odp"
+  file: "/fle/materials/presentations/unit08_un-allemand-a-paris-e.pdf"
   thumbnail: "/fle/materials/presentations/unit08_un-allemand-a-paris-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit08_un-allemand-a-paris-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_un-allemand-a-paris-e.png"
-tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
-aliases:
-  - "/track_e_kl08/units/unit08_un-allemand-a-paris-e.html"
 ---
 
 {{< callout type="note" >}}

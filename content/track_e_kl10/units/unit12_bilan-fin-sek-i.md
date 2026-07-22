@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23ac70699a38474b837e7dccc6b0e306"
 presentation:
-  file: "/fle/materials/presentations/unit12_bilan-fin-sek-i.odp"
+  file: "/fle/materials/presentations/unit12_bilan-fin-sek-i.pdf"
   thumbnail: "/fle/materials/presentations/unit12_bilan-fin-sek-i.png"
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-fin-sek-i.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-fin-sek-i.png"
-tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
-aliases:
-  - "/track_e_kl10/units/unit12_bilan-fin-sek-i.html"
 ---
 
 {{< callout type="note" >}}

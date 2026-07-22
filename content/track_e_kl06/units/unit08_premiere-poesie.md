@@ -14,17 +14,11 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1cc72e861eb34259885839f78065b5eb"
 presentation:
-  file: "/fle/materials/presentations/unit08_premiere-poesie.odp"
+  file: "/fle/materials/presentations/unit08_premiere-poesie.pdf"
   thumbnail: "/fle/materials/presentations/unit08_premiere-poesie.png"
 worksheet:
   file: "/fle/materials/worksheets/unit08_premiere-poesie.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_premiere-poesie.png"
-tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
-aliases:
-  - "/track_e_kl06/units/unit08_premiere-poesie.html"
 ---
 
 {{< callout type="note" >}}

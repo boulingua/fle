@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20fb736bae274f39b7592c310e63802b"
 presentation:
-  file: "/fle/materials/presentations/unit04_argumenter-pour-contre-e.odp"
+  file: "/fle/materials/presentations/unit04_argumenter-pour-contre-e.pdf"
   thumbnail: "/fle/materials/presentations/unit04_argumenter-pour-contre-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit04_argumenter-pour-contre-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_argumenter-pour-contre-e.png"
-tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
-aliases:
-  - "/track_e_kl09/units/unit04_argumenter-pour-contre-e.html"
 ---
 
 {{< callout type="note" >}}

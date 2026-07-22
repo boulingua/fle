@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e65d6bab63944249edff767db09f613"
 presentation:
-  file: "/fle/materials/presentations/unit09_fete-et-invitations.odp"
+  file: "/fle/materials/presentations/unit09_fete-et-invitations.pdf"
   thumbnail: "/fle/materials/presentations/unit09_fete-et-invitations.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_fete-et-invitations.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_fete-et-invitations.png"
-tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
-aliases:
-  - "/track_e_kl07/units/unit09_fete-et-invitations.html"
 ---
 
 {{< callout type="note" >}}

@@ -15,17 +15,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a7a2712c0ad45e0aaf423542cb4907c"
 presentation:
-  file: "/fle/materials/presentations/unit11_voyage-en-france.odp"
+  file: "/fle/materials/presentations/unit11_voyage-en-france.pdf"
   thumbnail: "/fle/materials/presentations/unit11_voyage-en-france.png"
 worksheet:
   file: "/fle/materials/worksheets/unit11_voyage-en-france.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_voyage-en-france.png"
-tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
-aliases:
-  - "/track_gm_kl06/units/unit11_voyage-en-france.html"
 ---
 
 {{< callout type="note" >}}

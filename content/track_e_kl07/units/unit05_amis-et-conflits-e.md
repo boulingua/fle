@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e0656248c2543458bd60879f45436e5"
 presentation:
-  file: "/fle/materials/presentations/unit05_amis-et-conflits-e.odp"
+  file: "/fle/materials/presentations/unit05_amis-et-conflits-e.pdf"
   thumbnail: "/fle/materials/presentations/unit05_amis-et-conflits-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit05_amis-et-conflits-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_amis-et-conflits-e.png"
-tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
-aliases:
-  - "/track_e_kl07/units/unit05_amis-et-conflits-e.html"
 ---
 
 {{< callout type="note" >}}

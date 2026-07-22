@@ -13,17 +13,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2ad7dcf97ba5435290d16b55875198de"
 presentation:
-  file: "/fle/materials/presentations/unit01_ma-rentree.odp"
+  file: "/fle/materials/presentations/unit01_ma-rentree.pdf"
   thumbnail: "/fle/materials/presentations/unit01_ma-rentree.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_ma-rentree.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_ma-rentree.png"
-tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
-aliases:
-  - "/track_gm_kl07/units/unit01_ma-rentree.html"
 ---
 
 {{< callout type="note" >}}

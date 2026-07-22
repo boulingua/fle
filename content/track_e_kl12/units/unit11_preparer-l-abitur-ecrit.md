@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26c3e2b4d6e64ecb8b3a2ad19ec8c12c"
 presentation:
-  file: "/fle/materials/presentations/unit11_preparer-l-abitur-ecrit.odp"
+  file: "/fle/materials/presentations/unit11_preparer-l-abitur-ecrit.pdf"
   thumbnail: "/fle/materials/presentations/unit11_preparer-l-abitur-ecrit.png"
 worksheet:
   file: "/fle/materials/worksheets/unit11_preparer-l-abitur-ecrit.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_preparer-l-abitur-ecrit.png"
-tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
-aliases:
-  - "/track_e_kl12/units/unit11_preparer-l-abitur-ecrit.html"
 ---
 
 {{< callout type="note" >}}

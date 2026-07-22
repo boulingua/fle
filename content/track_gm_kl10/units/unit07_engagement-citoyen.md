@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2fa48f05cdf24373b0601de6ecd67d0a"
 presentation:
-  file: "/fle/materials/presentations/unit07_engagement-citoyen.odp"
+  file: "/fle/materials/presentations/unit07_engagement-citoyen.pdf"
   thumbnail: "/fle/materials/presentations/unit07_engagement-citoyen.png"
 worksheet:
   file: "/fle/materials/worksheets/unit07_engagement-citoyen.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_engagement-citoyen.png"
-tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
-aliases:
-  - "/track_gm_kl10/units/unit07_engagement-citoyen.html"
 ---
 
 {{< callout type="note" >}}

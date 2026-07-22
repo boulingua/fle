@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/21cfaaabf95444a28b45212a5d5221dd"
 presentation:
-  file: "/fle/materials/presentations/unit07_harcelement-et-respect-e.odp"
+  file: "/fle/materials/presentations/unit07_harcelement-et-respect-e.pdf"
   thumbnail: "/fle/materials/presentations/unit07_harcelement-et-respect-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit07_harcelement-et-respect-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_harcelement-et-respect-e.png"
-tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
-aliases:
-  - "/track_e_kl09/units/unit07_harcelement-et-respect-e.html"
 ---
 
 {{< callout type="note" >}}

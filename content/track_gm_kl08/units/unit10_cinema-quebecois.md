@@ -15,17 +15,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d37cb99a2a24175a031ebc52f43834b"
 presentation:
-  file: "/fle/materials/presentations/unit10_cinema-quebecois.odp"
+  file: "/fle/materials/presentations/unit10_cinema-quebecois.pdf"
   thumbnail: "/fle/materials/presentations/unit10_cinema-quebecois.png"
 worksheet:
   file: "/fle/materials/worksheets/unit10_cinema-quebecois.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_cinema-quebecois.png"
-tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
-aliases:
-  - "/track_gm_kl08/units/unit10_cinema-quebecois.html"
 ---
 
 {{< callout type="note" >}}

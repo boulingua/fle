@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/286f0ff2bd094220b325d3e797afe6af"
 presentation:
-  file: "/fle/materials/presentations/unit10_reflexion-sur-soi.odp"
+  file: "/fle/materials/presentations/unit10_reflexion-sur-soi.pdf"
   thumbnail: "/fle/materials/presentations/unit10_reflexion-sur-soi.png"
 worksheet:
   file: "/fle/materials/worksheets/unit10_reflexion-sur-soi.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_reflexion-sur-soi.png"
-tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
-aliases:
-  - "/track_e_kl13/units/unit10_reflexion-sur-soi.html"
 ---
 
 {{< callout type="note" >}}

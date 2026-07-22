@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/259e53300da042d5a6daf303c7633722"
 presentation:
-  file: "/fle/materials/presentations/unit01_introduire-camus.odp"
+  file: "/fle/materials/presentations/unit01_introduire-camus.pdf"
   thumbnail: "/fle/materials/presentations/unit01_introduire-camus.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_introduire-camus.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_introduire-camus.png"
-tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
-aliases:
-  - "/track_e_kl12/units/unit01_introduire-camus.html"
 ---
 
 {{< callout type="note" >}}

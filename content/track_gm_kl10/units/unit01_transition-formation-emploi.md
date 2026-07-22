@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f139f63d98f4c90a37e3c130f154a18"
 presentation:
-  file: "/fle/materials/presentations/unit01_transition-formation-emploi.odp"
+  file: "/fle/materials/presentations/unit01_transition-formation-emploi.pdf"
   thumbnail: "/fle/materials/presentations/unit01_transition-formation-emploi.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_transition-formation-emploi.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_transition-formation-emploi.png"
-tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
-aliases:
-  - "/track_gm_kl10/units/unit01_transition-formation-emploi.html"
 ---
 
 {{< callout type="note" >}}

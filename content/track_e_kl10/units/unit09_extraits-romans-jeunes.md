@@ -14,17 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23514fe6ce47467495aafaa7bf033489"
 presentation:
-  file: "/fle/materials/presentations/unit09_extraits-romans-jeunes.odp"
+  file: "/fle/materials/presentations/unit09_extraits-romans-jeunes.pdf"
   thumbnail: "/fle/materials/presentations/unit09_extraits-romans-jeunes.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_extraits-romans-jeunes.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_extraits-romans-jeunes.png"
-tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
-aliases:
-  - "/track_e_kl10/units/unit09_extraits-romans-jeunes.html"
 ---
 
 {{< callout type="note" >}}

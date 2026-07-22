@@ -14,17 +14,11 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e4bfca5e91c499ba60408e1c9b890c3"
 presentation:
-  file: "/fle/materials/presentations/unit05_vivre-en-tunisie.odp"
+  file: "/fle/materials/presentations/unit05_vivre-en-tunisie.pdf"
   thumbnail: "/fle/materials/presentations/unit05_vivre-en-tunisie.png"
 worksheet:
   file: "/fle/materials/worksheets/unit05_vivre-en-tunisie.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_vivre-en-tunisie.png"
-tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
-aliases:
-  - "/track_gm_kl09/units/unit05_vivre-en-tunisie.html"
 ---
 
 {{< callout type="note" >}}

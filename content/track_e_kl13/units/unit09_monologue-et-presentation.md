@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28482c3340804dee9f552faec15394c0"
 presentation:
-  file: "/fle/materials/presentations/unit09_monologue-et-presentation.odp"
+  file: "/fle/materials/presentations/unit09_monologue-et-presentation.pdf"
   thumbnail: "/fle/materials/presentations/unit09_monologue-et-presentation.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_monologue-et-presentation.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_monologue-et-presentation.png"
-tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
-aliases:
-  - "/track_e_kl13/units/unit09_monologue-et-presentation.html"
 ---
 
 {{< callout type="note" >}}

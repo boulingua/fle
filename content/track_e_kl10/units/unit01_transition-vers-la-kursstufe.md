@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22942b64b98d40d29abf04097c686e70"
 presentation:
-  file: "/fle/materials/presentations/unit01_transition-vers-la-kursstufe.odp"
+  file: "/fle/materials/presentations/unit01_transition-vers-la-kursstufe.pdf"
   thumbnail: "/fle/materials/presentations/unit01_transition-vers-la-kursstufe.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_transition-vers-la-kursstufe.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_transition-vers-la-kursstufe.png"
-tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
-aliases:
-  - "/track_e_kl10/units/unit01_transition-vers-la-kursstufe.html"
 ---
 
 {{< callout type="note" >}}

@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/271dbe5ae8e543ae8440759a3076a259"
 presentation:
-  file: "/fle/materials/presentations/unit01_synthese-themes-litteraires.odp"
+  file: "/fle/materials/presentations/unit01_synthese-themes-litteraires.pdf"
   thumbnail: "/fle/materials/presentations/unit01_synthese-themes-litteraires.png"
 worksheet:
   file: "/fle/materials/worksheets/unit01_synthese-themes-litteraires.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_synthese-themes-litteraires.png"
-tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
-aliases:
-  - "/track_e_kl13/units/unit01_synthese-themes-litteraires.html"
 ---
 
 {{< callout type="note" >}}

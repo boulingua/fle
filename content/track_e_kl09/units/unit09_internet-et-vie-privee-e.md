@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/21fa0a9be3f14b0faced0416c84d7c37"
 presentation:
-  file: "/fle/materials/presentations/unit09_internet-et-vie-privee-e.odp"
+  file: "/fle/materials/presentations/unit09_internet-et-vie-privee-e.pdf"
   thumbnail: "/fle/materials/presentations/unit09_internet-et-vie-privee-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit09_internet-et-vie-privee-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_internet-et-vie-privee-e.png"
-tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
-aliases:
-  - "/track_e_kl09/units/unit09_internet-et-vie-privee-e.html"
 ---
 
 {{< callout type="note" >}}

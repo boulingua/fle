@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22282941c5f843ccb83894d84d2fef58"
 presentation:
-  file: "/fle/materials/presentations/unit10_consommation-responsable-e.odp"
+  file: "/fle/materials/presentations/unit10_consommation-responsable-e.pdf"
   thumbnail: "/fle/materials/presentations/unit10_consommation-responsable-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit10_consommation-responsable-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_consommation-responsable-e.png"
-tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
-aliases:
-  - "/track_e_kl09/units/unit10_consommation-responsable-e.html"
 ---
 
 {{< callout type="note" >}}

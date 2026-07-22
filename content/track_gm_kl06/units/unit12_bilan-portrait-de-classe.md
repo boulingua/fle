@@ -14,17 +14,11 @@ skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a8d902b5a554b8593e0aadc99a3dd97"
 presentation:
-  file: "/fle/materials/presentations/unit12_bilan-portrait-de-classe.odp"
+  file: "/fle/materials/presentations/unit12_bilan-portrait-de-classe.pdf"
   thumbnail: "/fle/materials/presentations/unit12_bilan-portrait-de-classe.png"
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-de-classe.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-de-classe.png"
-tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
-aliases:
-  - "/track_gm_kl06/units/unit12_bilan-portrait-de-classe.html"
 ---
 
 {{< callout type="note" >}}

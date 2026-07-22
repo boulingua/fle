@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/247b5965bd004d73bc5c70d6285335be"
 presentation:
-  file: "/fle/materials/presentations/unit07_extrait-roman-contemporain.odp"
+  file: "/fle/materials/presentations/unit07_extrait-roman-contemporain.pdf"
   thumbnail: "/fle/materials/presentations/unit07_extrait-roman-contemporain.png"
 worksheet:
   file: "/fle/materials/worksheets/unit07_extrait-roman-contemporain.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_extrait-roman-contemporain.png"
-tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
-aliases:
-  - "/track_e_kl11/units/unit07_extrait-roman-contemporain.html"
 ---
 
 {{< callout type="note" >}}

@@ -12,17 +12,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20ac93c452764ba0b60c412e529b2ee9"
 presentation:
-  file: "/fle/materials/presentations/unit02_lettre-de-motivation-e.odp"
+  file: "/fle/materials/presentations/unit02_lettre-de-motivation-e.pdf"
   thumbnail: "/fle/materials/presentations/unit02_lettre-de-motivation-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit02_lettre-de-motivation-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_lettre-de-motivation-e.png"
-tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
-aliases:
-  - "/track_e_kl09/units/unit02_lettre-de-motivation-e.html"
 ---
 
 {{< callout type="note" >}}

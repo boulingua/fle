@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22e9489ab4f644aa983aef5fb1ca54c1"
 presentation:
-  file: "/fle/materials/presentations/unit05_premiere-analyse-poesie.odp"
+  file: "/fle/materials/presentations/unit05_premiere-analyse-poesie.pdf"
   thumbnail: "/fle/materials/presentations/unit05_premiere-analyse-poesie.png"
 worksheet:
   file: "/fle/materials/worksheets/unit05_premiere-analyse-poesie.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_premiere-analyse-poesie.png"
-tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
-aliases:
-  - "/track_e_kl10/units/unit05_premiere-analyse-poesie.html"
 ---
 
 {{< callout type="note" >}}

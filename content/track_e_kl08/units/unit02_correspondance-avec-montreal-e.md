@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1f7ac3027cae473aadf7c6a83caa4b2d"
 presentation:
-  file: "/fle/materials/presentations/unit02_correspondance-avec-montreal-e.odp"
+  file: "/fle/materials/presentations/unit02_correspondance-avec-montreal-e.pdf"
   thumbnail: "/fle/materials/presentations/unit02_correspondance-avec-montreal-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit02_correspondance-avec-montreal-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_correspondance-avec-montreal-e.png"
-tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
-aliases:
-  - "/track_e_kl08/units/unit02_correspondance-avec-montreal-e.html"
 ---
 
 {{< callout type="note" >}}

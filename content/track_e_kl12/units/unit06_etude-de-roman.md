@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2630bb98f7b143198523c44329149c24"
 presentation:
-  file: "/fle/materials/presentations/unit06_etude-de-roman.odp"
+  file: "/fle/materials/presentations/unit06_etude-de-roman.pdf"
   thumbnail: "/fle/materials/presentations/unit06_etude-de-roman.png"
 worksheet:
   file: "/fle/materials/worksheets/unit06_etude-de-roman.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_etude-de-roman.png"
-tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
-aliases:
-  - "/track_e_kl12/units/unit06_etude-de-roman.html"
 ---
 
 {{< callout type="note" >}}

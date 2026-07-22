@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/27ae6ae5ade6488e8aa34c3db2134c29"
 presentation:
-  file: "/fle/materials/presentations/unit05_abitur-mock-2.odp"
+  file: "/fle/materials/presentations/unit05_abitur-mock-2.pdf"
   thumbnail: "/fle/materials/presentations/unit05_abitur-mock-2.png"
 worksheet:
   file: "/fle/materials/worksheets/unit05_abitur-mock-2.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_abitur-mock-2.png"
-tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
-aliases:
-  - "/track_e_kl13/units/unit05_abitur-mock-2.html"
 ---
 
 {{< callout type="note" >}}

@@ -14,17 +14,11 @@ skills_focus:
   - text_medien
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1f9ede6fc1e1427d9361f798b4c3405e"
 presentation:
-  file: "/fle/materials/presentations/unit03_mes-medias-preferes-e.odp"
+  file: "/fle/materials/presentations/unit03_mes-medias-preferes-e.pdf"
   thumbnail: "/fle/materials/presentations/unit03_mes-medias-preferes-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit03_mes-medias-preferes-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mes-medias-preferes-e.png"
-tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
-aliases:
-  - "/track_e_kl08/units/unit03_mes-medias-preferes-e.html"
 ---
 
 {{< callout type="note" >}}

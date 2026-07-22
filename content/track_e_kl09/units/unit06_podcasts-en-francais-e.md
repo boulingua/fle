@@ -12,17 +12,11 @@ skills_focus:
   - hör_hörsehverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/21944f6b3bb94fd0a5f3a09700da05b0"
 presentation:
-  file: "/fle/materials/presentations/unit06_podcasts-en-francais-e.odp"
+  file: "/fle/materials/presentations/unit06_podcasts-en-francais-e.pdf"
   thumbnail: "/fle/materials/presentations/unit06_podcasts-en-francais-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit06_podcasts-en-francais-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_podcasts-en-francais-e.png"
-tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
-aliases:
-  - "/track_e_kl09/units/unit06_podcasts-en-francais-e.html"
 ---
 
 {{< callout type="note" >}}

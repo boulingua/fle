@@ -15,17 +15,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d76d05a48ce45b3a7f8efd697e66c36"
 presentation:
-  file: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.odp"
+  file: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.pdf"
   thumbnail: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.png"
 worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre.png"
-tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
-aliases:
-  - "/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre.html"
 ---
 
 {{< callout type="note" >}}

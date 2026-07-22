@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_dialog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/234bfe269c74485ab77d909071ff7d09"
 presentation:
-  file: "/fle/materials/presentations/unit08_reseaux-sociaux-e.odp"
+  file: "/fle/materials/presentations/unit08_reseaux-sociaux-e.pdf"
   thumbnail: "/fle/materials/presentations/unit08_reseaux-sociaux-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit08_reseaux-sociaux-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_reseaux-sociaux-e.png"
-tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
-aliases:
-  - "/track_e_kl10/units/unit08_reseaux-sociaux-e.html"
 ---
 
 {{< callout type="note" >}}

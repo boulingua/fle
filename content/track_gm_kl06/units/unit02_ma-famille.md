@@ -15,17 +15,11 @@ skills_focus:
   - leseverstehen
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28d90bc5397040f7810b820383439c13"
 presentation:
-  file: "/fle/materials/presentations/unit02_ma-famille.odp"
+  file: "/fle/materials/presentations/unit02_ma-famille.pdf"
   thumbnail: "/fle/materials/presentations/unit02_ma-famille.png"
 worksheet:
   file: "/fle/materials/worksheets/unit02_ma-famille.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_ma-famille.png"
-tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
-aliases:
-  - "/track_gm_kl06/units/unit02_ma-famille.html"
 ---
 
 {{< callout type="note" >}}

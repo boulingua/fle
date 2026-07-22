@@ -13,17 +13,11 @@ skills_focus:
   - sprachmittlung
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2cee0756b51c447881e0cf4fb2ad5f32"
 presentation:
-  file: "/fle/materials/presentations/unit05_sprachmittlung-de-fr-resume.odp"
+  file: "/fle/materials/presentations/unit05_sprachmittlung-de-fr-resume.pdf"
   thumbnail: "/fle/materials/presentations/unit05_sprachmittlung-de-fr-resume.png"
 worksheet:
   file: "/fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume.png"
-tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
-aliases:
-  - "/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume.html"
 ---
 
 {{< callout type="note" >}}

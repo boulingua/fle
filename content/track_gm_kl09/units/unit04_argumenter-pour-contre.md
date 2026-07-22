@@ -14,17 +14,11 @@ skills_focus:
   - schreiben
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e332f8a71d541159f35e8a15bb97735"
 presentation:
-  file: "/fle/materials/presentations/unit04_argumenter-pour-contre.odp"
+  file: "/fle/materials/presentations/unit04_argumenter-pour-contre.pdf"
   thumbnail: "/fle/materials/presentations/unit04_argumenter-pour-contre.png"
 worksheet:
   file: "/fle/materials/worksheets/unit04_argumenter-pour-contre.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_argumenter-pour-contre.png"
-tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
-aliases:
-  - "/track_gm_kl09/units/unit04_argumenter-pour-contre.html"
 ---
 
 {{< callout type="note" >}}

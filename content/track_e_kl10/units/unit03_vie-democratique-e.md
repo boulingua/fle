@@ -14,17 +14,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22b2a1b5245242d790aa01932d2f47f8"
 presentation:
-  file: "/fle/materials/presentations/unit03_vie-democratique-e.odp"
+  file: "/fle/materials/presentations/unit03_vie-democratique-e.pdf"
   thumbnail: "/fle/materials/presentations/unit03_vie-democratique-e.png"
 worksheet:
   file: "/fle/materials/worksheets/unit03_vie-democratique-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_vie-democratique-e.png"
-tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
-aliases:
-  - "/track_e_kl10/units/unit03_vie-democratique-e.html"
 ---
 
 {{< callout type="note" >}}

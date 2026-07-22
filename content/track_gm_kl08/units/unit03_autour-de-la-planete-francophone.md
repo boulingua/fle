@@ -15,17 +15,11 @@ skills_focus:
   - sprechen_monolog
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2cbab0747e7f4990b89da2c4e46a7232"
 presentation:
-  file: "/fle/materials/presentations/unit03_autour-de-la-planete-francophone.odp"
+  file: "/fle/materials/presentations/unit03_autour-de-la-planete-francophone.pdf"
   thumbnail: "/fle/materials/presentations/unit03_autour-de-la-planete-francophone.png"
 worksheet:
   file: "/fle/materials/worksheets/unit03_autour-de-la-planete-francophone.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_autour-de-la-planete-francophone.png"
-tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
-aliases:
-  - "/track_gm_kl08/units/unit03_autour-de-la-planete-francophone.html"
 ---
 
 {{< callout type="note" >}}

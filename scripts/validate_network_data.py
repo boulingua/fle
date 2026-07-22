@@ -97,9 +97,11 @@ def main() -> int:
                 fail(f"node {n.get('id')} carries unregistered topic {tid!r}")
                 fails += 1
 
-    # 6. Article count parity vs disk
+    # 6. Article count parity vs disk. Exam pages (*_exam.md) are assessment,
+    # not discovery units — build_graph.py only admits material-bearing units
+    # (those with a presentation/worksheet), so exclude exams here to match.
     article_nodes = [n for n in nodes if n.get("type") == "article"]
-    on_disk = list(REPO.glob(CONTENT_UNITS_GLOB))
+    on_disk = [p for p in REPO.glob(CONTENT_UNITS_GLOB) if not p.name.endswith("_exam.md")]
     if len(article_nodes) != len(on_disk):
         fail(f"article-node count ({len(article_nodes)}) != "
              f"unit-page count on disk ({len(on_disk)})")

@@ -3,7 +3,7 @@
        section « Écouter » accessible : un lecteur par segment, avec sa
        transcription. Ne rend rien tant qu'aucun audio n'existe pour l'unité. */ -}}
 {{- $key := .File.ContentBaseName -}}
-{{- with (index site.Data.audio $key) -}}
+{{- with (index hugo.Data.audio $key) -}}
 <section class="audio-section" id="audio">
   <h2>Écouter</h2>
   <p class="audio-intro">Le vocabulaire, les dialogues et les textes de cette

@@ -28,7 +28,7 @@
     {{- $base := site.BaseURL | replaceRE "https?://[^/]+" "" | strings.TrimRight "/" -}}
     {{- if $base -}}{{- $rel = $rel | strings.TrimPrefix $base -}}{{- end -}}
     {{- $fp := "" -}}{{- with .File -}}{{- $fp = printf "content/%s" .Path -}}{{- end -}}
-    {{- $entries := index site.Data "vgwort" -}}
+    {{- $entries := index hugo.Data "vgwort" -}}
     {{- if reflect.IsSlice $entries -}}
       {{- range $entries -}}
         {{- if or (and .url (eq .url $rel)) (and .path (eq .path $fp)) -}}

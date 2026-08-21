@@ -7,9 +7,15 @@ Run locally and in CI. Exits non-zero if any HARD failure is found.
 Hard failures:
   - file has no YAML front matter
   - file has no `title` field
-  - unit page (under content/track_*/units/) is missing any of:
+  - unit page (under content/track_*/units/, excluding its `*_exam.md`
+    sibling) is missing any of:
       niveau, klassenstufe, track, unit_nr, bildungsplan, skills_focus,
       presentation.file, worksheet.file, vgwort_pixel
+  - exam page (`*_exam.md`) is missing any of:
+      title, page_type, unit_nr, vgwort_pixel
+    Exams are assessment, not discovery units: they carry no bildungsplan
+    reference, no skills_focus and no materials of their own, so gating
+    them on the unit contract fails every one of them.
   - any image / static asset link in the body resolves to a file that
     does not exist under static/ or assets/
   - leftover Quarto-only constructs in body:
@@ -37,6 +43,28 @@ STATIC = REPO / "static"
 ASSETS = REPO / "assets"
 
 UNIT_RE = re.compile(r"track_[a-z]+_kl\d+/units/.+\.md$")
+EXAM_RE = re.compile(r"[-_]exam$")
+
+
+def is_exam(slug: str) -> bool:
+    """True if `slug` names an exam page.
+
+    Takes a SLUG — a filename stem or bundle directory name, extension
+    already stripped — never a path. The pattern is anchored on `$`, so
+    passing `.../unit01_ma-rentree_exam.md` returns False. Strip the
+    extension first; on leaf-bundle repos pass the bundle directory name.
+    """
+    return bool(EXAM_RE.search(slug))
+
+
+def is_unit_page(rel: str) -> bool:
+    """True for a teaching unit page — under units/, exam siblings excluded."""
+    return bool(UNIT_RE.search(rel)) and not is_exam(Path(rel).stem)
+
+
+def is_exam_page(rel: str) -> bool:
+    """True for an exam page under units/."""
+    return bool(UNIT_RE.search(rel)) and is_exam(Path(rel).stem)
 FM_RE = re.compile(r"\A---\n(.*?)\n---\n(.*)", re.DOTALL)
 QUARTO_DIV_RE = re.compile(r"^:::\s*\{\.([A-Za-z0-9_-]+)", re.MULTILINE)
 QUARTO_XREF_RE = re.compile(r"\B@(sec|fig|tbl|eq)-[A-Za-z0-9_-]+")
@@ -48,6 +76,8 @@ UNIT_REQUIRED = (
     "title", "niveau", "klassenstufe", "track", "unit_nr",
     "bildungsplan", "skills_focus",
 )
+
+EXAM_REQUIRED = ("title", "page_type", "unit_nr", "vgwort_pixel")
 
 
 def asset_resolves(rel_url: str) -> bool:
@@ -81,7 +111,7 @@ def audit_file(md: Path) -> tuple[list[str], list[str]]:
     # Frontmatter checks
     if not fm.get("title"):
         fails.append("missing required field: title")
-    if UNIT_RE.search(rel):
+    if is_unit_page(rel):
         for k in UNIT_REQUIRED:
             if k not in fm or fm[k] in (None, ""):
                 fails.append(f"unit missing required field: {k}")
@@ -93,6 +123,12 @@ def audit_file(md: Path) -> tuple[list[str], list[str]]:
             fails.append("unit missing worksheet.file")
         if not fm.get("vgwort_pixel"):
             fails.append("unit missing vgwort_pixel")
+    elif is_exam_page(rel):
+        for k in EXAM_REQUIRED:
+            if k not in fm or fm[k] in (None, ""):
+                fails.append(f"exam missing required field: {k}")
+        if fm.get("page_type") != "exam":
+            fails.append("exam page_type is not 'exam'")
 
     # Quarto-era carryover in body
     for divmatch in QUARTO_DIV_RE.finditer(body):
@@ -127,19 +163,23 @@ def main() -> int:
     files = sorted(CONTENT.rglob("*.md"))
     n_files = len(files)
     n_units = 0
+    n_exams = 0
     total_fails: dict[str, list[str]] = {}
     total_warns: dict[str, list[str]] = {}
     for md in files:
         rel = md.relative_to(REPO).as_posix()
-        if UNIT_RE.search(rel):
+        if is_unit_page(rel):
             n_units += 1
+        elif is_exam_page(rel):
+            n_exams += 1
         fails, warns = audit_file(md)
         if fails:
             total_fails[rel] = fails
         if warns:
             total_warns[rel] = warns
 
-    print(f"Audited {n_files} content/.md files ({n_units} unit pages).")
+    print(f"Audited {n_files} content/.md files "
+          f"({n_units} unit pages, {n_exams} exam pages).")
     if total_warns:
         print(f"\nWarnings ({sum(len(v) for v in total_warns.values())}):")
         for path in sorted(total_warns)[:25]:

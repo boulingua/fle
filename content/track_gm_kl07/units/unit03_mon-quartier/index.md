@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Mon quartier"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b07ec00c17943ebba012fc821fb4e28"
 presentation:
   file: "/fle/materials/presentations/unit03_mon-quartier.pdf"

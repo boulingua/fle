@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 2 — Ma famille"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — expression orale en continu (monologue suivi)"
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
-  - sprechen_monolog
-  - leseverstehen
+- reading
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1c1d3a3a981d463c8cb6fa8fbe95f76c"
 presentation:
   file: "/fle/materials/presentations/unit02_ma-famille-e.pdf"

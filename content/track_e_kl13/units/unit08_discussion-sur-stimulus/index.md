@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Discussion sur stimulus visuel"
 subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.4 Expression orale — production en continu (monologue)"
 skills_focus:
-  - sprechen_dialog
-  - sprechen_monolog
+- speaking_interaction
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/283735ce66d5448d8404fc2c773523bc"
 presentation:
   file: "/fle/materials/presentations/unit08_discussion-sur-stimulus.pdf"

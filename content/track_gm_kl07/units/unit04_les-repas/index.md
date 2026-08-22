@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Les repas"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — dialogisches Expression orale"
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
-  - sprechen_dialog
-  - wortschatz
+- language_awareness
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b2689b78ce246e99c86011397c621a3"
 presentation:
   file: "/fle/materials/presentations/unit04_les-repas.pdf"

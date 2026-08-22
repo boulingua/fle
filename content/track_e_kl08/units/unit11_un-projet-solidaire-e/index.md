@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 11 — Un projet solidaire"
 subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale (monologisches Sprechen)"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/204a2fc573064e68bd8aaa21bd195f99"
 presentation:
   file: "/fle/materials/presentations/unit11_un-projet-solidaire-e.pdf"

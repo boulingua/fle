@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Différences culturelles franco-allemandes"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — monologisches Expression orale"
   - "3.1.3.6 Médiation linguistique"
 skills_focus:
-  - sprechen_monolog
-  - sprachmittlung
+- mediation
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e9ba058210c47a5afdece47bf49fe84"
 presentation:
   file: "/fle/materials/presentations/unit08_differences-culturelles.pdf"

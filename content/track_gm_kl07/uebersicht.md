@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "classe 7 — Plan hebdomadaire"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2acaef90ec9e47cfa56df73175d017e3"
 aliases:

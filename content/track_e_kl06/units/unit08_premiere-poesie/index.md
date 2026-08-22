@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Première poésie : Prévert simple"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
-  - text_medien
-  - leseverstehen
+- reading
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1cc72e861eb34259885839f78065b5eb"
 presentation:
   file: "/fle/materials/presentations/unit08_premiere-poesie.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Musiques du Maghreb"
 subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
@@ -11,8 +12,7 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
   - "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
-  - hör_hörsehverstehen
-  - text_medien
+- listening
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2cfab95fb94346f2a39d7f7037df11b7"
 presentation:
   file: "/fle/materials/presentations/unit06_musiques-du-maghreb.pdf"

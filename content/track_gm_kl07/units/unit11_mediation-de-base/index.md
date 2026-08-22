@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 11 — Médiation de base"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.6 Médiation linguistique"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprachmittlung
-  - schreiben
+- mediation
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c10613c65aa4895bc293d8c5732bf18"
 presentation:
   file: "/fle/materials/presentations/unit11_mediation-de-base.pdf"

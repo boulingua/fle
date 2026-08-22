@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 12 — Bilan : 9e en route vers la cycle terminal"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — monologisches Sprechen"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2261f15b84f2431891aa92863c4ffe23"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-9e-e.pdf"

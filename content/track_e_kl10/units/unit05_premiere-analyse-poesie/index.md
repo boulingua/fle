@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — Première analyse : un poème"
 subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22e9489ab4f644aa983aef5fb1ca54c1"
 presentation:
   file: "/fle/materials/presentations/unit05_premiere-analyse-poesie.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Court-métrage francophone"
 subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - hör_hörsehverstehen
-  - text_medien
+- listening
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24048dd28d9548129d882baf44bb78ed"
 presentation:
   file: "/fle/materials/presentations/unit04_court-metrage.pdf"

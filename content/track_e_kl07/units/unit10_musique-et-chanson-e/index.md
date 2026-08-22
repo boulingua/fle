@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Musique et chanson francophones"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - hör_hörsehverstehen
-  - text_medien
+- listening
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e781032ad6346e38de767a94214342c"
 presentation:
   file: "/fle/materials/presentations/unit10_musique-et-chanson-e.pdf"

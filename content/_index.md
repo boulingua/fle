@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Français pour l'enseignement secondaire, classes 6 à 13"
 aliases:
   - "/index.html"

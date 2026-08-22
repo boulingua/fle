@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Stéréotypes et préjugés"
 subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.2 Compétence interculturelle communicative"
 skills_focus:
-  - sprechen_dialog
-  - schreiben
+- speaking_interaction
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d2cf003fb334dcd96a7c1b9f6a4209b"
 presentation:
   file: "/fle/materials/presentations/unit09_stereotypes-et-prejuges.pdf"

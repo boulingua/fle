@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 7 — épreuve communicative : préparation"
 subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — production en continu (monologue)"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - sprechen_monolog
-  - sprechen_dialog
+- speaking_interaction
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2821fac53ec445558fb057d57318b531"
 presentation:
   file: "/fle/materials/presentations/unit07_kommunikationspruefung-prep.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Réflexion sur son propre parcours FLE"
 subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — monologisches Expression orale"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/286f0ff2bd094220b325d3e797afe6af"
 presentation:
   file: "/fle/materials/presentations/unit10_reflexion-sur-soi.pdf"

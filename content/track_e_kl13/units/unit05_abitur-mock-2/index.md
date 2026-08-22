@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — épreuve finale mock 2 — extrait littéraire"
 subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/27ae6ae5ade6488e8aa34c3db2134c29"
 presentation:
   file: "/fle/materials/presentations/unit05_abitur-mock-2.pdf"

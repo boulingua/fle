@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — La rentrée en 8e"
 subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
@@ -9,7 +10,7 @@ slug: "la-rentree-en-8e"
 bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - sprechen_dialog
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1f64fbf604164eb78769d718a93df8f8"
 presentation:
   file: "/fle/materials/presentations/unit01_la-rentree-en-8e.pdf"

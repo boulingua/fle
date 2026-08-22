@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Argumentation structurée"
 subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
-  - schreiben
-  - sprechen_monolog
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24667e913e7041b598a105d378da2365"
 presentation:
   file: "/fle/materials/presentations/unit06_argumentation-structuree.pdf"

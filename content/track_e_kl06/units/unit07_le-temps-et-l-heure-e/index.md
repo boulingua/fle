@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 7 — Le temps et l'heure"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1cbd28f22e49412bb639408b6651d29e"
 presentation:
   file: "/fle/materials/presentations/unit07_le-temps-et-l-heure-e.pdf"

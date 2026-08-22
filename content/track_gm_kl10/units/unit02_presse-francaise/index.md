@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 2 — La presse française au quotidien"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - leseverstehen
-  - text_medien
+- reading
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f5770bd0de140369701d47b52e631de"
 presentation:
   file: "/fle/materials/presentations/unit02_presse-francaise.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Mon quartier"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1dd06671a56d426e9b24d4abbb7b52b9"
 presentation:
   file: "/fle/materials/presentations/unit03_mon-quartier-e.pdf"

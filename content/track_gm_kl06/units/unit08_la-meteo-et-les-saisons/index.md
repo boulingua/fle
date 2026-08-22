@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — La météo et les saisons"
 subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
@@ -10,7 +11,7 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
-  - hör_hörsehverstehen
+- listening
 vgwort_pixel: "https://vg09.met.vgwort.de/na/299de8e3d383432a93fa47956b63bebc"
 presentation:
   file: "/fle/materials/presentations/unit08_la-meteo-et-les-saisons.pdf"

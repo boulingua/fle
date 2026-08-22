@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 2 — Raconter une anecdote"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — monologisches Expression orale"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1daae2f35b9c444ab20d81a6f7116593"
 presentation:
   file: "/fle/materials/presentations/unit02_raconter-une-anecdote.pdf"

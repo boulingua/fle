@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Repas en famille"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - hör_hörsehverstehen
-  - sprechen_dialog
+- listening
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1deb0c44c1d547e7b08f880286ad8e3e"
 presentation:
   file: "/fle/materials/presentations/unit04_repas-en-famille-e.pdf"

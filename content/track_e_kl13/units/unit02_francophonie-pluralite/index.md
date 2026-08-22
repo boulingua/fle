@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 2 — Francophonie : pluralité culturelle"
 subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.4 Expression orale — expression en continu (monologue)"
 skills_focus:
-  - leseverstehen
-  - sprechen_monolog
+- reading
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2738da1a4ff14bc4b7b8cefa2856d73f"
 presentation:
   file: "/fle/materials/presentations/unit02_francophonie-pluralite.pdf"

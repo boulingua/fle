@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Le monde du travail (stage d'orientation au lycée)"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20a704d960ef4074a205f68f20c5bd67"
 presentation:
   file: "/fle/materials/presentations/unit01_le-monde-du-travail-e.pdf"

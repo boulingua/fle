@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Fiches d'exercices"
 subtitle: "Documents .pdf — un par unité"
 layout: "materials-list"

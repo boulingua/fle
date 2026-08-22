@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Écologie en France"
 subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - leseverstehen
-  - sprechen_dialog
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24d65356ca5c4a9cb8e69931c102e475"
 presentation:
   file: "/fle/materials/presentations/unit10_ecologie-en-france.pdf"

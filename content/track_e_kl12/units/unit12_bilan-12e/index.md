@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 12 — Bilan : 12e"
 subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.4 Expression orale — prise de parole en continu"
 skills_focus:
-  - schreiben
-  - sprechen_monolog
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26de4bb7f9b14194bed87b1ba6307bb9"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-12e.pdf"

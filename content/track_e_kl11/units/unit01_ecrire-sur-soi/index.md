@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Écrire sur soi (Annie Ernaux)"
 subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23bb137c55914bc7b00964ee1179a29a"
 presentation:
   file: "/fle/materials/presentations/unit01_ecrire-sur-soi.pdf"

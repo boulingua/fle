@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "classe 13 — Plan hebdomadaire"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26ff71c35b6949fd98842b0f52397de9"
 aliases:

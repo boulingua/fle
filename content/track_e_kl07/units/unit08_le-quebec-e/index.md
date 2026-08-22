@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Le Québec — un autre français"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
-  - text_medien
-  - leseverstehen
+- reading
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e40b081f9184f9da6a41c8ec2521451"
 presentation:
   file: "/fle/materials/presentations/unit08_le-quebec-e.pdf"

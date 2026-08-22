@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Salutations et prénoms"
 subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
@@ -10,7 +11,7 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.9 Moyens linguistiques — prononciation und Intonation"
 skills_focus:
-  - sprechen_dialog
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28c51b14611d4eb7aadb04eecf7f10ea"
 presentation:
   file: "/fle/materials/presentations/unit01_salutations-et-prenoms.pdf"

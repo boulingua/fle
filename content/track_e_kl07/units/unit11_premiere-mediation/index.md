@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 11 — Première médiation DE → FR"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -9,7 +10,7 @@ slug: "premiere-mediation"
 bildungsplan:
   - "3.1.3.6 Médiation linguistique"
 skills_focus:
-  - sprachmittlung
+- mediation
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1ee43e55747b4498ad09d2351de24697"
 presentation:
   file: "/fle/materials/presentations/unit11_premiere-mediation.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 11 — Français au travail"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.6 Médiation linguistique"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - sprachmittlung
-  - sprechen_dialog
+- mediation
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/224e20a5129b4b1f911f956ddd29d3f5"
 presentation:
   file: "/fle/materials/presentations/unit11_francais-au-travail-e.pdf"

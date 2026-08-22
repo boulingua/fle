@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Musique et clips"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - hoerverstehen
-  - textmedienkompetenz
+- listening
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c0b00ad370748b6a8ce86518ff2149a"
 presentation:
   file: "/fle/materials/presentations/unit10_musique-et-clips.pdf"

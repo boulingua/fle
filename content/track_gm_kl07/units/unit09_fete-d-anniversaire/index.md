@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Fête d'anniversaire"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — dialogisches Sprechen"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_dialog
-  - schreiben
+- speaking_interaction
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2be291a3b9fd4e72a263115d0dd86ca8"
 presentation:
   file: "/fle/materials/presentations/unit09_fete-d-anniversaire.pdf"

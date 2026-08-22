@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Écologie au quotidien"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
-  - sprechen_dialog
-  - leseverstehen
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20b8b29e7abd41beaf4ed4ba8e1a8688"
 presentation:
   file: "/fle/materials/presentations/unit03_ecologie-au-quotidien-e.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 11 — Voyage de découverte (Strasbourg)"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.4 Expression orale — prise de parole en continu"
 skills_focus:
-  - hör_hörsehverstehen
-  - sprechen_monolog
+- listening
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1d1eeb688d16475ab442f3cf2df51729"
 presentation:
   file: "/fle/materials/presentations/unit11_voyage-decouverte.pdf"

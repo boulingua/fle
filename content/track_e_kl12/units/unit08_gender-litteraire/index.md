@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Gender et littérature contemporaine"
 subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - leseverstehen
-  - sprechen_dialog
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2677307697db44998cb51381d4dabeff"
 presentation:
   file: "/fle/materials/presentations/unit08_gender-litteraire.pdf"

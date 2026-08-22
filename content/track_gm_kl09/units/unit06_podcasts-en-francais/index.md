@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Podcasts en français"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -9,7 +10,7 @@ slug: "podcasts-en-francais"
 bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
 skills_focus:
-  - hör_hörsehverstehen
+- listening
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e72425156544419b79c860c5ed696a8"
 presentation:
   file: "/fle/materials/presentations/unit06_podcasts-en-francais.pdf"

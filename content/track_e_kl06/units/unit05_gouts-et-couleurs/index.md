@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — Goûts et couleurs"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_dialog
-  - schreiben
+- speaking_interaction
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1c9ad1b4184c402aac2bd735f7b04be8"
 presentation:
   file: "/fle/materials/presentations/unit05_gouts-et-couleurs.pdf"

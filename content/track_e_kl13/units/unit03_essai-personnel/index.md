@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Essai personnel : structure"
 subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
@@ -9,7 +10,7 @@ slug: "essai-personnel"
 bildungsplan:
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - schreiben
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/273deb8fb1a44bc2944804cd4a9f96c7"
 presentation:
   file: "/fle/materials/presentations/unit03_essai-personnel.pdf"

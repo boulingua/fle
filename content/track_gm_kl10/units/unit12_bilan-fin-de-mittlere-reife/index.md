@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 12 — Bilan : fin de la diplôme intermédiaire"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — monologisches Expression orale"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/306d68df9c5541bdaea1cf6aeb0df111"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-fin-de-mittlere-reife.pdf"

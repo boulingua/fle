@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "Bibliographie"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1b79ba4d0a44460bb5deedb7fd477f85"
 aliases:

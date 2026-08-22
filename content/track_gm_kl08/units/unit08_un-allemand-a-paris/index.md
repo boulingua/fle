@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Un·e Allemand·e à Paris"
 subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.2 Compétence interculturelle communicative"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d173fcb5bea4f8cbc968217a61af6a4"
 presentation:
   file: "/fle/materials/presentations/unit08_un-allemand-a-paris.pdf"

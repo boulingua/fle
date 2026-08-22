@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 12 — Bilan : Portrait d'une rencontre"
 subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — monologisches Sprechen"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/206f9a723fe34052bcacf73260450d38"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre-e.pdf"

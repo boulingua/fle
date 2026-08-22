@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Mon école"
 subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28e22e581a474399ac126de180fd6101"
 presentation:
   file: "/fle/materials/presentations/unit03_mon-ecole.pdf"

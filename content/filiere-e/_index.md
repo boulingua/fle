@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Filière E (Gymnasium, classes 6 à 13)"
 subtitle: "96 unités sur huit années — niveau E (lycée)"
 layout: filiere

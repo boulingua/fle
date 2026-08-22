@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — Vivre en Tunisie"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
-  - text_medien
-  - leseverstehen
+- reading
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e4bfca5e91c499ba60408e1c9b890c3"
 presentation:
   file: "/fle/materials/presentations/unit05_vivre-en-tunisie.pdf"

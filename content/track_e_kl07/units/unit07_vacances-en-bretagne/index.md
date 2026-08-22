@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 7 — Vacances en Bretagne"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - hör_hörsehverstehen
-  - schreiben
+- listening
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e2fea4751d84155b260e58898e695aa"
 presentation:
   file: "/fle/materials/presentations/unit07_vacances-en-bretagne.pdf"

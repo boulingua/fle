@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Mes loisirs"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
-  - sprechen_dialog
-  - leseverstehen
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1d18bbfe5cd943ef9b25d280cafa0493"
 presentation:
   file: "/fle/materials/presentations/unit10_mes-loisirs-e.pdf"

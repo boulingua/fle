@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Classe 10 — Niveau G+M"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f051bac8e144f4eb4a4ed63de6b70ad"
 aliases:

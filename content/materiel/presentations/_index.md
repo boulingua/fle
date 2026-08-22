@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Présentations"
 subtitle: "Diaporamas .pptx — un par unité"
 layout: "materials-list"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Mon collège"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1c257801ac4440bc94f961eeb455e0cc"
 presentation:
   file: "/fle/materials/presentations/unit03_mon-college-e.pdf"

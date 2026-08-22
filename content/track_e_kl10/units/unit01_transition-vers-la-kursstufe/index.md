@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Transition vers la cycle terminal"
 subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22942b64b98d40d29abf04097c686e70"
 presentation:
   file: "/fle/materials/presentations/unit01_transition-vers-la-kursstufe.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Ma rentrée"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -10,7 +11,7 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
-  - sprechen_dialog
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2ad7dcf97ba5435290d16b55875198de"
 presentation:
   file: "/fle/materials/presentations/unit01_ma-rentree.pdf"

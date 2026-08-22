@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Monologue : présenter un dossier"
 subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — monologue suivi"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28482c3340804dee9f552faec15394c0"
 presentation:
   file: "/fle/materials/presentations/unit09_monologue-et-presentation.pdf"

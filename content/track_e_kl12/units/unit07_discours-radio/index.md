@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 7 — Discours et radio (France Inter)"
 subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
-  - hör_hörsehverstehen
-  - sprechen_monolog
+- listening
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/266cd8bbbc3541d68348ad5f22fa22e8"
 presentation:
   file: "/fle/materials/presentations/unit07_discours-radio.pdf"

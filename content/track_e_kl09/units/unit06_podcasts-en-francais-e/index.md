@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Podcasts en français"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -9,7 +10,7 @@ slug: "podcasts-en-francais-e"
 bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
 skills_focus:
-  - hör_hörsehverstehen
+- listening
 vgwort_pixel: "https://vg09.met.vgwort.de/na/21944f6b3bb94fd0a5f3a09700da05b0"
 presentation:
   file: "/fle/materials/presentations/unit06_podcasts-en-francais-e.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 7 — Harcèlement et respect"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_dialog
-  - schreiben
+- speaking_interaction
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/21cfaaabf95444a28b45212a5d5221dd"
 presentation:
   file: "/fle/materials/presentations/unit07_harcelement-et-respect-e.pdf"

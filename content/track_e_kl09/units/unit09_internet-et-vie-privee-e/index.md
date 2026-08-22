@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Internet et vie privée"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - leseverstehen
-  - sprechen_dialog
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/21fa0a9be3f14b0faced0416c84d7c37"
 presentation:
   file: "/fle/materials/presentations/unit09_internet-et-vie-privee-e.pdf"

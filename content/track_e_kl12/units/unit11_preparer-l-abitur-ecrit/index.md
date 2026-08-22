@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 11 — Préparer l'épreuve finale écrit"
 subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26c3e2b4d6e64ecb8b3a2ad19ec8c12c"
 presentation:
   file: "/fle/materials/presentations/unit11_preparer-l-abitur-ecrit.pdf"

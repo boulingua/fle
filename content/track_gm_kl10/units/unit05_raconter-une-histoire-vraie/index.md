@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — Raconter une histoire vraie"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.4 Expression orale — production orale en continu (monologue)"
 skills_focus:
-  - schreiben
-  - sprechen_monolog
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f8717b1a6a34013a3665cdd10195970"
 presentation:
   file: "/fle/materials/presentations/unit05_raconter-une-histoire-vraie.pdf"

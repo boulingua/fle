@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 12 — Bilan final : épreuve finale en vue"
 subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.4 Expression orale en continu (monologue)"
 skills_focus:
-  - schreiben
-  - sprechen_monolog
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/289e5a33ab96403fab2e00f9d5a08cc0"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-final-abitur.pdf"

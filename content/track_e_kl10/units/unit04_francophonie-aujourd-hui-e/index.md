@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Francophonie aujourd'hui"
 subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
   - "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
-  - text_medien
-  - sprechen_monolog
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22d2e7f4eb3a4a25b791dfd47c01ce00"
 presentation:
   file: "/fle/materials/presentations/unit04_francophonie-aujourd-hui-e.pdf"

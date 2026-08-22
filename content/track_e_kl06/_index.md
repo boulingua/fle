@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Classe 6 — Niveau E"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1bc684db552e471aac7223b955bb6d11"
 aliases:

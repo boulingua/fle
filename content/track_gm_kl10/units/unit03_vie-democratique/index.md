@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Vie démocratique en France"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.4 Expression orale — production orale en continu"
 skills_focus:
-  - leseverstehen
-  - sprechen_monolog
+- reading
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f78091cc7e748629b8eda26247682e9"
 presentation:
   file: "/fle/materials/presentations/unit03_vie-democratique.pdf"

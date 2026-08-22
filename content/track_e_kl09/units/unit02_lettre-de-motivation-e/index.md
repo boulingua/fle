@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 2 — Lettre de motivation (FR)"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -9,7 +10,7 @@ slug: "lettre-de-motivation-e"
 bildungsplan:
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - schreiben
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20ac93c452764ba0b60c412e529b2ee9"
 presentation:
   file: "/fle/materials/presentations/unit02_lettre-de-motivation-e.pdf"

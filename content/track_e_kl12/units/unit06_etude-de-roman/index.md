@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Étude de roman complet (extraits)"
 subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2630bb98f7b143198523c44329149c24"
 presentation:
   file: "/fle/materials/presentations/unit06_etude-de-roman.pdf"

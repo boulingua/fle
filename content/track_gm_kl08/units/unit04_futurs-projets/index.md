@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Futurs projets (futur simple)"
 subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2cd7f2d63023444089d081b10fed872e"
 presentation:
   file: "/fle/materials/presentations/unit04_futurs-projets.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Classe 9 — Niveau E"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/208c48dfb1604b9fb07d003188ad75c0"
 aliases:

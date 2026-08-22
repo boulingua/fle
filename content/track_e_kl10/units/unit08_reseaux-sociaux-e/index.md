@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Réseaux sociaux et identité"
 subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - leseverstehen
-  - sprechen_dialog
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/234bfe269c74485ab77d909071ff7d09"
 presentation:
   file: "/fle/materials/presentations/unit08_reseaux-sociaux-e.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 7 — Champs de bataille (Verdun / Ypres)"
 subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - leseverstehen
-  - text_medien
+- reading
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1ff88749bde94842acc2dd69c373e144"
 presentation:
   file: "/fle/materials/presentations/unit07_champs-de-bataille.pdf"

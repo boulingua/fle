@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Vie démocratique en France"
 subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.4 Expression orale — en continu (monologue)"
 skills_focus:
-  - leseverstehen
-  - sprechen_monolog
+- reading
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/22b2a1b5245242d790aa01932d2f47f8"
 presentation:
   file: "/fle/materials/presentations/unit03_vie-democratique-e.pdf"

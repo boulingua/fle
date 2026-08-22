@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Autour de la planète francophone"
 subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.4 Expression orale — production orale en continu (monologue)"
 skills_focus:
-  - leseverstehen
-  - sprechen_monolog
+- reading
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1fb08dc97f03485fadf25557ed937604"
 presentation:
   file: "/fle/materials/presentations/unit04_autour-de-la-planete-francophone-e.pdf"

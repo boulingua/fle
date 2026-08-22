@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Mes médias préférés"
 subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - sprechen_dialog
-  - text_medien
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1f9ede6fc1e1427d9361f798b4c3405e"
 presentation:
   file: "/fle/materials/presentations/unit03_mes-medias-preferes-e.pdf"

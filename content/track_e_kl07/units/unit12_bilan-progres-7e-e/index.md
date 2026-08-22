@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 12 — Bilan : mes progrès en 7e"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Sprechen — monologisches Sprechen"
   - "3.1.3.5 Schreiben"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1eee4a8671094fd0916e5ebc9152b7b5"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-progres-7e-e.pdf"

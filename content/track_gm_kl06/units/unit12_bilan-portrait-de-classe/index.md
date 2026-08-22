@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 12 — Bilan : portrait de classe"
 subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — production en continu"
   - "3.1.3.6 Médiation linguistique"
 skills_focus:
-  - sprechen_monolog
-  - sprachmittlung
+- mediation
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a8d902b5a554b8593e0aadc99a3dd97"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-portrait-de-classe.pdf"

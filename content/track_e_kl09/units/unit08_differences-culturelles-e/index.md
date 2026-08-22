@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Différences culturelles franco-allemandes"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Sprechen — monologisches Sprechen"
   - "3.1.3.6 Sprachmittlung"
 skills_focus:
-  - sprechen_monolog
-  - sprachmittlung
+- mediation
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/21ec2a0dcd8e46a0a33f2bf2e038239d"
 presentation:
   file: "/fle/materials/presentations/unit08_differences-culturelles-e.pdf"

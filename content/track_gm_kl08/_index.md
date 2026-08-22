@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Classe 8 — Niveau G+M (cours prototype)"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c32ca894703496f94a3878cc3693c9f"
 aliases:

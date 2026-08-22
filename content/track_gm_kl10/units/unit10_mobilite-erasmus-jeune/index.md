@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Mobilité (Erasmus jeune)"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - hör_hörsehverstehen
-  - schreiben
+- listening
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/3010a31425534cf4bc4194604450ae6b"
 presentation:
   file: "/fle/materials/presentations/unit10_mobilite-erasmus-jeune.pdf"

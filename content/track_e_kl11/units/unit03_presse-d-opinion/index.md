@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Presse d'opinion"
 subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
-  - leseverstehen
-  - sprechen_monolog
+- reading
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23e3c50110a7408a847b42333d4c2acb"
 presentation:
   file: "/fle/materials/presentations/unit03_presse-d-opinion.pdf"

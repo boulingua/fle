@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Consommation responsable"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2ed435d7246b4d4c9387457ebc756767"
 presentation:
   file: "/fle/materials/presentations/unit10_consommation-responsable.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Fête et invitations"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - schreiben
-  - sprechen_dialog
+- speaking_interaction
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e65d6bab63944249edff767db09f613"
 presentation:
   file: "/fle/materials/presentations/unit09_fete-et-invitations.pdf"

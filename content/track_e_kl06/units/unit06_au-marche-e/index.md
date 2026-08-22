@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Au marché"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - hör_hörsehverstehen
-  - sprechen_dialog
+- listening
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1ca3fa38c1684fad94e27f2b16b328f2"
 presentation:
   file: "/fle/materials/presentations/unit06_au-marche-e.pdf"

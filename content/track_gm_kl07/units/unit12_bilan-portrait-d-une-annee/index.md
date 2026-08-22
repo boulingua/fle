@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 12 — Bilan : portrait d'une année"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.2 Compétence interculturelle communicative"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c207093fff14e2eacdaa7836fbd7566"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-portrait-d-une-annee.pdf"

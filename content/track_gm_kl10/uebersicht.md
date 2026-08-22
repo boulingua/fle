@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "classe 10 — Plan hebdomadaire"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f1361fc08fb4c38bda7d17b486fde41"
 aliases:

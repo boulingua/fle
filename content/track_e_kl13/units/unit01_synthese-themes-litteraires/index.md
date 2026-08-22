@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Synthèse des thèmes littéraires"
 subtitle: "Parcours E (lycée) · classe 13 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/271dbe5ae8e543ae8440759a3076a259"
 presentation:
   file: "/fle/materials/presentations/unit01_synthese-themes-litteraires.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 2 — Raconter le week-end (passé composé)"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2afa2b7e1d934c17ab686fdd4a176b72"
 presentation:
   file: "/fle/materials/presentations/unit02_raconter-le-week-end.pdf"

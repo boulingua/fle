@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 11 — Français au travail (un peu de jargon)"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.6 Médiation linguistique"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - sprachmittlung
-  - sprechen_dialog
+- mediation
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2eef60e9d8b54dac92ed63cde4abc105"
 presentation:
   file: "/fle/materials/presentations/unit11_francais-au-travail.pdf"

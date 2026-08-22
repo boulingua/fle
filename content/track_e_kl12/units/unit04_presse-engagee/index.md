@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Presse engagée (*Le Monde diplomatique*)"
 subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26168bca81d642529c92f8bb458671eb"
 presentation:
   file: "/fle/materials/presentations/unit04_presse-engagee.pdf"

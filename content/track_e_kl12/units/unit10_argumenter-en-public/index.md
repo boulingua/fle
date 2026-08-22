@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Argumenter en public (épreuve communicative)"
 subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — production en continu (monologue)"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - sprechen_monolog
-  - sprechen_dialog
+- speaking_interaction
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/26b48723128f4015959b3675694789e5"
 presentation:
   file: "/fle/materials/presentations/unit10_argumenter-en-public.pdf"

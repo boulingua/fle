@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Transition formation / emploi"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f139f63d98f4c90a37e3c130f154a18"
 presentation:
   file: "/fle/materials/presentations/unit01_transition-formation-emploi.pdf"

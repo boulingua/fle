@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Histoire et mémoire (Vichy, Algérie)"
 subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/24ad0cc701b249cda11083ad944267e7"
 presentation:
   file: "/fle/materials/presentations/unit09_histoire-et-memoire.pdf"

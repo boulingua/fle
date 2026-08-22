@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Voix féminines en littérature"
 subtitle: "Parcours E (lycée) · classe 11 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
-  - leseverstehen
-  - sprechen_monolog
+- reading
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/249d1a3fdcd748a180d5d0955d50b2f0"
 presentation:
   file: "/fle/materials/presentations/unit08_voix-feminines.pdf"

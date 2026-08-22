@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Correspondance avec Montréal"
 subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2c5fd8b7b43d40a9b54e67ceaf81f43b"
 presentation:
   file: "/fle/materials/presentations/unit01_correspondance-avec-montreal.pdf"

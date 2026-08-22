@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Réseaux sociaux et identité"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - leseverstehen
-  - sprechen_dialog
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2fd8af06ce924dafb03ffd16a0ed15c9"
 presentation:
   file: "/fle/materials/presentations/unit08_reseaux-sociaux.pdf"

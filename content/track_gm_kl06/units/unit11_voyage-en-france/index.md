@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 11 — Voyage en France — premières impressions"
 subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
@@ -11,8 +12,7 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
   - "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
-  - hör_hörsehverstehen
-  - text_medien
+- listening
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a7a2712c0ad45e0aaf423542cb4907c"
 presentation:
   file: "/fle/materials/presentations/unit11_voyage-en-france.pdf"

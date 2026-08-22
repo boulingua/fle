@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Les transports"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
-  - hoerverstehen
-  - wortschatz
+- language_awareness
+- listening
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b8a7685d2174a05850e9e597fd5c4e9"
 presentation:
   file: "/fle/materials/presentations/unit06_les-transports.pdf"

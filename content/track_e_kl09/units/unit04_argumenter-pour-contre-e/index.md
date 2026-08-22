@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Argumenter pour / contre"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — monologisches Expression orale"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/20fb736bae274f39b7592c310e63802b"
 presentation:
   file: "/fle/materials/presentations/unit04_argumenter-pour-contre-e.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 2 — Ma famille"
 subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
-  - sprechen_monolog
-  - leseverstehen
+- reading
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28d90bc5397040f7810b820383439c13"
 presentation:
   file: "/fle/materials/presentations/unit02_ma-famille.pdf"

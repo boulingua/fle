@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 7 — Harcèlement et respect (au collège)"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_dialog
-  - schreiben
+- speaking_interaction
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e8350ade2ab4affade9ec52f9fed908"
 presentation:
   file: "/fle/materials/presentations/unit07_harcelement-et-respect.pdf"

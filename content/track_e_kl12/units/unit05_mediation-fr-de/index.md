@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — Médiation FR↔DE (épreuve finale)"
 subtitle: "Parcours E (lycée) · classe 12 · Niveau E"
 niveau: "E"
@@ -9,7 +10,7 @@ slug: "mediation-fr-de"
 bildungsplan:
   - "3.1.3.6 Médiation linguistique"
 skills_focus:
-  - sprachmittlung
+- mediation
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2623e5dfbbf14a188a39e25749b7805c"
 presentation:
   file: "/fle/materials/presentations/unit05_mediation-fr-de.pdf"

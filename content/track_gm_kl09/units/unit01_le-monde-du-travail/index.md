@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Le monde du travail (Praktikum)"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d9efd254a624164a84cbf62d12a81c3"
 presentation:
   file: "/fle/materials/presentations/unit01_le-monde-du-travail.pdf"

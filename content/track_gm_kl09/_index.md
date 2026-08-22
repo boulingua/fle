@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Classe 9 — Niveau G+M"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d8b1da63eb649a596b3e957c4755318"
 aliases:

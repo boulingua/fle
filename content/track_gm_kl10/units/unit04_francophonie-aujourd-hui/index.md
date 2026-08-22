@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Francophonie aujourd'hui"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
   - "3.1.3.4 Expression orale — production orale en continu"
 skills_focus:
-  - text_medien
-  - sprechen_monolog
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f7b98b7fa1d4ae28451718dc2d4ba82"
 presentation:
   file: "/fle/materials/presentations/unit04_francophonie-aujourd-hui.pdf"

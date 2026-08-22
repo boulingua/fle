@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Filière G+M (Gemeinschaftsschule, classes 6 à 10)"
 subtitle: "60 unités sur cinq années — niveaux G et M"
 layout: filiere

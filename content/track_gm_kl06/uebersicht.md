@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "classe 6 — Plan hebdomadaire"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/28bab522cdc4414a88c859f764669716"
 aliases:

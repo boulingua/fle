@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 3 — Écologie au quotidien"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
-  - sprechen_dialog
-  - leseverstehen
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e1807a2c0c14311bcaeff4478e8d0b9"
 presentation:
   file: "/fle/materials/presentations/unit03_ecologie-au-quotidien.pdf"

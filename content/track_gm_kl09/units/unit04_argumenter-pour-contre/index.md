@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 4 — Argumenter pour / contre"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — prise de parole en continu (monologue)"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2e332f8a71d541159f35e8a15bb97735"
 presentation:
   file: "/fle/materials/presentations/unit04_argumenter-pour-contre.pdf"

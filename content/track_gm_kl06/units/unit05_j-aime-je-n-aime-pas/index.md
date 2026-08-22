@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — J'aime, je n'aime pas"
 subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
-  - sprechen_dialog
-  - schreiben
+- speaking_interaction
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2911775a1ce1414b849fc64bd9b53ed9"
 presentation:
   file: "/fle/materials/presentations/unit05_j-aime-je-n-aime-pas.pdf"

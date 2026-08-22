@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: "Grille d'évaluation"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1b2c58f2d3ae49babff640cf5e55d5ad"
 aliases:

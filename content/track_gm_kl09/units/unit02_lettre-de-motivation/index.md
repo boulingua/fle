@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 2 — Lettre de motivation"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -9,7 +10,7 @@ slug: "lettre-de-motivation"
 bildungsplan:
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - schreiben
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2de1880116d94255b076daf9c43b40d6"
 presentation:
   file: "/fle/materials/presentations/unit02_lettre-de-motivation.pdf"

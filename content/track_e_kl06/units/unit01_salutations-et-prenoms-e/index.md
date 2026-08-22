@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 1 — Salutations et prénoms"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -9,7 +10,7 @@ slug: "salutations-et-prenoms-e"
 bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - sprechen_dialog
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1be616bdc20c4f11bb1248ef8af10b56"
 presentation:
   file: "/fle/materials/presentations/unit01_salutations-et-prenoms-e.pdf"

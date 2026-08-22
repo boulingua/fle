@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — Lecture suivie : *Le Petit Nicolas* (extraits)"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - leseverstehen
-  - text_medien
+- reading
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2130a38685a04ceb939fd6540e22db5e"
 presentation:
   file: "/fle/materials/presentations/unit05_le-petit-nicolas.pdf"

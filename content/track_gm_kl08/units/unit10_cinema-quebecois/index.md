@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Cinéma québécois"
 subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — production en continu"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - hör_hörsehverstehen
-  - sprechen_monolog
+- listening
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d37cb99a2a24175a031ebc52f43834b"
 presentation:
   file: "/fle/materials/presentations/unit10_cinema-quebecois.pdf"

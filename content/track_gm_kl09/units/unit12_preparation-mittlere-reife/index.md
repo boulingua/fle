@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 12 — Préparation diplôme intermédiaire (révisions)"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - leseverstehen
-  - schreiben
+- reading
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2effee652d1f43dbb5d3088ab2cd1582"
 presentation:
   file: "/fle/materials/presentations/unit12_preparation-mittlere-reife.pdf"

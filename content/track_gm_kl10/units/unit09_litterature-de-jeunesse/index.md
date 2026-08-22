@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Littérature de jeunesse FR"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - leseverstehen
-  - text_medien
+- reading
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2fe6a666eed842b5b9d4c8411d12bca3"
 presentation:
   file: "/fle/materials/presentations/unit09_litterature-de-jeunesse.pdf"

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 8 — Le Québec"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.2 Compétence interculturelle communicative"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - leseverstehen
-  - interkulturelle_kompetenz
+- intercultural
+- reading
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2bb3df2b8c1b4ecba14ef33dc51c40a0"
 presentation:
   file: "/fle/materials/presentations/unit08_le-quebec.pdf"

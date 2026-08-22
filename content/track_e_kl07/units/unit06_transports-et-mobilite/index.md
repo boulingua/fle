@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Transports et mobilité"
 subtitle: "Parcours E (lycée) · classe 7 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.4 Expression orale — production orale en continu"
 skills_focus:
-  - leseverstehen
-  - sprechen_monolog
+- reading
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1e19f533d33d4ddeb044e1f61ca0bddf"
 presentation:
   file: "/fle/materials/presentations/unit06_transports-et-mobilite.pdf"

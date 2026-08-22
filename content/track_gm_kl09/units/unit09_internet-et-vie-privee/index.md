@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Internet et vie privée"
 subtitle: "Parcours G+M · classe 9 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - leseverstehen
-  - sprechen_dialog
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2ec0ab6995d0405dac7040152346130c"
 presentation:
   file: "/fle/materials/presentations/unit09_internet-et-vie-privee.pdf"

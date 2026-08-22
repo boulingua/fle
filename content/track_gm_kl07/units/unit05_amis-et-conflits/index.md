@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — Amis et conflits"
 subtitle: "Parcours G+M · classe 7 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.2 Compétence interculturelle communicative"
 skills_focus:
-  - sprechen_dialog
-  - schreiben
+- speaking_interaction
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2b40e0b531a140c38b546e2b2c0bda18"
 presentation:
   file: "/fle/materials/presentations/unit05_amis-et-conflits.pdf"

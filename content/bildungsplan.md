@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "Référentiel — alignement"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1b8013b174a24109bcfb86721e2e6be9"
 aliases:

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Ma chambre, ma maison"
 subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
@@ -11,8 +12,8 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2a23cd8ecdf04b5da01b398d69ef43e2"
 presentation:
   file: "/fle/materials/presentations/unit09_ma-chambre.pdf"

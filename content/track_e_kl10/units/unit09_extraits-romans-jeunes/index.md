@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Extraits de romans jeunes (FR)"
 subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
@@ -10,8 +11,7 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
-  - leseverstehen
-  - text_medien
+- reading
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23514fe6ce47467495aafaa7bf033489"
 presentation:
   file: "/fle/materials/presentations/unit09_extraits-romans-jeunes.pdf"

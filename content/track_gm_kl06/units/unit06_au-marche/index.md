@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Au marché"
 subtitle: "Parcours G+M · classe 6 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
-  - hör_hörsehverstehen
-  - sprechen_dialog
+- listening
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/29422f90ffb340368e6ae261d3803471"
 presentation:
   file: "/fle/materials/presentations/unit06_au-marche.pdf"

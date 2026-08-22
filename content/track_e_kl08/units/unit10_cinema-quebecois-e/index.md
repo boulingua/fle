@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 10 — Cinéma québécois"
 subtitle: "Parcours E (lycée) · classe 8 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
   - "3.1.3.4 Expression orale — production orale en continu"
 skills_focus:
-  - hör_hörsehverstehen
-  - sprechen_monolog
+- listening
+- speaking_production
 vgwort_pixel: "https://vg09.met.vgwort.de/na/201e8a07f20948bdb286782e04a48002"
 presentation:
   file: "/fle/materials/presentations/unit10_cinema-quebecois-e.pdf"

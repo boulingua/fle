@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 9 — Ma chambre, ma maison"
 subtitle: "Parcours E (lycée) · classe 6 · Niveau E"
 niveau: "E"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — production orale en continu"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1cf1f0ac23dd4b61b4e2f639b9cfb251"
 presentation:
   file: "/fle/materials/presentations/unit09_ma-chambre-e.pdf"

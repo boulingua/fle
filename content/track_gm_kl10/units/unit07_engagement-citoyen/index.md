@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 7 — Engagement citoyen des jeunes"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_dialog
-  - schreiben
+- speaking_interaction
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2fa48f05cdf24373b0601de6ecd67d0a"
 presentation:
   file: "/fle/materials/presentations/unit07_engagement-citoyen.pdf"

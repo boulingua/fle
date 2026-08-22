@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 5 — Médiation linguistique DE → résumé FR"
 subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
@@ -10,7 +11,7 @@ bildungsplan:
   - "3.1.3.6 Médiation linguistique"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprachmittlung
+- mediation
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2cee0756b51c447881e0cf4fb2ad5f32"
 presentation:
   file: "/fle/materials/presentations/unit05_sprachmittlung-de-fr-resume.pdf"

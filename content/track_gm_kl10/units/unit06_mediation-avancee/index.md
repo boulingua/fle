@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 6 — Médiation avancée DE↔FR"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -9,7 +10,7 @@ slug: "mediation-avancee"
 bildungsplan:
   - "3.1.3.6 Médiation linguistique"
 skills_focus:
-  - sprachmittlung
+- mediation
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2f9d644f34654a6392bbe0260b2cba81"
 presentation:
   file: "/fle/materials/presentations/unit06_mediation-avancee.pdf"

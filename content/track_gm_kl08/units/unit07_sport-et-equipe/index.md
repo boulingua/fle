@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 7 — Sport et esprit d'équipe"
 subtitle: "Parcours G+M · classe 8 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
-  - sprechen_dialog
-  - leseverstehen
+- reading
+- speaking_interaction
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2d10b580ba1a44a99cd1c11075084176"
 presentation:
   file: "/fle/materials/presentations/unit07_sport-et-equipe.pdf"

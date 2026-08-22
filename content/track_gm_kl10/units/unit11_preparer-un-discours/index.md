@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unité 11 — Préparer un discours"
 subtitle: "Parcours G+M · classe 10 · Niveau M"
 niveau: "M"
@@ -10,8 +11,8 @@ bildungsplan:
   - "3.1.3.4 Expression orale — production orale en continu"
   - "3.1.3.5 Expression écrite"
 skills_focus:
-  - sprechen_monolog
-  - schreiben
+- speaking_production
+- writing
 vgwort_pixel: "https://vg09.met.vgwort.de/na/3058d551812048e6be83734ba35f56bc"
 presentation:
   file: "/fle/materials/presentations/unit11_preparer-un-discours.pdf"

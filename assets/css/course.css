@@ -1,0 +1,247 @@
+/* fle-only styling. Everything the kit already provides was removed when
+   this course adopted the module: what is left is the filiere overview
+   tables and the CEFR badges, which exist in no other course because no
+   other course organises its levels as filieres.
+
+   Loaded after the kit's custom.css via hugo.toml customCSS, so it layers
+   rather than replaces. */
+
+/* boulingua / FLE design system overrides for hugo-coder.
+   Mirrors the reference site's variable scheme so all four sites share
+   the same visual language. */
+
+:root {
+  --boulingua-accent: #4B8D19;
+  --boulingua-accent-hover: #366612;
+  --boulingua-panel-border: rgba(0, 0, 0, 0.12);
+  --boulingua-panel-border-hover: var(--boulingua-accent);
+  --boulingua-panel-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  --boulingua-rule: rgba(0, 0, 0, 0.12);
+}
+
+.navigation .navigation-title {
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
+}
+
+/* The first item flagged params.align = "end" in hugo.toml (or the GitHub
+   icon if no end-aligned menu items exist) pushes itself + every following
+   item to the right edge of the navbar. */
+.navigation-end,
+.navigation-repo {
+  margin-left: auto;
+}
+
+/* Subsequent end-aligned items don't need their own margin-left:auto — the
+   first one already pushed the whole tail right. */
+.navigation-end ~ .navigation-end,
+.navigation-end ~ .navigation-repo {
+  margin-left: 0;
+}
+
+.navigation-repo .navigation-link {
+  font-size: 1.1rem;
+}
+
+/* ── Filière overview table ───────────────────────────────────── */
+.filiere-overview .filiere-table {
+  width: 100%;
+  margin-top: 1.25rem;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.filiere-table th,
+.filiere-table td {
+  border: 1px solid var(--boulingua-panel-border);
+  padding: 0.45rem 0.6rem;
+  vertical-align: top;
+  text-align: left;
+}
+
+.filiere-table thead th {
+  background: rgba(26, 115, 232, 0.06);
+  font-weight: 600;
+}
+
+.filiere-table thead a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--boulingua-accent);
+}
+
+.filiere-table tbody th {
+  white-space: nowrap;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+  font-weight: 500;
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.filiere-table td a { text-decoration: none; }
+
+.filiere-table td a:hover { text-decoration: underline; }
+
+.filiere-empty {
+  color: var(--boulingua-rule);
+}
+
+/* ── Hero kicker (small caps eyebrow) ───────────── */
+.hero-kicker {
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--boulingua-accent);
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+/* ── Lead paragraph ─────────────────────────────── */
+.lead {
+  font-size: 1.15rem;
+  line-height: 1.55;
+}
+
+/* ── Card grid ──────────────────────────────────── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.cefr-badge.c2 { background: #b71c1c; }
+
+/* ── Callouts ───────────────────────────────────── */
+.callout {
+  border-left: 4px solid var(--boulingua-accent);
+  background: rgba(26, 115, 232, 0.06);
+  padding: 0.9rem 1.1rem;
+  margin: 1.25rem 0;
+  border-radius: 4px;
+}
+
+/* ── Material-links partial ─────────────────────── */
+.material-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.material-card img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--boulingua-rule);
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.material-card .download-btn {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 4px;
+  background: var(--boulingua-accent);
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.material-card .download-btn:hover {
+  background: var(--boulingua-accent-hover);
+}
+
+/* ── Materials hub listing ──────────────────────── */
+.materials-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.materials-search {
+  width: 100%;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--boulingua-panel-border);
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.materials-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.tag-chip {
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--boulingua-panel-border);
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.tag-chip.active {
+  background: var(--boulingua-accent);
+  color: white;
+  border-color: var(--boulingua-accent);
+}
+
+.materials-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.tile-tag {
+  font-size: 0.72rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  background: rgba(26, 115, 232, 0.1);
+  color: var(--boulingua-accent);
+}
+
+.material-tile .download-btn {
+  margin-top: 0.6rem;
+  text-align: center;
+}
+
+.material-card-title {
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+/* ── VG Wort pixel hidden but emitted ───────────── */
+.vgwort-pixel img,
+img.vgwort-pixel {
+  position: absolute;
+  left: -9999px;
+  visibility: hidden;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--boulingua-rule);
+  margin: 2rem 0;
+}
+
+/* ── Colour-scheme toggle (navbar) ──────────────────
+   Single toggle element bound by the theme's coder.js (#dark-mode-toggle).
+   Moon shows in light mode (click → dark); sun shows in dark mode
+   (click → light); under colorscheme-auto the icon follows the OS. */
+.colorscheme-toggle {
+  background: none; border: 0; cursor: pointer; color: inherit;
+  padding: 0 0.5rem; display: inline-flex; align-items: center; line-height: 1;
+}
+
+.colorscheme-toggle .cs-icon--sun { display: none; }
+
+body.colorscheme-dark .colorscheme-toggle .cs-icon--moon { display: none; }
+
+/* ── Section audio (« Écouter ») ─────────────────── */
+.audio-section { margin: 2.5rem 0 1.5rem; }

@@ -3,6 +3,7 @@ title = "FLE — S. Le Boulanger"
 languageCode = "fr"
 defaultContentLanguage = "fr"
 enableEmoji = false
+enableRobotsTXT = true
 
 [pagination]
   pagerSize = 20
@@ -19,6 +20,14 @@ enableEmoji = false
   ordered = false
 
 [params]
+  code = "fle"
+  license = "CC BY-SA 4.0"
+  # Two self-hosted faces, declared rather than preloaded from a forked copy of
+  # the kit's head partial.
+  font_preload = [
+    "fonts/source-sans-3-v19-latin_latin-ext-regular.woff2",
+    "fonts/jetbrains-mono-v24-latin_latin-ext-regular.woff2",
+  ]
   # Hide the theme's floating colour-scheme toggle; the navbar hosts the single #dark-mode-toggle.
   hideColorSchemeToggle = true
   author = "S. Le Boulanger"
@@ -30,7 +39,9 @@ enableEmoji = false
   hideCredits = true
   since = 2025
   colorScheme = "auto"
-  customCSS = ["css/custom.css", "css/network.css"]
+  # The kit supplies tokens.css and custom.css through the module; course.css
+  # holds only what is fle's own, and layers on top.
+  customCSS = ["css/tokens.css", "css/custom.css", "css/course.css", "css/network.css"]
   repoURL = "https://github.com/boulingua/fle"
   # Short brand label for the top-of-page navbar. Browser title and OG meta
   # continue to use the full `title = "FLE — S. Le Boulanger"`.
@@ -91,5 +102,12 @@ enableEmoji = false
     align = "end"
 
 [module]
+  # First match wins in listed order, so the kit must precede hugo-coder to
+  # override it. Listed after, the theme's own body/extensions.html and
+  # head/extensions.html stubs win and the kit is never reached — which takes
+  # every VG Wort pixel off the site with a green build.
+  [[module.imports]]
+    path = "github.com/boulingua/kit"
   [[module.imports]]
     path = "github.com/luizdepra/hugo-coder"
+

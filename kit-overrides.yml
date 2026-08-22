@@ -1,0 +1,12 @@
+# Files this course keeps its own version of, where the kit ships one too.
+#
+# A declared override is still a fork. Every entry carries a reason and a
+# destination, gate A1 warns on each one on every build, and an entry whose
+# file no longer exists fails — the override cannot outlive the fork.
+
+overrides: []
+# Nothing here yet. fle's four remaining layouts — _default/filiere.html,
+# materiel/list.html, materiel/materials-list.html and _partials/list.html —
+# are files the kit does not ship at all, not forks of kit files, so A1 allows
+# them without a declaration. They are named on the French section vocabulary
+# (filière, matériel) that this course's URLs are built from.

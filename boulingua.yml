@@ -1,0 +1,50 @@
+# boulingua.yml — the per-course configuration the gate battery reads.
+#
+# One file. The specifications had this split across a materials-profile.yml, a
+# gates: block in the workflow, and half a dozen hugo.toml params, which meant
+# three places to look and three places to disagree.
+
+code: fle
+kind: course
+content_model: leaf-bundle
+
+# ── The slug declaration: THREE AXES, NOT ONE ──────────────────────────────
+#
+# THE TRAP IN THIS ORGANISATION. Measured on this repo:
+#   312 of 358 pages carry a front-matter slug: override, and NOT ONE of them
+#   contains an underscore
+#   section path is underscored — /track_gm_kl06/
+#   the leaf slug comes from FRONT MATTER, not from the directory
+#   the unit ordinal is ABSENT from the URL
+#
+# A single `slug_style: underscore` here is wrong and destructive: a generator
+# honouring it emits /track_gm_kl06/units/unit01_salutations-et-prenoms/ and
+# orphans 351 registered VG Wort marks in one commit. The underscores are in
+# the SECTION path only.
+#
+# The 312 overrides are load-bearing and must never be "cleaned up" as
+# redundant. They are also what made the flat-to-leaf-bundle conversion
+# URL-neutral: Hugo's slug replaces a bundle directory name exactly as it
+# replaces a flat filename.
+slug:
+  section_separator: underscore
+  leaf_source: frontmatter
+  leaf_style: hyphen
+  unit_number_in_slug: false
+
+script_tier: core
+target_language: fr
+chrome_language: de
+
+band_default: II
+milestone: M0
+
+gates:
+  network_graph: true
+  pagefind: true
+  bildungsplan: true            # 156 pages carry a bildungsplan block
+  curriculum: warn
+
+vgwort:
+  registry: data/vgwort.yaml    # only 2 entries; 349 marks live in front matter
+  url_lock: vgwort/url-lock-provisional.csv

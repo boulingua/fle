@@ -24,6 +24,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit06_mediation-finale.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.01
+    - B2.MED.managing-interaction.03
+    - B2.INT.information-exchange.05
+    - B2.LING.grammatical-accuracy.01
+    - B2.PLUR.building-on-plurilingual-repertoire.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

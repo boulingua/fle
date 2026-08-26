@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl09/units/unit04_argumenter-pour-contre.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.creative-writing.04
+    - A2.PROD.overall-oral-production.01
+    - A2.INT.overall-written-interaction.01
+    - A2.MED.note-taking.01
+    - A2.PRAG.flexibility.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

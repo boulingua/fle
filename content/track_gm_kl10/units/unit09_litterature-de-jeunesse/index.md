@@ -25,6 +25,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl10/units/unit09_litterature-de-jeunesse.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.REC.reading-for-orientation.06
+    - B1.REC.identifying-cues-and-inferring.05
+    - B1.MED.adapting-language.02
+    - B1.MED.note-taking.02
+    - B1.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

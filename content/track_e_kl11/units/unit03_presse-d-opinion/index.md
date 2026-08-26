@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl11/units/unit03_presse-d-opinion.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.creative-writing.02
+    - B1.REC.understanding-announcements-and-instructions.01
+    - B1.PROD.reports-and-essays.02
+    - B1.REC.identifying-cues-and-inferring.01
+    - B1.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

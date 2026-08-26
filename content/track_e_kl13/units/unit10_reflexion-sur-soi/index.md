@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit10_reflexion-sur-soi.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.overall-oral-production.01
+    - B2.PROD.reports-and-essays.01
+    - B2.MED.collaborating-to-construct-meaning.05
+    - B2.MED.note-taking.01
+    - B2.INT.conversation.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit01_le-monde-du-travail-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.creative-writing.03
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.understanding-announcements-and-instructions.03
+    - A2.PROD.overall-oral-production.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

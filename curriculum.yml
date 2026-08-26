@@ -1,0 +1,3168 @@
+# Conformance manifest — boulingua/fle.
+#
+# Two fields, because they are two facts. `declared_conformance` is the TARGET;
+# `conformance_status` is whether it has been reached. Collapsing them makes
+# "aiming at core and not there yet" indistinguishable from a lesser target,
+# and a course does not aim at partial.
+#
+# This course is IN-PROGRESS and will stay so while any page carries
+# implements_basis: proposed. The structure of those claims is verified — every
+# id resolves at the page's own level, no two share a scale, and the breadth
+# rule holds — but the judgement behind them is a machine ranking, not a
+# reading of the unit. Confirming a tranche means changing that field, and the
+# count below is what tells you how much is left.
+
+framework: boulingua-curriculum
+framework_version: 1.1.0
+language: fr
+declared_conformance: full
+conformance_status: in-progress
+
+levels_claimed: [A1, A2, B1, B2]
+
+# Pages by level, measured from the content rather than declared here.
+pages:
+  A1: 96
+  A2: 96
+  B1: 72
+  B2: 48
+
+implements:
+  distinct_descriptors: 261
+  proposed: 312
+  asserted: 0
+
+realizations:
+# Generated from the content, never hand-kept — gate A16 checks the two
+# against each other, and a list maintained by hand is the thing that
+# drifts. `page` is a content path and deliberately not a URL: a
+# conformance layer referencing URLs would become a second reason to
+# re-slug, and a re-slug orphans registered VG Wort marks.
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e
+  - implements_id: A1.INT.correspondence.01
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e
+  - implements_id: A1.LING.phonological-control.01
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl06/units/unit01_salutations-et-prenoms-e_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl06/units/unit02_ma-famille-e
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit02_ma-famille-e
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl06/units/unit02_ma-famille-e
+  - implements_id: A1.REC.reading-for-orientation.01
+    page: track_e_kl06/units/unit02_ma-famille-e
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit02_ma-famille-e
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit02_ma-famille-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit02_ma-famille-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl06/units/unit02_ma-famille-e_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit02_ma-famille-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl06/units/unit02_ma-famille-e_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl06/units/unit03_mon-college-e
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit03_mon-college-e
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl06/units/unit03_mon-college-e
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: track_e_kl06/units/unit03_mon-college-e
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit03_mon-college-e
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit03_mon-college-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit03_mon-college-e_exam
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: track_e_kl06/units/unit03_mon-college-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl06/units/unit03_mon-college-e_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit03_mon-college-e_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl06/units/unit04_ma-journee-e
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl06/units/unit04_ma-journee-e
+  - implements_id: A1.INT.information-exchange.02
+    page: track_e_kl06/units/unit04_ma-journee-e
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit04_ma-journee-e
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit04_ma-journee-e
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit04_ma-journee-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit04_ma-journee-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl06/units/unit04_ma-journee-e_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit04_ma-journee-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl06/units/unit04_ma-journee-e_exam
+  - implements_id: A1.INT.correspondence.03
+    page: track_e_kl06/units/unit05_gouts-et-couleurs
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl06/units/unit05_gouts-et-couleurs
+  - implements_id: A1.INT.information-exchange.02
+    page: track_e_kl06/units/unit05_gouts-et-couleurs
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl06/units/unit05_gouts-et-couleurs
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_e_kl06/units/unit05_gouts-et-couleurs
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl06/units/unit05_gouts-et-couleurs_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit05_gouts-et-couleurs_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit05_gouts-et-couleurs_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl06/units/unit05_gouts-et-couleurs_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl06/units/unit05_gouts-et-couleurs_exam
+  - implements_id: A1.INT.correspondence.03
+    page: track_e_kl06/units/unit06_au-marche-e
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit06_au-marche-e
+  - implements_id: A1.INT.goal-oriented-co-operation.01
+    page: track_e_kl06/units/unit06_au-marche-e
+  - implements_id: A1.REC.reading-correspondence.02
+    page: track_e_kl06/units/unit06_au-marche-e
+  - implements_id: A1.LING.phonological-control.01
+    page: track_e_kl06/units/unit06_au-marche-e
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit06_au-marche-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit06_au-marche-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl06/units/unit06_au-marche-e_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit06_au-marche-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl06/units/unit06_au-marche-e_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam
+  - implements_id: A1.INT.information-exchange.07
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam
+  - implements_id: A1.REC.reading-for-orientation.04
+    page: track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit08_premiere-poesie
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: track_e_kl06/units/unit08_premiere-poesie
+  - implements_id: A1.INT.correspondence.03
+    page: track_e_kl06/units/unit08_premiere-poesie
+  - implements_id: A1.INT.interviewing-and-being-interviewed.02
+    page: track_e_kl06/units/unit08_premiere-poesie
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: track_e_kl06/units/unit08_premiere-poesie
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit08_premiere-poesie_exam
+  - implements_id: A1.INT.correspondence.01
+    page: track_e_kl06/units/unit08_premiere-poesie_exam
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_e_kl06/units/unit08_premiere-poesie_exam
+  - implements_id: A1.LING.phonological-control.01
+    page: track_e_kl06/units/unit08_premiere-poesie_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_e_kl06/units/unit08_premiere-poesie_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl06/units/unit09_ma-chambre-e
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl06/units/unit09_ma-chambre-e
+  - implements_id: A1.LING.phonological-control.01
+    page: track_e_kl06/units/unit09_ma-chambre-e
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: track_e_kl06/units/unit09_ma-chambre-e
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit09_ma-chambre-e
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl06/units/unit09_ma-chambre-e_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit09_ma-chambre-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit09_ma-chambre-e_exam
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit09_ma-chambre-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl06/units/unit09_ma-chambre-e_exam
+  - implements_id: A1.INT.information-exchange.02
+    page: track_e_kl06/units/unit10_mes-loisirs-e
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit10_mes-loisirs-e
+  - implements_id: A1.INT.interviewing-and-being-interviewed.01
+    page: track_e_kl06/units/unit10_mes-loisirs-e
+  - implements_id: A1.REC.reading-correspondence.02
+    page: track_e_kl06/units/unit10_mes-loisirs-e
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_e_kl06/units/unit10_mes-loisirs-e
+  - implements_id: A1.INT.informal-discussion.01
+    page: track_e_kl06/units/unit10_mes-loisirs-e_exam
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl06/units/unit10_mes-loisirs-e_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit10_mes-loisirs-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit10_mes-loisirs-e_exam
+  - implements_id: A1.REC.reading-correspondence.03
+    page: track_e_kl06/units/unit10_mes-loisirs-e_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl06/units/unit11_voyage-decouverte
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl06/units/unit11_voyage-decouverte
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl06/units/unit11_voyage-decouverte
+  - implements_id: A1.REC.reading-correspondence.02
+    page: track_e_kl06/units/unit11_voyage-decouverte
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl06/units/unit11_voyage-decouverte
+  - implements_id: A1.REC.reading-for-orientation.04
+    page: track_e_kl06/units/unit11_voyage-decouverte_exam
+  - implements_id: A1.INT.information-exchange.07
+    page: track_e_kl06/units/unit11_voyage-decouverte_exam
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl06/units/unit11_voyage-decouverte_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl06/units/unit11_voyage-decouverte_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit11_voyage-decouverte_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl06/units/unit12_bilan-portrait-e
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl06/units/unit12_bilan-portrait-e
+  - implements_id: A1.INT.correspondence.03
+    page: track_e_kl06/units/unit12_bilan-portrait-e
+  - implements_id: A1.INT.informal-discussion.01
+    page: track_e_kl06/units/unit12_bilan-portrait-e
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_e_kl06/units/unit12_bilan-portrait-e
+  - implements_id: A1.INT.correspondence.03
+    page: track_e_kl06/units/unit12_bilan-portrait-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl06/units/unit12_bilan-portrait-e_exam
+  - implements_id: A1.REC.reading-for-orientation.04
+    page: track_e_kl06/units/unit12_bilan-portrait-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl06/units/unit12_bilan-portrait-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl06/units/unit12_bilan-portrait-e_exam
+  - implements_id: A1.INT.conversation.02
+    page: track_e_kl07/units/unit01_la-rentree-e
+  - implements_id: A1.INT.goal-oriented-co-operation.01
+    page: track_e_kl07/units/unit01_la-rentree-e
+  - implements_id: A1.LING.phonological-control.01
+    page: track_e_kl07/units/unit01_la-rentree-e
+  - implements_id: A1.PLUR.building-on-plurilingual-repertoire.01
+    page: track_e_kl07/units/unit01_la-rentree-e
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: track_e_kl07/units/unit01_la-rentree-e
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit01_la-rentree-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl07/units/unit01_la-rentree-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl07/units/unit01_la-rentree-e_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl07/units/unit01_la-rentree-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl07/units/unit01_la-rentree-e_exam
+  - implements_id: A1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl07/units/unit02_raconter-une-anecdote
+  - implements_id: A1.PROD.compensating.01
+    page: track_e_kl07/units/unit02_raconter-une-anecdote
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: track_e_kl07/units/unit02_raconter-une-anecdote
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl07/units/unit02_raconter-une-anecdote
+  - implements_id: A1.REC.reading-for-information-and-argument.01
+    page: track_e_kl07/units/unit02_raconter-une-anecdote
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit02_raconter-une-anecdote_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl07/units/unit02_raconter-une-anecdote_exam
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: track_e_kl07/units/unit02_raconter-une-anecdote_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl07/units/unit02_raconter-une-anecdote_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl07/units/unit02_raconter-une-anecdote_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl07/units/unit03_mon-quartier-e
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl07/units/unit03_mon-quartier-e
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl07/units/unit03_mon-quartier-e
+  - implements_id: A1.REC.reading-correspondence.02
+    page: track_e_kl07/units/unit03_mon-quartier-e
+  - implements_id: A1.INT.correspondence.01
+    page: track_e_kl07/units/unit03_mon-quartier-e
+  - implements_id: A1.INT.correspondence.01
+    page: track_e_kl07/units/unit03_mon-quartier-e_exam
+  - implements_id: A1.INT.online-conversation-and-discussion.02
+    page: track_e_kl07/units/unit03_mon-quartier-e_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit03_mon-quartier-e_exam
+  - implements_id: A1.MED.processing-text.03
+    page: track_e_kl07/units/unit03_mon-quartier-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl07/units/unit03_mon-quartier-e_exam
+  - implements_id: A1.INT.goal-oriented-co-operation.01
+    page: track_e_kl07/units/unit04_repas-en-famille-e
+  - implements_id: A1.REC.reading-for-information-and-argument.01
+    page: track_e_kl07/units/unit04_repas-en-famille-e
+  - implements_id: A1.INT.information-exchange.01
+    page: track_e_kl07/units/unit04_repas-en-famille-e
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: track_e_kl07/units/unit04_repas-en-famille-e
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: track_e_kl07/units/unit04_repas-en-famille-e
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit04_repas-en-famille-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl07/units/unit04_repas-en-famille-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl07/units/unit04_repas-en-famille-e_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl07/units/unit04_repas-en-famille-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl07/units/unit04_repas-en-famille-e_exam
+  - implements_id: A1.INT.interviewing-and-being-interviewed.01
+    page: track_e_kl07/units/unit05_amis-et-conflits-e
+  - implements_id: A1.PROD.compensating.01
+    page: track_e_kl07/units/unit05_amis-et-conflits-e
+  - implements_id: A1.INT.correspondence.03
+    page: track_e_kl07/units/unit05_amis-et-conflits-e
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl07/units/unit05_amis-et-conflits-e
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit05_amis-et-conflits-e
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit05_amis-et-conflits-e_exam
+  - implements_id: A1.MED.processing-text.03
+    page: track_e_kl07/units/unit05_amis-et-conflits-e_exam
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: track_e_kl07/units/unit05_amis-et-conflits-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl07/units/unit05_amis-et-conflits-e_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl07/units/unit05_amis-et-conflits-e_exam
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl07/units/unit06_transports-et-mobilite
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl07/units/unit06_transports-et-mobilite
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl07/units/unit06_transports-et-mobilite
+  - implements_id: A1.REC.reading-for-orientation.01
+    page: track_e_kl07/units/unit06_transports-et-mobilite
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl07/units/unit06_transports-et-mobilite
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit06_transports-et-mobilite_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl07/units/unit06_transports-et-mobilite_exam
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: track_e_kl07/units/unit06_transports-et-mobilite_exam
+  - implements_id: A1.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl07/units/unit06_transports-et-mobilite_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl07/units/unit06_transports-et-mobilite_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl07/units/unit07_vacances-en-bretagne
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl07/units/unit07_vacances-en-bretagne
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl07/units/unit07_vacances-en-bretagne
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: track_e_kl07/units/unit07_vacances-en-bretagne
+  - implements_id: A1.INT.interviewing-and-being-interviewed.02
+    page: track_e_kl07/units/unit07_vacances-en-bretagne
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl07/units/unit07_vacances-en-bretagne_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit07_vacances-en-bretagne_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl07/units/unit07_vacances-en-bretagne_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl07/units/unit07_vacances-en-bretagne_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl07/units/unit07_vacances-en-bretagne_exam
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl07/units/unit08_le-quebec-e
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: track_e_kl07/units/unit08_le-quebec-e
+  - implements_id: A1.INT.interviewing-and-being-interviewed.02
+    page: track_e_kl07/units/unit08_le-quebec-e
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl07/units/unit08_le-quebec-e
+  - implements_id: A1.LING.phonological-control.01
+    page: track_e_kl07/units/unit08_le-quebec-e
+  - implements_id: A1.INT.information-exchange.02
+    page: track_e_kl07/units/unit08_le-quebec-e_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit08_le-quebec-e_exam
+  - implements_id: A1.MED.processing-text.03
+    page: track_e_kl07/units/unit08_le-quebec-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl07/units/unit08_le-quebec-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl07/units/unit08_le-quebec-e_exam
+  - implements_id: A1.INT.interviewing-and-being-interviewed.02
+    page: track_e_kl07/units/unit09_fete-et-invitations
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl07/units/unit09_fete-et-invitations
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl07/units/unit09_fete-et-invitations
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl07/units/unit09_fete-et-invitations
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl07/units/unit09_fete-et-invitations
+  - implements_id: A1.INT.information-exchange.07
+    page: track_e_kl07/units/unit09_fete-et-invitations_exam
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl07/units/unit09_fete-et-invitations_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit09_fete-et-invitations_exam
+  - implements_id: A1.MED.processing-text.03
+    page: track_e_kl07/units/unit09_fete-et-invitations_exam
+  - implements_id: A1.REC.reading-correspondence.03
+    page: track_e_kl07/units/unit09_fete-et-invitations_exam
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl07/units/unit10_musique-et-chanson-e
+  - implements_id: A1.REC.reading-for-orientation.01
+    page: track_e_kl07/units/unit10_musique-et-chanson-e
+  - implements_id: A1.INT.interviewing-and-being-interviewed.01
+    page: track_e_kl07/units/unit10_musique-et-chanson-e
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl07/units/unit10_musique-et-chanson-e
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_e_kl07/units/unit10_musique-et-chanson-e
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl07/units/unit10_musique-et-chanson-e_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit10_musique-et-chanson-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl07/units/unit10_musique-et-chanson-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl07/units/unit10_musique-et-chanson-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl07/units/unit10_musique-et-chanson-e_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_e_kl07/units/unit11_premiere-mediation
+  - implements_id: A1.MED.facilitating-collaborative-interaction-with-peers.01
+    page: track_e_kl07/units/unit11_premiere-mediation
+  - implements_id: A1.INT.correspondence.03
+    page: track_e_kl07/units/unit11_premiere-mediation
+  - implements_id: A1.INT.interviewing-and-being-interviewed.02
+    page: track_e_kl07/units/unit11_premiere-mediation
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: track_e_kl07/units/unit11_premiere-mediation
+  - implements_id: A1.INT.conversation.01
+    page: track_e_kl07/units/unit11_premiere-mediation_exam
+  - implements_id: A1.INT.correspondence.01
+    page: track_e_kl07/units/unit11_premiere-mediation_exam
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_e_kl07/units/unit11_premiere-mediation_exam
+  - implements_id: A1.LING.phonological-control.01
+    page: track_e_kl07/units/unit11_premiere-mediation_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_e_kl07/units/unit11_premiere-mediation_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e
+  - implements_id: A1.INT.information-exchange.02
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e
+  - implements_id: A1.INT.online-conversation-and-discussion.02
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_e_kl07/units/unit12_bilan-progres-7e-e_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl08/units/unit01_la-rentree-en-8e
+  - implements_id: A2.INT.correspondence.04
+    page: track_e_kl08/units/unit01_la-rentree-en-8e
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_e_kl08/units/unit01_la-rentree-en-8e
+  - implements_id: A2.LING.phonological-control.04
+    page: track_e_kl08/units/unit01_la-rentree-en-8e
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_e_kl08/units/unit01_la-rentree-en-8e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl08/units/unit01_la-rentree-en-8e_exam
+  - implements_id: A2.MED.collaborating-to-construct-meaning.02
+    page: track_e_kl08/units/unit01_la-rentree-en-8e_exam
+  - implements_id: A2.MED.encouraging-conceptual-talk.01
+    page: track_e_kl08/units/unit01_la-rentree-en-8e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit01_la-rentree-en-8e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl08/units/unit01_la-rentree-en-8e_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e
+  - implements_id: A2.REC.identifying-cues-and-inferring.05
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e
+  - implements_id: A2.MED.adapting-language.01
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam
+  - implements_id: A2.MED.collaborating-to-construct-meaning.02
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam
+  - implements_id: A2.MED.encouraging-conceptual-talk.01
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e
+  - implements_id: A2.INT.correspondence.01
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e
+  - implements_id: A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e
+  - implements_id: A2.MED.adapting-language.01
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e_exam
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e_exam
+  - implements_id: A2.INT.informal-discussion.08
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit03_mes-medias-preferes-e_exam
+  - implements_id: A2.PROD.creative-writing.03
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam
+  - implements_id: A2.INT.overall-written-interaction.01
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam
+  - implements_id: A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e
+  - implements_id: A2.MED.adapting-language.01
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e
+  - implements_id: A2.INT.correspondence.01
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e
+  - implements_id: A2.REC.understanding-audio-media-and-recordings.04
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam
+  - implements_id: A2.INT.goal-oriented-online-transactions-and-collaboration.01
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e
+  - implements_id: A2.REC.identifying-cues-and-inferring.03
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e
+  - implements_id: A2.MED.translating-a-written-text.02
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e
+  - implements_id: A2.PRAG.flexibility.01
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e
+  - implements_id: A2.INT.correspondence.04
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e_exam
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e_exam
+  - implements_id: A2.MED.note-taking.01
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit06_musiques-du-maghreb-e_exam
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl08/units/unit07_champs-de-bataille
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl08/units/unit07_champs-de-bataille
+  - implements_id: A2.MED.adapting-language.01
+    page: track_e_kl08/units/unit07_champs-de-bataille
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl08/units/unit07_champs-de-bataille
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit07_champs-de-bataille
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl08/units/unit07_champs-de-bataille_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl08/units/unit07_champs-de-bataille_exam
+  - implements_id: A2.REC.reading-for-orientation.02
+    page: track_e_kl08/units/unit07_champs-de-bataille_exam
+  - implements_id: A2.INT.overall-written-interaction.01
+    page: track_e_kl08/units/unit07_champs-de-bataille_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit07_champs-de-bataille_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e_exam
+  - implements_id: A2.PRAG.thematic-development.01
+    page: track_e_kl08/units/unit08_un-allemand-a-paris-e_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e
+  - implements_id: A2.INT.goal-oriented-co-operation.04
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam
+  - implements_id: A2.PROD.sustained-monologue-giving-information.01
+    page: track_e_kl08/units/unit10_cinema-quebecois-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl08/units/unit10_cinema-quebecois-e
+  - implements_id: A2.REC.understanding-announcements-and-instructions.04
+    page: track_e_kl08/units/unit10_cinema-quebecois-e
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_e_kl08/units/unit10_cinema-quebecois-e
+  - implements_id: A2.INT.overall-oral-interaction.02
+    page: track_e_kl08/units/unit10_cinema-quebecois-e
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_e_kl08/units/unit10_cinema-quebecois-e_exam
+  - implements_id: A2.INT.conversation.10
+    page: track_e_kl08/units/unit10_cinema-quebecois-e_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_e_kl08/units/unit10_cinema-quebecois-e_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_e_kl08/units/unit10_cinema-quebecois-e_exam
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_e_kl08/units/unit10_cinema-quebecois-e_exam
+  - implements_id: A2.PROD.sustained-monologue-giving-information.01
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e
+  - implements_id: A2.PROD.creative-writing.03
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e
+  - implements_id: A2.INT.goal-oriented-online-transactions-and-collaboration.05
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e
+  - implements_id: A2.INT.online-conversation-and-discussion.01
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e_exam
+  - implements_id: A2.INT.correspondence.04
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl08/units/unit11_un-projet-solidaire-e_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e
+  - implements_id: A2.INT.goal-oriented-co-operation.04
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam
+  - implements_id: A2.INT.online-conversation-and-discussion.03
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam
+  - implements_id: A2.LING.phonological-control.02
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam
+  - implements_id: A2.MED.overall-mediation.01
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam
+  - implements_id: A2.PROD.creative-writing.03
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e_exam
+  - implements_id: A2.INT.information-exchange.01
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit01_le-monde-du-travail-e_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e
+  - implements_id: A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e_exam
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl09/units/unit02_lettre-de-motivation-e_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e
+  - implements_id: A2.INT.goal-oriented-online-transactions-and-collaboration.05
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e
+  - implements_id: A2.MED.adapting-language.01
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e
+  - implements_id: A2.INT.conversation.03
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e
+  - implements_id: A2.LING.general-linguistic-range.04
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e
+  - implements_id: A2.LING.orthographic-control.01
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e
+  - implements_id: A2.INT.conversation.03
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e_exam
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e_exam
+  - implements_id: A2.MED.collaborating-to-construct-meaning.02
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e_exam
+  - implements_id: A2.MED.encouraging-conceptual-talk.01
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit04_argumenter-pour-contre-e_exam
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl09/units/unit05_le-petit-nicolas
+  - implements_id: A2.REC.reading-instructions.01
+    page: track_e_kl09/units/unit05_le-petit-nicolas
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit05_le-petit-nicolas
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl09/units/unit05_le-petit-nicolas
+  - implements_id: A2.INT.goal-oriented-co-operation.04
+    page: track_e_kl09/units/unit05_le-petit-nicolas
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit05_le-petit-nicolas_exam
+  - implements_id: A2.INT.information-exchange.01
+    page: track_e_kl09/units/unit05_le-petit-nicolas_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl09/units/unit05_le-petit-nicolas_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl09/units/unit05_le-petit-nicolas_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit05_le-petit-nicolas_exam
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e
+  - implements_id: A2.REC.reading-instructions.04
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e
+  - implements_id: A2.INT.correspondence.04
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e
+  - implements_id: A2.INT.overall-written-interaction.01
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e
+  - implements_id: A2.MED.note-taking.01
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e_exam
+  - implements_id: A2.INT.correspondence.01
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e_exam
+  - implements_id: A2.MED.collaborating-to-construct-meaning.01
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit06_podcasts-en-francais-e_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e
+  - implements_id: A2.PROD.sustained-monologue-giving-information.01
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e
+  - implements_id: A2.INT.correspondence.01
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e
+  - implements_id: A2.PROD.compensating.01
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e
+  - implements_id: A2.MED.adapting-language.01
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl09/units/unit07_harcelement-et-respect-e_exam
+  - implements_id: A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_e_kl09/units/unit08_differences-culturelles-e
+  - implements_id: A2.PROD.compensating.01
+    page: track_e_kl09/units/unit08_differences-culturelles-e
+  - implements_id: A2.MED.adapting-language.01
+    page: track_e_kl09/units/unit08_differences-culturelles-e
+  - implements_id: A2.PROD.creative-writing.01
+    page: track_e_kl09/units/unit08_differences-culturelles-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl09/units/unit08_differences-culturelles-e
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_e_kl09/units/unit08_differences-culturelles-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl09/units/unit08_differences-culturelles-e_exam
+  - implements_id: A2.REC.reading-for-information-and-argument.04
+    page: track_e_kl09/units/unit08_differences-culturelles-e_exam
+  - implements_id: A2.REC.reading-for-orientation.02
+    page: track_e_kl09/units/unit08_differences-culturelles-e_exam
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_e_kl09/units/unit08_differences-culturelles-e_exam
+  - implements_id: A2.INT.correspondence.01
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e
+  - implements_id: A2.REC.reading-for-information-and-argument.03
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e_exam
+  - implements_id: A2.MED.collaborating-to-construct-meaning.02
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e_exam
+  - implements_id: A2.MED.encouraging-conceptual-talk.01
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl09/units/unit09_internet-et-vie-privee-e_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_e_kl09/units/unit10_consommation-responsable-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl09/units/unit10_consommation-responsable-e
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl09/units/unit10_consommation-responsable-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl09/units/unit10_consommation-responsable-e
+  - implements_id: A2.MED.adapting-language.01
+    page: track_e_kl09/units/unit10_consommation-responsable-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit10_consommation-responsable-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl09/units/unit10_consommation-responsable-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl09/units/unit10_consommation-responsable-e_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit10_consommation-responsable-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl09/units/unit10_consommation-responsable-e_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_e_kl09/units/unit11_francais-au-travail-e
+  - implements_id: A2.MED.adapting-language.01
+    page: track_e_kl09/units/unit11_francais-au-travail-e
+  - implements_id: A2.INT.goal-oriented-online-transactions-and-collaboration.05
+    page: track_e_kl09/units/unit11_francais-au-travail-e
+  - implements_id: A2.MED.collaborating-to-construct-meaning.02
+    page: track_e_kl09/units/unit11_francais-au-travail-e
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl09/units/unit11_francais-au-travail-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit11_francais-au-travail-e_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_e_kl09/units/unit11_francais-au-travail-e_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_e_kl09/units/unit11_francais-au-travail-e_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl09/units/unit11_francais-au-travail-e_exam
+  - implements_id: A2.PRAG.thematic-development.01
+    page: track_e_kl09/units/unit11_francais-au-travail-e_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_e_kl09/units/unit12_bilan-9e-e
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_e_kl09/units/unit12_bilan-9e-e
+  - implements_id: A2.INT.overall-written-interaction.01
+    page: track_e_kl09/units/unit12_bilan-9e-e
+  - implements_id: A2.MED.note-taking.01
+    page: track_e_kl09/units/unit12_bilan-9e-e
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_e_kl09/units/unit12_bilan-9e-e
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_e_kl09/units/unit12_bilan-9e-e_exam
+  - implements_id: A2.INT.overall-written-interaction.01
+    page: track_e_kl09/units/unit12_bilan-9e-e_exam
+  - implements_id: A2.LING.grammatical-accuracy.01
+    page: track_e_kl09/units/unit12_bilan-9e-e_exam
+  - implements_id: A2.LING.phonological-control.02
+    page: track_e_kl09/units/unit12_bilan-9e-e_exam
+  - implements_id: A2.MED.overall-mediation.01
+    page: track_e_kl09/units/unit12_bilan-9e-e_exam
+  - implements_id: B1.PROD.planning.01
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe
+  - implements_id: B1.REC.reading-for-orientation.06
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe
+  - implements_id: B1.REC.identifying-cues-and-inferring.05
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam
+  - implements_id: B1.INT.notes-messages-and-forms.01
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam
+  - implements_id: B1.MED.explaining-data.03
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam
+  - implements_id: B1.MED.note-taking.02
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam
+  - implements_id: B1.PRAG.coherence-and-cohesion.01
+    page: track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam
+  - implements_id: B1.REC.reading-as-a-leisure-activity.01
+    page: track_e_kl10/units/unit02_presse-francaise-e
+  - implements_id: B1.REC.reading-for-information-and-argument.05
+    page: track_e_kl10/units/unit02_presse-francaise-e
+  - implements_id: B1.MED.overall-mediation.02
+    page: track_e_kl10/units/unit02_presse-francaise-e
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_e_kl10/units/unit02_presse-francaise-e
+  - implements_id: B1.MED.encouraging-conceptual-talk.02
+    page: track_e_kl10/units/unit02_presse-francaise-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit02_presse-francaise-e_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl10/units/unit02_presse-francaise-e_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit02_presse-francaise-e_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl10/units/unit02_presse-francaise-e_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl10/units/unit02_presse-francaise-e_exam
+  - implements_id: B1.PROD.planning.01
+    page: track_e_kl10/units/unit03_vie-democratique-e
+  - implements_id: B1.REC.overall-oral-comprehension.02
+    page: track_e_kl10/units/unit03_vie-democratique-e
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl10/units/unit03_vie-democratique-e
+  - implements_id: B1.REC.overall-reading-comprehension.01
+    page: track_e_kl10/units/unit03_vie-democratique-e
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_e_kl10/units/unit03_vie-democratique-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit03_vie-democratique-e_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl10/units/unit03_vie-democratique-e_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit03_vie-democratique-e_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl10/units/unit03_vie-democratique-e_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl10/units/unit03_vie-democratique-e_exam
+  - implements_id: B1.PROD.planning.02
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e
+  - implements_id: B1.MED.facilitating-pluricultural-space.03
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e
+  - implements_id: B1.MED.processing-text.02
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e
+  - implements_id: B1.INT.conversation.01
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie
+  - implements_id: B1.REC.identifying-cues-and-inferring.02
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie
+  - implements_id: B1.PROD.compensating.03
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie
+  - implements_id: B1.REC.overall-oral-comprehension.01
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl10/units/unit05_premiere-analyse-poesie_exam
+  - implements_id: B1.MED.adapting-language.02
+    page: track_e_kl10/units/unit06_mediation-avancee-e
+  - implements_id: B1.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_e_kl10/units/unit06_mediation-avancee-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit06_mediation-avancee-e
+  - implements_id: B1.PLUR.plurilingual-comprehension.02
+    page: track_e_kl10/units/unit06_mediation-avancee-e
+  - implements_id: B1.PRAG.thematic-development.03
+    page: track_e_kl10/units/unit06_mediation-avancee-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit06_mediation-avancee-e_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl10/units/unit06_mediation-avancee-e_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit06_mediation-avancee-e_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl10/units/unit06_mediation-avancee-e_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl10/units/unit06_mediation-avancee-e_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit07_engagement-citoyen-e
+  - implements_id: B1.PROD.reports-and-essays.03
+    page: track_e_kl10/units/unit07_engagement-citoyen-e
+  - implements_id: B1.INT.notes-messages-and-forms.01
+    page: track_e_kl10/units/unit07_engagement-citoyen-e
+  - implements_id: B1.PROD.sustained-monologue-giving-information.03
+    page: track_e_kl10/units/unit07_engagement-citoyen-e
+  - implements_id: B1.MED.facilitating-pluricultural-space.03
+    page: track_e_kl10/units/unit07_engagement-citoyen-e
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl10/units/unit07_engagement-citoyen-e_exam
+  - implements_id: B1.MED.processing-text.05
+    page: track_e_kl10/units/unit07_engagement-citoyen-e_exam
+  - implements_id: B1.INT.correspondence.04
+    page: track_e_kl10/units/unit07_engagement-citoyen-e_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit07_engagement-citoyen-e_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit07_engagement-citoyen-e_exam
+  - implements_id: B1.INT.notes-messages-and-forms.01
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e
+  - implements_id: B1.REC.reading-for-orientation.06
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e
+  - implements_id: B1.REC.understanding-announcements-and-instructions.01
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e
+  - implements_id: B1.MED.linking-to-previous-knowledge.02
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl10/units/unit08_reseaux-sociaux-e_exam
+  - implements_id: B1.REC.identifying-cues-and-inferring.05
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes
+  - implements_id: B1.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes
+  - implements_id: B1.MED.adapting-language.02
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes
+  - implements_id: B1.MED.note-taking.02
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes
+  - implements_id: B1.MED.note-taking.02
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes_exam
+  - implements_id: B1.REC.understanding-audio-media-and-recordings.03
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit09_extraits-romans-jeunes_exam
+  - implements_id: B1.PROD.creative-writing.02
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e
+  - implements_id: B1.REC.reading-for-information-and-argument.04
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: track_e_kl10/units/unit11_preparer-un-discours-e
+  - implements_id: B1.PROD.creative-writing.02
+    page: track_e_kl10/units/unit11_preparer-un-discours-e
+  - implements_id: B1.MED.overall-mediation.01
+    page: track_e_kl10/units/unit11_preparer-un-discours-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit11_preparer-un-discours-e
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_e_kl10/units/unit11_preparer-un-discours-e
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit11_preparer-un-discours-e_exam
+  - implements_id: B1.INT.notes-messages-and-forms.02
+    page: track_e_kl10/units/unit11_preparer-un-discours-e_exam
+  - implements_id: B1.MED.overall-mediation.01
+    page: track_e_kl10/units/unit11_preparer-un-discours-e_exam
+  - implements_id: B1.MED.processing-text.01
+    page: track_e_kl10/units/unit11_preparer-un-discours-e_exam
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: track_e_kl10/units/unit11_preparer-un-discours-e_exam
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i
+  - implements_id: B1.PROD.sustained-monologue-giving-information.03
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i
+  - implements_id: B1.MED.note-taking.02
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i
+  - implements_id: B1.MED.processing-text.02
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i
+  - implements_id: B1.PRAG.thematic-development.04
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i_exam
+  - implements_id: B1.PROD.overall-oral-production.01
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl10/units/unit12_bilan-fin-sek-i_exam
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl11/units/unit01_ecrire-sur-soi
+  - implements_id: B1.REC.overall-oral-comprehension.02
+    page: track_e_kl11/units/unit01_ecrire-sur-soi
+  - implements_id: B1.PROD.creative-writing.02
+    page: track_e_kl11/units/unit01_ecrire-sur-soi
+  - implements_id: B1.REC.overall-reading-comprehension.01
+    page: track_e_kl11/units/unit01_ecrire-sur-soi
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit01_ecrire-sur-soi
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit01_ecrire-sur-soi_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit01_ecrire-sur-soi_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit01_ecrire-sur-soi_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit01_ecrire-sur-soi_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl11/units/unit01_ecrire-sur-soi_exam
+  - implements_id: B1.REC.understanding-announcements-and-instructions.01
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale
+  - implements_id: B1.REC.watching-tv-film-and-video.01
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale
+  - implements_id: B1.MED.facilitating-pluricultural-space.01
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl11/units/unit02_francophonie-postcoloniale_exam
+  - implements_id: B1.PROD.creative-writing.02
+    page: track_e_kl11/units/unit03_presse-d-opinion
+  - implements_id: B1.REC.understanding-announcements-and-instructions.01
+    page: track_e_kl11/units/unit03_presse-d-opinion
+  - implements_id: B1.PROD.reports-and-essays.02
+    page: track_e_kl11/units/unit03_presse-d-opinion
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: track_e_kl11/units/unit03_presse-d-opinion
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit03_presse-d-opinion
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit03_presse-d-opinion_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit03_presse-d-opinion_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit03_presse-d-opinion_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit03_presse-d-opinion_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl11/units/unit03_presse-d-opinion_exam
+  - implements_id: B1.REC.understanding-announcements-and-instructions.03
+    page: track_e_kl11/units/unit04_court-metrage
+  - implements_id: B1.REC.watching-tv-film-and-video.01
+    page: track_e_kl11/units/unit04_court-metrage
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit04_court-metrage
+  - implements_id: B1.INT.notes-messages-and-forms.02
+    page: track_e_kl11/units/unit04_court-metrage
+  - implements_id: B1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl11/units/unit04_court-metrage
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit04_court-metrage_exam
+  - implements_id: B1.INT.informal-discussion.06
+    page: track_e_kl11/units/unit04_court-metrage_exam
+  - implements_id: B1.INT.notes-messages-and-forms.01
+    page: track_e_kl11/units/unit04_court-metrage_exam
+  - implements_id: B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_e_kl11/units/unit04_court-metrage_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit04_court-metrage_exam
+  - implements_id: B1.MED.overall-mediation.01
+    page: track_e_kl11/units/unit05_mediation-academique
+  - implements_id: B1.MED.acting-as-an-intermediary-in-informal-situations.01
+    page: track_e_kl11/units/unit05_mediation-academique
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit05_mediation-academique
+  - implements_id: B1.INT.goal-oriented-online-transactions-and-collaboration.01
+    page: track_e_kl11/units/unit05_mediation-academique
+  - implements_id: B1.PRAG.propositional-precision.02
+    page: track_e_kl11/units/unit05_mediation-academique
+  - implements_id: B1.MED.processing-text.10
+    page: track_e_kl11/units/unit05_mediation-academique_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit05_mediation-academique_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit05_mediation-academique_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit05_mediation-academique_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit05_mediation-academique_exam
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl11/units/unit06_argumentation-structuree
+  - implements_id: B1.PROD.compensating.03
+    page: track_e_kl11/units/unit06_argumentation-structuree
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit06_argumentation-structuree
+  - implements_id: B1.MED.note-taking.02
+    page: track_e_kl11/units/unit06_argumentation-structuree
+  - implements_id: B1.INT.obtaining-goods-and-services.07
+    page: track_e_kl11/units/unit06_argumentation-structuree
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit06_argumentation-structuree_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit06_argumentation-structuree_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit06_argumentation-structuree_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit06_argumentation-structuree_exam
+  - implements_id: B1.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_e_kl11/units/unit06_argumentation-structuree_exam
+  - implements_id: B1.PROD.planning.01
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain
+  - implements_id: B1.REC.identifying-cues-and-inferring.08
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain
+  - implements_id: B1.REC.reading-instructions.03
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl11/units/unit07_extrait-roman-contemporain_exam
+  - implements_id: B1.PROD.creative-writing.03
+    page: track_e_kl11/units/unit08_voix-feminines
+  - implements_id: B1.REC.reading-as-a-leisure-activity.01
+    page: track_e_kl11/units/unit08_voix-feminines
+  - implements_id: B1.PROD.planning.01
+    page: track_e_kl11/units/unit08_voix-feminines
+  - implements_id: B1.REC.reading-for-orientation.05
+    page: track_e_kl11/units/unit08_voix-feminines
+  - implements_id: B1.MED.processing-text.02
+    page: track_e_kl11/units/unit08_voix-feminines
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit08_voix-feminines_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit08_voix-feminines_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit08_voix-feminines_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit08_voix-feminines_exam
+  - implements_id: B1.MED.breaking-down-complicated-information.01
+    page: track_e_kl11/units/unit08_voix-feminines_exam
+  - implements_id: B1.PROD.compensating.01
+    page: track_e_kl11/units/unit09_histoire-et-memoire
+  - implements_id: B1.REC.understanding-as-a-member-of-a-live-audience.05
+    page: track_e_kl11/units/unit09_histoire-et-memoire
+  - implements_id: B1.REC.watching-tv-film-and-video.02
+    page: track_e_kl11/units/unit09_histoire-et-memoire
+  - implements_id: B1.PROD.creative-writing.01
+    page: track_e_kl11/units/unit09_histoire-et-memoire
+  - implements_id: B1.MED.adapting-language.02
+    page: track_e_kl11/units/unit09_histoire-et-memoire
+  - implements_id: B1.MED.note-taking.02
+    page: track_e_kl11/units/unit09_histoire-et-memoire_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit09_histoire-et-memoire_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit09_histoire-et-memoire_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit09_histoire-et-memoire_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit09_histoire-et-memoire_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit10_ecologie-en-france
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: track_e_kl11/units/unit10_ecologie-en-france
+  - implements_id: B1.INT.conversation.01
+    page: track_e_kl11/units/unit10_ecologie-en-france
+  - implements_id: B1.REC.reading-for-information-and-argument.04
+    page: track_e_kl11/units/unit10_ecologie-en-france
+  - implements_id: B1.MED.adapting-language.02
+    page: track_e_kl11/units/unit10_ecologie-en-france
+  - implements_id: B1.PROD.planning.01
+    page: track_e_kl11/units/unit10_ecologie-en-france_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit10_ecologie-en-france_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit10_ecologie-en-france_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit10_ecologie-en-france_exam
+  - implements_id: B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_e_kl11/units/unit10_ecologie-en-france_exam
+  - implements_id: B1.PROD.creative-writing.02
+    page: track_e_kl11/units/unit11_discours-politique
+  - implements_id: B1.REC.understanding-announcements-and-instructions.01
+    page: track_e_kl11/units/unit11_discours-politique
+  - implements_id: B1.PROD.planning.01
+    page: track_e_kl11/units/unit11_discours-politique
+  - implements_id: B1.REC.identifying-cues-and-inferring.05
+    page: track_e_kl11/units/unit11_discours-politique
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_e_kl11/units/unit11_discours-politique
+  - implements_id: B1.MED.overall-mediation.01
+    page: track_e_kl11/units/unit11_discours-politique_exam
+  - implements_id: B1.INT.conversation.01
+    page: track_e_kl11/units/unit11_discours-politique_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit11_discours-politique_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit11_discours-politique_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit11_discours-politique_exam
+  - implements_id: B1.PROD.compensating.03
+    page: track_e_kl11/units/unit12_bilan-classe-11
+  - implements_id: B1.PROD.creative-writing.02
+    page: track_e_kl11/units/unit12_bilan-classe-11
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit12_bilan-classe-11
+  - implements_id: B1.INT.notes-messages-and-forms.01
+    page: track_e_kl11/units/unit12_bilan-classe-11
+  - implements_id: B1.MED.facilitating-pluricultural-space.01
+    page: track_e_kl11/units/unit12_bilan-classe-11
+  - implements_id: B1.MED.note-taking.02
+    page: track_e_kl11/units/unit12_bilan-classe-11_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_e_kl11/units/unit12_bilan-classe-11_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_e_kl11/units/unit12_bilan-classe-11_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_e_kl11/units/unit12_bilan-classe-11_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_e_kl11/units/unit12_bilan-classe-11_exam
+  - implements_id: B2.PROD.overall-written-production.01
+    page: track_e_kl12/units/unit01_introduire-camus
+  - implements_id: B2.REC.overall-reading-comprehension.01
+    page: track_e_kl12/units/unit01_introduire-camus
+  - implements_id: B2.PROD.reports-and-essays.04
+    page: track_e_kl12/units/unit01_introduire-camus
+  - implements_id: B2.REC.reading-as-a-leisure-activity.01
+    page: track_e_kl12/units/unit01_introduire-camus
+  - implements_id: B2.MED.facilitating-collaborative-interaction-with-peers.03
+    page: track_e_kl12/units/unit01_introduire-camus
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl12/units/unit01_introduire-camus_exam
+  - implements_id: B2.INT.correspondence.02
+    page: track_e_kl12/units/unit01_introduire-camus_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit01_introduire-camus_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl12/units/unit01_introduire-camus_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl12/units/unit01_introduire-camus_exam
+  - implements_id: B2.PROD.compensating.01
+    page: track_e_kl12/units/unit02_analyse-stylistique
+  - implements_id: B2.REC.reading-as-a-leisure-activity.01
+    page: track_e_kl12/units/unit02_analyse-stylistique
+  - implements_id: B2.REC.reading-instructions.02
+    page: track_e_kl12/units/unit02_analyse-stylistique
+  - implements_id: B2.PROD.monitoring-and-repair.01
+    page: track_e_kl12/units/unit02_analyse-stylistique
+  - implements_id: B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+    page: track_e_kl12/units/unit02_analyse-stylistique
+  - implements_id: B2.PRAG.thematic-development.02
+    page: track_e_kl12/units/unit02_analyse-stylistique_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit02_analyse-stylistique_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl12/units/unit02_analyse-stylistique_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl12/units/unit02_analyse-stylistique_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl12/units/unit02_analyse-stylistique_exam
+  - implements_id: B2.PROD.compensating.02
+    page: track_e_kl12/units/unit03_decolonisation-litteraire
+  - implements_id: B2.REC.understanding-as-a-member-of-a-live-audience.03
+    page: track_e_kl12/units/unit03_decolonisation-litteraire
+  - implements_id: B2.PROD.creative-writing.03
+    page: track_e_kl12/units/unit03_decolonisation-litteraire
+  - implements_id: B2.REC.understanding-conversation-between-other-people.03
+    page: track_e_kl12/units/unit03_decolonisation-litteraire
+  - implements_id: B2.PLUR.building-on-pluricultural-repertoire.03
+    page: track_e_kl12/units/unit03_decolonisation-litteraire
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl12/units/unit03_decolonisation-litteraire_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit03_decolonisation-litteraire_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl12/units/unit03_decolonisation-litteraire_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl12/units/unit03_decolonisation-litteraire_exam
+  - implements_id: B2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl12/units/unit03_decolonisation-litteraire_exam
+  - implements_id: B2.PROD.overall-written-production.01
+    page: track_e_kl12/units/unit04_presse-engagee
+  - implements_id: B2.REC.overall-reading-comprehension.01
+    page: track_e_kl12/units/unit04_presse-engagee
+  - implements_id: B2.PROD.reports-and-essays.05
+    page: track_e_kl12/units/unit04_presse-engagee
+  - implements_id: B2.REC.reading-for-information-and-argument.01
+    page: track_e_kl12/units/unit04_presse-engagee
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit04_presse-engagee
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit04_presse-engagee_exam
+  - implements_id: B2.MED.collaborating-to-construct-meaning.03
+    page: track_e_kl12/units/unit04_presse-engagee_exam
+  - implements_id: B2.MED.relaying-specific-information.05
+    page: track_e_kl12/units/unit04_presse-engagee_exam
+  - implements_id: B2.PRAG.thematic-development.03
+    page: track_e_kl12/units/unit04_presse-engagee_exam
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: track_e_kl12/units/unit04_presse-engagee_exam
+  - implements_id: B2.MED.overall-mediation.02
+    page: track_e_kl12/units/unit05_mediation-fr-de
+  - implements_id: B2.MED.acting-as-an-intermediary-in-informal-situations.01
+    page: track_e_kl12/units/unit05_mediation-fr-de
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit05_mediation-fr-de
+  - implements_id: B2.INT.informal-discussion.03
+    page: track_e_kl12/units/unit05_mediation-fr-de
+  - implements_id: B2.LING.general-linguistic-range.01
+    page: track_e_kl12/units/unit05_mediation-fr-de
+  - implements_id: B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl12/units/unit05_mediation-fr-de_exam
+  - implements_id: B2.MED.relaying-specific-information.05
+    page: track_e_kl12/units/unit05_mediation-fr-de_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit05_mediation-fr-de_exam
+  - implements_id: B2.INT.information-exchange.05
+    page: track_e_kl12/units/unit05_mediation-fr-de_exam
+  - implements_id: B2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl12/units/unit05_mediation-fr-de_exam
+  - implements_id: B2.PROD.monitoring-and-repair.01
+    page: track_e_kl12/units/unit06_etude-de-roman
+  - implements_id: B2.REC.overall-oral-comprehension.01
+    page: track_e_kl12/units/unit06_etude-de-roman
+  - implements_id: B2.PROD.overall-oral-production.01
+    page: track_e_kl12/units/unit06_etude-de-roman
+  - implements_id: B2.REC.overall-reading-comprehension.01
+    page: track_e_kl12/units/unit06_etude-de-roman
+  - implements_id: B2.SOC.sociolinguistic-appropriateness.02
+    page: track_e_kl12/units/unit06_etude-de-roman
+  - implements_id: B2.MED.collaborating-to-construct-meaning.03
+    page: track_e_kl12/units/unit06_etude-de-roman_exam
+  - implements_id: B2.INT.correspondence.03
+    page: track_e_kl12/units/unit06_etude-de-roman_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit06_etude-de-roman_exam
+  - implements_id: B2.LING.grammatical-accuracy.01
+    page: track_e_kl12/units/unit06_etude-de-roman_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl12/units/unit06_etude-de-roman_exam
+  - implements_id: B2.PROD.overall-written-production.01
+    page: track_e_kl12/units/unit07_discours-radio
+  - implements_id: B2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl12/units/unit07_discours-radio
+  - implements_id: B2.PROD.reports-and-essays.05
+    page: track_e_kl12/units/unit07_discours-radio
+  - implements_id: B2.REC.reading-for-information-and-argument.01
+    page: track_e_kl12/units/unit07_discours-radio
+  - implements_id: B2.MED.overall-mediation.02
+    page: track_e_kl12/units/unit07_discours-radio
+  - implements_id: B2.INT.correspondence.02
+    page: track_e_kl12/units/unit07_discours-radio_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit07_discours-radio_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl12/units/unit07_discours-radio_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl12/units/unit07_discours-radio_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl12/units/unit07_discours-radio_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit08_gender-litteraire
+  - implements_id: B2.REC.reading-for-information-and-argument.05
+    page: track_e_kl12/units/unit08_gender-litteraire
+  - implements_id: B2.REC.understanding-conversation-between-other-people.03
+    page: track_e_kl12/units/unit08_gender-litteraire
+  - implements_id: B2.INT.asking-for-clarification.02
+    page: track_e_kl12/units/unit08_gender-litteraire
+  - implements_id: B2.MED.overall-mediation.02
+    page: track_e_kl12/units/unit08_gender-litteraire
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit08_gender-litteraire_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl12/units/unit08_gender-litteraire_exam
+  - implements_id: B2.PRAG.thematic-development.03
+    page: track_e_kl12/units/unit08_gender-litteraire_exam
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: track_e_kl12/units/unit08_gender-litteraire_exam
+  - implements_id: B2.PROD.sustained-monologue-putting-a-case.01
+    page: track_e_kl12/units/unit08_gender-litteraire_exam
+  - implements_id: B2.REC.overall-reading-comprehension.01
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme
+  - implements_id: B2.REC.reading-as-a-leisure-activity.01
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme
+  - implements_id: B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme
+  - implements_id: B2.MED.managing-interaction.03
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme
+  - implements_id: B2.SOC.sociolinguistic-appropriateness.02
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme
+  - implements_id: B2.MED.relaying-specific-information.05
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme_exam
+  - implements_id: B2.PRAG.thematic-development.02
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme_exam
+  - implements_id: B2.REC.watching-tv-film-and-video.01
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme_exam
+  - implements_id: B2.INT.correspondence.09
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit09_memoire-et-traumatisme_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit10_argumenter-en-public
+  - implements_id: B2.PROD.sustained-monologue-putting-a-case.01
+    page: track_e_kl12/units/unit10_argumenter-en-public
+  - implements_id: B2.INT.informal-discussion.01
+    page: track_e_kl12/units/unit10_argumenter-en-public
+  - implements_id: B2.PROD.compensating.02
+    page: track_e_kl12/units/unit10_argumenter-en-public
+  - implements_id: B2.MED.overall-mediation.02
+    page: track_e_kl12/units/unit10_argumenter-en-public
+  - implements_id: B2.MED.collaborating-to-construct-meaning.03
+    page: track_e_kl12/units/unit10_argumenter-en-public_exam
+  - implements_id: B2.INT.correspondence.03
+    page: track_e_kl12/units/unit10_argumenter-en-public_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit10_argumenter-en-public_exam
+  - implements_id: B2.LING.grammatical-accuracy.01
+    page: track_e_kl12/units/unit10_argumenter-en-public_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl12/units/unit10_argumenter-en-public_exam
+  - implements_id: B2.PROD.sustained-monologue-putting-a-case.01
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit
+  - implements_id: B2.REC.identifying-cues-and-inferring.01
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit
+  - implements_id: B2.PROD.overall-oral-production.01
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit
+  - implements_id: B2.REC.reading-as-a-leisure-activity.03
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit
+  - implements_id: B2.MED.relaying-specific-information.05
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam
+  - implements_id: B2.INT.informal-discussion.03
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam
+  - implements_id: B2.PROD.monitoring-and-repair.01
+    page: track_e_kl12/units/unit12_bilan-12e
+  - implements_id: B2.PROD.overall-oral-production.01
+    page: track_e_kl12/units/unit12_bilan-12e
+  - implements_id: B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl12/units/unit12_bilan-12e
+  - implements_id: B2.MED.managing-interaction.03
+    page: track_e_kl12/units/unit12_bilan-12e
+  - implements_id: B2.INT.asking-for-clarification.02
+    page: track_e_kl12/units/unit12_bilan-12e
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl12/units/unit12_bilan-12e_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl12/units/unit12_bilan-12e_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl12/units/unit12_bilan-12e_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl12/units/unit12_bilan-12e_exam
+  - implements_id: B2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl12/units/unit12_bilan-12e_exam
+  - implements_id: B2.PROD.reports-and-essays.04
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires
+  - implements_id: B2.REC.overall-reading-comprehension.01
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires
+  - implements_id: B2.REC.reading-for-information-and-argument.03
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires
+  - implements_id: B2.PROD.compensating.01
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires
+  - implements_id: B2.INT.information-exchange.05
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires_exam
+  - implements_id: B2.PLUR.building-on-pluricultural-repertoire.01
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl13/units/unit01_synthese-themes-litteraires_exam
+  - implements_id: B2.PROD.monitoring-and-repair.02
+    page: track_e_kl13/units/unit02_francophonie-pluralite
+  - implements_id: B2.REC.overall-reading-comprehension.01
+    page: track_e_kl13/units/unit02_francophonie-pluralite
+  - implements_id: B2.PROD.overall-written-production.01
+    page: track_e_kl13/units/unit02_francophonie-pluralite
+  - implements_id: B2.REC.reading-as-a-leisure-activity.01
+    page: track_e_kl13/units/unit02_francophonie-pluralite
+  - implements_id: B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+    page: track_e_kl13/units/unit02_francophonie-pluralite
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit02_francophonie-pluralite_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl13/units/unit02_francophonie-pluralite_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl13/units/unit02_francophonie-pluralite_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl13/units/unit02_francophonie-pluralite_exam
+  - implements_id: B2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl13/units/unit02_francophonie-pluralite_exam
+  - implements_id: B2.PROD.creative-writing.01
+    page: track_e_kl13/units/unit03_essai-personnel
+  - implements_id: B2.PROD.monitoring-and-repair.01
+    page: track_e_kl13/units/unit03_essai-personnel
+  - implements_id: B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+    page: track_e_kl13/units/unit03_essai-personnel
+  - implements_id: B2.INT.conversation.01
+    page: track_e_kl13/units/unit03_essai-personnel
+  - implements_id: B2.INT.information-exchange.05
+    page: track_e_kl13/units/unit03_essai-personnel
+  - implements_id: B2.INT.correspondence.08
+    page: track_e_kl13/units/unit03_essai-personnel_exam
+  - implements_id: B2.MED.collaborating-to-construct-meaning.03
+    page: track_e_kl13/units/unit03_essai-personnel_exam
+  - implements_id: B2.MED.relaying-specific-information.05
+    page: track_e_kl13/units/unit03_essai-personnel_exam
+  - implements_id: B2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl13/units/unit03_essai-personnel_exam
+  - implements_id: B2.PRAG.fluency.01
+    page: track_e_kl13/units/unit03_essai-personnel_exam
+  - implements_id: B2.PROD.compensating.02
+    page: track_e_kl13/units/unit04_abitur-mock-1
+  - implements_id: B2.REC.understanding-conversation-between-other-people.03
+    page: track_e_kl13/units/unit04_abitur-mock-1
+  - implements_id: B2.PROD.overall-oral-production.01
+    page: track_e_kl13/units/unit04_abitur-mock-1
+  - implements_id: B2.REC.identifying-cues-and-inferring.01
+    page: track_e_kl13/units/unit04_abitur-mock-1
+  - implements_id: B2.INT.information-exchange.05
+    page: track_e_kl13/units/unit04_abitur-mock-1
+  - implements_id: B2.MED.relaying-specific-information.05
+    page: track_e_kl13/units/unit04_abitur-mock-1_exam
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: track_e_kl13/units/unit04_abitur-mock-1_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit04_abitur-mock-1_exam
+  - implements_id: B2.INT.information-exchange.05
+    page: track_e_kl13/units/unit04_abitur-mock-1_exam
+  - implements_id: B2.MED.adapting-language.03
+    page: track_e_kl13/units/unit04_abitur-mock-1_exam
+  - implements_id: B2.PROD.overall-oral-production.01
+    page: track_e_kl13/units/unit05_abitur-mock-2
+  - implements_id: B2.REC.reading-as-a-leisure-activity.04
+    page: track_e_kl13/units/unit05_abitur-mock-2
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: track_e_kl13/units/unit05_abitur-mock-2
+  - implements_id: B2.MED.note-taking.01
+    page: track_e_kl13/units/unit05_abitur-mock-2
+  - implements_id: B2.REC.identifying-cues-and-inferring.01
+    page: track_e_kl13/units/unit05_abitur-mock-2
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit05_abitur-mock-2_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl13/units/unit05_abitur-mock-2_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl13/units/unit05_abitur-mock-2_exam
+  - implements_id: B2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl13/units/unit05_abitur-mock-2_exam
+  - implements_id: B2.PRAG.propositional-precision.02
+    page: track_e_kl13/units/unit05_abitur-mock-2_exam
+  - implements_id: B2.MED.acting-as-an-intermediary-in-informal-situations.01
+    page: track_e_kl13/units/unit06_mediation-finale
+  - implements_id: B2.MED.managing-interaction.03
+    page: track_e_kl13/units/unit06_mediation-finale
+  - implements_id: B2.INT.information-exchange.05
+    page: track_e_kl13/units/unit06_mediation-finale
+  - implements_id: B2.LING.grammatical-accuracy.01
+    page: track_e_kl13/units/unit06_mediation-finale
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.01
+    page: track_e_kl13/units/unit06_mediation-finale
+  - implements_id: B2.PROD.overall-oral-production.01
+    page: track_e_kl13/units/unit06_mediation-finale_exam
+  - implements_id: B2.PROD.sustained-monologue-putting-a-case.01
+    page: track_e_kl13/units/unit06_mediation-finale_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit06_mediation-finale_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl13/units/unit06_mediation-finale_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl13/units/unit06_mediation-finale_exam
+  - implements_id: B2.INT.conversation.01
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep
+  - implements_id: B2.PROD.overall-oral-production.01
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep
+  - implements_id: B2.INT.notes-messages-and-forms.01
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep
+  - implements_id: B2.PROD.sustained-monologue-putting-a-case.01
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep
+  - implements_id: B2.MED.overall-mediation.02
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep
+  - implements_id: B2.MED.collaborating-to-construct-meaning.03
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep_exam
+  - implements_id: B2.MED.overall-mediation.02
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep_exam
+  - implements_id: B2.INT.correspondence.03
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep_exam
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep_exam
+  - implements_id: B2.LING.grammatical-accuracy.01
+    page: track_e_kl13/units/unit07_kommunikationspruefung-prep_exam
+  - implements_id: B2.INT.informal-discussion.03
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus
+  - implements_id: B2.PROD.overall-oral-production.01
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus
+  - implements_id: B2.INT.asking-for-clarification.02
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus
+  - implements_id: B2.MED.acting-as-an-intermediary-in-informal-situations.01
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus_exam
+  - implements_id: B2.MED.collaborating-to-construct-meaning.03
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus_exam
+  - implements_id: B2.PRAG.thematic-development.02
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus_exam
+  - implements_id: B2.INT.informal-discussion.01
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl13/units/unit08_discussion-sur-stimulus_exam
+  - implements_id: B2.PROD.reports-and-essays.04
+    page: track_e_kl13/units/unit09_monologue-et-presentation
+  - implements_id: B2.PROD.sustained-monologue-putting-a-case.04
+    page: track_e_kl13/units/unit09_monologue-et-presentation
+  - implements_id: B2.SOC.sociolinguistic-appropriateness.02
+    page: track_e_kl13/units/unit09_monologue-et-presentation
+  - implements_id: B2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_e_kl13/units/unit09_monologue-et-presentation
+  - implements_id: B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl13/units/unit09_monologue-et-presentation
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit09_monologue-et-presentation_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl13/units/unit09_monologue-et-presentation_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl13/units/unit09_monologue-et-presentation_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl13/units/unit09_monologue-et-presentation_exam
+  - implements_id: B2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl13/units/unit09_monologue-et-presentation_exam
+  - implements_id: B2.PROD.overall-oral-production.01
+    page: track_e_kl13/units/unit10_reflexion-sur-soi
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: track_e_kl13/units/unit10_reflexion-sur-soi
+  - implements_id: B2.MED.collaborating-to-construct-meaning.05
+    page: track_e_kl13/units/unit10_reflexion-sur-soi
+  - implements_id: B2.MED.note-taking.01
+    page: track_e_kl13/units/unit10_reflexion-sur-soi
+  - implements_id: B2.INT.conversation.01
+    page: track_e_kl13/units/unit10_reflexion-sur-soi
+  - implements_id: B2.MED.collaborating-to-construct-meaning.05
+    page: track_e_kl13/units/unit10_reflexion-sur-soi_exam
+  - implements_id: B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_e_kl13/units/unit10_reflexion-sur-soi_exam
+  - implements_id: B2.INT.asking-for-clarification.02
+    page: track_e_kl13/units/unit10_reflexion-sur-soi_exam
+  - implements_id: B2.INT.conversation.01
+    page: track_e_kl13/units/unit10_reflexion-sur-soi_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl13/units/unit10_reflexion-sur-soi_exam
+  - implements_id: B2.PROD.reports-and-essays.01
+    page: track_e_kl13/units/unit11_abitur-mock-final
+  - implements_id: B2.REC.overall-reading-comprehension.01
+    page: track_e_kl13/units/unit11_abitur-mock-final
+  - implements_id: B2.PROD.sustained-monologue-putting-a-case.01
+    page: track_e_kl13/units/unit11_abitur-mock-final
+  - implements_id: B2.REC.identifying-cues-and-inferring.01
+    page: track_e_kl13/units/unit11_abitur-mock-final
+  - implements_id: B2.MED.overall-mediation.02
+    page: track_e_kl13/units/unit11_abitur-mock-final
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit11_abitur-mock-final_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl13/units/unit11_abitur-mock-final_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl13/units/unit11_abitur-mock-final_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl13/units/unit11_abitur-mock-final_exam
+  - implements_id: B2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl13/units/unit11_abitur-mock-final_exam
+  - implements_id: B2.PROD.compensating.02
+    page: track_e_kl13/units/unit12_bilan-final-abitur
+  - implements_id: B2.PROD.monitoring-and-repair.01
+    page: track_e_kl13/units/unit12_bilan-final-abitur
+  - implements_id: B2.MED.overall-mediation.02
+    page: track_e_kl13/units/unit12_bilan-final-abitur
+  - implements_id: B2.MED.relaying-specific-information.05
+    page: track_e_kl13/units/unit12_bilan-final-abitur
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit12_bilan-final-abitur
+  - implements_id: B2.INT.formal-discussion.01
+    page: track_e_kl13/units/unit12_bilan-final-abitur_exam
+  - implements_id: B2.MED.amplifying-a-dense-text.02
+    page: track_e_kl13/units/unit12_bilan-final-abitur_exam
+  - implements_id: B2.MED.analysis-and-criticism-of-creative-texts.03
+    page: track_e_kl13/units/unit12_bilan-final-abitur_exam
+  - implements_id: B2.PLUR.building-on-plurilingual-repertoire.03
+    page: track_e_kl13/units/unit12_bilan-final-abitur_exam
+  - implements_id: B2.PRAG.coherence-and-cohesion.01
+    page: track_e_kl13/units/unit12_bilan-final-abitur_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms
+  - implements_id: A1.INT.correspondence.03
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms
+  - implements_id: A1.LING.phonological-control.04
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms
+  - implements_id: A1.LING.vocabulary-range.01
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms_exam
+  - implements_id: A1.REC.reading-for-orientation.01
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl06/units/unit01_salutations-et-prenoms_exam
+  - implements_id: A1.PROD.compensating.01
+    page: track_gm_kl06/units/unit02_ma-famille
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl06/units/unit02_ma-famille
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl06/units/unit02_ma-famille
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: track_gm_kl06/units/unit02_ma-famille
+  - implements_id: A1.INT.goal-oriented-co-operation.01
+    page: track_gm_kl06/units/unit02_ma-famille
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit02_ma-famille_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_gm_kl06/units/unit02_ma-famille_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl06/units/unit02_ma-famille_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit02_ma-famille_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl06/units/unit02_ma-famille_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl06/units/unit03_mon-ecole
+  - implements_id: A1.REC.reading-for-orientation.04
+    page: track_gm_kl06/units/unit03_mon-ecole
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl06/units/unit03_mon-ecole
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl06/units/unit03_mon-ecole
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl06/units/unit03_mon-ecole
+  - implements_id: A1.INT.correspondence.03
+    page: track_gm_kl06/units/unit03_mon-ecole_exam
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl06/units/unit03_mon-ecole_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit03_mon-ecole_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_gm_kl06/units/unit03_mon-ecole_exam
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: track_gm_kl06/units/unit03_mon-ecole_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl06/units/unit04_ma-journee
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl06/units/unit04_ma-journee
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl06/units/unit04_ma-journee
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit04_ma-journee
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl06/units/unit04_ma-journee
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit04_ma-journee_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_gm_kl06/units/unit04_ma-journee_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl06/units/unit04_ma-journee_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit04_ma-journee_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl06/units/unit04_ma-journee_exam
+  - implements_id: A1.INT.information-exchange.02
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit06_au-marche
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl06/units/unit06_au-marche
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl06/units/unit06_au-marche
+  - implements_id: A1.REC.reading-correspondence.02
+    page: track_gm_kl06/units/unit06_au-marche
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl06/units/unit06_au-marche
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit06_au-marche_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl06/units/unit06_au-marche_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit06_au-marche_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl06/units/unit06_au-marche_exam
+  - implements_id: A1.LING.grammatical-accuracy.01
+    page: track_gm_kl06/units/unit06_au-marche_exam
+  - implements_id: A1.PROD.overall-written-production.01
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure
+  - implements_id: A1.REC.reading-for-orientation.03
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure
+  - implements_id: A1.INT.correspondence.03
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure
+  - implements_id: A1.PROD.compensating.01
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure_exam
+  - implements_id: A1.LING.grammatical-accuracy.01
+    page: track_gm_kl06/units/unit07_le-temps-et-l-heure_exam
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons
+  - implements_id: A1.REC.identifying-cues-and-inferring.01
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons
+  - implements_id: A1.INT.correspondence.03
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons
+  - implements_id: A1.INT.understanding-an-interlocutor.01
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam
+  - implements_id: A1.PRAG.fluency.01
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam
+  - implements_id: A1.PROD.overall-written-production.01
+    page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl06/units/unit09_ma-chambre
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl06/units/unit09_ma-chambre
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl06/units/unit09_ma-chambre
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit09_ma-chambre
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl06/units/unit09_ma-chambre
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit09_ma-chambre_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl06/units/unit09_ma-chambre_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit09_ma-chambre_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl06/units/unit09_ma-chambre_exam
+  - implements_id: A1.LING.grammatical-accuracy.01
+    page: track_gm_kl06/units/unit09_ma-chambre_exam
+  - implements_id: A1.INT.interviewing-and-being-interviewed.01
+    page: track_gm_kl06/units/unit10_mes-loisirs
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl06/units/unit10_mes-loisirs
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit10_mes-loisirs
+  - implements_id: A1.REC.reading-for-information-and-argument.02
+    page: track_gm_kl06/units/unit10_mes-loisirs
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl06/units/unit10_mes-loisirs
+  - implements_id: A1.INT.interviewing-and-being-interviewed.01
+    page: track_gm_kl06/units/unit10_mes-loisirs_exam
+  - implements_id: A1.INT.goal-oriented-co-operation.01
+    page: track_gm_kl06/units/unit10_mes-loisirs_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit10_mes-loisirs_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl06/units/unit10_mes-loisirs_exam
+  - implements_id: A1.LING.grammatical-accuracy.01
+    page: track_gm_kl06/units/unit10_mes-loisirs_exam
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl06/units/unit11_voyage-en-france
+  - implements_id: A1.REC.reading-for-orientation.01
+    page: track_gm_kl06/units/unit11_voyage-en-france
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit11_voyage-en-france
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl06/units/unit11_voyage-en-france
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl06/units/unit11_voyage-en-france
+  - implements_id: A1.INT.information-exchange.07
+    page: track_gm_kl06/units/unit11_voyage-en-france_exam
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_gm_kl06/units/unit11_voyage-en-france_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl06/units/unit11_voyage-en-france_exam
+  - implements_id: A1.REC.reading-for-orientation.04
+    page: track_gm_kl06/units/unit11_voyage-en-france_exam
+  - implements_id: A1.REC.understanding-as-a-member-of-a-live-audience.01
+    page: track_gm_kl06/units/unit11_voyage-en-france_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe
+  - implements_id: A1.MED.facilitating-collaborative-interaction-with-peers.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit01_ma-rentree
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl07/units/unit01_ma-rentree
+  - implements_id: A1.LING.vocabulary-range.01
+    page: track_gm_kl07/units/unit01_ma-rentree
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl07/units/unit01_ma-rentree
+  - implements_id: A1.REC.reading-for-orientation.01
+    page: track_gm_kl07/units/unit01_ma-rentree
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit01_ma-rentree_exam
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl07/units/unit01_ma-rentree_exam
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl07/units/unit01_ma-rentree_exam
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl07/units/unit01_ma-rentree_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_gm_kl07/units/unit01_ma-rentree_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl07/units/unit02_raconter-le-week-end
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl07/units/unit02_raconter-le-week-end
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl07/units/unit02_raconter-le-week-end
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit02_raconter-le-week-end
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl07/units/unit02_raconter-le-week-end
+  - implements_id: A1.INT.information-exchange.02
+    page: track_gm_kl07/units/unit02_raconter-le-week-end_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit02_raconter-le-week-end_exam
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl07/units/unit02_raconter-le-week-end_exam
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl07/units/unit02_raconter-le-week-end_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_gm_kl07/units/unit02_raconter-le-week-end_exam
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl07/units/unit03_mon-quartier
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl07/units/unit03_mon-quartier
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl07/units/unit03_mon-quartier
+  - implements_id: A1.REC.reading-correspondence.02
+    page: track_gm_kl07/units/unit03_mon-quartier
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl07/units/unit03_mon-quartier
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl07/units/unit03_mon-quartier_exam
+  - implements_id: A1.INT.online-conversation-and-discussion.02
+    page: track_gm_kl07/units/unit03_mon-quartier_exam
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl07/units/unit03_mon-quartier_exam
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl07/units/unit03_mon-quartier_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_gm_kl07/units/unit03_mon-quartier_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit04_les-repas
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl07/units/unit04_les-repas
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl07/units/unit04_les-repas
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl07/units/unit04_les-repas
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl07/units/unit04_les-repas
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl07/units/unit04_les-repas_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_gm_kl07/units/unit04_les-repas_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl07/units/unit04_les-repas_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit04_les-repas_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl07/units/unit04_les-repas_exam
+  - implements_id: A1.INT.correspondence.03
+    page: track_gm_kl07/units/unit05_amis-et-conflits
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl07/units/unit05_amis-et-conflits
+  - implements_id: A1.INT.interviewing-and-being-interviewed.01
+    page: track_gm_kl07/units/unit05_amis-et-conflits
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl07/units/unit05_amis-et-conflits
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl07/units/unit05_amis-et-conflits
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl07/units/unit05_amis-et-conflits_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_gm_kl07/units/unit05_amis-et-conflits_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl07/units/unit05_amis-et-conflits_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit05_amis-et-conflits_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl07/units/unit05_amis-et-conflits_exam
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl07/units/unit06_les-transports
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl07/units/unit06_les-transports
+  - implements_id: A1.REC.reading-for-orientation.01
+    page: track_gm_kl07/units/unit06_les-transports
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl07/units/unit06_les-transports
+  - implements_id: A1.INT.online-conversation-and-discussion.02
+    page: track_gm_kl07/units/unit06_les-transports
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_gm_kl07/units/unit06_les-transports_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl07/units/unit06_les-transports_exam
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit06_les-transports_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl07/units/unit06_les-transports_exam
+  - implements_id: A1.LING.grammatical-accuracy.01
+    page: track_gm_kl07/units/unit06_les-transports_exam
+  - implements_id: A1.PROD.compensating.01
+    page: track_gm_kl07/units/unit07_vacances-en-famille
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_gm_kl07/units/unit07_vacances-en-famille
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl07/units/unit07_vacances-en-famille
+  - implements_id: A1.INT.goal-oriented-co-operation.01
+    page: track_gm_kl07/units/unit07_vacances-en-famille
+  - implements_id: A1.PLUR.plurilingual-comprehension.01
+    page: track_gm_kl07/units/unit07_vacances-en-famille
+  - implements_id: A1.INT.information-exchange.07
+    page: track_gm_kl07/units/unit07_vacances-en-famille_exam
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_gm_kl07/units/unit07_vacances-en-famille_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl07/units/unit07_vacances-en-famille_exam
+  - implements_id: A1.MED.processing-text.03
+    page: track_gm_kl07/units/unit07_vacances-en-famille_exam
+  - implements_id: A1.REC.reading-for-orientation.04
+    page: track_gm_kl07/units/unit07_vacances-en-famille_exam
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl07/units/unit08_le-quebec
+  - implements_id: A1.SOC.sociolinguistic-appropriateness.01
+    page: track_gm_kl07/units/unit08_le-quebec
+  - implements_id: A1.REC.reading-for-orientation.01
+    page: track_gm_kl07/units/unit08_le-quebec
+  - implements_id: A1.INT.interviewing-and-being-interviewed.02
+    page: track_gm_kl07/units/unit08_le-quebec
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit08_le-quebec
+  - implements_id: A1.INT.information-exchange.02
+    page: track_gm_kl07/units/unit08_le-quebec_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl07/units/unit08_le-quebec_exam
+  - implements_id: A1.MED.processing-text.03
+    page: track_gm_kl07/units/unit08_le-quebec_exam
+  - implements_id: A1.INT.asking-for-clarification.01
+    page: track_gm_kl07/units/unit08_le-quebec_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl07/units/unit08_le-quebec_exam
+  - implements_id: A1.INT.goal-oriented-co-operation.01
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire
+  - implements_id: A1.PROD.compensating.01
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire
+  - implements_id: A1.INT.information-exchange.01
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire
+  - implements_id: A1.INT.information-exchange.07
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire_exam
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire_exam
+  - implements_id: A1.MED.processing-text.03
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire_exam
+  - implements_id: A1.REC.reading-correspondence.03
+    page: track_gm_kl07/units/unit09_fete-d-anniversaire_exam
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl07/units/unit10_musique-et-clips
+  - implements_id: A1.REC.reading-for-orientation.01
+    page: track_gm_kl07/units/unit10_musique-et-clips
+  - implements_id: A1.INT.online-conversation-and-discussion.02
+    page: track_gm_kl07/units/unit10_musique-et-clips
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit10_musique-et-clips
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl07/units/unit10_musique-et-clips
+  - implements_id: A1.INT.understanding-an-interlocutor.01
+    page: track_gm_kl07/units/unit10_musique-et-clips_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl07/units/unit10_musique-et-clips_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl07/units/unit10_musique-et-clips_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_gm_kl07/units/unit10_musique-et-clips_exam
+  - implements_id: A1.PRAG.fluency.01
+    page: track_gm_kl07/units/unit10_musique-et-clips_exam
+  - implements_id: A1.MED.acting-as-an-intermediary-in-informal-situations.01
+    page: track_gm_kl07/units/unit11_mediation-de-base
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl07/units/unit11_mediation-de-base
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_gm_kl07/units/unit11_mediation-de-base
+  - implements_id: A1.PROD.overall-oral-production.01
+    page: track_gm_kl07/units/unit11_mediation-de-base
+  - implements_id: A1.INT.correspondence.03
+    page: track_gm_kl07/units/unit11_mediation-de-base
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit11_mediation-de-base_exam
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl07/units/unit11_mediation-de-base_exam
+  - implements_id: A1.LING.orthographic-control.01
+    page: track_gm_kl07/units/unit11_mediation-de-base_exam
+  - implements_id: A1.LING.phonological-control.01
+    page: track_gm_kl07/units/unit11_mediation-de-base_exam
+  - implements_id: A1.MED.collaborating-to-construct-meaning.01
+    page: track_gm_kl07/units/unit11_mediation-de-base_exam
+  - implements_id: A1.PROD.compensating.01
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee
+  - implements_id: A1.PROD.creative-writing.01
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee
+  - implements_id: A1.REC.overall-reading-comprehension.01
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee
+  - implements_id: A1.INT.conversation.01
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee
+  - implements_id: A1.INT.correspondence.01
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee
+  - implements_id: A1.INT.information-exchange.02
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam
+  - implements_id: A1.INT.notes-messages-and-forms.01
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam
+  - implements_id: A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam
+  - implements_id: A1.MED.relaying-specific-information.02
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam
+  - implements_id: A1.LING.general-linguistic-range.01
+    page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam
+  - implements_id: A2.PROD.reports-and-essays.02
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal
+  - implements_id: A2.REC.overall-oral-comprehension.02
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal
+  - implements_id: A2.PROD.compensating.01
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal
+  - implements_id: A2.MED.note-taking.01
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal_exam
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal_exam
+  - implements_id: A2.INT.conversation.10
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_gm_kl08/units/unit01_correspondance-avec-montreal_exam
+  - implements_id: A2.INT.correspondence.01
+    page: track_gm_kl08/units/unit02_mes-medias-preferes
+  - implements_id: A2.INT.overall-oral-interaction.02
+    page: track_gm_kl08/units/unit02_mes-medias-preferes
+  - implements_id: A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl08/units/unit02_mes-medias-preferes
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl08/units/unit02_mes-medias-preferes
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl08/units/unit02_mes-medias-preferes
+  - implements_id: A2.INT.interviewing-and-being-interviewed.03
+    page: track_gm_kl08/units/unit02_mes-medias-preferes_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_gm_kl08/units/unit02_mes-medias-preferes_exam
+  - implements_id: A2.REC.reading-for-information-and-argument.04
+    page: track_gm_kl08/units/unit02_mes-medias-preferes_exam
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl08/units/unit02_mes-medias-preferes_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit02_mes-medias-preferes_exam
+  - implements_id: A2.PROD.compensating.01
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone
+  - implements_id: A2.REC.reading-as-a-leisure-activity.03
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone
+  - implements_id: A2.REC.reading-for-information-and-argument.08
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone
+  - implements_id: A2.PROD.creative-writing.01
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam
+  - implements_id: A2.INT.conversation.10
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl08/units/unit04_futurs-projets
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl08/units/unit04_futurs-projets
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl08/units/unit04_futurs-projets
+  - implements_id: A2.INT.goal-oriented-co-operation.04
+    page: track_gm_kl08/units/unit04_futurs-projets
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit04_futurs-projets
+  - implements_id: A2.INT.overall-written-interaction.01
+    page: track_gm_kl08/units/unit04_futurs-projets_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl08/units/unit04_futurs-projets_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_gm_kl08/units/unit04_futurs-projets_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_gm_kl08/units/unit04_futurs-projets_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_gm_kl08/units/unit04_futurs-projets_exam
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume
+  - implements_id: A2.MED.processing-text.06
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume
+  - implements_id: A2.INT.correspondence.01
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume
+  - implements_id: A2.PRAG.flexibility.01
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam
+  - implements_id: A2.INT.conversation.10
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb
+  - implements_id: A2.REC.reading-for-information-and-argument.03
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb
+  - implements_id: A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb
+  - implements_id: A2.PRAG.flexibility.01
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb
+  - implements_id: A2.MED.processing-text.06
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb_exam
+  - implements_id: A2.REC.identifying-cues-and-inferring.05
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb_exam
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb_exam
+  - implements_id: A2.INT.conversation.10
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit06_musiques-du-maghreb_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl08/units/unit07_sport-et-equipe
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl08/units/unit07_sport-et-equipe
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_gm_kl08/units/unit07_sport-et-equipe
+  - implements_id: A2.INT.correspondence.01
+    page: track_gm_kl08/units/unit07_sport-et-equipe
+  - implements_id: A2.MED.relaying-specific-information.03
+    page: track_gm_kl08/units/unit07_sport-et-equipe
+  - implements_id: A2.REC.reading-for-information-and-argument.04
+    page: track_gm_kl08/units/unit07_sport-et-equipe_exam
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl08/units/unit07_sport-et-equipe_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl08/units/unit07_sport-et-equipe_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit07_sport-et-equipe_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_gm_kl08/units/unit07_sport-et-equipe_exam
+  - implements_id: A2.PROD.creative-writing.03
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris
+  - implements_id: A2.REC.reading-for-information-and-argument.08
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris
+  - implements_id: A2.INT.correspondence.04
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris_exam
+  - implements_id: A2.INT.online-conversation-and-discussion.03
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_gm_kl08/units/unit08_un-allemand-a-paris_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges
+  - implements_id: A2.INT.goal-oriented-co-operation.04
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam
+  - implements_id: A2.INT.conversation.10
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam
+  - implements_id: A2.PROD.sustained-monologue-putting-a-case.02
+    page: track_gm_kl08/units/unit10_cinema-quebecois
+  - implements_id: A2.REC.watching-tv-film-and-video.02
+    page: track_gm_kl08/units/unit10_cinema-quebecois
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl08/units/unit10_cinema-quebecois
+  - implements_id: A2.REC.identifying-cues-and-inferring.02
+    page: track_gm_kl08/units/unit10_cinema-quebecois
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_gm_kl08/units/unit10_cinema-quebecois
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl08/units/unit10_cinema-quebecois_exam
+  - implements_id: A2.INT.conversation.10
+    page: track_gm_kl08/units/unit10_cinema-quebecois_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit10_cinema-quebecois_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_gm_kl08/units/unit10_cinema-quebecois_exam
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl08/units/unit10_cinema-quebecois_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl08/units/unit11_un-projet-solidaire
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl08/units/unit11_un-projet-solidaire
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl08/units/unit11_un-projet-solidaire
+  - implements_id: A2.INT.goal-oriented-co-operation.04
+    page: track_gm_kl08/units/unit11_un-projet-solidaire
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit11_un-projet-solidaire
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl08/units/unit11_un-projet-solidaire_exam
+  - implements_id: A2.INT.conversation.10
+    page: track_gm_kl08/units/unit11_un-projet-solidaire_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl08/units/unit11_un-projet-solidaire_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_gm_kl08/units/unit11_un-projet-solidaire_exam
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl08/units/unit11_un-projet-solidaire_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre
+  - implements_id: A2.INT.goal-oriented-co-operation.04
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre
+  - implements_id: A2.INT.correspondence.04
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam
+  - implements_id: A2.INT.notes-messages-and-forms.01
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam
+  - implements_id: A2.MED.note-taking.01
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl09/units/unit01_le-monde-du-travail
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl09/units/unit01_le-monde-du-travail
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl09/units/unit01_le-monde-du-travail
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_gm_kl09/units/unit01_le-monde-du-travail
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl09/units/unit01_le-monde-du-travail
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_gm_kl09/units/unit01_le-monde-du-travail_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl09/units/unit01_le-monde-du-travail_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_gm_kl09/units/unit01_le-monde-du-travail_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_gm_kl09/units/unit01_le-monde-du-travail_exam
+  - implements_id: A2.PRAG.coherence-and-cohesion.01
+    page: track_gm_kl09/units/unit01_le-monde-du-travail_exam
+  - implements_id: A2.PROD.compensating.01
+    page: track_gm_kl09/units/unit02_lettre-de-motivation
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl09/units/unit02_lettre-de-motivation
+  - implements_id: A2.PROD.creative-writing.01
+    page: track_gm_kl09/units/unit02_lettre-de-motivation
+  - implements_id: A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl09/units/unit02_lettre-de-motivation
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl09/units/unit02_lettre-de-motivation
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_gm_kl09/units/unit02_lettre-de-motivation_exam
+  - implements_id: A2.LING.orthographic-control.01
+    page: track_gm_kl09/units/unit02_lettre-de-motivation_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl09/units/unit02_lettre-de-motivation_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_gm_kl09/units/unit02_lettre-de-motivation_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_gm_kl09/units/unit02_lettre-de-motivation_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien
+  - implements_id: A2.REC.understanding-audio-media-and-recordings.01
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien
+  - implements_id: A2.INT.correspondence.01
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien
+  - implements_id: A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien_exam
+  - implements_id: A2.REC.understanding-audio-media-and-recordings.05
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien_exam
+  - implements_id: A2.INT.online-conversation-and-discussion.04
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_gm_kl09/units/unit03_ecologie-au-quotidien_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre
+  - implements_id: A2.INT.overall-written-interaction.01
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre
+  - implements_id: A2.MED.note-taking.01
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre
+  - implements_id: A2.PRAG.flexibility.01
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre
+  - implements_id: A2.REC.reading-for-information-and-argument.04
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre_exam
+  - implements_id: A2.INT.conversation.06
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre_exam
+  - implements_id: A2.INT.correspondence.04
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre_exam
+  - implements_id: A2.LING.phonological-control.01
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre_exam
+  - implements_id: A2.MED.note-taking.01
+    page: track_gm_kl09/units/unit04_argumenter-pour-contre_exam
+  - implements_id: A2.REC.understanding-announcements-and-instructions.04
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie
+  - implements_id: A2.REC.identifying-cues-and-inferring.05
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie
+  - implements_id: A2.PRAG.flexibility.01
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie
+  - implements_id: A2.INT.conversation.10
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie
+  - implements_id: A2.INT.conversation.02
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie_exam
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie_exam
+  - implements_id: A2.LING.orthographic-control.01
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie_exam
+  - implements_id: A2.MED.collaborating-to-construct-meaning.02
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie_exam
+  - implements_id: A2.MED.encouraging-conceptual-talk.01
+    page: track_gm_kl09/units/unit05_vivre-en-tunisie_exam
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl09/units/unit06_podcasts-en-francais
+  - implements_id: A2.REC.reading-for-information-and-argument.05
+    page: track_gm_kl09/units/unit06_podcasts-en-francais
+  - implements_id: A2.INT.overall-written-interaction.01
+    page: track_gm_kl09/units/unit06_podcasts-en-francais
+  - implements_id: A2.MED.note-taking.01
+    page: track_gm_kl09/units/unit06_podcasts-en-francais
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl09/units/unit06_podcasts-en-francais
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl09/units/unit06_podcasts-en-francais_exam
+  - implements_id: A2.INT.conversation.10
+    page: track_gm_kl09/units/unit06_podcasts-en-francais_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl09/units/unit06_podcasts-en-francais_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_gm_kl09/units/unit06_podcasts-en-francais_exam
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl09/units/unit06_podcasts-en-francais_exam
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl09/units/unit07_harcelement-et-respect
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl09/units/unit07_harcelement-et-respect
+  - implements_id: A2.INT.conversation.04
+    page: track_gm_kl09/units/unit07_harcelement-et-respect
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl09/units/unit07_harcelement-et-respect
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl09/units/unit07_harcelement-et-respect
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_gm_kl09/units/unit07_harcelement-et-respect_exam
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_gm_kl09/units/unit07_harcelement-et-respect_exam
+  - implements_id: A2.INT.obtaining-goods-and-services.08
+    page: track_gm_kl09/units/unit07_harcelement-et-respect_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl09/units/unit07_harcelement-et-respect_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_gm_kl09/units/unit07_harcelement-et-respect_exam
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl09/units/unit08_differences-culturelles
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl09/units/unit08_differences-culturelles
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl09/units/unit08_differences-culturelles
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl09/units/unit08_differences-culturelles
+  - implements_id: A2.INT.goal-oriented-co-operation.04
+    page: track_gm_kl09/units/unit08_differences-culturelles
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl09/units/unit08_differences-culturelles_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl09/units/unit08_differences-culturelles_exam
+  - implements_id: A2.REC.reading-for-information-and-argument.04
+    page: track_gm_kl09/units/unit08_differences-culturelles_exam
+  - implements_id: A2.REC.reading-for-orientation.02
+    page: track_gm_kl09/units/unit08_differences-culturelles_exam
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl09/units/unit08_differences-culturelles_exam
+  - implements_id: A2.INT.conversation.02
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee
+  - implements_id: A2.REC.understanding-announcements-and-instructions.04
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee
+  - implements_id: A2.INT.correspondence.01
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee_exam
+  - implements_id: A2.INT.information-exchange.04
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee_exam
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_gm_kl09/units/unit09_internet-et-vie-privee_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl09/units/unit10_consommation-responsable
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl09/units/unit10_consommation-responsable
+  - implements_id: A2.REC.understanding-announcements-and-instructions.03
+    page: track_gm_kl09/units/unit10_consommation-responsable
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl09/units/unit10_consommation-responsable
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl09/units/unit10_consommation-responsable
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl09/units/unit10_consommation-responsable_exam
+  - implements_id: A2.MED.processing-text.01
+    page: track_gm_kl09/units/unit10_consommation-responsable_exam
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl09/units/unit10_consommation-responsable_exam
+  - implements_id: A2.REC.reading-for-information-and-argument.04
+    page: track_gm_kl09/units/unit10_consommation-responsable_exam
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_gm_kl09/units/unit10_consommation-responsable_exam
+  - implements_id: A2.INT.overall-oral-interaction.02
+    page: track_gm_kl09/units/unit11_francais-au-travail
+  - implements_id: A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl09/units/unit11_francais-au-travail
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl09/units/unit11_francais-au-travail
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl09/units/unit11_francais-au-travail
+  - implements_id: A2.PLUR.building-on-plurilingual-repertoire.02
+    page: track_gm_kl09/units/unit11_francais-au-travail
+  - implements_id: A2.INT.overall-oral-interaction.02
+    page: track_gm_kl09/units/unit11_francais-au-travail_exam
+  - implements_id: A2.MED.adapting-language.01
+    page: track_gm_kl09/units/unit11_francais-au-travail_exam
+  - implements_id: A2.MED.overall-mediation.02
+    page: track_gm_kl09/units/unit11_francais-au-travail_exam
+  - implements_id: A2.INT.formal-discussion.01
+    page: track_gm_kl09/units/unit11_francais-au-travail_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl09/units/unit11_francais-au-travail_exam
+  - implements_id: A2.PROD.creative-writing.04
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife
+  - implements_id: A2.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife
+  - implements_id: A2.REC.reading-for-information-and-argument.03
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife
+  - implements_id: A2.PROD.overall-oral-production.01
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife
+  - implements_id: A2.INT.correspondence.01
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife
+  - implements_id: A2.INT.asking-for-clarification.02
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife_exam
+  - implements_id: A2.INT.conversation.08
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife_exam
+  - implements_id: A2.LING.general-linguistic-range.02
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife_exam
+  - implements_id: A2.LING.phonological-control.04
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife_exam
+  - implements_id: A2.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl09/units/unit12_preparation-mittlere-reife_exam
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_gm_kl10/units/unit01_transition-formation-emploi
+  - implements_id: B1.REC.identifying-cues-and-inferring.05
+    page: track_gm_kl10/units/unit01_transition-formation-emploi
+  - implements_id: B1.PROD.sustained-monologue-giving-information.03
+    page: track_gm_kl10/units/unit01_transition-formation-emploi
+  - implements_id: B1.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl10/units/unit01_transition-formation-emploi
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit01_transition-formation-emploi
+  - implements_id: B1.INT.notes-messages-and-forms.01
+    page: track_gm_kl10/units/unit01_transition-formation-emploi_exam
+  - implements_id: B1.MED.note-taking.02
+    page: track_gm_kl10/units/unit01_transition-formation-emploi_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit01_transition-formation-emploi_exam
+  - implements_id: B1.MED.collaborating-to-construct-meaning.01
+    page: track_gm_kl10/units/unit01_transition-formation-emploi_exam
+  - implements_id: B1.PRAG.coherence-and-cohesion.01
+    page: track_gm_kl10/units/unit01_transition-formation-emploi_exam
+  - implements_id: B1.REC.reading-instructions.03
+    page: track_gm_kl10/units/unit02_presse-francaise
+  - implements_id: B1.REC.understanding-announcements-and-instructions.03
+    page: track_gm_kl10/units/unit02_presse-francaise
+  - implements_id: B1.MED.processing-text.02
+    page: track_gm_kl10/units/unit02_presse-francaise
+  - implements_id: B1.INT.interviewing-and-being-interviewed.02
+    page: track_gm_kl10/units/unit02_presse-francaise
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_gm_kl10/units/unit02_presse-francaise
+  - implements_id: B1.INT.interviewing-and-being-interviewed.02
+    page: track_gm_kl10/units/unit02_presse-francaise_exam
+  - implements_id: B1.INT.notes-messages-and-forms.01
+    page: track_gm_kl10/units/unit02_presse-francaise_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_gm_kl10/units/unit02_presse-francaise_exam
+  - implements_id: B1.MED.processing-text.06
+    page: track_gm_kl10/units/unit02_presse-francaise_exam
+  - implements_id: B1.PROD.reports-and-essays.03
+    page: track_gm_kl10/units/unit02_presse-francaise_exam
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_gm_kl10/units/unit03_vie-democratique
+  - implements_id: B1.REC.identifying-cues-and-inferring.05
+    page: track_gm_kl10/units/unit03_vie-democratique
+  - implements_id: B1.PROD.compensating.03
+    page: track_gm_kl10/units/unit03_vie-democratique
+  - implements_id: B1.REC.reading-as-a-leisure-activity.04
+    page: track_gm_kl10/units/unit03_vie-democratique
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit03_vie-democratique
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit03_vie-democratique_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_gm_kl10/units/unit03_vie-democratique_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_gm_kl10/units/unit03_vie-democratique_exam
+  - implements_id: B1.MED.adapting-language.01
+    page: track_gm_kl10/units/unit03_vie-democratique_exam
+  - implements_id: B1.MED.amplifying-a-dense-text.01
+    page: track_gm_kl10/units/unit03_vie-democratique_exam
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui
+  - implements_id: B1.PROD.compensating.03
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui
+  - implements_id: B1.MED.adapting-language.02
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui
+  - implements_id: B1.PROD.planning.01
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam
+  - implements_id: B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie
+  - implements_id: B1.PROD.compensating.03
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie
+  - implements_id: B1.MED.adapting-language.02
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie
+  - implements_id: B1.PROD.planning.01
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam
+  - implements_id: B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam
+  - implements_id: B1.MED.overall-mediation.01
+    page: track_gm_kl10/units/unit06_mediation-avancee
+  - implements_id: B1.MED.processing-text.11
+    page: track_gm_kl10/units/unit06_mediation-avancee
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit06_mediation-avancee
+  - implements_id: B1.INT.interviewing-and-being-interviewed.02
+    page: track_gm_kl10/units/unit06_mediation-avancee
+  - implements_id: B1.PLUR.plurilingual-comprehension.02
+    page: track_gm_kl10/units/unit06_mediation-avancee
+  - implements_id: B1.INT.notes-messages-and-forms.02
+    page: track_gm_kl10/units/unit06_mediation-avancee_exam
+  - implements_id: B1.MED.overall-mediation.01
+    page: track_gm_kl10/units/unit06_mediation-avancee_exam
+  - implements_id: B1.PROD.planning.03
+    page: track_gm_kl10/units/unit06_mediation-avancee_exam
+  - implements_id: B1.INT.conversation.01
+    page: track_gm_kl10/units/unit06_mediation-avancee_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_gm_kl10/units/unit06_mediation-avancee_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit07_engagement-citoyen
+  - implements_id: B1.PROD.monitoring-and-repair.01
+    page: track_gm_kl10/units/unit07_engagement-citoyen
+  - implements_id: B1.INT.correspondence.04
+    page: track_gm_kl10/units/unit07_engagement-citoyen
+  - implements_id: B1.PROD.planning.02
+    page: track_gm_kl10/units/unit07_engagement-citoyen
+  - implements_id: B1.MED.analysis-and-criticism-of-creative-texts.01
+    page: track_gm_kl10/units/unit07_engagement-citoyen
+  - implements_id: B1.PROD.planning.01
+    page: track_gm_kl10/units/unit07_engagement-citoyen_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit07_engagement-citoyen_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_gm_kl10/units/unit07_engagement-citoyen_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_gm_kl10/units/unit07_engagement-citoyen_exam
+  - implements_id: B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl10/units/unit07_engagement-citoyen_exam
+  - implements_id: B1.INT.obtaining-goods-and-services.07
+    page: track_gm_kl10/units/unit08_reseaux-sociaux
+  - implements_id: B1.REC.overall-oral-comprehension.02
+    page: track_gm_kl10/units/unit08_reseaux-sociaux
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit08_reseaux-sociaux
+  - implements_id: B1.REC.reading-as-a-leisure-activity.01
+    page: track_gm_kl10/units/unit08_reseaux-sociaux
+  - implements_id: B1.MED.explaining-data.03
+    page: track_gm_kl10/units/unit08_reseaux-sociaux
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit08_reseaux-sociaux_exam
+  - implements_id: B1.INT.notes-messages-and-forms.01
+    page: track_gm_kl10/units/unit08_reseaux-sociaux_exam
+  - implements_id: B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl10/units/unit08_reseaux-sociaux_exam
+  - implements_id: B1.MED.explaining-data.03
+    page: track_gm_kl10/units/unit08_reseaux-sociaux_exam
+  - implements_id: B1.PRAG.coherence-and-cohesion.01
+    page: track_gm_kl10/units/unit08_reseaux-sociaux_exam
+  - implements_id: B1.REC.reading-for-orientation.06
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse
+  - implements_id: B1.REC.identifying-cues-and-inferring.05
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse
+  - implements_id: B1.MED.adapting-language.02
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse
+  - implements_id: B1.MED.note-taking.02
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse
+  - implements_id: B1.MED.explaining-data.03
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse_exam
+  - implements_id: B1.REC.reading-for-orientation.06
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse_exam
+  - implements_id: B1.REC.understanding-audio-media-and-recordings.03
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_gm_kl10/units/unit09_litterature-de-jeunesse_exam
+  - implements_id: B1.PROD.creative-writing.02
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune
+  - implements_id: B1.REC.watching-tv-film-and-video.01
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune
+  - implements_id: B1.PROD.planning.02
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune
+  - implements_id: B1.REC.identifying-cues-and-inferring.01
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune
+  - implements_id: B1.INT.notes-messages-and-forms.01
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam
+  - implements_id: B1.MED.processing-text.09
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam
+  - implements_id: B1.REC.watching-tv-film-and-video.03
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam
+  - implements_id: B1.PROD.planning.01
+    page: track_gm_kl10/units/unit11_preparer-un-discours
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_gm_kl10/units/unit11_preparer-un-discours
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit11_preparer-un-discours
+  - implements_id: B1.INT.overall-written-interaction.02
+    page: track_gm_kl10/units/unit11_preparer-un-discours
+  - implements_id: B1.MED.facilitating-pluricultural-space.03
+    page: track_gm_kl10/units/unit11_preparer-un-discours
+  - implements_id: B1.PROD.planning.01
+    page: track_gm_kl10/units/unit11_preparer-un-discours_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit11_preparer-un-discours_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_gm_kl10/units/unit11_preparer-un-discours_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_gm_kl10/units/unit11_preparer-un-discours_exam
+  - implements_id: B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl10/units/unit11_preparer-un-discours_exam
+  - implements_id: B1.PROD.planning.01
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife
+  - implements_id: B1.PROD.sustained-monologue-describing-experience.02
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife
+  - implements_id: B1.MED.facilitating-pluricultural-space.01
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife
+  - implements_id: B1.MED.note-taking.02
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife
+  - implements_id: B1.PROD.planning.01
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam
+  - implements_id: B1.INT.formal-discussion.01
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam
+  - implements_id: B1.INT.goal-oriented-co-operation.05
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam
+  - implements_id: B1.LING.general-linguistic-range.01
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam
+  - implements_id: B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam
+
+gaps: []
+# Not yet computed. A gap is an in-scope catalogue cell this course does not
+# cover, and declaring gaps honestly requires the implements claims to be
+# asserted first — a gap list derived from proposals would describe the
+# proposer, not the course.
+
+out_of_scope: []

@@ -24,6 +24,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl09/units/unit06_podcasts-en-francais.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.reading-for-information-and-argument.05
+    - A2.INT.overall-written-interaction.01
+    - A2.MED.note-taking.01
+    - A2.INT.conversation.08
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

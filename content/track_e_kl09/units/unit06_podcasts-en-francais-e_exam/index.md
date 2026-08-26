@@ -13,6 +13,18 @@ tags:
   - filiere-e
   - classe-9
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.INT.correspondence.01
+    - A2.MED.collaborating-to-construct-meaning.01
+    - A2.MED.overall-mediation.02
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9

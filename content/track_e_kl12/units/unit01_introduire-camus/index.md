@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit01_introduire-camus.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.overall-written-production.01
+    - B2.REC.overall-reading-comprehension.01
+    - B2.PROD.reports-and-essays.04
+    - B2.REC.reading-as-a-leisure-activity.01
+    - B2.MED.facilitating-collaborative-interaction-with-peers.03
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

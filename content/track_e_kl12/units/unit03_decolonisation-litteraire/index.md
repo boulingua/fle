@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit03_decolonisation-litteraire.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.compensating.02
+    - B2.REC.understanding-as-a-member-of-a-live-audience.03
+    - B2.PROD.creative-writing.03
+    - B2.REC.understanding-conversation-between-other-people.03
+    - B2.PLUR.building-on-pluricultural-repertoire.03
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

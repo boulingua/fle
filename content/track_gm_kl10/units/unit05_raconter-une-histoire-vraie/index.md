@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl10/units/unit05_raconter-une-histoire-vraie.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.sustained-monologue-describing-experience.02
+    - B1.PROD.compensating.03
+    - B1.INT.formal-discussion.01
+    - B1.INT.overall-written-interaction.02
+    - B1.MED.adapting-language.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

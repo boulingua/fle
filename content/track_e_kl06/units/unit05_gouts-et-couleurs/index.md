@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl06/units/unit05_gouts-et-couleurs.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.PROD.creative-writing.01
+    - A1.INT.information-exchange.02
+    - A1.PROD.overall-oral-production.01
+    - A1.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

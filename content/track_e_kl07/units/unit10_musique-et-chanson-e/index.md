@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl07/units/unit10_musique-et-chanson-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.reading-for-orientation.01
+    - A1.INT.interviewing-and-being-interviewed.01
+    - A1.INT.conversation.01
+    - A1.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

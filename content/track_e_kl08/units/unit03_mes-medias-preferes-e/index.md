@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl08/units/unit03_mes-medias-preferes-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.INT.correspondence.01
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl08/units/unit07_sport-et-equipe.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.understanding-announcements-and-instructions.03
+    - A2.INT.correspondence.01
+    - A2.MED.relaying-specific-information.03
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

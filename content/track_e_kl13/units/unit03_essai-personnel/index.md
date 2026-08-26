@@ -24,6 +24,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit03_essai-personnel.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.creative-writing.01
+    - B2.PROD.monitoring-and-repair.01
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+    - B2.INT.conversation.01
+    - B2.INT.information-exchange.05
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

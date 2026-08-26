@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit12_bilan-12e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.monitoring-and-repair.01
+    - B2.PROD.overall-oral-production.01
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - B2.MED.managing-interaction.03
+    - B2.INT.asking-for-clarification.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

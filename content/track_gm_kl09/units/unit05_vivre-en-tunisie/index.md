@@ -25,6 +25,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl09/units/unit05_vivre-en-tunisie.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.REC.understanding-announcements-and-instructions.04
+    - A2.REC.identifying-cues-and-inferring.05
+    - A2.PRAG.flexibility.01
+    - A2.INT.asking-for-clarification.02
+    - A2.INT.conversation.10
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

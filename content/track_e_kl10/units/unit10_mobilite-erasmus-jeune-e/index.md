@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.creative-writing.02
+    - B1.REC.identifying-cues-and-inferring.01
+    - B1.PROD.sustained-monologue-describing-experience.02
+    - B1.REC.reading-for-information-and-argument.04
+    - B1.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

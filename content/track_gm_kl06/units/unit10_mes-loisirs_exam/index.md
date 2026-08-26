@@ -13,6 +13,18 @@ tags:
   - filiere-gm
   - classe-6
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.interviewing-and-being-interviewed.01
+    - A1.INT.goal-oriented-co-operation.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.LING.general-linguistic-range.01
+    - A1.LING.grammatical-accuracy.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé — Niveau M, classe 6

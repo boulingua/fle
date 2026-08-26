@@ -25,6 +25,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl06/units/unit08_la-meteo-et-les-saisons.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.identifying-cues-and-inferring.01
+    - A1.INT.correspondence.03
+    - A1.INT.notes-messages-and-forms.01
+    - A1.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

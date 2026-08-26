@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl08/units/unit07_champs-de-bataille.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.understanding-announcements-and-instructions.03
+    - A2.MED.adapting-language.01
+    - A2.MED.overall-mediation.02
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

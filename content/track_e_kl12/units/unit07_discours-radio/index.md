@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit07_discours-radio.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.overall-written-production.01
+    - B2.REC.reading-as-a-leisure-activity.04
+    - B2.PROD.reports-and-essays.05
+    - B2.REC.reading-for-information-and-argument.01
+    - B2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

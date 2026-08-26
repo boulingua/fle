@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl11/units/unit02_francophonie-postcoloniale.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.REC.understanding-announcements-and-instructions.01
+    - B1.REC.watching-tv-film-and-video.01
+    - B1.INT.formal-discussion.01
+    - B1.INT.overall-written-interaction.02
+    - B1.MED.facilitating-pluricultural-space.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

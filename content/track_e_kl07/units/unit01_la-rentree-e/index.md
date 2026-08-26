@@ -24,6 +24,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl07/units/unit01_la-rentree-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.02
+    - A1.INT.goal-oriented-co-operation.01
+    - A1.LING.phonological-control.01
+    - A1.PLUR.building-on-plurilingual-repertoire.01
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl07/units/unit06_les-transports.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.LING.phonological-control.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.reading-for-orientation.01
+    - A1.LING.general-linguistic-range.01
+    - A1.INT.online-conversation-and-discussion.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

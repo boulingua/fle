@@ -24,6 +24,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit06_podcasts-en-francais-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.reading-instructions.04
+    - A2.INT.correspondence.04
+    - A2.INT.overall-written-interaction.01
+    - A2.MED.note-taking.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

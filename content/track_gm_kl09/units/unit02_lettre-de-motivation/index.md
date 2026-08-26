@@ -24,6 +24,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl09/units/unit02_lettre-de-motivation.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.compensating.01
+    - A2.MED.adapting-language.01
+    - A2.PROD.creative-writing.01
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.REC.reading-as-a-leisure-activity.04
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

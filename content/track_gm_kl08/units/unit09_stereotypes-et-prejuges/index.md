@@ -27,6 +27,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl08/units/unit09_stereotypes-et-prejuges.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.PROD.creative-writing.04
+    - A2.INT.goal-oriented-co-operation.04
+    - A2.PROD.overall-oral-production.01
+    - A2.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

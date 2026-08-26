@@ -13,6 +13,18 @@ tags:
   - filiere-e
   - classe-12
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.collaborating-to-construct-meaning.03
+    - B2.MED.relaying-specific-information.05
+    - B2.PRAG.thematic-development.03
+    - B2.PROD.reports-and-essays.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))

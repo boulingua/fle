@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl10/units/unit09_extraits-romans-jeunes.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.REC.identifying-cues-and-inferring.05
+    - B1.REC.reading-as-a-leisure-activity.04
+    - B1.INT.formal-discussion.01
+    - B1.MED.adapting-language.02
+    - B1.MED.note-taking.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

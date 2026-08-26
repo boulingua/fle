@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl11/units/unit09_histoire-et-memoire.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.compensating.01
+    - B1.REC.understanding-as-a-member-of-a-live-audience.05
+    - B1.REC.watching-tv-film-and-video.02
+    - B1.PROD.creative-writing.01
+    - B1.MED.adapting-language.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

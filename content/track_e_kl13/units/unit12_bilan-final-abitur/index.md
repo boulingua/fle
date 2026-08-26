@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit12_bilan-final-abitur.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.compensating.02
+    - B2.PROD.monitoring-and-repair.01
+    - B2.MED.overall-mediation.02
+    - B2.MED.relaying-specific-information.05
+    - B2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit08_gender-litteraire.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.REC.reading-for-information-and-argument.05
+    - B2.REC.understanding-conversation-between-other-people.03
+    - B2.INT.asking-for-clarification.02
+    - B2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

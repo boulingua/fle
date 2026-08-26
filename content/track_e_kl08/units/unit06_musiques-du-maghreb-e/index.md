@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl08/units/unit06_musiques-du-maghreb-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.identifying-cues-and-inferring.03
+    - A2.MED.translating-a-written-text.02
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.PRAG.flexibility.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

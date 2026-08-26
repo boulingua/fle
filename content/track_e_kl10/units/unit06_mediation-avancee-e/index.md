@@ -24,6 +24,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl10/units/unit06_mediation-avancee-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.adapting-language.02
+    - B1.MED.analysis-and-criticism-of-creative-texts.01
+    - B1.INT.formal-discussion.01
+    - B1.PLUR.plurilingual-comprehension.02
+    - B1.PRAG.thematic-development.03
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

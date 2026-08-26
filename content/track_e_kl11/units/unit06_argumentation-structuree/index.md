@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl11/units/unit06_argumentation-structuree.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.sustained-monologue-describing-experience.02
+    - B1.PROD.compensating.03
+    - B1.INT.formal-discussion.01
+    - B1.MED.note-taking.02
+    - B1.INT.obtaining-goods-and-services.07
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

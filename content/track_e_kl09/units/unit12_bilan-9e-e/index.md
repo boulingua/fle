@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit12_bilan-9e-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.creative-writing.04
+    - A2.PROD.overall-oral-production.01
+    - A2.INT.overall-written-interaction.01
+    - A2.MED.note-taking.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

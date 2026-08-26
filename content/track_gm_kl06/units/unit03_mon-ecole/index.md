@@ -27,6 +27,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl06/units/unit03_mon-ecole.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.PROD.creative-writing.01
+    - A1.REC.reading-for-orientation.04
+    - A1.PROD.overall-oral-production.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.LING.phonological-control.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

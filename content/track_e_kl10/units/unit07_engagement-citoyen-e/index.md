@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl10/units/unit07_engagement-citoyen-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.PROD.reports-and-essays.03
+    - B1.INT.notes-messages-and-forms.01
+    - B1.PROD.sustained-monologue-giving-information.03
+    - B1.MED.facilitating-pluricultural-space.03
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

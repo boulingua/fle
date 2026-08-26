@@ -27,6 +27,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl07/units/unit05_amis-et-conflits.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.PROD.creative-writing.01
+    - A1.INT.interviewing-and-being-interviewed.01
+    - A1.PROD.overall-oral-production.01
+    - A1.REC.overall-reading-comprehension.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

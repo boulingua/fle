@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit10_argumenter-en-public.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.PROD.sustained-monologue-putting-a-case.01
+    - B2.INT.informal-discussion.01
+    - B2.PROD.compensating.02
+    - B2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

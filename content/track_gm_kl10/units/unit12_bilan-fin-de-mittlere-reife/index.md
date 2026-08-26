@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.planning.01
+    - B1.PROD.sustained-monologue-describing-experience.02
+    - B1.INT.formal-discussion.01
+    - B1.MED.facilitating-pluricultural-space.01
+    - B1.MED.note-taking.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

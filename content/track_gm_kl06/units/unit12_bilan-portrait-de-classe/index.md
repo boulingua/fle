@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl06/units/unit12_bilan-portrait-de-classe.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.collaborating-to-construct-meaning.01
+    - A1.PROD.creative-writing.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+    - A1.PROD.overall-oral-production.01
+    - A1.INT.conversation.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

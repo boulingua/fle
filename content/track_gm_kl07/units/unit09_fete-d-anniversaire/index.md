@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl07/units/unit09_fete-d-anniversaire.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.goal-oriented-co-operation.01
+    - A1.PROD.compensating.01
+    - A1.INT.information-exchange.01
+    - A1.PROD.creative-writing.01
+    - A1.LING.phonological-control.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

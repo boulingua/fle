@@ -13,6 +13,18 @@ tags:
   - filiere-e
   - classe-13
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.collaborating-to-construct-meaning.05
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - B2.INT.asking-for-clarification.02
+    - B2.INT.conversation.01
+    - B2.PLUR.building-on-plurilingual-repertoire.03
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))

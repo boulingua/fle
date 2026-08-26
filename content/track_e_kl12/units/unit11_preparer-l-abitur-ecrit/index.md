@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit11_preparer-l-abitur-ecrit.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.sustained-monologue-putting-a-case.01
+    - B2.REC.identifying-cues-and-inferring.01
+    - B2.PROD.overall-oral-production.01
+    - B2.REC.reading-as-a-leisure-activity.03
+    - B2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl07/units/unit05_amis-et-conflits-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.interviewing-and-being-interviewed.01
+    - A1.PROD.compensating.01
+    - A1.INT.correspondence.03
+    - A1.PROD.creative-writing.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

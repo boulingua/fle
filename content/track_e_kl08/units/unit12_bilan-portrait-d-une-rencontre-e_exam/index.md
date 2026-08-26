@@ -13,6 +13,18 @@ tags:
   - filiere-e
   - classe-8
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.INT.online-conversation-and-discussion.03
+    - A2.LING.phonological-control.02
+    - A2.MED.overall-mediation.01
+    - A2.MED.processing-text.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8

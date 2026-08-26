@@ -13,6 +13,18 @@ tags:
   - filiere-gm
   - classe-10
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.notes-messages-and-forms.02
+    - B1.MED.overall-mediation.01
+    - B1.PROD.planning.03
+    - B1.INT.conversation.01
+    - B1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé — Niveau M, classe 10

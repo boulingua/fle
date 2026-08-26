@@ -24,6 +24,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit02_lettre-de-motivation-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.creative-writing.04
+    - A2.PROD.overall-oral-production.01
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.MED.analysis-and-criticism-of-creative-texts.01
+    - A2.REC.reading-as-a-leisure-activity.04
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

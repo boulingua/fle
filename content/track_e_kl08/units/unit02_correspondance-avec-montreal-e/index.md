@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl08/units/unit02_correspondance-avec-montreal-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.creative-writing.04
+    - A2.REC.understanding-announcements-and-instructions.03
+    - A2.PROD.overall-oral-production.01
+    - A2.REC.identifying-cues-and-inferring.05
+    - A2.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

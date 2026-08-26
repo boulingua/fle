@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl06/units/unit06_au-marche-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.REC.overall-reading-comprehension.01
+    - A1.INT.goal-oriented-co-operation.01
+    - A1.REC.reading-correspondence.02
+    - A1.LING.phonological-control.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl07/units/unit04_les-repas.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.01
+    - A1.LING.phonological-control.01
+    - A1.INT.correspondence.01
+    - A1.LING.general-linguistic-range.01
+    - A1.REC.overall-reading-comprehension.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

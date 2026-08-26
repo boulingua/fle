@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl11/units/unit04_court-metrage.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.REC.understanding-announcements-and-instructions.03
+    - B1.REC.watching-tv-film-and-video.01
+    - B1.INT.formal-discussion.01
+    - B1.INT.notes-messages-and-forms.02
+    - B1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

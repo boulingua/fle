@@ -25,6 +25,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl10/units/unit02_presse-francaise.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.REC.reading-instructions.03
+    - B1.REC.understanding-announcements-and-instructions.03
+    - B1.MED.processing-text.02
+    - B1.INT.interviewing-and-being-interviewed.02
+    - B1.INT.overall-written-interaction.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

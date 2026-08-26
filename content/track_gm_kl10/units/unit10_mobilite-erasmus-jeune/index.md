@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl10/units/unit10_mobilite-erasmus-jeune.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.creative-writing.02
+    - B1.REC.watching-tv-film-and-video.01
+    - B1.PROD.planning.02
+    - B1.REC.identifying-cues-and-inferring.01
+    - B1.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

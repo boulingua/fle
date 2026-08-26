@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl10/units/unit04_francophonie-aujourd-hui-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.planning.02
+    - B1.PROD.sustained-monologue-describing-experience.02
+    - B1.MED.facilitating-pluricultural-space.03
+    - B1.MED.processing-text.02
+    - B1.INT.conversation.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

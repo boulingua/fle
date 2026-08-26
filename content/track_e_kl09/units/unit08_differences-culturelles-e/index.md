@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit08_differences-culturelles-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.PROD.compensating.01
+    - A2.MED.adapting-language.01
+    - A2.PROD.creative-writing.01
+    - A2.REC.reading-as-a-leisure-activity.04
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

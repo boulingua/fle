@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit09_monologue-et-presentation.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.reports-and-essays.04
+    - B2.PROD.sustained-monologue-putting-a-case.04
+    - B2.SOC.sociolinguistic-appropriateness.02
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

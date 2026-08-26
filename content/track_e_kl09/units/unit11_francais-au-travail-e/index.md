@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit11_francais-au-travail-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.MED.adapting-language.01
+    - A2.INT.goal-oriented-online-transactions-and-collaboration.05
+    - A2.MED.collaborating-to-construct-meaning.02
+    - A2.REC.reading-as-a-leisure-activity.04
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

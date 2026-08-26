@@ -13,6 +13,18 @@ tags:
   - filiere-gm
   - classe-8
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.INT.notes-messages-and-forms.01
+    - A2.MED.note-taking.01
+    - A2.MED.overall-mediation.02
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé finale — Niveau M, classe 8

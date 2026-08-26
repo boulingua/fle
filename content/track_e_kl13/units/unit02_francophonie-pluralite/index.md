@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit02_francophonie-pluralite.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.monitoring-and-repair.02
+    - B2.REC.overall-reading-comprehension.01
+    - B2.PROD.overall-written-production.01
+    - B2.REC.reading-as-a-leisure-activity.01
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

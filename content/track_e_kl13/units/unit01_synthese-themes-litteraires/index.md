@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit01_synthese-themes-litteraires.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.reports-and-essays.04
+    - B2.REC.overall-reading-comprehension.01
+    - B2.REC.reading-for-information-and-argument.03
+    - B2.PROD.compensating.01
+    - B2.INT.information-exchange.05
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

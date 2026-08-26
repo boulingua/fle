@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl10/units/unit01_transition-formation-emploi.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.sustained-monologue-describing-experience.02
+    - B1.REC.identifying-cues-and-inferring.05
+    - B1.PROD.sustained-monologue-giving-information.03
+    - B1.REC.reading-as-a-leisure-activity.04
+    - B1.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

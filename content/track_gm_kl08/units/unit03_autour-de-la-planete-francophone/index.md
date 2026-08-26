@@ -27,6 +27,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl08/units/unit03_autour-de-la-planete-francophone.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.compensating.01
+    - A2.REC.reading-as-a-leisure-activity.03
+    - A2.REC.reading-for-information-and-argument.08
+    - A2.PROD.creative-writing.01
+    - A2.INT.conversation.08
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

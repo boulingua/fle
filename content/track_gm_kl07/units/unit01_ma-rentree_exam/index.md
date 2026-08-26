@@ -13,6 +13,18 @@ tags:
   - filiere-gm
   - classe-7
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.01
+    - A1.INT.correspondence.01
+    - A1.LING.orthographic-control.01
+    - A1.LING.phonological-control.01
+    - A1.MED.collaborating-to-construct-meaning.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé — Niveau M, classe 7

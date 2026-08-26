@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit04_argumenter-pour-contre-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.creative-writing.04
+    - A2.PROD.overall-oral-production.01
+    - A2.INT.conversation.03
+    - A2.LING.general-linguistic-range.04
+    - A2.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

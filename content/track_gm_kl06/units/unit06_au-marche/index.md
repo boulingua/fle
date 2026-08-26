@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl06/units/unit06_au-marche.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.INT.correspondence.01
+    - A1.REC.reading-correspondence.02
+    - A1.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

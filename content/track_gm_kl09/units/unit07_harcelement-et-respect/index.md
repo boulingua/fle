@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl09/units/unit07_harcelement-et-respect.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.asking-for-clarification.02
+    - A2.PROD.creative-writing.04
+    - A2.INT.conversation.04
+    - A2.PROD.overall-oral-production.01
+    - A2.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

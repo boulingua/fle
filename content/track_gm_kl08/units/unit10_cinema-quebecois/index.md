@@ -27,6 +27,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl08/units/unit10_cinema-quebecois.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.sustained-monologue-putting-a-case.02
+    - A2.REC.watching-tv-film-and-video.02
+    - A2.PROD.creative-writing.04
+    - A2.REC.identifying-cues-and-inferring.02
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

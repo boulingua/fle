@@ -27,6 +27,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl08/units/unit01_correspondance-avec-montreal.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.reports-and-essays.02
+    - A2.REC.overall-oral-comprehension.02
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.PROD.compensating.01
+    - A2.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

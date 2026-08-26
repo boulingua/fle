@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit07_harcelement-et-respect-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.INT.correspondence.01
+    - A2.PROD.compensating.01
+    - A2.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

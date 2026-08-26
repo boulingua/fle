@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl09/units/unit09_internet-et-vie-privee.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.02
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.understanding-announcements-and-instructions.04
+    - A2.INT.correspondence.01
+    - A2.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

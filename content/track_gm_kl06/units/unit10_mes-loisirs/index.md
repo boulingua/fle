@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl06/units/unit10_mes-loisirs.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.interviewing-and-being-interviewed.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.INT.conversation.01
+    - A1.REC.reading-for-information-and-argument.02
+    - A1.PROD.overall-oral-production.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

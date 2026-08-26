@@ -13,6 +13,18 @@ tags:
   - filiere-gm
   - classe-9
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.02
+    - A2.INT.formal-discussion.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.collaborating-to-construct-meaning.02
+    - A2.MED.encouraging-conceptual-talk.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé — Niveau M, classe 9

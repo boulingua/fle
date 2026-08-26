@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl10/units/unit05_premiere-analyse-poesie.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.sustained-monologue-describing-experience.02
+    - B1.REC.identifying-cues-and-inferring.02
+    - B1.PROD.compensating.03
+    - B1.REC.overall-oral-comprehension.01
+    - B1.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

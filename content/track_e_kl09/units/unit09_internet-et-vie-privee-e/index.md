@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit09_internet-et-vie-privee-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.01
+    - A2.REC.reading-for-information-and-argument.03
+    - A2.INT.formal-discussion.01
+    - A2.REC.understanding-announcements-and-instructions.03
+    - A2.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit05_le-petit-nicolas.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.reading-instructions.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.INT.conversation.08
+    - A2.INT.goal-oriented-co-operation.04
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

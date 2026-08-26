@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl10/units/unit02_presse-francaise-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.REC.reading-as-a-leisure-activity.01
+    - B1.REC.reading-for-information-and-argument.05
+    - B1.MED.overall-mediation.02
+    - B1.INT.overall-written-interaction.02
+    - B1.MED.encouraging-conceptual-talk.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

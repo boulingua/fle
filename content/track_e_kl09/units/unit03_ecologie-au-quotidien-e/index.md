@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl09/units/unit03_ecologie-au-quotidien-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.understanding-announcements-and-instructions.03
+    - A2.INT.goal-oriented-online-transactions-and-collaboration.05
+    - A2.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl10/units/unit06_mediation-avancee.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.overall-mediation.01
+    - B1.MED.processing-text.11
+    - B1.INT.formal-discussion.01
+    - B1.INT.interviewing-and-being-interviewed.02
+    - B1.PLUR.plurilingual-comprehension.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

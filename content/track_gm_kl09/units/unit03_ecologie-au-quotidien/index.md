@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl09/units/unit03_ecologie-au-quotidien.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.understanding-audio-media-and-recordings.01
+    - A2.INT.correspondence.01
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

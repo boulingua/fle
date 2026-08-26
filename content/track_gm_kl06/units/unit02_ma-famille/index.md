@@ -27,6 +27,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl06/units/unit02_ma-famille.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.PROD.compensating.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.PROD.creative-writing.01
+    - A1.REC.identifying-cues-and-inferring.01
+    - A1.INT.goal-oriented-co-operation.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl07/units/unit04_repas-en-famille-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.goal-oriented-co-operation.01
+    - A1.REC.reading-for-information-and-argument.01
+    - A1.INT.information-exchange.01
+    - A1.REC.identifying-cues-and-inferring.01
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

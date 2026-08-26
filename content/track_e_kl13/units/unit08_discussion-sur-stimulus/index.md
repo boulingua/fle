@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit08_discussion-sur-stimulus.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.informal-discussion.03
+    - B2.PROD.overall-oral-production.01
+    - B2.PROD.reports-and-essays.01
+    - B2.INT.asking-for-clarification.02
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

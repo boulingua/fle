@@ -13,6 +13,18 @@ tags:
   - filiere-e
   - classe-10
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.explaining-data.03
+    - B1.MED.note-taking.02
+    - B1.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10

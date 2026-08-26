@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit07_kommunikationspruefung-prep.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.conversation.01
+    - B2.PROD.overall-oral-production.01
+    - B2.INT.notes-messages-and-forms.01
+    - B2.PROD.sustained-monologue-putting-a-case.01
+    - B2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

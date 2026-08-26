@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl10/units/unit03_vie-democratique-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.planning.01
+    - B1.REC.overall-oral-comprehension.02
+    - B1.PROD.sustained-monologue-describing-experience.02
+    - B1.REC.overall-reading-comprehension.01
+    - B1.INT.overall-written-interaction.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

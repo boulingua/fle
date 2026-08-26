@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit04_abitur-mock-1.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.compensating.02
+    - B2.REC.understanding-conversation-between-other-people.03
+    - B2.PROD.overall-oral-production.01
+    - B2.REC.identifying-cues-and-inferring.01
+    - B2.INT.information-exchange.05
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

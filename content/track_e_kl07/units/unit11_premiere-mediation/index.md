@@ -24,6 +24,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl07/units/unit11_premiere-mediation.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.collaborating-to-construct-meaning.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+    - A1.INT.correspondence.03
+    - A1.INT.interviewing-and-being-interviewed.02
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

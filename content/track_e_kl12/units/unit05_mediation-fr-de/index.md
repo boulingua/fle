@@ -24,6 +24,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit05_mediation-fr-de.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.overall-mediation.02
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.01
+    - B2.INT.formal-discussion.01
+    - B2.INT.informal-discussion.03
+    - B2.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

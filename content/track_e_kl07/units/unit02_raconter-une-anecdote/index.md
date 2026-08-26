@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl07/units/unit02_raconter-une-anecdote.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.PROD.sustained-monologue-describing-experience.02
+    - A1.PROD.compensating.01
+    - A1.PLUR.plurilingual-comprehension.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.reading-for-information-and-argument.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

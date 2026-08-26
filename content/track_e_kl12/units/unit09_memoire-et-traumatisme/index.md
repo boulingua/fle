@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit09_memoire-et-traumatisme.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.REC.overall-reading-comprehension.01
+    - B2.REC.reading-as-a-leisure-activity.01
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+    - B2.MED.managing-interaction.03
+    - B2.SOC.sociolinguistic-appropriateness.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

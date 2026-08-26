@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl12/units/unit06_etude-de-roman.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.monitoring-and-repair.01
+    - B2.REC.overall-oral-comprehension.01
+    - B2.PROD.overall-oral-production.01
+    - B2.REC.overall-reading-comprehension.01
+    - B2.SOC.sociolinguistic-appropriateness.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

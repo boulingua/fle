@@ -25,6 +25,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl06/units/unit01_salutations-et-prenoms.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.asking-for-clarification.01
+    - A1.INT.correspondence.03
+    - A1.LING.orthographic-control.01
+    - A1.LING.phonological-control.04
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl11/units/unit12_bilan-classe-11.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.compensating.03
+    - B1.PROD.creative-writing.02
+    - B1.INT.formal-discussion.01
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.facilitating-pluricultural-space.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

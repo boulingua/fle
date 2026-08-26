@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl10/units/unit08_reseaux-sociaux.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.obtaining-goods-and-services.07
+    - B1.REC.overall-oral-comprehension.02
+    - B1.INT.formal-discussion.01
+    - B1.REC.reading-as-a-leisure-activity.01
+    - B1.MED.explaining-data.03
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

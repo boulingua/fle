@@ -25,6 +25,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.adapting-language.01
+    - A2.MED.processing-text.06
+    - A2.INT.correspondence.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.PRAG.flexibility.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

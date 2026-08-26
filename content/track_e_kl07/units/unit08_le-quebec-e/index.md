@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl07/units/unit08_le-quebec-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.reading-for-information-and-argument.02
+    - A1.INT.interviewing-and-being-interviewed.02
+    - A1.INT.conversation.01
+    - A1.LING.phonological-control.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

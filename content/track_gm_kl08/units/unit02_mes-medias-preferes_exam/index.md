@@ -13,6 +13,18 @@ tags:
   - filiere-gm
   - classe-8
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.interviewing-and-being-interviewed.03
+    - A2.MED.processing-text.01
+    - A2.REC.reading-for-information-and-argument.04
+    - A2.INT.asking-for-clarification.02
+    - A2.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé — Niveau M, classe 8

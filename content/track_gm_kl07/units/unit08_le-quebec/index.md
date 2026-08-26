@@ -27,6 +27,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl07/units/unit08_le-quebec.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.REC.overall-reading-comprehension.01
+    - A1.SOC.sociolinguistic-appropriateness.01
+    - A1.REC.reading-for-orientation.01
+    - A1.INT.interviewing-and-being-interviewed.02
+    - A1.INT.conversation.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

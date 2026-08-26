@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl10/units/unit12_bilan-fin-sek-i.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.sustained-monologue-describing-experience.02
+    - B1.PROD.sustained-monologue-giving-information.03
+    - B1.INT.formal-discussion.01
+    - B1.MED.note-taking.02
+    - B1.MED.processing-text.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

@@ -13,6 +13,18 @@ tags:
   - filiere-e
   - classe-11
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.general-linguistic-range.01
+    - B1.INT.informal-discussion.06
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    - B1.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))

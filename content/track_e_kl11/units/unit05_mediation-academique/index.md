@@ -24,6 +24,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl11/units/unit05_mediation-academique.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.overall-mediation.01
+    - B1.MED.acting-as-an-intermediary-in-informal-situations.01
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-online-transactions-and-collaboration.01
+    - B1.PRAG.propositional-precision.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

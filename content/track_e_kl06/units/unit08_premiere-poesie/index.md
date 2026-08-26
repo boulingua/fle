@@ -25,6 +25,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl06/units/unit08_premiere-poesie.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.identifying-cues-and-inferring.01
+    - A1.INT.correspondence.03
+    - A1.INT.interviewing-and-being-interviewed.02
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

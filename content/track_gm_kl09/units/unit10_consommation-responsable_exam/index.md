@@ -13,6 +13,18 @@ tags:
   - filiere-gm
   - classe-9
   - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.reading-for-information-and-argument.04
+    - A2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 ## Devoir surveillé — Niveau M, classe 9

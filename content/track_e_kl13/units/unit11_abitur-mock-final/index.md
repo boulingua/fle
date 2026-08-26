@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl13/units/unit11_abitur-mock-final.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.reports-and-essays.01
+    - B2.REC.overall-reading-comprehension.01
+    - B2.PROD.sustained-monologue-putting-a-case.01
+    - B2.REC.identifying-cues-and-inferring.01
+    - B2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

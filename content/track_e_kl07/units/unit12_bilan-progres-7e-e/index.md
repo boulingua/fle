@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl07/units/unit12_bilan-progres-7e-e.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.PROD.creative-writing.01
+    - A1.PROD.overall-oral-production.01
+    - A1.INT.information-exchange.02
+    - A1.INT.online-conversation-and-discussion.02
+    - A1.REC.overall-reading-comprehension.01
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

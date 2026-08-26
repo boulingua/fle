@@ -26,6 +26,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl09/units/unit11_francais-au-travail.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.overall-oral-interaction.02
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.MED.adapting-language.01
+    - A2.INT.conversation.08
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

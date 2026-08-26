@@ -26,6 +26,18 @@ tags:
   - niveau-e
 aliases:
   - "/track_e_kl11/units/unit08_voix-feminines.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.creative-writing.03
+    - B1.REC.reading-as-a-leisure-activity.01
+    - B1.PROD.planning.01
+    - B1.REC.reading-for-orientation.05
+    - B1.MED.processing-text.02
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

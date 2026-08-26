@@ -27,6 +27,18 @@ tags:
   - niveau-m
 aliases:
   - "/track_gm_kl08/units/unit08_un-allemand-a-paris.html"
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.creative-writing.03
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.REC.reading-for-information-and-argument.08
+    - A2.PROD.overall-oral-production.01
+    - A2.INT.correspondence.04
+  implements_basis: proposed
+  level_basis: proposed
+
 ---
 
 {{< callout type="note" >}}

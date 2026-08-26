@@ -13,7 +13,7 @@
 # count below is what tells you how much is left.
 
 framework: boulingua-curriculum
-framework_version: 1.1.0
+framework_version: 1.2.0
 language: fr
 declared_conformance: full
 conformance_status: in-progress

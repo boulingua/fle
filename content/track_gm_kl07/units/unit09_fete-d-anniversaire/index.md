@@ -37,7 +37,6 @@ curriculum:
     - A1.LING.phonological-control.01
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

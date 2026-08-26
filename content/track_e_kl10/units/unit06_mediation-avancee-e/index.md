@@ -35,7 +35,6 @@ curriculum:
     - B1.PRAG.thematic-development.03
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

@@ -37,7 +37,6 @@ curriculum:
     - B2.MED.acting-as-an-intermediary-in-informal-situations.01
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

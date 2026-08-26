@@ -35,7 +35,6 @@ curriculum:
     - B2.INT.information-exchange.05
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

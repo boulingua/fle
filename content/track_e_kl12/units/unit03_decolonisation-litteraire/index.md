@@ -37,7 +37,6 @@ curriculum:
     - B2.PLUR.building-on-pluricultural-repertoire.03
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

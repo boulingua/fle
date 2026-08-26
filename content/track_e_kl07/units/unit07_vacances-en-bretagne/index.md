@@ -37,7 +37,6 @@ curriculum:
     - A1.INT.interviewing-and-being-interviewed.02
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

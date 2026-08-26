@@ -38,7 +38,6 @@ curriculum:
     - A2.PLUR.building-on-plurilingual-repertoire.02
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

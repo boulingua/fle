@@ -36,7 +36,6 @@ curriculum:
     - B1.MED.note-taking.02
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

@@ -37,7 +37,6 @@ curriculum:
     - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

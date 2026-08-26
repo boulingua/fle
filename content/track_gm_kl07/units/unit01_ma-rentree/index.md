@@ -36,7 +36,6 @@ curriculum:
     - A1.REC.reading-for-orientation.01
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

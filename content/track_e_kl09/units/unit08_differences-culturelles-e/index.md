@@ -37,7 +37,6 @@ curriculum:
     - A2.REC.reading-as-a-leisure-activity.04
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

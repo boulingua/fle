@@ -37,7 +37,6 @@ curriculum:
     - A2.INT.overall-oral-interaction.02
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

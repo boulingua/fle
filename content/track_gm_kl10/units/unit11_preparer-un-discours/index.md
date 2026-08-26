@@ -37,7 +37,6 @@ curriculum:
     - B1.MED.facilitating-pluricultural-space.03
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

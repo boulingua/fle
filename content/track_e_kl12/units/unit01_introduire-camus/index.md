@@ -37,7 +37,6 @@ curriculum:
     - B2.MED.facilitating-collaborative-interaction-with-peers.03
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

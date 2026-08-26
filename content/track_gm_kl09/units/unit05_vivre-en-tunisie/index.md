@@ -36,7 +36,6 @@ curriculum:
     - A2.INT.conversation.10
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

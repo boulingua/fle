@@ -37,7 +37,6 @@ curriculum:
     - A2.INT.goal-oriented-co-operation.04
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

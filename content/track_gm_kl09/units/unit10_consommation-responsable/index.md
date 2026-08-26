@@ -37,7 +37,6 @@ curriculum:
     - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

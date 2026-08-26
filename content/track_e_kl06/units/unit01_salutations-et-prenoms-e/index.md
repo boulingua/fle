@@ -35,7 +35,6 @@ curriculum:
     - A1.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

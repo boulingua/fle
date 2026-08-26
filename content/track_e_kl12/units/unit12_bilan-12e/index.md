@@ -37,7 +37,6 @@ curriculum:
     - B2.INT.asking-for-clarification.02
   implements_basis: proposed
   level_basis: proposed
-
 ---
 
 {{< callout type="note" >}}

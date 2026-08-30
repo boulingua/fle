@@ -12,12 +12,9 @@ url,code,first_seen,content_sha
 /annexes/strategies/,1b41d7a1f6a749c2a153a60424987b2b,2026-08-21,0e4a898fa88d731e
 /bibliographie/,1b79ba4d0a44460bb5deedb7fd477f85,2026-08-21,9d4e2d9128dcb7db
 /bildungsplan/,1b8013b174a24109bcfb86721e2e6be9,2026-08-21,d1a73ca2b823f2b8
-/filiere-e/,1c920712b1ac4286bba3826a4c410537,2026-08-21,6092ace518da15f9
-/filiere-gm/,1ca3800adb624d47809df648bd176f6b,2026-08-21,b607023c81c055e9
 /programme/,1ba2663038264ad89a7f80ad0a25f6c0,2026-08-21,bc985ef88b4f450d
 /references/,1bade19f819b4d6e9db2c34547365e7b,2026-08-21,4efd2d722b942608
 /remerciements/,1bb3265dec3c417eb42cf4acbd1f6130,2026-08-21,3814126af0024dd3
-/track_e_kl06/,1bc684db552e471aac7223b955bb6d11,2026-08-21,f7f50986bcf51f89
 /track_e_kl06/uebersicht/,1be382541698404ba9bbb11b9d677224,2026-08-21,78ff5fd6394e4184
 /track_e_kl06/units/au-marche-e-exam/,30d51632b61f40f88f0a74b59787aa38,2026-08-21,5d4c88e9aa0c7d50
 /track_e_kl06/units/au-marche-e/,1ca3fa38c1684fad94e27f2b16b328f2,2026-08-21,fbd2d85b7dc267d2
@@ -43,7 +40,6 @@ url,code,first_seen,content_sha
 /track_e_kl06/units/salutations-et-prenoms-e/,1be616bdc20c4f11bb1248ef8af10b56,2026-08-21,e19f1a3852290926
 /track_e_kl06/units/voyage-decouverte-exam/,3113bbc94b61488695d2fd4b930f0865,2026-08-21,672f7fe54d828c02
 /track_e_kl06/units/voyage-decouverte/,1d1eeb688d16475ab442f3cf2df51729,2026-08-21,caf663267e394f79
-/track_e_kl07/,1d5ad4f111e2453aa8da00cf4da53d0e,2026-08-21,67b88d76fd4c47be
 /track_e_kl07/uebersicht/,1d666cdaf5fb421fbd5eecbd4798a0f2,2026-08-21,0cfbc215e3cb4e6a
 /track_e_kl07/units/amis-et-conflits-e-exam/,31ad3e5105584fc7b01ba4968d76a72e,2026-08-21,55bece04543ad044
 /track_e_kl07/units/amis-et-conflits-e/,1e0656248c2543458bd60879f45436e5,2026-08-21,799ee68cb46998a0
@@ -69,7 +65,6 @@ url,code,first_seen,content_sha
 /track_e_kl07/units/transports-et-mobilite/,1e19f533d33d4ddeb044e1f61ca0bddf,2026-08-21,4a2b080967c216da
 /track_e_kl07/units/vacances-en-bretagne-exam/,31cc5b4329ec4a7d818772839d9e2c04,2026-08-21,866c171eca20ee01
 /track_e_kl07/units/vacances-en-bretagne/,1e2fea4751d84155b260e58898e695aa,2026-08-21,b9161b7d275b197e
-/track_e_kl08/,1ef4d7f41e8848e3ad6ef10309cc1627,2026-08-21,427959f1ba627109
 /track_e_kl08/uebersicht/,1f173b1acb6f4da1bf1139a279016a5d,2026-08-21,b09da6a5bd7e5a37
 /track_e_kl08/units/autour-de-la-planete-francophone-e-exam/,3236b91a0d674dc788091b2a64ee0114,2026-08-21,5f0abae02f79ff1e
 /track_e_kl08/units/autour-de-la-planete-francophone-e/,1fb08dc97f03485fadf25557ed937604,2026-08-21,b1ca35df1497f688
@@ -95,7 +90,6 @@ url,code,first_seen,content_sha
 /track_e_kl08/units/un-allemand-a-paris-e/,20050598d87c43d4a6aa0934538afbd6,2026-08-21,5a55ba8862c0f16f
 /track_e_kl08/units/un-projet-solidaire-e-exam/,32bf5ffd461942da9279eb2a2f21943e,2026-08-21,155c2309fa81f8e3
 /track_e_kl08/units/un-projet-solidaire-e/,204a2fc573064e68bd8aaa21bd195f99,2026-08-21,a657acfc2b22ec9a
-/track_e_kl09/,208c48dfb1604b9fb07d003188ad75c0,2026-08-21,0d9521ab2907c5bf
 /track_e_kl09/uebersicht/,209bbb3fa31744ee89d2168ab1dbc3f3,2026-08-21,1ef1d34028d983a7
 /track_e_kl09/units/argumenter-pour-contre-e-exam/,332a193918cb4c85b4f94b9920d0d462,2026-08-21,efa4ec02b0df7be8
 /track_e_kl09/units/argumenter-pour-contre-e/,20fb736bae274f39b7592c310e63802b,2026-08-21,243fd3fa9ae56f2a
@@ -121,7 +115,6 @@ url,code,first_seen,content_sha
 /track_e_kl09/units/lettre-de-motivation-e/,20ac93c452764ba0b60c412e529b2ee9,2026-08-21,d3beb47a34bdbf8d
 /track_e_kl09/units/podcasts-en-francais-e-exam/,337b29329ffd4cbda2e7e47f262ae773,2026-08-21,452d4c27f12918cb
 /track_e_kl09/units/podcasts-en-francais-e/,21944f6b3bb94fd0a5f3a09700da05b0,2026-08-21,5914c4069d3ce141
-/track_e_kl10/,22785e759724430483fb09ae3909f5e9,2026-08-21,31d70b7751940385
 /track_e_kl10/uebersicht/,22870f6691ab48a6abd011f035d73b10,2026-08-21,06e441ef04b05e2d
 /track_e_kl10/units/bilan-fin-sek-i-exam/,34847217f89a438e885a182feda9ff4b,2026-08-21,7a49e76f9093a43a
 /track_e_kl10/units/bilan-fin-sek-i/,23ac70699a38474b837e7dccc6b0e306,2026-08-21,7ce4b24d79e991c2
@@ -147,7 +140,6 @@ url,code,first_seen,content_sha
 /track_e_kl10/units/transition-vers-la-kursstufe/,22942b64b98d40d29abf04097c686e70,2026-08-21,7408ba067893ed35
 /track_e_kl10/units/vie-democratique-e-exam/,3409d483da68404bb33a05eaabfa091b,2026-08-21,4df92fcb7f0804dd
 /track_e_kl10/units/vie-democratique-e/,22b2a1b5245242d790aa01932d2f47f8,2026-08-21,ed10a69f303cdda2
-/track_e_kl11/,23b158a72df54f0684c5b2380c43a8e9,2026-08-21,8e17d26ca5806eb1
 /track_e_kl11/uebersicht/,23b9d054097b44c1b183bc9386b002a2,2026-08-21,cd604704a8baac48
 /track_e_kl11/units/argumentation-structuree-exam/,350cdd3012474794bb19e1a97a59999a,2026-08-21,8098ec4bd5869d7c
 /track_e_kl11/units/argumentation-structuree/,24667e913e7041b598a105d378da2365,2026-08-21,10a0bb5a0ba71256
@@ -173,7 +165,6 @@ url,code,first_seen,content_sha
 /track_e_kl11/units/presse-d-opinion/,23e3c50110a7408a847b42333d4c2acb,2026-08-21,77b8d3b3682619c9
 /track_e_kl11/units/voix-feminines-exam/,352710260fea4afab999fd3d00592dea,2026-08-21,10264b0d41741b12
 /track_e_kl11/units/voix-feminines/,249d1a3fdcd748a180d5d0955d50b2f0,2026-08-21,05b6950ba0d6872c
-/track_e_kl12/,258d4552a089402a956ec9e3a040a6d0,2026-08-21,8027bf4d46fff212
 /track_e_kl12/uebersicht/,25963308ce3640a18d0df8bf95a90cf6,2026-08-21,6c617089483f3451
 /track_e_kl12/units/analyse-stylistique-exam/,25dc6085d07e4bc4ac5787975575497a,2026-08-21,efb59ede75c59be1
 /track_e_kl12/units/analyse-stylistique/,25cfae4a90814f878f65052554b61b1d,2026-08-21,ec8caf1135debbf6
@@ -199,7 +190,6 @@ url,code,first_seen,content_sha
 /track_e_kl12/units/preparer-l-abitur-ecrit/,26c3e2b4d6e64ecb8b3a2ad19ec8c12c,2026-08-21,a123f319051d748c
 /track_e_kl12/units/presse-engagee-exam/,26198eeaeab74a8490658a0fd8254c2e,2026-08-21,71557ca98c26d1b8
 /track_e_kl12/units/presse-engagee/,26168bca81d642529c92f8bb458671eb,2026-08-21,057eb18b61e57d19
-/track_e_kl13/,26fddee2be7b4ffba26dc95ea73c7714,2026-08-21,2a5e1b3fa862d134
 /track_e_kl13/uebersicht/,26ff71c35b6949fd98842b0f52397de9,2026-08-21,2a9fd7f0c6e97f81
 /track_e_kl13/units/abitur-mock-1-exam/,277b54479b8f43d2b8c46a0519d551cd,2026-08-21,1af68c76148961cc
 /track_e_kl13/units/abitur-mock-1/,2770506845c34f75952c62f2129d4c94,2026-08-21,8910931f79ef25f5
@@ -225,7 +215,6 @@ url,code,first_seen,content_sha
 /track_e_kl13/units/reflexion-sur-soi/,286f0ff2bd094220b325d3e797afe6af,2026-08-21,220d14442f8608f0
 /track_e_kl13/units/synthese-themes-litteraires-exam/,272d2e5a4aa64386951faff5293a036c,2026-08-21,614ce18971dcc0c1
 /track_e_kl13/units/synthese-themes-litteraires/,271dbe5ae8e543ae8440759a3076a259,2026-08-21,c21cd411496a84db
-/track_gm_kl06/,28b4d1dde71e4d269a4f381c8679b5d9,2026-08-21,f89629f5422444de
 /track_gm_kl06/uebersicht/,28bab522cdc4414a88c859f764669716,2026-08-21,78ff5fd6394e4184
 /track_gm_kl06/units/au-marche-exam/,29497cdec75d4a7ca72101358ed0f4c3,2026-08-21,3518380f2d731314
 /track_gm_kl06/units/au-marche/,29422f90ffb340368e6ae261d3803471,2026-08-21,b416af70a6c7729e
@@ -251,7 +240,6 @@ url,code,first_seen,content_sha
 /track_gm_kl06/units/salutations-et-prenoms/,28c51b14611d4eb7aadb04eecf7f10ea,2026-08-21,60b50e8667aa2823
 /track_gm_kl06/units/voyage-en-france-exam/,2a8357f6d23641beac8e2b06e46c47b0,2026-08-21,01277dcf8dca1f3d
 /track_gm_kl06/units/voyage-en-france/,2a7a2712c0ad45e0aaf423542cb4907c,2026-08-21,6326a9d8b0898357
-/track_gm_kl07/,2ac3fac658604d0bbc8c6cb181b632ca,2026-08-21,9f383e7e2bce95e1
 /track_gm_kl07/uebersicht/,2acaef90ec9e47cfa56df73175d017e3,2026-08-21,0cfbc215e3cb4e6a
 /track_gm_kl07/units/amis-et-conflits-exam/,2b4dfaa924114e719cebe99ed53dd002,2026-08-21,dc0194463e08c7be
 /track_gm_kl07/units/amis-et-conflits/,2b40e0b531a140c38b546e2b2c0bda18,2026-08-21,a9986bd85f35ad4c
@@ -277,7 +265,6 @@ url,code,first_seen,content_sha
 /track_gm_kl07/units/raconter-le-week-end/,2afa2b7e1d934c17ab686fdd4a176b72,2026-08-21,42a9b4a133d4ca23
 /track_gm_kl07/units/vacances-en-famille-exam/,2ba75e9eee46450b81b1f1c09360b15a,2026-08-21,2fac59135a0a129e
 /track_gm_kl07/units/vacances-en-famille/,2b9428905e6c47f1a3568903c1ee9cae,2026-08-21,c7b325dde4c81868
-/track_gm_kl08/,2c32ca894703496f94a3878cc3693c9f,2026-08-21,e6e075c203719ac5
 /track_gm_kl08/uebersicht/,2c5bdfb79a5442d18f7d3afecf892bf9,2026-08-21,b09da6a5bd7e5a37
 /track_gm_kl08/units/autour-de-la-planete-francophone-exam/,2ccc072dc75346598022eac0e98a14ff,2026-08-21,b85117909407ee0e
 /track_gm_kl08/units/autour-de-la-planete-francophone/,2cbab0747e7f4990b89da2c4e46a7232,2026-08-21,f950ffaab09e793c
@@ -303,7 +290,6 @@ url,code,first_seen,content_sha
 /track_gm_kl08/units/un-allemand-a-paris/,2d173fcb5bea4f8cbc968217a61af6a4,2026-08-21,3a96a1af462f3e01
 /track_gm_kl08/units/un-projet-solidaire-exam/,2d75c1bc09aa44acb3fd5fd3f7e7c98d,2026-08-21,7fe0659317880c22
 /track_gm_kl08/units/un-projet-solidaire/,2d5feea5516749f38183922b8a174e0c,2026-08-21,081becece458fe1f
-/track_gm_kl09/,2d8b1da63eb649a596b3e957c4755318,2026-08-21,e38176fd797fd98f
 /track_gm_kl09/uebersicht/,2d8d7a317d2f44129bbc5887321ec267,2026-08-21,1ef1d34028d983a7
 /track_gm_kl09/units/argumenter-pour-contre-exam/,2e45f900dd5e446f8a8d6002f9da935e,2026-08-21,4ae938c501f92f88
 /track_gm_kl09/units/argumenter-pour-contre/,2e332f8a71d541159f35e8a15bb97735,2026-08-21,4d3c5ff4d2469104
@@ -329,7 +315,6 @@ url,code,first_seen,content_sha
 /track_gm_kl09/units/preparation-mittlere-reife/,2effee652d1f43dbb5d3088ab2cd1582,2026-08-21,18fee1a4e537d3ee
 /track_gm_kl09/units/vivre-en-tunisie-exam/,2e4d7b9fff744438bb5d569d4fd39931,2026-08-21,1435f4597975f26a
 /track_gm_kl09/units/vivre-en-tunisie/,2e4bfca5e91c499ba60408e1c9b890c3,2026-08-21,b94008ce005a5bbb
-/track_gm_kl10/,2f051bac8e144f4eb4a4ed63de6b70ad,2026-08-21,d9a13711e4dd0249
 /track_gm_kl10/uebersicht/,2f1361fc08fb4c38bda7d17b486fde41,2026-08-21,06e441ef04b05e2d
 /track_gm_kl10/units/bilan-fin-de-mittlere-reife-exam/,3078ded4e55f4163acb391f664649a30,2026-08-21,b9daadb557b3a2a2
 /track_gm_kl10/units/bilan-fin-de-mittlere-reife/,306d68df9c5541bdaea1cf6aeb0df111,2026-08-21,87a8f7f20d8fb441

@@ -50,18 +50,6 @@
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
-- url: /filiere-e/
-  public_id: 1c920712b1ac4286bba3826a4c410537
-  pixel_url: https://vg09.met.vgwort.de/na/1c920712b1ac4286bba3826a4c410537
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-07-22'
-- url: /filiere-gm/
-  public_id: 1ca3800adb624d47809df648bd176f6b
-  pixel_url: https://vg09.met.vgwort.de/na/1ca3800adb624d47809df648bd176f6b
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-07-22'
 - url: /programme/
   public_id: 1ba2663038264ad89a7f80ad0a25f6c0
   pixel_url: https://vg09.met.vgwort.de/na/1ba2663038264ad89a7f80ad0a25f6c0
@@ -77,12 +65,6 @@
 - url: /remerciements/
   public_id: 1bb3265dec3c417eb42cf4acbd1f6130
   pixel_url: https://vg09.met.vgwort.de/na/1bb3265dec3c417eb42cf4acbd1f6130
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
-- url: /track_e_kl06/
-  public_id: 1bc684db552e471aac7223b955bb6d11
-  pixel_url: https://vg09.met.vgwort.de/na/1bc684db552e471aac7223b955bb6d11
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
@@ -236,12 +218,6 @@
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
-- url: /track_e_kl07/
-  public_id: 1d5ad4f111e2453aa8da00cf4da53d0e
-  pixel_url: https://vg09.met.vgwort.de/na/1d5ad4f111e2453aa8da00cf4da53d0e
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
 - url: /track_e_kl07/uebersicht/
   public_id: 1d666cdaf5fb421fbd5eecbd4798a0f2
   pixel_url: https://vg09.met.vgwort.de/na/1d666cdaf5fb421fbd5eecbd4798a0f2
@@ -389,12 +365,6 @@
 - url: /track_e_kl07/units/vacances-en-bretagne/
   public_id: 1e2fea4751d84155b260e58898e695aa
   pixel_url: https://vg09.met.vgwort.de/na/1e2fea4751d84155b260e58898e695aa
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
-- url: /track_e_kl08/
-  public_id: 1ef4d7f41e8848e3ad6ef10309cc1627
-  pixel_url: https://vg09.met.vgwort.de/na/1ef4d7f41e8848e3ad6ef10309cc1627
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
@@ -548,12 +518,6 @@
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
-- url: /track_e_kl09/
-  public_id: 208c48dfb1604b9fb07d003188ad75c0
-  pixel_url: https://vg09.met.vgwort.de/na/208c48dfb1604b9fb07d003188ad75c0
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
 - url: /track_e_kl09/uebersicht/
   public_id: 209bbb3fa31744ee89d2168ab1dbc3f3
   pixel_url: https://vg09.met.vgwort.de/na/209bbb3fa31744ee89d2168ab1dbc3f3
@@ -701,12 +665,6 @@
 - url: /track_e_kl09/units/podcasts-en-francais-e/
   public_id: 21944f6b3bb94fd0a5f3a09700da05b0
   pixel_url: https://vg09.met.vgwort.de/na/21944f6b3bb94fd0a5f3a09700da05b0
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
-- url: /track_e_kl10/
-  public_id: 22785e759724430483fb09ae3909f5e9
-  pixel_url: https://vg09.met.vgwort.de/na/22785e759724430483fb09ae3909f5e9
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
@@ -860,12 +818,6 @@
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
-- url: /track_e_kl11/
-  public_id: 23b158a72df54f0684c5b2380c43a8e9
-  pixel_url: https://vg09.met.vgwort.de/na/23b158a72df54f0684c5b2380c43a8e9
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
 - url: /track_e_kl11/uebersicht/
   public_id: 23b9d054097b44c1b183bc9386b002a2
   pixel_url: https://vg09.met.vgwort.de/na/23b9d054097b44c1b183bc9386b002a2
@@ -1013,12 +965,6 @@
 - url: /track_e_kl11/units/voix-feminines/
   public_id: 249d1a3fdcd748a180d5d0955d50b2f0
   pixel_url: https://vg09.met.vgwort.de/na/249d1a3fdcd748a180d5d0955d50b2f0
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
-- url: /track_e_kl12/
-  public_id: 258d4552a089402a956ec9e3a040a6d0
-  pixel_url: https://vg09.met.vgwort.de/na/258d4552a089402a956ec9e3a040a6d0
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
@@ -1172,12 +1118,6 @@
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
-- url: /track_e_kl13/
-  public_id: 26fddee2be7b4ffba26dc95ea73c7714
-  pixel_url: https://vg09.met.vgwort.de/na/26fddee2be7b4ffba26dc95ea73c7714
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
 - url: /track_e_kl13/uebersicht/
   public_id: 26ff71c35b6949fd98842b0f52397de9
   pixel_url: https://vg09.met.vgwort.de/na/26ff71c35b6949fd98842b0f52397de9
@@ -1325,12 +1265,6 @@
 - url: /track_e_kl13/units/synthese-themes-litteraires/
   public_id: 271dbe5ae8e543ae8440759a3076a259
   pixel_url: https://vg09.met.vgwort.de/na/271dbe5ae8e543ae8440759a3076a259
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
-- url: /track_gm_kl06/
-  public_id: 28b4d1dde71e4d269a4f381c8679b5d9
-  pixel_url: https://vg09.met.vgwort.de/na/28b4d1dde71e4d269a4f381c8679b5d9
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
@@ -1484,12 +1418,6 @@
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
-- url: /track_gm_kl07/
-  public_id: 2ac3fac658604d0bbc8c6cb181b632ca
-  pixel_url: https://vg09.met.vgwort.de/na/2ac3fac658604d0bbc8c6cb181b632ca
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
 - url: /track_gm_kl07/uebersicht/
   public_id: 2acaef90ec9e47cfa56df73175d017e3
   pixel_url: https://vg09.met.vgwort.de/na/2acaef90ec9e47cfa56df73175d017e3
@@ -1637,12 +1565,6 @@
 - url: /track_gm_kl07/units/vacances-en-famille/
   public_id: 2b9428905e6c47f1a3568903c1ee9cae
   pixel_url: https://vg09.met.vgwort.de/na/2b9428905e6c47f1a3568903c1ee9cae
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
-- url: /track_gm_kl08/
-  public_id: 2c32ca894703496f94a3878cc3693c9f
-  pixel_url: https://vg09.met.vgwort.de/na/2c32ca894703496f94a3878cc3693c9f
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
@@ -1796,12 +1718,6 @@
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme
-- url: /track_gm_kl09/
-  public_id: 2d8b1da63eb649a596b3e957c4755318
-  pixel_url: https://vg09.met.vgwort.de/na/2d8b1da63eb649a596b3e957c4755318
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
 - url: /track_gm_kl09/uebersicht/
   public_id: 2d8d7a317d2f44129bbc5887321ec267
   pixel_url: https://vg09.met.vgwort.de/na/2d8d7a317d2f44129bbc5887321ec267
@@ -1949,12 +1865,6 @@
 - url: /track_gm_kl09/units/vivre-en-tunisie/
   public_id: 2e4bfca5e91c499ba60408e1c9b890c3
   pixel_url: https://vg09.met.vgwort.de/na/2e4bfca5e91c499ba60408e1c9b890c3
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: unknown-pre-programme
-- url: /track_gm_kl10/
-  public_id: 2f051bac8e144f4eb4a4ed63de6b70ad
-  pixel_url: https://vg09.met.vgwort.de/na/2f051bac8e144f4eb4a4ed63de6b70ad
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: unknown-pre-programme

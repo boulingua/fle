@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "consommation-responsable-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2eedc41392b14f6b81dba6ba36b41574"
 tags:
   - filiere-gm
   - classe-9

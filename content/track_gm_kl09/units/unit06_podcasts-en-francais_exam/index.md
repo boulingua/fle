@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "podcasts-en-francais-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2e7d0210eb9c41c4969afc6339715cba"
 tags:
   - filiere-gm
   - classe-9

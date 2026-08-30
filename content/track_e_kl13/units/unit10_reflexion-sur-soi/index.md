@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/286f0ff2bd094220b325d3e797afe6af"
 presentation:
   file: "/fle/materials/presentations/unit10_reflexion-sur-soi.pdf"
   thumbnail: "/fle/materials/presentations/unit10_reflexion-sur-soi.png"

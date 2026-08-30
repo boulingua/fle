@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "au-marche-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/29497cdec75d4a7ca72101358ed0f4c3"
 tags:
   - filiere-gm
   - classe-6

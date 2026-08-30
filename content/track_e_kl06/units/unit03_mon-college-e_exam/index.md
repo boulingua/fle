@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "mon-college-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/30b23f1b4f054c1ca530891a2f97055c"
 tags:
   - filiere-e
   - classe-6

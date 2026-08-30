@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "etude-de-roman-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/265919fc62d94c799a928a00ac2ce369"
 tags:
   - filiere-e
   - classe-12

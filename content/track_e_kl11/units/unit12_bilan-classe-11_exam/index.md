@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-classe-11-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/354387b669fb49b5a3d50efc566fa608"
 tags:
   - filiere-e
   - classe-11

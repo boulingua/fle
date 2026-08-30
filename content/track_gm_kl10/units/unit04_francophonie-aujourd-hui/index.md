@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.3.4 Expression orale — production orale en continu"
 skills_focus:
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2f7b98b7fa1d4ae28451718dc2d4ba82"
 presentation:
   file: "/fle/materials/presentations/unit04_francophonie-aujourd-hui.pdf"
   thumbnail: "/fle/materials/presentations/unit04_francophonie-aujourd-hui.png"

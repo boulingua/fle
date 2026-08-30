@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1e19f533d33d4ddeb044e1f61ca0bddf"
 presentation:
   file: "/fle/materials/presentations/unit06_transports-et-mobilite.pdf"
   thumbnail: "/fle/materials/presentations/unit06_transports-et-mobilite.png"

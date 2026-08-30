@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "musique-et-chanson-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/31e857ef756643fc8ed40ed3b4208d4f"
 tags:
   - filiere-e
   - classe-7

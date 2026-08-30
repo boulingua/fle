@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "preparer-l-abitur-ecrit-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26d03bbd04dc40b9b55eda997d793622"
 tags:
   - filiere-e
   - classe-12

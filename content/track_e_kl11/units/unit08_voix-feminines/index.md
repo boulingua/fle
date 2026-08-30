@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/249d1a3fdcd748a180d5d0955d50b2f0"
 presentation:
   file: "/fle/materials/presentations/unit08_voix-feminines.pdf"
   thumbnail: "/fle/materials/presentations/unit08_voix-feminines.png"

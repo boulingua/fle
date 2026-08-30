@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/27ae6ae5ade6488e8aa34c3db2134c29"
 presentation:
   file: "/fle/materials/presentations/unit05_abitur-mock-2.pdf"
   thumbnail: "/fle/materials/presentations/unit05_abitur-mock-2.png"

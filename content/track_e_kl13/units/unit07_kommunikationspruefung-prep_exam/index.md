@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "kommunikationspruefung-prep-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28369009e691411283ce354cf1b51b3c"
 tags:
   - filiere-e
   - classe-13

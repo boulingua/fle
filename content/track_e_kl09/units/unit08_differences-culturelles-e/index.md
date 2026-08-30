@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - mediation
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/21ec2a0dcd8e46a0a33f2bf2e038239d"
 presentation:
   file: "/fle/materials/presentations/unit08_differences-culturelles-e.pdf"
   thumbnail: "/fle/materials/presentations/unit08_differences-culturelles-e.png"

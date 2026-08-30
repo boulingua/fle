@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "ma-rentree-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2af8614c0c844e32aea42748a3e02181"
 tags:
   - filiere-gm
   - classe-7

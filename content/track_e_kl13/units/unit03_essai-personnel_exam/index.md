@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "essai-personnel-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/274c4be7c5684b5fa472f70e9dbf4341"
 tags:
   - filiere-e
   - classe-13

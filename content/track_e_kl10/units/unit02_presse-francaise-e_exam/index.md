@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "presse-francaise-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/33fee803c6094df385f8ae8983de1feb"
 tags:
   - filiere-e
   - classe-10

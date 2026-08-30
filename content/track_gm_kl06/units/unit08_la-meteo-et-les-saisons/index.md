@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - listening
-vgwort_pixel: "https://vg09.met.vgwort.de/na/299de8e3d383432a93fa47956b63bebc"
 presentation:
   file: "/fle/materials/presentations/unit08_la-meteo-et-les-saisons.pdf"
   thumbnail: "/fle/materials/presentations/unit08_la-meteo-et-les-saisons.png"

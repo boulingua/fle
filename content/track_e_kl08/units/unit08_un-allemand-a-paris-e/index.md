@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/20050598d87c43d4a6aa0934538afbd6"
 presentation:
   file: "/fle/materials/presentations/unit08_un-allemand-a-paris-e.pdf"
   thumbnail: "/fle/materials/presentations/unit08_un-allemand-a-paris-e.png"

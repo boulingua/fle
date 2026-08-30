@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/24ad0cc701b249cda11083ad944267e7"
 presentation:
   file: "/fle/materials/presentations/unit09_histoire-et-memoire.pdf"
   thumbnail: "/fle/materials/presentations/unit09_histoire-et-memoire.png"

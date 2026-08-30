@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "vivre-en-tunisie-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2e4d7b9fff744438bb5d569d4fd39931"
 tags:
   - filiere-gm
   - classe-9

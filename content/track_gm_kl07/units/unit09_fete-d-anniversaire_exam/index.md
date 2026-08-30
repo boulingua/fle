@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "fete-d-anniversaire-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2bea9220a8254d0eac7b2b53a444b39f"
 tags:
   - filiere-gm
   - classe-7

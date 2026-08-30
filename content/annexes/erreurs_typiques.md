@@ -2,7 +2,6 @@
 page_type: appendix
 title: "Erreurs typiques"
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1b20e348f0cc42c89fdca91d45ad1441"
 aliases:
   - "/annexes/erreurs_typiques.html"
 ---

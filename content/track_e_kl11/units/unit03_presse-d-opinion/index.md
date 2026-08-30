@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/23e3c50110a7408a847b42333d4c2acb"
 presentation:
   file: "/fle/materials/presentations/unit03_presse-d-opinion.pdf"
   thumbnail: "/fle/materials/presentations/unit03_presse-d-opinion.png"

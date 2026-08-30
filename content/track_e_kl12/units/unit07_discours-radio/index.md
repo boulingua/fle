@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - listening
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/266cd8bbbc3541d68348ad5f22fa22e8"
 presentation:
   file: "/fle/materials/presentations/unit07_discours-radio.pdf"
   thumbnail: "/fle/materials/presentations/unit07_discours-radio.png"

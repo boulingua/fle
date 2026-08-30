@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "francophonie-aujourd-hui-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/340eab80af8c4ef8b7fcea8c4bb12339"
 tags:
   - filiere-e
   - classe-10

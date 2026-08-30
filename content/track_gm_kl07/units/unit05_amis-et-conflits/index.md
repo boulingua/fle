@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2b40e0b531a140c38b546e2b2c0bda18"
 presentation:
   file: "/fle/materials/presentations/unit05_amis-et-conflits.pdf"
   thumbnail: "/fle/materials/presentations/unit05_amis-et-conflits.png"

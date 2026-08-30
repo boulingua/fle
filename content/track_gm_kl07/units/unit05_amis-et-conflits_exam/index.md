@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "amis-et-conflits-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2b4dfaa924114e719cebe99ed53dd002"
 tags:
   - filiere-gm
   - classe-7

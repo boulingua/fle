@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "voix-feminines-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/352710260fea4afab999fd3d00592dea"
 tags:
   - filiere-e
   - classe-11

@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - language_awareness
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2b2689b78ce246e99c86011397c621a3"
 presentation:
   file: "/fle/materials/presentations/unit04_les-repas.pdf"
   thumbnail: "/fle/materials/presentations/unit04_les-repas.png"

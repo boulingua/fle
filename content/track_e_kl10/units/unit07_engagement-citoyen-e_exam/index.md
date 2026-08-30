@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "engagement-citoyen-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3450ebbc7ea044fcb23528bd98e94560"
 tags:
   - filiere-e
   - classe-10

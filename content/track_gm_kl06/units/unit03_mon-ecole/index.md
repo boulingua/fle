@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28e22e581a474399ac126de180fd6101"
 presentation:
   file: "/fle/materials/presentations/unit03_mon-ecole.pdf"
   thumbnail: "/fle/materials/presentations/unit03_mon-ecole.png"

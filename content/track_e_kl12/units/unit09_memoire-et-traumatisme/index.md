@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26a515dd09f9470e924102811aeb3cb5"
 presentation:
   file: "/fle/materials/presentations/unit09_memoire-et-traumatisme.pdf"
   thumbnail: "/fle/materials/presentations/unit09_memoire-et-traumatisme.png"

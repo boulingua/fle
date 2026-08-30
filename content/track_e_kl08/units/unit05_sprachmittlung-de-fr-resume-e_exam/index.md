@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "sprachmittlung-de-fr-resume-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/324b35b8859740f5bc9d77ddbb8e7d32"
 tags:
   - filiere-e
   - classe-8

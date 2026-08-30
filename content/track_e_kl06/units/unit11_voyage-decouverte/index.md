@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - listening
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1d1eeb688d16475ab442f3cf2df51729"
 presentation:
   file: "/fle/materials/presentations/unit11_voyage-decouverte.pdf"
   thumbnail: "/fle/materials/presentations/unit11_voyage-decouverte.png"

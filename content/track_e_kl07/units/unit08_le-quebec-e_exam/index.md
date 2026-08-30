@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "le-quebec-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/31d0e94c627a4e319de67d09845c00fc"
 tags:
   - filiere-e
   - classe-7

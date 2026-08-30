@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2f78091cc7e748629b8eda26247682e9"
 presentation:
   file: "/fle/materials/presentations/unit03_vie-democratique.pdf"
   thumbnail: "/fle/materials/presentations/unit03_vie-democratique.png"

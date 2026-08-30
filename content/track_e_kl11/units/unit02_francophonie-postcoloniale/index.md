@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
-vgwort_pixel: "https://vg09.met.vgwort.de/na/23c1f60ff5304f6994a8e23f1ce1853d"
 presentation:
   file: "/fle/materials/presentations/unit02_francophonie-postcoloniale.pdf"
   thumbnail: "/fle/materials/presentations/unit02_francophonie-postcoloniale.png"

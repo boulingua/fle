@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/259e53300da042d5a6daf303c7633722"
 presentation:
   file: "/fle/materials/presentations/unit01_introduire-camus.pdf"
   thumbnail: "/fle/materials/presentations/unit01_introduire-camus.png"

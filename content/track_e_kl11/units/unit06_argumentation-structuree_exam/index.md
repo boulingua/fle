@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "argumentation-structuree-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/350cdd3012474794bb19e1a97a59999a"
 tags:
   - filiere-e
   - classe-11

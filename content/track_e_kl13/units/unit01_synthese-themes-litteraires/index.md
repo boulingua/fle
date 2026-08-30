@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/271dbe5ae8e543ae8440759a3076a259"
 presentation:
   file: "/fle/materials/presentations/unit01_synthese-themes-litteraires.pdf"
   thumbnail: "/fle/materials/presentations/unit01_synthese-themes-litteraires.png"

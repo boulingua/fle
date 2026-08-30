@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "mediation-fr-de-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/262602a15f5f4597b47b69add1235c22"
 tags:
   - filiere-e
   - classe-12

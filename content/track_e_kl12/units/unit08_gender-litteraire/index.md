@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2677307697db44998cb51381d4dabeff"
 presentation:
   file: "/fle/materials/presentations/unit08_gender-litteraire.pdf"
   thumbnail: "/fle/materials/presentations/unit08_gender-litteraire.png"

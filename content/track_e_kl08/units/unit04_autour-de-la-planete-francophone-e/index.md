@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1fb08dc97f03485fadf25557ed937604"
 presentation:
   file: "/fle/materials/presentations/unit04_autour-de-la-planete-francophone-e.pdf"
   thumbnail: "/fle/materials/presentations/unit04_autour-de-la-planete-francophone-e.png"

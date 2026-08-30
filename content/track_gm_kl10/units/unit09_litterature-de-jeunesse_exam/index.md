@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "litterature-de-jeunesse-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2fefa9784e774db89543692102d877b1"
 tags:
   - filiere-gm
   - classe-10

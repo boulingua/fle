@@ -11,7 +11,6 @@ bildungsplan:
   - "3.1.3.1 Compréhension orale et audiovisuelle"
 skills_focus:
 - listening
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2e72425156544419b79c860c5ed696a8"
 presentation:
   file: "/fle/materials/presentations/unit06_podcasts-en-francais.pdf"
   thumbnail: "/fle/materials/presentations/unit06_podcasts-en-francais.png"

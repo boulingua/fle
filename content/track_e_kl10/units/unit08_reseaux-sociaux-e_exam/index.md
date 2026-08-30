@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "reseaux-sociaux-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3455e6e4913b429fb47cfbf8d0a9943b"
 tags:
   - filiere-e
   - classe-10

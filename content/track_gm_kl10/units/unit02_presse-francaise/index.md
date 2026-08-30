@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2f5770bd0de140369701d47b52e631de"
 presentation:
   file: "/fle/materials/presentations/unit02_presse-francaise.pdf"
   thumbnail: "/fle/materials/presentations/unit02_presse-francaise.png"

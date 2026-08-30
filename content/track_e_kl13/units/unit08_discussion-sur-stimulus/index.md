@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/283735ce66d5448d8404fc2c773523bc"
 presentation:
   file: "/fle/materials/presentations/unit08_discussion-sur-stimulus.pdf"
   thumbnail: "/fle/materials/presentations/unit08_discussion-sur-stimulus.png"

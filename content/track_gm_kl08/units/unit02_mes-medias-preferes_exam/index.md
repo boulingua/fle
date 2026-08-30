@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "mes-medias-preferes-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2c9f2a62586f4d499a6722df45603486"
 tags:
   - filiere-gm
   - classe-8

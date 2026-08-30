@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "francophonie-pluralite-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/27390d0eb6e84ca4b27e0c5e4e7e9d78"
 tags:
   - filiere-e
   - classe-13

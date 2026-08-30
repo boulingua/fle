@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26b48723128f4015959b3675694789e5"
 presentation:
   file: "/fle/materials/presentations/unit10_argumenter-en-public.pdf"
   thumbnail: "/fle/materials/presentations/unit10_argumenter-en-public.png"

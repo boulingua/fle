@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "stereotypes-et-prejuges-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d2e5c7c3baa4fef9c3d65b7b5ef28bd"
 tags:
   - filiere-gm
   - classe-8

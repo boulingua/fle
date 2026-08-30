@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "transition-vers-la-kursstufe-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/33f4b3384762466783a0451b6701345b"
 tags:
   - filiere-e
   - classe-10

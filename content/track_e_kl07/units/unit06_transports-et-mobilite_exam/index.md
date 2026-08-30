@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "transports-et-mobilite-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/31c6b812b71b4845af94365b9bd25af4"
 tags:
   - filiere-e
   - classe-7

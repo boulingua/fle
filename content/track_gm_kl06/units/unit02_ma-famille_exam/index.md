@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "ma-famille-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28dc9c9ab6b148aaaa15e6d7f4a0d298"
 tags:
   - filiere-gm
   - classe-6

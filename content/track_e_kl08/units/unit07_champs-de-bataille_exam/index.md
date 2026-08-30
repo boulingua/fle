@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "champs-de-bataille-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/325deb5ad7b342dd909f62f42c5f5e60"
 tags:
   - filiere-e
   - classe-8

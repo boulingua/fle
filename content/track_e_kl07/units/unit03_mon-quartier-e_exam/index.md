@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "mon-quartier-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/31a5b3351d4d4dc1a1ac3bb5f04abb83"
 tags:
   - filiere-e
   - classe-7

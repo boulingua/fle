@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "mediation-academique-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/34f70cf6713241d1a88bfaa04101e95e"
 tags:
   - filiere-e
   - classe-11

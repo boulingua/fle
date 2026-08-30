@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "ma-chambre-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2a3c32248eea41d2abc7c5856bc69947"
 tags:
   - filiere-gm
   - classe-6

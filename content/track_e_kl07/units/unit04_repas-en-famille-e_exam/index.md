@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "repas-en-famille-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/31a68545794c4b1994ddf5034b35feea"
 tags:
   - filiere-e
   - classe-7

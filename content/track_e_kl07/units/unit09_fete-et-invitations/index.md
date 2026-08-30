@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1e65d6bab63944249edff767db09f613"
 presentation:
   file: "/fle/materials/presentations/unit09_fete-et-invitations.pdf"
   thumbnail: "/fle/materials/presentations/unit09_fete-et-invitations.png"

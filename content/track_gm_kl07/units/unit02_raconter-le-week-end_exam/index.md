@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "raconter-le-week-end-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2afbc53f81d74d6b8b1c7f575e71fd17"
 tags:
   - filiere-gm
   - classe-7

@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "mediation-de-base-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2c18ad58edb040b98bdef0c312c968f8"
 tags:
   - filiere-gm
   - classe-7

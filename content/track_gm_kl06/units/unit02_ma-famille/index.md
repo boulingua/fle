@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28d90bc5397040f7810b820383439c13"
 presentation:
   file: "/fle/materials/presentations/unit02_ma-famille.pdf"
   thumbnail: "/fle/materials/presentations/unit02_ma-famille.png"

@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d2cf003fb334dcd96a7c1b9f6a4209b"
 presentation:
   file: "/fle/materials/presentations/unit09_stereotypes-et-prejuges.pdf"
   thumbnail: "/fle/materials/presentations/unit09_stereotypes-et-prejuges.png"

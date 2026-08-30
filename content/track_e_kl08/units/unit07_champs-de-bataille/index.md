@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1ff88749bde94842acc2dd69c373e144"
 presentation:
   file: "/fle/materials/presentations/unit07_champs-de-bataille.pdf"
   thumbnail: "/fle/materials/presentations/unit07_champs-de-bataille.png"

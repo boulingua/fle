@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-9e-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/33e29c5fc13f4eceba927672b96c2519"
 tags:
   - filiere-e
   - classe-9

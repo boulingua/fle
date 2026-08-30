@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "mes-medias-preferes-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3224ba8926b94be48e5cbeeaa8364bce"
 tags:
   - filiere-e
   - classe-8

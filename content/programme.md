@@ -2,7 +2,6 @@
 page_type: reference
 title: "Programme complet"
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1ba2663038264ad89a7f80ad0a25f6c0"
 aliases:
   - "/programme.html"
 ---

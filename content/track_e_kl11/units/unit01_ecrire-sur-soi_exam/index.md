@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "ecrire-sur-soi-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/348d71a011174c8b8bb3e880df06c494"
 tags:
   - filiere-e
   - classe-11

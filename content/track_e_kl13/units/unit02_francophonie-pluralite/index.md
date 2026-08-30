@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2738da1a4ff14bc4b7b8cefa2856d73f"
 presentation:
   file: "/fle/materials/presentations/unit02_francophonie-pluralite.pdf"
   thumbnail: "/fle/materials/presentations/unit02_francophonie-pluralite.png"

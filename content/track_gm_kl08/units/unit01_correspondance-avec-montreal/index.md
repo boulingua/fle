@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2c5fd8b7b43d40a9b54e67ceaf81f43b"
 presentation:
   file: "/fle/materials/presentations/unit01_correspondance-avec-montreal.pdf"
   thumbnail: "/fle/materials/presentations/unit01_correspondance-avec-montreal.png"

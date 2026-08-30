@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "ecologie-au-quotidien-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2e31527170a9495f8e9a2b335877a2b5"
 tags:
   - filiere-gm
   - classe-9

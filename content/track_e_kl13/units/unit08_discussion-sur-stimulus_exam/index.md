@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "discussion-sur-stimulus-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28396372fbee415ab051e954741edd32"
 tags:
   - filiere-e
   - classe-13

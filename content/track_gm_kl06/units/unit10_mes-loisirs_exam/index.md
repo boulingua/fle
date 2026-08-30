@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "mes-loisirs-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2a6d1449a84244148ed04c25947ac3e6"
 tags:
   - filiere-gm
   - classe-6

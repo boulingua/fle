@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "cinema-quebecois-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3295e861fea24201a91dcd1c60f80c39"
 tags:
   - filiere-e
   - classe-8

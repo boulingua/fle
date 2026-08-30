@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "extraits-romans-jeunes-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/345ae605f26c4490b1767820bdd180d0"
 tags:
   - filiere-e
   - classe-10

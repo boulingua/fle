@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "ecologie-en-france-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/354258b755264f4f94b81ac9ebebacc2"
 tags:
   - filiere-e
   - classe-11

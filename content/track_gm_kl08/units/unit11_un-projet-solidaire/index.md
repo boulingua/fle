@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d5feea5516749f38183922b8a174e0c"
 presentation:
   file: "/fle/materials/presentations/unit11_un-projet-solidaire.pdf"
   thumbnail: "/fle/materials/presentations/unit11_un-projet-solidaire.png"

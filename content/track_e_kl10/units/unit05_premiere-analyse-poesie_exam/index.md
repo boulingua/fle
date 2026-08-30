@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "premiere-analyse-poesie-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/340f1491dcf342c79cc8aef702857a3c"
 tags:
   - filiere-e
   - classe-10

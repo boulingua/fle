@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/247b5965bd004d73bc5c70d6285335be"
 presentation:
   file: "/fle/materials/presentations/unit07_extrait-roman-contemporain.pdf"
   thumbnail: "/fle/materials/presentations/unit07_extrait-roman-contemporain.png"

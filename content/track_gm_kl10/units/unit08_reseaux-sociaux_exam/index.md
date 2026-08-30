@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "reseaux-sociaux-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2fe28c4081fd46fa9ecbcc202cb88f55"
 tags:
   - filiere-gm
   - classe-10

@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "differences-culturelles-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/33aea98cfa344ba8802179a319a2a8a7"
 tags:
   - filiere-e
   - classe-9

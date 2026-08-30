@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1c257801ac4440bc94f961eeb455e0cc"
 presentation:
   file: "/fle/materials/presentations/unit03_mon-college-e.pdf"
   thumbnail: "/fle/materials/presentations/unit03_mon-college-e.png"

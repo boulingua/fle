@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "internet-et-vie-privee-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/33bb8af9322541018ce338de5014fca1"
 tags:
   - filiere-e
   - classe-9

@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "lettre-de-motivation-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3319af2e0eed4e77a8dcdb2866fe6d44"
 tags:
   - filiere-e
   - classe-9

@@ -2,6 +2,54 @@
 # Per-unit marks live in front matter (vgwort_pixel:); these entries
 # cover editorial pages (filière overviews) matched by url. The shared
 # resolver _partials/vgwort/url.html reads both.
+- url: /a_propos/
+  public_id: 1b0fa7ed30714a48b7aa855c4468901b
+  pixel_url: https://vg09.met.vgwort.de/na/1b0fa7ed30714a48b7aa855c4468901b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /annexes/competences/
+  public_id: 1b1c45416a584feb93e44e2a767feb7c
+  pixel_url: https://vg09.met.vgwort.de/na/1b1c45416a584feb93e44e2a767feb7c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /annexes/erreurs_typiques/
+  public_id: 1b20e348f0cc42c89fdca91d45ad1441
+  pixel_url: https://vg09.met.vgwort.de/na/1b20e348f0cc42c89fdca91d45ad1441
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /annexes/glossaire/
+  public_id: 1b270a106f4a4ba6832ede51984a98a2
+  pixel_url: https://vg09.met.vgwort.de/na/1b270a106f4a4ba6832ede51984a98a2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /annexes/grille_evaluation/
+  public_id: 1b2c58f2d3ae49babff640cf5e55d5ad
+  pixel_url: https://vg09.met.vgwort.de/na/1b2c58f2d3ae49babff640cf5e55d5ad
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /annexes/strategies/
+  public_id: 1b41d7a1f6a749c2a153a60424987b2b
+  pixel_url: https://vg09.met.vgwort.de/na/1b41d7a1f6a749c2a153a60424987b2b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /bibliographie/
+  public_id: 1b79ba4d0a44460bb5deedb7fd477f85
+  pixel_url: https://vg09.met.vgwort.de/na/1b79ba4d0a44460bb5deedb7fd477f85
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /bildungsplan/
+  public_id: 1b8013b174a24109bcfb86721e2e6be9
+  pixel_url: https://vg09.met.vgwort.de/na/1b8013b174a24109bcfb86721e2e6be9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
 - url: /filiere-e/
   public_id: 1c920712b1ac4286bba3826a4c410537
   pixel_url: https://vg09.met.vgwort.de/na/1c920712b1ac4286bba3826a4c410537
@@ -14,3 +62,2049 @@
   min_chars: 1800
   author: S. Le Boulanger
   registered_at: '2026-07-22'
+- url: /programme/
+  public_id: 1ba2663038264ad89a7f80ad0a25f6c0
+  pixel_url: https://vg09.met.vgwort.de/na/1ba2663038264ad89a7f80ad0a25f6c0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /references/
+  public_id: 1bade19f819b4d6e9db2c34547365e7b
+  pixel_url: https://vg09.met.vgwort.de/na/1bade19f819b4d6e9db2c34547365e7b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /remerciements/
+  public_id: 1bb3265dec3c417eb42cf4acbd1f6130
+  pixel_url: https://vg09.met.vgwort.de/na/1bb3265dec3c417eb42cf4acbd1f6130
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/
+  public_id: 1bc684db552e471aac7223b955bb6d11
+  pixel_url: https://vg09.met.vgwort.de/na/1bc684db552e471aac7223b955bb6d11
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/uebersicht/
+  public_id: 1be382541698404ba9bbb11b9d677224
+  pixel_url: https://vg09.met.vgwort.de/na/1be382541698404ba9bbb11b9d677224
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/au-marche-e-exam/
+  public_id: 30d51632b61f40f88f0a74b59787aa38
+  pixel_url: https://vg09.met.vgwort.de/na/30d51632b61f40f88f0a74b59787aa38
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/au-marche-e/
+  public_id: 1ca3fa38c1684fad94e27f2b16b328f2
+  pixel_url: https://vg09.met.vgwort.de/na/1ca3fa38c1684fad94e27f2b16b328f2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/bilan-portrait-e-exam/
+  public_id: 311c4e7086804f098c8c58b5aa49c388
+  pixel_url: https://vg09.met.vgwort.de/na/311c4e7086804f098c8c58b5aa49c388
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/bilan-portrait-e/
+  public_id: 1d5093755310429da3229944005793a9
+  pixel_url: https://vg09.met.vgwort.de/na/1d5093755310429da3229944005793a9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/gouts-et-couleurs-exam/
+  public_id: 30cfbb19ea734dfe8836d66b7b1efe00
+  pixel_url: https://vg09.met.vgwort.de/na/30cfbb19ea734dfe8836d66b7b1efe00
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/gouts-et-couleurs/
+  public_id: 1c9ad1b4184c402aac2bd735f7b04be8
+  pixel_url: https://vg09.met.vgwort.de/na/1c9ad1b4184c402aac2bd735f7b04be8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/le-temps-et-l-heure-e-exam/
+  public_id: 30e5d405c0064612b66963ff20800126
+  pixel_url: https://vg09.met.vgwort.de/na/30e5d405c0064612b66963ff20800126
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/le-temps-et-l-heure-e/
+  public_id: 1cbd28f22e49412bb639408b6651d29e
+  pixel_url: https://vg09.met.vgwort.de/na/1cbd28f22e49412bb639408b6651d29e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/ma-chambre-e-exam/
+  public_id: 30ec9426b6e945d98496a992c0c3ea1f
+  pixel_url: https://vg09.met.vgwort.de/na/30ec9426b6e945d98496a992c0c3ea1f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/ma-chambre-e/
+  public_id: 1cf1f0ac23dd4b61b4e2f639b9cfb251
+  pixel_url: https://vg09.met.vgwort.de/na/1cf1f0ac23dd4b61b4e2f639b9cfb251
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/ma-famille-e-exam/
+  public_id: 30a7fdee7808486286d9ef9948c8f979
+  pixel_url: https://vg09.met.vgwort.de/na/30a7fdee7808486286d9ef9948c8f979
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/ma-famille-e/
+  public_id: 1c1d3a3a981d463c8cb6fa8fbe95f76c
+  pixel_url: https://vg09.met.vgwort.de/na/1c1d3a3a981d463c8cb6fa8fbe95f76c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/ma-journee-e-exam/
+  public_id: 30bddfa716244010af4b59e129927390
+  pixel_url: https://vg09.met.vgwort.de/na/30bddfa716244010af4b59e129927390
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/ma-journee-e/
+  public_id: 1c490128d14a4f5e8d06ba951157f3f8
+  pixel_url: https://vg09.met.vgwort.de/na/1c490128d14a4f5e8d06ba951157f3f8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/mes-loisirs-e-exam/
+  public_id: 31087a959ea34fa18217bc8a560e9894
+  pixel_url: https://vg09.met.vgwort.de/na/31087a959ea34fa18217bc8a560e9894
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/mes-loisirs-e/
+  public_id: 1d18bbfe5cd943ef9b25d280cafa0493
+  pixel_url: https://vg09.met.vgwort.de/na/1d18bbfe5cd943ef9b25d280cafa0493
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/mon-college-e-exam/
+  public_id: 30b23f1b4f054c1ca530891a2f97055c
+  pixel_url: https://vg09.met.vgwort.de/na/30b23f1b4f054c1ca530891a2f97055c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/mon-college-e/
+  public_id: 1c257801ac4440bc94f961eeb455e0cc
+  pixel_url: https://vg09.met.vgwort.de/na/1c257801ac4440bc94f961eeb455e0cc
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/premiere-poesie-exam/
+  public_id: 30ea7518fc2a4e2da5548747a1df9d6d
+  pixel_url: https://vg09.met.vgwort.de/na/30ea7518fc2a4e2da5548747a1df9d6d
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/premiere-poesie/
+  public_id: 1cc72e861eb34259885839f78065b5eb
+  pixel_url: https://vg09.met.vgwort.de/na/1cc72e861eb34259885839f78065b5eb
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/salutations-et-prenoms-e-exam/
+  public_id: 30a7f6ad29dc44168e3fb9783bce495f
+  pixel_url: https://vg09.met.vgwort.de/na/30a7f6ad29dc44168e3fb9783bce495f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/salutations-et-prenoms-e/
+  public_id: 1be616bdc20c4f11bb1248ef8af10b56
+  pixel_url: https://vg09.met.vgwort.de/na/1be616bdc20c4f11bb1248ef8af10b56
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/voyage-decouverte-exam/
+  public_id: 3113bbc94b61488695d2fd4b930f0865
+  pixel_url: https://vg09.met.vgwort.de/na/3113bbc94b61488695d2fd4b930f0865
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl06/units/voyage-decouverte/
+  public_id: 1d1eeb688d16475ab442f3cf2df51729
+  pixel_url: https://vg09.met.vgwort.de/na/1d1eeb688d16475ab442f3cf2df51729
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/
+  public_id: 1d5ad4f111e2453aa8da00cf4da53d0e
+  pixel_url: https://vg09.met.vgwort.de/na/1d5ad4f111e2453aa8da00cf4da53d0e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/uebersicht/
+  public_id: 1d666cdaf5fb421fbd5eecbd4798a0f2
+  pixel_url: https://vg09.met.vgwort.de/na/1d666cdaf5fb421fbd5eecbd4798a0f2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/amis-et-conflits-e-exam/
+  public_id: 31ad3e5105584fc7b01ba4968d76a72e
+  pixel_url: https://vg09.met.vgwort.de/na/31ad3e5105584fc7b01ba4968d76a72e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/amis-et-conflits-e/
+  public_id: 1e0656248c2543458bd60879f45436e5
+  pixel_url: https://vg09.met.vgwort.de/na/1e0656248c2543458bd60879f45436e5
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/bilan-progres-7e-e-exam/
+  public_id: 31fb222af0bc4ecca8ba793692b14358
+  pixel_url: https://vg09.met.vgwort.de/na/31fb222af0bc4ecca8ba793692b14358
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/bilan-progres-7e-e/
+  public_id: 1eee4a8671094fd0916e5ebc9152b7b5
+  pixel_url: https://vg09.met.vgwort.de/na/1eee4a8671094fd0916e5ebc9152b7b5
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/fete-et-invitations-exam/
+  public_id: 31d54d3280694d27960a391eed3b4e40
+  pixel_url: https://vg09.met.vgwort.de/na/31d54d3280694d27960a391eed3b4e40
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/fete-et-invitations/
+  public_id: 1e65d6bab63944249edff767db09f613
+  pixel_url: https://vg09.met.vgwort.de/na/1e65d6bab63944249edff767db09f613
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/la-rentree-e-exam/
+  public_id: 313e43adbbb44feea0ae5e0be2ab726f
+  pixel_url: https://vg09.met.vgwort.de/na/313e43adbbb44feea0ae5e0be2ab726f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/la-rentree-e/
+  public_id: 1d834043ec3c475f803b7de41647b7b4
+  pixel_url: https://vg09.met.vgwort.de/na/1d834043ec3c475f803b7de41647b7b4
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/le-quebec-e-exam/
+  public_id: 31d0e94c627a4e319de67d09845c00fc
+  pixel_url: https://vg09.met.vgwort.de/na/31d0e94c627a4e319de67d09845c00fc
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/le-quebec-e/
+  public_id: 1e40b081f9184f9da6a41c8ec2521451
+  pixel_url: https://vg09.met.vgwort.de/na/1e40b081f9184f9da6a41c8ec2521451
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/mon-quartier-e-exam/
+  public_id: 31a5b3351d4d4dc1a1ac3bb5f04abb83
+  pixel_url: https://vg09.met.vgwort.de/na/31a5b3351d4d4dc1a1ac3bb5f04abb83
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/mon-quartier-e/
+  public_id: 1dd06671a56d426e9b24d4abbb7b52b9
+  pixel_url: https://vg09.met.vgwort.de/na/1dd06671a56d426e9b24d4abbb7b52b9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/musique-et-chanson-e-exam/
+  public_id: 31e857ef756643fc8ed40ed3b4208d4f
+  pixel_url: https://vg09.met.vgwort.de/na/31e857ef756643fc8ed40ed3b4208d4f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/musique-et-chanson-e/
+  public_id: 1e781032ad6346e38de767a94214342c
+  pixel_url: https://vg09.met.vgwort.de/na/1e781032ad6346e38de767a94214342c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/premiere-mediation-exam/
+  public_id: 31f9a1afa1054d4b998b427fc55d0885
+  pixel_url: https://vg09.met.vgwort.de/na/31f9a1afa1054d4b998b427fc55d0885
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/premiere-mediation/
+  public_id: 1ee43e55747b4498ad09d2351de24697
+  pixel_url: https://vg09.met.vgwort.de/na/1ee43e55747b4498ad09d2351de24697
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/raconter-une-anecdote-exam/
+  public_id: 315d50f7003b4d9992a242929464872f
+  pixel_url: https://vg09.met.vgwort.de/na/315d50f7003b4d9992a242929464872f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/raconter-une-anecdote/
+  public_id: 1daae2f35b9c444ab20d81a6f7116593
+  pixel_url: https://vg09.met.vgwort.de/na/1daae2f35b9c444ab20d81a6f7116593
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/repas-en-famille-e-exam/
+  public_id: 31a68545794c4b1994ddf5034b35feea
+  pixel_url: https://vg09.met.vgwort.de/na/31a68545794c4b1994ddf5034b35feea
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/repas-en-famille-e/
+  public_id: 1deb0c44c1d547e7b08f880286ad8e3e
+  pixel_url: https://vg09.met.vgwort.de/na/1deb0c44c1d547e7b08f880286ad8e3e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/transports-et-mobilite-exam/
+  public_id: 31c6b812b71b4845af94365b9bd25af4
+  pixel_url: https://vg09.met.vgwort.de/na/31c6b812b71b4845af94365b9bd25af4
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/transports-et-mobilite/
+  public_id: 1e19f533d33d4ddeb044e1f61ca0bddf
+  pixel_url: https://vg09.met.vgwort.de/na/1e19f533d33d4ddeb044e1f61ca0bddf
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/vacances-en-bretagne-exam/
+  public_id: 31cc5b4329ec4a7d818772839d9e2c04
+  pixel_url: https://vg09.met.vgwort.de/na/31cc5b4329ec4a7d818772839d9e2c04
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl07/units/vacances-en-bretagne/
+  public_id: 1e2fea4751d84155b260e58898e695aa
+  pixel_url: https://vg09.met.vgwort.de/na/1e2fea4751d84155b260e58898e695aa
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/
+  public_id: 1ef4d7f41e8848e3ad6ef10309cc1627
+  pixel_url: https://vg09.met.vgwort.de/na/1ef4d7f41e8848e3ad6ef10309cc1627
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/uebersicht/
+  public_id: 1f173b1acb6f4da1bf1139a279016a5d
+  pixel_url: https://vg09.met.vgwort.de/na/1f173b1acb6f4da1bf1139a279016a5d
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/autour-de-la-planete-francophone-e-exam/
+  public_id: 3236b91a0d674dc788091b2a64ee0114
+  pixel_url: https://vg09.met.vgwort.de/na/3236b91a0d674dc788091b2a64ee0114
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/autour-de-la-planete-francophone-e/
+  public_id: 1fb08dc97f03485fadf25557ed937604
+  pixel_url: https://vg09.met.vgwort.de/na/1fb08dc97f03485fadf25557ed937604
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/bilan-portrait-d-une-rencontre-e-exam/
+  public_id: 32f7b60130ec4e08a945c46ac470b65c
+  pixel_url: https://vg09.met.vgwort.de/na/32f7b60130ec4e08a945c46ac470b65c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/bilan-portrait-d-une-rencontre-e/
+  public_id: 206f9a723fe34052bcacf73260450d38
+  pixel_url: https://vg09.met.vgwort.de/na/206f9a723fe34052bcacf73260450d38
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/champs-de-bataille-exam/
+  public_id: 325deb5ad7b342dd909f62f42c5f5e60
+  pixel_url: https://vg09.met.vgwort.de/na/325deb5ad7b342dd909f62f42c5f5e60
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/champs-de-bataille/
+  public_id: 1ff88749bde94842acc2dd69c373e144
+  pixel_url: https://vg09.met.vgwort.de/na/1ff88749bde94842acc2dd69c373e144
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/cinema-quebecois-e-exam/
+  public_id: 3295e861fea24201a91dcd1c60f80c39
+  pixel_url: https://vg09.met.vgwort.de/na/3295e861fea24201a91dcd1c60f80c39
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/cinema-quebecois-e/
+  public_id: 201e8a07f20948bdb286782e04a48002
+  pixel_url: https://vg09.met.vgwort.de/na/201e8a07f20948bdb286782e04a48002
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/correspondance-avec-montreal-e-exam/
+  public_id: 321fdae4df6a4c498c6c5f44304773e2
+  pixel_url: https://vg09.met.vgwort.de/na/321fdae4df6a4c498c6c5f44304773e2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/correspondance-avec-montreal-e/
+  public_id: 1f7ac3027cae473aadf7c6a83caa4b2d
+  pixel_url: https://vg09.met.vgwort.de/na/1f7ac3027cae473aadf7c6a83caa4b2d
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/la-rentree-en-8e-exam/
+  public_id: 320796b113e0484eafd0bebbb899bb95
+  pixel_url: https://vg09.met.vgwort.de/na/320796b113e0484eafd0bebbb899bb95
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/la-rentree-en-8e/
+  public_id: 1f64fbf604164eb78769d718a93df8f8
+  pixel_url: https://vg09.met.vgwort.de/na/1f64fbf604164eb78769d718a93df8f8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/mes-medias-preferes-e-exam/
+  public_id: 3224ba8926b94be48e5cbeeaa8364bce
+  pixel_url: https://vg09.met.vgwort.de/na/3224ba8926b94be48e5cbeeaa8364bce
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/mes-medias-preferes-e/
+  public_id: 1f9ede6fc1e1427d9361f798b4c3405e
+  pixel_url: https://vg09.met.vgwort.de/na/1f9ede6fc1e1427d9361f798b4c3405e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/musiques-du-maghreb-e-exam/
+  public_id: 324f5c174a8a466e8dd7f060855ef42a
+  pixel_url: https://vg09.met.vgwort.de/na/324f5c174a8a466e8dd7f060855ef42a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/musiques-du-maghreb-e/
+  public_id: 1fe85d7bd9394244ad645671223ffa02
+  pixel_url: https://vg09.met.vgwort.de/na/1fe85d7bd9394244ad645671223ffa02
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/sprachmittlung-de-fr-resume-e-exam/
+  public_id: 324b35b8859740f5bc9d77ddbb8e7d32
+  pixel_url: https://vg09.met.vgwort.de/na/324b35b8859740f5bc9d77ddbb8e7d32
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/sprachmittlung-de-fr-resume-e/
+  public_id: 1fd5bffa9385441f86ade8d3c69fee08
+  pixel_url: https://vg09.met.vgwort.de/na/1fd5bffa9385441f86ade8d3c69fee08
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/stereotypes-et-prejuges-e-exam/
+  public_id: 329489a5e65c4dcca8ee6613cbe791f5
+  pixel_url: https://vg09.met.vgwort.de/na/329489a5e65c4dcca8ee6613cbe791f5
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/stereotypes-et-prejuges-e/
+  public_id: 2010eb80921e4d91855aa088c9666d7a
+  pixel_url: https://vg09.met.vgwort.de/na/2010eb80921e4d91855aa088c9666d7a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/un-allemand-a-paris-e-exam/
+  public_id: 325e9d5b9f194a92b4d98ac5fe11a8dc
+  pixel_url: https://vg09.met.vgwort.de/na/325e9d5b9f194a92b4d98ac5fe11a8dc
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/un-allemand-a-paris-e/
+  public_id: 20050598d87c43d4a6aa0934538afbd6
+  pixel_url: https://vg09.met.vgwort.de/na/20050598d87c43d4a6aa0934538afbd6
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/un-projet-solidaire-e-exam/
+  public_id: 32bf5ffd461942da9279eb2a2f21943e
+  pixel_url: https://vg09.met.vgwort.de/na/32bf5ffd461942da9279eb2a2f21943e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl08/units/un-projet-solidaire-e/
+  public_id: 204a2fc573064e68bd8aaa21bd195f99
+  pixel_url: https://vg09.met.vgwort.de/na/204a2fc573064e68bd8aaa21bd195f99
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/
+  public_id: 208c48dfb1604b9fb07d003188ad75c0
+  pixel_url: https://vg09.met.vgwort.de/na/208c48dfb1604b9fb07d003188ad75c0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/uebersicht/
+  public_id: 209bbb3fa31744ee89d2168ab1dbc3f3
+  pixel_url: https://vg09.met.vgwort.de/na/209bbb3fa31744ee89d2168ab1dbc3f3
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/argumenter-pour-contre-e-exam/
+  public_id: 332a193918cb4c85b4f94b9920d0d462
+  pixel_url: https://vg09.met.vgwort.de/na/332a193918cb4c85b4f94b9920d0d462
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/argumenter-pour-contre-e/
+  public_id: 20fb736bae274f39b7592c310e63802b
+  pixel_url: https://vg09.met.vgwort.de/na/20fb736bae274f39b7592c310e63802b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/bilan-9e-e-exam/
+  public_id: 33e29c5fc13f4eceba927672b96c2519
+  pixel_url: https://vg09.met.vgwort.de/na/33e29c5fc13f4eceba927672b96c2519
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/bilan-9e-e/
+  public_id: 2261f15b84f2431891aa92863c4ffe23
+  pixel_url: https://vg09.met.vgwort.de/na/2261f15b84f2431891aa92863c4ffe23
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/consommation-responsable-e-exam/
+  public_id: 33cf9d145bda4378ae19cfbeb1b10aad
+  pixel_url: https://vg09.met.vgwort.de/na/33cf9d145bda4378ae19cfbeb1b10aad
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/consommation-responsable-e/
+  public_id: 22282941c5f843ccb83894d84d2fef58
+  pixel_url: https://vg09.met.vgwort.de/na/22282941c5f843ccb83894d84d2fef58
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/differences-culturelles-e-exam/
+  public_id: 33aea98cfa344ba8802179a319a2a8a7
+  pixel_url: https://vg09.met.vgwort.de/na/33aea98cfa344ba8802179a319a2a8a7
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/differences-culturelles-e/
+  public_id: 21ec2a0dcd8e46a0a33f2bf2e038239d
+  pixel_url: https://vg09.met.vgwort.de/na/21ec2a0dcd8e46a0a33f2bf2e038239d
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/ecologie-au-quotidien-e-exam/
+  public_id: 3325b624e8e441b4ab1783ab3a29b331
+  pixel_url: https://vg09.met.vgwort.de/na/3325b624e8e441b4ab1783ab3a29b331
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/ecologie-au-quotidien-e/
+  public_id: 20b8b29e7abd41beaf4ed4ba8e1a8688
+  pixel_url: https://vg09.met.vgwort.de/na/20b8b29e7abd41beaf4ed4ba8e1a8688
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/francais-au-travail-e-exam/
+  public_id: 33d26db87ed149ff96248fc053f7a249
+  pixel_url: https://vg09.met.vgwort.de/na/33d26db87ed149ff96248fc053f7a249
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/francais-au-travail-e/
+  public_id: 224e20a5129b4b1f911f956ddd29d3f5
+  pixel_url: https://vg09.met.vgwort.de/na/224e20a5129b4b1f911f956ddd29d3f5
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/harcelement-et-respect-e-exam/
+  public_id: 3399a0cea2474604a7ff034e986f871c
+  pixel_url: https://vg09.met.vgwort.de/na/3399a0cea2474604a7ff034e986f871c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/harcelement-et-respect-e/
+  public_id: 21cfaaabf95444a28b45212a5d5221dd
+  pixel_url: https://vg09.met.vgwort.de/na/21cfaaabf95444a28b45212a5d5221dd
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/internet-et-vie-privee-e-exam/
+  public_id: 33bb8af9322541018ce338de5014fca1
+  pixel_url: https://vg09.met.vgwort.de/na/33bb8af9322541018ce338de5014fca1
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/internet-et-vie-privee-e/
+  public_id: 21fa0a9be3f14b0faced0416c84d7c37
+  pixel_url: https://vg09.met.vgwort.de/na/21fa0a9be3f14b0faced0416c84d7c37
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/le-monde-du-travail-e-exam/
+  public_id: 331686759e2e40c69acf4b5f5bb4efd7
+  pixel_url: https://vg09.met.vgwort.de/na/331686759e2e40c69acf4b5f5bb4efd7
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/le-monde-du-travail-e/
+  public_id: 20a704d960ef4074a205f68f20c5bd67
+  pixel_url: https://vg09.met.vgwort.de/na/20a704d960ef4074a205f68f20c5bd67
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/le-petit-nicolas-exam/
+  public_id: 334ccd3344bc40e99cad39f92a920565
+  pixel_url: https://vg09.met.vgwort.de/na/334ccd3344bc40e99cad39f92a920565
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/le-petit-nicolas/
+  public_id: 2130a38685a04ceb939fd6540e22db5e
+  pixel_url: https://vg09.met.vgwort.de/na/2130a38685a04ceb939fd6540e22db5e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/lettre-de-motivation-e-exam/
+  public_id: 3319af2e0eed4e77a8dcdb2866fe6d44
+  pixel_url: https://vg09.met.vgwort.de/na/3319af2e0eed4e77a8dcdb2866fe6d44
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/lettre-de-motivation-e/
+  public_id: 20ac93c452764ba0b60c412e529b2ee9
+  pixel_url: https://vg09.met.vgwort.de/na/20ac93c452764ba0b60c412e529b2ee9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/podcasts-en-francais-e-exam/
+  public_id: 337b29329ffd4cbda2e7e47f262ae773
+  pixel_url: https://vg09.met.vgwort.de/na/337b29329ffd4cbda2e7e47f262ae773
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl09/units/podcasts-en-francais-e/
+  public_id: 21944f6b3bb94fd0a5f3a09700da05b0
+  pixel_url: https://vg09.met.vgwort.de/na/21944f6b3bb94fd0a5f3a09700da05b0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/
+  public_id: 22785e759724430483fb09ae3909f5e9
+  pixel_url: https://vg09.met.vgwort.de/na/22785e759724430483fb09ae3909f5e9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/uebersicht/
+  public_id: 22870f6691ab48a6abd011f035d73b10
+  pixel_url: https://vg09.met.vgwort.de/na/22870f6691ab48a6abd011f035d73b10
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/bilan-fin-sek-i-exam/
+  public_id: 34847217f89a438e885a182feda9ff4b
+  pixel_url: https://vg09.met.vgwort.de/na/34847217f89a438e885a182feda9ff4b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/bilan-fin-sek-i/
+  public_id: 23ac70699a38474b837e7dccc6b0e306
+  pixel_url: https://vg09.met.vgwort.de/na/23ac70699a38474b837e7dccc6b0e306
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/engagement-citoyen-e-exam/
+  public_id: 3450ebbc7ea044fcb23528bd98e94560
+  pixel_url: https://vg09.met.vgwort.de/na/3450ebbc7ea044fcb23528bd98e94560
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/engagement-citoyen-e/
+  public_id: 2333fa6f03aa41a1ac94461e646ad7e5
+  pixel_url: https://vg09.met.vgwort.de/na/2333fa6f03aa41a1ac94461e646ad7e5
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/extraits-romans-jeunes-exam/
+  public_id: 345ae605f26c4490b1767820bdd180d0
+  pixel_url: https://vg09.met.vgwort.de/na/345ae605f26c4490b1767820bdd180d0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/extraits-romans-jeunes/
+  public_id: 23514fe6ce47467495aafaa7bf033489
+  pixel_url: https://vg09.met.vgwort.de/na/23514fe6ce47467495aafaa7bf033489
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/francophonie-aujourd-hui-e-exam/
+  public_id: 340eab80af8c4ef8b7fcea8c4bb12339
+  pixel_url: https://vg09.met.vgwort.de/na/340eab80af8c4ef8b7fcea8c4bb12339
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/francophonie-aujourd-hui-e/
+  public_id: 22d2e7f4eb3a4a25b791dfd47c01ce00
+  pixel_url: https://vg09.met.vgwort.de/na/22d2e7f4eb3a4a25b791dfd47c01ce00
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/mediation-avancee-e-exam/
+  public_id: 34109cba81484a808d10f01e7a923c41
+  pixel_url: https://vg09.met.vgwort.de/na/34109cba81484a808d10f01e7a923c41
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/mediation-avancee-e/
+  public_id: 22f48257bcbb4d93a4e72c93acea5641
+  pixel_url: https://vg09.met.vgwort.de/na/22f48257bcbb4d93a4e72c93acea5641
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/mobilite-erasmus-jeune-e-exam/
+  public_id: 346beec4b5fd4c628decbd631bafada4
+  pixel_url: https://vg09.met.vgwort.de/na/346beec4b5fd4c628decbd631bafada4
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/mobilite-erasmus-jeune-e/
+  public_id: 2369166e6e5040b2a16f0a6d67bf2448
+  pixel_url: https://vg09.met.vgwort.de/na/2369166e6e5040b2a16f0a6d67bf2448
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/premiere-analyse-poesie-exam/
+  public_id: 340f1491dcf342c79cc8aef702857a3c
+  pixel_url: https://vg09.met.vgwort.de/na/340f1491dcf342c79cc8aef702857a3c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/premiere-analyse-poesie/
+  public_id: 22e9489ab4f644aa983aef5fb1ca54c1
+  pixel_url: https://vg09.met.vgwort.de/na/22e9489ab4f644aa983aef5fb1ca54c1
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/preparer-un-discours-e-exam/
+  public_id: 346cd1208e0b4d0683a76dddd465b255
+  pixel_url: https://vg09.met.vgwort.de/na/346cd1208e0b4d0683a76dddd465b255
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/preparer-un-discours-e/
+  public_id: 239e2e3de4544e8f9c244e8b18affaa9
+  pixel_url: https://vg09.met.vgwort.de/na/239e2e3de4544e8f9c244e8b18affaa9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/presse-francaise-e-exam/
+  public_id: 33fee803c6094df385f8ae8983de1feb
+  pixel_url: https://vg09.met.vgwort.de/na/33fee803c6094df385f8ae8983de1feb
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/presse-francaise-e/
+  public_id: 229e50e5b0024e609ceabe56f1477100
+  pixel_url: https://vg09.met.vgwort.de/na/229e50e5b0024e609ceabe56f1477100
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/reseaux-sociaux-e-exam/
+  public_id: 3455e6e4913b429fb47cfbf8d0a9943b
+  pixel_url: https://vg09.met.vgwort.de/na/3455e6e4913b429fb47cfbf8d0a9943b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/reseaux-sociaux-e/
+  public_id: 234bfe269c74485ab77d909071ff7d09
+  pixel_url: https://vg09.met.vgwort.de/na/234bfe269c74485ab77d909071ff7d09
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/transition-vers-la-kursstufe-exam/
+  public_id: 33f4b3384762466783a0451b6701345b
+  pixel_url: https://vg09.met.vgwort.de/na/33f4b3384762466783a0451b6701345b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/transition-vers-la-kursstufe/
+  public_id: 22942b64b98d40d29abf04097c686e70
+  pixel_url: https://vg09.met.vgwort.de/na/22942b64b98d40d29abf04097c686e70
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/vie-democratique-e-exam/
+  public_id: 3409d483da68404bb33a05eaabfa091b
+  pixel_url: https://vg09.met.vgwort.de/na/3409d483da68404bb33a05eaabfa091b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl10/units/vie-democratique-e/
+  public_id: 22b2a1b5245242d790aa01932d2f47f8
+  pixel_url: https://vg09.met.vgwort.de/na/22b2a1b5245242d790aa01932d2f47f8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/
+  public_id: 23b158a72df54f0684c5b2380c43a8e9
+  pixel_url: https://vg09.met.vgwort.de/na/23b158a72df54f0684c5b2380c43a8e9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/uebersicht/
+  public_id: 23b9d054097b44c1b183bc9386b002a2
+  pixel_url: https://vg09.met.vgwort.de/na/23b9d054097b44c1b183bc9386b002a2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/argumentation-structuree-exam/
+  public_id: 350cdd3012474794bb19e1a97a59999a
+  pixel_url: https://vg09.met.vgwort.de/na/350cdd3012474794bb19e1a97a59999a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/argumentation-structuree/
+  public_id: 24667e913e7041b598a105d378da2365
+  pixel_url: https://vg09.met.vgwort.de/na/24667e913e7041b598a105d378da2365
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/bilan-classe-11-exam/
+  public_id: 354387b669fb49b5a3d50efc566fa608
+  pixel_url: https://vg09.met.vgwort.de/na/354387b669fb49b5a3d50efc566fa608
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/bilan-classe-11/
+  public_id: 257c01928409408ba6e7d4a0220decf0
+  pixel_url: https://vg09.met.vgwort.de/na/257c01928409408ba6e7d4a0220decf0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/court-metrage-exam/
+  public_id: 34f0632ba9504042a1ad37b47bff695f
+  pixel_url: https://vg09.met.vgwort.de/na/34f0632ba9504042a1ad37b47bff695f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/court-metrage/
+  public_id: 24048dd28d9548129d882baf44bb78ed
+  pixel_url: https://vg09.met.vgwort.de/na/24048dd28d9548129d882baf44bb78ed
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/discours-politique-exam/
+  public_id: 35430823efdc465e810133c50486b7aa
+  pixel_url: https://vg09.met.vgwort.de/na/35430823efdc465e810133c50486b7aa
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/discours-politique/
+  public_id: 2536ff12d166404b8dc76a7c04c4e8ba
+  pixel_url: https://vg09.met.vgwort.de/na/2536ff12d166404b8dc76a7c04c4e8ba
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/ecologie-en-france-exam/
+  public_id: 354258b755264f4f94b81ac9ebebacc2
+  pixel_url: https://vg09.met.vgwort.de/na/354258b755264f4f94b81ac9ebebacc2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/ecologie-en-france/
+  public_id: 24d65356ca5c4a9cb8e69931c102e475
+  pixel_url: https://vg09.met.vgwort.de/na/24d65356ca5c4a9cb8e69931c102e475
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/ecrire-sur-soi-exam/
+  public_id: 348d71a011174c8b8bb3e880df06c494
+  pixel_url: https://vg09.met.vgwort.de/na/348d71a011174c8b8bb3e880df06c494
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/ecrire-sur-soi/
+  public_id: 23bb137c55914bc7b00964ee1179a29a
+  pixel_url: https://vg09.met.vgwort.de/na/23bb137c55914bc7b00964ee1179a29a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/extrait-roman-contemporain-exam/
+  public_id: 351ff1d31da4430aaa233273f5162c9b
+  pixel_url: https://vg09.met.vgwort.de/na/351ff1d31da4430aaa233273f5162c9b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/extrait-roman-contemporain/
+  public_id: 247b5965bd004d73bc5c70d6285335be
+  pixel_url: https://vg09.met.vgwort.de/na/247b5965bd004d73bc5c70d6285335be
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/francophonie-postcoloniale-exam/
+  public_id: 34c185ead43841a894873dc27a14376c
+  pixel_url: https://vg09.met.vgwort.de/na/34c185ead43841a894873dc27a14376c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/francophonie-postcoloniale/
+  public_id: 23c1f60ff5304f6994a8e23f1ce1853d
+  pixel_url: https://vg09.met.vgwort.de/na/23c1f60ff5304f6994a8e23f1ce1853d
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/histoire-et-memoire-exam/
+  public_id: 353281611f184fd580911e2083f71fef
+  pixel_url: https://vg09.met.vgwort.de/na/353281611f184fd580911e2083f71fef
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/histoire-et-memoire/
+  public_id: 24ad0cc701b249cda11083ad944267e7
+  pixel_url: https://vg09.met.vgwort.de/na/24ad0cc701b249cda11083ad944267e7
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/mediation-academique-exam/
+  public_id: 34f70cf6713241d1a88bfaa04101e95e
+  pixel_url: https://vg09.met.vgwort.de/na/34f70cf6713241d1a88bfaa04101e95e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/mediation-academique/
+  public_id: 2440fc3734314f58b767eb45a7218b48
+  pixel_url: https://vg09.met.vgwort.de/na/2440fc3734314f58b767eb45a7218b48
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/presse-d-opinion-exam/
+  public_id: 34dd18c21bb1428fb675dd9d022a34d2
+  pixel_url: https://vg09.met.vgwort.de/na/34dd18c21bb1428fb675dd9d022a34d2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/presse-d-opinion/
+  public_id: 23e3c50110a7408a847b42333d4c2acb
+  pixel_url: https://vg09.met.vgwort.de/na/23e3c50110a7408a847b42333d4c2acb
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/voix-feminines-exam/
+  public_id: 352710260fea4afab999fd3d00592dea
+  pixel_url: https://vg09.met.vgwort.de/na/352710260fea4afab999fd3d00592dea
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl11/units/voix-feminines/
+  public_id: 249d1a3fdcd748a180d5d0955d50b2f0
+  pixel_url: https://vg09.met.vgwort.de/na/249d1a3fdcd748a180d5d0955d50b2f0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/
+  public_id: 258d4552a089402a956ec9e3a040a6d0
+  pixel_url: https://vg09.met.vgwort.de/na/258d4552a089402a956ec9e3a040a6d0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/uebersicht/
+  public_id: 25963308ce3640a18d0df8bf95a90cf6
+  pixel_url: https://vg09.met.vgwort.de/na/25963308ce3640a18d0df8bf95a90cf6
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/analyse-stylistique-exam/
+  public_id: 25dc6085d07e4bc4ac5787975575497a
+  pixel_url: https://vg09.met.vgwort.de/na/25dc6085d07e4bc4ac5787975575497a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/analyse-stylistique/
+  public_id: 25cfae4a90814f878f65052554b61b1d
+  pixel_url: https://vg09.met.vgwort.de/na/25cfae4a90814f878f65052554b61b1d
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/argumenter-en-public-exam/
+  public_id: 26bed275b8f444e68bad2c4d0e79fdc2
+  pixel_url: https://vg09.met.vgwort.de/na/26bed275b8f444e68bad2c4d0e79fdc2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/argumenter-en-public/
+  public_id: 26b48723128f4015959b3675694789e5
+  pixel_url: https://vg09.met.vgwort.de/na/26b48723128f4015959b3675694789e5
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/bilan-12e-exam/
+  public_id: 26f09051db19441c9df6819f7138a24f
+  pixel_url: https://vg09.met.vgwort.de/na/26f09051db19441c9df6819f7138a24f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/bilan-12e/
+  public_id: 26de4bb7f9b14194bed87b1ba6307bb9
+  pixel_url: https://vg09.met.vgwort.de/na/26de4bb7f9b14194bed87b1ba6307bb9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/decolonisation-litteraire-exam/
+  public_id: 26123dac26cb4838b13ad1ae3f232db7
+  pixel_url: https://vg09.met.vgwort.de/na/26123dac26cb4838b13ad1ae3f232db7
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/decolonisation-litteraire/
+  public_id: 26116d55a91c4b0d966cc5257832a2a8
+  pixel_url: https://vg09.met.vgwort.de/na/26116d55a91c4b0d966cc5257832a2a8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/discours-radio-exam/
+  public_id: 266d8ce9a4a645cc8e6f089cfdf9fbf8
+  pixel_url: https://vg09.met.vgwort.de/na/266d8ce9a4a645cc8e6f089cfdf9fbf8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/discours-radio/
+  public_id: 266cd8bbbc3541d68348ad5f22fa22e8
+  pixel_url: https://vg09.met.vgwort.de/na/266cd8bbbc3541d68348ad5f22fa22e8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/etude-de-roman-exam/
+  public_id: 265919fc62d94c799a928a00ac2ce369
+  pixel_url: https://vg09.met.vgwort.de/na/265919fc62d94c799a928a00ac2ce369
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/etude-de-roman/
+  public_id: 2630bb98f7b143198523c44329149c24
+  pixel_url: https://vg09.met.vgwort.de/na/2630bb98f7b143198523c44329149c24
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/gender-litteraire-exam/
+  public_id: 2689e147898249899b5fb845c2c9cd15
+  pixel_url: https://vg09.met.vgwort.de/na/2689e147898249899b5fb845c2c9cd15
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/gender-litteraire/
+  public_id: 2677307697db44998cb51381d4dabeff
+  pixel_url: https://vg09.met.vgwort.de/na/2677307697db44998cb51381d4dabeff
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/introduire-camus-exam/
+  public_id: 3553fcaeef994072afbda6c3423d8df1
+  pixel_url: https://vg09.met.vgwort.de/na/3553fcaeef994072afbda6c3423d8df1
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/introduire-camus/
+  public_id: 259e53300da042d5a6daf303c7633722
+  pixel_url: https://vg09.met.vgwort.de/na/259e53300da042d5a6daf303c7633722
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/mediation-fr-de-exam/
+  public_id: 262602a15f5f4597b47b69add1235c22
+  pixel_url: https://vg09.met.vgwort.de/na/262602a15f5f4597b47b69add1235c22
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/mediation-fr-de/
+  public_id: 2623e5dfbbf14a188a39e25749b7805c
+  pixel_url: https://vg09.met.vgwort.de/na/2623e5dfbbf14a188a39e25749b7805c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/memoire-et-traumatisme-exam/
+  public_id: 26b0f3a982f248dab9b949e91c67ae47
+  pixel_url: https://vg09.met.vgwort.de/na/26b0f3a982f248dab9b949e91c67ae47
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/memoire-et-traumatisme/
+  public_id: 26a515dd09f9470e924102811aeb3cb5
+  pixel_url: https://vg09.met.vgwort.de/na/26a515dd09f9470e924102811aeb3cb5
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/preparer-l-abitur-ecrit-exam/
+  public_id: 26d03bbd04dc40b9b55eda997d793622
+  pixel_url: https://vg09.met.vgwort.de/na/26d03bbd04dc40b9b55eda997d793622
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/preparer-l-abitur-ecrit/
+  public_id: 26c3e2b4d6e64ecb8b3a2ad19ec8c12c
+  pixel_url: https://vg09.met.vgwort.de/na/26c3e2b4d6e64ecb8b3a2ad19ec8c12c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/presse-engagee-exam/
+  public_id: 26198eeaeab74a8490658a0fd8254c2e
+  pixel_url: https://vg09.met.vgwort.de/na/26198eeaeab74a8490658a0fd8254c2e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl12/units/presse-engagee/
+  public_id: 26168bca81d642529c92f8bb458671eb
+  pixel_url: https://vg09.met.vgwort.de/na/26168bca81d642529c92f8bb458671eb
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/
+  public_id: 26fddee2be7b4ffba26dc95ea73c7714
+  pixel_url: https://vg09.met.vgwort.de/na/26fddee2be7b4ffba26dc95ea73c7714
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/uebersicht/
+  public_id: 26ff71c35b6949fd98842b0f52397de9
+  pixel_url: https://vg09.met.vgwort.de/na/26ff71c35b6949fd98842b0f52397de9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/abitur-mock-1-exam/
+  public_id: 277b54479b8f43d2b8c46a0519d551cd
+  pixel_url: https://vg09.met.vgwort.de/na/277b54479b8f43d2b8c46a0519d551cd
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/abitur-mock-1/
+  public_id: 2770506845c34f75952c62f2129d4c94
+  pixel_url: https://vg09.met.vgwort.de/na/2770506845c34f75952c62f2129d4c94
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/abitur-mock-2-exam/
+  public_id: 27d5344de544429ebeef65510af69d40
+  pixel_url: https://vg09.met.vgwort.de/na/27d5344de544429ebeef65510af69d40
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/abitur-mock-2/
+  public_id: 27ae6ae5ade6488e8aa34c3db2134c29
+  pixel_url: https://vg09.met.vgwort.de/na/27ae6ae5ade6488e8aa34c3db2134c29
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/abitur-mock-final-exam/
+  public_id: 28952cdecb3e4f60b38e2fd4df0f8c00
+  pixel_url: https://vg09.met.vgwort.de/na/28952cdecb3e4f60b38e2fd4df0f8c00
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/abitur-mock-final/
+  public_id: 287c79c7c6454b7082d96d769fabfb1a
+  pixel_url: https://vg09.met.vgwort.de/na/287c79c7c6454b7082d96d769fabfb1a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/bilan-final-abitur-exam/
+  public_id: 28af4feae8b447f398125a3e70874767
+  pixel_url: https://vg09.met.vgwort.de/na/28af4feae8b447f398125a3e70874767
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/bilan-final-abitur/
+  public_id: 289e5a33ab96403fab2e00f9d5a08cc0
+  pixel_url: https://vg09.met.vgwort.de/na/289e5a33ab96403fab2e00f9d5a08cc0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/discussion-sur-stimulus-exam/
+  public_id: 28396372fbee415ab051e954741edd32
+  pixel_url: https://vg09.met.vgwort.de/na/28396372fbee415ab051e954741edd32
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/discussion-sur-stimulus/
+  public_id: 283735ce66d5448d8404fc2c773523bc
+  pixel_url: https://vg09.met.vgwort.de/na/283735ce66d5448d8404fc2c773523bc
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/essai-personnel-exam/
+  public_id: 274c4be7c5684b5fa472f70e9dbf4341
+  pixel_url: https://vg09.met.vgwort.de/na/274c4be7c5684b5fa472f70e9dbf4341
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/essai-personnel/
+  public_id: 273deb8fb1a44bc2944804cd4a9f96c7
+  pixel_url: https://vg09.met.vgwort.de/na/273deb8fb1a44bc2944804cd4a9f96c7
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/francophonie-pluralite-exam/
+  public_id: 27390d0eb6e84ca4b27e0c5e4e7e9d78
+  pixel_url: https://vg09.met.vgwort.de/na/27390d0eb6e84ca4b27e0c5e4e7e9d78
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/francophonie-pluralite/
+  public_id: 2738da1a4ff14bc4b7b8cefa2856d73f
+  pixel_url: https://vg09.met.vgwort.de/na/2738da1a4ff14bc4b7b8cefa2856d73f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/kommunikationspruefung-prep-exam/
+  public_id: 28369009e691411283ce354cf1b51b3c
+  pixel_url: https://vg09.met.vgwort.de/na/28369009e691411283ce354cf1b51b3c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/kommunikationspruefung-prep/
+  public_id: 2821fac53ec445558fb057d57318b531
+  pixel_url: https://vg09.met.vgwort.de/na/2821fac53ec445558fb057d57318b531
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/mediation-finale-exam/
+  public_id: 27f05f5acb614bdeb722f36d81c2f683
+  pixel_url: https://vg09.met.vgwort.de/na/27f05f5acb614bdeb722f36d81c2f683
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/mediation-finale/
+  public_id: 27d62c0470fc4b509bb9c9f65bb6c4c3
+  pixel_url: https://vg09.met.vgwort.de/na/27d62c0470fc4b509bb9c9f65bb6c4c3
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/monologue-et-presentation-exam/
+  public_id: 2850ccbc06d04407ba14f4aeb7378f7f
+  pixel_url: https://vg09.met.vgwort.de/na/2850ccbc06d04407ba14f4aeb7378f7f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/monologue-et-presentation/
+  public_id: 28482c3340804dee9f552faec15394c0
+  pixel_url: https://vg09.met.vgwort.de/na/28482c3340804dee9f552faec15394c0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/reflexion-sur-soi-exam/
+  public_id: 2879d973aa3c463e88753d58756feee2
+  pixel_url: https://vg09.met.vgwort.de/na/2879d973aa3c463e88753d58756feee2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/reflexion-sur-soi/
+  public_id: 286f0ff2bd094220b325d3e797afe6af
+  pixel_url: https://vg09.met.vgwort.de/na/286f0ff2bd094220b325d3e797afe6af
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/synthese-themes-litteraires-exam/
+  public_id: 272d2e5a4aa64386951faff5293a036c
+  pixel_url: https://vg09.met.vgwort.de/na/272d2e5a4aa64386951faff5293a036c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_e_kl13/units/synthese-themes-litteraires/
+  public_id: 271dbe5ae8e543ae8440759a3076a259
+  pixel_url: https://vg09.met.vgwort.de/na/271dbe5ae8e543ae8440759a3076a259
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/
+  public_id: 28b4d1dde71e4d269a4f381c8679b5d9
+  pixel_url: https://vg09.met.vgwort.de/na/28b4d1dde71e4d269a4f381c8679b5d9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/uebersicht/
+  public_id: 28bab522cdc4414a88c859f764669716
+  pixel_url: https://vg09.met.vgwort.de/na/28bab522cdc4414a88c859f764669716
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/au-marche-exam/
+  public_id: 29497cdec75d4a7ca72101358ed0f4c3
+  pixel_url: https://vg09.met.vgwort.de/na/29497cdec75d4a7ca72101358ed0f4c3
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/au-marche/
+  public_id: 29422f90ffb340368e6ae261d3803471
+  pixel_url: https://vg09.met.vgwort.de/na/29422f90ffb340368e6ae261d3803471
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/bilan-portrait-de-classe-exam/
+  public_id: 2ab3b278aea54af6b5ce6cedbca50c03
+  pixel_url: https://vg09.met.vgwort.de/na/2ab3b278aea54af6b5ce6cedbca50c03
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/bilan-portrait-de-classe/
+  public_id: 2a8d902b5a554b8593e0aadc99a3dd97
+  pixel_url: https://vg09.met.vgwort.de/na/2a8d902b5a554b8593e0aadc99a3dd97
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/j-aime-je-n-aime-pas-exam/
+  public_id: 291b49b504014edaaaf8d3c93859af58
+  pixel_url: https://vg09.met.vgwort.de/na/291b49b504014edaaaf8d3c93859af58
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/j-aime-je-n-aime-pas/
+  public_id: 2911775a1ce1414b849fc64bd9b53ed9
+  pixel_url: https://vg09.met.vgwort.de/na/2911775a1ce1414b849fc64bd9b53ed9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/la-meteo-et-les-saisons-exam/
+  public_id: 2a1be754d41c47c381418c7bfc4b4da2
+  pixel_url: https://vg09.met.vgwort.de/na/2a1be754d41c47c381418c7bfc4b4da2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/la-meteo-et-les-saisons/
+  public_id: 299de8e3d383432a93fa47956b63bebc
+  pixel_url: https://vg09.met.vgwort.de/na/299de8e3d383432a93fa47956b63bebc
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/le-temps-et-l-heure-exam/
+  public_id: 29920602421a4731b7a9ca8a1145ade9
+  pixel_url: https://vg09.met.vgwort.de/na/29920602421a4731b7a9ca8a1145ade9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/le-temps-et-l-heure/
+  public_id: 2988551bd0a0448ea944a90fd9ef1094
+  pixel_url: https://vg09.met.vgwort.de/na/2988551bd0a0448ea944a90fd9ef1094
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/ma-chambre-exam/
+  public_id: 2a3c32248eea41d2abc7c5856bc69947
+  pixel_url: https://vg09.met.vgwort.de/na/2a3c32248eea41d2abc7c5856bc69947
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/ma-chambre/
+  public_id: 2a23cd8ecdf04b5da01b398d69ef43e2
+  pixel_url: https://vg09.met.vgwort.de/na/2a23cd8ecdf04b5da01b398d69ef43e2
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/ma-famille-exam/
+  public_id: 28dc9c9ab6b148aaaa15e6d7f4a0d298
+  pixel_url: https://vg09.met.vgwort.de/na/28dc9c9ab6b148aaaa15e6d7f4a0d298
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/ma-famille/
+  public_id: 28d90bc5397040f7810b820383439c13
+  pixel_url: https://vg09.met.vgwort.de/na/28d90bc5397040f7810b820383439c13
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/ma-journee-exam/
+  public_id: 28f7cf0bfaeb4b83b4fe81b95652b927
+  pixel_url: https://vg09.met.vgwort.de/na/28f7cf0bfaeb4b83b4fe81b95652b927
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/ma-journee/
+  public_id: 28e5c97ec8fb46dba99023e6166e5619
+  pixel_url: https://vg09.met.vgwort.de/na/28e5c97ec8fb46dba99023e6166e5619
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/mes-loisirs-exam/
+  public_id: 2a6d1449a84244148ed04c25947ac3e6
+  pixel_url: https://vg09.met.vgwort.de/na/2a6d1449a84244148ed04c25947ac3e6
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/mes-loisirs/
+  public_id: 2a494e88adf74dbb8d66ebdb6bbbbeed
+  pixel_url: https://vg09.met.vgwort.de/na/2a494e88adf74dbb8d66ebdb6bbbbeed
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/mon-ecole-exam/
+  public_id: 28e3db50a6e5427997a53af9a4f577f7
+  pixel_url: https://vg09.met.vgwort.de/na/28e3db50a6e5427997a53af9a4f577f7
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/mon-ecole/
+  public_id: 28e22e581a474399ac126de180fd6101
+  pixel_url: https://vg09.met.vgwort.de/na/28e22e581a474399ac126de180fd6101
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/salutations-et-prenoms-exam/
+  public_id: 28d380a2bc4940d59e90022d21837e0b
+  pixel_url: https://vg09.met.vgwort.de/na/28d380a2bc4940d59e90022d21837e0b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/salutations-et-prenoms/
+  public_id: 28c51b14611d4eb7aadb04eecf7f10ea
+  pixel_url: https://vg09.met.vgwort.de/na/28c51b14611d4eb7aadb04eecf7f10ea
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/voyage-en-france-exam/
+  public_id: 2a8357f6d23641beac8e2b06e46c47b0
+  pixel_url: https://vg09.met.vgwort.de/na/2a8357f6d23641beac8e2b06e46c47b0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl06/units/voyage-en-france/
+  public_id: 2a7a2712c0ad45e0aaf423542cb4907c
+  pixel_url: https://vg09.met.vgwort.de/na/2a7a2712c0ad45e0aaf423542cb4907c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/
+  public_id: 2ac3fac658604d0bbc8c6cb181b632ca
+  pixel_url: https://vg09.met.vgwort.de/na/2ac3fac658604d0bbc8c6cb181b632ca
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/uebersicht/
+  public_id: 2acaef90ec9e47cfa56df73175d017e3
+  pixel_url: https://vg09.met.vgwort.de/na/2acaef90ec9e47cfa56df73175d017e3
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/amis-et-conflits-exam/
+  public_id: 2b4dfaa924114e719cebe99ed53dd002
+  pixel_url: https://vg09.met.vgwort.de/na/2b4dfaa924114e719cebe99ed53dd002
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/amis-et-conflits/
+  public_id: 2b40e0b531a140c38b546e2b2c0bda18
+  pixel_url: https://vg09.met.vgwort.de/na/2b40e0b531a140c38b546e2b2c0bda18
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/bilan-portrait-d-une-annee-exam/
+  public_id: 2c2cd87f073641af9768d6978c5e148d
+  pixel_url: https://vg09.met.vgwort.de/na/2c2cd87f073641af9768d6978c5e148d
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/bilan-portrait-d-une-annee/
+  public_id: 2c207093fff14e2eacdaa7836fbd7566
+  pixel_url: https://vg09.met.vgwort.de/na/2c207093fff14e2eacdaa7836fbd7566
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/fete-d-anniversaire-exam/
+  public_id: 2bea9220a8254d0eac7b2b53a444b39f
+  pixel_url: https://vg09.met.vgwort.de/na/2bea9220a8254d0eac7b2b53a444b39f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/fete-d-anniversaire/
+  public_id: 2be291a3b9fd4e72a263115d0dd86ca8
+  pixel_url: https://vg09.met.vgwort.de/na/2be291a3b9fd4e72a263115d0dd86ca8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/le-quebec-exam/
+  public_id: 2bbaba2a05e64898ad1fa4dc58bb65e1
+  pixel_url: https://vg09.met.vgwort.de/na/2bbaba2a05e64898ad1fa4dc58bb65e1
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/le-quebec/
+  public_id: 2bb3df2b8c1b4ecba14ef33dc51c40a0
+  pixel_url: https://vg09.met.vgwort.de/na/2bb3df2b8c1b4ecba14ef33dc51c40a0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/les-repas-exam/
+  public_id: 2b2ead359aff4e66a9f3a6add5314d08
+  pixel_url: https://vg09.met.vgwort.de/na/2b2ead359aff4e66a9f3a6add5314d08
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/les-repas/
+  public_id: 2b2689b78ce246e99c86011397c621a3
+  pixel_url: https://vg09.met.vgwort.de/na/2b2689b78ce246e99c86011397c621a3
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/les-transports-exam/
+  public_id: 2b8efb61d5bb4c2983a644bebcdeb788
+  pixel_url: https://vg09.met.vgwort.de/na/2b8efb61d5bb4c2983a644bebcdeb788
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/les-transports/
+  public_id: 2b8a7685d2174a05850e9e597fd5c4e9
+  pixel_url: https://vg09.met.vgwort.de/na/2b8a7685d2174a05850e9e597fd5c4e9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/ma-rentree-exam/
+  public_id: 2af8614c0c844e32aea42748a3e02181
+  pixel_url: https://vg09.met.vgwort.de/na/2af8614c0c844e32aea42748a3e02181
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/ma-rentree/
+  public_id: 2ad7dcf97ba5435290d16b55875198de
+  pixel_url: https://vg09.met.vgwort.de/na/2ad7dcf97ba5435290d16b55875198de
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/mediation-de-base-exam/
+  public_id: 2c18ad58edb040b98bdef0c312c968f8
+  pixel_url: https://vg09.met.vgwort.de/na/2c18ad58edb040b98bdef0c312c968f8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/mediation-de-base/
+  public_id: 2c10613c65aa4895bc293d8c5732bf18
+  pixel_url: https://vg09.met.vgwort.de/na/2c10613c65aa4895bc293d8c5732bf18
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/mon-quartier-exam/
+  public_id: 2b20f45dd84c4abe88407dfffdb521d1
+  pixel_url: https://vg09.met.vgwort.de/na/2b20f45dd84c4abe88407dfffdb521d1
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/mon-quartier/
+  public_id: 2b07ec00c17943ebba012fc821fb4e28
+  pixel_url: https://vg09.met.vgwort.de/na/2b07ec00c17943ebba012fc821fb4e28
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/musique-et-clips-exam/
+  public_id: 2c0d87ac0e1047ceb9e79c0f750f994a
+  pixel_url: https://vg09.met.vgwort.de/na/2c0d87ac0e1047ceb9e79c0f750f994a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/musique-et-clips/
+  public_id: 2c0b00ad370748b6a8ce86518ff2149a
+  pixel_url: https://vg09.met.vgwort.de/na/2c0b00ad370748b6a8ce86518ff2149a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/raconter-le-week-end-exam/
+  public_id: 2afbc53f81d74d6b8b1c7f575e71fd17
+  pixel_url: https://vg09.met.vgwort.de/na/2afbc53f81d74d6b8b1c7f575e71fd17
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/raconter-le-week-end/
+  public_id: 2afa2b7e1d934c17ab686fdd4a176b72
+  pixel_url: https://vg09.met.vgwort.de/na/2afa2b7e1d934c17ab686fdd4a176b72
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/vacances-en-famille-exam/
+  public_id: 2ba75e9eee46450b81b1f1c09360b15a
+  pixel_url: https://vg09.met.vgwort.de/na/2ba75e9eee46450b81b1f1c09360b15a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl07/units/vacances-en-famille/
+  public_id: 2b9428905e6c47f1a3568903c1ee9cae
+  pixel_url: https://vg09.met.vgwort.de/na/2b9428905e6c47f1a3568903c1ee9cae
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/
+  public_id: 2c32ca894703496f94a3878cc3693c9f
+  pixel_url: https://vg09.met.vgwort.de/na/2c32ca894703496f94a3878cc3693c9f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/uebersicht/
+  public_id: 2c5bdfb79a5442d18f7d3afecf892bf9
+  pixel_url: https://vg09.met.vgwort.de/na/2c5bdfb79a5442d18f7d3afecf892bf9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/autour-de-la-planete-francophone-exam/
+  public_id: 2ccc072dc75346598022eac0e98a14ff
+  pixel_url: https://vg09.met.vgwort.de/na/2ccc072dc75346598022eac0e98a14ff
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/autour-de-la-planete-francophone/
+  public_id: 2cbab0747e7f4990b89da2c4e46a7232
+  pixel_url: https://vg09.met.vgwort.de/na/2cbab0747e7f4990b89da2c4e46a7232
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/bilan-portrait-d-une-rencontre-exam/
+  public_id: 2d802ca1b9874e7b94dea05f074fe41a
+  pixel_url: https://vg09.met.vgwort.de/na/2d802ca1b9874e7b94dea05f074fe41a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/bilan-portrait-d-une-rencontre/
+  public_id: 2d76d05a48ce45b3a7f8efd697e66c36
+  pixel_url: https://vg09.met.vgwort.de/na/2d76d05a48ce45b3a7f8efd697e66c36
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/cinema-quebecois-exam/
+  public_id: 2d4f5ee4271f44c2b48119add0710f7c
+  pixel_url: https://vg09.met.vgwort.de/na/2d4f5ee4271f44c2b48119add0710f7c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/cinema-quebecois/
+  public_id: 2d37cb99a2a24175a031ebc52f43834b
+  pixel_url: https://vg09.met.vgwort.de/na/2d37cb99a2a24175a031ebc52f43834b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/correspondance-avec-montreal-exam/
+  public_id: 2c852f6cf095441e991fbebdd397f75a
+  pixel_url: https://vg09.met.vgwort.de/na/2c852f6cf095441e991fbebdd397f75a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/correspondance-avec-montreal/
+  public_id: 2c5fd8b7b43d40a9b54e67ceaf81f43b
+  pixel_url: https://vg09.met.vgwort.de/na/2c5fd8b7b43d40a9b54e67ceaf81f43b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/futurs-projets-exam/
+  public_id: 2cd9f4e13af441b28dd692563efbecee
+  pixel_url: https://vg09.met.vgwort.de/na/2cd9f4e13af441b28dd692563efbecee
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/futurs-projets/
+  public_id: 2cd7f2d63023444089d081b10fed872e
+  pixel_url: https://vg09.met.vgwort.de/na/2cd7f2d63023444089d081b10fed872e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/mes-medias-preferes-exam/
+  public_id: 2c9f2a62586f4d499a6722df45603486
+  pixel_url: https://vg09.met.vgwort.de/na/2c9f2a62586f4d499a6722df45603486
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/mes-medias-preferes/
+  public_id: 2c8a013f5f2842189a8058530fcf96af
+  pixel_url: https://vg09.met.vgwort.de/na/2c8a013f5f2842189a8058530fcf96af
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/musiques-du-maghreb-exam/
+  public_id: 2cfca18457ce4832b1067fe263528d9c
+  pixel_url: https://vg09.met.vgwort.de/na/2cfca18457ce4832b1067fe263528d9c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/musiques-du-maghreb/
+  public_id: 2cfab95fb94346f2a39d7f7037df11b7
+  pixel_url: https://vg09.met.vgwort.de/na/2cfab95fb94346f2a39d7f7037df11b7
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/sport-et-equipe-exam/
+  public_id: 2d145412efb34007b1cc80574778c229
+  pixel_url: https://vg09.met.vgwort.de/na/2d145412efb34007b1cc80574778c229
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/sport-et-equipe/
+  public_id: 2d10b580ba1a44a99cd1c11075084176
+  pixel_url: https://vg09.met.vgwort.de/na/2d10b580ba1a44a99cd1c11075084176
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/sprachmittlung-de-fr-resume-exam/
+  public_id: 2ceefb6645d5437d87ddfcbf9d625bea
+  pixel_url: https://vg09.met.vgwort.de/na/2ceefb6645d5437d87ddfcbf9d625bea
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/sprachmittlung-de-fr-resume/
+  public_id: 2cee0756b51c447881e0cf4fb2ad5f32
+  pixel_url: https://vg09.met.vgwort.de/na/2cee0756b51c447881e0cf4fb2ad5f32
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/stereotypes-et-prejuges-exam/
+  public_id: 2d2e5c7c3baa4fef9c3d65b7b5ef28bd
+  pixel_url: https://vg09.met.vgwort.de/na/2d2e5c7c3baa4fef9c3d65b7b5ef28bd
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/stereotypes-et-prejuges/
+  public_id: 2d2cf003fb334dcd96a7c1b9f6a4209b
+  pixel_url: https://vg09.met.vgwort.de/na/2d2cf003fb334dcd96a7c1b9f6a4209b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/un-allemand-a-paris-exam/
+  public_id: 2d1ab4cda3f44b8390d7335179c030f0
+  pixel_url: https://vg09.met.vgwort.de/na/2d1ab4cda3f44b8390d7335179c030f0
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/un-allemand-a-paris/
+  public_id: 2d173fcb5bea4f8cbc968217a61af6a4
+  pixel_url: https://vg09.met.vgwort.de/na/2d173fcb5bea4f8cbc968217a61af6a4
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/un-projet-solidaire-exam/
+  public_id: 2d75c1bc09aa44acb3fd5fd3f7e7c98d
+  pixel_url: https://vg09.met.vgwort.de/na/2d75c1bc09aa44acb3fd5fd3f7e7c98d
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl08/units/un-projet-solidaire/
+  public_id: 2d5feea5516749f38183922b8a174e0c
+  pixel_url: https://vg09.met.vgwort.de/na/2d5feea5516749f38183922b8a174e0c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/
+  public_id: 2d8b1da63eb649a596b3e957c4755318
+  pixel_url: https://vg09.met.vgwort.de/na/2d8b1da63eb649a596b3e957c4755318
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/uebersicht/
+  public_id: 2d8d7a317d2f44129bbc5887321ec267
+  pixel_url: https://vg09.met.vgwort.de/na/2d8d7a317d2f44129bbc5887321ec267
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/argumenter-pour-contre-exam/
+  public_id: 2e45f900dd5e446f8a8d6002f9da935e
+  pixel_url: https://vg09.met.vgwort.de/na/2e45f900dd5e446f8a8d6002f9da935e
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/argumenter-pour-contre/
+  public_id: 2e332f8a71d541159f35e8a15bb97735
+  pixel_url: https://vg09.met.vgwort.de/na/2e332f8a71d541159f35e8a15bb97735
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/consommation-responsable-exam/
+  public_id: 2eedc41392b14f6b81dba6ba36b41574
+  pixel_url: https://vg09.met.vgwort.de/na/2eedc41392b14f6b81dba6ba36b41574
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/consommation-responsable/
+  public_id: 2ed435d7246b4d4c9387457ebc756767
+  pixel_url: https://vg09.met.vgwort.de/na/2ed435d7246b4d4c9387457ebc756767
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/differences-culturelles-exam/
+  public_id: 2ea37f13104845d3ad9519c74845bdb4
+  pixel_url: https://vg09.met.vgwort.de/na/2ea37f13104845d3ad9519c74845bdb4
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/differences-culturelles/
+  public_id: 2e9ba058210c47a5afdece47bf49fe84
+  pixel_url: https://vg09.met.vgwort.de/na/2e9ba058210c47a5afdece47bf49fe84
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/ecologie-au-quotidien-exam/
+  public_id: 2e31527170a9495f8e9a2b335877a2b5
+  pixel_url: https://vg09.met.vgwort.de/na/2e31527170a9495f8e9a2b335877a2b5
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/ecologie-au-quotidien/
+  public_id: 2e1807a2c0c14311bcaeff4478e8d0b9
+  pixel_url: https://vg09.met.vgwort.de/na/2e1807a2c0c14311bcaeff4478e8d0b9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/francais-au-travail-exam/
+  public_id: 2ef752de69b94b71a8e538e742f7ac48
+  pixel_url: https://vg09.met.vgwort.de/na/2ef752de69b94b71a8e538e742f7ac48
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/francais-au-travail/
+  public_id: 2eef60e9d8b54dac92ed63cde4abc105
+  pixel_url: https://vg09.met.vgwort.de/na/2eef60e9d8b54dac92ed63cde4abc105
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/harcelement-et-respect-exam/
+  public_id: 2e93b7491c424a08ba1439693a91ee23
+  pixel_url: https://vg09.met.vgwort.de/na/2e93b7491c424a08ba1439693a91ee23
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/harcelement-et-respect/
+  public_id: 2e8350ade2ab4affade9ec52f9fed908
+  pixel_url: https://vg09.met.vgwort.de/na/2e8350ade2ab4affade9ec52f9fed908
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/internet-et-vie-privee-exam/
+  public_id: 2ec1e368c1424e158e69c3dd7c4fb395
+  pixel_url: https://vg09.met.vgwort.de/na/2ec1e368c1424e158e69c3dd7c4fb395
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/internet-et-vie-privee/
+  public_id: 2ec0ab6995d0405dac7040152346130c
+  pixel_url: https://vg09.met.vgwort.de/na/2ec0ab6995d0405dac7040152346130c
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/le-monde-du-travail-exam/
+  public_id: 2dc6f34d06ae4cf2a339b77b93339555
+  pixel_url: https://vg09.met.vgwort.de/na/2dc6f34d06ae4cf2a339b77b93339555
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/le-monde-du-travail/
+  public_id: 2d9efd254a624164a84cbf62d12a81c3
+  pixel_url: https://vg09.met.vgwort.de/na/2d9efd254a624164a84cbf62d12a81c3
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/lettre-de-motivation-exam/
+  public_id: 2df593e8f9424e92ac46ea83310f2efe
+  pixel_url: https://vg09.met.vgwort.de/na/2df593e8f9424e92ac46ea83310f2efe
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/lettre-de-motivation/
+  public_id: 2de1880116d94255b076daf9c43b40d6
+  pixel_url: https://vg09.met.vgwort.de/na/2de1880116d94255b076daf9c43b40d6
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/podcasts-en-francais-exam/
+  public_id: 2e7d0210eb9c41c4969afc6339715cba
+  pixel_url: https://vg09.met.vgwort.de/na/2e7d0210eb9c41c4969afc6339715cba
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/podcasts-en-francais/
+  public_id: 2e72425156544419b79c860c5ed696a8
+  pixel_url: https://vg09.met.vgwort.de/na/2e72425156544419b79c860c5ed696a8
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/preparation-mittlere-reife-exam/
+  public_id: 2f00ec4200644cd2b2266f1d74f01a06
+  pixel_url: https://vg09.met.vgwort.de/na/2f00ec4200644cd2b2266f1d74f01a06
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/preparation-mittlere-reife/
+  public_id: 2effee652d1f43dbb5d3088ab2cd1582
+  pixel_url: https://vg09.met.vgwort.de/na/2effee652d1f43dbb5d3088ab2cd1582
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/vivre-en-tunisie-exam/
+  public_id: 2e4d7b9fff744438bb5d569d4fd39931
+  pixel_url: https://vg09.met.vgwort.de/na/2e4d7b9fff744438bb5d569d4fd39931
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl09/units/vivre-en-tunisie/
+  public_id: 2e4bfca5e91c499ba60408e1c9b890c3
+  pixel_url: https://vg09.met.vgwort.de/na/2e4bfca5e91c499ba60408e1c9b890c3
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/
+  public_id: 2f051bac8e144f4eb4a4ed63de6b70ad
+  pixel_url: https://vg09.met.vgwort.de/na/2f051bac8e144f4eb4a4ed63de6b70ad
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/uebersicht/
+  public_id: 2f1361fc08fb4c38bda7d17b486fde41
+  pixel_url: https://vg09.met.vgwort.de/na/2f1361fc08fb4c38bda7d17b486fde41
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/bilan-fin-de-mittlere-reife-exam/
+  public_id: 3078ded4e55f4163acb391f664649a30
+  pixel_url: https://vg09.met.vgwort.de/na/3078ded4e55f4163acb391f664649a30
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/bilan-fin-de-mittlere-reife/
+  public_id: 306d68df9c5541bdaea1cf6aeb0df111
+  pixel_url: https://vg09.met.vgwort.de/na/306d68df9c5541bdaea1cf6aeb0df111
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/engagement-citoyen-exam/
+  public_id: 2fa9ff1e86c6434eaa1eda02fe139ce3
+  pixel_url: https://vg09.met.vgwort.de/na/2fa9ff1e86c6434eaa1eda02fe139ce3
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/engagement-citoyen/
+  public_id: 2fa48f05cdf24373b0601de6ecd67d0a
+  pixel_url: https://vg09.met.vgwort.de/na/2fa48f05cdf24373b0601de6ecd67d0a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/francophonie-aujourd-hui-exam/
+  public_id: 2f843897d8a54fdab5b75883e054423a
+  pixel_url: https://vg09.met.vgwort.de/na/2f843897d8a54fdab5b75883e054423a
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/francophonie-aujourd-hui/
+  public_id: 2f7b98b7fa1d4ae28451718dc2d4ba82
+  pixel_url: https://vg09.met.vgwort.de/na/2f7b98b7fa1d4ae28451718dc2d4ba82
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/litterature-de-jeunesse-exam/
+  public_id: 2fefa9784e774db89543692102d877b1
+  pixel_url: https://vg09.met.vgwort.de/na/2fefa9784e774db89543692102d877b1
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/litterature-de-jeunesse/
+  public_id: 2fe6a666eed842b5b9d4c8411d12bca3
+  pixel_url: https://vg09.met.vgwort.de/na/2fe6a666eed842b5b9d4c8411d12bca3
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/mediation-avancee-exam/
+  public_id: 2fa18330cb2341bbbeded08f4349a19d
+  pixel_url: https://vg09.met.vgwort.de/na/2fa18330cb2341bbbeded08f4349a19d
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/mediation-avancee/
+  public_id: 2f9d644f34654a6392bbe0260b2cba81
+  pixel_url: https://vg09.met.vgwort.de/na/2f9d644f34654a6392bbe0260b2cba81
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/mobilite-erasmus-jeune-exam/
+  public_id: 303d88de19954ae8bb4a9fc288a37fee
+  pixel_url: https://vg09.met.vgwort.de/na/303d88de19954ae8bb4a9fc288a37fee
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/mobilite-erasmus-jeune/
+  public_id: 3010a31425534cf4bc4194604450ae6b
+  pixel_url: https://vg09.met.vgwort.de/na/3010a31425534cf4bc4194604450ae6b
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/preparer-un-discours-exam/
+  public_id: 305cf83b2f0a461aa1c7a3bafa693201
+  pixel_url: https://vg09.met.vgwort.de/na/305cf83b2f0a461aa1c7a3bafa693201
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/preparer-un-discours/
+  public_id: 3058d551812048e6be83734ba35f56bc
+  pixel_url: https://vg09.met.vgwort.de/na/3058d551812048e6be83734ba35f56bc
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/presse-francaise-exam/
+  public_id: 2f693b9dbf584beabe5f1453b1cd9a5f
+  pixel_url: https://vg09.met.vgwort.de/na/2f693b9dbf584beabe5f1453b1cd9a5f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/presse-francaise/
+  public_id: 2f5770bd0de140369701d47b52e631de
+  pixel_url: https://vg09.met.vgwort.de/na/2f5770bd0de140369701d47b52e631de
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/raconter-une-histoire-vraie-exam/
+  public_id: 2f8e036396e8431a8b4336498e0c6c7f
+  pixel_url: https://vg09.met.vgwort.de/na/2f8e036396e8431a8b4336498e0c6c7f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/raconter-une-histoire-vraie/
+  public_id: 2f8717b1a6a34013a3665cdd10195970
+  pixel_url: https://vg09.met.vgwort.de/na/2f8717b1a6a34013a3665cdd10195970
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/reseaux-sociaux-exam/
+  public_id: 2fe28c4081fd46fa9ecbcc202cb88f55
+  pixel_url: https://vg09.met.vgwort.de/na/2fe28c4081fd46fa9ecbcc202cb88f55
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/reseaux-sociaux/
+  public_id: 2fd8af06ce924dafb03ffd16a0ed15c9
+  pixel_url: https://vg09.met.vgwort.de/na/2fd8af06ce924dafb03ffd16a0ed15c9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/transition-formation-emploi-exam/
+  public_id: 2f2f160e167c4d5680fc2ec22415facb
+  pixel_url: https://vg09.met.vgwort.de/na/2f2f160e167c4d5680fc2ec22415facb
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/transition-formation-emploi/
+  public_id: 2f139f63d98f4c90a37e3c130f154a18
+  pixel_url: https://vg09.met.vgwort.de/na/2f139f63d98f4c90a37e3c130f154a18
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/vie-democratique-exam/
+  public_id: 2f7856b037d54367bdc7ac19552cf777
+  pixel_url: https://vg09.met.vgwort.de/na/2f7856b037d54367bdc7ac19552cf777
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme
+- url: /track_gm_kl10/units/vie-democratique/
+  public_id: 2f78091cc7e748629b8eda26247682e9
+  pixel_url: https://vg09.met.vgwort.de/na/2f78091cc7e748629b8eda26247682e9
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: unknown-pre-programme

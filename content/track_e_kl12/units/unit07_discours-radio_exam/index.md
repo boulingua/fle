@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "discours-radio-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/266d8ce9a4a645cc8e6f089cfdf9fbf8"
 tags:
   - filiere-e
   - classe-12

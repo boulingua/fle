@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - listening
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d37cb99a2a24175a031ebc52f43834b"
 presentation:
   file: "/fle/materials/presentations/unit10_cinema-quebecois.pdf"
   thumbnail: "/fle/materials/presentations/unit10_cinema-quebecois.png"

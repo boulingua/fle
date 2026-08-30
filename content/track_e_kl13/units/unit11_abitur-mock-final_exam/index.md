@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "abitur-mock-final-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28952cdecb3e4f60b38e2fd4df0f8c00"
 tags:
   - filiere-e
   - classe-13

@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2e4bfca5e91c499ba60408e1c9b890c3"
 presentation:
   file: "/fle/materials/presentations/unit05_vivre-en-tunisie.pdf"
   thumbnail: "/fle/materials/presentations/unit05_vivre-en-tunisie.png"

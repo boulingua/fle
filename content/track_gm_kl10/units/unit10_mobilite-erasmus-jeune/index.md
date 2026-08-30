@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - listening
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3010a31425534cf4bc4194604450ae6b"
 presentation:
   file: "/fle/materials/presentations/unit10_mobilite-erasmus-jeune.pdf"
   thumbnail: "/fle/materials/presentations/unit10_mobilite-erasmus-jeune.png"

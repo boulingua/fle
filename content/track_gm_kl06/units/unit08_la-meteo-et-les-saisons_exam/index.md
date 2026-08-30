@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "la-meteo-et-les-saisons-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2a1be754d41c47c381418c7bfc4b4da2"
 tags:
   - filiere-gm
   - classe-6

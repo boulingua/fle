@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "consommation-responsable-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/33cf9d145bda4378ae19cfbeb1b10aad"
 tags:
   - filiere-e
   - classe-9

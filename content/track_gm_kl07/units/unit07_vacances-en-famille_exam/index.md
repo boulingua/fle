@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "vacances-en-famille-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2ba75e9eee46450b81b1f1c09360b15a"
 tags:
   - filiere-gm
   - classe-7

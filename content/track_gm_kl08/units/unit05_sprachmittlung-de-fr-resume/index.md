@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
 skills_focus:
 - mediation
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2cee0756b51c447881e0cf4fb2ad5f32"
 presentation:
   file: "/fle/materials/presentations/unit05_sprachmittlung-de-fr-resume.pdf"
   thumbnail: "/fle/materials/presentations/unit05_sprachmittlung-de-fr-resume.png"

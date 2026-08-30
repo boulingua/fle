@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1cc72e861eb34259885839f78065b5eb"
 presentation:
   file: "/fle/materials/presentations/unit08_premiere-poesie.pdf"
   thumbnail: "/fle/materials/presentations/unit08_premiere-poesie.png"

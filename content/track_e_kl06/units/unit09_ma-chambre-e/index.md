@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1cf1f0ac23dd4b61b4e2f639b9cfb251"
 presentation:
   file: "/fle/materials/presentations/unit09_ma-chambre-e.pdf"
   thumbnail: "/fle/materials/presentations/unit09_ma-chambre-e.png"

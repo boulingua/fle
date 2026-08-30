@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-12e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26f09051db19441c9df6819f7138a24f"
 tags:
   - filiere-e
   - classe-12

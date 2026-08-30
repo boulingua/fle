@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "presse-engagee-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26198eeaeab74a8490658a0fd8254c2e"
 tags:
   - filiere-e
   - classe-12

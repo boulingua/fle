@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "vie-democratique-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3409d483da68404bb33a05eaabfa091b"
 tags:
   - filiere-e
   - classe-10

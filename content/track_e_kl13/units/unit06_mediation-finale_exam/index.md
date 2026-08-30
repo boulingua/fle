@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "mediation-finale-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/27f05f5acb614bdeb722f36d81c2f683"
 tags:
   - filiere-e
   - classe-13

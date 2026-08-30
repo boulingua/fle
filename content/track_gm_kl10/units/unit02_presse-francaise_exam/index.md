@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "presse-francaise-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2f693b9dbf584beabe5f1453b1cd9a5f"
 tags:
   - filiere-gm
   - classe-10

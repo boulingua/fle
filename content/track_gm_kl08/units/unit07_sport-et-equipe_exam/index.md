@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "sport-et-equipe-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d145412efb34007b1cc80574778c229"
 tags:
   - filiere-gm
   - classe-8

@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "mediation-avancee-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/34109cba81484a808d10f01e7a923c41"
 tags:
   - filiere-e
   - classe-10

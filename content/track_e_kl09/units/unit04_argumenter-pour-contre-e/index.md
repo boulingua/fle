@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/20fb736bae274f39b7592c310e63802b"
 presentation:
   file: "/fle/materials/presentations/unit04_argumenter-pour-contre-e.pdf"
   thumbnail: "/fle/materials/presentations/unit04_argumenter-pour-contre-e.png"

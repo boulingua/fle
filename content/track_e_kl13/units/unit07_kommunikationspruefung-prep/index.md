@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2821fac53ec445558fb057d57318b531"
 presentation:
   file: "/fle/materials/presentations/unit07_kommunikationspruefung-prep.pdf"
   thumbnail: "/fle/materials/presentations/unit07_kommunikationspruefung-prep.png"

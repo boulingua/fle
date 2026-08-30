@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2536ff12d166404b8dc76a7c04c4e8ba"
 presentation:
   file: "/fle/materials/presentations/unit11_discours-politique.pdf"
   thumbnail: "/fle/materials/presentations/unit11_discours-politique.png"

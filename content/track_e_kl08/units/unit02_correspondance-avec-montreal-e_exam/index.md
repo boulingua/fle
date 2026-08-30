@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "correspondance-avec-montreal-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/321fdae4df6a4c498c6c5f44304773e2"
 tags:
   - filiere-e
   - classe-8

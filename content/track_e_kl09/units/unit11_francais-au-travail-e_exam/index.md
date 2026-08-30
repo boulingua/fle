@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "francais-au-travail-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/33d26db87ed149ff96248fc053f7a249"
 tags:
   - filiere-e
   - classe-9

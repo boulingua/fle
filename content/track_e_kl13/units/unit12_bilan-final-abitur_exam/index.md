@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-final-abitur-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28af4feae8b447f398125a3e70874767"
 tags:
   - filiere-e
   - classe-13

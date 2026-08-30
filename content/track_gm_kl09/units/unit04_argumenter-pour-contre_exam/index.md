@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "argumenter-pour-contre-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2e45f900dd5e446f8a8d6002f9da935e"
 tags:
   - filiere-gm
   - classe-9

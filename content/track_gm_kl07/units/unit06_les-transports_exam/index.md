@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "les-transports-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2b8efb61d5bb4c2983a644bebcdeb788"
 tags:
   - filiere-gm
   - classe-7

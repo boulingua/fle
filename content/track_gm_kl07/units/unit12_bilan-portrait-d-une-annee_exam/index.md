@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-portrait-d-une-annee-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2c2cd87f073641af9768d6978c5e148d"
 tags:
   - filiere-gm
   - classe-7

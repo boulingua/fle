@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/22d2e7f4eb3a4a25b791dfd47c01ce00"
 presentation:
   file: "/fle/materials/presentations/unit04_francophonie-aujourd-hui-e.pdf"
   thumbnail: "/fle/materials/presentations/unit04_francophonie-aujourd-hui-e.png"

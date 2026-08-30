@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1daae2f35b9c444ab20d81a6f7116593"
 presentation:
   file: "/fle/materials/presentations/unit02_raconter-une-anecdote.pdf"
   thumbnail: "/fle/materials/presentations/unit02_raconter-une-anecdote.png"

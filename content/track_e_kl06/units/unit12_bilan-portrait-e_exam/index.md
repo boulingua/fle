@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-portrait-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/311c4e7086804f098c8c58b5aa49c388"
 tags:
   - filiere-e
   - classe-6

@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "preparer-un-discours-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/346cd1208e0b4d0683a76dddd465b255"
 tags:
   - filiere-e
   - classe-10

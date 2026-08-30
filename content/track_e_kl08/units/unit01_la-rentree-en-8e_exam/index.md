@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "la-rentree-en-8e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/320796b113e0484eafd0bebbb899bb95"
 tags:
   - filiere-e
   - classe-8

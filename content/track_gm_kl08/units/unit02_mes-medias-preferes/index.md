@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2c8a013f5f2842189a8058530fcf96af"
 presentation:
   file: "/fle/materials/presentations/unit02_mes-medias-preferes.pdf"
   thumbnail: "/fle/materials/presentations/unit02_mes-medias-preferes.png"

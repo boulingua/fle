@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "ma-chambre-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/30ec9426b6e945d98496a992c0c3ea1f"
 tags:
   - filiere-e
   - classe-6

@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "le-petit-nicolas-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/334ccd3344bc40e99cad39f92a920565"
 tags:
   - filiere-e
   - classe-9

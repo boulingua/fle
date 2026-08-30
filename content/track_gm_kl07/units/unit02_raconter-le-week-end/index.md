@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2afa2b7e1d934c17ab686fdd4a176b72"
 presentation:
   file: "/fle/materials/presentations/unit02_raconter-le-week-end.pdf"
   thumbnail: "/fle/materials/presentations/unit02_raconter-le-week-end.png"

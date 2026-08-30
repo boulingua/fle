@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-fin-sek-i-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/34847217f89a438e885a182feda9ff4b"
 tags:
   - filiere-e
   - classe-10

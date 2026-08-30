@@ -11,7 +11,6 @@ bildungsplan:
   - "3.1.3.6 Médiation linguistique"
 skills_focus:
 - mediation
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2623e5dfbbf14a188a39e25749b7805c"
 presentation:
   file: "/fle/materials/presentations/unit05_mediation-fr-de.pdf"
   thumbnail: "/fle/materials/presentations/unit05_mediation-fr-de.png"

@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "monologue-et-presentation-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2850ccbc06d04407ba14f4aeb7378f7f"
 tags:
   - filiere-e
   - classe-13

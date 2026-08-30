@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "vie-democratique-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2f7856b037d54367bdc7ac19552cf777"
 tags:
   - filiere-gm
   - classe-10

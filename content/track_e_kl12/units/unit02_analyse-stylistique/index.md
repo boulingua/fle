@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/25cfae4a90814f878f65052554b61b1d"
 presentation:
   file: "/fle/materials/presentations/unit02_analyse-stylistique.pdf"
   thumbnail: "/fle/materials/presentations/unit02_analyse-stylistique.png"

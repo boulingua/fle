@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-progres-7e-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/31fb222af0bc4ecca8ba793692b14358"
 tags:
   - filiere-e
   - classe-7

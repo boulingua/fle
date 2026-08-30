@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "premiere-poesie-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/30ea7518fc2a4e2da5548747a1df9d6d"
 tags:
   - filiere-e
   - classe-6

@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - language_awareness
 - listening
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2b8a7685d2174a05850e9e597fd5c4e9"
 presentation:
   file: "/fle/materials/presentations/unit06_les-transports.pdf"
   thumbnail: "/fle/materials/presentations/unit06_les-transports.png"

@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-portrait-d-une-rencontre-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/32f7b60130ec4e08a945c46ac470b65c"
 tags:
   - filiere-e
   - classe-8

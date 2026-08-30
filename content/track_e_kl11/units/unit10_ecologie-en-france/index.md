@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/24d65356ca5c4a9cb8e69931c102e475"
 presentation:
   file: "/fle/materials/presentations/unit10_ecologie-en-france.pdf"
   thumbnail: "/fle/materials/presentations/unit10_ecologie-en-france.png"

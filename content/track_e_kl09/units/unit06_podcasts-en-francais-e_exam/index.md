@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "podcasts-en-francais-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/337b29329ffd4cbda2e7e47f262ae773"
 tags:
   - filiere-e
   - classe-9

@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d76d05a48ce45b3a7f8efd697e66c36"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.pdf"
   thumbnail: "/fle/materials/presentations/unit12_bilan-portrait-d-une-rencontre.png"

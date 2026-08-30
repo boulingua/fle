@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "cinema-quebecois-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d4f5ee4271f44c2b48119add0710f7c"
 tags:
   - filiere-gm
   - classe-8

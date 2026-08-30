@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "les-repas-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2b2ead359aff4e66a9f3a6add5314d08"
 tags:
   - filiere-gm
   - classe-7

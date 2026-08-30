@@ -11,7 +11,6 @@ bildungsplan:
   - "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1d834043ec3c475f803b7de41647b7b4"
 presentation:
   file: "/fle/materials/presentations/unit01_la-rentree-e.pdf"
   thumbnail: "/fle/materials/presentations/unit01_la-rentree-e.png"

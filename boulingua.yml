@@ -46,5 +46,5 @@ gates:
   curriculum: warn
 
 vgwort:
-  registry: data/vgwort.yaml    # only 2 entries; 349 marks live in front matter
+  registry: data/vgwort.yaml    # all 351; the 349 front-matter marks moved in at R1.2
   url_lock: vgwort/url-lock-provisional.csv

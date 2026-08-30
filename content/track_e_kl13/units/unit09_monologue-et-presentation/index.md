@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28482c3340804dee9f552faec15394c0"
 presentation:
   file: "/fle/materials/presentations/unit09_monologue-et-presentation.pdf"
   thumbnail: "/fle/materials/presentations/unit09_monologue-et-presentation.png"

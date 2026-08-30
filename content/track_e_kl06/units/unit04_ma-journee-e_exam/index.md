@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "ma-journee-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/30bddfa716244010af4b59e129927390"
 tags:
   - filiere-e
   - classe-6

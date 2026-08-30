@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "engagement-citoyen-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2fa9ff1e86c6434eaa1eda02fe139ce3"
 tags:
   - filiere-gm
   - classe-10

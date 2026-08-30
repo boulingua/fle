@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "preparation-mittlere-reife-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2f00ec4200644cd2b2266f1d74f01a06"
 tags:
   - filiere-gm
   - classe-9

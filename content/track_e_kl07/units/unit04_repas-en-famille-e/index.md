@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - listening
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1deb0c44c1d547e7b08f880286ad8e3e"
 presentation:
   file: "/fle/materials/presentations/unit04_repas-en-famille-e.pdf"
   thumbnail: "/fle/materials/presentations/unit04_repas-en-famille-e.png"

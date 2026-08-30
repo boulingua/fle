@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "memoire-et-traumatisme-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26b0f3a982f248dab9b949e91c67ae47"
 tags:
   - filiere-e
   - classe-12

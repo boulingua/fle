@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "la-rentree-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/313e43adbbb44feea0ae5e0be2ab726f"
 tags:
   - filiere-e
   - classe-7

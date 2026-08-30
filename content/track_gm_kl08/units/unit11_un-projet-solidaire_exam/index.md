@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "un-projet-solidaire-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d75c1bc09aa44acb3fd5fd3f7e7c98d"
 tags:
   - filiere-gm
   - classe-8

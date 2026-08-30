@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "argumenter-en-public-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26bed275b8f444e68bad2c4d0e79fdc2"
 tags:
   - filiere-e
   - classe-12

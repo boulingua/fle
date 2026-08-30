@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_production
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26116d55a91c4b0d966cc5257832a2a8"
 presentation:
   file: "/fle/materials/presentations/unit03_decolonisation-litteraire.pdf"
   thumbnail: "/fle/materials/presentations/unit03_decolonisation-litteraire.png"

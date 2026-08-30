@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "un-allemand-a-paris-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d1ab4cda3f44b8390d7335179c030f0"
 tags:
   - filiere-gm
   - classe-8

@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "mes-loisirs-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/31087a959ea34fa18217bc8a560e9894"
 tags:
   - filiere-e
   - classe-6

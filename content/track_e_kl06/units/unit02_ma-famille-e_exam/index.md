@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "ma-famille-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/30a7fdee7808486286d9ef9948c8f979"
 tags:
   - filiere-e
   - classe-6

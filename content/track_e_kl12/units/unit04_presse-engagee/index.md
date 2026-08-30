@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26168bca81d642529c92f8bb458671eb"
 presentation:
   file: "/fle/materials/presentations/unit04_presse-engagee.pdf"
   thumbnail: "/fle/materials/presentations/unit04_presse-engagee.png"

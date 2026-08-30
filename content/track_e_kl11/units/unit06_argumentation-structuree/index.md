@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/24667e913e7041b598a105d378da2365"
 presentation:
   file: "/fle/materials/presentations/unit06_argumentation-structuree.pdf"
   thumbnail: "/fle/materials/presentations/unit06_argumentation-structuree.png"

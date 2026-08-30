@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "mediation-avancee-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2fa18330cb2341bbbeded08f4349a19d"
 tags:
   - filiere-gm
   - classe-10

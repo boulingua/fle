@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/22e9489ab4f644aa983aef5fb1ca54c1"
 presentation:
   file: "/fle/materials/presentations/unit05_premiere-analyse-poesie.pdf"
   thumbnail: "/fle/materials/presentations/unit05_premiere-analyse-poesie.png"

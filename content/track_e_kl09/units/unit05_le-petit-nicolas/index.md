@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2130a38685a04ceb939fd6540e22db5e"
 presentation:
   file: "/fle/materials/presentations/unit05_le-petit-nicolas.pdf"
   thumbnail: "/fle/materials/presentations/unit05_le-petit-nicolas.png"

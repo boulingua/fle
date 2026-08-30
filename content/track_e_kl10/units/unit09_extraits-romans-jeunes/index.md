@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
-vgwort_pixel: "https://vg09.met.vgwort.de/na/23514fe6ce47467495aafaa7bf033489"
 presentation:
   file: "/fle/materials/presentations/unit09_extraits-romans-jeunes.pdf"
   thumbnail: "/fle/materials/presentations/unit09_extraits-romans-jeunes.png"

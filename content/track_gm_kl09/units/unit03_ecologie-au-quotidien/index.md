@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2e1807a2c0c14311bcaeff4478e8d0b9"
 presentation:
   file: "/fle/materials/presentations/unit03_ecologie-au-quotidien.pdf"
   thumbnail: "/fle/materials/presentations/unit03_ecologie-au-quotidien.png"

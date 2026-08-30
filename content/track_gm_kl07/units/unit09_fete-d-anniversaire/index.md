@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2be291a3b9fd4e72a263115d0dd86ca8"
 presentation:
   file: "/fle/materials/presentations/unit09_fete-d-anniversaire.pdf"
   thumbnail: "/fle/materials/presentations/unit09_fete-d-anniversaire.png"

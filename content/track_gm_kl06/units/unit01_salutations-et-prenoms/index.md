@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.3.9 Moyens linguistiques — prononciation und Intonation"
 skills_focus:
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28c51b14611d4eb7aadb04eecf7f10ea"
 presentation:
   file: "/fle/materials/presentations/unit01_salutations-et-prenoms.pdf"
   thumbnail: "/fle/materials/presentations/unit01_salutations-et-prenoms.png"

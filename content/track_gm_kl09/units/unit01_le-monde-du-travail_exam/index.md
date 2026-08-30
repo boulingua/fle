@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "le-monde-du-travail-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2dc6f34d06ae4cf2a339b77b93339555"
 tags:
   - filiere-gm
   - classe-9

@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "transition-formation-emploi-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2f2f160e167c4d5680fc2ec22415facb"
 tags:
   - filiere-gm
   - classe-10

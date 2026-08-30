@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1eee4a8671094fd0916e5ebc9152b7b5"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-progres-7e-e.pdf"
   thumbnail: "/fle/materials/presentations/unit12_bilan-progres-7e-e.png"

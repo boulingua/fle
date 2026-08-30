@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "francophonie-postcoloniale-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/34c185ead43841a894873dc27a14376c"
 tags:
   - filiere-e
   - classe-11

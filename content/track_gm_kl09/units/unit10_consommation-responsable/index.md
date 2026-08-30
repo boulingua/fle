@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2ed435d7246b4d4c9387457ebc756767"
 presentation:
   file: "/fle/materials/presentations/unit10_consommation-responsable.pdf"
   thumbnail: "/fle/materials/presentations/unit10_consommation-responsable.png"

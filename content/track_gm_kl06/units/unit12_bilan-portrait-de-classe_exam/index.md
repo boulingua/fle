@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-portrait-de-classe-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2ab3b278aea54af6b5ce6cedbca50c03"
 tags:
   - filiere-gm
   - classe-6

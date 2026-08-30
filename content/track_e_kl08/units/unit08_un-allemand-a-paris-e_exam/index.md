@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "un-allemand-a-paris-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/325e9d5b9f194a92b4d98ac5fe11a8dc"
 tags:
   - filiere-e
   - classe-8

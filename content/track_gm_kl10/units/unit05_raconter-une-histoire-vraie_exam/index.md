@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "raconter-une-histoire-vraie-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2f8e036396e8431a8b4336498e0c6c7f"
 tags:
   - filiere-gm
   - classe-10

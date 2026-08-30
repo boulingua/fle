@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - intercultural
 - reading
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2bb3df2b8c1b4ecba14ef33dc51c40a0"
 presentation:
   file: "/fle/materials/presentations/unit08_le-quebec.pdf"
   thumbnail: "/fle/materials/presentations/unit08_le-quebec.png"

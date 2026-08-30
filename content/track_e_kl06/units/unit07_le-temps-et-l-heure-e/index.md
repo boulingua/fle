@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1cbd28f22e49412bb639408b6651d29e"
 presentation:
   file: "/fle/materials/presentations/unit07_le-temps-et-l-heure-e.pdf"
   thumbnail: "/fle/materials/presentations/unit07_le-temps-et-l-heure-e.png"

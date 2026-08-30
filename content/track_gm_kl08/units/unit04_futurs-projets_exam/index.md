@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "futurs-projets-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2cd9f4e13af441b28dd692563efbecee"
 tags:
   - filiere-gm
   - classe-8

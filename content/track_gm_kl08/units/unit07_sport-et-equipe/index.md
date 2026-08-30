@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2d10b580ba1a44a99cd1c11075084176"
 presentation:
   file: "/fle/materials/presentations/unit07_sport-et-equipe.pdf"
   thumbnail: "/fle/materials/presentations/unit07_sport-et-equipe.png"

@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - listening
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1fe85d7bd9394244ad645671223ffa02"
 presentation:
   file: "/fle/materials/presentations/unit06_musiques-du-maghreb-e.pdf"
   thumbnail: "/fle/materials/presentations/unit06_musiques-du-maghreb-e.png"

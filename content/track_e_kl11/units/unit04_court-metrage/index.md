@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - listening
-vgwort_pixel: "https://vg09.met.vgwort.de/na/24048dd28d9548129d882baf44bb78ed"
 presentation:
   file: "/fle/materials/presentations/unit04_court-metrage.pdf"
   thumbnail: "/fle/materials/presentations/unit04_court-metrage.png"

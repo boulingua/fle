@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "voyage-decouverte-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3113bbc94b61488695d2fd4b930f0865"
 tags:
   - filiere-e
   - classe-6

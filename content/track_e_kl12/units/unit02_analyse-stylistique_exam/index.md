@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "analyse-stylistique-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/25dc6085d07e4bc4ac5787975575497a"
 tags:
   - filiere-e
   - classe-12

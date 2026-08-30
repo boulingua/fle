@@ -11,7 +11,6 @@ bildungsplan:
   - "3.1.3.6 Médiation linguistique"
 skills_focus:
 - mediation
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1fd5bffa9385441f86ade8d3c69fee08"
 presentation:
   file: "/fle/materials/presentations/unit05_sprachmittlung-de-fr-resume-e.pdf"
   thumbnail: "/fle/materials/presentations/unit05_sprachmittlung-de-fr-resume-e.png"

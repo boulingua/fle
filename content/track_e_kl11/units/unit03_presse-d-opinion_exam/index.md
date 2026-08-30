@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "presse-d-opinion-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/34dd18c21bb1428fb675dd9d022a34d2"
 tags:
   - filiere-e
   - classe-11

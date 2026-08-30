@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "extrait-roman-contemporain-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/351ff1d31da4430aaa233273f5162c9b"
 tags:
   - filiere-e
   - classe-11

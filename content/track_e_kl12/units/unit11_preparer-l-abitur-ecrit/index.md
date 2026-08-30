@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26c3e2b4d6e64ecb8b3a2ad19ec8c12c"
 presentation:
   file: "/fle/materials/presentations/unit11_preparer-l-abitur-ecrit.pdf"
   thumbnail: "/fle/materials/presentations/unit11_preparer-l-abitur-ecrit.png"

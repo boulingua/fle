@@ -13,7 +13,6 @@ bildungsplan:
   - "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
 - listening
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2a7a2712c0ad45e0aaf423542cb4907c"
 presentation:
   file: "/fle/materials/presentations/unit11_voyage-en-france.pdf"
   thumbnail: "/fle/materials/presentations/unit11_voyage-en-france.png"

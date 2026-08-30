@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1d18bbfe5cd943ef9b25d280cafa0493"
 presentation:
   file: "/fle/materials/presentations/unit10_mes-loisirs-e.pdf"
   thumbnail: "/fle/materials/presentations/unit10_mes-loisirs-e.png"

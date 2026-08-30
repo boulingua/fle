@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "le-temps-et-l-heure-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/29920602421a4731b7a9ca8a1145ade9"
 tags:
   - filiere-gm
   - classe-6

@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/21cfaaabf95444a28b45212a5d5221dd"
 presentation:
   file: "/fle/materials/presentations/unit07_harcelement-et-respect-e.pdf"
   thumbnail: "/fle/materials/presentations/unit07_harcelement-et-respect-e.png"

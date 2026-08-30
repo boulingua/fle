@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "autour-de-la-planete-francophone-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3236b91a0d674dc788091b2a64ee0114"
 tags:
   - filiere-e
   - classe-8

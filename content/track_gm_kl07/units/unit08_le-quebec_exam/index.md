@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "le-quebec-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2bbaba2a05e64898ad1fa4dc58bb65e1"
 tags:
   - filiere-gm
   - classe-7

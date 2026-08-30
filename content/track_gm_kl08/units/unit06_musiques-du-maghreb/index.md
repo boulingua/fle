@@ -13,7 +13,6 @@ bildungsplan:
   - "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
 - listening
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2cfab95fb94346f2a39d7f7037df11b7"
 presentation:
   file: "/fle/materials/presentations/unit06_musiques-du-maghreb.pdf"
   thumbnail: "/fle/materials/presentations/unit06_musiques-du-maghreb.png"

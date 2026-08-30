@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "au-marche-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/30d51632b61f40f88f0a74b59787aa38"
 tags:
   - filiere-e
   - classe-6

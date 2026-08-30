@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "premiere-mediation-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/31f9a1afa1054d4b998b427fc55d0885"
 tags:
   - filiere-e
   - classe-7

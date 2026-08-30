@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/21fa0a9be3f14b0faced0416c84d7c37"
 presentation:
   file: "/fle/materials/presentations/unit09_internet-et-vie-privee-e.pdf"
   thumbnail: "/fle/materials/presentations/unit09_internet-et-vie-privee-e.png"

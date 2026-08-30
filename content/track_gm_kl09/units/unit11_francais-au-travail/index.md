@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - mediation
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2eef60e9d8b54dac92ed63cde4abc105"
 presentation:
   file: "/fle/materials/presentations/unit11_francais-au-travail.pdf"
   thumbnail: "/fle/materials/presentations/unit11_francais-au-travail.png"

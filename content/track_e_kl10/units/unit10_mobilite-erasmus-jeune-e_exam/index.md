@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "mobilite-erasmus-jeune-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/346beec4b5fd4c628decbd631bafada4"
 tags:
   - filiere-e
   - classe-10

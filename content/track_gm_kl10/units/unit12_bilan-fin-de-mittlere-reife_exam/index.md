@@ -8,7 +8,6 @@ unit_nr: 12
 slug: "bilan-fin-de-mittlere-reife-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3078ded4e55f4163acb391f664649a30"
 tags:
   - filiere-gm
   - classe-10

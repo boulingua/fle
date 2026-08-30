@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "mon-quartier-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2b20f45dd84c4abe88407dfffdb521d1"
 tags:
   - filiere-gm
   - classe-7

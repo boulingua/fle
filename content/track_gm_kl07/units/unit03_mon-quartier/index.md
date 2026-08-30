@@ -14,7 +14,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2b07ec00c17943ebba012fc821fb4e28"
 presentation:
   file: "/fle/materials/presentations/unit03_mon-quartier.pdf"
   thumbnail: "/fle/materials/presentations/unit03_mon-quartier.png"

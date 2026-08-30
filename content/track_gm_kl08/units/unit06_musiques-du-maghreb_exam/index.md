@@ -8,7 +8,6 @@ unit_nr: 6
 slug: "musiques-du-maghreb-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2cfca18457ce4832b1067fe263528d9c"
 tags:
   - filiere-gm
   - classe-8

@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "discours-politique-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/35430823efdc465e810133c50486b7aa"
 tags:
   - filiere-e
   - classe-11

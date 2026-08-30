@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "mon-ecole-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28e3db50a6e5427997a53af9a4f577f7"
 tags:
   - filiere-gm
   - classe-6

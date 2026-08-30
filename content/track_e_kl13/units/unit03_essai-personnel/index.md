@@ -11,7 +11,6 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
 skills_focus:
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/273deb8fb1a44bc2944804cd4a9f96c7"
 presentation:
   file: "/fle/materials/presentations/unit03_essai-personnel.pdf"
   thumbnail: "/fle/materials/presentations/unit03_essai-personnel.png"

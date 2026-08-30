@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "gouts-et-couleurs-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/30cfbb19ea734dfe8836d66b7b1efe00"
 tags:
   - filiere-e
   - classe-6

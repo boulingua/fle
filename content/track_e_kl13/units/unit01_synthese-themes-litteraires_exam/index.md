@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "synthese-themes-litteraires-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/272d2e5a4aa64386951faff5293a036c"
 tags:
   - filiere-e
   - classe-13

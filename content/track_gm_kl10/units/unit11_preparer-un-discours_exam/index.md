@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "preparer-un-discours-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/305cf83b2f0a461aa1c7a3bafa693201"
 tags:
   - filiere-gm
   - classe-10

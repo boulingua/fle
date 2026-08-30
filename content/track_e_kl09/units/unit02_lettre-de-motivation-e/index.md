@@ -11,7 +11,6 @@ bildungsplan:
   - "3.1.3.5 Expression écrite"
 skills_focus:
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/20ac93c452764ba0b60c412e529b2ee9"
 presentation:
   file: "/fle/materials/presentations/unit02_lettre-de-motivation-e.pdf"
   thumbnail: "/fle/materials/presentations/unit02_lettre-de-motivation-e.png"

@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "histoire-et-memoire-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/353281611f184fd580911e2083f71fef"
 tags:
   - filiere-e
   - classe-11

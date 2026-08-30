@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1c9ad1b4184c402aac2bd735f7b04be8"
 presentation:
   file: "/fle/materials/presentations/unit05_gouts-et-couleurs.pdf"
   thumbnail: "/fle/materials/presentations/unit05_gouts-et-couleurs.png"

@@ -8,7 +8,6 @@ unit_nr: 2
 slug: "raconter-une-anecdote-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/315d50f7003b4d9992a242929464872f"
 tags:
   - filiere-e
   - classe-7

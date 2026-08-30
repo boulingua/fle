@@ -2,7 +2,6 @@
 page_type: reference
 title: "À propos de ce site"
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1b0fa7ed30714a48b7aa855c4468901b"
 aliases:
   - "/a_propos.html"
 ---

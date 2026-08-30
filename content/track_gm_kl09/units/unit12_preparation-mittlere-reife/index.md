@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2effee652d1f43dbb5d3088ab2cd1582"
 presentation:
   file: "/fle/materials/presentations/unit12_preparation-mittlere-reife.pdf"
   thumbnail: "/fle/materials/presentations/unit12_preparation-mittlere-reife.png"

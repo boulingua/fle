@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - listening
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2c0b00ad370748b6a8ce86518ff2149a"
 presentation:
   file: "/fle/materials/presentations/unit10_musique-et-clips.pdf"
   thumbnail: "/fle/materials/presentations/unit10_musique-et-clips.png"

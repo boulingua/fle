@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/289e5a33ab96403fab2e00f9d5a08cc0"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-final-abitur.pdf"
   thumbnail: "/fle/materials/presentations/unit12_bilan-final-abitur.png"

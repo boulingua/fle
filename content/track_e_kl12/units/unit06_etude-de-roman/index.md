@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - reading
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2630bb98f7b143198523c44329149c24"
 presentation:
   file: "/fle/materials/presentations/unit06_etude-de-roman.pdf"
   thumbnail: "/fle/materials/presentations/unit06_etude-de-roman.png"

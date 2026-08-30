@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "introduire-camus-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3553fcaeef994072afbda6c3423d8df1"
 tags:
   - filiere-e
   - classe-12

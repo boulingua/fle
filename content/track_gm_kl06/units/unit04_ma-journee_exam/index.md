@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "ma-journee-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28f7cf0bfaeb4b83b4fe81b95652b927"
 tags:
   - filiere-gm
   - classe-6

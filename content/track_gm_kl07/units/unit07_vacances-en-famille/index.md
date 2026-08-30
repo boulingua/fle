@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2b9428905e6c47f1a3568903c1ee9cae"
 presentation:
   file: "/fle/materials/presentations/unit07_vacances-en-famille.pdf"
   thumbnail: "/fle/materials/presentations/unit07_vacances-en-famille.png"

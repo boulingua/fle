@@ -12,7 +12,6 @@ bildungsplan:
   - "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - speaking_interaction
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2ad7dcf97ba5435290d16b55875198de"
 presentation:
   file: "/fle/materials/presentations/unit01_ma-rentree.pdf"
   thumbnail: "/fle/materials/presentations/unit01_ma-rentree.png"

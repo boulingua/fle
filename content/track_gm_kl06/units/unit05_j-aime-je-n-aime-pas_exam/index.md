@@ -8,7 +8,6 @@ unit_nr: 5
 slug: "j-aime-je-n-aime-pas-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/291b49b504014edaaaf8d3c93859af58"
 tags:
   - filiere-gm
   - classe-6

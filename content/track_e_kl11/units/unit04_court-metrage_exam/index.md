@@ -8,7 +8,6 @@ unit_nr: 4
 slug: "court-metrage-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/34f0632ba9504042a1ad37b47bff695f"
 tags:
   - filiere-e
   - classe-11

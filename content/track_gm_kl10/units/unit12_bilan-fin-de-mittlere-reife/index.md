@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/306d68df9c5541bdaea1cf6aeb0df111"
 presentation:
   file: "/fle/materials/presentations/unit12_bilan-fin-de-mittlere-reife.pdf"
   thumbnail: "/fle/materials/presentations/unit12_bilan-fin-de-mittlere-reife.png"

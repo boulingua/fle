@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_interaction
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2fa48f05cdf24373b0601de6ecd67d0a"
 presentation:
   file: "/fle/materials/presentations/unit07_engagement-citoyen.pdf"
   thumbnail: "/fle/materials/presentations/unit07_engagement-citoyen.png"

@@ -8,7 +8,6 @@ unit_nr: 8
 slug: "gender-litteraire-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2689e147898249899b5fb845c2c9cd15"
 tags:
   - filiere-e
   - classe-12

@@ -8,7 +8,6 @@ unit_nr: 7
 slug: "harcelement-et-respect-e-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/3399a0cea2474604a7ff034e986f871c"
 tags:
   - filiere-e
   - classe-9

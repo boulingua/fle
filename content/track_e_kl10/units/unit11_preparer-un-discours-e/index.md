@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - speaking_production
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/239e2e3de4544e8f9c244e8b18affaa9"
 presentation:
   file: "/fle/materials/presentations/unit11_preparer-un-discours-e.pdf"
   thumbnail: "/fle/materials/presentations/unit11_preparer-un-discours-e.png"

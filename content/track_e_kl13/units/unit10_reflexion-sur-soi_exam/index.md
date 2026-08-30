@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "reflexion-sur-soi-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2879d973aa3c463e88753d58756feee2"
 tags:
   - filiere-e
   - classe-13

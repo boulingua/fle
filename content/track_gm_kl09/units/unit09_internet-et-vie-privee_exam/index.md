@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "internet-et-vie-privee-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2ec1e368c1424e158e69c3dd7c4fb395"
 tags:
   - filiere-gm
   - classe-9

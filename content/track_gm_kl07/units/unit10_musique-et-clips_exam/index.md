@@ -8,7 +8,6 @@ unit_nr: 10
 slug: "musique-et-clips-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2c0d87ac0e1047ceb9e79c0f750f994a"
 tags:
   - filiere-gm
   - classe-7

@@ -8,7 +8,6 @@ unit_nr: 3
 slug: "decolonisation-litteraire-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/26123dac26cb4838b13ad1ae3f232db7"
 tags:
   - filiere-e
   - classe-12

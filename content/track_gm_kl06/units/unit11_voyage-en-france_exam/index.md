@@ -8,7 +8,6 @@ unit_nr: 11
 slug: "voyage-en-france-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/2a8357f6d23641beac8e2b06e46c47b0"
 tags:
   - filiere-gm
   - classe-6

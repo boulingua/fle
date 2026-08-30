@@ -13,7 +13,6 @@ bildungsplan:
 skills_focus:
 - listening
 - writing
-vgwort_pixel: "https://vg09.met.vgwort.de/na/1e2fea4751d84155b260e58898e695aa"
 presentation:
   file: "/fle/materials/presentations/unit07_vacances-en-bretagne.pdf"
   thumbnail: "/fle/materials/presentations/unit07_vacances-en-bretagne.png"

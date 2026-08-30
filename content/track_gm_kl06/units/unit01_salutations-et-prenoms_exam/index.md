@@ -8,7 +8,6 @@ unit_nr: 1
 slug: "salutations-et-prenoms-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/28d380a2bc4940d59e90022d21837e0b"
 tags:
   - filiere-gm
   - classe-6

@@ -8,7 +8,6 @@ unit_nr: 9
 slug: "fete-et-invitations-exam"
 page_type: exam
 author: "S. Le Boulanger"
-vgwort_pixel: "https://vg09.met.vgwort.de/na/31d54d3280694d27960a391eed3b4e40"
 tags:
   - filiere-e
   - classe-7

@@ -1,6 +1,7 @@
 ---
 page_type: appendix
 title: "Glossaire"
+author: "S. Le Boulanger"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1b270a106f4a4ba6832ede51984a98a2"
 aliases:
   - "/annexes/glossaire.html"

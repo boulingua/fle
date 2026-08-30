@@ -7,6 +7,7 @@ track: e
 classes: [6, 7, 8, 9, 10, 11, 12, 13]
 aliases:
   - "/filiere-e/index.html"
+author: "S. Le Boulanger"
 ---
 
 Huit cours, **96 unités** au total. Visée : baccalauréat équivalent

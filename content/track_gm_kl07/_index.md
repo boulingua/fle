@@ -1,6 +1,7 @@
 ---
 page_type: section
 title: "Classe 7 — Niveau G+M"
+author: "S. Le Boulanger"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/2ac3fac658604d0bbc8c6cb181b632ca"
 aliases:
   - "/track_gm_kl07/index.html"

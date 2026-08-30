@@ -7,6 +7,7 @@ track: gm
 classes: [6, 7, 8, 9, 10]
 aliases:
   - "/filiere-gm/index.html"
+author: "S. Le Boulanger"
 ---
 
 Cinq cours, **60 unités** au total. Visée : diplôme de fin de scolarité

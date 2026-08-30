@@ -1,6 +1,7 @@
 ---
 page_type: reference
 title: "classe 11 — Plan hebdomadaire"
+author: "S. Le Boulanger"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/23b9d054097b44c1b183bc9386b002a2"
 aliases:
   - "/track_e_kl11/uebersicht.html"

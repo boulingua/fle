@@ -1,6 +1,7 @@
 ---
 page_type: reference
 title: "Références"
+author: "S. Le Boulanger"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1bade19f819b4d6e9db2c34547365e7b"
 aliases:
   - "/references.html"

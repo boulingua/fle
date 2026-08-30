@@ -1,6 +1,7 @@
 ---
 page_type: reference
 title: "Remerciements"
+author: "S. Le Boulanger"
 vgwort_pixel: "https://vg09.met.vgwort.de/na/1bb3265dec3c417eb42cf4acbd1f6130"
 aliases:
   - "/remerciements.html"

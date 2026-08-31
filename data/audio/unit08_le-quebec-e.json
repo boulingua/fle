@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "déjeuner · dîner · souper · un char · un chum / une blonde · magasiner · un dépanneur · une tuque · la fin de semaine · c'est plate",
-    "file": "/fle/materials/audio/unit08_le-quebec-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_le-quebec-e/vocab1.ogg",
+    "tts": "déjeuner.\ndîner.\nsouper.\nun char.\nun chum / une blonde.\nmagasiner.\nun dépanneur.\nune tuque.\nla fin de semaine.\nc'est plate."
   },
   {
     "label": "Dialogue 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Respect de la consigne (les 4 contenus demandés) · Réemploi correct de 3 québécismes · Cohérence et enchaînement (connecteurs) · Correction linguistique (temps, orthographe) · Longueur (~120 mots) et format  lettre · Total",
-    "file": "/fle/materials/audio/unit08_le-quebec-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit08_le-quebec-e/vocab2.ogg",
+    "tts": "Respect de la consigne (les 4 contenus demandés).\nRéemploi correct de 3 québécismes.\nCohérence et enchaînement (connecteurs).\nCorrection linguistique (temps, orthographe).\nLongueur (~120 mots) et format  lettre.\nTotal."
   }
 ]

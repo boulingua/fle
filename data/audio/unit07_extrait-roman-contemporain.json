@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "l'incipit (m.) · la focalisation · le·la narrateur·rice · le rythme · le registre · le motif · le dénouement · une antiphrase",
-    "file": "/fle/materials/audio/unit07_extrait-roman-contemporain/vocab1.ogg"
+    "file": "/fle/materials/audio/unit07_extrait-roman-contemporain/vocab1.ogg",
+    "tts": "l'incipit (m.).\nla focalisation.\nle·la narrateur·rice.\nle rythme.\nle registre.\nle motif.\nle dénouement.\nune antiphrase."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Compréhension du passage · Outils d'analyse · Justification par le texte · Langue · Structure",
-    "file": "/fle/materials/audio/unit07_extrait-roman-contemporain/vocab2.ogg"
+    "file": "/fle/materials/audio/unit07_extrait-roman-contemporain/vocab2.ogg",
+    "tts": "Compréhension du passage.\nOutils d'analyse.\nJustification par le texte.\nLangue.\nStructure."
   }
 ]

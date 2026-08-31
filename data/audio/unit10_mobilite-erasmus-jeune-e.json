@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un séjour · une bourse · un·e correspondant·e · l'hébergement (m.) · la famille d'accueil · une candidature · la motivation · s'inscrire · postuler · progresser",
-    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune-e/vocab1.ogg",
+    "tts": "un séjour.\nune bourse.\nun·e correspondant·e.\nl'hébergement (m.).\nla famille d'accueil.\nune candidature.\nla motivation.\ns'inscrire.\npostuler.\nprogresser."
   },
   {
     "label": "Dialogue 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Respect de la consigne (structure du courriel, ~180 mots) · Richesse et pertinence du contenu (motivation, engagement) · Correction de la langue (temps, orthographe, accords) · Emploi du conditionnel et du vocabulaire de la mobilité · Total",
-    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune-e/vocab2.ogg",
+    "tts": "Respect de la consigne (structure du courriel, ~180 mots).\nRichesse et pertinence du contenu (motivation, engagement).\nCorrection de la langue (temps, orthographe, accords).\nEmploi du conditionnel et du vocabulaire de la mobilité.\nTotal."
   }
 ]

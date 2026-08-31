@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un épisode · l'animateur / l'animatrice · un(e) invité(e) · un extrait · le sujet / le thème · s'abonner · télécharger · diffuser · résumer · une idée-clé",
-    "file": "/fle/materials/audio/unit06_podcasts-en-francais/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_podcasts-en-francais/vocab1.ogg",
+    "tts": "un épisode.\nl'animateur / l'animatrice.\nun(e) invité(e).\nun extrait.\nle sujet / le thème.\ns'abonner.\ntélécharger.\ndiffuser.\nrésumer.\nune idée-clé."
   },
   {
     "label": "Texte 2",

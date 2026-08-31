@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la consigne · le barème · la relecture · la compréhension écrite · l'expression écrite · la francophonie · un·e locuteur·rice · une langue en partage · valoriser · néanmoins · en effet · par conséquent",
-    "file": "/fle/materials/audio/unit11_abitur-mock-final/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_abitur-mock-final/vocab1.ogg",
+    "tts": "la consigne.\nle barème.\nla relecture.\nla compréhension écrite.\nl'expression écrite.\nla francophonie.\nun·e locuteur·rice.\nune langue en partage.\nvaloriser.\nnéanmoins.\nen effet.\npar conséquent."
   },
   {
     "label": "Dialogue 2",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu / pertinence · Structure · Langue · Correction · Total",
-    "file": "/fle/materials/audio/unit11_abitur-mock-final/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_abitur-mock-final/vocab2.ogg",
+    "tts": "Contenu / pertinence.\nStructure.\nLangue.\nCorrection.\nTotal."
   }
 ]

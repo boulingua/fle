@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la solidarité · une association · un·e bénévole · une collecte · un don · récolter (des fonds) · proposer · organiser · le but / l'objectif · le suivi",
-    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab1.ogg",
+    "tts": "la solidarité.\nune association.\nun·e bénévole.\nune collecte.\nun don.\nrécolter (des fonds).\nproposer.\norganiser.\nle but / l'objectif.\nle suivi."
   },
   {
     "label": "Dialogue 2",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure · Conditionnel · Futur simple · But · Fluidité",
-    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab2.ogg",
+    "tts": "Structure.\nConditionnel.\nFutur simple.\nBut.\nFluidité."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1 — Grammaire · 2 — Expression écrite · 3 — Expression orale · Total",
-    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab3.ogg"
+    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab3.ogg",
+    "tts": "1 — Grammaire.\n2 — Expression écrite.\n3 — Expression orale.\nTotal."
   }
 ]

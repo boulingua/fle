@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une autrice / une écrivaine · un pseudonyme · une œuvre · un roman · un récit · l'écriture (f.) · paraître / publier · s'affranchir de · une pionnière · la condition féminine · consacrer (sa vie à) · le domaine public",
-    "file": "/fle/materials/audio/unit08_voix-feminines/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_voix-feminines/vocab1.ogg",
+    "tts": "une autrice / une écrivaine.\nun pseudonyme.\nune œuvre.\nun roman.\nun récit.\nl'écriture (f.).\nparaître / publier.\ns'affranchir de.\nune pionnière.\nla condition féminine.\nconsacrer (sa vie à).\nle domaine public."
   },
   {
     "label": "Dialogue 1",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure · Langue · Sourçage · Aisance",
-    "file": "/fle/materials/audio/unit08_voix-feminines/vocab2.ogg"
+    "file": "/fle/materials/audio/unit08_voix-feminines/vocab2.ogg",
+    "tts": "Contenu.\nStructure.\nLangue.\nSourçage.\nAisance."
   }
 ]

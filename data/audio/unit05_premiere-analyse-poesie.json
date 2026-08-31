@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un vers · une strophe · la rime · une comparaison · une métaphore · le thème · l'atmosphère",
-    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/vocab1.ogg"
+    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/vocab1.ogg",
+    "tts": "un vers.\nune strophe.\nla rime.\nune comparaison.\nune métaphore.\nle thème.\nl'atmosphère."
   },
   {
     "label": "Texte 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Forme repérée (strophes, vers, une rime) · Une image nommée et citée correctement · Thème et atmosphère exprimés · Langue : présent du commentaire, connecteurs, guillemets · Total",
-    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/vocab2.ogg"
+    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/vocab2.ogg",
+    "tts": "Forme repérée (strophes, vers, une rime).\nUne image nommée et citée correctement.\nThème et atmosphère exprimés.\nLangue : présent du commentaire, connecteurs, guillemets.\nTotal."
   }
 ]

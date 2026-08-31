@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une thèse (personnelle) · un axe / une partie · une transition · un connecteur logique · étayer / appuyer · une référence · nuancer · une ouverture · le débit · la prosodie",
-    "file": "/fle/materials/audio/unit09_monologue-et-presentation/vocab1.ogg"
+    "file": "/fle/materials/audio/unit09_monologue-et-presentation/vocab1.ogg",
+    "tts": "une thèse (personnelle).\nun axe / une partie.\nune transition.\nun connecteur logique.\nétayer / appuyer.\nune référence.\nnuancer.\nune ouverture.\nle débit.\nla prosodie."
   },
   {
     "label": "Dialogue 2",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure · Cohésion · Contenu · Prosodie / délivrance · Langue",
-    "file": "/fle/materials/audio/unit09_monologue-et-presentation/vocab2.ogg"
+    "file": "/fle/materials/audio/unit09_monologue-et-presentation/vocab2.ogg",
+    "tts": "Structure.\nCohésion.\nContenu.\nProsodie / délivrance.\nLangue."
   }
 ]

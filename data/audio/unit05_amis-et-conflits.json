@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "content(e) · heureux(se) · triste · fâché(e) / en colère · jaloux(se) · déçu(e) · inquiet / inquiète · se disputer · se réconcilier · faire la paix · un malentendu · s'excuser",
-    "file": "/fle/materials/audio/unit05_amis-et-conflits/vocab1.ogg"
+    "file": "/fle/materials/audio/unit05_amis-et-conflits/vocab1.ogg",
+    "tts": "content(e).\nheureux(se).\ntriste.\nfâché(e) / en colère.\njaloux(se).\ndéçu(e).\ninquiet / inquiète.\nse disputer.\nse réconcilier.\nfaire la paix.\nun malentendu.\ns'excuser."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "1ʳᵉ · 2ᵉ · 3ᵉ masc. · 3ᵉ fém.",
-    "file": "/fle/materials/audio/unit05_amis-et-conflits/vocab2.ogg"
+    "file": "/fle/materials/audio/unit05_amis-et-conflits/vocab2.ogg",
+    "tts": "1ʳᵉ.\n2ᵉ.\n3ᵉ masc..\n3ᵉ fém.."
   },
   {
     "label": "Texte 2",
@@ -22,11 +24,13 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Le récit raconte une dispute et une réconciliation · 2 sentiments employés correctement · 2 pronoms COD bien placés (avant le verbe) · Passé composé + une opinion · Texte clair, ~80 mots, ponctuation soignée",
-    "file": "/fle/materials/audio/unit05_amis-et-conflits/vocab3.ogg"
+    "file": "/fle/materials/audio/unit05_amis-et-conflits/vocab3.ogg",
+    "tts": "Le récit raconte une dispute et une réconciliation.\n2 sentiments employés correctement.\n2 pronoms COD bien placés (avant le verbe).\nPassé composé + une opinion.\nTexte clair, ~80 mots, ponctuation soignée."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "sehr gut (1) · gut (2) · befriedigend (3) · ausreichend (4) · mangelhaft (5) · ungenügend (6)",
-    "file": "/fle/materials/audio/unit05_amis-et-conflits/vocab4.ogg"
+    "file": "/fle/materials/audio/unit05_amis-et-conflits/vocab4.ogg",
+    "tts": "sehr gut (1).\ngut (2).\nbefriedigend (3).\nausreichend (4).\nmangelhaft (5).\nungenügend (6)."
   }
 ]

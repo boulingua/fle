@@ -2,12 +2,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la une · le gros titre · la brève · le reportage · l'interview (f.) · l'éditorial (m.) · la ligne éditoriale · le tirage / la diffusion · la source · vérifier / recouper",
-    "file": "/fle/materials/audio/unit02_presse-francaise/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_presse-francaise/vocab1.ogg",
+    "tts": "la une.\nle gros titre.\nla brève.\nle reportage.\nl'interview (f.).\nl'éditorial (m.).\nla ligne éditoriale.\nle tirage / la diffusion.\nla source.\nvérifier / recouper."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "Le Monde · Le Figaro · Libération · L'Équipe · Ouest-France",
-    "file": "/fle/materials/audio/unit02_presse-francaise/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_presse-francaise/vocab2.ogg",
+    "tts": "Le Monde.\nLe Figaro.\nLibération.\nL'Équipe.\nOuest-France."
   },
   {
     "label": "Dialogue 1",
@@ -17,6 +19,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Information vs opinion · Discours rapporté · Vocabulaire de la presse · Fiabilité · Correction de la langue",
-    "file": "/fle/materials/audio/unit02_presse-francaise/vocab3.ogg"
+    "file": "/fle/materials/audio/unit02_presse-francaise/vocab3.ogg",
+    "tts": "Information vs opinion.\nDiscours rapporté.\nVocabulaire de la presse.\nFiabilité.\nCorrection de la langue."
   }
 ]

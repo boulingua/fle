@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un quotidien · la une · la ligne éditoriale · une brève · un éditorial · un billet · un reportage · une source · fiable / la fiabilité · recouper une information · vérifier les faits · une rumeur",
-    "file": "/fle/materials/audio/unit02_presse-francaise-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_presse-francaise-e/vocab1.ogg",
+    "tts": "un quotidien.\nla une.\nla ligne éditoriale.\nune brève.\nun éditorial.\nun billet.\nun reportage.\nune source.\nfiable / la fiabilité.\nrecouper une information.\nvérifier les faits.\nune rumeur."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure · Langue · Registre · Total",
-    "file": "/fle/materials/audio/unit02_presse-francaise-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_presse-francaise-e/vocab2.ogg",
+    "tts": "Contenu.\nStructure.\nLangue.\nRegistre.\nTotal."
   }
 ]

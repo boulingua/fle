@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la cantine · le CDI / la bibliothèque · le gymnase · la cour de récréation · la salle de classe · le couloir · la salle des professeurs · le bureau du directeur · les maths (f. pl.) · le français · l'allemand (m.) · l'anglais (m.) · le sport · la musique · les arts plastiques (m. pl.) · les sciences (f. pl.)",
-    "file": "/fle/materials/audio/unit03_mon-college-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit03_mon-college-e/vocab1.ogg",
+    "tts": "la cantine.\nle CDI / la bibliothèque.\nle gymnase.\nla cour de récréation.\nla salle de classe.\nle couloir.\nla salle des professeurs.\nle bureau du directeur.\nles maths (f. pl.).\nle français.\nl'allemand (m.).\nl'anglais (m.).\nle sport.\nla musique.\nles arts plastiques (m. pl.).\nles sciences (f. pl.)."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "8h – 9h · 9h – 10h · 10h – 11h · 11h – 12h",
-    "file": "/fle/materials/audio/unit03_mon-college-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit03_mon-college-e/vocab2.ogg",
+    "tts": "8h – 9h.\n9h – 10h.\n10h – 11h.\n11h – 12h."
   },
   {
     "label": "Texte 1",
@@ -22,6 +24,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Contenu complet (4 matières, préférée, lieu) · Articles corrects devant les matières · Phrases simples et correctes · Total",
-    "file": "/fle/materials/audio/unit03_mon-college-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit03_mon-college-e/vocab3.ogg",
+    "tts": "Contenu complet (4 matières, préférée, lieu).\nArticles corrects devant les matières.\nPhrases simples et correctes.\nTotal."
   }
 ]

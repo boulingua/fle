@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "soutenir / affirmer · plaider pour · mettre en garde contre · nuancer · constater · réclamer / exiger · faute de quoi · l'enjeu",
-    "file": "/fle/materials/audio/unit06_mediation-avancee-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_mediation-avancee-e/vocab1.ogg",
+    "tts": "soutenir / affirmer.\nplaider pour.\nmettre en garde contre.\nnuancer.\nconstater.\nréclamer / exiger.\nfaute de quoi.\nl'enjeu."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Fidélité · Compression · Langue · Nuances · Autonomie",
-    "file": "/fle/materials/audio/unit06_mediation-avancee-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit06_mediation-avancee-e/vocab2.ogg",
+    "tts": "Fidélité.\nCompression.\nLangue.\nNuances.\nAutonomie."
   }
 ]

@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "★★★★ · ★★★ · ★★ · ★ · ✗ · ✗✗",
-    "file": "/fle/materials/audio/unit05_j-aime-je-n-aime-pas/vocab1.ogg"
+    "file": "/fle/materials/audio/unit05_j-aime-je-n-aime-pas/vocab1.ogg",
+    "tts": "★★★★.\n★★★.\n★★.\n★.\n✗.\n✗✗."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "je · tu · il / elle / on · nous · vous · ils / elles",
-    "file": "/fle/materials/audio/unit05_j-aime-je-n-aime-pas/vocab2.ogg"
+    "file": "/fle/materials/audio/unit05_j-aime-je-n-aime-pas/vocab2.ogg",
+    "tts": "je.\ntu.\nil / elle / on.\nnous.\nvous.\nils / elles."
   },
   {
     "label": "Texte 1",
@@ -22,6 +24,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "J'utilise au moins 4 verbes de goût différents · Ma négation ne … pas est correcte · Je conjugue le verbe à la bonne personne (il / elle) · Je parle de façon compréhensible et audible",
-    "file": "/fle/materials/audio/unit05_j-aime-je-n-aime-pas/vocab3.ogg"
+    "file": "/fle/materials/audio/unit05_j-aime-je-n-aime-pas/vocab3.ogg",
+    "tts": "J'utilise au moins 4 verbes de goût différents.\nMa négation ne … pas est correcte.\nJe conjugue le verbe à la bonne personne (il / elle).\nJe parle de façon compréhensible et audible."
   }
 ]

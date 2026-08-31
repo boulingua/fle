@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un·e locuteur·rice · la langue maternelle · la langue officielle · une langue véhiculaire · la francophonie (minuscule) · la Francophonie (majuscule) · un État membre · répandu·e · en pleine croissance · paraphraser",
-    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab1.ogg",
+    "tts": "un·e locuteur·rice.\nla langue maternelle.\nla langue officielle.\nune langue véhiculaire.\nla francophonie (minuscule).\nla Francophonie (majuscule).\nun État membre.\nrépandu·e.\nen pleine croissance.\nparaphraser."
   },
   {
     "label": "Texte 1",
@@ -12,11 +13,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure · Langue · Prononciation / fluidité · Durée / prise de parole · Total",
-    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab2.ogg",
+    "tts": "Contenu.\nStructure.\nLangue.\nPrononciation / fluidité.\nDurée / prise de parole.\nTotal."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "sehr gut · gut · befriedigend · ausreichend · mangelhaft · ungenügend",
-    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab3.ogg"
+    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab3.ogg",
+    "tts": "sehr gut.\ngut.\nbefriedigend.\nausreichend.\nmangelhaft.\nungenügend."
   }
 ]

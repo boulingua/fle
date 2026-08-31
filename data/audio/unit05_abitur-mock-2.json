@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un extrait · le champ lexical · une opposition (antithèse) · l'ironie · le registre · la focalisation · une visée critique",
-    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab1.ogg"
+    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab1.ogg",
+    "tts": "un extrait.\nle champ lexical.\nune opposition (antithèse).\nl'ironie.\nle registre.\nla focalisation.\nune visée critique."
   },
   {
     "label": "Texte 1",
@@ -12,11 +13,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Prise de position · Structure · Appui sur le texte · Connecteurs · Langue",
-    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab2.ogg"
+    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab2.ogg",
+    "tts": "Prise de position.\nStructure.\nAppui sur le texte.\nConnecteurs.\nLangue."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Contenu et pertinence des arguments · Appui sur le texte (citation interprétée) · Structure et connecteurs · Correction de la langue",
-    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab3.ogg"
+    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab3.ogg",
+    "tts": "Contenu et pertinence des arguments.\nAppui sur le texte (citation interprétée).\nStructure et connecteurs.\nCorrection de la langue."
   }
 ]

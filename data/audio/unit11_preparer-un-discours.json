@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un discours · prendre la parole · l'accroche (f.) · la thèse · un argument · un exemple · la chute / la conclusion · convaincre · émouvoir · une figure de style · le rythme · faire une pause",
-    "file": "/fle/materials/audio/unit11_preparer-un-discours/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_preparer-un-discours/vocab1.ogg",
+    "tts": "un discours.\nprendre la parole.\nl'accroche (f.).\nla thèse.\nun argument.\nun exemple.\nla chute / la conclusion.\nconvaincre.\némouvoir.\nune figure de style.\nle rythme.\nfaire une pause."
   },
   {
     "label": "Dialogue 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure · Figures de style · Langue · Présentation orale",
-    "file": "/fle/materials/audio/unit11_preparer-un-discours/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_preparer-un-discours/vocab2.ogg",
+    "tts": "Structure.\nFigures de style.\nLangue.\nPrésentation orale."
   }
 ]

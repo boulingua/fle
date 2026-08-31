@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le sens (d'un texte) · l'essentiel (m.) · le destinataire · ouvert / fermé · l'entrée (f.) · gratuit / payant · environ · selon",
-    "file": "/fle/materials/audio/unit11_mediation-de-base/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_mediation-de-base/vocab1.ogg",
+    "tts": "le sens (d'un texte).\nl'essentiel (m.).\nle destinataire.\nouvert / fermé.\nl'entrée (f.).\ngratuit / payant.\nenviron.\nselon."
   },
   {
     "label": "Texte 1",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Médiation · Registre · Langue",
-    "file": "/fle/materials/audio/unit11_mediation-de-base/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_mediation-de-base/vocab2.ogg",
+    "tts": "Contenu.\nMédiation.\nRegistre.\nLangue."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir · Aperçu",
-    "file": "/fle/materials/audio/unit11_mediation-de-base/vocab3.ogg"
+    "file": "/fle/materials/audio/unit11_mediation-de-base/vocab3.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir.\nAperçu."
   }
 ]

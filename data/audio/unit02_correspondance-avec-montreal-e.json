@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "Salut ! / Coucou ! · Comment ça va ? · J'espère que tu vas bien · Devine quoi ! · Et toi ? · Réponds-moi vite ! · À bientôt / Bises",
-    "file": "/fle/materials/audio/unit02_correspondance-avec-montreal-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_correspondance-avec-montreal-e/vocab1.ogg",
+    "tts": "Salut ! / Coucou !.\nComment ça va ?.\nJ'espère que tu vas bien.\nDevine quoi !.\nEt toi ?.\nRéponds-moi vite !.\nÀ bientôt / Bises."
   },
   {
     "label": "Dialogue 1",

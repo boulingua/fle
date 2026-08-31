@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le Maghreb · le raï · le chaâbi · le rap maghrébin · le luth / le oud · la derbouka · la gasba · une diaspora · une double identité · le refrain",
-    "file": "/fle/materials/audio/unit06_musiques-du-maghreb/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_musiques-du-maghreb/vocab1.ogg",
+    "tts": "le Maghreb.\nle raï.\nle chaâbi.\nle rap maghrébin.\nle luth / le oud.\nla derbouka.\nla gasba.\nune diaspora.\nune double identité.\nle refrain."
   },
   {
     "label": "Dialogue 2",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Langue · Vocabulaire · Fluidité",
-    "file": "/fle/materials/audio/unit06_musiques-du-maghreb/vocab2.ogg"
+    "file": "/fle/materials/audio/unit06_musiques-du-maghreb/vocab2.ogg",
+    "tts": "Contenu.\nLangue.\nVocabulaire.\nFluidité."
   }
 ]

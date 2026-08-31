@@ -7,16 +7,19 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un voyage scolaire · une visite (guidée) · un guide / un audioguide · un billet · un tarif · l'entrée · un monument · un quartier · se promener · découvrir · visiter · à pied · en tram · en bus",
-    "file": "/fle/materials/audio/unit11_voyage-decouverte/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_voyage-decouverte/vocab1.ogg",
+    "tts": "un voyage scolaire.\nune visite (guidée).\nun guide / un audioguide.\nun billet.\nun tarif.\nl'entrée.\nun monument.\nun quartier.\nse promener.\ndécouvrir.\nvisiter.\nà pied.\nen tram.\nen bus."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "la cathédrale Notre-Dame · la Petite France · le Parlement européen · le Palais Rohan · les Ponts couverts",
-    "file": "/fle/materials/audio/unit11_voyage-decouverte/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_voyage-decouverte/vocab2.ogg",
+    "tts": "la cathédrale Notre-Dame.\nla Petite France.\nle Parlement européen.\nle Palais Rohan.\nles Ponts couverts."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Contenu · Vocabulaire · Grammaire · Fluidité",
-    "file": "/fle/materials/audio/unit11_voyage-decouverte/vocab3.ogg"
+    "file": "/fle/materials/audio/unit11_voyage-decouverte/vocab3.ogg",
+    "tts": "Contenu.\nVocabulaire.\nGrammaire.\nFluidité."
   }
 ]

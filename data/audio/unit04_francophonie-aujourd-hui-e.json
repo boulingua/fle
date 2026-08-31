@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la francophonie · un·e locuteur·rice · une langue officielle · un espace linguistique · répandu·e · un continent · une organisation · un État membre · rayonner · une figure (marquante)",
-    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui-e/vocab1.ogg",
+    "tts": "la francophonie.\nun·e locuteur·rice.\nune langue officielle.\nun espace linguistique.\nrépandu·e.\nun continent.\nune organisation.\nun État membre.\nrayonner.\nune figure (marquante)."
   },
   {
     "label": "Texte 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure · Langue · Lexique · Longueur",
-    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui-e/vocab2.ogg",
+    "tts": "Contenu.\nStructure.\nLangue.\nLexique.\nLongueur."
   }
 ]

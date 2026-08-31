@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le cartable · le sac · le manuel · le classeur · la trousse · le stylo · le crayon · la règle · la cour · la salle de classe · l'emploi du temps (m.)",
-    "file": "/fle/materials/audio/unit01_ma-rentree/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_ma-rentree/vocab1.ogg",
+    "tts": "le cartable.\nle sac.\nle manuel.\nle classeur.\nla trousse.\nle stylo.\nle crayon.\nla règle.\nla cour.\nla salle de classe.\nl'emploi du temps (m.)."
   },
   {
     "label": "Texte 1",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Salutations et question sur les vacances · Au moins un sentiment exprimé et justifié · Trois verbes au présent corrects · Prononciation compréhensible, échange fluide",
-    "file": "/fle/materials/audio/unit01_ma-rentree/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_ma-rentree/vocab2.ogg",
+    "tts": "Salutations et question sur les vacances.\nAu moins un sentiment exprimé et justifié.\nTrois verbes au présent corrects.\nPrononciation compréhensible, échange fluide."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Compréhension écrite · Expression orale (interaction) · Expression écrite · Total",
-    "file": "/fle/materials/audio/unit01_ma-rentree/vocab3.ogg"
+    "file": "/fle/materials/audio/unit01_ma-rentree/vocab3.ogg",
+    "tts": "Compréhension écrite.\nExpression orale (interaction).\nExpression écrite.\nTotal."
   }
 ]

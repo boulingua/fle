@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "dresser un bilan · un acquis · une lacune · un point fort / un point faible · se fixer un objectif · une priorité · l'année terminale · l'épreuve finale · progresser · approfondir",
-    "file": "/fle/materials/audio/unit12_bilan-classe-11/vocab1.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-classe-11/vocab1.ogg",
+    "tts": "dresser un bilan.\nun acquis.\nune lacune.\nun point fort / un point faible.\nse fixer un objectif.\nune priorité.\nl'année terminale.\nl'épreuve finale.\nprogresser.\napprofondir."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure · Langue · Aisance orale",
-    "file": "/fle/materials/audio/unit12_bilan-classe-11/vocab2.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-classe-11/vocab2.ogg",
+    "tts": "Contenu.\nStructure.\nLangue.\nAisance orale."
   }
 ]

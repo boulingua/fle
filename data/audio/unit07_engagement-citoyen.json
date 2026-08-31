@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le bénévolat · une association · un·e bénévole · une pétition · une manifestation · s'engager (pour) · une cause · défendre (une idée) · soutenir un projet · avoir un impact",
-    "file": "/fle/materials/audio/unit07_engagement-citoyen/vocab1.ogg"
+    "file": "/fle/materials/audio/unit07_engagement-citoyen/vocab1.ogg",
+    "tts": "le bénévolat.\nune association.\nun·e bénévole.\nune pétition.\nune manifestation.\ns'engager (pour).\nune cause.\ndéfendre (une idée).\nsoutenir un projet.\navoir un impact."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Oral : contenu et arguments · Oral : interaction et réactions · Oral : fluidité et prononciation · Écrit : contenu et structure · Écrit : justification (cause + but) · Écrit : correction de la langue · Total",
-    "file": "/fle/materials/audio/unit07_engagement-citoyen/vocab2.ogg"
+    "file": "/fle/materials/audio/unit07_engagement-citoyen/vocab2.ogg",
+    "tts": "Oral : contenu et arguments.\nOral : interaction et réactions.\nOral : fluidité et prononciation.\nÉcrit : contenu et structure.\nÉcrit : justification (cause + but).\nÉcrit : correction de la langue.\nTotal."
   }
 ]

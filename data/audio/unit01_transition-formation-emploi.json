@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un apprenti / une apprentie · l'apprentissage (m.) · une candidature · une petite annonce · un entretien (d'embauche) · un stage · une entreprise · un salaire · le lycée professionnel · les études supérieures (f. pl.) · le service civique · envoyer un CV",
-    "file": "/fle/materials/audio/unit01_transition-formation-emploi/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_transition-formation-emploi/vocab1.ogg",
+    "tts": "un apprenti / une apprentie.\nl'apprentissage (m.).\nune candidature.\nune petite annonce.\nun entretien (d'embauche).\nun stage.\nune entreprise.\nun salaire.\nle lycée professionnel.\nles études supérieures (f. pl.).\nle service civique.\nenvoyer un CV."
   },
   {
     "label": "Dialogue 2",
@@ -22,11 +23,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure de la lettre · Contenu / arguments · Langue · Longueur et lisibilité",
-    "file": "/fle/materials/audio/unit01_transition-formation-emploi/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_transition-formation-emploi/vocab2.ogg",
+    "tts": "Structure de la lettre.\nContenu / arguments.\nLangue.\nLongueur et lisibilité."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1 — Compréhension écrite · 2 — Vocabulaire · 3 — Expression écrite · Total",
-    "file": "/fle/materials/audio/unit01_transition-formation-emploi/vocab3.ogg"
+    "file": "/fle/materials/audio/unit01_transition-formation-emploi/vocab3.ogg",
+    "tts": "1 — Compréhension écrite.\n2 — Vocabulaire.\n3 — Expression écrite.\nTotal."
   }
 ]

@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une rencontre marquante · un correspondant / une correspondante · faire le portrait de qqn · avoir l'esprit ouvert · au fil des mois · garder le contact",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab1.ogg",
+    "tts": "une rencontre marquante.\nun correspondant / une correspondante.\nfaire le portrait de qqn.\navoir l'esprit ouvert.\nau fil des mois.\ngarder le contact."
   },
   {
     "label": "Dialogue 2",
@@ -22,11 +23,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure · Temps verbaux · Connecteurs · Richesse · Fluidité (oral)",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab2.ogg",
+    "tts": "Structure.\nTemps verbaux.\nConnecteurs.\nRichesse.\nFluidité (oral)."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Écrit — respect de la consigne (3 paragraphes, ~150 mots) · Écrit — temps verbaux (PC / imparfait / futur simple) · Écrit — connecteurs et cohérence · Écrit — richesse lexicale et phrase-bilan · Oral — contenu et structure du monologue · Oral — fluidité et prononciation · Total",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab3.ogg",
+    "tts": "Écrit — respect de la consigne (3 paragraphes, ~150 mots).\nÉcrit — temps verbaux (PC / imparfait / futur simple).\nÉcrit — connecteurs et cohérence.\nÉcrit — richesse lexicale et phrase-bilan.\nOral — contenu et structure du monologue.\nOral — fluidité et prononciation.\nTotal."
   }
 ]

@@ -7,17 +7,20 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "jouer au foot / au basket · regarder un film · aller à la piscine · rester à la maison · faire les devoirs · rendre visite à · sortir avec des amis · se promener · samedi / dimanche",
-    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab1.ogg",
+    "tts": "jouer au foot / au basket.\nregarder un film.\naller à la piscine.\nrester à la maison.\nfaire les devoirs.\nrendre visite à.\nsortir avec des amis.\nse promener.\nsamedi / dimanche."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "j' · tu · il / elle / on · nous · vous · ils / elles",
-    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab2.ogg",
+    "tts": "j'.\ntu.\nil / elle / on.\nnous.\nvous.\nils / elles."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "je · tu · il / elle · nous · vous · ils / elles",
-    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab3.ogg"
+    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab3.ogg",
+    "tts": "je.\ntu.\nil / elle.\nnous.\nvous.\nils / elles."
   },
   {
     "label": "Texte 1",
@@ -27,11 +30,13 @@
   {
     "label": "Vocabulaire 4",
     "transcript": "Contenu — le week-end est raconté (5–6 phrases) · Passé composé — au moins 3 verbes corrects · Auxiliaire être — au moins 1 emploi correct · Fluidité — je parle en continu, sans tout lire · Prononciation compréhensible",
-    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab4.ogg"
+    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab4.ogg",
+    "tts": "Contenu — le week-end est raconté (5–6 phrases).\nPassé composé — au moins 3 verbes corrects.\nAuxiliaire être — au moins 1 emploi correct.\nFluidité — je parle en continu, sans tout lire.\nPrononciation compréhensible."
   },
   {
     "label": "Vocabulaire 5",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir · Aperçu",
-    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab5.ogg"
+    "file": "/fle/materials/audio/unit02_raconter-le-week-end/vocab5.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir.\nAperçu."
   }
 ]

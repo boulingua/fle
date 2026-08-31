@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la boulangerie · la pharmacie · le supermarché · la poste · la banque · le café · le parc · la bibliothèque · l'arrêt de bus · la mairie",
-    "file": "/fle/materials/audio/unit03_mon-quartier/vocab1.ogg"
+    "file": "/fle/materials/audio/unit03_mon-quartier/vocab1.ogg",
+    "tts": "la boulangerie.\nla pharmacie.\nle supermarché.\nla poste.\nla banque.\nle café.\nle parc.\nla bibliothèque.\nl'arrêt de bus.\nla mairie."
   },
   {
     "label": "Texte 1",

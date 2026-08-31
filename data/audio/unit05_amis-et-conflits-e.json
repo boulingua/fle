@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "content(e) / heureux(se) · triste · fâché(e) / en colère · déçu(e) · jaloux(se) · inquiet(ète) · se disputer · un malentendu · s'excuser · se réconcilier · faire la paix",
-    "file": "/fle/materials/audio/unit05_amis-et-conflits-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit05_amis-et-conflits-e/vocab1.ogg",
+    "tts": "content(e) / heureux(se).\ntriste.\nfâché(e) / en colère.\ndéçu(e).\njaloux(se).\ninquiet(ète).\nse disputer.\nun malentendu.\ns'excuser.\nse réconcilier.\nfaire la paix."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "1ʳᵉ · 2ᵉ · 3ᵉ masc. · 3ᵉ fém.",
-    "file": "/fle/materials/audio/unit05_amis-et-conflits-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit05_amis-et-conflits-e/vocab2.ogg",
+    "tts": "1ʳᵉ.\n2ᵉ.\n3ᵉ masc..\n3ᵉ fém.."
   },
   {
     "label": "Texte 1",

@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un stage · un·e stagiaire · une entreprise · un·e collègue · un patron / une patronne · un·e tuteur·rice · un métier · un emploi · une convention de stage · un rapport de stage",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/vocab1.ogg",
+    "tts": "un stage.\nun·e stagiaire.\nune entreprise.\nun·e collègue.\nun patron / une patronne.\nun·e tuteur·rice.\nun métier.\nun emploi.\nune convention de stage.\nun rapport de stage."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu et étapes · Connecteurs · Vocabulaire du travail · Passé composé · Longueur et bilan",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/vocab2.ogg",
+    "tts": "Contenu et étapes.\nConnecteurs.\nVocabulaire du travail.\nPassé composé.\nLongueur et bilan."
   }
 ]

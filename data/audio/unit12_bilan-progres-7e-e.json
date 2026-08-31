@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un bilan · un progrès · un acquis · une compétence · une difficulté · un projet · progresser · améliorer",
-    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab1.ogg",
+    "tts": "un bilan.\nun progrès.\nun acquis.\nune compétence.\nune difficulté.\nun projet.\nprogresser.\naméliorer."
   },
   {
     "label": "Texte 1",
@@ -22,11 +23,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure · Connecteurs · Correction de la langue · Oral (si oral)",
-    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab2.ogg",
+    "tts": "Contenu.\nStructure.\nConnecteurs.\nCorrection de la langue.\nOral (si oral)."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1. Compréhension écrite · 2. Maîtrise de la langue · 3. Expression écrite · Total",
-    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab3.ogg",
+    "tts": "1. Compréhension écrite.\n2. Maîtrise de la langue.\n3. Expression écrite.\nTotal."
   }
 ]

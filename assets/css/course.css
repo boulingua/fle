@@ -29,14 +29,14 @@
    item to the right edge of the navbar. */
 .navigation-end,
 .navigation-repo {
-  margin-left: auto;
+  margin-inline-start: auto;
 }
 
-/* Subsequent end-aligned items don't need their own margin-left:auto — the
+/* Subsequent end-aligned items don't need their own margin-inline-start:auto — the
    first one already pushed the whole tail right. */
 .navigation-end ~ .navigation-end,
 .navigation-end ~ .navigation-repo {
-  margin-left: 0;
+  margin-inline-start: 0;
 }
 
 .navigation-repo .navigation-link {
@@ -114,7 +114,7 @@
 
 /* ── Callouts ───────────────────────────────────── */
 .callout {
-  border-left: 4px solid var(--boulingua-accent);
+  border-inline-start: 4px solid var(--boulingua-accent);
   background: rgba(26, 115, 232, 0.06);
   padding: 0.9rem 1.1rem;
   margin: 1.25rem 0;
@@ -220,7 +220,7 @@
 .vgwort-pixel img,
 img.vgwort-pixel {
   position: absolute;
-  left: -9999px;
+  inset-inline-start: -9999px;
   visibility: hidden;
 }
 

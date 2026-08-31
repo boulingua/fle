@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un podcast / une baladodiffusion · un épisode · l'animateur / l'animatrice · l'invité / l'invitée · s'abonner (à) · un extrait · la transcription · résumer · un mot-clé",
-    "file": "/fle/materials/audio/unit06_podcasts-en-francais-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_podcasts-en-francais-e/vocab1.ogg",
+    "tts": "un podcast / une baladodiffusion.\nun épisode.\nl'animateur / l'animatrice.\nl'invité / l'invitée.\ns'abonner (à).\nun extrait.\nla transcription.\nrésumer.\nun mot-clé."
   },
   {
     "label": "Dialogue 2",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Discours rapporté · Opinion justifiée · Langue et longueur",
-    "file": "/fle/materials/audio/unit06_podcasts-en-francais-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit06_podcasts-en-francais-e/vocab2.ogg",
+    "tts": "Contenu.\nDiscours rapporté.\nOpinion justifiée.\nLangue et longueur."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "très bien · bien · satisfaisant · passable",
-    "file": "/fle/materials/audio/unit06_podcasts-en-francais-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit06_podcasts-en-francais-e/vocab3.ogg",
+    "tts": "très bien.\nbien.\nsatisfaisant.\npassable."
   }
 ]

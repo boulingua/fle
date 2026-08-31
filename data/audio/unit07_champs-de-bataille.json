@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un soldat · une tranchée · une bataille · un monument aux morts · un cimetière · la mémoire · la paix · la réconciliation",
-    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab1.ogg"
+    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab1.ogg",
+    "tts": "un soldat.\nune tranchée.\nune bataille.\nun monument aux morts.\nun cimetière.\nla mémoire.\nla paix.\nla réconciliation."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "il combattit · ils tombèrent · elle fut blessée · ils se serrèrent la main",
-    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab2.ogg"
+    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab2.ogg",
+    "tts": "il combattit.\nils tombèrent.\nelle fut blessée.\nils se serrèrent la main."
   },
   {
     "label": "Texte 2",
@@ -22,6 +24,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "très bien · bien · satisfaisant · passable · insuffisant",
-    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab3.ogg"
+    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab3.ogg",
+    "tts": "très bien.\nbien.\nsatisfaisant.\npassable.\ninsuffisant."
   }
 ]

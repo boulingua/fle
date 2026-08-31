@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "l'identité numérique (f.) · un compte / un profil · la bulle de filtres (f.) · la comparaison sociale · la désinformation (f.) · poster / publier · faire défiler (le scroll) · une notification · la vie privée (f.) · décrocher / faire une pause",
-    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/vocab1.ogg",
+    "tts": "l'identité numérique (f.).\nun compte / un profil.\nla bulle de filtres (f.).\nla comparaison sociale.\nla désinformation (f.).\nposter / publier.\nfaire défiler (le scroll).\nune notification.\nla vie privée (f.).\ndécrocher / faire une pause."
   },
   {
     "label": "Dialogue 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Interaction · Langue · Fluidité et prononciation · Total",
-    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/vocab2.ogg",
+    "tts": "Contenu.\nInteraction.\nLangue.\nFluidité et prononciation.\nTotal."
   }
 ]

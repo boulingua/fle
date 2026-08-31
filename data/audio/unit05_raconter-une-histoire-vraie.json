@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une histoire vraie · un souvenir · un événement · le décor / le cadre · d'abord · ensuite / puis · tout à coup / soudain · enfin / finalement · se passer / arriver · se souvenir de · raconter · émouvant·e",
-    "file": "/fle/materials/audio/unit05_raconter-une-histoire-vraie/vocab1.ogg"
+    "file": "/fle/materials/audio/unit05_raconter-une-histoire-vraie/vocab1.ogg",
+    "tts": "une histoire vraie.\nun souvenir.\nun événement.\nle décor / le cadre.\nd'abord.\nensuite / puis.\ntout à coup / soudain.\nenfin / finalement.\nse passer / arriver.\nse souvenir de.\nraconter.\némouvant·e."
   },
   {
     "label": "Dialogue 2",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure en 3 parties claire · Alternance PC / imparfait correcte · Connecteurs variés · Richesse du vocabulaire · Fluidité / prononciation",
-    "file": "/fle/materials/audio/unit05_raconter-une-histoire-vraie/vocab2.ogg"
+    "file": "/fle/materials/audio/unit05_raconter-une-histoire-vraie/vocab2.ogg",
+    "tts": "Structure en 3 parties claire.\nAlternance PC / imparfait correcte.\nConnecteurs variés.\nRichesse du vocabulaire.\nFluidité / prononciation."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1. Compréhension · 2. Conjugaison · 3. Expression écrite · 4. Expression orale · Total",
-    "file": "/fle/materials/audio/unit05_raconter-une-histoire-vraie/vocab3.ogg"
+    "file": "/fle/materials/audio/unit05_raconter-une-histoire-vraie/vocab3.ogg",
+    "tts": "1. Compréhension.\n2. Conjugaison.\n3. Expression écrite.\n4. Expression orale.\nTotal."
   }
 ]

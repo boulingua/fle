@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "Cordialement, · Bien à vous, · Je me permets de vous écrire · Veuillez trouver ci-joint · En pièce jointe · Pourriez-vous… ? · Je me permets de vous relancer · Avec mes remerciements, · Cher Monsieur, / Chère Madame, · Je reste à votre disposition",
-    "file": "/fle/materials/audio/unit11_francais-au-travail-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_francais-au-travail-e/vocab1.ogg",
+    "tts": "Cordialement,.\nBien à vous,.\nJe me permets de vous écrire.\nVeuillez trouver ci-joint.\nEn pièce jointe.\nPourriez-vous… ?.\nJe me permets de vous relancer.\nAvec mes remerciements,.\nCher Monsieur, / Chère Madame,.\nJe reste à votre disposition."
   },
   {
     "label": "Texte 1",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Fidélité du contenu (T1) · Registre et formules (T1) · Correction linguistique (T1) · Fluidité et interaction (T2) · Politesse et structure du dialogue (T2) · Exactitude lexicale (T3) · Total",
-    "file": "/fle/materials/audio/unit11_francais-au-travail-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_francais-au-travail-e/vocab2.ogg",
+    "tts": "Fidélité du contenu (T1).\nRegistre et formules (T1).\nCorrection linguistique (T1).\nFluidité et interaction (T2).\nPolitesse et structure du dialogue (T2).\nExactitude lexicale (T3).\nTotal."
   }
 ]

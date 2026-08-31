@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un·e locuteur·rice · un continent · une capitale · la francophonie · un pays francophone · un·e correspondant·e · se débrouiller · découvrir",
-    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/vocab1.ogg",
+    "tts": "un·e locuteur·rice.\nun continent.\nune capitale.\nla francophonie.\nun pays francophone.\nun·e correspondant·e.\nse débrouiller.\ndécouvrir."
   },
   {
     "label": "Dialogue 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Prépositions · Fluidité · Prononciation · Total",
-    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/vocab2.ogg",
+    "tts": "Contenu.\nPrépositions.\nFluidité.\nPrononciation.\nTotal."
   }
 ]

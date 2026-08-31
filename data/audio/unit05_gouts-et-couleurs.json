@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "rouge · bleu / bleue · jaune · vert / verte · noir / noire · blanc / blanche · orange · violet / violette · rose · gris / grise",
-    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab1.ogg"
+    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab1.ogg",
+    "tts": "rouge.\nbleu / bleue.\njaune.\nvert / verte.\nnoir / noire.\nblanc / blanche.\norange.\nviolet / violette.\nrose.\ngris / grise."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "j'adore · j'aime (bien) · je préfère · je n'aime pas (trop) · je déteste",
-    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab2.ogg"
+    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab2.ogg",
+    "tts": "j'adore.\nj'aime (bien).\nje préfère.\nje n'aime pas (trop).\nje déteste."
   },
   {
     "label": "Texte 1",
@@ -22,16 +24,19 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Réalisation de la tâche · Verbes de goût · Accord des couleurs · Justification · Correction de la langue",
-    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab3.ogg"
+    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab3.ogg",
+    "tts": "Réalisation de la tâche.\nVerbes de goût.\nAccord des couleurs.\nJustification.\nCorrection de la langue."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "A — Interaction orale · B — Expression écrite · C — Vocabulaire et grammaire · Total",
-    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab4.ogg"
+    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab4.ogg",
+    "tts": "A — Interaction orale.\nB — Expression écrite.\nC — Vocabulaire et grammaire.\nTotal."
   },
   {
     "label": "Vocabulaire 5",
     "transcript": "Situation de départ + Activer · S'entraîner (Ex. 1 à 4 + correction) · Produire (écriture guidée) · Réfléchir + aperçu séance suivante",
-    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab5.ogg"
+    "file": "/fle/materials/audio/unit05_gouts-et-couleurs/vocab5.ogg",
+    "tts": "Situation de départ + Activer.\nS'entraîner (Ex. 1 à 4 + correction).\nProduire (écriture guidée).\nRéfléchir + aperçu séance suivante."
   }
 ]

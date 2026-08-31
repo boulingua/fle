@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "Bonjour · Bonsoir · Salut · Coucou · Au revoir · À bientôt · Bonne journée · Enchanté(e) · Comment tu t'appelles ? · Comment vous appelez-vous ?",
-    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/vocab1.ogg",
+    "tts": "Bonjour.\nBonsoir.\nSalut.\nCoucou.\nAu revoir.\nÀ bientôt.\nBonne journée.\nEnchanté(e).\nComment tu t'appelles ?.\nComment vous appelez-vous ?."
   },
   {
     "label": "Texte 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Salutation adaptée · Présentation complète · Épellation · Tu / vous · Fluidité et prononciation",
-    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/vocab2.ogg",
+    "tts": "Salutation adaptée.\nPrésentation complète.\nÉpellation.\nTu / vous.\nFluidité et prononciation."
   }
 ]

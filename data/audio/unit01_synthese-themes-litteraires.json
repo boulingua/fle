@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un thème / un motif · une œuvre, un recueil · l'écriture de soi · mettre en relation, confronter · une problématique · un registre (lyrique, satirique) · un procédé stylistique · étayer une idée par une citation · rendre compte de, paraphraser · en somme, en définitive",
-    "file": "/fle/materials/audio/unit01_synthese-themes-litteraires/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_synthese-themes-litteraires/vocab1.ogg",
+    "tts": "un thème / un motif.\nune œuvre, un recueil.\nl'écriture de soi.\nmettre en relation, confronter.\nune problématique.\nun registre (lyrique, satirique).\nun procédé stylistique.\nétayer une idée par une citation.\nrendre compte de, paraphraser.\nen somme, en définitive."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Problématique · Mise en relation · Citations · Langue · Prise de position",
-    "file": "/fle/materials/audio/unit01_synthese-themes-litteraires/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_synthese-themes-litteraires/vocab2.ogg",
+    "tts": "Problématique.\nMise en relation.\nCitations.\nLangue.\nPrise de position."
   }
 ]

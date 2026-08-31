@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "au premier plan / à l'arrière-plan · en haut / en bas / au centre · à gauche / à droite · le cadrage · le contre-jour · les couleurs dominantes · représenter / figurer · il s'agit de… / on dirait que… · suggérer / évoquer · prendre position",
-    "file": "/fle/materials/audio/unit08_discussion-sur-stimulus/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_discussion-sur-stimulus/vocab1.ogg",
+    "tts": "au premier plan / à l'arrière-plan.\nen haut / en bas / au centre.\nà gauche / à droite.\nle cadrage.\nle contre-jour.\nles couleurs dominantes.\nreprésenter / figurer.\nil s'agit de… / on dirait que….\nsuggérer / évoquer.\nprendre position."
   },
   {
     "label": "Dialogue 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure · Vocabulaire · Nuance · Interaction · Langue",
-    "file": "/fle/materials/audio/unit08_discussion-sur-stimulus/vocab2.ogg"
+    "file": "/fle/materials/audio/unit08_discussion-sur-stimulus/vocab2.ogg",
+    "tts": "Structure.\nVocabulaire.\nNuance.\nInteraction.\nLangue."
   }
 ]

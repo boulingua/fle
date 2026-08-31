@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le souvenir · la mémoire (trouée) · l'oubli (m.) · une trace · une archive · un témoin / un témoignage · la disparition · le deuil · le silence (des victimes) · se souvenir de · enquêter sur · retrouver la trace de · combler un vide · effacé·e / illisible · poignant·e",
-    "file": "/fle/materials/audio/unit09_memoire-et-traumatisme/vocab1.ogg"
+    "file": "/fle/materials/audio/unit09_memoire-et-traumatisme/vocab1.ogg",
+    "tts": "le souvenir.\nla mémoire (trouée).\nl'oubli (m.).\nune trace.\nune archive.\nun témoin / un témoignage.\nla disparition.\nle deuil.\nle silence (des victimes).\nse souvenir de.\nenquêter sur.\nretrouver la trace de.\ncombler un vide.\neffacé·e / illisible.\npoignant·e."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu et cohérence · Procédés mémoriels · Temps du passé · Langue et vocabulaire · Longueur et lisibilité · Total",
-    "file": "/fle/materials/audio/unit09_memoire-et-traumatisme/vocab2.ogg"
+    "file": "/fle/materials/audio/unit09_memoire-et-traumatisme/vocab2.ogg",
+    "tts": "Contenu et cohérence.\nProcédés mémoriels.\nTemps du passé.\nLangue et vocabulaire.\nLongueur et lisibilité.\nTotal."
   }
 ]

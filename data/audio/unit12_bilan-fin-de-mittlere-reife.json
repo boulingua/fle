@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "dresser un bilan · une compétence · réviser · une épreuve · une stratégie · gérer son temps · se relire · progresser · un point fort / faible · poursuivre",
-    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab1.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab1.ogg",
+    "tts": "dresser un bilan.\nune compétence.\nréviser.\nune épreuve.\nune stratégie.\ngérer son temps.\nse relire.\nprogresser.\nun point fort / faible.\npoursuivre."
   },
   {
     "label": "Texte 1",
@@ -22,11 +23,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "1. Je manque de temps à l'écrit. · 2. Je bloque à l'oral. · 3. Je fais des fautes d'inattention. · 4. Mes idées partent dans tous les sens.",
-    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab2.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab2.ogg",
+    "tts": "1. Je manque de temps à l'écrit..\n2. Je bloque à l'oral..\n3. Je fais des fautes d'inattention..\n4. Mes idées partent dans tous les sens.."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Structure · Cohérence · Contenu · Langue · Fluidité",
-    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab3.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab3.ogg",
+    "tts": "Structure.\nCohérence.\nContenu.\nLangue.\nFluidité."
   }
 ]

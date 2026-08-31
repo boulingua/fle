@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "In dem Text geht es um… · Der Autor erklärt, dass… · Laut dem Text… · das Ziel ist… · reparieren statt wegwerfen · Ressourcen schonen · sich verbreiten · ehrenamtlich / freiwillig · kurz gesagt…",
-    "file": "/fle/materials/audio/unit06_mediation-avancee/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_mediation-avancee/vocab1.ogg",
+    "tts": "In dem Text geht es um….\nDer Autor erklärt, dass….\nLaut dem Text….\ndas Ziel ist….\nreparieren statt wegwerfen.\nRessourcen schonen.\nsich verbreiten.\nehrenamtlich / freiwillig.\nkurz gesagt…."
   },
   {
     "label": "Dialogue 2",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu transmis · Sélection / adaptation · Reformulation · Registre & source · Langue · Total",
-    "file": "/fle/materials/audio/unit06_mediation-avancee/vocab2.ogg"
+    "file": "/fle/materials/audio/unit06_mediation-avancee/vocab2.ogg",
+    "tts": "Contenu transmis.\nSélection / adaptation.\nReformulation.\nRegistre & source.\nLangue.\nTotal."
   }
 ]

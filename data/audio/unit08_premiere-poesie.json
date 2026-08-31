@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un poème · un vers · une strophe · une rime · un poète / une poète · le rythme · la musicalité · une image · réciter · doux / douce",
-    "file": "/fle/materials/audio/unit08_premiere-poesie/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_premiere-poesie/vocab1.ogg",
+    "tts": "un poème.\nun vers.\nune strophe.\nune rime.\nun poète / une poète.\nle rythme.\nla musicalité.\nune image.\nréciter.\ndoux / douce."
   },
   {
     "label": "Texte 1",
@@ -17,7 +18,8 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "6 vers courts · Sujet respecté (saison / météo) · Au moins une paire de rimes · Au moins une image · Lecture à voix haute claire",
-    "file": "/fle/materials/audio/unit08_premiere-poesie/vocab2.ogg"
+    "file": "/fle/materials/audio/unit08_premiere-poesie/vocab2.ogg",
+    "tts": "6 vers courts.\nSujet respecté (saison / météo).\nAu moins une paire de rimes.\nAu moins une image.\nLecture à voix haute claire."
   },
   {
     "label": "Texte 3",

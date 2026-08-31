@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une anecdote · un souvenir · un jour · soudain / tout à coup · alors · finalement · il m'est arrivé… · par hasard · heureusement · c'était incroyable !",
-    "file": "/fle/materials/audio/unit02_raconter-une-anecdote/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_raconter-une-anecdote/vocab1.ogg",
+    "tts": "une anecdote.\nun souvenir.\nun jour.\nsoudain / tout à coup.\nalors.\nfinalement.\nil m'est arrivé….\npar hasard.\nheureusement.\nc'était incroyable !."
   },
   {
     "label": "Texte 1",
@@ -12,11 +13,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure · Emploi des temps · Marqueurs temporels · Richesse et clarté · (Oral) fluidité et intonation",
-    "file": "/fle/materials/audio/unit02_raconter-une-anecdote/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_raconter-une-anecdote/vocab2.ogg",
+    "tts": "Structure.\nEmploi des temps.\nMarqueurs temporels.\nRichesse et clarté.\n(Oral) fluidité et intonation."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1 — Compréhension écrite · 2 — Grammaire (temps du passé) · 3 — Expression écrite · Total",
-    "file": "/fle/materials/audio/unit02_raconter-une-anecdote/vocab3.ogg"
+    "file": "/fle/materials/audio/unit02_raconter-une-anecdote/vocab3.ogg",
+    "tts": "1 — Compréhension écrite.\n2 — Grammaire (temps du passé).\n3 — Expression écrite.\nTotal."
   }
 ]

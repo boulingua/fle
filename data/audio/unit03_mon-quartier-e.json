@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la boulangerie · la pâtisserie · la librairie · la poste · la mairie · le parc · la gare · la pharmacie · le supermarché · la médiathèque",
-    "file": "/fle/materials/audio/unit03_mon-quartier-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit03_mon-quartier-e/vocab1.ogg",
+    "tts": "la boulangerie.\nla pâtisserie.\nla librairie.\nla poste.\nla mairie.\nle parc.\nla gare.\nla pharmacie.\nle supermarché.\nla médiathèque."
   },
   {
     "label": "Texte 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure de la lettre · Langue · Longueur",
-    "file": "/fle/materials/audio/unit03_mon-quartier-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit03_mon-quartier-e/vocab2.ogg",
+    "tts": "Contenu.\nStructure de la lettre.\nLangue.\nLongueur."
   }
 ]

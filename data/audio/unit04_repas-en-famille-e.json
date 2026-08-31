@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "L'entrée · Le plat · Le dessert · Les boissons · À table",
-    "file": "/fle/materials/audio/unit04_repas-en-famille-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_repas-en-famille-e/vocab1.ogg",
+    "tts": "L'entrée.\nLe plat.\nLe dessert.\nLes boissons.\nÀ table."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Partitifs · Interaction · Fluidité / prononciation",
-    "file": "/fle/materials/audio/unit04_repas-en-famille-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_repas-en-famille-e/vocab2.ogg",
+    "tts": "Contenu.\nPartitifs.\nInteraction.\nFluidité / prononciation."
   }
 ]

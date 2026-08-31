@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "l'épreuve orale (f.) · le monologue suivi · l'entretien (m.) · l'examinateur·rice · aborder un sujet · reformuler · gagner du temps · enchaîner · nuancer · une carte mémoire",
-    "file": "/fle/materials/audio/unit07_kommunikationspruefung-prep/vocab1.ogg"
+    "file": "/fle/materials/audio/unit07_kommunikationspruefung-prep/vocab1.ogg",
+    "tts": "l'épreuve orale (f.).\nle monologue suivi.\nl'entretien (m.).\nl'examinateur·rice.\naborder un sujet.\nreformuler.\ngagner du temps.\nenchaîner.\nnuancer.\nune carte mémoire."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure et contenu du monologue · Langue (lexique, grammaire, connecteurs) — monologue · Réactivité et pertinence des réponses — entretien · Langue et fluidité — entretien · Total",
-    "file": "/fle/materials/audio/unit07_kommunikationspruefung-prep/vocab2.ogg"
+    "file": "/fle/materials/audio/unit07_kommunikationspruefung-prep/vocab2.ogg",
+    "tts": "Structure et contenu du monologue.\nLangue (lexique, grammaire, connecteurs) — monologue.\nRéactivité et pertinence des réponses — entretien.\nLangue et fluidité — entretien.\nTotal."
   }
 ]

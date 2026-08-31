@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une lettre de motivation · un stage (d'observation) · une candidature · le / la destinataire · l'objet (m.) · la formule d'appel · la formule de clôture · le registre formel · effectuer un stage · joindre (un CV)",
-    "file": "/fle/materials/audio/unit02_lettre-de-motivation-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_lettre-de-motivation-e/vocab1.ogg",
+    "tts": "une lettre de motivation.\nun stage (d'observation).\nune candidature.\nle / la destinataire.\nl'objet (m.).\nla formule d'appel.\nla formule de clôture.\nle registre formel.\neffectuer un stage.\njoindre (un CV)."
   },
   {
     "label": "Dialogue 2",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Mise en forme · Structure · Registre et politesse · Langue · Longueur",
-    "file": "/fle/materials/audio/unit02_lettre-de-motivation-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_lettre-de-motivation-e/vocab2.ogg",
+    "tts": "Mise en forme.\nStructure.\nRegistre et politesse.\nLangue.\nLongueur."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1 — Compréhension écrite · 2 — Registre et formules · 3 — Expression écrite · Total",
-    "file": "/fle/materials/audio/unit02_lettre-de-motivation-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit02_lettre-de-motivation-e/vocab3.ogg",
+    "tts": "1 — Compréhension écrite.\n2 — Registre et formules.\n3 — Expression écrite.\nTotal."
   }
 ]

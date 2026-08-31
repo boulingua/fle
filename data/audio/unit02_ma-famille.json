@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la mère · le père · les parents · le frère · la sœur · le grand-père · la grand-mère · la fille · le fils · l'oncle · la tante · le cousin · la cousine · le chien · le chat",
-    "file": "/fle/materials/audio/unit02_ma-famille/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_ma-famille/vocab1.ogg",
+    "tts": "la mère.\nle père.\nles parents.\nle frère.\nla sœur.\nle grand-père.\nla grand-mère.\nla fille.\nle fils.\nl'oncle.\nla tante.\nle cousin.\nla cousine.\nle chien.\nle chat."
   },
   {
     "label": "Texte 1",
@@ -22,16 +23,19 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Vocabulaire de la famille (≥ 4 membres) · Adjectifs possessifs corrects (≥ 3) · Âge exprimé avec avoir (≥ 2) · Prononciation compréhensible · Durée d'environ 1 minute",
-    "file": "/fle/materials/audio/unit02_ma-famille/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_ma-famille/vocab2.ogg",
+    "tts": "Vocabulaire de la famille (≥ 4 membres).\nAdjectifs possessifs corrects (≥ 3).\nÂge exprimé avec avoir (≥ 2).\nPrononciation compréhensible.\nDurée d'environ 1 minute."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1 — Vocabulaire · 2 — Possessifs · 3 — Expression écrite · 4 — Expression orale · Total",
-    "file": "/fle/materials/audio/unit02_ma-famille/vocab3.ogg"
+    "file": "/fle/materials/audio/unit02_ma-famille/vocab3.ogg",
+    "tts": "1 — Vocabulaire.\n2 — Possessifs.\n3 — Expression écrite.\n4 — Expression orale.\nTotal."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "Activer · S'entraîner (Ex. 1–4 + correction) · Produire (préparation orale) · Réfléchir",
-    "file": "/fle/materials/audio/unit02_ma-famille/vocab4.ogg"
+    "file": "/fle/materials/audio/unit02_ma-famille/vocab4.ogg",
+    "tts": "Activer.\nS'entraîner (Ex. 1–4 + correction).\nProduire (préparation orale).\nRéfléchir."
   }
 ]

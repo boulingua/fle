@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un stage / une stagiaire · faire un stage · une entreprise · le tuteur / la tutrice · les horaires (m.) · une tâche · un rapport de stage · un métier · un secteur d'activité · observer · aider · apprendre",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab1.ogg",
+    "tts": "un stage / une stagiaire.\nfaire un stage.\nune entreprise.\nle tuteur / la tutrice.\nles horaires (m.).\nune tâche.\nun rapport de stage.\nun métier.\nun secteur d'activité.\nobserver.\naider.\napprendre."
   },
   {
     "label": "Dialogue 2",
@@ -22,11 +23,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Passé composé · Structure et connecteurs · Vocabulaire du travail · Correction de la langue",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab2.ogg",
+    "tts": "Contenu.\nPassé composé.\nStructure et connecteurs.\nVocabulaire du travail.\nCorrection de la langue."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1 — Compréhension écrite · 2 — Vocabulaire · 3 — Expression écrite · Total",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab3.ogg"
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab3.ogg",
+    "tts": "1 — Compréhension écrite.\n2 — Vocabulaire.\n3 — Expression écrite.\nTotal."
   }
 ]

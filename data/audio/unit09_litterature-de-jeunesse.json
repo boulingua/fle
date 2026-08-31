@@ -7,17 +7,20 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "Comtesse de Ségur · Hector Malot · Daniel Pennac · Marie-Aude Murail · Anne-Laure Bondoux",
-    "file": "/fle/materials/audio/unit09_litterature-de-jeunesse/vocab1.ogg"
+    "file": "/fle/materials/audio/unit09_litterature-de-jeunesse/vocab1.ogg",
+    "tts": "Comtesse de Ségur.\nHector Malot.\nDaniel Pennac.\nMarie-Aude Murail.\nAnne-Laure Bondoux."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "arriver · finir · prendre · être · avoir",
-    "file": "/fle/materials/audio/unit09_litterature-de-jeunesse/vocab2.ogg"
+    "file": "/fle/materials/audio/unit09_litterature-de-jeunesse/vocab2.ogg",
+    "tts": "arriver.\nfinir.\nprendre.\nêtre.\navoir."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "un personnage · le narrateur / la narratrice · l'intrigue (f.) · le dénouement · un thème · le registre · un extrait · émouvant · touchant",
-    "file": "/fle/materials/audio/unit09_litterature-de-jeunesse/vocab3.ogg"
+    "file": "/fle/materials/audio/unit09_litterature-de-jeunesse/vocab3.ogg",
+    "tts": "un personnage.\nle narrateur / la narratrice.\nl'intrigue (f.).\nle dénouement.\nun thème.\nle registre.\nun extrait.\némouvant.\ntouchant."
   },
   {
     "label": "Texte 2",

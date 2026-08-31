@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une invitation / un carton · fêter (son anniversaire) · un cadeau · le gâteau · les bougies · souffler les bougies · faire un vœu · inviter quelqu'un · accepter · refuser · répondre (avant le…) · R.S.V.P. · avec plaisir · désolé(e)",
-    "file": "/fle/materials/audio/unit09_fete-et-invitations/vocab1.ogg"
+    "file": "/fle/materials/audio/unit09_fete-et-invitations/vocab1.ogg",
+    "tts": "une invitation / un carton.\nfêter (son anniversaire).\nun cadeau.\nle gâteau.\nles bougies.\nsouffler les bougies.\nfaire un vœu.\ninviter quelqu'un.\naccepter.\nrefuser.\nrépondre (avant le…).\nR.S.V.P..\navec plaisir.\ndésolé(e)."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "je · tu · il / elle / on · nous · vous · ils / elles",
-    "file": "/fle/materials/audio/unit09_fete-et-invitations/vocab2.ogg"
+    "file": "/fle/materials/audio/unit09_fete-et-invitations/vocab2.ogg",
+    "tts": "je.\ntu.\nil / elle / on.\nnous.\nvous.\nils / elles."
   },
   {
     "label": "Texte 1",
@@ -22,11 +24,13 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "1 · 2 · 3 · Total",
-    "file": "/fle/materials/audio/unit09_fete-et-invitations/vocab3.ogg"
+    "file": "/fle/materials/audio/unit09_fete-et-invitations/vocab3.ogg",
+    "tts": "1.\n2.\n3.\nTotal."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir · Bilan / aperçu",
-    "file": "/fle/materials/audio/unit09_fete-et-invitations/vocab4.ogg"
+    "file": "/fle/materials/audio/unit09_fete-et-invitations/vocab4.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir.\nBilan / aperçu."
   }
 ]

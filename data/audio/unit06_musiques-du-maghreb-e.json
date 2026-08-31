@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un single · un clip · un album · une mélodie · un refrain · les paroles · une voix · un featuring · une tournée · un métissage",
-    "file": "/fle/materials/audio/unit06_musiques-du-maghreb-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_musiques-du-maghreb-e/vocab1.ogg",
+    "tts": "un single.\nun clip.\nun album.\nune mélodie.\nun refrain.\nles paroles.\nune voix.\nun featuring.\nune tournée.\nun métissage."
   },
   {
     "label": "Texte 1",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu (pays, style, étape de carrière) · Vocabulaire musical (≥ 5 mots) · Passé composé correct · Opinion personnelle · Total",
-    "file": "/fle/materials/audio/unit06_musiques-du-maghreb-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit06_musiques-du-maghreb-e/vocab2.ogg",
+    "tts": "Contenu (pays, style, étape de carrière).\nVocabulaire musical (≥ 5 mots).\nPassé composé correct.\nOpinion personnelle.\nTotal."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir · Aperçu",
-    "file": "/fle/materials/audio/unit06_musiques-du-maghreb-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit06_musiques-du-maghreb-e/vocab3.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir.\nAperçu."
   }
 ]

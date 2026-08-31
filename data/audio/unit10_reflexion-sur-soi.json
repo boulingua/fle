@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le parcours d'apprentissage · la métacognition · apprendre à apprendre · une stratégie d'apprentissage · s'autoévaluer / l'autoévaluation · se fixer un objectif · une prise de conscience · un point fort / un point faible · faire le bilan · surmonter une difficulté · persévérer / la persévérance · tirer une leçon de qqch · désormais · à l'avenir",
-    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab1.ogg",
+    "tts": "le parcours d'apprentissage.\nla métacognition.\napprendre à apprendre.\nune stratégie d'apprentissage.\ns'autoévaluer / l'autoévaluation.\nse fixer un objectif.\nune prise de conscience.\nun point fort / un point faible.\nfaire le bilan.\nsurmonter une difficulté.\npersévérer / la persévérance.\ntirer une leçon de qqch.\ndésormais.\nà l'avenir."
   },
   {
     "label": "Texte 1",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu et pertinence · Structure · Correction linguistique · Richesse lexicale · Fluidité et prononciation",
-    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab2.ogg",
+    "tts": "Contenu et pertinence.\nStructure.\nCorrection linguistique.\nRichesse lexicale.\nFluidité et prononciation."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "A (oral) · A (oral) · A (oral) · A (oral) · B (écrit) · B (écrit) · B (écrit) · B (écrit) · Total",
-    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab3.ogg"
+    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab3.ogg",
+    "tts": "A (oral).\nA (oral).\nA (oral).\nA (oral).\nB (écrit).\nB (écrit).\nB (écrit).\nB (écrit).\nTotal."
   }
 ]

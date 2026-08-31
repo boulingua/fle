@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "Identité · Famille · École · Journée · Goûts · Météo / saisons · Ma chambre · Voyages · Connecteurs",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab1.ogg",
+    "tts": "Identité.\nFamille.\nÉcole.\nJournée.\nGoûts.\nMétéo / saisons.\nMa chambre.\nVoyages.\nConnecteurs."
   },
   {
     "label": "Texte 1",
@@ -17,16 +18,19 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Durée · Langue · Cohésion · Interaction",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab2.ogg",
+    "tts": "Contenu.\nDurée.\nLangue.\nCohésion.\nInteraction."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1 — Compréhension · 2 — Oral · 3 — Écrit · Total",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab3.ogg",
+    "tts": "1 — Compréhension.\n2 — Oral.\n3 — Écrit.\nTotal."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "Situation de départ + Activer · Apporter (vocab, langue, texte, culture) · S'entraîner (Ex. 1–4) · Produire (préparation + passages) · Réfléchir + aperçu",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab4.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab4.ogg",
+    "tts": "Situation de départ + Activer.\nApporter (vocab, langue, texte, culture).\nS'entraîner (Ex. 1–4).\nProduire (préparation + passages).\nRéfléchir + aperçu."
   }
 ]

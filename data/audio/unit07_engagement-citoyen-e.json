@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "s'engager (dans une asso) · le bénévolat / un·e bénévole · militer / un·e militant·e · manifester / une manifestation · une pétition · signer · sensibiliser (le public) · le Service Civique · une association (une  asso ) · revendiquer un droit · le bien commun",
-    "file": "/fle/materials/audio/unit07_engagement-citoyen-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit07_engagement-citoyen-e/vocab1.ogg",
+    "tts": "s'engager (dans une asso).\nle bénévolat / un·e bénévole.\nmiliter / un·e militant·e.\nmanifester / une manifestation.\nune pétition.\nsigner.\nsensibiliser (le public).\nle Service Civique.\nune association (une  asso ).\nrevendiquer un droit.\nle bien commun."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure · Connecteurs argumentatifs · Subjonctif · Vocabulaire de l'engagement · Prise de position",
-    "file": "/fle/materials/audio/unit07_engagement-citoyen-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit07_engagement-citoyen-e/vocab2.ogg",
+    "tts": "Structure.\nConnecteurs argumentatifs.\nSubjonctif.\nVocabulaire de l'engagement.\nPrise de position."
   }
 ]

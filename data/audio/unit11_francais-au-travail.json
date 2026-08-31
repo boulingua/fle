@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un brief · un debrief · une deadline · livrer (un projet) · un point (faire un point) · le feedback · onboarder · un courriel / un mail · en télétravail · un rendez-vous (un RDV) · solliciter · disponible",
-    "file": "/fle/materials/audio/unit11_francais-au-travail/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_francais-au-travail/vocab1.ogg",
+    "tts": "un brief.\nun debrief.\nune deadline.\nlivrer (un projet).\nun point (faire un point).\nle feedback.\nonboarder.\nun courriel / un mail.\nen télétravail.\nun rendez-vous (un RDV).\nsolliciter.\ndisponible."
   },
   {
     "label": "Dialogue 2",
@@ -27,7 +28,8 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Lexique pro · Registre · Interaction",
-    "file": "/fle/materials/audio/unit11_francais-au-travail/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_francais-au-travail/vocab2.ogg",
+    "tts": "Contenu.\nLexique pro.\nRegistre.\nInteraction."
   },
   {
     "label": "Texte 2",

@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le père / le papa · la mère / la maman · le frère · la sœur · le grand-père · la grand-mère · l'oncle · la tante · le cousin / la cousine · les parents / les grands-parents",
-    "file": "/fle/materials/audio/unit02_ma-famille-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_ma-famille-e/vocab1.ogg",
+    "tts": "le père / le papa.\nla mère / la maman.\nle frère.\nla sœur.\nle grand-père.\nla grand-mère.\nl'oncle.\nla tante.\nle cousin / la cousine.\nles parents / les grands-parents."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "très bien · bien · satisfaisant · passable · insuffisant",
-    "file": "/fle/materials/audio/unit02_ma-famille-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_ma-famille-e/vocab2.ogg",
+    "tts": "très bien.\nbien.\nsatisfaisant.\npassable.\ninsuffisant."
   }
 ]

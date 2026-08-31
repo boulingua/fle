@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un·e correspondant·e · un séjour · une habitude · un malentendu · surprendre · découvrir · s'habituer à · un monument · accueillir",
-    "file": "/fle/materials/audio/unit08_un-allemand-a-paris-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_un-allemand-a-paris-e/vocab1.ogg",
+    "tts": "un·e correspondant·e.\nun séjour.\nune habitude.\nun malentendu.\nsurprendre.\ndécouvrir.\ns'habituer à.\nun monument.\naccueillir."
   },
   {
     "label": "Dialogue 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Réalisation de la tâche · Futur simple · Vocabulaire · Regard interculturel · Correction de la langue",
-    "file": "/fle/materials/audio/unit08_un-allemand-a-paris-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit08_un-allemand-a-paris-e/vocab2.ogg",
+    "tts": "Réalisation de la tâche.\nFutur simple.\nVocabulaire.\nRegard interculturel.\nCorrection de la langue."
   }
 ]

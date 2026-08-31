@@ -7,21 +7,25 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la pomme · la banane · la fraise · l'orange (f.) · le raisin · la poire",
-    "file": "/fle/materials/audio/unit06_au-marche/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_au-marche/vocab1.ogg",
+    "tts": "la pomme.\nla banane.\nla fraise.\nl'orange (f.).\nle raisin.\nla poire."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "Salutation et politesse (bonjour, s'il vous plaît, merci) · Trois produits demandés avec une quantité · Question sur le prix (combien ça coûte / ça fait combien) · Prononciation compréhensible, dialogue fluide",
-    "file": "/fle/materials/audio/unit06_au-marche/vocab2.ogg"
+    "file": "/fle/materials/audio/unit06_au-marche/vocab2.ogg",
+    "tts": "Salutation et politesse (bonjour, s'il vous plaît, merci).\nTrois produits demandés avec une quantité.\nQuestion sur le prix (combien ça coûte / ça fait combien).\nPrononciation compréhensible, dialogue fluide."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "sehr gut · gut · befriedigend · ausreichend · mangelhaft · ungenügend",
-    "file": "/fle/materials/audio/unit06_au-marche/vocab3.ogg"
+    "file": "/fle/materials/audio/unit06_au-marche/vocab3.ogg",
+    "tts": "sehr gut.\ngut.\nbefriedigend.\nausreichend.\nmangelhaft.\nungenügend."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir",
-    "file": "/fle/materials/audio/unit06_au-marche/vocab4.ogg"
+    "file": "/fle/materials/audio/unit06_au-marche/vocab4.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir."
   }
 ]

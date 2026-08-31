@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un·e réalisateur·rice · un·e scénariste · un long-métrage · un court-métrage · une bande-annonce · un sous-titre · le doublage · une scène",
-    "file": "/fle/materials/audio/unit10_cinema-quebecois/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_cinema-quebecois/vocab1.ogg",
+    "tts": "un·e réalisateur·rice.\nun·e scénariste.\nun long-métrage.\nun court-métrage.\nune bande-annonce.\nun sous-titre.\nle doublage.\nune scène."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Langue · Prononciation · Total",
-    "file": "/fle/materials/audio/unit10_cinema-quebecois/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_cinema-quebecois/vocab2.ogg",
+    "tts": "Contenu.\nLangue.\nPrononciation.\nTotal."
   }
 ]

@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "se lever · se laver · s'habiller · se brosser les dents · se coucher · le petit déjeuner · la cantine · les cours · les devoirs · tôt / tard",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab1.ogg",
+    "tts": "se lever.\nse laver.\ns'habiller.\nse brosser les dents.\nse coucher.\nle petit déjeuner.\nla cantine.\nles cours.\nles devoirs.\ntôt / tard."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "je · tu · il / elle / on · nous · vous · ils / elles",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab2.ogg",
+    "tts": "je.\ntu.\nil / elle / on.\nnous.\nvous.\nils / elles."
   },
   {
     "label": "Texte 1",
@@ -22,11 +24,13 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Contenu · Verbes pronominaux · Heures · Mots de liaison · Fluidité / prononciation",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab3.ogg",
+    "tts": "Contenu.\nVerbes pronominaux.\nHeures.\nMots de liaison.\nFluidité / prononciation."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "sehr gut · gut · befriedigend · ausreichend · mangelhaft · ungenügend",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab4.ogg"
+    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab4.ogg",
+    "tts": "sehr gut.\ngut.\nbefriedigend.\nausreichend.\nmangelhaft.\nungenügend."
   }
 ]

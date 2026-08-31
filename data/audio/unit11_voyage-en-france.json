@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la mer · la plage · la montagne · le port · une ville · une région · un monument · un pont · visiter · monter · il fait chaud · il fait beau · une carte postale · bisous",
-    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab1.ogg",
+    "tts": "la mer.\nla plage.\nla montagne.\nle port.\nune ville.\nune région.\nun monument.\nun pont.\nvisiter.\nmonter.\nil fait chaud.\nil fait beau.\nune carte postale.\nbisous."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "Paris · Marseille · Lyon · Strasbourg · Nice",
-    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab2.ogg",
+    "tts": "Paris.\nMarseille.\nLyon.\nStrasbourg.\nNice."
   },
   {
     "label": "Texte 1",
@@ -22,6 +24,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Structure de la carte (lieu, date, salutation, fin) · Contenu (météo + activité + nourriture) · Langue ( en / à ,  il fait , vocabulaire) · Lisibilité et présentation · Total",
-    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab3.ogg"
+    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab3.ogg",
+    "tts": "Structure de la carte (lieu, date, salutation, fin).\nContenu (météo + activité + nourriture).\nLangue ( en / à ,  il fait , vocabulaire).\nLisibilité et présentation.\nTotal."
   }
 ]

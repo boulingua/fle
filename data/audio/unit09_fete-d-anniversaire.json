@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "l'invitation (f.) · fêter / faire la fête · le cadeau · offrir un cadeau · le gâteau · la bougie · souffler les bougies · le ballon · inviter quelqu'un · accepter / refuser · la surprise · Joyeux anniversaire !",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab1.ogg"
+    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab1.ogg",
+    "tts": "l'invitation (f.).\nfêter / faire la fête.\nle cadeau.\noffrir un cadeau.\nle gâteau.\nla bougie.\nsouffler les bougies.\nle ballon.\ninviter quelqu'un.\naccepter / refuser.\nla surprise.\nJoyeux anniversaire !."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "je · tu · il / elle / on · nous · vous · ils / elles",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab2.ogg"
+    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab2.ogg",
+    "tts": "je.\ntu.\nil / elle / on.\nnous.\nvous.\nils / elles."
   },
   {
     "label": "Texte 2",
@@ -32,6 +34,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Réalisation de la tâche · Futur proche · Vocabulaire de la fête · Interaction · Prononciation",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab3.ogg"
+    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab3.ogg",
+    "tts": "Réalisation de la tâche.\nFutur proche.\nVocabulaire de la fête.\nInteraction.\nPrononciation."
   }
 ]

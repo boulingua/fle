@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une rafle · la déportation · l'Occupation (f.) · la collaboration · un passé sensible · la mémoire · la reconnaissance · une commémoration · imprescriptible · occulté·e",
-    "file": "/fle/materials/audio/unit09_histoire-et-memoire/vocab1.ogg"
+    "file": "/fle/materials/audio/unit09_histoire-et-memoire/vocab1.ogg",
+    "tts": "une rafle.\nla déportation.\nl'Occupation (f.).\nla collaboration.\nun passé sensible.\nla mémoire.\nla reconnaissance.\nune commémoration.\nimprescriptible.\nocculté·e."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu et exactitude · Structure · Langue · Correction et registre",
-    "file": "/fle/materials/audio/unit09_histoire-et-memoire/vocab2.ogg"
+    "file": "/fle/materials/audio/unit09_histoire-et-memoire/vocab2.ogg",
+    "tts": "Contenu et exactitude.\nStructure.\nLangue.\nCorrection et registre."
   }
 ]

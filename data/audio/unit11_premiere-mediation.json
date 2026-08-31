@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "die Öffnungszeiten · geöffnet / geschlossen · der Eintritt · kostenlos · die Ausstellung · der Text sagt, dass… · laut dem Text · das Wesentliche",
-    "file": "/fle/materials/audio/unit11_premiere-mediation/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_premiere-mediation/vocab1.ogg",
+    "tts": "die Öffnungszeiten.\ngeöffnet / geschlossen.\nder Eintritt.\nkostenlos.\ndie Ausstellung.\nder Text sagt, dass….\nlaut dem Text.\ndas Wesentliche."
   },
   {
     "label": "Texte 1",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Sens transmis · Pas de mot à mot · Chiffres exacts · Adaptation · Langue",
-    "file": "/fle/materials/audio/unit11_premiere-mediation/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_premiere-mediation/vocab2.ogg",
+    "tts": "Sens transmis.\nPas de mot à mot.\nChiffres exacts.\nAdaptation.\nLangue."
   }
 ]

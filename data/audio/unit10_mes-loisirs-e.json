@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le football (le foot) · la danse · le judo · la natation · le théâtre · la guitare · le piano · la lecture · l'escalade (f.) · le dessin",
-    "file": "/fle/materials/audio/unit10_mes-loisirs-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_mes-loisirs-e/vocab1.ogg",
+    "tts": "le football (le foot).\nla danse.\nle judo.\nla natation.\nle théâtre.\nla guitare.\nle piano.\nla lecture.\nl'escalade (f.).\nle dessin."
   },
   {
     "label": "Dialogue 1",
@@ -17,16 +18,19 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structures · Fréquence · Interaction · Fluidité",
-    "file": "/fle/materials/audio/unit10_mes-loisirs-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_mes-loisirs-e/vocab2.ogg",
+    "tts": "Structures.\nFréquence.\nInteraction.\nFluidité."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Compréhension écrite · Grammaire · Expression écrite (interaction) · Total",
-    "file": "/fle/materials/audio/unit10_mes-loisirs-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit10_mes-loisirs-e/vocab3.ogg",
+    "tts": "Compréhension écrite.\nGrammaire.\nExpression écrite (interaction).\nTotal."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir",
-    "file": "/fle/materials/audio/unit10_mes-loisirs-e/vocab4.ogg"
+    "file": "/fle/materials/audio/unit10_mes-loisirs-e/vocab4.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir."
   }
 ]

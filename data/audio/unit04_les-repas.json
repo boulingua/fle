@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le petit déjeuner · le déjeuner · le goûter · le dîner",
-    "file": "/fle/materials/audio/unit04_les-repas/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_les-repas/vocab1.ogg",
+    "tts": "le petit déjeuner.\nle déjeuner.\nle goûter.\nle dîner."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "le pain · le fromage · le beurre · la confiture · le jambon · l'œuf (m.) · la salade · la pomme · le yaourt · le gâteau · l'eau (f.) · le jus d'orange · le café · le chocolat chaud",
-    "file": "/fle/materials/audio/unit04_les-repas/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_les-repas/vocab2.ogg",
+    "tts": "le pain.\nle fromage.\nle beurre.\nla confiture.\nle jambon.\nl'œuf (m.).\nla salade.\nla pomme.\nle yaourt.\nle gâteau.\nl'eau (f.).\nle jus d'orange.\nle café.\nle chocolat chaud."
   },
   {
     "label": "Texte 1",
@@ -27,16 +29,19 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Politesse (salutation, je voudrais) · Trois partitifs corrects · Vocabulaire des aliments varié · Prononciation compréhensible · Dialogue joué (sans lire)",
-    "file": "/fle/materials/audio/unit04_les-repas/vocab3.ogg"
+    "file": "/fle/materials/audio/unit04_les-repas/vocab3.ogg",
+    "tts": "Politesse (salutation, je voudrais).\nTrois partitifs corrects.\nVocabulaire des aliments varié.\nPrononciation compréhensible.\nDialogue joué (sans lire)."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "sehr gut · gut · befriedigend · ausreichend · mangelhaft",
-    "file": "/fle/materials/audio/unit04_les-repas/vocab4.ogg"
+    "file": "/fle/materials/audio/unit04_les-repas/vocab4.ogg",
+    "tts": "sehr gut.\ngut.\nbefriedigend.\nausreichend.\nmangelhaft."
   },
   {
     "label": "Vocabulaire 5",
     "transcript": "Situation de départ + Activer · Apporter (vocabulaire + partitifs) · S'entraîner (Ex. 1–4) · Produire (dialogue) · Réfléchir + aperçu",
-    "file": "/fle/materials/audio/unit04_les-repas/vocab5.ogg"
+    "file": "/fle/materials/audio/unit04_les-repas/vocab5.ogg",
+    "tts": "Situation de départ + Activer.\nApporter (vocabulaire + partitifs).\nS'entraîner (Ex. 1–4).\nProduire (dialogue).\nRéfléchir + aperçu."
   }
 ]

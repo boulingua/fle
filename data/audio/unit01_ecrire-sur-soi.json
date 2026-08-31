@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un souvenir · se souvenir de qqch · évoquer un souvenir · l'écriture de soi (f.) · l'autobiographie (f.) · l'autofiction (f.) · le récit (m.) · la mémoire (f.) · une image (f.) · l'incipit (m.) · une génération (f.) · le pacte de vérité",
-    "file": "/fle/materials/audio/unit01_ecrire-sur-soi/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_ecrire-sur-soi/vocab1.ogg",
+    "tts": "un souvenir.\nse souvenir de qqch.\névoquer un souvenir.\nl'écriture de soi (f.).\nl'autobiographie (f.).\nl'autofiction (f.).\nle récit (m.).\nla mémoire (f.).\nune image (f.).\nl'incipit (m.).\nune génération (f.).\nle pacte de vérité."
   },
   {
     "label": "Texte 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu / consigne · Emploi de l'imparfait · Richesse du lexique · Langue · Cohérence / longueur · Total",
-    "file": "/fle/materials/audio/unit01_ecrire-sur-soi/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_ecrire-sur-soi/vocab2.ogg",
+    "tts": "Contenu / consigne.\nEmploi de l'imparfait.\nRichesse du lexique.\nLangue.\nCohérence / longueur.\nTotal."
   }
 ]

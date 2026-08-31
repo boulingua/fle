@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "l'heure (f.) · la minute · le jour · la semaine · le mois · aujourd'hui · demain · hier · midi / minuit · le matin / le soir · et quart / et demie · moins le quart · un rendez-vous · un emploi du temps",
-    "file": "/fle/materials/audio/unit07_le-temps-et-l-heure/vocab1.ogg"
+    "file": "/fle/materials/audio/unit07_le-temps-et-l-heure/vocab1.ogg",
+    "tts": "l'heure (f.).\nla minute.\nle jour.\nla semaine.\nle mois.\naujourd'hui.\ndemain.\nhier.\nmidi / minuit.\nle matin / le soir.\net quart / et demie.\nmoins le quart.\nun rendez-vous.\nun emploi du temps."
   },
   {
     "label": "Texte 1",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "1 — Lexique · 2 — L'heure · 3 — Expression écrite · Total",
-    "file": "/fle/materials/audio/unit07_le-temps-et-l-heure/vocab2.ogg"
+    "file": "/fle/materials/audio/unit07_le-temps-et-l-heure/vocab2.ogg",
+    "tts": "1 — Lexique.\n2 — L'heure.\n3 — Expression écrite.\nTotal."
   }
 ]

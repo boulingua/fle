@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "dresser un bilan · un acquis · consolider · une progression / un progrès · se projeter · viser (un objectif) · franchir une étape · l'orientation",
-    "file": "/fle/materials/audio/unit12_bilan-9e-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-9e-e/vocab1.ogg",
+    "tts": "dresser un bilan.\nun acquis.\nconsolider.\nune progression / un progrès.\nse projeter.\nviser (un objectif).\nfranchir une étape.\nl'orientation."
   },
   {
     "label": "Texte 1",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "1 · 2 · 3 · 4 · Total",
-    "file": "/fle/materials/audio/unit12_bilan-9e-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-9e-e/vocab2.ogg",
+    "tts": "1.\n2.\n3.\n4.\nTotal."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir · Aperçu",
-    "file": "/fle/materials/audio/unit12_bilan-9e-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-9e-e/vocab3.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir.\nAperçu."
   }
 ]

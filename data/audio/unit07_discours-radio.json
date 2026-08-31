@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un éditorial / un édito · une chronique · être à l'antenne · le direct · un auditeur / une auditrice · s'adresser à · le débit · le registre (de langue) · la chute · tendre l'oreille",
-    "file": "/fle/materials/audio/unit07_discours-radio/vocab1.ogg"
+    "file": "/fle/materials/audio/unit07_discours-radio/vocab1.ogg",
+    "tts": "un éditorial / un édito.\nune chronique.\nêtre à l'antenne.\nle direct.\nun auditeur / une auditrice.\ns'adresser à.\nle débit.\nle registre (de langue).\nla chute.\ntendre l'oreille."
   },
   {
     "label": "Dialogue 1",
@@ -12,11 +13,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure (identification → développement → chute) · Procédés d'oralité employés (≥ 3, corrects) · Registre radio adapté (adresse, phrases courtes) · Prononciation, débit, fluidité · Chute et signature efficaces",
-    "file": "/fle/materials/audio/unit07_discours-radio/vocab2.ogg"
+    "file": "/fle/materials/audio/unit07_discours-radio/vocab2.ogg",
+    "tts": "Structure (identification → développement → chute).\nProcédés d'oralité employés (≥ 3, corrects).\nRegistre radio adapté (adresse, phrases courtes).\nPrononciation, débit, fluidité.\nChute et signature efficaces."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Contenu et structure · Procédés rhétoriques (≥ 3) · Registre radio · Prononciation / fluidité",
-    "file": "/fle/materials/audio/unit07_discours-radio/vocab3.ogg"
+    "file": "/fle/materials/audio/unit07_discours-radio/vocab3.ogg",
+    "tts": "Contenu et structure.\nProcédés rhétoriques (≥ 3).\nRegistre radio.\nPrononciation / fluidité."
   }
 ]

@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le réseau social · une publication / un post · un like / aimer · un filtre · l'algorithme (m.) · la bulle de filtre · l'identité numérique · la comparaison · la déconnexion · le bien-être",
-    "file": "/fle/materials/audio/unit08_reseaux-sociaux/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_reseaux-sociaux/vocab1.ogg",
+    "tts": "le réseau social.\nune publication / un post.\nun like / aimer.\nun filtre.\nl'algorithme (m.).\nla bulle de filtre.\nl'identité numérique.\nla comparaison.\nla déconnexion.\nle bien-être."
   },
   {
     "label": "Texte 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu et arguments · Interaction · Langue · Fluidité et prononciation",
-    "file": "/fle/materials/audio/unit08_reseaux-sociaux/vocab2.ogg"
+    "file": "/fle/materials/audio/unit08_reseaux-sociaux/vocab2.ogg",
+    "tts": "Contenu et arguments.\nInteraction.\nLangue.\nFluidité et prononciation."
   }
 ]

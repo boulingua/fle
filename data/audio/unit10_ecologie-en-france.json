@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un argument · une source · un fait chiffré · la transition énergétique · l'empreinte carbone (f.) · les énergies renouvelables · les déchets radioactifs · la neutralité carbone · nuancer un propos · étayer une thèse",
-    "file": "/fle/materials/audio/unit10_ecologie-en-france/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_ecologie-en-france/vocab1.ogg",
+    "tts": "un argument.\nune source.\nun fait chiffré.\nla transition énergétique.\nl'empreinte carbone (f.).\nles énergies renouvelables.\nles déchets radioactifs.\nla neutralité carbone.\nnuancer un propos.\nétayer une thèse."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu / arguments · Interaction · Langue · Fluidité / prononciation",
-    "file": "/fle/materials/audio/unit10_ecologie-en-france/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_ecologie-en-france/vocab2.ogg",
+    "tts": "Contenu / arguments.\nInteraction.\nLangue.\nFluidité / prononciation."
   }
 ]

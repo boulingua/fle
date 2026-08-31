@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un argument · une prise de position · un exemple · être pour / contre · nuancé·e · un inconvénient · un avantage · convaincre",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_argumenter-pour-contre-e/vocab1.ogg",
+    "tts": "un argument.\nune prise de position.\nun exemple.\nêtre pour / contre.\nnuancé·e.\nun inconvénient.\nun avantage.\nconvaincre."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "1 · 2 · 3 · 4",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_argumenter-pour-contre-e/vocab2.ogg",
+    "tts": "1.\n2.\n3.\n4."
   },
   {
     "label": "Dialogue 2",
@@ -22,6 +24,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "1 · 2 · 3 · Total",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit04_argumenter-pour-contre-e/vocab3.ogg",
+    "tts": "1.\n2.\n3.\nTotal."
   }
 ]

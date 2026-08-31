@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "dresser un bilan · une épreuve · les acquis (m. pl.) · une révision · une lacune · consolider · la confiance en soi · relire et corriger · un point fort / faible · aborder (une épreuve)",
-    "file": "/fle/materials/audio/unit12_bilan-final-abitur/vocab1.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-final-abitur/vocab1.ogg",
+    "tts": "dresser un bilan.\nune épreuve.\nles acquis (m. pl.).\nune révision.\nune lacune.\nconsolider.\nla confiance en soi.\nrelire et corriger.\nun point fort / faible.\naborder (une épreuve)."
   },
   {
     "label": "Texte 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Écrit — structure en trois parties · Écrit — correction de la langue · Écrit — connecteurs et cohérence · Écrit — richesse et pertinence du contenu · Oral — structure et clarté du propos · Oral — correction et richesse de la langue · Oral — fluidité et prononciation · Total",
-    "file": "/fle/materials/audio/unit12_bilan-final-abitur/vocab2.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-final-abitur/vocab2.ogg",
+    "tts": "Écrit — structure en trois parties.\nÉcrit — correction de la langue.\nÉcrit — connecteurs et cohérence.\nÉcrit — richesse et pertinence du contenu.\nOral — structure et clarté du propos.\nOral — correction et richesse de la langue.\nOral — fluidité et prononciation.\nTotal."
   }
 ]

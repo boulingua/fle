@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la comparaison · la métaphore · la personnification · l'anaphore · la gradation · l'oxymore · le chiasme · l'hyperbole",
-    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab1.ogg",
+    "tts": "la comparaison.\nla métaphore.\nla personnification.\nl'anaphore.\nla gradation.\nl'oxymore.\nle chiasme.\nl'hyperbole."
   },
   {
     "label": "Texte 1",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "a) oxymore · b) chiasme · c) hyperbole · d) anaphore",
-    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab2.ogg",
+    "tts": "a) oxymore.\nb) chiasme.\nc) hyperbole.\nd) anaphore."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Repérage · Analyse · Langue · Cohérence · Total",
-    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab3.ogg"
+    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab3.ogg",
+    "tts": "Repérage.\nAnalyse.\nLangue.\nCohérence.\nTotal."
   }
 ]

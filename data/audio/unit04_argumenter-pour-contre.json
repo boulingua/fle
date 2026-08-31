@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "à mon avis / selon moi · je suis pour / contre · un argument · d'abord · ensuite · de plus · cependant · en revanche · en conclusion",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/vocab1.ogg",
+    "tts": "à mon avis / selon moi.\nje suis pour / contre.\nun argument.\nd'abord.\nensuite.\nde plus.\ncependant.\nen revanche.\nen conclusion."
   },
   {
     "label": "Texte 1",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Compréhension écrite (T1) · Connecteurs — emploi et place (T2) · Expression écrite — structure et contenu · Expression écrite — langue et connecteurs · Total",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/vocab2.ogg",
+    "tts": "Compréhension écrite (T1).\nConnecteurs — emploi et place (T2).\nExpression écrite — structure et contenu.\nExpression écrite — langue et connecteurs.\nTotal."
   }
 ]

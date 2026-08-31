@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "l'avenir (m.) · un projet · un rêve · un métier · les études (f. pl.) · faire un stage · s'installer (quelque part) · gagner sa vie · fonder une famille · plus tard · dans dix ans · peut-être",
-    "file": "/fle/materials/audio/unit04_futurs-projets/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_futurs-projets/vocab1.ogg",
+    "tts": "l'avenir (m.).\nun projet.\nun rêve.\nun métier.\nles études (f. pl.).\nfaire un stage.\ns'installer (quelque part).\ngagner sa vie.\nfonder une famille.\nplus tard.\ndans dix ans.\npeut-être."
   },
   {
     "label": "Texte 2",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Futur simple · Organisation · Fluidité / prononciation · Total",
-    "file": "/fle/materials/audio/unit04_futurs-projets/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_futurs-projets/vocab2.ogg",
+    "tts": "Contenu.\nFutur simple.\nOrganisation.\nFluidité / prononciation.\nTotal."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1 · 2 · 3 — contenu & structure · 3 — langue (futur, orthographe) · Total",
-    "file": "/fle/materials/audio/unit04_futurs-projets/vocab3.ogg"
+    "file": "/fle/materials/audio/unit04_futurs-projets/vocab3.ogg",
+    "tts": "1.\n2.\n3 — contenu & structure.\n3 — langue (futur, orthographe).\nTotal."
   }
 ]

@@ -2,12 +2,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la maison · l'appartement (m.) · la chambre · la cuisine · le salon · la salle de bains · les toilettes (f. pl.) · le couloir · un lit · un bureau · une chaise · une armoire · une étagère · un canapé · un tapis · une fenêtre",
-    "file": "/fle/materials/audio/unit09_ma-chambre-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit09_ma-chambre-e/vocab1.ogg",
+    "tts": "la maison.\nl'appartement (m.).\nla chambre.\nla cuisine.\nle salon.\nla salle de bains.\nles toilettes (f. pl.).\nle couloir.\nun lit.\nun bureau.\nune chaise.\nune armoire.\nune étagère.\nun canapé.\nun tapis.\nune fenêtre."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "sur · sous · dans · devant · derrière · à côté de",
-    "file": "/fle/materials/audio/unit09_ma-chambre-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit09_ma-chambre-e/vocab2.ogg",
+    "tts": "sur.\nsous.\ndans.\ndevant.\nderrière.\nà côté de."
   },
   {
     "label": "Texte 1",
@@ -22,6 +24,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Contenu · Prépositions · Langue · Fluidité / prononciation",
-    "file": "/fle/materials/audio/unit09_ma-chambre-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit09_ma-chambre-e/vocab3.ogg",
+    "tts": "Contenu.\nPrépositions.\nLangue.\nFluidité / prononciation."
   }
 ]

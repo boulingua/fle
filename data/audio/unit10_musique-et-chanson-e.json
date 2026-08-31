@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une chanson · les paroles (f.) · le refrain · le couplet · la mélodie · le rythme · un·e chanteur/chanteuse · un groupe · un tube · un clip · aimer / adorer · détester · préférer",
-    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab1.ogg",
+    "tts": "une chanson.\nles paroles (f.).\nle refrain.\nle couplet.\nla mélodie.\nle rythme.\nun·e chanteur/chanteuse.\nun groupe.\nun tube.\nun clip.\naimer / adorer.\ndétester.\npréférer."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "Céline Dion · Stromae · Aya Nakamura · Magic System · Youssou N'Dour",
-    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab2.ogg",
+    "tts": "Céline Dion.\nStromae.\nAya Nakamura.\nMagic System.\nYoussou N'Dour."
   },
   {
     "label": "Dialogue 2",
@@ -22,6 +24,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Contenu · Goût justifié · Langue · Références",
-    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab3.ogg",
+    "tts": "Contenu.\nGoût justifié.\nLangue.\nRéférences."
   }
 ]

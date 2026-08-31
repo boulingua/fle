@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la colonisation · la décolonisation · l'héritage (m.) · se réapproprier · l'identité (f.) · la représentation · la francophonie · le métissage · la langue maternelle · ambivalent·e",
-    "file": "/fle/materials/audio/unit02_francophonie-postcoloniale/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_francophonie-postcoloniale/vocab1.ogg",
+    "tts": "la colonisation.\nla décolonisation.\nl'héritage (m.).\nse réapproprier.\nl'identité (f.).\nla représentation.\nla francophonie.\nle métissage.\nla langue maternelle.\nambivalent·e."
   },
   {
     "label": "Dialogue 1",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu / argumentation · Structure · Langue · Position personnelle · Total",
-    "file": "/fle/materials/audio/unit02_francophonie-postcoloniale/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_francophonie-postcoloniale/vocab2.ogg",
+    "tts": "Contenu / argumentation.\nStructure.\nLangue.\nPosition personnelle.\nTotal."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Situation de départ + Activer · Apporter (A-D) · S'entraîner (Ex. 1-4) · Produire · Réfléchir + aperçu",
-    "file": "/fle/materials/audio/unit02_francophonie-postcoloniale/vocab3.ogg"
+    "file": "/fle/materials/audio/unit02_francophonie-postcoloniale/vocab3.ogg",
+    "tts": "Situation de départ + Activer.\nApporter (A-D).\nS'entraîner (Ex. 1-4).\nProduire.\nRéfléchir + aperçu."
   }
 ]

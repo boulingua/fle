@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la francophonie · une variété (de langue) · la norme · plurielle / la pluralité · un·e locuteur·rice · l'usage (m.) · enrichir · un patrimoine partagé · légitime · métisser",
-    "file": "/fle/materials/audio/unit02_francophonie-pluralite/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_francophonie-pluralite/vocab1.ogg",
+    "tts": "la francophonie.\nune variété (de langue).\nla norme.\nplurielle / la pluralité.\nun·e locuteur·rice.\nl'usage (m.).\nenrichir.\nun patrimoine partagé.\nlégitime.\nmétisser."
   },
   {
     "label": "Dialogue 2",
@@ -17,16 +18,19 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure · Langue · Fluidité / prononciation",
-    "file": "/fle/materials/audio/unit02_francophonie-pluralite/vocab2.ogg"
+    "file": "/fle/materials/audio/unit02_francophonie-pluralite/vocab2.ogg",
+    "tts": "Contenu.\nStructure.\nLangue.\nFluidité / prononciation."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Compréhension écrite (A) · Contenu et structure (B) · Correction linguistique (B) · Fluidité et prononciation (B)",
-    "file": "/fle/materials/audio/unit02_francophonie-pluralite/vocab3.ogg"
+    "file": "/fle/materials/audio/unit02_francophonie-pluralite/vocab3.ogg",
+    "tts": "Compréhension écrite (A).\nContenu et structure (B).\nCorrection linguistique (B).\nFluidité et prononciation (B)."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir",
-    "file": "/fle/materials/audio/unit02_francophonie-pluralite/vocab4.ogg"
+    "file": "/fle/materials/audio/unit02_francophonie-pluralite/vocab4.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir."
   }
 ]

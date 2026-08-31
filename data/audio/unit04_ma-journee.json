@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "se réveiller · se lever · se laver · s'habiller · le petit-déjeuner · l'après-midi (m.) · se coucher · tôt / tard",
-    "file": "/fle/materials/audio/unit04_ma-journee/vocab1.ogg"
+    "file": "/fle/materials/audio/unit04_ma-journee/vocab1.ogg",
+    "tts": "se réveiller.\nse lever.\nse laver.\ns'habiller.\nle petit-déjeuner.\nl'après-midi (m.).\nse coucher.\ntôt / tard."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "je · tu · il / elle · nous · vous · ils / elles",
-    "file": "/fle/materials/audio/unit04_ma-journee/vocab2.ogg"
+    "file": "/fle/materials/audio/unit04_ma-journee/vocab2.ogg",
+    "tts": "je.\ntu.\nil / elle.\nnous.\nvous.\nils / elles."
   },
   {
     "label": "Texte 1",

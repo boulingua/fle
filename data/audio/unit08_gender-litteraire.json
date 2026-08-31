@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le genre (social) · les études de genre · un stéréotype · l'identité · l'intersectionnalité · l'écriture inclusive · le point médian · remettre en question · une autrice / un auteur · le domaine public",
-    "file": "/fle/materials/audio/unit08_gender-litteraire/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_gender-litteraire/vocab1.ogg",
+    "tts": "le genre (social).\nles études de genre.\nun stéréotype.\nl'identité.\nl'intersectionnalité.\nl'écriture inclusive.\nle point médian.\nremettre en question.\nune autrice / un auteur.\nle domaine public."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Richesse et exactitude du vocabulaire (4 termes) · Citation du domaine public correctement attribuée · Référence contemporaine sans plagiat · Concession + réfutation bien construites · Fluidité de l'interaction, prise de parole équilibrée · Total",
-    "file": "/fle/materials/audio/unit08_gender-litteraire/vocab2.ogg"
+    "file": "/fle/materials/audio/unit08_gender-litteraire/vocab2.ogg",
+    "tts": "Richesse et exactitude du vocabulaire (4 termes).\nCitation du domaine public correctement attribuée.\nRéférence contemporaine sans plagiat.\nConcession + réfutation bien construites.\nFluidité de l'interaction, prise de parole équilibrée.\nTotal."
   }
 ]

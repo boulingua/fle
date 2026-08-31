@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "élire (j'élis, nous élisons) · voter · un·e électeur·rice · le suffrage universel · un mandat · un·e député·e · un·e sénateur·rice · une loi · le pouvoir exécutif · le pouvoir législatif · le pouvoir judiciaire · la citoyenneté",
-    "file": "/fle/materials/audio/unit03_vie-democratique-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit03_vie-democratique-e/vocab1.ogg",
+    "tts": "élire (j'élis, nous élisons).\nvoter.\nun·e électeur·rice.\nle suffrage universel.\nun mandat.\nun·e député·e.\nun·e sénateur·rice.\nune loi.\nle pouvoir exécutif.\nle pouvoir législatif.\nle pouvoir judiciaire.\nla citoyenneté."
   },
   {
     "label": "Dialogue 2",
@@ -17,16 +18,19 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Comparaison FR/DE · Langue · Fluidité et prise de parole · Total",
-    "file": "/fle/materials/audio/unit03_vie-democratique-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit03_vie-democratique-e/vocab2.ogg",
+    "tts": "Contenu.\nComparaison FR/DE.\nLangue.\nFluidité et prise de parole.\nTotal."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "27-30 · 23-26 · 18-22 · 12-17 · < 12",
-    "file": "/fle/materials/audio/unit03_vie-democratique-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit03_vie-democratique-e/vocab3.ogg",
+    "tts": "27-30.\n23-26.\n18-22.\n12-17.\n< 12."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir · Aperçu",
-    "file": "/fle/materials/audio/unit03_vie-democratique-e/vocab4.ogg"
+    "file": "/fle/materials/audio/unit03_vie-democratique-e/vocab4.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir.\nAperçu."
   }
 ]

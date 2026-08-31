@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la consigne · la compréhension écrite · l'analyse (f.) · le commentaire · la médiation · le brouillon · souligner / surligner · relire (se relire) · l'enchaînement (m.) · la mise en page",
-    "file": "/fle/materials/audio/unit11_preparer-l-abitur-ecrit/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_preparer-l-abitur-ecrit/vocab1.ogg",
+    "tts": "la consigne.\nla compréhension écrite.\nl'analyse (f.).\nle commentaire.\nla médiation.\nle brouillon.\nsouligner / surligner.\nrelire (se relire).\nl'enchaînement (m.).\nla mise en page."
   },
   {
     "label": "Texte 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure · Langue · Lexique · Relecture · Total",
-    "file": "/fle/materials/audio/unit11_preparer-l-abitur-ecrit/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_preparer-l-abitur-ecrit/vocab2.ogg",
+    "tts": "Contenu.\nStructure.\nLangue.\nLexique.\nRelecture.\nTotal."
   }
 ]

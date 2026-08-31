@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la démocratie · une élection · voter · un·e électeur·rice · le suffrage universel · un·e citoyen·ne · un·e député·e · une loi · le pouvoir · un mandat",
-    "file": "/fle/materials/audio/unit03_vie-democratique/vocab1.ogg"
+    "file": "/fle/materials/audio/unit03_vie-democratique/vocab1.ogg",
+    "tts": "la démocratie.\nune élection.\nvoter.\nun·e électeur·rice.\nle suffrage universel.\nun·e citoyen·ne.\nun·e député·e.\nune loi.\nle pouvoir.\nun mandat."
   },
   {
     "label": "Texte 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "1 (sehr gut) · 2 (gut) · 3 (befriedigend) · 4 (ausreichend) · 5 (mangelhaft) · 6 (ungenügend)",
-    "file": "/fle/materials/audio/unit03_vie-democratique/vocab2.ogg"
+    "file": "/fle/materials/audio/unit03_vie-democratique/vocab2.ogg",
+    "tts": "1 (sehr gut).\n2 (gut).\n3 (befriedigend).\n4 (ausreichend).\n5 (mangelhaft).\n6 (ungenügend)."
   }
 ]

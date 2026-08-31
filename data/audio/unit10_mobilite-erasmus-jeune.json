@@ -7,16 +7,19 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un échange (scolaire) · un séjour à l'étranger · une famille d'accueil · une lettre de motivation · un dossier de candidature · une bourse · une certification linguistique · poser sa candidature / candidater",
-    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune/vocab1.ogg",
+    "tts": "un échange (scolaire).\nun séjour à l'étranger.\nune famille d'accueil.\nune lettre de motivation.\nun dossier de candidature.\nune bourse.\nune certification linguistique.\nposer sa candidature / candidater."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "sehr gut (1) · gut (2) · befriedigend (3) · ausreichend (4) · mangelhaft (5) · ungenügend (6)",
-    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune/vocab2.ogg",
+    "tts": "sehr gut (1).\ngut (2).\nbefriedigend (3).\nausreichend (4).\nmangelhaft (5).\nungenügend (6)."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir",
-    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune/vocab3.ogg"
+    "file": "/fle/materials/audio/unit10_mobilite-erasmus-jeune/vocab3.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir."
   }
 ]

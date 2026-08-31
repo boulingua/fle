@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une lettre de motivation · un stage · le/la destinataire · les coordonnées (f. pl.) · l'objet (m.) · solliciter · une candidature · une formule de politesse · la salutation · ci-joint / ci-jointe",
-    "file": "/fle/materials/audio/unit02_lettre-de-motivation/vocab1.ogg"
+    "file": "/fle/materials/audio/unit02_lettre-de-motivation/vocab1.ogg",
+    "tts": "une lettre de motivation.\nun stage.\nle/la destinataire.\nles coordonnées (f. pl.).\nl'objet (m.).\nsolliciter.\nune candidature.\nune formule de politesse.\nla salutation.\nci-joint / ci-jointe."
   },
   {
     "label": "Texte 1",

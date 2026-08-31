@@ -7,16 +7,19 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "transmettre l'essentiel · reformuler · le destinataire · adapter le registre · un faux ami · un calque · préciser · selon la source",
-    "file": "/fle/materials/audio/unit06_mediation-finale/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_mediation-finale/vocab1.ogg",
+    "tts": "transmettre l'essentiel.\nreformuler.\nle destinataire.\nadapter le registre.\nun faux ami.\nun calque.\npréciser.\nselon la source."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "eventuell · das Lokal · die Konferenz · sensibel · die Direktion",
-    "file": "/fle/materials/audio/unit06_mediation-finale/vocab2.ogg"
+    "file": "/fle/materials/audio/unit06_mediation-finale/vocab2.ogg",
+    "tts": "eventuell.\ndas Lokal.\ndie Konferenz.\nsensibel.\ndie Direktion."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Compréhension (Tâche 1) · Lexique / faux amis (Tâche 2) · Fidélité du contenu (Tâche 3) · Adaptation destinataire/registre · Correction linguistique · Total",
-    "file": "/fle/materials/audio/unit06_mediation-finale/vocab3.ogg"
+    "file": "/fle/materials/audio/unit06_mediation-finale/vocab3.ogg",
+    "tts": "Compréhension (Tâche 1).\nLexique / faux amis (Tâche 2).\nFidélité du contenu (Tâche 3).\nAdaptation destinataire/registre.\nCorrection linguistique.\nTotal."
   }
 ]

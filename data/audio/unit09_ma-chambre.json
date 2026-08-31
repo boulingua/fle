@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la chambre · la cuisine · le salon · la salle de bains · les toilettes / les WC · le couloir · la salle à manger · le garage · le jardin · le grenier",
-    "file": "/fle/materials/audio/unit09_ma-chambre/vocab1.ogg"
+    "file": "/fle/materials/audio/unit09_ma-chambre/vocab1.ogg",
+    "tts": "la chambre.\nla cuisine.\nle salon.\nla salle de bains.\nles toilettes / les WC.\nle couloir.\nla salle à manger.\nle garage.\nle jardin.\nle grenier."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "sur · sous · dans · devant · derrière · à côté de · entre … et …",
-    "file": "/fle/materials/audio/unit09_ma-chambre/vocab2.ogg"
+    "file": "/fle/materials/audio/unit09_ma-chambre/vocab2.ogg",
+    "tts": "sur.\nsous.\ndans.\ndevant.\nderrière.\nà côté de.\nentre … et …."
   },
   {
     "label": "Texte 1",
@@ -27,6 +29,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "5 phrases complètes · 5 meubles / objets nommés · 3 prépositions de lieu correctes · il y a  utilisé 2 fois · Orthographe et articles (le/la/les)",
-    "file": "/fle/materials/audio/unit09_ma-chambre/vocab3.ogg"
+    "file": "/fle/materials/audio/unit09_ma-chambre/vocab3.ogg",
+    "tts": "5 phrases complètes.\n5 meubles / objets nommés.\n3 prépositions de lieu correctes.\nil y a  utilisé 2 fois.\nOrthographe et articles (le/la/les)."
   }
 ]

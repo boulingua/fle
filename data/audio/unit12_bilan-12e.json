@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "dresser un bilan · un acquis · une lacune · consolider · se projeter · une priorité · un objectif · franchir un cap · l'échéance",
-    "file": "/fle/materials/audio/unit12_bilan-12e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-12e/vocab1.ogg",
+    "tts": "dresser un bilan.\nun acquis.\nune lacune.\nconsolider.\nse projeter.\nune priorité.\nun objectif.\nfranchir un cap.\nl'échéance."
   },
   {
     "label": "Dialogue 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Écrit — structure et pertinence du contenu · Écrit — correction grammaticale (temps verbaux) · Écrit — richesse lexicale · Oral — cohérence et organisation du propos · Oral — fluidité et prononciation · Oral — emploi du futur simple et du vocabulaire · Total",
-    "file": "/fle/materials/audio/unit12_bilan-12e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-12e/vocab2.ogg",
+    "tts": "Écrit — structure et pertinence du contenu.\nÉcrit — correction grammaticale (temps verbaux).\nÉcrit — richesse lexicale.\nOral — cohérence et organisation du propos.\nOral — fluidité et prononciation.\nOral — emploi du futur simple et du vocabulaire.\nTotal."
   }
 ]

@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une classe · un·e élève · la moitié · la majorité · un point commun · une matière · en commun · présenter · unique",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-de-classe/vocab1.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-portrait-de-classe/vocab1.ogg",
+    "tts": "une classe.\nun·e élève.\nla moitié.\nla majorité.\nun point commun.\nune matière.\nen commun.\nprésenter.\nunique."
   },
   {
     "label": "Dialogue 2",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Structure · Langue · Fluidité",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-de-classe/vocab2.ogg"
+    "file": "/fle/materials/audio/unit12_bilan-portrait-de-classe/vocab2.ogg",
+    "tts": "Contenu.\nStructure.\nLangue.\nFluidité."
   }
 ]

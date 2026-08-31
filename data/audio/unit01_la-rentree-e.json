@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la rentrée (scolaire) · l'emploi du temps (m.) · la matière · la salle (de classe) · le prof principal / la prof principale · l'étage (m.) · être en retard · avoir cours",
-    "file": "/fle/materials/audio/unit01_la-rentree-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_la-rentree-e/vocab1.ogg",
+    "tts": "la rentrée (scolaire).\nl'emploi du temps (m.).\nla matière.\nla salle (de classe).\nle prof principal / la prof principale.\nl'étage (m.).\nêtre en retard.\navoir cours."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Réalisation de la tâche · Interaction · Langue · Lexique · Fluidité / prononciation",
-    "file": "/fle/materials/audio/unit01_la-rentree-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_la-rentree-e/vocab2.ogg",
+    "tts": "Réalisation de la tâche.\nInteraction.\nLangue.\nLexique.\nFluidité / prononciation."
   }
 ]

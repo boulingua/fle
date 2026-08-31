@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un·e réalisateur·rice · un·e acteur·rice · un personnage · l'intrigue (f.) · une scène · une bande-annonce · le générique · la mise en scène · primé·e · émouvant·e",
-    "file": "/fle/materials/audio/unit10_cinema-quebecois-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_cinema-quebecois-e/vocab1.ogg",
+    "tts": "un·e réalisateur·rice.\nun·e acteur·rice.\nun personnage.\nl'intrigue (f.).\nune scène.\nune bande-annonce.\nle générique.\nla mise en scène.\nprimé·e.\némouvant·e."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu et structure · Richesse lexicale · Opinion nuancée · Fluidité et prononciation · Total",
-    "file": "/fle/materials/audio/unit10_cinema-quebecois-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_cinema-quebecois-e/vocab2.ogg",
+    "tts": "Contenu et structure.\nRichesse lexicale.\nOpinion nuancée.\nFluidité et prononciation.\nTotal."
   }
 ]

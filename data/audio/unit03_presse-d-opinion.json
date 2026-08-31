@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un éditorial (un édito) · la presse d'opinion · une thèse · un argument · un contre-argument · un fait · une opinion · une insinuation · un connecteur logique · le parti pris",
-    "file": "/fle/materials/audio/unit03_presse-d-opinion/vocab1.ogg"
+    "file": "/fle/materials/audio/unit03_presse-d-opinion/vocab1.ogg",
+    "tts": "un éditorial (un édito).\nla presse d'opinion.\nune thèse.\nun argument.\nun contre-argument.\nun fait.\nune opinion.\nune insinuation.\nun connecteur logique.\nle parti pris."
   },
   {
     "label": "Dialogue 2",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Distinction fait / opinion · Structure · Langue · Prise de position",
-    "file": "/fle/materials/audio/unit03_presse-d-opinion/vocab2.ogg"
+    "file": "/fle/materials/audio/unit03_presse-d-opinion/vocab2.ogg",
+    "tts": "Contenu.\nDistinction fait / opinion.\nStructure.\nLangue.\nPrise de position."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Thèse claire · Deux arguments pertinents · Contre-argument réfuté · Connecteurs et fluidité",
-    "file": "/fle/materials/audio/unit03_presse-d-opinion/vocab3.ogg"
+    "file": "/fle/materials/audio/unit03_presse-d-opinion/vocab3.ogg",
+    "tts": "Thèse claire.\nDeux arguments pertinents.\nContre-argument réfuté.\nConnecteurs et fluidité."
   }
 ]

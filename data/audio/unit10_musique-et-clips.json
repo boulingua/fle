@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la pop · le rock · le rap · le hip-hop · la chanson (française) · le R'n'B · la musique électronique · le reggae · un clip (vidéo) · une chanson · un·e chanteur / chanteuse · les paroles · la mélodie · le rythme",
-    "file": "/fle/materials/audio/unit10_musique-et-clips/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_musique-et-clips/vocab1.ogg",
+    "tts": "la pop.\nle rock.\nle rap.\nle hip-hop.\nla chanson (française).\nle R'n'B.\nla musique électronique.\nle reggae.\nun clip (vidéo).\nune chanson.\nun·e chanteur / chanteuse.\nles paroles.\nla mélodie.\nle rythme."
   },
   {
     "label": "Texte 1",
@@ -22,11 +23,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Goûts · Langue · Fluidité",
-    "file": "/fle/materials/audio/unit10_musique-et-clips/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_musique-et-clips/vocab2.ogg",
+    "tts": "Contenu.\nGoûts.\nLangue.\nFluidité."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Activer · Apporter · S'entraîner · Produire · Réfléchir · Aperçu / devoirs",
-    "file": "/fle/materials/audio/unit10_musique-et-clips/vocab3.ogg"
+    "file": "/fle/materials/audio/unit10_musique-et-clips/vocab3.ogg",
+    "tts": "Activer.\nApporter.\nS'entraîner.\nProduire.\nRéfléchir.\nAperçu / devoirs."
   }
 ]

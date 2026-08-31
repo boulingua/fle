@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "tout d'abord / en premier lieu · par ailleurs / de plus · en revanche / cependant · par exemple / ainsi · c'est-à-dire · certes… mais · en somme / pour conclure · avoir raison / tort · soutenir / défendre une idée · relancer le débat",
-    "file": "/fle/materials/audio/unit10_argumenter-en-public/vocab1.ogg"
+    "file": "/fle/materials/audio/unit10_argumenter-en-public/vocab1.ogg",
+    "tts": "tout d'abord / en premier lieu.\npar ailleurs / de plus.\nen revanche / cependant.\npar exemple / ainsi.\nc'est-à-dire.\ncertes… mais.\nen somme / pour conclure.\navoir raison / tort.\nsoutenir / défendre une idée.\nrelancer le débat."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure et pertinence du contenu · Richesse et correction de la langue · Qualité de l'interaction (rebonds, réactivité) · Fluidité et prononciation · Total",
-    "file": "/fle/materials/audio/unit10_argumenter-en-public/vocab2.ogg"
+    "file": "/fle/materials/audio/unit10_argumenter-en-public/vocab2.ogg",
+    "tts": "Structure et pertinence du contenu.\nRichesse et correction de la langue.\nQualité de l'interaction (rebonds, réactivité).\nFluidité et prononciation.\nTotal."
   }
 ]

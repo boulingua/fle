@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "il s'agit de… · l'article / le texte explique que… · on apprend que… · l'auteur présente / mentionne… · l'idée principale est… · avoir lieu / se dérouler · se produire (sur scène) · l'entrée (coûte…) · en résumé / pour résumer",
-    "file": "/fle/materials/audio/unit05_sprachmittlung-de-fr-resume-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit05_sprachmittlung-de-fr-resume-e/vocab1.ogg",
+    "tts": "il s'agit de….\nl'article / le texte explique que….\non apprend que….\nl'auteur présente / mentionne….\nl'idée principale est….\navoir lieu / se dérouler.\nse produire (sur scène).\nl'entrée (coûte…).\nen résumé / pour résumer."
   },
   {
     "label": "Dialogue 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Fidélité au contenu · Médiation · Langue · Adaptation au destinataire · Total",
-    "file": "/fle/materials/audio/unit05_sprachmittlung-de-fr-resume-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit05_sprachmittlung-de-fr-resume-e/vocab2.ogg",
+    "tts": "Fidélité au contenu.\nMédiation.\nLangue.\nAdaptation au destinataire.\nTotal."
   }
 ]

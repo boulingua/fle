@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le train / le TGV · la voiture · le bus · le tram(way) · le métro · le vélo · l'avion · à pied · la gare · la voie / le quai · le billet (aller-retour) · tout droit / à gauche / à droite",
-    "file": "/fle/materials/audio/unit06_les-transports/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_les-transports/vocab1.ogg",
+    "tts": "le train / le TGV.\nla voiture.\nle bus.\nle tram(way).\nle métro.\nle vélo.\nl'avion.\nà pied.\nla gare.\nla voie / le quai.\nle billet (aller-retour).\ntout droit / à gauche / à droite."
   },
   {
     "label": "Texte 2",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Réalisation de la tâche (achat + itinéraire) · Vocabulaire des transports · en / à corrects (2 emplois) · Fluidité et prononciation · Total",
-    "file": "/fle/materials/audio/unit06_les-transports/vocab2.ogg"
+    "file": "/fle/materials/audio/unit06_les-transports/vocab2.ogg",
+    "tts": "Réalisation de la tâche (achat + itinéraire).\nVocabulaire des transports.\nen / à corrects (2 emplois).\nFluidité et prononciation.\nTotal."
   }
 ]

@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un discours · l'orateur / l'oratrice · l'auditoire (m.) · la thèse · un procédé rhétorique · le cadrage · convaincre / persuader · souligner, mettre en relief · l'auditoire adhère à… · prendre du recul",
-    "file": "/fle/materials/audio/unit11_discours-politique/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_discours-politique/vocab1.ogg",
+    "tts": "un discours.\nl'orateur / l'oratrice.\nl'auditoire (m.).\nla thèse.\nun procédé rhétorique.\nle cadrage.\nconvaincre / persuader.\nsouligner, mettre en relief.\nl'auditoire adhère à….\nprendre du recul."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "anaphore · triade (tricolon) · antithèse · question rhétorique · nous  inclusif · chute",
-    "file": "/fle/materials/audio/unit11_discours-politique/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_discours-politique/vocab2.ogg",
+    "tts": "anaphore.\ntriade (tricolon).\nantithèse.\nquestion rhétorique.\nnous  inclusif.\nchute."
   },
   {
     "label": "Dialogue 2",
@@ -22,6 +24,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Contenu / analyse · Structure · Langue · Prise de recul · Fluidité orale",
-    "file": "/fle/materials/audio/unit11_discours-politique/vocab3.ogg"
+    "file": "/fle/materials/audio/unit11_discours-politique/vocab3.ogg",
+    "tts": "Contenu / analyse.\nStructure.\nLangue.\nPrise de recul.\nFluidité orale."
   }
 ]

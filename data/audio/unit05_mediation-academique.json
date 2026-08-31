@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "die Studie · die Forscherin / der Forscher · die Quelle · das Ergebnis · die These · nachweisen · vermuten · die Fachbegriffe · annähernd / rund · laut (+ Dat.)",
-    "file": "/fle/materials/audio/unit05_mediation-academique/vocab1.ogg"
+    "file": "/fle/materials/audio/unit05_mediation-academique/vocab1.ogg",
+    "tts": "die Studie.\ndie Forscherin / der Forscher.\ndie Quelle.\ndas Ergebnis.\ndie These.\nnachweisen.\nvermuten.\ndie Fachbegriffe.\nannähernd / rund.\nlaut (+ Dat.)."
   },
   {
     "label": "Dialogue 1",
@@ -17,11 +18,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Fidélité au contenu · Précision · Reformulation · Neutralité · Langue",
-    "file": "/fle/materials/audio/unit05_mediation-academique/vocab2.ogg"
+    "file": "/fle/materials/audio/unit05_mediation-academique/vocab2.ogg",
+    "tts": "Fidélité au contenu.\nPrécision.\nReformulation.\nNeutralité.\nLangue."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Contenu / fidélité · Précision académique · Reformulation · Neutralité · Langue",
-    "file": "/fle/materials/audio/unit05_mediation-academique/vocab3.ogg"
+    "file": "/fle/materials/audio/unit05_mediation-academique/vocab3.ogg",
+    "tts": "Contenu / fidélité.\nPrécision académique.\nReformulation.\nNeutralité.\nLangue."
   }
 ]

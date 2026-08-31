@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la rentrée · une matière · l'emploi du temps (m.) · un·e camarade · un casier · un·e correspondant·e · la cour (de récréation) · l'emploi (m.) du temps · poser une question",
-    "file": "/fle/materials/audio/unit01_la-rentree-en-8e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_la-rentree-en-8e/vocab1.ogg",
+    "tts": "la rentrée.\nune matière.\nl'emploi du temps (m.).\nun·e camarade.\nun casier.\nun·e correspondant·e.\nla cour (de récréation).\nl'emploi (m.) du temps.\nposer une question."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Réalisation de la tâche (contenu attendu présent) · Interaction (questions, relances, écoute) · Correction de la langue (présent, vocabulaire scolaire) · Prononciation et fluidité · Total",
-    "file": "/fle/materials/audio/unit01_la-rentree-en-8e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_la-rentree-en-8e/vocab2.ogg",
+    "tts": "Réalisation de la tâche (contenu attendu présent).\nInteraction (questions, relances, écoute).\nCorrection de la langue (présent, vocabulaire scolaire).\nPrononciation et fluidité.\nTotal."
   }
 ]

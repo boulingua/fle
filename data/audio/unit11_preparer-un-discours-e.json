@@ -7,12 +7,14 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "accroche · corps · moment fort · chute",
-    "file": "/fle/materials/audio/unit11_preparer-un-discours-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit11_preparer-un-discours-e/vocab1.ogg",
+    "tts": "accroche.\ncorps.\nmoment fort.\nchute."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "anaphore · triade (rythme ternaire) · métaphore · question rhétorique · gradation",
-    "file": "/fle/materials/audio/unit11_preparer-un-discours-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit11_preparer-un-discours-e/vocab2.ogg",
+    "tts": "anaphore.\ntriade (rythme ternaire).\nmétaphore.\nquestion rhétorique.\ngradation."
   },
   {
     "label": "Dialogue 1",
@@ -22,6 +24,7 @@
   {
     "label": "Vocabulaire 3",
     "transcript": "Structure · Richesse rhétorique · Langue · Chute · Oral",
-    "file": "/fle/materials/audio/unit11_preparer-un-discours-e/vocab3.ogg"
+    "file": "/fle/materials/audio/unit11_preparer-un-discours-e/vocab3.ogg",
+    "tts": "Structure.\nRichesse rhétorique.\nLangue.\nChute.\nOral."
   }
 ]

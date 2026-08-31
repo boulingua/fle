@@ -278,7 +278,7 @@ body.colorscheme-dark {
 .network-card {
   background: var(--network-surface);
   border: 1px solid var(--network-border);
-  border-left: 3px solid var(--topic-leseverstehen);
+  border-inline-start: 3px solid var(--topic-leseverstehen);
   border-radius: 8px;
   padding: 0.9rem 1rem;
   display: flex;
@@ -365,13 +365,13 @@ body.colorscheme-dark {
 }
 
 /* topic accent on cards */
-.network-card[data-topic="sprechen_dialog"]   { border-left-color: var(--topic-sprechen_dialog); }
-.network-card[data-topic="sprechen_monolog"]  { border-left-color: var(--topic-sprechen_monolog); }
-.network-card[data-topic="schreiben"]         { border-left-color: var(--topic-schreiben); }
-.network-card[data-topic="leseverstehen"]     { border-left-color: var(--topic-leseverstehen); }
-.network-card[data-topic="hoerverstehen"]     { border-left-color: var(--topic-hoerverstehen); }
-.network-card[data-topic="sprachmittlung"]    { border-left-color: var(--topic-sprachmittlung); }
-.network-card[data-topic="text_medien"]       { border-left-color: var(--topic-text_medien); }
+.network-card[data-topic="sprechen_dialog"]   { border-inline-start-color: var(--topic-sprechen_dialog); }
+.network-card[data-topic="sprechen_monolog"]  { border-inline-start-color: var(--topic-sprechen_monolog); }
+.network-card[data-topic="schreiben"]         { border-inline-start-color: var(--topic-schreiben); }
+.network-card[data-topic="leseverstehen"]     { border-inline-start-color: var(--topic-leseverstehen); }
+.network-card[data-topic="hoerverstehen"]     { border-inline-start-color: var(--topic-hoerverstehen); }
+.network-card[data-topic="sprachmittlung"]    { border-inline-start-color: var(--topic-sprachmittlung); }
+.network-card[data-topic="text_medien"]       { border-inline-start-color: var(--topic-text_medien); }
 
 /* ---------- Type glyphs (used in graph + filters + cards) --- */
 .glyph-article      { display: inline-block; width: 0.7rem; height: 0.7rem; border-radius: 50%; background: currentColor; }

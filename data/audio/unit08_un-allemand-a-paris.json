@@ -12,7 +12,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une rame (de métro) · une chocolatine · une viennoiserie · corriger · un malentendu · dîner · une dame âgée · un carnet",
-    "file": "/fle/materials/audio/unit08_un-allemand-a-paris/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_un-allemand-a-paris/vocab1.ogg",
+    "tts": "une rame (de métro).\nune chocolatine.\nune viennoiserie.\ncorriger.\nun malentendu.\ndîner.\nune dame âgée.\nun carnet."
   },
   {
     "label": "Texte 2",
@@ -22,11 +23,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Contenu · Temps du passé · Interculturel · Langue",
-    "file": "/fle/materials/audio/unit08_un-allemand-a-paris/vocab2.ogg"
+    "file": "/fle/materials/audio/unit08_un-allemand-a-paris/vocab2.ogg",
+    "tts": "Contenu.\nTemps du passé.\nInterculturel.\nLangue."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "27–30 · 22–26 · 17–21 · 12–16 · < 12",
-    "file": "/fle/materials/audio/unit08_un-allemand-a-paris/vocab3.ogg"
+    "file": "/fle/materials/audio/unit08_un-allemand-a-paris/vocab3.ogg",
+    "tts": "27–30.\n22–26.\n17–21.\n12–16.\n< 12."
   }
 ]

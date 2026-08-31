@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "un essai · une thèse · un argument · un exemple · une chute · un connecteur logique · la voix (d'un texte) · étayer une idée · nuancer un propos",
-    "file": "/fle/materials/audio/unit03_essai-personnel/vocab1.ogg"
+    "file": "/fle/materials/audio/unit03_essai-personnel/vocab1.ogg",
+    "tts": "un essai.\nune thèse.\nun argument.\nun exemple.\nune chute.\nun connecteur logique.\nla voix (d'un texte).\nétayer une idée.\nnuancer un propos."
   },
   {
     "label": "Dialogue 1",
@@ -12,11 +13,13 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Structure · Voix personnelle · Cohérence · Langue",
-    "file": "/fle/materials/audio/unit03_essai-personnel/vocab2.ogg"
+    "file": "/fle/materials/audio/unit03_essai-personnel/vocab2.ogg",
+    "tts": "Structure.\nVoix personnelle.\nCohérence.\nLangue."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "1 — Compréhension · 2 — Genres et connecteurs · 3 — Expression écrite · Total",
-    "file": "/fle/materials/audio/unit03_essai-personnel/vocab3.ogg"
+    "file": "/fle/materials/audio/unit03_essai-personnel/vocab3.ogg",
+    "tts": "1 — Compréhension.\n2 — Genres et connecteurs.\n3 — Expression écrite.\nTotal."
   }
 ]

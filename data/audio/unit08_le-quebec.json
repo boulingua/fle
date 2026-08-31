@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le déjeuner · le dîner · le souper · un char · un chum / une blonde · magasiner · un dépanneur · une tuque · la fin de semaine · il fait frette",
-    "file": "/fle/materials/audio/unit08_le-quebec/vocab1.ogg"
+    "file": "/fle/materials/audio/unit08_le-quebec/vocab1.ogg",
+    "tts": "le déjeuner.\nle dîner.\nle souper.\nun char.\nun chum / une blonde.\nmagasiner.\nun dépanneur.\nune tuque.\nla fin de semaine.\nil fait frette."
   },
   {
     "label": "Texte 1",

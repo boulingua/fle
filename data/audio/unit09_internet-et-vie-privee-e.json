@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une donnée personnelle · la vie privée · les paramètres de confidentialité · un mot de passe · un compte privé / public · l'empreinte numérique · un·e abonné·e (un·e follower) · les cookies · le consentement / l'accord · signaler / bloquer",
-    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/vocab1.ogg",
+    "tts": "une donnée personnelle.\nla vie privée.\nles paramètres de confidentialité.\nun mot de passe.\nun compte privé / public.\nl'empreinte numérique.\nun·e abonné·e (un·e follower).\nles cookies.\nle consentement / l'accord.\nsignaler / bloquer."
   },
   {
     "label": "Dialogue 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Richesse du vocabulaire (5 mots ciblés) · Conditionnel correct (3 conseils) · Interaction : questions, réponses, relance · Prononciation et fluidité · Total",
-    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/vocab2.ogg",
+    "tts": "Richesse du vocabulaire (5 mots ciblés).\nConditionnel correct (3 conseils).\nInteraction : questions, réponses, relance.\nPrononciation et fluidité.\nTotal."
   }
 ]

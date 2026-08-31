@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "une série · un épisode · une saison · une plateforme de streaming · un podcast (une baladodiffusion) · une chaîne · un·e youtubeur·euse · s'abonner à · un abonnement · le replay · l'actualité (l'actu) · télécharger · en direct · un écran · les écouteurs",
-    "file": "/fle/materials/audio/unit03_mes-medias-preferes-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit03_mes-medias-preferes-e/vocab1.ogg",
+    "tts": "une série.\nun épisode.\nune saison.\nune plateforme de streaming.\nun podcast (une baladodiffusion).\nune chaîne.\nun·e youtubeur·euse.\ns'abonner à.\nun abonnement.\nle replay.\nl'actualité (l'actu).\ntélécharger.\nen direct.\nun écran.\nles écouteurs."
   },
   {
     "label": "Texte 1",
@@ -17,6 +18,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Réalisation de la tâche · Richesse lexicale · Correction linguistique · Interaction · Total",
-    "file": "/fle/materials/audio/unit03_mes-medias-preferes-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit03_mes-medias-preferes-e/vocab2.ogg",
+    "tts": "Réalisation de la tâche.\nRichesse lexicale.\nCorrection linguistique.\nInteraction.\nTotal."
   }
 ]

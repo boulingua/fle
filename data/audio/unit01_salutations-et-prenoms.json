@@ -7,7 +7,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "Bonjour · Bonsoir · Salut · Au revoir · À bientôt · Merci · S'il te plaît / vous plaît · Je m'appelle … · Comment tu t'appelles ? · Tu as quel âge ? · J'ai … ans · Enchanté·e",
-    "file": "/fle/materials/audio/unit01_salutations-et-prenoms/vocab1.ogg"
+    "file": "/fle/materials/audio/unit01_salutations-et-prenoms/vocab1.ogg",
+    "tts": "Bonjour.\nBonsoir.\nSalut.\nAu revoir.\nÀ bientôt.\nMerci.\nS'il te plaît / vous plaît.\nJe m'appelle ….\nComment tu t'appelles ?.\nTu as quel âge ?.\nJ'ai … ans.\nEnchanté·e."
   },
   {
     "label": "Dialogue 2",
@@ -22,6 +23,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Salutation adaptée (bonjour/salut + congé) · Se présenter : prénom + épellation · Âge : J'ai … ans + question à l'autre · Prononciation et intonation · Correction de la langue (tu/vous, avoir) · Total",
-    "file": "/fle/materials/audio/unit01_salutations-et-prenoms/vocab2.ogg"
+    "file": "/fle/materials/audio/unit01_salutations-et-prenoms/vocab2.ogg",
+    "tts": "Salutation adaptée (bonjour/salut + congé).\nSe présenter : prénom + épellation.\nÂge : J'ai … ans + question à l'autre.\nPrononciation et intonation.\nCorrection de la langue (tu/vous, avoir).\nTotal."
   }
 ]

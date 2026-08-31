@@ -7,11 +7,13 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "la pomme · la fraise · l'orange (f.) · le melon · la tomate · la carotte · la courgette · la salade · la pomme de terre · l'oignon (m.) · un kilo de… · une barquette de… · une botte de… · Ça fait combien ? · Et avec ceci ?",
-    "file": "/fle/materials/audio/unit06_au-marche-e/vocab1.ogg"
+    "file": "/fle/materials/audio/unit06_au-marche-e/vocab1.ogg",
+    "tts": "la pomme.\nla fraise.\nl'orange (f.).\nle melon.\nla tomate.\nla carotte.\nla courgette.\nla salade.\nla pomme de terre.\nl'oignon (m.).\nun kilo de….\nune barquette de….\nune botte de….\nÇa fait combien ?.\nEt avec ceci ?."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "Salutations et politesse · Trois produits + quantités · Articles partitifs / de · Prix et monnaie · Fluidité et prononciation",
-    "file": "/fle/materials/audio/unit06_au-marche-e/vocab2.ogg"
+    "file": "/fle/materials/audio/unit06_au-marche-e/vocab2.ogg",
+    "tts": "Salutations et politesse.\nTrois produits + quantités.\nArticles partitifs / de.\nPrix et monnaie.\nFluidité et prononciation."
   }
 ]

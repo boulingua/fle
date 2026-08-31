@@ -2,7 +2,8 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "le harcèlement / harceler · le cyberharcèlement · se moquer de quelqu'un · insulter · isoler / mettre à l'écart · le témoin · signaler / dénoncer · soutenir / le soutien · avoir peur / la peur · se sentir seul·e · demander de l'aide · la confiance",
-    "file": "/fle/materials/audio/unit07_harcelement-et-respect/vocab1.ogg"
+    "file": "/fle/materials/audio/unit07_harcelement-et-respect/vocab1.ogg",
+    "tts": "le harcèlement / harceler.\nle cyberharcèlement.\nse moquer de quelqu'un.\ninsulter.\nisoler / mettre à l'écart.\nle témoin.\nsignaler / dénoncer.\nsoutenir / le soutien.\navoir peur / la peur.\nse sentir seul·e.\ndemander de l'aide.\nla confiance."
   },
   {
     "label": "Texte 1",
@@ -12,6 +13,7 @@
   {
     "label": "Vocabulaire 2",
     "transcript": "Écoute et soutien · Conseil pertinent · Ressources citées · Langue et fluidité · Total",
-    "file": "/fle/materials/audio/unit07_harcelement-et-respect/vocab2.ogg"
+    "file": "/fle/materials/audio/unit07_harcelement-et-respect/vocab2.ogg",
+    "tts": "Écoute et soutien.\nConseil pertinent.\nRessources citées.\nLangue et fluidité.\nTotal."
   }
 ]

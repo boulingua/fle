@@ -7,22 +7,26 @@
   {
     "label": "Vocabulaire 1",
     "transcript": "les maths · le français · l'allemand (m.) · l'anglais (m.) · le sport / l'EPS · la musique · les arts plastiques · les sciences",
-    "file": "/fle/materials/audio/unit03_mon-ecole/vocab1.ogg"
+    "file": "/fle/materials/audio/unit03_mon-ecole/vocab1.ogg",
+    "tts": "les maths.\nle français.\nl'allemand (m.).\nl'anglais (m.).\nle sport / l'EPS.\nla musique.\nles arts plastiques.\nles sciences."
   },
   {
     "label": "Vocabulaire 2",
     "transcript": "le cahier · le crayon · le stylo · la règle · la gomme · le cartable · le tableau · la trousse",
-    "file": "/fle/materials/audio/unit03_mon-ecole/vocab2.ogg"
+    "file": "/fle/materials/audio/unit03_mon-ecole/vocab2.ogg",
+    "tts": "le cahier.\nle crayon.\nle stylo.\nla règle.\nla gomme.\nle cartable.\nle tableau.\nla trousse."
   },
   {
     "label": "Vocabulaire 3",
     "transcript": "Ouvrez votre livre. · Écoutez ! · Écrivez la date. · Levez la main.",
-    "file": "/fle/materials/audio/unit03_mon-ecole/vocab3.ogg"
+    "file": "/fle/materials/audio/unit03_mon-ecole/vocab3.ogg",
+    "tts": "Ouvrez votre livre..\nÉcoutez !.\nÉcrivez la date..\nLevez la main.."
   },
   {
     "label": "Vocabulaire 4",
     "transcript": "8h–9h · 9h–10h · 10h–11h · 11h–12h",
-    "file": "/fle/materials/audio/unit03_mon-ecole/vocab4.ogg"
+    "file": "/fle/materials/audio/unit03_mon-ecole/vocab4.ogg",
+    "tts": "8h–9h.\n9h–10h.\n10h–11h.\n11h–12h."
   },
   {
     "label": "Texte 1",

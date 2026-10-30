@@ -28,7 +28,7 @@ function topicLabel(facetEntry) {
 
 function courseLabel(facetEntry) {
   // "track-e-kl06" → "E · Classe 6"; "track-gm-kl09" → "G+M · Classe 9"
-  const m = /^track-(e|gm)-kl(\d+)$/.exec(facetEntry.id);
+  const m = /^track[-_](e|gm)[-_]kl(\d+)$/.exec(facetEntry.id);
   if (!m) return facetEntry.label || facetEntry.id;
   const filiere = m[1] === 'gm' ? 'G+M' : 'E';
   const klasse = parseInt(m[2], 10);

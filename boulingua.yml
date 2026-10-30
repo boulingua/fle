@@ -34,17 +34,26 @@ slug:
 
 script_tier: core
 target_language: fr
-chrome_language: de
+chrome_language: fr             # interface language declared in hugo.toml
 
 band_default: II
 milestone: M0
 
 gates:
   network_graph: true
-  pagefind: true
+  pagefind: true               # built by kit build; full-text search at /search/
   bildungsplan: true            # 156 pages carry a bildungsplan block
   curriculum: warn
 
 vgwort:
   registry: data/vgwort.yaml    # all 351; the 349 front-matter marks moved in at R1.2
   url_lock: vgwort/url-lock-provisional.csv
+
+# Course/product-specific views; select by layout, independent of URLs.
+templates:
+  selection: layout
+  local:
+  - _default/filiere.html
+  - _default/material-discovery.html
+  - _default/materials-list.html
+  - _partials/list.html

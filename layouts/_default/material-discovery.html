@@ -1,15 +1,4 @@
-{{/*
-  Materials Discovery Network — Phase 3 surface.
-  Loads Cytoscape (UMD via jsdelivr) + the fcose layout extension,
-  then runs our bundled assets/js/network/main.js. The graph DOM
-  is hidden via CSS at <768px and the JS short-circuits there too.
-
-  The module-bundling pipeline:
-    resources.Get assets/js/network/main.js
-      | js.Build (esbuild, format: esm) — follows ./store, ./graph
-      | minify
-      | fingerprint                      → SRI for the user bundle
-*/}}
+{{/* Self-hosted discovery: cards first, optional graph on request. */}}
 {{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
 {{ define "content" }}
 {{ $opts := dict
@@ -26,9 +15,9 @@
     {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
   </header>
 
-  {{ .Content }}
+  {{ partial "render-content.html" . }}
 
-  <main class="network-page" aria-label="Réseau de découverte des matériaux (aperçu)">
+  <div class="network-page" aria-label="Réseau de découverte des matériaux (aperçu)">
 
     <div class="network-search-row" role="search">
       <input type="search"
@@ -54,7 +43,8 @@
 
       <div class="network-graph-wrap" role="figure"
            aria-label="Graphe de découverte des matériaux">
-        <div id="network-graph" style="width: 100%; height: 100%;">
+        <div id="network-graph" data-graph-url="{{ "network/graph.json" | relURL }}"
+             data-vendors="{{ slice ("js/vendor/cytoscape.min.js" | relURL) ("js/vendor/layout-base.js" | relURL) ("js/vendor/cose-base.js" | relURL) ("js/vendor/cytoscape-fcose.js" | relURL) | jsonify }}" style="width: 100%; height: 100%;">
           <div class="network-graph-skeleton" aria-hidden="true"></div>
         </div>
       </div>
@@ -96,7 +86,7 @@
         {{- $sc.Add "all" (slice $entry) -}}
       {{- end -}}
     {{- end -}}
-    <nav class="network-a11y-nav visually-hidden" aria-label="Tous les matériaux">
+    <details class="network-fallback"><summary>Parcourir toutes les unités et les téléchargements</summary><nav class="network-a11y-nav" aria-label="Tous les matériaux">
       {{- $all := $sc.Get "all" | default slice -}}
       {{- /* Sort once by (course, title). Emit a course header only on
              transitions — single pass, no nested grouping. */ -}}
@@ -115,17 +105,10 @@
         </li>
       {{- end -}}
       {{- if $cur -}}</ul></section>{{- end -}}
-    </nav>
-  </main>
+    </nav></details>
+  </div>
 </section>
 
-{{/* Cytoscape + fcose layout — self-hosted (static/js/vendor), deferred so
-     they don't block parse. No third-party CDN. Order matters:
-     cytoscape → layout-base → cose-base → fcose. */}}
-<script defer src="{{ "js/vendor/cytoscape.min.js" | relURL }}"></script>
-<script defer src="{{ "js/vendor/layout-base.js" | relURL }}"></script>
-<script defer src="{{ "js/vendor/cose-base.js" | relURL }}"></script>
-<script defer src="{{ "js/vendor/cytoscape-fcose.js" | relURL }}"></script>
 <script type="module" src="{{ $main.RelPermalink }}"
         integrity="{{ $main.Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}

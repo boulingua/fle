@@ -26,19 +26,19 @@ const TOPIC_FALLBACK = '#888888';
 
 function topicColor(topicId) {
   if (!topicId) return TOPIC_FALLBACK;
-  const v = getComputedStyle(document.documentElement)
+  const v = getComputedStyle(document.body)
     .getPropertyValue(`--topic-${topicId}`).trim();
   return v || TOPIC_FALLBACK;
 }
 
 function fgColor() {
-  const v = getComputedStyle(document.documentElement)
+  const v = getComputedStyle(document.body)
     .getPropertyValue('--network-fg').trim();
   return v || '#23272b';
 }
 
 function highlightColor() {
-  const v = getComputedStyle(document.documentElement)
+  const v = getComputedStyle(document.body)
     .getPropertyValue('--network-highlight').trim();
   return v || '#C9A227';
 }

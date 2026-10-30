@@ -36,7 +36,7 @@
         {{- range $classes -}}
           {{- $kl := printf "%02d" . -}}
           <th scope="col">
-            <a href="{{ printf "/track_%s_kl%s/" $track $kl | relURL }}">Classe {{ . }}</a>
+            <a href="{{ printf "track_%s_kl%s/" $track $kl | relURL }}">Classe {{ . }}</a>
           </th>
         {{- end -}}
       </tr>

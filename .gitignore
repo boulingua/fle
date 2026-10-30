@@ -64,3 +64,8 @@ _materials/*.nav
 _materials/*.snm
 _materials/*.toc
 _materials/*.out
+
+go.work
+go.work.sum
+build/
+.venv/

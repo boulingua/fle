@@ -23,61 +23,46 @@ curriculum:
     - B2.PLUR.building-on-plurilingual-repertoire.03
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez la scène du meurtre (Unité 2, texte C). Répondez :
+## Support
 
-1. Combien de coups de feu Meursault tire-t-il en tout ?
-2. Quel mot revient comme isotopie dominante ?
-3. Citez un oxymore.
-4. Quelle métaphore finale ?
-5. Que dit Meursault sur l'équilibre du jour ?
+### C. Texte d'étude (prose originale)
 
-### Tâche 2 — Outils stylistiques (8 points)
+> **Le port au petit matin**
+>
+> Le vieux port dormait sous un ciel de plomb. Les vagues, patientes, léchaient les quais comme des bêtes lasses. Pas un bruit, pas un cri, pas un souffle : la ville entière retenait son haleine. Puis le vent se leva — timide, puis hardi, puis furieux — et la mer, soudain réveillée, se mit à rugir.
 
-Reliez chaque outil à sa définition :
+### Tâche 1 — Compréhension écrite (10 points)
 
-- isotopie · oxymore · chiasme · ironie · litote ·
- hypotypose · polyphonie · paratexte
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
 
-(Définitions : réseau lexical · contraires unis · construction
-AB-BA · sens inverse · dire moins · description visuelle ·
-plusieurs voix · titre/dédicace.)
+1. Quel lieu est décrit et à quel moment de la journée le titre le situe-t-il ?
+2. Quelle image décrit le ciel et quelle impression peut-elle suggérer ?
+3. À quoi les vagues sont-elles comparées et quel adjectif leur donne un caractère humain ?
+4. Quelle répétition insiste sur le silence et quelle action humaine la ville semble-t-elle accomplir ?
+5. Quelles sont les première et dernière étapes de la gradation du vent ?
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+### Tâche 2 — Langue (8 points)
 
-Rédigez **votre étude stylistique** (~400 mots) d'un
-passage de *L'Étranger* ou *La Peste* : 5 étapes
-méthodologiques + 4 outils + 5 citations + interprétation.
+Relevez quatre procédés dans Le port au petit matin : comparaison, métaphore, personnification et gradation. Pour chacun, citez les mots concernés et expliquez un effet possible.
 
-## Notation
+**Barème :** 4 procédés × 2 points : citation/nom 1, effet 1.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Outils | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+### Tâche 3 — Production (12 points)
 
-## Solutions
+Analysez cette prose originale en 250 mots environ : organisation du calme à la rupture, deux procédés et leurs effets, atmosphère finale. Citez brièvement le support. Aucun passage de L’Étranger ou de La Peste n’est nécessaire.
 
-**Tâche 1.** 1) 5 coups (1 + 4 sur corps inerte). 2) Soleil
-/ sueur / sensoriel. 3) *Bruit à la fois sec et
-assourdissant.* 4) *Quatre coups brefs sur la porte du
-malheur.* 5) Il l'a détruit + le silence d'une plage où il
-avait été heureux.
+**Barème :** Repérage : 4 points; analyse : 5; langue : 3.
 
-**Tâche 2.** Réponses libres (associations).
-
-**Tâche 3.** Réponses libres. Critères : 400 mots · 5
-étapes · 4 outils · 5 citations.
-
----
+## Barème total
 
 {{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
 **Total.** 30 points
@@ -92,4 +77,32 @@ avait été heureux.
 | 0–8 | 6 |
 {{< /callout >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 2*
+*Ce barème reprend les seuils du sujet antérieur; il est proposé pour ces tâches seulement, sans valeur de certification GER ou de règlement scolaire.*
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Tâche 1.**
+
+1. Port; petit matin (1 + 1). 2. Plomb (1); lourdeur/grisaille, effet justifié (1). 3. Bêtes lasses; patientes (1 + 1). 4. Pas un; retenir son haleine (1 + 1). 5. Timide; furieux (1 + 1). Aucun coup de feu ou personnage de Camus ne figure dans le texte.
+
+**Tâche 2.** Comparaison vagues/comme des bêtes; métaphore ciel de plomb; personnification port dormait/ville retenait son haleine; gradation timide/hardi/furieux. Les interprétations varient mais doivent rester reliées au texte.
+
+**Tâche 3.** Repérages précis, effets du silence puis montée du vent, citations exactes et interprétation étayée. Ne pas appeler tout contraste un oxymore.
+
+{{< /details >}}
+
+## Sources
+
+- *Figure de style* — Wikipédia (consulté le 21/07/2026), https://fr.wikipedia.org/wiki/Figure_de_style — licence CC-BY-SA 4.0.
+- *Registre de langue* — Wikipédia (consulté le 21/07/2026), https://fr.wikipedia.org/wiki/Registre_de_langue — licence CC-BY-SA 4.0.
+- *Le Cid* — Pierre Corneille (1637), domaine public — exemple « cette obscure clarté qui tombe des étoiles ».
+- *L'Avare* — Molière (1668), domaine public — exemple du chiasme « manger pour vivre, non vivre pour manger ».
+- Textes « Le port au petit matin », dialogues et exercices : prose originale rédigée pour cette unité.
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

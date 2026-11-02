@@ -1,0 +1,68 @@
+{
+  "unit": "content/track_gm_kl06/units/unit04_ma-journee/index.md",
+  "exam": "content/track_gm_kl06/units/unit04_ma-journee_exam/index.md",
+  "before_unit_sha256": "6cea56a7c5e06272a6e0afb5e9d2f4e03472c038004aa00878fc6785c51511d6",
+  "after_unit_sha256": "1022ea91dbde81d707b9860b079ca53467210ed52866488ee6c877b215edf38e",
+  "before_exam_sha256": "ae759c9491a41d9fec324977c82b54de52acf2c78d3718d8b29e3109178345b2",
+  "after_exam_sha256": "58a47239b2b9f5386a50af9c97d92726b6c1d473144112d47186613289d4f086",
+  "source_sections": [
+    "Input D, mini-récit"
+  ],
+  "supplied_source_sha256": "34798463cc1fd81243ed1a777ee211883f05a19111b101afede946f57d10d0f3",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "task_points": [
+    10,
+    10,
+    10
+  ],
+  "decisions": [
+    "Replace impossible/wrong comprehension options with exact06:45,juice,bike,canteen,homework facts.",
+    "Restore pronominal focus from embedded assessment; retain general-verb sibling practice outside marked total.",
+    "Remove yesterday/present contradiction."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "6788fb35501d3f881aa7bfe564e173393a02f2c6354d0c8ba66d18fe343748a6",
+      "after_sha256": "1022ea91dbde81d707b9860b079ca53467210ed52866488ee6c877b215edf38e",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit04_ma-journee/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "98386dabf94faab8f6b54a2d1bc74a1ab22a23cd148e0aedb8449144ba5b813a",
+      "after_sha256": "ba564a8e71cdc4bf1e16003354304ae408d6c2ae68b2fba26387f03e8f4efe3d",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit04_ma-journee_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ba564a8e71cdc4bf1e16003354304ae408d6c2ae68b2fba26387f03e8f4efe3d",
+      "after_sha256": "1bd9517d9352a64abfcefe9fa1d1922253f6b3160fd216f0a01d2147d7290c56",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl06/units/unit04_ma-journee_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "1bd9517d9352a64abfcefe9fa1d1922253f6b3160fd216f0a01d2147d7290c56",
+      "after_sha256": "591effce39abb7f5ad237c63c3aa5fde011a1d11bb91d9ab428eb246699e4bad",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit04_ma-journee_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit04_ma-journee_exam/index.md",
+      "before_sha256": "591effce39abb7f5ad237c63c3aa5fde011a1d11bb91d9ab428eb246699e4bad",
+      "after_sha256": "58a47239b2b9f5386a50af9c97d92726b6c1d473144112d47186613289d4f086",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

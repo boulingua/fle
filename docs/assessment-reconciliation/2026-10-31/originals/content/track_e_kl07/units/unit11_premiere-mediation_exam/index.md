@@ -1,0 +1,92 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 11"
+subtitle: "Première médiation DE → FR · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 11
+slug: "premiere-mediation-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.01
+    - A1.INT.correspondence.01
+    - A1.LING.orthographic-control.01
+    - A1.LING.phonological-control.01
+    - A1.MED.collaborating-to-construct-meaning.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
+
+Lisez le texte allemand ZKM (Unité 11, texte C). **Médiez** son
+contenu en **français** pour un(e) ami(e) québécois(e) en
+**5 phrases** (~70 mots). Pas de mot-à-mot.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Vrai ou faux ? (sur le texte source)
+
+| | Affirmation | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Le ZKM est ouvert tous les jours. | ☐ | ☐ |
+| 2 | L'entrée pour adultes coûte 8 €. | ☐ | ☐ |
+| 3 | Les enfants de moins de 12 ans payent 4 €. | ☐ | ☐ |
+| 4 | C'est un musée d'art numérique. | ☐ | ☐ |
+
+### Tâche 3 — Expression écrite (« Schreiben ») (7 points)
+
+Écrivez un **courriel** (~50 mots) à un(e) ami(e) québécois(e)
+qui visite Karlsruhe : invitez-le/la au ZKM en résumant les
+infos pratiques.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — médiation linguistique | 15 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 7 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** Modèle : *Le ZKM est un musée d'art numérique à
+Karlsruhe. On y voit de l'art médiatique, des installations
+vidéo, de l'art informatique. Il est ouvert du mercredi au
+dimanche de 10h à 18h. L'entrée coûte 8 € (4 € pour les
+élèves). Les enfants de moins de 12 ans entrent gratuitement.*
+Critères : 5 phrases · sens transmis · pas de mot-à-mot.
+
+**Tâche 2.** 1) F. 2) V. 3) F (gratuit). 4) V.
+
+**Tâche 3.** Réponses libres. Critères : 50 mots · format
+courriel · 3 infos pratiques · ton amical (*tu*).
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 11*

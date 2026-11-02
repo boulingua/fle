@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
+  "exam": "content/track_e_kl07/units/unit02_raconter-une-anecdote_exam/index.md",
+  "before_unit_sha256": "cb9065287622c4b4cdc6eafb87c7c8216aa3a6d4959759442c4fa7dd1a16da09",
+  "after_unit_sha256": "2b8e259637c1c92aae5474bc1c263d99f339ac542635cea726a36fe7d677c477",
+  "before_exam_sha256": "12bc3335cccc61ecf9cc47090b4d577618cfcb16c218e81dc0eab938e90ec7b4",
+  "after_exam_sha256": "3e384d80534d25d3edec55128659bd82c25490213afa2e01831c54aedb1d8eef",
+  "source_sections": "C",
+  "supplied_source_sha256": "a8b588e6d81c52d6d6d191a6008fa84f35c39a0df5ef66279f1c62dbc3cbed60",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Replaced bicycle/cow/red helmet key with actual goat/breakfast narrative; preserved coherent tense and narrative tasks;9 verb slots+1 justified choice resolve10-point allocation."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "fa21eb97e6940860e129bfd2545ce5d5d6294a4e1ad9a9404e1dfd5ec00efc4a",
+      "after_sha256": "2b8e259637c1c92aae5474bc1c263d99f339ac542635cea726a36fe7d677c477",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "30d49f22e08e740145681c2e9d77af47ba232662fd460917e6fcdb19294043e5",
+      "after_sha256": "305838a55ff517a21de9f64d1a9b4b69d5d1be012b95d95b4343988ecb691553",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit02_raconter-une-anecdote_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "305838a55ff517a21de9f64d1a9b4b69d5d1be012b95d95b4343988ecb691553",
+      "after_sha256": "6931a63eb6db8fa48e14bae5f53f043570a37ebc6d81d143876635d04b940a66",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit02_raconter-une-anecdote_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit02_raconter-une-anecdote_exam/index.md",
+      "before_sha256": "6931a63eb6db8fa48e14bae5f53f043570a37ebc6d81d143876635d04b940a66",
+      "after_sha256": "3e384d80534d25d3edec55128659bd82c25490213afa2e01831c54aedb1d8eef",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 12 (finale)"
+subtitle: "Bilan : portrait d'une rencontre · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 12
+slug: "bilan-portrait-d-une-rencontre-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.INT.notes-messages-and-forms.01
+    - A2.MED.note-taking.01
+    - A2.MED.overall-mediation.02
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé finale — Niveau M, classe 8
+
+### Tâche unique — Portrait écrit (30 points)
+
+Écrivez le **portrait** d'une rencontre francophone (réelle ou
+fictive) que vous avez faite cette année — par écrit, en
+personne, en film ou en chanson. Longueur : **120-150 mots**.
+
+**Structure obligatoire** (5 parties) :
+
+1. **Présentation** (qui est cette personne ? — présent).
+2. **Comment vous l'avez rencontrée** (quand et comment — passé
+ composé).
+3. **Ce qu'elle vous a apporté** (passé composé ou imparfait).
+4. **Une réflexion personnelle** (au présent : *Cela m'a appris
+ que · Pour moi · Cette rencontre …*).
+5. **Un projet futur** la concernant (futur simple).
+
+Au moins **4 connecteurs** du cours (D'abord · Ensuite · Puis ·
+Enfin · Pour moi · Cela m'a appris que · Plus tard …).
+
+## Notation
+
+| Critère | Points |
+|---------------------------------------------------------|-------:|
+| Structure (5 parties présentes) | 8 |
+| Trois temps équilibrés (présent + passé composé + futur)| 10 |
+| Vocabulaire + 4 connecteurs minimum | 6 |
+| Sens fidèle et personnel (pas de copie du modèle) | 6 |
+| **Total** | **30** |
+
+barème de notes (« Notenschlüssel ») typique :
+*1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
+
+## Modèle (~140 mots, à comparer mais ne pas copier)
+
+> **Inès Tremblay, 14 ans, Montréal.**
+>
+> Inès est ma correspondante depuis octobre. Elle est en 2e
+> secondaire à Montréal et joue à l'improvisation théâtrale.
+> Elle vit avec sa famille — sa mère infirmière, son père
+> déménageur, son petit frère hockey.
+>
+> D'abord, je l'ai rencontrée par écrit, dès le premier jour de
+> classe 8. Ensuite, on a échangé chaque semaine. Elle m'a
+> appris que *« écœurant »* veut dire *génial* au Québec, et
+> que les mots peuvent retourner leur sens.
+>
+> Pour moi, Inès est plus qu'une correspondante : elle est la
+> preuve que le français vit autrement de l'autre côté de
+> l'océan. Cela m'a appris que la rencontre par écrit peut être
+> aussi forte qu'en personne.
+>
+> Plus tard, j'irai à Montréal. Je verrai le mont Royal en
+> hiver. Et je rencontrerai Inès, enfin, en personne.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 12 · devoir surveillé (« Klassenarbeit ») finale*

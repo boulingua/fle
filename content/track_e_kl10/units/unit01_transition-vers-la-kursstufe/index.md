@@ -1,6 +1,6 @@
 ---
 page_type: unit
-title: "Unité 1 — Transition vers la cycle terminal"
+title: "Unité 1 — Transition vers le cycle terminal"
 subtitle: "Parcours E (lycée) · classe 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10
@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 1
 slug: "transition-vers-la-kursstufe"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,56 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_transition-vers-la-kursstufe.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_transition-vers-la-kursstufe.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit01_transition-vers-la-kursstufe.html"
+- "/track_e_kl10/units/unit01_transition-vers-la-kursstufe.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.planning.01
-    - B1.REC.reading-for-orientation.06
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.REC.identifying-cues-and-inferring.05
-    - B1.INT.overall-written-interaction.02
+  - B1.PROD.planning.01
+  - B1.REC.reading-for-orientation.06
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.REC.identifying-cues-and-inferring.05
+  - B1.INT.overall-written-interaction.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file:
+    /fle/materials/worksheets/unit01_transition-vers-la-kursstufe-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit01_transition-vers-la-kursstufe-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,15 +104,13 @@ C'est la fin de la classe de 10e. Dans le couloir, Anouk retrouve Lucas devant l
 - Quel est le problème de méthode de Lucas ?
 - Quels objectifs Anouk se fixe-t-elle ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Comment organisez-vous vos révisions aujourd'hui ? Avez-vous une méthode fixe ?
 - Que signifie, pour vous, « se fixer un objectif » ?
 - Selon vous, qu'est-ce qui change entre la classe de 10e et le cycle terminal (le *Kursstufe*) ?
 - Notez au tableau **trois mots français** liés au travail scolaire que vous connaissez déjà.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — les stratégies d'apprentissage
 
 | Français | Deutsch | Exemple |
@@ -107,7 +139,7 @@ C'est la fin de la classe de 10e. Dans le couloir, Anouk retrouve Lucas devant l
 - **Exprimer le but :** *pour* / *afin de* + **infinitif**.
   *Je réviserai chaque jour **pour** atteindre le B2. Je m'organiserai mieux **afin de** gérer mon temps.*
 
-**Attention :** *persévérer* garde son accent aigu (**é**) ; ne confondez pas *je vais réviser* (futur proche, oral) et *je réviserai* (futur simple, écrit soigné).
+**Attention :** *persévérer* garde son accent aigu (**é**) ; ne confondez pas *je vais réviser* (futur proche, projet lié à la situation présente) et *je réviserai* (futur simple, projection). Les deux formes s'emploient à l'oral comme à l'écrit.
 {{< /callout >}}
 
 ### C. Texte — Le carnet d'Anouk (texte original)
@@ -126,8 +158,7 @@ Dans les lycées (*Gymnasien*) du Bade-Wurtemberg, les deux dernières années p
 
 *(D'après « Gymnasiale Oberstufe » et « Métacognition », Wikipédia, licence CC BY-SA — voir Sources ; contenu reformulé.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase.
 
 1. Pourquoi Anouk veut-elle changer d'organisation ?
@@ -161,6 +192,7 @@ c) Nous planifions nos révisions. / Nous évitons le stress.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Parce qu'elle ne veut plus travailler dans l'urgence / au dernier moment. 2) Elle notera ses tâches dans un carnet. 3) Un peu chaque jour, plutôt que tout la veille du contrôle. 4) Atteindre le niveau B2 ; pour cela, elle lira un article par semaine et persévérera.
 
 **Ex. 2.** a) objectif · b) gérer · c) échéances · d) méthode.
@@ -168,9 +200,9 @@ c) Nous planifions nos révisions. / Nous évitons le stress.
 **Ex. 3.** a) planifierai · b) réviserons · c) seras · d) persévéreront.
 
 **Ex. 4.** (réponses possibles) a) Je prends des notes **pour** gagner du temps. b) Elle lit un article par semaine **afin d'**atteindre le niveau B2. c) Nous planifions nos révisions **pour** éviter le stress.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (E, ≈ 160 mots) — *Mon plan pour le cycle terminal*.**
 
 Rédigez un court texte dans lequel vous présentez votre méthode de travail et vos objectifs pour l'année prochaine. Organisez-le en trois paragraphes : (1) ce qui va changer, (2) votre nouvelle organisation, (3) votre objectif principal et les moyens de l'atteindre.
@@ -185,27 +217,18 @@ Contraintes : au moins **5 mots** de la liste de vocabulaire · au moins **4 ver
 - Expression du but (≥ 2 tournures) — 2 pts
 - Cohérence et correction de la langue — 3 pts
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends un texte sur l'organisation du cycle terminal.
 - [ ] Je connais au moins 8 mots liés aux stratégies d'apprentissage.
 - [ ] Je forme correctement le futur simple, y compris les verbes irréguliers.
 - [ ] J'exprime un but avec *pour / afin de* + infinitif.
 - [ ] Je peux rédiger un court plan de travail personnel.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (*Klassenarbeit*), Niveau E.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 pts).** Lisez le texte C (« Le carnet d'Anouk »). Répondez à 5 questions et relevez 2 objectifs que se fixe Anouk.
-
-**Tâche 2 — Langue (8 pts).** Conjuguez 4 verbes au futur simple (4 pts) et complétez 4 phrases de but avec *pour / afin de* + infinitif (4 pts).
-
-**Tâche 3 — Expression écrite (12 pts).** Rédigez votre plan de travail pour le cycle terminal (≈ 160 mots), en respectant les contraintes de la partie « Produire ».
-
-**Total : 30 points.** Barème : 27-30 = très bien · 22-26 = bien · 15-21 = satisfaisant · < 15 = à retravailler.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :** Situation de départ + Activer (5') · Apporter — vocabulaire, point de langue, texte, note culturelle (14') · S'entraîner — Ex. 1 à 4 puis correction (12') · Produire — lancement et rédaction guidée (11') · Réfléchir (3').
 

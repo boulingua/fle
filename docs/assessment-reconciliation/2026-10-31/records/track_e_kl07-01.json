@@ -1,0 +1,76 @@
+{
+  "unit": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+  "exam": "content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md",
+  "before_unit_sha256": "be314bfd6c6bb8faf324fa1eccc88dac75890cdae6f33d20de68c664fe4c219c",
+  "after_unit_sha256": "cef7ff528249cd1ca4f7affa9d203c118ef05cb68228c0d76a673850b5191efa",
+  "before_exam_sha256": "d90d9fc0cc43077dadc0cdf61399168311528c09f9f449a952948f1391f37bf7",
+  "after_exam_sha256": "86ae6710594de630773d5b63a98af57b466eafd7d046ec4db1a52f23f63766dc",
+  "source_sections": "C",
+  "supplied_source_sha256": "0e56fbf278e8f9e37f43a5baeeb4a84128941647777c911b7ae1e84734d9f8bd",
+  "source_mode": "learner-reading",
+  "total_points": 20,
+  "decisions": [
+    "Sibling Inès/Montréal source nonexistent; actual Nour source and present-tense unit control assessed content. Past-composed tasks archived as off-scope; preserved authored oral assessment as distinct optional follow-up."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "a6b5e89b13dfad211a09f0aaeac12578de4b46a34421f9d72652e5ded10bb50a",
+      "after_sha256": "cef7ff528249cd1ca4f7affa9d203c118ef05cb68228c0d76a673850b5191efa",
+      "reasons": [
+        "Align exam total with restored primary outcomes."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit01_la-rentree-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "aa6e98c2f61b1259379153d7ff488722eeb6b0905054bf16af591ed0cc0e59c8",
+      "after_sha256": "f6299ffb4487ebe40d9160c7ad6ff1052d7652e7e883965bf345aa4bd3ac2b3f",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "f6299ffb4487ebe40d9160c7ad6ff1052d7652e7e883965bf345aa4bd3ac2b3f",
+      "after_sha256": "c40c5626bfd0630f82a0ccdf68e95148cc5968335b01331b392ce706d33fd08a",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md",
+      "before_sha256": "c40c5626bfd0630f82a0ccdf68e95148cc5968335b01331b392ce706d33fd08a",
+      "after_sha256": "666245344f5d7d3be25eb1593849f2f97ba225389ae3909ff39a580c0345706b",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md",
+      "before_sha256": "666245344f5d7d3be25eb1593849f2f97ba225389ae3909ff39a580c0345706b",
+      "after_sha256": "86ae6710594de630773d5b63a98af57b466eafd7d046ec4db1a52f23f63766dc",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl07",
+      "unit": 1,
+      "total": 20,
+      "graded_tasks": [
+        {
+          "title": "Interaction de rentrée",
+          "points": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 1"
+subtitle: "Salutations et prénoms · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 1
+slug: "salutations-et-prenoms-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.LING.vocabulary-range.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.REC.reading-for-orientation.01
+    - A1.INT.asking-for-clarification.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 6
+
+### Tâche 1 — Compréhension orale (« Hören ») (10 points)
+
+La prof lit 5 mini-situations. Pour chacune, choisissez la
+formule juste : **Bonjour · Salut · Au revoir · Merci · S'il
+vous plaît**.
+
+1. Le matin, vous arrivez en classe et la prof entre. → ___
+2. Votre copain·ine vous appelle dans la cour. → ___
+3. Vous partez de la boulangerie. → ___
+4. Vous demandez un croissant. → ___
+5. La boulangère vous donne le croissant. → ___
+
+### Tâche 2 — Expression orale (« Sprechen ») mündlich (10 points)
+
+Avec un·e camarade : se saluer · se présenter · épeler son
+prénom · se dire au revoir.
+
+Critères : Erfüllung 4 P. · Aussprache 4 P. · Langue 2 P.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Écrivez un mini-dialogue de **4 lignes** : se saluer · dire son
+prénom · demander celui de l'autre · au revoir.
+
+## Notation
+
+| Tâche | Points |
+|------------------------|--------:|
+| Tâche 1 — Compréhension orale | 10 |
+| Tâche 2 — Expression orale | 10 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Bonjour. 2) Salut. 3) Au revoir. 4) S'il vous
+plaît. 5) Merci.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 1*

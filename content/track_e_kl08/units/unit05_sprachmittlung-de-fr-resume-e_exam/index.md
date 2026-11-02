@@ -23,19 +23,35 @@ curriculum:
     - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez le résumé français (Unité 5, texte C). Répondez :
+## Support
 
-1. Quel est le nom du festival ?
-2. Où a-t-il lieu ?
-3. Quand se déroule-t-il ?
-4. Combien d'artistes participent ?
+### C. Texte-modèle (français original)
+
+> **Le résumé d'Anouk (modèle à imiter) :**
+>
+> Dans cette annonce, il s'agit du **Zeltmusikfestival**, un festival de musique à Fribourg-en-Brisgau. On apprend qu'il se déroule **du 12 au 21 juillet** sur le site du Mundenhof, un grand parc à l'extérieur de la ville. L'article explique que **plus de cinquante artistes** venus de différents pays se produisent sous de **grandes tentes**. En résumé, c'est un rendez-vous musical très populaire dans la région, ouvert à tous les publics.
+
+Remarquez : Anouk garde les **noms propres** (Zeltmusikfestival, Mundenhof), traduit le nom de ville en **exonyme français** (*Freiburg → Fribourg*) et utilise trois tournures de médiation différentes.
+
+*Annonce pédagogique : dates et chiffres servent à cet exercice; ils ne constituent pas une programmation actuelle vérifiée.*
+
+### Tâche 1 — Compréhension écrite (8 points)
+
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
+
+1. De quel événement le résumé parle-t-il et dans quelle ville ?
+2. Sur quel site se déroule-t-il ? Comment ce lieu est-il décrit ?
+3. À quelle date commence l’événement et à quelle date finit-il dans le document ?
+4. Combien d’artistes sont annoncés et sous quel type d’installation jouent-ils ?
 
 ### Tâche 2 — Verbes de médiation (8 points)
 
@@ -46,7 +62,9 @@ Complétez avec un verbe de médiation correct :
 3. On ___ que c'est un festival traditionnel.
 4. Le texte ___ 4 grandes tentes.
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 points)
+**Barème :** 4 phrases ×2 points : tournure adaptée 1, construction grammaticale 1. Plusieurs verbes sont acceptables si le sens et la syntaxe conviennent.
+
+### Tâche 3 — Production (14 points)
 
 À partir de cet article DE (~60 mots), rédigez un **résumé en
 français** (~80 mots) : 3 verbes de médiation + lieu + date +
@@ -57,31 +75,11 @@ français** (~80 mots) : 3 verbes de médiation + lieu + date +
 > finden im Schlosshof statt. Tickets: ab 25 Euro. Mehr als
 > 10 000 Besucher werden erwartet.*
 
-## Notation
+*Le texte allemand ci-dessus est une annonce fictive pour cette épreuve, pas un calendrier ou un tarif réel. Ne pas présenter les estimations comme une fréquentation observée.*
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 8 |
-| Tâche 2 — Verbes médiation | 8 |
-| Tâche 3 — médiation linguistique | 14 |
-| **Total** | **30** |
+**Barème :** Contenu fidèle : 6; tournures de médiation : 4; français compréhensible et longueur adaptée : 3; adaptation au destinataire : 1. Ne pas ajouter des faits non fournis.
 
-## Solutions
-
-**Tâche 1.** 1) Zeltmusikfestival. 2) Sur le Mundenhof à
-Fribourg. 3) Du 12 au 21 juillet. 4) Plus de 50.
-
-**Tâche 2.** 1) il s'agit · 2) présente/explique · 3) apprend
-· 4) mentionne.
-
-**Tâche 3.** Modèle : *Dans cet article, il s'agit du
-Schlossfest de Heidelberg. Le festival a lieu du 5 au 12 août
-dans la cour du château. L'auteur présente plus de 30
-représentations de théâtre et de musique. On apprend que les
-billets coûtent à partir de 25 €. Le texte mentionne plus de
-10 000 visiteurs attendus.* (~80 mots).
-
----
+## Barème total
 
 {{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
 **Total.** 30 points
@@ -96,4 +94,36 @@ billets coûtent à partir de 25 €. Le texte mentionne plus de
 | 0–8 | 6 |
 {{< /callout >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 5*
+*Ce barème reprend les seuils du sujet antérieur; il est proposé pour ces tâches seulement, sans valeur de certification GER ou de règlement scolaire.*
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Tâche 1.**
+
+1.Zeltmusikfestival; Fribourg-en-Brisgau (1+1).2.Mundenhof; grand parc à l’extérieur de la ville (1+1).3.12 juillet; 21 juillet (1+1).4.Plus de 50; grandes tentes (1+1).
+
+**Tâche 2.** 1) il s'agit · 2) présente/explique · 3) apprend
+· 4) mentionne.
+
+**Tâche 3.** Modèle : *Dans cet article, il s'agit du
+Schlossfest de Heidelberg. Le festival a lieu du 5 au 12 août
+dans la cour du château. L'auteur présente plus de 30
+représentations de théâtre et de musique. On apprend que les
+billets coûtent à partir de 25 €. Le texte mentionne plus de
+10 000 visiteurs attendus.* (~80 mots).
+
+{{< /details >}}
+
+## Sources
+
+- « Cadre européen commun de référence pour les langues » — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Cadre_européen_commun_de_référence_pour_les_langues>, licence CC BY-SA 4.0.
+- « Zeltmusikfestival » — Wikipedia (de) (consulté en 2026), <https://de.wikipedia.org/wiki/Zeltmusikfestival>, licence CC BY-SA 4.0.
+- KMK — Bildungsstandards für die fortgeführte Fremdsprache, Kultusministerkonferenz, <https://www.kmk.org/themen/allgemeinbildende-schulen/bildungsstandards.html> (document officiel, consultation libre).
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

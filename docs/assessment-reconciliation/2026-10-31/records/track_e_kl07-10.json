@@ -1,0 +1,55 @@
+{
+  "unit": "content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+  "exam": "content/track_e_kl07/units/unit10_musique-et-chanson-e_exam/index.md",
+  "before_unit_sha256": "26bfa19c99b0d28423734e04e73dcc535e7115ff592f49ee833b80ea49723901",
+  "after_unit_sha256": "17e7d8c542adcb4ce5a4c775647e84b4ee4fbd1f7b1c73f83bea6afa96685070",
+  "before_exam_sha256": "8d9e3c4ae646126dfd2e64d145f06e0648e5e02768364a6c4ab526dc07cea511",
+  "after_exam_sha256": "c6e1399ff27ac69c5ecf7334dab641cfb95f9b94e368ffd848082515822d2be6",
+  "source_sections": "B",
+  "supplied_source_sha256": "31cad436ec64aa245ac7dbf5671162fe2c374da37192cb7358df29d9536c887a",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "decisions": [
+    "No audio rights/source supplied for Papaoutai; used actual original Nadia/Théo dialogue, no lyrics copied. Replaced country/style lookup with source-aligned vocabulary; retained personal-clip commentary."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "31e2cff58674b25926581d0735ce33ca424fe4c0e2b018d28f6f0dcf2fba124a",
+      "after_sha256": "17e7d8c542adcb4ce5a4c775647e84b4ee4fbd1f7b1c73f83bea6afa96685070",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "392fdbd652b6c7f37d14fd5235e60f2dede52011ed3b417181c6c080639df71e",
+      "after_sha256": "d2a82cc3c5e567f415bb77784abf46416722742a0e5654c87025c5daa308f5a7",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit10_musique-et-chanson-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "d2a82cc3c5e567f415bb77784abf46416722742a0e5654c87025c5daa308f5a7",
+      "after_sha256": "72c0f2a78ccb9f1290e20dc92d6e09550db8d7ff3fb984c944dc5b0fd11070e2",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit10_musique-et-chanson-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit10_musique-et-chanson-e_exam/index.md",
+      "before_sha256": "72c0f2a78ccb9f1290e20dc92d6e09550db8d7ff3fb984c944dc5b0fd11070e2",
+      "after_sha256": "c6e1399ff27ac69c5ecf7334dab641cfb95f9b94e368ffd848082515822d2be6",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

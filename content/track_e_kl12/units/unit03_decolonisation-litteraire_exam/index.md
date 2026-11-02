@@ -23,71 +23,71 @@ curriculum:
     - B2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez l'extrait *Moi, Tituba* (Unité 3, texte C). Répondez :
+## Support
 
-1. Quelle est la 1ʳᵉ phrase ?
-2. À quel âge Tituba est-elle vendue ? Où ?
-3. De quoi est-elle accusée ?
-4. D'où vient sa grand-mère ?
-5. Que dit Condé du mot *« sorcière »* ?
+### B. Texte — « Rendre la parole aux silences » (texte original)
 
-### Tâche 2 — Concepts décoloniaux (8 points)
+La littérature dite décoloniale ne se contente pas de raconter des histoires : elle demande **qui** a le droit de raconter, et au nom de qui. Pendant des siècles, les récits venus des colonies ont surtout été écrits par les colonisateurs ; les colonisé·es y apparaissaient comme des figures muettes, des ombres au fond du décor. Écrire de manière décoloniale, c'est renverser ce rapport. C'est prendre une figure oubliée — une servante, une esclave, un enfant sans nom — et lui inventer une voix, une mémoire, un regard sur le monde.
 
-Reliez chaque concept à sa définition / référence :
+Imaginons une scène. Dans un village des Antilles, une vieille femme raconte à sa petite-fille l'histoire de leur famille. Les livres d'école, dit-elle, parlent des rois d'Europe et des grands navires ; mais ils ne disent rien de sa propre grand-mère, arrachée à sa terre et vendue de l'autre côté de l'océan. « Si personne n'écrit son nom, il disparaîtra », murmure-t-elle. L'enfant décide alors qu'elle sera celle qui écrit.
 
-- créolité · tout-monde · voix oubliées · réécriture ·
- négritude · postcolonial · diaspora · hybridité
+C'est précisément ce geste que de nombreuses écrivaines et de nombreux écrivains antillais accomplissent. Maryse Condé, romancière guadeloupéenne, a construit une grande partie de son œuvre autour de ces vies effacées : elle réécrit l'histoire depuis le point de vue de celles et de ceux que les archives ont longtemps ignorés. D'autres auteurs, comme Édouard Glissant, proposent de penser le monde non plus comme une pyramide de peuples, mais comme un tissu où toutes les cultures se rencontrent et se transforment.
 
-(Définitions : *Bernabé/Chamoiseau/Confiant 1989* · Glissant
-· Tituba/Slimani · réinverser un canon · Senghor/Césaire ·
-après l'empire · diffusion · Bhabha.)
+### C. Note culturelle — la créolité
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+Le mot **créolité** désigne un mouvement littéraire né aux Antilles françaises à la fin des années 1980. Selon Wikipédia, ce courant s'affirme en 1989 avec un manifeste de trois auteurs martiniquais — Jean Bernabé, Patrick Chamoiseau et Raphaël Confiant — qui revendiquent une identité antillaise propre, à la fois plurielle et métissée, distincte des modèles européen, africain ou asiatique. Le mouvement valorise la langue et la culture créoles et prolonge la réflexion d'Édouard Glissant sur la **créolisation** : l'idée que les cultures, en se rencontrant, produisent du nouveau plutôt que de disparaître les unes dans les autres. *(Paraphrase — voir Sources.)*
 
-Rédigez une **analyse + lien** (~350 mots) à partir d'un
-2ᵉ extrait fourni (Glissant / Mabanckou) : 1 concept + 3
-citations + 1 lien à votre époque (#MeToo, BLM…).
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») — 12 P.**
+À partir du texte B « Rendre la parole aux silences » :
+1. En une phrase, quelle question centrale pose la littérature décoloniale ? (2 P.)
+2. Comment les colonisé·es apparaissaient-ils dans les récits coloniaux ? (2 P.)
+3. Expliquez, avec vos propres mots, ce que fait la vieille femme du texte et pourquoi. (3 P.)
+4. Quel est le projet littéraire de Maryse Condé, d'après le texte ? (3 P.)
+5. Relevez et nommez un procédé de mise en relief présent dans le texte. (2 P.)
 
-## Notation
+**Tâche 2 — Expression orale, monologue (« Sprechen ») — 18 P.**
+Présentez en continu (3 à 4 min) le projet de rendre la parole à une figure oubliée, à partir du dossier fourni (paraphrase, sans longues citations d'auteurs contemporains).
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Concepts | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
-
-## Solutions
-
-**Tâche 1.** 1) *Je suis née de cette agression. Du viol.*
-2) Sept ans, vendue à Salem. 3) De sorcellerie. 4) De la
-Barbade. 5) Le mot qui efface et qui tue.
-
-**Tâche 2.** Réponses libres (associations).
-
-**Tâche 3.** Réponses libres. Critères : 350 mots · 1
-concept · 3 citations · 1 lien.
-
----
-
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
-
-| Points | Note |
+| Sous-critère | Points |
 |---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+| Contenu et exactitude | 6 P. |
+| Structure et cohérence (connecteurs, plan) | 4 P. |
+| Richesse lexicale et mise en relief | 4 P. |
+| Correction et prononciation | 2 P. |
+| Prise de parole en continu (fluidité, durée) | 2 P. |
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 3*
+**Total : 30 P.**
+
+## Corrigé et observation
+
+**Total : 30 points.**
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+Tâche 1 : 1. Qui raconte et au nom de qui (2).2. Figures muettes/ombres du décor (2).3. Transmettre l’histoire familiale (1), rappeler une ancêtre arrachée et vendue (1), éviter l’effacement de son nom (1).4. Écrire depuis les vies effacées (1), changer le point de vue (1), réinterroger les archives/récits dominants (1).5. « C’est… »/question « qui »/répétition pertinente (1), effet expliqué (1).
+
+Monologue : appliquer les cinq sous-critères du barème 18. Observer réellement la parole, les reprises et l’intelligibilité. On peut analyser la scène fictive et expliquer créolité/créolisation avec la note; aucune lecture d’un roman entier ni citation contemporaine n’est présupposée. Noter une question posée et la réponse; ne pas attribuer des faits inventés à une victime historique.
+
+{{< /details >}}
+
+## Sources
+
+- *Maryse Condé* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Maryse_Condé — licence CC BY-SA 4.0.
+- *Créolité* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Créolité — licence CC BY-SA 4.0.
+- *Édouard Glissant* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Édouard_Glissant — licence CC BY-SA 4.0.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

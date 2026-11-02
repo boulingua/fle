@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+  "exam": "content/track_e_kl09/units/unit07_harcelement-et-respect-e_exam/index.md",
+  "before_unit_sha256": "44ddb98fe605d65ac7339c1bf9d76abad401c8c118900ec187dca221ab8bcb62",
+  "after_unit_sha256": "61a5c2769e7134ee02593514825fdc31cf83c11442922f7f8c89e880de63149b",
+  "before_exam_sha256": "2f83a2b76c438f809440e0aaf02f4c458607df4e23bac08ce25adcb4a056cd7c",
+  "after_exam_sha256": "e8b3c36fc872d4d34a68b61b029c2525715a3a40e2ab2b665faf16cd0d677e94",
+  "source_sections": "CD",
+  "supplied_source_sha256": "fedf546fbe7fc536c963c16b434a502077ab730f206b7a1977ae04540338f640",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual two-voice dialogue plus help notice supplied; removed imaginary open-letter source; retained prevention writing and support route without requiring personal disclosure."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "499afac33e94dd6bed1b159c4912c105d57e5df85c8cd33bc6724ddbe6e7f499",
+      "after_sha256": "61a5c2769e7134ee02593514825fdc31cf83c11442922f7f8c89e880de63149b",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "86fc3cb38839912141e5e7561e80443f9ca121b2c41b4535a1dccaef5e2cd0bf",
+      "after_sha256": "61bbc1dac4da7e5cfef12c209d43f3b6e1922682ca7f854ea9a6c22ee3919389",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit07_harcelement-et-respect-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "61bbc1dac4da7e5cfef12c209d43f3b6e1922682ca7f854ea9a6c22ee3919389",
+      "after_sha256": "6fd145f9a326bada2951f19a0d2bd7c0991ff304f7085ffb81a1e42525f9ec3c",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit07_harcelement-et-respect-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e_exam/index.md",
+      "before_sha256": "6fd145f9a326bada2951f19a0d2bd7c0991ff304f7085ffb81a1e42525f9ec3c",
+      "after_sha256": "e8b3c36fc872d4d34a68b61b029c2525715a3a40e2ab2b665faf16cd0d677e94",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

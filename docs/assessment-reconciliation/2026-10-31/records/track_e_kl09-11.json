@@ -1,0 +1,84 @@
+{
+  "unit": "content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
+  "exam": "content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md",
+  "before_unit_sha256": "ef23c0c97169e4b995fbe3036cc8690d820f98a9b931e093a882c79585abd2c5",
+  "after_unit_sha256": "630c5849a153ad4b861f7e0d4509be98120cf228c5a57be0baea51081298733a",
+  "before_exam_sha256": "c15d8f92150155060315334bdc94e52a8489c51b171cfbd2c8de8e3944b1b4b2",
+  "after_exam_sha256": "54d789b1e99adab11db5201557d947cfa5ce8700f9b613a1446a580007e964d2",
+  "source_sections": "B",
+  "supplied_source_sha256": "ada3d2cffcd02f656a433ce1f9ff825c7293f2d1fad8049f3eda9480b8682b34",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Corrected unsupported year/closing in comprehension and German Mit bestem Dank. Source email and separate supplied mediation email remain distinct; invented telephone appointment cannot masquerade as source fact."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "594f0ecff912b43f3f79f2c709cc29b805a1f29191aa359b52dfd3c5614c68c5",
+      "after_sha256": "630c5849a153ad4b861f7e0d4509be98120cf228c5a57be0baea51081298733a",
+      "reasons": [
+        "Align exam total with restored primary outcomes.",
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit11_francais-au-travail-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "816773db06ae3185bb4632cb6bb6696d871414747ffc848266729f5e2be02977",
+      "after_sha256": "adf8bb2026fd0494f6b973319375567e12af7765c18b6eaa92a812346db60e14",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "adf8bb2026fd0494f6b973319375567e12af7765c18b6eaa92a812346db60e14",
+      "after_sha256": "9b23484ebcdea605a5758e67559b2c3ed1547496cbc191675dab48c8207557f7",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md",
+      "before_sha256": "9b23484ebcdea605a5758e67559b2c3ed1547496cbc191675dab48c8207557f7",
+      "after_sha256": "dff86b4314ca612b52cf1a455810033b6b002dd6094af9ad072b1ce86b93df50",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md",
+      "before_sha256": "dff86b4314ca612b52cf1a455810033b6b002dd6094af9ad072b1ce86b93df50",
+      "after_sha256": "54d789b1e99adab11db5201557d947cfa5ce8700f9b613a1446a580007e964d2",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl09",
+      "unit": 11,
+      "total": 30,
+      "graded_tasks": [
+        {
+          "title": "Médiation professionnelle",
+          "points": 16
+        },
+        {
+          "title": "Appel téléphonique",
+          "points": 10
+        },
+        {
+          "title": "Lexique",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

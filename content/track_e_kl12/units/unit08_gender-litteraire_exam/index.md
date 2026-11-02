@@ -23,74 +23,67 @@ curriculum:
     - B2.PROD.sustained-monologue-putting-a-case.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez l'extrait *King Kong théorie* (Unité 8, texte C).
-Répondez :
+## Supports
 
-1. Pour qui Despentes écrit-elle ?
-2. Comment définit-elle la *féminité* classique ?
-3. Quels 2 mouvements sociaux cite-t-elle ?
-4. Selon elle, qui le patriarcat abîme-t-il ?
-5. Quel est le ton du texte (registres) ?
+### B. Texte — Écrire le genre, hier et aujourd'hui (texte original)
 
-### Tâche 2 — Concepts gender (8 points)
+> La question du genre n'est pas neuve en littérature française. Dès 1791, **Olympe de Gouges** réclame l'égalité dans sa *Déclaration des droits de la femme et de la citoyenne* : « La femme naît libre et demeure égale à l'homme en droits. » Un demi-siècle plus tard, **George Sand** signe ses romans d'un prénom d'homme et porte le pantalon pour circuler librement dans Paris ; son nom de plume devient lui-même un geste politique. Plus tard encore, **Colette** décrit sans détour le désir et les rôles imposés aux femmes.
+>
+> La littérature contemporaine prolonge ce questionnement, mais autrement. Des autrices et auteurs d'aujourd'hui — on peut penser à Virginie Despentes, à Maylis de Kerangal, à Édouard Louis ou à Nina Bouraoui — explorent l'identité, le corps et les assignations sociales. On ne les citera pas ici mot pour mot : leurs œuvres sont protégées par le droit d'auteur. On peut en revanche les **lire, les résumer, en discuter** et **renvoyer** vers les livres. C'est toute la différence entre s'approprier un texte et en rendre compte honnêtement.
 
-Reliez :
+*(Les phrases de Gouges et le geste de Sand appartiennent au domaine public ; les auteurs contemporains sont cités par référence seulement.)*
 
-- gender · intersectionnalité · patriarcat · queer ·
- écriture inclusive · empowerment · #MeToo · 4ᵉ vague
+### C. Note culturelle — les études de genre
 
-(Définitions : construction sociale · Crenshaw 1989 · système
-masculin · refus des cases · iel/toustes · autonomisation ·
-Hashtag 2017 · vague récente.)
+Selon l'encyclopédie collaborative Wikipédia (CC BY-SA), les **études de genre** forment un champ de recherche pluridisciplinaire qui analyse le genre comme une **construction sociale et culturelle**, distincte du sexe biologique : les rôles dits « féminins » ou « masculins » varient selon les époques et les sociétés. Le concept d'**intersectionnalité**, forgé par la juriste américaine Kimberlé Crenshaw en 1989, décrit la manière dont plusieurs discriminations (de genre, de classe, d'origine) peuvent se cumuler. En français, l'**écriture inclusive** regroupe des procédés — doublets (*étudiantes et étudiants*), point médian (*étudiant·e·s*), termes épicènes (*le corps enseignant*) — dont l'usage reste débattu et n'est pas obligatoire. *(Paraphrasé ; voir Sources.)*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Épreuve — Compréhension écrite + Interaction orale (Niveau E)**
 
-Rédigez un **dialogue** (~300 mots, 15 répliques) à partir
-d'un extrait gender (Despentes / Édouard Louis) : 4 concepts
-+ 2 citations + 1 contre-argument + 1 exemple actualité.
+**Tâche 1 — Compréhension écrite (texte B), 12 P.**
+1. Relevez les trois figures du domaine public citées et leur époque. (3 P.)
+2. Expliquez pourquoi le texte oppose « s'approprier » et « rendre compte ». (4 P.)
+3. Quelle est la thèse du texte en une phrase ? (3 P.)
+4. Citez un procédé d'écriture inclusive mentionné dans la note C. (2 P.)
 
-## Notation
+**Tâche 2 — Interaction orale, 18 P.**
+Débat en binôme (≈ 4 min) : *« La littérature peut-elle changer le regard sur le genre ? »* Chaque partenaire défend une position, emploie au moins trois termes spécialisés, cite une source du domaine public et respecte le droit d'auteur pour les œuvres récentes.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Concepts | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+*Barème Tâche 2 :* contenu et arguments 6 P. · vocabulaire spécialisé 4 P. · respect du droit d'auteur (citation vs référence) 3 P. · qualité de l'interaction 5 P.
 
-## Solutions
+**Total : 30 P.**
 
-**Tâche 1.** 1) Pour *moches, vieilles, exclues du marché*.
-2) Performance (sourire, plaire, séduire). 3) #MeToo,
-#NousToutes. 4) Tout le monde, hommes compris. 5) Familier
-+ militant.
+## Corrigé et observation
 
-**Tâche 2.** Réponses libres (associations).
+**Total : 30 points.**
 
-**Tâche 3.** Réponses libres. Critères : 300 mots ·
-15 répliques · 4 concepts · 2 citations · 1 contre · 1
-exemple.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
----
+T1. Gouges 1791, Sand XIXesiècle, Colettefin XIXe–XXesiècle (1 chacun).T2. S’approprier ici : reprendre sans rendre compte de l’origine (2); présenter honnêtement : attribuer, résumer et distinguer ses propres mots (2). Cette consigne n’est pas une interdiction générale de toute citation brève licite.T3. La littérature interroge les rôles de genre depuis longtemps, avec des formes renouvelées (3).T4. Doublets, point médian ou terme épicène (2 pour un exemple exact).
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+Oral 18 : observer contenu 6, vocabulaire 4, attribution 3, interaction 5. Chaque personne doit répondre à l’autre et reformuler un point; noter des exemples observés. La citation Gouges disponible suffit; aucune citation de Despentes/Louis non fournie n’est attendue.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+{{< /details >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 8*
+## Sources
+
+- *Études de genre* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/%C3%89tudes_de_genre>, licence CC BY-SA 4.0.
+- *Écriture inclusive* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/%C3%89criture_inclusive>, licence CC BY-SA 4.0.
+- *Intersectionnalité* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/Intersectionnalit%C3%A9>, licence CC BY-SA 4.0.
+- *Déclaration des droits de la femme et de la citoyenne* — Olympe de Gouges (1791), texte du domaine public, <https://fr.wikisource.org/wiki/D%C3%A9claration_des_droits_de_la_femme_et_de_la_citoyenne>.
+- *George Sand* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/George_Sand>, licence CC BY-SA 4.0.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

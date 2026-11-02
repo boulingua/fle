@@ -1,0 +1,67 @@
+{
+  "unit": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+  "exam": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md",
+  "before_unit_sha256": "d8fbdec594d3513cccd2ad78da8ce3e77a9a938bb3a7ff3dc8caadc9586b8ed6",
+  "after_unit_sha256": "8271c774106df61fcbd9ed20a9ce8080655b6574dcf0a0715f7d1cb4b62c2c6f",
+  "before_exam_sha256": "02d9f82b43f1fd74d5ed2346dbf061b4dc63aa9b2032e85b68ddfb47f3019590",
+  "after_exam_sha256": "3e5bc3c840d6fc4fb360ea3c4baa90a946d890677d2c534013677c8240032992",
+  "source_sections": [
+    "Input B, bulletin météo"
+  ],
+  "supplied_source_sha256": "efb4c89f574366e07c44abb09b673449a3107962b23ea8e5aaced6ad072fb459",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "task_points": [
+    12,
+    8,
+    10
+  ],
+  "decisions": [
+    "Correct22→18degrees and remove invented il fera beau from heard-expression key.",
+    "Four actual season matches explicitly2points each; retain30-point standalone scale."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "4683133993584d54430c72707b660671d7f1ba1201f5953d2b8b51ba848b0027",
+      "after_sha256": "8271c774106df61fcbd9ed20a9ce8080655b6574dcf0a0715f7d1cb4b62c2c6f",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3753e0a52d98d84ea3e3f6488ff7bde5b10af0ece786629b0c993305f71c9d41",
+      "after_sha256": "6d427f3c449460dbee2c05d7094cdf9ef7ba32e889a35a38ece3bd4b5b029310",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6d427f3c449460dbee2c05d7094cdf9ef7ba32e889a35a38ece3bd4b5b029310",
+      "after_sha256": "bdf35a37c67b6e35a2080be5f3d59a2be63b5427df71078b7cd7c75f3f134d4b",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "bdf35a37c67b6e35a2080be5f3d59a2be63b5427df71078b7cd7c75f3f134d4b",
+      "after_sha256": "a9c0bfcdbefd46076793105ab4af9b3ec1ca09e749bca2a410ac0291b1a85c9d",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md",
+      "before_sha256": "a9c0bfcdbefd46076793105ab4af9b3ec1ca09e749bca2a410ac0291b1a85c9d",
+      "after_sha256": "3e5bc3c840d6fc4fb360ea3c4baa90a946d890677d2c534013677c8240032992",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

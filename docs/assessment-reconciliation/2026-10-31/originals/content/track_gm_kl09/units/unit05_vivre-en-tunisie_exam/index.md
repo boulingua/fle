@@ -1,0 +1,100 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 5"
+subtitle: "Vivre en Tunisie · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 5
+slug: "vivre-en-tunisie-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.02
+    - A2.INT.formal-discussion.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.collaborating-to-construct-meaning.02
+    - A2.MED.encouraging-conceptual-talk.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 points)
+
+Lisez le blog de Mehdi (Unité 5, texte C). Répondez :
+
+1. Dans quelle ville vit Mehdi et où se situe-t-elle ?
+2. Que fait-il le vendredi soir ?
+3. Combien d'heures de français a-t-il par semaine ?
+4. Quels auteurs lit-il ?
+5. Que fait-il le week-end ?
+6. Quelle question pose-t-il à Léa ?
+
+### Tâche 2 — Vocabulaire (8 points)
+
+Reliez les termes tunisiens et leur équivalent standard.
+
+| Tunisien | Standard |
+|----------|----------|
+| 1. la koura | a. le marché |
+| 2. la brick | b. le foot |
+| 3. la medina | c. l'arabe parlé |
+| 4. le souk | d. la vieille ville |
+| 5. la darija | e. un beignet d'œuf |
+
+Plus, traduisez en français standard : *l'indépendance · la
+révolution · une langue officielle*.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Rédigez une **réponse à Mehdi** en **120 mots** : votre samedi
+à Karlsruhe + comparaison avec Sfax. **2 mots tunisiens** entre
+guillemets + **1 fait** sur la Tunisie.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 12 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Sfax, sur la côte méditerranéenne, 270 km au sud
+de Tunis. 2) Couscous en famille. 3) 4h. 4) Tahar Ben Jelloun
+(marocain) et Albert Memmi (tunisien). 5) *Koura* sur la plage.
+6) « Vous avez quoi à Karlsruhe pour vous amuser le samedi ? »
+
+**Tâche 2.** 1-b · 2-e · 3-d · 4-a · 5-c. + die Unabhängigkeit ·
+die Revolution · eine offizielle Langue.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 2 mots
+tunisiens · 1 fait sur la Tunisie · format réponse blog.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 5*

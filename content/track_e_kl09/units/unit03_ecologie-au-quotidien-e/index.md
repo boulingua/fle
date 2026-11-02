@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 3
 slug: "ecologie-au-quotidien-e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_ecologie-au-quotidien-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_ecologie-au-quotidien-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit03_ecologie-au-quotidien-e.html"
+- "/track_e_kl09/units/unit03_ecologie-au-quotidien-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.INT.goal-oriented-online-transactions-and-collaboration.05
-    - A2.MED.adapting-language.01
+  - A2.INT.conversation.08
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.INT.goal-oriented-online-transactions-and-collaboration.05
+  - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_ecologie-au-quotidien-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit03_ecologie-au-quotidien-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,15 +105,13 @@ curriculum:
 - Quel conseil Karim donne-t-il ? Retrouvez la phrase exacte.
 - Et vous, comment venez-vous au lycée ? Est-ce un choix écologique ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quels éco-gestes faites-vous **chaque jour**, sans même y penser ?
 - Chez vous, combien de poubelles différentes utilisez-vous pour trier ?
 - Classez ces gestes du plus facile au plus difficile pour vous : *éteindre la lumière · manger moins de viande · venir à vélo · acheter d'occasion.*
 - Complétez à l'oral : « Pour protéger la planète, je pourrais commencer par… »
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — l'écologie au quotidien
 
 | Français | Type | Allemand (repère) |
@@ -119,9 +150,9 @@ Pour conseiller quelqu'un, on dispose de plusieurs outils :
 >
 > On croit souvent qu'être écolo, c'est tout changer d'un coup. En réalité, quelques gestes simples, répétés chaque jour, comptent déjà beaucoup.
 >
-> D'abord, **trier** ses déchets : le verre, le papier et les emballages ne vont pas dans la même poubelle. Ensuite, **économiser** l'eau : une douche courte consomme trois fois moins qu'un bain. On peut aussi **éteindre** les appareils au lieu de les laisser en veille, **privilégier** le vélo ou les transports en commun pour les petits trajets, et **acheter d'occasion** plutôt que du neuf.
+> D'abord, **trier** ses déchets : suivre les consignes locales pour le verre, le papier et les emballages. Ensuite, **économiser** l'eau : une douche courte peut consommer moins qu'un bain, selon sa durée et le débit. On peut aussi **éteindre** les appareils au lieu de les laisser en veille, **privilégier** le vélo ou les transports en commun pour les petits trajets, et **acheter d'occasion** plutôt que du neuf.
 >
-> Aucun de ces gestes ne demande de l'argent ni beaucoup de temps. Comme le dit Karim dans notre dialogue : *« Le plus important, c'est de commencer petit et de continuer. »*
+> Le coût, le temps et les possibilités varient selon les personnes; choisissons un premier geste réalisable. Comme le dit Karim dans notre dialogue : *« Le plus important, c'est de commencer petit et de continuer. »*
 
 ### D. Note culturelle — la Semaine européenne de la mobilité
 
@@ -129,8 +160,7 @@ Pour conseiller quelqu'un, on dispose de plusieurs outils :
 Chaque année, en Europe, une semaine est consacrée aux déplacements plus respectueux de l'environnement. Selon Wikipédia, la **Semaine européenne de la mobilité** se déroule du **16 au 22 septembre** et se termine par une **« journée sans voiture »**, où certaines rues des centres-villes sont réservées aux piétons, aux vélos et aux transports en commun. L'idée, portée par l'Union européenne depuis 2002, est d'encourager chacun à repenser ses trajets quotidiens.
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).**
 Répondez par une phrase complète.
 
@@ -164,9 +194,10 @@ c) Si je (manger) ___ moins de viande, je (réduire) ___ mon empreinte carbone.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1) Non, quelques gestes simples répétés chaque jour comptent déjà beaucoup.
-2) Parce qu'une douche courte consomme trois fois moins d'eau qu'un bain.
+2) Parce qu'une douche courte peut consommer moins d'eau qu'un bain, selon sa durée et le débit.
 3) Petits trajets : le vélo / les transports en commun ; achats : acheter d'occasion.
 4) Réponse possible : « De petits gestes quotidiens suffisent pour commencer à agir pour la planète. »
 
@@ -182,9 +213,9 @@ c) Si je (manger) ___ moins de viande, je (réduire) ___ mon empreinte carbone.
 - **M (standard) :** exercices tels quels.
 - **E (approfondi) :** pour l'Ex. 4, ajouter une **justification** (*parce que…*) à chaque phrase et rédiger une phrase supplémentaire libre.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, ~12 répliques).**
 
 A et B se rencontrent et parlent de leurs habitudes écologiques.
@@ -203,32 +234,18 @@ Jouez le dialogue devant un autre binôme ou devant la classe.
 - **Prononciation et fluidité** : compréhensible, débit régulier. (2 pts)
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je connais au moins 10 mots de l'écologie du quotidien.
 - [ ] Je sais donner un conseil de trois façons différentes (impératif, conditionnel, *il faut que*).
 - [ ] Je forme correctement une hypothèse avec *si + imparfait*.
 - [ ] J'ai compris l'essentiel d'un court article sur les éco-gestes.
 - [ ] J'ai su dialoguer et réagir aux idées de mon/ma partenaire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 pts).**
-Lire l'article « Commencer petit, mais commencer » (texte C) et répondre à cinq questions (repérage + idée principale).
-
-**Tâche 2 — Langue : le conseil et l'hypothèse (8 pts).**
-Quatre phrases à transformer : deux conseils au conditionnel, deux hypothèses avec *si + imparfait*.
-
-**Tâche 3 — Expression écrite : interaction (12 pts).**
-Rédiger un dialogue d'environ **140 mots** entre deux ami·e·s qui comparent leurs habitudes écologiques et se donnent des conseils (au moins trois conseils, une hypothèse, un défi).
-
-**Total : 30 points.**
-
-**Barème indicatif — Tâche 3 :** contenu et respect de la consigne (5) · richesse et exactitude de la langue (4) · variété des formes de conseil (2) · orthographe et présentation (1).
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' · Produire 12' · Réfléchir 2' · Aperçu séance suivante 2'.
 

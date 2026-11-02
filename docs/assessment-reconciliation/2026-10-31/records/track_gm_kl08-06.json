@@ -1,0 +1,46 @@
+{
+  "unit": "content/track_gm_kl08/units/unit06_musiques-du-maghreb/index.md",
+  "exam": "content/track_gm_kl08/units/unit06_musiques-du-maghreb_exam/index.md",
+  "before_unit_sha256": "80343f988b5a14f485de8b2e3f6847ee64522da6d9d3f57f271a2a3081859344",
+  "after_unit_sha256": "2914635478a84fe980cd9c0cef211a6fda24e94bf363722a1d243a7219a8f381",
+  "before_exam_sha256": "bdf232457174dc0195ee0d564774770935b366df337c095785baf079f1667d47",
+  "after_exam_sha256": "49bae658f4ea320bd4ac8a5ed9b8be50d8d42e2a2bf4cdea94f2f0319d7bad3d",
+  "source_sections": "CD",
+  "source_mode": "teacher-listening-and-learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "listening",
+    "reading",
+    "writing"
+  ],
+  "decisions": [
+    "Preserved14+10+6primary assessment and exactoriginal refrain instead of materially different sibling ending; no audiovisualclaim withoutvideo."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "3e984160cc3a380e2ddcd7d861db46c8a39899ab78daddb05c34a8216e0e3893",
+      "after_sha256": "747a5b702b7790de7ff7d9aba182ed10e6478eea25019572bf6df329835b22ce",
+      "reasons": [
+        "Match source region instead of requiring an unsupported city.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl08/units/unit06_musiques-du-maghreb_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "747a5b702b7790de7ff7d9aba182ed10e6478eea25019572bf6df329835b22ce",
+      "after_sha256": "e0a6ca95821cd59fea13a0a9ba994386a7095695014cf7a3eb5f13f4225cb4f5",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit06_musiques-du-maghreb_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl08/units/unit06_musiques-du-maghreb_exam/index.md",
+      "before_sha256": "e0a6ca95821cd59fea13a0a9ba994386a7095695014cf7a3eb5f13f4225cb4f5",
+      "after_sha256": "49bae658f4ea320bd4ac8a5ed9b8be50d8d42e2a2bf4cdea94f2f0319d7bad3d",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

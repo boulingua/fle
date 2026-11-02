@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 4
 slug: "autour-de-la-planete-francophone-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — production orale en continu (monologue)"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — production orale en continu (monologue)"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,56 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_autour-de-la-planete-francophone-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_autour-de-la-planete-francophone-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e.html"
+- "/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.03
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.PROD.overall-oral-production.01
-    - A2.INT.conversation.08
+  - A2.PROD.creative-writing.03
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.PROD.overall-oral-production.01
+  - A2.INT.conversation.08
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file:
+    /fle/materials/worksheets/unit04_autour-de-la-planete-francophone-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit04_autour-de-la-planete-francophone-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,15 +101,13 @@ curriculum:
 2. Sur combien de continents parle-t-on français, d'après Mme Devos ?
 3. Et vous : quel pays francophone aimeriez-vous découvrir ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **trois pays francophones** situés hors d'Europe.
 - Sur **quel continent** pensez-vous qu'il y a le plus de personnes qui parlent français ?
 - Connaissez-vous une **personne francophone célèbre** (chanteur·euse, sportif·ve, écrivain·e) ?
 - En allemand, on dit *nach Frankreich*. En français, comment dit-on « aller **en** France » ou « aller **au** Sénégal » ? Qu'est-ce qui change ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Exemple | Allemand |
@@ -114,8 +146,7 @@ curriculum:
 
 Selon les données présentées par l'**Organisation internationale de la Francophonie**, le français comptait environ **321 millions de locuteurs** dans le monde au début des années 2020, ce qui en fait l'une des langues les plus parlées de la planète. La Francophonie institutionnelle regroupe par ailleurs des **dizaines d'États et de gouvernements** répartis sur les cinq continents, et une **Journée internationale de la Francophonie** est célébrée chaque année **le 20 mars**. *(Faits paraphrasés d'après Wikipédia, « La francophonie » et « Organisation internationale de la Francophonie », licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 
 1. Sur combien de continents parle-t-on français ?
@@ -141,6 +172,7 @@ e) Karim étudie ___ Bruxelles, ___ Belgique.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. On parle français sur cinq continents.
 2. Le Sénégal et la Tunisie (l'Afrique).
@@ -158,9 +190,9 @@ e) Karim étudie ___ Bruxelles, ___ Belgique.
 - **M (moyen) :** faire l'Ex. 1 sans regarder le texte pour les questions 1 et 3.
 - **E (renforcé) :** ajouter à l'Ex. 4 une deuxième phrase avec un fait culturel paraphrasé de la note D.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue en continu, ~90 secondes).**
 
 Présentez **un pays francophone** de votre choix devant la classe ou en enregistrement audio. Votre présentation doit contenir :
@@ -180,8 +212,7 @@ Présentez **un pays francophone** de votre choix devant la classe ou en enregis
 | Prononciation | compréhensible, effort d'intonation | 1 |
 | **Total** | | **10** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire.
 
 - [ ] Je situe six pays francophones (continent + capitale).
@@ -192,27 +223,11 @@ Cochez ce que vous savez faire.
 
 **Bilan :** *Ce que je réussis déjà : ___ · Ce que je dois encore travailler : ___*
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — compréhension écrite + expression orale (parcours E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 P.)**
-Lisez le texte C « Une famille sur cinq continents ». Répondez en français à cinq questions :
-1. Combien de continents la francophonie relie-t-elle ? (2)
-2. Citez deux pays francophones d'Afrique. (2)
-3. Où vit la cousine de Karim ? (2)
-4. Avec qui Anouk correspond-elle et où habite cette personne ? (3)
-5. Quel projet le narrateur a-t-il pour l'an prochain ? (3)
-
-**Tâche 2 — Prépositions (8 P.)**
-Complétez huit phrases avec *en, au, aux, à*.
-
-**Tâche 3 — Expression orale en continu (10 P.)**
-Présentez oralement un pays francophone (~90 secondes) selon les critères de la partie 4 (situation, fait culturel, projet personnel, prépositions).
-
-**Total : 30 P.** — Barème indicatif : 30–27 = très bien · 26–22 = bien · 21–16 = satisfaisant · 15–10 = passable · < 10 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée :** 45 minutes.
 

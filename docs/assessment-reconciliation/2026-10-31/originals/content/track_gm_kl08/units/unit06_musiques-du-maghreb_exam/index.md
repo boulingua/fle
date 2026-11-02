@@ -1,0 +1,96 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 6"
+subtitle: "Musiques du Maghreb · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 6
+slug: "musiques-du-maghreb-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.processing-text.06
+    - A2.REC.identifying-cues-and-inferring.05
+    - A2.INT.asking-for-clarification.02
+    - A2.INT.conversation.10
+    - A2.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 8 (avec écoute)
+
+### Tâche 1 — Hörverstehen (15 points)
+
+Vous écoutez deux fois le refrain suivant.
+
+> Entre Marseille et Oran,
+> entre l'écran et le vent,
+> je chante deux pays —
+> et aucun n'est entier.
+
+Répondez :
+
+1. Quels sont les deux lieux mentionnés ? (3 P.)
+2. Que signifie « aucun n'est entier » ? (5 P.)
+3. À votre avis, qui chante ? Justifiez. (7 P.)
+
+### Tâche 2 — Text-/Medienkompetenz (10 points)
+
+Trois indices, trois genres. Identifiez :
+
+a) Mélange arabe-français + voix puissantes + Oran années 1980 → ___
+b) Oud + derbouka + mariages, héritage andalou → ___
+c) Banlieue + double identité + années 2000 → ___
+
+### Tâche 3 — Expression écrite (« Schreiben ») (5 points)
+
+Décrivez en **3 phrases** votre chanson préférée :
+genre · artiste · pourquoi vous l'aimez.
+
+## Notation
+
+| Tâche | Points |
+|------------------------------|--------:|
+| Tâche 1 — Hörverstehen | 15 |
+| Tâche 2 — Text-/Medien | 10 |
+| Tâche 3 — Expression écrite | 5 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Marseille (FR) et Oran (Algérie). 2) Aucun
+des deux pays n'est complet pour la voix qui chante — image de
+la double identité / de la diaspora. 3) Probablement une voix
+de la diaspora maghrébine en France ; indices : double lieu, *je
+chante deux pays*.
+
+**Tâche 2.** a) raï · b) chaâbi · c) rap maghrébin.
+
+**Tâche 3.** Modèle libre. Critère : 3 phrases avec verbe
+conjugué, vocabulaire des médias / musique adéquat.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 6*

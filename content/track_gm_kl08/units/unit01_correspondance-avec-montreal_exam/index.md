@@ -23,108 +23,93 @@ curriculum:
     - A2.LING.phonological-control.04
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 8
+## Modalités
+
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
+
+## Support
+
+### C. Le courriel d'Inès (texte original)
+
+> Salut Léa,
+>
+> Je m'appelle Inès Tremblay et j'ai 14 ans. Je suis en 2e secondaire à Montréal, au Québec.
+>
+> En semaine, ma journée est chargée : j'ai maths le matin et l'après-midi je fais du théâtre d'improvisation, mon activité parascolaire préférée. Le soir, je rentre à la maison en métro, sur la ligne orange, et je fais mes devoirs. Ma mère est infirmière et mon petit frère Olivier joue au hockey.
+>
+> La fin de semaine dernière, j'ai fait quelque chose de spécial : je suis montée au mont Royal avec mes amies. Nous avons marché jusqu'au belvédère et nous avons regardé toute la ville d'en haut. Après, on a magasiné au centre-ville. Il a même commencé à neiger — et on est déjà en octobre !
+>
+> Et toi, comment est ta semaine en Allemagne ? Qu'est-ce que tu as fait le week-end dernier ?
+>
+> À bientôt,
+> Inès
+
+## Sujet
 
 {{< callout type="warning" >}}
-Format devoir surveillé (« Klassenarbeit ») (niveau M), durée ~45 min. Texte
-stimulus original ; aucun extrait de manuel ou d'épreuve publié
-n'a été reproduit.
+Format devoir surveillé (« Klassenarbeit ») pour le niveau M, environ 45 minutes. Stimulus original ; **aucun texte** repris mot pour mot d'un manuel ou d'une épreuve publiée. L'évaluation cible la **compréhension écrite** et l'**expression écrite**.
 {{< /callout >}}
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+**Tâche 1 — Compréhension écrite (10 points).**
 
-Lisez le courriel d'Inès Tremblay, élève à Montréal.
+Relisez le courriel d'Inès (partie 2 C). Répondez par vrai (V) ou faux (F) et **justifiez** chaque réponse par une courte citation du texte.
 
-> Salut Léa, je m'appelle Inès Tremblay. J'ai 14 ans. Je suis en
-> 2e secondaire à l'école polyvalente Saint-Henri à Montréal.
->
-> Ma semaine est *chargée* : maths le matin, sciences humaines
-> le midi, et l'après-midi, j'ai un cours optionnel de
-> *parascolaire* — pour moi, c'est l'improvisation théâtrale. On
-> fait des matchs d'impro entre écoles.
->
-> Le soir, je rentre à la maison en métro et je fais mes
-> devoirs. Mon père est *déménageur*, ma mère est infirmière à
-> l'hôpital Sainte-Justine. Mon petit frère, Olivier, a 8 ans et
-> joue au hockey.
->
-> Le week-end, j'aime aller au mont Royal — c'est une colline au
-> milieu de la ville. Il y a de la neige six mois par an.
+1. Inès fait du théâtre d'improvisation.
+2. Inès rentre chez elle en métro.
+3. La fin de semaine dernière, elle est restée à la maison.
+4. Il a neigé au mois d'octobre.
+5. Inès pose une question à Léa à la fin du courriel.
 
-Décidez : **vrai (V)** ou **faux (F)** ? Justifiez par une
-citation courte du texte.
+**Tâche 2 — Repérage grammatical (5 points).**
 
-| | Affirmation | V | F | Citation |
-|---|------------------------------------------------------------------|:-:|:-:|----------|
-| 1 | Inès habite dans une grande ville canadienne. | ☐ | ☐ | |
-| 2 | Inès joue au hockey comme son frère. | ☐ | ☐ | |
-| 3 | Sa mère travaille dans un hôpital pour enfants. | ☐ | ☐ | |
-| 4 | Inès aime l'improvisation théâtrale. | ☐ | ☐ | |
-| 5 | Au Québec, certains mots ont un sens différent qu'en France. | ☐ | ☐ | |
+Relevez dans le courriel **trois** verbes au présent et **deux** verbes au passé composé. Pour chaque passé composé, indiquez l'auxiliaire utilisé.
 
-### Tâche 2 — médiation linguistique (« Sprachmittlung ») (5 points)
+**Tâche 3 — Expression écrite (15 points).**
 
-Vous écrivez une note rapide en allemand pour votre mère, qui
-ne lit pas le français. Résumez en **3 phrases** ce qu'Inès
-raconte de sa semaine.
+Vous êtes Léa. Répondez à Inès dans un courriel d'environ 80 mots. Mentionnez :
 
-### Tâche 3 — Expression écrite (« Schreiben ») (15 points)
+- votre nom, votre âge et votre ville ;
+- deux activités habituelles de la semaine (au présent) ;
+- une chose que vous avez faite le week-end dernier (au passé composé) ;
+- une question pour Inès.
 
-Vous êtes Léa. Répondez à Inès dans un courriel d'environ **80
-mots**. Mentionnez :
+**Barème (indicatif).**
 
-- votre **âge** et votre **ville**,
-- **deux activités** de votre semaine (par exemple lundi et
- mercredi),
-- **une question** à Inès sur le Québec.
+- Tâche 1 : 1 point par bonne réponse + 1 point par citation correcte = 10 points.
+- Tâche 2 : 3 points (présent) + 2 points (passé composé + auxiliaire) = 5 points.
+- Tâche 3 : contenu 8 points + langue 7 points = 15 points.
+- **Total : 30 points.** Barème de notes (« Notenschlüssel ») indicatif : *1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
 
-## Notation indicative (Niveau M)
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — médiation linguistique | 5 |
-| Tâche 3 — Expression écrite | 15 |
-| **Total** | **30** |
 
-**barème de notes (« Notenschlüssel ») typique** :
+## Corrigé
 
-- 1 (très bien) ≥ 27 P.
-- 2 (gut) ≥ 23 P.
-- 3 (befriedigend) ≥ 18 P.
-- 4 (ausreichend) ≥ 14 P.
-- 5 (mangelhaft) ≥ 8 P.
-- 6 (ungenügend) < 8 P.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-## Solutions (extrait)
+T1.1. V : théâtre d’improvisation.2. V : le soir en métro.3. F : mont Royal et magasins.4. V : commencé à neiger en octobre.5. V : questions sur semaine et week-end. Un point pour choix et un pour citation.
+T2. Présent : m’appelle, ai, suis, fais, rentre, joue, etc. PC : suis montée(être), avons marché(avoir), avons regardé(avoir), a magasiné(avoir), a commencé(avoir). Un point par repérage, auxiliaire nécessaire pour les deux PC.
+T3. Contenu 8 : identité 2, deux habitudes 2, événement passé 2, question 2; langue 7 : présent 2, PC2, cohérence et lexique 3. Les données peuvent être fictives. Le nouveau source ne comporte pas le nom d’école, hôpital ou père du second portrait; ne pas importer ces détails.
 
-**Tâche 1.** 1) V (« Montréal »). 2) F (« Mon petit frère …
-joue au hockey », pas Inès). 3) V (« hôpital Sainte-Justine »
-= hôpital pour enfants à Montréal). 4) V. 5) V (le contexte
-ajoute *écœurante = géniale*).
+{{< /details >}}
 
-**Tâche 2 (modèle).** *Inès geht in die 2. Sekundarstufe in
-Montréal. Sie hat morgens Mathe und macht nachmittags Theater-
-Improvisation. Abends fährt sie mit der U-Bahn nach Hause.*
+## Sources
 
-**Tâche 3.** Voir modèle dans l'Unité 1, section 4 « Produire ».
+- OQLF — Emploi des auxiliaires avoir et être (vérification éditoriale du 31 octobre 2026), <https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre>.
 
----
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+- **Mont Royal — Wikipédia (les contributeurs de Wikipédia), consulté en 2026.** <https://fr.wikipedia.org/wiki/Mont_Royal> — licence CC BY-SA 4.0.
+- **Ligne orange du métro de Montréal — Wikipédia (les contributeurs de Wikipédia), consulté en 2026.** <https://fr.wikipedia.org/wiki/Ligne_orange_du_m%C3%A9tro_de_Montr%C3%A9al> — licence CC BY-SA 4.0.
+- **Mount Royal — Wikipedia (Wikipedia contributors), consulté en 2026.** <https://en.wikipedia.org/wiki/Mount_Royal> — licence CC BY-SA 4.0.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+*Plateforme éducative indépendante, sans affiliation avec les institutions ou les sites cités. Tous les textes en français sont originaux ; les faits culturels sont paraphrasés à partir de sources sous licence libre.*
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 1*
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 8
 slug: "le-quebec-e"
 bildungsplan:
-  - "3.1.4 Compétence textuelle et médiatique"
-  - "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_le-quebec-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_le-quebec-e.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit08_le-quebec-e.html"
+- "/track_e_kl07/units/unit08_le-quebec-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.reading-for-information-and-argument.02
-    - A1.INT.interviewing-and-being-interviewed.02
-    - A1.INT.conversation.01
-    - A1.LING.phonological-control.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.reading-for-information-and-argument.02
+  - A1.INT.interviewing-and-being-interviewed.02
+  - A1.INT.conversation.01
+  - A1.LING.phonological-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit08_le-quebec-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_le-quebec-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit08_le-quebec-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -63,8 +95,7 @@ Anouk, lycéenne à Karlsruhe, reçoit un message vidéo de sa correspondante In
 2. À votre avis, ces mots veulent dire quoi ?
 3. Pourquoi Inès parle-t-elle français à Montréal ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Réfléchissez à deux et notez vos idées :
 
 - Que savez-vous déjà du **Québec** (pays, langue, culture, sport, cuisine) ?
@@ -72,8 +103,7 @@ Réfléchissez à deux et notez vos idées :
 - Connaissez-vous des plats ou des symboles québécois (la **poutine**, le **sirop d'érable**, le **hockey**, l'**érable**) ?
 - Selon vous, le français du Québec est-il *identique* au français de France ? Pourquoi (pas) ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — les québécismes du quotidien
 
 | Français du Québec | Français de France | Traduction (allemand) |
@@ -121,8 +151,7 @@ Le Québec est, par sa superficie, la plus grande province du Canada, et le fran
 
 La **poutine** — des frites nappées de **fromage en grains** et de **sauce brune** — est un plat emblématique, apparu dans le Québec rural à la fin des années 1950. Le Québec est aussi le premier producteur mondial de **sirop d'érable**. *(D'après « Poutine » et « Sirop d'érable », Wikipédia, CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (lettre B).** Répondez par une phrase complète.
 
 1. En quelle saison Inès écrit-elle ? À quoi le voit-on ?
@@ -153,6 +182,7 @@ La **poutine** — des frites nappées de **fromage en grains** et de **sauce br
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1) L'automne ; on le voit aux érables rouges et oranges et aux 5 °C du matin.
 2) De la poutine et une tarte au sirop d'érable.
@@ -178,9 +208,9 @@ La **poutine** — des frites nappées de **fromage en grains** et de **sauce br
 - **Niveau M :** faites l'Ex. 1 (questions 1 à 3) et l'Ex. 3 sans la table.
 - **Niveau E :** faites tout sans aide ; pour l'Ex. 1, reformulez chaque réponse avec vos propres mots.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (~120 mots).** Rédigez une **réponse à la lettre d'Inès**. Vous devez :
 
 - décrire **votre saison** à Karlsruhe (météo, ambiance) ;
@@ -199,8 +229,7 @@ La **poutine** — des frites nappées de **fromage en grains** et de **sauce br
 | Longueur (~120 mots) et format « lettre » | 2 |
 | **Total** | **15** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire :
 
 - [ ] Je peux situer le Québec et expliquer pourquoi on y parle français.
@@ -209,19 +238,11 @@ Cochez ce que vous savez faire :
 - [ ] Je comprends l'essentiel d'une lettre québécoise.
 - [ ] Je peux écrire une réponse en réemployant le vocabulaire de l'unité.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — devoir surveillé (« Klassenarbeit »), Niveau E · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit08_le-quebec-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 pts).** On distribue un court texte authentique adapté (une notice touristique sur Montréal, 8–10 lignes). Répondez en français à six questions de compréhension (repérage d'informations, sens global, un mot à expliquer d'après le contexte). *(6 × 2 pts)*
-
-**Tâche 2 — Compétence lexicale et médiatique (8 pts).** Associez huit québécismes à leur équivalent en français de France, puis expliquez en une phrase pourquoi un même mot (ex. *déjeuner*) peut prêter à confusion. *(8 × 1 pt)*
-
-**Tâche 3 — Expression écrite (10 pts).** Rédigez une carte postale (~120 mots) d'un séjour imaginaire au Québec en réemployant au moins quatre mots de l'unité. Barème : contenu 4 · langue 4 · réemploi lexical 2.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée :** 45 min.
 

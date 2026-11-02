@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 3
 slug: "decolonisation-litteraire"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — monologisches Sprechen"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_decolonisation-litteraire.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_decolonisation-litteraire.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit03_decolonisation-litteraire.html"
+- "/track_e_kl12/units/unit03_decolonisation-litteraire.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.compensating.02
-    - B2.REC.understanding-as-a-member-of-a-live-audience.03
-    - B2.PROD.creative-writing.03
-    - B2.REC.understanding-conversation-between-other-people.03
-    - B2.PLUR.building-on-pluricultural-repertoire.03
+  - B2.PROD.compensating.02
+  - B2.REC.understanding-as-a-member-of-a-live-audience.03
+  - B2.PROD.creative-writing.03
+  - B2.REC.understanding-conversation-between-other-people.03
+  - B2.PLUR.building-on-pluricultural-repertoire.03
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit03_decolonisation-litteraire_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_decolonisation-litteraire-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit03_decolonisation-litteraire-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,15 +101,13 @@ Dans la salle de français, deux élèves préparent un exposé.
 2. Comment reformuleriez-vous, en une phrase, l'expression « décoloniser la littérature » ?
 3. Connaissez-vous une œuvre (livre, film, chanson) qui donne la parole à une figure habituellement silencieuse ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que signifie pour vous le mot **« décolonisation »** ? Notez trois associations.
 - Dans les récits d'aventures classiques, qui parle et qui reste **muet** ? Pourquoi ?
 - Le nom de **Maryse Condé** vous dit-il quelque chose ? Et les mots **créolité** ou **créolisation** ?
 - À votre avis, pourquoi une écrivaine choisirait-elle de **réécrire** une histoire connue au lieu d'en inventer une nouvelle ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Définition (en français) | Deutsch |
@@ -119,8 +150,7 @@ C'est précisément ce geste que de nombreuses écrivaines et de nombreux écriv
 
 Le mot **créolité** désigne un mouvement littéraire né aux Antilles françaises à la fin des années 1980. Selon Wikipédia, ce courant s'affirme en 1989 avec un manifeste de trois auteurs martiniquais — Jean Bernabé, Patrick Chamoiseau et Raphaël Confiant — qui revendiquent une identité antillaise propre, à la fois plurielle et métissée, distincte des modèles européen, africain ou asiatique. Le mouvement valorise la langue et la culture créoles et prolonge la réflexion d'Édouard Glissant sur la **créolisation** : l'idée que les cultures, en se rencontrant, produisent du nouveau plutôt que de disparaître les unes dans les autres. *(Paraphrase — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte B).** Vrai ou faux ? Justifiez avec un élément du texte.
 
 a) La littérature décoloniale ne s'intéresse qu'aux rois d'Europe.
@@ -158,6 +188,7 @@ c) *Condé cherche une voix.* → (avec « Ce que … c'est »)
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 a) Faux — « elle demande qui a le droit de raconter » : elle s'intéresse aux voix oubliées, pas seulement aux rois.
 b) Faux — les colonisé·es « apparaissaient comme des figures muettes ».
@@ -172,9 +203,9 @@ b) *C'est cette femme qui raconte l'histoire.*
 c) *Ce que Condé cherche, c'est une voix.*
 
 **Ex. 4.** Réponses personnelles. Modèle : *Idée principale — la littérature décoloniale rend la parole aux personnes effacées par l'histoire. Exemple — la vieille femme qui veut sauver le nom de sa grand-mère. Rôle de Condé — elle réécrit l'histoire depuis le point de vue des oublié·es. Réaction — cela m'a fait comprendre que raconter est un acte de pouvoir.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue en continu, ~6 min).**
 
 Présentez, de manière structurée et personnelle, **une œuvre ou un·e auteur·e décolonial·e** de votre choix (par exemple Maryse Condé, Édouard Glissant, Patrick Chamoiseau ou un·e autre auteur·e francophone). Comme ces auteur·es sont contemporains, **paraphrasez leurs idées avec vos propres mots** : ne récitez pas de longues citations, expliquez plutôt le projet de l'œuvre.
@@ -197,38 +228,18 @@ Utilisez au moins **deux tournures de mise en relief** pour souligner vos idées
 | Correction | syntaxe, temps, accords |
 | Prise de parole en continu | fluidité, durée (~6 min), sans lecture mot à mot |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux expliquer ce que signifie « décoloniser la littérature ».
 - [ ] Je peux comprendre l'idée principale d'un texte sur ce thème.
 - [ ] Je peux situer Maryse Condé et présenter son projet avec mes propres mots.
 - [ ] Je peux parler en continu environ six minutes de façon structurée.
 - [ ] Je peux employer la mise en relief pour insister sur une idée.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») — 12 P.**
-À partir du texte B « Rendre la parole aux silences » :
-1. En une phrase, quelle question centrale pose la littérature décoloniale ? (2 P.)
-2. Comment les colonisé·es apparaissaient-ils dans les récits coloniaux ? (2 P.)
-3. Expliquez, avec vos propres mots, ce que fait la vieille femme du texte et pourquoi. (3 P.)
-4. Quel est le projet littéraire de Maryse Condé, d'après le texte ? (3 P.)
-5. Relevez et nommez un procédé de mise en relief présent dans le texte. (2 P.)
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit03_decolonisation-litteraire_exam" >}}).
 
-**Tâche 2 — Expression orale, monologue (« Sprechen ») — 18 P.**
-Présentez en continu (~6 min) une œuvre ou un·e auteur·e décolonial·e (paraphrase, sans longues citations d'auteurs contemporains).
-
-| Sous-critère | Points |
-|---|---|
-| Contenu et exactitude | 6 P. |
-| Structure et cohérence (connecteurs, plan) | 4 P. |
-| Richesse lexicale et mise en relief | 4 P. |
-| Correction et prononciation | 2 P. |
-| Prise de parole en continu (fluidité, durée) | 2 P. |
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 14' · S'entraîner 12' · Produire 11' · Réfléchir 2' · Aperçu de l'évaluation 2'.
 

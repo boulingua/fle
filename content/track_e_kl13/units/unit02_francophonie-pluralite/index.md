@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 2
 slug: "francophonie-pluralite"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — expression en continu (monologue)"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — expression en continu (monologue)"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_francophonie-pluralite.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_francophonie-pluralite.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit02_francophonie-pluralite.html"
+- "/track_e_kl13/units/unit02_francophonie-pluralite.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.monitoring-and-repair.02
-    - B2.REC.overall-reading-comprehension.01
-    - B2.PROD.overall-written-production.01
-    - B2.REC.reading-as-a-leisure-activity.01
-    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+  - B2.PROD.monitoring-and-repair.02
+  - B2.REC.overall-reading-comprehension.01
+  - B2.PROD.overall-written-production.01
+  - B2.REC.reading-as-a-leisure-activity.01
+  - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit02_francophonie-pluralite_exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_francophonie-pluralite-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_francophonie-pluralite-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,8 +100,7 @@ Dans la salle de classe, deux élèves comparent leurs notes après une émissio
 2. Selon Malik, qu'est-ce qui fait vivre une langue ?
 3. Êtes-vous d'accord avec l'idée qu'il n'existe pas un seul « bon » français ? Justifiez.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez spontanément, à l'oral, en petits groupes.
 
 - Combien de personnes parlent français dans le monde, selon vous ?
@@ -77,8 +108,7 @@ Répondez spontanément, à l'oral, en petits groupes.
 - Qui décide de ce qu'est le « français correct » ?
 - Quelle variété du français vous attire le plus, et pourquoi ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Explication / Erläuterung |
@@ -118,10 +148,9 @@ Rappel : après **bien que** et **quoique**, le verbe se met au **subjonctif** (
 
 ### C. Note culturelle
 
-L'**Organisation internationale de la Francophonie** (OIF), née en 1970, regroupe aujourd'hui environ **88 États et gouvernements** membres, membres associés ou observateurs, répartis sur les cinq continents. Le français y est présenté non comme la propriété d'un seul pays, mais comme une langue partagée entre de nombreuses cultures. Chaque année, la **Journée internationale de la Francophonie** est célébrée le **20 mars**. Selon les estimations diffusées par l'OIF, le français compte environ **321 millions** de locuteurs et locutrices dans le monde, et l'Afrique en rassemble une part croissante. *(Faits paraphrasés d'après Wikipédia, CC BY-SA 4.0 — voir Sources.)*
+L'**Organisation internationale de la Francophonie** (OIF), née en 1970, regroupe des États et gouvernements membres, associés ou observateurs, répartis sur les cinq continents. Le français y est présenté non comme la propriété d'un seul pays, mais comme une langue partagée entre de nombreuses cultures. Chaque année, la **Journée internationale de la Francophonie** est célébrée le **20 mars**. L'estimation de l'OIF publiée en **2022** comptait environ **321 millions** de locuteurs et locutrices dans le monde; ce chiffre est un repère historique daté. *(Faits paraphrasés d'après Wikipédia, CC BY-SA 4.0 — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (texte B).** Répondez par des phrases complètes.
 
 1. Pourquoi l'auteur refuse-t-il l'image d'un « cercle fermé autour de Paris » ?
@@ -152,6 +181,7 @@ L'**Organisation internationale de la Francophonie** (OIF), née en 1970, regrou
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) Parce que le français se parle sur cinq continents, pas seulement en France / autour de Paris. 2) En Afrique. 3) Elle sert de repère commun pour se comprendre d'un pays à l'autre.
 
 **Exercice 2.** 1) Faux — le texte dit qu'ils « ne se ressemblent pas tout à fait ». 2) Vrai. 3) Faux — la norme « ne rend pas les usages régionaux fautifs ».
@@ -159,9 +189,9 @@ L'**Organisation internationale de la Francophonie** (OIF), née en 1970, regrou
 **Exercice 3.** magasiner → Québec · septante → Belgique · nonante → Belgique · métisser le français aux langues locales → Afrique de l'Ouest.
 
 **Exercice 4.** 1) *Bien que* le mot « nonante » *soit* (subjonctif) régional, il est tout à fait correct. 2) … *mais / néanmoins* chaque pays garde ses propres usages.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — exposé en continu (≈ 5–6 min).**
 
 Préparez et présentez un exposé structuré intitulé **« La francophonie : une langue, des cultures »**. Votre exposé doit comporter :
@@ -180,8 +210,7 @@ Préparez et présentez un exposé structuré intitulé **« La francophonie : u
 | Langue | lexique de l'unité, connecteurs de concession |
 | Fluidité / prononciation | débit régulier, exposé en continu, peu de lecture |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez déjà faire.
 
 - [ ] Je peux nommer au moins trois variétés du français et un exemple pour chacune.
@@ -190,30 +219,11 @@ Cochez ce que vous savez déjà faire.
 - [ ] Je peux présenter un exposé structuré de cinq minutes, en continu.
 - [ ] Je peux justifier mon avis sur la pluralité de la francophonie.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Partie A — Compréhension écrite (Leseverstehen) · 12 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit02_francophonie-pluralite_exam" >}}).
 
-Relisez le texte B (« Une langue, des visages ») et répondez.
-
-1. Citez deux variétés du français mentionnées et un trait propre à chacune. *(4 pts)*
-2. Expliquez, avec vos propres mots, la thèse de l'auteur sur la norme. *(4 pts)*
-3. « La francophonie n'est pas une uniformité imposée. » Reformulez cette phrase et dites si vous êtes d'accord. *(4 pts)*
-
-**Partie B — Expression orale en continu (Sprechen, monologue) · 18 points**
-
-Présentez, sans lecture continue, un exposé de cinq minutes sur **« Pourquoi la pluralité du français est-elle une richesse ? »**.
-
-**Barème total : 30 points**
-
-| Domaine | Points |
-|-------------------------------|--------|
-| Compréhension écrite (A) | 12 |
-| Contenu et structure (B) | 8 |
-| Correction linguistique (B) | 5 |
-| Fluidité et prononciation (B) | 5 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 
@@ -232,6 +242,9 @@ Présentez, sans lecture continue, un exposé de cinq minutes sur **« Pourquoi 
 **Non-affiliation.** Les données chiffrées sont paraphrasées de sources ouvertes (voir Sources) ; cette unité n'est affiliée ni à l'OIF ni à aucun éditeur.
 
 ## Sources
+
+- OIF — Qui parle français dans le monde, données 2022 (vérifié le 31 octobre 2026), <https://observatoireancien.francophonie.org/qui-parle-francais-dans-le-monde/>.
+
 
 - Organisation internationale de la Francophonie — Wikipédia (contributeur·rice·s de Wikipédia, consulté en 2026), <https://fr.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie>, licence CC BY-SA 4.0.
 - Français de Belgique — Wikipédia (contributeur·rice·s de Wikipédia, consulté en 2026), <https://fr.wikipedia.org/wiki/Fran%C3%A7ais_de_Belgique>, licence CC BY-SA 4.0.

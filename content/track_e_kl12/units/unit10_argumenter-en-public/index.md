@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 10
 slug: "argumenter-en-public"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu (monologue)"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.4 Expression orale — production en continu (monologue)"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - speaking_interaction
 - speaking_production
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_argumenter-en-public.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_argumenter-en-public.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit10_argumenter-en-public.html"
+- "/track_e_kl12/units/unit10_argumenter-en-public.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.formal-discussion.01
-    - B2.PROD.sustained-monologue-putting-a-case.01
-    - B2.INT.informal-discussion.01
-    - B2.PROD.compensating.02
-    - B2.MED.overall-mediation.02
+  - B2.INT.formal-discussion.01
+  - B2.PROD.sustained-monologue-putting-a-case.01
+  - B2.INT.informal-discussion.01
+  - B2.PROD.compensating.02
+  - B2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit10_argumenter-en-public_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_interaction
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_argumenter-en-public-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit10_argumenter-en-public-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,15 +102,13 @@ curriculum:
 2. Qu'appelle-t-on une « phrase-outil » ? Donnez un exemple tiré du dialogue.
 3. Pour vous : est-il plus difficile de parler seul(e) ou de dialoguer ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Connaissez-vous le format d'une épreuve orale communicative : combien de temps de monologue, combien de temps d'échange ?
 - Quels **mots de liaison** utilisez-vous déjà pour organiser un discours (*d'abord*, *ensuite*, *donc*…) ?
 - Que faites-vous quand vous ne comprenez pas une question ou que vous cherchez vos mots ? Quelles stratégies avez-vous ?
 - Sur quel sujet de société pourriez-vous parler cinq minutes sans préparation : l'écologie, le sport, les réseaux sociaux… ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — argumenter et débattre
 
 | Français | Fonction | Exemple |
@@ -122,8 +152,7 @@ Astuce : commencer sa phrase par un connecteur laisse une seconde pour réfléch
 
 Léopold Sédar Senghor (1906-2001) est une grande figure de la francophonie. Poète, il fut aussi le premier président du Sénégal indépendant, de 1960 à 1980, avant de se retirer volontairement du pouvoir. Avec Aimé Césaire et Léon-Gontran Damas, il participe dans les années 1930 au mouvement de la **Négritude**, qui revendique la culture et la dignité des peuples noirs. En 1983, il devient le premier Africain élu à l'**Académie française**. Sa vie montre comment la maîtrise de la parole — écrite comme orale — peut devenir un instrument d'engagement public. Aujourd'hui, l'**Organisation internationale de la Francophonie (OIF)** rassemble des dizaines d'États et de gouvernements et estime à plusieurs centaines de millions le nombre de locuteurs de français dans le monde. *(Faits paraphrasés d'après Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte B).**
 
 1. Quelle thèse l'auteur défend-il ?
@@ -154,6 +183,7 @@ d) *« Vous n'avez pas répondu à ma première question. »* → ____
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Un usage encadré du téléphone vaut mieux qu'une interdiction totale. 2) C'est un outil de travail (dictionnaire, calculatrice, documents) ; l'interdiction est difficile à appliquer et éduquer à l'usage prépare à la vie adulte. 3) Le téléphone peut distraire et nuire à la concentration. 4) *Quel rôle l'école doit-elle jouer dans l'éducation au numérique ?*
 
 **Ex. 2.** a) Tout d'abord ; b) en revanche ; c) par exemple ; d) En somme.
@@ -165,9 +195,9 @@ d) *« Vous n'avez pas répondu à ma première question. »* → ____
 {{< callout type="info" >}}
 **Différenciation.** **G :** l'élève dispose d'une liste de connecteurs et de deux phrases-outils affichées ; monologue de 2-3 min. **M :** monologue de 4 min avec plan noté en mots-clés. **E :** monologue de 5 min sans notes rédigées et dialogue de 10 min ; l'élève doit intégrer au moins quatre stratégies de rebond.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue + interaction).** Choisissez un sujet de société (*réseaux sociaux, écologie au lycée, sport obligatoire, semaine de quatre jours…*). Préparez pendant 15 minutes un **plan structuré** (introduction, deux ou trois arguments, une concession, conclusion). Présentez ensuite un **monologue d'environ cinq minutes**, puis répondez pendant **cinq à dix minutes** aux questions d'un(e) camarade jouant l'examinateur.
 
 **Critères d'évaluation :**
@@ -177,33 +207,18 @@ d) *« Vous n'avez pas répondu à ma première question. »* → ____
 - **Interaction :** capacité à réagir, à concéder, à reformuler sans blocage.
 - **Fluidité et débit :** parole continue, prononciation compréhensible.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux parler environ cinq minutes en continu sur un sujet préparé.
 - [ ] J'utilise des connecteurs logiques pour structurer mon discours.
 - [ ] Je distingue l'indicatif et le subjonctif dans l'expression de l'opinion.
 - [ ] Je peux réagir à une question avec au moins trois stratégies de rebond.
 - [ ] Je sais concéder un point sans abandonner ma position.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve orale communicative — Niveau E** *(compétences visées : production en continu et interaction)*
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit10_argumenter-en-public_exam" >}}).
 
-**Phase 1 — Monologue (15 points).** Présentez pendant environ cinq minutes votre position sur un sujet tiré au sort. Plan attendu : introduction, deux ou trois arguments illustrés, une concession, conclusion.
-
-**Phase 2 — Dialogue (15 points).** Répondez pendant environ dix minutes aux questions de l'examinateur : défendez, nuancez, donnez des exemples.
-
-**Barème :**
-
-| Critère | Points |
-|---|---|
-| Structure et pertinence du contenu | 8 |
-| Richesse et correction de la langue | 8 |
-| Qualité de l'interaction (rebonds, réactivité) | 8 |
-| Fluidité et prononciation | 6 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.** Activer 5' · Apporter 12' · S'entraîner 13' · Produire 12' · Réfléchir 3'.
 

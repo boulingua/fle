@@ -1,0 +1,99 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 7"
+subtitle: "Champs de bataille (Verdun / Ypres) · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 7
+slug: "champs-de-bataille-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.REC.reading-for-orientation.02
+    - A2.INT.overall-written-interaction.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la page mémoire sur Verdun (Unité 7, texte C). Répondez :
+
+1. Quand a eu lieu la bataille de Verdun ?
+2. Combien de soldats sont tombés ou ont été blessés ?
+3. Que contient l'Ossuaire de Douaumont ?
+4. Qui s'est serré la main en 1984 ?
+5. Que symbolise ce geste ?
+
+### Tâche 2 — Passé simple → PC (8 points)
+
+Transformez ces formes du passé simple en passé composé :
+
+1. *Il combattit pendant 10 mois.* → ___
+2. *Ils tombèrent au combat.* → ___
+3. *Elle fut décorée.* → ___
+4. *Ils se serrèrent la main.* → ___
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez une **page mémoire** (~120 mots) sur **Ypres
+(Belgique, 1917)** à partir de ces 4 faits fournis :
+
+- 3 batailles de 1914 à 1918
+- gaz toxiques utilisés par les armées allemande et britannique
+- monument *In Flanders Fields*
+- environ 600 000 soldats morts
+
+Utilisez **8 mots** du vocabulaire mémoire.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — PS → PC | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) De février à décembre 1916. 2) Plus de
+700 000. 3) Les restes de 130 000 soldats inconnus. 4)
+Mitterrand (FR) et Kohl (DE). 5) La paix et réconciliation
+franco-allemande.
+
+**Tâche 2.** 1) *il a combattu* · 2) *ils sont tombés* ·
+3) *elle a été décorée* · 4) *ils se sont serré la main*.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 8 mots
+de la mémoire · phrase de paix.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 7*

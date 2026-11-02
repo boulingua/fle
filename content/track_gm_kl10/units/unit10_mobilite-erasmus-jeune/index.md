@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 10
 slug: "mobilite-erasmus-jeune"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - listening
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit10_mobilite-erasmus-jeune.html"
+- "/track_gm_kl10/units/unit10_mobilite-erasmus-jeune.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.creative-writing.02
-    - B1.REC.watching-tv-film-and-video.01
-    - B1.PROD.planning.02
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.INT.formal-discussion.01
+  - B1.PROD.creative-writing.02
+  - B1.REC.watching-tv-film-and-video.01
+  - B1.PROD.planning.02
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_mobilite-erasmus-jeune-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit10_mobilite-erasmus-jeune-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,8 +103,7 @@ Deux élèves discutent devant le panneau d'affichage du lycée.
 3. Pourquoi Yasmin veut-elle partir ?
 4. Quel document faut-il préparer pour candidater ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez spontanément, à l'oral, en classe :
 
 - Aimeriez-vous étudier ou vivre à l'étranger pendant quelques mois ? Pourquoi ?
@@ -84,15 +115,16 @@ Répondez spontanément, à l'oral, en classe :
 **Astuce :** notez au tableau, en deux colonnes, les mots-clés « avantages » et « difficultés ». Vous les réutiliserez dans la tâche d'écriture.
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Trois programmes de mobilité
 
-| Programme | Pour qui ? | Durée | Soutien financier |
-|-----------|------------|-------|-------------------|
-| Erasmus+ | élèves et étudiant·e·s (dès le secondaire) | 2 à 12 mois | bourse mensuelle selon le pays |
-| OFAJ / DFJW | jeunes de 13 à 30 ans (échanges France–Allemagne) | 2 semaines à 12 mois | aide au voyage et au séjour |
-| Service civique | jeunes de 16 à 25 ans | 6 à 12 mois | indemnité mensuelle |
+| Cadre | Exemples de public et d'activité | Durée et financement |
+|---|---|---|
+| Erasmus+ | Mobilités scolaires, étudiantes et de formation, selon l'action | Variables selon l'action et le projet; vérifier l'offre de l'établissement et le guide officiel. |
+| OFAJ / DFJW | Rencontres et échanges franco-allemands, selon le programme | Conditions d'âge, durée et aides propres à chaque programme. |
+| Service civique | Missions d'engagement volontaire, selon les conditions du dispositif | Consulter l'offre et le site officiel pour l'âge, la durée et l'indemnisation applicables. |
+
+Ce tableau situe trois cadres; il ne constitue pas une liste de droits ou de financements garantis. Pour les exemples de l'exercice, le choix désigne une piste à vérifier, pas une admission certaine.
 
 ### B. Vocabulaire
 
@@ -134,12 +166,11 @@ Pour dire *pourquoi* on veut partir, on utilise souvent :
 
 ### D. Note culturelle
 
-Les échanges de jeunes entre la France et l'Allemagne ne datent pas d'hier. L'**Office franco-allemand pour la jeunesse (OFAJ / DFJW)** a été créé par le **traité de l'Élysée**, signé le 22 janvier 1963 par la France et l'Allemagne pour rapprocher les deux peuples après la guerre. Depuis, l'organisme a permis à plusieurs millions de jeunes de participer à des rencontres et à des séjours de part et d'autre du Rhin.
+Les échanges de jeunes entre la France et l'Allemagne ne datent pas d'hier. L'**Office franco-allemand pour la jeunesse (OFAJ / DFJW)** a été créé par l'**accord du 5 juillet 1963**, dans le prolongement du traité de l'Élysée signé le 22 janvier 1963 pour rapprocher les deux peuples après la guerre. Depuis, l'organisme a permis à plusieurs millions de jeunes de participer à des rencontres et à des séjours de part et d'autre du Rhin.
 
 Le programme **Erasmus+**, lui, est le grand programme européen pour l'éducation, la formation, la jeunesse et le sport. Sous sa forme actuelle, il existe depuis 2014 ; il prolonge le programme Erasmus lancé en 1987, qui a d'abord concerné les étudiant·e·s de l'enseignement supérieur. Son nom rend hommage à **Érasme de Rotterdam**, humaniste du XVIᵉ siècle qui voyageait de ville en ville pour étudier — un beau symbole de la mobilité. *(D'après Wikipédia, CC-BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension orale (Hörverstehen).** À partir du témoignage (texte C), répondez par des phrases complètes.
 
 1. Où et combien de temps Nour est-elle partie ?
@@ -152,13 +183,13 @@ Le programme **Erasmus+**, lui, est le grand programme européen pour l'éducati
 
 a) une famille d'accueil · b) une bourse · c) un dossier de candidature · d) une certification linguistique
 
-**Ex. 3 — Quel programme ?** Pour chaque cas, indiquez le programme le plus adapté (Erasmus+, OFAJ ou Service civique) et justifiez en une phrase.
+**Ex. 3 — Quelle piste rechercher ?** Pour chaque scénario, proposez un cadre à consulter (Erasmus+, OFAJ ou Service civique). Justifiez le lien avec l'activité, puis nommez une condition à vérifier dans une offre réelle : âge, durée, partenariat ou financement. Les exemples ne prouvent pas l'admissibilité.
 
 1. Lisa, 18 ans, étudiante, veut suivre un semestre d'études en Espagne.
 2. Luka, 14 ans, souhaite un échange scolaire de trois semaines en France.
 3. Carla, 21 ans, veut s'engager dans un projet solidaire en France pendant huit mois.
 
-**Ex. 4 — Exprimer la motivation.** Complétez avec *pour*, *parce que*, *afin de* ou *grâce à* (une seule bonne réponse par phrase).
+**Ex. 4 — Exprimer la motivation.** Complétez avec *pour*, *parce que*, *afin de* ou *grâce à* (une ou plusieurs réponses peuvent être grammaticalement correctes).
 
 1. Je pars en France ______ améliorer mon oral.
 2. J'ai choisi ce programme ______ il propose une bourse.
@@ -167,6 +198,7 @@ a) une famille d'accueil · b) une bourse · c) un dossier de candidature · d) 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. À Fribourg, en Allemagne, pendant trois semaines.
 2. L'OFAJ (Office franco-allemand pour la jeunesse).
@@ -176,9 +208,9 @@ a) une famille d'accueil · b) une bourse · c) un dossier de candidature · d) 
 
 **Ex. 2.** a) Une famille qui accueille chez elle un·e jeune pendant son séjour. b) Une aide financière accordée pour des études ou un projet. c) L'ensemble des documents envoyés pour candidater (lettre, CV, formulaires). d) Un diplôme officiel qui atteste un niveau de langue (par ex. DELF, DALF, TestDaF).
 
-**Ex. 3.** 1. Erasmus+ — c'est un programme d'études dans l'enseignement supérieur en Europe. 2. OFAJ — c'est un échange scolaire franco-allemand adapté à son âge. 3. Service civique — c'est un engagement solidaire de 6 à 12 mois pour les 16–25 ans.
+**Ex. 3.** Pistes : 1. Erasmus+ pour une mobilité d'études; vérifier l'accord entre établissements et l'offre. 2. OFAJ pour une rencontre scolaire franco-allemande; vérifier le programme, l'âge et la durée. 3. Service civique pour une mission d'engagement; vérifier l'offre, l'âge et les conditions. Ces réponses orientent une recherche, sans garantir une admission ou une aide.
 
-**Ex. 4.** 1. pour · 2. parce que · 3. Grâce à · 4. afin d'.
+**Ex. 4.** 1. pour / afin d'; 2. parce que; 3. Grâce à; 4. pour / afin d'. Les deux constructions de but conviennent dans les phrases 1 et 4.
 
 {{< callout type="note" >}}
 **Différenciation (G / M / E)**
@@ -187,9 +219,9 @@ a) une famille d'accueil · b) une bourse · c) un dossier de candidature · d) 
 - **M (attendu) :** réponses en phrases complètes ; Ex. 4 sans liste de solutions au tableau.
 - **E (approfondissement) :** rédiger, en plus, deux phrases personnelles avec *afin de* et *grâce à* pour justifier un projet de mobilité imaginaire.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau M, env. 120–150 mots) :**
 
 Vous voulez participer à l'échange scolaire avec Lyon (texte de départ). Rédigez une **courte lettre de motivation** adressée à l'établissement partenaire. Structurez-la ainsi :
@@ -212,8 +244,7 @@ Vous voulez participer à l'échange scolaire avec Lyon (texte de départ). Réd
 **Total : /17**
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez déjà faire :
 
 - [ ] Je peux nommer trois programmes de mobilité et dire à qui ils s'adressent.
@@ -222,37 +253,11 @@ Cochez ce que vous savez déjà faire :
 - [ ] Je peux rédiger une courte lettre de motivation structurée.
 - [ ] Je connais au moins six mots du vocabulaire de la mobilité.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (Klassenarbeit) — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam" >}}).
 
-**Tâche 1 — Compréhension orale / audiovisuelle (Hörverstehen, 12 P.)**
-À partir du témoignage de Nour (lu ou diffusé), répondez à six questions (lieu, durée, organisme, deux motivations, principale difficulté, conseils). *(2 P. par réponse complète et correcte.)*
-
-**Tâche 2 — Vocabulaire et programmes (6 P.)**
-Associez chaque cas à un programme et justifiez (3 cas). *(2 P. par cas : 1 P. programme + 1 P. justification.)*
-
-**Tâche 3 — Expression écrite (Schreiben, 12 P.)**
-Rédigez votre lettre de motivation (env. 120–150 mots) selon la structure vue en cours.
-
-Barème de la Tâche 3 :
-- Respect de la consigne et structure — 3 P.
-- Contenu et motivations (au moins 3) — 4 P.
-- Correction de la langue — 3 P.
-- Vocabulaire de la mobilité — 2 P.
-
-**Total : 30 P.**
-
-| Note | Points |
-|------|--------|
-| sehr gut (1) | 27–30 |
-| gut (2) | 23–26 |
-| befriedigend (3) | 18–22 |
-| ausreichend (4) | 13–17 |
-| mangelhaft (5) | 6–12 |
-| ungenügend (6) | 0–5 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 
@@ -271,6 +276,9 @@ Barème de la Tâche 3 :
 **Prolongement possible :** consulter les sites officiels de l'OFAJ et du Service civique pour un mini-projet de recherche (débouche sur un exposé oral en unité suivante).
 
 ## Sources
+
+- OFAJ — Accord de création de 1963 (vérification éditoriale du 31 octobre 2026), <https://www.ofaj.org/ressources/accord-1963>.
+
 
 - *Erasmus+* — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Erasmus%2B>, licence CC-BY-SA 4.0.
 - *Office franco-allemand pour la jeunesse* — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Office_franco-allemand_pour_la_jeunesse>, licence CC-BY-SA 4.0.

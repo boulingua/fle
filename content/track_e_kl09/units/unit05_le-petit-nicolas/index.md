@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 5
 slug: "le-petit-nicolas"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_le-petit-nicolas.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_le-petit-nicolas.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit05_le-petit-nicolas.html"
+- "/track_e_kl09/units/unit05_le-petit-nicolas.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.reading-instructions.01
-    - A2.PLUR.building-on-plurilingual-repertoire.02
-    - A2.INT.conversation.08
-    - A2.INT.goal-oriented-co-operation.04
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.reading-instructions.01
+  - A2.PLUR.building-on-plurilingual-repertoire.02
+  - A2.INT.conversation.08
+  - A2.INT.goal-oriented-co-operation.04
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit05_le-petit-nicolas_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_le-petit-nicolas-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit05_le-petit-nicolas-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,14 +102,12 @@ En début d'heure, Mme Devos pose un livre sur son bureau.
 2. À votre avis, de quoi parle un livre où c'est un enfant qui raconte l'école ?
 3. Qu'est-ce qui peut être **drôle** quand c'est un enfant qui raconte, et pas un adulte ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Faites une liste rapide de mots liés à l'**école** que vous connaissez déjà en français.
 - Un enfant et un adulte ne voient pas la même journée d'école. Donnez **un exemple** de chose qu'un enfant trouve importante et qu'un adulte trouve sans importance.
 - Différence : un **roman** (une longue histoire suivie) et un **recueil d'histoires courtes** (plusieurs petites histoires indépendantes) — laquelle correspond, d'après vous, à un livre fait de courtes anecdotes ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — l'école et le récit
 
 | Français | Catégorie | Allemand |
@@ -115,11 +145,10 @@ En début d'heure, Mme Devos pose un livre sur son bureau.
 ### D. Note culturelle
 
 {{< callout type="note" >}}
-*Le Petit Nicolas* est une série d'histoires pour la jeunesse, **écrites par René Goscinny** (1926–1977, également co-créateur d'*Astérix* et de *Lucky Luke*) et **illustrées par Jean-Jacques Sempé** (1932–2022, dessinateur célèbre pour ses illustrations de presse). Les premières histoires paraissent en **1959** dans la presse, avant d'être réunies en recueils. Le narrateur est un jeune écolier, Nicolas, qui raconte sa vie de tous les jours — l'école, la récréation, les copains, la famille — dans une **langue simple et orale** pleine d'humour tendre. Une grande partie du comique vient de l'**écart** entre le regard naïf de l'enfant et ce que comprend le lecteur adulte. *(Faits paraphrasés d'après Wikipédia, CC BY-SA ; voir Sources.)*
+*Le Petit Nicolas* est une série d'histoires pour la jeunesse, **écrites par René Goscinny** (1926–1977, également co-créateur d'*Astérix* et scénariste de *Lucky Luke*, série créée par Morris) et **illustrées par Jean-Jacques Sempé** (1932–2022, dessinateur célèbre pour ses illustrations de presse). Les premières histoires paraissent en **1959** dans la presse, avant d'être réunies en recueils. Le narrateur est un jeune écolier, Nicolas, qui raconte sa vie de tous les jours — l'école, la récréation, les copains, la famille — dans une **langue simple et orale** pleine d'humour tendre. Une grande partie du comique vient de l'**écart** entre le regard naïf de l'enfant et ce que comprend le lecteur adulte. *(Faits paraphrasés d'après Wikipédia, CC BY-SA ; voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte C).**
 Répondez par une phrase complète.
 1. Qu'est-ce que la maîtresse annonce ?
@@ -142,6 +171,7 @@ Mettez ces phrases au passé (imparfait pour le décor, passé composé pour l'a
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Elle annonce une dictée. 2. Il regarde le plafond et « cherche l'inspiration » (il fait semblant de travailler). 3. Une guêpe entre par la fenêtre et tout le monde se lève. 4. La maîtresse reporte la dictée au lendemain ; les élèves font semblant d'être déçus.
 
@@ -162,9 +192,9 @@ Passé composé : *a annoncé, a commencé, a dit, est entrée, s'est levé, a s
 - **M (moyen) :** exercices 1 à 3 complets.
 - **E (renforcé) :** ajouter l'exercice 4 et justifier oralement chaque choix imparfait / passé composé (décor ou action ?).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (~150 mots).**
 Rédigez une **courte anecdote scolaire originale** à la première personne (« je »), dans l'esprit d'un enfant qui raconte sa journée — **sans copier** *Le Petit Nicolas*. Racontez une petite bêtise ou un moment drôle en classe ou à la récré.
 
@@ -182,33 +212,18 @@ Consignes :
 - Cohérence et lisibilité du récit · 2 pts
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux présenter *Le Petit Nicolas* et ses deux auteurs.
 - [ ] Je comprends un court récit scolaire et j'en repère les idées principales.
 - [ ] Je reconnais la voix enfantine et l'humour tendre.
 - [ ] Je distingue l'imparfait (décor) du passé composé (action).
 - [ ] J'ai rédigé une anecdote originale d'environ 150 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit05_le-petit-nicolas_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 pts).**
-Un court texte original (une scène d'école, ~120 mots) est fourni. Répondre à 5 questions de compréhension par des phrases complètes.
-
-**Tâche 2 — Point de langue (8 pts).**
-Six verbes tirés du texte : les classer en imparfait / passé composé, puis justifier deux choix (décor ou action ?).
-
-**Tâche 3 — Expression écrite (12 pts).**
-Rédiger une anecdote scolaire originale à la première personne (~150 mots), avec cadre à l'imparfait, actions au passé composé et une réplique au discours direct.
-
-**Barème : 30 points.**
-- Tâche 1 : compréhension globale 4 pts + détails 4 pts + langue des réponses 2 pts.
-- Tâche 2 : classement correct 6 pts + justifications 2 pts.
-- Tâche 3 : contenu/consigne 4 pts + langue des temps 4 pts + orthographe/vocabulaire 4 pts.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 - Situation de départ + Activer : 6 min.
@@ -224,6 +239,9 @@ Rédiger une anecdote scolaire originale à la première personne (~150 mots), a
 **Copyright.** Ne pas photocopier de pages du livre ni les dessins de Sempé. Le livre peut être présenté physiquement, emprunté en bibliothèque, ou signalé aux familles via le lien officiel ci-dessous.
 
 ## Sources
+
+- Dupuis — Morris (vérification éditoriale du 31 octobre 2026), <https://www.dupuis.com/auteurbd/morris/93>.
+
 
 - *Le Petit Nicolas* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/Le_Petit_Nicolas>, licence CC BY-SA.
 - *René Goscinny* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/Ren%C3%A9_Goscinny>, licence CC BY-SA.

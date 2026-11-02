@@ -23,12 +23,31 @@ curriculum:
     - A1.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 7
+## Modalités
 
-### Tâche 1 — Grammatik : pronoms COD (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
+
+## Support
+
+### C. Le malentendu (texte original)
+
+> Mardi matin. Léa boude sur un banc. Théo s'approche, prudent.
+>
+> — Qu'est-ce que tu as ? Tu es encore fâchée ?
+> — Tu m'as oubliée samedi ! On devait aller au cinéma !
+> — Oh non… Je suis vraiment désolé. J'ai eu un match de foot et je t'ai envoyé un message pour te prévenir.
+> — Un message ? Je ne l'ai pas reçu.
+> — Alors c'est un malentendu ! Regarde, il est là, dans mes envois.
+> — Ah… c'est vrai. Excuse-moi, j'ai été injuste.
+> — Ce n'est pas grave. On se voit ce soir ? Et cette fois, c'est moi qui t'invite à une glace !
+
+### Tâche 1 — Pronoms COD (10 points)
 
 Remplacez le complément par un pronom COD.
 
@@ -41,55 +60,55 @@ Remplacez le complément par un pronom COD.
 7. Il connaît Inès et Léa. → Il ___ connaît.
 8. Léa a oublié son sac. → Elle ___ a oublié.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
+**Barème :** 8 pronoms ×1 +2 justifications ×1.
 
-Lisez le texte C de l'Unité 5 (la dispute). Répondez :
+### Tâche 2 — Lecture (8 points)
 
-1. Pourquoi Léa est-elle fâchée ?
-2. Que faisait Théo samedi ?
-3. Que propose Théo pour faire la paix ?
-4. Comment Léa accepte-t-elle ?
+1. Quel rendez-vous Léa croyait-elle manqué et quel jour ?
+2. Quelle activité Théo avait-il et comment avait-il tenté de prévenir Léa ?
+3. Quelle preuve montre-t-il et que reconnaît Léa ?
+4. Quand propose-t-il de la revoir et à quoi l’invite-t-il ?
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Barème :** 4 réponses ×2 points.
+
+### Tâche 3 — Écriture (12 points)
 
 Racontez une **dispute** avec un(e) ami(e) en **80 mots**.
 Utilisez **2 sentiments** + **2 pronoms COD** + le **passé
-composé**.
+composé**. Une situation entièrement fictive convient.
 
-## Notation
+**Barème :** Récit 4, formes grammaticales 4, sentiments/lexique 2, cohérence 2.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Grammatik | 10 |
-| Tâche 2 — Compréhension écrite | 8 |
-| Tâche 3 — Expression écrite | 12 |
+|---|---:|
+| 1 | 10 |
+| 2 | 8 |
+| 3 | 12 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) l' · 2) nous · 3) le · 4) les · 5) l' · 6) t' ·
-7) les · 8) l'.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1) Théo l'a oubliée samedi (cinéma). 2) Un match de
-foot. 3) Une glace + se voir le soir. 4) « D'accord, mais tu
-m'invites à une glace ! »
+**Tâche 1.** L', nous, le, les, l', t', les, l'. Justifications : le pronom COD précède le verbe; élision devant une voyelle.
 
-**Tâche 3.** Réponses libres. Critères : 80 mots · 2 sentiments ·
-2 pronoms COD · passé composé · réconciliation.
+**Tâche 2.** Cinéma/samedi; match de football/message; message envoyé/elle a été injuste; soir/glace. Un point par élément attendu. La réponse « D'accord mais… » n'est pas prononcée.
 
----
+**Tâche 3.** Un récit fictif est admis : deux sentiments, deux pronoms COD, emploi du passé composé et issue expliquée.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 5*
+- *Amitié* — Wikipédia (consulté le 2026-07-21), https://fr.wikipedia.org/wiki/Amitié, licence CC BY-SA 4.0.
+- *Médiation par les pairs* — Éduscol, ministère de l'Éducation nationale (fiche « climat scolaire »), https://eduscol.education.gouv.fr/, © ministère de l'Éducation nationale (paraphrase ; utilisée à titre de référence, non reproduite).
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

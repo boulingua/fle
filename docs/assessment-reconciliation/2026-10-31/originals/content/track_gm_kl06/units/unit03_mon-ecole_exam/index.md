@@ -1,0 +1,89 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 3"
+subtitle: "Mon école · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 3
+slug: "mon-ecole-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.LING.orthographic-control.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.REC.reading-for-information-and-argument.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 6
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'emploi du temps de Léa (Unité 3, texte B).
+
+| | Affirmation | V | F |
+|---|----------------------------------------------------------|:-:|:-:|
+| 1 | Léa a français quatre fois par semaine. | ☐ | ☐ |
+| 2 | Le mercredi entre 9h et 10h, Léa fait du sport. | ☐ | ☐ |
+| 3 | Léa n'a jamais musique. | ☐ | ☐ |
+| 4 | Le vendredi à 8h, Léa a anglais. | ☐ | ☐ |
+| 5 | Question ouverte : citez les 4 matières du mardi. | | |
+
+### Tâche 2 — Vocabulaire (10 points)
+
+Traduisez :
+
+- les maths · Französisch · l'allemand · Englisch · le sport ·
+ Musik · les arts · Naturwissenschaften.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Décrivez votre lundi à l'école en **50 mots** : au moins 4
+matières avec heures + une matière préférée.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 10 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) V. 2) V. 3) F (mardi+vendredi). 4) F (anglais
+vendredi 8h — vrai). Correction : **vrai** (8h vendredi =
+anglais). 5) Lundi: maths/français/allemand/anglais. Mardi:
+sport/maths/musique/français.
+
+**Tâche 2.** Mathe / le français / Deutsch / l'anglais / Sport /
+la musique / Kunst / les sciences.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 3*

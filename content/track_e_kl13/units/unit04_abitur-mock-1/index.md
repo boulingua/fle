@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 4
 slug: "abitur-mock-1"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_abitur-mock-1.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_abitur-mock-1.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit04_abitur-mock-1.html"
+- "/track_e_kl13/units/unit04_abitur-mock-1.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.compensating.02
-    - B2.REC.understanding-conversation-between-other-people.03
-    - B2.PROD.overall-oral-production.01
-    - B2.REC.identifying-cues-and-inferring.01
-    - B2.INT.information-exchange.05
+  - B2.PROD.compensating.02
+  - B2.REC.understanding-conversation-between-other-people.03
+  - B2.PROD.overall-oral-production.01
+  - B2.REC.identifying-cues-and-inferring.01
+  - B2.INT.information-exchange.05
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit04_abitur-mock-1_exam
+  format: existing-assessment
+  duration_minutes: 90
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_abitur-mock-1-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit04_abitur-mock-1-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,15 +102,13 @@ curriculum:
 - Pourquoi Théo veut-il éviter de « tout lire trois fois » ?
 - Et vous : comment abordez-vous un texte de presse en temps limité ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà traité une épreuve de compréhension écrite chronométrée ? Combien de temps aviez-vous ?
 - Selon vous, quels **trois éléments** faut-il toujours repérer dès la première lecture ?
 - Qu'est-ce qui différencie une **question de compréhension** (« Que dit le texte ? ») d'une **question de commentaire** (« Qu'en pensez-vous ? ») ?
 - Citez deux connecteurs utiles pour **structurer** un commentaire argumenté.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — parler d'un texte de presse
 
 | Français | Catégorie | Allemand |
@@ -132,8 +162,7 @@ curriculum:
 Le **9 mai 1950**, le ministre français des Affaires étrangères **Robert Schuman** prononce une déclaration proposant de placer la production franco-allemande de charbon et d'acier sous une autorité commune, ouverte à d'autres pays européens. Ce texte, préparé notamment avec Jean Monnet, est considéré comme l'acte fondateur de la construction européenne. En mémoire de cette déclaration, le **9 mai** est célébré comme la **Journée de l'Europe**. *(Faits encyclopédiques paraphrasés — voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension globale (texte C).** Répondez brièvement.
 
 1. Quand et où Léa enregistre-t-elle son émission ?
@@ -151,6 +180,7 @@ a) une émission audio téléchargeable — b) hésiter à choisir entre deux op
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Le dimanche soir, dans une chambre d'étudiante à Strasbourg. 2) *Deux Rives* ; il raconte la vie quotidienne de part et d'autre du Rhin (la vie transfrontalière). 3) Par agacement : les médias traitaient les frontaliers comme un « dossier économique » sans jamais raconter les gens. 4) Un lycée de Fribourg s'en sert en cours de français.
 
 **Ex. 2.** a) un balado (podcast) — b) hésiter (entre… et…) — c) couper (au montage) — d) le bilinguisme.
@@ -165,9 +195,9 @@ a) une émission audio téléchargeable — b) hésiter à choisir entre deux op
 **M (intermédiaire) :** Ex. 1 à 3 ; phrases complètes exigées à l'Ex. 3.
 **E (approfondissement) :** les 4 exercices ; à l'Ex. 4, employer au moins un procédé stylistique du texte (question, opposition, détail sensoriel).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (expression écrite, ~250 mots).**
 
 Léa déclare : *« Selon la langue, je ne suis pas tout à fait la même personne. »* Rédigez un **commentaire argumenté** : partagez-vous cette idée ? Appuyez-vous sur votre propre expérience des langues et sur le texte.
@@ -179,8 +209,7 @@ Léa déclare : *« Selon la langue, je ne suis pas tout à fait la même person
 - **Langue (5)** : connecteurs variés, registre soutenu, correction grammaticale.
 - **Lien au texte (5)** : au moins une référence précise au texte source.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais repérer rapidement dates, noms, chiffres et idée directrice d'un texte de presse.
 - [ ] Je distingue une réponse de **compréhension** d'une prise de position **personnelle**.
 - [ ] Je structure un commentaire : thèse → arguments → synthèse.
@@ -188,37 +217,11 @@ Léa déclare : *« Selon la langue, je ne suis pas tout à fait la même person
 - [ ] Je garde du temps pour la **relecture** (orthographe, accords, ponctuation).
 - [ ] J'identifie mes **deux axes de progrès** prioritaires.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve type — compréhension écrite + expression écrite (Niveau E, 13e).**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit04_abitur-mock-1_exam" >}}).
 
-Support : le texte source « À dix-sept ans, elle raconte l'Europe au micro » (partie 2.C).
-
-**Partie A — Compréhension écrite (12 points)**
-
-1. Dans quel contexte familial et géographique Léa a-t-elle grandi ? *(3 P.)*
-2. Quel reproche adressait-elle aux médias, et comment y répond son émission ? *(4 P.)*
-3. Relevez **deux traits** de sa méthode de travail et illustrez chacun par un élément du texte. *(3 P.)*
-4. Comment le texte présente-t-il l'évolution de l'émission depuis les débuts ? *(2 P.)*
-
-**Partie B — Expression écrite (18 points)**
-
-Rédigez un **commentaire structuré** de 250 à 300 mots :
-
-> *« Beaucoup pensent qu'être bilingue, c'est posséder deux langues comme deux objets. »* — Discutez cette conception des langues. Le plurilinguisme est-il une possession, une identité, ou autre chose ? Nuancez et illustrez.
-
-**Barème (30 points au total)**
-
-| Critère | Points |
-|-------------------------------------------|--------|
-| Compréhension — exactitude et couverture | 12 |
-| Contenu du commentaire (pertinence, exemples) | 6 |
-| Structure et cohérence (plan, connecteurs) | 5 |
-| Richesse et correction de la langue | 5 |
-| Registre et style | 2 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min (séance d'entraînement).**
 

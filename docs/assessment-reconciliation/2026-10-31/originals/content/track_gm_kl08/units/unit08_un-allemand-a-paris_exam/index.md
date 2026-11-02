@@ -1,0 +1,93 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 8"
+subtitle: "Un·e Allemand·e à Paris · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 8
+slug: "un-allemand-a-paris-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.INT.online-conversation-and-discussion.03
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez les trois extraits du journal de Léa (Unité 8, texte A).
+Répondez :
+
+1. Pourquoi Léa est-elle surprise par le métro de Paris ?
+2. Quel mot existe à Bordeaux mais pas à Paris ?
+3. Pourquoi la dame âgée connaît-elle l'allemand ?
+
+### Tâche 2 — Grammatik passé composé / imparfait (10 points)
+
+Mettez le verbe au temps qui convient.
+
+1. Lundi soir, *(arriver, je)* _____________ à l'hôtel à 19h.
+2. Il *(faire)* _____________ très chaud dans la rame.
+3. Soudain, la dame *(parler)* _____________ en allemand.
+4. Pendant cinq jours, je *(visiter)* _____________ Paris.
+5. Mardi matin, *(commander, je)* _____________ un café crème.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Écrivez **3 mini-extraits de journal** (~70 mots total) sur
+3 jours dans une ville française de votre choix. Utilisez
+**passé composé + imparfait**, mentionnez **une différence
+culturelle**.
+
+## Notation
+
+| Tâche | Points |
+|--------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Grammatik | 10 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Il fait 30°C dans la rame — plus chaud qu'à
+Karlsruhe. 2) *Chocolatine* (Bordeaux) au lieu de *pain au
+chocolat* (Paris). 3) Elle a habité à Karlsruhe dix ans dans
+les années 1970.
+
+**Tâche 2.** 1) je suis arrivée (passé composé, action). 2) il
+faisait (imparfait, description). 3) la dame a parlé (passé
+composé, ponctuel). 4) j'ai visité (passé composé, durée
+précise). 5) j'ai commandé (passé composé, action).
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 8*

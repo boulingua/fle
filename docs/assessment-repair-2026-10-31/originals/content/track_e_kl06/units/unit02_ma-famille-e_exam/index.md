@@ -1,0 +1,89 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 2"
+subtitle: "Ma famille · classe 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 2
+slug: "ma-famille-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.INT.conversation.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
+
+### Tâche 1 — Vocabulaire (10 points)
+
+Traduisez :
+
+- der Vater · die Mutter · der Bruder · die Schwester · der Opa
+ · die Oma · der Onkel · die Tante · der Cousin · die Cousine.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez la famille d'Anouk (Unité 2, texte C). Répondez :
+
+1. Combien d'enfants ont les parents d'Anouk ?
+2. Quelles sont les professions des parents ?
+3. Où vivent les grands-parents ?
+4. Comment s'appelle le chien ?
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Présentez **votre famille** en **70 mots** : 4 membres minimum,
+prénoms, âges, professions, ville. Utilisez **5 possessifs**
+(*mon, ma, mes*).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Vocabulaire | 10 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** le père · la mère · le frère · la sœur · le grand-
+père · la grand-mère · l'oncle · la tante · le cousin · la
+cousine.
+
+**Tâche 2.** 1) 2 (Anouk + Lena). 2) Père ingénieur, mère
+médecin. 3) Stuttgart. 4) Bello.
+
+**Tâche 3.** Réponses libres. Critères : 70 mots · 4 membres ·
+5 possessifs · accord article + possessif.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 2*

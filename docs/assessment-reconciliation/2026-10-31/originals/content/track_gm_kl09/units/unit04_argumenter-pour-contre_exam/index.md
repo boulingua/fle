@@ -1,0 +1,99 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 4"
+subtitle: "Argumenter pour / contre · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 4
+slug: "argumenter-pour-contre-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.REC.reading-for-information-and-argument.04
+    - A2.INT.conversation.06
+    - A2.INT.correspondence.04
+    - A2.LING.phonological-control.01
+    - A2.MED.note-taking.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez le texte argumenté (Unité 4, texte C). Répondez :
+
+1. Quelle est la thèse de l'auteur ?
+2. Citez les **3 arguments pour**.
+3. Quel est l'argument contre ?
+4. Quelle est la conclusion ?
+
+### Tâche 2 — Connecteurs (10 points)
+
+Complétez avec : *d'abord, ensuite, de plus, cependant,
+toutefois, en conclusion*.
+
+> *Selon moi, il faudrait pratiquer du sport tous les jours.*
+> *(1) ___, c'est bon pour la santé. (2) ___, ça aide à*
+> *réduire le stress. (3) ___, le sport favorise les amitiés.*
+> *(4) ___, certains n'aiment pas l'effort physique.*
+> *(5) ___, on peut choisir des activités variées (yoga,*
+> *danse, course). (6) ___, je suis pour le sport quotidien*
+> *avec un large choix d'activités.*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez une **prise de position argumentée** (~150 mots) sur :
+
+> *« Faut-il une école sans notes ? »*
+
+Structure : thèse + 2 arguments pour + 1 argument contre +
+conclusion. **5 connecteurs** minimum.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Connecteurs | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Il faudrait interdire les portables pendant les
+cours. 2) Distraction, conflits (photos en cachette), baisse de
+concentration. 3) Urgences parents. 4) Interdiction pendant les
+cours, pas tout le temps scolaire.
+
+**Tâche 2.** 1) D'abord · 2) Ensuite · 3) De plus · 4) Cependant
+· 5) Toutefois · 6) En conclusion.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · plan complet
+· 5 connecteurs · thèse claire.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 4*

@@ -1,0 +1,53 @@
+{
+  "unit": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
+  "exam": "content/track_e_kl12/units/unit12_bilan-12e_exam/index.md",
+  "before_unit_sha256": "0cff5bc7d74079a25d828a6ff3c695135c6329acd14972b2ea6555b8b2f7f50b",
+  "after_unit_sha256": "6e8e25fd7ade70ec2b21e24e4f46c0dbaa92f71e23042c5ceaf1a861956abf85",
+  "before_exam_sha256": "f517bce015ec904a7ccdd0ecc16e9b7d9a9579662ea1b359997c71096b3fd123",
+  "after_exam_sha256": "fea91bb7a1aad799285d958045749c87c0ea1b67cf5bb1dfae60e05b3c7022f9",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 20,
+  "skills_observed": [
+    "writing",
+    "speaking"
+  ],
+  "decisions": [
+    "Preserved primary20point12written+8oral reflection; fullmodel supplied forpractice, removed fabricatedportfolio achievements."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "e10a34edff21fa796815aaf6dda15b3ed0a2425446f73345ba9c1db6be6c6913",
+      "after_sha256": "09c7379dc71436b0314c4b30e4cfe5b3a896a88334114f7b057225760346b709",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit12_bilan-12e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "09c7379dc71436b0314c4b30e4cfe5b3a896a88334114f7b057225760346b709",
+      "after_sha256": "3bf460722820da62e8500e521c921341ad18a15f9eaf1d3da546ca241bc0f55c",
+      "reasons": [
+        "Expose task maxima already implied by the original additive criterion table; total remains 20."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl12/units/unit12_bilan-12e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3bf460722820da62e8500e521c921341ad18a15f9eaf1d3da546ca241bc0f55c",
+      "after_sha256": "13fad8571bc6170a33c300bb0e2940a279016c346b7b42120f7097af8f6982c3",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit12_bilan-12e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit12_bilan-12e_exam/index.md",
+      "before_sha256": "13fad8571bc6170a33c300bb0e2940a279016c346b7b42120f7097af8f6982c3",
+      "after_sha256": "fea91bb7a1aad799285d958045749c87c0ea1b67cf5bb1dfae60e05b3c7022f9",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

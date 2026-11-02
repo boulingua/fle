@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl12/units/unit04_presse-engagee/index.md",
+  "exam": "content/track_e_kl12/units/unit04_presse-engagee_exam/index.md",
+  "before_unit_sha256": "f621a166ee107c5ea462432722c6469760a80bffb141721284c5d1e1f2242664",
+  "after_unit_sha256": "bbc5eb5f691ee53d99ffd8bc4e350b63722a60a354cca3b9c63dcf7961d1dc5d",
+  "before_exam_sha256": "7a9c2206da95f2fabc892b1d5d762f54ea39fae55f2d1362ce61accc913b2b22",
+  "after_exam_sha256": "ba3db8037a648aaefc122c54c76c3ccbc6fc7b227b042ee05faee0ed5aa58b9b",
+  "source_sections": "B",
+  "supplied_source_sha256": "e0264528fdd07b9f439ff52dbe7d12b270a4a2074132a1058c693789ceae7b51",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Replaced entirely unrelatedAIarticle/key and fabricated authority quotation with actual fictional press-funding editorial."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "5f3ec22b29601c388405ce77c4766a21c38189b29f505e09a04aa7a136ee6954",
+      "after_sha256": "68bb683800001874b6386a2980d18cc2227cd4f87d62719e6d7ee7e9eb4c855c",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit04_presse-engagee_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "68bb683800001874b6386a2980d18cc2227cd4f87d62719e6d7ee7e9eb4c855c",
+      "after_sha256": "adbb1112b8348c664962992d33d9e2eafd7a03d468d8a845bf7afd950cd4a3aa",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit04_presse-engagee_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit04_presse-engagee_exam/index.md",
+      "before_sha256": "adbb1112b8348c664962992d33d9e2eafd7a03d468d8a845bf7afd950cd4a3aa",
+      "after_sha256": "ba3db8037a648aaefc122c54c76c3ccbc6fc7b227b042ee05faee0ed5aa58b9b",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

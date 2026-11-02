@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 11
 slug: "un-projet-solidaire"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.1 Connaissances socio-culturelles / thèmes"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.3.5 Expression écrite"
+- "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
 - speaking_production
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_un-projet-solidaire.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_un-projet-solidaire.png"
 tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
+- filiere-gm
+- classe-8
+- niveau-m
 aliases:
-  - "/track_gm_kl08/units/unit11_un-projet-solidaire.html"
+- "/track_gm_kl08/units/unit11_un-projet-solidaire.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.PROD.overall-oral-production.01
-    - A2.INT.conversation.08
-    - A2.INT.goal-oriented-co-operation.04
-    - A2.LING.general-linguistic-range.02
+  - A2.PROD.creative-writing.04
+  - A2.PROD.overall-oral-production.01
+  - A2.INT.conversation.08
+  - A2.INT.goal-oriented-co-operation.04
+  - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl08/units/unit11_un-projet-solidaire_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_un-projet-solidaire-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_un-projet-solidaire-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,14 +101,12 @@ Lundi matin, dans la salle 12. Madame Renault écrit un mot au tableau : **SOLID
 - Quels mots servent à proposer une idée poliment en français ?
 - À qui pourriez-vous demander de l'aide pour organiser un projet dans votre collège ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà participé à une action solidaire (collecte, vente, marche, don) ? Racontez.
 - Selon vous, qu'est-ce qu'un projet réussi ? Citez trois conditions.
 - Comment dit-on « on könnte » ou « ich würde gern » en français ? Notez vos hypothèses au brouillon.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Mot | Sens |
@@ -132,12 +162,11 @@ Formation : **infinitif + terminaisons** *(-ai, -as, -a, -ons, -ez, -ont)*.
 
 ### D. Note culturelle — la solidarité organisée en France
 
-En France, beaucoup de projets solidaires passent par une **association loi de 1901**. C'est un groupement de deux personnes ou plus qui mettent en commun leur activité dans un but **autre que de partager des bénéfices** : l'association ne cherche donc pas à faire de profit. Ce cadre juridique a été créé par la loi du 1er juillet 1901, à l'époque de Pierre Waldeck-Rousseau (paraphrasé d'après Wikipédia, CC BY-SA).
+En France, beaucoup de projets solidaires passent par une **association loi de 1901**. C'est un groupement de deux personnes ou plus qui mettent en commun leur activité dans un but **autre que de partager des bénéfices** : elle peut dégager un excédent pour son activité, mais ne doit pas le partager entre ses membres. Ce cadre juridique a été créé par la loi du 1er juillet 1901, à l'époque de Pierre Waldeck-Rousseau (paraphrasé d'après Wikipédia, CC BY-SA).
 
 Chaque année, le **5 décembre**, on célèbre la **Journée internationale des volontaires**. Elle a été instituée par l'Assemblée générale des Nations unies en 1985 (résolution 40/212) pour reconnaître le travail des bénévoles et encourager l'esprit de volontariat aux niveaux local, national et international (paraphrasé d'après l'ONU / Wikipédia, CC BY-SA).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Proposer poliment (conditionnel).** Transformez au conditionnel présent.
 
 1. On *(pouvoir)* … organiser une vente de gâteaux.
@@ -171,6 +200,7 @@ Chaque année, le **5 décembre**, on célèbre la **Journée internationale des
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) pourrait · 2) aimerais · 3) faudrait · 4) serait.
 
 **Ex. 2.** 1) organiserons · 2) récoltera · 3) apporteront · 4) affichera.
@@ -179,9 +209,9 @@ Chaque année, le **5 décembre**, on célèbre la **Journée internationale des
 
 **Ex. 4.** 1) On vend des gâteaux **pour aider** l'association. · 2) On garde les tickets **afin de calculer** le total. · 3) On prend une photo **pour informer** le journal du collège.
 *(«pour» et «afin de» sont tous deux acceptés.)*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, monologue d'environ 2 minutes)**
 
 Présentez à la classe **un projet solidaire** que vous proposeriez pour votre collège. Structurez votre présentation en quatre points :
@@ -201,46 +231,18 @@ Présentez à la classe **un projet solidaire** que vous proposeriez pour votre 
 | But | *pour* ou *afin de* utilisé au moins une fois |
 | Fluidité | parle environ 2 minutes, de façon compréhensible |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux proposer une idée avec *on pourrait / j'aimerais / il faudrait*.
 - [ ] Je conjugue le futur simple des verbes courants du projet.
 - [ ] Je distingue une **proposition** (conditionnel) d'une **décision** (futur).
 - [ ] J'exprime un but avec *pour* ou *afin de*.
 - [ ] Je peux présenter mon projet à voix haute pendant 2 minutes.
 
-## Évaluation
+## Évaluation {#exam}
 
-*Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») (M). Compétences : expression orale en continu (« Sprechen ») et expression écrite (« Schreiben »).*
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl08/units/unit11_un-projet-solidaire_exam" >}}).
 
-**Tâche 1 — Grammaire (10 P.)**
-
-Complétez au temps demandé.
-
-1. *(conditionnel)* On … *(pouvoir)* faire une marche solidaire.
-2. *(conditionnel)* J'… *(aimer)* participer.
-3. *(futur)* Nous … *(récolter)* de l'argent pour l'association.
-4. *(futur)* La classe … *(afficher)* le résultat.
-5. Reliez avec **pour** ou **afin de** : *On fait une affiche. On informe les parents.*
-
-**Tâche 2 — Expression écrite (« Schreiben ») (10 P.)**
-
-Rédigez environ **80 mots** pour proposer un projet solidaire de votre classe. Incluez les 4 étapes (problème · proposition · objectif · suivi), au moins **deux verbes au conditionnel** et **deux au futur simple**.
-
-**Tâche 3 — Expression orale en continu (« Sprechen ») (10 P.)**
-
-Présentez oralement votre projet (environ 2 minutes) en suivant les 4 étapes.
-
-**Barème**
-
-| Tâche | Points |
-|-------------------------------|-------:|
-| 1 — Grammaire | 10 |
-| 2 — Expression écrite | 10 |
-| 3 — Expression orale | 10 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min)**
 
@@ -255,6 +257,9 @@ Présentez oralement votre projet (environ 2 minutes) en suivant les 4 étapes.
 **Différenciation** — **G :** fournir une grille de conjugaison partielle et limiter la production à 4 phrases. **M :** production complète en 4 étapes. **E :** demander une proposition alternative (« sinon, on pourrait aussi… ») et l'usage de *afin que* + subjonctif.
 
 ## Sources
+
+- Ministère de l’Économie — Comparatif associations, principe de non-partage des bénéfices (vérifié le 31 octobre 2026), <https://www.economie.gouv.fr/files/files/directions_services/daj/gip/guide-relatif-aux-gip/comparatif-GIP-GIE-associations.pdf>.
+
 
 - Association loi de 1901 — Wikipédia (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Association_loi_de_1901>, licence CC BY-SA 4.0.
 - Journée internationale des Volontaires — Nations unies (consulté le 21 juillet 2026), <https://www.un.org/fr/observances/volunteer-day>, contenu ONU (domaine public / usage informatif).

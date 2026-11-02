@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 2
 slug: "ma-famille-e"
 bildungsplan:
-  - "3.1.3.4 Expression orale — expression orale en continu (monologue suivi)"
-  - "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — expression orale en continu (monologue suivi)"
+- "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_ma-famille-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_ma-famille-e.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit02_ma-famille-e.html"
+- "/track_e_kl06/units/unit02_ma-famille-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.reading-for-orientation.01
-    - A1.INT.conversation.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.reading-for-orientation.01
+  - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit02_ma-famille-e_exam
+  format: written
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_production
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_ma-famille-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_ma-famille-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -65,8 +98,7 @@ Dans la cour du collège, Anouk montre une photo sur son téléphone.
 - Combien de personnes y a-t-il dans la famille d'Anouk ?
 - Et vous, êtes-vous fils / fille unique, ou avez-vous des frères et sœurs ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, à deux, en français.
 
 - Combien êtes-vous dans votre famille ?
@@ -78,8 +110,7 @@ Répondez oralement, à deux, en français.
 **Astuce :** pour dire le nombre, utilisez *« On est… »* → *On est trois. On est cinq à la maison.*
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — 10 membres de la famille
 
 | Français | Allemand |
@@ -122,8 +153,7 @@ Répondez oralement, à deux, en français.
 
 En français, on distingue souvent la **famille nucléaire** (les parents et les enfants qui vivent ensemble) de la **famille élargie**, qui comprend aussi les grands-parents, les oncles, les tantes et les cousins. Le mot *famille* vient du latin *familia*. Dans le langage administratif français, on parle aussi de **foyer** pour désigner les personnes qui vivent sous le même toit. (Paraphrasé d'après l'article « Famille » de Wikipédia, CC BY-SA — voir Sources.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 
 1. Comment s'appelle le père d'Anouk ? Quelle est sa profession ?
@@ -155,6 +185,7 @@ d) La fille de mes parents, c'est ___.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Le père d'Anouk s'appelle Klaus ; il est ingénieur.
 2. Lena a 8 ans.
@@ -166,9 +197,9 @@ d) La fille de mes parents, c'est ___.
 **Ex. 3.** a) ma tante · b) mon cousin · c) mon grand-père · d) ma sœur.
 
 **Ex. 4.** Réponses personnelles. Vérifier : *on est* + nombre ; accord *mon / ma / mes*.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue, ~6 phrases) :**
 
 Présentez **votre famille** à la classe en 6 phrases suivies. Parlez :
@@ -190,8 +221,7 @@ Utilisez au moins **5 adjectifs possessifs** (*mon, ma, mes*).
 **Total : 10 points**
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez déjà faire.
 
 - [ ] Je peux nommer au moins 10 membres de la famille.
@@ -200,29 +230,11 @@ Cochez ce que vous savez déjà faire.
 - [ ] Je peux comprendre un court texte sur une famille.
 - [ ] Je peux présenter ma famille à l'oral en 6 phrases.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit02_ma-famille-e_exam" >}}).
 
-*Compétences visées : expression orale en continu (monologue) et compréhension écrite.*
-
-**Tâche 1 — Vocabulaire (10 pts).** Traduisez en français les 10 membres de la famille donnés en allemand.
-
-**Tâche 2 — Compréhension écrite (8 pts).** Lisez le texte « La famille d'Anouk » et répondez aux 4 questions par des phrases complètes.
-
-**Tâche 3 — Expression écrite (12 pts).** Présentez votre famille en environ 70 mots. Utilisez au moins 5 adjectifs possessifs et 6 membres de la famille différents.
-
-**Barème total : 30 points.**
-
-| Note | Points |
-|------|--------|
-| très bien | 30–27 |
-| bien | 26–22 |
-| satisfaisant | 21–16 |
-| passable | 15–11 |
-| insuffisant | 10–0 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :**
 - Activer — 4 min (questions à l'oral, en binômes)

@@ -23,75 +23,100 @@ curriculum:
     - A2.INT.asking-for-clarification.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez la fiche-comparaison (Unité 8, texte C). Répondez :
+## Support
 
-1. À quelle heure dîne la plupart des Français ?
-2. Qu'est-ce que l'*Abendbrot* ?
-3. Combien de bises en France ?
-4. Comment se saluent la plupart des Allemand·e·s ?
-5. Que respecte-t-on tous·tes en Allemagne ?
+### C. Texte — la fiche d'Anouk pour Mehdi (texte original)
 
-### Tâche 2 — Modalisation (8 points)
+> **Observations d'Anouk dans deux familles fictives**
+>
+> Cette fiche rapporte les impressions d'Anouk sur des familles et lieux du récit. Les quantificateurs concernent ces exemples; ils ne décrivent pas les populations de deux pays.
+>
+> Dans la famille française d'Anouk, on dîne vers vingt heures, souvent un repas chaud. Dans la famille allemande de son correspondant, on préfère l'*Abendbrot* vers dix-huit heures : du pain, de la charcuterie et du fromage.
+>
+> Parmi les amis de son correspondant, **certain·e·s** font un câlin, d'autres se serrent la main. Anouk et deux amies se font souvent deux bises, si chacune le souhaite. On peut aussi simplement dire bonjour.
+>
+> Dans l'école d'Anouk, **beaucoup** d'élèves déjeunent à la cantine après midi. Dans celle de son correspondant, **certain·e·s** rentrent chez eux vers treize heures.
+>
+> Enfin, dans le quartier allemand visité, **presque tous** les magasins ferment le dimanche. Dans le quartier d'Anouk, **certain·e·s** commerces restent ouverts le dimanche matin.
 
-Reformulez avec *certain·e·s, beaucoup, la plupart, tous·tes* :
+*La fiche présente des exemples choisis par le personnage; elle ne constitue pas une enquête représentative. Les pratiques varient selon les personnes, les familles et les lieux.*
 
-1. 100 % des magasins fermés dimanche → ___
-2. 75 % des Français bisent → ___
-3. 50 % des Allemands font le hug → ___
-4. 25 % des Français vouvoient leurs profs → ___
+### Tâche 1 — Comparer à l’oral (16 points)
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (12 points)
+À partir de la fiche fictive d'Anouk, présentez pendant environ deux minutes deux familles : repas, salutations et habitudes du quartier. Utilisez au moins quatre quantificateurs ou expressions de fréquence en précisant les personnes concernées, puis deux connecteurs de comparaison. Les pratiques du récit ne permettent pas de conclure sur tous les habitants d'un pays.
 
-Médiez ces 3 phrases en français (~140 mots cumulés) :
+**Barème :** Contenu fidèle et contextualisé 6; quantificateurs correctement limités 4; comparaison 2; intelligibilité et continuité 4.
 
-1. *In Deutschland schließen die Geschäfte am Sonntag.*
-2. *Viele deutsche Familien essen das Abendbrot um 18 Uhr.*
-3. *Die meisten Franzosen geben 2-4 Küsse zur Begrüßung.*
+### Tâche 2 — Médiation DE → FR (14 points)
 
-## Notation
+Transmettez les trois indications suivantes à une amie francophone, en une phrase par item.
+1. Bei uns in der Familie essen wir oft gegen 18 Uhr.
+2. Viele Geschäfte in unserem Viertel sind sonntags geschlossen, aber es gibt Ausnahmen.
+3. Meine Freundin fragt zuerst, wie wir uns begrüßen möchten; ein Wangenkuss ist keine Pflicht.
+Ces phrases appartiennent à une famille fictive; ne les transformez pas en règles nationales.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Modalisation | 8 |
-| Tâche 3 — médiation linguistique | 12 |
-| **Total** | **30** |
+**Barème :** Sens fidèle des trois indications 9; langue française 3; adaptation et reformulation 2.
 
-## Solutions
+## Barème total
 
-**Tâche 1.** 1) Vers 20 h. 2) Pain, charcuterie, fromage à
-18 h. 3) 2 ou 4 bises. 4) Poignée de main. 5) Le dimanche
-tranquille (Ruhetag).
+**Total : 30 points.**
 
-**Tâche 2.** 1) *Tous·tes les magasins …* · 2) *La plupart
-des Français bisent …* · 3) *Beaucoup d'Allemands font le
-hug.* · 4) *Certain·e·s Français vouvoient …*
+Ces points décrivent ce sujet d’entraînement; ils ne valent pas une note officielle ni une certification de niveau. La prestation orale doit être observée directement. Une réponse écrite ne la remplace pas.
 
-**Tâche 3.** Modèle : *En Allemagne, les magasins ferment le
-dimanche. Beaucoup de familles allemandes prennent
-l'Abendbrot à 18 h. La plupart des Français font 2 à 4
-bises pour saluer.*
+## Corrigé
 
----
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+**Oral.** Vérifier l'appui sur la fiche et les limites des généralisations. **Médiation.** Dans cette famille, repas souvent vers 18 h; beaucoup de magasins du quartier ferment le dimanche avec exceptions; demander la préférence pour se saluer, sans obligation de bise. Trois points par item complet. Aucun contact physique n'est exigé dans la classe.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+{{< /details >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 8*
+## Activités complémentaires, hors barème
+
+Les activités suivantes conservent des exercices compatibles de la version écrite antérieure. Elles ne remplacent aucune prestation orale et ne participent pas au total ci-dessus.
+
+### Activité complémentaire 1 — Compréhension écrite
+
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
+
+1. Quels horaires de dîner la fiche compare-t-elle pour ses exemples français et allemands ?
+2. Quels aliments associe-t-elle à l’Abendbrot ? Donnez deux éléments.
+3. Quelles deux manières de se saluer sont évoquées chez les jeunes ?
+4. Quelles différences régionales la fiche signale-t-elle pour les bises et que faut-il donc éviter de généraliser ?
+5. Quel jour est évoqué pour les commerces et quelle nuance « presque tous » apporte-t-elle ?
+
+### Activité complémentaire 2 — Langue
+
+Une classe fictive de 20 personnes répond à un questionnaire : 20 aiment choisir leur musique, 16 utilisent le vélo, 10 lisent des bandes dessinées et 4 jouent au théâtre. Transformez chaque résultat en une phrase avec, respectivement : tout le monde, la plupart, la moitié, quelques personnes. Ces données ne décrivent aucune population nationale.
+
+
+
+### Activité complémentaire 3 — Production
+
+Un correspondant vous demande de décrire les habitudes d’une famille. Transmettez en français, en 40 à 60 mots, les informations suivantes : « Bei uns in der Familie essen wir oft gegen 18 Uhr. Viele Geschäfte sind sonntags geschlossen, aber es gibt Ausnahmen. Meine französische Freundin fragt zuerst, wie wir uns begrüßen möchten. » Préservez les nuances et n’ajoutez pas de règle sur tous les Français ou tous les Allemands.
+
+
+
+
+
+## Sources
+
+- *Bise (salutation)* — Wikipédia, contributeurs (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Bise_(salutation)>, licence CC BY-SA 4.0.
+- *Ladenschlussgesetz* — Wikipedia, Autorinnen und Autoren (consulté le 21 juillet 2026), <https://de.wikipedia.org/wiki/Ladenschlussgesetz>, licence CC BY-SA 4.0.
+- *OFAJ / DFJW — rencontres et interculturel* — Office franco-allemand pour la Jeunesse (site institutionnel, pour aller plus loin), <https://www.ofaj.org/>.
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

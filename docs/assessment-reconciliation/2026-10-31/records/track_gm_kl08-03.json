@@ -1,0 +1,58 @@
+{
+  "unit": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md",
+  "exam": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md",
+  "before_unit_sha256": "43aa1050d52f9b8425ebc64e10691b2894a2c08f869c1d33740e4487f531f58b",
+  "after_unit_sha256": "b4d41625161168fa2a311ae917230f517d426c28ef5336a76d7891baa4798943",
+  "before_exam_sha256": "2308f4da760ce1181d3b74f7f9be18e8f7d7b85d2e4767a3dfcfca9f3e50426e",
+  "after_exam_sha256": "3f9482f361a78c0791d725cb2e061dddb562aa77e609ef136c7b768f0ed4b5f1",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "speaking"
+  ],
+  "decisions": [
+    "Retained coherent original embedded task structure and totals; supplied exact source and full key; reconciled incompatible sibling source/answer claims."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "5fcc13e389a49643d1fc8a9eeeb6d77dfec51fd3c8ad86e672dff347f26e261e",
+      "before_sha256": "5fcc13e389a49643d1fc8a9eeeb6d77dfec51fd3c8ad86e672dff347f26e261e",
+      "after_sha256": "b4d41625161168fa2a311ae917230f517d426c28ef5336a76d7891baa4798943",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "fc5c32aab73003ce3ae95b1347fbb8ccb564f3434050972d826f7f31ea0959f4",
+      "before_sha256": "fc5c32aab73003ce3ae95b1347fbb8ccb564f3434050972d826f7f31ea0959f4",
+      "after_sha256": "4fde3a1b7bb8ecfe3b19ee1cfb50aed1be5f8c57bf84d883d5251348f5914d63",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "4fde3a1b7bb8ecfe3b19ee1cfb50aed1be5f8c57bf84d883d5251348f5914d63",
+      "after_sha256": "382da90321a6c51a201ab04d0cbb20e6894df24451d52c6441ca9c50d1f8a274",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "382da90321a6c51a201ab04d0cbb20e6894df24451d52c6441ca9c50d1f8a274",
+      "after_sha256": "23bb082b25b216f4c82d14d46e96b9336af7173fafa03ee4a27473e926f24eb2",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md",
+      "before_sha256": "23bb082b25b216f4c82d14d46e96b9336af7173fafa03ee4a27473e926f24eb2",
+      "after_sha256": "3f9482f361a78c0791d725cb2e061dddb562aa77e609ef136c7b768f0ed4b5f1",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

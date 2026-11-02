@@ -1,0 +1,93 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 11"
+subtitle: "Un projet solidaire · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 11
+slug: "un-projet-solidaire-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.INT.correspondence.04
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'affiche du projet (Unité 11, texte C). Répondez :
+
+1. Quel est le projet d'Anouk et Karim ?
+2. Combien de livres seront collectés ?
+3. À quelle école sont-ils destinés ?
+4. Comment seront-ils envoyés ?
+5. Quelles sont les dates de la collecte ?
+
+### Tâche 2 — Futur simple (8 points)
+
+Conjuguez au futur simple :
+
+1. Nous ___ (organiser) une collecte.
+2. Vous ___ (apporter) des livres.
+3. Ils ___ (envoyer) le colis à Tunis.
+4. Je ___ (sensibiliser) ma classe.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre affiche-projet solidaire** (~100 mots) :
+4 questions (Quoi, Pour qui, Comment, Quand) + **5 verbes
+d'action** + 3 verbes au futur simple + 1 invitation à
+participer.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Futur simple | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Une collecte de livres. 2) 200 livres. 3)
+École Ibn Khaldoun à Tunis. 4) Par bateau via une
+association. 5) Du 4 au 22 mars 2026.
+
+**Tâche 2.** 1) organiserons · 2) apporterez · 3) enverront ·
+4) sensibiliserai.
+
+**Tâche 3.** Réponses libres. Critères : 100 mots · 4
+questions · 5 verbes d'action · 3 futurs simples.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 11*

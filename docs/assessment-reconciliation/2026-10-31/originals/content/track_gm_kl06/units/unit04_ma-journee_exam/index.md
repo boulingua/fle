@@ -1,0 +1,85 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 4"
+subtitle: "Ma journée · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 4
+slug: "ma-journee-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.INT.conversation.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 6
+
+### Tâche 1 — Grammatik (10 points)
+
+Conjuguez les 5 verbes au présent (5 personnes au choix) :
+
+1. être · 2. avoir · 3. aller · 4. manger · 5. faire.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le mini-récit de Léa (Unité 4, texte B). Choisissez a/b/c.
+
+1. À quelle heure Léa se lève-t-elle ? a) 6h · b) 7h · c) 8h.
+2. Que boit-elle au petit-déjeuner ? a) du jus · b) du
+ chocolat chaud · c) du thé.
+3. Comment va-t-elle à l'école ? a) à vélo · b) en bus · c) à
+ pied.
+4. Où mange-t-elle à midi ? a) à la maison · b) à la cantine ·
+ c) au restaurant.
+5. Que fait-elle le soir ? a) ses devoirs et joue · b) lit · c)
+ regarde la télé.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Décrivez votre journée d'hier en **~50 mots**. Au moins **3
+verbes au présent + 2 marqueurs de temps** (le matin / à midi /
+le soir / à 7h …).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Grammatik | 10 |
+| Tâche 2 — Compréhension écrite | 10 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 2.** 1) b · 2) b · 3) c · 4) b · 5) a.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 4*

@@ -1,0 +1,90 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 3"
+subtitle: "Mon quartier · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 3
+slug: "mon-quartier-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.01
+    - A1.INT.online-conversation-and-discussion.02
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.processing-text.03
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la lettre d'Anouk (Unité 3, texte C). Répondez :
+
+1. Comment est sa rue ?
+2. Qui est Hugo ? Qui est Camille ?
+3. Où est la pharmacie ?
+4. Combien de minutes pour aller au parc ?
+5. Comment va-t-elle à la gare ?
+
+### Tâche 2 — Vocabulaire (8 points)
+
+Traduisez :
+
+- die Bäckerei · die Konditorei · der Buchladen · die Post ·
+ das Rathaus · der Bahnhof · die Apotheke · der Supermarkt.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Écrivez une **lettre** à un(e) correspondant(e) sur votre
+quartier en **120 mots** : 5 lieux + 4 prépositions + ce que
+vous y aimez.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Calme, beaucoup d'arbres. 2) Hugo : pâtissier ;
+Camille : libraire. 3) En face de chez Anouk. 4) 5 min. 5) En
+tram (20 min).
+
+**Tâche 2.** la boulangerie · la pâtisserie · la librairie · la
+poste · la mairie · la gare · la pharmacie · le supermarché.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 5 lieux ·
+4 prépositions · format lettre.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 3*

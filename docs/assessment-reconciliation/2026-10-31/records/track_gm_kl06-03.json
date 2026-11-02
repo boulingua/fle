@@ -1,0 +1,58 @@
+{
+  "unit": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
+  "exam": "content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md",
+  "before_unit_sha256": "a2b3dacc05f95d3c721064352ff5a5f062d8a897a0e21dbe45ef93909ecc4dda",
+  "after_unit_sha256": "b434fb381e386723e570fca7713a2c4a015debfce2125896802a5ae96233cfaa",
+  "before_exam_sha256": "6c5a15c7b04dd0b5683de83b54b425502937a07ecbac394b3ddbd2b1b5af17ff",
+  "after_exam_sha256": "f7a7533673b7ccbbe348ee90b15c136343e37e8d851b5a437a8da0b5b1ca9977",
+  "source_sections": [
+    "Input C, emploi du temps de Léa"
+  ],
+  "supplied_source_sha256": "ab202abdd4afb257319bd85c80fc71f9a8e615e3ab637634c45549f684b074aa",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "task_points": [
+    10,
+    10,
+    10
+  ],
+  "decisions": [
+    "Correct contradictory Friday key to true and source reference B→C.",
+    "Retain concrete sibling V/F items; expand vocabulary to ten explicit items, including two classroom objects, with no missing image dependency."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "b34c148331bfdde31a9d4b4ef2285cd2e4c827f487a6bc7923d971f89b91406c",
+      "after_sha256": "e7a9a26e85ffc58f2f6796197909c07db1e657a1c74369bb634cf9aac215be3e",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "e7a9a26e85ffc58f2f6796197909c07db1e657a1c74369bb634cf9aac215be3e",
+      "after_sha256": "fedbecd031ab12deaef3db4c3235bf0551f8360cd1017ffa466b44413a099e55",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "fedbecd031ab12deaef3db4c3235bf0551f8360cd1017ffa466b44413a099e55",
+      "after_sha256": "89ce3e8380cb67c94f1cc5de9fdafa42fc3be86df301b5c797cf3c5073076aef",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md",
+      "before_sha256": "89ce3e8380cb67c94f1cc5de9fdafa42fc3be86df301b5c797cf3c5073076aef",
+      "after_sha256": "f7a7533673b7ccbbe348ee90b15c136343e37e8d851b5a437a8da0b5b1ca9977",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

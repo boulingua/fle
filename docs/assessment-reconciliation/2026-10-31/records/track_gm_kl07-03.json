@@ -1,0 +1,56 @@
+{
+  "unit": "content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+  "exam": "content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md",
+  "before_unit_sha256": "378aa8e6f68a41404fd94b1c1d6d4645adf332ad1e26173b1411e5b0c07eed88",
+  "after_unit_sha256": "06931dde596a8dccabf5cfe36e057609c420124e68848b17c8419d30f6a2cd82",
+  "before_exam_sha256": "365daca4374d96bba73327d6db9f18b8a2d6026d1ab196eec9b9b7738ad54dd7",
+  "after_exam_sha256": "3b25bd790d180e9f0feb74d0bac10ada8fa91860813920c2a19c1e42e3c9c4cd",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Existing sibling coherent; supplied source, precisebusstopclaim and explicit scoring."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "306f64158ac774b78cbb981404489f06e7f144dd152411e8509cf073611d9cbd",
+      "before_sha256": "306f64158ac774b78cbb981404489f06e7f144dd152411e8509cf073611d9cbd",
+      "after_sha256": "06931dde596a8dccabf5cfe36e057609c420124e68848b17c8419d30f6a2cd82",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "9902633333e54b5311d6ea2fdb5bb9bbd32e9b88493226c77c05f54399a05a85",
+      "before_sha256": "9902633333e54b5311d6ea2fdb5bb9bbd32e9b88493226c77c05f54399a05a85",
+      "after_sha256": "60b08c7091e7839dc2e337e1d2e31fa776e7cb925fea00cc7a1e20aee888f186",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "60b08c7091e7839dc2e337e1d2e31fa776e7cb925fea00cc7a1e20aee888f186",
+      "after_sha256": "8e471e4e0f3ba5326771880b306cae31751ad44bfdfe6131a2542e825e92f330",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "8e471e4e0f3ba5326771880b306cae31751ad44bfdfe6131a2542e825e92f330",
+      "after_sha256": "30b727f775f247927b9e12e013770237cb4d362682f9d3e6578ac3bb4e2f75b6",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md",
+      "before_sha256": "30b727f775f247927b9e12e013770237cb4d362682f9d3e6578ac3bb4e2f75b6",
+      "after_sha256": "3b25bd790d180e9f0feb74d0bac10ada8fa91860813920c2a19c1e42e3c9c4cd",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

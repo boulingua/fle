@@ -8,7 +8,7 @@ track: "gm"
 unit_nr: 2
 slug: "lettre-de-motivation"
 bildungsplan:
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - writing
 presentation:
@@ -18,22 +18,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_lettre-de-motivation.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_lettre-de-motivation.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit02_lettre-de-motivation.html"
+- "/track_gm_kl09/units/unit02_lettre-de-motivation.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.compensating.01
-    - A2.MED.adapting-language.01
-    - A2.PROD.creative-writing.01
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - A2.REC.reading-as-a-leisure-activity.04
+  - A2.PROD.compensating.01
+  - A2.MED.adapting-language.01
+  - A2.PROD.creative-writing.01
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.REC.reading-as-a-leisure-activity.04
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit02_lettre-de-motivation_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_lettre-de-motivation-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_lettre-de-motivation-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,15 +98,13 @@ Léa veut faire un stage d'une semaine dans une librairie française à Strasbou
 - Quels mots trahissent un registre trop familier ?
 - À votre avis, que doit contenir une lettre de motivation ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà écrit une lettre ou un courriel formel ? À qui ?
 - Quelles sont les différences entre un message à un ami et une lettre à une entreprise ?
 - Pourquoi commence-t-on par *« Madame, Monsieur »* quand on ne connaît pas le destinataire ?
 - En allemand, comment finit-on une lettre formelle ? Et en français ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand | Exemple |
@@ -146,8 +176,7 @@ La lettre suit huit éléments dans l'ordre :
 
 En France, la lettre de motivation accompagne traditionnellement le CV lors d'une candidature à un emploi ou à un stage. Selon la ressource en libre accès citée ci-dessous, elle était autrefois souvent rédigée à la main, car certains recruteurs y attachaient de l'importance ; aujourd'hui, la version tapée à l'ordinateur est devenue la norme. La formule de clôture développée (*« Je vous prie d'agréer… »*) reste une caractéristique marquante de la correspondance formelle française, plus longue que l'équivalent allemand *« Mit freundlichen Grüßen »*. *(Paraphrase — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Repérer la structure (texte C).**
 
 1. Où se trouvent les coordonnées de Léa ?
@@ -183,6 +212,7 @@ En France, la lettre de motivation accompagne traditionnellement le CV lors d'un
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) En haut à gauche. 2) Karlsruhe, le 5 mars 2026. 3) Une demande de stage (une semaine). 4) *« Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées. »*
 
 **Ex. 2.** 1) *Madame, Monsieur,* 2) *Actuellement en classe de 9e, je…* 3) *Je me permets de solliciter.* 4) *Je vous prie d'agréer…*
@@ -190,9 +220,9 @@ En France, la lettre de motivation accompagne traditionnellement le CV lors d'un
 **Ex. 3.** permets · solliciter · passionné(e) · ravi(e) · agréer.
 
 **Ex. 4.** 1 — vos coordonnées ; 2 — le lieu et la date ; 3 — le destinataire ; 4 — l'objet ; 5 — la salutation ; 6 — le corps ; 7 — la formule finale ; 8 — la signature.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (environ 150 mots).**
 
 Rédigez **votre propre lettre de motivation** pour un stage d'une semaine dans une entreprise de votre choix (librairie, boulangerie, radio, cabinet vétérinaire…). Respectez les **huit éléments** de la structure et employez au moins **trois formules** apprises.
@@ -205,29 +235,18 @@ Rédigez **votre propre lettre de motivation** pour un stage d'une semaine dans 
 - Le corps contient trois idées : qui je suis · pourquoi cette entreprise · ce que je propose.
 - La langue est compréhensible (orthographe, ponctuation raisonnables pour le niveau).
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je connais les huit éléments de la structure.
 - [ ] J'utilise le vouvoiement et un registre formel.
 - [ ] J'emploie au moins trois formules de politesse.
 - [ ] Mon corps de lettre contient trois paragraphes clairs.
 - [ ] J'ai relu ma lettre et corrigé les mots familiers.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Expression écrite (Schreiben)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit02_lettre-de-motivation_exam" >}}).
 
-**Tâche 1 — Compréhension du modèle (8 P.).** Lisez la lettre modèle (texte C) et répondez à 4 questions (2 P. chacune) : coordonnées, date, objet, formule finale.
-
-**Tâche 2 — Registre et formules (10 P.).** Transformez 5 phrases familières en phrases formelles (2 P. chacune), p. ex. *« Salut, je veux un stage »* → *« Madame, Monsieur, je me permets de solliciter un stage. »*
-
-**Tâche 3 — Rédaction (12 P.).** Rédigez votre lettre de motivation (environ 150 mots) pour un stage d'une semaine.
-
-Barème de la Tâche 3 : structure /4 · registre formel /3 · formules de politesse /3 · richesse et clarté du contenu /2.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.** Activer 4' · Apporter 13' · S'entraîner 11' · Produire 13' · Réfléchir 2' · Aperçu 2'.
 

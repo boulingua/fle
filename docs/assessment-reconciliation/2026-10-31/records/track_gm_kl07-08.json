@@ -1,0 +1,51 @@
+{
+  "unit": "content/track_gm_kl07/units/unit08_le-quebec/index.md",
+  "exam": "content/track_gm_kl07/units/unit08_le-quebec_exam/index.md",
+  "before_unit_sha256": "dc140aaf652b68ef87d70e8679e2abbf114515bb38ca249c77f5dbe07946507b",
+  "after_unit_sha256": "284c59b0ef2e05faf603ac7c8a780c872d927bc73a2a415c6d3efc177032b999",
+  "before_exam_sha256": "8a011d908ad3575fd347e0dc2d30ab50f0bad892349ed7093b27db91d5eb43ec",
+  "after_exam_sha256": "e2b3d8e24eb019e4b759a11ec889e28fb17e776741e0e3510b35450d239c50a2",
+  "source_sections": "B",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "CorrectedAntoine/month fabrication; fullactualletter and contextualQuébec vocabulary preserved."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "b9512e0ab64788ca3ef301a25e901e2bd5c25f72e354d419ad794eb59cb0c962",
+      "after_sha256": "284c59b0ef2e05faf603ac7c8a780c872d927bc73a2a415c6d3efc177032b999",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit08_le-quebec/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "f0d09115ab4dd042b05e8ef02a6690dc1db553384ae45cbc317cba284813bcfa",
+      "after_sha256": "00f73c88966ca15fc1230c55ff0addbe11302e608dbb841f4ae9ea230c7342b1",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit08_le-quebec_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "00f73c88966ca15fc1230c55ff0addbe11302e608dbb841f4ae9ea230c7342b1",
+      "after_sha256": "32c5fa71b7cfb3fe01a49c18cacddea1dbca13f3ff838b0bf7009c2c9e130706",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit08_le-quebec_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl07/units/unit08_le-quebec_exam/index.md",
+      "before_sha256": "32c5fa71b7cfb3fe01a49c18cacddea1dbca13f3ff838b0bf7009c2c9e130706",
+      "after_sha256": "e2b3d8e24eb019e4b759a11ec889e28fb17e776741e0e3510b35450d239c50a2",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 5"
+subtitle: "Amis et conflits · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 5
+slug: "amis-et-conflits-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.INT.conversation.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — Grammatik : pronoms COD (10 points)
+
+Remplacez le complément par un pronom COD.
+
+1. J'écoute la prof. → Je ___ écoute.
+2. Tu invites Léa et moi ? → Tu ___ invites ?
+3. Elle voit Théo. → Elle ___ voit.
+4. Vous regardez les photos ? → Vous ___ regardez ?
+5. Nous aimons cette chanson. → Nous ___ aimons.
+6. Tu m'aides ? → Oui, je ___ aide.
+7. Il connaît Inès et Léa. → Il ___ connaît.
+8. Léa a oublié son sac. → Elle ___ a oublié.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez le texte C de l'Unité 5 (la dispute). Répondez :
+
+1. Pourquoi Léa est-elle fâchée ?
+2. Que faisait Théo samedi ?
+3. Que propose Théo pour faire la paix ?
+4. Comment Léa accepte-t-elle ?
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Racontez une **dispute** avec un(e) ami(e) en **80 mots**.
+Utilisez **2 sentiments** + **2 pronoms COD** + le **passé
+composé**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Grammatik | 10 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) l' · 2) nous · 3) le · 4) les · 5) l' · 6) t' ·
+7) les · 8) l'.
+
+**Tâche 2.** 1) Théo l'a oubliée samedi (cinéma). 2) Un match de
+foot. 3) Une glace + se voir le soir. 4) « D'accord, mais tu
+m'invites à une glace ! »
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · 2 sentiments ·
+2 pronoms COD · passé composé · réconciliation.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 5*

@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
+  "exam": "content/track_e_kl11/units/unit01_ecrire-sur-soi_exam/index.md",
+  "before_unit_sha256": "d68b420b85c3965b04dd4a1ee5d0a9204dee3cae8310d2a657860142eaf173c8",
+  "after_unit_sha256": "b9e6eddc3d196a5876ec184530b3e1ac9234d3f8111b1d8cd8f2ae3d885c84af",
+  "before_exam_sha256": "bfe1293f3a4b610ed15136878bc28a889fc35746628f797c51a8d191b231cfcb",
+  "after_exam_sha256": "b26d8bee6a8e6c516c7214bd770cdfd095c3d1f6a9dc5913acdea93a7e9c4a99",
+  "source_sections": "C",
+  "supplied_source_sha256": "f52fecac774eef2d356bcdbb564f37eb4f930f7471588b9ce96c3e73f8e1e387",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed protected/unprovided Les Années extract and answer key. Actual original sensory scene supports new comprehension and autobiographical-writing task; source-free genre6items8points replaced with analytical4items."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "d59ff559d0de511eb77bb5ebc477d8d2e288bdf2967c54a8416b5a461eb0c468",
+      "after_sha256": "1330fd4c0bdd71e201fd64569b71b6d0c2a6b54acda5e00526ab068fe3872e74",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit01_ecrire-sur-soi_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "1330fd4c0bdd71e201fd64569b71b6d0c2a6b54acda5e00526ab068fe3872e74",
+      "after_sha256": "97be09361199156d3d7c26279d158ccd4d8352b41ebd698985b59d18b3f088f5",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit01_ecrire-sur-soi_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit01_ecrire-sur-soi_exam/index.md",
+      "before_sha256": "97be09361199156d3d7c26279d158ccd4d8352b41ebd698985b59d18b3f088f5",
+      "after_sha256": "b26d8bee6a8e6c516c7214bd770cdfd095c3d1f6a9dc5913acdea93a7e9c4a99",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

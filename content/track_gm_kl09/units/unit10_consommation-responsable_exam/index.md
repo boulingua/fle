@@ -23,80 +23,93 @@ curriculum:
     - A2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 9
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez l'article (Unité 10, texte C : Vinted). Répondez :
+## Support
 
-1. Combien de comptes Vinted en France ?
-2. Quel pourcentage des 16-25 ans y achètent ?
-3. Citez les **3 raisons** de son succès.
-4. Combien de fois acheter d'occasion divise l'empreinte CO₂ ?
-5. Quelle est la règle d'or pour un effet écologique réel ?
+### C. Texte (original)
 
-### Tâche 2 — Vocabulaire (8 points)
+> **Consommer autrement, c'est possible**
+>
+> Léa a 15 ans et elle adore la mode. Avant, elle achetait un nouveau
+> tee-shirt presque chaque semaine. « Ils ne coûtaient rien, alors j'en
+> prenais beaucoup », raconte-t-elle. Mais un jour, elle a vu un
+> reportage sur les ateliers de couture à l'autre bout du monde.
+>
+> Depuis, Léa a changé ses habitudes. Elle achète moins, mais mieux.
+> « Maintenant, je vais d'abord dans les magasins de seconde main.
+> Quand j'achète neuf, je choisis du coton bio et je garde mes
+> vêtements plus longtemps. »
+>
+> Résultat : Léa dépense presque la même somme qu'avant, mais elle
+> possède moins d'affaires. « Je n'ai pas l'impression de me priver.
+> Au contraire, je suis fière de mes choix », conclut-elle.
 
-Reliez chaque label à sa définition (5 P.) :
+### Tâche 1 — Lecture (10 points)
 
-| Label | Définition |
-|------------------------|----------------------------------|
-| 1. GOTS | a. sans matière animale |
-| 2. Fairtrade | b. commerce équitable |
-| 3. Oeko-Tex | c. coton biologique |
-| 4. PETA Approved Vegan | d. entreprise à mission |
-| 5. B Corp | e. sans substances nocives |
+1. Quel âge a Léa et quel type de vêtement achetait-elle souvent ?
+2. À quelle fréquence achetait-elle et quelle raison donnait-elle ?
+3. Quel document change sa réflexion et quel sujet montre-t-il ?
+4. Où cherche-t-elle désormais d’abord et que choisit-elle quand elle achète neuf ?
+5. Comment son budget et la quantité d’affaires ont-ils changé ?
 
-Plus, traduisez (3 P.) : *seconde main · empreinte (CO₂) ·
-atelier de confection*.
+**Barème :** 5 réponses ×2.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+### Tâche 2 — Lexique (8 points)
 
-Rédigez une **critique d'une habitude de consommation**
-(~150 mots) en **3 paragraphes** :
+Associez cinq notions : seconde main, producteur, label, gaspiller, convaincre.
+A. Faire adhérer à une idée. B. Signe attestant des critères définis à vérifier. C. Personne qui produit. D. Dépenser ou jeter inutilement une ressource. E. Objet déjà utilisé.
+Complétez avec parce que, donc, mais : 1. Je répare ___ je veux garder cet objet.2. Le vêtement est trop petit,___ je le donne.3. C’est plus cher,___ je peux attendre avant d’acheter.
 
-1. Description du comportement (votre génération, ou vous).
-2. **2 arguments** pour changer ce comportement.
-3. **3 actions concrètes** que vous proposez.
+**Barème :** 5 associations +3 connecteurs =8.
 
-## Notation
+### Tâche 3 — Argumentation (12 points)
+
+Rédigez 120 à 150 mots pour discuter « Consommer responsable, c’est trop cher » : opinion, deux arguments reliés par des connecteurs, une action concrète. Distinguez votre expérience d’une preuve valable pour tout le monde.
+
+**Barème :** Contenu 6, connecteurs 3, structure 2, langue 1.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Vocabulaire | 8 |
-| Tâche 3 — Expression écrite | 12 |
+|---|---:|
+| 1 | 10 |
+| 2 | 8 |
+| 3 | 12 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) 30 millions. 2) 70 %. 3) Prix bas, choix immense,
-conscience écologique. 4) Par 3. 5) « Acheter moins, garder plus
-longtemps. »
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1-c · 2-b · 3-e · 4-a · 5-d. + Secondhand /
-zweite Hand · der CO₂-Fußabdruck · die Werkstatt
-(Konfektionsatelier).
+**Tâche 1.** Quinze ans/tee-shirt; presque chaque semaine/prix bas; reportage/ateliers de couture; seconde main/coton bio; presque la même somme/moins d'affaires. Un point par élément attendu.
 
-**Tâche 3.** Réponses libres. Critères : 150 mots · 3
-paragraphes · 2 arguments · 3 actions concrètes.
+**Tâche 2.** Seconde main E; producteur C; label B; gaspiller D; convaincre A. Connecteurs : parce que, donc, mais.
 
----
+**Tâche 3.** Contenu (6), connecteurs (3), structure (2), orthographe (1). Ne pas ajouter de statistiques absentes du support ni confondre certification privée et statut juridique d'entreprise à mission.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 10*
+- **Commerce équitable** — Contributeurs de Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Commerce_%C3%A9quitable>, licence CC BY-SA 4.0.
+- **Consommation responsable** — Contributeurs de Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Consommation_responsable>, licence CC BY-SA 4.0.
+- **Fairtrade / Max Havelaar** — Contributeurs de Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Max_Havelaar_(ONG)>, licence CC BY-SA 4.0.
+
+*Plateforme éducative indépendante, sans affiliation aux organisations, marques ou labels cités.*
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

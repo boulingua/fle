@@ -1,0 +1,92 @@
+---
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 11 (mock final)"
+subtitle: "épreuve finale mock final · classe 13 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 11
+slug: "abitur-mock-final-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-13
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.amplifying-a-dense-text.02
+    - B2.MED.analysis-and-criticism-of-creative-texts.03
+    - B2.PLUR.building-on-plurilingual-repertoire.03
+    - B2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock final)
+
+### Tâche 1 — Verstehen (10 points) — 60 min
+
+Lisez les 3 textes (Unité 11, texte C). Répondez :
+
+1. Quelle date pour la campagne OIF ?
+2. Qui est marraine ?
+3. Combien de locuteurs OIF ?
+4. Quel rang pour le français en Allemagne ?
+5. Quel anniversaire l'OFAJ ?
+
+### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 points) — 90 min
+
+Comparez **la voix de Senghor (1945)** et celle d'**Aya
+Nakamura (2030)** (~400 mots). TAS + 3 citations + 1
+interprétation de l'évolution.
+
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 points) — 60 min
+
+Médiez le texte 3 en français (~280 mots) : 5 verbes-
+charnières + lien interculturel.
+
+## Notation
+
+| Tâche | Points | Durée |
+|-----------------------|--------|--------|
+| Verstehen | 10 | 60 min |
+| Analyse / Expression écrite | 10 | 90 min |
+| médiation linguistique | 10 | 60 min |
+| **Total** | **30** | **210 min** |
+
+## Solutions
+
+**Tâche 1.** 1) 9 mai 2030. 2) Aya Nakamura. 3) 321
+millions. 4) 2ᵉ langue étrangère. 5) 67 ans.
+
+**Tâche 2.** Réponses libres. Critères : 400 mots · TAS ·
+3 citations · 1 interprétation.
+
+**Tâche 3.** Modèle : *Selon une étude du Goethe-Institut
+(2030), le français reste la deuxième langue étrangère la
+plus choisie en Allemagne, après l'anglais. 1,2 million
+d'élèves apprennent le français. L'OFAJ fête en 2030 ses
+67 ans d'existence. Cette continuité reflète la solidité
+de la coopération franco-allemande, malgré la concurrence
+mondiale de l'anglais.*
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 11*

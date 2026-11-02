@@ -1,0 +1,57 @@
+{
+  "unit": "content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
+  "exam": "content/track_e_kl07/units/unit04_repas-en-famille-e_exam/index.md",
+  "before_unit_sha256": "1ac16e45e1986d026a3cecfbb57deeb0e87559422610e66523160796be9f1020",
+  "after_unit_sha256": "20e1e29626dae0c5be9c40ab82c284dbfc96636038e542949e6cdc3be97ebe73",
+  "before_exam_sha256": "79992a90450b4fadfc9a61d1d7575b7688aadf1e2bde3c1919fc82b2712f3d79",
+  "after_exam_sha256": "0b385198c3dbba3dba02a3c38d54edd490f35a0a7ca08c5ef431b5085123c30f",
+  "source_sections": "C",
+  "supplied_source_sha256": "bfbfe880acf7cd2a21111baa49f840277a99c84b6549da4679c982092f6cc34b",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "decisions": [
+    "Actual Lemaire transcript does not mention gigot/green beans/Lena/wine; replaced five questions/key. Preserved partitives and menu writing; preserved coherent oral unit task as follow-up."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "a8698585f95f3544379fc1064650ca6376ad7dd9f5f4bf9f8c4612dd395d3339",
+      "after_sha256": "53665b30a3301b9d0f5550aea1c344ba23090a262e320c1e244e2f9092b80c42",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+        "Align teacher key with observed speaking outcome.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit04_repas-en-famille-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "53665b30a3301b9d0f5550aea1c344ba23090a262e320c1e244e2f9092b80c42",
+      "after_sha256": "b16a23a0e218718bcbce42259cdc366e4572ecb4cc79e701f7150d0044f92c50",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit04_repas-en-famille-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit04_repas-en-famille-e_exam/index.md",
+      "before_sha256": "b16a23a0e218718bcbce42259cdc366e4572ecb4cc79e701f7150d0044f92c50",
+      "after_sha256": "0b385198c3dbba3dba02a3c38d54edd490f35a0a7ca08c5ef431b5085123c30f",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl07",
+      "unit": 4,
+      "total": 30,
+      "decision": "Observed speaking restored in task 3; source-complete reading/language tasks retained; weighting explicitly revised from embedded variant.",
+      "oral_points": 12
+    }
+  ]
+}

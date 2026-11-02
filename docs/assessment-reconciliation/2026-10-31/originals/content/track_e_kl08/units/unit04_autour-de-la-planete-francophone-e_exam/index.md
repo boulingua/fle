@@ -1,0 +1,91 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 4"
+subtitle: "Autour de la planète francophone · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 4
+slug: "autour-de-la-planete-francophone-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.INT.overall-written-interaction.01
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le texte sur la francophonie (Unité 4, texte C). Répondez :
+
+1. Combien y a-t-il de locuteurs francophones dans le monde ?
+2. Cite 3 pays francophones d'Afrique.
+3. Où vit Tante Soraya ?
+4. Où vit la cousine de Karim ?
+5. Sur combien de continents se trouve la francophonie ?
+
+### Tâche 2 — Prépositions de pays (8 points)
+
+Complétez avec *en, au, aux, à* :
+
+1. Anouk habite ___ Karlsruhe, ___ Allemagne.
+2. Karim vit ___ Lille, ___ France.
+3. Inès étudie ___ Montréal, ___ Canada.
+4. Tante Soraya travaille ___ Tunis, ___ Tunisie.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez un **portrait d'un pays francophone** de votre choix
+en **120 mots** : continent + capitale + 2 faits culturels
++ phrase de motivation (*J'aimerais y aller parce que …*).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Prépositions | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 321 millions. 2) Sénégal, Tunisie, Côte
+d'Ivoire (etc.). 3) À Tunis, en Tunisie. 4) À Dakar, au
+Sénégal. 5) 5 continents.
+
+**Tâche 2.** 1) à / en · 2) à / en · 3) à / au · 4) à / en.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 5
+prépositions correctes · 2 faits culturels.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 4*

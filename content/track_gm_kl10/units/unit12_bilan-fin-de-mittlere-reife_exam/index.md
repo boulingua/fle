@@ -23,75 +23,69 @@ curriculum:
     - B1.MED.acting-as-an-intermediary-in-informal-situations.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 45
+assessment_scoring: points-only
 ---
 
-## Devoir surveillé — Niveau M, classe 10
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Durée indicative : 45 minutes, à éprouver en classe.
 
-Lisez la lettre d'adieu de Léa (Unité 12, texte C). Répondez :
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-1. Combien d'années Léa a-t-elle fait de français ?
-2. Quels **3 correspondants** cite-t-elle ?
-3. Quels **3 auteurs** cite-t-elle, et leur leçon ?
-4. Quels **2 projets** pour la 11ᵉ ?
-5. Quelle est la phrase-clé qui résume sa transformation ?
+## Support
 
-### Tâche 2 — Auto-évaluation CECRL (5 points)
+### B. Texte support (original) — « Ma méthode pour l'oral »
 
-Notez-vous (A2, B1, B2) sur les 5 compétences. **Justifiez** en
-1 phrase pour deux d'entre elles.
+> Avant, l'oral me faisait peur. Maintenant, j'ai une méthode simple.
+>
+> D'abord, je prépare un plan en trois parties : d'où je pars, où j'en suis, où je veux aller. Ensuite, pour chaque partie, je choisis un exemple concret — un livre lu, un échange, un projet. Puis je relie mes idées avec des connecteurs : *d'abord, ensuite, en revanche, pour conclure*. Enfin, je m'entraîne à voix haute, une fois seul, une fois devant un camarade.
+>
+> Le jour de l'épreuve, je respire lentement avant de commencer. Si un mot me manque, je le contourne : je dis la même chose autrement. En somme, je ne cherche plus la perfection ; je cherche la clarté.
 
-| Compétence | Niveau | Justification |
-|-------------------------|--------|---------------|
-| Compréhension écrite | | |
-| Expression écrite (« Schreiben ») | | |
-| Compréhension orale (« Hören ») | | |
-| Expression orale (« Sprechen ») | | |
-| Médiation | | |
+### Tâche 1 — Expression orale en continu (12 points)
 
-### Tâche 3 — Expression écrite (15 points)
+Présentez oralement pendant environ trois minutes le bilan de votre parcours de français : d'où vous partez, où vous en êtes, où vous voulez aller. Choisissez un exemple par partie et des connecteurs; une fiche de mots-clés est admise. Un parcours fictif annoncé est possible. L'oral est observé directement, sans lecture continue.
 
-Rédigez **votre lettre d'adieu** (~250 mots) à votre classe /
-prof(esseur) de français. Plan : intro + bilan (3 souvenirs) +
-remerciements (2-3) + projets 11ᵉ + formule finale. **2 figures
-de style** + **5 connecteurs**.
+**Barème :** Structure 3; contenu 3; langue 3; fluidité/stratégies 3.
 
-## Notation
+### Tâche 2 — Expression écrite (18 points)
+
+Rédigez une lettre de bilan d'environ 250 mots adressée à votre enseignant : introduction; trois souvenirs réels ou fictifs signalés; deux points forts et un point à consolider; projet pour l'année suivante; formule finale. Utilisez cinq connecteurs et articulez passé, présent et futur. Une autoévaluation est provisoire et doit être illustrée par une tâche; ne nommez pas un niveau certifié sans justificatif.
+
+**Barème :** Consigne 4; structure 4; contenu 4; grammaire 4; orthographe 2.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Auto-évaluation | 5 |
-| Tâche 3 — Expression écrite | 15 |
+|---|---:|
+| 1 | 12 |
+| 2 | 18 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) 5 ans. 2) Karim (Lille), Inès (Montréal), Mehdi
-(Sfax). 3) Bondoux (mémoire), Camus (absurde), Murail
-(tendresse). 4) DELF B1 + Erasmus Montréal. 5) « Le français
-n'est plus une matière. C'est devenu une partie de moi. »
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** Réponses libres mais justifiées.
+**Oral 12.** Structure 3, contenu illustré 3, langue 3, fluidité/stratégies 3. Consigner des exemples observés; un plan écrit ne suffit pas.
 
-**Tâche 3.** Réponses libres. Critères : 250 mots · plan
-complet · 2 figures · 5 connecteurs · sincérité.
+**Écrit 18.** Consigne/développement 4; structure/connecteurs 4; contenu 4; grammaire 4; orthographe 2. Ne pas noter la sincérité intime, la valeur personnelle des souvenirs ou un niveau CECRL revendiqué. Aucun extrait de lettre de Léa, correspondant nommé ou auteur cité n'est fourni : ces faits ne sont pas demandés.
 
----
+{{< /details >}}
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+## Sources
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+- « Cadre européen commun de référence pour les langues » — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Cadre_europ%C3%A9en_commun_de_r%C3%A9f%C3%A9rence_pour_les_langues>, licence CC-BY-SA 4.0.
+- « Diplôme d'études en langue française » — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Dipl%C3%B4me_d%27%C3%A9tudes_en_langue_fran%C3%A7aise>, licence CC-BY-SA 4.0.
+- DELF / DALF — France Éducation international, <https://www.france-education-international.fr/>, site institutionnel (référence, non citée).
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 12*
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

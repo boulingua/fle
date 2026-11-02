@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 5
 slug: "vivre-en-tunisie"
 bildungsplan:
-  - "3.1.4 Compétence textuelle et médiatique"
-  - "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_vivre-en-tunisie.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_vivre-en-tunisie.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit05_vivre-en-tunisie.html"
+- "/track_gm_kl09/units/unit05_vivre-en-tunisie.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.REC.understanding-announcements-and-instructions.04
-    - A2.REC.identifying-cues-and-inferring.05
-    - A2.PRAG.flexibility.01
-    - A2.INT.asking-for-clarification.02
-    - A2.INT.conversation.10
+  - A2.REC.understanding-announcements-and-instructions.04
+  - A2.REC.identifying-cues-and-inferring.05
+  - A2.PRAG.flexibility.01
+  - A2.INT.asking-for-clarification.02
+  - A2.INT.conversation.10
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit05_vivre-en-tunisie_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_vivre-en-tunisie-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit05_vivre-en-tunisie-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -63,15 +94,13 @@ Mehdi, 15 ans, habite à Sfax, sur la côte tunisienne. Il tient un blog qu'il p
 2. Quelles langues entend-on dans sa cour de récréation ?
 3. À votre avis, pourquoi le français est-il si présent en Tunisie ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que savez-vous déjà de la Tunisie (situation, capitale, mer) ?
 - Citez d'autres pays où l'on parle français en dehors de la France.
 - Avez-vous déjà goûté un plat d'Afrique du Nord (couscous, *brick*, dattes) ?
 - Selon vous, « langue officielle » et « langue d'enseignement », est-ce toujours la même chose ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — la vie quotidienne
 
 | Français | Allemand |
@@ -118,8 +147,7 @@ En Tunisie, la langue officielle est l'arabe littéraire. Le français, lui, n'a
 
 *(Faits reformulés d'après « Langues en Tunisie », Wikipédia, licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (texte C).** Répondez par des phrases complètes.
 
 1. Où Mehdi est-il allé après les cours, et avec qui ?
@@ -153,6 +181,7 @@ c) Un couscous du vendredi est ______ (bon) ______ un repas rapide.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) Il est allé au souk (au marché) avec sa mère. 2) Elle mange (souvent) du couscous. 3) Parce que les cours de sciences sont en français : il doit apprendre le vocabulaire deux fois. 4) Sfax est au bord de la mer Méditerranée, à environ 270 km au sud de Tunis.
 
 **Exercice 2.** 1) Vrai. 2) Faux — le français n'a pas de statut officiel ; la langue officielle est l'arabe littéraire. 3) Vrai. 4) Faux — l'indépendance date de 1956 (1881 = début du protectorat).
@@ -160,9 +189,9 @@ c) Un couscous du vendredi est ______ (bon) ______ un repas rapide.
 **Exercice 3.** a) souk / marché · b) côte · c) langue de scolarité (langue d'enseignement) · d) médina / vieille ville.
 
 **Exercice 4.** a) aussi grande que · b) plus chaud … qu' · c) meilleur qu' (comparatif irrégulier de *bon*).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau M, environ 120 mots).**
 
 Rédigez une **réponse au courriel de Mehdi**. Décrivez votre samedi à Karlsruhe, puis comparez-le avec la vie de Mehdi à Sfax. Employez **deux comparatifs** (*plus/moins/aussi … que*) et **un fait** sur la Tunisie tiré de cette unité.
@@ -174,33 +203,18 @@ Rédigez une **réponse au courriel de Mehdi**. Décrivez votre samedi à Karlsr
 - Deux comparatifs corrects + un fait exact — 3 pts
 - Correction de la langue (temps, orthographe) — 2 pts
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux situer la Tunisie et donner cinq faits-clés.
 - [ ] Je peux comprendre un courriel simple sur la vie quotidienne.
 - [ ] Je peux expliquer la place du français en Tunisie.
 - [ ] Je peux former un comparatif correct.
 - [ ] Je peux écrire une réponse à un correspondant maghrébin.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit05_vivre-en-tunisie_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 pts).** À partir du courriel de Mehdi (texte C), répondez à six questions (lieux, langues, école, week-end).
-
-**Tâche 2 — Savoirs culturels (8 pts).** Quatre affirmations à valider ou corriger sur le français en Tunisie et sur l'histoire du pays.
-
-**Tâche 3 — Expression écrite (10 pts).** Réponse au courriel de Mehdi (environ 120 mots), avec deux comparatifs et un fait sur la Tunisie.
-
-**Barème — total : 30 points**
-
-| Tâche | Compétence | Points |
-|-------|------------|--------|
-| 1 | Compréhension écrite | 12 |
-| 2 | Compétence textuelle et médiatique | 8 |
-| 3 | Expression écrite | 10 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :** Activer 4' · Apporter 13' · S'entraîner 14' · Produire 11' · Réfléchir 3'.
 

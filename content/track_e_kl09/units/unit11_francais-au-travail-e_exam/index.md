@@ -23,30 +23,92 @@ curriculum:
     - A2.PRAG.thematic-development.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez le mail médié (Unité 11, texte C, FR). Répondez :
+## Support
 
-1. Quel document est en pièce jointe ?
-2. À qui doit-il être transmis ?
-3. Quel événement est mentionné ?
-4. Quelle formule de clôture est utilisée ?
+### B. Texte — un courriel professionnel (original)
 
-### Tâche 2 — Lexique professionnel FR ↔ DE (8 points)
+> **Objet : Programme de la Foire du livre de Francfort**
+>
+> Chère Madame Lambert,
+>
+> Je me permets de vous écrire au sujet de notre rencontre du mois prochain. Veuillez trouver ci-joint le programme provisoire de la Foire du livre de Francfort. Pourriez-vous le transmettre à votre collègue de Strasbourg ?
+>
+> Je reste à votre disposition pour toute question et vous en remercie par avance.
+>
+> Cordialement,
+> Klaus Weber
+
+### Tâche 1 — Médiation professionnelle (16 points)
+
+Médiez en français le message allemand pour la collègue concernée; un message bref et complet suffit.
+
+> Sehr geehrter Herr Becker, im Anhang finden Sie die Tagesordnung der Sitzung am 15. Mai. Könnten Sie sie der Kollegin in Lyon weiterleiten? Mit bestem Dank, Eva Schmidt.
+
+Conservez noms, date, pièce jointe et demande. Ne créez ni heure ni ordre du jour détaillé absent du texte.
+
+**Barème :** Fidélité 6; registre et formules 6; langue 4.
+
+### Tâche 2 — Appel téléphonique (10 points)
+
+En binôme, jouez un appel d'au moins six répliques : transmettez l'information du message et proposez un rendez-vous. Présentez toute heure proposée comme une nouvelle proposition, puis négociez et confirmez. La clôture reste polie. Le message préparé ne remplace pas l'appel observé.
+
+**Barème :** Écoute, réponses et continuité 5; politesse et structure 5.
+
+### Tâche 3 — Lexique (4 points)
+
+Donnez un équivalent français professionnel : im Anhang; die Tagesordnung; weiterleiten; mit bestem Dank.
+
+**Barème :** Quatre équivalents adaptés, 1 point chacun.
+
+## Barème total
+
+**Total : 30 points.**
+
+Ces points décrivent ce sujet d’entraînement; ils ne valent pas une note officielle ni une certification de niveau. La prestation orale doit être observée directement. Une réponse écrite ne la remplace pas.
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Médiation.** Réunion le 15 mai; ordre du jour en pièce jointe; transmettre à la collègue de Lyon; signataire Eva Schmidt. Adaptation possible : Cher Monsieur Becker… Pourriez-vous… Avec mes remerciements. Aucun horaire n'est fourni. **Appel.** Noter les réactions effectivement entendues et la distinction information reçue/proposition nouvelle. **Lexique.** En pièce jointe; ordre du jour; transmettre ou faire suivre; avec mes remerciements.
+
+{{< /details >}}
+
+## Activités complémentaires, hors barème
+
+Les activités suivantes conservent des exercices compatibles de la version écrite antérieure. Elles ne remplacent aucune prestation orale et ne participent pas au total ci-dessus.
+
+### Activité complémentaire 1 — Compréhension écrite
+
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
+
+1. Qui écrit le courriel et à qui ?
+2. Quel document est envoyé et quel mot indique qu’il n’est pas définitif ?
+3. À quel événement le document se rapporte-t-il et quand la rencontre est-elle prévue ?
+4. Vers quelle ville faut-il transmettre l’information et quelle formule termine le message ?
+
+### Activité complémentaire 2 — Langue
 
 Donnez l'équivalent **français** :
 
 1. *Im Anhang* → ___
-2. *Mit besten Dank* → ___
+2. *Mit bestem Dank* → ___
 3. *Sehr geehrte Frau Lambert,* → ___
 4. *Könnten Sie das weiterleiten ?* → ___
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») + dialogue (14 points)
+
+
+### Activité complémentaire 3 — Production
 
 À partir de ce **mail allemand**, médiez en français pro **et**
 prolongez par un dialogue téléphonique (6 répliques, ~150
@@ -54,47 +116,22 @@ mots cumulés).
 
 > *Sehr geehrter Herr Becker, im Anhang finden Sie die
 > Tagesordnung der Sitzung am 15. Mai. Könnten Sie sie der
-> Kollegin in Lyon weiterleiten ? Mit besten Dank, Eva
+> Kollegin in Lyon weiterleiten ? Mit bestem Dank, Eva
 > Schmidt.*
 
-## Notation
+Le bref échange téléphonique est une création séparée : toute proposition d’horaire doit être présentée comme nouvelle, sans l’attribuer au courriel allemand. Une longueur de 100 à 150 mots pour l’ensemble convient.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 8 |
-| Tâche 2 — Lexique pro | 8 |
-| Tâche 3 — médiation linguistique | 14 |
-| **Total** | **30** |
 
-## Solutions
 
-**Tâche 1.** 1) Programme Foire du livre de Francfort 2026.
-2) Collègue de Strasbourg. 3) Foire du livre de Francfort.
-4) *Avec mes remerciements / Bien à vous.*
 
-**Tâche 2.** 1) *en pièce jointe* · 2) *avec mes
-remerciements* · 3) *Chère Madame Lambert,* · 4) *Pourriez-
-vous le transmettre ?*
 
-**Tâche 3.** Modèle médiation : *Cher Monsieur Becker, en
-pièce jointe, vous trouverez l'ordre du jour de la réunion
-du 15 mai. Pourriez-vous le transmettre à la collègue de
-Lyon ? Avec mes remerciements, Eva Schmidt.* + 6 répliques
-téléphone libre.
+## Sources
 
----
+- **Vouvoiement** — Contributeurs de Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Vouvoiement>, licence CC BY-SA 4.0.
+- **Courrier électronique** — Contributeurs de Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Courrier_%C3%A9lectronique>, licence CC BY-SA 4.0.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+## Provenance
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+Support : unité correspondante, section(s) B. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 11*
+*© S. Le Boulanger · CC BY-SA 4.0.*

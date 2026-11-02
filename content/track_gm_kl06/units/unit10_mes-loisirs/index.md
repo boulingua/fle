@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 10
 slug: "mes-loisirs"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_mes-loisirs.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_mes-loisirs.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit10_mes-loisirs.html"
+- "/track_gm_kl06/units/unit10_mes-loisirs.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.interviewing-and-being-interviewed.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.conversation.01
-    - A1.REC.reading-for-information-and-argument.02
-    - A1.PROD.overall-oral-production.01
+  - A1.INT.interviewing-and-being-interviewed.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.conversation.01
+  - A1.REC.reading-for-information-and-argument.02
+  - A1.PROD.overall-oral-production.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit10_mes-loisirs_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_interaction
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_mes-loisirs-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit10_mes-loisirs-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,14 +102,12 @@ avec son ami Théo.
 2. Quels deux loisirs a Léa ?
 3. Et toi : tu es plutôt Léa ou plutôt Théo ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **trois activités** que vous faites après l'école.
 - Pour chaque activité, dites **combien de fois par semaine** vous la faites.
 - Classez au tableau : *sport · musique · à la maison · dehors*.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand | Verbe utile |
@@ -130,8 +161,7 @@ l'expression provençale *pès tancats*, « les pieds plantés ». Aujourd'hui, 
 joue à la pétanque sur les places des villages comme dans les grandes villes,
 entre ami·e·s et en famille.
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Réponds par une phrase courte.
 
 1. Quel jour a lieu le club de guitare ?
@@ -171,6 +201,7 @@ bien placé.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Le mercredi. 2) À 17 h. 3) En salle 12. 4) On fait une sortie
 d'une heure autour du parc.
 
@@ -181,9 +212,9 @@ cartes. 3) Nous allons **parfois** à la piscine. 4) Tu regardes **toujours** la
 télé le soir.
 
 **Ex. 4.** joue · joue · de la · jamais.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M · en binôme · env. 3 min) — « Interview loisirs ».**
 
 Chaque élève pose **quatre questions** à son ou sa camarade, puis **raconte**
@@ -207,33 +238,17 @@ mais il ne joue jamais aux échecs. »*
 - Restitue à la 3ᵉ personne (*il / elle fait…*) (2 pts).
 - Prononciation compréhensible et prise de parole fluide (2 pts).
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je connais au moins huit loisirs en français.
 - [ ] Je distingue *jouer à · jouer de · faire de*.
 - [ ] Je sais placer un adverbe de fréquence dans la phrase.
 - [ ] Je peux interviewer un·e camarade et raconter ses réponses.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit10_mes-loisirs_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 pts).** À partir de
-l'annonce de club (texte C), réponds à cinq questions (jour, heure, lieu,
-activité) et corrige deux affirmations fausses.
-
-**Tâche 2 — Grammaire (10 pts).** Complète huit phrases avec la bonne
-préposition (*au / à la / aux / du / de la / de l'*) et ajoute l'adverbe de
-fréquence demandé au bon endroit.
-
-**Tâche 3 — Expression orale en interaction (« Sprechen ») (10 pts).** En
-binôme, mène une courte interview sur les loisirs (quatre échanges), puis
-restitue les réponses de ton ou ta camarade à la 3ᵉ personne.
-
-**Barème : 30 points** — 27–30 = très bien · 21–26,5 = bien · 15–20,5 =
-satisfaisant · en dessous : à retravailler.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Activer 5' · Apporter 12' · S'entraîner 13' · Produire
 10' · Réfléchir 3' · Bilan / devoirs 2'.

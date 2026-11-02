@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+  "exam": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md",
+  "before_unit_sha256": "49a548badefcec45f5c4b743b881cb6ccf02040b8a18de403a8f963c545e3551",
+  "after_unit_sha256": "c79d13f302d430c02e03ed670c5ec8b50baa006aae55d34b7a18a6f7a1779c54",
+  "before_exam_sha256": "370c35ba246f70fe0e2b739c344ff9412330172d98fcfaf3cdbc680e2b7fa46c",
+  "after_exam_sha256": "4b6eb5f4aaaeff0cc4f260c29759de3db7a3d891fb290795634e4a884a341314",
+  "source_sections": [
+    "Texte"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Actualbilan replacesunsupportednewspaper/Erasmus details; coherent separateGermanoralscenario preservedwithnonofficiallabel; Tunis/Sfaxcontinuity queued."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "164ce6ce18e2cd35aa6b06c0a8af08c1ad65a10f9870b81e653e698bd7a186cf",
+      "before_sha256": "164ce6ce18e2cd35aa6b06c0a8af08c1ad65a10f9870b81e653e698bd7a186cf",
+      "after_sha256": "c79d13f302d430c02e03ed670c5ec8b50baa006aae55d34b7a18a6f7a1779c54",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "471ffce1a14196d2fa4a50de25c374aa18f5c35c0cfde86428f28e9d13c0f49d",
+      "before_sha256": "471ffce1a14196d2fa4a50de25c374aa18f5c35c0cfde86428f28e9d13c0f49d",
+      "after_sha256": "307d44c62cf8f59a22aae9e7d8036e9c9de2aa1fc68c15b9976902c6d2dc572f",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "307d44c62cf8f59a22aae9e7d8036e9c9de2aa1fc68c15b9976902c6d2dc572f",
+      "after_sha256": "fd024a28ff8885b4507a2433e4504997f4e2a16189fe57676b5c1401f6c767bc",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Align actual supplied source with established character residence.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "fd024a28ff8885b4507a2433e4504997f4e2a16189fe57676b5c1401f6c767bc",
+      "after_sha256": "20244f609ee75e7e70c609ae13cb047106bd43ed592891d3bf1d1a70b0cb6f6f",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md",
+      "before_sha256": "20244f609ee75e7e70c609ae13cb047106bd43ed592891d3bf1d1a70b0cb6f6f",
+      "after_sha256": "4b6eb5f4aaaeff0cc4f260c29759de3db7a3d891fb290795634e4a884a341314",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

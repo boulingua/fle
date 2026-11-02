@@ -23,110 +23,87 @@ curriculum:
     - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 8
+## Modalités
+
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
+
+## Support
+
+### C. Mini-dialogue (texte original)
+
+> **La professeure :** Alors, Inès, quel est ton média préféré ?
+>
+> **Inès :** Moi, c'est les podcasts. J'en écoute presque tous les jours, dans le bus.
+>
+> **La professeure :** Et pourquoi les podcasts, plutôt que les vidéos ?
+>
+> **Inès :** Parce que je peux écouter les yeux fermés. C'est moins fatigant que l'écran, et j'apprends des choses.
+>
+> **La professeure :** Très bien. Et toi, Malik ?
+>
+> **Malik :** Moi, je regarde surtout des vidéos courtes. J'aime bien, mais je passe trop de temps dessus, je trouve.
+>
+> **La professeure :** Sais-tu toujours **qui** a fait ces vidéos ?
+>
+> **Malik :** Pas vraiment… Non, pas toujours.
+
+## Sujet
 
 {{< callout type="warning" >}}
-Format devoir surveillé (« Klassenarbeit ») (niveau M) avec **partie orale
-enregistrée**, durée totale ~60 min (incl. enregistrement).
-Stimuli originaux.
+Devoir surveillé (« Klassenarbeit », Niveau M) avec une **partie orale enregistrée** en binôme, alignée sur *sprechen_dialog* et *text_medien*. Stimulus original.
 {{< /callout >}}
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») — 8 P.**
 
-Lisez le mini-dialogue suivant.
+Relisez le mini-dialogue (partie C). Répondez en français par une phrase complète.
 
-> **Madame Renault :** Karim, qu'est-ce que tu as regardé hier
-> soir ?
->
-> **Karim :** Des vidéos courtes sur YouTube. Genre 30 secondes
-> chacune. Sur tout — sport, animaux, des trucs marrants.
->
-> **Léa :** Moi, j'ai lu un article sur les vacances scolaires
-> dans *1 jour, 1 actu*.
->
-> **Madame Renault :** Très bien. La différence, c'est que ton
-> article, Léa, a une **source** signée. Toi, Karim, est-ce que
-> tu sais qui a fait tes vidéos ?
+1. Quel est le média préféré d'Inès et quand l'écoute-t-elle ?
+2. Pourquoi Inès préfère-t-elle ce média aux vidéos ?
+3. Que répond Malik quand on lui demande qui a fait ses vidéos ? Que montre cette réponse ?
 
-Répondez en phrases complètes :
+**Tâche 2 — Partie orale enregistrée (« Sprechen — Dialog ») — 12 P.**
 
-1. Que regardait Karim hier soir ? (2 P.)
-2. Pourquoi Madame Renault préfère-t-elle l'article de Léa ?
- (3 P.)
-3. Que veut dire « fiable » dans ce contexte ? (3 P.)
+En binôme, présentez en direct ou enregistrez avec accord une interview d'environ 90 secondes : **3 questions** + **3 réponses** sur les médias préférés. Barème :
 
-### Tâche 2 — Mündlicher Anteil (12 points)
+- Réalisation (3 questions + 3 réponses justifiées) — 5 P.
+- Langue (fréquence, opinion, comparaison) — 4 P.
+- Interaction et prononciation (on se comprend, on réagit) — 3 P.
 
-Vous enregistrez un mini-interview de **90 secondes** avec un·e
-camarade. Posez et répondez à **trois questions** :
+**Tâche 3 — Expression écrite (« Schreiben ») — 10 P.**
 
-- *Quels médias suis-tu régulièrement ?*
-- *Comment vérifies-tu qu'un article / une vidéo est fiable ?*
-- *Qu'est-ce qui te plaît dans tes médias ?*
+Rédigez un court texte d'environ 70 mots : *« Mon média préféré et pourquoi. »*
+Employez au moins **un adverbe de fréquence**, **une opinion justifiée** et **une comparaison**.
 
-Critères de notation :
+**Total : 30 P.**
 
-- **Erfüllung** (3 questions posées + réponses claires) : 4 P.
-- **Langue** (vocabulaire des médias + structures M) : 4 P.
-- **Aussprache** (intelligibilité) : 4 P.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
 
-Écrivez un texte d'environ **70 mots** :
+## Corrigé
 
-> *« Mon média préféré et pourquoi. »*
+**Total : 30 points.**
 
-Mentionnez le nom du média, le type (papier / vidéo / radio /
-réseau social), un avantage, un inconvénient.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-## Notation
+T1.1. Podcasts (1), presque chaque jour/dans le bus (1).2. Écouter sans écran (1), moins fatigant (1), apprendre (1).3. Ne sait pas toujours (1); source non identifiée (1), vérification nécessaire (1). Une signature seule ne garantit pas la fiabilité.
+T2. Appliquer 5+4+3 à une interview réellement échangée; une observation en direct peut remplacer l’enregistrement si celui-ci n’est pas souhaité. Ne conserver aucun enregistrement sans procédure et consentements adaptés.
+T3. Contenu et argument 4, fréquence/comparaison 3, langue 3. Un média fictif peut être choisi; le nom d’une plateforme ne prouve pas sa fiabilité.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 8 |
-| Tâche 2 — Mündlich | 12 |
-| Tâche 3 — Expression écrite | 10 |
-| **Total** | **30** |
+{{< /details >}}
 
-barème de notes (« Notenschlüssel ») typique :
-*1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
+## Sources
 
-## Solutions (extrait)
+- *TV5Monde* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/TV5Monde>, licence CC BY-SA 4.0.
+- *Éducation aux médias et à l'information* — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/%C3%89ducation_aux_m%C3%A9dias_et_%C3%A0_l%27information>, licence CC BY-SA 4.0.
+- Pour aller plus loin (liens éditeurs, hors évaluation) : *1 jour, 1 actu* <https://www.1jour1actu.com/> · *Le Monde des ados* <https://www.lemondedesados.fr/>.
 
-**Tâche 1.**
+## Provenance
 
-1. Karim regardait des vidéos courtes (≈ 30 secondes) sur
- YouTube, sur des sujets très variés.
-2. Parce que l'article de Léa a une **source signée** : on sait
- qui a écrit le texte.
-3. *Fiable* = digne de confiance / sérieux ; on peut s'y fier
- parce que l'auteur·rice est identifiable.
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
 
-**Tâche 3 (modèle, ~72 mots).**
-
-> Mon média préféré, c'est *1 jour, 1 actu*. C'est un magazine
-> en vidéo et en texte qui explique l'actualité aux ados. Un
-> avantage : les explications sont courtes et claires. Un
-> inconvénient : il y a parfois des sujets difficiles que je dois
-> relire. Je le préfère à TikTok, parce que je sais qui écrit
-> les articles, et il y a une **vraie source**.
-
----
-
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
-
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
-
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 2*
+*© S. Le Boulanger · CC BY-SA 4.0.*

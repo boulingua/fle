@@ -23,86 +23,69 @@ curriculum:
     - B2.MED.analysis-and-criticism-of-creative-texts.03
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 45
+assessment_scoring: points-only
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Verstehen (8 points)
+Sujet d'entraînement réconcilié avec les supports de l'unité. Ce n'est ni un sujet officiel ni une certification de niveau. Les situations originales sont des scénarios pédagogiques; les références littéraires conservent leur attribution. Les durées et barèmes proposés restent à éprouver en classe. La validation pédagogique et linguistique reste en attente.
 
-Lisez la médiation DE (Unité 6, texte C). Répondez :
+Durée indicative : 45 minutes, selon les phases précisées ci-dessous.
 
-1. Quel jour Anouk a-t-elle gagné ?
-2. Quelle est la dotation du prix ?
-3. Quels 4 auteurs cite-t-elle ?
-4. Quelle est la phrase finale de Marie-Christine
- Saragosse ?
+## Support
 
-### Tâche 2 — Faux amis franco-allemands (8 points)
+### Texte à médier (original, DE)
 
-Donnez la **bonne traduction** :
+> **Anouk (Karlsruhe) écrit à sa correspondante française :**
+>
+> *Liebe Camille, gestern war der Europatag an unserer Schule. Wir haben einen zweisprachigen Wettbewerb organisiert: Jede Klasse musste eine kurze Rede auf Deutsch halten und sie dann für die Gäste ins Französische vermitteln — nicht Wort für Wort, sondern nur das Wichtigste. Unsere Lehrerin sagte, das sei genau das, was im Abitur geprüft werde. Ich war zuerst nervös, aber am Ende hat es Spaß gemacht. Kommst du im Mai zu unserem Fest?*
 
-1. *peut-être* → ___ (allemand)
-2. *réunion* → ___
-3. *débat* → ___
-4. *éventuellement* (en français) → ___ (allemand,
- attention faux ami !)
+## Tâches et barème
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») finale (14 points)
+**Tâche 1 — Compréhension (8 points).** Répondez en français; 2 points par réponse.
+1. Quel événement a eu lieu et où ?
+2. Que devait faire chaque classe, dans les deux langues ?
+3. Fallait-il traduire mot à mot et pour quel public l'information était-elle transmise ?
+4. Comment les sentiments d'Anouk ont-ils évolué ?
 
-Médiez ce texte français en allemand (~350 mots) :
+**Tâche 2 — Choix lexicaux en contexte (6 points).** Traduisez en français (1 point chacun), puis justifiez un choix (1 point).
+1. « Eventuell komme ich später. »
+2. « Wir essen in diesem Lokal. »
+3. « Die Lehrerkonferenz beginnt um acht. »
+4. « Sie ist sehr sensibel und leicht verletzt. »
+5. « Die Direktion der Schule lädt uns ein. »
 
-> *Selon l'OIF, en 2024, la francophonie compte 88 États et
-> 321 millions de locuteurs sur 5 continents. En Afrique,
-> où le français progresse, on prévoit 600 millions de
-> locuteurs en 2050. Tahar Ben Jelloun, écrivain marocain,
-> rappelle : « La langue française m'a adopté, et elle
-> me permet de parler aux Français de leur histoire. » La
-> francophonie est ainsi un patrimoine partagé, plus
-> qu'un héritage.*
+**Tâche 3 — Médiation FR → DE (16 points).** Écrivez un bref message en allemand de trois à cinq phrases pour votre correspondant. Transmettez seulement les informations utiles de l'annonce fictive suivante et adaptez le registre :
 
-## Notation
+> Une élève franco-allemande a remporté un prix de 5000 euros pour un essai sur le plurilinguisme. Elle prévoit de poursuivre ses études à Bordeaux à la rentrée. L'annonce ne précise ni l'établissement ni la date exacte de rentrée.
 
-| Tâche | Points |
-|--------------------------|--------|
-| Verstehen | 8 |
-| Faux amis | 8 |
-| médiation linguistique | 14 |
-| **Total** | **30** |
+**Barème :** Tâche 1 /8; tâche 2 /6; tâche 3 : fidélité /6, adaptation au destinataire /5, langue /5. **Total : 30 points.** Aucun minimum artificiel de 150 mots n'est demandé pour cette brève source.
 
-## Solutions
+## Corrigé et observation
 
-**Tâche 1.** 1) 9 mai 2029 (Europatag). 2) 5 000 €. 3)
-Camus, Senghor, Ben Jelloun, Despentes. 4) *« Diese neue
-Generation erfindet die Frankophonie neu. »*
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1) *vielleicht* · 2) *Sitzung* · 3)
-*Debatte* · 4) *gegebenenfalls* (le piège : « eventuell »
-ne signifie *pas* éventuellement en français).
+**Tâche 1.**1 Journée de l'Europe 1, à l'école 1.2 Court discours en allemand 1, transmission de l'essentiel en français 1.3 Pas de mot à mot 1, invités 1.4 Nervosité initiale 1, plaisir à la fin 1.
 
-**Tâche 3.** Modèle : *Laut der OIF zählt die Frankophonie
-2024 88 Staaten und 321 Millionen Sprecher·innen auf 5
-Kontinenten. In Afrika, wo Französisch zunimmt, werden für
-2050 600 Millionen Sprecher·innen prognostiziert. Tahar
-Ben Jelloun, marokkanischer Schriftsteller, erinnert: « Die
-französische Langue hat mich adoptiert, und sie erlaubt
-mir, mit den Franzosen über ihre Geschichte zu sprechen. »
-Die Frankophonie ist somit ein **geteiltes Erbe**, mehr als
-eine **Hinterlassenschaft**.* (~280 mots).
+**Tâche 2.**1 Je viendrai peut-être plus tard / éventuellement, je viendrai plus tard (selon le contexte).2 Nous mangeons dans cet établissement/restaurant.3 La réunion des enseignants commence à huit heures.4 Elle est très sensible et facilement blessée.5 La direction de l'école nous invite.1 point chacun; 1 pour une justification pertinente. *Sensible* ne signifie pas ici « raisonnable »; *éventuellement* n'est pas toujours un faux ami de *eventuell*.
 
----
+**Tâche 3.** Exemple : « Eine deutsch-französische Schülerin hat für einen Essay über Mehrsprachigkeit einen Preis von 5000 Euro gewonnen. Nach den Ferien möchte sie in Bordeaux weiterstudieren. Welche Einrichtung es ist und wann genau sie anfängt, steht nicht in der Mitteilung. » Autres formulations fidèles acceptées. Ne pas inventer le nom de la lauréate, une université, un financeur ou une citation. Fidélité 6 : profil 1, prix/montant 2, sujet 1, projet Bordeaux/rentrée 2. Adaptation 5 : destinataire/registre 2, sélection et concision 2, attribution de l'incertitude 1. Langue 5 : compréhension et constructions.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 6*
+- « Cadre européen commun de référence pour les langues » — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Cadre_européen_commun_de_référence_pour_les_langues>, licence CC BY-SA 4.0.
+- « Sprachmittlung » — Wikipedia, die freie Enzyklopädie (consulté en 2026), <https://de.wikipedia.org/wiki/Sprachmittlung>, licence CC BY-SA 4.0.
+
+Références pour les choix lexicaux : [Duden : sensibel](https://www.duden.de/rechtschreibung/sensibel), [Duden : eventuell](https://www.duden.de/rechtschreibung/eventuell_moeglicherweise), [Académie française : éventuellement](https://www.dictionnaire-academie.fr/article/A9E3150).
+
+## Provenance
+
+Support : unité correspondante, section(s) Texte à médier. Les deux versions antérieures et les décisions sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. La reprise d’un texte connu est un entraînement; une épreuve de transfert indépendante demande un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

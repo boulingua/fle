@@ -1,0 +1,40 @@
+{
+  "unit": "content/track_gm_kl10/units/unit03_vie-democratique/index.md",
+  "exam": "content/track_gm_kl10/units/unit03_vie-democratique_exam/index.md",
+  "before_unit_sha256": "bb025528d48224e9c9c61e3075d3e76179e100fe7fd294517ffd87aba79e2d27",
+  "after_unit_sha256": "4f9a2fdca5269bcc82613a553a8c8174e8f9c11859abb8252df90bc95283b9c2",
+  "before_exam_sha256": "59fc6933d0daac3df5145deedca55f630e1e3b2995d71af6b896d9d9c77fdffe",
+  "after_exam_sha256": "2e29c608766ede084327fe6e9c0c80bb856db0f4e34867387b78a31c4bf73183",
+  "source_sections": [
+    "B",
+    "C"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "speaking_production"
+  ],
+  "decisions": [
+    "Preserved12+8+10 with observed oral production. Supplied answerable institutional comparison within the French source, without unsupported Germany facts."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "2353c87f71cf334e764b091d4a3bab95808706c2579c640a2a456282dcc1e0ad",
+      "after_sha256": "6a440460fd9de69b66f0b7583a806673ff2476905b17201c43b84ba25c85a734",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit03_vie-democratique_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit03_vie-democratique_exam/index.md",
+      "before_sha256": "6a440460fd9de69b66f0b7583a806673ff2476905b17201c43b84ba25c85a734",
+      "after_sha256": "2e29c608766ede084327fe6e9c0c80bb856db0f4e34867387b78a31c4bf73183",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

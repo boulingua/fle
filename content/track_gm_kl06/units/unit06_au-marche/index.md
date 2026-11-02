@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 6
 slug: "au-marche"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - listening
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_au-marche.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_au-marche.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit06_au-marche.html"
+- "/track_gm_kl06/units/unit06_au-marche.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.conversation.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.correspondence.01
-    - A1.REC.reading-correspondence.02
-    - A1.LING.orthographic-control.01
+  - A1.INT.conversation.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.correspondence.01
+  - A1.REC.reading-correspondence.02
+  - A1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit06_au-marche_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_au-marche-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_au-marche-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -73,15 +105,13 @@ s'arrête devant l'étal de M. Roux, le marchand de fruits et légumes.
 - Qu'est-ce que Léa achète ?
 - Quelle phrase Léa utilise-t-elle pour demander le prix ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Allez-vous parfois au marché ? Avec qui ? Quel jour ?
 - Citez **trois fruits** et **trois légumes** que vous connaissez déjà.
 - Comment dit-on *Was kostet das?* en français ?
 - À votre avis, qu'est-ce qu'on peut acheter sur un marché français ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Les fruits | Les légumes | Au marché |
@@ -138,8 +168,7 @@ mauvais temps. Aujourd'hui, une pétition propose même d'inscrire les
 marchés de plein air au patrimoine culturel immatériel français.
 (Source paraphrasée : *Marché (lieu)*, Wikipédia, CC BY-SA ; voir Sources.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (d'après le texte B et la Situation de départ).**
 Réponds par une phrase courte.
 
@@ -178,6 +207,7 @@ colonne.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Avec son père. 2) Des fraises et de la salade. 3) À la
 boulangerie. 4) 4 euros 50.
 
@@ -187,9 +217,9 @@ boulangerie. 4) 4 euros 50.
 **Ex. 3.** 1) de la · 2) du · 3) des · 4) de l'.
 
 **Ex. 4.** 1) voudrais · 2) avec · 3) fait · 4) Ça.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (en binôme, ~2 min) — « À l'étal ».**
 
 L'élève A est client·e, l'élève B est marchand·e. A salue, demande
@@ -206,41 +236,17 @@ et demande le prix. B répond, donne le prix total et salue. Puis
 | Question sur le prix (*combien ça coûte / ça fait combien*) | ☐ |
 | Prononciation compréhensible, dialogue fluide | ☐ |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je connais au moins huit fruits et légumes en français.
 - [ ] J'utilise *je voudrais · combien ça coûte · s'il vous plaît*.
 - [ ] Je choisis le bon article partitif (*du, de la, de l', des*).
 - [ ] Je peux jouer un achat simulé au marché.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit06_au-marche_exam" >}}).
 
-**Tâche 1 — Compréhension orale / Hörverstehen (10 P.).**
-L'enseignant·e lit deux fois un court dialogue au marché. Réponds à cinq
-questions (produit acheté, quantité, prix, etc.).
-
-**Tâche 2 — Vocabulaire (10 P.).**
-Traduis huit fruits et légumes (allemand → français) avec le bon article.
-
-**Tâche 3 — Expression orale — interaction / Sprechen (10 P.).**
-Achat simulé en binôme : demander trois produits avec une quantité,
-demander le prix, rester poli·e.
-
-**Barème :** Tâche 1 : 10 P. · Tâche 2 : 10 P. · Tâche 3 : 10 P. ·
-**Total : 30 points.**
-
-| Note | Points |
-|-----------|-----------|
-| sehr gut  | 30–27 |
-| gut       | 26–23 |
-| befriedigend | 22–18 |
-| ausreichend  | 17–13 |
-| mangelhaft   | 12–7 |
-| ungenügend   | 6–0 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

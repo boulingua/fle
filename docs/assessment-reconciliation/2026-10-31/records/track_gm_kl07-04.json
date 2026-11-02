@@ -1,0 +1,55 @@
+{
+  "unit": "content/track_gm_kl07/units/unit04_les-repas/index.md",
+  "exam": "content/track_gm_kl07/units/unit04_les-repas_exam/index.md",
+  "before_unit_sha256": "ed7568482bac2a33a20874066bd810472c6018b2be5021ee08bcd7c7efc1ac99",
+  "after_unit_sha256": "b74b8134d6aab8a599bbe9cc79f1b5d39cf06a77e7187cb119951728ee18df06",
+  "before_exam_sha256": "08b5d176b352cb44e0fe3bd9bb03677e47b2d88bb7772a84f069fc48eec105b1",
+  "after_exam_sha256": "94f0b0e8e06724490223ad445c7b0337e091d07ee802932d4678f6ebedc79d8d",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "speaking"
+  ],
+  "decisions": [
+    "Absentmenu/cafédialogue replaced with actualCamillebreakfast; preserved primary liveoral café task and clarified8items10score."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "bf557955f45c87c06fbe75b24a7d5bd7a5ee1221aea32d17bb51e4d186e4239b",
+      "after_sha256": "b74b8134d6aab8a599bbe9cc79f1b5d39cf06a77e7187cb119951728ee18df06",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit04_les-repas/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "006c96edc4552a742daa8d1f72ec3b20c3c6b33a88a58b1335babae74d8cf0b5",
+      "after_sha256": "22d7b0fd3092636f8bb199178d8eb8bb341f4dee3525953e88b773f8d09d04fa",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Explicitly request the two justifications already included in the rubric.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit04_les-repas_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "22d7b0fd3092636f8bb199178d8eb8bb341f4dee3525953e88b773f8d09d04fa",
+      "after_sha256": "8d2ba4b0694cfbaa6246a11780002e01f00f1ec6aff5e5708596d72a2569ee1b",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit04_les-repas_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl07/units/unit04_les-repas_exam/index.md",
+      "before_sha256": "8d2ba4b0694cfbaa6246a11780002e01f00f1ec6aff5e5708596d72a2569ee1b",
+      "after_sha256": "94f0b0e8e06724490223ad445c7b0337e091d07ee802932d4678f6ebedc79d8d",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

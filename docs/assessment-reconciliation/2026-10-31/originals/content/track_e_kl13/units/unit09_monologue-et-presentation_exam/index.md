@@ -1,0 +1,96 @@
+---
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 9"
+subtitle: "Monologue : présenter un dossier · classe 13 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 9
+slug: "monologue-et-presentation-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-13
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.amplifying-a-dense-text.02
+    - B2.MED.analysis-and-criticism-of-creative-texts.03
+    - B2.PLUR.building-on-plurilingual-repertoire.03
+    - B2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le dossier *Annie Ernaux* (Unité 9, texte C). Répondez :
+
+1. Quelle est la thèse défendue ?
+2. Quels 5 livres d'Ernaux sont cités ?
+3. Que dit Ernaux du « travail d'archéologie » ?
+4. Quel manifeste a-t-elle signé en 1971 ?
+5. Qui sont ses héritières en littérature ?
+
+### Tâche 2 — Modes de présentation (8 points)
+
+Reliez chaque mode à sa caractéristique :
+
+- chronologique · thématique · comparatif · problématique
+ · biographique · à clé · synthétique · critique
+
+(Caractéristiques : biographie ordonnée · 3 thèmes · 2
+auteur·e·s · question/réponse · vie éclaire l'œuvre · clé
+spécifique · synthèse globale · regard critique.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») dossier (12 points)
+
+Rédigez **votre dossier** (~600 mots) sur un·e auteur·e :
+plan I-II-III + thèse personnelle + 6 références + 5
+citations + 1 ouverture.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Modes | 8 |
+| Tâche 3 — Dossier | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Ernaux a politisé l'autobiographie. 2) *Les
+Armoires vides*, *La Place*, *La Honte*, *Les Années*,
+*Mémoire de fille* (ou *L'Événement*). 3) *« Je ne fais pas
+oeuvre, je fais un travail d'archéologie sur moi. »* 4)
+Manifeste des 343 (IVG). 5) Édouard Louis, Lola Lafon,
+Leïla Slimani.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 600 mots ·
+plan I-II-III · thèse · 6 réf. · 5 citations · 1 ouverture.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 9*

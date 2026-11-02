@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 12
 slug: "bilan-final-abitur"
 bildungsplan:
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.4 Expression orale en continu (monologue)"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale en continu (monologue)"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-final-abitur.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-final-abitur.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit12_bilan-final-abitur.html"
+- "/track_e_kl13/units/unit12_bilan-final-abitur.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.compensating.02
-    - B2.PROD.monitoring-and-repair.01
-    - B2.MED.overall-mediation.02
-    - B2.MED.relaying-specific-information.05
-    - B2.INT.formal-discussion.01
+  - B2.PROD.compensating.02
+  - B2.PROD.monitoring-and-repair.01
+  - B2.MED.overall-mediation.02
+  - B2.MED.relaying-specific-information.05
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit12_bilan-final-abitur_exam
+  format: existing-assessment
+  duration_minutes: 60
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-final-abitur-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit12_bilan-final-abitur-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,8 +98,7 @@ M. Rivière sourit. *« C'est justement le rôle d'un bilan : transformer cette 
 - Quels sont vos **deux points forts** en français aujourd'hui ?
 - De quoi avez-vous encore **besoin** avant l'épreuve : de vocabulaire, de méthode, ou de confiance ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant d'entrer dans le contenu, mobilisez ce que vous savez déjà.
 
 - Faites, en 60 secondes, la liste de **tout ce que vous savez faire** en français (lire, écrire, parler, comprendre, argumenter, médier…).
@@ -75,8 +106,7 @@ Avant d'entrer dans le contenu, mobilisez ce que vous savez déjà.
 - Comparez avec un·e voisin·e : sur quel point pourriez-vous **vous entraider** cette semaine ?
 - Formulez à voix haute **une phrase de confiance** commençant par *« Je suis capable de… »*.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du bilan et de l'examen
 
 | Français | Allemand | Exemple |
@@ -121,8 +151,7 @@ Un bon bilan s'organise. Les connecteurs guident le lecteur ou l'auditeur :
 
 Le **Cadre européen commun de référence pour les langues (CECRL)** a été élaboré par le **Conseil de l'Europe** et publié en 2001. Il propose une échelle commune de **six niveaux** — A1 et A2 (utilisateur élémentaire), B1 et B2 (utilisateur indépendant), C1 et C2 (utilisateur expérimenté) — afin de décrire ce qu'un apprenant **sait faire** dans une langue, plutôt que ce qu'il ignore. Le Cadre décrit des activités langagières (comprendre, parler en continu, prendre part à une conversation, écrire) et encourage le **plurilinguisme**. En fin de scolarité, de nombreux élèves de section renforcée visent le niveau **B2**, parfois C1. Situer votre bilan sur cette échelle vous aide à formuler un objectif concret et positif. *(Paraphrasé d'après « Cadre européen commun de référence pour les langues », Wikipédia, CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Vocabulaire (relier).** Associez chaque terme à sa définition.
 
 1. une lacune — a) ce que l'on maîtrise déjà
@@ -155,6 +184,7 @@ Le **Cadre européen commun de référence pour les langues (CECRL)** a été é
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1-b · 2-c · 3-a · 4-d.
 
 **Exercice 2.** 1) cependant · 2) par exemple · 3) de plus · 4) En somme.
@@ -162,9 +192,9 @@ Le **Cadre européen commun de référence pour les langues (CECRL)** a été é
 **Exercice 3 (propositions).** 1) « Je maîtrise de mieux en mieux les accords, il me reste à automatiser. » 2) « Je suis capable de me faire comprendre clairement à l'oral. » 3) « J'ai révisé l'essentiel et je sais où porter mes derniers efforts. »
 
 **Exercice 4.** Réponse libre. Critères de réussite : les cinq étapes du plan sont présentes, au moins trois connecteurs sont employés, le ton reste positif et concret.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche au choix (Niveau E).**
 
 **Option orale (expression en continu, ~2-3 min).** Enregistrez ou présentez à la classe votre **bilan personnel** en français. Suivez le plan de l'exercice 4, mais développez : illustrez chaque compétence par un exemple concret vécu en cours.
@@ -181,8 +211,7 @@ Le **Cadre européen commun de référence pour les langues (CECRL)** a été é
 À l'oral, on ajoute la **fluidité** et la **prononciation** ; à l'écrit, la **relecture** (absence de fautes évitables).
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce qui est vrai pour vous aujourd'hui.
 
 - [ ] Je sais **nommer mes points forts** en français avec des exemples.
@@ -194,30 +223,11 @@ Cochez ce qui est vrai pour vous aujourd'hui.
 
 *Une case non cochée n'est pas un échec : c'est votre prochaine (et dernière) micro-révision.*
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve blanche — Bilan (Niveau E, 13e).** Compétences visées : **expression écrite** et **expression orale en continu (monologue)**.
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit12_bilan-final-abitur_exam" >}}).
 
-**Partie A — Expression écrite (18 points).**
-Rédigez un **bilan structuré** de votre parcours en français (250-300 mots) organisé en trois parties : (1) mes acquis, (2) mes points à consolider, (3) mon projet avec le français après l'école. Employez au moins **cinq connecteurs logiques** différents.
-
-**Partie B — Expression orale en continu (12 points).**
-Présentez, sans notes rédigées, un **monologue de 2 minutes** répondant à la question : *« Qu'est-ce que le français m'a apporté ? »* Structure attendue : introduction, deux idées illustrées, conclusion.
-
-**Barème (30 points au total).**
-
-| Critère | Points |
-|-----------------------------------------------|:------:|
-| Écrit — structure en trois parties | 4 |
-| Écrit — correction de la langue | 6 |
-| Écrit — connecteurs et cohérence | 4 |
-| Écrit — richesse et pertinence du contenu | 4 |
-| Oral — structure et clarté du propos | 4 |
-| Oral — correction et richesse de la langue | 4 |
-| Oral — fluidité et prononciation | 4 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Minutage (45 min).** Activer 5' · Apporter 12' · S'entraîner 14' · Produire 10' · Réfléchir 2' · Consignes de révision et clôture 2'.
 

@@ -1,0 +1,90 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 7"
+subtitle: "Le temps et l'heure · classe 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 7
+slug: "le-temps-et-l-heure-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.notes-messages-and-forms.01
+    - A1.INT.information-exchange.07
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.REC.reading-for-orientation.04
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la météo de la semaine (Unité 7, texte D). Répondez :
+
+1. Quelle est la température lundi ?
+2. Combien de jours pleut-il ?
+3. Quel jour fait-il le plus chaud ?
+4. Quel jour est parfait pour le ski ? Pourquoi ?
+5. Quels jours fait-il moins de 0 °C ?
+
+### Tâche 2 — Date / mois (8 points)
+
+Écrivez en lettres :
+
+1. 1/1 · 2. 14/7 · 3. 25/12 · 4. 8/3 · 5. 31/10 · 6. 5/5 ·
+7. 6/6 · 8. 11/11.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre météo de la semaine** en **70 mots** : 7 jours
++ température + soleil/pluie/vent + 1 vêtement adapté.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Date / mois | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) -2 °C. 2) 2 jours (mardi + vendredi après-midi).
+3) Jeudi (7 °C). 4) Dimanche, ciel bleu et 3 °C. 5) Lundi
+(-2 °C) et samedi (-5 °C).
+
+**Tâche 2.** 1) 1ᵉʳ janvier · 2) 14 juillet · 3) 25 décembre ·
+4) 8 mars · 5) 31 octobre · 6) 5 mai · 7) 6 juin · 8) 11
+novembre.
+
+**Tâche 3.** Réponses libres. Critères : 70 mots · 7 jours ·
+température · vêtement.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 7*

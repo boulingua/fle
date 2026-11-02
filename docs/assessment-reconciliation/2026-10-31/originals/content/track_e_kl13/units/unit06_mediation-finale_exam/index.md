@@ -1,0 +1,108 @@
+---
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 6"
+subtitle: "Médiation FR↔DE (finale) · classe 13 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 6
+slug: "mediation-finale-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-13
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.overall-oral-production.01
+    - B2.PROD.sustained-monologue-putting-a-case.01
+    - B2.INT.formal-discussion.01
+    - B2.MED.amplifying-a-dense-text.02
+    - B2.MED.analysis-and-criticism-of-creative-texts.03
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Verstehen (8 points)
+
+Lisez la médiation DE (Unité 6, texte C). Répondez :
+
+1. Quel jour Anouk a-t-elle gagné ?
+2. Quelle est la dotation du prix ?
+3. Quels 4 auteurs cite-t-elle ?
+4. Quelle est la phrase finale de Marie-Christine
+ Saragosse ?
+
+### Tâche 2 — Faux amis franco-allemands (8 points)
+
+Donnez la **bonne traduction** :
+
+1. *peut-être* → ___ (allemand)
+2. *réunion* → ___
+3. *débat* → ___
+4. *éventuellement* (en français) → ___ (allemand,
+ attention faux ami !)
+
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») finale (14 points)
+
+Médiez ce texte français en allemand (~350 mots) :
+
+> *Selon l'OIF, en 2024, la francophonie compte 88 États et
+> 321 millions de locuteurs sur 5 continents. En Afrique,
+> où le français progresse, on prévoit 600 millions de
+> locuteurs en 2050. Tahar Ben Jelloun, écrivain marocain,
+> rappelle : « La langue française m'a adopté, et elle
+> me permet de parler aux Français de leur histoire. » La
+> francophonie est ainsi un patrimoine partagé, plus
+> qu'un héritage.*
+
+## Notation
+
+| Tâche | Points |
+|--------------------------|--------|
+| Verstehen | 8 |
+| Faux amis | 8 |
+| médiation linguistique | 14 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 9 mai 2029 (Europatag). 2) 5 000 €. 3)
+Camus, Senghor, Ben Jelloun, Despentes. 4) *« Diese neue
+Generation erfindet die Frankophonie neu. »*
+
+**Tâche 2.** 1) *vielleicht* · 2) *Sitzung* · 3)
+*Debatte* · 4) *gegebenenfalls* (le piège : « eventuell »
+ne signifie *pas* éventuellement en français).
+
+**Tâche 3.** Modèle : *Laut der OIF zählt die Frankophonie
+2024 88 Staaten und 321 Millionen Sprecher·innen auf 5
+Kontinenten. In Afrika, wo Französisch zunimmt, werden für
+2050 600 Millionen Sprecher·innen prognostiziert. Tahar
+Ben Jelloun, marokkanischer Schriftsteller, erinnert: « Die
+französische Langue hat mich adoptiert, und sie erlaubt
+mir, mit den Franzosen über ihre Geschichte zu sprechen. »
+Die Frankophonie ist somit ein **geteiltes Erbe**, mehr als
+eine **Hinterlassenschaft**.* (~280 mots).
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 6*

@@ -1,0 +1,130 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 1"
+subtitle: "Correspondance avec Montréal · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 1
+slug: "correspondance-avec-montreal-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.note-taking.01
+    - A2.INT.asking-for-clarification.02
+    - A2.INT.conversation.10
+    - A2.LING.general-linguistic-range.02
+    - A2.LING.phonological-control.04
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 8
+
+{{< callout type="warning" >}}
+Format devoir surveillé (« Klassenarbeit ») (niveau M), durée ~45 min. Texte
+stimulus original ; aucun extrait de manuel ou d'épreuve publié
+n'a été reproduit.
+{{< /callout >}}
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le courriel d'Inès Tremblay, élève à Montréal.
+
+> Salut Léa, je m'appelle Inès Tremblay. J'ai 14 ans. Je suis en
+> 2e secondaire à l'école polyvalente Saint-Henri à Montréal.
+>
+> Ma semaine est *chargée* : maths le matin, sciences humaines
+> le midi, et l'après-midi, j'ai un cours optionnel de
+> *parascolaire* — pour moi, c'est l'improvisation théâtrale. On
+> fait des matchs d'impro entre écoles.
+>
+> Le soir, je rentre à la maison en métro et je fais mes
+> devoirs. Mon père est *déménageur*, ma mère est infirmière à
+> l'hôpital Sainte-Justine. Mon petit frère, Olivier, a 8 ans et
+> joue au hockey.
+>
+> Le week-end, j'aime aller au mont Royal — c'est une colline au
+> milieu de la ville. Il y a de la neige six mois par an.
+
+Décidez : **vrai (V)** ou **faux (F)** ? Justifiez par une
+citation courte du texte.
+
+| | Affirmation | V | F | Citation |
+|---|------------------------------------------------------------------|:-:|:-:|----------|
+| 1 | Inès habite dans une grande ville canadienne. | ☐ | ☐ | |
+| 2 | Inès joue au hockey comme son frère. | ☐ | ☐ | |
+| 3 | Sa mère travaille dans un hôpital pour enfants. | ☐ | ☐ | |
+| 4 | Inès aime l'improvisation théâtrale. | ☐ | ☐ | |
+| 5 | Au Québec, certains mots ont un sens différent qu'en France. | ☐ | ☐ | |
+
+### Tâche 2 — médiation linguistique (« Sprachmittlung ») (5 points)
+
+Vous écrivez une note rapide en allemand pour votre mère, qui
+ne lit pas le français. Résumez en **3 phrases** ce qu'Inès
+raconte de sa semaine.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (15 points)
+
+Vous êtes Léa. Répondez à Inès dans un courriel d'environ **80
+mots**. Mentionnez :
+
+- votre **âge** et votre **ville**,
+- **deux activités** de votre semaine (par exemple lundi et
+ mercredi),
+- **une question** à Inès sur le Québec.
+
+## Notation indicative (Niveau M)
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — médiation linguistique | 5 |
+| Tâche 3 — Expression écrite | 15 |
+| **Total** | **30** |
+
+**barème de notes (« Notenschlüssel ») typique** :
+
+- 1 (très bien) ≥ 27 P.
+- 2 (gut) ≥ 23 P.
+- 3 (befriedigend) ≥ 18 P.
+- 4 (ausreichend) ≥ 14 P.
+- 5 (mangelhaft) ≥ 8 P.
+- 6 (ungenügend) < 8 P.
+
+## Solutions (extrait)
+
+**Tâche 1.** 1) V (« Montréal »). 2) F (« Mon petit frère …
+joue au hockey », pas Inès). 3) V (« hôpital Sainte-Justine »
+= hôpital pour enfants à Montréal). 4) V. 5) V (le contexte
+ajoute *écœurante = géniale*).
+
+**Tâche 2 (modèle).** *Inès geht in die 2. Sekundarstufe in
+Montréal. Sie hat morgens Mathe und macht nachmittags Theater-
+Improvisation. Abends fährt sie mit der U-Bahn nach Hause.*
+
+**Tâche 3.** Voir modèle dans l'Unité 1, section 4 « Produire ».
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 1*

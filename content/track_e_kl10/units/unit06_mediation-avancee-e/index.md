@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 6
 slug: "mediation-avancee-e"
 bildungsplan:
-  - "3.1.3.6 Médiation linguistique"
+- "3.1.3.6 Médiation linguistique"
 skills_focus:
 - mediation
 presentation:
@@ -18,22 +18,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_mediation-avancee-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_mediation-avancee-e.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit06_mediation-avancee-e.html"
+- "/track_e_kl10/units/unit06_mediation-avancee-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.MED.adapting-language.02
-    - B1.MED.analysis-and-criticism-of-creative-texts.01
-    - B1.INT.formal-discussion.01
-    - B1.PLUR.plurilingual-comprehension.02
-    - B1.PRAG.thematic-development.03
+  - B1.MED.adapting-language.02
+  - B1.MED.analysis-and-criticism-of-creative-texts.01
+  - B1.INT.formal-discussion.01
+  - B1.PLUR.plurilingual-comprehension.02
+  - B1.PRAG.thematic-development.03
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit06_mediation-avancee-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_mediation-avancee-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_mediation-avancee-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -64,15 +96,13 @@ Anouk fait un stage à l'Institut français. Sa tutrice, Mme Lambert, lui confie
 - Pour qui Anouk écrit-elle ? Pourquoi le destinataire change-t-il tout ?
 - Selon vous, est-il plus difficile de médier de l'allemand vers le français, ou l'inverse ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà expliqué à quelqu'un le contenu d'un texte rédigé dans une autre langue ? Dans quelle situation ?
 - Que faut-il **garder** et que peut-on **laisser de côté** quand on médie un éditorial ?
 - Quand on médie, faut-il donner **son propre avis** ? Justifiez.
 - Citez trois verbes qui permettent d'introduire l'opinion d'un auteur.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la médiation avancée
 
 | Français | Allemand | Emploi |
@@ -89,7 +119,7 @@ Anouk fait un stage à l'Institut français. Sa tutrice, Mme Lambert, lui confie
 {{< callout type="info" >}}
 **Point de langue — introduire le discours d'autrui.** En médiation, on relie souvent le verbe introducteur à une complétive : *L'auteur soutient **que** la ville doit changer.* Attention aux constructions :
 
-- **plaider pour** + *nom* : *Il plaide **pour** une action rapide.* (jamais *plaider que…*)
+- **plaider pour** + *nom* : *Il plaide **pour** une action rapide.* (construction travaillée ici; d'autres constructions existent selon le sens)
 - **mettre en garde contre** + *nom* : *Elle met en garde **contre** l'inaction.*
 - Pour rapporter au passé, pensez à la **concordance des temps** : *Il a affirmé que la situation **s'aggravait**.*
 {{< /callout >}}
@@ -113,10 +143,9 @@ Anouk fait un stage à l'Institut français. Sa tutrice, Mme Lambert, lui confie
 
 ### D. Note culturelle — la médiation, une compétence reconnue
 
-La *médiation* (en allemand, *Sprachmittlung*) n'est pas seulement un exercice scolaire. Le **Cadre européen commun de référence pour les langues (CECRL)**, publié par le Conseil de l'Europe en 2001 puis complété par un volume complémentaire en 2018, la place aux côtés de la réception, de la production et de l'interaction : médier, c'est aider deux personnes qui ne partagent pas la même langue à se comprendre. Dans l'espace franco-allemand, cette compétence a une longue histoire : l'**Office franco-allemand pour la jeunesse (OFAJ)**, créé par le traité de l'Élysée du 22 janvier 1963, a depuis permis à plusieurs millions de jeunes des deux pays de se rencontrer et de passer d'une langue à l'autre. *(Faits paraphrasés d'après Wikipédia, CC BY-SA — voir Sources.)*
+La *médiation* (en allemand, *Sprachmittlung*) n'est pas seulement un exercice scolaire. Le **Cadre européen commun de référence pour les langues (CECRL)**, publié par le Conseil de l'Europe en 2001 puis complété par un volume complémentaire en 2018, la place aux côtés de la réception, de la production et de l'interaction : médier, c'est aider deux personnes qui ne partagent pas la même langue à se comprendre. Dans l'espace franco-allemand, cette compétence a une longue histoire : l'**Office franco-allemand pour la jeunesse (OFAJ)**, créé par l'accord du 5 juillet 1963, dans le prolongement du traité de l'Élysée du 22 janvier 1963, a depuis permis à plusieurs millions de jeunes des deux pays de se rencontrer et de passer d'une langue à l'autre. *(Faits paraphrasés d'après Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C, version française).**
 
 1. Quel problème l'éditorial dénonce-t-il ?
@@ -145,6 +174,7 @@ d) *Der Text relativiert diese Forderung am Ende.* → …
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) La saturation des centres-villes par la circulation automobile. 2) Réduire la voiture au profit des transports en commun, du vélo et de la marche. 3) Les villes qui ont fait ce choix sont plus agréables à vivre. 4) Contre l'attentisme (le fait d'hésiter et de perdre du temps).
 
 **Ex. 2.** a) *L'auteur constate / soutient que la circulation est trop dense.* · b) *Elle met en garde contre les conséquences de l'inaction.* · c) *Il réclame / plaide pour davantage de place pour les vélos.* · d) *Le texte nuance cette exigence à la fin.*
@@ -152,9 +182,9 @@ d) *Der Text relativiert diese Forderung am Ende.* → …
 **Ex. 3.** Modèle : *L'auteur soutient les habitants et réclame une action municipale immédiate.* (11 mots)
 
 **Ex. 4.** Modèle : *Der Autor plädiert dafür, in der Stadt zu Fuß zu gehen und Rad zu fahren.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche de médiation avancée (Niveau E, environ 200 mots).**
 
 Vous recevez un **éditorial allemand** sur la mobilité urbaine (environ 250 mots, fourni par l'enseignant·e). Rédigez sa **médiation en français** à destination d'un lecteur français qui ne lit pas l'allemand. Votre texte doit :
@@ -174,8 +204,7 @@ Vous recevez un **éditorial allemand** sur la mobilité urbaine (environ 250 mo
 | Nuances | Les modalisateurs de l'original sont conservés. |
 | Autonomie | Reformulation personnelle, pas de traduction mot à mot. |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je repère la thèse d'un texte argumentatif allemand.
 - [ ] J'emploie six stratégies de médiation.
 - [ ] Je choisis des verbes introducteurs précis et variés.
@@ -183,29 +212,25 @@ Vous recevez un **éditorial allemand** sur la mobilité urbaine (environ 250 mo
 - [ ] Je peux médier brièvement dans l'autre sens (FR → DE).
 - [ ] Je relis ma médiation à l'aide des critères d'évaluation.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Médiation linguistique (Niveau E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit06_mediation-avancee-e_exam" >}}).
 
-**Tâche 1 — Compréhension orientée (8 pts).** À partir d'un éditorial allemand fourni, répondez en français à quatre questions (thèse, deux arguments, mise en garde).
-
-**Tâche 2 — Verbes de médiation (8 pts).** Reformulez quatre énoncés allemands à l'aide de verbes introducteurs français précis et variés.
-
-**Tâche 3 — Médiation linguistique (« Sprachmittlung ») (14 pts).** Rédigez la médiation française d'un éditorial allemand (environ 200 mots) en appliquant les six stratégies, avec une citation directe.
-
-**Barème détaillé (Tâche 3) :** fidélité 5 · langue 4 · compression 3 · citation et nuances 2.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 - **Minutage (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Bilan 2'.
 - **Organisation :** l'Apporter se mène en classe entière (tableau des verbes projeté) ; le S'entraîner en binômes ; la production en travail individuel.
 - **Différenciation :** distribuer un éditorial de 180 mots (G), 250 mots (M) ou 300 mots (E) pour la production ; proposer une banque de verbes introducteurs aux groupes G/M.
-- **Écueils fréquents :** *plaider pour* + nom (jamais *plaider que…*) ; guillemets français *« … »* avec espace insécable ; concordance des temps au discours rapporté ; ne pas ajouter d'opinion personnelle.
+- **Écueils fréquents :** *plaider pour* + nom (construction travaillée ici; d'autres constructions existent selon le sens) ; guillemets français *« … »* avec espace insécable ; concordance des temps au discours rapporté ; ne pas ajouter d'opinion personnelle.
 - **Prolongement :** faire réaliser une médiation inversée FR → DE à partir d'un éditorial du *Monde*, pour un public germanophone.
 
 ## Sources
+
+- Académie française — Plaider (vérifié le 31 octobre 2026), <https://www.dictionnaire-academie.fr/article/A9P2666>.
+
+
+- OFAJ — Accord de création de 1963 (vérification éditoriale du 31 octobre 2026), <https://www.ofaj.org/ressources/accord-1963>.
+
 
 - *Cadre européen commun de référence pour les langues* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Cadre_européen_commun_de_référence_pour_les_langues — licence CC BY-SA 4.0.
 - *Office franco-allemand pour la jeunesse* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Office_franco-allemand_pour_la_jeunesse — licence CC BY-SA 4.0.

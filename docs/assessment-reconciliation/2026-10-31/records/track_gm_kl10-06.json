@@ -1,0 +1,47 @@
+{
+  "unit": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+  "exam": "content/track_gm_kl10/units/unit06_mediation-avancee_exam/index.md",
+  "before_unit_sha256": "cef6ca0d13830a8c8263d0d03bc0527665541568633bb91ea65c3d5b4cb5a4aa",
+  "after_unit_sha256": "2685c2c8d9b16b5363e3c642176815e07bc74d6a0266d049e946b45e0d8d3665",
+  "before_exam_sha256": "c2d725e1d9ef7d0300390bbf48182c7c81709fcb001280a4ed51ae828cd13999",
+  "after_exam_sha256": "c2fdb494c0d1286e7523a68bc7cdceb704b195be5fef479cda5bc5aada1b1d78",
+  "source_sections": [
+    "C"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "mediation"
+  ],
+  "decisions": [
+    "Actual Repair-Café mediation restored with18+7+5. Removed unsupported medical instructions and absent medical email; divergent reverse-direction bag message retained in the complete archive."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "c0607cd2493a0ada39dd9442fc4e58ff3c06bd80636a7928bebf5c0d7ed39969",
+      "after_sha256": "2685c2c8d9b16b5363e3c642176815e07bc74d6a0266d049e946b45e0d8d3665",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit06_mediation-avancee/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "d4e961d4737340d7b9acbcf8341ee89f1b26ab7ee5559a86461633f04815c5f3",
+      "after_sha256": "816507e16cc080802fff284365d8a2abbea143ee9ea271ec2baef36ec6210aae",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit06_mediation-avancee_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit06_mediation-avancee_exam/index.md",
+      "before_sha256": "816507e16cc080802fff284365d8a2abbea143ee9ea271ec2baef36ec6210aae",
+      "after_sha256": "c2fdb494c0d1286e7523a68bc7cdceb704b195be5fef479cda5bc5aada1b1d78",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

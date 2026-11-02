@@ -1,0 +1,67 @@
+{
+  "unit": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+  "exam": "content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md",
+  "before_unit_sha256": "1342e7f82bde9f9f15d86801ab7a6ecdbcd925b24e33afe55cf9e7bbab5b1259",
+  "after_unit_sha256": "6c6b8b3cf1f46c53d12464d3e5486c7f18f9eceec34d8b8b7d13f05dbd79f4ff",
+  "before_exam_sha256": "3169d8488238226efe63667d52cec813307559af290b595445dcc0cff040749d",
+  "after_exam_sha256": "327092031d9c03f0af1a9c33d08b266d986045b73aa0fbab1ac77fdad0de113f",
+  "source_sections": [
+    "Input D, carte postale"
+  ],
+  "supplied_source_sha256": "c589ffb399d8378445f7470f50673449ff58046aac73498217634f21f98ac690",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "task_points": [
+    10,
+    10,
+    10
+  ],
+  "decisions": [
+    "Retain eight useful geography items, add two taught en/à items so total is10without hidden weighting.",
+    "Copy actual postcardD and retain allfive source-aligned questions."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "56085f403d6691458a4ff32fd154be6a731f465b1959bddbc42d32b101f5e179",
+      "after_sha256": "6c6b8b3cf1f46c53d12464d3e5486c7f18f9eceec34d8b8b7d13f05dbd79f4ff",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit11_voyage-en-france/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3d6fd27ca29117fb2ce9bd67c0969d330ffa05f093a30e10150deb30faac9391",
+      "after_sha256": "066638ac74a62ceaaa800f2b534a47ae00c1727a8863fc91e46cf8b1283c4abd",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "066638ac74a62ceaaa800f2b534a47ae00c1727a8863fc91e46cf8b1283c4abd",
+      "after_sha256": "136abd9a79fc652d22b9cb080f466c0cd8c7d9f250f629da8e2c3a4806c07a5f",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "136abd9a79fc652d22b9cb080f466c0cd8c7d9f250f629da8e2c3a4806c07a5f",
+      "after_sha256": "61ddd9c2fa06362373c860be693ab47a01c9ab265bf4c96853dcda6f5cd81c86",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md",
+      "before_sha256": "61ddd9c2fa06362373c860be693ab47a01c9ab265bf4c96853dcda6f5cd81c86",
+      "after_sha256": "327092031d9c03f0af1a9c33d08b266d986045b73aa0fbab1ac77fdad0de113f",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

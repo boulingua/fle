@@ -1,0 +1,88 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 10"
+subtitle: "Cinéma québécois · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 10
+slug: "cinema-quebecois-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.asking-for-clarification.02
+    - A2.INT.conversation.10
+    - A2.LING.general-linguistic-range.02
+    - A2.LING.phonological-control.04
+    - A2.MED.analysis-and-criticism-of-creative-texts.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 8
+
+### Tâche 1 — Hörsehverstehen (12 points)
+
+Vous écoutez deux fois le mini-dialogue mère-fille à Montréal
+(Unité 10, texte B). Répondez :
+
+1. Où se passe la scène ?
+2. Que fait la fille en ce moment ?
+3. Que dit la mère sur le souper ?
+4. Citez **deux québécismes** + leur équivalent français
+ hexagonal.
+
+### Tâche 2 — Expression orale (« Sprechen ») monologue (12 points)
+
+Présentez en 2 minutes **un film** que vous avez aimé. Inclure :
+titre + réalisateur·rice + année · histoire en 2-3 phrases · une
+scène marquante · raison de le voir.
+
+Critères : Contenu 5 P. · Langue 4 P. · Aussprache 3 P.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (6 points)
+
+Écrivez **3-4 phrases** sur :
+
+> *« Pourquoi je voudrais (ou non) voir un film québécois. »*
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörsehverstehen | 12 |
+| Tâche 2 — Expression orale monologue| 12 |
+| Tâche 3 — Expression écrite | 6 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Dans la cuisine, à Montréal. 2) Pas encore fait
+ses devoirs ; trouve l'algèbre ennuyeuse. 3) La mère ne l'attend
+pas pour souper et précise qu'il y a des restes au frigo. 4)
+Modèles : *plate* = ennuyeux ; *pis* = et puis ; *souper* =
+dîner ; *restant* = restes.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 10*

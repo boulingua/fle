@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 8
 slug: "un-allemand-a-paris"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.2 Compétence interculturelle communicative"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
+- "3.1.2 Compétence interculturelle communicative"
 skills_focus:
 - reading
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_un-allemand-a-paris.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_un-allemand-a-paris.png"
 tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
+- filiere-gm
+- classe-8
+- niveau-m
 aliases:
-  - "/track_gm_kl08/units/unit08_un-allemand-a-paris.html"
+- "/track_gm_kl08/units/unit08_un-allemand-a-paris.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.03
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.reading-for-information-and-argument.08
-    - A2.PROD.overall-oral-production.01
-    - A2.INT.correspondence.04
+  - A2.PROD.creative-writing.03
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.reading-for-information-and-argument.08
+  - A2.PROD.overall-oral-production.01
+  - A2.INT.correspondence.04
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl08/units/unit08_un-allemand-a-paris_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_un-allemand-a-paris-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit08_un-allemand-a-paris-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,8 +103,7 @@ Jonas, 14 ans, vient de Karlsruhe. Il passe une semaine à Paris chez la famille
 - Avez-vous déjà vécu un petit malentendu de langue ou d'habitude en voyage ?
 - Selon vous, comment Jonas doit-il réagir : s'excuser, rire, se taire ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quels clichés connaissez-vous sur les Allemand·e·s vu·e·s par les Français ? Et sur les Français vu·e·s par les Allemand·e·s ?
 - Notez **trois habitudes du quotidien** (repas, transports, salutations) qui pourraient différer entre les deux pays.
 - Que signifie « se sentir étranger·ère » ? Donnez un exemple concret.
@@ -81,8 +112,7 @@ Jonas, 14 ans, vient de Karlsruhe. Il passe une semaine à Paris chez la famille
 **Astuce.** Un malentendu culturel n'est pas une erreur : c'est une occasion d'apprendre. Une phrase utile : *« Ah, chez nous, c'est différent ! »*
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Le journal de Jonas (texte original, ~150 mots)
 
 > **Lundi soir, chambre chez Camille.**
@@ -127,8 +157,7 @@ En France, le nom de cette viennoiserie change selon les régions. La forme *pai
 
 *(Faits paraphrasés d'après l'article « Pain au chocolat », Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (lecture du journal, A).** Vrai ou faux ? Justifiez.
 
 1. Jonas était à Paris en hiver.
@@ -152,6 +181,7 @@ En France, le nom de cette viennoiserie change selon les régions. La forme *pai
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Faux — il faisait presque 30 °C, donc c'était l'été. 2) Vrai — 20 h 30 à Paris contre 18 h 30 chez lui. 3) Faux — surtout dans le Sud-Ouest. 4) Faux — elle avait habité à Karlsruhe, mais elle parle allemand parce qu'elle y a vécu dix ans (pas Jonas).
 
 **Ex. 2.** 1) j'ai pris (action ponctuelle). 2) il faisait (description). 3) a répondu (événement soudain). 4) mangeait (habitude).
@@ -166,9 +196,9 @@ En France, le nom de cette viennoiserie change selon les régions. La forme *pai
 **M** — les quatre exercices ; phrases complètes attendues à l'Ex. 4.
 **E** — ajoutez : reformulez l'Ex. 3 en **une phrase complète** par différence, avec un connecteur (*par contre, tandis que, alors que*).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (M, ~70 mots).**
 
 Imaginez trois jours dans une ville française (Lyon, Lille, Marseille, Strasbourg…). Écrivez **trois mini-extraits de journal** (2–3 phrases chacun) :
@@ -196,54 +226,18 @@ Utilisez le **passé composé** et l'**imparfait**.
 | Interculturel | au moins une différence claire est nommée |
 | Langue | ~70 mots, phrases compréhensibles, ponctuation |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends un journal de voyage simple.
 - [ ] Je distingue le passé composé et l'imparfait.
 - [ ] Je nomme trois différences culturelles entre l'Allemagne et la France.
 - [ ] Je réagis poliment à un petit malentendu culturel.
 - [ ] J'écris trois mini-extraits de journal d'environ 70 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M · compréhension écrite + expression écrite**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl08/units/unit08_un-allemand-a-paris_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 P.)**
-
-Relisez les trois extraits du journal de Jonas (partie A). Répondez en phrases courtes.
-
-1. Pourquoi Jonas est-il surpris par le métro de Paris ? (2 P.)
-2. Quelle différence remarque-t-il pour l'heure du dîner ? (2 P.)
-3. Quel malentendu a-t-il à la boulangerie ? (3 P.)
-4. Pourquoi la dame âgée connaît-elle l'allemand ? (3 P.)
-
-**Tâche 2 — Grammaire : passé composé / imparfait (10 P.)**
-
-Complétez avec le temps correct.
-
-1. Lundi soir, je *(arriver)* chez Camille à 20 h.
-2. Dans la rame, il *(faire)* très chaud.
-3. Soudain, la dame *(parler)* en allemand.
-4. Chaque matin, Camille *(manger)* une viennoiserie.
-5. Vendredi, je *(visiter)* Notre-Dame.
-
-**Tâche 3 — Expression écrite (10 P.)**
-
-Écrivez **trois mini-extraits de journal** (~70 mots) sur trois jours dans une ville française. Employez le passé composé **et** l'imparfait, et nommez **une différence culturelle**.
-
-**Total : 30 P.**
-
-**Barème**
-
-| Points | Note (repère) |
-|--------|---------------|
-| 27–30  | très bien     |
-| 22–26  | bien          |
-| 17–21  | satisfaisant  |
-| 12–16  | suffisant     |
-| < 12   | à retravailler |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

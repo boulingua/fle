@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 12
 slug: "bilan-portrait-d-une-annee"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.2 Compétence interculturelle communicative"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.3.5 Expression écrite"
+- "3.1.2 Compétence interculturelle communicative"
 skills_focus:
 - speaking_production
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-annee.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-annee.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee.html"
+- "/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.compensating.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.conversation.01
-    - A1.INT.correspondence.01
+  - A1.PROD.compensating.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.conversation.01
+  - A1.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-portrait-d-une-annee-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit12_bilan-portrait-d-une-annee-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,8 +101,7 @@ Fin juin, dernière semaine avant les vacances. Dans la salle 214, Mme Renault d
 2. Karim compare le début et la fin de l'année : quels mots l'indiquent ?
 3. Et vous, qu'est-ce que vous savez faire aujourd'hui que vous ne saviez pas en septembre ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez d'abord à l'oral, à deux, puis notez trois idées.
 
 - Quelle **unité** avez-vous préférée cette année ? Pourquoi ?
@@ -79,8 +110,7 @@ Répondez d'abord à l'oral, à deux, puis notez trois idées.
 
 **Nuage de mots express (2 min).** Au tableau, chaque élève écrit **un mot** qui résume son année de français (un thème, une leçon, un pays, une émotion). On lit le nuage ensemble.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — parler de son année
 
 | Français | Catégorie | Exemple |
@@ -124,8 +154,7 @@ Répondez d'abord à l'oral, à deux, puis notez trois idées.
 
 En Europe, on décrit souvent son niveau dans une langue avec le **CECRL**, le *Cadre européen commun de référence pour les langues*, publié par le Conseil de l'Europe en 2001. Il définit six niveaux, de A1 (débutant) à C2 (maîtrise), et propose une **grille pour l'auto-évaluation** : l'apprenant coche ce qu'il « peut faire » (comprendre, parler, écrire). En fin de 7e, un·e élève se situe généralement autour du niveau **A1**. Faire le bilan de son année, c'est un peu comme remplir cette grille : on regarde le chemin parcouru avec des phrases « Je peux… ». *(D'après Wikipédia, « Cadre européen commun de référence pour les langues », CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).** Répondez par une phrase complète.
 
 1. Combien de mots Léa connaissait-elle au début de l'année ?
@@ -160,6 +189,7 @@ En Europe, on décrit souvent son niveau dans une langue avec le **CECRL**, le *
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Au début, elle connaissait à peine cinquante mots. 2) Sa leçon préférée est le passé composé, parce qu'elle peut raconter son week-end et ses vacances. 3) Elle a découvert le Québec grâce à sa cousine Inès, qui habite à Montréal. 4) Sa difficulté, c'est encore la prononciation. 5) Elle va lire un petit roman en français et écrire à Inès chaque mois.
 
 **Ex. 2.** 1) passé composé · 2) futur proche · 3) présent · 4) passé composé · 5) futur proche.
@@ -167,9 +197,9 @@ En Europe, on décrit souvent son niveau dans une langue avec le **CECRL**, le *
 **Ex. 3.** 1) Au début · 2) Ensuite · 3) Maintenant · 4) L'an prochain.
 
 **Ex. 4.** 1) j'**ai appris** · 2) je **parle** · 3) je **vais continuer** · 4) Karim **est devenu** · 5) je **veux**.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche (au choix de l'enseignant·e ou des deux) :**
 
 **a) À l'écrit (M, ~100 mots) — Mon portrait de l'année.** Rédigez le bilan de votre année de 7e :
@@ -191,8 +221,7 @@ En Europe, on décrit souvent son niveau dans une langue avec le **CECRL**, le *
 - **Langue** : vocabulaire du bilan, phrases compréhensibles ; à l'oral, fluidité et prononciation. /2
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire (grille inspirée du CECRL).
 
 - [ ] Je peux raconter mon année en utilisant présent, passé composé **et** futur proche.
@@ -203,22 +232,11 @@ Cochez ce que vous savez faire (grille inspirée du CECRL).
 
 **Mon objectif pour la 8e :** ______________________________________
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen »), 8 P.**
-Lecture du portrait de Léa (texte C) : 4 questions à réponse courte (2 P. chacune).
-
-**Tâche 2 — Grammaire (« Grammatik »), 10 P.**
-Conjuguer 5 verbes aux trois temps selon le contexte (2 P. chacun : bon temps + forme correcte).
-
-**Tâche 3 — Expression écrite (« Schreiben »), 12 P.**
-Rédiger son propre portrait d'année (~100 mots) : contenu (4 étapes) /4, emploi des trois temps /4, connecteurs /2, richesse et correction de la langue /2.
-
-**Barème total : 30 P.** — Note : 28–30 = très bien · 24–27 = bien · 18–23 = satisfaisant · 12–17 = passable · < 12 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 5' (nuage de mots) · Apporter 12' (vocabulaire + point de langue + texte C + note culturelle) · S'entraîner 13' (Ex. 1–4, correction rapide) · Produire 12' (écrit ou oral) · Réfléchir 3' (grille + objectif).
 

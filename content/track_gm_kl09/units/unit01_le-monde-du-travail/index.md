@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 1
 slug: "le-monde-du-travail"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_le-monde-du-travail.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_le-monde-du-travail.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit01_le-monde-du-travail.html"
+- "/track_gm_kl09/units/unit01_le-monde-du-travail.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.PROD.overall-oral-production.01
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.MED.adapting-language.01
+  - A2.PROD.creative-writing.04
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.PROD.overall-oral-production.01
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit01_le-monde-du-travail_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_le-monde-du-travail-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit01_le-monde-du-travail-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,8 +103,7 @@ curriculum:
 3. Pourquoi a-t-elle « un peu peur » ?
 4. Et vous ? Feriez-vous ce stage ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, à deux, puis notez trois idées au tableau.
 
 - Quel métier rêvez-vous d'exercer ? Pourquoi ?
@@ -80,8 +111,7 @@ Répondez oralement, à deux, puis notez trois idées au tableau.
 - Quel secteur d'activité vous intéresse le plus : la santé, l'artisanat, le commerce, l'enseignement, les technologies ?
 - Selon vous, à quoi sert un **stage** pour un·e élève ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand |
@@ -109,7 +139,7 @@ Répondez oralement, à deux, puis notez trois idées au tableau.
 **Le passé composé** raconte une action terminée dans le passé. On le forme avec **avoir** ou **être** (au présent) + le **participe passé**.
 
 - **Avec *avoir*** (la plupart des verbes) : *j'**ai pesé** la farine · elle **a appris** beaucoup.*
-- **Avec *être*** (verbes de mouvement : *arriver, partir, entrer, sortir, aller, venir…* et les verbes pronominaux) : *je **suis arrivée** à 5 h · ils **sont partis**.*
+- **Avec *être*** : certains verbes intransitifs (*arriver, partir, aller, venir…*) et les verbes pronominaux. Exemples : *je **suis arrivée** à 5 h · ils **sont partis**.* Attention : *j'ai marché* et *j'ai sorti les poubelles* prennent *avoir*. L'accord des pronominaux suit des règles particulières.
 
 Avec **être**, le participe passé **s'accorde** avec le sujet :
 *Léa est arriv**ée*** · *les stagiaires sont arriv**és***.
@@ -127,8 +157,7 @@ Avec **être**, le participe passé **s'accorde** avec le sujet :
 
 En France, tous les élèves de **classe de 3e** (l'équivalent de la 9e en Allemagne) font une **séquence d'observation en milieu professionnel**, un stage obligatoire de **cinq jours**. Il se déroule dans une entreprise, une association ou une administration et sert à découvrir le monde du travail et à préciser son projet d'orientation. Une **convention de stage**, signée par l'entreprise, l'établissement scolaire et l'élève, est obligatoire : elle garantit notamment l'assurance et la couverture en cas d'accident (source : *Stage en France*, Wikipédia, CC BY-SA ; éduscol, Ministère de l'Éducation nationale).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 
 1. À quelle heure Léa est-elle arrivée à la boulangerie ?
@@ -158,6 +187,7 @@ a) infirmier · b) ingénieur · c) coiffeuse · d) professeur · e) informatici
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Léa est arrivée à 5 h.
 2. Son tuteur est Hugo ; il l'a accueillie avec un café.
@@ -174,9 +204,9 @@ a) infirmier · b) ingénieur · c) coiffeuse · d) professeur · e) informatici
 5. Les clients **sont arrivés** à 8 h.
 
 **Ex. 4.** Réponses libres. Vérifier : lieu, tuteur·tutrice, horaires, deux tâches au passé composé, une chose apprise, un adjectif de ressenti.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (M, ~120 mots) — *Mon rapport de Praktikum*.**
 
 Rédigez **votre rapport de stage** en **10 à 12 phrases**. Votre texte doit contenir :
@@ -197,8 +227,7 @@ Rédigez **votre rapport de stage** en **10 à 12 phrases**. Votre texte doit co
 | Vocabulaire du travail | métiers, secteurs, tâches employés à bon escient |
 | Correction de la langue | orthographe et ponctuation soignées |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez déjà faire.
 
 - [ ] Je nomme 10 métiers et 5 secteurs d'activité.
@@ -207,26 +236,11 @@ Cochez ce que vous savez déjà faire.
 - [ ] Je rédige un rapport structuré avec des connecteurs.
 - [ ] J'exprime un ressenti simple sur mon expérience.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit01_le-monde-du-travail_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 P.).** Lecture de la journée de Léa (texte C) : 5 questions à réponse complète.
-
-**Tâche 2 — Vocabulaire (8 P.).** Traduire 8 métiers ou associer 8 métiers à leur secteur.
-
-**Tâche 3 — Expression écrite / « Schreiben » (12 P.).** Rédiger son propre rapport de Praktikum (~120 mots) selon les critères de la partie 4.
-
-**Barème — Total : 30 P.**
-
-| Tâche | Points | Réussite (M) |
-|-------|:------:|:------------:|
-| 1 — Compréhension écrite | 10 | à partir de 6 P. |
-| 2 — Vocabulaire | 8 | à partir de 5 P. |
-| 3 — Expression écrite | 12 | à partir de 7 P. |
-| **Total** | **30** | **18 / 30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :** Activer 5' · Apporter 12' · S'entraîner 13' · Produire 12' · Réfléchir 3'.
 
@@ -243,6 +257,9 @@ Cochez ce que vous savez déjà faire.
 - accord du participe passé avec **être** (*Léa est arrivée*).
 
 ## Sources
+
+- OQLF — Emploi des auxiliaires avoir et être (vérification éditoriale du 31 octobre 2026), <https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre>.
+
 
 - *Stage en France* — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Stage_en_France>, licence CC BY-SA 4.0.
 - *Séquence d'observation en milieu professionnel pour les élèves de 3e* — éduscol, Ministère de l'Éducation nationale (2024), <https://eduscol.education.fr/623/sequence-d-observation-en-milieu-professionnel-pour-les-eleves-de-3e>, Licence Ouverte / Etalab.

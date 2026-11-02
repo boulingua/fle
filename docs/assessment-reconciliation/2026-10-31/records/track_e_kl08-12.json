@@ -1,0 +1,80 @@
+{
+  "unit": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+  "exam": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md",
+  "before_unit_sha256": "b9a35ac90e2c2a6a8922729781d24577147a1898dcab59c7c4eff0ac3d58fadf",
+  "after_unit_sha256": "bdaa9af48c9796e9b885e36cdf9a6923d390ba3e8718035cc56b15b10ff527df",
+  "before_exam_sha256": "15f938c1ffc7fe527256f0f2fb3fc3a7456918e746ae8a4461e89c5419874933",
+  "after_exam_sha256": "4f2a2f0acaab97f8c6a64d625332f93b8fb9b0aa2f48c7f18669639dd0e92a92",
+  "source_sections": "C",
+  "supplied_source_sha256": "4e02a2c489b2fdf70808af91899e2c4cd1436a82195f35707da3604d919a0c03",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unsupported carbonade/March2027/VieilleBourse itinerary. Retained six tense items with transparent6+2 scoring and portrait writing; preserved oral profile."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "8a9406428f5a5462c5f5584d2582c792bdbf07d22f70560269c06c237ff20fbb",
+      "after_sha256": "bdaa9af48c9796e9b885e36cdf9a6923d390ba3e8718035cc56b15b10ff527df",
+      "reasons": [
+        "Align exam total with restored primary outcomes.",
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "5bf867527d0f47ccae12e2876e809ed2f1ccd6fcc822a94278b3525cdee808e0",
+      "after_sha256": "8d388cb301467d7cea03348ca8e9fb54e063d44effb59bb626c5745381b597f7",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "8d388cb301467d7cea03348ca8e9fb54e063d44effb59bb626c5745381b597f7",
+      "after_sha256": "c8a100f67def72e69fb79152fe81320c403c496fb9de8d63249e11ac07950ba2",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md",
+      "before_sha256": "c8a100f67def72e69fb79152fe81320c403c496fb9de8d63249e11ac07950ba2",
+      "after_sha256": "139e938bc9db32d2cf1c8671eb207ac4b65d916cd631ce1321d88dcaf7e0698f",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md",
+      "before_sha256": "139e938bc9db32d2cf1c8671eb207ac4b65d916cd631ce1321d88dcaf7e0698f",
+      "after_sha256": "4f2a2f0acaab97f8c6a64d625332f93b8fb9b0aa2f48c7f18669639dd0e92a92",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl08",
+      "unit": 12,
+      "total": 30,
+      "graded_tasks": [
+        {
+          "title": "Portrait écrit d’une rencontre",
+          "points": 18
+        },
+        {
+          "title": "Portrait oral",
+          "points": 12
+        }
+      ]
+    }
+  ]
+}

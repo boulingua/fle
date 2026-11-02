@@ -23,20 +23,24 @@ curriculum:
     - A1.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+## Modalités
 
-### Tâche 1 — Hörverstehen (10 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Écoutez le dialogue dominical (Unité 4, texte C). Répondez :
+### Tâche 1 — Compréhension orale (10 points)
 
-1. Qui met la table ?
-2. Quels sont les 3 plats prévus ?
-3. Que veut Anouk comme boisson ? Pourquoi pas de vin ?
-4. Que veut Lena ?
-5. Quel est le légume qui accompagne le gigot ?
+La personne enseignante lit le support deux fois, sans le distribuer pendant l’écoute. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
+
+1. Qui met la table et qui aide à la cuisine ?
+2. Quelles sont les trois étapes du repas ?
+3. Quelles deux boissons sont proposées ?
+4. Que peut manger Anouk à la place de la viande ? Donnez deux aliments.
+5. Quel dessert est prévu ? Qui ne mange pas de viande ?
 
 ### Tâche 2 — Partitifs (8 points)
 
@@ -51,34 +55,17 @@ Complétez avec *du, de la, de l', des, de*.
 7. On ne boit pas ___ soda chez nous.
 8. Maman prépare ___ tarte.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Barème :** 8 réponses ×1 point. Pour la phrase 8, on attend « de la » dans cet exercice de partitifs; « une tarte » ou « la tarte » sont grammaticales avec un autre sens et seront discutées, sans les confondre avec une part de tarte.
 
-Décrivez **votre menu dominical** en **80 mots** : entrée +
-plat + dessert + boisson. **3 partitifs** + **1 négation**.
+### Tâche 3 — Production orale observée (12 points)
 
-## Notation
+En binôme, jouez une scène à table d'au moins huit répliques : proposez un menu, exprimez vos goûts, demandez ceux de votre partenaire et réagissez à ses réponses. Utilisez les partitifs et une négation. Le menu peut être fictif.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Hörverstehen | 10 |
-| Tâche 2 — Partitifs | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+Une fiche de mots-clés est admise; une réponse écrite seule ne remplace pas la prestation observée.
 
-## Solutions
+**Barème :** Contenu 4; emploi des partitifs et de la négation 4; interaction, questions et réponses 4.
 
-**Tâche 1.** 1) Anouk. 2) Quiche, gigot d'agneau, tarte aux
-pommes. 3) De l'eau (pas de vin). 4) Du soda + de la quiche.
-5) Des haricots verts.
-
-**Tâche 2.** 1) du · 2) de la · 3) des · 4) de · 5) de l' ·
-6) du · 7) de · 8) une / la (selon contexte ; *de la* si
-partitif).
-
-**Tâche 3.** Réponses libres. Critères : 80 mots · 4 plats · 3
-partitifs · 1 négation.
-
----
+## Barème total
 
 {{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
 **Total.** 30 points
@@ -93,4 +80,56 @@ partitifs · 1 négation.
 | 0–8 | 6 |
 {{< /callout >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 4*
+*Ce barème reprend les seuils du sujet antérieur; il est proposé pour ces tâches seulement, sans valeur de certification GER ou de règlement scolaire.*
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Tâche 1.**
+
+1. Anouk (1), Théo (1).
+2. Entrée puis plat avec accompagnement puis dessert : 2 points si les trois étapes sont dans l’ordre, 1 pour deux étapes correctes.
+3. Jus de pomme, eau (1+1).
+4. Quiche, légumes (1+1).
+5. Tarte aux pommes (1); Anouk (1).
+
+**Tâche 2.** 1) du · 2) de la · 3) des · 4) de · 5) de l' ·
+6) du · 7) de · 8) une / la (selon contexte ; *de la* si
+partitif).
+
+**Tâche 3.** Appliquer les trois critères à l'échange réel. Plusieurs menus et goûts sont recevables. Un menu écrit seul ne démontre pas l'interaction.
+
+{{< /details >}}
+
+{{< details title="Texte à lire — réservé à la personne enseignante" role="key" >}}
+
+Lire deux fois ce support. Ne pas lire les titres de section ni les remarques éditoriales comme des paroles du personnage.
+
+### C. Texte original — À table le dimanche
+
+> Chez les Lemaire, le repas du dimanche est un moment important. Vers midi, chacun a une tâche : Anouk met la table, Théo aide à la cuisine, et les parents préparent le plat principal. On sert d'abord une entrée, puis le plat avec un accompagnement, et enfin un dessert.
+>
+> — Qu'est-ce qu'on boit ? demande Théo.
+> — Il y a **du** jus de pomme et **de l'**eau, répond sa mère.
+> — Et pour Anouk, qui ne mange pas **de** viande, il reste **de la** quiche et **des** légumes.
+> — Parfait, dit Anouk. Et comme dessert ?
+> — **De la** tarte aux pommes, faite maison !
+
+{{< /details >}}
+
+## Prolongement facultatif, hors barème
+
+À deux, jouez ensuite la scène « à table » de l’unité : proposez un menu, exprimez vos goûts, posez des questions, au moins 8 répliques. Observez le contenu, les partitifs et la participation de chaque personne. Ce prolongement oral ne modifie pas la note du sujet écrit.
+
+## Sources
+
+- « Repas gastronomique des Français » — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Repas_gastronomique_des_Fran%C3%A7ais>, licence CC BY-SA 4.0.
+- « Article partitif » — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Article_partitif>, licence CC BY-SA 4.0.
+- « Gastronomic meal of the French » — UNESCO, Patrimoine culturel immatériel (2010), <https://ich.unesco.org/fr/RL/le-repas-gastronomique-des-francais-00437>, page de référence (texte paraphrasé, non reproduit).
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

@@ -23,73 +23,87 @@ curriculum:
     - B2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 20
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez le portfolio d'Anouk (Unité 12, texte C). Répondez :
+## Consignes
 
-1. Quels 4 auteurs/autrices sont cités ?
-2. Quelle citation ouvre le bilan ?
-3. Quelles notes mocks Anouk a-t-elle obtenues ?
-4. Quels sont les 3 priorités 13e ?
-5. Quel projet post-épreuve finale ?
+Le bilan peut décrire un parcours fictif. Aucune note réelle, expérience sensible ni niveau certifié n’est exigé. Pour un niveau CECRL, préciser qu’il s’agit d’une autoévaluation et donner un exemple de tâche.
 
-### Tâche 2 — Références (8 points)
+**Tâche A — Expression écrite (12 points).** Rédigez un bilan personnel de 12e
+(~300 mots) selon la consigne de la partie « Produire ».
 
-Reliez chaque autrice/auteur à son œuvre + année :
+**Tâche B — Expression orale en continu (8 points).** Présentez un
+**monologue de 3 minutes** exposant vos trois priorités pour l'année terminale
+et votre objectif de niveau (repère CECRL). Préparation : 10 minutes, notes
+autorisées mais lecture interdite.
 
-- Camus · Condé · Modiano · Despentes · Senghor · Slimani
- · Ernaux · Ben Jelloun
+**Barème (20 points) :**
 
-(Œuvres : *L'Étranger* (1942) · *Moi, Tituba sorcière*
-(1986) · *Dora Bruder* (1997) · *King Kong théorie* (2006)
-· *Chants d'ombre* (1945) · *Chanson douce* (2016) · *Les
-Années* (2008) · *Le racisme expliqué …* (1998).)
+| Critère | Points |
+|-------------------------------------------------|:------:|
+| Écrit — structure et pertinence du contenu | 5 |
+| Écrit — correction grammaticale (temps verbaux) | 4 |
+| Écrit — richesse lexicale | 3 |
+| Oral — cohérence et organisation du propos | 4 |
+| Oral — fluidité et prononciation | 2 |
+| Oral — emploi du futur simple et du vocabulaire | 2 |
+| **Total** | **20** |
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+## Appui de lecture, hors barème
 
-Rédigez **votre portfolio épreuve finale (option d'approfondissement)** (~350 mots) :
-4 acquis + 3 priorités 13e + 4 références + 1 objectif
-chiffré.
+### C. Texte — Le bilan de Léa (texte original, ~220 mots)
 
-## Notation
+> **Mon bilan de 12e — Léa**
+>
+> Cette année a été dense et exigeante. J'ai lu davantage qu'avant : un roman
+> complet, des extraits de la littérature francophone, des articles de presse.
+> J'ai découvert des autrices et des auteurs qui interrogent l'identité, la
+> mémoire et l'engagement, et j'ai appris à replacer un texte dans son époque.
+>
+> Côté méthode, j'ai progressé en compréhension : je repère plus vite l'idée
+> principale et le point de vue de l'auteur. À l'écrit, en revanche, mes textes
+> restent parfois désordonnés. Je sais quoi dire, mais je ne hiérarchise pas
+> toujours mes idées. C'est ma lacune la plus nette.
+>
+> À l'oral, je me sens à l'aise : je parle spontanément et je réagis vite. Mais
+> en continu, sur un sujet préparé, je manque encore de plan.
+>
+> Pour l'année terminale, je me fixe trois priorités. D'abord, structurer chaque
+> texte avec une introduction, deux parties et une conclusion. Ensuite,
+> enrichir mon vocabulaire d'analyse. Enfin, m'entraîner à parler seule trois
+> minutes sans notes.
+>
+> Mon objectif est simple : transformer mes idées en textes clairs et en
+> présentations solides. L'échéance approche, mais je me sens prête à franchir
+> ce cap.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Références | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+## Indications de correction
 
-## Solutions
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 1.** 1) Camus, Condé, Modiano, Despentes. 2)
-*« Aujourd'hui, maman est morte. »* 3) 13/15 et 14/15.
-4) Mock final · épreuve communicative (« Kommunikationsprüfung ») · synthèse 4 ans. 5)
-Erasmus à Bordeaux chez Mollat, rentrée 2030.
+Écrit : deux acquis illustrés, une difficulté, trois priorités et objectif observable; appliquer contenu/structure 5, grammaire 4, lexique 3. Oral : trois priorités expliquées, cohérence 4, fluidité/intelligibilité 2, futur/lexique 2. Observer le monologue effectivement prononcé; ne pas noter l’oral à partir du texte écrit.
 
-**Tâche 2.** Réponses libres (associations canoniques).
+Le modèle Léa ne nomme ni auteurs, notesmocks, citation Camus ou projet Erasmus Bordeaux. Il distingue aisance en interaction et manque de plan en continu. Les niveaux annoncés sont des objectifs, pas des résultats déduits du nombre d’années.
 
-**Tâche 3.** Réponses libres. Critères : 350 mots · 4
-acquis · 3 priorités · 4 références · 1 objectif chiffré.
+{{< /details >}}
 
----
+## Sources
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+- *Cadre européen commun de référence pour les langues* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Cadre_européen_commun_de_référence_pour_les_langues — licence CC BY-SA 4.0.
+- *Organisation internationale de la Francophonie* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie — licence CC BY-SA 4.0.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Provenance
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 12*
+**Total : 20 points.**
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

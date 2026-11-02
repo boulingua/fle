@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 9
 slug: "fete-d-anniversaire"
 bildungsplan:
-  - "3.1.3.3 Expression orale — dialogisches Sprechen"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.3 Expression orale — dialogisches Sprechen"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_interaction
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_fete-d-anniversaire.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_fete-d-anniversaire.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit09_fete-d-anniversaire.html"
+- "/track_gm_kl07/units/unit09_fete-d-anniversaire.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.goal-oriented-co-operation.01
-    - A1.PROD.compensating.01
-    - A1.INT.information-exchange.01
-    - A1.PROD.creative-writing.01
-    - A1.LING.phonological-control.01
+  - A1.INT.goal-oriented-co-operation.01
+  - A1.PROD.compensating.01
+  - A1.INT.information-exchange.01
+  - A1.PROD.creative-writing.01
+  - A1.LING.phonological-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit09_fete-d-anniversaire_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_fete-d-anniversaire-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit09_fete-d-anniversaire-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,8 +98,7 @@ Léa téléphone à son amie Inès pour préparer sa fête.
 - Que vont manger les invité·es ?
 - Qu'est-ce qu'Inès propose d'apporter ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, en classe entière ou à deux.
 
 - Quand est votre anniversaire ? (*Mon anniversaire est le…*)
@@ -80,8 +111,7 @@ Répondez oralement, en classe entière ou à deux.
 Les mois ne prennent **pas** de majuscule en français : *janvier, février, mars…*
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — la fête
 
 | Français | Allemand |
@@ -144,8 +174,7 @@ Attention : après *aller*, on met toujours l'**infinitif**, jamais le participe
 
 En France, quand on apporte le gâteau, les invité·es chantent *« Joyeux anniversaire »* ; ensuite, la personne fêtée fait un vœu en silence, puis souffle ses bougies — dont le nombre correspond à son âge. La tradition raconte que, si toutes les bougies s'éteignent d'un seul souffle, le vœu se réalisera. Fait surprenant : dans les pays catholiques comme la France, l'anniversaire individuel n'est vraiment devenu populaire que dans les années 1950-1960 ; auparavant, on fêtait plutôt le saint du jour. La mélodie de *« Joyeux anniversaire »* vient de la chanson anglaise *« Happy Birthday to You »*, entrée dans le domaine public dans l'Union européenne le 1ᵉʳ janvier 2017 (paraphrasé d'après Wikipédia, CC BY-SA — voir Sources).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte B et C).** Répondez par une phrase.
 
 1. Quel âge Léa va-t-elle avoir ?
@@ -182,6 +211,7 @@ En France, quand on apporte le gâteau, les invité·es chantent *« Joyeux anni
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Elle va avoir 13 ans. 2) Samedi 15 mars, de 18 h à 22 h. 3) Avant le 12 mars. 4) Il va apporter de la musique (une playlist).
 
 **Ex. 2.** 1) vais faire · 2) vas venir · 3) allons danser · 4) vont apporter · 5) va souffler · 6) allez offrir.
@@ -189,9 +219,9 @@ En France, quand on apporte le gâteau, les invité·es chantent *« Joyeux anni
 **Ex. 3.** 1) Marie **ne va pas venir** à la fête. 2) Nous **n'allons pas inviter** Paul. 3) Je **ne vais pas manger** le gâteau.
 
 **Ex. 4.** Réponses possibles. (a) *Oui, avec plaisir ! Je vais apporter des boissons.* (b) *Merci beaucoup, mais je suis en vacances ce week-end. Ce sera pour une prochaine fois !*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, oral) :**
 
 À partir du carton d'invitation (texte B), jouez un **dialogue téléphonique** d'au moins **6 répliques** : l'un·e appelle l'autre pour **accepter ou refuser** l'invitation et pour **proposer un cadeau ou une aide**. Utilisez au moins **trois verbes au futur proche**.
@@ -206,8 +236,7 @@ En France, quand on apporte le gâteau, les invité·es chantent *« Joyeux anni
 | Interaction | je réagis à mon/ma partenaire (relance, question). |
 | Prononciation | je suis compréhensible et j'ai un débit régulier. |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire.
 
 - [ ] Je sais rédiger une invitation avec la date, l'heure et le lieu.
@@ -216,24 +245,11 @@ Cochez ce que vous savez faire.
 - [ ] Je sais accepter ou refuser une invitation poliment.
 - [ ] Je connais au moins huit mots du vocabulaire de la fête.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit09_fete-d-anniversaire_exam" >}}).
 
-**Tâche 1 — Grammaire (10 P.)**
-Conjuguez huit phrases au futur proche (dont deux à la forme négative).
-
-**Tâche 2 — Compréhension écrite (8 P.)**
-Lisez un carton d'invitation et un court dialogue, puis répondez à quatre questions.
-
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)**
-Rédigez votre propre **carton d'invitation** à une fête d'anniversaire (environ 80 mots). Indiquez la date, l'heure, le lieu, le programme et employez au moins trois verbes au futur proche.
-
-**Total : 30 P.**
-
-Barème indicatif de la Tâche 3 : contenu (date/heure/lieu/programme) 4 P. · futur proche 4 P. · vocabulaire de la fête 2 P. · orthographe et lisibilité 2 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :**
 - Activer — 4 min (questions orales, tour de classe)

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 4
 slug: "ma-journee-e"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production orale en continu"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — production orale en continu"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_ma-journee-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_ma-journee-e.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit04_ma-journee-e.html"
+- "/track_e_kl06/units/unit04_ma-journee-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.PROD.overall-oral-production.01
-    - A1.INT.information-exchange.02
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.conversation.01
+  - A1.PROD.creative-writing.01
+  - A1.PROD.overall-oral-production.01
+  - A1.INT.information-exchange.02
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit04_ma-journee-e_exam
+  format: written
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_ma-journee-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit04_ma-journee-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,8 +100,7 @@ curriculum:
 2. Qui prend un petit déjeuner ? Qui n'en prend pas ?
 3. Et vous : êtes-vous plutôt « Léa » ou plutôt « Karim » le matin ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, à deux, avec des phrases complètes.
 
 - À quelle heure vous levez-vous en semaine ?
@@ -80,8 +112,7 @@ Répondez oralement, à deux, avec des phrases complètes.
 **Astuce :** notez au tableau tous les verbes qui commencent par *se* ou *s'*. Ce sont des **verbes pronominaux** — le sujet fait l'action **sur lui-même**.
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — la journée
 
 | Français | Allemand | Exemple |
@@ -138,8 +169,7 @@ Répondez oralement, à deux, avec des phrases complètes.
 
 En France, la journée au collège comprend souvent une longue **pause méridienne** (la pause du milieu de journée), pendant laquelle beaucoup d'élèves déjeunent à la **cantine** scolaire. L'organisation de la semaine — le nombre de jours de classe et la place du mercredi — a fait l'objet de plusieurs réformes appelées « rythmes scolaires », car les horaires varient selon les établissements et les périodes. (Fait paraphrasé, non cité mot à mot, d'après l'article encyclopédique en source.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte D).** Répondez par une phrase complète.
 
 1. À quelle heure Anouk se lève-t-elle ?
@@ -170,6 +200,7 @@ En France, la journée au collège comprend souvent une longue **pause méridien
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Anouk se lève à sept heures.
 2. Elle mange du pain, du beurre et un jus d'orange.
@@ -184,9 +215,9 @@ En France, la journée au collège comprend souvent une longue **pause méridien
 
 **Ex. 4.** 2 — Je prends mon petit déjeuner · 1 — Je me lève · 5 — Je prends le bus · 4 — Je m'habille · 3 — Je me lave.
 (Ordre correct : 1. Je me lève · 2. Je me lave · 3. Je m'habille · 4. Je prends mon petit déjeuner · 5. Je prends le bus.)
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (production en continu, ~1 minute) :**
 
 Racontez **votre journée** à la classe, en huit phrases, dans l'ordre chronologique. Utilisez au moins **cinq verbes pronominaux**, **cinq heures** et **trois mots de liaison** (*d'abord, ensuite, puis, enfin*).
@@ -201,38 +232,18 @@ Racontez **votre journée** à la classe, en huit phrases, dans l'ordre chronolo
 | Mots de liaison | ≥ 3 |
 | Fluidité / prononciation | discours compréhensible, débit régulier |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais conjuguer cinq verbes pronominaux au présent.
 - [ ] Je sais dire et écrire l'heure.
 - [ ] Je peux raconter ma journée à l'oral en huit phrases.
 - [ ] J'utilise des mots de liaison pour organiser mon récit.
 - [ ] Je place le bon pronom réfléchi (*me, te, se…*) devant le verbe.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — production orale et écrite (« Klassenarbeit »)**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit04_ma-journee-e_exam" >}}).
 
-**Tâche 1 — Conjugaison (10 P.)** : conjuguez huit verbes pronominaux au présent (sujets variés).
-
-**Tâche 2 — L'heure (8 P.)** : écrivez huit horaires en toutes lettres.
-
-**Tâche 3 — Expression écrite (12 P.)** : rédigez un texte d'environ 80 mots qui décrit une journée type (≥ 5 verbes pronominaux, ≥ 5 heures, ≥ 3 mots de liaison).
-
-**Tâche 4 — Production orale (10 P.)** : présentez oralement votre journée (≈ 1 minute) devant l'enseignant·e ou en petit groupe.
-
-**Barème — Total : 40 P.**
-
-| Note | Points |
-|------|--------|
-| sehr gut | 40–36 |
-| gut | 35–31 |
-| befriedigend | 30–24 |
-| ausreichend | 23–18 |
-| mangelhaft | 17–9 |
-| ungenügend | 8–0 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Aperçu de la séance suivante 2'.
 

@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 9
 slug: "ma-chambre"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.7 Moyens linguistiques — lexique"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - speaking_production
 - writing
@@ -21,22 +21,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_ma-chambre.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_ma-chambre.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit09_ma-chambre.html"
+- "/track_gm_kl06/units/unit09_ma-chambre.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.conversation.01
-    - A1.INT.correspondence.01
+  - A1.PROD.creative-writing.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.conversation.01
+  - A1.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit09_ma-chambre_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_ma-chambre-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit09_ma-chambre-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,15 +99,13 @@ Théo habite à Strasbourg. Aujourd'hui, son amie Léa vient chez lui pour la pr
 - Où est le lit de Théo ?
 - Où dort le chat ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Combien de pièces y a-t-il chez toi (maison ou appartement) ?
 - Cite **3 meubles** que tu vois dans la salle de classe.
 - Où est ton cartable en ce moment : sur la table, sous la chaise, à côté de toi ?
 - En allemand, tu connais déjà *das Zimmer, das Bett, der Tisch*. Quels mots français ressemblent à l'anglais que tu apprends ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Les pièces (die Zimmer) | Les meubles et objets (die Möbel) |
@@ -126,8 +155,7 @@ En France, quand on cherche un appartement, on ne dit pas « un appartement de t
 
 *(D'après Wikipédia, « Appartement » et « Taille des logements en France », CC-BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension.** Relis le texte B (La chambre de Léa) et réponds :
 
 1. Comment est la chambre de Léa ?
@@ -158,6 +186,7 @@ a) la chambre · b) la cuisine · c) la salle de bains · d) le salon
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Elle est petite mais lumineuse. — 2) À côté de la fenêtre. — 3) Un ordinateur et une lampe. — 4) Dans l'armoire, entre la porte et le bureau. — 5) Sous le lit.
 
 **Ex. 2.** 1) sur — 2) sous — 3) à côté de — 4) entre … et — 5) dans.
@@ -173,9 +202,9 @@ a) la chambre · b) la cuisine · c) la salle de bains · d) le salon
 - **M :** exercices tels quels, 5 prépositions.
 - **E (approfondissement) :** ajoute *au-dessus de, en face de* et écris 2 phrases avec *entre … et …*.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (M, ~50-60 mots)**
 
 Décris **ta chambre** en 5 phrases minimum. Utilise :
@@ -198,31 +227,18 @@ Décris **ta chambre** en 5 phrases minimum. Utilise :
 | « il y a » utilisé 2 fois | ☐ |
 | Orthographe et articles (le/la/les) | ☐ |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer 6 pièces et 8 meubles.
 - [ ] Je peux utiliser 5 prépositions de lieu.
 - [ ] Je peux dire ce qu'il y a dans une pièce avec « il y a ».
 - [ ] Je peux décrire ma chambre en 5 phrases (à l'oral et à l'écrit).
 - [ ] Je fais attention à *à côté du / de la / des*.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit09_ma-chambre_exam" >}}).
 
-**Tâche 1 — Vocabulaire (10 P.)**
-Traduis en français : 5 pièces + 5 meubles. *(1 P. par mot juste, article correct compris.)*
-
-**Tâche 2 — Prépositions et « il y a » (10 P.)**
-Complète 6 phrases avec la bonne préposition et emploie correctement « il y a » dans 2 phrases.
-
-**Tâche 3 — Expression écrite / « Schreiben » (10 P.)**
-Décris ta chambre en 5-6 phrases (~50 mots), avec au moins 3 prépositions de lieu et 2 fois « il y a ».
-
-**Barème :** Tâche 1 = 10 P. · Tâche 2 = 10 P. · Tâche 3 = 10 P. → **Total : 30 points.**
-*(Répartition indicative de la Tâche 3 : contenu/pièces-meubles 4 P. · prépositions 3 P. · langue et orthographe 3 P.)*
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 14' · Produire 9' · Réfléchir 3' · Bilan/aperçu 3'.
 

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 12
 slug: "bilan-portrait-d-une-rencontre-e"
 bildungsplan:
-  - "3.1.3.4 Expression orale — monologisches Sprechen"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Sprechen"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,56 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e.html"
+- "/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.PROD.overall-oral-production.01
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.INT.conversation.08
-    - A2.INT.goal-oriented-co-operation.04
+  - A2.PROD.creative-writing.04
+  - A2.PROD.overall-oral-production.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.INT.conversation.08
+  - A2.INT.goal-oriented-co-operation.04
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - writing
+  - speaking_production
+worksheet_teacher:
+  file:
+    /fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,15 +102,13 @@ Fin juin, dernière semaine de cours. Mme Devos rend les dossiers de l'année.
 2. Cette personne est-elle réelle ou tirée d'un texte ?
 3. Quels trois moments raconteriez-vous : le passé, le présent, l'avenir ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelle unité de 8e avez-vous préférée cette année ?
 - Quel personnage ou quelle personne vous a le plus marqué·e ?
 - Qu'est-ce que vous savez faire **mieux** qu'en 7e (parler, écrire, comprendre) ?
 - Citez trois mots français appris cette année et que vous aimez bien.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du portrait
 
 | Français | Exemple | Allemand |
@@ -118,8 +150,7 @@ Fin juin, dernière semaine de cours. Mme Devos rend les dossiers de l'année.
 
 *(D'après l'article « Vieille Bourse » de Wikipédia en français, licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).** Répondez par une phrase complète.
 
 1. Comment Anouk a-t-elle rencontré Karim ?
@@ -147,6 +178,7 @@ e) Nous ______ (garder, futur simple) le contact.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Elle l'a rencontré **par lettre / par correspondance**. 2) Elle a découvert **sa famille et la cuisine du Nord**. 3) Ils ont **visité le collège et fait du vélo le long du Rhin**. 4) Elle **partira à Lille** et **goûtera les moules-frites** (et gardera le contact).
 
 **Ex. 2.** a) avait · b) ai rencontré · c) est venu · d) partirai · e) garderons.
@@ -154,9 +186,9 @@ e) Nous ______ (garder, futur simple) le contact.
 **Ex. 3.** **D'abord**, j'ai écrit une première lettre. **Ensuite**, nous avons échangé des photos. **Cependant**, il n'a pas répondu tout de suite. **Enfin**, nous sommes devenus de vrais amis.
 
 **Ex. 4.** Réponse libre. Exemple : *Ma voisine Lena **était** toujours souriante. L'an dernier, nous **avons** monté une pièce de théâtre ensemble. **Bientôt**, nous **jouerons** devant toute l'école.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche écrite (~150 mots, en 3 paragraphes).**
 
 Rédigez le **portrait d'une rencontre** de votre année de 8e (un correspondant, un personnage de texte, une personne réelle).
@@ -179,35 +211,18 @@ Employez **au moins six connecteurs** et terminez par **une phrase-bilan** (*« 
 | Richesse | vocabulaire du portrait, phrase-bilan finale |
 | Fluidité (oral) | débit régulier, sans lecture mot à mot |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] J'utilise le passé composé, l'imparfait et le futur simple ensemble.
 - [ ] J'enchaîne mes idées avec six connecteurs.
 - [ ] Je rédige un portrait d'environ 150 mots en trois paragraphes.
 - [ ] Je peux aussi présenter mon portrait **à l'oral**, en continu.
 - [ ] Je mesure mes **progrès** depuis la 7e.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam" >}}).
 
-**Tâche 1 — Expression écrite (18 P.).** Rédigez le portrait d'une rencontre de l'année (~150 mots, 3 paragraphes) : passé composé + imparfait, puis passé composé, puis futur simple. Au moins six connecteurs et une phrase-bilan.
-
-**Tâche 2 — Expression orale en continu (12 P.).** Présentez oralement, pendant 1 à 2 minutes, le portrait d'une personne rencontrée cette année, à partir de trois mots-clés.
-
-**Barème (30 points)**
-
-| Critère | Points |
-|---|---|
-| Écrit — respect de la consigne (3 paragraphes, ~150 mots) | 4 |
-| Écrit — temps verbaux (PC / imparfait / futur simple) | 6 |
-| Écrit — connecteurs et cohérence | 4 |
-| Écrit — richesse lexicale et phrase-bilan | 4 |
-| Oral — contenu et structure du monologue | 6 |
-| Oral — fluidité et prononciation | 6 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Activer 4' · Apporter 12' · S'entraîner 14' · Produire 12' · Réfléchir 3'.
 

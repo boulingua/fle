@@ -1,0 +1,2497 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
+      "before_sha256": "7bb2a4d443baf67441b713f8443d5590bf40e3def65c957d59fe8deb7329036b",
+      "after_sha256": "0306f52180e1fda97e563f1a8dfa854b220013f59e3f97f8792a2a5470f6427c"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
+      "before_sha256": "3289b8c5f1cb749161fdef700ace8168f0b2edec50d892d49d29234b07e2e1d1",
+      "after_sha256": "556efb82db003f28754cbf2690c6f5225c331c2ae2b57a2faba20d9b68438c51"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
+      "before_sha256": "ea0571df707733020ae3f1c34cda950ab99187a33fa26a4a937590341b379c73",
+      "after_sha256": "7b8a9bf8fc428199f1db142a17aa0f5694c1b9d1396ecde85d460540ee8ce504"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
+      "before_sha256": "58d1e0dc9a8c22945f30ff567883d2e7ebe3ec5934649eb5a1cd3f02c0dc8a73",
+      "after_sha256": "c5998ff3ee505434827fe3738498c32b840d19b785ff924db151b3d50f2dc660"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit05_gouts-et-couleurs/index.md",
+      "before_sha256": "a1dbe17883f27ee66273773366554dd2e4391754fb882ffe4d155cd5fd980097",
+      "after_sha256": "2778bf1b8ce82a9198fe556d339fa036dbb04f77c9119f4053061839025224eb"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit06_au-marche-e/index.md",
+      "before_sha256": "49e40e8a84eee7047f32e0427e9bc4efc0b4b0874488706bd731f70db1128cff",
+      "after_sha256": "4d2830b109ae7349c2e22e34635121214b193d4aa4ecf61a0551212de39b10f5"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e/index.md",
+      "before_sha256": "12db91e6edced119ea0c2a87b383b69e65fc8da852645571e154add09e3ba76e",
+      "after_sha256": "7045d974f21e8cb1bcc81ef8ab1b917f42c7b7208cbfc3636f17313ddfeb50ae"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
+      "before_sha256": "c0c0847f008f024da96c589cf570185c30558262147ee7ddbcc5b7f982eee715",
+      "after_sha256": "3d75bdcf40f649132e49f504981b84f923f1daee1a648740c43f519236cb210d"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit09_ma-chambre-e/index.md",
+      "before_sha256": "ed70fd68551d87a7e6aef32f8a3c609a52d3160b84838ddbe1d0a229b2aec2d9",
+      "after_sha256": "f3cd2382e5276f9219a4fd569fda2cfec42f99563d5ad2696fa77ebd42663ea8"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit10_mes-loisirs-e/index.md",
+      "before_sha256": "1e6ad10d1d642ff76f728350abff08bf8a7c68c6ff490a890c401ba85020ff9b",
+      "after_sha256": "e8d5c5d55ead15a7b710f6ca63d03ee39465a3e3eb5572565ae52e3382c83113"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit11_voyage-decouverte/index.md",
+      "before_sha256": "780c47c47d207f4ce17a40573a3827d0f96490ab5b09783208dd4202af46c8b6",
+      "after_sha256": "6b6f1ddefa5a8c4d16bdfb5da3c4691965f678d3f2dbc5dc2b8e1694d0961204"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
+      "before_sha256": "15cc8816b8a0a61daf7fb44093cb7561c331ae3fdda7552acb257aa26d0a933d",
+      "after_sha256": "b33914175fd2a0faa46181a538fbc09f0cfec9d20199410818e5680098414171"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+      "before_sha256": "715449ca45e75d71838ce1332ff4de9b8119a48c588e20f25191af4a9a9f3192",
+      "after_sha256": "be314bfd6c6bb8faf324fa1eccc88dac75890cdae6f33d20de68c664fe4c219c"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
+      "before_sha256": "cf5116528d8901683f6fac44f3a5ed8ad6b7fa9ace28e9e8e59c045b77469ff8",
+      "after_sha256": "cb9065287622c4b4cdc6eafb87c7c8216aa3a6d4959759442c4fa7dd1a16da09"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit03_mon-quartier-e/index.md",
+      "before_sha256": "d97d17161d9c97f857dd0a5ab9e14cb987b3e3182d257e81de7b09d6de2fae97",
+      "after_sha256": "07658220b229272371eacb197f367aaa6dfada3d524408743aa31b9e40280144"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
+      "before_sha256": "d67dbfc385062291e6755c3c26b6d7bf94a2d39319405c26485c670457d61a34",
+      "after_sha256": "1ac16e45e1986d026a3cecfbb57deeb0e87559422610e66523160796be9f1020"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
+      "before_sha256": "f2561aa730a25606cb2ed4e73aab03b851e1a13a46a167f2bdf30bed088b5f63",
+      "after_sha256": "6f36af54ad2687ffc029b5a8082b0cf1cbdfae993052c572166f15528844b53a"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
+      "before_sha256": "8404ba3ef44f815d51c5194eaba5e351ca3c9ef063d616dc6ad35ccb92316e3d",
+      "after_sha256": "8745cf6608b4657e6d80924bfcc07d8e80550feef7a9f23c52bb95a8558dcd29"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
+      "before_sha256": "10e7adc924b8cb66168f52aef9fc00de512fda13cddaed1441c7d2b5b1934117",
+      "after_sha256": "3e245b3cc8edb4500f6fffee3b829978c42bb645f44eb391eca55b24b1496107"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit08_le-quebec-e/index.md",
+      "before_sha256": "48e88564666cd546ab2dd5cbb468d3318a17b20d51df1299e13aae6e25b17abc",
+      "after_sha256": "0c49a4c38e770fa4a7faf2f1013088c8e6d8aaacbf81c58fcc7182dc681d3545"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
+      "before_sha256": "b1ec6d57b1b5d02cd2597ce85ad2a0a25717ba91cf35ed42020874a7574999aa",
+      "after_sha256": "7e96c74522d7e254fb777bb0157366720bd984f81d9bea15fcabe26ce9603976"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+      "before_sha256": "7d405dc5bcb7e4fb8dc516c9dd34113dca14f08844548067f57785a484f71a7e",
+      "after_sha256": "26bfa19c99b0d28423734e04e73dcc535e7115ff592f49ee833b80ea49723901"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+      "before_sha256": "0410741e97249487125905eb7767986f0915c9851f808f67876cb4b94f4154b9",
+      "after_sha256": "576a309fb43da1d84b0ca856759bf2c6653527a2dfc2d3219f5a246e7b5cde8a"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+      "before_sha256": "21b6fb3c1f37d31d649df97f7d13db3e8c74f49f6aeebaa3de272607202c38ae",
+      "after_sha256": "fb999d81f432efa1a91fd2f2d5f667adb33bf40c1e7597d9e5e4ec291c74ec07"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
+      "before_sha256": "b3c5b280c81395e9bfa1d0c950fd98f3b8c8aafc02a5a1229e3cff1440b414f0",
+      "after_sha256": "7500644ebcbee8fdf5643296f0bcc92e70aefb58102759c6333a60bcaa084840"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
+      "before_sha256": "dacc98f227854e4fafb026746859f7bd6e6242461946d109d8aa9fdb874cc2be",
+      "after_sha256": "898a6a22a4447ae06e4654f29db984f3c3a4fc01cced0058d9e0067c036f4aad"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
+      "before_sha256": "0aa5dfb635f6ebf28e11b8aa350995394dad97a42c7eaf3c7c8472c7b504abd3",
+      "after_sha256": "648e041d0275224ddeee687cb196bea3f62fcd99957653c6ed1d79ff5c8a1383"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e/index.md",
+      "before_sha256": "0542fd80647f7a74b4a7187c0ba68a650e44f6c7be4d6ff085d2f45eb1ef88d8",
+      "after_sha256": "1ad53920728138f18b1159d306ad6e38bc1c5b80a99cc95c7b228fc481a633e7"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
+      "before_sha256": "97219a43d724c7c1c949d4468abd4221774e6409139d6d2ed5805339b9e92668",
+      "after_sha256": "37706edaf0f5e42862571dcc2cd9696719ce9075a4f03572faabfa721f51f331"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
+      "before_sha256": "b46509e20b6a9cb216d9e041f691b13c52ecb8a8d43cb7fd301948c25e017738",
+      "after_sha256": "18a221a959cac77cb41bfaa39e69172710b5882c56d62313b4f079256df0ff4b"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+      "before_sha256": "372e3b3c37a11ed4ca9cf06a40a0d5fd7fc9d8e9405c12c1ca372b3d0d607297",
+      "after_sha256": "1b9b58caf145bb851c263c0da7f19f6b6426be0075d9a07162ddec394e7f13cb"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
+      "before_sha256": "aa502696e94214f7f98983cc720ec8bae622607babd0c1d049522f06503706c8",
+      "after_sha256": "4ad54fe79977c6c9289f98dede4c57cea54e088af1498d3eda052262300d4144"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md",
+      "before_sha256": "437894e0612062fbdd61fbbc84fedbefa5c78ce1c6418d91e4cea586f98627b8",
+      "after_sha256": "b454901bb182a8e43900a21e560fa8a612789481044e91650433f1e6d470e78d"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
+      "before_sha256": "f8358a2ab6c273bc145c6055bbbd3aa67bbf8e705aa893205dc6f06334ebc91d",
+      "after_sha256": "76eb0a37fd2162f15ed567ce2faa2d53f21c6d90ed4bac5f45a910e7cf52a6f4"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
+      "before_sha256": "47ea418b28140bae4a972dc6355f63c0b83f23cd8e2b590b3b5a019dfb960799",
+      "after_sha256": "37383418df73e12c1bb82ccd20da34e952abf8b68cd20e88bb40ee594c2b5239"
+    },
+    {
+      "path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+      "before_sha256": "8f975d3a02eaa0c499a31c30cfc549a9f9f01a8eff9a56caf122e843fba5b88f",
+      "after_sha256": "b9a35ac90e2c2a6a8922729781d24577147a1898dcab59c7c4eff0ac3d58fadf"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
+      "before_sha256": "7fb79e4be8182105eff8bbf75d8ab6994d957ea93f1d6998c9bdd969a8f4c802",
+      "after_sha256": "a2c46c059f4146b8a9daf6c52a67593079fb366a24bfa8980e3a863f68e29c49"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
+      "before_sha256": "c9d6bca55deb9cceab2475456fb593f0ee638363bcc1424ce1a0481173c61c82",
+      "after_sha256": "a2a16fb51f77e6fe70975f7e1bbbeee44dc105b3a6f4dd807a8b4cb9b4a57181"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+      "before_sha256": "c0a11efd5cb5dee9928ef072c99199437fe98ea65fa9f9676f92b93f585fcb6c",
+      "after_sha256": "b44a31b013b5453428d0b2496fdbe4f235ee4605a0996aead7123f939a9e82f5"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e/index.md",
+      "before_sha256": "d552a49be3587d5e7a6b079921fc48122e3353b7ebd8e697c592a51aa3972075",
+      "after_sha256": "3ceeaadbabc028ae30c3c7fd7f1a714560e7f3984319fe6d723730d1bf64eace"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit05_le-petit-nicolas/index.md",
+      "before_sha256": "fa4e12ea54923176620144229cdabaaeb0479b409f802cb9d9ed58373a8eda4b",
+      "after_sha256": "99b48109d01617d6bccb58443f13bfea3fe4b291f0d8d045b13de68197dc0acc"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
+      "before_sha256": "744cbe4eec7585212fde4645e3c61175918b6d8267143c790e3d4d49d0af4add",
+      "after_sha256": "a4b4c2282eaab3ff493ebdf6ad9b454eaa661d30e4710dd4fc46d8450953fea9"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+      "before_sha256": "ed32b171fff77b0766b91121723050ba6ceb1721a503e2ebd211c4ad8f986817",
+      "after_sha256": "44ddb98fe605d65ac7339c1bf9d76abad401c8c118900ec187dca221ab8bcb62"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+      "before_sha256": "c8f5d41fdf14df1a8b1828821176ec2df143a8afeef64451ffaaa4fe588beecb",
+      "after_sha256": "0662a07b705bd2590415f8d4a32bca5ec200b367a3d4bd8014b7ae3fb193393e"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+      "before_sha256": "744b4719019fed58e587fdede262f95095c618432ed68db4979e16fdf3ce1465",
+      "after_sha256": "9b1e51906402762ef6d7a0f5bc01c11c469ca9dd1bca227fb4af72d29c0f184e"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit10_consommation-responsable-e/index.md",
+      "before_sha256": "7dd67c397b6445306646a2bbe9d34056ae07e42acd2eac28b98ab6593c984dd7",
+      "after_sha256": "1bc3821a55930d691fdd23d1dea7adc62b2aa957fdb877b32de15b7a44eb206f"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
+      "before_sha256": "5c5e42f006a17f519aedc5885ee0d92599281e056c541e629c419200f2943b75",
+      "after_sha256": "ef23c0c97169e4b995fbe3036cc8690d820f98a9b931e093a882c79585abd2c5"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
+      "before_sha256": "f8c6f52a1528ae1e67c20d1659fa736f359426f692fb4482e035e6dbacb8cb90",
+      "after_sha256": "a58645060c1aece53f0c26f5f43ca282f3b49f5bb8580778e6749195f8e96e8a"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+      "before_sha256": "b27bbcddd3b13f0235a4f78cb6fe3b7a57c0864a63936cb2f2f4d693a23a8ad4",
+      "after_sha256": "0d419fb90bd94ef14f3aef6b544da5706318a6c2a5f2f075624168d1febe26d1"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit02_presse-francaise-e/index.md",
+      "before_sha256": "7d3977cd9bbd093df4367928f5003902f672a1a3aa5c019538fc18dbdc890f69",
+      "after_sha256": "5346dda9beb8b25bf63198331d0a28e5b3bf0987904c17e6755df72c41b663f7"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
+      "before_sha256": "3aa775ba88dd57cae3289cef57192291dcc0d835725302e8910ea23a8dbfe552",
+      "after_sha256": "8e8bf6b859a71bd4a86940ac80ebfe317e7a5c9d4ab0a7e4b52d5d91ee94ec5f"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
+      "before_sha256": "822bd1ce303f8fecde94e98fa8fc6d915097ec974790e56f6a166669a50f019c",
+      "after_sha256": "dfd0d21629eb79d198558d6de89dc54cfc029eb0a9ceaf4eaa3bc67dbaaaead2"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
+      "before_sha256": "372231c017b3fa5d49378a6f0d8545d66f3ee83d86c39390bd9be767db637090",
+      "after_sha256": "b0e44a43df028b2fc80623445c18c76a04916cbd552b53755149823f86f5f0a7"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
+      "before_sha256": "71d13061c136b4a11f9a3edddc4a924b95ff5b9b4b65bd2a96e15e7b459f9bae",
+      "after_sha256": "597a6014a9532ad2f5ac0cd4cd7e1a463a7b87a4837c884121b250f6c7b2ceb3"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit07_engagement-citoyen-e/index.md",
+      "before_sha256": "812d235abfeccccc14207a0deef0bc3e60063d108231d35d064bb634c493ab18",
+      "after_sha256": "c15e0ebbaa003694c17b04ec7b15a65c023f46d7ffbaa62eb63c0c79f7c137f8"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+      "before_sha256": "341be5b91c6a26e318a065d1b998654de1234daad79d4ace63506512724b8430",
+      "after_sha256": "f02fe03265107fcada7b88ad1fa4ffb9c55bf75872670f86c806c3897f9c6b87"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md",
+      "before_sha256": "b226b3cbdd1a612ed3fbe59fbd072f2e9a193235de909f138ca445de4aff289e",
+      "after_sha256": "7a3c3ec746cfeeecea4992019ea06d1637380838f9e749b0886736c99415a8c1"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e/index.md",
+      "before_sha256": "cc067eed45f57d8f4a0f13fa7077cafbb6039f2e3016baa24801ec4c2fcaa049",
+      "after_sha256": "cc4027daa5822d3e61063c6ce01b9bd995726ecf74c0e89324e27bd7725dd107"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit11_preparer-un-discours-e/index.md",
+      "before_sha256": "1a9ed98d68ee16c57d29e6690808610f41c3cae6dad44e3752b134614ce362a4",
+      "after_sha256": "e3d92b7a498b4ed0c443c36bda6c78dcd31d166bb3097b1bf3d61b923e41ef4f"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
+      "before_sha256": "3b51a1e8e65e43630725194ba5b99f9d899b9dab0aad90e9bde3fbefb811fc7c",
+      "after_sha256": "db5bfc23bbe571d652dbebb13a7e08dc878b690f2c71c5da21b23ac4caec6131"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
+      "before_sha256": "43df23cad363fa35868064e18ee665d2e42c12ffa9419a478aefdecf1fd57fc1",
+      "after_sha256": "d68b420b85c3965b04dd4a1ee5d0a9204dee3cae8310d2a657860142eaf173c8"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md",
+      "before_sha256": "2b1108ac669816401911d07daac22bf91e1fccccbf6b225cff1d3e7a3a5be871",
+      "after_sha256": "94fe5dca45fb565b11388203bf96ffe223b436afce4127e268a8e044a2f2821f"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit03_presse-d-opinion/index.md",
+      "before_sha256": "868cff609e86ffb2ea748329c86839c120426252cee595fd576416155117251a",
+      "after_sha256": "b64442ddc78a09223b83f7d7499d1793309ec124cc7cb4dc50f4fab3eac96947"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit04_court-metrage/index.md",
+      "before_sha256": "72ae5e47f4e31eb73f9828d4548476ddd4d61545ef3a40a9c07dea1f3fb6c60a",
+      "after_sha256": "406e96feb22a4fa91e9580e4fe33104bcbb978a892753856bab8f81191a30f64"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+      "before_sha256": "d2fb1ca611dd276b78fe4ec58764d4a53bd075588e9b515ea6d5727dbbcf1941",
+      "after_sha256": "078e3ae6f55427fb221f3c6b1b325cc72618db904363bd14952869daa498a892"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+      "before_sha256": "da18b723010e699e2699541f1818c134908dc281f91027b6dc633d68851c8e7a",
+      "after_sha256": "9a55c165ebcfacee5fdd2fe2c85bc820a89cdd615d50102f8427c4b92021b231"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit07_extrait-roman-contemporain/index.md",
+      "before_sha256": "438b2663646b88f1faee2fd71b1c653d6d7fb42b413aabfaae49a346357111fa",
+      "after_sha256": "b2a3372e2bd7a9f878aa291676a7b4f57a8a0fe9f606e2bf29a8a5a3705ff52b"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit08_voix-feminines/index.md",
+      "before_sha256": "9354310792a39553c3def82ea158c134380bd992f7f87ff28063a1829f3b7d27",
+      "after_sha256": "2dee5db06cd9986600b34958d45c82d9b7544d3bb848e2363618f23e1745f3a5"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+      "before_sha256": "19cc964d00c68f277af02d0d09402935e5071fb8c94caab4629482cc5ef724d6",
+      "after_sha256": "483d1ccf43b35cd84505feb3c8021a45b54a87b49bbf9c1e50313c24ca68de37"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit10_ecologie-en-france/index.md",
+      "before_sha256": "e0ad03167e11ca5914f6ca379b44ab034ef5c4b129f77f01e14b0fe70f4325bc",
+      "after_sha256": "52372299b24dff94b070eacb7da455ec39e42b360ee3a1b2fa419e16cdf46ae4"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit11_discours-politique/index.md",
+      "before_sha256": "e624dba97e20d98657612a52b3cca24230f1cc11b0021fcd4690bb7697b8acec",
+      "after_sha256": "de996f63efd6df24cdaec6fd1071305c13caad3c254ceee0c0c9750ca15dd200"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+      "before_sha256": "9bdfc96cc6eaf2e98f9bc33e43b65fa48f8dc7c9b7156549c4584ae7444f9291",
+      "after_sha256": "ffb437a820dd2301bbb3a1fb0974e95c4e2d9a38ac2a3c313255c296d982b5fe"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit01_introduire-camus/index.md",
+      "before_sha256": "8bc2c742c92381cccd7c94a0539782ce00ae2e01f601d0eb002087c35c651005",
+      "after_sha256": "3b49392f6ac36c7a3293b2025d0ad97caf92366791f3f6f3b79246af94ce507d"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit02_analyse-stylistique/index.md",
+      "before_sha256": "b7fa8f5d0d1d77d989129dbf32fb6abb22490e8355caa11ea57d13dac2501153",
+      "after_sha256": "dbea511c51521539110a654f4fd4ebb58a4b34a8d9d10524a91ee15450a17030"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+      "before_sha256": "c46d5221e4ae51f34cc1939689d9275f6ee0e73c7b2c57eb2362f1d2c5892bf6",
+      "after_sha256": "0d7554d787f9b97ef74885898eb29a3baab9ae5405974932f79c34f5c4b04fc2"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit04_presse-engagee/index.md",
+      "before_sha256": "9d96a1a99aa332a9dc614d493ff6672edb7291f7f286f2e18f03ff7910a518ec",
+      "after_sha256": "f621a166ee107c5ea462432722c6469760a80bffb141721284c5d1e1f2242664"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+      "before_sha256": "1fd09f15375aa631a4f8c0099565d474892d78a654a059e4606e8eb510141bdc",
+      "after_sha256": "d2faf0fd3553b30a342981b27a560d761055a0fc7b9072b37a7b53732990e033"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
+      "before_sha256": "c1feb6451e5cca8febfc4aaa94a970362fe86988bceb6e9fb6013167e6f9a89d",
+      "after_sha256": "2fd7b73bf91b6ec31fd1eb51971546f41c9b7055311fb72070336f59eaeb2c17"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit07_discours-radio/index.md",
+      "before_sha256": "cac428c3748b0ae048f8a6a8e1e6df9bccca84e1a0970d5053e2952ffc506975",
+      "after_sha256": "c27a2964f633e43d2ae27346e05d55a5ceb90b575d496a4f2df991a84daad9f6"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
+      "before_sha256": "5a4692b5e5e1dd6439d4b9c2794cf8c3d46a8916b922c7fb8dd618a390005651",
+      "after_sha256": "d7fd853863ff85f1d8ffd30d6a92825387e8bc792ffd56f420b48321e618044b"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
+      "before_sha256": "864ca1e28b166f429d59a216e1c035688508e2bccc293965d6263ff45e23c816",
+      "after_sha256": "bb3717784c0e316babba9e0bfaca732f3c631458fcff08998df50663a1a56b3c"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+      "before_sha256": "56a477e4337fc2bfa0de702857f3594aae1a8f0a92608b44c26cc6125151f5d8",
+      "after_sha256": "f09aa805c536b9a8c9bf48ee9fda86ba1bac389a678e00e7ad5ee63293fd902e"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
+      "before_sha256": "b23b453e592a081bb68175f8b34c0507077a7b5ada3ddc13a1a21514070feab0",
+      "after_sha256": "91f40f4a8fcfa3a8c050ab048f9269cf1f415feef249f317fd55a83640169f20"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
+      "before_sha256": "259627af8a048cca3acdae4a911cc0e61ae11af754934ddc41bba46c5ebbe796",
+      "after_sha256": "0cff5bc7d74079a25d828a6ff3c695135c6329acd14972b2ea6555b8b2f7f50b"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit01_synthese-themes-litteraires/index.md",
+      "before_sha256": "2b6ea4fc4ff8b2140ee4d2f2d34f53d7f3310dc159fb46293c68dac3e99068d5",
+      "after_sha256": "06e1083ab80c9262a1acb458d1ede1311c6222f9082de528e0cfb9381768edbd"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
+      "before_sha256": "c32ee4e67debcf989208e0f874028c435b1582aaf0dd8705db5f7c0aac38a18f",
+      "after_sha256": "e624f357d44f3fdb6f1f258399eb94779bfd9da4e9647b7faa615cad8ed0d6b4"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
+      "before_sha256": "72250f6081f31f2043537e9bc46b5e66a964a91ab0e9a7691656c633d84f3e3b",
+      "after_sha256": "14ddf99b5be98976020a902e563a519ac36747a134c1e2198b40a95639b14749"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit04_abitur-mock-1/index.md",
+      "before_sha256": "dc5b685c9658973feea02427e6342f37f3df36732265869cd1e6d1078eb87817",
+      "after_sha256": "1d32a6377ff330b1fbb2eba40f16a4e47f29a59e81702b0e30cc3046a80dd571"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+      "before_sha256": "3a1f115aad2dddc805883f124a7f24cbb770b3bb35ae9b92f497c6c194c86ade",
+      "after_sha256": "3520ed36bd755bb3dc02ee7f9fa7bae33942c6bc00daa51b0e0046fde249c3e8"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit06_mediation-finale/index.md",
+      "before_sha256": "6d8a29df90fc2e84202548d5839a8c76f36bae3bfe07b7691bb9a2e560d34a80",
+      "after_sha256": "69ba44d22a81a15847bffe16df2d4dc2d53e170d86b7f005f2b1416a992249fe"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep/index.md",
+      "before_sha256": "d5a924e2402fe627766e9b400b9df223ff7a49f1ba146f9380b0366f4147fc33",
+      "after_sha256": "a47e0a0d2479eee5dee68fa77066eddf073e1b6641d97744d497b2cfede0d924"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit08_discussion-sur-stimulus/index.md",
+      "before_sha256": "b05d2c420be05e5b57e7bab77676dc0a0e8b440612122848c43403eed249bb85",
+      "after_sha256": "042cac4f757993c26933a2be4e7585883fb0ff72ee238412dd4d81d4a77cc508"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit09_monologue-et-presentation/index.md",
+      "before_sha256": "2314e715edbb861d19bd317cdde138bb8b32d9a305d7dc8213c1c89202ceda7a",
+      "after_sha256": "d98d7bcfb7a01f1586c65310605e8268c9080177cb091753ea5fcd45a67b4b44"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit10_reflexion-sur-soi/index.md",
+      "before_sha256": "f0c213e7844f477316adb466fd3e8512cd5334a6b657b52334e19754d7140a95",
+      "after_sha256": "ee4d29330b8403bfcd9df49d562cdcf60c9dd3d603c8f75bc11c9619881d119f"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit11_abitur-mock-final/index.md",
+      "before_sha256": "444b2f2303c139e3b774574275128a653c57ee2dd0ef3aca8014064615ff31e9",
+      "after_sha256": "e8604e169202bb83e5715c3d54debb3a0f049f21bb04e554b8b77b6758415dd4"
+    },
+    {
+      "path": "content/track_e_kl13/units/unit12_bilan-final-abitur/index.md",
+      "before_sha256": "9a46a2cc1a1f93b625ef98955ad89780432921c00fc439068b7b7fa9eb3c308a",
+      "after_sha256": "1150d2f9da86f2fd62a9c8cb3332e749a2f5a8f7fb39d569d0fd35428c8f4d15"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
+      "before_sha256": "203ba227da39eb3df197bd9503c417fa707c9425bd66d6877a696b0a216b3d52",
+      "after_sha256": "a39985c0ac475346335a317237865649acbd403463ba417adc8c7de707c08538"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit02_ma-famille/index.md",
+      "before_sha256": "e956bd12394de9ef420158d902cdd188d94c9cf5bebb72c2b2d5a5bfe645a5c8",
+      "after_sha256": "25e85251f8b2100148b047f56be62995cc531cfe1394e0373c938c5ae5cbfbe7"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
+      "before_sha256": "a76f488eef52ec12d467aa2715b0eeb2c6279d1c7208646fc0bbfd22c0c10108",
+      "after_sha256": "a2b3dacc05f95d3c721064352ff5a5f062d8a897a0e21dbe45ef93909ecc4dda"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit04_ma-journee/index.md",
+      "before_sha256": "6a227fe9824b8cec77f2f3b08361c4cfe9d42949cef771f9b5ab8cf7998cbc62",
+      "after_sha256": "6cea56a7c5e06272a6e0afb5e9d2f4e03472c038004aa00878fc6785c51511d6"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
+      "before_sha256": "a2e5081d6b67952d865ee9b7077a6031b7f2f8cdda23662278e1f05066f1257d",
+      "after_sha256": "89e8b7dd2c4b5754a80febf65a61aaba5de78dd8238321e65ae9b41464dc89f6"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit06_au-marche/index.md",
+      "before_sha256": "6c04f1f18e69bb227696a6f4503338b49b2cd39d40d72c4ea62653c6b263d000",
+      "after_sha256": "0c98dc8e4b637ad8d1510122dce2de103d1331d6655d359b0fe05b8711232a25"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
+      "before_sha256": "d98b44166d01687140a45353ec120adca8754a2798a076cb300e66a217c6e0ae",
+      "after_sha256": "815a7a60372b899f4823c4aa17f1f760ae6837b1c5aa19d75f299f72f9d93e30"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+      "before_sha256": "8ffb8a53a99d2313144600829c3145807c1163987d42054bf05d51da788c8131",
+      "after_sha256": "d8fbdec594d3513cccd2ad78da8ce3e77a9a938bb3a7ff3dc8caadc9586b8ed6"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+      "before_sha256": "c023ebbd2c1423c1e6ad86edd5a66b22e680a8fdf0b60076d698e2fbdc6db8f7",
+      "after_sha256": "2c04db7163d1a221b7dbbb43475b71e22bdcb863416bb8120dbeab451614c8ce"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
+      "before_sha256": "6515118b487c03a7e9186705250a780090d6573535c1cfec3d51cf1e2ae95309",
+      "after_sha256": "defb961eff8e5426eaaa54902071ead2b04faa70cbc798b9b23c90384a92a794"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+      "before_sha256": "126b087c8849519d548742057feb24aeb72f9915a10529604a034945077da532",
+      "after_sha256": "1342e7f82bde9f9f15d86801ab7a6ecdbcd925b24e33afe55cf9e7bbab5b1259"
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
+      "before_sha256": "70ec90d8a16008e1d597a5c1483d24e47cb848074df5eb4b9f0bb324a348408d",
+      "after_sha256": "d2fb4b3d42010d21a7204e5b0f0d652c0063b575d2369caca0450a5f532e1682"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+      "before_sha256": "4bfca00cd6e656db59067bc1c9cc6805ad8c9e9bada614703a4b1102b8332c5f",
+      "after_sha256": "34d74fbc9d593a3042e91ca90d3267474214f239f7dac1d7ab58fd46f86cb462"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
+      "before_sha256": "02e68b2a7cf943ec209afc95947723552f91939beadee6fc66e4986b8029833e",
+      "after_sha256": "3affcc7d66928775210c17972edb598a8ce4a0aac8f74e6a06bfaa97337fd460"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+      "before_sha256": "3b90051f17ed94c51249a48d8d2ee70e6d2746df2484e1041dbf4f6fb39dbac1",
+      "after_sha256": "378aa8e6f68a41404fd94b1c1d6d4645adf332ad1e26173b1411e5b0c07eed88"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit04_les-repas/index.md",
+      "before_sha256": "42d944c05aee5b0477b995f2ab979e8789caf0fe1cc2ddd5092b9d95a2b113c7",
+      "after_sha256": "ed7568482bac2a33a20874066bd810472c6018b2be5021ee08bcd7c7efc1ac99"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
+      "before_sha256": "8314654a252b26ff2ce78a01ad258e7b629e435b37319c5420dd5353ca99e94c",
+      "after_sha256": "d100716ad60c8e4f3216ab265e2bd3ef1d8bfacdb870c5b7d8e59c057ba2b656"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit06_les-transports/index.md",
+      "before_sha256": "1427fd30b66482a6cf719f2e9de00672b3902e55b08ccc33a0bb8878258a4bb0",
+      "after_sha256": "d7383e5ae3270adeac03e8fc4546e69a3739bfe3e31b07a087340067a6adb9bc"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
+      "before_sha256": "90416fb54f71d5a785d36dff1e62db8ed1c41428f79e5e445f65480b9ebafb0d",
+      "after_sha256": "397a52b85471db67af34802c735f31496c9dcd95f711255efe5ef0be4777c0df"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit08_le-quebec/index.md",
+      "before_sha256": "007ff8015638766f4a9fd2114326bf12443f85b17da6622eb05de7fd6cc6f946",
+      "after_sha256": "dc140aaf652b68ef87d70e8679e2abbf114515bb38ca249c77f5dbe07946507b"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+      "before_sha256": "5f3edc2cf4f99063c1a285b016eccf888806215fdb4f46bf0089565fa499d9f6",
+      "after_sha256": "c55e4001aeeff681628b96fbfe7e16bd8376403284c1f32f54648174eace658e"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit10_musique-et-clips/index.md",
+      "before_sha256": "f53bc0158a54ff2ede853b9ae0d7c4725ee0c379503b6dd60e5a5444d857b7ae",
+      "after_sha256": "2834e702b2c256a913f09ca34f2705f6bfacbf523535a96ac489ecab1abc2d39"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit11_mediation-de-base/index.md",
+      "before_sha256": "5099d5cdfeceed12a813aafee7655829816ddb94e70c2fdaed7d1484490d8803",
+      "after_sha256": "56bee0d096f7ab675895e27cfcf5af94f33655e5a40d2d34b8e6261f8495e093"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee/index.md",
+      "before_sha256": "3d1a8ad92e6205c311d527aafc65f4a19cb99aae23318cdc54b0a38a71d6cf6a",
+      "after_sha256": "7ec6033c4103eb65995f1c961bbe830a4b8083d1b0853a00d79a0d72d81235fa"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
+      "before_sha256": "0c4ce357bf8c6979165180dcf67e757979baa7e0eb43dc697436b5fe373c0dcc",
+      "after_sha256": "c79efc908e1beb83fa54c2b8d4dba63581c3c0aa25b4eb7edbfeb963f484a4e7"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md",
+      "before_sha256": "61bcf1a6d7dc1a0977a7ddb5184e51c12f492edfd17e5f4ceb8784505be2d3b4",
+      "after_sha256": "6c0b5edf7d13fb6955cef14026b7453820c13cafc5853c920e0588259273444c"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md",
+      "before_sha256": "b6845807b776c49ae9b246566a52f6ed507dc411bd784e10d63eef9188f4f4d9",
+      "after_sha256": "43aa1050d52f9b8425ebc64e10691b2894a2c08f869c1d33740e4487f531f58b"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit04_futurs-projets/index.md",
+      "before_sha256": "eedf6c67da137b9a9ddd49d56d9b14ffbd51f174a73823ee597d1931b4427113",
+      "after_sha256": "fa3d4be29e0d2fad683b42ff1567f354ef237a09d225463c8bf24413d3e14c36"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume/index.md",
+      "before_sha256": "74fd2607595a3c4a6debf04d72094ba0fa29282a89368e322c5aeb6321f35abe",
+      "after_sha256": "e705f20ccee94d4b36be1014d2e54f2d30643a292f0e5fd9a416c11217b4da91"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit06_musiques-du-maghreb/index.md",
+      "before_sha256": "9162fa22925a45ec80eaf9da7fda949a4b28a8f54cfee90a35e082ae37261e45",
+      "after_sha256": "80343f988b5a14f485de8b2e3f6847ee64522da6d9d3f57f271a2a3081859344"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
+      "before_sha256": "6daf00c19ef233c45575bd1b41dd469c84a23a50803b3be28a4d8e905d61521f",
+      "after_sha256": "3d3cddc32842c2085b6e6e9a904677960ef2ac5aa2e7cb283724939fbe2341df"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit08_un-allemand-a-paris/index.md",
+      "before_sha256": "c50676441d06047b8a340c1c0ed009f36c9b07fa43b85bf6608c900491b820c5",
+      "after_sha256": "c0892a53358fa6ef7b97198d39db622562d5aa35edcc7b381b745b7d5aad649e"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit09_stereotypes-et-prejuges/index.md",
+      "before_sha256": "b6da10e2f959fc54dc6473abf76935bcf6ac48106dc7a07982413c43523e3c70",
+      "after_sha256": "57902fa8dd77c04035680d74eec93a686019ff4ba41badd0e2d5d926afdeac22"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
+      "before_sha256": "6e9923af76e288fdaf976f145ecaeb7b0bc74e06d3cc2dbe2471d6c58e2bb2a6",
+      "after_sha256": "7894d37839d48769eb9c8268f786921923d9d133d11869443e7b4a962702a47a"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+      "before_sha256": "d9fba4641fc6b6c0ba1fbd7b295011e9f2cea3d703e87bd6792474dbaa9e85b1",
+      "after_sha256": "0bfc5d5b80077740c2167f2f7d356a35c5c31b18837e38008b5745af9ef6146c"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
+      "before_sha256": "8834bbbc3277b5b7fbef3b6581109333dcac987b8e41f86e862aeb007e7147f8",
+      "after_sha256": "3eeb8d199b044b6ebd628b8dbba4ab8a20e475109c985993cb07c3c93fdc63ba"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+      "before_sha256": "46d4dac9d61d34b2ac712a6f185c7ec206a29d2b51d9e40235b6140e2835d0b0",
+      "after_sha256": "f1b48116be17b7fa6ec8a38f30442ecd10cb0aca516d7eeb51bb464736adb620"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+      "before_sha256": "80cec9068f8af35aca8c80dc250ed223053059db139e32302e364f91f1f5b3ed",
+      "after_sha256": "8f341dc497d505665f0c4a688c57e991945a152d00068b1b5e9786456b7b44c8"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+      "before_sha256": "87d03c7fb7188df2bd7ff2d7c16057bc5161ef10b3e875ed04a714a52195f754",
+      "after_sha256": "3e3ab2f36fde684482b8fb4c8c00a2823aeb64d925d7e1d74e483dfebf9040c5"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+      "before_sha256": "45c4c1c02c4bbb8e8b4862037658cb2a5526b43fd05017b827f169be21f165c0",
+      "after_sha256": "7f6a100911395be852eb15742a8f66415c1e71b5351fbb6b2ff4a7457509deb8"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
+      "before_sha256": "a07ee4e9119b071ef90b6c715a49e79d7e02d661b3671a496048ad68028a7553",
+      "after_sha256": "54b9e4da7470ea5b8bbdf6204c260fb81412250d46389ad3903529e446fec01d"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit06_podcasts-en-francais/index.md",
+      "before_sha256": "20004dbda0a299ef908a383d11cff1ef64348b136b9b8147bef7d7745f8eeae4",
+      "after_sha256": "2b2fe3f2f7bfcc1b3becf375293d3ff0306c7bbeff86ad0a99aca4dd024ee604"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
+      "before_sha256": "a740a8a9bd8d9413e9816ff8272fa8834549ac0503407e0755b9606eda9179cf",
+      "after_sha256": "977df44d7bb7607d1a7247f2df83784e4a6aae2e559e575b31c7d4f21053d034"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
+      "before_sha256": "5984270da56961a5af28d1a228d1ba65296f4f046fe67ca5a74b8b39888958b7",
+      "after_sha256": "5c8e80694d24001b9f89922693e2d6f351b29aefe148a034685a1c5b88403cab"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md",
+      "before_sha256": "d7df4aeaefa2bf8d9693dfc49c607bafe43ba335f09b90ba7e874aae0a52d60d",
+      "after_sha256": "29f1fb93e2e0faded9cb8d7c96ebff12e3205ad744b217a483bf8f7decd6fd01"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit10_consommation-responsable/index.md",
+      "before_sha256": "2667a58cc588ff539eb7d6a22c0df1edee207c8d5f57cd58d4b08d83b18ff04a",
+      "after_sha256": "01fdcf12585e719ae7ad8baa4eda016ac9688508e8b53b90801d96620c588492"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
+      "before_sha256": "e07b075ac778ff87b79c59cbd1b14e4406398feb07e1560f7e2ff3d08f576b83",
+      "after_sha256": "9325d71ba1279604aad8d372d94372294c6354d8ccaee56e94561227d1b12455"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+      "before_sha256": "386dff36dc491e5c04e69aee0f5896303cb7b367499e19ff194d707e911bdf1c",
+      "after_sha256": "49a548badefcec45f5c4b743b881cb6ccf02040b8a18de403a8f963c545e3551"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
+      "before_sha256": "34eec67fdec116fb7e233b79b358837e124dc6ea0a7fbdcaa3134005f161d8e3",
+      "after_sha256": "8c006906f2cbad9f84d4ad64ce3b6b813a95f919d020979110fdd35ffd5f6d1f"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
+      "before_sha256": "24e61d8588dfdc31b05761847d069ffec43f1e9fd047248526d974704e838ba0",
+      "after_sha256": "9c87857962aae5b953caddf21dff2893171b256b4b07215fc1fed8f25266a40b"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit03_vie-democratique/index.md",
+      "before_sha256": "d4109e1a2a3bfc5d45b41aa46fc71d5b5bd0289bad319662a09d63e4f8830916",
+      "after_sha256": "bb025528d48224e9c9c61e3075d3e76179e100fe7fd294517ffd87aba79e2d27"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
+      "before_sha256": "fed6656db5749e21b3cee6160751c8e3a9eb44ceebc43018b4024b508114ab2c",
+      "after_sha256": "5da81546f358190224594a833d042b37711c1e93bb562f0e110d5f18b983a866"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie/index.md",
+      "before_sha256": "87e4e0cf3fb6516b92acfc5f71044859d25f0c89591d736faebe6e1933668919",
+      "after_sha256": "fd4a8ce295f01d467c45e7257520aee93b57c0731a8065a10f6bca6c23be7eb1"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+      "before_sha256": "4c372df1db11971b474e8049ca7aef5ceb0d347f1a97642555e427ac6dcf5ba2",
+      "after_sha256": "cef6ca0d13830a8c8263d0d03bc0527665541568633bb91ea65c3d5b4cb5a4aa"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+      "before_sha256": "5a42f91883803a9aaee360977885461321bb210bab028513e89d5b303291fe9a",
+      "after_sha256": "d95543c2c80a16be098fee6fcb1f7eee0ade0ed49db93e96e86012cc237906d0"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit08_reseaux-sociaux/index.md",
+      "before_sha256": "96a32b25e9c7525eb7a4972c84023e4ef61c835a9d60e5ec765df71098965488",
+      "after_sha256": "0f893e48ded402225a4c98d8293f67fd33929a6da32d5fbc630600cc044b77e6"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse/index.md",
+      "before_sha256": "1ba6f02bc13ce30aa975ed01af4b7d33d0e8972f612cb98767d223a6eb58b5c9",
+      "after_sha256": "ea15ef51a07e1201864f63eca0c6d6fe4844ac3e5e3f3af07573aec9169c473a"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
+      "before_sha256": "e7c095286f12684dc84d28e1da81d559c3185c40fe8502da411fde151cab9526",
+      "after_sha256": "e2ae4ba45d3419a64f8f220ba1d62b3d09fd9da33e9b43b5ba1c78bf7bf6ebfe"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit11_preparer-un-discours/index.md",
+      "before_sha256": "37df27e6876ed111c0203ce96a2e8cf89e1aaef5d645d5728f951f175afb0292",
+      "after_sha256": "4e78b749f4dd2873720109bd7165643636612daef9d3d2e522dccd43ec2d09f2"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
+      "before_sha256": "52eef1dc6bb438b3170cec95624aa1110e430101f88cb8a42eb51281385343ba",
+      "after_sha256": "c016371d691767bec5b9eda3e38f437439bd3a9b997e39a9ab54331ffec4bf00"
+    }
+  ],
+  "review": [
+    {
+      "unit": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
+      "exam": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
+      "exam": "content/track_e_kl06/units/unit02_ma-famille-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
+      "exam": "content/track_e_kl06/units/unit03_mon-college-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
+      "exam": "content/track_e_kl06/units/unit04_ma-journee-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit05_gouts-et-couleurs/index.md",
+      "exam": "content/track_e_kl06/units/unit05_gouts-et-couleurs_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit06_au-marche-e/index.md",
+      "exam": "content/track_e_kl06/units/unit06_au-marche-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e/index.md",
+      "exam": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
+      "exam": "content/track_e_kl06/units/unit08_premiere-poesie_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit09_ma-chambre-e/index.md",
+      "exam": "content/track_e_kl06/units/unit09_ma-chambre-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit10_mes-loisirs-e/index.md",
+      "exam": "content/track_e_kl06/units/unit10_mes-loisirs-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit11_voyage-decouverte/index.md",
+      "exam": "content/track_e_kl06/units/unit11_voyage-decouverte_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
+      "exam": "content/track_e_kl06/units/unit12_bilan-portrait-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+      "exam": "content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
+      "exam": "content/track_e_kl07/units/unit02_raconter-une-anecdote_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit03_mon-quartier-e/index.md",
+      "exam": "content/track_e_kl07/units/unit03_mon-quartier-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
+      "exam": "content/track_e_kl07/units/unit04_repas-en-famille-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
+      "exam": "content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
+      "exam": "content/track_e_kl07/units/unit06_transports-et-mobilite_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
+      "exam": "content/track_e_kl07/units/unit07_vacances-en-bretagne_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit08_le-quebec-e/index.md",
+      "exam": "content/track_e_kl07/units/unit08_le-quebec-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
+      "exam": "content/track_e_kl07/units/unit09_fete-et-invitations_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+      "exam": "content/track_e_kl07/units/unit10_musique-et-chanson-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+      "exam": "content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+      "exam": "content/track_e_kl07/units/unit12_bilan-progres-7e-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
+      "exam": "content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
+      "exam": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
+      "exam": "content/track_e_kl08/units/unit03_mes-medias-preferes-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e/index.md",
+      "exam": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
+      "exam": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
+      "exam": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+      "exam": "content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
+      "exam": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md",
+      "exam": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
+      "exam": "content/track_e_kl08/units/unit10_cinema-quebecois-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
+      "exam": "content/track_e_kl08/units/unit11_un-projet-solidaire-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+      "exam": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
+      "exam": "content/track_e_kl09/units/unit01_le-monde-du-travail-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
+      "exam": "content/track_e_kl09/units/unit02_lettre-de-motivation-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+      "exam": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e/index.md",
+      "exam": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit05_le-petit-nicolas/index.md",
+      "exam": "content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
+      "exam": "content/track_e_kl09/units/unit06_podcasts-en-francais-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+      "exam": "content/track_e_kl09/units/unit07_harcelement-et-respect-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+      "exam": "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+      "exam": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit10_consommation-responsable-e/index.md",
+      "exam": "content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
+      "exam": "content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
+      "exam": "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+      "exam": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit02_presse-francaise-e/index.md",
+      "exam": "content/track_e_kl10/units/unit02_presse-francaise-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
+      "exam": "content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
+      "exam": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
+      "exam": "content/track_e_kl10/units/unit05_premiere-analyse-poesie_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
+      "exam": "content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit07_engagement-citoyen-e/index.md",
+      "exam": "content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+      "exam": "content/track_e_kl10/units/unit08_reseaux-sociaux-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md",
+      "exam": "content/track_e_kl10/units/unit09_extraits-romans-jeunes_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e/index.md",
+      "exam": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit11_preparer-un-discours-e/index.md",
+      "exam": "content/track_e_kl10/units/unit11_preparer-un-discours-e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
+      "exam": "content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
+      "exam": "content/track_e_kl11/units/unit01_ecrire-sur-soi_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md",
+      "exam": "content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit03_presse-d-opinion/index.md",
+      "exam": "content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit04_court-metrage/index.md",
+      "exam": "content/track_e_kl11/units/unit04_court-metrage_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+      "exam": "content/track_e_kl11/units/unit05_mediation-academique_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+      "exam": "content/track_e_kl11/units/unit06_argumentation-structuree_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit07_extrait-roman-contemporain/index.md",
+      "exam": "content/track_e_kl11/units/unit07_extrait-roman-contemporain_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit08_voix-feminines/index.md",
+      "exam": "content/track_e_kl11/units/unit08_voix-feminines_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+      "exam": "content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit10_ecologie-en-france/index.md",
+      "exam": "content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit11_discours-politique/index.md",
+      "exam": "content/track_e_kl11/units/unit11_discours-politique_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+      "exam": "content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit01_introduire-camus/index.md",
+      "exam": "content/track_e_kl12/units/unit01_introduire-camus_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit02_analyse-stylistique/index.md",
+      "exam": "content/track_e_kl12/units/unit02_analyse-stylistique_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+      "exam": "content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit04_presse-engagee/index.md",
+      "exam": "content/track_e_kl12/units/unit04_presse-engagee_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+      "exam": "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
+      "exam": "content/track_e_kl12/units/unit06_etude-de-roman_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit07_discours-radio/index.md",
+      "exam": "content/track_e_kl12/units/unit07_discours-radio_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
+      "exam": "content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
+      "exam": "content/track_e_kl12/units/unit09_memoire-et-traumatisme_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+      "exam": "content/track_e_kl12/units/unit10_argumenter-en-public_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
+      "exam": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
+      "exam": "content/track_e_kl12/units/unit12_bilan-12e_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit01_synthese-themes-litteraires/index.md",
+      "exam": "content/track_e_kl13/units/unit01_synthese-themes-litteraires_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
+      "exam": "content/track_e_kl13/units/unit02_francophonie-pluralite_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
+      "exam": "content/track_e_kl13/units/unit03_essai-personnel_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit04_abitur-mock-1/index.md",
+      "exam": "content/track_e_kl13/units/unit04_abitur-mock-1_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+      "exam": "content/track_e_kl13/units/unit05_abitur-mock-2_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit06_mediation-finale/index.md",
+      "exam": "content/track_e_kl13/units/unit06_mediation-finale_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep/index.md",
+      "exam": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit08_discussion-sur-stimulus/index.md",
+      "exam": "content/track_e_kl13/units/unit08_discussion-sur-stimulus_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit09_monologue-et-presentation/index.md",
+      "exam": "content/track_e_kl13/units/unit09_monologue-et-presentation_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit10_reflexion-sur-soi/index.md",
+      "exam": "content/track_e_kl13/units/unit10_reflexion-sur-soi_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit11_abitur-mock-final/index.md",
+      "exam": "content/track_e_kl13/units/unit11_abitur-mock-final_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_e_kl13/units/unit12_bilan-final-abitur/index.md",
+      "exam": "content/track_e_kl13/units/unit12_bilan-final-abitur_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
+      "exam": "content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit02_ma-famille/index.md",
+      "exam": "content/track_gm_kl06/units/unit02_ma-famille_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
+      "exam": "content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit04_ma-journee/index.md",
+      "exam": "content/track_gm_kl06/units/unit04_ma-journee_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
+      "exam": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit06_au-marche/index.md",
+      "exam": "content/track_gm_kl06/units/unit06_au-marche_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
+      "exam": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+      "exam": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+      "exam": "content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
+      "exam": "content/track_gm_kl06/units/unit10_mes-loisirs_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+      "exam": "content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
+      "exam": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+      "exam": "content/track_gm_kl07/units/unit01_ma-rentree_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
+      "exam": "content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+      "exam": "content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit04_les-repas/index.md",
+      "exam": "content/track_gm_kl07/units/unit04_les-repas_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
+      "exam": "content/track_gm_kl07/units/unit05_amis-et-conflits_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit06_les-transports/index.md",
+      "exam": "content/track_gm_kl07/units/unit06_les-transports_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
+      "exam": "content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit08_le-quebec/index.md",
+      "exam": "content/track_gm_kl07/units/unit08_le-quebec_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+      "exam": "content/track_gm_kl07/units/unit09_fete-d-anniversaire_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit10_musique-et-clips/index.md",
+      "exam": "content/track_gm_kl07/units/unit10_musique-et-clips_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit11_mediation-de-base/index.md",
+      "exam": "content/track_gm_kl07/units/unit11_mediation-de-base_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee/index.md",
+      "exam": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
+      "exam": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md",
+      "exam": "content/track_gm_kl08/units/unit02_mes-medias-preferes_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md",
+      "exam": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit04_futurs-projets/index.md",
+      "exam": "content/track_gm_kl08/units/unit04_futurs-projets_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume/index.md",
+      "exam": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit06_musiques-du-maghreb/index.md",
+      "exam": "content/track_gm_kl08/units/unit06_musiques-du-maghreb_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
+      "exam": "content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit08_un-allemand-a-paris/index.md",
+      "exam": "content/track_gm_kl08/units/unit08_un-allemand-a-paris_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit09_stereotypes-et-prejuges/index.md",
+      "exam": "content/track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
+      "exam": "content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+      "exam": "content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
+      "exam": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+      "exam": "content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+      "exam": "content/track_gm_kl09/units/unit02_lettre-de-motivation_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+      "exam": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+      "exam": "content/track_gm_kl09/units/unit04_argumenter-pour-contre_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
+      "exam": "content/track_gm_kl09/units/unit05_vivre-en-tunisie_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit06_podcasts-en-francais/index.md",
+      "exam": "content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
+      "exam": "content/track_gm_kl09/units/unit07_harcelement-et-respect_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
+      "exam": "content/track_gm_kl09/units/unit08_differences-culturelles_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md",
+      "exam": "content/track_gm_kl09/units/unit09_internet-et-vie-privee_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit10_consommation-responsable/index.md",
+      "exam": "content/track_gm_kl09/units/unit10_consommation-responsable_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
+      "exam": "content/track_gm_kl09/units/unit11_francais-au-travail_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+      "exam": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
+      "exam": "content/track_gm_kl10/units/unit01_transition-formation-emploi_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
+      "exam": "content/track_gm_kl10/units/unit02_presse-francaise_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit03_vie-democratique/index.md",
+      "exam": "content/track_gm_kl10/units/unit03_vie-democratique_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
+      "exam": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie/index.md",
+      "exam": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+      "exam": "content/track_gm_kl10/units/unit06_mediation-avancee_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+      "exam": "content/track_gm_kl10/units/unit07_engagement-citoyen_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit08_reseaux-sociaux/index.md",
+      "exam": "content/track_gm_kl10/units/unit08_reseaux-sociaux_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse/index.md",
+      "exam": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
+      "exam": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit11_preparer-un-discours/index.md",
+      "exam": "content/track_gm_kl10/units/unit11_preparer-un-discours_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "unit": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
+      "exam": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam/index.md",
+      "new_exam": false,
+      "exact_existing_assessment": false,
+      "pending": [
+        "embedded and sibling assessment differ; retained both for individual reconciliation",
+        "duration requires review"
+      ],
+      "review_status": "pending"
+    }
+  ]
+}

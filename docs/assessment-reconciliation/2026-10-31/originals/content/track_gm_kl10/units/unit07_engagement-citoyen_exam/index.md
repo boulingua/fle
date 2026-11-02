@@ -1,0 +1,95 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 7"
+subtitle: "Engagement citoyen · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 7
+slug: "engagement-citoyen-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.planning.01
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.acting-as-an-intermediary-in-informal-situations.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez la tribune de Léa (Unité 7, texte C). Répondez :
+
+1. Quel jour Léa manifeste-t-elle, à quelle heure ?
+2. Citez ses **3 raisons**.
+3. Quel droit n'a-t-elle pas encore ?
+4. Quelle phrase de la conclusion résume sa position ?
+
+### Tâche 2 — Vocabulaire (10 points)
+
+Traduisez :
+
+- das Ehrenamt · die Petition · die Demonstration · der Boykott
+ · der Verein · die Tribüne (Meinung) · der Aktivismus ·
+ die Bürgerinitiative.
+
+Plus, 2 jeunes français engagés (FR) à nommer (avec leur cause) :
+*Hugo Travers · Camille Étienne · Bilal Hassani*.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez une **tribune** de **200 mots** sur une cause qui vous
+tient à cœur. Plan : accroche + **3 arguments** (5 connecteurs)
++ conclusion-appel. Style engagé, respectueux.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Vocabulaire | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Vendredi, 11h. 2) GIEC 2024 + voter ne suffit
+pas (pas encore 18 ans) + se taire = consentir. 3) Le droit de
+vote. 4) « Mon engagement n'est pas politique : il est vital. »
+
+**Tâche 2.** le bénévolat · la pétition · la manifestation · le
+boycott · l'association · la tribune (d'opinion) · le militantisme
+· l'initiative citoyenne. + Hugo Travers (info jeune), Camille
+Étienne (climat), Bilal Hassani (LGBTQ+/liberté).
+
+**Tâche 3.** Réponses libres. Critères : 200 mots · plan
+complet · 5 connecteurs · style engagé.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 7*

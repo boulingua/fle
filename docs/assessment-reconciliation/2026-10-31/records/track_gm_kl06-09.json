@@ -1,0 +1,68 @@
+{
+  "unit": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+  "exam": "content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md",
+  "before_unit_sha256": "2c04db7163d1a221b7dbbb43475b71e22bdcb863416bb8120dbeab451614c8ce",
+  "after_unit_sha256": "618afc6c1d1f11335d435c1010a76cfb661575b45f5f5c44c8e8b5ae180bf3c2",
+  "before_exam_sha256": "b17484a199f99c1a4d174750cb970b1aa71c3a054f806c71a1a2ac97c6e7268d",
+  "after_exam_sha256": "42be23747c0f5996e07fddda035aeff671d6011c1215b589a8cb8ecb7a145b2b",
+  "source_sections": [
+    ""
+  ],
+  "supplied_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source_mode": "self-contained-tasks",
+  "total_points": 30,
+  "task_points": [
+    12,
+    10,
+    8
+  ],
+  "decisions": [
+    "All12 original vocabulary items now12points; prepositions10,writing8 retains30total.",
+    "Add explicit German positional context, removing underdetermined unique-answer blanks.",
+    "Restore il y a objective within writing without inventing a missing room image."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "5f41006102be8af4251d53bc3a73e55ab1d5afbde09b5e3367535e07a471c681",
+      "after_sha256": "618afc6c1d1f11335d435c1010a76cfb661575b45f5f5c44c8e8b5ae180bf3c2",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit09_ma-chambre/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "57d7d0ed5071db91910c461bdad6231758a44d1e4191b0f110177ce71b734ac4",
+      "after_sha256": "6af97aaea68c6ef2ef323ab5a64ae03ef0f1b0bc69ed299caa3c103d1a5cb130",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6af97aaea68c6ef2ef323ab5a64ae03ef0f1b0bc69ed299caa3c103d1a5cb130",
+      "after_sha256": "a4f8dead4a4f41208b270d465f18ae8716f6b167c632bedf9d58947d4bbc5723",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a4f8dead4a4f41208b270d465f18ae8716f6b167c632bedf9d58947d4bbc5723",
+      "after_sha256": "aa647a43efa211a1f0b0e29cf3dfc03e90e882bc972d62dff1f5b855c8cdf08e",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md",
+      "before_sha256": "aa647a43efa211a1f0b0e29cf3dfc03e90e882bc972d62dff1f5b855c8cdf08e",
+      "after_sha256": "42be23747c0f5996e07fddda035aeff671d6011c1215b589a8cb8ecb7a145b2b",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

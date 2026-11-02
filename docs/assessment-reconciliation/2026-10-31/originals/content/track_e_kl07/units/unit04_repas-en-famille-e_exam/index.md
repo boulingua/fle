@@ -1,0 +1,96 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 4"
+subtitle: "Repas en famille · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 4
+slug: "repas-en-famille-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.INT.conversation.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Hörverstehen (10 points)
+
+Écoutez le dialogue dominical (Unité 4, texte C). Répondez :
+
+1. Qui met la table ?
+2. Quels sont les 3 plats prévus ?
+3. Que veut Anouk comme boisson ? Pourquoi pas de vin ?
+4. Que veut Lena ?
+5. Quel est le légume qui accompagne le gigot ?
+
+### Tâche 2 — Partitifs (8 points)
+
+Complétez avec *du, de la, de l', des, de*.
+
+1. Je voudrais ___ pain.
+2. Tu manges ___ salade ?
+3. Elle achète ___ pommes.
+4. Nous ne prenons pas ___ viande.
+5. Vous voulez ___ eau ?
+6. Il commande ___ jus d'orange.
+7. On ne boit pas ___ soda chez nous.
+8. Maman prépare ___ tarte.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Décrivez **votre menu dominical** en **80 mots** : entrée +
+plat + dessert + boisson. **3 partitifs** + **1 négation**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Partitifs | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Anouk. 2) Quiche, gigot d'agneau, tarte aux
+pommes. 3) De l'eau (pas de vin). 4) Du soda + de la quiche.
+5) Des haricots verts.
+
+**Tâche 2.** 1) du · 2) de la · 3) des · 4) de · 5) de l' ·
+6) du · 7) de · 8) une / la (selon contexte ; *de la* si
+partitif).
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · 4 plats · 3
+partitifs · 1 négation.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 4*

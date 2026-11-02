@@ -23,22 +23,41 @@ curriculum:
     - A1.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 7
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
+
+## Support
+
+### C. Le portrait d'année de Léa (texte original)
+
+> Cette année, j'ai appris beaucoup de français. **Au début**, en septembre, je connaissais à peine cinquante mots et je n'osais pas parler. **Ensuite**, petit à petit, j'ai pris confiance.
+>
+> Ma leçon préférée, c'est le **passé composé** : maintenant, je peux raconter mon week-end et mes vacances. J'ai aussi **découvert** le Québec grâce à ma cousine Inès qui habite à Montréal — c'était passionnant !
+>
+> **Aujourd'hui**, je connais plus de trois cents mots et je participe en classe sans avoir peur. Ma difficulté, c'est encore la prononciation, mais je m'améliore.
+>
+> **L'an prochain**, en 8e, je vais lire un petit roman en français et je vais écrire à Inès chaque mois. **Plus tard**, je voudrais visiter le Canada.
+
+### Tâche 1 — Lecture (10 points)
 
 Lisez le bilan de Léa (Unité 12, texte C). Répondez :
 
 1. Quelle est la leçon préférée de Léa ? Pourquoi ?
-2. Combien de mots connaissait-elle avant la 7e ?
+2. Combien de mots connaissait-elle au début de l’année ?
 3. Combien de mots connaît-elle maintenant ?
 4. Cite **2 projets** de Léa pour la 8e.
 5. Quel est son rêve plus tard ?
 
-### Tâche 2 — Grammatik : 3 temps (8 points)
+**Barème :** 5 réponses ×2 selon éléments du corrigé.
+
+### Tâche 2 — Trois temps (8 points)
 
 Identifiez le temps (présent / passé composé / futur proche)
 et conjuguez si nécessaire.
@@ -55,7 +74,9 @@ Puis, conjuguez :
 7. *(aller voir, futur proche)* Nous ___ Inès.
 8. *(visiter, futur proche)* Léa ___ Montréal.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Barème :** 8 items ×1.
+
+### Tâche 3 — Bilan (12 points)
 
 Rédigez **votre bilan d'année de 7e** en **100 mots** :
 
@@ -65,41 +86,38 @@ Rédigez **votre bilan d'année de 7e** en **100 mots** :
 - Utilisez **3 connecteurs** (*d'abord, ensuite, enfin /
  l'an prochain*).
 
-## Notation
+**Barème :** Contenu 4, troistemps 4, connecteurs 2, langue 2.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Grammatik | 8 |
-| Tâche 3 — Expression écrite | 12 |
+|---|---:|
+| 1 | 10 |
+| 2 | 8 |
+| 3 | 12 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) Le passé composé, parce qu'elle peut raconter son
-week-end. 2) ~50. 3) >300. 4) Lire un livre en français +
-correspondre avec Inès. 5) Visiter Montréal.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1) passé composé · 2) présent · 3) futur proche ·
-4) passé composé · 5) étudie · 6) as fait · 7) allons voir ·
-8) va visiter.
+**Tâche 1.** 1. Le passé composé, pour raconter un week-end ou des vacances (1 + 1). 2. À peine 50 mots (2). 3. Plus de 300 mots (2). 4. Lire un petit roman et écrire à Inès chaque mois (1 + 1). 5. Visiter le Canada (2); Montréal n'est pas précisé.
 
-**Tâche 3.** Réponses libres. Critères : 100 mots · 3 temps ·
-3 connecteurs · cohérence du bilan.
+**Tâche 2.** Passé composé; présent; futur proche; passé composé; étudie; as fait; allons aller voir; va visiter. Avec le verbe fourni *aller voir*, la forme complète est *allons aller voir*. Si la consigne porte sur *voir*, *allons voir* convient.
 
----
+**Tâche 3.** Trois temps, acquis actuels et projets, selon les critères annoncés. Un nombre de mots connus ne permet pas de déduire un niveau certifié.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 12*
+- *Cadre européen commun de référence pour les langues* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), https://fr.wikipedia.org/wiki/Cadre_europ%C3%A9en_commun_de_r%C3%A9f%C3%A9rence_pour_les_langues — licence CC BY-SA 4.0.
+- *Portfolio européen des langues* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), https://fr.wikipedia.org/wiki/Portfolio_europ%C3%A9en_des_langues — licence CC BY-SA 4.0.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

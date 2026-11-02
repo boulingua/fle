@@ -1,0 +1,41 @@
+{
+  "unit": "content/track_e_kl13/units/unit09_monologue-et-presentation/index.md",
+  "exam": "content/track_e_kl13/units/unit09_monologue-et-presentation_exam/index.md",
+  "before_unit_sha256": "d98d7bcfb7a01f1586c65310605e8268c9080177cb091753ea5fcd45a67b4b44",
+  "after_unit_sha256": "d804efb258fd598edae9559156e621f2c1970d9d0936157299d37049e512aa66",
+  "before_exam_sha256": "b71888f494330339dd51ad1b88326504ebc7882c9c5196e333be69d95321d439",
+  "after_exam_sha256": "d8db8f956e0d379b86d4b9ac8e6db1c470617de2e79740d6162be056e1fa773c",
+  "source_sections": [
+    "B"
+  ],
+  "supplied_source_sha256": "32d0498e3ed6fc3cfbad55bf44f771ff164515760a0423797361f5186d7a5fc5",
+  "source_mode": "learner-reading-and-observed-oral",
+  "total_points": 30,
+  "decisions": [
+    "Preserved15+15monologue/dialogue and actualMaupassantdossier; unsupportedErnauxquestions removed; sourcevalidation required for chosenadditionaldossier."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "7de85033cba7b0638a65948eb743df4e0d5f2afbea0a70780ba0da175acf1be9",
+      "after_sha256": "b6a01a47586cf88bbe7558f50c542488b61261a4dc302da9ca3b1b2aed6acf1c",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit09_monologue-et-presentation_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit09_monologue-et-presentation_exam/index.md",
+      "before_sha256": "b6a01a47586cf88bbe7558f50c542488b61261a4dc302da9ca3b1b2aed6acf1c",
+      "after_sha256": "d8db8f956e0d379b86d4b9ac8e6db1c470617de2e79740d6162be056e1fa773c",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

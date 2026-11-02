@@ -1,0 +1,55 @@
+{
+  "unit": "content/track_e_kl11/units/unit11_discours-politique/index.md",
+  "exam": "content/track_e_kl11/units/unit11_discours-politique_exam/index.md",
+  "before_unit_sha256": "de996f63efd6df24cdaec6fd1071305c13caad3c254ceee0c0c9750ca15dd200",
+  "after_unit_sha256": "409e0989025aa8499947730cba17efaf1ec9e9234f74097df4c09a94f72f00a1",
+  "before_exam_sha256": "255dd4958a6e0fd022a2296f84f10dc82571fc0fa47165efd961f96a90d76c22",
+  "after_exam_sha256": "2e17980572521cd0e5a77802f3d0f973d0ba845199c91e6f7b48cef85340e2ec",
+  "source_sections": "C",
+  "supplied_source_sha256": "1bf78002c55d17be1df5f86263937fc4e7d9314ada43acbc0f2470ec430bb3b7",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unprovided18June speech and false chute classification. Actual neutral school speech supports analysis; live oral analysis retained."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "29813baf61134954559c1e57dbb5c7912ece0ea26853179039398b8fb1839bf5",
+      "after_sha256": "a563c3bfec19b4c8a0b4b8a19c32e86aa1c4cbc46fae26c19ea36cdf87983d04",
+      "reasons": [
+        "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+        "Align teacher key with observed speaking outcome."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit11_discours-politique_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a563c3bfec19b4c8a0b4b8a19c32e86aa1c4cbc46fae26c19ea36cdf87983d04",
+      "after_sha256": "7ddbdb15c3d80f3c9da06afd3353e864b1e4b022f8a6a1d13302f8357748d543",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit11_discours-politique_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit11_discours-politique_exam/index.md",
+      "before_sha256": "7ddbdb15c3d80f3c9da06afd3353e864b1e4b022f8a6a1d13302f8357748d543",
+      "after_sha256": "2e17980572521cd0e5a77802f3d0f973d0ba845199c91e6f7b48cef85340e2ec",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl11",
+      "unit": 11,
+      "total": 30,
+      "decision": "Observed speaking restored in task 3; source-complete reading/language tasks retained; weighting explicitly revised from embedded variant.",
+      "oral_points": 12
+    }
+  ]
+}

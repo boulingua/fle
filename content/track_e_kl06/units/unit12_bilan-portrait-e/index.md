@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 12
 slug: "bilan-portrait-e"
 bildungsplan:
-  - "3.1.3.4 Expression orale — monologisches Expression orale"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Expression orale"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-e.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit12_bilan-portrait-e.html"
+- "/track_e_kl06/units/unit12_bilan-portrait-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.PROD.overall-oral-production.01
-    - A1.INT.correspondence.03
-    - A1.INT.informal-discussion.01
-    - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.01
+  - A1.PROD.overall-oral-production.01
+  - A1.INT.correspondence.03
+  - A1.INT.informal-discussion.01
+  - A1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit12_bilan-portrait-e_exam
+  format: written-and-oral
+  duration_minutes:
+  points: 35
+  skills:
+  - speaking_production
+  - writing
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-portrait-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit12_bilan-portrait-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,8 +103,7 @@ Dernière semaine de juin. La classe de 6e B prépare un échange avec un collè
 2. Que veut dire « faire son bilan » ?
 3. Par quelle question Léo termine-t-il son message ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En groupe, répondez rapidement :
 
 - Quelle unité de l'année avez-vous préférée ? Pourquoi ?
@@ -81,8 +113,7 @@ En groupe, répondez rapidement :
 
 Notez au tableau tous les thèmes de l'année : *l'identité, la famille, l'école, la journée, les goûts, la météo, la chambre, les voyages…*
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — les briques de mon portrait
 
 | Domaine | Expressions utiles | Unité |
@@ -139,8 +170,7 @@ Un bon portrait suit un ordre clair. Voici neuf étapes possibles :
 
 Anouk rêve de visiter Strasbourg, ville frontalière proche de l'Allemagne. Sa cathédrale gothique, Notre-Dame de Strasbourg, est bâtie en **grès rose** des Vosges, ce qui lui donne sa couleur particulière. Avec sa flèche unique qui culmine à environ 142 mètres, elle fut longtemps l'un des plus hauts édifices du monde. Le poète Victor Hugo l'a décrite comme un « prodige du gigantesque et du délicat ». Aujourd'hui, c'est un lieu très visité par les élèves allemands et français des deux côtés du Rhin (source paraphrasée ci-dessous).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte D).** Réponds par une phrase complète.
 
 1. Quel âge a Anouk ?
@@ -173,6 +203,7 @@ Anouk rêve de visiter Strasbourg, ville frontalière proche de l'Allemagne. Sa 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Anouk a 11 ans.
 2. Sa sœur s'appelle Lena ; elle a 8 ans.
@@ -190,9 +221,9 @@ Anouk rêve de visiter Strasbourg, ville frontalière proche de l'Allemagne. Sa 
 → Séquence des phrases : *Salut, je m'appelle Noah* = 1 ; *Ma matière préférée est l'anglais* = 2 ; *J'ai un frère qui s'appelle Max* = 3 ; *Je rêve d'aller à Paris* = 4 ; *Et toi, qui es-tu ?* = 5.
 
 **Ex. 4.** Réponses personnelles ; vérifier la présence des neuf domaines et l'orthographe des verbes clés.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (E, environ 2 minutes) — mon portrait à un·e correspondant·e**
 
 Présente **ton portrait** en intégrant au moins **neuf éléments** vus cette année, sans lire tes notes. Termine par une question à ton/ta correspondant·e (« Et toi, … ? »).
@@ -207,34 +238,18 @@ Présente **ton portrait** en intégrant au moins **neuf éléments** vus cette 
 | Cohésion | au moins trois connecteurs (*et, mais, parce que, alors*) |
 | Interaction | conclusion + une question au/à la correspondant·e |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux présenter mon portrait en neuf éléments.
 - [ ] Je parle environ deux minutes sans lire.
 - [ ] J'utilise correctement *être*, *avoir* et *aller*.
 - [ ] J'emploie des connecteurs pour relier mes idées.
 - [ ] Je connais mes points forts et ce que je veux améliorer.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit12_bilan-portrait-e_exam" >}}).
 
-**Tâche 1 — Compréhension de l'écrit (10 P.).** Lis le portrait d'Anouk (texte D) et réponds à cinq questions par des phrases complètes.
-
-**Tâche 2 — Expression orale monologique (« Sprechen ») (10 P.).** Présente ton portrait pendant environ deux minutes, sans lire, en abordant au moins six domaines.
-
-**Tâche 3 — Expression écrite (« Schreiben ») (15 P.).** Rédige ton portrait (environ 120 mots) pour ton/ta correspondant·e : au moins huit domaines, trois connecteurs et une question finale.
-
-### Barème
-
-| Tâche | Critères | Points |
-|---|---|---|
-| 1 — Compréhension | 5 réponses justes (2 P. chacune) | 10 |
-| 2 — Oral | contenu 4 · langue 3 · fluidité/durée 3 | 10 |
-| 3 — Écrit | contenu 6 · langue 6 · cohésion 3 | 15 |
-| **Total** | | **35** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

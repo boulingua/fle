@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 5
 slug: "sprachmittlung-de-fr-resume-e"
 bildungsplan:
-  - "3.1.3.6 Médiation linguistique"
+- "3.1.3.6 Médiation linguistique"
 skills_focus:
 - mediation
 presentation:
@@ -18,22 +18,56 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e.html"
+- "/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - A2.MED.adapting-language.01
-    - A2.INT.correspondence.01
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-audio-media-and-recordings.04
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.MED.adapting-language.01
+  - A2.INT.correspondence.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-audio-media-and-recordings.04
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file:
+    /fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -63,15 +97,13 @@ Anouk reçoit un message de son cousin Karim, qui vit à Lyon et n'apprend pas l
 2. Quelles informations Anouk a-t-elle gardées ? Lesquelles a-t-elle laissées de côté ?
 3. Pour qui Anouk fait-elle ce résumé, et pourquoi cela change-t-il sa façon de parler ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelle est la différence entre **traduire** un texte et le **résumer** ?
 - Vous arrive-t-il de raconter à un proche ce que dit un message, un article ou une vidéo dans une autre langue ? Dans quelles situations ?
 - Selon vous, faut-il tout garder quand on résume ? Qu'est-ce qu'on peut supprimer ?
 - Quels mots connaissez-vous déjà pour présenter un texte en français (*il s'agit de…*, *le texte parle de…*) ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — les outils de la médiation
 
 | Français | Allemand (point de départ) | Emploi |
@@ -118,8 +150,7 @@ Remarquez : Anouk garde les **noms propres** (Zeltmusikfestival, Mundenhof), tra
 
 Le **Cadre européen commun de référence pour les langues (CECRL)**, publié par le Conseil de l'Europe, décrit les compétences des apprenants de langues. À côté de la réception (comprendre) et de la production (parler, écrire), il présente la **médiation** : reformuler un contenu pour le rendre accessible à quelqu'un qui ne le comprend pas dans la langue de départ. Le volume complémentaire de 2018 a renforcé cette place de la médiation. Résumer un texte allemand en français, comme le fait Anouk, est un exemple typique de cette compétence. *(Paraphrasé d'après Wikipédia, « Cadre européen commun de référence pour les langues », CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Comprendre le modèle (texte C).**
 
 1. De quel événement parle le résumé d'Anouk ?
@@ -146,6 +177,7 @@ d) ______, c'est une sortie idéale pour une classe.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Du Zeltmusikfestival, un festival de musique à Fribourg. 2) Sur le site du Mundenhof, à Fribourg, du 12 au 21 juillet. 3) Plus de cinquante. 4) Par exemple : *il s'agit de…*, *on apprend que…*, *l'article explique que…*, *en résumé…* (deux au choix).
 
 **Ex. 2.** a) il s'agit · b) explique · c) apprend · d) En résumé.
@@ -161,9 +193,9 @@ d) ______, c'est une sortie idéale pour une classe.
 - **M (standard) :** consigne telle quelle, avec la table de vocabulaire disponible.
 - **E (approfondissement) :** rédiger le résumé sans la table, puis ajouter une phrase de commentaire personnel (*C'est une bonne occasion de découvrir la région…*).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche de médiation (écrit, ~80 mots).**
 
 Votre correspondant·e français·e ne lit pas l'allemand. À partir de l'annonce allemande ci-dessous, rédigez-lui un **résumé en français** (environ 80 mots) qui transmet l'essentiel.
@@ -182,29 +214,18 @@ Votre correspondant·e français·e ne lit pas l'allemand. À partir de l'annonc
 | Adaptation au destinataire | ton clair, aucun mot allemand non expliqué | /1 |
 | **Total** | | **/10** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue **résumer** et **traduire** mot à mot.
 - [ ] Je repère le sujet, le lieu, la date et les faits importants d'un texte allemand.
 - [ ] J'emploie au moins trois **tournures de médiation** différentes.
 - [ ] Je rédige environ 80 mots en français correct.
 - [ ] Je n'invente aucune information et je pense à mon destinataire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé — médiation linguistique (« Klassenarbeit »)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam" >}}).
 
-**Tâche 1 — Compréhension (8 points).** Lisez le résumé-modèle (texte C) et répondez à quatre questions (sujet, lieu, date, chiffre).
-
-**Tâche 2 — Tournures de médiation (8 points).** Complétez quatre phrases avec la bonne tournure et transformez deux phrases allemandes en français idiomatique.
-
-**Tâche 3 — Médiation (« Sprachmittlung ») (14 points).** À partir d'un court article allemand fourni (annonce d'un événement local, ~60 mots), rédigez un **résumé en français** d'environ 80 mots pour un·e ami·e qui ne lit pas l'allemand.
-
-**Barème de la tâche 3 :** contenu fidèle /6 · tournures de médiation /4 · langue et longueur /3 · adaptation au destinataire /1.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

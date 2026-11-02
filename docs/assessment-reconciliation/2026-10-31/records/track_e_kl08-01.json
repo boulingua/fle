@@ -1,0 +1,75 @@
+{
+  "unit": "content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
+  "exam": "content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md",
+  "before_unit_sha256": "7500644ebcbee8fdf5643296f0bcc92e70aefb58102759c6333a60bcaa084840",
+  "after_unit_sha256": "30a89a579cee3d541ef1f00ffaf6fdab6ef32c741e3ca44473e278a423d6b03e",
+  "before_exam_sha256": "80d03bdb07825a8f0f06491a82ce1ecb4e405055a11ee6fcbc6f9b80f3851ac8",
+  "after_exam_sha256": "11d3eb92d3650ff1ae1602adfe30ca741702a45608343284097bba7054c4ed63",
+  "source_sections": "C",
+  "supplied_source_sha256": "7fc38a647f734266cbbe333702501f8a44ad6927ff8281efbab79a504c7d1f88",
+  "source_mode": "learner-reading",
+  "total_points": 20,
+  "decisions": [
+    "Replaced nonexistent summer/Soraya/book biography with actual short first-day presentation. Retained standalone consolidation of three tenses and personal rentrée message; corrected aller voir future; preserved oral interaction follow-up."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "123b89da53f4ae676c400b1a05931282b8a0a5819bb901091b412fceae239157",
+      "after_sha256": "30a89a579cee3d541ef1f00ffaf6fdab6ef32c741e3ca44473e278a423d6b03e",
+      "reasons": [
+        "Align exam total with restored primary outcomes."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "357c9ee12e2665eb68e0e775306bf234e5076efecb3817186f171bd5e96164b3",
+      "after_sha256": "a9be9a05517779a202d4702fc74572aeccbf8d5898e39c25af6cb3ccba6e41a6",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a9be9a05517779a202d4702fc74572aeccbf8d5898e39c25af6cb3ccba6e41a6",
+      "after_sha256": "044313e13d5351ef879851cd92f6198d29a146302859d8da1b86df696e265dce",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md",
+      "before_sha256": "044313e13d5351ef879851cd92f6198d29a146302859d8da1b86df696e265dce",
+      "after_sha256": "8c67094955c47690a9139a24ca9178204c3584e17573ecb1695a0d5df6e22f06",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md",
+      "before_sha256": "8c67094955c47690a9139a24ca9178204c3584e17573ecb1695a0d5df6e22f06",
+      "after_sha256": "11d3eb92d3650ff1ae1602adfe30ca741702a45608343284097bba7054c4ed63",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl08",
+      "unit": 1,
+      "total": 20,
+      "graded_tasks": [
+        {
+          "title": "Interaction de rentrée",
+          "points": 20
+        }
+      ]
+    }
+  ]
+}

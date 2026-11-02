@@ -23,14 +23,25 @@ curriculum:
     - A1.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 6
+## Modalités
 
-### Tâche 1 — Grammatik / négation (12 points)
+Sujet d'entraînement réconcilié avec les supports rédigés pour l'unité. Ce n'est pas un sujet officiel. La durée, les critères et les seuils restent à éprouver en classe; la validation pédagogique est en attente. Les données personnelles peuvent être inventées. La reprise d'un texte connu est un entraînement; une épreuve de transfert demandera un autre support validé.
 
-Mettez à la forme **négative** *ne … pas* :
+## Support
+
+### B. Texte — Le blog de Camille
+
+> **Salut ! Moi, c'est Camille.**
+> J'ai onze ans et j'habite à Lyon. J'adore la danse et je joue de la guitare. Le week-end, j'aime beaucoup cuisiner avec ma mère : nous préparons des crêpes ! Par contre, je n'aime pas trop les jeux vidéo et je déteste ranger ma chambre. Et toi, qu'est-ce que tu aimes ?
+
+### Tâche 1 — Négation (12 points)
+
+Mettez à la forme négative avec ne…pas (2 points chacun : négation encadrant correctement le verbe 1; phrase et article corrects 1).
 
 1. J'aime les bonbons.
 2. Tu manges des frites.
@@ -39,42 +50,22 @@ Mettez à la forme **négative** *ne … pas* :
 5. Vous allez au cinéma.
 6. Ils habitent à Paris.
 
-### Tâche 2 — Lecture + goûts (8 points)
+### Tâche 2 — Lecture et goûts (8 points)
 
-Lisez le mini-dialogue (Unité 5, texte C). Complétez :
+Lisez le blog de Camille et répondez (2 points chacune).
 
-- Léa adore : ____________________
-- Léa aime bien : ____________________
-- Théo adore : ____________________
-- Théo déteste : ____________________
+1. Quelle activité Camille adore-t-elle ?
+2. Quelle activité aime-t-elle beaucoup faire avec sa mère ?
+3. Qu'est-ce qu'elle n'aime pas trop ?
+4. Quelle activité déteste-t-elle ?
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+### Tâche 3 — Expression écrite (10 points)
 
-Écrivez **5 phrases** sur vos goûts : 2 choses adorées + 2
-détestées + 1 ambivalente (*j'aime bien · pas trop*). Au moins
-2 phrases avec **négation** *ne … pas*.
+Écrivez cinq phrases sur vos goûts réels ou inventés : deux goûts positifs, deux négatifs et une préférence nuancée (j'aime bien / je n'aime pas trop). Employez ne…pas dans au moins deux phrases.
 
-## Notation
+**Barème :** cinq informations répondant aux catégories 5; deux négations correctes 2; autres formes verbales et vocabulaire compréhensibles 3.
 
-| Tâche | Points |
-|--------------------------|--------:|
-| Tâche 1 — Grammatik | 12 |
-| Tâche 2 — Lecture | 8 |
-| Tâche 3 — Expression écrite | 10 |
-| **Total** | **30** |
-
-## Solutions
-
-**Tâche 1.** 1) Je n'aime pas les bonbons. 2) Tu ne manges pas
-de frites. 3) Elle ne joue pas au foot. 4) Nous n'écoutons pas
-la radio. 5) Vous n'allez pas au cinéma. 6) Ils n'habitent pas à
-Paris.
-
-**Tâche 2.** Léa adore : pas explicite, mais aime bien les
-épinards avec du fromage. Théo adore : le chocolat. Théo
-déteste : les épinards.
-
----
+## Barème total
 
 {{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
 **Total.** 30 points
@@ -89,4 +80,28 @@ déteste : les épinards.
 | 0–8 | 6 |
 {{< /callout >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 5*
+*Les seuils du sujet autonome antérieur sont conservés pour ce total de 30 points. Les allocations par tâche sont explicites ci-dessus; elles remplacent les barèmes divergents archivés. Il ne s’agit ni d’une certification GER ni d’un règlement scolaire.*
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Tâche 1.** 1 Je n’aime pas les bonbons.2 Tu ne manges pas de frites.3 Elle ne joue pas au foot.4 Nous n’écoutons pas la radio.5 Vous n’allez pas au cinéma.6 Ils n’habitent pas à Paris.
+
+**Tâche 2.** 1 La danse; 2 cuisiner/préparer des crêpes; 3 les jeux vidéo; 4 ranger sa chambre. Le texte n’énonce pas quatre goûts positifs et quatre goûts négatifs.
+
+**Tâche 3.** Plusieurs réponses possibles. Les deux phrases négatives peuvent employer « Je n’aime pas… »; ne pas exiger que le seul verbe détester constitue une négation grammaticale.
+
+{{< /details >}}
+
+## Sources
+
+- *Chandeleur* — Wikipédia (consulté le 2026-07-21), https://fr.wikipedia.org/wiki/Chandeleur — licence CC BY-SA 4.0.
+- *Repas gastronomique des Français* — Wikipédia (consulté le 2026-07-21), https://fr.wikipedia.org/wiki/Repas_gastronomique_des_Fran%C3%A7ais — licence CC BY-SA 4.0.
+- *Le repas gastronomique des Français* — UNESCO, Patrimoine culturel immatériel (2010), https://ich.unesco.org/fr/RL/le-repas-gastronomique-des-francais-00437 — © UNESCO (référencé, non reproduit).
+
+## Provenance
+
+Support : Input B, blog de Camille. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Les récits et personnes des supports originaux sont des scénarios pédagogiques.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

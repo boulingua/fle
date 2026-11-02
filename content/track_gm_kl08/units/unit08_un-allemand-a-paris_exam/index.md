@@ -23,71 +23,93 @@ curriculum:
     - A2.PLUR.building-on-plurilingual-repertoire.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 8
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez les trois extraits du journal de Léa (Unité 8, texte A).
-Répondez :
+## Support
 
-1. Pourquoi Léa est-elle surprise par le métro de Paris ?
-2. Quel mot existe à Bordeaux mais pas à Paris ?
-3. Pourquoi la dame âgée connaît-elle l'allemand ?
+### A. Le journal de Jonas (texte original, ~150 mots)
 
-### Tâche 2 — Grammatik passé composé / imparfait (10 points)
+> **Lundi soir, chambre chez Camille.**
+>
+> Premier jour à Paris. Le métro est plus rapide qu'à Karlsruhe, mais il faisait très chaud dans la rame — presque 30 °C ! Le soir, nous avons dîné à 20 h 30. Chez moi, on mange à 18 h 30. Mon estomac ne comprend rien.
 
-Mettez le verbe au temps qui convient.
+> **Mercredi matin, à la boulangerie.**
+>
+> J'ai demandé une *chocolatine* et la boulangère m'a corrigé : à Paris, on dit *« pain au chocolat »*. J'ai noté le mot dans mon carnet. Camille a beaucoup ri.
 
-1. Lundi soir, *(arriver, je)* _____________ à l'hôtel à 19h.
-2. Il *(faire)* _____________ très chaud dans la rame.
-3. Soudain, la dame *(parler)* _____________ en allemand.
-4. Pendant cinq jours, je *(visiter)* _____________ Paris.
-5. Mardi matin, *(commander, je)* _____________ un café crème.
+> **Vendredi après-midi, devant Notre-Dame.**
+>
+> Une dame âgée m'a parlé. Quand j'ai dit *« j'aime votre ville »*, elle a souri, puis elle a répondu en allemand : *« Ich liebe Karlsruhe auch. »* Elle y avait habité dix ans. Le monde est petit.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+## Sujet
 
-Écrivez **3 mini-extraits de journal** (~70 mots total) sur
-3 jours dans une ville française de votre choix. Utilisez
-**passé composé + imparfait**, mentionnez **une différence
-culturelle**.
+**Devoir surveillé (« Klassenarbeit ») — Niveau M · compréhension écrite + expression écrite**
 
-## Notation
+**Tâche 1 — Compréhension écrite (10 P.)**
 
-| Tâche | Points |
-|--------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Grammatik | 10 |
-| Tâche 3 — Expression écrite | 10 |
-| **Total** | **30** |
+Relisez les trois extraits du journal de Jonas (partie A). Répondez en phrases courtes.
 
-## Solutions
+1. Pourquoi Jonas est-il surpris par le métro de Paris ? (2 P.)
+2. Quelle différence remarque-t-il pour l'heure du dîner ? (2 P.)
+3. Quel malentendu a-t-il à la boulangerie ? (3 P.)
+4. Pourquoi la dame âgée connaît-elle l'allemand ? (3 P.)
 
-**Tâche 1.** 1) Il fait 30°C dans la rame — plus chaud qu'à
-Karlsruhe. 2) *Chocolatine* (Bordeaux) au lieu de *pain au
-chocolat* (Paris). 3) Elle a habité à Karlsruhe dix ans dans
-les années 1970.
+**Tâche 2 — Grammaire : passé composé / imparfait (10 P.)**
 
-**Tâche 2.** 1) je suis arrivée (passé composé, action). 2) il
-faisait (imparfait, description). 3) la dame a parlé (passé
-composé, ponctuel). 4) j'ai visité (passé composé, durée
-précise). 5) j'ai commandé (passé composé, action).
+Complétez avec le temps correct.
 
----
+1. Lundi soir, je *(arriver)* chez Camille à 20 h.
+2. Dans la rame, il *(faire)* très chaud.
+3. Soudain, la dame *(parler)* en allemand.
+4. Chaque matin, Camille *(manger)* une viennoiserie.
+5. Vendredi, je *(visiter)* Notre-Dame.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+**Tâche 3 — Expression écrite (10 P.)**
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+Écrivez **trois mini-extraits de journal** (~70 mots) sur trois jours dans une ville française. Employez le passé composé **et** l'imparfait, et nommez **une différence culturelle**.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 8*
+**Total : 30 P.**
+
+**Barème**
+
+| Points | Note (repère) |
+|--------|---------------|
+| 27–30  | très bien     |
+| 22–26  | bien          |
+| 17–21  | satisfaisant  |
+| 12–16  | suffisant     |
+| < 12   | à retravailler |
+
+
+
+## Corrigé
+
+**Total : 30 points.**
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+T1.1. Plus rapide et très chaud (1+1).2.20 h 30 chez Camille contre 18 h 30 chez lui (1+1).3. Demande chocolatine (1), usage local pain au chocolat (1), note le mot (1); chocolatine n’est pas une erreur universelle.4. A vécu à Karlsruhe (2), dix ans (1).
+T2. suis arrivé(e), faisait, a parlé, mangeait, ai visité : 2 points chacun. Les phrases de grammaire sont des situations séparées, pas des citations mot pour mot du journal.
+T3. Trois moments 3, PC/imparfait 3, différence contextualisée 2, langue 2. Ne pas transformer une habitude familiale en règle nationale.
+
+{{< /details >}}
+
+## Sources
+
+- « Pain au chocolat » — Wikipédia (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Pain_au_chocolat>, licence CC BY-SA 4.0.
+- « Métro de Paris » — Wikipédia (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/M%C3%A9tro_de_Paris>, licence CC BY-SA 4.0.
+- Textes (journal de Jonas, dialogues, exercices) : originaux, rédigés pour cette unité.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 10
 slug: "consommation-responsable"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_consommation-responsable.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_consommation-responsable.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit10_consommation-responsable.html"
+- "/track_gm_kl09/units/unit10_consommation-responsable.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.PROD.overall-oral-production.01
-    - A2.MED.adapting-language.01
+  - A2.PROD.creative-writing.04
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.PROD.overall-oral-production.01
+  - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit10_consommation-responsable_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_consommation-responsable-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit10_consommation-responsable-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,8 +99,7 @@ Au supermarché, Nora hésite devant deux tablettes de chocolat.
 - Pourquoi Malik hésite-t-il ?
 - Et vous, quel chocolat prendriez-vous ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En classe, à l'oral ou par écrit :
 
 - Achetez-vous parfois des produits **équitables** ou **bio** ?
@@ -75,8 +107,7 @@ En classe, à l'oral ou par écrit :
 - Selon vous, faut-il payer plus cher pour consommer de manière responsable ?
 - Quels produits achetez-vous **d'occasion** (seconde main) ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand | Exemple |
@@ -139,8 +170,7 @@ produits comme le café, le cacao, la banane ou le coton.
 *(Fait paraphrasé d'après Wikipédia — voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Réponds par une phrase complète.
 
 1. Que faisait Léa **avant** ?
@@ -180,6 +210,7 @@ c) Choisir un cartable d'occasion.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Elle achetait un nouveau tee-shirt presque chaque semaine. 2) Un reportage sur les ateliers de couture (les conditions de fabrication). 3) Deux parmi : aller d'abord en magasin de seconde main ; acheter du coton bio ; garder ses vêtements plus longtemps ; acheter moins. 4) Non, elle dépense presque la même somme, mais elle possède moins d'affaires. 5) Elle est fière de ses choix (elle ne se sent pas privée).
 
 **Ex. 2.** a-2 · b-3 · c-1 · d-5 · e-4.
@@ -187,9 +218,9 @@ c) Choisir un cartable d'occasion.
 **Ex. 3.** 1) mais · 2) parce que · 3) donc · 4) donc.
 
 **Ex. 4 (exemples).** a) *Je choisis des fruits de saison **parce qu'**ils viennent de moins loin.* b) *Je préfère réparer un objet **parce que** cela évite le gaspillage.* c) *Un cartable d'occasion est un bon choix **parce qu'**il coûte moins cher et évite de fabriquer du neuf.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (M, ~120–150 mots).**
 
 Un·e camarade dit : *« Consommer responsable, c'est trop cher et ça ne change rien. »*
@@ -206,38 +237,18 @@ Rédige une **réponse argumentée** pour le/la convaincre du contraire, en **tr
 - **Structure :** trois paragraphes lisibles. (/2)
 - **Longueur / soin :** ~120–150 mots. (/1)
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends un texte simple sur la consommation responsable.
 - [ ] Je distingue un achat ordinaire d'un achat responsable.
 - [ ] Je connais au moins cinq labels ou notions clés.
 - [ ] J'utilise *parce que*, *donc* et *mais/cependant* pour argumenter.
 - [ ] Je rédige un court texte argumenté et structuré.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit10_consommation-responsable_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)**
-Lis le texte C (« Consommer autrement, c'est possible ») et réponds aux 5 questions de l'Ex. 1 par des phrases complètes. *(2 P. par réponse.)*
-
-**Tâche 2 — Vocabulaire et langue (8 P.)**
-- Relie 5 termes à leur définition (Ex. 2). *(5 P.)*
-- Complète 3 phrases avec le bon connecteur (*parce que / donc / mais*). *(3 P.)*
-
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)**
-Rédige une réponse argumentée (~120–150 mots) à l'affirmation :
-*« Consommer responsable, c'est trop cher. »* Inclus une opinion, deux arguments avec connecteurs et une action concrète.
-- Contenu (opinion + 2 arguments + action) : 6 P.
-- Connecteurs logiques corrects : 3 P.
-- Structure et longueur : 2 P.
-- Orthographe et soin : 1 P.
-
-**Total : 30 P.**
-
-**Barème indicatif :** 30–27 = très bien · 26–22 = bien · 21–17 = satisfaisant · 16–12 = passable · < 12 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min)**
 - Situation de départ + Activer : 6'

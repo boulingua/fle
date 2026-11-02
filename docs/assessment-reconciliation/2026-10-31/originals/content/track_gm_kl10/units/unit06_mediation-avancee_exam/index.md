@@ -1,0 +1,100 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 6"
+subtitle: "Médiation avancée DE↔FR · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 6
+slug: "mediation-avancee-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.notes-messages-and-forms.02
+    - B1.MED.overall-mediation.01
+    - B1.PROD.planning.03
+    - B1.INT.conversation.01
+    - B1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
+
+Lisez le mail médical (Unité 6, texte C). **Médiez** en
+**français** (~120 mots), pour un **destinataire familier**
+(la petite-fille de la patiente, par message). Précisez le
+**registre** (familier / tutoiement) et conservez **toutes les
+infos** essentielles : valeur, recommandations, délai, contact.
+
+### Tâche 2 — médiation linguistique FR → DE (10 points)
+
+Médiez en **allemand** (~50 mots) :
+
+> *« Salut maman ! L'école a appelé : Léa a oublié son sac de
+> sport. Elle veut savoir si tu peux l'apporter avant 14h. Si
+> tu ne peux pas, ce n'est pas grave, elle empruntera celui
+> de Théo. Bisous, Léa. »*
+
+### Tâche 3 — Reflexion (5 points)
+
+Pour la Tâche 1, précisez les **4 paramètres** :
+
+1. Source : ___
+2. Cible : ___
+3. Destinataire : ___
+4. Genre : ___
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — DE → FR | 15 |
+| Tâche 2 — FR → DE | 10 |
+| Tâche 3 — Reflexion | 5 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** Modèle : *Salut Léa, voilà ce que dit le médecin
+pour ta grand-mère : son cholestérol est un peu haut
+(245 mg/dl). Il faut manger moins gras, marcher 30 min par
+jour, et refaire une analyse dans 3 mois. S'il y a des
+questions, appeler le 03 88 12 34 56. Bisous.* Critères :
+familier · 120 mots · 4 infos · pas de mot-à-mot.
+
+**Tâche 2.** Modèle : *Hallo Mama! Die Schule hat angerufen:
+Léa hat ihre Sporttasche vergessen. Kannst du sie bis 14 Uhr
+bringen? Sonst leiht sie sich Théos Tasche. Küsse, Léa.*
+Critères : 50 mots · familier · 3 infos · construction DE
+correcte.
+
+**Tâche 3.** 1) mail médical en allemand · 2) français,
+niveau B1 · 3) familier (petite-fille) · 4) message
+informel.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 6*

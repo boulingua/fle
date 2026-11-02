@@ -1,0 +1,51 @@
+{
+  "unit": "content/track_gm_kl07/units/unit06_les-transports/index.md",
+  "exam": "content/track_gm_kl07/units/unit06_les-transports_exam/index.md",
+  "before_unit_sha256": "d7383e5ae3270adeac03e8fc4546e69a3739bfe3e31b07a087340067a6adb9bc",
+  "after_unit_sha256": "636a85d0306cd8e85137871ac563d114acb92b9fb093647f798cbaef536697f7",
+  "before_exam_sha256": "a7407ea2fba6a17ee7849e3ec0713a703fd791745da47b34fe61a6516a47349a",
+  "after_exam_sha256": "3d0f1f054a29b8aa20e3557c8a27f9053118d9d2461ffa18ceb4d53d975ace90",
+  "source_sections": "C",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Actualguichettranscript supplied; nonexistentannouncement/Intercitésremoved; currentprice claim avoided."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "f213c2cc8f5e0012627fbcae91de4aabb8e5fe36786729aac731e3afc8ad303e",
+      "after_sha256": "636a85d0306cd8e85137871ac563d114acb92b9fb093647f798cbaef536697f7",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit06_les-transports/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "12fecadcc1fa0ed56eb62918f62e46bd54111ce044f6cfbb1c8fac3b3a1f1c02",
+      "after_sha256": "1cc09c1db7d6f1a779e187d8d6335899793606236594eccb09dd85eb608dc3ee",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit06_les-transports_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "1cc09c1db7d6f1a779e187d8d6335899793606236594eccb09dd85eb608dc3ee",
+      "after_sha256": "99502873887c269986daf2913a00eb9b9ebaefaa7865a7181a37e2d8e98c1d47",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit06_les-transports_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl07/units/unit06_les-transports_exam/index.md",
+      "before_sha256": "99502873887c269986daf2913a00eb9b9ebaefaa7865a7181a37e2d8e98c1d47",
+      "after_sha256": "3d0f1f054a29b8aa20e3557c8a27f9053118d9d2461ffa18ceb4d53d975ace90",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

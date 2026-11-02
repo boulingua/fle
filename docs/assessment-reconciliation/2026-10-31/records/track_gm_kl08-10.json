@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
+  "exam": "content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md",
+  "before_unit_sha256": "7894d37839d48769eb9c8268f786921923d9d133d11869443e7b4a962702a47a",
+  "after_unit_sha256": "aa65809265f91746c33029cdf247269a81844ec753fec7b7f068cf945660c97b",
+  "before_exam_sha256": "db92c7b447ff1e3c2af8973e1b6597b27916179457cb8f3e3cb0779f34e31c0c",
+  "after_exam_sha256": "4be3e6223fa2d61b76c2f11612698d8ca8dc7848d8a60e46d5abe341142cb92e",
+  "source_sections": "C",
+  "source_mode": "teacher-listening-and-live-speaking",
+  "total_points": 30,
+  "skills_observed": [
+    "listening",
+    "speaking",
+    "writing"
+  ],
+  "decisions": [
+    "Actualscriptandglosses separated; correctoralnotvideo label; fullfilmmonologueconsignandrubrics supplied."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "390ac00e33b8e5b9adc3bc998144941eb2f022da880346dc6a5910b2fff984a3",
+      "before_sha256": "390ac00e33b8e5b9adc3bc998144941eb2f022da880346dc6a5910b2fff984a3",
+      "after_sha256": "aa65809265f91746c33029cdf247269a81844ec753fec7b7f068cf945660c97b",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "245bce8702a50e8695595d3abf0d0fee5140df53067abdef5e443b09bab6ac3f",
+      "before_sha256": "245bce8702a50e8695595d3abf0d0fee5140df53067abdef5e443b09bab6ac3f",
+      "after_sha256": "73899b7714e33e429fff232f0fd42ea358da451bad4a2c67f1d9f02603a4d645",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "73899b7714e33e429fff232f0fd42ea358da451bad4a2c67f1d9f02603a4d645",
+      "after_sha256": "949b29b561c1102e5d2bdeff191d922d294b2d5fe361ffb8d38e9bbd6a9a9f7d",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "949b29b561c1102e5d2bdeff191d922d294b2d5fe361ffb8d38e9bbd6a9a9f7d",
+      "after_sha256": "0595f572b728485ce8f49295185990c4ba3d3430f8371cf33aa7a042d4ee3de6",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md",
+      "before_sha256": "0595f572b728485ce8f49295185990c4ba3d3430f8371cf33aa7a042d4ee3de6",
+      "after_sha256": "4be3e6223fa2d61b76c2f11612698d8ca8dc7848d8a60e46d5abe341142cb92e",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

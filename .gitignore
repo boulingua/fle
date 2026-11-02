@@ -3,8 +3,14 @@ _site/
 _freeze/
 .quarto/
 
-# Generated Pages artifact
-docs/
+# Generated Pages artifact; preserve authored audit and source archives.
+docs/*
+!docs/assessment-reconciliation/
+!docs/assessment-repair-2026-10-31/
+!docs/eqs-archive/
+!docs/factual-source-repairs/
+!docs/curriculum-review-2026-10-31.json
+!docs/material-build-2026-10-31.json
 
 # Generated placeholder downloads (CI rebuilds on every run)
 downloads/

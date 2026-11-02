@@ -23,28 +23,32 @@ curriculum:
     - A2.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 9
+## Modalités
 
-### Tâche 1 — Hörverstehen (15 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Écoutez le podcast *Choses à Savoir* (Unité 6, texte C).
-Répondez :
+## Écoute
 
-1. Quel est le sujet de l'épisode ?
-2. Comment s'appelle le phénomène scientifique cité ?
-3. Pourquoi le ciel est-il bleu (en 1 phrase) ?
-4. Pourquoi les couchers de soleil sont rouges/oranges ?
+La personne enseignante lit le texte deux fois; la transcription reste réservée à la correction.
 
-Remplissez la grille **3-2-1** :
+### Tâche 1 — Écoute (15 points)
 
-| Catégorie | Réponses |
-|-------------------|----------|
-| 3 mots-clés | |
-| 2 idées principales | |
-| 1 avis personnel | |
+Après deux lectures, répondez.
+1. Quelle question pose Sofiane ?(2)
+2. Quel âge a-t-il ?(1)
+3. Quelles couleurs contient la lumière qui paraît blanche ?(2)
+4. Quelle couleur l’air disperse-t-il davantage dans cette explication ?(2)
+5. Que change le trajet de la lumière au coucher du soleil ?(2)
+6. Quelles deux couleurs dominent alors ?(2)
+Complétez ensuite une grille : deux mots-clés (2), une idée importante (1), un avis clairement séparé (1).
+
+**Barème :** 11 points pour six réponses +4 pour grille, selon consigne.
 
 ### Tâche 2 — Vocabulaire (5 points)
 
@@ -53,50 +57,66 @@ Traduisez :
 - die Folge (Episode) · der Moderator · das Studio · der Auszug
  · abonnieren.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+**Barème :** 5 termes ×1.
+
+### Tâche 3 — Résumé (10 points)
 
 Rédigez un **résumé en 5 phrases** (~80 mots) du podcast :
-titre + sujet + 2 idées-clés + votre avis personnel.
+titre + sujet + 2 idées-clés + votre avis personnel. Utilisez « l’animatrice explique que » ou une autre attribution; séparez l’avis du résumé.
 
-## Notation
+**Barème :** Contenu 5, langue/attribution 3, lexique 2.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Hörverstehen | 15 |
-| Tâche 2 — Vocabulaire | 5 |
-| Tâche 3 — Expression écrite | 10 |
+|---|---:|
+| 1 | 15 |
+| 2 | 5 |
+| 3 | 10 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) Pourquoi le ciel est bleu. 2) Diffusion de
-Rayleigh. 3) Les molécules d'air diffusent plus le bleu (courte
-longueur d'onde). 4) La lumière traverse plus d'atmosphère, le
-bleu se disperse, le rouge domine.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-Grille : mots-clés *ciel, bleu, Rayleigh* ; idées
-*1) le bleu diffusé par molécules d'air, 2) au coucher le rouge
-domine* ; avis libre.
+**Tâche 1.** Pourquoi le ciel est bleu (2); onze ans (1); toutes les couleurs (2); le bleu (2); un trajet plus long dans l'atmosphère (2); rouge et orange (1 + 1); deux mots pertinents (2); une idée fidèle (1); un avis séparé du résumé (1). Ne pas exiger le nom de Rayleigh, absent du support. Le podcast original s'intitule « Une question par jour ».
 
-**Tâche 2.** un épisode · l'animateur · le studio · un extrait
-· s'abonner.
+**Tâche 2.** Un épisode; l'animateur; le studio; un extrait; s'abonner.
 
-**Tâche 3.** Réponses libres. Critères : 5 phrases · titre +
-sujet + 2 idées + avis · 80 mots.
+**Tâche 3.** Titre, sujet, deux idées et avis distinct (5); discours rapporté et langue (3); vocabulaire (2).
 
----
+{{< /details >}}
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< details title="Texte à lire — personne enseignante" role="key" >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+### C. Transcription modèle (texte original)
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 6*
+> **Podcast « Une question par jour » — épisode du 12 mars 2026**
+>
+> *Pourquoi le ciel est-il bleu ?*
+>
+> Bonjour à toutes et à tous ! Aujourd'hui, une question posée par Sofiane, onze ans : pourquoi le ciel est-il bleu ?
+>
+> La lumière du Soleil paraît blanche, mais elle contient toutes les couleurs. Quand elle traverse l'atmosphère, l'air disperse surtout le bleu, car cette couleur a une onde plus courte. Voilà pourquoi, en pleine journée, le ciel nous semble bleu.
+>
+> Et le soir ? Au coucher du soleil, la lumière traverse une couche d'air beaucoup plus épaisse. Une plus grande partie de la lumière bleue est diffusée hors de la direction du Soleil; dans cette direction, le rouge et l'orange peuvent alors dominer.
+>
+> Merci d'avoir écouté. Posez-nous vos questions, et à demain !
+
+{{< /details >}}
+
+## Sources
+
+- NASA — Crepuscular rays and light scattering (vérifié le 31 octobre 2026), <https://science.nasa.gov/earth/earth-observatory/crepuscular-rays-and-light-scattering-150090/>.
+
+
+- *Podcasting* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Podcasting>, licence CC BY-SA 4.0.
+- *Les P'tits Bateaux* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Les_P%27tits_Bateaux>, licence CC BY-SA 4.0.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

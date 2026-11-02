@@ -1,0 +1,67 @@
+{
+  "unit": "content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
+  "exam": "content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md",
+  "before_unit_sha256": "a39985c0ac475346335a317237865649acbd403463ba417adc8c7de707c08538",
+  "after_unit_sha256": "e60a18612d6a138271b3d960c1f5ff2b8b17885a997bb31c5cd6148e81eab00a",
+  "before_exam_sha256": "1cc353307646aed79aa042d6a8aa25beefefc91b632088961103819b3e5c496b",
+  "after_exam_sha256": "d37f7ab9ff69344b9ca9ea8529f493289a17958d0f85fdcaa411441cf0873878",
+  "source_sections": [
+    "cinq situations autonomes du sujet antérieur"
+  ],
+  "supplied_source_sha256": "55020aef61c0b12a6e2c3144b802472ca4282a4cc21640e7a11a0cab702299d9",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "task_points": [
+    10,
+    10,
+    10
+  ],
+  "decisions": [
+    "Retain five self-contained listening situations and real oral/written performances.",
+    "Keep sibling total30; explicitly reweight the embedded five-criterion oral task to10 instead of silently retaining a /20 score."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "99ba8802aeb4e494bb9ea799ed2c38be4059035811bc1e5a77be97df119609a4",
+      "after_sha256": "e60a18612d6a138271b3d960c1f5ff2b8b17885a997bb31c5cd6148e81eab00a",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ee195314f9e54ab93eac2bd92a8d40c86441ae5c8d3df08fc2587a7a44156a6c",
+      "after_sha256": "37b29715aa4e412df7c44d1f144cd56e32c6559e74392536fcf15cd3a7e7f802",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "37b29715aa4e412df7c44d1f144cd56e32c6559e74392536fcf15cd3a7e7f802",
+      "after_sha256": "8d3666301bb197261383c82f97975c0cc42a6a47157ad1b60a29814beb63b7d7",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "8d3666301bb197261383c82f97975c0cc42a6a47157ad1b60a29814beb63b7d7",
+      "after_sha256": "180fabf1a8e68a0fb51e5869be06b8120c30ffe954a6d0a632bef4c4cf71eeea",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md",
+      "before_sha256": "180fabf1a8e68a0fb51e5869be06b8120c30ffe954a6d0a632bef4c4cf71eeea",
+      "after_sha256": "d37f7ab9ff69344b9ca9ea8529f493289a17958d0f85fdcaa411441cf0873878",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

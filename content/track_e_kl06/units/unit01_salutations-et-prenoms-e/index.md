@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 1
 slug: "salutations-et-prenoms-e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - speaking_interaction
 presentation:
@@ -18,22 +18,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_salutations-et-prenoms-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_salutations-et-prenoms-e.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit01_salutations-et-prenoms-e.html"
+- "/track_e_kl06/units/unit01_salutations-et-prenoms-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.conversation.01
-    - A1.INT.correspondence.01
-    - A1.LING.orthographic-control.01
-    - A1.LING.phonological-control.01
-    - A1.MED.collaborating-to-construct-meaning.01
+  - A1.INT.conversation.01
+  - A1.INT.correspondence.01
+  - A1.LING.orthographic-control.01
+  - A1.LING.phonological-control.01
+  - A1.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit01_salutations-et-prenoms-e_exam
+  format: written
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_interaction
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_salutations-et-prenoms-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit01_salutations-et-prenoms-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -64,15 +97,13 @@ C'est la rentrée. Dans la cour du lycée, Anouk cherche sa salle de classe. Un 
 2. Pourquoi dit-elle « tu » à Tristan mais « vous » à madame Lefèvre ?
 3. Quel mot les deux élèves utilisent-ils pour donner leur prénom ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Comment dit-on « bonjour » en allemand, en anglais et en espagnol ?
 - Connaissez-vous déjà des mots français pour saluer ? Lesquels ?
 - À qui dites-vous « du » et à qui dites-vous « Sie » en allemand ? Le français fonctionne-t-il de la même façon ?
 - Récitez l'alphabet que vous connaissez. Quelles lettres pourraient sonner différemment en français ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand | Registre |
@@ -123,8 +154,7 @@ En cas de doute avec un adulte, choisissez **vous** : c'est plus poli.
 
 En France, entre amis, en famille ou entre jeunes qui se connaissent, on se salue souvent par **la bise** : un léger baiser sur la joue, parfois accompagné d'un petit bruit. Le nombre de bises n'est pas le même partout : selon les régions, on en fait deux, trois ou même quatre, et l'on ne commence pas toujours par la même joue. Entre personnes qui ne se connaissent pas, ou dans un cadre formel (avec un professeur, dans un magasin), on préfère généralement se **serrer la main** ou simplement dire *« Bonjour »*. Il n'y a donc pas de règle unique : mieux vaut observer et suivre l'usage local (d'après *Bise (salutation)*, Wikipédia, CC BY-SA).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte B).**
 
 1. Quel est le nom de famille d'Anouk ? Comment l'épelle-t-elle ?
@@ -163,6 +193,7 @@ En France, entre amis, en famille ou entre jeunes qui se connaissent, on se salu
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Schmidt ; S-C-H-M-I-D-T. 2) De Fribourg ; sa famille habite à Strasbourg. 3) Française, de Colmar. 4) Onze ans toutes les deux. 5) « Bonjour à toutes et à tous. »
 
 **Ex. 2.** 1) *Comment **t'**appelles-tu ?* (tutoiement). 2) *Vous avez* (formel). 3) *Tu habites* (familier). 4) *Comment vous appelez-vous ?* (formel).
@@ -170,9 +201,9 @@ En France, entre amis, en famille ou entre jeunes qui se connaissent, on se salu
 **Ex. 3.** 1) Bonjour. 2) Bonsoir. 3) Salut / Coucou. 4) Au revoir (madame/monsieur). *(Autres réponses correctes possibles.)*
 
 **Ex. 4.** 1) W. 2) Y. 3) Ç. 4) Réponses libres (vérifiées par le/la partenaire).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (interaction orale, en binôme, ~8 répliques) :**
 
 Jouez une scène de première rencontre au lycée. Chaque élève doit : saluer, donner son prénom et son nom, l'épeler, dire son âge, sa classe et sa nationalité, puis prendre congé. Ajoutez une réplique où vous vous adressez à un adulte (le professeur qui passe) en utilisant **vous**.
@@ -187,27 +218,18 @@ Jouez une scène de première rencontre au lycée. Chaque élève doit : saluer,
 | Tu / vous | choix correct selon l'interlocuteur |
 | Fluidité et prononciation | dialogue compréhensible, débit régulier |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux saluer de façon familière **et** de façon formelle.
 - [ ] Je peux me présenter en cinq phrases (prénom, nom, âge, classe, nationalité).
 - [ ] Je sais épeler mon nom en français.
 - [ ] Je sais quand employer « tu » et quand employer « vous ».
 - [ ] Je peux tenir un court dialogue de rencontre avec un(e) camarade.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit01_salutations-et-prenoms-e_exam" >}}).
 
-**Tâche 1 — Interaction orale (10 points).** En binôme, jouez un dialogue de première rencontre (min. 8 répliques) : salutations, présentation complète, épellation du nom, prise de congé, et une adresse en « vous » à un adulte.
-
-**Tâche 2 — Vocabulaire et langue (8 points).** a) Donnez 6 salutations et indiquez leur registre (familier / formel) — 6 pts. b) Écrivez les lettres « double-vé », « i grec », « cé cédille » — 2 pts.
-
-**Tâche 3 — Expression écrite (12 points).** Rédigez votre carte d'identité en français (environ 60 mots) : prénom, nom, âge, classe, ville, nationalité, et une phrase pour saluer un nouveau camarade + une phrase pour saluer poliment le professeur.
-
-**Barème : 30 points.** ≥ 27 : très bien · 21–26 : bien · 15–20 : satisfaisant · 9–14 : passable · < 9 : insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 - **Timing (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Aperçu de la suite 2'.
 - **Organisation :** Situation de départ lue à deux voix ou écoutée ; vocabulaire en frontal court, puis travail en binômes pour S'entraîner et Produire. Prévoir des cartes-prénoms pour l'épellation.

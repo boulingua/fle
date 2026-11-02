@@ -23,76 +23,96 @@ curriculum:
     - B1.MED.acting-as-an-intermediary-in-informal-situations.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 60
+assessment_scoring: points-only
 ---
 
-## Devoir surveillé — Niveau M, classe 10
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+Durée indicative : 60 minutes, à éprouver en classe.
 
-Lisez le discours de Léa (Unité 11, texte C). Répondez :
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-1. Quelle est l'accroche ?
-2. Quelle est la thèse ?
-3. Citez les **3 arguments**.
-4. Quelle est la chute ?
+## Support
 
-### Tâche 2 — Figures de style (8 points)
+### D. Discours modèle (texte original)
 
-Anaphore (A), question rhétorique (Q) ou métaphore (M) ?
+> **Discours de Léa pour la remise des diplômes (≈ 3 min)**
+>
+> Mesdames, Messieurs, chers camarades : en octobre 2018, j'avais huit ans et je ne parlais pas un mot de français.
+>
+> Aujourd'hui, je quitte ce collège avec mon diplôme en poche. Et je veux vous dire ceci : **apprendre une langue, c'est apprendre à voir le monde autrement.**
+>
+> D'abord, le français m'a donné des amis. Karim à Lille, Inès à Montréal, Mehdi à Sfax. Sans eux, je serais une autre personne.
+>
+> Ensuite, le français m'a ouvert des livres. Chaque histoire lue dans cette langue a déplacé un peu mon regard.
+>
+> Enfin, le français m'a ouvert un avenir : un stage, peut-être des études à l'étranger, des portes que je n'imaginais pas.
+>
+> Alors, mes amis, **n'arrêtez jamais d'apprendre.** Une langue de plus, c'est un monde de plus. Merci.
 
-1. *« Je rêve d'égalité. Je rêve de fraternité. Je rêve de
- paix. »*
-2. *« La nature est notre première maison. »*
-3. *« Comment pouvons-nous rester silencieux ? »*
-4. *« Vous avez le droit de savoir. Vous avez le droit de
- choisir. Vous avez le droit de partir. »*
-5. *« L'éducation est la clé qui ouvre toutes les portes. »*
-6. *« Est-il acceptable que des enfants n'aient pas accès à
- l'école ? »*
+### Tâche 1 — Compréhension (8 points)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (14 points)
+Lisez le discours fourni.
+a) Repérez l'accroche. (2)
+b) Formulez la thèse avec vos mots. (2)
+c) Nommez les trois arguments. (3)
+d) Quelle image rapproche langue et monde dans la chute ? (1)
 
-Rédigez **votre discours** (~250 mots) sur un sujet au choix.
-Plan complet : **accroche** + **thèse** + **3 arguments** +
-**chute**. Utilisez **2 figures de style** au minimum.
+**Barème :** 2+2+3+1.
 
-## Notation
+### Tâche 2 — Langue (6 points)
+
+Classez et justifiez : anaphore, question rhétorique ou métaphore.
+1. « Notre école est un jardin où chacun peut grandir. »
+2. « Allons-nous vraiment laisser faire ? »
+3. « Marchons pour nos droits. Marchons pour notre avenir. Marchons ensemble. »
+
+**Barème :** 3 classements justifiés × 2.
+
+### Tâche 3 — Production (16 points)
+
+Rédigez un discours d'environ 250 mots sur « Un engagement qui me tient à cœur » : accroche, thèse, trois arguments, chute. Utilisez deux figures de style et des connecteurs. Les exemples peuvent être fictifs, sans citation inventée attribuée à une personne réelle.
+
+**Barème :** Structure 4; figures 3; contenu 5; langue 4.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 8 |
-| Tâche 2 — Figures | 8 |
-| Tâche 3 — Expression écrite | 14 |
+|---|---:|
+| 1 | 8 |
+| 2 | 6 |
+| 3 | 16 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) « En octobre 2018, j'avais 8 ans et je ne
-parlais pas un mot de français. » 2) « Apprendre une langue,
-c'est apprendre à voir le monde autrement. » 3) Amitiés (Karim,
-Inès, Mehdi) · livres (Bondoux, Camus) · avenir (stage *Le
-Monde*, Erasmus Montréal). 4) « N'arrêtez jamais d'apprendre.
-Une langue de plus, c'est un monde de plus. Merci. »
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1) A · 2) M · 3) Q · 4) A · 5) M · 6) Q.
+**T 1.**a Souvenir d'octobre 2018/huit ans sans français 2. b Apprendre une langue change le regard sur le monde 2. c Amitiés 1, livres 1, avenir 1. d Langue supplémentaire comparée à un monde / ouverture 1. Aucun Bondoux, Camus ou stage au Monde n'est nommé.
 
-**Tâche 3.** Réponses libres. Critères : 250 mots · plan
-complet · 2 figures · style oratoire.
+**T 2.** 1 Métaphore : école/jardin, grandir.2 Question rhétorique : sollicite l'adhésion plutôt qu'une réponse informative.3 Anaphore : répétition de « Marchons ». Pour chacun, identification 1 et justification 1.
 
----
+**T 3.** Structure 4; figures pertinentes 3; contenu/cohérence 5; langue 4. L'effet oral ne peut être certifié par le texte : le prolongement observé est distinct.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Prolongement
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 11*
+Prononcez ensuite votre discours pendant deux à trois minutes à partir de mots-clés. Un partenaire indique une idée retenue et un passage à clarifier. Ce prolongement oral est observé séparément, hors du barème écrit annoncé.
+
+## Sources
+
+- « Rhétorique » — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Rh%C3%A9torique>, licence CC BY-SA 4.0.
+- « Figure de style » — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Figure_de_style>, licence CC BY-SA 4.0.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

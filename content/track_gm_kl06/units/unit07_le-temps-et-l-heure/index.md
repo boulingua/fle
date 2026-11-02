@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 7
 slug: "le-temps-et-l-heure"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.7 Moyens linguistiques — lexique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - reading
 - writing
@@ -21,22 +21,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_le-temps-et-l-heure.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_le-temps-et-l-heure.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit07_le-temps-et-l-heure.html"
+- "/track_gm_kl06/units/unit07_le-temps-et-l-heure.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.overall-written-production.01
-    - A1.REC.reading-for-information-and-argument.02
-    - A1.REC.reading-for-orientation.03
-    - A1.INT.correspondence.03
-    - A1.PROD.compensating.01
+  - A1.PROD.overall-written-production.01
+  - A1.REC.reading-for-information-and-argument.02
+  - A1.REC.reading-for-orientation.03
+  - A1.INT.correspondence.03
+  - A1.PROD.compensating.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit07_le-temps-et-l-heure_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_le-temps-et-l-heure-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_le-temps-et-l-heure-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,15 +102,13 @@ Théo écrit un message à Léa pour organiser leur semaine.
 2. Pourquoi Léa refuse-t-elle ce jour ?
 3. À quelle heure les deux amis se retrouvent-ils finalement ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel jour est-on aujourd'hui ? Et demain ?
 - Quelle heure est-il maintenant, dans ta classe ?
 - Cite les 12 mois de l'année en allemand. Lesquels ressemblent au français ?
 - Quels mots français pour « le temps » connais-tu déjà (*aujourd'hui, demain, semaine…*) ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand |
@@ -126,8 +155,7 @@ En français, cinq jours de la semaine gardent la trace des noms latins des astr
 
 *(Source paraphrasée : « Noms des jours de la semaine », Wikipédia, CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — L'heure formelle.** Écris l'heure en français formel (système sur 24 heures).
 
 1. 9 h 45 → ____________
@@ -166,6 +194,7 @@ En français, cinq jours de la semaine gardent la trace des noms latins des astr
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) il est neuf heures quarante-cinq. 2) il est douze heures trente / midi et demi. 3) il est seize heures quinze. 4) il est dix-neuf heures.
 
 **Ex. 2.** 1) avril · 2) juillet · 3) novembre · 4) janvier.
@@ -173,9 +202,9 @@ En français, cinq jours de la semaine gardent la trace des noms latins des astr
 **Ex. 3.** 1) le 14 février · 2) le 3 juillet · 3) le 25 décembre.
 
 **Ex. 4.** 1) quel jour · 2) quelle heure / et demie · 3) à.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (M, ~40 mots)**
 
 Écris un court texte : *Ma semaine*. Présente **trois activités** de ta semaine avec le **jour** et l'**heure** (formelle). Termine par ta **journée préférée** et explique pourquoi.
@@ -190,34 +219,18 @@ En français, cinq jours de la semaine gardent la trace des noms latins des astr
 | Langue | jours/mois corrects, heure bien formée |
 | Structure | phrases reliées (*le lundi…, le mercredi…*) |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je dis l'heure formelle et informelle.
 - [ ] Je nomme les 7 jours et les 12 mois sans modèle.
 - [ ] Je lis un emploi du temps pour trouver une information.
 - [ ] J'écris une date complète : *le 14 mai à 17 heures*.
 - [ ] Je pose une question sur le jour et l'heure.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit07_le-temps-et-l-heure_exam" >}}).
 
-**Tâche 1 — Lexique (10 P.)** : écris les 7 jours de la semaine et 5 mois de ton choix, dans l'ordre.
-
-**Tâche 2 — L'heure (10 P.)** : transcris 5 heures données (horloges/chiffres) en français formel.
-
-**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)** : rédige 3 dates personnelles (anniversaire, fête, jour préféré) avec le jour et l'heure quand c'est pertinent (~40 mots).
-
-**Barème**
-
-| Tâche | Points |
-|---|---|
-| 1 — Lexique | 10 |
-| 2 — L'heure | 10 |
-| 3 — Expression écrite | 10 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' · Produire 10' · Réfléchir 3' · Aperçu de l'évaluation 4'.
 

@@ -1,0 +1,361 @@
+[
+  {
+    "path": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
+    "before_sha256": "010a77aa428e5e800c999dd6bb4b9a52fcd9ef2e2e7f1682d1360714d423e990",
+    "after_sha256": "64a3d43dec97b32a3c3754cfaa93340be68e796f6ee4ec013aa983f137749537",
+    "reasons": [
+      "Remove false absolute syntax rule.",
+      "Attach primary source for controlled correction."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md",
+    "before_sha256": "3032c9252894fabae1f472f0838f3bf807eebf778e048dd5f9f451a54880b322",
+    "after_sha256": "c68d7bece6cb9163bc1414295ec5f5f866c9921684f553aefc4d3c76d7f3acb1",
+    "reasons": [
+      "Attach primary source for controlled correction."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md",
+    "before_sha256": "2a8e08c1700fe3d83f25c3536217fb5f00bbe0469d6319189cffd8c3de6def69",
+    "after_sha256": "75571c3f83876d0dae295fd54a105a17612215e62faee927c9758ee5770cc6e8",
+    "reasons": [
+      "Separate narrative person and focalization in task as well as lesson.",
+      "Repair legacy key after lesson correction.",
+      "Do not infer a newly built school from fresh paint."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md",
+    "before_sha256": "a176dc07a44c9ced4782798afc943bd4cc1565a192c779dfc90de4bd48eb87f2",
+    "after_sha256": "11473f8b09395dcd8104ff61703a4951ecd8bd5a598552479053b976e6d70585",
+    "reasons": [
+      "Remove outdated current membership count; date demographic evidence.",
+      "Attach primary source for controlled correction."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md",
+    "before_sha256": "4388a5635839437a08fd242c79fd0b59eb1ffd9f80180b4b70a0850c5ac53314",
+    "after_sha256": "1165c27f944fd0c6190aae6db6e2e9ad77312f080d819c9939f61993d19514c5",
+    "reasons": [
+      "Attach primary source for controlled correction."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
+    "before_sha256": "15420b52fcdb8a0cb3906b45d91906cdf1c763324b784f1fc5ce1309480755b8",
+    "after_sha256": "c010dcaceb602331b5f3727e82b80f0ea1d9bc1381f4e3bfab285b8c44a76ac2",
+    "reasons": [
+      "Remove outdated current membership count; date demographic evidence.",
+      "Bind demographic figure to actual source year.",
+      "Attach primary source for controlled correction."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit02_francophonie-pluralite_exam/index.md",
+    "before_sha256": "d2f2f03e5e55df9fa8de6ad9aff6cc535c49bb51ade259315aa04862195fb781",
+    "after_sha256": "16d5951ae5b739d557fb8c0e12a98d45801455a5d3691fb6b781b20a5b221c77",
+    "reasons": [
+      "Attach primary source for controlled correction.",
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit06_podcasts-en-francais/index.md",
+    "before_sha256": "649d2583bcdae26b061cae5e093445fcdc94f7537ef059a6a2e5bd00082fd8e6",
+    "after_sha256": "ecbcb88b9e507bee1348d246850d21f112e35f1ae1b5cb4fb4ccdac98f500c00",
+    "reasons": [
+      "Qualify wavelength/direction explanation rather than claim complete blue disappearance.",
+      "Attach primary source for controlled correction."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md",
+    "before_sha256": "9581395c05824f6121a0d6378dbf1d5e9f019f8cc2c2f435433fb4cb9cca7343",
+    "after_sha256": "a468a554538f8a78ddc59ce3988aeab0f06aa7ff42a0737c95c7723efed074f5",
+    "reasons": [
+      "Qualify wavelength/direction explanation rather than claim complete blue disappearance.",
+      "Attach primary source for controlled correction."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit06_mediation-finale/index.md",
+    "before_sha256": "ad4ff2410583257277b8b8b83ccb5dbe2e46b0bdf65546e740618dfe332346c5",
+    "after_sha256": "4ee02150871bd8170ea0484ff533bf75c8cea1a7e09ce3fbb7b67e722fcfa899",
+    "reasons": [
+      "A structural loan is not inherently incorrect."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit11_mediation-de-base/index.md",
+    "before_sha256": "ec3306518d4d0abd85a4a34b420bc20622ffd41d749a36f24351e8878ab40a37",
+    "after_sha256": "60d86e426c29fc94f8b3f0a833541f9980f887b4539e3df26bb7e36481250362",
+    "reasons": [
+      "Separate authored visitor exercise from current operational information."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+    "before_sha256": "d4f5397dd8f2246ab04b07548aa5cc252c6e36a6623c22e6be617518ada9be3f",
+    "after_sha256": "04fe806054f2156099370c634279bf92503bddc691f0b48e36b1afcb48dce823",
+    "reasons": [
+      "Separate authored visitor exercise from current operational information."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md",
+    "before_sha256": "f664dbd1d26b26b704370800061d6f94b6be1094a7ef7bf45fa202d615fd250a",
+    "after_sha256": "b6b299f48f183efa9abf01b2be6a8451f3e7842c04c952986f10446cc784de20",
+    "reasons": [
+      "Separate authored visitor exercise from current operational information."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+    "before_sha256": "6936c96936ad39a27b20d83e7a4fde42ce08e3be8624b5240183148ea333a4d1",
+    "after_sha256": "2d0bab98fe47425a4cbae85ab0e962a99db696bb1eaa4b786c6ed62903ab4976",
+    "reasons": [
+      "Attach primary source for controlled correction."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md",
+    "before_sha256": "a02b9c7b8c41f907af480cfeab341cb73e079b6605b5ad5909258f5e9c923ea3",
+    "after_sha256": "e13e8f42a44fb47bcf9f42d725c98ee9a356268acd782e8d158643eccb82fcf4",
+    "reasons": [
+      "Attach primary source for controlled correction."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+    "before_sha256": "74dfeb2ae93d0772515b1aae5b51480ec76e51301e469ef3046e0de169417608",
+    "after_sha256": "eba4cc9ec8804951cab88460754e3bac9056da88889dcbee2be29b2a7ca97251",
+    "reasons": [
+      "Question follows actual bounded source.",
+      "Do not turn a local observation into a national statistic.",
+      "Replace invented national percentages with an explicit fictional group; retain quantifier/mediation learning goals.",
+      "Align cultural exercise keys with corrected, bounded prompts."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
+    "before_sha256": "5fb2bd44b6187fc631b854ebaddf68c20ddf7c93bc0ecc66a030c1a095bab5e2",
+    "after_sha256": "6fc4f6cf6ad6da2f70a300f8afe9d524a8db9a8d76ec638730f5cb0779d9861c",
+    "reasons": [
+      "Keep matching task usable without false eligibility guarantee.",
+      "Align model with scoped programme table.",
+      "Pour and afin de can both express same-subject purpose.",
+      "Accept both valid purpose constructions."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit12_bilan-12e_exam/index.md",
+    "before_sha256": "09c7379dc71436b0314c4b30e4cfe5b3a896a88334114f7b057225760346b709",
+    "after_sha256": "3bf460722820da62e8500e521c921341ad18a15f9eaf1d3da546ca241bc0f55c",
+    "reasons": [
+      "Expose task maxima already implied by the original additive criterion table; total remains 20."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md",
+    "before_sha256": "6b5dc5bd0003ced22dd5e01af75a1a4b779ae0b98e3df63f67e5c1b704748193",
+    "after_sha256": "a9c3b7437883acba0193faea6d2852b786727b10fa3f85fd6c18d012b43c10b4",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit05_mediation-academique_exam/index.md",
+    "before_sha256": "8c4a8240118fbd1774ad5bd94ad273d356072ba58c1095953b20e2aa49af3371",
+    "after_sha256": "b91eb8add5ab00ee800a7e18b486b3e8020592420eac1fd59c700e14dbbd0823",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md",
+    "before_sha256": "213789fe1587e7915a783c87390a4bdb316eff748c8b1405f2a16d589598bea9",
+    "after_sha256": "4d77299d4faf5a711eea52b3648a1cdb15c135df6946e173b17b21e41fe78f08",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md",
+    "before_sha256": "69f90fe849e3d88dd8342207ae07636ddf67050d2def49a7d06b1624b13fc194",
+    "after_sha256": "e18e4eacc1ddf1e12db8710c21b9d9f21a355c6bc00c216f6518f99750471755",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md",
+    "before_sha256": "bc12a16550716e1487de8b22c4a3769ffa3b19630f5c0f4d59bf33e028eea2e8",
+    "after_sha256": "7488391243364b80fbeff274a4469dd6a70b2a9a7c048e4d15d6a695be3abf9b",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit07_discours-radio_exam/index.md",
+    "before_sha256": "7a90bd25fbb03d0b6c0d3fee60a58db0dcaadcbd19393586be594c03dc35da3b",
+    "after_sha256": "fbcb8174e7d9e8cde63f8fbb3fc6c7132f750326df3d384d62ff0a44092495da",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md",
+    "before_sha256": "b30c8f6a9ff272cbb288a37e970bdfee6a88588870790f80f1dfa7f49149c370",
+    "after_sha256": "8191ec1dae8e7feb58c726433c2f079d6dbc9f31e5101468b8790948d06335e3",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit04_abitur-mock-1_exam/index.md",
+    "before_sha256": "d19902fce1742de34404f78e00fb5d8003faab3e3e0626852d1006ba5e7e8efa",
+    "after_sha256": "9b747ac1b5b92a5d8b1ed991640dc70845a49a6b04073d56a5f4c876d248fdc7",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep_exam/index.md",
+    "before_sha256": "13fed0ba4c7c267b35d42e3464f68a142d999781caac5aa6c93ba987955221b7",
+    "after_sha256": "f1eec98537b7d46ef0cd64378a737ba084cc83aa455ca7a0b77c905d5b4d76e2",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit08_discussion-sur-stimulus_exam/index.md",
+    "before_sha256": "f9a1b2da2f3ce0639500a17192a334fcaa379fbf88f91515cda2dc772ad664e0",
+    "after_sha256": "dbe0f602b64b5528898e46a1e80260c8d262c17e626fdc319d6ba4acd1b55db3",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit10_reflexion-sur-soi_exam/index.md",
+    "before_sha256": "f1670d7bb47f53d27d8f0815cdc3bd39d89dd0429ea754c6accdd6696aee61d5",
+    "after_sha256": "30f7fc00725ae8fda42a1e65f8d386852e95c0fe8a981e4cdf8688b54ca20eb5",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit11_abitur-mock-final_exam/index.md",
+    "before_sha256": "fb83517f3877592c8897bc47b1181d1dc3b8fe5ba1d40df8e55fba7c45f0abaf",
+    "after_sha256": "92af2fd46523ee356fd824d0e07bca79ce5b77f5ff917e34d2e19e987790adb2",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit12_bilan-final-abitur_exam/index.md",
+    "before_sha256": "9478c744807cf315f95b32d60d62b5a29336839e68137d0fc40f8121328ebc12",
+    "after_sha256": "a855b2da65622b09db94b9075c6f1a5e0705e616734ddea8d3b70ef3cab815e9",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md",
+    "before_sha256": "37b29715aa4e412df7c44d1f144cd56e32c6559e74392536fcf15cd3a7e7f802",
+    "after_sha256": "8d3666301bb197261383c82f97975c0cc42a6a47157ad1b60a29814beb63b7d7",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md",
+    "before_sha256": "e7a9a26e85ffc58f2f6796197909c07db1e657a1c74369bb634cf9aac215be3e",
+    "after_sha256": "fedbecd031ab12deaef3db4c3235bf0551f8360cd1017ffa466b44413a099e55",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit04_ma-journee_exam/index.md",
+    "before_sha256": "ba564a8e71cdc4bf1e16003354304ae408d6c2ae68b2fba26387f03e8f4efe3d",
+    "after_sha256": "1bd9517d9352a64abfcefe9fa1d1922253f6b3160fd216f0a01d2147d7290c56",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit06_au-marche_exam/index.md",
+    "before_sha256": "56ea9e59e93419c6a02bcaa03ff31d9321df407f1c0368df9df3ac0f362e6d7c",
+    "after_sha256": "867db2d3c4cb29199d46d057172348bb42df9597ffe84aac84776606875967aa",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md",
+    "before_sha256": "6d427f3c449460dbee2c05d7094cdf9ef7ba32e889a35a38ece3bd4b5b029310",
+    "after_sha256": "bdf35a37c67b6e35a2080be5f3d59a2be63b5427df71078b7cd7c75f3f134d4b",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md",
+    "before_sha256": "6af97aaea68c6ef2ef323ab5a64ae03ef0f1b0bc69ed299caa3c103d1a5cb130",
+    "after_sha256": "a4f8dead4a4f41208b270d465f18ae8716f6b167c632bedf9d58947d4bbc5723",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md",
+    "before_sha256": "066638ac74a62ceaaa800f2b534a47ae00c1727a8863fc91e46cf8b1283c4abd",
+    "after_sha256": "136abd9a79fc652d22b9cb080f466c0cd8c7d9f250f629da8e2c3a4806c07a5f",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md",
+    "before_sha256": "d1653a667eadc561ce66db6750ddc95a2a738499910c7370d45214baaa5b83f3",
+    "after_sha256": "66f69caf7dc0e29bc268bd91a90827cf6e40e7dd37c8dafd26a3576dd898a627",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md",
+    "before_sha256": "c798c9a5fec93fa18dc34d7d761ea234cd425dd63ec1343b18a50c6fc3794df5",
+    "after_sha256": "a2523b286330e0046e82e6db9749d7ccf4a424f8638fc5e440dade310bf7e4e3",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam/index.md",
+    "before_sha256": "8990991d864b83cd5fa895bdf87bf3bc1bfd47723d8315aa35329fae4d43e583",
+    "after_sha256": "ef230a78eb1c09f10aa8849f3b4651ba696b2bf7aa5c1aa8deda3f3e847ede67",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit02_presse-francaise_exam/index.md",
+    "before_sha256": "a3f7d5638e6a4637720f7e6f36b840db998aae1498214c51e3a007d2c0b4700c",
+    "after_sha256": "e66faecc65ac7b54b244411471918135924d7b24c7ae52e4083285ba1ea69c0f",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam/index.md",
+    "before_sha256": "19037faabfb82b01028f35473cbb07c1a4e513c746fde7964a536ae1e177147c",
+    "after_sha256": "ba2e9caf4f1a195cef30247a89262337891f8161dc3323a43706493f6fe44eeb",
+    "reasons": [
+      "Repair total-marker heading split and preserve decimal/class notation."
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 9"
+subtitle: "Stéréotypes et préjugés · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 9
+slug: "stereotypes-et-prejuges-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le mini-débat Karim/Anouk (Unité 9, texte C). Répondez :
+
+1. Quel cliché Karim mentionne sur les Allemands ?
+2. Quel cliché sur les Français ?
+3. Que répond Anouk pour nuancer ?
+4. Quelle solution Karim propose-t-il pour casser les préjugés ?
+5. Quelle est la différence entre stéréotype et préjugé ?
+
+### Tâche 2 — Conditionnel présent (8 points)
+
+Conjuguez au conditionnel présent :
+
+1. Je ___ (aimer) voyager au Maroc.
+2. Nous ___ (être) heureux de vous rencontrer.
+3. Tu ___ (voir) la diversité culturelle.
+4. Vous ___ (pouvoir) éviter les clichés.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez un **mini-dialogue + commentaire** (~120 mots) sur
+**3 stéréotypes** au choix (FR / DE / autre) : pour chacun,
+1 cliché + 1 nuance + 1 conditionnel + **3 connecteurs**
+(*cependant, certes, néanmoins …*).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Conditionnel | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) « Tous disciplinés ». 2) « Toujours en
+grève ». 3) Tous ne le sont pas (Anouk elle-même n'est pas
+disciplinée). 4) Voyager. 5) Le stéréotype est une image
+simplifiée ; le préjugé est un jugement négatif avant de
+connaître.
+
+**Tâche 2.** 1) aimerais · 2) serions · 3) verrais ·
+4) pourriez.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 3
+stéréotypes · 3 conditionnels · 3 connecteurs.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 9*

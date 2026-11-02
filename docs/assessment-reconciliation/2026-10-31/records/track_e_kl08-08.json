@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
+  "exam": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e_exam/index.md",
+  "before_unit_sha256": "4ad54fe79977c6c9289f98dede4c57cea54e088af1498d3eda052262300d4144",
+  "after_unit_sha256": "910636b27c4fd245ce62ed16aa06e925931cafa1f9a35c0c8b62bc9eb1c684bc",
+  "before_exam_sha256": "83caf520577564714b6ab4e9857e27045eb258a494af69c8d1da120e559c3924",
+  "after_exam_sha256": "4e0c3588e466838d419526624811d765a7ff1cfa05dea8cac3767efe52520280",
+  "source_sections": "C",
+  "supplied_source_sha256": "06ec99f9b39b800ab49bc09920f8d687b0ea720aeed34f8fce580e6a6b2240d9",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Reading day3 does not imply3-day stay; Louvre/croissant are future plans, not completed days. Corrected chronology and removed nonexistent nostalgia/Poilâne."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "1eed268adffd087f85cc8d19ebb2b7c56a505d231464748b56095e332695152f",
+      "after_sha256": "91d1e03081931d5ea152774c6c2b2f6d330347100d8c80e0b17e55774b920647",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit08_un-allemand-a-paris-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "91d1e03081931d5ea152774c6c2b2f6d330347100d8c80e0b17e55774b920647",
+      "after_sha256": "f14093cab2b844f4246818c492f991cd3e7a20b68c4bf790255e4110ea048bfd",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit08_un-allemand-a-paris-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e_exam/index.md",
+      "before_sha256": "f14093cab2b844f4246818c492f991cd3e7a20b68c4bf790255e4110ea048bfd",
+      "after_sha256": "4e0c3588e466838d419526624811d765a7ff1cfa05dea8cac3767efe52520280",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

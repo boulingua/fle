@@ -1,0 +1,62 @@
+{
+  "unit": "content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
+  "exam": "content/track_e_kl13/units/unit02_francophonie-pluralite_exam/index.md",
+  "before_unit_sha256": "e624f357d44f3fdb6f1f258399eb94779bfd9da4e9647b7faa615cad8ed0d6b4",
+  "after_unit_sha256": "c010dcaceb602331b5f3727e82b80f0ea1d9bc1381f4e3bfab285b8c44a76ac2",
+  "before_exam_sha256": "12f65bf660877ed276406bcc0b5878cc437381b2aa313f09eb2df44fa6c59522",
+  "after_exam_sha256": "0acbf1b79721f659f98b027e9fc6f074d02516a200422a542e87d90030038aae",
+  "source_sections": [
+    "B"
+  ],
+  "supplied_source_sha256": "61933e95701645448e0a96fe1358da4ef1753db8880c51791d27163d0521a05c",
+  "source_mode": "learner-reading-and-observed-oral",
+  "total_points": 30,
+  "decisions": [
+    "Preserved required18-point observed oral presentation instead of written dissertation; removed unsupportedOIFcounts/quotes and regional-word matching."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "044799492b43517397867777394f6b3c44ead4f514bf0fe122a02152af6568f7",
+      "after_sha256": "d2f2f03e5e55df9fa8de6ad9aff6cc535c49bb51ade259315aa04862195fb781",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit02_francophonie-pluralite_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "15420b52fcdb8a0cb3906b45d91906cdf1c763324b784f1fc5ce1309480755b8",
+      "after_sha256": "c010dcaceb602331b5f3727e82b80f0ea1d9bc1381f4e3bfab285b8c44a76ac2",
+      "reasons": [
+        "Remove outdated current membership count; date demographic evidence.",
+        "Bind demographic figure to actual source year.",
+        "Attach primary source for controlled correction."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl13/units/unit02_francophonie-pluralite/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "d2f2f03e5e55df9fa8de6ad9aff6cc535c49bb51ade259315aa04862195fb781",
+      "after_sha256": "16d5951ae5b739d557fb8c0e12a98d45801455a5d3691fb6b781b20a5b221c77",
+      "reasons": [
+        "Attach primary source for controlled correction.",
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl13/units/unit02_francophonie-pluralite_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit02_francophonie-pluralite_exam/index.md",
+      "before_sha256": "16d5951ae5b739d557fb8c0e12a98d45801455a5d3691fb6b781b20a5b221c77",
+      "after_sha256": "0acbf1b79721f659f98b027e9fc6f074d02516a200422a542e87d90030038aae",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

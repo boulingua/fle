@@ -1,0 +1,94 @@
+---
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 9"
+subtitle: "Mémoire et traumatisme (Modiano) · classe 12 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 9
+slug: "memoire-et-traumatisme-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-12
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.relaying-specific-information.05
+    - B2.PRAG.thematic-development.02
+    - B2.REC.watching-tv-film-and-video.01
+    - B2.INT.correspondence.09
+    - B2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'ouverture de *Dora Bruder* (Unité 9, texte C).
+Répondez :
+
+1. Quelle est la source de la découverte ?
+2. Quelle date du journal ?
+3. Quel âge avait Dora ?
+4. Quelle adresse parisienne ?
+5. Pourquoi Modiano s'y intéresse-t-il personnellement ?
+
+### Tâche 2 — Motifs modianiens (8 points)
+
+Reliez :
+
+- archive · trace · Paris occupé · enquête · mémoire trouée
+ · voix juive disparue · narrateur-détective · description
+ physique
+
+(Définitions : document trouvé · indice · ville-décor 1940-44
+· *retrouver* · creux mémoriel · Dora · Modiano lui-même ·
+manteau gris/pull bordeaux.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre mini-enquête mémorielle** (~400 mots) :
+1 nom oublié + 1 archive citée + 4 traces + interprétation.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Motifs | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Vieux journal *Paris-Soir*. 2) 31 décembre
+1941. 3) 15 ans. 4) 41 boulevard Ornano. 5) Quartier
+d'enfance de Modiano.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 400 mots · 1 nom
+· 1 archive · 4 traces · interprétation.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 9*

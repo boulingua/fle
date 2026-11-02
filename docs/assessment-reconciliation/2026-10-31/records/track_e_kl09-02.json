@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
+  "exam": "content/track_e_kl09/units/unit02_lettre-de-motivation-e_exam/index.md",
+  "before_unit_sha256": "a2a16fb51f77e6fe70975f7e1bbbeee44dc105b3a6f4dd807a8b4cb9b4a57181",
+  "after_unit_sha256": "edd36fd2232143bff5cf58db449d319634c6c1559f705fdcfc5b86912e2c6116",
+  "before_exam_sha256": "49b31290dd16e87c13ee77fc1e5abdd335bdab662aac6d343d099b44e782bcc3",
+  "after_exam_sha256": "8dbf7e6256b9df27bc4f10f673576620f8b7f6a11d680f9b2a38d5ff0a343f23",
+  "source_sections": "C",
+  "supplied_source_sha256": "b1375a00d5d95aeda30a161c879662aa36b930bc92f2304e381bfb9ff4d28178",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Corrected unsupported conversion of one week into five days; actual letter supplies chronology and motivation."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "360acd42144ff47b50ecf01ee11fe8482b8f136555d71c40443dc8e12b2153d4",
+      "after_sha256": "edd36fd2232143bff5cf58db449d319634c6c1559f705fdcfc5b86912e2c6116",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "37a684eb75f0300201c0256ef114d2cc7a2fb0f5670547c49c023420b6700756",
+      "after_sha256": "24f490b1118dcd5862688993404b0250e96abd904c5387c32aed6f0ee9e2c109",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit02_lettre-de-motivation-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit02_lettre-de-motivation-e_exam/index.md",
+      "before_sha256": "24f490b1118dcd5862688993404b0250e96abd904c5387c32aed6f0ee9e2c109",
+      "after_sha256": "8dbf7e6256b9df27bc4f10f673576620f8b7f6a11d680f9b2a38d5ff0a343f23",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 6
 slug: "au-marche-e"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - listening
 - speaking_interaction
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_au-marche-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_au-marche-e.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit06_au-marche-e.html"
+- "/track_e_kl06/units/unit06_au-marche-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.goal-oriented-co-operation.01
-    - A1.REC.reading-correspondence.02
-    - A1.LING.phonological-control.01
+  - A1.INT.correspondence.03
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.goal-oriented-co-operation.01
+  - A1.REC.reading-correspondence.02
+  - A1.LING.phonological-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit06_au-marche-e_exam
+  format: written-with-live-reading
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - speaking_interaction
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_au-marche-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_au-marche-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,8 +100,7 @@ Un samedi matin, place du marché. Léa accompagne son oncle Marc. Sur les étal
 2. Qu'est-ce que Léa achète ?
 3. Quelle question pose la marchande à la fin ? Et Léa ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant de commencer, réfléchis et réponds à l'oral :
 
 - Est-ce qu'il y a un marché près de chez toi ? Quel jour ?
@@ -76,8 +108,7 @@ Avant de commencer, réfléchis et réponds à l'oral :
 - Comment est-ce qu'on demande poliment un produit dans un magasin ?
 - Range ces mots dans deux colonnes (*fruit* / *légume*) : *pomme, carotte, fraise, salade, banane, tomate*.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — les produits du marché
 
 | Français | Allemand |
@@ -123,8 +154,7 @@ Léa aime le marché du samedi. Elle achète toujours **des** fruits pour la sem
 
 En France, le **marché de plein air** est une tradition ancienne : dans la plupart des communes, il se tient un ou deux jours fixes par semaine sur une place ou une rue du centre. On y trouve surtout des produits alimentaires — fruits, légumes, fromages, poisson — souvent proposés par des producteurs locaux. À côté de ces marchés de quartier, la France abrite aussi **Rungis**, situé au sud de Paris, décrit comme l'un des plus grands marchés de gros de produits alimentaires frais au monde, où s'approvisionnent commerçants et restaurateurs. *(D'après Wikipédia, articles « Marché » et « Marché d'intérêt national de Rungis », CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension orale (« Hörverstehen »).** Réécoute (ou relis) le dialogue de la *Situation de départ*, puis réponds.
 
 1. Quel jour se passe la scène ?
@@ -161,6 +191,7 @@ En France, le **marché de plein air** est une tradition ancienne : dans la plup
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) Le samedi (matin). 2) Oui, elles sont bien mûres. 3) Une barquette de fraises et un kilo de tomates. 4) Léa.
 
 **Exercice 2.** 1) de la salade. 2) des oranges. 3) du raisin et des pommes. 4) de l'ail.
@@ -168,9 +199,9 @@ En France, le **marché de plein air** est une tradition ancienne : dans la plup
 **Exercice 3.** 1) un kilo **de** tomates. 2) une botte **de** radis. 3) beaucoup **d'**oignons. 4) un peu **d'**eau.
 
 **Exercice 4.** 1) 3,00 € + 2,00 € = **5,00 €** (cinq euros). 2) **5,00 €** (cinq euros). 3) 1,80 € + 1,20 € = **3,00 €** (trois euros).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (Niveau E, en binôme, ≥ 8 répliques).**
 
 A joue le/la **client·e**, B joue le/la **marchand·e**. Préparez puis jouez un achat au marché qui comprend :
@@ -191,8 +222,7 @@ A joue le/la **client·e**, B joue le/la **marchand·e**. Préparez puis jouez u
 | Prix et monnaie | Le total et la monnaie sont exacts |
 | Fluidité et prononciation | Le dialogue est compréhensible et fluide |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Coche ce que tu sais faire :
 
 - [ ] Je comprends un dialogue simple au marché.
@@ -201,20 +231,11 @@ Coche ce que tu sais faire :
 - [ ] J'utilise *de* après une quantité précise.
 - [ ] Je joue un dialogue d'achat poli de huit répliques.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit06_au-marche-e_exam" >}}).
 
-**Tâche 1 — Compréhension orale (10 P.).** Écoute un dialogue au marché (lu par l'enseignant·e ou l'audio), puis réponds à cinq questions (produits, quantités, prix total, formule de politesse).
-
-**Tâche 2 — Langue : articles partitifs et quantités (8 P.).** Complète huit phrases avec *du / de la / de l' / des* ou *de / d'*.
-
-**Tâche 3 — Expression orale en interaction / dialogue écrit (12 P.).** Rédige (puis joue en binôme) un dialogue d'achat de huit répliques : trois produits, quantités, prix, monnaie, politesse.
-
-**Barème : 30 points** — Tâche 1 : 10 P. · Tâche 2 : 8 P. · Tâche 3 : 12 P.
-Répartition Tâche 3 : contenu (5) · articles/quantités corrects (4) · politesse et clôture (3).
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

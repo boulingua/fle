@@ -1,0 +1,96 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 9"
+subtitle: "Fête d'anniversaire · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 9
+slug: "fete-d-anniversaire-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.07
+    - A1.INT.notes-messages-and-forms.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.processing-text.03
+    - A1.REC.reading-correspondence.03
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — Grammatik : futur proche (10 points)
+
+Conjuguez au futur proche.
+
+1. Je *(faire)* un gâteau.
+2. Tu *(venir)* à la fête ?
+3. Nous *(danser)* toute la nuit.
+4. Ils *(apporter)* des cadeaux.
+5. On *(jouer)* au karaoké.
+6. Vous *(arriver)* à quelle heure ?
+7. Léa *(souffler)* ses bougies.
+8. Mes parents *(préparer)* les pizzas.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez le carton d'invitation et le dialogue (Unité 9). Vrai/faux :
+
+| | Affirmation | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Léa a 12 ans. | ☐ | ☐ |
+| 2 | La fête a lieu samedi 15 mars. | ☐ | ☐ |
+| 3 | Il faut apporter un cadeau. | ☐ | ☐ |
+| 4 | Inès va dormir chez tante Marie. | ☐ | ☐ |
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre invitation d'anniversaire** en **80 mots** :
+date, lieu, programme, RSVP. Utilisez **3 verbes au futur
+proche**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Grammatik | 10 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) vais faire · 2) vas venir · 3) allons danser ·
+4) vont apporter · 5) va jouer · 6) allez arriver · 7) va
+souffler · 8) vont préparer.
+
+**Tâche 2.** 1) F (13). 2) V. 3) F (« Pas de cadeau »). 4) V.
+
+**Tâche 3.** Réponses libres. Critères : format invitation ·
+80 mots · 3 futurs proches · date/lieu/RSVP.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 9*

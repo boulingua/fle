@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 9
 slug: "monologue-et-presentation"
 bildungsplan:
-  - "3.1.3.4 Expression orale — monologue suivi"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologue suivi"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_monologue-et-presentation.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_monologue-et-presentation.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit09_monologue-et-presentation.html"
+- "/track_e_kl13/units/unit09_monologue-et-presentation.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.reports-and-essays.04
-    - B2.PROD.sustained-monologue-putting-a-case.04
-    - B2.SOC.sociolinguistic-appropriateness.02
-    - B2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  - B2.PROD.reports-and-essays.04
+  - B2.PROD.sustained-monologue-putting-a-case.04
+  - B2.SOC.sociolinguistic-appropriateness.02
+  - B2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit09_monologue-et-presentation_exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_monologue-et-presentation-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit09_monologue-et-presentation-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,8 +101,7 @@ Deux élèves de terminale se préparent à l'épreuve orale.
 2. Selon vous, qu'est-ce qui distingue un exposé *récité* d'un exposé *structuré* ?
 3. Citez deux expressions qui servent à « montrer le chemin » dans un monologue.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant d'apporter du vocabulaire nouveau, mobilisez ce que vous savez déjà.
 
 - Avez-vous déjà présenté un exposé long (plus de dix minutes) en cours ? Sur quel sujet ?
@@ -79,8 +111,7 @@ Avant d'apporter du vocabulaire nouveau, mobilisez ce que vous savez déjà.
 
 Notez trois expressions de transition au tableau : la classe complètera la liste au fil de l'unité.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — présenter un dossier
 
 | Français | Fonction / sens |
@@ -129,8 +160,7 @@ Ce dossier tient en **environ 320 mots** ; à l'oral, il occupe une douzaine de 
 
 D'après l'encyclopédie collaborative Wikipédia (CC BY-SA), Guy de Maupassant est l'un des maîtres de la **nouvelle** française du XIXᵉ siècle : en une dizaine d'années d'activité littéraire intense, il publie plusieurs centaines de récits brefs avant que la maladie ne l'écarte de l'écriture. Rattaché aux mouvements **réaliste** et **naturaliste**, il fut proche d'Émile Zola et l'élève de Gustave Flaubert, qui lui aurait enseigné l'exigence du mot juste et de l'observation précise. Ses œuvres, aujourd'hui dans le **domaine public**, peuvent être lues, citées et étudiées librement — ce qui en fait un excellent support pour un dossier scolaire. *(Facts paraphrasés ; voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Repérer la structure (compréhension).** Relisez le dossier-modèle (B).
 a) Quelle est la thèse défendue ?
 b) Nommez les trois axes du développement.
@@ -146,6 +176,7 @@ c) Repérez et recopiez **la phrase de transition** qui introduit l'axe II.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 a) L'écriture réaliste de Maupassant n'est jamais neutre : elle observe pour dénoncer.
 b) I. Le regard social ; II. La mécanique de l'hypocrisie ; III. La fêlure intérieure.
@@ -168,9 +199,9 @@ c) « *Ce qui nous amène au* roman *Bel-Ami* (1885). »
 - **(M) intermédiaire :** exiger l'Ex. 4 avec thèse + trois axes rédigés.
 - **(E) approfondissement :** à l'Ex. 4, ajouter une **ouverture** finale et **deux références** précises par axe ; interdire de réutiliser un connecteur déjà employé.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche (écrit + oral) — préparer et présenter votre dossier.**
 
 Choisissez un·e auteur·e du **domaine public** (Maupassant, Flaubert, Hugo, Baudelaire, Maupassant, Zola…) ou un thème littéraire.
@@ -188,8 +219,7 @@ Choisissez un·e auteur·e du **domaine public** (Maupassant, Flaubert, Hugo, Ba
 | Prosodie / délivrance | débit régulier · pauses · regard adressé · respect du temps |
 | Langue | lexique littéraire · syntaxe correcte · fluidité |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Auto-évaluation — cochez ce qui est acquis.
 
 - [ ] Ma thèse tient en une phrase, et je peux la répéter à la conclusion.
@@ -200,16 +230,11 @@ Auto-évaluation — cochez ce qui est acquis.
 - [ ] J'ai regardé mon auditoire et maîtrisé mon débit.
 - [ ] J'ai su répondre à au moins une question en phase de dialogue.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve orale (type Kommunikationsprüfung, Leistungsfach — classe 13)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit09_monologue-et-presentation_exam" >}}).
 
-- **Phase 1 — Monologue : présentation du dossier (15 points).** Vous présentez votre dossier (10-15 min) : thèse, trois axes, transitions, ouverture. *Barème :* structure /5 · cohésion et connecteurs /4 · contenu et références /3 · prosodie et gestion du temps /3.
-- **Phase 2 — Dialogue (15 points).** L'examinateur·rice pose des questions (env. 5 min) : justification de la thèse, précision d'une référence, réaction à une objection. *Barème :* pertinence des réponses /6 · richesse de la langue /5 · spontanéité et interaction /4.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' · Produire (lancement + plan écrit) 12' · Réfléchir 2' · Aperçu de l'épreuve 2'. La présentation orale complète est reportée à une séance d'évaluation ultérieure.
 

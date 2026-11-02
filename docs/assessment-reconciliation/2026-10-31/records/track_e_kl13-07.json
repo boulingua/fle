@@ -1,0 +1,50 @@
+{
+  "unit": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep/index.md",
+  "exam": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep_exam/index.md",
+  "before_unit_sha256": "a47e0a0d2479eee5dee68fa77066eddf073e1b6641d97744d497b2cfede0d924",
+  "after_unit_sha256": "a8d99e7d39e3f47e6e29921bcd729198510defe9f6b98fe69f246abd1a8532e5",
+  "before_exam_sha256": "dc95e528497fbd6d4a6a9cc2353f06f77b9307fa8db5fdd150c7fd8209c99572",
+  "after_exam_sha256": "eb439c264194ab908dcd42b2f283e7b974c7f23c805ad2733c0db1f762bc2651",
+  "source_sections": [
+    "Texte-modèle"
+  ],
+  "supplied_source_sha256": "f039f663595f457c919ed815730597e46159ee29daa74440972ad41126e9a36d",
+  "source_mode": "learner-reading-and-observed-oral",
+  "total_points": 30,
+  "decisions": [
+    "Preserved15+15 observedoral assessment and realfrancophonieplan; absentCamusmonologue and written700word substitute archived."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "59af7c2b7a4903d944c78da1b89c4e7ad762d068c5a373b4f88181b4ebe506ea",
+      "after_sha256": "13fed0ba4c7c267b35d42e3464f68a142d999781caac5aa6c93ba987955221b7",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit07_kommunikationspruefung-prep_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "13fed0ba4c7c267b35d42e3464f68a142d999781caac5aa6c93ba987955221b7",
+      "after_sha256": "f1eec98537b7d46ef0cd64378a737ba084cc83aa455ca7a0b77c905d5b4d76e2",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl13/units/unit07_kommunikationspruefung-prep_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep_exam/index.md",
+      "before_sha256": "f1eec98537b7d46ef0cd64378a737ba084cc83aa455ca7a0b77c905d5b4d76e2",
+      "after_sha256": "eb439c264194ab908dcd42b2f283e7b974c7f23c805ad2733c0db1f762bc2651",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

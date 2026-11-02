@@ -1,0 +1,46 @@
+{
+  "unit": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+  "exam": "content/track_gm_kl10/units/unit07_engagement-citoyen_exam/index.md",
+  "before_unit_sha256": "d95543c2c80a16be098fee6fcb1f7eee0ade0ed49db93e96e86012cc237906d0",
+  "after_unit_sha256": "ce55558f0fbb140ddad2a3b95d94579d217f19e44e3b088667abb05cb41dda9a",
+  "before_exam_sha256": "f50f0929ead818b0bc4e42dc0e56dfd381e54c46058450efde827f048a2e743c",
+  "after_exam_sha256": "462e39df67a88fac3ca333c9eab01b41fe1db56e9c699454ac39a4b3f1925c76",
+  "source_sections": [
+    "C"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 24,
+  "skills_observed": [
+    "speaking_interaction",
+    "writing"
+  ],
+  "decisions": [
+    "Preserved24 points for12 oral interaction and12 written motivation. Independent tribune writing retained as optional extension; no public-figure knowledge required."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "c2e67ddf1eedc6124d0e95588e371744ed764c20e3d9e1411d06d0104885e314",
+      "before_sha256": "c2e67ddf1eedc6124d0e95588e371744ed764c20e3d9e1411d06d0104885e314",
+      "after_sha256": "ce55558f0fbb140ddad2a3b95d94579d217f19e44e3b088667abb05cb41dda9a",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "24234adce9dfb11aa2411b2529d9ad5ec725b08261599eb298559f3457d195ef",
+      "after_sha256": "7b404b56dd6d7665137b89f87a24c1073f5267deabd1fe4750140c1a0ce486a8",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit07_engagement-citoyen_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit07_engagement-citoyen_exam/index.md",
+      "before_sha256": "7b404b56dd6d7665137b89f87a24c1073f5267deabd1fe4750140c1a0ce486a8",
+      "after_sha256": "462e39df67a88fac3ca333c9eab01b41fe1db56e9c699454ac39a4b3f1925c76",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

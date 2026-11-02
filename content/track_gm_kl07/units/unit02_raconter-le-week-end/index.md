@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 2
 slug: "raconter-le-week-end"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.8 Moyens linguistiques — grammaire"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
 - speaking_production
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_raconter-le-week-end.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_raconter-le-week-end.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit02_raconter-le-week-end.html"
+- "/track_gm_kl07/units/unit02_raconter-le-week-end.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.conversation.01
-    - A1.INT.correspondence.01
+  - A1.PROD.creative-writing.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.conversation.01
+  - A1.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit02_raconter-le-week-end_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_raconter-le-week-end-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_raconter-le-week-end-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,8 +99,7 @@ Lundi matin, dans la cour du collège. Nour retrouve son copain Tom avant le cou
 2. Où est-ce que Nour est allée ?
 3. Repérez dans le dialogue trois verbes au passé composé. Lesquels utilisent *avoir* ? Lesquels utilisent *être* ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En classe entière, à l'oral et sans écrire :
 
 - Qu'est-ce que vous avez fait samedi dernier ? Et dimanche ?
@@ -79,8 +110,7 @@ En classe entière, à l'oral et sans écrire :
 **Astuce de départ :** Le passé composé sert à raconter une action **terminée** dans le passé. Il se forme toujours en **deux morceaux** : un petit verbe qui aide (*avoir* ou *être*) + le verbe principal (le participe passé).
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — les activités du week-end
 
 | Français | Allemand | Exemple |
@@ -111,7 +141,7 @@ En classe entière, à l'oral et sans écrire :
 | vous | avez parlé | avez fini | avez fait |
 | ils / elles | ont parlé | ont fini | ont fait |
 
-*être* + participe passé (verbes de déplacement et verbes pronominaux). **Le participe passé s'accorde avec le sujet :**
+*être* + participe passé avec certains verbes intransitifs, dont *aller* et *rester*. **Dans le tableau ci-dessous, le participe s'accorde avec le sujet.** Le mouvement n'impose pas *être* : *j'ai marché*. Les verbes pronominaux emploient aussi *être*, mais leur accord dépend de la construction (*elle s'est lavé les mains*).
 
 | Pronom | aller | rester |
 |---|---|---|
@@ -141,8 +171,7 @@ En français, le mot *week-end* est un emprunt à l'anglais : il désigne la pé
 
 *(Paraphrasé d'après l'article « Week-end », Wikipédia en français, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — *avoir* ou *être* ? Choisissez le bon auxiliaire.**
 
 1. J'___ mangé une pomme.
@@ -183,6 +212,7 @@ En français, le mot *week-end* est un emprunt à l'anglais : il désigne la pé
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) ai · 2) es · 3) a · 4) sommes · 5) avez · 6) sont.
 
 **Ex. 2.** 1) ai joué · 2) est allée · 3) avons mangé · 4) sont arrivés · 5) as fait.
@@ -190,9 +220,9 @@ En français, le mot *week-end* est un emprunt à l'anglais : il désigne la pé
 **Ex. 3.** 1) partie · 2) restées · 3) sortis · 4) arrivée.
 
 **Ex. 4.** *(réponses possibles)* 1) Il est parti avec Maxime. · 2) Ils ont joué au foot pendant deux heures. · 3) Sa sœur est arrivée de Lyon. · 4) Il est resté tranquille, il a fini ses devoirs de maths et il a lu un peu.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — production en continu (Niveau M) :**
 
 Racontez **votre dernier week-end** devant la classe (ou en petit groupe), en cinq ou six phrases, **sans lire** vos notes. Utilisez au moins **trois verbes au passé composé**, dont **un avec l'auxiliaire *être*** (aller, partir, rester, sortir…).
@@ -209,33 +239,18 @@ Préparez d'abord une carte mémoire avec quelques mots-clés (samedi / dimanche
 | Fluidité — je parle en continu, sans tout lire | ⬜ |
 | Prononciation compréhensible | ⬜ |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais choisir entre *avoir* et *être*.
 - [ ] Je connais les verbes courants qui se construisent avec *être*.
 - [ ] J'accorde le participe passé avec le sujet quand j'utilise *être*.
 - [ ] Je peux raconter mon week-end à l'oral en continu.
 - [ ] Je peux écrire un court récit de week-end au passé composé.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit ») · Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit02_raconter-le-week-end_exam" >}}).
 
-**Tâche 1 — Grammaire (10 P.)**
-Conjuguez au passé composé (auxiliaire + accord) :
-*jouer (je), aller (elle), finir (nous), partir (ils), regarder (tu), rester (Marie), manger (vous), arriver (les filles), faire (il), sortir (nous)* — 1 point par forme correcte.
-
-**Tâche 2 — Compréhension écrite (8 P.)**
-Court récit fourni (type texte C). Quatre questions ; répondre par une phrase complète (2 P. chacune).
-
-**Tâche 3 — Expression écrite / *Schreiben* (12 P.)**
-Racontez votre week-end (environ 70 mots). Barème : contenu et clarté 4 P. · passé composé correct 4 P. · emploi de l'auxiliaire *être* avec accord 2 P. · orthographe et vocabulaire 2 P.
-
-**Total : 30 P.**
-
-*(Prolongement oral / Sprechen : à un autre moment, l'enseignant·e peut évaluer la production en continu de la partie « Produire » comme note orale distincte.)*
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :**
 
@@ -255,6 +270,9 @@ Racontez votre week-end (environ 70 mots). Barème : contenu et clarté 4 P. · 
 **Devoirs possibles :** rédiger le récit de week-end (≈ 70 mots) demandé en Produire, à rendre à l'oral ou à l'écrit.
 
 ## Sources
+
+- OQLF — Emploi des auxiliaires avoir et être (vérification éditoriale du 31 octobre 2026), <https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre>.
+
 
 - « Passé composé » — Wikipédia, l'encyclopédie libre (contributeurs, consulté en 2026), <https://fr.wikipedia.org/wiki/Pass%C3%A9_compos%C3%A9>, licence CC BY-SA 4.0.
 - « Week-end » — Wikipédia, l'encyclopédie libre (contributeurs, consulté en 2026), <https://fr.wikipedia.org/wiki/Week-end>, licence CC BY-SA 4.0.

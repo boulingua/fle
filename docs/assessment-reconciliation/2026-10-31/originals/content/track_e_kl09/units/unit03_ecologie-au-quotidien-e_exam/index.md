@@ -1,0 +1,91 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 3"
+subtitle: "Écologie au quotidien · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 3
+slug: "ecologie-au-quotidien-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'article éco-gestes (Unité 3, texte C). Répondez :
+
+1. Combien d'éco-gestes sont présentés ?
+2. Quel est le 1ᵉʳ geste ?
+3. Pourquoi éteindre les appareils en veille ?
+4. Quel pourcentage de déchets le compostage évite-t-il ?
+5. Quelle agence affirme la réduction de 25 % ?
+
+### Tâche 2 — Verbes d'éco-action (8 points)
+
+Conjuguez le verbe correct :
+
+1. Je ___ (trier) mes déchets en 5 poubelles.
+2. Nous ___ (covoiturer) avec mes voisins.
+3. Si je ___ (éteindre) ma box, j'économiserais 15 %.
+4. Tu ___ (composter) les épluchures de légumes.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **un dialogue** (~140 mots, 10 répliques) entre vous
+et un·e ami·e sur vos **éco-gestes** : 5 gestes chacun + 1
+défi à venir + 1 conditionnel + 5 verbes d'action.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Verbes | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Cinq. 2) Trier ses déchets. 3) Économise 15 %
+de la facture. 4) 40 %. 5) L'ADEME.
+
+**Tâche 2.** 1) trie · 2) covoiturons · 3) éteignais ·
+4) composte / compostes.
+
+**Tâche 3.** Réponses libres. Critères : 140 mots · 10
+répliques · 5 gestes · 1 conditionnel.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 3*

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 1
 slug: "ecrire-sur-soi"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_ecrire-sur-soi.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_ecrire-sur-soi.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit01_ecrire-sur-soi.html"
+- "/track_e_kl11/units/unit01_ecrire-sur-soi.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.REC.overall-oral-comprehension.02
-    - B1.PROD.creative-writing.02
-    - B1.REC.overall-reading-comprehension.01
-    - B1.INT.formal-discussion.01
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.REC.overall-oral-comprehension.02
+  - B1.PROD.creative-writing.02
+  - B1.REC.overall-reading-comprehension.01
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit01_ecrire-sur-soi_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_ecrire-sur-soi-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit01_ecrire-sur-soi-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,14 +98,12 @@ Léo lève la main.
 2. Selon vous, écrire sur soi, est-ce dire la **vérité** ou **choisir** ce qu'on raconte ?
 3. Connaissez-vous un livre, un film ou une chanson qui raconte la vie de son auteur·rice ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelle différence faites-vous entre un **journal intime** et une **autobiographie** ?
 - Pourquoi une personne décide-t-elle d'**écrire sa propre vie** ?
 - Un souvenir personnel peut-il parler d'une **époque entière** ? Donnez un exemple.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — la mémoire et l'écriture de soi
 
 | Français | Deutsch |
@@ -134,8 +164,7 @@ d'écriture « **transpersonnelle** » : un « je » individuel qui cherche à d
 
 *(Faits paraphrasés d'après l'article « Annie Ernaux », Wikipédia en français, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 1. Où se passe la scène et à quel moment de la semaine ?
 2. Que faisait la grand-mère ?
@@ -169,6 +198,7 @@ d'écriture « **transpersonnelle** » : un « je » individuel qui cherche à d
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Dans la cuisine des grands-parents, le **dimanche** (matin). 2) Elle **se tenait devant la fenêtre, les mains dans la farine** (elle cuisinait / préparait la pâte). 3) Deux détails au choix : l'**odeur** de café réchauffé et de linge humide ; le **bol ébréché** / la **nappe à carreaux** ; la **radio qui grésillait**. 4) De la **nostalgie** : « je croyais que ces matins-là ne finiraient jamais » et « la maison n'existe plus, mais l'odeur revient » — le souvenir est perdu mais reste vivant.
 
 **Ex. 2.** 1) allions — 2) était — 3) jouiez — 4) entendait.
@@ -176,9 +206,9 @@ d'écriture « **transpersonnelle** » : un « je » individuel qui cherche à d
 **Ex. 3.** a) → 2 · b) → 4 · c) → 1 · d) → 3.
 
 **Ex. 4.** 1) autobiographie — 2) récit transpersonnel — 3) autofiction.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, 200–250 mots).**
 
 Rédigez une **page d'écriture de soi** à la manière de l'unité (et non d'Ernaux). Choisissez **un lieu de votre enfance** (une cuisine, une rue, une salle de classe, une voiture…) et évoquez-le au **passé**.
@@ -200,31 +230,18 @@ Consignes :
 | Cohérence / longueur | texte suivi, 200–250 mots | 2 |
 | **Total** | | **15** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux lire un court récit de soi et en dégager les images et le sens.
 - [ ] Je distingue autobiographie, autofiction et récit transpersonnel.
 - [ ] Je reconnais et j'emploie l'imparfait pour évoquer un souvenir.
 - [ ] J'ai rédigé une page d'écriture de soi de 200–250 mots.
 - [ ] Je sais présenter Annie Ernaux **sans recopier** son texte.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve courte — Compréhension écrite + Expression écrite (30 P.)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit01_ecrire-sur-soi_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 P.).** Lisez le texte C (« La cuisine du dimanche ») et répondez en français, par des phrases complètes.
-1. Situez la scène (lieu, moment). (2 P.)
-2. Relevez **trois** détails sensoriels et dites à quel sens ils font appel. (3 P.)
-3. Quel **temps** domine dans le texte ? Justifiez son emploi par un exemple. (3 P.)
-4. Expliquez la dernière phrase : que reste-t-il du souvenir ? (4 P.)
-
-**Tâche 2 — Expression écrite (18 P.).** Rédigez votre propre **page d'écriture de soi** (200–250 mots) selon les consignes de la partie *Produire* : incipit, imparfait, une image collective, une chute.
-
-Barème indicatif : contenu 6 P. · langue et imparfait 8 P. · lexique et cohérence 4 P.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 - Situation de départ + Activer : 6 min (écriture libre de 3 min, puis échange).

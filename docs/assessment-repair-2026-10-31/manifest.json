@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "scope": "Parcours E, classe6, units1–12",
+  "records": [
+    {
+      "unit": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
+      "exam": "content/track_e_kl06/units/unit12_bilan-portrait-e_exam/index.md",
+      "original_exam_sha256": "0fa28388cded2b96542c7bdd685c19cd93c4316107cb39bcdf56fa5c45b910f9",
+      "repaired_exam_sha256": "25b75e0aaaa5bdddf7c4befeb9a7c8effce70fea25ed2c5bb9500687c791cac5",
+      "unit_sha256": "b2f0d3f81f783952471e6caef932bf71a73e81c7579bd1785f3ccce4568f2c34",
+      "editorial_decision": "Use actual portrait text; restore oral assessment from unit; keep self-assessment formative and reconcile total to35.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
+      "exam": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e_exam/index.md",
+      "original_exam_sha256": "5b183c65d554f7556bbcc06f186171a6dc75317dba75b701a7d0283147b6e6cc",
+      "repaired_exam_sha256": "3ec85080f99a917072fbfd5b49ccad4381a9901c0a3e51c7a94b1220465fa23a",
+      "unit_sha256": "d9ff55f7c28571cacacc59e9fa5e9f9ea13dc9eed65d816350475402e12a0cb4",
+      "editorial_decision": "Replace unsupported Tristan/text-D reading reference with actual Anouk/Yasmine passage; retain coherent vocabulary/writing tasks.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
+      "exam": "content/track_e_kl06/units/unit02_ma-famille-e_exam/index.md",
+      "original_exam_sha256": "6952620691e88171233cc300a61ab6ad78e4e4f4818eebf299c7682519effae2",
+      "repaired_exam_sha256": "63a497801122431afa7cb10fdae776c487f8b0284611cecac9497f82df64d844",
+      "unit_sha256": "2a739dcf0442ee988f399230387e8911757048e98b7c411c31a3e2d149dcda44",
+      "editorial_decision": "Embed actual family passage and make each question and mark allocation answerable.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit09_ma-chambre-e/index.md",
+      "exam": "content/track_e_kl06/units/unit09_ma-chambre-e_exam/index.md",
+      "original_exam_sha256": "0f88f818ed10b9d2f684226396671a346d97eee37fb10212ef976687f087e03e",
+      "repaired_exam_sha256": "2a748f2f0469b27946eaae645641283765cb5ede442feff99ae7299ffe5812c5",
+      "unit_sha256": "852a54205c59cdb086e84ac20076cecdb1468c7c517c7e787103e68d6eda7643",
+      "editorial_decision": "Supply missing spatial context and the missing preposition entre; remove reliance on absent image.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
+      "exam": "content/track_e_kl06/units/unit08_premiere-poesie_exam/index.md",
+      "original_exam_sha256": "4384aac9790b2560d386a1d45256f025b35f2ec4728230f8747956ec3028b73a",
+      "repaired_exam_sha256": "1282b8bb7d627a0b0175b0ff8a801db3a083b4395fd7b71e486d9e9bfee0b711",
+      "unit_sha256": "c03b49aa132a23e64508c54309b0d39caafefe868a353fa218bd92db578f30e7",
+      "editorial_decision": "Use the unit original poem instead of absent copyrighted Prevert text; preserve creative-writing objective.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit11_voyage-decouverte/index.md",
+      "exam": "content/track_e_kl06/units/unit11_voyage-decouverte_exam/index.md",
+      "original_exam_sha256": "81720813791aaf543eed23be5e0bd2f9105f1ca1af97a977b314c24006dbb48c",
+      "repaired_exam_sha256": "6036afc71e14d499ab67d6429b5f20bcdcf018ce79b5ef8ffc8aa1eaf9725a71",
+      "unit_sha256": "397bd83ad4df17ddb0402e944cb542eba87d7e0bb7ab105077256159fa0eac3f",
+      "editorial_decision": "Provide actual guide script and replace unanswerable clock-time question with a sourced destination question.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit10_mes-loisirs-e/index.md",
+      "exam": "content/track_e_kl06/units/unit10_mes-loisirs-e_exam/index.md",
+      "original_exam_sha256": "14a7f605d5afe3452890cfd18b89d99a1e0824eac339e5113a2516a2800446fb",
+      "repaired_exam_sha256": "f38a8075e935fffe4ab1347298e94fce64e9f317b7a3a19b84f4a9718f9bb82a",
+      "unit_sha256": "7f7b433ac95c11a92948ce26567909ace63bfdf804c1c74fb3979b89972a8195",
+      "editorial_decision": "Replace corrupted German vocabulary item and mismatched weighting with actual unit reading; retain grammar and interaction task.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
+      "exam": "content/track_e_kl06/units/unit04_ma-journee-e_exam/index.md",
+      "original_exam_sha256": "92f9894e9c8f28b131f9ec28f3e0926e27f73e93d3fc039185a37b21c9149ce3",
+      "repaired_exam_sha256": "8a0818212dcf23c6cd209a293239d52ca4c0060e978b8e369a4559a1e60365af",
+      "unit_sha256": "ea49b5f6657624fc185e00580d78612980703ca66520d4c1d3e0364ef733b003",
+      "editorial_decision": "Retain written paper; add two conjugation items to resolve eight-items/ten-points ambiguity; oral unit task retained in archive and Apply.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit06_au-marche-e/index.md",
+      "exam": "content/track_e_kl06/units/unit06_au-marche-e_exam/index.md",
+      "original_exam_sha256": "e85a2756fd58425e9f40b7bc70dcbfacdf6e831a81bafb546cfcfde8e3e38867",
+      "repaired_exam_sha256": "3cd9ff73595ad568c209cbd98878204693e84cf5ff7f046b2875f4d0f97a4655",
+      "unit_sha256": "aee5d434242a4559978b80fac915d08dcdf437d81fb5b5a1c1da3b8401c3674c",
+      "editorial_decision": "Replace nonexistent priced text-C dialogue with original fully specified live-reader script; retain eight vocabulary items and contextual dialogue task.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit05_gouts-et-couleurs/index.md",
+      "exam": "content/track_e_kl06/units/unit05_gouts-et-couleurs_exam/index.md",
+      "original_exam_sha256": "618518f12a96fd461aaed7118683b614e8f7de9d450f78b0a34142d084e814df",
+      "repaired_exam_sha256": "affa9350d46de49622e58e78345e425d30681343c88564ee405a95925ff1ecf5",
+      "unit_sha256": "a8a7047c84643c539e89d9083798b41236d87526183d5c7b68aeddbbb86b45e5",
+      "editorial_decision": "Remove unscored vocabulary extras from exam instruction; complete eight agreement items; assess preference expressions in writing.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
+      "exam": "content/track_e_kl06/units/unit03_mon-college-e_exam/index.md",
+      "original_exam_sha256": "679cddb8bd9d48df35b1234cb81c851fbd7c7d6e0949294efa163b7dcb9d2056",
+      "repaired_exam_sha256": "381e0b569638dacdbef41036fdb7fa97ed56dd4eb9b12470e81155a73f8007b3",
+      "unit_sha256": "6d81e5d5c4cbe0c784c766be500a88f5ca9df2603cda0e2485786f30dbf308da",
+      "editorial_decision": "Embed actual timetable and make true/false evidence and four-item response scoring explicit.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    },
+    {
+      "unit": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e/index.md",
+      "exam": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam/index.md",
+      "original_exam_sha256": "3c13af9ad147b3e930836b69b1e1f2f8852eab717374ce6f74558c3f49adee4c",
+      "repaired_exam_sha256": "e041556b197438c1b5733920df6ac4185f04e80375ff527a121be9f867a29cf7",
+      "unit_sha256": "806c67c6f1dae57d987a0d0a90fbc6db1a2df6d9f302bb77faa031837f32b059",
+      "editorial_decision": "Replace unrelated weather/date exam with the actual time/routine unit stimulus and tasks.",
+      "human_review": "pending",
+      "duration_review": "pending"
+    }
+  ]
+}

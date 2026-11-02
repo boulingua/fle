@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 7
 slug: "vacances-en-famille"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_vacances-en-famille.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_vacances-en-famille.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit07_vacances-en-famille.html"
+- "/track_gm_kl07/units/unit07_vacances-en-famille.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.compensating.01
-    - A1.INT.notes-messages-and-forms.01
-    - A1.PROD.creative-writing.01
-    - A1.INT.goal-oriented-co-operation.01
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.PROD.compensating.01
+  - A1.INT.notes-messages-and-forms.01
+  - A1.PROD.creative-writing.01
+  - A1.INT.goal-oriented-co-operation.01
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit07_vacances-en-famille_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 40
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_vacances-en-famille-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_vacances-en-famille-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,15 +104,13 @@ C'est la rentrée. Dans la cour, Léa retrouve Théo après l'été.
 - Quelles activités mentionnent-ils ?
 - Quels petits mots servent à ranger les idées dans le temps ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Où êtes-vous parti·e en vacances l'été dernier ?
 - Mer, montagne, ville ou campagne ? Avec qui ?
 - Citez trois activités que vous aimez faire en vacances.
 - Un souvenir en un mot : chaud, sable, glace, train… ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand |
@@ -106,7 +136,7 @@ C'est la rentrée. Dans la cour, Léa retrouve Théo après l'été.
 On forme le passé composé avec **avoir** ou **être** au présent + le **participe passé**.
 
 - La plupart des verbes : **avoir** → *j'ai visité, on a mangé, ils ont fait.*
-- Verbes de déplacement (aller, partir, arriver, rester, entrer, sortir…) et verbes pronominaux : **être** → *je suis allé·e, nous sommes partis, on s'est baignés.*
+- Certains verbes intransitifs (*aller, partir, arriver, rester, entrer, sortir*) prennent **être** dans les emplois travaillés : *je suis allé·e, nous sommes partis*. Ce n'est pas le cas de tous les déplacements (*j'ai marché*); *sortir* avec un objet prend *avoir* (*j'ai sorti le vélo*). Les pronominaux prennent *être*, avec un accord dépendant de la construction : *on s'est baignés*, mais *elle s'est lavé les mains*.
 - Avec **être**, le participe s'**accorde** avec le sujet : *Léa est allé**e**, mes parents sont parti**s**.*
 
 **Participes irréguliers fréquents :** faire → *fait* · voir → *vu* · prendre → *pris* · lire → *lu*.
@@ -135,8 +165,7 @@ calendrier échelonné vise notamment à éviter que toutes les familles ne
 partent en même temps et à répartir la fréquentation touristique.
 *(Paraphrasé d'après Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (dialogue B).** Réponds par une phrase.
 
 1. Où Sami est-il, à ce moment de l'histoire ?
@@ -172,6 +201,7 @@ rentrer à la maison.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) À la gare, le jour du retour. 2) Le ticket du téléphérique.
 3) La mer et la montagne. 4) Parce qu'hier il a marché six heures.
 
@@ -183,9 +213,9 @@ rentrer à la maison.
 **Ex. 4.** Ordre logique : *D'abord*, on est arrivés au camping. *Ensuite*,
 on s'est baignés dans le lac. *Puis*, on a fait une randonnée. *Enfin*, on
 est rentrés à la maison. *(Réponse type ; l'ordre baignade/randonnée peut varier.)*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (production en continu, ~1 minute).**
 Raconte tes dernières vacances (réelles ou imaginées) devant la classe ou
 en enregistrement audio. Dis : **où** tu es allé·e, **avec qui**, **trois
@@ -199,37 +229,18 @@ Relie tes idées avec *d'abord, ensuite, puis, enfin*.
 - **Connecteurs et fluidité** : parle en continu, sans lire mot à mot. (/3)
 - **Prononciation** : compréhensible. (/3)
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je nomme des lieux, des activités et la météo de vacances.
 - [ ] Je raconte au passé composé avec le bon auxiliaire.
 - [ ] Je parle en continu pendant une minute.
 - [ ] J'utilise *d'abord, ensuite, puis, enfin*.
 - [ ] Je peux rédiger une carte postale claire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit07_vacances-en-famille_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 P.).**
-Lis une courte carte postale (fournie) et réponds à 4 questions.
-
-**Tâche 2 — Grammaire (8 P.).**
-Mets 8 verbes au passé composé (mélange *avoir* / *être*, avec accord).
-
-**Tâche 3 — Expression écrite « Schreiben » (12 P.).**
-Rédige une **carte postale** (~80 mots) depuis ton lieu de vacances :
-date + lieu, météo, **3 activités** au passé composé, un projet pour
-demain, salutation et signature. Utilise au moins **trois connecteurs**.
-
-**Tâche 4 — Expression orale « Sprechen », production en continu (12 P.).**
-Raconte tes vacances pendant une minute (voir Tâche 4 Produire).
-
-**Barème.** Contenu /12 · Passé composé /10 · Connecteurs et structure /5 ·
-Langue (orthographe, prononciation) /5 · Barème adapté par tâche.
-**Total : 40 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 5' · Apporter 12' · S'entraîner 13' ·
 Produire 12' · Réfléchir 3'.
@@ -244,6 +255,9 @@ M : consigne standard. E : exiger 4 activités et une phrase d'opinion, viser
 en*) ; météo impersonnelle (*il fait chaud*) ; accord du participe avec *être*.
 
 ## Sources
+
+- OQLF — Emploi des auxiliaires avoir et être (vérification éditoriale du 31 octobre 2026), <https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre>.
+
 
 - *Vacances scolaires en France* — Wikipédia (consulté le 2026-07-21),
   <https://fr.wikipedia.org/wiki/Vacances_scolaires_en_France>, licence CC BY-SA 4.0.

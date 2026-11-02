@@ -1,0 +1,51 @@
+{
+  "unit": "content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
+  "exam": "content/track_gm_kl07/units/unit05_amis-et-conflits_exam/index.md",
+  "before_unit_sha256": "d100716ad60c8e4f3216ab265e2bd3ef1d8bfacdb870c5b7d8e59c057ba2b656",
+  "after_unit_sha256": "feef7245dd202ba94b05a790ab1d1e30b531827008c6cf67aae972d06c23f6d4",
+  "before_exam_sha256": "eb13a551e85ec807316f2648d413e923f709b34730f9b2174281c4c0b855363e",
+  "after_exam_sha256": "a81ecb14fce20e5c386cae989d91c5697bff96d4e2f3f3db5e3f1717f64c62b2",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Preserved coherent source; corrected invented finalreply and8items10score."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "b731f8f8edff6ca0388715fc85e9cc1213d49d9f823817307da1d6bc375faee4",
+      "after_sha256": "feef7245dd202ba94b05a790ab1d1e30b531827008c6cf67aae972d06c23f6d4",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit05_amis-et-conflits/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "7d8a1e9ef92a7785b82965b193f2c1d2e2ce23b65f55dda766c98d9d87cde9b3",
+      "after_sha256": "aa94c46d5790f526254d0f064b53265393ea2c636acc8a0dfef564ee03e73c7f",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit05_amis-et-conflits_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "aa94c46d5790f526254d0f064b53265393ea2c636acc8a0dfef564ee03e73c7f",
+      "after_sha256": "d81d06eb31e859d7fb54c6e9fec50adecf5ca204140a88713114a009c10f0b80",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit05_amis-et-conflits_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl07/units/unit05_amis-et-conflits_exam/index.md",
+      "before_sha256": "d81d06eb31e859d7fb54c6e9fec50adecf5ca204140a88713114a009c10f0b80",
+      "after_sha256": "a81ecb14fce20e5c386cae989d91c5697bff96d4e2f3f3db5e3f1717f64c62b2",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

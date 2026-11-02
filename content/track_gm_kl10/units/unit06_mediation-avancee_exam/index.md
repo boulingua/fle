@@ -23,78 +23,80 @@ curriculum:
     - B1.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 30
+assessment_scoring: points-only
 ---
 
-## Devoir surveillé — Niveau M, classe 10
+## Modalités
 
-### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
+Durée indicative : 30 minutes, à éprouver en classe.
 
-Lisez le mail médical (Unité 6, texte C). **Médiez** en
-**français** (~120 mots), pour un **destinataire familier**
-(la petite-fille de la patiente, par message). Précisez le
-**registre** (familier / tutoiement) et conservez **toutes les
-infos** essentielles : valeur, recommandations, délai, contact.
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-### Tâche 2 — médiation linguistique FR → DE (10 points)
+## Support
 
-Médiez en **allemand** (~50 mots) :
+### C. Texte source allemand (texte original, ~160 mots)
 
-> *« Salut maman ! L'école a appelé : Léa a oublié son sac de
-> sport. Elle veut savoir si tu peux l'apporter avant 14h. Si
-> tu ne peux pas, ce n'est pas grave, elle empruntera celui
-> de Théo. Bisous, Léa. »*
+> **Reparieren statt wegwerfen — Repair-Cafés in Deutschland**
+>
+> In vielen deutschen Städten gibt es sogenannte Repair-Cafés. Das sind offene Treffpunkte, an denen Menschen ihre kaputten Geräte kostenlos reparieren können. Freiwillige Helferinnen und Helfer — oft pensionierte Handwerker oder technikbegeisterte Jugendliche — zeigen den Besuchern, wie man eine Lampe, ein Fahrrad oder einen Toaster wieder in Gang bringt.
+>
+> Das erste Repair-Café wurde 2009 in Amsterdam gegründet. Seitdem hat sich die Idee in ganz Europa verbreitet. Die Ziele sind klar: weniger Müll produzieren, Ressourcen schonen und das alte Wissen über Reparaturen bewahren. Außerdem lernen sich Nachbarn kennen und trinken zusammen einen Kaffee.
+>
+> Wer mitmachen möchte, bringt einfach seinen defekten Gegenstand mit und wartet, bis ein Helfer Zeit hat. Manchmal dauert eine Reparatur nur zehn Minuten, manchmal einen ganzen Nachmittag. Am Ende freuen sich fast alle: Ein repariertes Gerät ist oft besser als ein neues im Regal.
 
-### Tâche 3 — Reflexion (5 points)
+### Tâche 1 — Médiation DE → FR (18 points)
 
-Pour la Tâche 1, précisez les **4 paramètres** :
+Médiez le texte allemand fourni en français pour un ami qui ne comprend pas l'allemand (environ 120 mots) : thème, fonctionnement, origine mentionnée, deux objectifs et conclusion. Introduisez la source, sélectionnez l'essentiel et reformulez.
 
-1. Source : ___
-2. Cible : ___
-3. Destinataire : ___
-4. Genre : ___
+**Barème :** Contenu 8; reformulation 5; source/langue 5.
 
-## Notation
+### Tâche 2 — Adaptation au destinataire (7 points)
+
+Réécrivez deux phrases de votre message pour votre professeur principal, puis expliquez ce que vous avez changé et pourquoi.
+
+**Barème :** Adaptation 5; justification 2.
+
+### Tâche 3 — Réflexion (5 points)
+
+En deux ou trois phrases, distinguez traduire mot à mot et médier. Donnez un exemple précis de sélection ou de reformulation dans votre réponse.
+
+**Barème :** Définition 3; exemple 2.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — DE → FR | 15 |
-| Tâche 2 — FR → DE | 10 |
-| Tâche 3 — Reflexion | 5 |
+|---|---:|
+| 1 | 18 |
+| 2 | 7 |
+| 3 | 5 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** Modèle : *Salut Léa, voilà ce que dit le médecin
-pour ta grand-mère : son cholestérol est un peu haut
-(245 mg/dl). Il faut manger moins gras, marcher 30 min par
-jour, et refaire une analyse dans 3 mois. S'il y a des
-questions, appeler le 03 88 12 34 56. Bisous.* Critères :
-familier · 120 mots · 4 infos · pas de mot-à-mot.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** Modèle : *Hallo Mama! Die Schule hat angerufen:
-Léa hat ihre Sporttasche vergessen. Kannst du sie bis 14 Uhr
-bringen? Sonst leiht sie sich Théos Tasche. Küsse, Léa.*
-Critères : 50 mots · familier · 3 infos · construction DE
-correcte.
+**T 1.** Éléments attendus : lieux ouverts pour réparer gratuitement 2; bénévoles et exemples d'objets 1; Amsterdam 2009 1; deux parmi réduire les déchets, préserver les ressources, conserver le savoir-faire 2; fonctionnement/apporter l'objet 1; conclusion préférant réparer 1. Reformulation 5; source et langue 5. Le modèle français de l'unité peut guider la correction, mais ne doit pas être fourni avec le sujet.
 
-**Tâche 3.** 1) mail médical en allemand · 2) français,
-niveau B1 · 3) familier (petite-fille) · 4) message
-informel.
+**T 2.** Registre adapté 5 : adresse et formulation respectueuse, phrases claires, informations inchangées; justification 2. Le vouvoiement seul ne suffit pas à montrer une adaptation complète.
 
----
+**T 3.** Distinction 3 : sélection, reformulation, adaptation au destinataire; exemple lié à son message 2. Aucun taux de cholestérol, délai médical ni numéro de téléphone ne figure dans la source.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 6*
+- **Cadre européen commun de référence pour les langues — Wikipédia** — Contributeurs de Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Cadre_europ%C3%A9en_commun_de_r%C3%A9f%C3%A9rence_pour_les_langues>, licence CC BY-SA 4.0.
+- **Repair Café — Wikipédia** — Contributeurs de Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Repair_Caf%C3%A9>, licence CC BY-SA 4.0.
+- **Bildungsplan Baden-Württemberg — Französisch, médiation linguistique (« Sprachmittlung »), niveau M** — Landesinstitut für Schulentwicklung (2016), <https://www.bildungsplaene-bw.de/>, © Land Baden-Württemberg (référence institutionnelle).
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

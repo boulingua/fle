@@ -1,0 +1,41 @@
+{
+  "unit": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
+  "exam": "content/track_e_kl13/units/unit03_essai-personnel_exam/index.md",
+  "before_unit_sha256": "14ddf99b5be98976020a902e563a519ac36747a134c1e2198b40a95639b14749",
+  "after_unit_sha256": "c3ef54a9aa201d52d04ecd628fb6fd058c254e0791f6f218e1c114535ac09a1d",
+  "before_exam_sha256": "04f64297d3a8dce86fdef5b807aae058b4ed01c718e19ae092a6b1704267e868",
+  "after_exam_sha256": "e07c0fc975602cfe9258f951ffb588e20788be015933bf718e31cf1588dcc497",
+  "source_sections": [
+    "C"
+  ],
+  "supplied_source_sha256": "b8531584696427019d727ae163aaa9e26a7770b98a4135d21b0e620c8e5263b0",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Filled the embedded four missing questions and three missing gap sentences; retained8+6+16 and actualwriting-about-thinking source."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "576db69dac1c99fd279836d768ee0852a817cc386f1c794b418c8bb10d52e63b",
+      "after_sha256": "c70a215c422c39c708c3b4c1b347e9d16d5ab95095cfe6517a595405e9b78f63",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit03_essai-personnel_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit03_essai-personnel_exam/index.md",
+      "before_sha256": "c70a215c422c39c708c3b4c1b347e9d16d5ab95095cfe6517a595405e9b78f63",
+      "after_sha256": "e07c0fc975602cfe9258f951ffb588e20788be015933bf718e31cf1588dcc497",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

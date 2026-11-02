@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 7
 slug: "champs-de-bataille"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_champs-de-bataille.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_champs-de-bataille.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit07_champs-de-bataille.html"
+- "/track_e_kl08/units/unit07_champs-de-bataille.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.MED.adapting-language.01
-    - A2.MED.overall-mediation.02
-    - A2.PLUR.building-on-plurilingual-repertoire.02
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.MED.adapting-language.01
+  - A2.MED.overall-mediation.02
+  - A2.PLUR.building-on-plurilingual-repertoire.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit07_champs-de-bataille_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_champs-de-bataille-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_champs-de-bataille-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -65,15 +97,13 @@ Au lycée, Mme Devos présente le voyage scolaire de mai.
 - Que signifie l'expression « lieu de mémoire » ?
 - Pourquoi Mme Devos parle-t-elle d'une mémoire *franco-allemande* ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Connaissez-vous les mots *Verdun* ou *Ypres* ? Où les avez-vous déjà entendus ?
 - À votre avis, pourquoi visite-t-on aujourd'hui un ancien champ de bataille ?
 - Quelle différence faites-vous entre l'**Histoire** (les faits) et la **mémoire** (le souvenir partagé) ?
 - Citez un symbole de paix que vous connaissez (une colombe, une poignée de main, un coquelicot…).
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la mémoire
 
 | Français | Nature | Allemand |
@@ -124,8 +154,7 @@ Autour d'Ypres, en Belgique, se déroula en 1917 une longue bataille dans la bou
 *Faits paraphrasés d'après Wikipédia (CC BY-SA), voir Sources. Le poème de John McCrae (mort en 1918) est dans le domaine public.*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du texte C.** Répondez par une phrase complète.
 
 1. Quand a eu lieu la bataille de Verdun ?
@@ -153,6 +182,7 @@ d. une construction qui honore la mémoire des soldats tombés
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Elle a eu lieu de février à décembre 1916.
 2. L'armée française et l'armée allemande se sont affrontées.
@@ -172,9 +202,9 @@ d. une construction qui honore la mémoire des soldats tombés
 - **M (moyen) :** exercices tels quels.
 - **E (approfondissement) :** ajoutez à l'Ex. 4 une phrase expliquant pourquoi le texte d'histoire emploie le passé simple.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (≈ 120 mots).**
 
 Rédigez une **page mémoire** sur **Ypres** (Belgique, 1917), sur le modèle du texte C, à partir des faits suivants :
@@ -196,41 +226,18 @@ Employez au moins **6 mots** du vocabulaire de la mémoire et terminez par **une
 - Réflexion finale sur la paix — 2 pts
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends les informations essentielles d'une page mémoire (dates, chiffres, lieux).
 - [ ] Je reconnais le passé simple et je sais le transformer au passé composé.
 - [ ] Je connais et j'emploie 8 mots du vocabulaire de la mémoire.
 - [ ] Je rédige une page mémoire d'environ 120 mots.
 - [ ] Je peux expliquer ce qu'est la réconciliation franco-allemande.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit07_champs-de-bataille_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 P.)**
-Lisez la page mémoire de Verdun (texte C) et répondez à 6 questions (dates, acteurs, lieux, symboles).
-
-**Tâche 2 — Compétence textuelle et médiatique (8 P.)**
-Observez une photographie d'un monument aux morts ou de l'Ossuaire de Douaumont (fournie en cours).
-- a) Décrivez ce que vous voyez (3 P.).
-- b) Expliquez la fonction de ce lieu de mémoire (3 P.).
-- c) Relevez un élément qui exprime la réconciliation ou la paix (2 P.).
-
-**Tâche 3 — Expression écrite (10 P.)**
-Rédigez une courte page mémoire (≈ 120 mots) sur Ypres à partir des faits fournis.
-
-**Barème : 30 P.** — 12 P. compréhension · 8 P. texte/médias · 10 P. écriture.
-
-| Note | Points |
-|---|---|
-| très bien | 27–30 |
-| bien | 22–26 |
-| satisfaisant | 16–21 |
-| passable | 10–15 |
-| insuffisant | 0–9 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

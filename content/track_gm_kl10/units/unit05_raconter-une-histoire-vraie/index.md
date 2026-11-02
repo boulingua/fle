@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 5
 slug: "raconter-une-histoire-vraie"
 bildungsplan:
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.4 Expression orale — production orale en continu (monologue)"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — production orale en continu (monologue)"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,56 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_raconter-une-histoire-vraie.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_raconter-une-histoire-vraie.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit05_raconter-une-histoire-vraie.html"
+- "/track_gm_kl10/units/unit05_raconter-une-histoire-vraie.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.PROD.compensating.03
-    - B1.INT.formal-discussion.01
-    - B1.INT.overall-written-interaction.02
-    - B1.MED.adapting-language.02
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.PROD.compensating.03
+  - B1.INT.formal-discussion.01
+  - B1.INT.overall-written-interaction.02
+  - B1.MED.adapting-language.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam
+  format: existing-assessment
+  duration_minutes: 60
+  points: 40
+  skills:
+  - reading
+  - writing
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_raconter-une-histoire-vraie-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit05_raconter-une-histoire-vraie-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,8 +104,7 @@ En cours de français, Mme Lefèvre propose un exercice à sa classe :
 2. Quelle histoire Yanis choisit-il de raconter ?
 3. Dans la phrase de la fin, quels mots décrivent le **décor** ? Lesquels décrivent l'**action** ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez d'abord, à l'oral avec un·e camarade :
 
 - Quelle est l'histoire vraie qui vous a le plus marqué·e ?
@@ -79,8 +112,7 @@ Répondez d'abord, à l'oral avec un·e camarade :
 - Pourquoi est-elle importante pour vous ?
 - En allemand, on distingue *Präteritum* et *Perfekt*. En français, quelle différence connaissez-vous déjà entre **imparfait** et **passé composé** ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du récit
 
 | Français | Catégorie | Allemand |
@@ -136,8 +168,7 @@ Répondez d'abord, à l'oral avec un·e camarade :
 
 Raconter un moment vrai de sa propre existence, c'est produire ce qu'on appelle un **récit de vie**. En français, ce type de texte est proche de l'**autobiographie**, un genre où l'auteur·e raconte sa propre histoire et où narrateur et personnage principal ne font qu'une seule personne. Selon les articles de vulgarisation en libre accès, l'autobiographie se distingue de la fiction par un **engagement de sincérité** : l'auteur·e promet de raconter des faits réellement vécus, même s'ils sont reconstruits par la mémoire, qui peut oublier ou déformer. C'est pourquoi un récit vrai reste toujours un **point de vue** personnel sur les événements — ce qui n'enlève rien à sa valeur (paraphrasé d'après *Autobiographie*, Wikipédia, CC BY-SA).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte D).**
 1. En quelle saison et quel jour se passe l'histoire ?
 2. Depuis combien de temps le chat avait-il disparu ?
@@ -167,6 +198,7 @@ a) *La nuit tombait.* — b) *Nous sommes montés dans le bus.* — c) *Il y ava
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Un dimanche d'automne. 2) Depuis trois jours. 3) Sous une vieille barrière, dans le jardin du voisin. 4) « On ne mesure pas toujours ce qu'on aime avant de risquer de le perdre. »
 
 **Ex. 2.** 1) faisait · 2) ai vu · 3) habitions · 4) a sonné · 5) avait · 6) dormais / a éclaté.
@@ -174,9 +206,9 @@ a) *La nuit tombait.* — b) *Nous sommes montés dans le bus.* — c) *Il y ava
 **Ex. 3.** D (imparfait) : a, c, e. — A (passé composé) : b, d.
 
 **Ex. 4.** D'abord, … Ensuite, … Tout à coup, … Enfin, …
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche A — écrit (skills_focus : *schreiben*, ~200 mots).**
 Racontez une **histoire vraie** qui vous a marqué·e, en **3 paragraphes** :
 1. une **introduction** avec le décor à l'**imparfait** (qui, quand, où) ;
@@ -199,43 +231,18 @@ Racontez la même histoire **à l'oral**, sans lire votre texte mot à mot (note
 | Fluidité / prononciation | — | ✔ |
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue le passé composé de l'imparfait.
 - [ ] Je place le **décor** à l'imparfait et l'**action** au passé composé.
 - [ ] Je structure mon récit en introduction – développement – conclusion.
 - [ ] J'utilise des connecteurs (*d'abord, ensuite, tout à coup, enfin*).
 - [ ] Je peux raconter mon histoire à l'oral, en continu, sans tout lire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 P.)**
-Lisez le récit modèle (texte D) et répondez à 4 questions.
-
-**Tâche 2 — Conjugaison (10 P.)**
-Complétez 8 phrases au passé composé **ou** à l'imparfait et justifiez brièvement 2 choix.
-
-**Tâche 3 — Expression écrite (« Schreiben », 12 P.)**
-Rédigez votre **histoire vraie** (~200 mots) en 3 paragraphes, avec au moins 5 verbes au passé composé et 5 à l'imparfait.
-
-**Tâche 4 — Expression orale en continu (« Sprechen », 10 P.)**
-Racontez votre histoire à l'oral (env. 2 min), sans lecture intégrale.
-
-**Barème — Total : 40 P.**
-
-| Tâche | Compétence | Points |
-|---|---|---|
-| 1. Compréhension | lire | 8 |
-| 2. Conjugaison | langue | 10 |
-| 3. Expression écrite | schreiben | 12 |
-| 4. Expression orale | sprechen_monolog | 10 |
-| **Total** | | **40** |
-
-Répartition indicative de la Tâche 3 : contenu et structure 4 P. · alternance des temps 4 P. · connecteurs et vocabulaire 2 P. · correction générale 2 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min)**
 - Activer — 5 min : situation de départ + questions, à l'oral en tandem.

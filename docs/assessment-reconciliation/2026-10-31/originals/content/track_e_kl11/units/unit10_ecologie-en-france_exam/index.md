@@ -1,0 +1,94 @@
+---
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 10"
+subtitle: "Écologie en France · classe 11 · Niveau E (épreuve finale Bf)"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 10
+slug: "ecologie-en-france-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-11
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.planning.01
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.acting-as-an-intermediary-in-informal-situations.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le dialogue Anouk/Mehdi (Unité 10, texte C). Répondez :
+
+1. % nucléaire en France ?
+2. % nucléaire en Allemagne aujourd'hui ?
+3. Combien de citoyens à la Convention 2020 ?
+4. Que limite la loi climat 2021 ?
+5. Quel objectif commun en 2050 ?
+
+### Tâche 2 — Vocabulaire vert (8 points)
+
+Reliez chaque terme à sa définition :
+
+- transition énergétique · neutralité carbone · empreinte ·
+ bilan carbone · convention citoyenne · Green Deal ·
+ lignite · renouvelables
+
+(Définitions : passage à l'énergie propre · 0 net · CO2
+émis par personne · CO2 d'une organisation · 150 citoyens ·
+plan climat UE · charbon brun · solaire/éolien/hydro.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre dialogue FR/DE sur la transition** (~250
+mots, 12 répliques) : 5 chiffres + 4 termes verts + 1
+citation + 1 conditionnel.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 65 %. 2) 0 %. 3) 150. 4) Les vols intérieurs
+courts. 5) Neutralité carbone 2050.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 250 mots ·
+12 répliques · 5 chiffres · 4 termes · 1 citation · 1
+conditionnel.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 10*

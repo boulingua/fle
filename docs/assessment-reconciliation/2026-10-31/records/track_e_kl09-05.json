@@ -1,0 +1,68 @@
+{
+  "unit": "content/track_e_kl09/units/unit05_le-petit-nicolas/index.md",
+  "exam": "content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md",
+  "before_unit_sha256": "99b48109d01617d6bccb58443f13bfea3fe4b291f0d8d045b13de68197dc0acc",
+  "after_unit_sha256": "0cdf3d1d306a561871b8398ec5511726179c1498bc73abf9e0240e95bc85c926",
+  "before_exam_sha256": "ea229fb9bc8e3a7895fb2c2fe9a85732ba27d6acab0b035e5d5896f8c44fc13e",
+  "after_exam_sha256": "84c21149fdaeca818422a7330812cbfa1130a85f76ef44e18e95ae955ef3429a",
+  "source_sections": "C",
+  "supplied_source_sha256": "02ad22044ae322434c3acbc7d87bf097c69b5aee52854d66fbf93346eb7d2a84",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Replaced inspector/Geoffroy/Alceste prompts absent from original La dictée. Replaced impossible continuation of copyrighted unsupplied story with original first-person anecdote."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "f7d3c499523e05a2fb4ff1f3b7591c0a73763639851b1918ba1b2b1f23aaa0ff",
+      "before_sha256": "f7d3c499523e05a2fb4ff1f3b7591c0a73763639851b1918ba1b2b1f23aaa0ff",
+      "after_sha256": "252982dad57444f0dc4e59f82ac14492e11473b5cb2dd24d7ab18dd650d06d1e",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "02ac1f74253050b2ce48d8e22c6b22af2ee25bccdb2580088a013ffb90bd0903",
+      "before_sha256": "02ac1f74253050b2ce48d8e22c6b22af2ee25bccdb2580088a013ffb90bd0903",
+      "after_sha256": "6b5dc5bd0003ced22dd5e01af75a1a4b779ae0b98e3df63f67e5c1b704748193",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "252982dad57444f0dc4e59f82ac14492e11473b5cb2dd24d7ab18dd650d06d1e",
+      "after_sha256": "0cdf3d1d306a561871b8398ec5511726179c1498bc73abf9e0240e95bc85c926",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit05_le-petit-nicolas/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6b5dc5bd0003ced22dd5e01af75a1a4b779ae0b98e3df63f67e5c1b704748193",
+      "after_sha256": "a9c3b7437883acba0193faea6d2852b786727b10fa3f85fd6c18d012b43c10b4",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a9c3b7437883acba0193faea6d2852b786727b10fa3f85fd6c18d012b43c10b4",
+      "after_sha256": "3bc2b6a37e8f0b50c0c07908ff16a1a83f5e38a135737986ad0b72869bb2e7cb",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md",
+      "before_sha256": "3bc2b6a37e8f0b50c0c07908ff16a1a83f5e38a135737986ad0b72869bb2e7cb",
+      "after_sha256": "84c21149fdaeca818422a7330812cbfa1130a85f76ef44e18e95ae955ef3429a",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

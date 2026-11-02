@@ -1,0 +1,40 @@
+{
+  "unit": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie/index.md",
+  "exam": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam/index.md",
+  "before_unit_sha256": "fd4a8ce295f01d467c45e7257520aee93b57c0731a8065a10f6bca6c23be7eb1",
+  "after_unit_sha256": "c9dc9e955dbf9eaa3ad6f89697c3b443d9534d5e161e972321ec050af437646b",
+  "before_exam_sha256": "c2879a2180f92475749c939b8f8b2e91474ede28f973fa2b02ecbd055bb1a66e",
+  "after_exam_sha256": "cd02c3d42aae5a6ebccd8336ddc8058db810232bc13491d7202610859f75dcea",
+  "source_sections": [
+    "D"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 40,
+  "skills_observed": [
+    "reading",
+    "writing",
+    "speaking_production"
+  ],
+  "decisions": [
+    "Preserved40-point four-task paper, including10 oral points. Actual Filou narrative supplied; eight verb forms and two justifications now match ten language points."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "8db9bea2961b0b91d554a17cfc97a307b26af763315417b89112e2ef3e86af13",
+      "after_sha256": "39bc2bc8aeaff016dded6898756e6b679989c0e08fc03a9c62a5cc1a0eafee4b",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam/index.md",
+      "before_sha256": "39bc2bc8aeaff016dded6898756e6b679989c0e08fc03a9c62a5cc1a0eafee4b",
+      "after_sha256": "cd02c3d42aae5a6ebccd8336ddc8058db810232bc13491d7202610859f75dcea",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

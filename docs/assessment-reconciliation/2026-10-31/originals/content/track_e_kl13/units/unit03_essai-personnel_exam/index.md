@@ -1,0 +1,95 @@
+---
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 3"
+subtitle: "Essai personnel : structure · classe 13 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 3
+slug: "essai-personnel-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-13
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.correspondence.08
+    - B2.MED.collaborating-to-construct-meaning.03
+    - B2.MED.relaying-specific-information.05
+    - B2.PRAG.coherence-and-cohesion.01
+    - B2.PRAG.fluency.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'essai *« Pourquoi le français ? »* (Unité 3, texte C).
+Répondez :
+
+1. Combien de souvenirs sont cités ?
+2. Quelle citation d'Ormesson ?
+3. Où ira Anouk en septembre ?
+4. Que dit Ben Jelloun cité par Anouk ?
+5. Comment Anouk décrit-elle le français en quatre mots ?
+
+### Tâche 2 — Genres argumentatifs (8 points)
+
+Reliez chaque genre à sa caractéristique :
+
+- essai · dissertation · commentaire · pamphlet · article ·
+ thèse · mémoire · billet
+
+(Caractéristiques : « je » + thèse personnelle · TAS scolaire
+neutre · analyse texte donné · attaque virulente · presse ·
+universitaire long · master · presse court.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre essai personnel** (~500 mots) sur un sujet :
+*Pourquoi le français ? · Pourquoi lire ? · Pourquoi
+voyager ?* — 4-6 § + 5 citations + 1 chute + « je ».
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Genres | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Quatre (Inès, Karim, Ernaux, Camus). 2)
+*« Le français n'appartient à personne. »* 3) À Bordeaux,
+chez Mollat. 4) *« La langue française m'a adopté. »* 5)
+Caresse, mosaïque, mémoire, exigence.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 500 mots · 4-6 § ·
+5 citations · 1 chute · « je ».
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 3*

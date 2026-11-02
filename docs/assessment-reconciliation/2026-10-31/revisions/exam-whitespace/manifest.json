@@ -1,0 +1,92 @@
+[
+  {
+    "path": "content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md",
+    "before_sha256": "c40c5626bfd0630f82a0ccdf68e95148cc5968335b01331b392ce706d33fd08a",
+    "after_sha256": "666245344f5d7d3be25eb1593849f2f97ba225389ae3909ff39a580c0345706b",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md",
+    "before_sha256": "d3c82c1b0c14b4acd0a551c02172de3ba86d00bdb63aae4a549a91020a24dc38",
+    "after_sha256": "29e545fce286aacc266bc687a062c6c6a356116d67c9ebc1751570e030172259",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md",
+    "before_sha256": "044313e13d5351ef879851cd92f6198d29a146302859d8da1b86df696e265dce",
+    "after_sha256": "8c67094955c47690a9139a24ca9178204c3584e17573ecb1695a0d5df6e22f06",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md",
+    "before_sha256": "cd78f84a410664c5a99dd164a9b74eef673a5feff24009652ca2626e3369ca3f",
+    "after_sha256": "21ee1557eda78639b20ccbe78db00b21c3c5fc1d3fbda44adf515b23179f7e43",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md",
+    "before_sha256": "60ca97154a78bfe7870374d93087ef21a15f732bafca5be7081d8aa1a89ca594",
+    "after_sha256": "f145aa06973ec2f7c34bae69b53bfbb2dea0718279e2b4e4ea1ea3fe9f752c58",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md",
+    "before_sha256": "c8a100f67def72e69fb79152fe81320c403c496fb9de8d63249e11ac07950ba2",
+    "after_sha256": "139e938bc9db32d2cf1c8671eb207ac4b65d916cd631ce1321d88dcaf7e0698f",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md",
+    "before_sha256": "17a787f2e99c1996f52468c62d244260283fa7b8f0020b23320e16ea2e4dc8af",
+    "after_sha256": "b0553a7dfd9e8014fb9084ce62d646c660b88160d29a8b8eac4c6fe1fc98733a",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md",
+    "before_sha256": "3c27be737b91ea8a745bc2aeeacdde554dbe32bc24b6b394f11397cffc39611a",
+    "after_sha256": "c6986d939b7246098167ed1e4a3fde1a0ce1b951b1f4ae4d7070eb8d2cf25709",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md",
+    "before_sha256": "9b23484ebcdea605a5758e67559b2c3ed1547496cbc191675dab48c8207557f7",
+    "after_sha256": "dff86b4314ca612b52cf1a455810033b6b002dd6094af9ad072b1ce86b93df50",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md",
+    "before_sha256": "9073c7a1a50b56de1d00c5cae12f5e86e86557c6a704d87c00a0343aed8c66c3",
+    "after_sha256": "2dc888d7796716fe4694b41893955bc6e36a5c49d2ded4d01062242353e7b65f",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md",
+    "before_sha256": "6c398130bf9a96d00c78dfc8700950dd6ebfdab4854b08eef27218fd33898de4",
+    "after_sha256": "bfad51450e1e492083a5c53ebb82f58d8e4377882e61692be2e2fb433c896fae",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md",
+    "before_sha256": "388a1dd92fb5fc3e234872cb8461aa97e8319a818e2772fa562745eca55045b6",
+    "after_sha256": "5df371986509f8684aad826ebba6c217b939ea43caf3a378daeea05a047a33c8",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md",
+    "before_sha256": "ff62cc4830de9189f631edf96c64224fcafe88fdbea8b47aaa8c1edb498e1177",
+    "after_sha256": "da1180105f328757c5eee5b215af84ec815e8fa54d7bda8ae164219a8f783913",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl11/units/unit08_voix-feminines_exam/index.md",
+    "before_sha256": "f38c760f7c75c1014b89a9730d60f5388827a6a87e8a23f67ba4e454a35d0bea",
+    "after_sha256": "f19139e94b4e87dbb230facb5bce5a601dfbd743dab0cf1304580a57fe124dcc",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  },
+  {
+    "path": "content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md",
+    "before_sha256": "6c85536d12e57f6eb91af540ae4de2ea43bb86adf1ffc623b8a8a7553d07002e",
+    "after_sha256": "9d5a3955817d91ccc37b6f86d55f0ef919ceead1bf49be7c63923e9c923f16e8",
+    "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+  }
+]

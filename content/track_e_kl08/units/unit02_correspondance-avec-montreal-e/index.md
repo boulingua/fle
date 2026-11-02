@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 2
 slug: "correspondance-avec-montreal-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,56 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_correspondance-avec-montreal-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_correspondance-avec-montreal-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit02_correspondance-avec-montreal-e.html"
+- "/track_e_kl08/units/unit02_correspondance-avec-montreal-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.PROD.overall-oral-production.01
-    - A2.REC.identifying-cues-and-inferring.05
-    - A2.MED.adapting-language.01
+  - A2.PROD.creative-writing.04
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.PROD.overall-oral-production.01
+  - A2.REC.identifying-cues-and-inferring.05
+  - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file:
+    /fle/materials/worksheets/unit02_correspondance-avec-montreal-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit02_correspondance-avec-montreal-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,15 +100,13 @@ Anouk, élève à Karlsruhe, ouvre sa boîte de courriels un dimanche matin. Un 
 - Quels deux mots Anouk doit-elle expliquer à sa sœur ?
 - Repérez un verbe au **présent** et un verbe au **passé composé** dans le message.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Écrivez-vous des courriels, des messages ou des lettres ? À qui ?
 - Avez-vous déjà écrit en français à quelqu'un·e ? Dans quelle situation ?
 - Selon vous, quelle formule ouvre un courriel amical ? Laquelle le termine ?
 - Connaissez-vous déjà un mot « québécois » ? Lequel ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — écrire un courriel amical
 
 | Français | Fonction dans le courriel | Allemand (Hilfe) |
@@ -129,8 +161,7 @@ Anouk, élève à Karlsruhe, ouvre sa boîte de courriels un dimanche matin. Un 
 
 Au Québec, le français est la langue officielle. La *Charte de la langue française*, adoptée en 1977, en fait la langue normale du travail, de l'enseignement et de l'administration. Une institution publique, l'**Office québécois de la langue française**, veille à son usage et à sa qualité. Le français québécois partage sa grammaire avec le français de France, mais il possède un vocabulaire propre (les « québécismes ») et une prononciation particulière, héritée notamment du français parlé aux XVIIᵉ et XVIIIᵉ siècles. *(D'après Wikipédia, articles « Français québécois » et « Charte de la langue française », CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 
 1. Quel est l'objet du courriel ?
@@ -159,6 +190,7 @@ a) magasiner · b) une tuque · c) jaser · d) plate · e) écœurant (positif)
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Donner des nouvelles de Montréal (l'objet : *« Des nouvelles de Montréal ! »*).
 2. C'est l'automne ; il commence à faire froid (*frette*) le matin.
@@ -173,9 +205,9 @@ a) magasiner · b) une tuque · c) jaser · d) plate · e) écœurant (positif)
 
 **Exercice 4.**
 1. avons visité · 2. a trouvé · 3. suis allé·e · 4. avons jasé.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~150 mots).**
 
 Rédigez le **courriel-réponse** d'Anouk à Inès. Votre message doit contenir :
@@ -195,27 +227,18 @@ Rédigez le **courriel-réponse** d'Anouk à Inès. Votre message doit contenir 
 - Message clair, cohérent, d'une longueur d'environ 150 mots.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends un courriel amical venu du Québec.
 - [ ] Je rédige un courriel structuré (salutation, corps, clôture).
 - [ ] J'utilise le passé composé pour raconter des faits récents.
 - [ ] J'emploie au moins deux québécismes correctement.
 - [ ] Je sais expliquer une différence entre français du Québec et de France.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 pts).** Lisez le courriel d'Inès (texte C) et répondez à 5 questions (informations principales + sens de deux québécismes).
-
-**Tâche 2 — Vocabulaire et langue (8 pts).** Donnez l'équivalent français de France de 4 québécismes (4 pts) et mettez 4 verbes au passé composé (4 pts).
-
-**Tâche 3 — Expression écrite (12 pts).** Rédigez un courriel-réponse (~150 mots) : structure complète, présent + passé composé, deux québécismes.
-
-**Barème :** Tâche 1 : 10 · Tâche 2 : 8 · Tâche 3 : 12 — **Total : 30 pts.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

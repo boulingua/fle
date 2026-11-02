@@ -1,0 +1,94 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 4"
+subtitle: "Francophonie aujourd'hui · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 4
+slug: "francophonie-aujourd-hui-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.adapting-language.01
+    - B1.MED.breaking-down-complicated-information.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le portrait Aya Nakamura (Unité 4, texte C). Répondez :
+
+1. Quel est son vrai nom ?
+2. Où est-elle née ?
+3. Combien de streams cumule-t-elle sur Spotify ?
+4. Quels mots a-t-elle popularisés ?
+5. Que s'est-il passé en 2024 ?
+
+### Tâche 2 — OIF / Francophonie (8 points)
+
+Reliez chaque donnée à sa valeur :
+
+- États membres OIF · Locuteurs francophones · Continents ·
+ Journée internationale · Mouvement littéraire · Co-
+ fondateur Négritude
+
+(Valeurs : 88 · 321 millions · 5 · 20 mars · Négritude ·
+Senghor.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez le **portrait** d'une figure francophone (~150 mots) :
+3 § (vie / œuvre / impact) + 5 dates précises + 2 citations.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — OIF/Francophonie | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Aya Coco Danioko. 2) À Bamako (Mali) le 10
+mai 1995. 3) Plus de 6 milliards. 4) *catchana, bazardée,
+djadja*. 5) Elle a interprété Édith Piaf aux JO de Paris.
+
+**Tâche 2.** OIF = 88 · locuteurs = 321 M · continents = 5 ·
+journée = 20 mars · mouvement = Négritude · co-fondateur =
+Senghor.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3 § ·
+5 dates · 2 citations.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 4*

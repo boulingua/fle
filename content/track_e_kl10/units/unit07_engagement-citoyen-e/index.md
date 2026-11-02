@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 7
 slug: "engagement-citoyen-e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_interaction
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_engagement-citoyen-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_engagement-citoyen-e.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit07_engagement-citoyen-e.html"
+- "/track_e_kl10/units/unit07_engagement-citoyen-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.formal-discussion.01
-    - B1.PROD.reports-and-essays.03
-    - B1.INT.notes-messages-and-forms.01
-    - B1.PROD.sustained-monologue-giving-information.03
-    - B1.MED.facilitating-pluricultural-space.03
+  - B1.INT.formal-discussion.01
+  - B1.PROD.reports-and-essays.03
+  - B1.INT.notes-messages-and-forms.01
+  - B1.PROD.sustained-monologue-giving-information.03
+  - B1.MED.facilitating-pluricultural-space.03
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit07_engagement-citoyen-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_interaction
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_engagement-citoyen-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_engagement-citoyen-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,15 +102,13 @@ curriculum:
 - Quel argument Karim oppose-t-il à l'engagement ? Est-il convaincant ?
 - Et vous : donneriez-vous deux heures pour un repair café ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelle forme d'engagement vous attire le plus : le climat, la solidarité, les droits, la culture ?
 - À quel âge peut-on **voter** aux élections nationales en France ?
 - Combien d'heures par mois seriez-vous prêt·e à consacrer au bénévolat ?
 - Connaissez-vous une association près de chez vous ? Que fait-elle ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'engagement
 
 | Français | Catégorie | Allemand (repère) |
@@ -120,8 +150,7 @@ curriculum:
 
 En France, le **Service Civique** est un dispositif d'engagement volontaire créé par une loi de 2010. Il s'adresse aux jeunes d'environ **16 à 25 ans** (et jusqu'à 30 ans en situation de handicap), qui peuvent réaliser une **mission d'intérêt général** de six à douze mois dans des domaines comme la solidarité, l'environnement, la culture ou l'éducation. En contrepartie, le·la volontaire perçoit une **indemnité** mensuelle et n'a pas besoin de diplôme pour candidater : c'est l'envie de s'engager qui compte. *(Information paraphrasée de l'article « Service civique » de Wikipédia en français, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte B).** Répondez par une phrase complète.
 
 a) Pourquoi l'auteur croyait-il n'avoir « aucun pouvoir » ?
@@ -148,6 +177,7 @@ c) Pour que la ville ___ (changer), il faut voter.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** a) Parce qu'il ne peut pas encore voter (il a 16 ans). b) Il aide des élèves de collège à faire leurs devoirs, deux heures par semaine. c) On apprend à écouter, à expliquer et à être patient (réponses proches acceptées).
 
 **Ex. 2.** a) pétition · b) bénévolat · c) sensibiliser.
@@ -155,9 +185,9 @@ c) Pour que la ville ___ (changer), il faut voter.
 **Ex. 3.** a) agissions · b) suffise · c) change.
 
 **Ex. 4.** Réponse libre. Exemple : « Je ne suis pas d'accord. En effet, beaucoup de jeunes militent pour le climat ; par exemple, ma sœur participe chaque mois à un nettoyage de la forêt. »
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, environ 180 mots) — une tribune.**
 
 Rédigez une **tribune d'opinion** sur un sujet d'engagement de votre choix (climat, solidarité, harcèlement, droits, culture). Structurez votre texte en **quatre paragraphes** : une accroche, deux arguments, une conclusion qui appelle à agir.
@@ -172,33 +202,18 @@ Rédigez une **tribune d'opinion** sur un sujet d'engagement de votre choix (cli
 | Vocabulaire de l'engagement | au moins 5 termes de la liste A |
 | Prise de position | opinion nette + appel à agir |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer cinq formes d'engagement des jeunes.
 - [ ] Je peux dialoguer et réagir aux arguments d'un·e partenaire.
 - [ ] J'emploie correctement le subjonctif après une expression d'opinion ou de nécessité.
 - [ ] J'utilise au moins cinq connecteurs argumentatifs.
 - [ ] Je peux rédiger une tribune structurée d'environ 180 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — interaction orale et expression écrite (30 points).**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit07_engagement-citoyen-e_exam" >}}).
 
-**Partie A — Dialogue (sprechen_dialog, 14 pts).** En binôme, jouez une scène de 8 à 10 répliques : l'un·e propose de rejoindre une action citoyenne (bénévolat, pétition, manifestation), l'autre hésite. Chacun·e défend son point de vue, puis vous parvenez à une décision commune.
-
-- Contenu et pertinence des arguments : 5 pts
-- Interaction (relancer, réagir, convaincre) : 5 pts
-- Correction de la langue et vocabulaire de l'engagement : 4 pts
-
-**Partie B — Expression écrite (schreiben, 16 pts).** Rédigez une tribune d'opinion (environ 180 mots) sur un sujet d'engagement citoyen.
-
-- Structure et cohérence (4 paragraphes, connecteurs) : 6 pts
-- Richesse du vocabulaire et emploi du subjonctif : 5 pts
-- Correction grammaticale et orthographe : 5 pts
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min).** Activer 5' · Apporter 13' · S'entraîner 12' · Produire 11' · Réfléchir 2' · Consignes pour la suite 2'.
 

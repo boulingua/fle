@@ -1,0 +1,97 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 5"
+subtitle: "Raconter une histoire vraie · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 5
+slug: "raconter-une-histoire-vraie-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.planning.01
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.acting-as-an-intermediary-in-informal-situations.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez le récit de Karim (Unité 5, texte C). Répondez :
+
+1. Quel âge avait Karim et où vivait-il ?
+2. Pourquoi sa famille a-t-elle déménagé ?
+3. Quel temps faisait-il le jour du départ ?
+4. Quelle phrase conclut le récit ?
+
+### Tâche 2 — Conjugaison (10 points)
+
+Mettez au passé composé ou à l'imparfait selon le sens.
+
+1. *Il (faire) ___ beau ce matin-là.*
+2. *Soudain, j'(voir) ___ un accident.*
+3. *Nous (habiter) ___ à Paris en 2015.*
+4. *Le téléphone (sonner) ___ trois fois.*
+5. *Mon grand-père (avoir) ___ 80 ans.*
+6. *Pendant que je (lire) ___, ma sœur (entrer) ___.*
+7. *Hier, on (aller) ___ au cinéma.*
+8. *Quand j'(être) ___ petit, je (jouer) ___ au foot.*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Racontez une **histoire vraie** qui vous a marqué(e) en
+**200 mots**. Plan : intro avec décor (imparfait), événement
+(passé composé), conclusion réflexive. **5 verbes PC** +
+**5 imparfait** minimum.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Conjugaison | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 7 ans, à Lille. 2) Le père a reçu une offre
+d'emploi à Karlsruhe. 3) Il a plu très fort. 4) « Cette journée
+a changé ma vie. »
+
+**Tâche 2.** 1) faisait · 2) ai vu · 3) habitions · 4) a sonné
+· 5) avait · 6) lisais / est entrée · 7) est allé(e)(s) ·
+8) étais / jouais.
+
+**Tâche 3.** Réponses libres. Critères : 200 mots · 3
+paragraphes · 5 PC + 5 imparfait · cohérence narrative.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 5*

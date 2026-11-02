@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
+  "exam": "content/track_e_kl08/units/unit11_un-projet-solidaire-e_exam/index.md",
+  "before_unit_sha256": "37383418df73e12c1bb82ccd20da34e952abf8b68cd20e88bb40ee594c2b5239",
+  "after_unit_sha256": "ba5ce94bb2ff6be2c99e8967a894fbd34b92d7cb7d0796cd27da6df6ba9e1104",
+  "before_exam_sha256": "2fbcba9ac66daf96bd56b795761633cf0b483b8f723ca2ba8839d2a75883b536",
+  "after_exam_sha256": "7df354ade54039edd5694d82655071774564b103301c9b692c106ff38a07ccfb",
+  "source_sections": "C",
+  "supplied_source_sha256": "dac0c6a44a31564b1461885086410c3867dd2f6cc2b7fbb441ed3b3a223a9910",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Replaced nonexistent Tunis/IbnKhaldoun/200books/March dates with actual dual-destination poster. Retained future-simple drill and poster authoring."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "f5e13c7130e1f59ba10958e8f31cdc2c329f359de48ebb6efd30109714d13dd6",
+      "after_sha256": "ba5ce94bb2ff6be2c99e8967a894fbd34b92d7cb7d0796cd27da6df6ba9e1104",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "f5f39f81eb3b74dd9d19150715307a6f5f2436d29ced09a294cc925fc80a5eb4",
+      "after_sha256": "6c7bd8a829a2df1b6c9cf5a8c307b578cdf5568bc093343dda0f4e0f2e85b842",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit11_un-projet-solidaire-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6c7bd8a829a2df1b6c9cf5a8c307b578cdf5568bc093343dda0f4e0f2e85b842",
+      "after_sha256": "513fc21e5571ea15655b89b4d260ac1af4df777620b4d29a5599dbb6a785c97d",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit11_un-projet-solidaire-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e_exam/index.md",
+      "before_sha256": "513fc21e5571ea15655b89b4d260ac1af4df777620b4d29a5599dbb6a785c97d",
+      "after_sha256": "7df354ade54039edd5694d82655071774564b103301c9b692c106ff38a07ccfb",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

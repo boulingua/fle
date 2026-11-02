@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
+  "exam": "content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md",
+  "before_unit_sha256": "3d3cddc32842c2085b6e6e9a904677960ef2ac5aa2e7cb283724939fbe2341df",
+  "after_unit_sha256": "9567d4df31b406bb8249ead1d1ea51bb4de9a202cc067b6d64857f922041cd30",
+  "before_exam_sha256": "013c16efa894f160d05f51637d63b63cb48bbce6128af5beef220a5bcb28b40c",
+  "after_exam_sha256": "fea872e3ca2403e927ffe7be4abff00dfe7e32c2c15f5c1c01e6d545aefd30ff",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "speaking",
+    "writing"
+  ],
+  "decisions": [
+    "Retained coherent original embedded task structure and totals; supplied exact source and full key; reconciled incompatible sibling source/answer claims."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "8890ad3f72d83b28642039507ad4d7fd81f2322bea07d3a537abcc9d7200b687",
+      "before_sha256": "8890ad3f72d83b28642039507ad4d7fd81f2322bea07d3a537abcc9d7200b687",
+      "after_sha256": "9567d4df31b406bb8249ead1d1ea51bb4de9a202cc067b6d64857f922041cd30",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "2a9db421cde345d2c1abb8be201bd55cc445e34363a28eedf031ab00a5f4fc79",
+      "before_sha256": "2a9db421cde345d2c1abb8be201bd55cc445e34363a28eedf031ab00a5f4fc79",
+      "after_sha256": "dccf92ad6bc70ad3d20c4a9f45da14f56087f33eb23ad8851c3d979196bb30f7",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "dccf92ad6bc70ad3d20c4a9f45da14f56087f33eb23ad8851c3d979196bb30f7",
+      "after_sha256": "98edda19ff663ec676174be119aa65887eab6fcea0008866646d3ccb16060888",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "98edda19ff663ec676174be119aa65887eab6fcea0008866646d3ccb16060888",
+      "after_sha256": "44afbe54d0b9b17b0753330e7c5e98d10989ea252fc2eac9ad53f5fb2ca2b0d6",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md",
+      "before_sha256": "44afbe54d0b9b17b0753330e7c5e98d10989ea252fc2eac9ad53f5fb2ca2b0d6",
+      "after_sha256": "fea872e3ca2403e927ffe7be4abff00dfe7e32c2c15f5c1c01e6d545aefd30ff",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

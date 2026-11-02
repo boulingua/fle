@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 10
 slug: "mobilite-erasmus-jeune-e"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - listening
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_mobilite-erasmus-jeune-e.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e.html"
+- "/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.creative-writing.02
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.REC.reading-for-information-and-argument.04
-    - B1.INT.formal-discussion.01
+  - B1.PROD.creative-writing.02
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.REC.reading-for-information-and-argument.04
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_mobilite-erasmus-jeune-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit10_mobilite-erasmus-jeune-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,8 +101,7 @@ Dans le couloir du lycée, une affiche annonce un échange Erasmus+ de deux sema
 - Quel argument Sofian utilise-t-il pour la convaincre ?
 - Et vous : partiriez-vous deux semaines à l'étranger ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant d'écouter le témoignage, réfléchissez à deux et notez vos idées :
 
 - Connaissez-vous le programme **Erasmus+** ? Qu'en avez-vous entendu dire ?
@@ -77,8 +109,7 @@ Avant d'écouter le témoignage, réfléchissez à deux et notez vos idées :
 - Quel pays choisiriez-vous pour un échange ? Justifiez en une phrase.
 - Quels sont, selon vous, les **avantages** et les **difficultés** d'un séjour à l'étranger ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la mobilité
 
 | Français | Catégorie | Exemple |
@@ -129,8 +160,7 @@ Le conditionnel présent se forme sur le **radical du futur** + les terminaisons
 
 Le programme **Erasmus** a été créé en 1987 par la Communauté européenne pour permettre aux étudiants de suivre une partie de leurs études dans un autre pays européen. Son nom rend hommage à l'humaniste **Érasme de Rotterdam**, célèbre pour ses voyages à travers l'Europe, et forme aussi un sigle (*European Region Action Scheme for the Mobility of University Students*). En 2014, le dispositif a été élargi et rebaptisé **Erasmus+** : il réunit désormais l'éducation, la formation, la **jeunesse** et le sport, et s'adresse aussi aux lycéens et aux apprentis, pas seulement aux étudiants. La mobilité peut être **courte** (quelques jours à quelques semaines) ou **longue** (plusieurs mois), et les participants reçoivent le plus souvent une **bourse** pour couvrir une partie de leurs frais. *(Faits paraphrasés d'après l'article « Erasmus+ » de Wikipédia, CC-BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension orale (repérage).** Écoutez (ou lisez à voix haute) le témoignage de Léa, puis répondez.
 
 1. Combien de temps Léa est-elle restée à Salamanque ?
@@ -166,6 +196,7 @@ c) Si tu écris à ta correspondante, tu te fais une amie.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) Trois mois. 2) En Espagne, à Salamanque. 3) De A2 à B2. 4) À cuisiner la paella (et à réviser ses cours). 5) « Si vous hésitez, lancez-vous ; le pire, c'est de ne pas essayer. »
 
 **Exercice 2.** a) candidature — b) famille d'accueil — c) bourse — d) postuler — e) hébergement.
@@ -173,9 +204,9 @@ c) Si tu écris à ta correspondante, tu te fais une amie.
 **Exercice 3.** a) *Si je choisissais l'Espagne, je découvrirais une nouvelle culture.* — b) *Si nous partions trois mois, nous deviendrions presque bilingues.* — c) *Si tu écrivais à ta correspondante, tu te ferais une amie.*
 
 **Exercice 4.** Réponses libres. Vérifier la présence d'un conditionnel et de deux mots du vocabulaire. *Exemple : « J'aimerais partir en Espagne. Si je postulais, je progresserais vite et je me ferais des amis. »*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (niveau E, ~180 mots).**
 
 Vous répondez à l'annonce d'un échange Erasmus+ de deux semaines à Lille. Rédigez un **courriel de candidature** au professeur responsable. Votre message doit contenir :
@@ -199,8 +230,7 @@ Vous répondez à l'annonce d'un échange Erasmus+ de deux semaines à Lille. R�
 | **Total** | **15** |
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire :
 
 - [ ] Je peux comprendre l'essentiel d'un témoignage oral sur la mobilité.
@@ -210,19 +240,11 @@ Cochez ce que vous savez faire :
 - [ ] Je peux former une hypothèse : *si + imparfait → conditionnel présent*.
 - [ ] Je peux rédiger un courriel de candidature d'environ 180 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — 30 points.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam" >}}).
 
-**Tâche 1 — Compréhension orale (10 P.).** Le professeur lit (ou diffuse) le témoignage de Léa. Répondez à cinq questions de repérage (durée, lieu, niveau de langue, famille d'accueil, conseil final). *2 points par réponse correcte.*
-
-**Tâche 2 — Vocabulaire (8 P.).** Complétez huit phrases à trous avec le vocabulaire de la mobilité. *1 point par réponse.*
-
-**Tâche 3 — Expression écrite (12 P.).** Rédigez un courriel de candidature Erasmus+ (~180 mots) : politesse, motivation (trois raisons), engagement (trois verbes), une hypothèse au conditionnel, clôture. *Barème : contenu 4 P. · langue 5 P. · conditionnel et vocabulaire 3 P.*
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

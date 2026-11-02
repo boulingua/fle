@@ -1,0 +1,1677 @@
+[
+  {
+    "path": "content/track_gm_kl07/units/unit01_ma-rentree_exam/index.md",
+    "before_sha256": "5a2a7a0dae8b6b98828f51806c6b828be172d2ac1d4c3182aec55640e064a27e",
+    "after_sha256": "ae3dc58df8cafeafd04a596d7f019a1e126fb6b691e4cae6654a554894030778",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md",
+    "before_sha256": "9679db75d6141807e9f1c60952e93b1a998d36220ea2ee98ac3a17c48014b0a5",
+    "after_sha256": "c798c9a5fec93fa18dc34d7d761ea234cd425dd63ec1343b18a50c6fc3794df5",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md",
+    "before_sha256": "60b08c7091e7839dc2e337e1d2e31fa776e7cb925fea00cc7a1e20aee888f186",
+    "after_sha256": "8e471e4e0f3ba5326771880b306cae31751ad44bfdfe6131a2542e825e92f330",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit04_les-repas_exam/index.md",
+    "before_sha256": "006c96edc4552a742daa8d1f72ec3b20c3c6b33a88a58b1335babae74d8cf0b5",
+    "after_sha256": "22d7b0fd3092636f8bb199178d8eb8bb341f4dee3525953e88b773f8d09d04fa",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Explicitly request the two justifications already included in the rubric.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit05_amis-et-conflits_exam/index.md",
+    "before_sha256": "7d8a1e9ef92a7785b82965b193f2c1d2e2ce23b65f55dda766c98d9d87cde9b3",
+    "after_sha256": "aa94c46d5790f526254d0f064b53265393ea2c636acc8a0dfef564ee03e73c7f",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit06_les-transports_exam/index.md",
+    "before_sha256": "12fecadcc1fa0ed56eb62918f62e46bd54111ce044f6cfbb1c8fac3b3a1f1c02",
+    "after_sha256": "1cc09c1db7d6f1a779e187d8d6335899793606236594eccb09dd85eb608dc3ee",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md",
+    "before_sha256": "bea5d018a355e2d55e81b944cdcf4a5f13a328f4469a8c5d6fa010874d4e4e6d",
+    "after_sha256": "8d4225608d205755fa99fb4a22a6cf97ca843fc3a09627a942f1759b9dcb2d5a",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit08_le-quebec_exam/index.md",
+    "before_sha256": "f0d09115ab4dd042b05e8ef02a6690dc1db553384ae45cbc317cba284813bcfa",
+    "after_sha256": "00f73c88966ca15fc1230c55ff0addbe11302e608dbb841f4ae9ea230c7342b1",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire_exam/index.md",
+    "before_sha256": "801e64b4dbcded04e2ff72ff05ec9e55e795f08144701e184f8f76cd30231641",
+    "after_sha256": "98488fe9231aa39725584b42e0888b7d32f9ceb3c17f5a8f4b1522f413b37b56",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit10_musique-et-clips_exam/index.md",
+    "before_sha256": "4fe419ced72b212f5f36586b3014b6e42f251a25f714cd7ebe382887549be822",
+    "after_sha256": "e9e60dfd1a6bf807a285679cd9bfcb8122c20e02b7c94b5ddf1b1d57e86d260c",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit11_mediation-de-base_exam/index.md",
+    "before_sha256": "ac90b37554decece6a034766ff88a47fe91c01b0dfda4e1fb4f78d05cf332826",
+    "after_sha256": "baeb9423ed57b4786126d7279023b0891e1df88006f3d890db1046b2328c2ccf",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam/index.md",
+    "before_sha256": "6bea03013f9961676fe3351f55210116e91a1d5aca9ac10678796116cdb3e470",
+    "after_sha256": "4ff928181328d03a3c57fe241a966cacb8bce40b11b5e2dfa6640cd833549bc9",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md",
+    "before_sha256": "9982f84f5278b6db06f287b60c1842dc97f536a48e78836ca86f4977a3e399f4",
+    "after_sha256": "d32318e383cb79c003c9967cd974aeb89d32cb323e8c2e70fa9c71db6e3267cb",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit02_lettre-de-motivation_exam/index.md",
+    "before_sha256": "fba14a6a04e5831e77ccc21df48e0f3983fcc630a788620df35a348af17a2e13",
+    "after_sha256": "cc8e9b7a0a9230f7d2cc5d797c879e3e9b3f82e7b41a457eb722ff8d80ac4b82",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien_exam/index.md",
+    "before_sha256": "aaa332dd42bd4d0644ba4bd9e004c0e3ca539108ab9bb1318a3846dc9dcd80a4",
+    "after_sha256": "c0af427d08d4359f31245b3d1b88ea927a1d122a022d23967766ed5f9c356d69",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre_exam/index.md",
+    "before_sha256": "c883044fa3e8717fa841b9a02f3ffda75aee108bb4a818e6558499ea2b54dc21",
+    "after_sha256": "c06d907509a677e770247617f6d53c9d05a6ad4500b6c6287f6c6bdc68ee73b2",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie_exam/index.md",
+    "before_sha256": "4ce2391a19c60839710d5e549c7539a72beb43ba9342807adde20986ec9c303b",
+    "after_sha256": "55c2b79b7c23b920493f452fb7d47d882ddc88e6f3220f81be5fbbd9fc29eeb4",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md",
+    "before_sha256": "2418eda26e0a6d26b8279d352edfe10184a6eb44dd2f6fce569a5a4f45b56be0",
+    "after_sha256": "9581395c05824f6121a0d6378dbf1d5e9f019f8cc2c2f435433fb4cb9cca7343",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit07_harcelement-et-respect_exam/index.md",
+    "before_sha256": "30c5eb08f9274677555b9aac18f47e7fc2d40ac1528cbc94e82fdf4062c4cdd5",
+    "after_sha256": "f2f2097418217911bdfcda157f37b4202bc1697c3f17704c4197b1c1b356f04c",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit08_differences-culturelles_exam/index.md",
+    "before_sha256": "ab0fa93f1d1a57032e9967695f3e4957e7606363314fa3a289bba763a9707ae0",
+    "after_sha256": "b77b919aa5a82c6dd99edda35c22d842d24a503400747643c55c447fc61e18e0",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit09_internet-et-vie-privee_exam/index.md",
+    "before_sha256": "f61994a3d1a94542fa6fe98b85fa9eea1bf9f2f9447150d62f4cc4bd47f42eca",
+    "after_sha256": "f8a0dae03c7de190c4f834fd6f406135619f77502a25f8b2d973977a9ad6503d",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit10_consommation-responsable_exam/index.md",
+    "before_sha256": "4ed72850b7cc78681a0a66d67d7f43966b6b53bae29b933770a6e782b22b6ff1",
+    "after_sha256": "9b55dff52429b7b731425f73769df1ead218aba9615a4c424c7ab560b1a5959e",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit11_francais-au-travail_exam/index.md",
+    "before_sha256": "9d200b7338319f0bef763aee584601de1650dd10dbe72ed8660b1aa77bb2a187",
+    "after_sha256": "5fe9fa351099d5b9c9a4912538d28dfd57e8519cea65094a4142998ff5f7253c",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md",
+    "before_sha256": "307d44c62cf8f59a22aae9e7d8036e9c9de2aa1fc68c15b9976902c6d2dc572f",
+    "after_sha256": "fd024a28ff8885b4507a2433e4504997f4e2a16189fe57676b5c1401f6c767bc",
+    "reasons": [
+      "Rewrite compressed key as readable French, retaining task answers and criteria.",
+      "Align actual supplied source with established character residence.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit06_musiques-du-maghreb_exam/index.md",
+    "before_sha256": "3e984160cc3a380e2ddcd7d861db46c8a39899ab78daddb05c34a8216e0e3893",
+    "after_sha256": "747a5b702b7790de7ff7d9aba182ed10e6478eea25019572bf6df329835b22ce",
+    "reasons": [
+      "Match source region instead of requiring an unsupported city.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md",
+    "before_sha256": "aa6e98c2f61b1259379153d7ff488722eeb6b0905054bf16af591ed0cc0e59c8",
+    "after_sha256": "f6299ffb4487ebe40d9160c7ad6ff1052d7652e7e883965bf345aa4bd3ac2b3f",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+    "before_sha256": "a6b5e89b13dfad211a09f0aaeac12578de4b46a34421f9d72652e5ded10bb50a",
+    "after_sha256": "cef7ff528249cd1ca4f7affa9d203c118ef05cb68228c0d76a673850b5191efa",
+    "reasons": [
+      "Align exam total with restored primary outcomes."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit02_raconter-une-anecdote_exam/index.md",
+    "before_sha256": "30d49f22e08e740145681c2e9d77af47ba232662fd460917e6fcdb19294043e5",
+    "after_sha256": "305838a55ff517a21de9f64d1a9b4b69d5d1be012b95d95b4343988ecb691553",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
+    "before_sha256": "fa21eb97e6940860e129bfd2545ce5d5d6294a4e1ad9a9404e1dfd5ec00efc4a",
+    "after_sha256": "2b8e259637c1c92aae5474bc1c263d99f339ac542635cea726a36fe7d677c477",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit03_mon-quartier-e_exam/index.md",
+    "before_sha256": "997243003460b736503535981ea251337c2159f7478ff40f6726837bb3119bc8",
+    "after_sha256": "f32f7c4ab89ec8472c2cef5cec1f91a4202d211b66516af6c931330bebddb10f",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit04_repas-en-famille-e_exam/index.md",
+    "before_sha256": "a8698585f95f3544379fc1064650ca6376ad7dd9f5f4bf9f8c4612dd395d3339",
+    "after_sha256": "53665b30a3301b9d0f5550aea1c344ba23090a262e320c1e244e2f9092b80c42",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+      "Align teacher key with observed speaking outcome.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md",
+    "before_sha256": "ea8fed813bd21780181ef697578d24a85c3013b781727def72391a4db4beb7a8",
+    "after_sha256": "b1295801169785f6b172aa2228931379439cae71a55052e2695264aa11fed2c4",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
+    "before_sha256": "ccd655ac8be2db30a4ddd228ddc3b226320ac1f85662f6ff83edfa0304aa5cde",
+    "after_sha256": "a5a11c0630b05f32b4e44de0101b8c7a6a4e19878a53c66757326b7cfbbaaf1a",
+    "reasons": [
+      "Align exam total with restored primary outcomes."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit06_transports-et-mobilite_exam/index.md",
+    "before_sha256": "5c3573e13829755c692289741b28abbbf70f76436bb2ea89d01800cbe0d0b597",
+    "after_sha256": "bd2c1a1b8f25b22239f0e53268a51eda582c6302caf850ce4e228a3baca4eca0",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+      "Align teacher key with observed speaking outcome.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit07_vacances-en-bretagne_exam/index.md",
+    "before_sha256": "64fe195b75ebd5d4c0e0e4ed20414a268767d21ac11a70787af832b747e9715b",
+    "after_sha256": "aa3a343c81bebb574a05c3dc055c7ea726d54668825dace573997e49d45aa075",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit08_le-quebec-e_exam/index.md",
+    "before_sha256": "3f5a4bb67c619f6a6ff306d01eaee92616bfaf7e878df11b2d79cd6d4fbc762c",
+    "after_sha256": "612e72ee5dcdc15e18b73e37042cad24d18c931f5d477ece93227b7313768199",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit08_le-quebec-e/index.md",
+    "before_sha256": "fe06854cd39a305c6b7a94d6d43f31e370a6029cc6f539c297ce96ac06c2a780",
+    "after_sha256": "4b5123d3609ffd500722de44b8a92dc739e724d46affbe188fcd1ceabd59740b",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit09_fete-et-invitations_exam/index.md",
+    "before_sha256": "6c760ea19fb9c6f894fe3108f537c0b1c08dd69e4452f1908d6cfcc10547a28e",
+    "after_sha256": "2b9e7e559f83a38ded6f4aa482c472cb00418ac0a03b32d578a2359e304b8aee",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
+    "before_sha256": "2a004e56008eb5b1f81c4fea60fcb41408ebb44e81ce409f182d93b81ec0c5fe",
+    "after_sha256": "4267623d69c7938a6b7824197424a2e5d4ee112f0cabc68d3517ded7aa044391",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit10_musique-et-chanson-e_exam/index.md",
+    "before_sha256": "392fdbd652b6c7f37d14fd5235e60f2dede52011ed3b417181c6c080639df71e",
+    "after_sha256": "d2a82cc3c5e567f415bb77784abf46416722742a0e5654c87025c5daa308f5a7",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+    "before_sha256": "31e2cff58674b25926581d0735ce33ca424fe4c0e2b018d28f6f0dcf2fba124a",
+    "after_sha256": "17e7d8c542adcb4ce5a4c775647e84b4ee4fbd1f7b1c73f83bea6afa96685070",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md",
+    "before_sha256": "4d7c7f5c0f8747a305bf5dee4f3712040bcf71e277401c222aad2e2539549d9c",
+    "after_sha256": "f664dbd1d26b26b704370800061d6f94b6be1094a7ef7bf45fa202d615fd250a",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+    "before_sha256": "9ff1f6ec0a6cc493f0f5c09de0bccfc646bc1a216d86aaa144da6597eb16cec2",
+    "after_sha256": "d4f5397dd8f2246ab04b07548aa5cc252c6e36a6623c22e6be617518ada9be3f",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e_exam/index.md",
+    "before_sha256": "9e0012f3d8d01d02774be27cd1a5b9d767b16c4689eb0c9cd4028c7ed9cd9f0c",
+    "after_sha256": "4864d1f9563156b64b00b5ab55ed8eb34b2b9874ed5af7ea1a72f72ff89eb55e",
+    "reasons": [
+      "Restore original source bibliography to standalone assessment.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+    "before_sha256": "56d587120eb7de2e9832697e8557dafbbad9ae70294d3a8f8f7c766fadea5500",
+    "after_sha256": "f2eb57734fe0bbb5fdf843e7679185e336c27ae49801d25a41b8a887a53e1828",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md",
+    "before_sha256": "357c9ee12e2665eb68e0e775306bf234e5076efecb3817186f171bd5e96164b3",
+    "after_sha256": "a9be9a05517779a202d4702fc74572aeccbf8d5898e39c25af6cb3ccba6e41a6",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
+    "before_sha256": "123b89da53f4ae676c400b1a05931282b8a0a5819bb901091b412fceae239157",
+    "after_sha256": "30a89a579cee3d541ef1f00ffaf6fdab6ef32c741e3ca44473e278a423d6b03e",
+    "reasons": [
+      "Align exam total with restored primary outcomes."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam/index.md",
+    "before_sha256": "f64beaabe21227bbd3c6cc535d0523cf88f995a9c5b1343837131504c6bbc8c8",
+    "after_sha256": "a32e466a93b787effe9cdd2c0c9965d6b9c07df9ea900df2c3d95735923db8ba",
+    "reasons": [
+      "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+      "Align teacher key with observed speaking outcome.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit10_cinema-quebecois-e_exam/index.md",
+    "before_sha256": "3046131175d9eb5a293bc8124e2888265d106bfb0f0fc203912037c50a226e73",
+    "after_sha256": "dc5fb21b21fd9b08e7ffb112d06067160b3532a7ede2cdb9955aa23338ce50fd",
+    "reasons": [
+      "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+      "Align teacher key with observed speaking outcome.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md",
+    "before_sha256": "5bf867527d0f47ccae12e2876e809ed2f1ccd6fcc822a94278b3525cdee808e0",
+    "after_sha256": "8d388cb301467d7cea03348ca8e9fb54e063d44effb59bb626c5745381b597f7",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+    "before_sha256": "8a9406428f5a5462c5f5584d2582c792bdbf07d22f70560269c06c237ff20fbb",
+    "after_sha256": "bdaa9af48c9796e9b885e36cdf9a6923d390ba3e8718035cc56b15b10ff527df",
+    "reasons": [
+      "Align exam total with restored primary outcomes.",
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md",
+    "before_sha256": "617a70a04721ef74040b34fb65f80ee147f519747b80d5e2a6c686a8a950ebab",
+    "after_sha256": "0289852befee06c1197cd0b749cfb3a612ebdc56fd4c432350bfc1df4968e87f",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md",
+    "before_sha256": "01583255613f05a04160beee48e280cf361ac09a086eef5550dddd11b56f67b8",
+    "after_sha256": "0108051764d4423fc857f89c79517f948f0a1da4d0b77d047a22278bb771771c",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+    "before_sha256": "5242c7e70c0b1a109f088e8190add77023f59c79449525316bb5e4f27af1aa24",
+    "after_sha256": "74dfeb2ae93d0772515b1aae5b51480ec76e51301e469ef3046e0de169417608",
+    "reasons": [
+      "Align exam total with restored primary outcomes.",
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md",
+    "before_sha256": "816773db06ae3185bb4632cb6bb6696d871414747ffc848266729f5e2be02977",
+    "after_sha256": "adf8bb2026fd0494f6b973319375567e12af7765c18b6eaa92a812346db60e14",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
+    "before_sha256": "594f0ecff912b43f3f79f2c709cc29b805a1f29191aa359b52dfd3c5614c68c5",
+    "after_sha256": "630c5849a153ad4b861f7e0d4509be98120cf228c5a57be0baea51081298733a",
+    "reasons": [
+      "Align exam total with restored primary outcomes.",
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md",
+    "before_sha256": "252ea36890399bde6f3bf962e067644f04ab9cd9a3bd39efa98f8de1b003b32d",
+    "after_sha256": "3b21369452e0e6901f8a681bfd65c4feaf4c9d272681cc4dd4619ec810ba945d",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
+    "before_sha256": "0f5c44738d6edd3b5d7192779f7c4aa3bd3e79e3efe8a7b7f3d3ef7d2a88bb2f",
+    "after_sha256": "053803c5976c2adbf830da4bc1277784d962bf0f6854d94eb60c8f8610db0e75",
+    "reasons": [
+      "Align exam total with restored primary outcomes.",
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md",
+    "before_sha256": "9db23b72c3ba65b03303d4987ef8c4ece5fd9e8a7a73d402cba0447a04cf6ce6",
+    "after_sha256": "7d1b7a30e996a2b644c34214a45e681d4c279d4fe1870b9e6cb4bd3db0a3a118",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md",
+    "before_sha256": "fe81bb2dcd6ab1cf3154c8202aca8a07bf2d51340c585cce0a6e2f97a7f55081",
+    "after_sha256": "13c60825bab5e0f251d126465988fcac9015945fb98124bfefc3e13532fb8f15",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md",
+    "before_sha256": "6ca1b984d1a0e11d3390557b22383b61c381a8d90c3b3ea24e174dac1940ac54",
+    "after_sha256": "bfda12cf4c5242c112a38932af5bd90134f30aedfcab72d037a7e47f5949f1e1",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit03_presse-d-opinion/index.md",
+    "before_sha256": "4623ab84fc4ce193f731cf82bba7658131ead2966540652802946cbd1f26f177",
+    "after_sha256": "d2cec266d83b7ae2ca4005e876d4af859016c174bf7693ff1aa06eba0f24e1e8",
+    "reasons": [
+      "Align exam total with restored primary outcomes."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit08_voix-feminines_exam/index.md",
+    "before_sha256": "31f0110dc6d90010240341bda2ded670035b1905fb7ac8c23f9fee4c244aee32",
+    "after_sha256": "a5e883707de15d65eb4cf50e1bef144340e45578a458d44b30200c68e07f473c",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit08_voix-feminines/index.md",
+    "before_sha256": "3b3e4e8545a078f4de198e5d979cb672a52a97d27179058287e7e111e4884e5a",
+    "after_sha256": "089bb0e86d4d1aa529731a339016cfb6c45940592257e85589de0c5d04d1f218",
+    "reasons": [
+      "Align exam total with restored primary outcomes.",
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md",
+    "before_sha256": "4e804ccc87993c5fd9d64052b3310657e6517a20ba6e20c516fb6d6ad31961b6",
+    "after_sha256": "89711d96c4e633d7d8cf041b17916e4890c7d24ce86d6d795c67311254157f8b",
+    "reasons": [
+      "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+      "Align teacher key with observed speaking outcome.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit11_discours-politique_exam/index.md",
+    "before_sha256": "29813baf61134954559c1e57dbb5c7912ece0ea26853179039398b8fb1839bf5",
+    "after_sha256": "a563c3bfec19b4c8a0b4b8a19c32e86aa1c4cbc46fae26c19ea36cdf87983d04",
+    "reasons": [
+      "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+      "Align teacher key with observed speaking outcome."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md",
+    "before_sha256": "a3084ab02b31bafd4168e4a1490d6f3b8af68e23b9ef9af8325b8e5e3f124922",
+    "after_sha256": "167998ca2912ef32ef7403f5ed4c70667ad9deb49223a7accbfa962461932463",
+    "reasons": [
+      "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+    "before_sha256": "4fb5934cb18a990d5469c7818df37a03fabe192ecceed03dd45a0ca0b2f39b64",
+    "after_sha256": "b7754f23cce82a1be4387b9271b880165509cea732ffe2c1998d9d08088ef651",
+    "reasons": [
+      "Align exam total with restored primary outcomes.",
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam/index.md",
+    "before_sha256": "c43f549628def6591296129a2b54f06d17fc82c70faa8013d83103c862b28136",
+    "after_sha256": "0cf53c78d4c18719a0e209448d19463c85c43a0af586cfdb3d465f5be4e2fd1a",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e_exam/index.md",
+    "before_sha256": "6a2b878daf8a7d92fa574e7a0291946fb541f03555b0cd09e6c9c90112cc0b9d",
+    "after_sha256": "20693f9476cba8bdcd06072dc2a85d84598f2423994c7fb5a45e6750a478178b",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
+    "before_sha256": "e94cb161cf0540ff09926cca65514d64277f0372c55b89307b2bdd9abef2edea",
+    "after_sha256": "1fe9260cc21baecc6071d3d8e77fd6b7e52ff85edfcd9913a37fccaa63468247",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md",
+    "before_sha256": "386afb72d95e237e82286e6dd8e478b5473fc0ff29ee52b9986271793296433a",
+    "after_sha256": "2f5e4814d359895a23899da27d0bcb43143ea8f6705b62a68d307bf92aca6caf",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
+    "before_sha256": "ff27d5ce9a9b90ccdfce55c2a7f4b89a6981edc9efcfb2837b0298b1434afab9",
+    "after_sha256": "c9377ba31900d8aa64731829f6cf1bda7de21d17ce68d5d58ccc0653081d3702",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e_exam/index.md",
+    "before_sha256": "597b535e3ee9d6b190385bb90b90bc44bfd6918a4387bf01ac4c4e29ecc3f299",
+    "after_sha256": "d76020b2b35fbca0658c44e432adf6c4aab700c340d54f38eab4ae2e464dd199",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
+    "before_sha256": "14e1467bd160aa53d0fa7614822049485cc4d62d67246fb70cc7bc11070c5b88",
+    "after_sha256": "caf365c0b414f55da4230c9ab647c9f15903859dee101a9a6339352a552d9d95",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md",
+    "before_sha256": "ec1f6284481b5976d260f0d1bfc61fda0694ca34b76a880cb3abed38343f0de0",
+    "after_sha256": "9fddb68eab2acbb75f5f65d1e477eb2aa5c300320347b6f1191dfa68141a33ad",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+    "before_sha256": "d46fe0f34d25ea6df37a7680e1085bf40708f74022eae8c2ec1273eef702c1c8",
+    "after_sha256": "4e53bb47e2ddd06c745926723c7928fc1f7e5bdaee6c2f7bf8d4effbce226d38",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e_exam/index.md",
+    "before_sha256": "1eed268adffd087f85cc8d19ebb2b7c56a505d231464748b56095e332695152f",
+    "after_sha256": "91d1e03081931d5ea152774c6c2b2f6d330347100d8c80e0b17e55774b920647",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam/index.md",
+    "before_sha256": "9b33bcbfe51a002b8cd79619ea1346c1612d09388d5d431f9200b2119b64a407",
+    "after_sha256": "792eac0ac9f373ce9d3dd01fe0c9a4103168d5912946a9c1d18d9f3612714b69",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md",
+    "before_sha256": "713b1e91bbbfa48cef5bde47e5dbbb5d5cb411f7189081f5b55f7279e189b345",
+    "after_sha256": "64626bdc80ed64e480a0314f0564486e4d57913605d9ae73cd6f232b44267542",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e_exam/index.md",
+    "before_sha256": "f5f39f81eb3b74dd9d19150715307a6f5f2436d29ced09a294cc925fc80a5eb4",
+    "after_sha256": "6c7bd8a829a2df1b6c9cf5a8c307b578cdf5568bc093343dda0f4e0f2e85b842",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
+    "before_sha256": "f5e13c7130e1f59ba10958e8f31cdc2c329f359de48ebb6efd30109714d13dd6",
+    "after_sha256": "ba5ce94bb2ff6be2c99e8967a894fbd34b92d7cb7d0796cd27da6df6ba9e1104",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
+    "before_sha256": "360acd42144ff47b50ecf01ee11fe8482b8f136555d71c40443dc8e12b2153d4",
+    "after_sha256": "edd36fd2232143bff5cf58db449d319634c6c1559f705fdcfc5b86912e2c6116",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+    "before_sha256": "801f21e67ee353c74d8fda8c5592abd8cf63a52cfd16692b82065c36b5fcb821",
+    "after_sha256": "b5a1e2c1b7d06c9b942864faad96299576aa66d39642a99c263f1babea8c15c3",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit05_le-petit-nicolas/index.md",
+    "before_sha256": "252982dad57444f0dc4e59f82ac14492e11473b5cb2dd24d7ab18dd650d06d1e",
+    "after_sha256": "0cdf3d1d306a561871b8398ec5511726179c1498bc73abf9e0240e95bc85c926",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e_exam/index.md",
+    "before_sha256": "673223354fac02e51629a119eafb44b6995585b5b2d2bbb4c0d3e1f9c1780b56",
+    "after_sha256": "ea443d23944ee43d54304367f8bb66cfd6b192f8ad0447a54e01506c40fe410d",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
+    "before_sha256": "81e2016fcc2f5a54218bff1c400e7ffe7d7c485942fd860673de208908141de1",
+    "after_sha256": "32a8bb568a46014c1defeb954784529a36eb7291414e0f1960270d6623461407",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e_exam/index.md",
+    "before_sha256": "86fc3cb38839912141e5e7561e80443f9ca121b2c41b4535a1dccaef5e2cd0bf",
+    "after_sha256": "61bbc1dac4da7e5cfef12c209d43f3b6e1922682ca7f854ea9a6c22ee3919389",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+    "before_sha256": "499afac33e94dd6bed1b159c4912c105d57e5df85c8cd33bc6724ddbe6e7f499",
+    "after_sha256": "61a5c2769e7134ee02593514825fdc31cf83c11442922f7f8c89e880de63149b",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+    "before_sha256": "7df53ed37e74a58c2637a621c8dd32cae811b0508c1a0f7747db1888039c7eef",
+    "after_sha256": "89b056b619c4f98aee76fe3b6d18e6bcb093efdd316f0b78ce9a752dbc750d4c",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md",
+    "before_sha256": "7a8a1cd49132d1ca906367e1160017cc28f719e3ba3187315db4e2dcf591d52d",
+    "after_sha256": "a555eb03f2048798e4eee3786846ef7373b59beecbe646dc8d5aee580749ffcd",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md",
+    "before_sha256": "ad55fbd1605f97b2dc63238783e45e64e13535ad2dbf9a69c8137c3d3c50903c",
+    "after_sha256": "ba1771b5f12717ea3d63c78e1cc7cbd9514406d7ee8e3f41b44efabcce2e539b",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit02_presse-francaise-e_exam/index.md",
+    "before_sha256": "0673cf461caedd78bde12688bb83af0910927748a142cae6f3855e029d330283",
+    "after_sha256": "b3925dc713dc0faabfa2d07c4849b1ef933cfc884713038de6aaadb810acf9e2",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit02_presse-francaise-e/index.md",
+    "before_sha256": "7496139b10151654589082f030c3a3865cba65d42ad8ed6c6d503b291d91cd45",
+    "after_sha256": "386434a51e7e0211a02a5ad048c535d7ec86bc6bcf3652247092135a2c06ce5f",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md",
+    "before_sha256": "168354f919c2fdaa6955fc4674073c16a178bb04a6689ac18874929018be8974",
+    "after_sha256": "99c53b6b717803050f465998f0600938c8ab74237496ec9e7fa7ae3a8b177cc4",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
+    "before_sha256": "d7bb3c39f087d69f98ebdde4ef66a9a657883dd6f00ac2df170ae0b761ee57db",
+    "after_sha256": "92cfbd6bf39f35ca00c69f1eb8f14649f27a18a822a0d90cc330de46b55d5dcb",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam/index.md",
+    "before_sha256": "ca2aae5e2fc17b0855ca2d24e6050479b7cedd05404ab33ec09b7819696305f6",
+    "after_sha256": "1f82d6a9bc748a2886eeb8344a100cb8c84f8f9afdda59d0cd9cc5f9bc0de78b",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
+    "before_sha256": "6fa9af6752f3081c306f68b82a2c85754a81dd29e6b23adfc913ff3c1861cd4a",
+    "after_sha256": "475e23b37e15959db6c297345771954756426fc146ed2bf4ae089f3292669f9d",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie_exam/index.md",
+    "before_sha256": "036546d42c47c93720ac3136dfda9bfab25ffed63eb008f7757c45309f05af60",
+    "after_sha256": "82cc3a04215f02edf7ccf6b356d8251b6f0116b1f22798a4199a9d1aab8d8400",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md",
+    "before_sha256": "672b57a1a4ac37d85516fe9f6881dc87ad20d68263b2491a18beb1f16f1fc8c8",
+    "after_sha256": "3032c9252894fabae1f472f0838f3bf807eebf778e048dd5f9f451a54880b322",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
+    "before_sha256": "e43a395551fd274e871b32023e63e16ccfc752bd1f3ca4a48780b7efe5d02f2a",
+    "after_sha256": "010a77aa428e5e800c999dd6bb4b9a52fcd9ef2e2e7f1682d1360714d423e990",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e_exam/index.md",
+    "before_sha256": "13181bb369244da5eea4081ca84b51d0914bf791db36c0711bedf7dcbbc4e30e",
+    "after_sha256": "6219da95ded470902f885b24cfb20e4a3ed97744d174d7df7e1ea94f63189e06",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+    "before_sha256": "1227de1d2cda604ef2e1221681ec585a38964057ca7371e8bbdbb7a3adcc83ca",
+    "after_sha256": "fe015b6438179c0425e64db949d29752c582543e2ba1227528493adf33cd8f62",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md",
+    "before_sha256": "f9d800c21d96d5863b22b0d521a6625f89c82a8f9f8eee1e11d43323b5fa653b",
+    "after_sha256": "2a8e08c1700fe3d83f25c3536217fb5f00bbe0469d6319189cffd8c3de6def69",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl10/units/unit11_preparer-un-discours-e/index.md",
+    "before_sha256": "6dd04268540eb8a4bea73d2498e0ea341755e6aaed21e15f796332823f5848e5",
+    "after_sha256": "64331ef6275805846fc30ac9c213952f0deee26179200e49db54398310f4c85f",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit01_ecrire-sur-soi_exam/index.md",
+    "before_sha256": "d59ff559d0de511eb77bb5ebc477d8d2e288bdf2967c54a8416b5a461eb0c468",
+    "after_sha256": "1330fd4c0bdd71e201fd64569b71b6d0c2a6b54acda5e00526ab068fe3872e74",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md",
+    "before_sha256": "b6ffc400960f523ed8f77078b9b379419d701db2428e52c34abc5b3bf1124247",
+    "after_sha256": "4388a5635839437a08fd242c79fd0b59eb1ffd9f80180b4b70a0850c5ac53314",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md",
+    "before_sha256": "e02c9a9af44a9a89ba13610f96314f5b0278065e6d8da72d7502034a91f6a46f",
+    "after_sha256": "a176dc07a44c9ced4782798afc943bd4cc1565a192c779dfc90de4bd48eb87f2",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit04_court-metrage_exam/index.md",
+    "before_sha256": "58675136854d6f9a5044d34474fb6a4750ac27357d28243c7bf42d0c629ea358",
+    "after_sha256": "b5497db611cc0fc390324caf1b0936fe1ea4366b2fcca3565177370e4ec5bfe8",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit04_court-metrage/index.md",
+    "before_sha256": "76f962fcfee9fd950f5969616534ddf5dfe9a8d1db45067094e3dc83c257f4e7",
+    "after_sha256": "d5b23650e9b8bedb3e330a1a5f68f80ec642cee582c68301b2ccbffd672b47e7",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit05_mediation-academique_exam/index.md",
+    "before_sha256": "3d2840f873b79ab4d13d21475ebeaaf74edb68c46420e269985cc0b46d1b9bfb",
+    "after_sha256": "8c4a8240118fbd1774ad5bd94ad273d356072ba58c1095953b20e2aa49af3371",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+    "before_sha256": "f38a6069cab598e2655a5986835a3c2634174f4c33775e9da914e483410cb9da",
+    "after_sha256": "cd5ab3c4ebc28ecdeca3f967b5303afd4a41dd7c789aeb1a90c0b9c582c5d324",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit06_argumentation-structuree_exam/index.md",
+    "before_sha256": "9a9ad446ebd02c930dbe684f90803c76194c4d418750f2aa56bcc2dd8635bdd6",
+    "after_sha256": "f16d8d709442246e9776cf75013980f10ec72629797429518e821b7cd81345a6",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+    "before_sha256": "6bcb6264fe8e15dbfb750b7680b8b01c559e8bc404b2a8c840e021b367cf7266",
+    "after_sha256": "658941d78d1990272e2f9f599d6dc7887b121fcf615907ac7bc74cea031ef6d2",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit07_extrait-roman-contemporain_exam/index.md",
+    "before_sha256": "a9961955f6f13a85f5e20b24b9c2a83564d264a16d4c7d2db3fa3ab80c1d886e",
+    "after_sha256": "9eb440b736d7aace0ab3b204f650fd5e981ad69b50c7d06461e05cc768239bcb",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md",
+    "before_sha256": "c9b61ccb263f4ad28dcd876f65ea8498c4f33d2afe014b47fcd624e79721ad8a",
+    "after_sha256": "213789fe1587e7915a783c87390a4bdb316eff748c8b1405f2a16d589598bea9",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit01_introduire-camus_exam/index.md",
+    "before_sha256": "f5c75a8cba45adc35e3cc6b9a50a5cc24324e72bd1e4493d7f0747511a3a5e86",
+    "after_sha256": "874c25a15ed0be97ff8236d5e5d211f456876fd59f2faf11b8ace00d80c94fdd",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit02_analyse-stylistique_exam/index.md",
+    "before_sha256": "733ab1d9d85fde38a01cd2b3185a464d17b35850051ec23bca4cc768c472c3ea",
+    "after_sha256": "425d1ed1c7ac7894d7c68647bbaf1056bb278fe13d0f2e38d2ddd862ee545b64",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md",
+    "before_sha256": "ce45940a2f6b686ed4bf31387de95e54873b55785958e91a9826449447500eb4",
+    "after_sha256": "69f90fe849e3d88dd8342207ae07636ddf67050d2def49a7d06b1624b13fc194",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit04_presse-engagee_exam/index.md",
+    "before_sha256": "5f3ec22b29601c388405ce77c4766a21c38189b29f505e09a04aa7a136ee6954",
+    "after_sha256": "68bb683800001874b6386a2980d18cc2227cd4f87d62719e6d7ee7e9eb4c855c",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md",
+    "before_sha256": "3f31ffb3af236ee9826161bca897a2b955a522af3977065053e4628c4fa3b505",
+    "after_sha256": "bc12a16550716e1487de8b22c4a3769ffa3b19630f5c0f4d59bf33e028eea2e8",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+    "before_sha256": "112c831bfd5f4db2c89da7b09f3b38d46341e44d853501fb74b9e92974623cf5",
+    "after_sha256": "5c4ffa272f827fcdd6b25edcf0e295c1f6219040618a7fa74831b924459b7dea",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit06_etude-de-roman_exam/index.md",
+    "before_sha256": "f86c7c6f684ce16a353531aba66c5ab72fcf0139720a56cb101a0f9b66163894",
+    "after_sha256": "ec26425fe5cb5f93a0c31342c47de2ecb72fec3b9fc559998789925db0dfae53",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit07_discours-radio_exam/index.md",
+    "before_sha256": "60b430d1c151cf486192b7b619c770226dc66868fc38cd5c9df39f94686febf7",
+    "after_sha256": "7a90bd25fbb03d0b6c0d3fee60a58db0dcaadcbd19393586be594c03dc35da3b",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md",
+    "before_sha256": "3c22037e3f6be384a8f371b9baba135a6ec315c26026e24448453a287ad0259c",
+    "after_sha256": "b30c8f6a9ff272cbb288a37e970bdfee6a88588870790f80f1dfa7f49149c370",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme_exam/index.md",
+    "before_sha256": "3d4ba217250f399d364fb46f693bef8c420f2c7a3d8ac57d567e18b75528e31a",
+    "after_sha256": "ffb29016aa1a96e4c048a2933526f207f1466ee2aa50d2b087794e5d8498dfbc",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
+    "before_sha256": "69a660c2f415ec3f5b75016fd98199be820c640b3a9498bb1b6577f9b35c5e81",
+    "after_sha256": "8a9fe6c924c8ec788f3d10aa89c579c3058e541657b9c330676a6b0235f64e04",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit10_argumenter-en-public_exam/index.md",
+    "before_sha256": "bbb87c0d0ae510af1ea863c6d70bdf9bf2206f9e26a6154a195b27269642bfb0",
+    "after_sha256": "11dd20297193f8a78496a780ba6d2f1e8e510164d6c6980a9fe92d4a580a705e",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam/index.md",
+    "before_sha256": "77e508ef9751ff83fd67c4d6ca78f6d370e524dcbe95a4f32407b1e444c59b2c",
+    "after_sha256": "5d6dc83acc1d2e99718b81d023ee9ce2663c11b288d0c1cfde1b922b6e44053c",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl12/units/unit12_bilan-12e_exam/index.md",
+    "before_sha256": "e10a34edff21fa796815aaf6dda15b3ed0a2425446f73345ba9c1db6be6c6913",
+    "after_sha256": "09c7379dc71436b0314c4b30e4cfe5b3a896a88334114f7b057225760346b709",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit01_synthese-themes-litteraires_exam/index.md",
+    "before_sha256": "45d56ce9e7725542ad8374fab3412f25f311bf6900a2c4543a9838f6036f7f9c",
+    "after_sha256": "73360e491e001a045e2ba52cb8b989fbde0b0de2fa4c7ec381bb86d8f330492f",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit02_francophonie-pluralite_exam/index.md",
+    "before_sha256": "044799492b43517397867777394f6b3c44ead4f514bf0fe122a02152af6568f7",
+    "after_sha256": "d2f2f03e5e55df9fa8de6ad9aff6cc535c49bb51ade259315aa04862195fb781",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit03_essai-personnel_exam/index.md",
+    "before_sha256": "576db69dac1c99fd279836d768ee0852a817cc386f1c794b418c8bb10d52e63b",
+    "after_sha256": "c70a215c422c39c708c3b4c1b347e9d16d5ab95095cfe6517a595405e9b78f63",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit04_abitur-mock-1_exam/index.md",
+    "before_sha256": "320491c060fb49c2800157380bfa2a7ccd239f603f49169a550329cb17ccfda0",
+    "after_sha256": "d19902fce1742de34404f78e00fb5d8003faab3e3e0626852d1006ba5e7e8efa",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit05_abitur-mock-2_exam/index.md",
+    "before_sha256": "bc4e682b85bfae343d6d4a356a9348d18bcabed51e9c5d20ab5f8f4399a98b02",
+    "after_sha256": "94ecb68953f4f9195be9ae0ecf984841554a2b9b50c27b45c6972ec2f1c00064",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit06_mediation-finale_exam/index.md",
+    "before_sha256": "9c9d6637b797841cb393852a057159bb53367acafbf44c45ca38cfc34dc9743a",
+    "after_sha256": "ce3eea70fa0401e847b49c2d43837811882e7517050c67f8a42dc2d37e77ecac",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep_exam/index.md",
+    "before_sha256": "59af7c2b7a4903d944c78da1b89c4e7ad762d068c5a373b4f88181b4ebe506ea",
+    "after_sha256": "13fed0ba4c7c267b35d42e3464f68a142d999781caac5aa6c93ba987955221b7",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit08_discussion-sur-stimulus_exam/index.md",
+    "before_sha256": "709469c4ecd1b6298eecaf49a80648ddb08c3acfba542aaf95e5c6ded851c9a0",
+    "after_sha256": "f9a1b2da2f3ce0639500a17192a334fcaa379fbf88f91515cda2dc772ad664e0",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit09_monologue-et-presentation_exam/index.md",
+    "before_sha256": "7de85033cba7b0638a65948eb743df4e0d5f2afbea0a70780ba0da175acf1be9",
+    "after_sha256": "b6a01a47586cf88bbe7558f50c542488b61261a4dc302da9ca3b1b2aed6acf1c",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit10_reflexion-sur-soi_exam/index.md",
+    "before_sha256": "dd09cff2615a3836b1a3155674c96005ac958bc5bc7fa5167909cea99abaf5a3",
+    "after_sha256": "f1670d7bb47f53d27d8f0815cdc3bd39d89dd0429ea754c6accdd6696aee61d5",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit11_abitur-mock-final_exam/index.md",
+    "before_sha256": "0cf74f36e928247f0ba96a79b8429c15138b93cab592890357335156d85ee99a",
+    "after_sha256": "fb83517f3877592c8897bc47b1181d1dc3b8fe5ba1d40df8e55fba7c45f0abaf",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_e_kl13/units/unit12_bilan-final-abitur_exam/index.md",
+    "before_sha256": "51772ef3402ece7b9076f269b0c7c145065b6b8a7fe758e7052edd9f74ddd224",
+    "after_sha256": "9478c744807cf315f95b32d60d62b5a29336839e68137d0fc40f8121328ebc12",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md",
+    "before_sha256": "ee195314f9e54ab93eac2bd92a8d40c86441ae5c8d3df08fc2587a7a44156a6c",
+    "after_sha256": "37b29715aa4e412df7c44d1f144cd56e32c6559e74392536fcf15cd3a7e7f802",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
+    "before_sha256": "99ba8802aeb4e494bb9ea799ed2c38be4059035811bc1e5a77be97df119609a4",
+    "after_sha256": "e60a18612d6a138271b3d960c1f5ff2b8b17885a997bb31c5cd6148e81eab00a",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit02_ma-famille_exam/index.md",
+    "before_sha256": "a3f1ca6a0b171b75bca2f6847700f3f2ea99d80f624efc324e968a83a8184d9c",
+    "after_sha256": "7fc56443f0246d223c8492a81571bfae33e5fc026d0983b57c1362ed2c4c09ab",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit02_ma-famille/index.md",
+    "before_sha256": "665f9c22a1293817c99dbc1d8b704f8958e6e09deb2c3f783b9dd87fd52237d6",
+    "after_sha256": "312c85923c6751ecb8f22c4afab1d183a9ce4256fac92c28528beeeb2bf7a52a",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md",
+    "before_sha256": "b34c148331bfdde31a9d4b4ef2285cd2e4c827f487a6bc7923d971f89b91406c",
+    "after_sha256": "e7a9a26e85ffc58f2f6796197909c07db1e657a1c74369bb634cf9aac215be3e",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit04_ma-journee_exam/index.md",
+    "before_sha256": "98386dabf94faab8f6b54a2d1bc74a1ab22a23cd148e0aedb8449144ba5b813a",
+    "after_sha256": "ba564a8e71cdc4bf1e16003354304ae408d6c2ae68b2fba26387f03e8f4efe3d",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit04_ma-journee/index.md",
+    "before_sha256": "6788fb35501d3f881aa7bfe564e173393a02f2c6354d0c8ba66d18fe343748a6",
+    "after_sha256": "1022ea91dbde81d707b9860b079ca53467210ed52866488ee6c877b215edf38e",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam/index.md",
+    "before_sha256": "fc437132bac142c00729df7a96be92cadded7f3cb98d1d73129d36c73cbe42e7",
+    "after_sha256": "e0243f00e764428d4a10bb9042de33bf48a349dfe5be2d0cf92e4e5f42bd2033",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
+    "before_sha256": "73298f6c136d8d591fa07165f054ecee2daf35630085daceb79cd12de319b148",
+    "after_sha256": "8bd839f41ea613ea61f19e44d1897034cd0dfb46ba1e1b003243e5f7fa63a84f",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit06_au-marche_exam/index.md",
+    "before_sha256": "57368bd50c3b454bfe50dd95534b89107d5c9ad8f0642165d23c560cb2b38b64",
+    "after_sha256": "56ea9e59e93419c6a02bcaa03ff31d9321df407f1c0368df9df3ac0f362e6d7c",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure_exam/index.md",
+    "before_sha256": "473fce263aa7a83f037f058626309b000bf039ccb58f1bf625c133e375bbd727",
+    "after_sha256": "6b1a86198b7c699b3d52113cf13a78c45cb370491a10aec3860e8afb8e5e3c11",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
+    "before_sha256": "bed610620fc6963b06d66c0cebd499f672c8db9f3be695073b7017ef831ee570",
+    "after_sha256": "990e8b98ca4ad7f1865375d64970e1f7f4a48a192ffb3d81a69403baa9924e68",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md",
+    "before_sha256": "3753e0a52d98d84ea3e3f6488ff7bde5b10af0ece786629b0c993305f71c9d41",
+    "after_sha256": "6d427f3c449460dbee2c05d7094cdf9ef7ba32e889a35a38ece3bd4b5b029310",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+    "before_sha256": "4683133993584d54430c72707b660671d7f1ba1201f5953d2b8b51ba848b0027",
+    "after_sha256": "8271c774106df61fcbd9ed20a9ce8080655b6574dcf0a0715f7d1cb4b62c2c6f",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md",
+    "before_sha256": "57d7d0ed5071db91910c461bdad6231758a44d1e4191b0f110177ce71b734ac4",
+    "after_sha256": "6af97aaea68c6ef2ef323ab5a64ae03ef0f1b0bc69ed299caa3c103d1a5cb130",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+    "before_sha256": "5f41006102be8af4251d53bc3a73e55ab1d5afbde09b5e3367535e07a471c681",
+    "after_sha256": "618afc6c1d1f11335d435c1010a76cfb661575b45f5f5c44c8e8b5ae180bf3c2",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit10_mes-loisirs_exam/index.md",
+    "before_sha256": "7edc92e24d1ac9b3b70c0bf3db4a31e1ce15af42637f94abe3c286ca5205f6ed",
+    "after_sha256": "05594461bba5d9d0b2c1b94b9e2966d885ddf48d78c79b76a3543d887a4b3369",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
+    "before_sha256": "ea73f2ae98f14a61e28109210800017f1c1bf167a4e11bb814c1d5c1bcfe93db",
+    "after_sha256": "e15b2cb785188deb41c477fe653962c48742cd645b5a3191d068063220c2ec7a",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md",
+    "before_sha256": "3d6fd27ca29117fb2ce9bd67c0969d330ffa05f093a30e10150deb30faac9391",
+    "after_sha256": "066638ac74a62ceaaa800f2b534a47ae00c1727a8863fc91e46cf8b1283c4abd",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+    "before_sha256": "56085f403d6691458a4ff32fd154be6a731f465b1959bddbc42d32b101f5e179",
+    "after_sha256": "6c6b8b3cf1f46c53d12464d3e5486c7f18f9eceec34d8b8b7d13f05dbd79f4ff",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md",
+    "before_sha256": "b573a1201d5798134bb52ab6c9e46426c390dd238767a06480f5d0e875b3c74e",
+    "after_sha256": "d1653a667eadc561ce66db6750ddc95a2a738499910c7370d45214baaa5b83f3",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
+    "before_sha256": "057928873fa7a5b3af6d531e5db6c84d944061e44f8f7acfca934770628545ba",
+    "after_sha256": "068eaccafb185f17e4874be3ae4236abd2329b942f16a173a0f12875068cd9e1",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+    "before_sha256": "fb5db75bb0b2aa317a1e5cf0bbe714433e1f6be767326192cf07bac16178113e",
+    "after_sha256": "599d26d074c88d2e983af4841b1506eda703c9783bd851cd32e0d4a60756949f",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
+    "before_sha256": "1a4844cb218b40067879b6333f0b5d8eae42b893dac3857ac7c45dd931f2ea1b",
+    "after_sha256": "c6d6da5cc4a3b72888333606df41303ea8ad4931af0c94405af327d3cf00fb3b",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit04_les-repas/index.md",
+    "before_sha256": "bf557955f45c87c06fbe75b24a7d5bd7a5ee1221aea32d17bb51e4d186e4239b",
+    "after_sha256": "b74b8134d6aab8a599bbe9cc79f1b5d39cf06a77e7187cb119951728ee18df06",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
+    "before_sha256": "b731f8f8edff6ca0388715fc85e9cc1213d49d9f823817307da1d6bc375faee4",
+    "after_sha256": "feef7245dd202ba94b05a790ab1d1e30b531827008c6cf67aae972d06c23f6d4",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit06_les-transports/index.md",
+    "before_sha256": "f213c2cc8f5e0012627fbcae91de4aabb8e5fe36786729aac731e3afc8ad303e",
+    "after_sha256": "636a85d0306cd8e85137871ac563d114acb92b9fb093647f798cbaef536697f7",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
+    "before_sha256": "8bc943ab9f0f1ca78f073c2a6e08838130b8ea2a7ef930bc9047410fa6da5301",
+    "after_sha256": "2f143d0e8c8ee5718c3b1646b779554837b143860f94ea3d3ca27e1b1a2ce70f",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit08_le-quebec/index.md",
+    "before_sha256": "b9512e0ab64788ca3ef301a25e901e2bd5c25f72e354d419ad794eb59cb0c962",
+    "after_sha256": "284c59b0ef2e05faf603ac7c8a780c872d927bc73a2a415c6d3efc177032b999",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+    "before_sha256": "ffe29bde090029a11eb2b7bb60b26d071e7cb1a2145a00e8c8db10f159804dc9",
+    "after_sha256": "8db3def2b0abd22735a356544fd3dd114e72973904bc4353265b46e322546b1e",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee/index.md",
+    "before_sha256": "7ba690ed8c7923a79d3f9c7e658110ab24bb9923024478e216e4b45109204a8a",
+    "after_sha256": "26058ea84cff31ef512b4baecc9cbdb382bd0ba4fde880f5d855abd7ca75ebb8",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal_exam/index.md",
+    "before_sha256": "44dd77e74c6a4b5ab8cfc3fd14d2a548fae8035c8252b8cbc89f4e79208153f8",
+    "after_sha256": "73f8b7bb88b00e1922647453a09e552dd3d52e412f277fc7725c805ec69af3a1",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit02_mes-medias-preferes_exam/index.md",
+    "before_sha256": "168ae8bed655f1b9aaf179ddfe3db210c81764a671ed24cb8ca0273c370369fa",
+    "after_sha256": "bd67a6074df24918085f5cc7c0c5e503aad72389cb06db7d14c3cc2cc17e8805",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md",
+    "before_sha256": "4fde3a1b7bb8ecfe3b19ee1cfb50aed1be5f8c57bf84d883d5251348f5914d63",
+    "after_sha256": "382da90321a6c51a201ab04d0cbb20e6894df24451d52c6441ca9c50d1f8a274",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit04_futurs-projets_exam/index.md",
+    "before_sha256": "6e4d63b6850b36b89f049759bba904658bbfa047fe4b52899313251c651c2faf",
+    "after_sha256": "565c200805fca92bc9b51cab52e5728f25b0d8c99ab40f64abe2d10c69e0c1d7",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam/index.md",
+    "before_sha256": "9069c42c0023cd4cfc428d10e3894be65fb6f7a87b8f07ede8dea5bd60fa3d8f",
+    "after_sha256": "8990991d864b83cd5fa895bdf87bf3bc1bfd47723d8315aa35329fae4d43e583",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md",
+    "before_sha256": "dccf92ad6bc70ad3d20c4a9f45da14f56087f33eb23ad8851c3d979196bb30f7",
+    "after_sha256": "98edda19ff663ec676174be119aa65887eab6fcea0008866646d3ccb16060888",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit08_un-allemand-a-paris_exam/index.md",
+    "before_sha256": "9b399b2dd58250798fea48422f528f983350be80e509add3a2bf2fd80de77d91",
+    "after_sha256": "3762473fd969938889da01002801d0400dda85bc65202d890e09857c4329a514",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam/index.md",
+    "before_sha256": "2a2e97486bf6cae18fada222d1de0f249bce6d4bf7111fd1e836905cd72a2184",
+    "after_sha256": "faa206b9d17737602a77ad38e228b4d6d3a201c5b55009bfe63b0d7c6bbb8084",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md",
+    "before_sha256": "73899b7714e33e429fff232f0fd42ea358da451bad4a2c67f1d9f02603a4d645",
+    "after_sha256": "949b29b561c1102e5d2bdeff191d922d294b2d5fe361ffb8d38e9bbd6a9a9f7d",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md",
+    "before_sha256": "813f00aece19f27d708ee955d2540abaebfca0e5a0d5136512db5d006d5bbe97",
+    "after_sha256": "a02b9c7b8c41f907af480cfeab341cb73e079b6605b5ad5909258f5e9c923ea3",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam/index.md",
+    "before_sha256": "ffbb8222a4f62b22953f120bbe54d244677db2e1063cc9e67bba4f1f7be32fe6",
+    "after_sha256": "858de5e2244ad79930a8f8826406ce4f8d64764af704f37101f0d3943d803228",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+    "before_sha256": "df6ee94a5e9a7df6924395e3d2342a25e30ca704955320f7769365db707cbc01",
+    "after_sha256": "72d18d3bff0b69454b58b9df85da2d89e53d331019b80e9799e28491694fb5a7",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+    "before_sha256": "50dab7173df2164f2914d914b5028ee79b1c334c7c840b7bf0740ebd13df6827",
+    "after_sha256": "6b7a759481301654cd45cd423cc6fffdd92147f89f56ebbdc1f12a3533078372",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+    "before_sha256": "3851437d26b3ea2f097a080ddea7c9c9c434f0c129e489050213c410e6b94e7a",
+    "after_sha256": "0f9572d9d44db0a41e9c8b5ba555f98c9ba01ecf43ac02964badd420d8340249",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
+    "before_sha256": "68b5fe13d2a4c5886e3fb47fc0e6f6fdf01d8a73296e7a8930d3b33be1192908",
+    "after_sha256": "19539a66e345223dad1d2cc315898cba3fdbbdc99cb7314851090c67694b23fc",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit01_transition-formation-emploi_exam/index.md",
+    "before_sha256": "115cdee5a3416532bf29e45121be9a2b443ec8253bd487bb8c7da5bcd2bfa09d",
+    "after_sha256": "2695042877d9001671647d8fb23ab50f06c6ddab490f083a74bf659e55d73885",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit02_presse-francaise_exam/index.md",
+    "before_sha256": "e3a40d38f4178c1c777eb2b312d1e156adfb04a7d95ec6018716a0406c92cf95",
+    "after_sha256": "a3f7d5638e6a4637720f7e6f36b840db998aae1498214c51e3a007d2c0b4700c",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit03_vie-democratique_exam/index.md",
+    "before_sha256": "2353c87f71cf334e764b091d4a3bab95808706c2579c640a2a456282dcc1e0ad",
+    "after_sha256": "6a440460fd9de69b66f0b7583a806673ff2476905b17201c43b84ba25c85a734",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam/index.md",
+    "before_sha256": "2c53d7997d0a83e9a77987c34312178c9d3ad06f87f5879470d653fe1277f40c",
+    "after_sha256": "19037faabfb82b01028f35473cbb07c1a4e513c746fde7964a536ae1e177147c",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam/index.md",
+    "before_sha256": "8db9bea2961b0b91d554a17cfc97a307b26af763315417b89112e2ef3e86af13",
+    "after_sha256": "39bc2bc8aeaff016dded6898756e6b679989c0e08fc03a9c62a5cc1a0eafee4b",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit06_mediation-avancee_exam/index.md",
+    "before_sha256": "d4e961d4737340d7b9acbcf8341ee89f1b26ab7ee5559a86461633f04815c5f3",
+    "after_sha256": "816507e16cc080802fff284365d8a2abbea143ee9ea271ec2baef36ec6210aae",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+    "before_sha256": "c0607cd2493a0ada39dd9442fc4e58ff3c06bd80636a7928bebf5c0d7ed39969",
+    "after_sha256": "2685c2c8d9b16b5363e3c642176815e07bc74d6a0266d049e946b45e0d8d3665",
+    "reasons": [
+      "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit07_engagement-citoyen_exam/index.md",
+    "before_sha256": "24234adce9dfb11aa2411b2529d9ad5ec725b08261599eb298559f3457d195ef",
+    "after_sha256": "7b404b56dd6d7665137b89f87a24c1073f5267deabd1fe4750140c1a0ce486a8",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit08_reseaux-sociaux_exam/index.md",
+    "before_sha256": "89f57ba63c78dc83b501ca4c56000d9a21ed3ab334d296d47aa857fe892dbc03",
+    "after_sha256": "18e46b263c8a052daefc92bcb5bbf528345944aa45c98848dc2bded8e8270be7",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse_exam/index.md",
+    "before_sha256": "92b0d0a49ebe97f6180efc3eb94ae0dce5a3b60452a94b9983444fdb28fc9c53",
+    "after_sha256": "1402282469a4e4b77e5d0590debc8df4c08116aab0a87c24f6e8addaf7930b82",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam/index.md",
+    "before_sha256": "6c15affea925441848ad83f207427e576ae98d893826ae085ce1161080aa5c17",
+    "after_sha256": "908766c72a39266d32bf853b970ac030a437ed08c137fae0419999b176c1b94d",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit11_preparer-un-discours_exam/index.md",
+    "before_sha256": "09af2331cb2cd75af72d03182675fa9c3089e8d9bbaf6e5ad5e3b8886a27f0d5",
+    "after_sha256": "f62b69c6ea6ae6901ffd3608c036d03dc86a7a1f951bd241d1678ceb1a3cb554",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  },
+  {
+    "path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam/index.md",
+    "before_sha256": "77d222cce0b406d5acab111c1327b56676240c8046017dee328b4b2cc05d76d6",
+    "after_sha256": "5bbec51b4c0907401aae26aac856fc5b5a96e690ad93cc36dfe70678e8630531",
+    "reasons": [
+      "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+    ]
+  }
+]

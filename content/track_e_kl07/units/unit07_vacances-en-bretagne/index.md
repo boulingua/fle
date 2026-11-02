@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 7
 slug: "vacances-en-bretagne"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - listening
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_vacances-en-bretagne.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_vacances-en-bretagne.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit07_vacances-en-bretagne.html"
+- "/track_e_kl07/units/unit07_vacances-en-bretagne.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.INT.interviewing-and-being-interviewed.02
+  - A1.PROD.creative-writing.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.INT.interviewing-and-being-interviewed.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit07_vacances-en-bretagne_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_vacances-en-bretagne-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_vacances-en-bretagne-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,8 +99,7 @@ Léa envoie un message vocal à son amie Sarah depuis la Bretagne.
 3. Qu'est-ce que Léa a mangé ?
 4. Quel est le programme de demain ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez rapidement à l'oral, en classe entière.
 
 - Connaissez-vous la **Bretagne** ? Où est-elle en France : au nord, au sud, à l'ouest ?
@@ -76,8 +107,7 @@ Répondez rapidement à l'oral, en classe entière.
 - Quelle est la différence entre une **crêpe** et une **galette** ?
 - Aimez-vous raconter vos vacances ? À l'oral ou à l'écrit ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Type / genre | Exemple |
@@ -102,7 +132,7 @@ Pour raconter des vacances, on combine deux temps du passé :
 - **Imparfait** = le **décor, une description, une habitude** → *Il **faisait** beau. La mer **était** calme. Chaque matin, on **mangeait** une crêpe.*
 
 Formation rapide du passé composé : **avoir** ou **être** (au présent) **+ participe passé**.
-Verbes de mouvement et pronominaux → **être** (accord du participe : *on s'est promené**s***).
+Certains verbes intransitifs comme *aller* et les verbes pronominaux prennent **être**. Le mouvement seul ne suffit pas : *j'ai marché*. Pour *se promener*, on accorde ici avec le groupe désigné : *on s'est promenés*. Les autres verbes pronominaux ont des règles d'accord à examiner séparément.
 {{< /callout >}}
 
 ### B. Texte original — Le journal de Noé (support d'écoute)
@@ -121,8 +151,7 @@ La **Bretagne** est une région située à l'extrême ouest de la France, sur un
 
 *Faits paraphrasés d'après Wikipédia (CC BY-SA) — voir Sources.*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension orale (Hörverstehen) · texte B, « Le journal de Noé ».**
 Écoutez (ou lisez) le journal de Noé, puis répondez.
 
@@ -166,6 +195,7 @@ Remettez ce court récit de vacances dans l'ordre logique (1 à 5).
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Le ciel était gris et le vent soufflait fort. 2) En bateau. 3) Une galette complète (jambon, fromage, œuf). 4) Goûter le kouign-amann.
 
 **Ex. 2.** 1) j'ai mangé · 2) il faisait / la mer était · 3) nous avons vu · 4) on se promenait.
@@ -173,9 +203,9 @@ Remettez ce court récit de vacances dans l'ordre logique (1 à 5).
 **Ex. 3.** a) galette · b) crêpe · c) cidre · d) kouign-amann.
 
 **Ex. 4.** Ordre : 2 (Le matin, il pleuvait…) → 4 (Vers midi, le soleil…) → 5 (On a alors décidé…) → 1 (L'après-midi, on s'est baignés…) → 3 (Le soir, j'étais fatigué…).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Expression écrite / Schreiben, ~120 mots).**
 
 Rédigez un **journal de vacances** de **trois jours** en Bretagne (ou dans une région de votre choix). Pour chaque jour, mentionnez :
@@ -196,8 +226,7 @@ Employez au moins **5 verbes au passé composé** et **3 verbes à l'imparfait**
 - **Cohérence et structure** (connecteurs : *d'abord, ensuite, le soir…*) — 2 pts
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire.
 
 - [ ] Je situe la Bretagne et je cite au moins deux particularités.
@@ -206,22 +235,11 @@ Cochez ce que vous savez faire.
 - [ ] Je nomme au moins trois spécialités bretonnes.
 - [ ] Je rédige un journal de vacances clair d'environ 120 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (Klassenarbeit) — Niveau E · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit07_vacances-en-bretagne_exam" >}}).
 
-**Tâche 1 — Compréhension orale / Hörverstehen (10 pts).**
-Le professeur lit deux fois le journal de Noé (texte B). Répondez en français à cinq questions : le lieu, le temps qu'il faisait, le moyen de transport, le repas de midi, le programme du lendemain.
-
-**Tâche 2 — Vocabulaire (8 pts).**
-Complétez / traduisez huit mots-clés de l'unité (p. ex. *la côte, la marée, une galette, se promener, il faisait beau, avoir hâte, une crêperie, le cidre*).
-
-**Tâche 3 — Expression écrite / Schreiben (12 pts).**
-Rédigez un journal de vacances de deux jours (~120 mots) : temps, activité, spécialité, anecdote. Au moins **4 passés composés** et **3 imparfaits**.
-
-**Barème total : 10 + 8 + 12 = 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 
@@ -237,6 +255,9 @@ Rédigez un journal de vacances de deux jours (~120 mots) : temps, activité, sp
 **Différenciation :** voir l'encadré G / M / E de la partie 3. Pour les élèves rapides, proposer de transformer le journal de Noé au *je* + futur proche pour anticiper la production écrite.
 
 ## Sources
+
+- OQLF — Emploi des auxiliaires avoir et être (vérification éditoriale du 31 octobre 2026), <https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre>.
+
 
 - *Bretagne* — Wikipédia, l'encyclopédie libre (consulté en 2026), https://fr.wikipedia.org/wiki/Bretagne — licence CC BY-SA 4.0.
 - *Cuisine bretonne* — Wikipédia, l'encyclopédie libre (consulté en 2026), https://fr.wikipedia.org/wiki/Cuisine_bretonne — licence CC BY-SA 4.0.

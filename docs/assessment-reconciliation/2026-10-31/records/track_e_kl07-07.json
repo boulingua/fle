@@ -1,0 +1,53 @@
+{
+  "unit": "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
+  "exam": "content/track_e_kl07/units/unit07_vacances-en-bretagne_exam/index.md",
+  "before_unit_sha256": "3e245b3cc8edb4500f6fffee3b829978c42bb645f44eb391eca55b24b1496107",
+  "after_unit_sha256": "5a5f8fee8eab80d01943bfb63cefbb31feff4670ee0c84d6e1eb3805d7257d0f",
+  "before_exam_sha256": "e3008715059f48b1437825ad65c80ff23e40134095c4bcb21dbd3f834828eeb2",
+  "after_exam_sha256": "12097d026f5040608467dd7f0a3198edbdb7e05f971ccf0ccdf69b0c71030de3",
+  "source_sections": "B",
+  "supplied_source_sha256": "8202a05697fd933576a2a20f74061b39c1999663322fb03ffeeb793c9b25cced",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "decisions": [
+    "Noé/Crozon source supplied instead of nonexistent Anouk/Saint-Malo/Chausey trip; corrected pastry classification; retained coherent holiday diary task."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "5e853382333ad50bd9baaceb71c29f83ee9e1cf29496df797145cb39fdaa9ebc",
+      "before_sha256": "5e853382333ad50bd9baaceb71c29f83ee9e1cf29496df797145cb39fdaa9ebc",
+      "after_sha256": "5a5f8fee8eab80d01943bfb63cefbb31feff4670ee0c84d6e1eb3805d7257d0f",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "64fe195b75ebd5d4c0e0e4ed20414a268767d21ac11a70787af832b747e9715b",
+      "after_sha256": "aa3a343c81bebb574a05c3dc055c7ea726d54668825dace573997e49d45aa075",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit07_vacances-en-bretagne_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "aa3a343c81bebb574a05c3dc055c7ea726d54668825dace573997e49d45aa075",
+      "after_sha256": "caf21d1e3ab79017f70f5825aafc2e6013fb9b6f22c729bfa2aef1cb31fd35ed",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit07_vacances-en-bretagne_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit07_vacances-en-bretagne_exam/index.md",
+      "before_sha256": "caf21d1e3ab79017f70f5825aafc2e6013fb9b6f22c729bfa2aef1cb31fd35ed",
+      "after_sha256": "12097d026f5040608467dd7f0a3198edbdb7e05f971ccf0ccdf69b0c71030de3",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

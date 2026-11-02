@@ -1,0 +1,41 @@
+{
+  "unit": "content/track_e_kl13/units/unit01_synthese-themes-litteraires/index.md",
+  "exam": "content/track_e_kl13/units/unit01_synthese-themes-litteraires_exam/index.md",
+  "before_unit_sha256": "06e1083ab80c9262a1acb458d1ede1311c6222f9082de528e0cfb9381768edbd",
+  "after_unit_sha256": "cebbc60a168d6091aa2e4fa3ff25a2c7b87b6dda51914ee39a5fbf5ee39764ed",
+  "before_exam_sha256": "873264f500169f641796792daceabfddca345b83307f2ce2a5258dc1435555ea",
+  "after_exam_sha256": "ca28745bc26ae4ede73a9a4806c0d9d2e75f53e439dc3a8af56135568af1a03a",
+  "source_sections": [
+    "C"
+  ],
+  "supplied_source_sha256": "50416ce5ff49210af3434e8a6e295df6d8a1a3f31fbae8404c12a949c59ed8a1",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Retained embedded12+18 assessment; supplied actual four-author synthesis; removed absentCamus/Senghor and arbitrary8author quota."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "45d56ce9e7725542ad8374fab3412f25f311bf6900a2c4543a9838f6036f7f9c",
+      "after_sha256": "73360e491e001a045e2ba52cb8b989fbde0b0de2fa4c7ec381bb86d8f330492f",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit01_synthese-themes-litteraires_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit01_synthese-themes-litteraires_exam/index.md",
+      "before_sha256": "73360e491e001a045e2ba52cb8b989fbde0b0de2fa4c7ec381bb86d8f330492f",
+      "after_sha256": "ca28745bc26ae4ede73a9a4806c0d9d2e75f53e439dc3a8af56135568af1a03a",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

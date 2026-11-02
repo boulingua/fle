@@ -1,0 +1,98 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 8"
+subtitle: "Différences culturelles franco-allemandes · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 8
+slug: "differences-culturelles-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.analysis-and-criticism-of-creative-texts.01
+    - A2.MED.overall-mediation.02
+    - A2.REC.reading-for-information-and-argument.04
+    - A2.REC.reading-for-orientation.02
+    - A2.INT.asking-for-clarification.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
+
+Lisez le **Frankreich-Knigge** (Unité 8, texte C).
+**Médiez** son contenu en **français** en **5 phrases**
+(~70 mots) pour un(e) ami(e) qui prépare un échange en France.
+Pas de mot-à-mot — l'essentiel.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (5 points)
+
+Vrai ou faux ? (Sur le texte source.)
+
+| | Affirmation | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | On salue avec 2 bises. | ☐ | ☐ |
+| 2 | On casse le pain avant de le manger. | ☐ | ☐ |
+| 3 | Le repas principal est à midi. | ☐ | ☐ |
+| 4 | Il faut dire bonjour en entrant dans un magasin. | ☐ | ☐ |
+| 5 | On ne discute pas à table. | ☐ | ☐ |
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Présentez en **100 mots** **3 différences** culturelles entre
+votre vie et celle d'un(e) Français(e). Pour chaque différence,
+donnez un **fait nuancé** (pas de stéréotype). Utilisez *en
+moyenne, souvent, selon la région*.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — médiation linguistique | 15 |
+| Tâche 2 — Compréhension écrite | 5 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** Modèle : *Voici 5 conseils pour un échange en
+France. 1) Saluer la famille avec deux bises (selon la région).
+2) Manger le pain à la main, sans le casser. 3) Le repas
+principal est le soir, vers 20h. 4) Toujours dire « Bonjour,
+Madame/Monsieur » en entrant dans un magasin. 5) On peut
+discuter avec passion à table — c'est apprécié.* Critères :
+pas de mot-à-mot · 5 phrases · 5 conseils · français correct.
+
+**Tâche 2.** 1) V. 2) F (sans le casser). 3) F (le soir). 4) V.
+5) F (au contraire).
+
+**Tâche 3.** Réponses libres. Critères : 100 mots · 3
+différences · faits nuancés (pas stéréotypes) · *en moyenne /
+souvent / selon la région*.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 8*

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 8
 slug: "differences-culturelles-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.6 Sprachmittlung"
+- "3.1.3.4 Sprechen — monologisches Sprechen"
+- "3.1.3.6 Sprachmittlung"
 skills_focus:
 - mediation
 - speaking_production
@@ -20,22 +20,56 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_differences-culturelles-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_differences-culturelles-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit08_differences-culturelles-e.html"
+- "/track_e_kl09/units/unit08_differences-culturelles-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - A2.PROD.compensating.01
-    - A2.MED.adapting-language.01
-    - A2.PROD.creative-writing.01
-    - A2.REC.reading-as-a-leisure-activity.04
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.PROD.compensating.01
+  - A2.MED.adapting-language.01
+  - A2.PROD.creative-writing.01
+  - A2.REC.reading-as-a-leisure-activity.04
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit08_differences-culturelles-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_production
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_differences-culturelles-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit08_differences-culturelles-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,8 +102,7 @@ Mehdi, cousin d'Anouk, arrive de Tunis pour deux semaines. Il découvre le quoti
 - Chez vous, comment salue-t-on un·e ami·e ? Et une personne adulte que l'on rencontre pour la première fois ?
 - « Ça dépend de la région » : pouvez-vous donner un exemple pour votre propre pays ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant d'apporter du nouveau vocabulaire, mobilisons ce que vous savez déjà.
 
 - Citez trois moments de la journée où les habitudes peuvent changer d'un pays à l'autre (repas, école, salutations…).
@@ -80,8 +113,7 @@ Avant d'apporter du nouveau vocabulaire, mobilisons ce que vous savez déjà.
 **Astuce.** Pour comparer sans juger, on décrit d'abord (*« En France, on… ; en Allemagne, on… »*), puis on nuance (*« mais cela dépend »*). On évite « c'est mieux » / « c'est bizarre ».
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — comparer deux cultures
 
 | Français | Allemand (repère) | Exemple d'emploi |
@@ -113,15 +145,17 @@ Avant d'apporter du nouveau vocabulaire, mobilisons ce que vous savez déjà.
 
 ### C. Texte — la fiche d'Anouk pour Mehdi (texte original)
 
-> **Six différences entre la France et l'Allemagne**
+> **Observations d'Anouk dans deux familles fictives**
 >
-> En France, **la plupart** des familles dînent vers vingt heures, souvent un repas chaud. En Allemagne, **beaucoup** de familles préfèrent l'*Abendbrot* vers dix-huit heures : du pain, de la charcuterie et du fromage.
+> Cette fiche rapporte les impressions d'Anouk sur des familles et lieux du récit. Les quantificateurs concernent ces exemples; ils ne décrivent pas les populations de deux pays.
 >
-> Pour se saluer, **certain·e·s** jeunes Allemand·e·s font un câlin, mais **la plupart** se serrent la main. En France, entre ami·e·s, on se fait souvent deux bises — parfois plus, selon la région.
+> Dans la famille française d'Anouk, on dîne vers vingt heures, souvent un repas chaud. Dans la famille allemande de son correspondant, on préfère l'*Abendbrot* vers dix-huit heures : du pain, de la charcuterie et du fromage.
 >
-> À l'école, **beaucoup** d'élèves français déjeunent à la cantine après midi. En Allemagne, **beaucoup** d'élèves rentrent chez eux vers treize heures.
+> Parmi les amis de son correspondant, **certain·e·s** font un câlin, d'autres se serrent la main. Anouk et deux amies se font souvent deux bises, si chacune le souhaite. On peut aussi simplement dire bonjour.
 >
-> Enfin, en Allemagne, **presque tous** les magasins ferment le dimanche : c'est le repos dominical. En France, **certain·e·s** commerces restent ouverts le dimanche matin.
+> Dans l'école d'Anouk, **beaucoup** d'élèves déjeunent à la cantine après midi. Dans celle de son correspondant, **certain·e·s** rentrent chez eux vers treize heures.
+>
+> Enfin, dans le quartier allemand visité, **presque tous** les magasins ferment le dimanche. Dans le quartier d'Anouk, **certain·e·s** commerces restent ouverts le dimanche matin.
 
 ### D. Note culturelle — la bise et le repos dominical
 
@@ -129,33 +163,32 @@ Avant d'apporter du nouveau vocabulaire, mobilisons ce que vous savez déjà.
 
 **Le repos dominical.** En Allemagne, l'ouverture des commerces est encadrée par la loi (*Ladenschlussgesetz*), et le dimanche est traditionnellement un jour de repos : la plupart des magasins restent fermés, avec seulement quelques exceptions (gares, stations-service, dimanches d'ouverture particuliers). C'est à la fois une habitude sociale et une règle juridique (d'après *Ladenschlussgesetz*, Wikipedia, CC BY-SA).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).** Répondez par une phrase.
 
-1. Vers quelle heure dînent la plupart des familles en France ?
+1. Vers quelle heure dîne la famille française d'Anouk ?
 2. En quoi consiste l'*Abendbrot* ?
-3. Combien de bises se fait-on souvent entre ami·e·s en France ?
-4. Que se passe-t-il dans presque tous les magasins allemands le dimanche ?
+3. Combien de bises Anouk et deux amies se font-elles si chacune le souhaite ?
+4. Que se passe-t-il dans presque tous les magasins du quartier allemand visité le dimanche ?
 
-**Ex. 2 — Modalisation.** Reformulez chaque proportion avec le quantifieur qui convient.
+**Ex. 2 — Modalisation.** Ces proportions sont inventées pour un groupe de vingt personnes. Choisissez un quantifieur adapté; précisez le groupe concerné.
 
-a) 100 % des jours fériés sont respectés en Allemagne → …
-b) 80 % des familles françaises dînent chaud → …
-c) 25 % des jeunes Allemand·e·s préfèrent le câlin → …
-d) 50 % des élèves rentrent déjeuner à la maison → …
+a) 20 personnes sur 20 ont répondu. → …
+b) 16 personnes sur 20 préfèrent dîner chaud. → …
+c) 5 personnes sur 20 préfèrent un câlin pour se saluer. → …
+d) 10 personnes sur 20 déjeunent à la maison. → …
 
-**Ex. 3 — Médiation (allemand → français).** Un·e ami·e ne comprend pas ces phrases. Rendez le sens en français (une phrase par item).
+**Ex. 3 — Médiation (allemand → français).** Transmettez le sens des phrases de cette famille fictive, sans généraliser à un pays.
 
-a) *In Deutschland schließen die meisten Geschäfte am Sonntag.*
-b) *Viele Schüler essen zu Hause zu Mittag.*
-c) *In Frankreich isst man oft erst um 20 Uhr zu Abend.*
+a) *In unserem Viertel schließen die meisten Geschäfte am Sonntag.*
+b) *Viele Schüler unserer Klasse essen zu Hause zu Mittag.*
+c) *In Anouks Familie isst man oft erst um 20 Uhr zu Abend.*
 
-**Ex. 4 — Comparer sans juger.** Complétez avec un connecteur de comparaison (*en France / en Allemagne / en revanche / au contraire / comme*).
+**Ex. 4 — Comparer sans juger.** Complétez avec *en revanche*, *comme* ou *alors que*. Plusieurs réponses sont possibles si la construction est correcte.
 
-a) __________, on dîne assez tard ; __________, on mange plus tôt.
-b) Le dimanche est calme en Allemagne ; __________, en France, certains commerces ouvrent.
-c) __________ en France, on se fait la bise entre ami·e·s.
+a) Dans la famille d'Anouk, on dîne vers vingt heures, ___ dans l'autre famille on dîne vers dix-huit heures.
+b) Le quartier visité est calme le dimanche; ___, certains commerces du quartier d'Anouk ouvrent.
+c) ___ Anouk, son amie demande comment l'autre personne souhaite être saluée.
 
 {{< callout type="note" >}}
 **Différenciation.** **(G)** faites l'Ex. 1 et l'Ex. 4 ; utilisez le texte C comme aide. **(M)** faites les Ex. 1 à 3. **(E)** faites tous les exercices, puis ajoutez à l'Ex. 3 une phrase de votre choix en allemand que vous médiez en français.
@@ -163,16 +196,17 @@ c) __________ en France, on se fait la bise entre ami·e·s.
 
 ## Solutions
 
-**Ex. 1.** 1) Vers vingt heures. 2) Un repas froid du soir : du pain, de la charcuterie et du fromage. 3) Souvent deux bises (parfois plus, selon la région). 4) Ils ferment (repos dominical).
+{{< details summary="Solutions" >}}
+**Ex. 1.** 1) Vers vingt heures. 2) Un repas froid du soir : du pain, de la charcuterie et du fromage. 3) Souvent deux bises, si chacune le souhaite. 4) Ils ferment (repos dominical).
 
-**Ex. 2.** a) *Tous les jours fériés sont respectés en Allemagne.* b) *La plupart des familles françaises dînent chaud.* c) *Certain·e·s jeunes Allemand·e·s préfèrent le câlin.* d) *Beaucoup d'élèves rentrent déjeuner à la maison.*
+**Ex. 2.** a) Toutes les personnes du groupe ont répondu. b) La plupart préfèrent dîner chaud. c) Certaines préfèrent un câlin. d) La moitié déjeunent à la maison. *Beaucoup* reste une appréciation, pas une proportion exacte.
 
-**Ex. 3.** a) *En Allemagne, la plupart des magasins ferment le dimanche.* b) *Beaucoup d'élèves déjeunent à la maison.* c) *En France, on dîne souvent seulement vers vingt heures.*
+**Ex. 3.** a) Dans notre quartier, la plupart des magasins ferment le dimanche. b) Beaucoup d'élèves de notre classe déjeunent chez eux. c) Dans la famille d'Anouk, on dîne souvent vers vingt heures.
 
-**Ex. 4.** a) *En France* … *en Allemagne* (ou *en revanche*). b) *en revanche* / *au contraire*. c) *Comme* en France (accepter *En France*).
+**Ex. 4.** a) alors que; b) en revanche; c) Comme. Accepter une autre construction grammaticale et cohérente.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue) — « Mon guide interculturel » (~2 minutes) :**
 
 Vous préparez un court exposé oral pour un·e correspondant·e francophone qui va séjourner en Allemagne (ou en France). Présentez **cinq à six différences culturelles** du quotidien (repas, salutations, école, dimanche, tutoiement…). Employez **au moins quatre quantifieurs** différents et **deux connecteurs de comparaison**. Terminez par un conseil (*« Je te conseille de… »*).
@@ -187,34 +221,18 @@ Vous préparez un court exposé oral pour un·e correspondant·e francophone qui
 - **Attitude interculturelle (2 pts) :** on décrit et on nuance, sans juger.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux présenter oralement cinq à six différences culturelles FR/DE.
 - [ ] J'emploie au moins quatre quantifieurs pour nuancer.
 - [ ] J'utilise des connecteurs de comparaison.
 - [ ] Je peux médier une courte phrase de l'allemand vers le français.
 - [ ] Je décris les différences sans les juger.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé — Sprechen (monologue) + Sprachmittlung (30 points)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit08_differences-culturelles-e_exam" >}}).
 
-**Tâche 1 — Exposé oral / monologue (16 pts).** À partir de trois courtes indications données en allemand (p. ex. *Abendbrot / Sonntagsruhe / Duzen*), présentez oralement, pendant environ deux minutes, les différences correspondantes entre la France et l'Allemagne.
-
-- Contenu et pertinence : 6 pts
-- Emploi correct des quantifieurs (au moins quatre) : 4 pts
-- Connecteurs de comparaison : 2 pts
-- Prononciation et fluidité : 4 pts
-
-**Tâche 2 — Médiation allemand → français (14 pts).** Un·e ami·e francophone vous montre trois phrases en allemand sur la vie quotidienne. Rendez-en le sens en français (une phrase par item), sans traduire mot à mot.
-
-- Sens rendu fidèlement (3 × 3 pts) : 9 pts
-- Correction de la langue française : 3 pts
-- Reformulation adaptée au/à la destinataire : 2 pts
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

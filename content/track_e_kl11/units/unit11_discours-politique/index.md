@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 11
 slug: "discours-politique"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — monologisches Expression orale"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_discours-politique.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_discours-politique.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit11_discours-politique.html"
+- "/track_e_kl11/units/unit11_discours-politique.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.creative-writing.02
-    - B1.REC.understanding-announcements-and-instructions.01
-    - B1.PROD.planning.01
-    - B1.REC.identifying-cues-and-inferring.05
-    - B1.INT.overall-written-interaction.02
+  - B1.PROD.creative-writing.02
+  - B1.REC.understanding-announcements-and-instructions.01
+  - B1.PROD.planning.01
+  - B1.REC.identifying-cues-and-inferring.05
+  - B1.INT.overall-written-interaction.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit11_discours-politique_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_discours-politique-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_discours-politique-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,14 +100,12 @@ Deux élèves préparent l'analyse d'un discours pour le cours de français.
 2. Quel procédé Yanis a-t-il déjà repéré sans le nommer ?
 3. Pourquoi une idée simple peut-elle « sonner fort » à l'oral ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel grand discours (film, sport, école, politique) vous a déjà marqué·e ? Pourquoi ?
 - À votre avis, un bon orateur convainc-t-il surtout par **la logique**, par **l'émotion** ou par **sa personne** ?
 - Complétez : *« Analyser un discours, c'est expliquer non pas seulement le message, mais aussi les ______ qui le rendent efficace. »*
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Catégorie | Sens / équivalent allemand |
@@ -132,8 +162,7 @@ Dans votre analyse orale, ces tournures permettent de dire *ce que l'orateur met
 
 La rhétorique — l'art de bien parler pour convaincre — est étudiée depuis l'Antiquité. La tradition issue d'Aristote distingue traditionnellement trois grands moyens de persuasion : l'**ethos** (la crédibilité de l'orateur), le **pathos** (les émotions suscitées chez l'auditoire) et le **logos** (le raisonnement et les arguments). Un discours efficace combine généralement les trois. À ces moyens s'ajoute, en analyse contemporaine, la notion de **cadrage** (*framing*) : présenter un même fait sous un certain angle oriente déjà l'interprétation qu'on en fait. *(D'après « Rhétorique » et « Cadrage (sciences sociales) », Wikipédia, licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).**
 
 1. Quelle est la **thèse** (l'idée principale) du discours ?
@@ -169,6 +198,7 @@ Reformulez-le **deux fois** : une version qui présente la mesure comme **positi
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Il faut créer / rouvrir une salle des élèves (un lieu à eux). 2) *Faut-il vraiment les croire ?* — adressée à l'auditoire (« camarades »), elle l'invite à douter du discours découragé. 3) Trois fois → martèlement (anaphore) qui insiste sur la volonté commune. 4) *Ouvrons la porte.* — phrase courte, à l'impératif, à double sens (porte réelle + ouverture symbolique) : elle conclut sur un appel à l'action.
 
 **Ex. 2.** a) anaphore · b) question rhétorique · c) antithèse · d) triade · e) chute.
@@ -179,9 +209,9 @@ Reformulez-le **deux fois** : une version qui présente la mesure comme **positi
 - Même fait, cadrage opposé : le choix des verbes et des noms oriente le jugement.
 
 **Ex. 4.** 1) triade · 2) « nous » · 3) antithèse · 4) chute.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue suivi, ~5 min).**
 
 Choisissez **le texte C** (ou un court discours original que vous rédigez sur un sujet neutre : sport, environnement, vie scolaire). Présentez à l'oral, seul·e et de façon structurée :
@@ -202,33 +232,18 @@ Choisissez **le texte C** (ou un court discours original que vous rédigez sur u
 | Prise de recul | distingue message et procédé |
 | Fluidité orale | débit régulier, ~5 min, peu de lecture |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue *ce que* dit un discours et *comment* il le dit.
 - [ ] Je nomme au moins six procédés rhétoriques et leur effet.
 - [ ] J'explique ce qu'est le cadrage sur un exemple.
 - [ ] J'emploie la mise en relief pour souligner un point dans mon analyse.
 - [ ] Je présente une analyse structurée d'environ 5 minutes sans tout lire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — Compréhension écrite + analyse orale (Niveau E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit11_discours-politique_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 points).** À partir d'un court discours original fourni (thème neutre), répondez à 5 questions : contexte, thèse, plan, deux procédés justifiés, fonction de la chute.
-
-**Tâche 2 — Repérage des procédés (8 points).** Identifiez et nommez 4 procédés rhétoriques dans le texte et indiquez leur effet.
-
-**Tâche 3 — Exposé oral / monologue (10 points).** Présentez oralement (~4–5 min) l'analyse du discours : thèse, procédés, cadrage, prise de position.
-
-**Barème — Total : 30 points**
-
-| Tâche | Compétence | Points |
-|-------|-----------------------------|--------|
-| 1 | Compréhension écrite | 12 |
-| 2 | Repérage / métalangage | 8 |
-| 3 | Expression orale (monologue) | 10 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Bilan 2'.
 

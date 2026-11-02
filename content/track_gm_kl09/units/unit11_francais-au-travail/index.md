@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 11
 slug: "francais-au-travail"
 bildungsplan:
-  - "3.1.3.6 Médiation linguistique"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.6 Médiation linguistique"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - mediation
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_francais-au-travail.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_francais-au-travail.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit11_francais-au-travail.html"
+- "/track_gm_kl09/units/unit11_francais-au-travail.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.overall-oral-interaction.02
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - A2.MED.adapting-language.01
-    - A2.INT.conversation.08
-    - A2.PLUR.building-on-plurilingual-repertoire.02
+  - A2.INT.overall-oral-interaction.02
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.MED.adapting-language.01
+  - A2.INT.conversation.08
+  - A2.PLUR.building-on-plurilingual-repertoire.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit11_francais-au-travail_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - mediation
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_francais-au-travail-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_francais-au-travail-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,15 +98,13 @@ Léa, élève de classe 9, commence un stage d'observation dans une petite agenc
 2. Caroline dit *« tu pourrais »* et non *« tu peux »*. Quelle différence ressentez-vous ?
 3. Selon vous, pourquoi utilise-t-on des mots anglais au bureau ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà fait un stage ou un petit job ? Racontez en une phrase.
 - Quelles différences voyez-vous entre le français de l'école et le français du travail ?
 - Notez trois **anglicismes de bureau** que vous connaissez déjà (en français comme en allemand).
 - Dans quelles situations dit-on *vous* et non *tu* en français ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — le registre professionnel
 
 Beaucoup de mots du bureau sont des anglicismes. La langue française propose souvent un **équivalent officiel**, plus clair et plus soigné.
@@ -110,7 +140,7 @@ Beaucoup de mots du bureau sont des anglicismes. La langue française propose so
 >
 > Hallo Léa,
 >
-> nur kurz zur Bestätigung: Morgen um 9:00 Uhr haben wir den Brief im Konferenzraum 3. Bring bitte den USB-Stick mit den Fotos mit. Der Debrief findet danach um 11:00 Uhr statt. Die Deadline für die Veröffentlichung ist Freitagabend.
+> nur kurz zur Bestätigung: Morgen um 9:00 Uhr haben wir das Briefing im Konferenzraum 3. Bring bitte den USB-Stick mit den Fotos mit. Das Debriefing findet danach um 11:00 Uhr statt. Die Deadline für die Veröffentlichung ist Freitagabend.
 >
 > Bis morgen!
 > Caroline
@@ -132,8 +162,7 @@ Médier, ce n'est pas traduire chaque mot : on transmet **l'essentiel** dans un 
 
 En France, l'usage du français dans le monde professionnel est encadré par la **loi Toubon** de 1994 (loi relative à l'emploi de la langue française) : les documents essentiels d'une entreprise, comme le contrat de travail ou le règlement intérieur, doivent être rédigés en français. Pour proposer des équivalents français aux termes techniques venus de l'anglais, une **Commission d'enrichissement de la langue française** publie régulièrement des recommandations au *Journal officiel* ; ces termes sont réunis dans la base publique **FranceTerme**. C'est ainsi qu'ont été recommandés, par exemple, *courriel* pour *e-mail* ou *mot-dièse* pour *hashtag*. (Paraphrasé d'après Wikipédia, CC BY-SA — voir Sources.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (textes B + C). [G/M]**
 Répondez par une phrase courte.
 1. À quelle heure a lieu la réunion (le *brief*) ?
@@ -162,6 +191,7 @@ Médiez ce court message en 30 à 40 mots de français. Transmettez seulement l'
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) À 9 h. 2) La clé USB avec les photos. 3) À 11 h. 4) Vendredi soir.
 
 **Ex. 2.** a) 3 · b) 1 · c) 4 · d) 5 · e) 2.
@@ -173,9 +203,9 @@ Médiez ce court message en 30 à 40 mots de français. Transmettez seulement l'
 4. J'aurais besoin des photos.
 
 **Ex. 4.** (réponse libre — modèle) *Bonjour, je ne pourrai pas respecter le délai aujourd'hui. Pourrions-nous décaler le rendez-vous à demain 10 h ? Je vous enverrai les photos ce soir. Merci d'avance. Cordialement.* (env. 35 mots)
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, ~10 répliques).**
 A joue le/la **stagiaire** (Léa), B joue le/la **tuteur·trice** (Caroline). Jouez la scène de la **réunion du matin** : accueil, répartition des tâches, rappel d'un délai, une question du/de la stagiaire, un bilan rapide en fin de scène. Employez au moins **5 expressions** du tableau A et **une** formule au conditionnel de politesse.
 
@@ -188,29 +218,18 @@ A joue le/la **stagiaire** (Léa), B joue le/la **tuteur·trice** (Caroline). Jo
 | Registre | vouvoiement + 1 conditionnel de politesse | 2 |
 | Interaction | échange fluide, réponses adaptées | 1 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends 10 à 12 expressions du registre professionnel.
 - [ ] Je sais médier un court message allemand en français clair.
 - [ ] Je choisis *tu* ou *vous* selon la situation.
 - [ ] J'emploie le conditionnel de politesse pour adoucir une demande.
 - [ ] Je peux jouer un dialogue de réunion sans bloquer.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit11_francais-au-travail_exam" >}}).
 
-**Tâche 1 — Médiation linguistique (« Sprachmittlung ») (15 P.).** Médiez le message allemand ci-dessous en ~70 mots de français (l'essentiel, registre poli).
-
-> Hallo Léa, kurze Info: Der Termin mit dem Kunden ist verschoben. Wir machen den Brief erst um 14 Uhr im Raum 3. Bitte bring deinen Laptop mit. Das Debrief ist danach. Die Deadline bleibt Freitag. Danke und bis später! Caroline
-
-**Tâche 2 — Vocabulaire (8 P.).** Donnez un équivalent en français soigné pour : *deadline, feedback, faire un point, onboarder.*
-
-**Tâche 3 — Expression écrite (« Schreiben ») (7 P.).** Rédigez un mail-réponse poli (~50 mots) à Caroline : confirmez votre présence à 14 h et posez une question au conditionnel de politesse. Objet + salutation + formule finale exigés.
-
-**Barème : 30 points.** Médiation 15 (contenu 8 / langue 4 / registre 3) · Vocabulaire 8 · Écrit 7 (structure 3 / langue 2 / politesse 2).
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min).** Situation de départ + Activer 6' · Apporter 13' (vocabulaire 5' / point de langue 4' / médiation modèle 4') · S'entraîner 12' · Produire 10' (préparation + une ou deux scènes) · Réfléchir 2' · Aperçu de la suite 2'.
 

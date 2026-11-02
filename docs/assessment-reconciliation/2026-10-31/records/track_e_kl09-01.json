@@ -1,0 +1,36 @@
+{
+  "unit": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
+  "exam": "content/track_e_kl09/units/unit01_le-monde-du-travail-e_exam/index.md",
+  "before_unit_sha256": "a2c46c059f4146b8a9daf6c52a67593079fb366a24bfa8980e3a863f68e29c49",
+  "after_unit_sha256": "fd453fec3a1d5cdfe3bd4e67ee61cd47216483fc09ab99b4d9a72d2d413335df",
+  "before_exam_sha256": "7b67354d104fe330b8ac9660310b334517e0f25817039203ec128e650cb21251",
+  "after_exam_sha256": "019266d6aa8638da3640aeb51941c1476683367d9a7291bcec4e461893b143f0",
+  "source_sections": "C",
+  "supplied_source_sha256": "bdb19bb1583a7f2dcc7cacb287598e1d4cf42c13ec15df34884bb688c5aae9b3",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Used actual jour1 report, not absent promised jour2; retained work vocabulary and authored multi-day report as an explicitly imagined production."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "ec2c3cb115af1d182cca6f27542b5282199222d5d0760c08344ff0ea99fe7cf8",
+      "after_sha256": "2c319864b1b4f8e1c8079d8167db888309816d59b25ed25b1627e9aa6e0655d3",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit01_le-monde-du-travail-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e_exam/index.md",
+      "before_sha256": "2c319864b1b4f8e1c8079d8167db888309816d59b25ed25b1627e9aa6e0655d3",
+      "after_sha256": "019266d6aa8638da3640aeb51941c1476683367d9a7291bcec4e461893b143f0",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

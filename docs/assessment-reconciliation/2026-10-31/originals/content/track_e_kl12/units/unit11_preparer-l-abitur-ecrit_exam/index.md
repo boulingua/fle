@@ -1,0 +1,103 @@
+---
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 11"
+subtitle: "Préparer l'épreuve finale écrit · classe 12 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 11
+slug: "preparer-l-abitur-ecrit-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-12
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.relaying-specific-information.05
+    - B2.INT.formal-discussion.01
+    - B2.INT.informal-discussion.03
+    - B2.MED.amplifying-a-dense-text.02
+    - B2.PLUR.building-on-plurilingual-repertoire.03
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock)
+
+### Tâche 1 — Verstehen (10 points) — 60 min
+
+Lisez le texte sur la loi IA (Unité 11, texte C).
+Répondez :
+
+1. Quand la loi a-t-elle été votée ?
+2. Citez les 3 mesures principales.
+3. Quand entre-t-elle en vigueur ?
+4. Qui sont les deux personnes citées ?
+5. Quelle position défend chacun·e ?
+
+### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 points) — 90 min
+
+Rédigez un **commentaire personnel** (~350 mots) :
+pour ou contre cette loi, en mobilisant **1 référence**
+(Camus, Despentes, Senghor, Modiano…). 4 § + 4
+connecteurs + 2 citations.
+
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 points) — 60 min
+
+Médiez ce texte allemand en français (~280 mots) :
+
+> *Berlin diskutiert über ein eigenes KI-Gesetz. Der
+> Bundestag hat im Februar 2026 eine Anhörung dazu
+> abgehalten. Cédric O, ehemaliger französischer
+> Staatssekretär, sprach in Berlin über das französische
+> Modell. Die Wissenschaftlerin Asma Mhalla betont, dass
+> nur eine europäische Koordination wirksam sei. Das
+> deutsche Gesetz soll 2027 verabschiedet werden.*
+
+## Notation
+
+| Tâche | Points | Durée |
+|--------------------------|--------|--------|
+| Verstehen | 10 | 60 min |
+| Analyse / Expression écrite | 10 | 90 min |
+| médiation linguistique | 10 | 60 min |
+| **Total écrit** | **30** | **210 min** |
+
+## Solutions
+
+**Tâche 1.** 1) 16 mars 2026. 2) Interdit deepfakes /
+étiquetage IA / Observatoire IA. 3) 1ᵉʳ janvier 2027. 4)
+Cédric O + Asma Mhalla. 5) Cédric O = enthousiaste ; Asma
+Mhalla = nuance (besoin d'Europe).
+
+**Tâche 2.** Réponses libres. Critères : 350 mots · 4 § ·
+4 connecteurs · 1 référence · 2 citations.
+
+**Tâche 3.** Modèle : *L'article expose le débat allemand
+sur une future loi IA. Le Bundestag a tenu une audition en
+février 2026. L'ancien secrétaire d'État français Cédric O
+y est intervenu pour présenter le modèle français. La
+chercheuse Asma Mhalla rappelle que seule une coordination
+européenne sera efficace. Le texte allemand est attendu pour
+2027.* (~280 mots).
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 11*

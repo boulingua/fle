@@ -1,0 +1,104 @@
+---
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 5 (mock 2)"
+subtitle: "épreuve finale mock 2 — extrait littéraire · classe 13 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 5
+slug: "abitur-mock-2-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-13
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.amplifying-a-dense-text.02
+    - B2.MED.analysis-and-criticism-of-creative-texts.03
+    - B2.PRAG.coherence-and-cohesion.01
+    - B2.PRAG.propositional-precision.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock 2)
+
+### Tâche 1 — Verstehen (10 points) — 60 min
+
+Lisez l'extrait *Chanson douce* (Unité 5, texte C). Répondez :
+
+1. Qui sont Louise et Mila ?
+2. Quels types d'histoires Louise raconte-t-elle ?
+3. Que fait Mila la nuit ?
+4. Le matin, que demande Mila ?
+5. Quel mot apparaît à la fin et pourquoi inquiète-t-il ?
+
+### Tâche 2 — Analyse stylistique (12 points) — 90 min
+
+Rédigez (~350 mots) : *« Le danger derrière la douceur »*
+— 3 procédés stylistiques + interprétation du mot *vide*
++ 1 référence à *L'Étranger* OU *Dora Bruder*.
+
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 points) — 60 min
+
+Médiez ce texte allemand (~280 mots) :
+
+> *Leïla Slimani, geboren 1981 in Rabat, ist eine der
+> wichtigsten Stimmen der zeitgenössischen französischen
+> Literatur. Ihr Roman *Dann schlaf auch du* (frz.
+> Originaltitel: *Chanson douce*, 2016) gewann den Prix
+> Goncourt. Slimani schreibt mit kühler Präzision: « Das
+> Baby ist tot. » Ihre Themen: Mutterschaft, soziale
+> Klassen, Migration. Sie engagiert sich auch politisch:
+> 2017 wurde sie von Präsident Macron zur Beauftragten für
+> die Frankophonie ernannt.*
+
+## Notation
+
+| Tâche | Points | Durée |
+|-------------------------|--------|--------|
+| Verstehen | 10 | 60 min |
+| Analyse stylistique | 12 | 90 min |
+| médiation linguistique | 8 | 60 min |
+| **Total** | **30** | **210 min** |
+
+## Solutions
+
+**Tâche 1.** 1) Louise = nounou, Mila = enfant. 2)
+Princesses + histoires sombres. 3) Cauchemars. 4) D'autres
+histoires. 5) *« Vide »* — annonce la dérive intérieure
+de Louise.
+
+**Tâche 2.** Réponses libres. Critères : 350 mots · 3
+procédés · interprétation · 1 référence.
+
+**Tâche 3.** Modèle : *Leïla Slimani, née en 1981 à Rabat,
+est l'une des grandes voix de la littérature française
+contemporaine. Son roman Chanson douce (2016) a obtenu le
+prix Goncourt. Slimani écrit avec une précision glacée :
+« Le bébé est mort. » Ses thèmes : maternité, classes
+sociales, migration. Engagée politiquement, elle a été
+nommée en 2017 par Emmanuel Macron déléguée à la
+francophonie.* (~280 mots).
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 32 points)" collapse="true" >}}
+**Total.** 32 points
+
+| Points | Note |
+|---|---|
+| 30–32 | 1 |
+| 26–29 | 2 |
+| 22–25 | 3 |
+| 16–21 | 4 |
+| 10–15 | 5 |
+| 0–9 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 5*

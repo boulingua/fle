@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 10
 slug: "ecologie-en-france"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_ecologie-en-france.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_ecologie-en-france.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit10_ecologie-en-france.html"
+- "/track_e_kl11/units/unit10_ecologie-en-france.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.formal-discussion.01
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.INT.conversation.01
-    - B1.REC.reading-for-information-and-argument.04
-    - B1.MED.adapting-language.02
+  - B1.INT.formal-discussion.01
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.INT.conversation.01
+  - B1.REC.reading-for-information-and-argument.04
+  - B1.MED.adapting-language.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit10_ecologie-en-france_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_ecologie-en-france-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit10_ecologie-en-france-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,20 +102,18 @@ Au foyer du lycée, Léa et Karim préparent un débat pour le cours de françai
 2. Selon Karim, quel argument défend le nucléaire ? Quel argument le critique ?
 3. Pourquoi Léa insiste-t-elle sur la nécessité de citer ses sources ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quels grands débats écologiques connaissez-vous en France et en Allemagne ?
 - *Fait* ou *opinion* ? Classez : « La France produit 70 % de son électricité avec le nucléaire. » / « Le nucléaire, c'est dangereux. »
 - Quels mots utilisez-vous pour **nuancer** un avis (par exemple : *certes… mais…*) ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire
 
 | Français | Précision d'usage | Allemand |
 |---|---|---|
 | un argument | idée qui appuie une thèse | ein Argument |
-| une source | référence qui garantit un fait | eine Quelle |
+| une source | référence permettant de vérifier et de discuter une affirmation | eine Quelle |
 | un fait chiffré | donnée mesurable et vérifiable | eine Zahlenangabe |
 | la transition énergétique | passage aux énergies bas-carbone | die Energiewende |
 | l'empreinte carbone (f.) | quantité de CO₂ émise | der CO₂-Fußabdruck |
@@ -106,18 +136,17 @@ Au foyer du lycée, Léa et Karim préparent un débat pour le cours de françai
 
 ### Texte — « Un débat qui divise » (texte original)
 
-> En France, l'énergie est un sujet politique brûlant. Les partisans du nucléaire rappellent qu'il émet peu de CO₂ et qu'il assure une électricité stable, jour et nuit. Leurs adversaires répondent que les déchets radioactifs restent dangereux pendant des milliers d'années et qu'aucune solution définitive n'existe encore pour les stocker.
+> En France, l'énergie est un sujet politique brûlant. Les partisans du nucléaire rappellent qu'il émet peu de CO₂ et qu'il assure une électricité stable, jour et nuit. Leurs adversaires répondent que les déchets radioactifs restent dangereux pendant des milliers d'années et qu'ils jugent leur gestion à long terme problématique.
 >
 > De l'autre côté du Rhin, l'Allemagne a fait un choix inverse : elle a fermé ses dernières centrales nucléaires et mise sur les énergies renouvelables. Mais tant que le charbon complète le solaire et l'éolien, ses émissions restent élevées.
 >
-> Aucun camp n'a entièrement raison. C'est pourquoi un bon débat ne consiste pas à crier plus fort que l'autre, mais à confronter des faits vérifiables. Citer une source, c'est transformer une opinion en argument.
+> Aucun camp n'a entièrement raison. C'est pourquoi un bon débat ne consiste pas à crier plus fort que l'autre, mais à confronter des faits vérifiables. Citer une source permet de discuter un argument; il faut encore vérifier sa fiabilité, sa pertinence et ce qu'elle démontre réellement.
 
 {{< callout type="note" >}}
 **Note culturelle — La Convention citoyenne pour le climat.** En 2019-2020, la France a réuni 150 citoyennes et citoyens tirés au sort pour proposer des mesures de lutte contre le changement climatique. Leurs travaux ont abouti à près de 150 propositions et ont nourri la **loi Climat et résilience**, promulguée le 22 août 2021. Cette expérience de démocratie délibérative reste une référence, même si toutes les propositions n'ont pas été retenues par le Parlement. *(Faits paraphrasés d'après Wikipédia FR, CC-BY-SA — voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte « Un débat qui divise »).** Répondez par une phrase complète.
 1. Quels sont les deux arguments avancés par les partisans du nucléaire ?
 2. Quel reproche leurs adversaires leur adressent-ils ?
@@ -142,6 +171,7 @@ b) (citer ses sources → convaincre davantage) *Si tu citais tes sources, tu…
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Il émet peu de CO₂ et assure une électricité stable, jour et nuit. 2) Que les déchets radioactifs restent dangereux des milliers d'années sans solution de stockage définitive. 3) Sur les énergies renouvelables (solaire, éolien). 4) À confronter des faits vérifiables plutôt qu'à crier plus fort que l'autre.
 
 **Ex. 2.** a) F — b) O — c) F — d) O.
@@ -153,9 +183,9 @@ b) (citer ses sources → convaincre davantage) *Si tu citais tes sources, tu…
 {{< callout type="info" >}}
 **Différenciation.** **(G)** Donner les connecteurs de l'Ex. 3 dans le désordre à recopier au bon endroit. **(M)** Travail tel quel. **(E)** Ajouter pour chaque réponse de l'Ex. 2 une justification d'une phrase (« C'est un fait car on peut le vérifier dans le texte de loi »).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, ~12 répliques).** Vous préparez et jouez un **débat argumenté** sur l'un des sujets suivants :
 - « Faut-il sortir du nucléaire comme l'Allemagne ? »
 - « Les citoyens tirés au sort peuvent-ils décider de la politique climatique ? »
@@ -171,27 +201,18 @@ Chaque partenaire défend une position. Votre échange doit contenir : **3 faits
 | Langue | connecteurs, conditionnel, lexique vert | 4 |
 | Fluidité / prononciation | débit, intonation | 2 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue un fait chiffré d'une opinion.
 - [ ] J'emploie des connecteurs de cause, de conséquence et de concession.
 - [ ] Je nuance mon point de vue au lieu d'affirmer brutalement.
 - [ ] Je cite une source pour étayer un argument.
 - [ ] Je réagis aux arguments de mon interlocuteur·rice.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — Compréhension écrite + Interaction orale (30 points)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit10_ecologie-en-france_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 pts).** À partir du texte « Un débat qui divise », répondez à 4 questions : deux de repérage (arguments pour/contre) et deux d'analyse (distinguer fait et opinion, expliquer le rôle des sources).
-
-**Tâche 2 — Lexique et langue (8 pts).** Complétez 4 phrases avec le lexique vert imposé (2 pts) et transformez 2 énoncés au conditionnel de l'hypothèse (6 pts).
-
-**Tâche 3 — Interaction orale (10 pts).** En binôme, tenez un débat de 3 minutes sur un sujet tiré au sort. Évaluation selon la grille de la partie Produire (arguments, interaction, langue, fluidité).
-
-**Barème : 30 points** — CE 12 · Langue 8 · Oral 10.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Aperçu 2'.
 

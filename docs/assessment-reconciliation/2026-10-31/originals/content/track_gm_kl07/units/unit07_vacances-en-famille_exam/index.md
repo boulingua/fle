@@ -1,0 +1,95 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 7"
+subtitle: "Vacances en famille · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 7
+slug: "vacances-en-famille-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.07
+    - A1.INT.notes-messages-and-forms.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.processing-text.03
+    - A1.REC.reading-for-orientation.04
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la carte postale de Léa (Unité 7, texte C). Vrai/faux :
+
+| | Affirmation | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Léa est arrivée à Cannes mardi. | ☐ | ☐ |
+| 2 | Il fait 30 °C. | ☐ | ☐ |
+| 3 | Elle s'est baignée à la plage. | ☐ | ☐ |
+| 4 | Elle a visité Marseille. | ☐ | ☐ |
+| 5 | Elle rentre dimanche. | ☐ | ☐ |
+
+### Tâche 2 — Grammatik : passé composé (8 points)
+
+Conjuguez.
+
+1. Nous *(visiter)* le musée.
+2. Je *(aller)* à la plage.
+3. Ils *(faire)* du vélo.
+4. Léa *(manger)* une glace.
+5. Tu *(partir)* en vacances ?
+6. Vous *(prendre)* le train ?
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez une **carte postale** de **80 mots** :
+date, lieu, météo, **3 activités** au passé composé, projet
+pour demain. Salutation + signature.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Grammatik | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) F (lundi). 2) V. 3) V. 4) F (vieux Nice). 5) F
+(samedi).
+
+**Tâche 2.** 1) avons visité · 2) suis allé(e) · 3) ont fait ·
+4) a mangé · 5) es parti(e) · 6) avez pris.
+
+**Tâche 3.** Réponses libres. Critères : format carte postale ·
+80 mots · 3 activités au passé composé · projet futur.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 7*

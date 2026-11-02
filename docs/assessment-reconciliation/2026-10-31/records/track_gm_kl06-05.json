@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
+  "exam": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam/index.md",
+  "before_unit_sha256": "89e8b7dd2c4b5754a80febf65a61aaba5de78dd8238321e65ae9b41464dc89f6",
+  "after_unit_sha256": "8bd839f41ea613ea61f19e44d1897034cd0dfb46ba1e1b003243e5f7fa63a84f",
+  "before_exam_sha256": "5d560aa687915dbd1d4b9162af230a07433c083959184f37c421cd9790015b7a",
+  "after_exam_sha256": "10bac1f80a163a88b3344c8dc73cb503bf2441f4b52fcf9092972c623624bd6b",
+  "source_sections": [
+    "Input B, blog de Camille"
+  ],
+  "supplied_source_sha256": "e73f24a7f634d136ddacf48c8f92197679544fce10ec577179d2f37bd8e1ec72",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "task_points": [
+    12,
+    8,
+    10
+  ],
+  "decisions": [
+    "Replace absent Léa/Théo stimulus and unsupported key with four explicit Camille preferences.",
+    "Retain all six valid negation items and five-phrase personal writing.",
+    "Make two syntactic negations compatible with requested preference categories."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "73298f6c136d8d591fa07165f054ecee2daf35630085daceb79cd12de319b148",
+      "after_sha256": "8bd839f41ea613ea61f19e44d1897034cd0dfb46ba1e1b003243e5f7fa63a84f",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "fc437132bac142c00729df7a96be92cadded7f3cb98d1d73129d36c73cbe42e7",
+      "after_sha256": "e0243f00e764428d4a10bb9042de33bf48a349dfe5be2d0cf92e4e5f42bd2033",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "e0243f00e764428d4a10bb9042de33bf48a349dfe5be2d0cf92e4e5f42bd2033",
+      "after_sha256": "611213ecb9098f2f9e70a6fd8cf9b5e678c62734819a963dd5cefd53762796f2",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam/index.md",
+      "before_sha256": "611213ecb9098f2f9e70a6fd8cf9b5e678c62734819a963dd5cefd53762796f2",
+      "after_sha256": "10bac1f80a163a88b3344c8dc73cb503bf2441f4b52fcf9092972c623624bd6b",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

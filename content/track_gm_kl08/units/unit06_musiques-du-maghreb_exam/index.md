@@ -23,74 +23,82 @@ curriculum:
     - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 8 (avec écoute)
+## Modalités
 
-### Tâche 1 — Hörverstehen (15 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Vous écoutez deux fois le refrain suivant.
+## Document écrit pour la tâche 2
 
-> Entre Marseille et Oran,
+### C. Trois genres en bref (texte original)
+
+> **Le raï.** Musique populaire née dans l'ouest de l'Algérie. Dans les années 1980, une nouvelle génération d'artistes le fait connaître en Europe : voix puissantes, paroles souvent en arabe dialectal, parfois en français.
+>
+> **Le chaâbi.** Musique plus ancienne, née à Alger. On l'entend aux mariages et dans les cafés. Instruments typiques : le oud (ou la mandole), le violon, la derbouka.
+>
+> **Le rap maghrébin.** Apparu plus récemment. Il mélange le français, l'arabe et l'argot. Thèmes fréquents : la famille, la double identité, la vie de quartier.
+
+**Devoir surveillé (« Klassenarbeit ») — Niveau M · 30 points**
+
+**Tâche 1 — Compréhension orale (14 P.)**
+Vous écoutez le refrain (texte D, lu deux fois) puis répondez :
+
+1. Quels sont les **deux lieux** mentionnés ? (4 P.)
+2. Que signifie « aucun n'est vraiment fini » ? (4 P.)
+3. À votre avis, qui est la personne qui chante ? Qu'est-ce qui vous fait dire cela ? (6 P.)
+
+**Tâche 2 — Compétence textuelle et médiatique (10 P.)**
+Lisez les trois descriptions de genres (texte C). Reliez chaque indice au bon genre :
+
+a) ouest de l’Algérie + voix puissantes + années 1980 → ______
+b) Alger + oud + mariages → ______
+c) Français-arabe-argot + double identité → ______
+
+Puis, en une phrase, définissez **un** de ces genres avec *qui* ou *que*. (3 P. associations +1 P. justification d’une association +6 P. phrase)
+
+**Tâche 3 — Expression écrite (6 P.)**
+En trois phrases, présentez votre **chanson préférée** : genre, artiste et pourquoi. Utilisez au moins un pronom relatif.
+
+**Barème :** T1 = 14 · T2 = 10 · T3 = 6 · **Total = 30 P.**
+
+## Corrigé
+
+**Total : 30 points.**
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+T1. Marseille et ouest de l’Algérie : 2 points chacun. Interprétation : appartenance à plusieurs lieux, identité ouverte/en construction ou autre lecture justifiée (4). Locuteur possible de la diaspora ou voyageur : hypothèse 2, deux indices 2+2; ne pas imposer une biographie, nationalité ou identité unique.
+T2. raï, chaâbi, rap maghrébin (1 chacun); justification 1. Phrase : genre et sens 2, qui/que adapté 2, construction 2.
+T3. Trois phrases genre/artiste/raison 3, relative 2, langue 1. Une chanson imaginaire explicitement annoncée convient.
+
+{{< /details >}}
+
+{{< details title="Refrain original à lire deux fois — personne enseignante" role="key" >}}
+
+### D. Refrain modèle (texte original, ~30 mots)
+
+> Entre Marseille et ouest de l’Algérie,
 > entre l'écran et le vent,
-> je chante deux pays —
-> et aucun n'est entier.
+> je chante dans deux pays —
+> et aucun n'est vraiment fini.
+>
+> *(Refrain didactique original — ce n'est pas le texte d'une chanson existante.)*
 
-Répondez :
+{{< /details >}}
 
-1. Quels sont les deux lieux mentionnés ? (3 P.)
-2. Que signifie « aucun n'est entier » ? (5 P.)
-3. À votre avis, qui chante ? Justifiez. (7 P.)
+## Sources
 
-### Tâche 2 — Text-/Medienkompetenz (10 points)
+- « Raï » — Wikipédia (fr), consulté le 21/07/2026, <https://fr.wikipedia.org/wiki/Ra%C3%AF>, licence CC BY-SA 4.0.
+- « Chaâbi (Algérie) » — Wikipédia (fr), consulté le 21/07/2026, <https://fr.wikipedia.org/wiki/Cha%C3%A2bi_(Alg%C3%A9rie)>, licence CC BY-SA 4.0.
+- Textes, dialogues et refrain : productions originales de l'auteur·e (aucune parole de chanson protégée n'est reproduite).
 
-Trois indices, trois genres. Identifiez :
+## Provenance
 
-a) Mélange arabe-français + voix puissantes + Oran années 1980 → ___
-b) Oud + derbouka + mariages, héritage andalou → ___
-c) Banlieue + double identité + années 2000 → ___
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (5 points)
-
-Décrivez en **3 phrases** votre chanson préférée :
-genre · artiste · pourquoi vous l'aimez.
-
-## Notation
-
-| Tâche | Points |
-|------------------------------|--------:|
-| Tâche 1 — Hörverstehen | 15 |
-| Tâche 2 — Text-/Medien | 10 |
-| Tâche 3 — Expression écrite | 5 |
-| **Total** | **30** |
-
-## Solutions
-
-**Tâche 1.** 1) Marseille (FR) et Oran (Algérie). 2) Aucun
-des deux pays n'est complet pour la voix qui chante — image de
-la double identité / de la diaspora. 3) Probablement une voix
-de la diaspora maghrébine en France ; indices : double lieu, *je
-chante deux pays*.
-
-**Tâche 2.** a) raï · b) chaâbi · c) rap maghrébin.
-
-**Tâche 3.** Modèle libre. Critère : 3 phrases avec verbe
-conjugué, vocabulaire des médias / musique adéquat.
-
----
-
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
-
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
-
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 6*
+*© S. Le Boulanger · CC BY-SA 4.0.*

@@ -1,0 +1,40 @@
+{
+  "unit": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
+  "exam": "content/track_gm_kl10/units/unit01_transition-formation-emploi_exam/index.md",
+  "before_unit_sha256": "8c006906f2cbad9f84d4ad64ce3b6b813a95f919d020979110fdd35ffd5f6d1f",
+  "after_unit_sha256": "fa8c56ab42f12ea06cdbed67c05bd80b1fb43e4ec567d6e1c9ba7363a76e9713",
+  "before_exam_sha256": "92fa2ef7d75f84e46e09c90af238081e217f83bca7689274ed1c55397ff8f31a",
+  "after_exam_sha256": "7aed070ac3f93e859865c4a7bff1bf589abf14a477b1c81580e6546636bcb67d",
+  "source_sections": [
+    "Petite annonce",
+    "Lettre de candidature"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "writing"
+  ],
+  "decisions": [
+    "Actual fictional bakery advert and letter supplied. Removed unsupported48-hour and salary claims; retained30-point application tasks with source-bound vocabulary."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "115cdee5a3416532bf29e45121be9a2b443ec8253bd487bb8c7da5bcd2bfa09d",
+      "after_sha256": "2695042877d9001671647d8fb23ab50f06c6ddab490f083a74bf659e55d73885",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit01_transition-formation-emploi_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit01_transition-formation-emploi_exam/index.md",
+      "before_sha256": "2695042877d9001671647d8fb23ab50f06c6ddab490f083a74bf659e55d73885",
+      "after_sha256": "7aed070ac3f93e859865c4a7bff1bf589abf14a477b1c81580e6546636bcb67d",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

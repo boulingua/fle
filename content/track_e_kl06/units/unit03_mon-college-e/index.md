@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 3
 slug: "mon-college-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_mon-college-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-college-e.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit03_mon-college-e.html"
+- "/track_e_kl06/units/unit03_mon-college-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.reading-for-information-and-argument.02
-    - A1.INT.conversation.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.reading-for-information-and-argument.02
+  - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit03_mon-college-e_exam
+  format: written
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_mon-college-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_mon-college-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,8 +100,7 @@ de Lyon.
 - Quel mot français Tristan utilise-t-il pour « CDI » ?
 - Dans votre école, où allez-vous pour lire au calme ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant de commencer, répondez rapidement à l'oral avec votre voisin·e :
 
 - Quelles matières avez-vous le lundi ?
@@ -79,8 +111,7 @@ Avant de commencer, répondez rapidement à l'oral avec votre voisin·e :
 Notez au tableau tous les mots français que vous connaissez déjà sur le
 thème de l'école.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — 8 lieux et 8 matières
 
 | Français | Allemand |
@@ -145,8 +176,7 @@ documentaliste. Beaucoup de collèges disposent aussi d'une **cantine**
 documentation et d'information », Wikipédia, licence CC BY-SA — voir
 Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase.
 
 1. Combien d'heures de français Anouk a-t-elle par semaine ?
@@ -175,6 +205,7 @@ d) pour jouer pendant la pause → …
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) 4 heures. 2) Le mardi. 3) À 8h (huit heures). 4) Non, le
 mercredi les cours finissent à midi.
 
@@ -196,9 +227,9 @@ d) la cour de récréation.
 - **E (renforcé) :** faites les quatre exercices, puis inventez deux
   questions supplémentaires sur l'emploi du temps pour votre voisin·e.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~70 mots) :**
 
 Décrivez **votre lundi**. Votre texte doit contenir :
@@ -216,35 +247,18 @@ Décrivez **votre lundi**. Votre texte doit contenir :
 | Phrases simples et correctes | 3 |
 | **Total** | **10** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer 8 lieux du collège.
 - [ ] Je peux nommer 8 matières avec le bon article.
 - [ ] Je peux lire un emploi du temps et répondre aux questions.
 - [ ] Je peux décrire ma journée de lundi à l'écrit.
 - [ ] Je sais distinguer *le français* de *en français*.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit03_mon-college-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») — 10 P.**
-Lisez l'emploi du temps du texte C et répondez à 5 questions
-(nombre d'heures, jours, horaires, après-midi libre).
-
-**Tâche 2 — Vocabulaire — 8 P.**
-Traduisez ou complétez 8 mots (4 lieux + 4 matières) avec l'article
-correct.
-
-**Tâche 3 — Expression écrite (« Schreiben ») — 12 P.**
-Décrivez votre journée de lundi (~70 mots) : matières, horaires,
-matière préférée, un lieu du collège.
-
-**Barème total : 30 P.**
-(Répartition indicative : 28–30 = très bien · 24–27 = bien ·
-18–23 = satisfaisant · 12–17 = passable · < 12 = insuffisant.)
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 5' · Apporter 12' · S'entraîner 14' ·
 Produire 10' · Réfléchir 2' · Aperçu de la prochaine séance 2'.

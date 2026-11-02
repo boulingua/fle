@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 4
 slug: "court-metrage"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - listening
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_court-metrage.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_court-metrage.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit04_court-metrage.html"
+- "/track_e_kl11/units/unit04_court-metrage.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.REC.understanding-announcements-and-instructions.03
-    - B1.REC.watching-tv-film-and-video.01
-    - B1.INT.formal-discussion.01
-    - B1.INT.notes-messages-and-forms.02
-    - B1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  - B1.REC.understanding-announcements-and-instructions.03
+  - B1.REC.watching-tv-film-and-video.01
+  - B1.INT.formal-discussion.01
+  - B1.INT.notes-messages-and-forms.02
+  - B1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit04_court-metrage_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_court-metrage-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit04_court-metrage-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,15 +101,13 @@ Après la sonnerie, deux élèves sortent de la salle de projection.
 2. Repérez deux expressions du **langage filmique** dans le dialogue.
 3. À votre avis, pourquoi un plan sur les mains « sans montrer le visage » peut-il être « plus fort » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel **court-métrage** avez-vous déjà vu (en cours, en ligne, en festival) ? En une phrase, de quoi parlait-il ?
 - *Plan*, *scène*, *séquence* : sauriez-vous distinguer ces trois mots ?
 - Pourquoi choisir le format **court** (3–15 min) plutôt qu'un long-métrage ? Notez deux hypothèses.
 - Complétez : « Dans un court-métrage, chaque plan compte parce que… »
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — le langage filmique
 
 | Terme (français) | Définition |
@@ -133,8 +163,7 @@ Attention à l'orthographe : **plan-séquence** (trait d'union) ; **une voix off
 
 Le court-métrage n'est pas seulement un « petit film » : c'est une forme reconnue, souvent le lieu où de futurs cinéastes font leurs premières armes. En France, le **Festival international du court métrage de Clermont-Ferrand**, né en 1979, est présenté comme le plus grand rendez-vous mondial consacré au format court ; il attire chaque année un large public et un marché professionnel du film. Beaucoup de réalisateurs et de réalisatrices connus ont d'abord été remarqués grâce à un court-métrage. *(Fait paraphrasé de Wikipédia, CC BY-SA ; voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du texte-modèle (C).**
 Répondez par une phrase complète.
 a) Où et quand se passe l'histoire ? b) Que montre le tout premier plan-clé ? c) Quel procédé traduit la nervosité du personnage ? d) Quel est le thème du film ?
@@ -160,6 +189,7 @@ Choisissez un court-métrage (ou une scène) que vous connaissez et écrivez un 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** a) Dans une petite ville, la nuit, à un arrêt de bus. b) Un plan d'ensemble sur l'arrêt minuscule au milieu du noir (solitude, attente). c) Un gros plan sur ses mains qui serrent le ticket. d) La méfiance et la manière dont elle se défait.
 
 **Ex. 2.** a) ellipse — b) plan-séquence — c) voix off — d) gros plan.
@@ -172,9 +202,9 @@ Choisissez un court-métrage (ou une scène) que vous connaissez et écrivez un 
 **Différenciation.**
 **G** — l'Ex. 2 est fourni avec la liste de mots (repérage). **M** — pour l'Ex. 3, justifier à l'oral chaque association en une phrase. **E** — pour l'Ex. 4, ajouter **un** plan-clé décrit avec son effet, en réemployant une structure du point de langue.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~250 mots) — une fiche d'analyse.**
 
 Rédigez la **fiche d'analyse** d'un court-métrage francophone de votre choix (vu en cours ou en ligne, sur une plateforme légale). Suivez les **4 étapes** de la méthode :
@@ -195,34 +225,18 @@ Employez **au moins 6 termes** du langage filmique et **deux** structures « pro
 - Interprétation personnelle et argumentée — **1 pt**
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais expliquer la différence entre **plan**, **scène** et **séquence**.
 - [ ] Je connais et j'emploie au moins **8 termes** du langage filmique.
 - [ ] Je sais **décrire un plan** et nommer l'**effet** qu'il produit.
 - [ ] Je rédige une **fiche d'analyse** en 4 étapes.
 - [ ] Je propose une **interprétation** que je justifie par un procédé.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — compréhension audiovisuelle + analyse écrite (30 pts).**
-*(Aligne : 3.1.3.1 compréhension orale/audiovisuelle · 3.1.4 compétence textuelle et médiatique.)*
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit04_court-metrage_exam" >}}).
 
-**Tâche 1 — Compréhension audiovisuelle (12 pts).**
-Après **deux visionnages** d'un court-métrage francophone (choisi par l'enseignant·e, ≤ 8 min, sur une plateforme légale), répondez en français :
-a) Résumez l'histoire en 3 phrases. (4 pts)
-b) Décrivez le **plan d'ouverture** : que montre-t-il, quel effet produit-il ? (4 pts)
-c) Le film a-t-il beaucoup de dialogue, ou raconte-t-il surtout par l'image et le son ? Justifiez par un exemple. (4 pts)
-
-**Tâche 2 — Langage filmique (6 pts).**
-Identifiez le procédé décrit dans chaque situation (ellipse, gros plan, voix off, plan-séquence, champ-contrechamp, plan d'ensemble). 6 items × 1 pt.
-
-**Tâche 3 — Expression écrite (12 pts).**
-Rédigez la **fiche d'analyse** du film visionné (~180–220 mots) : synopsis, réalisation, 2 plans-clés (cadrage + effet), interprétation. Emploi correct d'au moins 5 termes filmiques.
-
-**Barème global :** 30 pts → répartition ci-dessus. Réussite à partir de 15 pts.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 - **Activer** (5') : Situation de départ + questions, à l'oral, en classe entière.

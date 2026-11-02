@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 9
 slug: "internet-et-vie-privee-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_internet-et-vie-privee-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_internet-et-vie-privee-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit09_internet-et-vie-privee-e.html"
+- "/track_e_kl09/units/unit09_internet-et-vie-privee-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.correspondence.01
-    - A2.REC.reading-for-information-and-argument.03
-    - A2.INT.formal-discussion.01
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.LING.general-linguistic-range.02
+  - A2.INT.correspondence.01
+  - A2.REC.reading-for-information-and-argument.03
+  - A2.INT.formal-discussion.01
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit09_internet-et-vie-privee-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_internet-et-vie-privee-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit09_internet-et-vie-privee-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,8 +105,7 @@ Un dimanche après-midi, Anouk et Mehdi révisent ensemble. Mehdi ouvre son tél
 2. Qu'est-ce qu'une « donnée personnelle » d'après le dialogue ?
 3. Et vous : demandez-vous l'accord avant de publier une photo ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez rapidement à l'oral, en petits groupes.
 
 - Combien d'applications utilisez-vous chaque jour ?
@@ -81,8 +113,7 @@ Répondez rapidement à l'oral, en petits groupes.
 - Votre nom, est-il facile à trouver sur un moteur de recherche ?
 - Citez un risque du partage d'informations en ligne.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — Internet et vie privée
 
 | Français | En clair |
@@ -117,9 +148,9 @@ Pour donner un conseil ou mettre en garde poliment, on utilise le **conditionnel
 
 > **Mes données, mes droits**
 >
-> Sur Internet, ton nom, ta photo et tes messages sont des **données personnelles**. Elles t'appartiennent, et la loi les protège.
+> Sur Internet, ton nom, ta photo et tes messages sont des **données personnelles**. La loi encadre leur utilisation et te donne des droits à leur sujet.
 >
-> Depuis 2018, un règlement européen te donne des **droits** : tu peux **savoir** quelles données une entreprise possède sur toi, **corriger** une erreur et **demander la suppression** d'une vieille photo. C'est ce qu'on appelle parfois le « droit à l'oubli ».
+> Depuis 2018, un règlement européen te donne des **droits** : tu peux **savoir** quelles données une entreprise possède sur toi, **corriger** une erreur et **demander la suppression** d'une vieille photo. Le droit à l'effacement s'applique sous certaines conditions et comporte des exceptions; toute demande n'entraîne donc pas automatiquement une suppression.
 >
 > Mais la meilleure protection, c'est la **prudence**. Ne partage jamais ton mot de passe. Réfléchis avant de publier la photo d'un·e ami·e : **demande son accord**. Et si un message te dérange, tu peux **le signaler** ou **bloquer** son auteur.
 >
@@ -129,8 +160,7 @@ Pour donner un conseil ou mettre en garde poliment, on utilise le **conditionnel
 
 Le **RGPD** (Règlement général sur la protection des données) est un règlement de l'Union européenne, adopté en 2016 et **applicable depuis le 25 mai 2018**. Il encadre la manière dont les entreprises et les administrations peuvent collecter et utiliser les données personnelles des habitants de l'UE. En Allemagne, le même texte s'appelle **DSGVO**. En France, l'autorité chargée de faire respecter ces règles est la **CNIL** (Commission nationale de l'informatique et des libertés), créée par la loi « Informatique et Libertés » de 1978. Elle informe le public, conseille et peut sanctionner les organismes qui ne respectent pas la loi. *(D'après Wikipédia, articles « Règlement général sur la protection des données » et « Commission nationale de l'informatique et des libertés », CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte B).** Répondez par une phrase.
 
 1. Cite trois exemples de données personnelles.
@@ -161,6 +191,7 @@ d) *Signale ce message.* → On ___ (pouvoir) …
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Le nom, la photo, les messages (le mot de passe, l'adresse). 2) Depuis 2018 (le 25 mai 2018). 3) Le droit de demander la suppression d'une donnée ou d'une vieille photo. 4) On peut le signaler et bloquer son auteur.
 
 **Ex. 2.** a) mot de passe · b) accord (consentement) · c) cookies · d) paramètres (de confidentialité).
@@ -176,9 +207,9 @@ d) *Signale ce message.* → On ___ (pouvoir) …
 - **M (intermédiaire) :** Ex. 1 à 3 ; les verbes de l'Ex. 3 sont donnés à l'infinitif.
 - **E (approfondi) :** les quatre exercices ; à l'Ex. 4, ajouter une justification (*parce que…*).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche — Dialogue de conseil (en binôme, oral, ~10 répliques).**
 
 A vient de créer un nouveau compte sur un réseau social et pose des questions. B joue le rôle d'un·e ami·e prudent·e qui donne des conseils.
@@ -200,30 +231,18 @@ Votre dialogue doit contenir :
 | Prononciation et fluidité | 3 |
 | **Total** | **15** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends l'essentiel d'un texte sur la protection des données.
 - [ ] J'emploie au moins huit mots de la vie privée en ligne.
 - [ ] Je donne un conseil correct au conditionnel présent.
 - [ ] Je dialogue et je relance mon partenaire (questions, réactions).
 - [ ] Je sais expliquer un geste de prudence à un·e ami·e.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau E.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit09_internet-et-vie-privee-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 pts).**
-Lisez le texte « Mes données, mes droits » (partie 2B). Répondez à cinq questions (vrai/faux justifié et questions ouvertes).
-
-**Tâche 2 — Vocabulaire et grammaire (8 pts).**
-Complétez quatre phrases avec le mot juste (4 pts) et rédigez quatre conseils au conditionnel présent à partir d'ordres donnés (4 pts).
-
-**Tâche 3 — Interaction / expression (12 pts).**
-Rédigez ou jouez un dialogue de conseil (~140 mots ou ~10 répliques) : un·e ami·e vous demande comment protéger sa vie privée en ligne ; vous donnez au moins trois conseils au conditionnel et une mise en garde.
-
-**Barème :** Compréhension 10 · Langue 8 · Interaction 12 · **Total : 30 pts.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée :** 45 minutes.
 
@@ -236,6 +255,9 @@ Rédigez ou jouez un dialogue de conseil (~140 mots ou ~10 répliques) : un·e a
 **Remarque de langue :** insister sur *tu devrais* + infinitif vs *il faudrait que* + subjonctif ; rappeler que *vie privée* prend un *e* (féminin) mais *compte privé* non.
 
 ## Sources
+
+- CNIL — Droit à l'effacement (vérification éditoriale du 31 octobre 2026), <https://cnil.fr/fr/comprendre-mes-droits/le-droit-leffacement-supprimer-vos-donnees-en-ligne>.
+
 
 - **Règlement général sur la protection des données** — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es>, licence CC BY-SA 4.0.
 - **Commission nationale de l'informatique et des libertés** — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s>, licence CC BY-SA 4.0.

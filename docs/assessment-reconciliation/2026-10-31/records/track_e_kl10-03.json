@@ -1,0 +1,68 @@
+{
+  "unit": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
+  "exam": "content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md",
+  "before_unit_sha256": "8e8bf6b859a71bd4a86940ac80ebfe317e7a5c9d4ab0a7e4b52d5d91ee94ec5f",
+  "after_unit_sha256": "92cfbd6bf39f35ca00c69f1eb8f14649f27a18a822a0d90cc330de46b55d5dcb",
+  "before_exam_sha256": "3049b1039247d40c5437b25e6c723d1b838436cb497fef65ba5bef5304d61da8",
+  "after_exam_sha256": "ab51618dfe39c672ef5cd548066da147aa0b99382266a38e3357971be57578e8",
+  "source_sections": "C",
+  "supplied_source_sha256": "9f1185f8f3afe2cd143b0d372b5e9e4c5f97df1a7d6875bf6c0646eff8dc3eb2",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed absent founder and parliamentary term facts, corrected conflation of constitutional review with judicial authority; coherent underlying source repair required before freeze."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "a080164b52e5c0f2d62cbb93907b17d56995a222e47f6795a6e8f685ff2179ef",
+      "before_sha256": "a080164b52e5c0f2d62cbb93907b17d56995a222e47f6795a6e8f685ff2179ef",
+      "after_sha256": "d7bb3c39f087d69f98ebdde4ef66a9a657883dd6f00ac2df170ae0b761ee57db",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "529f2b1713c61988cc0dd1aa018ec6722960e6098dcde27f178e046de798de75",
+      "before_sha256": "529f2b1713c61988cc0dd1aa018ec6722960e6098dcde27f178e046de798de75",
+      "after_sha256": "168354f919c2fdaa6955fc4674073c16a178bb04a6689ac18874929018be8974",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "d7bb3c39f087d69f98ebdde4ef66a9a657883dd6f00ac2df170ae0b761ee57db",
+      "after_sha256": "92cfbd6bf39f35ca00c69f1eb8f14649f27a18a822a0d90cc330de46b55d5dcb",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit03_vie-democratique-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "168354f919c2fdaa6955fc4674073c16a178bb04a6689ac18874929018be8974",
+      "after_sha256": "99c53b6b717803050f465998f0600938c8ab74237496ec9e7fa7ae3a8b177cc4",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "99c53b6b717803050f465998f0600938c8ab74237496ec9e7fa7ae3a8b177cc4",
+      "after_sha256": "77063dfa2129c3961d87e7ac6e5670f4ff671cfe77163d7335cb3a77a64af01f",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md",
+      "before_sha256": "77063dfa2129c3961d87e7ac6e5670f4ff671cfe77163d7335cb3a77a64af01f",
+      "after_sha256": "ab51618dfe39c672ef5cd548066da147aa0b99382266a38e3357971be57578e8",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

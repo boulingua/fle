@@ -1,0 +1,1166 @@
+{
+  "date": "2026-10-31",
+  "review_status": "pending-pedagogical-review",
+  "files": [
+    {
+      "path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+      "before_sha256": "260420ace001787479f3a2f16f15f0d8574e1371c08eb7c2c5c1458a0f77620e",
+      "after_sha256": "801f21e67ee353c74d8fda8c5592abd8cf63a52cfd16692b82065c36b5fcb821",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md",
+      "before_sha256": "5cef4e4ef8f31e33feff847532049dac92a1b8020f9c8d79f4e466f57b3812f8",
+      "after_sha256": "96bf0158530441f36c2df1cd9b0cd062730b689817253bc0a39b91ee5edcbd76",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit05_le-petit-nicolas/index.md",
+      "before_sha256": "f7d3c499523e05a2fb4ff1f3b7591c0a73763639851b1918ba1b2b1f23aaa0ff",
+      "after_sha256": "252982dad57444f0dc4e59f82ac14492e11473b5cb2dd24d7ab18dd650d06d1e",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit05_le-petit-nicolas/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md",
+      "before_sha256": "02ac1f74253050b2ce48d8e22c6b22af2ee25bccdb2580088a013ffb90bd0903",
+      "after_sha256": "6b5dc5bd0003ced22dd5e01af75a1a4b779ae0b98e3df63f67e5c1b704748193",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+      "before_sha256": "2687192ffaac95a7bf62d0f2539d3aa4c6d149a99d3cf77a9077d2e88a6d2d16",
+      "after_sha256": "5242c7e70c0b1a109f088e8190add77023f59c79449525316bb5e4f27af1aa24",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit08_differences-culturelles-e/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md",
+      "before_sha256": "feb0e1cfaa6071d7d6cef7cd1d62a6d51390fde14bffded881cb5af8df9b1f06",
+      "after_sha256": "01583255613f05a04160beee48e280cf361ac09a086eef5550dddd11b56f67b8",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+      "before_sha256": "c1f3ce65363f09e14456d4c8609616974233a3571c320882f8590a8c9f5cedce",
+      "after_sha256": "7df53ed37e74a58c2637a621c8dd32cae811b0508c1a0f7747db1888039c7eef",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md",
+      "before_sha256": "d361fbaea203a3e38132bce445d346d76e32f873402f9e8db54d263764dd65bb",
+      "after_sha256": "1ea1e138e490849c851fa0bf1029fb28c455ecd6d625ca3d940d0e5179494507",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit10_consommation-responsable-e/index.md",
+      "before_sha256": "10a1429f1664bf96327ad1fb2a5f4cf70f5a2e676c62d88bf7f8e3e09c692443",
+      "after_sha256": "7b9d416e9d47fae1f1b1c704edecdff16314d275f265b7d1308cdc1e7f7fe627",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit10_consommation-responsable-e/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md",
+      "before_sha256": "455a9f4ec7df8d0913f99fd69a0aaedac64611897d31e6a88a247fd4dad33760",
+      "after_sha256": "7a8a1cd49132d1ca906367e1160017cc28f719e3ba3187315db4e2dcf591d52d",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
+      "before_sha256": "f8e0609192f3b5a170b92f461920d01c9d33b0bef059afeb61030d21b12ac0c8",
+      "after_sha256": "0f5c44738d6edd3b5d7192779f7c4aa3bd3e79e3efe8a7b7f3d3ef7d2a88bb2f",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit12_bilan-9e-e/index.md"
+    },
+    {
+      "path": "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md",
+      "before_sha256": "d7f28ccd14f53791e5cc6f642b109946b2cfda119107584729d1584f7da1dd4d",
+      "after_sha256": "252ea36890399bde6f3bf962e067644f04ab9cd9a3bd39efa98f8de1b003b32d",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+      "before_sha256": "593d2d7adb41ab43d6fa189a1260b25eddc8ff92dc0410938c14120794c295e4",
+      "after_sha256": "9e6174b0e61e7dda6af55edd2a5a7e83ced2a1e0c7e8cefe2ce052bde65c2de3",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md",
+      "before_sha256": "2f5e0b4df16e67392895b6dfccd3d785492fabdd95490e97fcdd482ccf4df2aa",
+      "after_sha256": "ad55fbd1605f97b2dc63238783e45e64e13535ad2dbf9a69c8137c3d3c50903c",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
+      "before_sha256": "a080164b52e5c0f2d62cbb93907b17d56995a222e47f6795a6e8f685ff2179ef",
+      "after_sha256": "d7bb3c39f087d69f98ebdde4ef66a9a657883dd6f00ac2df170ae0b761ee57db",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl10/units/unit03_vie-democratique-e/index.md"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md",
+      "before_sha256": "529f2b1713c61988cc0dd1aa018ec6722960e6098dcde27f178e046de798de75",
+      "after_sha256": "168354f919c2fdaa6955fc4674073c16a178bb04a6689ac18874929018be8974",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
+      "before_sha256": "1d545f0357652563770017c0860d210741d1ed77c732180d598e9f21532e62b5",
+      "after_sha256": "e43a395551fd274e871b32023e63e16ccfc752bd1f3ca4a48780b7efe5d02f2a",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl10/units/unit06_mediation-avancee-e/index.md"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md",
+      "before_sha256": "f4e5096bf2e11a9a89585a42265692ba2f5832c8c98a51a7e6aec41628cc3911",
+      "after_sha256": "672b57a1a4ac37d85516fe9f6881dc87ad20d68263b2491a18beb1f16f1fc8c8",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md",
+      "before_sha256": "c0ed7a85044aca13dc45dd3219f7bd037770b61c97a80a512026a6a1248a4039",
+      "after_sha256": "f9d800c21d96d5863b22b0d521a6625f89c82a8f9f8eee1e11d43323b5fa653b",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+      "before_sha256": "9ff467afa6ed4e96317485b6f44bd2869f5d725d50fa3d9514e883418d4b4956",
+      "after_sha256": "f38a6069cab598e2655a5986835a3c2634174f4c33775e9da914e483410cb9da",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl11/units/unit05_mediation-academique/index.md"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit10_ecologie-en-france/index.md",
+      "before_sha256": "c039bf96d30b330884a70bd7405f6c6fdd3f444c9934742c8a7327240f9fd351",
+      "after_sha256": "17cf96bac4ed4495d22519ffa1c034fb742570cb29a45b3e811fa52bde777734",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl11/units/unit10_ecologie-en-france/index.md"
+    },
+    {
+      "path": "content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md",
+      "before_sha256": "c8be3ebadacead0f1ba2c5f8aae939713e37759ea37aa632ed3b50e03c17152c",
+      "after_sha256": "4e804ccc87993c5fd9d64052b3310657e6517a20ba6e20c516fb6d6ad31961b6",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+      "before_sha256": "c94a848cc9213befc6f032c5fba349039013932fc084a66aee004d4a055cabd2",
+      "after_sha256": "112c831bfd5f4db2c89da7b09f3b38d46341e44d853501fb74b9e92974623cf5",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl12/units/unit05_mediation-fr-de/index.md"
+    },
+    {
+      "path": "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md",
+      "before_sha256": "a1dd317ac2f664d005bb52389ee9b0b6cc5fc84b56a5fea60077fff89b917183",
+      "after_sha256": "3f31ffb3af236ee9826161bca897a2b955a522af3977065053e4628c4fa3b505",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
+      "before_sha256": "5e853382333ad50bd9baaceb71c29f83ee9e1cf29496df797145cb39fdaa9ebc",
+      "after_sha256": "5a5f8fee8eab80d01943bfb63cefbb31feff4670ee0c84d6e1eb3805d7257d0f",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
+      "before_sha256": "15d2f67b56da07b70f800bbb17821830a93f74c21f279531b846bea1c485f98b",
+      "after_sha256": "1a4844cb218b40067879b6333f0b5d8eae42b893dac3857ac7c45dd931f2ea1b",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md",
+      "before_sha256": "6ce3fbd980482445d3eb4773ff5b3ec68cd2afb8bb96ead74783ec985f113eb0",
+      "after_sha256": "9679db75d6141807e9f1c60952e93b1a998d36220ea2ee98ac3a17c48014b0a5",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
+      "before_sha256": "475709b68211d3a6574df20073ad019abdb0aa9b7c62800e8324953904fc7854",
+      "after_sha256": "8bc943ab9f0f1ca78f073c2a6e08838130b8ea2a7ef930bc9047410fa6da5301",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl07/units/unit07_vacances-en-famille/index.md"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md",
+      "before_sha256": "5e37cde46b61f3b4ce1fe91117190927d1d9e7ca54df2d10c5d0920786a35a70",
+      "after_sha256": "bea5d018a355e2d55e81b944cdcf4a5f13a328f4469a8c5d6fa010874d4e4e6d",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
+      "before_sha256": "583ca2a4931521505adf6eccc0d86549fafbabf5ee6177ba7feed40733b8d101",
+      "after_sha256": "685718654ced402876f2f27dc98e5ae38549f3db0478e228998b347e5e86c70b",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal_exam/index.md",
+      "before_sha256": "4922e15c58782af8469bfa4a653f5fae985a3b9f814be187ee5716817b11a8c0",
+      "after_sha256": "44dd77e74c6a4b5ab8cfc3fd14d2a548fae8035c8252b8cbc89f4e79208153f8",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit01_correspondance-avec-montreal_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+      "before_sha256": "3f62173a24f22a2e9cd83fc5566da2c2eb1f509d42634c6baf956ae92eaa1c58",
+      "after_sha256": "6082666c96f971f32354ebcf88b824aa48bc3257f5f606afcf907744e61b1129",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md",
+      "before_sha256": "f03ff020f56fa9c589a406d87d3639e826cc10d77a4ecd3c963b2373203f94d8",
+      "after_sha256": "9982f84f5278b6db06f287b60c1842dc97f536a48e78836ca86f4977a3e399f4",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+      "before_sha256": "306f64158ac774b78cbb981404489f06e7f144dd152411e8509cf073611d9cbd",
+      "after_sha256": "06931dde596a8dccabf5cfe36e057609c420124e68848b17c8419d30f6a2cd82",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl07/units/unit03_mon-quartier/index.md"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md",
+      "before_sha256": "9902633333e54b5311d6ea2fdb5bb9bbd32e9b88493226c77c05f54399a05a85",
+      "after_sha256": "60b08c7091e7839dc2e337e1d2e31fa776e7cb925fea00cc7a1e20aee888f186",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit10_musique-et-clips/index.md",
+      "before_sha256": "c145f97dd2daa3cbcc9154fe4ae063a2593b3372e593d7829f4f734f704ba70f",
+      "after_sha256": "fa176186dcb50b94f3d060e4925efada34e312e730ba594a9dbaecb8b8b9816d",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl07/units/unit10_musique-et-clips/index.md"
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit10_musique-et-clips_exam/index.md",
+      "before_sha256": "1703d633928af5d54553c3153ad389fcf4fbf8b18821ddfe026401e53e455435",
+      "after_sha256": "4fe419ced72b212f5f36586b3014b6e42f251a25f714cd7ebe382887549be822",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl07/units/unit10_musique-et-clips_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md",
+      "before_sha256": "7e66dcce7520fa036c2d3399fbe541577a2305f489ce2ce0a3833a540d82e0bf",
+      "after_sha256": "d806d9d1639b3b9357fd1a59c92bb0c24294c859e6229c1d8bd12174fa17a240",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md",
+      "before_sha256": "5fcc13e389a49643d1fc8a9eeeb6d77dfec51fd3c8ad86e672dff347f26e261e",
+      "after_sha256": "b4d41625161168fa2a311ae917230f517d426c28ef5336a76d7891baa4798943",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md",
+      "before_sha256": "fc5c32aab73003ce3ae95b1347fbb8ccb564f3434050972d826f7f31ea0959f4",
+      "after_sha256": "4fde3a1b7bb8ecfe3b19ee1cfb50aed1be5f8c57bf84d883d5251348f5914d63",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit04_futurs-projets/index.md",
+      "before_sha256": "db53f34f51f03b78b28854fa7fe476e2e22a839438a7e43d7615272f4c787c4e",
+      "after_sha256": "971be5c1df7c11db62d5c11762f12c2e336db319068cb11e1b6d3b3709252e7d",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit04_futurs-projets/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
+      "before_sha256": "8890ad3f72d83b28642039507ad4d7fd81f2322bea07d3a537abcc9d7200b687",
+      "after_sha256": "9567d4df31b406bb8249ead1d1ea51bb4de9a202cc067b6d64857f922041cd30",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit07_sport-et-equipe/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md",
+      "before_sha256": "2a9db421cde345d2c1abb8be201bd55cc445e34363a28eedf031ab00a5f4fc79",
+      "after_sha256": "dccf92ad6bc70ad3d20c4a9f45da14f56087f33eb23ad8851c3d979196bb30f7",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
+      "before_sha256": "390ac00e33b8e5b9adc3bc998144941eb2f022da880346dc6a5910b2fff984a3",
+      "after_sha256": "aa65809265f91746c33029cdf247269a81844ec753fec7b7f068cf945660c97b",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit10_cinema-quebecois/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md",
+      "before_sha256": "245bce8702a50e8695595d3abf0d0fee5140df53067abdef5e443b09bab6ac3f",
+      "after_sha256": "73899b7714e33e429fff232f0fd42ea358da451bad4a2c67f1d9f02603a4d645",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+      "before_sha256": "c4fc585898382017d8eacf898f5ada0841b79cf36286943b6a67ce742db4ab46",
+      "after_sha256": "6936c96936ad39a27b20d83e7a4fde42ce08e3be8624b5240183148ea333a4d1",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md"
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
+      "before_sha256": "f4a98d5222873b3cc5c97d4d516ca9e48b5131a1940215162d723dafd3730307",
+      "after_sha256": "f5169109492a1c9698e6cdc375a11a361ea7ec6bf33d2011ba1a96d0f2ff39e7",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+      "before_sha256": "c0d08b7099a0711c5515c6f72a9807608a240d35690e364e29cdbb3bb40e4094",
+      "after_sha256": "50dab7173df2164f2914d914b5028ee79b1c334c7c840b7bf0740ebd13df6827",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien_exam/index.md",
+      "before_sha256": "31baaf92d27cab0800da8f577c71a98ac359736481733577364d7c20d4285c1e",
+      "after_sha256": "aaa332dd42bd4d0644ba4bd9e004c0e3ca539108ab9bb1318a3846dc9dcd80a4",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit03_ecologie-au-quotidien_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
+      "before_sha256": "7d2b1d92b8fd5aaaab8cc5dc9dd425a0a1bb4fde98c856978be3a36084b7dbcd",
+      "after_sha256": "68b5fe13d2a4c5886e3fb47fc0e6f6fdf01d8a73296e7a8930d3b33be1192908",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit08_differences-culturelles/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md",
+      "before_sha256": "f004b4ec4c7765823a75ae560e16a32f394b35d1a0cb7ab5d3c923c52c26f9ab",
+      "after_sha256": "729ecccf5f02bdb4c8839f8c8b1e6f4fb92a77710465a55b2f4a34ee1f513f5d",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit09_internet-et-vie-privee_exam/index.md",
+      "before_sha256": "dcb45f9352d2b16dbc12b1da49e407d3eb9f872fb60e60dd55b47126123c01ba",
+      "after_sha256": "f61994a3d1a94542fa6fe98b85fa9eea1bf9f2f9447150d62f4cc4bd47f42eca",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit09_internet-et-vie-privee_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
+      "before_sha256": "520597a7cdc9d3556d982899b61524611ca19c65e5b8198a6b3abd9c8b407e72",
+      "after_sha256": "dfa6718b6ef10fecf388e47b6216023d1cf2cffa4d03fdcfa84208c036125bfa",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit11_francais-au-travail/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+      "before_sha256": "164ce6ce18e2cd35aa6b06c0a8af08c1ad65a10f9870b81e653e698bd7a186cf",
+      "after_sha256": "c79d13f302d430c02e03ed670c5ec8b50baa006aae55d34b7a18a6f7a1779c54",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md"
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md",
+      "before_sha256": "471ffce1a14196d2fa4a50de25c374aa18f5c35c0cfde86428f28e9d13c0f49d",
+      "after_sha256": "307d44c62cf8f59a22aae9e7d8036e9c9de2aa1fc68c15b9976902c6d2dc572f",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+      "before_sha256": "c2e67ddf1eedc6124d0e95588e371744ed764c20e3d9e1411d06d0104885e314",
+      "after_sha256": "ce55558f0fbb140ddad2a3b95d94579d217f19e44e3b088667abb05cb41dda9a",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl10/units/unit07_engagement-citoyen/index.md"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
+      "before_sha256": "cbe48ae2f3a341043f30995c456dabb66f07ead80a2abaeff70383778ab28a73",
+      "after_sha256": "5fb2bd44b6187fc631b854ebaddf68c20ddf7c93bc0ecc66a030c1a095bab5e2",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md"
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam/index.md",
+      "before_sha256": "a69339920fa0e8c666e3940f195312a1e9c4f0b80ca2d7eaaa96d54dccd46576",
+      "after_sha256": "6c15affea925441848ad83f207427e576ae98d893826ae085ce1161080aa5c17",
+      "archive": "docs/factual-source-repairs/2026-10-31/originals/content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam/index.md"
+    }
+  ],
+  "changes": [
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+        "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md"
+      ],
+      "reason": "Avoid a universal sorting rule.",
+      "references": [],
+      "before": "le verre, le papier et les emballages ne vont pas dans la même poubelle",
+      "after": "suivre les consignes locales pour le verre, le papier et les emballages"
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+        "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md"
+      ],
+      "reason": "Remove unsupported fixed water-saving ratio.",
+      "references": [],
+      "before": "une douche courte consomme trois fois moins qu'un bain",
+      "after": "une douche courte peut consommer moins qu'un bain, selon sa durée et le débit"
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+        "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md"
+      ],
+      "reason": "Remove unsupported zero-cost accessibility promise.",
+      "references": [],
+      "before": "Aucun de ces gestes ne demande de l'argent ni beaucoup de temps.",
+      "after": "Le coût, le temps et les possibilités varient selon les personnes; choisissons un premier geste réalisable."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md"
+      ],
+      "reason": "Align teaching key with qualified stimulus.",
+      "references": [],
+      "before": "Parce qu'une douche courte consomme trois fois moins d'eau qu'un bain.",
+      "after": "Parce qu'une douche courte peut consommer moins d'eau qu'un bain, selon sa durée et le débit."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit05_le-petit-nicolas/index.md"
+      ],
+      "reason": "Correct creator/scenarist distinction.",
+      "references": [
+        "https://www.dupuis.com/auteurbd/morris/93"
+      ],
+      "before": "également co-créateur d'*Astérix* et de *Lucky Luke*",
+      "after": "également co-créateur d'*Astérix* et scénariste de *Lucky Luke*, série créée par Morris"
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+        "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md"
+      ],
+      "reason": "Bound invented cultural generalizations to an explicit fictional observation task.",
+      "references": [],
+      "before": "> **Six différences entre la France et l'Allemagne**",
+      "after": "> **Observations d'Anouk dans deux familles fictives**\n>\n> Cette fiche rapporte les impressions d'Anouk sur des familles et lieux du récit. Les quantificateurs concernent ces exemples; ils ne décrivent pas les populations de deux pays."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+        "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md"
+      ],
+      "reason": "Replace unsupported population claims with supplied scenario facts.",
+      "references": [],
+      "before": "> En France, **la plupart** des familles dînent vers vingt heures, souvent un repas chaud. En Allemagne, **beaucoup** de familles préfèrent l'*Abendbrot* vers dix-huit heures : du pain, de la charcuterie et du fromage.",
+      "after": "> Dans la famille française d'Anouk, on dîne vers vingt heures, souvent un repas chaud. Dans la famille allemande de son correspondant, on préfère l'*Abendbrot* vers dix-huit heures : du pain, de la charcuterie et du fromage."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+        "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md"
+      ],
+      "reason": "Avoid nationality and consent assumptions.",
+      "references": [],
+      "before": "> Pour se saluer, **certain·e·s** jeunes Allemand·e·s font un câlin, mais **la plupart** se serrent la main. En France, entre ami·e·s, on se fait souvent deux bises — parfois plus, selon la région.",
+      "after": "> Parmi les amis de son correspondant, **certain·e·s** font un câlin, d'autres se serrent la main. Anouk et deux amies se font souvent deux bises, si chacune le souhaite. On peut aussi simplement dire bonjour."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+        "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md"
+      ],
+      "reason": "Scope school practices to fictional schools.",
+      "references": [],
+      "before": "> À l'école, **beaucoup** d'élèves français déjeunent à la cantine après midi. En Allemagne, **beaucoup** d'élèves rentrent chez eux vers treize heures.",
+      "after": "> Dans l'école d'Anouk, **beaucoup** d'élèves déjeunent à la cantine après midi. Dans celle de son correspondant, **certain·e·s** rentrent chez eux vers treize heures."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+        "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md"
+      ],
+      "reason": "Scope opening-hour observations rather than assert national rule.",
+      "references": [],
+      "before": "> Enfin, en Allemagne, **presque tous** les magasins ferment le dimanche : c'est le repos dominical. En France, **certain·e·s** commerces restent ouverts le dimanche matin.",
+      "after": "> Enfin, dans le quartier allemand visité, **presque tous** les magasins ferment le dimanche. Dans le quartier d'Anouk, **certain·e·s** commerces restent ouverts le dimanche matin."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md"
+      ],
+      "reason": "Question must match bounded fictional source.",
+      "references": [],
+      "before": "Combien de bises se fait-on souvent entre ami·e·s en France ?",
+      "after": "Combien de bises Anouk et deux amies se font-elles si chacune le souhaite ?"
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md"
+      ],
+      "reason": "Align key.",
+      "references": [],
+      "before": "Souvent deux bises (parfois plus, selon la région).",
+      "after": "Souvent deux bises, si chacune le souhaite."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+        "content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md"
+      ],
+      "reason": "Data rights are not a blanket property claim.",
+      "references": [
+        "https://cnil.fr/fr/comprendre-mes-droits/le-droit-leffacement-supprimer-vos-donnees-en-ligne"
+      ],
+      "before": "Elles t'appartiennent, et la loi les protège.",
+      "after": "La loi encadre leur utilisation et te donne des droits à leur sujet."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+        "content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md"
+      ],
+      "reason": "Correct unconditional erasure implication.",
+      "references": [
+        "https://cnil.fr/fr/comprendre-mes-droits/le-droit-leffacement-supprimer-vos-donnees-en-ligne"
+      ],
+      "before": "C'est ce qu'on appelle parfois le « droit à l'oubli ».",
+      "after": "Le droit à l'effacement s'applique sous certaines conditions et comporte des exceptions; toute demande n'entraîne donc pas automatiquement une suppression."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit10_consommation-responsable-e/index.md",
+        "content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md"
+      ],
+      "reason": "Do not infer durability from cotton production label.",
+      "references": [],
+      "before": "Un tee-shirt en coton bio coûte plus cher, **mais** il dure plus longtemps, **donc** je le remplace moins souvent.",
+      "after": "Le tee-shirt que j'ai choisi coûtait plus cher, **mais** j'en prends soin, **donc** j'espère le garder longtemps. La mention « bio » ne garantit pas à elle seule la durée de vie d'un vêtement."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit10_consommation-responsable-e/index.md"
+      ],
+      "reason": "Grammar stimulus should not teach unsupported quality claim.",
+      "references": [],
+      "before": "Le coton bio est plus cher. Il dure plus longtemps.",
+      "after": "Ce tee-shirt est plus cher. Je compte le garder longtemps."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit10_consommation-responsable-e/index.md"
+      ],
+      "reason": "Align model.",
+      "references": [],
+      "before": "Le coton bio est plus cher, **mais** il dure plus longtemps.",
+      "after": "Ce tee-shirt est plus cher, **mais** je compte le garder longtemps."
+    },
+    {
+      "paths": [
+        "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
+        "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md"
+      ],
+      "reason": "Correct grammatical gender of cycle.",
+      "references": [],
+      "before": "vers la cycle terminal",
+      "after": "vers le cycle terminal"
+    },
+    {
+      "paths": [
+        "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+        "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md"
+      ],
+      "reason": "Correct grammatical gender of cycle.",
+      "references": [],
+      "before": "vers la cycle terminal",
+      "after": "vers le cycle terminal"
+    },
+    {
+      "paths": [
+        "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md"
+      ],
+      "reason": "Do not equate grammatical tense with exclusive spoken/written register.",
+      "references": [],
+      "before": "*je vais réviser* (futur proche, oral) et *je réviserai* (futur simple, écrit soigné)",
+      "after": "*je vais réviser* (futur proche, projet lié à la situation présente) et *je réviserai* (futur simple, projection). Les deux formes s'emploient à l'oral comme à l'écrit"
+    },
+    {
+      "paths": [
+        "content/track_e_kl10/units/unit03_vie-democratique-e/index.md"
+      ],
+      "reason": "Separate constitutional control and judicial authority.",
+      "references": [
+        "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006095828"
+      ],
+      "before": "Enfin, des juges et le **Conseil constitutionnel** contrôlent le respect de la Constitution : c'est le **pouvoir judiciaire**.",
+      "after": "Les juridictions rendent la justice. Le **Conseil constitutionnel**, distinct de l'autorité judiciaire, contrôle notamment la conformité des lois à la Constitution."
+    },
+    {
+      "paths": [
+        "content/track_e_kl10/units/unit03_vie-democratique-e/index.md"
+      ],
+      "reason": "Correct institutional matching and key.",
+      "references": [],
+      "before": "Conseil constitutionnel + juges",
+      "after": "juridictions et juges"
+    },
+    {
+      "paths": [
+        "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md"
+      ],
+      "reason": "Distinguish treaty and institutional creation agreement.",
+      "references": [
+        "https://www.ofaj.org/ressources/accord-1963"
+      ],
+      "before": "créé par le traité de l'Élysée du 22 janvier 1963",
+      "after": "créé par l'accord du 5 juillet 1963, dans le prolongement du traité de l'Élysée du 22 janvier 1963"
+    },
+    {
+      "paths": [
+        "content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md"
+      ],
+      "reason": "Correct narrator/person versus focalization conflation.",
+      "references": [],
+      "before": "**Le point de vue :** narrateur **interne** = il·elle raconte sa propre histoire (« je ») ; narrateur **externe** = il·elle observe de l'extérieur (« il / elle »).",
+      "after": "**Narrateur et point de vue sont deux questions distinctes.** Un narrateur peut raconter à la première ou à la troisième personne. La focalisation interne donne accès aux perceptions ou pensées d'un personnage; la focalisation externe s'en tient aux comportements observables. Un récit à la troisième personne peut donc adopter une focalisation interne, comme le passage consacré à Nour."
+    },
+    {
+      "paths": [
+        "content/track_e_kl11/units/unit05_mediation-academique/index.md"
+      ],
+      "reason": "Clearly label unsupported article and domain-comparison claims as fictional exercise.",
+      "references": [],
+      "before": "> **Médiation d'un article de vulgarisation (source allemande).**",
+      "after": "> **Exemple fictif de discours de vulgarisation.**\n>\n> Le passage et les données évoquées ci-dessous sont inventés pour travailler l'attribution et la prudence. Aucun article allemand identifiable n'est fourni; ce texte ne constitue pas une preuve scientifique."
+    },
+    {
+      "paths": [
+        "content/track_e_kl11/units/unit05_mediation-academique/index.md"
+      ],
+      "reason": "Do not present invented Meier study as sourced evidence.",
+      "references": [],
+      "before": "**Exercice 4 — Médiation courte (DE → FR).** Transmettez cet extrait allemand",
+      "after": "**Exercice 4 — Médiation courte (DE → FR).** Les noms, l'étude et la proportion de cet exemple sont fictifs. Transmettez cet extrait allemand"
+    },
+    {
+      "paths": [
+        "content/track_e_kl11/units/unit05_mediation-academique/index.md"
+      ],
+      "reason": "Attribution is not independent verification.",
+      "references": [],
+      "before": "**Fort (fait établi) :**",
+      "after": "**Formulation forte (ce que l'auteur affirme, à vérifier) :**"
+    },
+    {
+      "paths": [
+        "content/track_e_kl11/units/unit10_ecologie-en-france/index.md"
+      ],
+      "reason": "Citation alone does not establish truth.",
+      "references": [],
+      "before": "référence qui garantit un fait",
+      "after": "référence permettant de vérifier et de discuter une affirmation"
+    },
+    {
+      "paths": [
+        "content/track_e_kl11/units/unit10_ecologie-en-france/index.md",
+        "content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md"
+      ],
+      "reason": "Repair epistemic validity of argumentation lesson.",
+      "references": [],
+      "before": "Citer une source, c'est transformer une opinion en argument.",
+      "after": "Citer une source permet de discuter un argument; il faut encore vérifier sa fiabilité, sa pertinence et ce qu'elle démontre réellement."
+    },
+    {
+      "paths": [
+        "content/track_e_kl11/units/unit10_ecologie-en-france/index.md",
+        "content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md"
+      ],
+      "reason": "Attribute evaluative position instead of unsupported universal technical claim.",
+      "references": [],
+      "before": "qu'aucune solution définitive n'existe encore pour les stocker",
+      "after": "qu'ils jugent leur gestion à long terme problématique"
+    },
+    {
+      "paths": [
+        "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+        "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md"
+      ],
+      "reason": "Date the simplified debt-brake scenario.",
+      "references": [
+        "https://www.bundesfinanzministerium.de/Content/DE/Glossareintraege/S/schuldenbremse.html?view=renderHelp"
+      ],
+      "before": "### B. Texte source (dossier allemand, extrait — texte original)",
+      "after": "### B. Texte source — débat historique simplifié, avant la réforme de 2025\n\nTexte pédagogique original : il expose un débat antérieur à la réforme allemande de mars 2025. Il ne décrit pas toutes les exceptions ni les règles actuelles. La médiation doit conserver ce repère temporel."
+    },
+    {
+      "paths": [
+        "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+        "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md"
+      ],
+      "reason": "Distinguish structural borrowing and omitted exceptions.",
+      "references": [],
+      "before": "Sie begrenzt die jährliche Neuverschuldung des Bundes auf höchstens **0,35 Prozent** des Bruttoinlandsprodukts.",
+      "after": "Die hier vereinfacht beschriebene Grundregel begrenzt die strukturelle Neuverschuldung des Bundes auf **0,35 Prozent** des Bruttoinlandsprodukts; Ausnahmen werden in diesem kurzen historischen Text nicht dargestellt."
+    },
+    {
+      "paths": [
+        "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+        "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md"
+      ],
+      "reason": "Avoid current-law temporal claim.",
+      "references": [],
+      "before": "Doch heute stellen viele Fachleute die Regel infrage.",
+      "after": "In der hier dargestellten Debatte stellten viele Fachleute die Regel infrage."
+    },
+    {
+      "paths": [
+        "content/track_e_kl12/units/unit05_mediation-fr-de/index.md"
+      ],
+      "reason": "Align model source date.",
+      "references": [],
+      "before": "Ce dossier allemand porte sur un débat budgétaire :",
+      "after": "Ce dossier pédagogique allemand présente un débat historique antérieur à mars 2025 :"
+    },
+    {
+      "paths": [
+        "content/track_e_kl12/units/unit05_mediation-fr-de/index.md"
+      ],
+      "reason": "Align source and model measure.",
+      "references": [],
+      "before": "elle limite le déficit annuel de l'État fédéral à **0,35 % du produit intérieur brut**.",
+      "after": "la règle de base présentée limite l'endettement structurel de la Fédération à **0,35 % du produit intérieur brut**, sans détailler les exceptions."
+    },
+    {
+      "paths": [
+        "content/track_e_kl12/units/unit05_mediation-fr-de/index.md"
+      ],
+      "reason": "Remove model inference not supported by supplied source.",
+      "references": [],
+      "before": "Pour un lecteur français, ce débat **fait écho** à la question européenne des **3 % de déficit** (critères de Maastricht) : dans les deux cas, on cherche l'équilibre entre **rigueur budgétaire** et **investissements d'avenir**.",
+      "after": "Pour un lecteur français, il faut expliquer le terme allemand sans ajouter une comparaison chiffrée absente du dossier : les règles européennes ne sont pas documentées dans cette source."
+    },
+    {
+      "paths": [
+        "content/track_e_kl12/units/unit05_mediation-fr-de/index.md"
+      ],
+      "reason": "Make task answerable from actual source.",
+      "references": [],
+      "before": "**Ex. 4 — Lien interculturel (production courte).** En trois phrases, comparez la *Schuldenbremse* allemande et les **3 % de Maastricht** européens, puis expliquez en quoi le débat intéresse un lecteur français.",
+      "after": "**Ex. 4 — Explication pour le destinataire (production courte).** En trois phrases, expliquez le terme *Schuldenbremse* et les deux positions présentées à un lecteur français. Précisez le caractère historique et simplifié du dossier. N'ajoutez pas une comparaison avec des règles européennes non fournies."
+    },
+    {
+      "paths": [
+        "content/track_e_kl12/units/unit05_mediation-fr-de/index.md"
+      ],
+      "reason": "Replace unsupported annual/structural and Europe comparison.",
+      "references": [],
+      "before": "**Ex. 4.** Modèle : *La Schuldenbremse limite le déficit annuel allemand à 0,35 % du PIB, alors que les critères de Maastricht fixent une limite de 3 % du déficit pour les États de l'UE. La règle allemande est donc nettement plus stricte que la règle européenne. Pour un lecteur français, ce débat éclaire une question commune : comment financer les investissements d'avenir sans laisser filer la dette publique.*\n",
+      "after": "**Ex. 4.** Modèle : *Ce dossier présente un débat antérieur à mars 2025 sur le frein allemand à l'endettement. La règle de base limite l'endettement structurel, sans que ce court texte détaille ses exceptions. Les critiques souhaitent davantage de marge pour investir, tandis que les défenseurs craignent la hausse de la dette.*\n\n"
+    },
+    {
+      "paths": [
+        "content/track_e_kl12/units/unit05_mediation-fr-de/index.md"
+      ],
+      "reason": "Date cultural note consistently.",
+      "references": [],
+      "before": "il plafonne le déficit structurel de la Fédération à 0,35 % du PIB et vise à limiter l'endettement public à long terme.",
+      "after": "le dossier présente sa règle de base antérieure à la réforme de 2025. Les règles actuelles et les exceptions doivent être consultées dans la documentation officielle du ministère fédéral des Finances."
+    },
+    {
+      "paths": [
+        "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md"
+      ],
+      "reason": "Correct overgeneralized auxiliary/participle rule.",
+      "references": [
+        "https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre"
+      ],
+      "before": "Verbes de mouvement et pronominaux → **être** (accord du participe : *on s'est promené**s***).",
+      "after": "Certains verbes intransitifs comme *aller* et les verbes pronominaux prennent **être**. Le mouvement seul ne suffit pas : *j'ai marché*. Pour *se promener*, on accorde ici avec le groupe désigné : *on s'est promenés*. Les autres verbes pronominaux ont des règles d'accord à examiner séparément."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md"
+      ],
+      "reason": "Correct auxiliary and pronominal agreement overgeneralization.",
+      "references": [
+        "https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre"
+      ],
+      "before": "*être* + participe passé (verbes de déplacement et verbes pronominaux). **Le participe passé s'accorde avec le sujet :**",
+      "after": "*être* + participe passé avec certains verbes intransitifs, dont *aller* et *rester*. **Dans le tableau ci-dessous, le participe s'accorde avec le sujet.** Le mouvement n'impose pas *être* : *j'ai marché*. Les verbes pronominaux emploient aussi *être*, mais leur accord dépend de la construction (*elle s'est lavé les mains*)."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md"
+      ],
+      "reason": "Repair movement/auxiliary equivalence.",
+      "references": [
+        "https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre"
+      ],
+      "before": "- Verbes de déplacement (aller, partir, arriver, rester, entrer, sortir…) et verbes pronominaux : **être** → *je suis allé·e, nous sommes partis, on s'est baignés.*",
+      "after": "- Certains verbes intransitifs (*aller, partir, arriver, rester, entrer, sortir*) prennent **être** dans les emplois travaillés : *je suis allé·e, nous sommes partis*. Ce n'est pas le cas de tous les déplacements (*j'ai marché*); *sortir* avec un objet prend *avoir* (*j'ai sorti le vélo*). Les pronominaux prennent *être*, avec un accord dépendant de la construction : *on s'est baignés*, mais *elle s'est lavé les mains*."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md"
+      ],
+      "reason": "Repair auxiliary and agreement rule.",
+      "references": [
+        "https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre"
+      ],
+      "before": "- **Être** pour les verbes de mouvement ou de changement d'état (aller, venir, rester, partir, arriver, monter…) et les verbes pronominaux : *je suis allé·e*, *nous sommes resté·e·s*, *elle est partie*.",
+      "after": "- **Être** avec certains verbes intransitifs (*aller, venir, rester, partir, arriver*) et les verbes pronominaux : *je suis allé·e*, *nous sommes resté·e·s*, *elle est partie*. Le sens de mouvement ne suffit pas (*j'ai marché*); avec un objet, certains verbes changent d'auxiliaire (*j'ai monté la valise*). L'accord des pronominaux dépend de leur construction."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md"
+      ],
+      "reason": "Repair auxiliary rule.",
+      "references": [
+        "https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre"
+      ],
+      "before": "- **Avec *être*** (verbes de mouvement : *arriver, partir, entrer, sortir, aller, venir…* et les verbes pronominaux) : *je **suis arrivée** à 5 h · ils **sont partis**.*",
+      "after": "- **Avec *être*** : certains verbes intransitifs (*arriver, partir, aller, venir…*) et les verbes pronominaux. Exemples : *je **suis arrivée** à 5 h · ils **sont partis**.* Attention : *j'ai marché* et *j'ai sorti les poubelles* prennent *avoir*. L'accord des pronominaux suit des règles particulières."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl07/units/unit03_mon-quartier/index.md"
+      ],
+      "reason": "Separate protected shop name from 1993 traditional-bread decree.",
+      "references": [
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227163"
+      ],
+      "before": "« boulangerie » est même protégé par la loi : selon un décret de 1993, un\ncommerce ne peut porter ce nom que si le pain y est pétri et cuit sur place.",
+      "after": "« boulangerie » est protégé par le Code de la consommation : l'article L122-17 réserve l'appellation aux professionnels qui assurent eux-mêmes, sur le lieu de vente, le pétrissage, la fermentation, la mise en forme et la cuisson du pain à partir de matières premières choisies. La pâte et le pain ne doivent être ni surgelés ni congelés."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl07/units/unit10_musique-et-clips/index.md"
+      ],
+      "reason": "Correct film release year.",
+      "references": [
+        "https://www.loc.gov/item/86708393/"
+      ],
+      "before": "*Thriller* de Michael Jackson (1984)",
+      "after": "*Thriller* de Michael Jackson (1983)"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl07/units/unit10_musique-et-clips/index.md"
+      ],
+      "reason": "Remove false prohibition of plural.",
+      "references": [],
+      "before": "Le mot **la musique** est toujours au singulier.",
+      "after": "On emploie ici **la musique** comme notion générale. Le pluriel existe pour différents genres ou traditions : *les musiques du monde*."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl07/units/unit10_musique-et-clips/index.md"
+      ],
+      "reason": "Synchronize teacher note.",
+      "references": [],
+      "before": "*la musique* est toujours au singulier ;",
+      "after": "*la musique* désigne ici une notion générale; le pluriel *les musiques du monde* est correct ;"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md"
+      ],
+      "reason": "Do not project later partners into founding year or assert undated coverage figure.",
+      "references": [],
+      "before": "née en 1984 de la coopération de diffuseurs publics de France, de Belgique, de Suisse, du Canada, du Québec et de Monaco. Elle est diffusée dans plus de 200 pays et territoires",
+      "after": "lancée en 1984 sous le nom TV5. Son partenariat et sa diffusion se sont élargis au fil du temps. Elle est diffusée dans de nombreux pays et territoires"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md",
+        "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md"
+      ],
+      "reason": "Distinguish constitutional national and official status.",
+      "references": [
+        "https://www.bak.admin.ch/fr/langues"
+      ],
+      "before": "La Suisse a quatre langues officielles : allemand, français, italien et romanche.",
+      "after": "La Suisse a quatre langues nationales : allemand, français, italien et romanche. Au niveau fédéral, l'allemand, le français et l'italien sont langues officielles; le romanche l'est aussi dans les rapports avec les personnes de langue romanche."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md"
+      ],
+      "reason": "Align comprehension item with source.",
+      "references": [],
+      "before": "Ce pays a quatre langues officielles, dont le romanche.",
+      "after": "Ce pays a quatre langues nationales, dont le romanche."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md"
+      ],
+      "reason": "Remove unbounded demographic figures rather than invent current counts.",
+      "references": [],
+      "before": "Le français est une des langues les plus répandues de la planète. On l'estime à environ **300 millions de locuteur·rice·s**, dont à peu près 74 millions de personnes dont c'est la langue maternelle. Il est langue officielle dans une vingtaine de pays indépendants, répartis sur **tous les continents habités**.",
+      "after": "Le français est utilisé dans de nombreux pays et régions. Son statut et ses usages diffèrent : langue officielle, langue d'enseignement, langue familiale ou langue apprise. Un nombre de locuteurs doit toujours être accompagné de son année et de la définition utilisée."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md"
+      ],
+      "reason": "Remove unsupported demographic ranking and total-population/fluency conflation.",
+      "references": [],
+      "before": "Fait souvent surprenant : le pays qui compte le plus grand nombre de francophones n'est pas la France, mais la **République démocratique du Congo**, en Afrique centrale. Sa capitale, **Kinshasa**, est la plus grande ville francophone du monde par sa population.",
+      "after": "La **République démocratique du Congo**, en Afrique centrale, compte une importante population francophone. À **Kinshasa**, le français coexiste avec d'autres langues. Un classement des villes ou des pays dépend du critère retenu : population totale, locuteurs réels ou maîtrise déclarée."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit04_futurs-projets/index.md"
+      ],
+      "reason": "Correct tense aspect/time overgeneralization.",
+      "references": [],
+      "before": "*Futur proche* = *aller* (présent) + infinitif → action immédiate, sûre : *Je vais partir* (tout de suite).",
+      "after": "*Futur proche* = *aller* (présent) + infinitif : on présente un événement comme lié à la situation présente, par exemple un projet ou un indice visible (*Je vais partir*). Il n'est pas nécessairement immédiat ni certain."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit04_futurs-projets/index.md"
+      ],
+      "reason": "Correct future-distance rule.",
+      "references": [],
+      "before": "*Futur simple* → projet, avenir plus lointain : *Je partirai un jour à Paris.*",
+      "after": "*Futur simple* : on projette un événement dans l'avenir (*Je partirai demain / un jour à Paris*). La distance temporelle seule ne décide pas entre les deux formes."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit04_futurs-projets/index.md"
+      ],
+      "reason": "Permit contextually valid future choices.",
+      "references": [],
+      "before": "**Ex. 2.** 1) vais partir *(action immédiate)* · 2) habiterai *(futur lointain)* · 3) vas tomber *(danger immédiat)* · 4) sauverons *(projet lointain)*.",
+      "after": "**Ex. 2.** Réponses possibles : 1) vais partir; 2) habiterai; 3) vas tomber; 4) sauverons. Accepter un autre futur grammaticalement correct si l'élève explique le sens choisi. Les expressions temporelles ne suffisent pas à imposer un temps unique."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md"
+      ],
+      "reason": "Distinguish predecessor and current federation.",
+      "references": [
+        "https://www.unss.org/histoire"
+      ],
+      "before": "une fédération créée en 1938",
+      "after": "une fédération créée en 1975, précédée notamment par l'OSSU fondé en 1938"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md"
+      ],
+      "reason": "Use CNC short/feature threshold consistently.",
+      "references": [
+        "https://www.cnc.fr/a-propos-du-cnc/missions/reglementer/diffusion-non-commerciale/dispositions-communes-aux-seances-non-commerciales"
+      ],
+      "before": "film de plus de 60 minutes",
+      "after": "film de 60 minutes ou plus, selon la définition du CNC"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md"
+      ],
+      "reason": "Use CNC short/feature threshold consistently.",
+      "references": [
+        "https://www.cnc.fr/a-propos-du-cnc/missions/reglementer/diffusion-non-commerciale/dispositions-communes-aux-seances-non-commerciales"
+      ],
+      "before": "film de moins de 30 minutes",
+      "after": "film de moins de 60 minutes, selon la définition du CNC"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md"
+      ],
+      "reason": "Use CNC short/feature threshold consistently.",
+      "references": [
+        "https://www.cnc.fr/a-propos-du-cnc/missions/reglementer/diffusion-non-commerciale/dispositions-communes-aux-seances-non-commerciales"
+      ],
+      "before": "Film de moins de 30 minutes.",
+      "after": "Film de moins de 60 minutes."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md"
+      ],
+      "reason": "Use CNC short/feature threshold consistently.",
+      "references": [
+        "https://www.cnc.fr/a-propos-du-cnc/missions/reglementer/diffusion-non-commerciale/dispositions-communes-aux-seances-non-commerciales"
+      ],
+      "before": "Film de plus de 60 minutes.",
+      "after": "Film de 60 minutes ou plus."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md"
+      ],
+      "reason": "Non-distribution is not a prohibition on all economic surplus.",
+      "references": [],
+      "before": "l'association ne cherche donc pas à faire de profit.",
+      "after": "elle peut dégager un excédent pour son activité, mais ne doit pas le partager entre ses membres."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md"
+      ],
+      "reason": "Do not count four presented forms as exactly three.",
+      "references": [],
+      "before": "**Un portrait équilibré combine trois temps.**",
+      "after": "**Ce portrait combine présent, passé composé et futur; l'imparfait peut compléter le cadre du récit.**"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md"
+      ],
+      "reason": "Correct false invariant and il faut de rule.",
+      "references": [],
+      "before": "**Attention :** *il faut* est impersonnel — il ne change jamais de forme et il est toujours suivi d'un infinitif (ou de *de* + infinitif). On ne dit pas *« il faut que je trie »* à ce niveau : on reste à l'infinitif.",
+      "after": "**Attention :** *falloir* est impersonnel : *il faut, il fallait, il faudra, il faudrait*. Dans ces exercices, employez *il faut + infinitif*, sans *de* : *il faut trier*. La construction *il faut que + subjonctif* est également correcte (*il faut que je trie*), mais elle n'est pas demandée ici."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+        "content/track_gm_kl09/units/unit03_ecologie-au-quotidien_exam/index.md"
+      ],
+      "reason": "Label untraceable numerical scenario explicitly.",
+      "references": [],
+      "before": "### C. Texte — « Le climat change, et nous ? » (texte original)",
+      "after": "### C. Texte — « Le climat change, et nous ? » (scénario chiffré fictif)\n\nLes chiffres servent à l'exercice de lecture; ils ne sont ni un inventaire national ni un objectif climatique officiel."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md"
+      ],
+      "reason": "Align underlying source with corrected assessment.",
+      "references": [],
+      "before": "Chaque personne qui vit en France produit en moyenne",
+      "after": "Dans une population fictive étudiée pour cet exercice, chaque personne produit en moyenne"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md"
+      ],
+      "reason": "Align target scope.",
+      "references": [],
+      "before": "Pour protéger le climat, il faudrait réduire ce chiffre de moitié.",
+      "after": "Dans le scénario, le groupe se fixe un objectif de réduction de moitié, sans prétendre que ce seuil suffirait à atteindre un objectif climatique mondial."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md"
+      ],
+      "reason": "Separate fictional exercise fractions and official bibliography.",
+      "references": [],
+      "before": "Les données montrent que trois postes dominent — **l'alimentation, le logement et les transports** —, chacun représentant environ un cinquième à un quart du total.",
+      "after": "Les statistiques distinguent notamment **l'alimentation, le logement et les transports**. Leurs parts dépendent de l'année et du périmètre; les fractions du texte C sont celles d'un scénario fictif et ne doivent pas être attribuées à ces sources."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md"
+      ],
+      "reason": "Align answer key.",
+      "references": [],
+      "before": "Il faudrait le réduire de moitié.",
+      "after": "Dans le scénario, le groupe se fixe une réduction de moitié; ce n'est pas un objectif mondial établi."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit08_differences-culturelles/index.md"
+      ],
+      "reason": "Replace compulsory greeting and national stereotypes with explicit family preferences; preserve translation fidelity.",
+      "references": [],
+      "before": "### C. Texte source pour la médiation (allemand, original)\n\n> **Frankreich-Knigge — fünf Tipps für den Schüleraustausch**\n>\n> 1. Begrüße deine Gastfamilie mit zwei Wangenküsschen (*la bise*) — je nach Region.\n> 2. Iss das Brot mit der Hand, ohne es zu zerdrücken.\n> 3. Die Hauptmahlzeit ist meistens abends, oft erst um 20 Uhr.\n> 4. Sage immer « Bonjour, Madame / Monsieur », wenn du ein Geschäft betrittst.\n> 5. Diskutiere ruhig leidenschaftlich am Esstisch — das ist erwünscht.\n\n",
+      "after": "### C. Conseils d’une famille d’accueil fictive\n\n> 1. Frag deine Gastfamilie, wie sie begrüßt werden möchte. Ein Wangenkuss ist keine Pflicht.\n> 2. In unserer Familie essen wir das Brot mit der Hand, ohne es zu zerdrücken.\n> 3. Wir essen meistens gegen20 Uhr zu Abend; andere Familien haben andere Gewohnheiten.\n> 4. Sage beim Betreten eines Geschäfts freundlich Bonjour.\n> 5. Am Tisch kannst du deine Meinung sagen und den anderen zuhören. Frage nach, wenn du unsicher bist.\n\nCes conseils décrivent une famille fictive; ils ne constituent pas des règles pour toute la France.\n\n"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit08_differences-culturelles/index.md"
+      ],
+      "reason": "Synchronize model with bounded source and correct zerdrücken.",
+      "references": [],
+      "before": "**Ex. 1.** Modèle : *Voici cinq conseils pour un échange en France. D'abord, on salue la famille d'accueil avec deux bises, selon la région. Ensuite, on mange le pain avec la main, sans l'écraser. Le repas principal est le plus souvent le soir, vers vingt heures. En entrant dans un magasin, on dit toujours « Bonjour, Madame / Monsieur ». Enfin, on peut discuter avec passion à table : c'est bien vu.*",
+      "after": "**Ex. 1.** Modèle : *Cette famille fictive conseille de demander comment la saluer; la bise n'est pas obligatoire. Chez elle, on mange le pain avec la main sans l'écraser et on dîne généralement vers vingt heures; les habitudes varient ailleurs. Dans un commerce, on conseille de dire bonjour. À table, on peut donner son avis en écoutant les autres et demander une précision.*"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md"
+      ],
+      "reason": "Mark fictitious survey.",
+      "references": [],
+      "before": "**La moitié des ados regrettent au moins une publication**",
+      "after": "**Avant de publier : un scénario pour réfléchir**"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md"
+      ],
+      "reason": "Do not invent empirical privacy statistics.",
+      "references": [],
+      "before": "D'après plusieurs enquêtes récentes, environ un adolescent sur deux dit regretter au moins une photo ou un commentaire mis en ligne.",
+      "after": "Dans une enquête fictive créée pour cet exercice, 10 personnes sur 20 disent regretter au moins une photo ou un commentaire mis en ligne. Ces chiffres ne proviennent pas d'une étude réelle."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md"
+      ],
+      "reason": "Correct grounds, exceptions and deadline.",
+      "references": [
+        "https://cnil.fr/fr/comprendre-mes-droits/le-droit-leffacement-supprimer-vos-donnees-en-ligne"
+      ],
+      "before": "face à un contenu qui dévoile des informations sur soi, on peut demander sa suppression au site, qui doit agir dans un délai d'un mois au maximum.",
+      "after": "on peut demander la suppression de données dans les cas prévus, avec des exceptions notamment pour la liberté d'expression ou une obligation légale de conservation. La réponse intervient normalement dans le mois, avec une prolongation possible de deux mois pour une demande complexe; il ne s'agit pas d'une promesse de supprimer tout contenu."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md"
+      ],
+      "reason": "Align teaching answer with fictional scope.",
+      "references": [],
+      "before": "Environ un adolescent sur deux (la moitié).",
+      "after": "Dans le scénario fictif, 10 personnes sur 20 (la moitié); aucune enquête réelle n’est citée."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit11_francais-au-travail/index.md"
+      ],
+      "reason": "German Brief is a letter, not a briefing.",
+      "references": [],
+      "before": "haben wir den Brief im Konferenzraum 3",
+      "after": "haben wir das Briefing im Konferenzraum 3"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit11_francais-au-travail/index.md"
+      ],
+      "reason": "Use correct German term and grammatical gender.",
+      "references": [],
+      "before": "Der Debrief findet danach",
+      "after": "Das Debriefing findet danach"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+        "content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md"
+      ],
+      "reason": "Keep established Mehdi character residence consistent.",
+      "references": [],
+      "before": "un élève de Tunis",
+      "after": "un élève de Sfax"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md"
+      ],
+      "reason": "Keep established Mehdi character residence consistent.",
+      "references": [],
+      "before": "vient de Tunis (Tunisie)",
+      "after": "vient de Sfax (Tunisie)"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md"
+      ],
+      "reason": "Keep established Mehdi character residence consistent.",
+      "references": [],
+      "before": "la Tunisie (Tunis)",
+      "after": "la Tunisie (Sfax)"
+    },
+    {
+      "paths": [
+        "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md"
+      ],
+      "reason": "Qualify purpose construction instead of forbidding pour que.",
+      "references": [],
+      "before": "Attention : après **pour** et **afin de**, on met un **infinitif**, jamais\n« que + subjonctif » ici.",
+      "after": "**Attention :** lorsque le sujet est le même, on emploie *pour / afin de + infinitif* : *Je participe pour aider*. Avec deux sujets différents, *pour que / afin que + subjonctif* sont corrects : *Je participe pour que les enfants puissent apprendre*."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md"
+      ],
+      "reason": "Correct OFAJ creation instrument/date.",
+      "references": [
+        "https://www.ofaj.org/ressources/accord-1963"
+      ],
+      "before": "a été créé par le **traité de l'Élysée**, signé le 22 janvier 1963 par la France et l'Allemagne pour rapprocher les deux peuples après la guerre.",
+      "after": "a été créé par l'**accord du 5 juillet 1963**, dans le prolongement du traité de l'Élysée signé le 22 janvier 1963 pour rapprocher les deux peuples après la guerre."
+    },
+    {
+      "paths": [
+        "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md"
+      ],
+      "reason": "Remove universal eligibility/duration/grant promises from heterogeneous mobility programmes.",
+      "references": [],
+      "before": "| Programme | Pour qui ? | Durée | Soutien financier |\n|-----------|------------|-------|-------------------|\n| Erasmus+ | élèves et étudiant·e·s (dès le secondaire) | 2 à 12 mois | bourse mensuelle selon le pays |\n| OFAJ / DFJW | jeunes de 13 à 30 ans (échanges France–Allemagne) | 2 semaines à 12 mois | aide au voyage et au séjour |\n| Service civique | jeunes de 16 à 25 ans | 6 à 12 mois | indemnité mensuelle |\n\n",
+      "after": "| Cadre | Exemples de public et d'activité | Durée et financement |\n|---|---|---|\n| Erasmus+ | Mobilités scolaires, étudiantes et de formation, selon l'action | Variables selon l'action et le projet; vérifier l'offre de l'établissement et le guide officiel. |\n| OFAJ / DFJW | Rencontres et échanges franco-allemands, selon le programme | Conditions d'âge, durée et aides propres à chaque programme. |\n| Service civique | Missions d'engagement volontaire, selon les conditions du dispositif | Consulter l'offre et le site officiel pour l'âge, la durée et l'indemnisation applicables. |\n\nCe tableau situe trois cadres; il ne constitue pas une liste de droits ou de financements garantis. Pour les exemples de l'exercice, le choix désigne une piste à vérifier, pas une admission certaine.\n\n"
+    }
+  ]
+}

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 12
 slug: "bilan-progres-7e-e"
 bildungsplan:
-  - "3.1.3.4 Sprechen — monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
+- "3.1.3.4 Sprechen — monologisches Sprechen"
+- "3.1.3.5 Schreiben"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-progres-7e-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-progres-7e-e.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit12_bilan-progres-7e-e.html"
+- "/track_e_kl07/units/unit12_bilan-progres-7e-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.PROD.overall-oral-production.01
-    - A1.INT.information-exchange.02
-    - A1.INT.online-conversation-and-discussion.02
-    - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.creative-writing.01
+  - A1.PROD.overall-oral-production.01
+  - A1.INT.information-exchange.02
+  - A1.INT.online-conversation-and-discussion.02
+  - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit12_bilan-progres-7e-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-progres-7e-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit12_bilan-progres-7e-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,8 +102,7 @@ Dernière semaine de juin. Dans la salle 214, Mme Devos ferme son cahier et sour
 2. Qu'a fait Léa cette année ?
 3. Quel est le projet de Rayan pour la 8e ? Quel temps utilise-t-il ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant de commencer votre bilan, réveillez vos souvenirs de l'année.
 
 - Quelle unité de 7e avez-vous préférée ? Pourquoi ?
@@ -79,8 +110,7 @@ Avant de commencer votre bilan, réveillez vos souvenirs de l'année.
 - Nommez **une région ou un pays francophone** découvert cette année.
 - Qu'aimeriez-vous améliorer en 8e ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du bilan
 
 | Français | Exemple | Deutsch |
@@ -119,8 +149,7 @@ Placez-les en début de phrase, suivis d'une virgule.
 
 En Europe, on décrit souvent le niveau en langue avec le **Cadre européen commun de référence pour les langues (CECRL)**. Élaboré par le Conseil de l'Europe et publié en 2001, il distingue **six niveaux**, du plus élémentaire au plus avancé : A1, A2 (utilisateur élémentaire), B1, B2 (utilisateur indépendant), puis C1 et C2 (utilisateur expérimenté). Chaque niveau se décrit par des « descripteurs » qui commencent par *« Je peux… »* — par exemple *« Je peux me présenter et poser des questions simples »*. À la fin de la 7e, beaucoup d'élèves se situent autour du niveau **A1 vers A2** : c'est déjà un vrai bilan à célébrer. *(Source paraphrasée, voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).** Répondez par une phrase complète.
 
 1. Quels deux temps du passé Anouk a-t-elle appris cette année ?
@@ -149,6 +178,7 @@ En Europe, on décrit souvent le niveau en langue avec le **Cadre européen comm
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Elle a appris **le passé composé et l'imparfait**.
 2. **Le Québec** (grâce à sa cousine Inès) et **la Bretagne** (pendant les vacances à Saint-Malo).
@@ -161,9 +191,9 @@ En Europe, on décrit souvent le niveau en langue avec le **Cadre européen comm
 **Ex. 3.** *D'abord*, j'ai appris à me présenter. *Ensuite*, j'ai découvert le passé composé. *Maintenant*, je sais raconter mon week-end. *L'an prochain*, je vais lire un livre entier.
 
 **Ex. 4.** Réponses libres ; vérifier l'emploi correct du présent et du passé composé, et cinq phrases distinctes.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche — Mon bilan de 7e (au choix : oral ou écrit).**
 
 - **À l'écrit (~150 mots, trois paragraphes) :**
@@ -184,8 +214,7 @@ En Europe, on décrit souvent le niveau en langue avec le **Cadre européen comm
 | Correction de la langue | Passé composé et présent globalement corrects. |
 | Oral (si oral) | Débit régulier, contact visuel, peu de lecture. |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce qui est vrai pour vous.
 
 - [ ] J'utilise correctement le présent, le passé composé et le futur proche.
@@ -194,28 +223,11 @@ Cochez ce qui est vrai pour vous.
 - [ ] Je sais nommer trois acquis concrets de mon année.
 - [ ] Je sais dire une chose que je veux améliorer en 8e.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit12_bilan-progres-7e-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 P.).** Lisez le bilan d'Anouk (texte C) et répondez à quatre questions par des phrases complètes.
-
-**Tâche 2 — Maîtrise de la langue (10 P.).** Complétez six verbes aux trois temps (présent, passé composé, futur proche) dans un court bilan à trous.
-
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.).** Rédigez **votre bilan de 7e** (~150 mots, trois paragraphes, au moins cinq connecteurs).
-
-**Barème.**
-
-| Tâche | Points |
-|-------------------------------|--------|
-| 1. Compréhension écrite | 8 |
-| 2. Maîtrise de la langue | 10 |
-| 3. Expression écrite | 12 |
-| **Total** | **30** |
-
-Répartition indicative de la tâche 3 : contenu 4 P. · structure et connecteurs 3 P. · correction de la langue 5 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

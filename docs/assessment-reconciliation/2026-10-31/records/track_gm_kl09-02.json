@@ -1,0 +1,51 @@
+{
+  "unit": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+  "exam": "content/track_gm_kl09/units/unit02_lettre-de-motivation_exam/index.md",
+  "before_unit_sha256": "8f341dc497d505665f0c4a688c57e991945a152d00068b1b5e9786456b7b44c8",
+  "after_unit_sha256": "72d18d3bff0b69454b58b9df85da2d89e53d331019b80e9799e28491694fb5a7",
+  "before_exam_sha256": "6e654aadb92432bb5b9601b13a2bac6d90a8ce2fbbaa1984b525932ccb569dba",
+  "after_exam_sha256": "0193e24de9d81aefd88170ff55b499854d20353b4d96090180d32da3038345bd",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Actualbookshopletter replaceswrongnewspaperkey; suppliedfiveformalrewrites matchesembeddedgoal and fixes7gaps10score."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "df6ee94a5e9a7df6924395e3d2342a25e30ca704955320f7769365db707cbc01",
+      "after_sha256": "72d18d3bff0b69454b58b9df85da2d89e53d331019b80e9799e28491694fb5a7",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "fba14a6a04e5831e77ccc21df48e0f3983fcc630a788620df35a348af17a2e13",
+      "after_sha256": "cc8e9b7a0a9230f7d2cc5d797c879e3e9b3f82e7b41a457eb722ff8d80ac4b82",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit02_lettre-de-motivation_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "cc8e9b7a0a9230f7d2cc5d797c879e3e9b3f82e7b41a457eb722ff8d80ac4b82",
+      "after_sha256": "6510eaa1b5e66218e58170f3e0031555de06b0c3f62f13f9764410f7f10e238a",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit02_lettre-de-motivation_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl09/units/unit02_lettre-de-motivation_exam/index.md",
+      "before_sha256": "6510eaa1b5e66218e58170f3e0031555de06b0c3f62f13f9764410f7f10e238a",
+      "after_sha256": "0193e24de9d81aefd88170ff55b499854d20353b4d96090180d32da3038345bd",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

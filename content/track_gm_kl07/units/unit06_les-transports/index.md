@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 6
 slug: "les-transports"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.7 Moyens linguistiques — lexique"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - language_awareness
 - listening
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_les-transports.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_les-transports.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit06_les-transports.html"
+- "/track_gm_kl07/units/unit06_les-transports.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.LING.phonological-control.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.reading-for-orientation.01
-    - A1.LING.general-linguistic-range.01
-    - A1.INT.online-conversation-and-discussion.02
+  - A1.LING.phonological-control.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.reading-for-orientation.01
+  - A1.LING.general-linguistic-range.01
+  - A1.INT.online-conversation-and-discussion.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit06_les-transports_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_les-transports-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_les-transports-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -65,14 +97,12 @@ Gare de Strasbourg, 9 h. Léa et Tom cherchent leur train.
 - Que cherchent-ils ?
 - À quelle heure part le train ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Comment venez-vous à l'école : à pied, à vélo, en bus… ?
 - Avez-vous déjà pris le train ? Pour aller où ?
 - Quelle est la différence entre le **bus**, le **tram** et le **métro** ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand |
@@ -114,8 +144,7 @@ Gare de Strasbourg, 9 h. Léa et Tom cherchent leur train.
 
 Le **TGV** (*Train à Grande Vitesse*) est le service ferroviaire à grande vitesse de la France, exploité par la SNCF. La première ligne à grande vitesse, entre Paris et Lyon, a été mise en service en 1981 ; depuis, le réseau s'est étendu et relie de nombreuses villes françaises ainsi que des pays voisins. Le tramway, lui, a fait son retour dans les villes françaises à partir des années 1980 (par exemple à Nantes en 1985). *(Faits paraphrasés d'articles Wikipédia, licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension orale (annonce de gare).** Écoutez / lisez, puis répondez par **vrai** ou **faux**.
 
 > *« Mesdames et messieurs, votre attention s'il vous plaît. Le TGV n° 9572 à destination de Paris-Est, départ neuf heures vingt-deux, partira voie quatre. L'Intercités n° 1640 à destination de Bâle, départ neuf heures vingt-six, partira voie six. Merci de votre attention. »*
@@ -153,6 +182,7 @@ Le **TGV** (*Train à Grande Vitesse*) est le service ferroviaire à grande vite
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) vrai · 2) faux (Paris) · 3) vrai · 4) vrai.
 
 **Ex. 2.** 1–b · 2–a · 3–d · 4–c.
@@ -160,9 +190,9 @@ Le **TGV** (*Train à Grande Vitesse*) est le service ferroviaire à grande vite
 **Ex. 3.** 1) à · 2) en · 3) en · 4) à · 5) en.
 
 **Ex. 4.** b) → d) → c) → a).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — au guichet (jeu de rôle, à deux, ~8 répliques).**
 L'élève A est le/la client·e, l'élève B le/la vendeur·euse. Achetez un billet : destination, aller simple / aller-retour, prix, voie. Terminez en demandant le chemin vers la voie. Employez **au moins deux fois** *en / à*.
 
@@ -176,25 +206,18 @@ L'élève A est le/la client·e, l'élève B le/la vendeur·euse. Achetez un bil
 | Fluidité et prononciation | 1 |
 | **Total** | **10** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je nomme au moins 8 moyens de transport.
 - [ ] J'utilise *en* / *à* correctement.
 - [ ] Je comprends une annonce de gare.
 - [ ] Je demande et j'indique un chemin.
 - [ ] J'achète un billet au guichet.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau M.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit06_les-transports_exam" >}}).
 
-- **Tâche 1 — Compréhension orale (10 P.).** Une annonce de gare et un court dialogue au guichet ; 6 questions (vrai/faux + questions ouvertes).
-- **Tâche 2 — Vocabulaire (12 P.).** Traduire 8 moyens de transport et 4 mots de la gare (voie, quai, billet, aller-retour).
-- **Tâche 3 — Mini-production écrite (8 P.).** Décrivez votre trajet école-maison (~60 mots) avec *en / à*.
-
-**Total : 30 P.** — Barème indicatif : 30–27 = très bien · 26–21 = bien · 20–15 = satisfaisant · 14–9 = passable · < 9 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 15' · Produire 10' · Réfléchir 2' · Aperçu / devoirs 2'.
 

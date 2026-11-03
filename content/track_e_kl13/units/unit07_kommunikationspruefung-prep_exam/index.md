@@ -23,74 +23,78 @@ curriculum:
     - B2.LING.grammatical-accuracy.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 15
+assessment_scoring: points-only
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d'entraînement réconcilié avec les supports de l'unité. Ce n'est ni un sujet officiel ni une certification de niveau. Les situations originales sont des scénarios pédagogiques; les références littéraires conservent leur attribution. Les durées et barèmes proposés restent à éprouver en classe. La validation pédagogique et linguistique reste en attente.
 
-Lisez le plan-modèle Camus (Unité 7, texte C). Répondez :
+Durée indicative : 15 minutes, selon les phases précisées ci-dessous.
 
-1. Quels 2 livres de 1942 sont cités ?
-2. Quelle est la conclusion sur Sisyphe ?
-3. Pourquoi Meursault est-il condamné selon Anouk ?
-4. Quelle citation de *L'Homme révolté* ?
-5. Quelle est la chute du monologue ?
+## Support
 
-### Tâche 2 — Stratégies anti-stress (8 points)
+### Texte-modèle — un plan de monologue (5 min) sur *la francophonie*
 
-Reliez chaque stratégie à son effet :
+> **Sujet : « La francophonie, une communauté au-delà des frontières. »**
+>
+> **Introduction (env. 45 s).** Le français n'est pas seulement la langue d'un pays, mais celle de dizaines d'États répartis sur cinq continents. Je voudrais montrer que la francophonie est à la fois une réalité linguistique et un projet culturel. Je traiterai d'abord ce qu'elle recouvre, puis ce qu'elle apporte, enfin ses limites.
+>
+> **I. Une réalité linguistique (env. 1 min 30).** On parle français en Europe, en Afrique, en Amérique du Nord et ailleurs. De plus, le nombre de locuteurs continue de croître, notamment sur le continent africain. Le français est ainsi une langue de communication partagée par des populations très diverses.
+>
+> **II. Un projet culturel et politique (env. 1 min 30).** Par ailleurs, des institutions réunissent ces pays autour d'une langue commune afin de favoriser les échanges éducatifs et culturels. Ainsi, la francophonie devient un espace de coopération, et pas seulement une carte de langues.
+>
+> **III. Des limites à ne pas oublier (env. 1 min).** Cependant, il faut nuancer. La francophonie porte aussi l'héritage complexe de la colonisation, et tous les locuteurs n'ont pas le même rapport à cette langue. En revanche, beaucoup se la réapproprient dans la littérature ou la musique.
+>
+> **Conclusion (env. 30 s).** En somme, la francophonie est une communauté vivante, traversée de tensions mais riche de sa diversité. Voilà ce que je voulais présenter. Merci de votre attention.
 
-- respiration 4-7-8 · cartes A6 · pause naturelle · ancrage
- corporel · reformulation · sourire
+## Tâches et barème
 
-(Effets : calme physiologique · support visuel · combat la
-panique · projette voix · vérifie compréhension · détend
-visage.)
+**Épreuve communicative — Niveau E (30 points).**
 
-### Tâche 3 — Plan de monologue (12 points)
+- **Phase 1 — Monologue suivi (15 P.) :** environ 5 minutes. Vous présentez un sujet préparé, avec introduction, parties articulées et conclusion.
+- **Phase 2 — Entretien (15 P.) :** environ 10 minutes. Vous répondez aux questions des examinateurs, développez, nuancez et défendez votre point de vue.
 
-Préparez **votre plan de monologue 5 min** sur un sujet
-au choix (Camus / Senghor / Slimani / Despentes /
-francophonie). Structure I-II-III + 4 citations + 1 chute
-+ 5 cartes mémoire.
+**Barème.**
 
-## Notation
-
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Stratégies | 8 |
-| Tâche 3 — Plan de monologue | 12 |
+| Critère | Points |
+|---|---|
+| Structure et contenu du monologue | 8 |
+| Langue (lexique, grammaire, connecteurs) — monologue | 7 |
+| Réactivité et pertinence des réponses — entretien | 8 |
+| Langue et fluidité — entretien | 7 |
 | **Total** | **30** |
 
-## Solutions
+**Sujet proposé.** « La francophonie, une communauté au-delà des frontières. » Préparez une fiche de mots-clés et deux exemples à partir du support. Vous pouvez choisir un autre sujet seulement avec un dossier validé avant l'épreuve. Le modèle fourni est un canevas à développer, pas une prestation chronométrée ni un texte à réciter. Aucun nombre de citations n'est imposé.
 
-**Tâche 1.** 1) *L'Étranger* + *Le Mythe de Sisyphe*. 2)
-*« Il faut imaginer Sisyphe heureux. »* 3) Pour n'avoir
-pas pleuré à l'enterrement (en plus du meurtre). 4) *« Je
-me révolte, donc nous sommes. »* 5) *« Je laisse Sisyphe au
-bas de la montagne. On retrouve toujours son fardeau. »*
+**Entretien.** L'examinateur demande au moins une précision, un exemple et une réponse à une objection, puis une relance imprévue. Les deux phases sont observées et notées séparément; un plan écrit ne vaut pas prestation orale.
 
-**Tâche 2.** Réponses libres (associations).
+## Corrigé et observation
 
-**Tâche 3.** Réponses libres. Critères : plan I-II-III · 4
-citations · 1 chute · 5 cartes mémoire.
+**Total : 30 points.**
 
----
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+**Monologue 15.** Structure/contenu 8 : annonce du sujet et organisation 2; développement et exemples 4; conclusion nuancée 2. Langue 7 : précision lexicale 3; syntaxe et connecteurs 4. Ne pas compter la répétition du modèle comme preuve de développement autonome.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+**Entretien 15.** Réactivité/pertinence 8 : répondre effectivement 3; préciser/illustrer 3; nuancer face à une objection 2. Langue/fluidité 7 : intelligibilité et continuité 4; lexique/constructions 3. Noter un exemple réel par critère.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 7*
+**Relances possibles, réservées à l'examinateur.** « Quel exemple rend votre première idée concrète ? » « Une norme commune efface-t-elle forcément les différences ? » « Comment distinguez-vous coopération et uniformité ? » « Votre conclusion changerait-elle dans une autre situation ? » Les réponses ne sont pas uniques; évaluer argumentation et écoute, sans exiger une citation absente.
+
+{{< /details >}}
+
+## Sources
+
+- Francophonie — Wikipédia (contributeurs), consulté le 21 juillet 2026, <https://fr.wikipedia.org/wiki/Francophonie>, licence CC BY-SA 4.0.
+- Organisation internationale de la Francophonie — Wikipédia (contributeurs), consulté le 21 juillet 2026, <https://fr.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie>, licence CC BY-SA 4.0.
+- Trac — Wikipédia (contributeurs), consulté le 21 juillet 2026, <https://fr.wikipedia.org/wiki/Trac>, licence CC BY-SA 4.0.
+
+## Provenance
+
+Support : unité correspondante, section(s) Texte-modèle. Les deux versions antérieures et les décisions sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. La reprise d’un texte connu est un entraînement; une épreuve de transfert indépendante demande un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

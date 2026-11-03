@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 5
 slug: "amis-et-conflits-e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_interaction
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_amis-et-conflits-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_amis-et-conflits-e.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit05_amis-et-conflits-e.html"
+- "/track_e_kl07/units/unit05_amis-et-conflits-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.interviewing-and-being-interviewed.01
-    - A1.PROD.compensating.01
-    - A1.INT.correspondence.03
-    - A1.PROD.creative-writing.01
-    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  - A1.INT.interviewing-and-being-interviewed.01
+  - A1.PROD.compensating.01
+  - A1.INT.correspondence.03
+  - A1.PROD.creative-writing.01
+  - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit05_amis-et-conflits-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 25
+  skills:
+  - speaking_interaction
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_amis-et-conflits-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit05_amis-et-conflits-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,8 +100,7 @@ Léa et Karim sont amis depuis l'école primaire. Samedi, ils devaient aller au 
 - Karim reconnaît-il son erreur ? À quel moment ?
 - Comment propose-t-il de se réconcilier ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez à l'oral, à deux :
 
 - Avez-vous un(e) meilleur(e) ami(e) ? Depuis quand ?
@@ -78,8 +109,7 @@ Répondez à l'oral, à deux :
 
 Notez au tableau **trois mots** qui vous viennent à l'esprit quand vous pensez au mot « ami ».
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — sentiments et conflits
 
 | Français | Exemple | Aide (allemand) |
@@ -132,8 +162,7 @@ Notez au tableau **trois mots** qui vous viennent à l'esprit quand vous pensez 
 
 En France comme ailleurs, beaucoup d'établissements scolaires proposent la **médiation par les pairs** : des élèves formés aident d'autres élèves à dialoguer après une dispute, sans juger ni punir. L'idée est d'écouter chacun et de chercher une solution ensemble. Cette approche s'inspire souvent de la **Communication Non Violente** développée par le psychologue Marshall Rosenberg, qui propose de décrire les faits, d'exprimer ses sentiments, de nommer ses besoins, puis de formuler une demande claire — plutôt que d'accuser l'autre. *(Faits paraphrasés d'après Wikipédia, CC BY-SA ; voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (situation de départ + texte C).**
 
 1. Qu'est-ce que Karim avait promis à Léa ?
@@ -163,6 +192,7 @@ En France comme ailleurs, beaucoup d'établissements scolaires proposent la **m�
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) De venir au cinéma samedi. 2) Sa petite sœur était malade et il devait la garder. 3) La déception (elle était déçue), puis la compréhension. 4) Ils se réconcilient : Léa invite Karim au café le lendemain.
 
 **Ex. 2.** 1) inquiets · 2) heureuse · 3) déçu·e · 4) fâché·e.
@@ -174,9 +204,9 @@ En France comme ailleurs, beaucoup d'établissements scolaires proposent la **m�
 {{< callout type="tip" >}}
 **Différenciation.** **(G)** Ex. 2 et 3 avec la banque de mots affichée ; une réponse par item suffit. **(M)** tous les exercices sans aide visible. **(E)** pour l'Ex. 4, rédigez en plus une phrase qui justifie votre opinion avec *parce que…*.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Jeu de rôle (oral, à deux — environ 3 min).**
 
 Vous vous êtes disputé(e)s avec un(e) ami(e) (rendez-vous manqué, objet cassé, secret révélé…). Jouez la scène de **réconciliation** :
@@ -196,8 +226,7 @@ Employez au moins **3 sentiments**, **2 pronoms COD** et **1 expression d'opinio
 - **Interaction** : on s'écoute, on réagit, débit fluide — /2
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire :
 
 - [ ] Je nomme au moins 6 sentiments.
@@ -206,21 +235,11 @@ Cochez ce que vous savez faire :
 - [ ] Je participe à un dialogue pour résoudre un conflit.
 - [ ] J'écris un court message de réconciliation.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit05_amis-et-conflits-e_exam" >}}).
 
-**Tâche 1 — Interaction orale (dialogue) (12 P.).** À deux, jouez une scène de réconciliation à partir d'une situation tirée au sort (rendez-vous manqué / dispute pour un prêt / malentendu). Vous devez : nommer le conflit, exprimer **2 sentiments**, utiliser **2 pronoms COD** et proposer **une solution**.
-
-*Barème :* réalisation de la tâche 4 · richesse du vocabulaire 3 · correction grammaticale 3 · interaction et fluidité 2.
-
-**Tâche 2 — Expression écrite (13 P.).** Rédigez un **message de réconciliation** (~120 mots) à un(e) ami(e) : rappelez le conflit, exprimez **2 sentiments**, proposez **une action concrète** et employez **au moins 2 pronoms COD**.
-
-*Barème :* contenu et cohérence 5 · vocabulaire des sentiments/opinion 4 · grammaire (COD, temps) 4.
-
-**Total : 25 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min).** Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Consignes / aperçu 2'.
 

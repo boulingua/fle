@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 6
 slug: "podcasts-en-francais-e"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
 skills_focus:
 - listening
 presentation:
@@ -18,22 +18,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_podcasts-en-francais-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_podcasts-en-francais-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit06_podcasts-en-francais-e.html"
+- "/track_e_kl09/units/unit06_podcasts-en-francais-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.reading-instructions.04
-    - A2.INT.correspondence.04
-    - A2.INT.overall-written-interaction.01
-    - A2.MED.note-taking.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.reading-instructions.04
+  - A2.INT.correspondence.04
+  - A2.INT.overall-written-interaction.01
+  - A2.MED.note-taking.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit06_podcasts-en-francais-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_podcasts-en-francais-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_podcasts-en-francais-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -64,15 +96,13 @@ Léa et Malik attendent le bus après les cours.
 2. À quel moment de la journée écoutent-ils ?
 3. Que fait Léa pour ne pas tout oublier ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Écoutez-vous des podcasts ? Lesquels, et en quelle langue ?
 - Le mot *podcast* : d'où vient-il, à votre avis ?
 - À quels moments écoute-t-on un podcast plutôt qu'on ne regarde une vidéo (transports, sport, avant de dormir) ?
 - Complétez le champ lexical au tableau : *écouter, un épisode, s'abonner, une émission, la voix…*
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du podcast
 
 | Français | Genre / exemple | Aide (allemand) |
@@ -115,8 +145,7 @@ Ce qui change :
 
 Le mot *podcast* est né en anglais au début des années 2000. C'est un mot-valise formé à partir de *iPod* (le baladeur d'Apple) et de *broadcast* (« diffuser »). Il aurait été proposé en 2004 par un journaliste britannique dans un article de presse, à un moment où l'on cherchait un nom pour ces émissions audio téléchargeables. Dans les pays francophones, on emploie souvent le mot *podcast*, mais l'Office québécois de la langue française recommande le terme *baladodiffusion* (ou *balado*), construit sur *baladeur*. (Source paraphrasée : Wikipédia, « Podcasting », CC BY-SA.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension à l'écoute (texte C, lu par l'enseignant·e).** Relevez les informations pour chaque question :
 
 1. **Qui** est le personnage principal ?
@@ -144,6 +173,7 @@ c) Léa ajoute : « Je note trois mots-clés. » → Léa ajoute qu'elle ______.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Un archéologue britannique. 2) Il cherche une tombe oubliée. 3) En Égypte, dans la Vallée des Rois. 4) En 1922, au mois de novembre. 5) La tombe est restée fermée plus de trois mille ans ; la découverte fait le tour du monde. 6) On dégage une marche en pierre, on creuse, puis on aperçoit des objets par un petit trou.
 
 **Ex. 2.** a) un extrait — b) un épisode — c) s'abonner — d) l'animatrice.
@@ -151,9 +181,9 @@ c) Léa ajoute : « Je note trois mots-clés. » → Léa ajoute qu'elle ______.
 **Ex. 3.** a) … qu'il voit des merveilles. b) … que la tombe est restée fermée. c) … qu'elle note trois mots-clés.
 
 **Ex. 4.** Réponses variables. Exemples de mots-clés acceptés : *Égypte, 1922, archéologue, tombe, marche, merveilles.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, environ 140 mots).**
 
 Écoutez (ou lisez) un autre court épisode de podcast fourni par l'enseignant·e, puis rédigez un **résumé** :
@@ -171,34 +201,18 @@ c) Léa ajoute : « Je note trois mots-clés. » → Léa ajoute qu'elle ______.
 | Opinion justifiée | une phrase avec « parce que » | 3 |
 | Langue et longueur | ~140 mots, clairs et corrects | 3 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends l'essentiel d'un court épisode de podcast en français.
 - [ ] Je prends des notes courtes en suivant les six questions.
 - [ ] Je rédige un résumé d'environ 140 mots sans recopier.
 - [ ] J'emploie « il/elle dit que… » pour rapporter un propos.
 - [ ] Je sais dire quel podcast je préfère et pourquoi.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (compréhension orale et audiovisuelle) — 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit06_podcasts-en-francais-e_exam" >}}).
 
-**Tâche 1 — Compréhension à l'écoute (12 points).** L'enseignant·e lit (ou diffuse) un extrait de podcast. Répondez aux six questions (qui / quoi / où / quand / pourquoi / comment), 2 points par réponse.
-
-**Tâche 2 — Vocabulaire du podcast (6 points).** Complétez ou associez six termes de l'unité (épisode, animateur·rice, s'abonner, extrait, transcription, résumer).
-
-**Tâche 3 — Expression écrite (12 points).** Rédigez le résumé d'un autre épisode (~140 mots) avec une phrase d'opinion et un verbe de discours rapporté.
-
-**Barème :** Tâche 1 = 12 P. · Tâche 2 = 6 P. · Tâche 3 = 12 P. · **Total : 30 P.**
-
-| Note | Points |
-|------|-----------|
-| très bien | 27–30 |
-| bien | 22–26 |
-| satisfaisant | 16–21 |
-| passable | 10–15 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :** Activer 5' · Apporter 12' · S'entraîner 14' · Produire 11' · Réfléchir 3'.
 

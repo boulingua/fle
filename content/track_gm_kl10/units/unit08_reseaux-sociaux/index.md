@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 8
 slug: "reseaux-sociaux"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_reseaux-sociaux.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_reseaux-sociaux.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit08_reseaux-sociaux.html"
+- "/track_gm_kl10/units/unit08_reseaux-sociaux.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.obtaining-goods-and-services.07
-    - B1.REC.overall-oral-comprehension.02
-    - B1.INT.formal-discussion.01
-    - B1.REC.reading-as-a-leisure-activity.01
-    - B1.MED.explaining-data.03
+  - B1.INT.obtaining-goods-and-services.07
+  - B1.REC.overall-oral-comprehension.02
+  - B1.INT.formal-discussion.01
+  - B1.REC.reading-as-a-leisure-activity.01
+  - B1.MED.explaining-data.03
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit08_reseaux-sociaux_exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_reseaux-sociaux-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit08_reseaux-sociaux-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,8 +102,7 @@ curriculum:
 - Postez-vous plutôt des moments « réels » ou « choisis » ?
 - Que veut dire Léa avec « une vie parfaite qui n'existe pas » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez d'abord seul·e, puis comparez avec votre voisin·e.
 
 - Combien de temps passez-vous sur les réseaux chaque jour ? Est-ce beaucoup ?
@@ -79,8 +110,7 @@ Répondez d'abord seul·e, puis comparez avec votre voisin·e.
 - Avez-vous déjà ressenti la **FOMO** (la peur de rater quelque chose) ?
 - Pensez-vous montrer votre vraie vie ou une version idéalisée de vous-même ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — les réseaux et l'identité en ligne
 
 | Français | Explication / Deutsch |
@@ -120,8 +150,7 @@ Pour nuancer : *à mon avis · d'après moi · c'est vrai, mais… · tu as rais
 
 L'expression **« bulle de filtre »** a été popularisée par le militant américain Eli Pariser vers 2011. L'idée : comme les plateformes sélectionnent les contenus selon nos clics passés, chaque personne finit par voir surtout ce qui confirme ses goûts et ses opinions. On s'informe alors dans une sorte de « bulle » où les points de vue différents apparaissent moins. Cela ne rend pas les réseaux « mauvais », mais invite à chercher volontairement des sources variées. *(Paraphrasé d'après l'article « Bulle de filtres », Wikipédia en français, CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte B).** Vrai ou faux ? Justifiez avec le texte.
 
 1. Inès regarde son téléphone dès le réveil.
@@ -158,6 +187,7 @@ d) Je ne pense pas que ce (est / soit) dangereux pour tout le monde.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Vrai (« ouvre son téléphone avant même de se lever »). 2) Faux — elle lui explique qu'elle compare sa vraie vie à une vitrine, elle ne conseille pas de partir. 3) Faux — « ce sont ses amies les plus proches qui réagissent », « c'est reposant ». 4) Faux — « Je n'ai pas quitté les réseaux […] j'ai juste changé ma façon de les utiliser. »
 
 **Ex. 2.** a) filtre · b) algorithme · c) comparaison · d) déconnexion · e) bulle de filtre.
@@ -165,9 +195,9 @@ d) Je ne pense pas que ce (est / soit) dangereux pour tout le monde.
 **Ex. 3.** a) sont (indicatif). b) change → *je ne crois pas que ce filtre **change** grand-chose* (subjonctif ; forme identique à l'indicatif pour ce verbe). c) as (indicatif après « je trouve que »). d) soit (subjonctif après « je ne pense pas que »).
 
 **Ex. 4.** Réponses libres. Exemples : « Tu as raison que certaines photos sont trop retouchées, cependant je ne pense pas que ce soit toujours un mensonge. » · « Je comprends, sauf que beaucoup d'amitiés existent aussi sans écran. »
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche — expression orale, interaction (par deux, ~10-12 répliques).**
 
 Sujet : *« Faut-il rendre obligatoire la mention "image retouchée" sur les photos publiées par les influenceurs ? »*
@@ -185,8 +215,7 @@ Sujet : *« Faut-il rendre obligatoire la mention "image retouchée" sur les pho
 | Langue | expressions d'opinion (indic./subj.), vocabulaire de l'unité |
 | Fluidité et prononciation | débit compréhensible, peu de blocages |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez déjà faire.
 
 - [ ] Je comprends l'essentiel d'un article court sur les réseaux.
@@ -195,19 +224,11 @@ Cochez ce que vous savez déjà faire.
 - [ ] Je réagis à mon partenaire : accord, désaccord, nuance.
 - [ ] Je présente un avis équilibré (pour ET contre).
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit »), Niveau M — 30 points.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit08_reseaux-sociaux_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 P.).** Lisez un article court sur les usages des réseaux (fourni par l'enseignant·e) et répondez à 5 questions : idée principale, deux détails, un mot expliqué en contexte, une opinion de l'auteur.
-
-**Tâche 2 — Vocabulaire (6 P.).** Reliez 6 termes de l'unité à leur définition.
-
-**Tâche 3 — Interaction guidée (12 P.).** À partir d'une affirmation (« Les réseaux nuisent au bien-être des jeunes »), rédigez un mini-dialogue de 8 répliques : 3 arguments pour, 3 contre, 1 question, 1 concession.
-
-**Barème :** T1 = 12 (2 pts / question + 2 pts justification) · T2 = 6 (1 pt / paire) · T3 = 12 (6 contenu, 4 interaction, 2 langue). **Total : 30 P.** Note ≈ points ÷ 3 (échelle 10).
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

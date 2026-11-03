@@ -1,0 +1,93 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 9"
+subtitle: "Internet et vie privée · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 9
+slug: "internet-et-vie-privee-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.MED.collaborating-to-construct-meaning.02
+    - A2.MED.encouraging-conceptual-talk.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'article CNIL (Unité 9, texte C). Répondez :
+
+1. Que veut dire RGPD ?
+2. En quelle année est-il entré en vigueur ?
+3. Combien de droits garantit-il ?
+4. Citez 3 données personnelles mentionnées.
+5. Quelle est la première recommandation de la CNIL ?
+
+### Tâche 2 — Conditionnel pour conseiller (8 points)
+
+Reformulez ces conseils avec un **conditionnel** :
+
+1. *Ne partage pas ton mot de passe.* → Tu ___
+2. *Vérifie tes paramètres.* → Il ___
+3. *Demande l'effacement de tes photos.* → Tu ___
+4. *Lis les conditions générales.* → Tu ___
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez un **dialogue** (~140 mots, 10 répliques) entre vous
+et un·e ami·e sur le partage en ligne : 5 conseils + 3 droits
+RGPD + 1 conditionnel + 1 question ouverte.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Conditionnel | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Règlement général sur la protection des
+données (UE). 2) 2018. 3) 5. 4) Nom, photo, likes (etc.).
+5) Ne pas partager mot de passe, adresse, numéro.
+
+**Tâche 2.** 1) *Tu devrais ne pas partager …* · 2) *Il
+faudrait que tu vérifies …* · 3) *Tu pourrais demander …* ·
+4) *Tu devrais lire …*
+
+**Tâche 3.** Réponses libres. Critères : 140 mots · 10
+répliques · 5 conseils · 3 droits · 1 conditionnel.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 9*

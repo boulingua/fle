@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl07/units/unit03_mon-quartier-e/index.md",
+  "exam": "content/track_e_kl07/units/unit03_mon-quartier-e_exam/index.md",
+  "before_unit_sha256": "07658220b229272371eacb197f367aaa6dfada3d524408743aa31b9e40280144",
+  "after_unit_sha256": "4d8cf6c7f55adf6385535662c5259405c3f977598f5169618ad87c5251df9eff",
+  "before_exam_sha256": "0c442105b8438bf74e1173be03a46d59a7341adceacf9f0fa18c433b952b85c8",
+  "after_exam_sha256": "d648420feb0917528d80b1f5e30a53830d395375ada1e3a0bc5fec16bdc6ca60",
+  "source_sections": "C",
+  "supplied_source_sha256": "2123f132c3915debf705fdd8dbf3e0341e06ea56e3cf907b12d917c88e931405",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Corrected pharmacy location rather than changing names; sibling vocabulary/writing retained; full letter supplied."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "997243003460b736503535981ea251337c2159f7478ff40f6726837bb3119bc8",
+      "after_sha256": "f32f7c4ab89ec8472c2cef5cec1f91a4202d211b66516af6c931330bebddb10f",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit03_mon-quartier-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "f32f7c4ab89ec8472c2cef5cec1f91a4202d211b66516af6c931330bebddb10f",
+      "after_sha256": "510c25a34fd495f83ee9d456a7040a0efb1e26acdcff875a31a0d63dbe85eb3b",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit03_mon-quartier-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit03_mon-quartier-e_exam/index.md",
+      "before_sha256": "510c25a34fd495f83ee9d456a7040a0efb1e26acdcff875a31a0d63dbe85eb3b",
+      "after_sha256": "d648420feb0917528d80b1f5e30a53830d395375ada1e3a0bc5fec16bdc6ca60",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

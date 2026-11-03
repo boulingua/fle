@@ -23,78 +23,68 @@ curriculum:
     - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 40
 ---
 
-## Devoir surveillé finale — Niveau M, classe 8
+## Modalités
 
-### Tâche unique — Portrait écrit (30 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Écrivez le **portrait** d'une rencontre francophone (réelle ou
-fictive) que vous avez faite cette année — par écrit, en
-personne, en film ou en chanson. Longueur : **120-150 mots**.
+## Support
 
-**Structure obligatoire** (5 parties) :
-
-1. **Présentation** (qui est cette personne ? — présent).
-2. **Comment vous l'avez rencontrée** (quand et comment — passé
- composé).
-3. **Ce qu'elle vous a apporté** (passé composé ou imparfait).
-4. **Une réflexion personnelle** (au présent : *Cela m'a appris
- que · Pour moi · Cette rencontre …*).
-5. **Un projet futur** la concernant (futur simple).
-
-Au moins **4 connecteurs** du cours (D'abord · Ensuite · Puis ·
-Enfin · Pour moi · Cela m'a appris que · Plus tard …).
-
-## Notation
-
-| Critère | Points |
-|---------------------------------------------------------|-------:|
-| Structure (5 parties présentes) | 8 |
-| Trois temps équilibrés (présent + passé composé + futur)| 10 |
-| Vocabulaire + 4 connecteurs minimum | 6 |
-| Sens fidèle et personnel (pas de copie du modèle) | 6 |
-| **Total** | **30** |
-
-barème de notes (« Notenschlüssel ») typique :
-*1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
-
-## Modèle (~140 mots, à comparer mais ne pas copier)
+### C. Modèle de portrait (texte original, ~150 mots)
 
 > **Inès Tremblay, 14 ans, Montréal.**
 >
-> Inès est ma correspondante depuis octobre. Elle est en 2e
-> secondaire à Montréal et joue à l'improvisation théâtrale.
-> Elle vit avec sa famille — sa mère infirmière, son père
-> déménageur, son petit frère hockey.
+> Inès est ma correspondante depuis octobre. Elle est en deuxième secondaire et vit avec sa mère, infirmière, son père, déménageur, et son petit frère Olivier, huit ans, passionné de hockey.
 >
-> D'abord, je l'ai rencontrée par écrit, dès le premier jour de
-> classe 8. Ensuite, on a échangé chaque semaine. Elle m'a
-> appris que *« écœurant »* veut dire *génial* au Québec, et
-> que les mots peuvent retourner leur sens.
+> Je l'ai rencontrée par écrit dès le début de l'année. Elle m'a appris qu'au Québec *« écœurant »* peut vouloir dire *génial*, et elle m'a raconté ses matchs d'improvisation théâtrale, où l'on joue comme sur une patinoire de hockey.
 >
-> Pour moi, Inès est plus qu'une correspondante : elle est la
-> preuve que le français vit autrement de l'autre côté de
-> l'océan. Cela m'a appris que la rencontre par écrit peut être
-> aussi forte qu'en personne.
+> Pour moi, Inès n'est pas seulement une correspondante. Elle est la preuve que le français vit autrement de l'autre côté de l'océan, que les mots peuvent retourner leur sens, et qu'une rencontre par écrit peut être aussi forte qu'en personne.
 >
-> Plus tard, j'irai à Montréal. Je verrai le mont Royal en
-> hiver. Et je rencontrerai Inès, enfin, en personne.
+> Plus tard, j'irai à Montréal. Je verrai le mont Royal sous la neige. Et je rencontrerai Inès, enfin, en personne.
 
----
+## Sujet
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+**Devoir surveillé (« Klassenarbeit ») — Niveau M · finale — 40 P.**
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+**Partie A — Portrait écrit (schreiben, 28 P.).** Rédigez un portrait d'une rencontre francophone (réelle ou fictive) en **120–150 mots**.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 12 · devoir surveillé (« Klassenarbeit ») finale*
+- Structure : présentation · rencontre · apport · réflexion · projet futur — **8 P.**
+- Trois temps en équilibre (présent + passé composé + futur simple) — **10 P.**
+- Vocabulaire et connecteurs (au moins quatre connecteurs du cours) — **6 P.**
+- Sens fidèle et personnel (pas de copier-coller du modèle) — **4 P.**
+
+**Partie B — Présentation orale en continu (sprechen_monolog, 12 P.).** Présentez votre portrait pendant deux minutes.
+
+- Fluidité et débit (production en continu, peu d'hésitations) — **5 P.**
+- Correction des temps à l'oral — **4 P.**
+- Contact avec l'auditoire (pas de lecture mot à mot) — **3 P.**
+
+
+
+## Corrigé
+
+**Total : 40 points.**
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+Partie A : structure 8, temps 10, lexique/connecteurs 6, contenu personnel ou fictif cohérent 4. Le modèle est un appui, pas un texte à recopier. L’imparfait peut compléter les trois temps requis sans être une erreur.
+Partie B : continuité/intelligibilité 5, temps 4, adresse au public 3. Évaluer réellement la présentation, avec fiche de mots-clés. Ne pas pénaliser une hésitation qui ne gêne pas la compréhension. Total 40, écrit 28 et oral 12; le écrit seul de la version parallèle 30 ne remplace pas cet objectif oral.
+
+{{< /details >}}
+
+## Sources
+
+- « Ligue nationale d'improvisation » — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Ligue_nationale_d%27improvisation>, licence CC BY-SA 4.0.
+- France Culture — émissions et portraits (ressource éditoriale, tous droits réservés ; lien de référence) : <https://www.radiofrance.fr/franceculture>
+- France Inter — portraits et entretiens (ressource éditoriale, tous droits réservés ; lien de référence) : <https://www.radiofrance.fr/franceinter>
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

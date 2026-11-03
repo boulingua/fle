@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 5
 slug: "sprachmittlung-de-fr-resume"
 bildungsplan:
-  - "3.1.3.6 Médiation linguistique"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.6 Médiation linguistique"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - mediation
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume.png"
 tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
+- filiere-gm
+- classe-8
+- niveau-m
 aliases:
-  - "/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume.html"
+- "/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.MED.adapting-language.01
-    - A2.MED.processing-text.06
-    - A2.INT.correspondence.01
-    - A2.PLUR.building-on-plurilingual-repertoire.02
-    - A2.PRAG.flexibility.01
+  - A2.MED.adapting-language.01
+  - A2.MED.processing-text.06
+  - A2.INT.correspondence.01
+  - A2.PLUR.building-on-plurilingual-repertoire.02
+  - A2.PRAG.flexibility.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - mediation
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -65,15 +97,13 @@ Léa reçoit un message de sa correspondante allemande, Hanna. Sa cousine Inès,
 - Quelles informations Léa a-t-elle **gardées** ? Lesquelles a-t-elle pu **laisser de côté** ?
 - Pourquoi dit-on qu'une bonne médiation « transmet un pont », pas un « mur de mots » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelle est la différence entre **traduire** un texte et le **résumer** ?
 - Quand, dans la vie réelle, doit-on expliquer à quelqu'un ce qu'un texte dans une autre langue veut dire ?
 - Selon vous, quelles sont les **trois qualités** d'un bon résumé ?
 - Quels mots interrogatifs vous aident à repérer l'essentiel ? *(qui ? quoi ? où ? quand ? combien ? pourquoi ?)*
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la médiation
 
 | Français | Allemand | Fonction |
@@ -110,8 +140,7 @@ Trois réflexes de médiation :
 **L'OFAJ, le pont des jeunes.** Les échanges franco-allemands ne datent pas d'hier. L'**Office franco-allemand pour la jeunesse** (OFAJ) a été créé par un accord du 5 juillet 1963, dans le prolongement du traité de l'Élysée signé le 22 janvier 1963 par Charles de Gaulle et Konrad Adenauer. Sa mission : rapprocher les jeunes des deux pays et favoriser leur compréhension mutuelle. Depuis, l'OFAJ a soutenu la rencontre de plusieurs millions de jeunes Français et Allemands. *(D'après Wikipédia, CC BY-SA — voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Repérer les W-Fragen.** À partir du texte C, notez brièvement (en français) :
 
 - Qui ? → ____________________
@@ -145,6 +174,7 @@ Trois réflexes de médiation :
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 - Qui ? → 24 élèves d'une école de Karlsruhe + l'enseignante, Madame Renault.
 - Où ? → dans un collège à Lille.
@@ -159,9 +189,9 @@ Trois réflexes de médiation :
 **Exercice 3.** 1) *Il s'agit* · 2) *D'après le texte / Selon le texte* · 3) *L'école envisage / projette de*.
 
 **Exercice 4.** On barre **a)** (le nombre exact d'élèves) et **c)** (la date d'inscription) : ce sont des détails. L'essentiel est le sens de l'échange (b, d, e). *(Réponse acceptable : garder a) si l'élève juge le nombre significatif, à condition de le justifier.)*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche de médiation écrite (M, 5 à 6 phrases).**
 
 Votre cousine Inès, à Montréal, ne lit pas l'allemand. Résumez pour elle le texte C **en français**, en cinq à six phrases courtes. Employez **au moins trois** expressions de médiation (partie A). Ne traduisez pas mot à mot.
@@ -177,30 +207,18 @@ Votre cousine Inès, à Montréal, ne lit pas l'allemand. Résumez pour elle le 
 - **Langue** : phrases claires, expressions de médiation employées.
 - **Longueur** : cinq à six phrases, résumé et non recopiage.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue **traduire** et **résumer**.
 - [ ] Je repère l'essentiel d'un texte allemand grâce aux **W-Fragen**.
 - [ ] Je rédige un résumé français **fidèle au sens**, sans mot à mot.
 - [ ] J'emploie au moins **trois** expressions de médiation.
 - [ ] Je garde les **noms propres** et je laisse de côté les détails secondaires.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — médiation linguistique (30 points)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam" >}}).
 
-Vous lisez un court article allemand (~150 mots, fourni par l'enseignant·e). Vous rédigez en **français**, en cinq à sept phrases courtes, un **résumé** des informations principales destiné à un·e ami·e francophone qui ne lit pas l'allemand.
-
-**Barème**
-
-| Critère | Points |
-|---|---|
-| Contenu — idées principales repérées et complètes | 12 |
-| Langue — résumé fluide, expressions de médiation adéquates | 10 |
-| Sens fidèle — pas de contresens, pas de traduction mot à mot | 8 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Minutage (45 min) :** Activer 5' · Apporter (vocabulaire + point de langue + texte + note culturelle) 12' · S'entraîner 15' · Produire 10' · Réfléchir 3'.
 

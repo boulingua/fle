@@ -1,0 +1,72 @@
+{
+  "unit": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
+  "exam": "content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md",
+  "before_unit_sha256": "397a52b85471db67af34802c735f31496c9dcd95f711255efe5ef0be4777c0df",
+  "after_unit_sha256": "2f143d0e8c8ee5718c3b1646b779554837b143860f94ea3d3ca27e1b1a2ce70f",
+  "before_exam_sha256": "253626e395498bcdc0538f7c0b76a8c8462cf12c40538aa34ec208f11f85b067",
+  "after_exam_sha256": "57024d3d8048793f607ae76005fee179097295ae520a317573751b82807c3d83",
+  "source_sections": "B",
+  "source_mode": "learner-reading",
+  "total_points": 40,
+  "skills_observed": [
+    "reading",
+    "writing",
+    "speaking"
+  ],
+  "decisions": [
+    "Retained embeddedfour-skill40point intent but repaired its32pointcriterionlist and missingpostcard; actualSami dialogue supplied; oral remains scored."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "475709b68211d3a6574df20073ad019abdb0aa9b7c62800e8324953904fc7854",
+      "before_sha256": "475709b68211d3a6574df20073ad019abdb0aa9b7c62800e8324953904fc7854",
+      "after_sha256": "8bc943ab9f0f1ca78f073c2a6e08838130b8ea2a7ef930bc9047410fa6da5301",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "5e37cde46b61f3b4ce1fe91117190927d1d9e7ca54df2d10c5d0920786a35a70",
+      "before_sha256": "5e37cde46b61f3b4ce1fe91117190927d1d9e7ca54df2d10c5d0920786a35a70",
+      "after_sha256": "bea5d018a355e2d55e81b944cdcf4a5f13a328f4469a8c5d6fa010874d4e4e6d",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "8bc943ab9f0f1ca78f073c2a6e08838130b8ea2a7ef930bc9047410fa6da5301",
+      "after_sha256": "2f143d0e8c8ee5718c3b1646b779554837b143860f94ea3d3ca27e1b1a2ce70f",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit07_vacances-en-famille/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "bea5d018a355e2d55e81b944cdcf4a5f13a328f4469a8c5d6fa010874d4e4e6d",
+      "after_sha256": "8d4225608d205755fa99fb4a22a6cf97ca843fc3a09627a942f1759b9dcb2d5a",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "8d4225608d205755fa99fb4a22a6cf97ca843fc3a09627a942f1759b9dcb2d5a",
+      "after_sha256": "52a0acb30e2b7bf3482a0ef1cfa530c47595392a0fd380c5c2a4a07acc39f121",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md",
+      "before_sha256": "52a0acb30e2b7bf3482a0ef1cfa530c47595392a0fd380c5c2a4a07acc39f121",
+      "after_sha256": "57024d3d8048793f607ae76005fee179097295ae520a317573751b82807c3d83",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    "The former embedded 8/8/12/12 allocation is explicitly revised to 10/8/12/10: five paired comprehension items now receive 10 points; observed speaking receives 10. Total remains 40; pedagogical weighting approval remains pending."
+  ]
+}

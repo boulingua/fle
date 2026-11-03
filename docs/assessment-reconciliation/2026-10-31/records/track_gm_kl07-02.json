@@ -1,0 +1,74 @@
+{
+  "unit": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
+  "exam": "content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md",
+  "before_unit_sha256": "3affcc7d66928775210c17972edb598a8ce4a0aac8f74e6a06bfaa97337fd460",
+  "after_unit_sha256": "c6d6da5cc4a3b72888333606df41303ea8ad4931af0c94405af327d3cf00fb3b",
+  "before_exam_sha256": "f0868fc899b3cc83ef1ac50c7e8ed80f57297093990696021ebdd09e75b7f037",
+  "after_exam_sha256": "d09a39ddbefa6c34f6a3116605fb0ae0a610bc5bece01717f24e80cf43257d1d",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Preserved coherent grammar and weekend writing; actualLucas source replaces falseLéa trip and corrects on agreement."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "15d2f67b56da07b70f800bbb17821830a93f74c21f279531b846bea1c485f98b",
+      "before_sha256": "15d2f67b56da07b70f800bbb17821830a93f74c21f279531b846bea1c485f98b",
+      "after_sha256": "1a4844cb218b40067879b6333f0b5d8eae42b893dac3857ac7c45dd931f2ea1b",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "6ce3fbd980482445d3eb4773ff5b3ec68cd2afb8bb96ead74783ec985f113eb0",
+      "before_sha256": "6ce3fbd980482445d3eb4773ff5b3ec68cd2afb8bb96ead74783ec985f113eb0",
+      "after_sha256": "9679db75d6141807e9f1c60952e93b1a998d36220ea2ee98ac3a17c48014b0a5",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "1a4844cb218b40067879b6333f0b5d8eae42b893dac3857ac7c45dd931f2ea1b",
+      "after_sha256": "c6d6da5cc4a3b72888333606df41303ea8ad4931af0c94405af327d3cf00fb3b",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9679db75d6141807e9f1c60952e93b1a998d36220ea2ee98ac3a17c48014b0a5",
+      "after_sha256": "c798c9a5fec93fa18dc34d7d761ea234cd425dd63ec1343b18a50c6fc3794df5",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "c798c9a5fec93fa18dc34d7d761ea234cd425dd63ec1343b18a50c6fc3794df5",
+      "after_sha256": "a2523b286330e0046e82e6db9749d7ccf4a424f8638fc5e440dade310bf7e4e3",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a2523b286330e0046e82e6db9749d7ccf4a424f8638fc5e440dade310bf7e4e3",
+      "after_sha256": "24d9deb12c41808c9b4794d16525ee1abc0af8f774abaa62355f5f1bc732668c",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md",
+      "before_sha256": "24d9deb12c41808c9b4794d16525ee1abc0af8f774abaa62355f5f1bc732668c",
+      "after_sha256": "d09a39ddbefa6c34f6a3116605fb0ae0a610bc5bece01717f24e80cf43257d1d",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

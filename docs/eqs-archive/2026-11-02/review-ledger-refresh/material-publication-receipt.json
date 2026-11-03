@@ -1,0 +1,13 @@
+{
+  "plan_sha256": "510b2bde1480d02a33e4f7c3f82c5e36e47c852a0045e957b9d1e57c0b766aa7",
+  "units": 396,
+  "writes": 2778,
+  "pdfs": 1188,
+  "thumbnails": 1188,
+  "source_metadata_updates": 396,
+  "thumbnail_lock_updates": 3,
+  "course_receipts": 3,
+  "backup_root": "/Users/rh/Documents/GitHub/boulingua/.refinement/20261030/remediation/material-corpus-rev2/backups",
+  "assessment_thumbnail_bindings": 120,
+  "verified": true
+}

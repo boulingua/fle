@@ -1,0 +1,50 @@
+{
+  "unit": "content/track_e_kl13/units/unit12_bilan-final-abitur/index.md",
+  "exam": "content/track_e_kl13/units/unit12_bilan-final-abitur_exam/index.md",
+  "before_unit_sha256": "1150d2f9da86f2fd62a9c8cb3332e749a2f5a8f7fb39d569d0fd35428c8f4d15",
+  "after_unit_sha256": "e1934af2ac00b3ed107b905c646bc4e3b3602ca136edb8bc9dbe50dcce79d811",
+  "before_exam_sha256": "710ff7263ff9b25b1f20797082437c60d6558f236e0cf6d844b18f184b2efc82",
+  "after_exam_sha256": "646943afefbff720a79c5d81c968b789f5dfd4bb72d58a2914f9915ae39d8383",
+  "source_sections": [
+    "B"
+  ],
+  "supplied_source_sha256": "c6947ffc9792c516a0d8f86ef2413ab4b3e034d2e744c1e2677977a0bdeb53c1",
+  "source_mode": "learner-reading-and-observed-oral",
+  "total_points": 30,
+  "decisions": [
+    "Preserved18written+12oral bilan withactualAmirmodel; unrelatedfarewellletter/citationquotas archived."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "51772ef3402ece7b9076f269b0c7c145065b6b8a7fe758e7052edd9f74ddd224",
+      "after_sha256": "9478c744807cf315f95b32d60d62b5a29336839e68137d0fc40f8121328ebc12",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit12_bilan-final-abitur_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9478c744807cf315f95b32d60d62b5a29336839e68137d0fc40f8121328ebc12",
+      "after_sha256": "a855b2da65622b09db94b9075c6f1a5e0705e616734ddea8d3b70ef3cab815e9",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl13/units/unit12_bilan-final-abitur_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit12_bilan-final-abitur_exam/index.md",
+      "before_sha256": "a855b2da65622b09db94b9075c6f1a5e0705e616734ddea8d3b70ef3cab815e9",
+      "after_sha256": "646943afefbff720a79c5d81c968b789f5dfd4bb72d58a2914f9915ae39d8383",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

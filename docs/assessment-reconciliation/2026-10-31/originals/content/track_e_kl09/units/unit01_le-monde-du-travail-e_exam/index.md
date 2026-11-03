@@ -1,0 +1,97 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 1"
+subtitle: "Le monde du travail (stage d'orientation au lycée) · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 1
+slug: "le-monde-du-travail-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.INT.information-exchange.01
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le rapport de stage d'Anouk (Unité 1, texte C). Répondez :
+
+1. Où Anouk fait-elle son stage ?
+2. À quelle heure arrive-t-elle ?
+3. Combien de livres classe-t-elle ?
+4. Quel cours observe-t-elle ?
+5. Que dit-elle de sa tutrice à la fin ?
+
+### Tâche 2 — Vocabulaire du travail (8 points)
+
+Reliez chaque mot à sa définition :
+
+- stage · stagiaire · tuteur · patron · collègue · contrat ·
+ rapport · entreprise
+
+(Définitions : période de formation · personne en stage ·
+accompagnateur · chef direct · personne qui travaille avec
+vous · accord écrit · compte rendu · société.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **une journée de stage** (réelle ou imaginaire,
+~150 mots) : 4 étapes (matin, midi, après-midi, soir) +
+**5 connecteurs** + **6 mots du travail** + 1 phrase-bilan.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) À l'Institut français de Karlsruhe. 2) À 9 h.
+3) Environ 40. 4) Cours de FLE pour adultes débutants. 5)
+Grâce à elle, elle comprend mieux le métier de
+bibliothécaire.
+
+**Tâche 2.** stage = formation · stagiaire = personne en
+stage · tuteur = accompagnateur · patron = chef · collègue =
+co-travailleur · contrat = accord · rapport = compte rendu ·
+entreprise = société.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 4 étapes
+· 5 connecteurs · 6 mots du travail.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 1*

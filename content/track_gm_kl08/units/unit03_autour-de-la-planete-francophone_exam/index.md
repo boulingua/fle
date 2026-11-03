@@ -23,64 +23,82 @@ curriculum:
     - A2.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 8
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez les portraits courts de Unité 3 (Sénégal, Suisse,
-Belgique, Maroc, Côte d'Ivoire). Répondez en phrases complètes.
+## Support
 
-1. Quel pays a quatre langues officielles ?
-2. Dans quels domaines utilise-t-on le français au Maroc ?
-3. Qu'est-ce qu'un *locuteur* ?
-4. Pourquoi beaucoup de Sénégalais·es sont-ils bilingues ?
-5. Que veut dire « nouchi » en Côte d'Ivoire ?
+### C. Cinq portraits courts (texte original)
 
-### Tâche 2 — Expression orale (« Sprechen ») monologue (15 points)
+> **Sénégal — Dakar.** Au Sénégal, le français est la langue officielle. Mais à la maison, beaucoup de familles parlent **wolof**. À l'école, l'enseignement se fait en français. De nombreux élèves grandissent donc bilingues : wolof à la maison, français en classe.
 
-Présentez en ~90 secondes un pays francophone (en direct ou
-enregistré). Inclure : localisation · statut du français ·
-mot ou langue locale · raison de visiter.
+> **Suisse — Berne.** La Suisse a quatre langues nationales : allemand, français, italien et romanche. Au niveau fédéral, l'allemand, le français et l'italien sont langues officielles; le romanche l'est aussi dans les rapports avec les personnes de langue romanche. À Genève et à Lausanne, on parle français. Particularité romande : on dit **« septante »** pour 70 et **« nonante »** pour 90.
 
-Critères : Contenu 6 P. · Langue 5 P. · Aussprache 4 P.
+> **Belgique — Bruxelles.** La Belgique a trois langues officielles : néerlandais, français et allemand. Bruxelles est officiellement bilingue (français et néerlandais). Comme en Suisse romande, on y dit **« septante »** et **« nonante »**.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (5 points)
+> **Maroc — Rabat.** L'arabe et l'amazigh sont les langues officielles du Maroc. Le français, lui, reste très présent dans l'administration, le commerce et l'enseignement supérieur. Beaucoup de Marocain·e·s sont bilingues.
 
-Écrivez 3 phrases sur votre rapport au français : pourquoi vous
-l'apprenez · ce qui vous plaît · une difficulté.
+> **Côte d'Ivoire — Yamoussoukro.** En Côte d'Ivoire, le français est la seule langue officielle. À côté, on parle plus de soixante langues locales. Le français ivoirien a même son propre vocabulaire, comme le mot **« enjailler »**, qui veut dire *s'amuser*.
 
-## Notation
+## Sujet
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Expression orale monologue| 15 |
-| Tâche 3 — Expression écrite | 5 |
-| **Total** | **30** |
+**Devoir surveillé (« Klassenarbeit »)**
 
-## Solutions
+**Tâche 1 — Compréhension écrite (10 P.)**
 
-**1.** Suisse. **2.** Enseignement supérieur, administration.
-**3.** Personne qui parle une langue. **4.** Wolof à la maison
-+ français à l'école dès le primaire. **5.** Une variété /
-argot du français de Côte d'Ivoire (avec mots locaux).
+Lisez les cinq portraits courts (partie C) et répondez par des phrases complètes.
 
----
+1. Quel pays présente quatre langues nationales ? (2 P.)
+2. Au Maroc, dans quels domaines le français reste-t-il présent ? (2 P.)
+3. Pourquoi beaucoup d'élèves sénégalais·es sont-ils bilingues ? (2 P.)
+4. Que veut dire le mot ivoirien *« enjailler »* ? (2 P.)
+5. Que signifie être *bilingue* ? (2 P.)
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+**Tâche 2 — Expression orale, production en continu (15 P.)**
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+Présentez à la classe, en direct ou enregistré, un pays francophone (~90 s), en indiquant sa localisation, le statut du français et deux faits du dossier. Barème : Contenu 6 P. · Langue 5 P. · Prononciation 4 P.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 3*
+**Tâche 3 — Prépositions (5 P.)**
+
+Complétez avec *au*, *en* ou *aux* :
+Je voyage ___ Belgique, puis ___ Sénégal ; ensuite je vais ___ Seychelles, ___ Maroc et enfin ___ Suisse.
+
+**Total : 30 P.**
+
+
+
+## Corrigé
+
+**Total : 30 points.**
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+T1.1. Suisse : quatre langues nationales; le romanche a un statut officiel fédéral limité aux rapports avec les personnes de langue romanche (2).2. Deux domaines parmi administration, commerce, enseignement supérieur (1 chacun).3. Wolof à la maison/français à l’école selon le portrait (1+1); toutes les familles ne suivent pas ce schéma.4. S’amuser (2).5. Parler deux langues (2).
+T2. Choisir un des pays du dossier. Contenu 6 : localisation/statut/exemple de langue ou usage; langue 5; intelligibilité 4. Ne pas exiger un fait extérieur non préparé.
+T3.en, au, aux, au, en (1 chacun).
+
+{{< /details >}}
+
+## Sources
+
+- Office fédéral de la culture — Langues (vérification éditoriale du 31 octobre 2026), <https://www.bak.admin.ch/fr/langues>.
+
+
+- **Francophonie** — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/Francophonie>, licence CC BY-SA 4.0.
+- **Organisation internationale de la Francophonie** — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie>, licence CC BY-SA 4.0.
+- **Democratic Republic of the Congo** — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo>, licence CC BY-SA 4.0.
+- **List of countries and territories where French is an official language** — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_French_is_an_official_language>, licence CC BY-SA 4.0.
+- **Organisation internationale de la Francophonie** — site officiel, <https://www.francophonie.org/>. Plateforme sans affiliation ; lien fourni à titre documentaire.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

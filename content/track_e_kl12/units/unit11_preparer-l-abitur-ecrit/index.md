@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 11
 slug: "preparer-l-abitur-ecrit"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_preparer-l-abitur-ecrit.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_preparer-l-abitur-ecrit.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit11_preparer-l-abitur-ecrit.html"
+- "/track_e_kl12/units/unit11_preparer-l-abitur-ecrit.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.sustained-monologue-putting-a-case.01
-    - B2.REC.identifying-cues-and-inferring.01
-    - B2.PROD.overall-oral-production.01
-    - B2.REC.reading-as-a-leisure-activity.03
-    - B2.INT.formal-discussion.01
+  - B2.PROD.sustained-monologue-putting-a-case.01
+  - B2.REC.identifying-cues-and-inferring.01
+  - B2.PROD.overall-oral-production.01
+  - B2.REC.reading-as-a-leisure-activity.03
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 20
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_preparer-l-abitur-ecrit-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit11_preparer-l-abitur-ecrit-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,15 +101,13 @@ Dans la salle d'étude, deux élèves comparent leurs feuilles de brouillon la v
 2. Quelle différence Karim fait-il entre *analyser* et *résumer* ?
 3. Quelle méthode utilise-t-il avant de rédiger ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Combien de temps dure votre épreuve écrite au total ? Comment le répartiriez-vous ?
 - Citez trois **types de textes** que l'on peut rencontrer à l'examen (article de presse, extrait littéraire, tribune d'opinion…).
 - Que signifient les consignes suivantes : *résumer*, *analyser*, *commenter*, *rédiger un texte argumentatif* ?
 - Quand vous relisez une copie, sur quoi portez-vous d'abord votre attention ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire — la boîte à outils de l'examen
 
 | Français | Allemand | Emploi |
@@ -118,8 +149,7 @@ Règle d'or : **un connecteur en tête de paragraphe** signale au correcteur la 
 
 Le **Cadre européen commun de référence pour les langues (CECRL)**, publié par le Conseil de l'Europe, décrit l'apprentissage d'une langue à travers plusieurs activités : la réception (lire, écouter), la production (parler, écrire) et l'interaction. Son volume complémentaire de 2018 a mis en avant la **médiation**, c'est-à-dire la capacité à transmettre un contenu d'une langue ou d'un interlocuteur à un autre. C'est précisément cette compétence que sollicite la partie de « transmission » de l'épreuve écrite. *(Source : article « Cadre européen commun de référence pour les langues », Wikipédia, licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Décoder la consigne (compréhension).** Reliez chaque verbe de consigne à ce qu'il demande.
 
 1. Résumer — a) donner son avis en l'argumentant
@@ -150,6 +180,7 @@ Le **Cadre européen commun de référence pour les langues (CECRL)**, publié p
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1-b · 2-c · 3-a · 4-d.
 
 **Ex. 2.** 1) Dix minutes. 2) D'abord les accords (sujet-verbe, participe passé), puis les temps, enfin la ponctuation. 3) On économise environ vingt minutes de blocage (« panne »).
@@ -157,9 +188,9 @@ Le **Cadre européen commun de référence pour les langues (CECRL)**, publié p
 **Ex. 3.** 1) En effet. 2) cependant. 3) De plus. 4) Pour conclure.
 
 **Ex. 4.** Réponse-modèle : *Introduction* — « Les réseaux sociaux occupent une place croissante dans la vie des jeunes ; menacent-ils vraiment leur goût de la lecture ? » · **§1** captation de l'attention (ex. notifications qui interrompent) · **§2** appauvrissement de la lecture longue (ex. articles survolés) · **§3** nuance : nouveaux formats de lecture (ex. clubs de lecture en ligne, extraits partagés). Les réponses varient ; on valorise idée claire + exemple précis par paragraphe.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche.** Rédigez un **texte argumentatif d'environ 250 mots** sur le sujet suivant : *« Faut-il enseigner la méthode de l'examen ou seulement la matière ? »* Suivez les trois réflexes : lecture active de la consigne, plan de deux minutes, relecture finale.
 
 ### Critères d'évaluation
@@ -173,30 +204,18 @@ Le **Cadre européen commun de référence pour les langues (CECRL)**, publié p
 | Relecture | copie propre, peu d'erreurs d'inattention | 2 |
 | **Total** | | **20** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais nommer les trois parties de l'épreuve écrite.
 - [ ] Je repère les mots-clés d'une consigne avant de répondre.
 - [ ] Je fais un plan avant de rédiger.
 - [ ] J'utilise des connecteurs pour structurer mon texte.
 - [ ] Je garde du temps pour me relire (accords, temps, ponctuation).
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve type — compréhension écrite + expression écrite**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam" >}}).
 
-**Partie A — Compréhension écrite (10 points).** À partir du *Texte de méthode* de la section 2 :
-
-1. Nommez les trois réflexes proposés. *(3 P.)*
-2. Expliquez, en une phrase, l'idée « le temps est votre matière première ». *(3 P.)*
-3. Relevez deux conseils concernant la relecture. *(2 P.)*
-4. Quel est le ton du texte (informatif, injonctif, ironique) ? Justifiez par un mot. *(2 P.)*
-
-**Partie B — Expression écrite (10 points).** Rédigez un texte d'environ 180 mots : *« Un conseil que je donnerais à un·e camarade avant l'épreuve écrite »*. Structure attendue : une introduction, deux conseils argumentés, une conclusion.
-
-**Barème (20 points) :** Partie A = 10 (contenu et précision) · Partie B = 10 (contenu 4, structure 3, langue 3).
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée :** 45 minutes.
 

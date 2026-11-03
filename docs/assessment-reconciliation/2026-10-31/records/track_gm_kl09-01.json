@@ -1,0 +1,56 @@
+{
+  "unit": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+  "exam": "content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md",
+  "before_unit_sha256": "f1b48116be17b7fa6ec8a38f30442ecd10cb0aca516d7eeb51bb464736adb620",
+  "after_unit_sha256": "6082666c96f971f32354ebcf88b824aa48bc3257f5f606afcf907744e61b1129",
+  "before_exam_sha256": "3c05d9acb93702ce6b9fc0de4429587b2f9d53aadb7f0734018db93334a3e00a",
+  "after_exam_sha256": "eabb9b44a05f452c1b12e1f604251886c657a57da157488523ed68dc6c358b57",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Actualstage report supplied; corrected sales versus greeting source drift and explicit two-element comprehension scoring."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "3f62173a24f22a2e9cd83fc5566da2c2eb1f509d42634c6baf956ae92eaa1c58",
+      "before_sha256": "3f62173a24f22a2e9cd83fc5566da2c2eb1f509d42634c6baf956ae92eaa1c58",
+      "after_sha256": "6082666c96f971f32354ebcf88b824aa48bc3257f5f606afcf907744e61b1129",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "f03ff020f56fa9c589a406d87d3639e826cc10d77a4ecd3c963b2373203f94d8",
+      "before_sha256": "f03ff020f56fa9c589a406d87d3639e826cc10d77a4ecd3c963b2373203f94d8",
+      "after_sha256": "9982f84f5278b6db06f287b60c1842dc97f536a48e78836ca86f4977a3e399f4",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9982f84f5278b6db06f287b60c1842dc97f536a48e78836ca86f4977a3e399f4",
+      "after_sha256": "d32318e383cb79c003c9967cd974aeb89d32cb323e8c2e70fa9c71db6e3267cb",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "d32318e383cb79c003c9967cd974aeb89d32cb323e8c2e70fa9c71db6e3267cb",
+      "after_sha256": "c530283a158f1f727e20ed24e7fb4c7432c2987104865cdad3dd6f64ec9f2de4",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md",
+      "before_sha256": "c530283a158f1f727e20ed24e7fb4c7432c2987104865cdad3dd6f64ec9f2de4",
+      "after_sha256": "eabb9b44a05f452c1b12e1f604251886c657a57da157488523ed68dc6c358b57",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

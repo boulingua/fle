@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 2
 slug: "francophonie-postcoloniale"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_francophonie-postcoloniale.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_francophonie-postcoloniale.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit02_francophonie-postcoloniale.html"
+- "/track_e_kl11/units/unit02_francophonie-postcoloniale.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.REC.understanding-announcements-and-instructions.01
-    - B1.REC.watching-tv-film-and-video.01
-    - B1.INT.formal-discussion.01
-    - B1.INT.overall-written-interaction.02
-    - B1.MED.facilitating-pluricultural-space.01
+  - B1.REC.understanding-announcements-and-instructions.01
+  - B1.REC.watching-tv-film-and-video.01
+  - B1.INT.formal-discussion.01
+  - B1.INT.overall-written-interaction.02
+  - B1.MED.facilitating-pluricultural-space.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit02_francophonie-postcoloniale_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_francophonie-postcoloniale-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit02_francophonie-postcoloniale-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,15 +100,13 @@ Dans le hall du lycée, une exposition affiche une grande carte : « Le françai
 2. Quelle question pose Léa à la fin ? Reformulez-la avec vos propres mots.
 3. Que veut dire « se réapproprier » une langue, à votre avis ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez trois pays, hors d'Europe, où le français est langue officielle ou d'usage.
 - Quelle différence faites-vous entre *colonial* et *postcolonial* ?
 - « Une langue appartient à ceux qui la parlent. » Êtes-vous d'accord ? Justifiez en une phrase.
 - Écrire dans la langue de l'ancien colonisateur : trahison, nécessité ou liberté ? Premier avis spontané.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Explication (français simple) | Deutsch |
@@ -119,15 +150,14 @@ Dans le hall du lycée, une exposition affiche une grande carte : « Le françai
 ### D. Note culturelle — la Francophonie et la Négritude (source ouverte)
 
 {{< callout type="note" >}}
-D'après Wikipédia (CC BY-SA), l'**Organisation internationale de la Francophonie** (OIF) a été créée en 1970 et rassemble aujourd'hui environ 88 États et gouvernements membres, associés ou observateurs. Le français compterait plus de 300 millions de locuteurs dans le monde, dont une part importante et croissante se trouve en **Afrique**.
+D'après Wikipédia (CC BY-SA), l'**Organisation internationale de la Francophonie** (OIF) a été créée en 1970 et rassemble des États et gouvernements membres, associés ou observateurs. Dans l'estimation publiée par l'OIF en **2022**, le français comptait environ **321 millions** de locuteurs dans le monde. Ce chiffre daté ne doit pas être présenté comme un décompte actuel.
 
 La réflexion sur langue et identité n'est pas nouvelle : dès les années 1930 à Paris, le mouvement littéraire de la **Négritude** revendique la valeur des cultures noires face au discours colonial. Plus tard, dans les Caraïbes, le courant de la **créolité** met en avant le métissage et les langues créoles. Ces mouvements montrent que la langue française a aussi été un **espace de résistance** et d'affirmation.
 
 *(Faits paraphrasés à partir de sources libres ; voir « Sources ».)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par des phrases complètes.
 
 1. Comment le français est-il souvent arrivé dans les anciennes colonies ?
@@ -152,6 +182,7 @@ c) Il est né au Sénégal. Il écrit en français. *(bien que)*
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Il est souvent arrivé par l'école coloniale, comme langue de l'administration et du pouvoir.
 2. Que la culture de l'autre (des colonisés) serait « inférieure » et celle du colonisateur « supérieure ».
@@ -173,9 +204,9 @@ c) **Bien qu'**il **soit** né au Sénégal, il écrit en français.
 **M (moyen)** : Ex. 1 complet + Ex. 3.
 **E (renforcé)** : tous les exercices + reformuler la conclusion du texte C en une phrase contenant *bien que* + subjonctif.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~250-300 mots) — prise de position argumentée :**
 
 Sujet : *« La langue française, pour les écrivaines et écrivains des anciennes colonies : un héritage subi ou un choix libre ? »*
@@ -197,37 +228,18 @@ Consignes :
 | Position personnelle | avis nuancé et justifié | 3 |
 | **Total** | | **18** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais expliquer pourquoi le français est un héritage « ambivalent ».
 - [ ] J'utilise correctement au moins cinq mots du champ postcolonial.
 - [ ] Je sais exprimer l'opposition et la concession (*pourtant, malgré, bien que* + subjonctif).
 - [ ] Je peux analyser un document et interpréter un chiffre issu d'une source.
 - [ ] Je cite mes sources et je paraphrase au lieu de copier.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve type — compréhension écrite et compétence textuelle/médiatique (Niveau E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit02_francophonie-postcoloniale_exam" >}}).
 
-**Support :** le texte C « Une langue, deux visages » + la note culturelle D.
-
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 P.)**
-Répondez en français, par des phrases complètes :
-1. Résumez en deux phrases le « double visage » de la langue française décrit dans le texte. (4 P.)
-2. Relevez deux éléments qui montrent le passé colonial du français. (2 P.)
-3. Expliquez la phrase : « ils retournent la langue contre les préjugés ». (4 P.)
-
-**Tâche 2 — Compétence textuelle et médiatique (« Text- und Medienkompetenz ») (10 P.)**
-4. À partir de la note D, expliquez le lien entre la Négritude et l'idée de « résistance ». (5 P.)
-5. Analysez le titre « Une langue, deux visages » : quel est l'effet recherché ? (3 P.)
-6. Pourquoi l'auteur du texte cite-t-il des sources ouvertes plutôt que d'affirmer sans preuve ? (2 P.)
-
-**Tâche 3 — Prise de position (« Schreiben ») (10 P.)**
-7. En 120-150 mots, répondez : *une langue peut-elle appartenir à celles et ceux qui se la réapproprient ?* Utilisez deux connecteurs de concession. (10 P.)
-
-**Barème total : 30 P.** — Note E : 27-30 = très bien · 21-26 = bien · 15-20 = satisfaisant · 9-14 = passable · < 9 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 
@@ -246,6 +258,9 @@ Répondez en français, par des phrases complètes :
 **Posture :** la plateforme n'est affiliée à aucune institution ni maison d'édition ; les auteurs et œuvres sont mentionnés à titre de référence, sans citation de textes sous droits.
 
 ## Sources
+
+- OIF — Qui parle français dans le monde, données 2022 (vérifié le 31 octobre 2026), <https://observatoireancien.francophonie.org/qui-parle-francais-dans-le-monde/>.
+
 
 - *Organisation internationale de la Francophonie* — Wikipédia (consulté 2026), <https://fr.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie>, licence CC BY-SA 4.0.
 - *Négritude* — Wikipédia (consulté 2026), <https://fr.wikipedia.org/wiki/N%C3%A9gritude>, licence CC BY-SA 4.0.

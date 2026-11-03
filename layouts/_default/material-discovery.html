@@ -1,0 +1,114 @@
+{{/* Self-hosted discovery: cards first, optional graph on request. */}}
+{{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
+{{ define "content" }}
+{{ $opts := dict
+    "format" "esm"
+    "minify"  true
+    "target"  "es2018"
+    "sourceMap" "linked"
+}}
+{{ $main := resources.Get "js/network/main.js" | js.Build $opts | fingerprint "sha256" }}
+
+<section class="container">
+  <header>
+    <h1 class="title"><a class="title-link" href="{{ .Permalink | safeURL }}">{{ .Title }}</a></h1>
+    {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+  </header>
+
+  {{ partial "render-content.html" . }}
+
+  <div class="network-page" aria-label="Réseau de découverte des matériaux (aperçu)">
+
+    <div class="network-search-row" role="search">
+      <input type="search"
+             class="network-search-input"
+             placeholder="Rechercher (titre, étiquette, niveau)…"
+             aria-label="Rechercher dans les matériaux"
+             autocomplete="off" />
+      <span class="network-search-key" aria-hidden="true" title="Raccourci : /">/</span>
+    </div>
+
+    <div class="network-shell">
+
+      {{/* Filter rail scaffold; populated by assets/js/network/filters.js
+           on DOMContentLoaded. JS reads graph.json.facets and renders four
+           groups (type / topic / course / tags) with live counts. */}}
+      <aside class="network-filters" aria-label="Filtres">
+        <noscript>
+          <p>Cette page de découverte nécessite JavaScript pour les filtres
+          interactifs et le graphe. Toutes les unités restent accessibles
+          via le menu « Matériel ».</p>
+        </noscript>
+      </aside>
+
+      <div class="network-graph-wrap" role="figure"
+           aria-label="Graphe de découverte des matériaux">
+        <div id="network-graph" data-graph-url="{{ "network/graph.json" | relURL }}"
+             data-vendors="{{ slice ("js/vendor/cytoscape.min.js" | relURL) ("js/vendor/layout-base.js" | relURL) ("js/vendor/cose-base.js" | relURL) ("js/vendor/cytoscape-fcose.js" | relURL) | jsonify }}" style="width: 100%; height: 100%;">
+          <div class="network-graph-skeleton" aria-hidden="true"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="network-counter">
+      <span id="network-counter-text"><strong>468</strong> matériaux affichés</span>
+    </div>
+
+    {{/* Card grid hydrated by assets/js/network/list.js. Subscribes to
+         the same store as the graph; hover on either side highlights
+         the other. */}}
+    <ul class="network-cards" id="network-cards" aria-label="Liste des matériaux affichés"></ul>
+
+    {{/* A11y mirror — every material in source order, grouped by
+         course → topic → type. Always present in the DOM; on mobile
+         (<768px) becomes the only navigation surface (the graph is
+         hidden via CSS and the JS short-circuits there). */}}
+    {{/* Build a course-bucketed list of every material-bearing article.
+         .Scratch is the safe Hugo idiom for accumulating into a map of
+         slices (raw `merge`+`append` chokes on dict element type). */}}
+    {{/* a11y mirror: every material in source order, grouped by course.
+         Always rendered (no JS dep). Visually hidden on desktop via
+         .visually-hidden, becomes the only nav surface on mobile. */}}
+    {{- $sc := newScratch -}}
+    {{- range .Site.RegularPages -}}
+      {{- if (or .Params.presentation .Params.worksheet) -}}
+        {{- $course := "(autres)" -}}
+        {{- range $seg := split .RelPermalink "/" -}}
+          {{- if hasPrefix $seg "track_" -}}{{- $course = $seg -}}{{- end -}}
+        {{- end -}}
+        {{- $entry := dict
+            "title" .Title
+            "url" .RelPermalink
+            "course" $course
+            "hasPres" (ne .Params.presentation nil)
+            "hasWs" (ne .Params.worksheet nil)
+        -}}
+        {{- $sc.Add "all" (slice $entry) -}}
+      {{- end -}}
+    {{- end -}}
+    <details class="network-fallback"><summary>Parcourir toutes les unités et les téléchargements</summary><nav class="network-a11y-nav" aria-label="Tous les matériaux">
+      {{- $all := $sc.Get "all" | default slice -}}
+      {{- /* Sort once by (course, title). Emit a course header only on
+             transitions — single pass, no nested grouping. */ -}}
+      {{- $sorted := sort (sort $all "title") "course" -}}
+      {{- $cur := "" -}}
+      {{- range $sorted -}}
+        {{- if ne .course $cur -}}
+          {{- if $cur -}}</ul></section>{{- end -}}
+          <section><h2>{{ .course }}</h2><ul>
+          {{- $cur = .course -}}
+        {{- end -}}
+        <li>
+          <a href="{{ .url }}">{{ .title }}</a>
+          {{- if .hasPres }} — <a href="{{ .url }}#downloads">diaporama</a>{{ end -}}
+          {{- if .hasWs }} · <a href="{{ .url }}#downloads">fiche</a>{{ end -}}
+        </li>
+      {{- end -}}
+      {{- if $cur -}}</ul></section>{{- end -}}
+    </nav></details>
+  </div>
+</section>
+
+<script type="module" src="{{ $main.RelPermalink }}"
+        integrity="{{ $main.Data.Integrity }}" crossorigin="anonymous"></script>
+{{ end }}

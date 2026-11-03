@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_e_kl09/units/unit10_consommation-responsable-e/index.md",
+  "exam": "content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md",
+  "before_unit_sha256": "1bc3821a55930d691fdd23d1dea7adc62b2aa957fdb877b32de15b7a44eb206f",
+  "after_unit_sha256": "7b9d416e9d47fae1f1b1c704edecdff16314d275f265b7d1308cdc1e7f7fe627",
+  "before_exam_sha256": "b6f2ff8fc0fc029471d72469da4a0694aba907b550ecdf124a8cc58dc3f8fec0",
+  "after_exam_sha256": "7388992139cebf8c1acca5ca1a33df3e10357d2507282499e006943073f0b6a4",
+  "source_sections": "C",
+  "supplied_source_sha256": "39eee14c642aae9470009ee516cebc69681396476a3b1b9d93db44929dbd5f8d",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unsupported named brands,coffee certification and price increment. Kept actual Léa consumption narrative; writing allows explicitly fictional comparison rather than fabricated product evidence."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "10a1429f1664bf96327ad1fb2a5f4cf70f5a2e676c62d88bf7f8e3e09c692443",
+      "before_sha256": "10a1429f1664bf96327ad1fb2a5f4cf70f5a2e676c62d88bf7f8e3e09c692443",
+      "after_sha256": "7b9d416e9d47fae1f1b1c704edecdff16314d275f265b7d1308cdc1e7f7fe627",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "455a9f4ec7df8d0913f99fd69a0aaedac64611897d31e6a88a247fd4dad33760",
+      "before_sha256": "455a9f4ec7df8d0913f99fd69a0aaedac64611897d31e6a88a247fd4dad33760",
+      "after_sha256": "7a8a1cd49132d1ca906367e1160017cc28f719e3ba3187315db4e2dcf591d52d",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "7a8a1cd49132d1ca906367e1160017cc28f719e3ba3187315db4e2dcf591d52d",
+      "after_sha256": "a555eb03f2048798e4eee3786846ef7373b59beecbe646dc8d5aee580749ffcd",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a555eb03f2048798e4eee3786846ef7373b59beecbe646dc8d5aee580749ffcd",
+      "after_sha256": "a28e60853d5cdc25d06cc7ca2c5df735c012cfec784eb5a284b4a3934ef947aa",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md",
+      "before_sha256": "a28e60853d5cdc25d06cc7ca2c5df735c012cfec784eb5a284b4a3934ef947aa",
+      "after_sha256": "7388992139cebf8c1acca5ca1a33df3e10357d2507282499e006943073f0b6a4",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

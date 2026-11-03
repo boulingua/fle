@@ -1,0 +1,96 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 2"
+subtitle: "Raconter le week-end · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 2
+slug: "raconter-le-week-end-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.INT.conversation.01
+    - A1.LING.orthographic-control.01
+    - A1.LING.phonological-control.01
+    - A1.MED.collaborating-to-construct-meaning.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — Grammatik : passé composé (12 points)
+
+Conjuguez au passé composé.
+
+1. J' *(manger)* une pomme.
+2. Tu *(aller)* à l'école.
+3. Il *(jouer)* au foot avec Théo.
+4. Nous *(partir)* tôt samedi.
+5. Vous *(regarder)* un film.
+6. Elles *(arriver)* en retard.
+7. Léa *(parler)* à sa grand-mère.
+8. On *(rester)* à la maison dimanche.
+
+### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez le mini-récit de Léa (Unité 2, texte C). Vrai ou faux ?
+
+| | Affirmation | V | F |
+|---|--------------------------------------------------------|:-:|:-:|
+| 1 | Samedi matin, Léa a joué au tennis. | ☐ | ☐ |
+| 2 | Léa a aidé sa mère à la cuisine. | ☐ | ☐ |
+| 3 | Léa est allée chez sa grand-mère à Strasbourg. | ☐ | ☐ |
+| 4 | Léa et sa grand-mère sont rentrées à 17h. | ☐ | ☐ |
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Racontez **votre week-end** en **5 phrases** (~70 mots).
+Au moins **3 verbes au passé composé** dont **1 avec *être***.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Grammatik | 12 |
+| Tâche 2 — Compréhension écrite | 8 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) ai mangé · 2) es allé(e) · 3) a joué · 4) sommes
+parti(e)s · 5) avez regardé · 6) sont arrivées · 7) a parlé ·
+8) est resté(e)s.
+
+**Tâche 2.** 1) F (volley). 2) V. 3) V. 4) V.
+
+**Tâche 3.** Réponses libres. Critères : 5 phrases · 3 verbes au
+passé composé · 1 verbe avec *être* · accord du participe avec
+*être*.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 2*

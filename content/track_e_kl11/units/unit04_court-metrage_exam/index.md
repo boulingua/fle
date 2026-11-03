@@ -23,21 +23,43 @@ curriculum:
     - B1.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
+## Modalités
 
-### Tâche 1 — Hörverstehen / fiche (10 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez la fiche *Bonbon au poivre* (Unité 4, texte C).
-Répondez :
+## Support
 
-1. Qui est Annie ?
-2. Quel est le métier d'Annie ?
-3. Qui réalise le film ? En quelle année ?
-4. Quels 3 plans-clés sont décrits ?
-5. Que symbolise le bonbon ?
+### C. Texte-modèle (original) — fiche d'un court-métrage imaginaire
+
+> **« Le Dernier Bus » — fiche d'analyse (exemple)**
+>
+> **Synopsis.** Une nuit, une lycéenne rate son bus et attend seule à un arrêt éclairé. Un inconnu s'assoit à l'autre bout du banc. Sans un mot, une confiance fragile finit par naître entre eux.
+>
+> **Réalisation.** Court-métrage de fiction, 11 minutes, tourné dans une petite ville la nuit.
+>
+> **Plans-clés.**
+> 1. Un **plan d'ensemble** montre l'arrêt minuscule au milieu du noir : ce cadrage **crée** une impression de solitude et d'attente.
+> 2. Un **gros plan** sur les mains de la lycéenne, qui serrent son ticket, **suggère** sa nervosité sans qu'elle parle.
+> 3. En **champ-contrechamp**, les deux personnages échangent enfin un regard : le montage **rapproche** peu à peu deux inconnus.
+>
+> **Interprétation.** Le film traite de la **méfiance** et de la manière dont elle peut se défaire. **En filmant** surtout des silences et des gestes, la réalisatrice **nous invite à** lire les émotions plutôt qu'à les entendre.
+
+*(Ce court-métrage est inventé pour l'exercice : servez-vous-en comme d'un patron.)*
+
+### Tâche 1 — Compréhension écrite (10 points)
+
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
+
+1. Quel est le titre du film imaginaire et quelle durée lui attribue la fiche ?
+2. Pourquoi la lycéenne attend-elle et dans quel cadre temporel ?
+3. Que montre le plan d’ensemble et quelle impression la fiche lui associe-t-elle ?
+4. Quel détail le gros plan montre-t-il et quelle émotion suggère-t-il ?
+5. Quel procédé accompagne l’échange de regards et quel changement entre les personnages suggère-t-il ?
 
 ### Tâche 2 — Termes filmiques (8 points)
 
@@ -50,34 +72,15 @@ Reliez chaque terme à sa définition :
 saut temporel · narrateur invisible · visage en gros · 2
 plans alternés · large · coupe nette.)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Barème :** 8 associations × 1 point.
 
-Rédigez la **fiche d'analyse** (~250 mots) d'un court-métrage
-au choix : 4 étapes + 6 termes filmiques + 1 citation.
+### Tâche 3 — Production (12 points)
 
-## Notation
+À partir de la fiche du film imaginaire, écrivez une analyse de 180 à 220 mots : situation, deux cadrages et leurs effets, interprétation argumentée. Citez brièvement la fiche en l’identifiant comme description écrite; ne prétendez pas avoir vu le film. N’inventez ni nom de cinéaste ni année de sortie.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Hörverstehen | 10 |
-| Tâche 2 — Termes filmiques | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+**Barème :** Contenu et exemples : 4 points; structure : 3; langue et lexique : 3; précision des références et adaptation : 2.
 
-## Solutions
-
-**Tâche 1.** 1) 50 ans, vendeuse en confiserie. 2)
-Vendeuse / formation continue. 3) Marc Fitoussi, 2007. 4)
-Gros plan main / plan-séquence salle / champ-contre-champ.
-5) Sucré + piquant = humiliation + dignité, pression
-managériale.
-
-**Tâche 2.** Réponses libres (associations).
-
-**Tâche 3.** Réponses libres. Critères : 250 mots ·
-4 étapes · 6 termes · 1 citation.
-
----
+## Barème total
 
 {{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
 **Total.** 30 points
@@ -92,4 +95,36 @@ managériale.
 | 0–8 | 6 |
 {{< /callout >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 4*
+*Ce barème reprend les seuils du sujet antérieur; il est proposé pour ces tâches seulement, sans valeur de certification GER ou de règlement scolaire.*
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Tâche 1.**
+
+1. Le Dernier Bus; 11 minutes (1 + 1). 2. Bus raté; nuit (1 + 1). 3. Arrêt minuscule dans le noir; solitude/attente (1 + 1). 4. Mains serrant le ticket; nervosité (1 + 1). 5. Champ-contrechamp; rapprochement/confiance fragile (1 + 1). Il s’agit de lecture d’une fiche, pas d’un film effectivement visionné.
+
+**Tâche 2.** plan : unité entre deux coupes; plan-séquence : prise continue sans coupe; ellipse : saut temporel; voix off : voix dont le locuteur n’est pas visible; gros plan : détail/visage rapproché; champ-contrechamp : alternance de points de vue; plan d’ensemble : vue large; montage cut : coupe nette.
+
+**Tâche 3.** Analyse du document écrit et de ses choix décrits; deux liens procédé/effet et une lecture justifiée. La fiche ne constitue pas une preuve de compréhension audiovisuelle.
+
+{{< /details >}}
+
+## Prolongement facultatif, hors barème
+
+Atelier audiovisuel distinct : la personne enseignante choisit légalement un court-métrage de huit minutes maximum, note titre/auteur/URL/licence ou droit de diffusion/date, puis le montre deux fois. Résumez trois moments, décrivez le plan d’ouverture et expliquez le rôle de l’image et du son. Ce résultat reste non évalué tant que le film et un corrigé spécifique ne sont pas fournis; la fiche imaginaire ne les remplace pas.
+
+## Sources
+
+- *Court métrage* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Court_métrage — licence CC BY-SA 4.0.
+- *Festival international du court métrage de Clermont-Ferrand* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Festival_international_du_court_métrage_de_Clermont-Ferrand — licence CC BY-SA 4.0.
+- *Plan-séquence* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Plan-séquence — licence CC BY-SA 4.0.
+
+*Plateforme non affiliée aux festivals, éditeurs ou ayants droit cités. Tous les textes et dialogues de cette unité sont originaux ; le court-métrage « Le Dernier Bus » est fictif et sert uniquement de modèle pédagogique.*
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

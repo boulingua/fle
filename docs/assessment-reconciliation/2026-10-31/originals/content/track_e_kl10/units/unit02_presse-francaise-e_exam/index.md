@@ -1,0 +1,94 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 2"
+subtitle: "La presse française · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 2
+slug: "presse-francaise-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.adapting-language.01
+    - B1.MED.breaking-down-complicated-information.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la brève (Unité 2, texte C). Répondez :
+
+1. Quel jour a eu lieu l'événement ?
+2. Combien de livres ont été collectés ?
+3. À quelle école sont-ils destinés ?
+4. Comment seront-ils envoyés ?
+5. Qui prononce la citation finale ?
+
+### Tâche 2 — Lignes éditoriales / genres (8 points)
+
+Reliez chaque journal à sa ligne éditoriale :
+
+- Le Monde · Libération · Le Figaro · La Croix · L'Équipe ·
+ Ouest-France
+
+(Lignes : centre-gauche · gauche · droite libérale ·
+catholique · sport · régional.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez une **brève d'actualité** (~120 mots) sur un
+événement de votre école : titre + chapeau + 5 W + 1
+citation directe.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Lignes/genres | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Mardi 4 mars 2026. 2) 200. 3) École Ibn
+Khaldoun (Tunis). 4) Par bateau via une association. 5) Mme
+Devos.
+
+**Tâche 2.** Le Monde = centre-gauche · Libé = gauche · Le
+Figaro = droite libérale · La Croix = catholique · L'Équipe
+= sport · Ouest-France = régional.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 5 W ·
+1 citation.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 2*

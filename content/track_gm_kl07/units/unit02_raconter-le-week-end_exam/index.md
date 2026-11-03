@@ -23,12 +23,29 @@ curriculum:
     - A1.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 7
+## Modalités
 
-### Tâche 1 — Grammatik : passé composé (12 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
+
+## Support
+
+### C. Mini-récit (texte original)
+
+> **Le week-end de Lucas**
+>
+> Samedi matin, j'ai pris mon vélo et je suis parti au parc avec Maxime. Nous avons joué au foot pendant deux heures. À midi, j'ai mangé un sandwich sur un banc.
+>
+> L'après-midi, je suis rentré à la maison et j'ai aidé mon père dans le jardin. Le soir, ma sœur est arrivée de Lyon. On a regardé un film ensemble.
+>
+> Dimanche, je suis resté tranquille. J'ai fini mes devoirs de maths et j'ai lu un peu. C'était un week-end calme et agréable !
+
+### Tâche 1 — Passé composé (12 points)
 
 Conjuguez au passé composé.
 
@@ -41,56 +58,57 @@ Conjuguez au passé composé.
 7. Léa *(parler)* à sa grand-mère.
 8. On *(rester)* à la maison dimanche.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
+**Barème :** 8 formes ×1,5 point : auxiliaire 0,5, participe 0,5, accord/forme complète 0,5.
 
-Lisez le mini-récit de Léa (Unité 2, texte C). Vrai ou faux ?
+### Tâche 2 — Lecture (8 points)
 
-| | Affirmation | V | F |
-|---|--------------------------------------------------------|:-:|:-:|
-| 1 | Samedi matin, Léa a joué au tennis. | ☐ | ☐ |
-| 2 | Léa a aidé sa mère à la cuisine. | ☐ | ☐ |
-| 3 | Léa est allée chez sa grand-mère à Strasbourg. | ☐ | ☐ |
-| 4 | Léa et sa grand-mère sont rentrées à 17h. | ☐ | ☐ |
+Répondez en français : 1. Avec qui Lucas va-t-il au parc et comment ? 2. Quel sport pratique-t-il et pendant combien de temps ? 3. Qui aide-t-il ensuite et où ? 4. D’où sa sœur arrive-t-elle et que font-ils ensemble ?
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+**Barème :** 4 réponses ×2 points.
+
+### Tâche 3 — Écriture (10 points)
 
 Racontez **votre week-end** en **5 phrases** (~70 mots).
 Au moins **3 verbes au passé composé** dont **1 avec *être***.
 
-## Notation
+**Barème :** Contenu 4, PC4, lexique/orthographe 2.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Grammatik | 12 |
-| Tâche 2 — Compréhension écrite | 8 |
-| Tâche 3 — Expression écrite | 10 |
+|---|---:|
+| 1 | 12 |
+| 2 | 8 |
+| 3 | 10 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) ai mangé · 2) es allé(e) · 3) a joué · 4) sommes
-parti(e)s · 5) avez regardé · 6) sont arrivées · 7) a parlé ·
-8) est resté(e)s.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1) F (volley). 2) V. 3) V. 4) V.
+**Tâche 1.** Ai mangé; es allé(e); a joué; sommes parti(e)s; avez regardé; sont arrivées; a parlé; est resté/restée/restés/restées selon le référent de *on*. L'auxiliaire reste *est*.
 
-**Tâche 3.** Réponses libres. Critères : 5 phrases · 3 verbes au
-passé composé · 1 verbe avec *être* · accord du participe avec
-*être*.
+**Tâche 2.** Maxime/vélo; football/deux heures; père/jardin; Lyon/film. Un point par élément attendu.
 
----
+**Tâche 3.** Cinq phrases cohérentes comprenant trois passés composés, dont un avec *être*. Une visite à Strasbourg n'est pas imposée.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 2*
+- OQLF — Emploi des auxiliaires avoir et être (vérification éditoriale du 31 octobre 2026), <https://vitrinelinguistique.oqlf.gouv.qc.ca/24224/la-grammaire/le-verbe/auxiliaires/emploi-des-auxiliaires-avoir-et-etre>.
+
+
+- « Passé composé » — Wikipédia, l'encyclopédie libre (contributeurs, consulté en 2026), <https://fr.wikipedia.org/wiki/Pass%C3%A9_compos%C3%A9>, licence CC BY-SA 4.0.
+- « Week-end » — Wikipédia, l'encyclopédie libre (contributeurs, consulté en 2026), <https://fr.wikipedia.org/wiki/Week-end>, licence CC BY-SA 4.0.
+- « Passé composé » — Wikiversité (contributeurs, consulté en 2026), <https://fr.wikiversity.org/wiki/Le_pass%C3%A9_compos%C3%A9>, licence CC BY-SA 4.0.
+
+*Ressource pédagogique indépendante, sans affiliation avec les organismes cités. Tous les textes en français sont originaux ; les notes culturelles sont paraphrasées et attribuées.*
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

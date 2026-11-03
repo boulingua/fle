@@ -1,0 +1,56 @@
+{
+  "unit": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e/index.md",
+  "exam": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam/index.md",
+  "before_unit_sha256": "1ad53920728138f18b1159d306ad6e38bc1c5b80a99cc95c7b228fc481a633e7",
+  "after_unit_sha256": "4d78f8635a6bd9d25ce9c40bae19dd3bb6061f84b41f74ead9f5b18dfb7bf8cf",
+  "before_exam_sha256": "62af568bde0b68c1f3ec5da255453eb46d3370ea8da83cba32f3abcd1c07db9a",
+  "after_exam_sha256": "05f77cb2a58115e32cdfd42ad1b85a8a99b38ed4106808300563ac6cd57e5e11",
+  "source_sections": "C",
+  "supplied_source_sha256": "f933390bab65f3eb11532e7deefb9fd7909ce5f183796e90ebbd09b697e71c39",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Cousin livesTunis, notDakar; source gives noSoraya or321m figure. Retained country prepositions and country portrait; oral alternative preserved."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "f64beaabe21227bbd3c6cc535d0523cf88f995a9c5b1343837131504c6bbc8c8",
+      "after_sha256": "a32e466a93b787effe9cdd2c0c9965d6b9c07df9ea900df2c3d95735923db8ba",
+      "reasons": [
+        "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+        "Align teacher key with observed speaking outcome.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a32e466a93b787effe9cdd2c0c9965d6b9c07df9ea900df2c3d95735923db8ba",
+      "after_sha256": "94132cf9c676133936cde6c1b3e675ee3f9c9dcfd8a0110340da12385340bc69",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam/index.md",
+      "before_sha256": "94132cf9c676133936cde6c1b3e675ee3f9c9dcfd8a0110340da12385340bc69",
+      "after_sha256": "05f77cb2a58115e32cdfd42ad1b85a8a99b38ed4106808300563ac6cd57e5e11",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl08",
+      "unit": 4,
+      "total": 30,
+      "decision": "Observed speaking restored in task 3; source-complete reading/language tasks retained; weighting explicitly revised from embedded variant.",
+      "oral_points": 12
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "unit": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
+  "exam": "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md",
+  "before_unit_sha256": "a58645060c1aece53f0c26f5f43ca282f3b49f5bb8580778e6749195f8e96e8a",
+  "after_unit_sha256": "053803c5976c2adbf830da4bc1277784d962bf0f6854d94eb60c8f8610db0e75",
+  "before_exam_sha256": "67fa5a6a29f998a05a5d61617aed6270d0840000c983465c4a0b8a575626c29a",
+  "after_exam_sha256": "9894b4c931c3a85e38b9f5abdb17eb3f5c39cd2c7c212baebbc7500b9b5b24b6",
+  "source_sections": "C",
+  "supplied_source_sha256": "e508ad6bad1bf50bc920cde60293463a60991e7af0363e83f240ac1d5e203e0b",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Replaced invented stage/employment/Erasmus details with actual future-letter scenario. Preserved written reflection and optional observed oral outcome."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "f8e0609192f3b5a170b92f461920d01c9d33b0bef059afeb61030d21b12ac0c8",
+      "before_sha256": "f8e0609192f3b5a170b92f461920d01c9d33b0bef059afeb61030d21b12ac0c8",
+      "after_sha256": "0f5c44738d6edd3b5d7192779f7c4aa3bd3e79e3efe8a7b7f3d3ef7d2a88bb2f",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "d7f28ccd14f53791e5cc6f642b109946b2cfda119107584729d1584f7da1dd4d",
+      "before_sha256": "d7f28ccd14f53791e5cc6f642b109946b2cfda119107584729d1584f7da1dd4d",
+      "after_sha256": "252ea36890399bde6f3bf962e067644f04ab9cd9a3bd39efa98f8de1b003b32d",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "0f5c44738d6edd3b5d7192779f7c4aa3bd3e79e3efe8a7b7f3d3ef7d2a88bb2f",
+      "after_sha256": "053803c5976c2adbf830da4bc1277784d962bf0f6854d94eb60c8f8610db0e75",
+      "reasons": [
+        "Align exam total with restored primary outcomes.",
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit12_bilan-9e-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "252ea36890399bde6f3bf962e067644f04ab9cd9a3bd39efa98f8de1b003b32d",
+      "after_sha256": "3b21369452e0e6901f8a681bfd65c4feaf4c9d272681cc4dd4619ec810ba945d",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3b21369452e0e6901f8a681bfd65c4feaf4c9d272681cc4dd4619ec810ba945d",
+      "after_sha256": "9073c7a1a50b56de1d00c5cae12f5e86e86557c6a704d87c00a0343aed8c66c3",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md",
+      "before_sha256": "9073c7a1a50b56de1d00c5cae12f5e86e86557c6a704d87c00a0343aed8c66c3",
+      "after_sha256": "2dc888d7796716fe4694b41893955bc6e36a5c49d2ded4d01062242353e7b65f",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md",
+      "before_sha256": "2dc888d7796716fe4694b41893955bc6e36a5c49d2ded4d01062242353e7b65f",
+      "after_sha256": "9894b4c931c3a85e38b9f5abdb17eb3f5c39cd2c7c212baebbc7500b9b5b24b6",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl09",
+      "unit": 12,
+      "total": 30,
+      "graded_tasks": [
+        {
+          "title": "Compréhension",
+          "points": 8
+        },
+        {
+          "title": "Langue",
+          "points": 7
+        },
+        {
+          "title": "Lettre-bilan",
+          "points": 8
+        },
+        {
+          "title": "Bilan oral",
+          "points": 7
+        }
+      ]
+    }
+  ]
+}

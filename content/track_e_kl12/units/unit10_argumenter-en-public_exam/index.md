@@ -23,73 +23,64 @@ curriculum:
     - B2.MED.amplifying-a-dense-text.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez le plan de monologue Senghor (Unité 10, texte C).
-Répondez :
+## Sujet de l’entraînement oral
 
-1. Quelles 2 dates clés ?
-2. Quel mouvement Senghor co-fonde-t-il ?
-3. Combien d'années préside-t-il ?
-4. Combien de langues nationales protège-t-il ?
-5. Quelle est la chute citée ?
+« Faut-il interdire les téléphones portables au lycée, ou organiser un usage encadré ? » Préparation : 15 minutes, notes de mots-clés autorisées. Il s’agit d’un débat pédagogique sur une règle possible, pas d’un exposé du droit scolaire actuel.
 
-### Tâche 2 — Stratégies de rebond (8 points)
+**Épreuve orale communicative — Niveau E** *(compétences visées : production en continu et interaction)*
 
-Reliez chaque stratégie à son exemple :
+**Phase 1 — Monologue (15 points).** Présentez pendant environ cinq minutes votre position sur le sujet fourni ci-dessus. Plan attendu : introduction, deux ou trois arguments illustrés, une concession, conclusion.
 
-- reformuler · demander précision · concéder + nuancer ·
- exemple concret · citer autorité · conclure-rebondir
+**Phase 2 — Dialogue (15 points).** Échangez pendant cinq à dix minutes aux questions de l'examinateur : défendez, nuancez, donnez des exemples.
 
-(Exemples : *« Si je comprends bien … »* · *« Pouvez-vous
-préciser ? »* · *« Certes, mais … »* · *« Prenons par
-exemple … »* · *« Comme l'écrit Camus … »* · *« Cela ouvre
-la question de … »*.)
+**Barème :**
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
-
-Préparez **votre plan de monologue 5 min** sur un sujet :
-auteur·rice ou thème. Structure I-II-III + 4 citations + 1
-chute mémorable + 6 stratégies de rebond préparées.
-
-## Notation
-
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Stratégies | 8 |
-| Tâche 3 — Plan de monologue | 12 |
+| Critère | Points |
+|---|---|
+| Structure et pertinence du contenu | 8 |
+| Richesse et correction de la langue | 8 |
+| Qualité de l'interaction (rebonds, réactivité) | 8 |
+| Fluidité et prononciation | 6 |
 | **Total** | **30** |
 
-## Solutions
+## Questions de relance
 
-**Tâche 1.** 1) 1960 et 1980. 2) La Négritude. 3) 20 ans.
-4) 6 langues nationales. 5) *« Les vraies civilisations
-sont des rendez-vous du donner et du recevoir. »*
+- Quel bénéfice concret votre règle apporte-t-elle ?
+- Comment traiter une objection liée à la distraction ?
+- Que proposez-vous pour un élève sans téléphone ?
+- Quelle limite ou exception accepteriez-vous ?
 
-**Tâche 2.** Réponses libres (associations).
+## Modalités de correction
 
-**Tâche 3.** Réponses libres. Critères : plan complet · 4
-citations · 1 chute · 6 stratégies de rebond.
+Les phases comptent chacune 15 points : contenu/structure 4, langue 4, adaptation aux relances 4, fluidité/intelligibilité 3. Pour le monologue, « adaptation aux relances » signifie anticiper et traiter une objection; pour le dialogue, il faut observer les réponses spontanées. Le total des deux phases correspond aux quatre critères globaux 8+8+8+6. Aucune citation mémorisée n’est obligatoire.
 
----
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+Un usage encadré, une interdiction argumentée ou une solution mixte peuvent convenir. Évaluer justification, concession et réponse, pas l’accord avec l’examinateur. La fiche modèle de l’unité peut servir avant l’entraînement; on ne la donne pas comme discours à réciter. Les anciennes réponses Senghor/6 langues et le plan écrit ne prouvent aucune interaction.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+{{< /details >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 10*
+## Sources
+
+- *Léopold Sédar Senghor* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/L%C3%A9opold_S%C3%A9dar_Senghor, licence CC BY-SA 4.0.
+- *Négritude* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/N%C3%A9gritude, licence CC BY-SA 4.0.
+- *Organisation internationale de la Francophonie* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie, licence CC BY-SA 4.0.
+- *Bildungsplan 2016, Gymnasium — Moderne Fremdsprachen (Französisch)* — Land Baden-Württemberg, https://www.bildungsplaene-bw.de/, référentiel officiel.
+
+## Provenance
+
+**Total : 30 points.**
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

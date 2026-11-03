@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 7
 slug: "harcelement-et-respect-e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_interaction
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_harcelement-et-respect-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_harcelement-et-respect-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit07_harcelement-et-respect-e.html"
+- "/track_e_kl09/units/unit07_harcelement-et-respect-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.INT.correspondence.01
-    - A2.PROD.compensating.01
-    - A2.MED.adapting-language.01
+  - A2.INT.conversation.08
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.INT.correspondence.01
+  - A2.PROD.compensating.01
+  - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit07_harcelement-et-respect-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_harcelement-et-respect-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit07_harcelement-et-respect-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -74,15 +107,13 @@ curriculum:
 2. Léa est **témoin**. Que fait-elle de concret pour aider ?
 3. Pourquoi la phrase *« Ce n'est pas toi le problème »* est-elle importante ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que signifie, pour vous, **respecter** quelqu'un à l'école ? Donnez trois exemples concrets.
 - Quelle est la **différence** entre *taquiner* (une fois, réciproque, on en rit ensemble) et *harceler* (répété, à sens unique, ça fait mal) ?
 - **Nuage de mots** (au tableau) : quels mots associez-vous à *harcèlement* ? Et à *soutien* ?
 - Connaissez-vous un **numéro** ou une **personne** à qui s'adresser en cas de problème ? (En France ? En Allemagne ?)
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — sentiments, rôles et actions
 
 | Français | Catégorie | Allemand (repère) |
@@ -144,8 +175,7 @@ En Allemagne, un service comparable existe : la **« Nummer gegen Kummer »** pr
 
 *(Faits paraphrasés à partir des articles « Harcèlement scolaire » et « 3018 » de Wikipédia en français, CC BY-SA — voir Sources. Aucune phrase n'est recopiée.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du texte C.**
 
 1. Pourquoi les « blagues » subies par Nour sont-elles en réalité du harcèlement ? (Donnez le critère du texte.)
@@ -182,6 +212,7 @@ c) s'asseoir avec toi à la récré → ___
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Parce que ce sont des moqueries **répétées** qui visent **toujours la même personne** et qui **blessent** — donc plus une blague.
 2. Elle a **honte** ; elle se sent **seule** (au choix : elle croit que personne ne peut comprendre).
@@ -196,9 +227,9 @@ c) s'asseoir avec toi à la récré → ___
 a) *On pourrait signaler le message ensemble, si tu es d'accord.*
 b) *Tu pourrais appeler le 3018 : c'est gratuit et anonyme.*
 c) *Je pourrais m'asseoir avec toi à la récré, si tu veux.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Au choix — tâche d'expression écrite OU orale.**
 
 **Option A (écrit, ~150 mots) — un message de soutien.** Un·e camarade vous confie par écrit qu'il/elle subit du harcèlement. Rédigez-lui une réponse bienveillante en **trois parties** : (1) accueillir ses sentiments (*« Je comprends que… », « Ce n'est pas ta faute »*) ; (2) proposer **deux actions concrètes** (personne de confiance, 3018, signalement) ; (3) une phrase d'encouragement. Intégrez **au moins deux verbes de sentiment**, **un subjonctif** de conseil et **une phrase au conditionnel** de politesse.
@@ -213,8 +244,7 @@ c) *Je pourrais m'asseoir avec toi à la récré, si tu veux.*
 - **Cohérence** : texte/dialogue structuré et lié (connecteurs). (2 pts)
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais nommer les **trois rôles** et expliquer le rôle décisif du témoin.
 - [ ] Je peux exprimer **au moins cinq sentiments** en français.
 - [ ] Je peux **proposer de l'aide** poliment (conditionnel + formules d'écoute).
@@ -222,22 +252,11 @@ c) *Je pourrais m'asseoir avec toi à la récré, si tu veux.*
 - [ ] Je connais le **3018** (France) et la **Nummer gegen Kummer** (Allemagne).
 - [ ] Je sais que **demander de l'aide n'est pas une faiblesse**, mais un acte de courage.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E · 40 points · 45 min**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit07_harcelement-et-respect-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 pts).** Un court texte original de soutien (fourni le jour de l'épreuve) ; 5 questions : rôles, sentiments exprimés, actions du témoin, sens d'une phrase clé, un mot à expliquer.
-
-**Tâche 2 — Maîtrise de la langue (« Sprachmittel ») (12 pts).**
-- 5 phrases à compléter au **subjonctif** après *il faut que / il vaut mieux que* (5 pts).
-- 3 idées à reformuler en **propositions d'aide** au conditionnel (3 pts).
-- 4 sentiments à traduire ou à employer en contexte (4 pts).
-
-**Tâche 3 — Expression écrite (« Schreiben ») (16 pts).** Rédigez un **message de soutien ou une lettre ouverte** (~150 mots) à un·e camarade ou à la classe. Barème : contenu et structure (6) · empathie et registre (4) · correction de la langue (4) · richesse du vocabulaire des sentiments (2).
-
-**Total : 40 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Cadre affectif.** Poser d'emblée les règles de sécurité (voir l'encadré d'ouverture) : le partage personnel n'est jamais obligatoire ; on travaille à partir d'exemples fictifs. Repérer les élèves qui décrochent ; prévoir une sortie discrète possible. Garder à disposition les coordonnées de la CPE, de l'infirmerie et du/de la psychologue de l'établissement, ainsi que les numéros 3018 et 116 111.
 

@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 1
 slug: "la-rentree-en-8e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - speaking_interaction
 presentation:
@@ -18,22 +18,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_la-rentree-en-8e.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_la-rentree-en-8e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit01_la-rentree-en-8e.html"
+- "/track_e_kl08/units/unit01_la-rentree-en-8e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.INT.correspondence.04
-    - A2.LING.general-linguistic-range.02
-    - A2.LING.phonological-control.04
-    - A2.MED.analysis-and-criticism-of-creative-texts.01
+  - A2.INT.conversation.08
+  - A2.INT.correspondence.04
+  - A2.LING.general-linguistic-range.02
+  - A2.LING.phonological-control.04
+  - A2.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit01_la-rentree-en-8e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 20
+  skills:
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_la-rentree-en-8e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit01_la-rentree-en-8e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -64,16 +95,14 @@ C'est le premier jour de la 8e. Dans la cour du collège, Anouk retrouve Léo de
 2. Quel jour est-ce ?
 3. Qu'est-ce qu'Anouk a cette année ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, en français simple.
 
 - Comment dis-tu « bonjour » à un·e ami·e le matin ?
 - Quelle est ta matière préférée ? Pourquoi ?
 - Que fais-tu, en général, un jour d'école ? (une ou deux phrases)
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — la vie scolaire
 
 | Français | Allemand | Exemple |
@@ -119,8 +148,7 @@ je parl**e** · tu parl**es** · il/elle parl**e** · nous parl**ons** · vous p
 
 *(Source paraphrasée, voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du texte C (niveau G).** Vrai ou faux ?
 
 1. Anouk est en 6e.
@@ -156,6 +184,7 @@ je parl**e** · tu parl**es** · il/elle parl**e** · nous parl**ons** · vous p
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Faux (elle est en 8e). 2) Vrai. 3) Faux (il habite à Lille). 4) Vrai.
 
 **Ex. 2.** 1) regarde · 2) aimons · 3) parles · 4) jouent.
@@ -163,9 +192,9 @@ je parl**e** · tu parl**es** · il/elle parl**e** · nous parl**ons** · vous p
 **Ex. 3.** 1) suis · 2) avons · 3) va · 4) êtes.
 
 **Ex. 4 (propositions).** 1) Ça va bien, merci, et toi ? · 2) Ma matière préférée, c'est le français. · 3) Oui, j'ai un correspondant à Lille / Non, je n'ai pas de correspondant.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, ~8 répliques) :**
 
 C'est la rentrée. A et B se retrouvent dans la cour. Jouez le dialogue :
@@ -182,31 +211,18 @@ C'est la rentrée. A et B se retrouvent dans la cour. Jouez le dialogue :
 - **Langue** : le présent est majoritairement correct ; vocabulaire de la vie scolaire employé.
 - **Prononciation / fluidité** : compréhensible, débit régulier.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux saluer et me présenter à la rentrée.
 - [ ] Je peux conjuguer les verbes en -er au présent.
 - [ ] Je peux utiliser être, avoir et aller au présent.
 - [ ] Je peux poser une question simple et y répondre.
 - [ ] Je peux tenir un court dialogue avec un·e camarade.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve d'expression orale en interaction (« mündliche Prüfung », Niveau E).**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit01_la-rentree-en-8e_exam" >}}).
 
-En binôme, tirez au sort une situation et jouez un dialogue de la rentrée (~2 minutes). Vous devez : vous saluer, vous présenter, parler de vos matières et d'un projet au présent, et poser au moins deux questions à votre partenaire.
-
-**Barème (20 P.) :**
-
-| Critère | Points |
-|---|---|
-| Réalisation de la tâche (contenu attendu présent) | 6 P. |
-| Interaction (questions, relances, écoute) | 6 P. |
-| Correction de la langue (présent, vocabulaire scolaire) | 5 P. |
-| Prononciation et fluidité | 3 P. |
-| **Total** | **20 P.** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 5' · Apporter 12' · S'entraîner 13' · Produire 11' · Réfléchir 2' · Aperçu de l'unité suivante 2'.
 

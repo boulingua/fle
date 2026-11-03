@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+  "exam": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md",
+  "before_unit_sha256": "9b1e51906402762ef6d7a0f5bc01c11c469ca9dd1bca227fb4af72d29c0f184e",
+  "after_unit_sha256": "89b056b619c4f98aee76fe3b6d18e6bcb093efdd316f0b78ce9a752dbc750d4c",
+  "before_exam_sha256": "6158ddc56c3478980db7ab0cc676b3b03ef3461b592a8ef9961737c452919d59",
+  "after_exam_sha256": "703f0a0a7b314a9b41a7c65683998709b2c142771acd99719203711d0ef9287d",
+  "source_sections": "B",
+  "supplied_source_sha256": "4e0c662e2d5db5903faa36b1517ae8156c603747761c7063ea853d9c0c4c911b",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Replaced five-rights/expanded-RGPD questions absent from source. Added bounded rights clarification; underlying teaching passage correction pending final coordinated source pass."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "c1f3ce65363f09e14456d4c8609616974233a3571c320882f8590a8c9f5cedce",
+      "before_sha256": "c1f3ce65363f09e14456d4c8609616974233a3571c320882f8590a8c9f5cedce",
+      "after_sha256": "7df53ed37e74a58c2637a621c8dd32cae811b0508c1a0f7747db1888039c7eef",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "d361fbaea203a3e38132bce445d346d76e32f873402f9e8db54d263764dd65bb",
+      "before_sha256": "d361fbaea203a3e38132bce445d346d76e32f873402f9e8db54d263764dd65bb",
+      "after_sha256": "1ea1e138e490849c851fa0bf1029fb28c455ecd6d625ca3d940d0e5179494507",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "7df53ed37e74a58c2637a621c8dd32cae811b0508c1a0f7747db1888039c7eef",
+      "after_sha256": "89b056b619c4f98aee76fe3b6d18e6bcb093efdd316f0b78ce9a752dbc750d4c",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "1ea1e138e490849c851fa0bf1029fb28c455ecd6d625ca3d940d0e5179494507",
+      "after_sha256": "6f3e40efad7bd1a0972936985b15feee66fc80bc8710cf5ebc9eceb704dad706",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md",
+      "before_sha256": "6f3e40efad7bd1a0972936985b15feee66fc80bc8710cf5ebc9eceb704dad706",
+      "after_sha256": "703f0a0a7b314a9b41a7c65683998709b2c142771acd99719203711d0ef9287d",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

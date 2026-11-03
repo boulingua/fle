@@ -1,0 +1,69 @@
+{
+  "unit": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+  "exam": "content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md",
+  "before_unit_sha256": "0bfc5d5b80077740c2167f2f7d356a35c5c31b18837e38008b5745af9ef6146c",
+  "after_unit_sha256": "2d0bab98fe47425a4cbae85ab0e962a99db696bb1eaa4b786c6ed62903ab4976",
+  "before_exam_sha256": "1d3badc91fd79cabe13fcd0c397f413591a8381e83e2e0509d9668c3c5ba5a9e",
+  "after_exam_sha256": "ad1d550d6dc9f6d91ac47eb54791001d7df19defaf4c774a8f97906bd44fe318",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "writing",
+    "speaking"
+  ],
+  "decisions": [
+    "Retained coherent original embedded task structure and totals; supplied exact source and full key; reconciled incompatible sibling source/answer claims."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "c4fc585898382017d8eacf898f5ada0841b79cf36286943b6a67ce742db4ab46",
+      "before_sha256": "c4fc585898382017d8eacf898f5ada0841b79cf36286943b6a67ce742db4ab46",
+      "after_sha256": "6936c96936ad39a27b20d83e7a4fde42ce08e3be8624b5240183148ea333a4d1",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "813f00aece19f27d708ee955d2540abaebfca0e5a0d5136512db5d006d5bbe97",
+      "after_sha256": "a02b9c7b8c41f907af480cfeab341cb73e079b6605b5ad5909258f5e9c923ea3",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "6936c96936ad39a27b20d83e7a4fde42ce08e3be8624b5240183148ea333a4d1",
+      "after_sha256": "2d0bab98fe47425a4cbae85ab0e962a99db696bb1eaa4b786c6ed62903ab4976",
+      "reasons": [
+        "Attach primary source for controlled correction."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a02b9c7b8c41f907af480cfeab341cb73e079b6605b5ad5909258f5e9c923ea3",
+      "after_sha256": "e13e8f42a44fb47bcf9f42d725c98ee9a356268acd782e8d158643eccb82fcf4",
+      "reasons": [
+        "Attach primary source for controlled correction."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "e13e8f42a44fb47bcf9f42d725c98ee9a356268acd782e8d158643eccb82fcf4",
+      "after_sha256": "63cb7b69058003012f09fa4b5dd0d1b87c50d8f21cf2c9feccebcd6b6f68d4af",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md",
+      "before_sha256": "63cb7b69058003012f09fa4b5dd0d1b87c50d8f21cf2c9feccebcd6b6f68d4af",
+      "after_sha256": "ad1d550d6dc9f6d91ac47eb54791001d7df19defaf4c774a8f97906bd44fe318",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "unit": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
+  "exam": "content/track_gm_kl10/units/unit02_presse-francaise_exam/index.md",
+  "before_unit_sha256": "9c87857962aae5b953caddf21dff2893171b256b4b07215fc1fed8f25266a40b",
+  "after_unit_sha256": "6c8f4e3b0c05bd9117d8631dd43340e9134a76c6ef2f6be0f644e8fee876e45a",
+  "before_exam_sha256": "6600afd4775f775897fbbec9bdbd4ba59569f5b15565ed21d1cd92133aa9a168",
+  "after_exam_sha256": "53bb675a6bfeeb45028481a0f5e4bf7e0a65db61544662b3b5e0e59518fead77",
+  "source_sections": [
+    "D"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "writing"
+  ],
+  "decisions": [
+    "Actual fictional night-train front page supplied. Eight classification items now match eight points; information is attributed rather than presented as a verified statistic."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "e3a40d38f4178c1c777eb2b312d1e156adfb04a7d95ec6018716a0406c92cf95",
+      "after_sha256": "a3f7d5638e6a4637720f7e6f36b840db998aae1498214c51e3a007d2c0b4700c",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit02_presse-francaise_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a3f7d5638e6a4637720f7e6f36b840db998aae1498214c51e3a007d2c0b4700c",
+      "after_sha256": "e66faecc65ac7b54b244411471918135924d7b24c7ae52e4083285ba1ea69c0f",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl10/units/unit02_presse-francaise_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit02_presse-francaise_exam/index.md",
+      "before_sha256": "e66faecc65ac7b54b244411471918135924d7b24c7ae52e4083285ba1ea69c0f",
+      "after_sha256": "53bb675a6bfeeb45028481a0f5e4bf7e0a65db61544662b3b5e0e59518fead77",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

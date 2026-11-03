@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
+  "exam": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam/index.md",
+  "before_unit_sha256": "898a6a22a4447ae06e4654f29db984f3c3a4fc01cced0058d9e0067c036f4aad",
+  "after_unit_sha256": "5e12e97205428474dbdb99b04846ba5e6410a97b3b3aafabbdb2fe742a7450dc",
+  "before_exam_sha256": "512d53cf057a0249c141875d932e9cb066de5b69ccd0bc2c7c9c95681c8f2b7b",
+  "after_exam_sha256": "eb199d509808f96844e363416bb7b38286f8e1134abf93ead7eb683ba08d7ba9",
+  "source_sections": "C",
+  "supplied_source_sha256": "ecbd574df01d447569a913cf8c2f848a1f9a6cc17c375115a43d0f87cd4d284e",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "No school grade/Antoine/plate in source email; replaced unsupported comprehension prompts and key. Retained contextual Québec vocabulary and reply email."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "c43f549628def6591296129a2b54f06d17fc82c70faa8013d83103c862b28136",
+      "after_sha256": "0cf53c78d4c18719a0e209448d19463c85c43a0af586cfdb3d465f5be4e2fd1a",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "0cf53c78d4c18719a0e209448d19463c85c43a0af586cfdb3d465f5be4e2fd1a",
+      "after_sha256": "e97b3ea27ad38a2e6928c5a54c82aa8298cbe9737785f83e94447698c0b0dc8d",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam/index.md",
+      "before_sha256": "e97b3ea27ad38a2e6928c5a54c82aa8298cbe9737785f83e94447698c0b0dc8d",
+      "after_sha256": "eb199d509808f96844e363416bb7b38286f8e1134abf93ead7eb683ba08d7ba9",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

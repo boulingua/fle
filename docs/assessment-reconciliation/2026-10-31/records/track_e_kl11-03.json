@@ -1,0 +1,79 @@
+{
+  "unit": "content/track_e_kl11/units/unit03_presse-d-opinion/index.md",
+  "exam": "content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md",
+  "before_unit_sha256": "b64442ddc78a09223b83f7d7499d1793309ec124cc7cb4dc50f4fab3eac96947",
+  "after_unit_sha256": "d2cec266d83b7ae2ca4005e876d4af859016c174bf7693ff1aa06eba0f24e1e8",
+  "before_exam_sha256": "6c96c37ca516d3ba67b40c8ce70a95845025b5a24a0afb34a827268499479746",
+  "after_exam_sha256": "3f7e630ee98b673fc2edec5fdc9341b5849602a8df19935baa4bd8273722380c",
+  "source_sections": "C",
+  "supplied_source_sha256": "ed89b1c44f5a5b35612fd01653fd3a8738277957642370ba1d6bd876c68f8fa6",
+  "source_mode": "learner-reading",
+  "total_points": 20,
+  "decisions": [
+    "Actual cycling editorial replaces unrelated climate march and invented84countries evidence. Embedded oral argument preserved; no fictitious sentence represented as verified news."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "4623ab84fc4ce193f731cf82bba7658131ead2966540652802946cbd1f26f177",
+      "after_sha256": "d2cec266d83b7ae2ca4005e876d4af859016c174bf7693ff1aa06eba0f24e1e8",
+      "reasons": [
+        "Align exam total with restored primary outcomes."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit03_presse-d-opinion/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6ca1b984d1a0e11d3390557b22383b61c381a8d90c3b3ea24e174dac1940ac54",
+      "after_sha256": "bfda12cf4c5242c112a38932af5bd90134f30aedfcab72d037a7e47f5949f1e1",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "bfda12cf4c5242c112a38932af5bd90134f30aedfcab72d037a7e47f5949f1e1",
+      "after_sha256": "ff62cc4830de9189f631edf96c64224fcafe88fdbea8b47aaa8c1edb498e1177",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md",
+      "before_sha256": "ff62cc4830de9189f631edf96c64224fcafe88fdbea8b47aaa8c1edb498e1177",
+      "after_sha256": "da1180105f328757c5eee5b215af84ec815e8fa54d7bda8ae164219a8f783913",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md",
+      "before_sha256": "da1180105f328757c5eee5b215af84ec815e8fa54d7bda8ae164219a8f783913",
+      "after_sha256": "3f7e630ee98b673fc2edec5fdc9341b5849602a8df19935baa4bd8273722380c",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl11",
+      "unit": 3,
+      "total": 20,
+      "graded_tasks": [
+        {
+          "title": "Compréhension de l’éditorial",
+          "points": 12
+        },
+        {
+          "title": "Opinion orale",
+          "points": 8
+        }
+      ]
+    }
+  ]
+}

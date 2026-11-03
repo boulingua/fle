@@ -1,0 +1,70 @@
+{
+  "unit": "content/track_e_kl10/units/unit07_engagement-citoyen-e/index.md",
+  "exam": "content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md",
+  "before_unit_sha256": "c15e0ebbaa003694c17b04ec7b15a65c023f46d7ffbaa62eb63c0c79f7c137f8",
+  "after_unit_sha256": "0adfedb1ee05fc16206305a177cc2df7fc88c33773a07e0ac3a7e7216b73188c",
+  "before_exam_sha256": "f1c505e73f618588de5bba5fd39e544b21de2ccd6195c2c2df21e50636bffee2",
+  "after_exam_sha256": "9659750277915e6a9f7422a9229956625475414d23fbecc880a037c3aa08a085",
+  "source_sections": "B",
+  "supplied_source_sha256": "8d45c4e351ad51b3e188a1a974da79b4d371f1b7c7d85cf75fade076c34a2a1d",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Used actual anonymous16year-old volunteering account, not fictitious named activism key; retained live interaction with observable turn-taking."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "9db23b72c3ba65b03303d4987ef8c4ece5fd9e8a7a73d402cba0447a04cf6ce6",
+      "after_sha256": "7d1b7a30e996a2b644c34214a45e681d4c279d4fe1870b9e6cb4bd3db0a3a118",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "7d1b7a30e996a2b644c34214a45e681d4c279d4fe1870b9e6cb4bd3db0a3a118",
+      "after_sha256": "6c398130bf9a96d00c78dfc8700950dd6ebfdab4854b08eef27218fd33898de4",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md",
+      "before_sha256": "6c398130bf9a96d00c78dfc8700950dd6ebfdab4854b08eef27218fd33898de4",
+      "after_sha256": "bfad51450e1e492083a5c53ebb82f58d8e4377882e61692be2e2fb433c896fae",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md",
+      "before_sha256": "bfad51450e1e492083a5c53ebb82f58d8e4377882e61692be2e2fb433c896fae",
+      "after_sha256": "9659750277915e6a9f7422a9229956625475414d23fbecc880a037c3aa08a085",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl10",
+      "unit": 7,
+      "total": 30,
+      "graded_tasks": [
+        {
+          "title": "Interaction citoyenne",
+          "points": 14
+        },
+        {
+          "title": "Tribune d’opinion",
+          "points": 16
+        }
+      ]
+    }
+  ]
+}

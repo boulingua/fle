@@ -1,0 +1,36 @@
+{
+  "unit": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e/index.md",
+  "exam": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam/index.md",
+  "before_unit_sha256": "cc4027daa5822d3e61063c6ce01b9bd995726ecf74c0e89324e27bd7725dd107",
+  "after_unit_sha256": "c996c4be270fea82da6ed11ce80d9fd40d90a1ce3ecbcf45fbb46a756c75ed72",
+  "before_exam_sha256": "fed3740a17d474547e8c730f159f515ce724c36193818b3f53d758af47b4c991",
+  "after_exam_sha256": "5a410261a74bf178cc759bbf67ebb2c011b6118a07666a7809efc617ed492439",
+  "source_sections": "B",
+  "supplied_source_sha256": "d57b1f07feacd3c7f0c9dd9b51069a16a3656880b04dc110338c92573fb10046",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "decisions": [
+    "Retained coherent listening account with full teacher transcript and non-guarantee on claimedA2toB2 progress; corrected visa≠residence-permit conflation by using actual course vocabulary."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "57537ced5a73faf0f4028e6c1d35c40c137ef6a6ef565b6c73585fc084a1f4eb",
+      "after_sha256": "4882efb8f1080d3129deaf1645a9d08ccb1428697e4844960a2d83ba93d88291",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam/index.md",
+      "before_sha256": "4882efb8f1080d3129deaf1645a9d08ccb1428697e4844960a2d83ba93d88291",
+      "after_sha256": "5a410261a74bf178cc759bbf67ebb2c011b6118a07666a7809efc617ed492439",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

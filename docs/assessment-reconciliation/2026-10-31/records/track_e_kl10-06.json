@@ -1,0 +1,87 @@
+{
+  "unit": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
+  "exam": "content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md",
+  "before_unit_sha256": "597a6014a9532ad2f5ac0cd4cd7e1a463a7b87a4837c884121b250f6c7b2ceb3",
+  "after_unit_sha256": "64a3d43dec97b32a3c3754cfaa93340be68e796f6ee4ec013aa983f137749537",
+  "before_exam_sha256": "cb88789cc40b42161346aaf07d1fe1a52eeb0f217d898d839603aa88e7688e91",
+  "after_exam_sha256": "37bdbce4da01f6ce41b81d81506c64df3c6cf900eb61659fd33bbf60ce2fabdc",
+  "source_sections": "C",
+  "supplied_source_sha256": "917a326a7e286c0409013461961e8dbde58b7918a9b62755332ce67b418ff562",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Separated two existing fictional mobility sources; removed irrelevant climate/government questions from first and inflated200word request/model claim for53word second source; no answer model in learner support."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "1d545f0357652563770017c0860d210741d1ed77c732180d598e9f21532e62b5",
+      "before_sha256": "1d545f0357652563770017c0860d210741d1ed77c732180d598e9f21532e62b5",
+      "after_sha256": "e43a395551fd274e871b32023e63e16ccfc752bd1f3ca4a48780b7efe5d02f2a",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "f4e5096bf2e11a9a89585a42265692ba2f5832c8c98a51a7e6aec41628cc3911",
+      "before_sha256": "f4e5096bf2e11a9a89585a42265692ba2f5832c8c98a51a7e6aec41628cc3911",
+      "after_sha256": "672b57a1a4ac37d85516fe9f6881dc87ad20d68263b2491a18beb1f16f1fc8c8",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "e43a395551fd274e871b32023e63e16ccfc752bd1f3ca4a48780b7efe5d02f2a",
+      "after_sha256": "010a77aa428e5e800c999dd6bb4b9a52fcd9ef2e2e7f1682d1360714d423e990",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit06_mediation-avancee-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "672b57a1a4ac37d85516fe9f6881dc87ad20d68263b2491a18beb1f16f1fc8c8",
+      "after_sha256": "3032c9252894fabae1f472f0838f3bf807eebf778e048dd5f9f451a54880b322",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "010a77aa428e5e800c999dd6bb4b9a52fcd9ef2e2e7f1682d1360714d423e990",
+      "after_sha256": "64a3d43dec97b32a3c3754cfaa93340be68e796f6ee4ec013aa983f137749537",
+      "reasons": [
+        "Remove false absolute syntax rule.",
+        "Attach primary source for controlled correction."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl10/units/unit06_mediation-avancee-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3032c9252894fabae1f472f0838f3bf807eebf778e048dd5f9f451a54880b322",
+      "after_sha256": "c68d7bece6cb9163bc1414295ec5f5f866c9921684f553aefc4d3c76d7f3acb1",
+      "reasons": [
+        "Attach primary source for controlled correction."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "c68d7bece6cb9163bc1414295ec5f5f866c9921684f553aefc4d3c76d7f3acb1",
+      "after_sha256": "22f3c4047a1e11548c031f5a522b1885b7c065ad1404d6ee377c022f4bd3d0d9",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md",
+      "before_sha256": "22f3c4047a1e11548c031f5a522b1885b7c065ad1404d6ee377c022f4bd3d0d9",
+      "after_sha256": "37bdbce4da01f6ce41b81d81506c64df3c6cf900eb61659fd33bbf60ce2fabdc",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

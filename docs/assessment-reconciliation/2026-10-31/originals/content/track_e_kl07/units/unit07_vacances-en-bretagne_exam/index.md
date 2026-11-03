@@ -1,0 +1,97 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 7"
+subtitle: "Vacances en Bretagne · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 7
+slug: "vacances-en-bretagne-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.notes-messages-and-forms.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Hörverstehen (10 points)
+
+Écoutez le journal d'Anouk (Unité 7, texte C). Répondez :
+
+1. Où passe-t-elle ses vacances ?
+2. Que mange-t-elle ce jour-là ?
+3. Que visite-t-elle l'après-midi ?
+4. Quel est le programme de demain ?
+5. Pourquoi le Mont-Saint-Michel n'est-il pas en Bretagne ?
+
+### Tâche 2 — Vocabulaire (8 points)
+
+Reliez :
+
+| Spécialité | Type |
+|----------------------|----------------------|
+| 1. crêpe | a. plat salé sarrasin |
+| 2. galette | b. dessert sucré |
+| 3. cidre | c. confiserie |
+| 4. kouign-amann | d. boisson |
+
+Plus, traduisez : *die Küste · die Gezeiten · die Insel · die
+Burg*.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez un **journal de vacances** de 3 jours en **120 mots**
+(Bretagne ou autre) : météo + 1 visite + 1 spécialité +
+1 anecdote. **5 PC** + **3 imparfaits**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Saint-Malo (Bretagne). 2) Crêpe sucre + caramel
+beurre salé. 3) Le Mont-Saint-Michel. 4) Bateau aux îles
+Chausey. 5) En Normandie (à 50 km).
+
+**Tâche 2.** 1-b · 2-a · 3-d · 4-c. + la côte · les marées ·
+l'île · le château.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 4 éléments ·
+5 PC + 3 imparfaits.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 7*

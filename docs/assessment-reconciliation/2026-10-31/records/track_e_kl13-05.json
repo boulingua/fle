@@ -1,0 +1,41 @@
+{
+  "unit": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+  "exam": "content/track_e_kl13/units/unit05_abitur-mock-2_exam/index.md",
+  "before_unit_sha256": "3520ed36bd755bb3dc02ee7f9fa7bae33942c6bc00daa51b0e0046fde249c3e8",
+  "after_unit_sha256": "1c1c19af4e3cb8be3abf5a67bf23dd388b2938c23b3ad4140d592da713fc3eeb",
+  "before_exam_sha256": "23c746e5cc71b7e9760769b6b1038721f2a86b343c5ef84ccc51bfbb5aa6ace9",
+  "after_exam_sha256": "c2eb3887f1bd9e0edf2a1d5430304ee41dde491524225094899f2e0f8ad5749f",
+  "source_sections": [
+    "C"
+  ],
+  "supplied_source_sha256": "a3f08912df20f9b08c3490d3a8722b9e5ba21303eccc4da9522d29ad6a833134",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Retained coherentLaParure12+18=30; resolved divergent32/30score contradiction by adopting explicit embedded30point paper; absentChansonDouce and separatebiography exercise archived."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "bc4e682b85bfae343d6d4a356a9348d18bcabed51e9c5d20ab5f8f4399a98b02",
+      "after_sha256": "94ecb68953f4f9195be9ae0ecf984841554a2b9b50c27b45c6972ec2f1c00064",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit05_abitur-mock-2_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit05_abitur-mock-2_exam/index.md",
+      "before_sha256": "94ecb68953f4f9195be9ae0ecf984841554a2b9b50c27b45c6972ec2f1c00064",
+      "after_sha256": "c2eb3887f1bd9e0edf2a1d5430304ee41dde491524225094899f2e0f8ad5749f",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

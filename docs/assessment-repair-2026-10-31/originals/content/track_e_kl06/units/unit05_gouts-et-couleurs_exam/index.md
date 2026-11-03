@@ -1,0 +1,94 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 5"
+subtitle: "Goûts et couleurs · classe 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 5
+slug: "gouts-et-couleurs-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.notes-messages-and-forms.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
+
+### Tâche 1 — Vocabulaire (10 points)
+
+Traduisez :
+
+- rot · blau · gelb · grün · schwarz · weiß · orange · lila ·
+ rosa · grau.
+
+Plus, traduisez : *j'adore · j'aime · je n'aime pas · je
+déteste*.
+
+### Tâche 2 — Accord (8 points)
+
+Complétez avec la bonne forme.
+
+1. Une chemise *(bleu)* ___.
+2. Des yeux *(noir)* ___.
+3. Une voiture *(rouge)* ___.
+4. Des chaussures *(blanc)* ___.
+5. Un manteau *(vert)* ___.
+6. Des cheveux *(jaune)* ___.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Présentez **vos goûts** en **70 mots** : 2 j'adore + 1 j'aime
++ 1 je n'aime pas + 1 je déteste. Citez **3 couleurs** avec
+accord correct.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Vocabulaire | 10 |
+| Tâche 2 — Accord | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** rouge · bleu · jaune · vert · noir · blanc ·
+orange · violet · rose · gris. + j'adore · j'aime · je n'aime
+pas · je déteste.
+
+**Tâche 2.** 1) bleue · 2) noirs · 3) rouge · 4) blanches ·
+5) vert · 6) jaunes.
+
+**Tâche 3.** Réponses libres. Critères : 70 mots · 4 verbes de
+goût · 3 couleurs accordées.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 5*

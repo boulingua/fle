@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 11
 slug: "premiere-mediation"
 bildungsplan:
-  - "3.1.3.6 Médiation linguistique"
+- "3.1.3.6 Médiation linguistique"
 skills_focus:
 - mediation
 presentation:
@@ -18,22 +18,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_premiere-mediation.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_premiere-mediation.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit11_premiere-mediation.html"
+- "/track_e_kl07/units/unit11_premiere-mediation.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.MED.collaborating-to-construct-meaning.01
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
-    - A1.INT.correspondence.03
-    - A1.INT.interviewing-and-being-interviewed.02
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.MED.collaborating-to-construct-meaning.01
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.correspondence.03
+  - A1.INT.interviewing-and-being-interviewed.02
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit11_premiere-mediation_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_premiere-mediation-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_premiere-mediation-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -63,14 +95,12 @@ Inès revient de Karlsruhe avec un petit dépliant en allemand. Elle le pose sur
 2. Inès va-t-elle traduire chaque mot ? Que va-t-elle faire à la place ?
 3. À votre avis, quelle est la différence entre **traduire** et **médier** ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà expliqué à quelqu'un, en français, un message écrit dans une autre langue ?
 - Quand vous racontez un film à un ami, dites-vous chaque phrase, ou seulement l'**essentiel** ?
 - Le mot allemand *Sprachmittlung* contient l'idée de « faire passer » (*mitteln*). Que « fait-on passer » selon vous : les **mots** ou le **sens** ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Allemand (source) | Français (cible) | Tournure utile |
@@ -104,6 +134,8 @@ Attention : après *dire que*, le verbe se met à l'**indicatif** (*Le texte dit
 
 ### C. Texte source (allemand) et médiation modèle
 
+**Scénario pédagogique fictif.** Les horaires, tarifs et activités ci-dessous servent à la médiation; ils ne constituent pas les informations actuelles du musée réel. Le modèle français transmet uniquement les données de ce scénario.
+
 > **ZKM Karlsruhe — Besucherinformation**
 >
 > Das ZKM (Zentrum für Kunst und Medien) ist ein Museum in Karlsruhe. Es zeigt Medienkunst, Videoinstallationen und Computerkunst. Es ist von Mittwoch bis Sonntag von 10 bis 18 Uhr geöffnet, montags und dienstags geschlossen. Der Eintritt kostet 8 Euro für Erwachsene, 4 Euro für Schüler. Junge Besucher unter 12 Jahren haben freien Eintritt.
@@ -118,8 +150,7 @@ Remarquez : cinq phrases suffisent. On n'a pas traduit *Videoinstallationen* mot
 
 Le **ZKM** (Zentrum für Kunst und Medien) de Karlsruhe est un centre consacré à l'art des médias et à l'art numérique. Fondé à la fin des années 1980, il a ouvert son bâtiment principal — une ancienne usine réhabilitée — à la fin des années 1990. Il combine musée, ateliers et laboratoires de recherche autour de l'image, du son et de l'informatique, ce qui en fait un lieu souvent cité comme pionnier de l'art numérique en Europe. Paraphrasé d'après l'article encyclopédique cité en Sources.
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Vrai ou faux ?** D'après le texte source (partie C), indiquez V ou F.
 
 1. Le ZKM est ouvert tous les jours.
@@ -145,6 +176,7 @@ Le **ZKM** (Zentrum für Kunst und Medien) de Karlsruhe est un centre consacré 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) F (mercredi–dimanche seulement). 2) V. 3) F (c'est gratuit). 4) V.
 
 **Ex. 2.** 1) *dit que*. 2) *Selon*. 3) *L'essentiel, c'est que*.
@@ -160,9 +192,9 @@ Le **ZKM** (Zentrum für Kunst und Medien) de Karlsruhe est un centre consacré 
 - **M (moyen) :** l'élève médie le texte de l'Ex. 4 en trois phrases avec la banque de tournures.
 - **E (exigeant) :** l'élève médie sans banque de mots et ajoute une phrase d'adaptation au destinataire (*Tu peux y aller le samedi matin !*).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche de médiation (écrite, ~70 mots).** Votre ami·e québécois·e veut aller à la piscine. Médiez ce dépliant allemand pour lui / elle en cinq phrases. Adaptez le ton (registre familier, *tu*).
 
 > *Das Schwimmbad in Karlsruhe ist täglich von 7 bis 22 Uhr geöffnet. Erwachsene zahlen 5 Euro, Kinder 2,50 Euro. Im Sommer kann man auch draußen schwimmen.*
@@ -177,34 +209,18 @@ Le **ZKM** (Zentrum für Kunst und Medien) de Karlsruhe est un centre consacré 
 | Adaptation | Le registre convient à un ami (*tu*, ton simple). |
 | Langue | Phrases correctes et compréhensibles. |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux dire en quoi médier diffère de traduire mot à mot.
 - [ ] Je repère qui, quoi, où, quand, combien dans un texte allemand.
 - [ ] Je transmets le sens en cinq phrases françaises.
 - [ ] J'utilise des tournures d'introduction (*le texte dit que…*, *selon…*).
 - [ ] J'adapte mon message au destinataire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (Klassenarbeit), Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit11_premiere-mediation_exam" >}}).
 
-**Tâche 1 — Médiation linguistique (15 points).** Médiez le dépliant allemand suivant pour un·e ami·e francophone, en cinq à six phrases (~70 mots). Gardez tous les horaires et tarifs.
-
-> *Das Naturkundemuseum ist von Dienstag bis Sonntag von 9.30 bis 17 Uhr geöffnet. Montags ist es geschlossen. Der Eintritt kostet 6 Euro; Schüler und Studenten zahlen 3 Euro. Am ersten Sonntag im Monat ist der Eintritt frei.*
-
-**Tâche 2 — Compréhension du texte source (8 points).** Répondez par vrai ou faux et corrigez les phrases fausses.
-
-1. Le musée est ouvert le lundi.
-2. Un élève paye 3 €.
-3. L'entrée est toujours payante.
-4. Le musée ferme à 17 h.
-
-**Tâche 3 — Expression écrite (7 points).** Rédigez un court message (~50 mots) à votre ami·e pour proposer une visite : quand y aller, combien ça coûte, pourquoi c'est intéressant.
-
-**Barème : 30 points au total** (Tâche 1 : 15 · Tâche 2 : 8 · Tâche 3 : 7).
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 - **Durée :** 45 minutes.
 - **Déroulement :** Activer 4' · Apporter 13' · S'entraîner 13' · Produire 12' · Réfléchir 2' · Aperçu 1'.

@@ -1,0 +1,92 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 5"
+subtitle: "J'aime, je n'aime pas · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 5
+slug: "j-aime-je-n-aime-pas-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.01
+    - A1.INT.correspondence.01
+    - A1.LING.orthographic-control.01
+    - A1.LING.phonological-control.01
+    - A1.MED.collaborating-to-construct-meaning.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 6
+
+### Tâche 1 — Grammatik / négation (12 points)
+
+Mettez à la forme **négative** *ne … pas* :
+
+1. J'aime les bonbons.
+2. Tu manges des frites.
+3. Elle joue au foot.
+4. Nous écoutons la radio.
+5. Vous allez au cinéma.
+6. Ils habitent à Paris.
+
+### Tâche 2 — Lecture + goûts (8 points)
+
+Lisez le mini-dialogue (Unité 5, texte C). Complétez :
+
+- Léa adore : ____________________
+- Léa aime bien : ____________________
+- Théo adore : ____________________
+- Théo déteste : ____________________
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Écrivez **5 phrases** sur vos goûts : 2 choses adorées + 2
+détestées + 1 ambivalente (*j'aime bien · pas trop*). Au moins
+2 phrases avec **négation** *ne … pas*.
+
+## Notation
+
+| Tâche | Points |
+|--------------------------|--------:|
+| Tâche 1 — Grammatik | 12 |
+| Tâche 2 — Lecture | 8 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Je n'aime pas les bonbons. 2) Tu ne manges pas
+de frites. 3) Elle ne joue pas au foot. 4) Nous n'écoutons pas
+la radio. 5) Vous n'allez pas au cinéma. 6) Ils n'habitent pas à
+Paris.
+
+**Tâche 2.** Léa adore : pas explicite, mais aime bien les
+épinards avec du fromage. Théo adore : le chocolat. Théo
+déteste : les épinards.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 5*

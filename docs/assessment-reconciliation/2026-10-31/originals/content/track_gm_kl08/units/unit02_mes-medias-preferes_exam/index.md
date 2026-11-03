@@ -1,0 +1,132 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 2"
+subtitle: "Mes médias préférés · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 2
+slug: "mes-medias-preferes-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.interviewing-and-being-interviewed.03
+    - A2.MED.processing-text.01
+    - A2.REC.reading-for-information-and-argument.04
+    - A2.INT.asking-for-clarification.02
+    - A2.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 8
+
+{{< callout type="warning" >}}
+Format devoir surveillé (« Klassenarbeit ») (niveau M) avec **partie orale
+enregistrée**, durée totale ~60 min (incl. enregistrement).
+Stimuli originaux.
+{{< /callout >}}
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez le mini-dialogue suivant.
+
+> **Madame Renault :** Karim, qu'est-ce que tu as regardé hier
+> soir ?
+>
+> **Karim :** Des vidéos courtes sur YouTube. Genre 30 secondes
+> chacune. Sur tout — sport, animaux, des trucs marrants.
+>
+> **Léa :** Moi, j'ai lu un article sur les vacances scolaires
+> dans *1 jour, 1 actu*.
+>
+> **Madame Renault :** Très bien. La différence, c'est que ton
+> article, Léa, a une **source** signée. Toi, Karim, est-ce que
+> tu sais qui a fait tes vidéos ?
+
+Répondez en phrases complètes :
+
+1. Que regardait Karim hier soir ? (2 P.)
+2. Pourquoi Madame Renault préfère-t-elle l'article de Léa ?
+ (3 P.)
+3. Que veut dire « fiable » dans ce contexte ? (3 P.)
+
+### Tâche 2 — Mündlicher Anteil (12 points)
+
+Vous enregistrez un mini-interview de **90 secondes** avec un·e
+camarade. Posez et répondez à **trois questions** :
+
+- *Quels médias suis-tu régulièrement ?*
+- *Comment vérifies-tu qu'un article / une vidéo est fiable ?*
+- *Qu'est-ce qui te plaît dans tes médias ?*
+
+Critères de notation :
+
+- **Erfüllung** (3 questions posées + réponses claires) : 4 P.
+- **Langue** (vocabulaire des médias + structures M) : 4 P.
+- **Aussprache** (intelligibilité) : 4 P.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Écrivez un texte d'environ **70 mots** :
+
+> *« Mon média préféré et pourquoi. »*
+
+Mentionnez le nom du média, le type (papier / vidéo / radio /
+réseau social), un avantage, un inconvénient.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Mündlich | 12 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+barème de notes (« Notenschlüssel ») typique :
+*1 ≥ 27 · 2 ≥ 23 · 3 ≥ 18 · 4 ≥ 14 · 5 ≥ 8 · 6 < 8.*
+
+## Solutions (extrait)
+
+**Tâche 1.**
+
+1. Karim regardait des vidéos courtes (≈ 30 secondes) sur
+ YouTube, sur des sujets très variés.
+2. Parce que l'article de Léa a une **source signée** : on sait
+ qui a écrit le texte.
+3. *Fiable* = digne de confiance / sérieux ; on peut s'y fier
+ parce que l'auteur·rice est identifiable.
+
+**Tâche 3 (modèle, ~72 mots).**
+
+> Mon média préféré, c'est *1 jour, 1 actu*. C'est un magazine
+> en vidéo et en texte qui explique l'actualité aux ados. Un
+> avantage : les explications sont courtes et claires. Un
+> inconvénient : il y a parfois des sujets difficiles que je dois
+> relire. Je le préfère à TikTok, parce que je sais qui écrit
+> les articles, et il y a une **vraie source**.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 2*

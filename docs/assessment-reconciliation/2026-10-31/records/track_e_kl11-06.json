@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+  "exam": "content/track_e_kl11/units/unit06_argumentation-structuree_exam/index.md",
+  "before_unit_sha256": "9a55c165ebcfacee5fdd2fe2c85bc820a89cdd615d50102f8427c4b92021b231",
+  "after_unit_sha256": "658941d78d1990272e2f9f599d6dc7887b121fcf615907ac7bc74cea031ef6d2",
+  "before_exam_sha256": "9bd3159d3ab3081857ec45e98ecdd4cda230c03f28abebb7afecc7e07a74127c",
+  "after_exam_sha256": "6466ffec3237ca25030ece473865397081b38f796111b619108ac63407ebc9c9",
+  "source_sections": "C",
+  "supplied_source_sha256": "864805fac51989f8a6391ca0025232128e40de27b984d2347cfd2198ec3b33cf",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unrelated freedom-of-expression source questions and unsupported legalfacts. Matched argumentation method and corrected en revanche used for added reason."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "6bcb6264fe8e15dbfb750b7680b8b01c559e8bc404b2a8c840e021b367cf7266",
+      "after_sha256": "658941d78d1990272e2f9f599d6dc7887b121fcf615907ac7bc74cea031ef6d2",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit06_argumentation-structuree/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9a9ad446ebd02c930dbe684f90803c76194c4d418750f2aa56bcc2dd8635bdd6",
+      "after_sha256": "f16d8d709442246e9776cf75013980f10ec72629797429518e821b7cd81345a6",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit06_argumentation-structuree_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "f16d8d709442246e9776cf75013980f10ec72629797429518e821b7cd81345a6",
+      "after_sha256": "9c725dd4a64ebfbe70d37a7aa0533e3adf5ef65b7fb0ceeb7b97aff7351fa798",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit06_argumentation-structuree_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit06_argumentation-structuree_exam/index.md",
+      "before_sha256": "9c725dd4a64ebfbe70d37a7aa0533e3adf5ef65b7fb0ceeb7b97aff7351fa798",
+      "after_sha256": "6466ffec3237ca25030ece473865397081b38f796111b619108ac63407ebc9c9",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

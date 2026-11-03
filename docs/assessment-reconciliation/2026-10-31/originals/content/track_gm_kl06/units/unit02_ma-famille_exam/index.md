@@ -1,0 +1,83 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 2"
+subtitle: "Ma famille · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 2
+slug: "ma-famille-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.INT.conversation.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 6
+
+### Tâche 1 — Vocabulaire (10 points)
+
+Traduisez en français :
+
+1. der Bruder · 2. die Tante · 3. die Eltern · 4. der Sohn ·
+5. die Großmutter.
+
+### Tâche 2 — Expression écrite (« Schreiben ») (10 points)
+
+Présentez votre famille en **environ 40 mots**, avec au moins
+**3 possessifs** *mon · ma · mes*.
+
+### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 points)
+
+Présentation orale de votre famille (1 minute) avec photo ou
+arbre généalogique. Critères : Erfüllung 4 P. · Aussprache 3 P.
+· Langue 3 P.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Vocabulaire | 10 |
+| Tâche 2 — Expression écrite | 10 |
+| Tâche 3 — Expression orale mündlich | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) le frère · 2) la tante · 3) les parents · 4) le
+fils · 5) la grand-mère.
+
+**Tâche 2 (modèle, ~42 mots).** *Voici ma famille. Ma mère
+s'appelle Anne, elle a 42 ans. Mon père s'appelle Stefan, il a
+45 ans. Mon petit frère Jonas a 8 ans. Et mes grands-parents
+habitent à Berlin.*
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 2*

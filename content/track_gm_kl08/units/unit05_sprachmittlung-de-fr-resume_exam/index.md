@@ -23,10 +23,15 @@ curriculum:
     - A2.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 8 (médiation linguistique (« Sprachmittlung »))
+## Modalités
+
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
 ### Tâche unique — médiation linguistique (30 points)
 
@@ -59,7 +64,7 @@ principales pour Inès, votre correspondante à Montréal.
  le texte · l'auteur·rice cite · la majorité de · l'école
  envisage*).
 
-## Notation
+## Barème
 
 | Critère | Points |
 |------------------------------------------|-------:|
@@ -68,31 +73,27 @@ principales pour Inès, votre correspondante à Montréal.
 | Sens fidèle (pas de contresens) | 8 |
 | **Total** | **30** |
 
-## Modèle de résumé (~75 mots, ~6 phrases)
 
-> Il s'agit d'un échange scolaire entre une Gemeinschaftsschule
-> de Karlsruhe et un collège (« Realschule ») de Lille. Vingt-quatre élèves y ont
-> participé pendant deux semaines. D'après Madame Renault, les
-> progrès linguistiques sont modestes mais les connaissances
-> culturelles sont grandes. La majorité des participant·e·s se
-> sent plus à l'aise pour parler français après l'échange.
-> L'école envisage d'étendre le programme à trois semaines
-> l'année prochaine. Les parents soulignent l'autonomie
-> retrouvée des enfants.
 
----
+## Corrigé
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+**Total : 30 points.**
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 5*
+Contenu 12 : échange Karlsruhe–Lille 2,24 élèves/deux semaines 2, modestes progrès linguistiques et riches expériences culturelles 3, confiance accrue mais vocabulaire limité 2, projet trois semaines 2, autonomie rapportée par parents 1. Langue 10 : expressions de médiation 4, phrases reliées 3, correction 3. Fidélité 8 : conserver les nuances 4, ne pas inventer ou renforcer 4.
+
+Un collège français ne doit pas être traduit automatiquement par Realschule; garder collège et expliquer « établissement secondaire français » si utile. Les élèves reviennent plus autonomes, sans preuve qu’ils auraient auparavant perdu leur autonomie. Le texte est un scénario pédagogique original; on n’en déduit pas un effet mesuré de tous les échanges.
+
+{{< /details >}}
+
+## Sources
+
+- *Office franco-allemand pour la jeunesse* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Office_franco-allemand_pour_la_jeunesse>, licence CC BY-SA 4.0.
+- *Médiation — Cadre européen commun de référence pour les langues (CECR)* — Conseil de l'Europe (consulté le 21 juillet 2026), <https://www.coe.int/fr/web/common-european-framework-reference-languages/mediation>, © Conseil de l'Europe (référencé, non cité).
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

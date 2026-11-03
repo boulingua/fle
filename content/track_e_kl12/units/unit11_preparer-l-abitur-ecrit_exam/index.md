@@ -23,81 +23,63 @@ curriculum:
     - B2.PLUR.building-on-plurilingual-repertoire.03
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 20
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock)
+## Modalités
 
-### Tâche 1 — Verstehen (10 points) — 60 min
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez le texte sur la loi IA (Unité 11, texte C).
-Répondez :
+## Support
 
-1. Quand la loi a-t-elle été votée ?
-2. Citez les 3 mesures principales.
-3. Quand entre-t-elle en vigueur ?
-4. Qui sont les deux personnes citées ?
-5. Quelle position défend chacun·e ?
+### Texte de méthode (texte original)
 
-### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 points) — 90 min
+> **Trois heures, trois réflexes.**
+>
+> À l'écrit, le temps est votre matière première. Un réflexe pour chaque partie.
+>
+> *Réflexe n° 1 — lire la plume à la main.* On ne lit jamais un texte d'examen sans crayon. On souligne les dates, les noms, la thèse et les mots de la consigne. Cinq minutes de lecture active valent une heure de lecture passive.
+>
+> *Réflexe n° 2 — planifier avant de rédiger.* Deux minutes de plan économisent vingt minutes de panne. Trois idées, un exemple par idée, une ouverture : le squelette du texte tient sur une ligne.
+>
+> *Réflexe n° 3 — garder dix minutes pour se relire.* On traque d'abord les accords (sujet-verbe, participe passé), ensuite les temps, enfin la ponctuation. La dernière ligne se corrige aussi soigneusement que la première.
 
-Rédigez un **commentaire personnel** (~350 mots) :
-pour ou contre cette loi, en mobilisant **1 référence**
-(Camus, Despentes, Senghor, Modiano…). 4 § + 4
-connecteurs + 2 citations.
+**Épreuve type — compréhension écrite + expression écrite**
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 points) — 60 min
+**Partie A — Compréhension écrite (10 points).** À partir du *Texte de méthode* de la section 2 :
 
-Médiez ce texte allemand en français (~280 mots) :
+1. Nommez les trois réflexes proposés. *(3 P.)*
+2. Expliquez, en une phrase, l'idée « le temps est votre matière première ». *(3 P.)*
+3. Relevez deux conseils concernant la relecture. *(2 P.)*
+4. Quel est le ton du texte (informatif, injonctif, ironique) ? Justifiez par un mot. *(2 P.)*
 
-> *Berlin diskutiert über ein eigenes KI-Gesetz. Der
-> Bundestag hat im Februar 2026 eine Anhörung dazu
-> abgehalten. Cédric O, ehemaliger französischer
-> Staatssekretär, sprach in Berlin über das französische
-> Modell. Die Wissenschaftlerin Asma Mhalla betont, dass
-> nur eine europäische Koordination wirksam sei. Das
-> deutsche Gesetz soll 2027 verabschiedet werden.*
+**Partie B — Expression écrite (10 points).** Rédigez un texte d'environ 180 mots : *« Un conseil que je donnerais à un·e camarade avant l'épreuve écrite »*. Structure attendue : une introduction, deux conseils argumentés, une conclusion.
 
-## Notation
+**Barème (20 points) :** Partie A = 10 (contenu et précision) · Partie B = 10 (contenu 4, structure 3, langue 3).
 
-| Tâche | Points | Durée |
-|--------------------------|--------|--------|
-| Verstehen | 10 | 60 min |
-| Analyse / Expression écrite | 10 | 90 min |
-| médiation linguistique | 10 | 60 min |
-| **Total écrit** | **30** | **210 min** |
+## Corrigé
 
-## Solutions
+**Total : 20 points.**
 
-**Tâche 1.** 1) 16 mars 2026. 2) Interdit deepfakes /
-étiquetage IA / Observatoire IA. 3) 1ᵉʳ janvier 2027. 4)
-Cédric O + Asma Mhalla. 5) Cédric O = enthousiaste ; Asma
-Mhalla = nuance (besoin d'Europe).
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** Réponses libres. Critères : 350 mots · 4 § ·
-4 connecteurs · 1 référence · 2 citations.
+A1. Lecture active; planifier; relire (1 chacun).A2. Le temps disponible est limité (1), répartir l’effort (1), éviter de négliger une étape (1).A3. Deux parmi accords, temps, ponctuation, dernièreligne (1 chacun).A4. Injonctif/conseil (1), impératif ou tournure prescriptive citée (1). Les rapports cinqminutes/uneheure et deux/vingt sont des formulations persuasives, pas des mesures d’efficacité.
 
-**Tâche 3.** Modèle : *L'article expose le débat allemand
-sur une future loi IA. Le Bundestag a tenu une audition en
-février 2026. L'ancien secrétaire d'État français Cédric O
-y est intervenu pour présenter le modèle français. La
-chercheuse Asma Mhalla rappelle que seule une coordination
-européenne sera efficace. Le texte allemand est attendu pour
-2027.* (~280 mots).
+B : contenu 4 (deux conseils expliqués), structure 3, langue 3. Les conseils doivent être réalistes et présentés comme stratégies à éprouver, non comme garanties de résultat. Aucun projet de loi IA, personnalités ni dates 2026–2027 ne sont documentés.
 
----
+{{< /details >}}
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+## Sources
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+- *Cadre européen commun de référence pour les langues* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Cadre_européen_commun_de_référence_pour_les_langues, licence CC BY-SA 4.0.
+- *Médiation (langues)* — concept du Conseil de l'Europe, volume complémentaire du CECR (2018), présentation générale : https://www.coe.int/fr/web/common-european-framework-reference-languages, © Conseil de l'Europe (référencé, non reproduit).
+- Textes de méthode, dialogues et exercices : originaux de l'auteur·e de l'unité.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 11*
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

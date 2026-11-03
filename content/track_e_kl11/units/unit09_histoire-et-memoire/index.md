@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 9
 slug: "histoire-et-memoire"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_histoire-et-memoire.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_histoire-et-memoire.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit09_histoire-et-memoire.html"
+- "/track_e_kl11/units/unit09_histoire-et-memoire.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.compensating.01
-    - B1.REC.understanding-as-a-member-of-a-live-audience.05
-    - B1.REC.watching-tv-film-and-video.02
-    - B1.PROD.creative-writing.01
-    - B1.MED.adapting-language.02
+  - B1.PROD.compensating.01
+  - B1.REC.understanding-as-a-member-of-a-live-audience.05
+  - B1.REC.watching-tv-film-and-video.02
+  - B1.PROD.creative-writing.01
+  - B1.MED.adapting-language.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit09_histoire-et-memoire_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_histoire-et-memoire-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit09_histoire-et-memoire-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,15 +100,13 @@ curriculum:
 - Connaissez-vous d'autres exemples de « silence » puis de reconnaissance officielle ?
 - À votre avis, quelle est la différence entre *se souvenir* et *reconnaître* ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que savez-vous déjà du régime de **Vichy** (1940-1944) ?
 - Quand a eu lieu la **guerre d'Algérie** ? Quel pays a obtenu son indépendance ?
 - Associez chaque mot à une définition : *fait*, *témoignage*, *reconnaissance*, *commémoration*.
 - En allemand, on parle d'*Erinnerungskultur* (« culture de la mémoire »). Existe-t-il un équivalent en France ? Comment se manifeste-t-il ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Précision / exemple | Allemand |
@@ -127,8 +157,7 @@ Le complément d'agent (*par…*) peut être omis quand l'auteur est inconnu ou 
 *Faits paraphrasés d'après « Rafle du Vélodrome d'Hiver » et « Guerre d'Algérie », Wikipédia en français (CC BY-SA).*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).**
 
 1. Quelle est la date de la rafle du Vélodrome d'Hiver ?
@@ -162,6 +191,7 @@ Le complément d'agent (*par…*) peut être omis quand l'auteur est inconnu ou 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Le 16 juillet 1942. 2) La police française, sur ordre de l'occupant allemand. 3) Une manifestation pacifique d'Algériens est violemment réprimée. 4) En mars 1962, avec les Accords d'Évian (suivis de l'indépendance de l'Algérie). 5) L'histoire = les faits établis par les archives et les historiens ; la mémoire = ce que la société accepte de regarder et de transmettre.
 
 **Ex. 2.** a) histoire (fait daté) — b) mémoire (souvenir familial/social) — c) politique mémorielle (reconnaissance officielle) — d) politique mémorielle (commémoration instituée).
@@ -169,9 +199,9 @@ Le complément d'agent (*par…*) peut être omis quand l'auteur est inconnu ou 
 **Ex. 3.** 1) Des milliers de personnes **sont arrêtées** par la police française. 2) Ces faits **ont été longtemps occultés** par l'État. 3) Ces événements **sont commémorés** (par le pays) chaque année.
 
 **Ex. 4.** Exemple : *un passé que le temps n'efface pas.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~300 mots).**
 
 Rédigez une **note historique** claire et factuelle sur **l'un** des deux sujets suivants :
@@ -196,27 +226,18 @@ Consignes de langue : employez **au moins deux phrases à la voix passive** ; ad
 | Langue | voix passive (× 2), vocabulaire de l'unité | 4 |
 | Correction et registre | grammaire, ton neutre et respectueux | 3 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux situer Vichy et la guerre d'Algérie dans le temps.
 - [ ] Je distingue clairement l'histoire de la mémoire.
 - [ ] Je comprends un texte documentaire et j'en extrais dates et chiffres.
 - [ ] Je forme correctement la voix passive à plusieurs temps.
 - [ ] Je rédige une note historique de 300 mots, factuelle et respectueuse.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve d'examen (compréhension écrite + expression écrite) — 30 points.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit09_histoire-et-memoire_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 points).** À partir du texte C, répondez à cinq questions (identification des dates, des acteurs et de la distinction histoire / mémoire).
-
-**Tâche 2 — Point de langue (8 points).** Transformez quatre phrases actives à la voix passive et classez quatre énoncés (histoire / mémoire / politique mémorielle).
-
-**Tâche 3 — Expression écrite (12 points).** Rédigez une note historique (~300 mots) selon la consigne de la partie « Produire ».
-
-**Barème :** Tâche 1 = 10 P. · Tâche 2 = 8 P. · Tâche 3 = 12 P. · **Total = 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 - **Durée :** 45 min. Répartition indicative : Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Bilan/aperçu 2'.
 - **Organisation :** entrée par la Situation de départ (plénière, 5'), puis travail sur le texte C en binômes ; correction des exercices en plénière.

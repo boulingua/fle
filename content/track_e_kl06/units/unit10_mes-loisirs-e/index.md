@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 10
 slug: "mes-loisirs-e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_mes-loisirs-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_mes-loisirs-e.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit10_mes-loisirs-e.html"
+- "/track_e_kl06/units/unit10_mes-loisirs-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.information-exchange.02
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.interviewing-and-being-interviewed.01
-    - A1.REC.reading-correspondence.02
-    - A1.LING.orthographic-control.01
+  - A1.INT.information-exchange.02
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.interviewing-and-being-interviewed.01
+  - A1.REC.reading-correspondence.02
+  - A1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit10_mes-loisirs-e_exam
+  format: written
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_interaction
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_mes-loisirs-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit10_mes-loisirs-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,8 +100,7 @@ Devant le collège, à la sortie des cours, un lundi après-midi.
 2. Quels loisirs a Tristan ?
 3. Quelle question pose Anouk pour parler de la fréquence ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En classe entière ou par deux, répondez oralement :
 
 - Quel sport pratiquez-vous ? Quand ?
@@ -76,8 +108,7 @@ En classe entière ou par deux, répondez oralement :
 - Que faites-vous le week-end pour vous détendre ?
 - Écrivez au tableau tous les loisirs que la classe connaît déjà en français.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire — les loisirs
 
 | Français | Allemand |
@@ -135,8 +166,7 @@ En France, le sport le plus pratiqué en club est le **football** : la Fédérat
 *(Fait paraphrasé d'après Wikipédia, CC BY-SA — voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (texte « Une semaine bien remplie »)**
 Répondez par une phrase complète.
 
@@ -178,6 +208,7 @@ Les corrigés se trouvent dans la section **Solutions** ci-dessous.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Elle fait du judo le mardi soir et elle joue au foot le mercredi après-midi.
 2. Le dimanche matin, elle joue du piano (pendant une heure).
@@ -190,9 +221,9 @@ Les corrigés se trouvent dans la section **Solutions** ci-dessous.
 **Exercice 3.** Réponses personnelles (vérifier l'emploi correct de l'adverbe : *ne… jamais* encadre le verbe).
 
 **Exercice 4.** Réponses personnelles (vérifier les structures *faire de / jouer à / jouer de* et l'accord des questions).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, environ six à huit répliques)**
 
 A et B se rencontrent après les cours et parlent de leurs loisirs. Votre dialogue doit contenir :
@@ -213,8 +244,7 @@ Jouez ensuite votre dialogue devant un autre binôme.
 | Interaction | une invitation + une réaction |
 | Fluidité | prononciation claire, débit régulier |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire :
 
 - [ ] Je peux nommer au moins huit loisirs en français.
@@ -223,29 +253,11 @@ Cochez ce que vous savez faire :
 - [ ] Je comprends un court texte sur les loisirs de quelqu'un.
 - [ ] Je peux échanger avec un·e camarade et l'inviter à essayer une activité.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit10_mes-loisirs-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 points)**
-Lisez un court texte (type texte « Une semaine bien remplie ») et répondez à cinq questions par des phrases complètes.
-
-**Tâche 2 — Grammaire (8 points)**
-Complétez huit phrases avec *faire de / jouer à / jouer de* et le bon article contracté.
-
-**Tâche 3 — Expression écrite — interaction simulée (12 points)**
-Rédigez un court dialogue (environ 80 mots) : deux personnes parlent de leurs loisirs, mentionnent la fréquence et s'invitent à une activité.
-
-**Barème — total : 30 points**
-
-| Tâche | Points |
-|---|---|
-| Compréhension écrite | 10 |
-| Grammaire | 8 |
-| Expression écrite (interaction) | 12 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes**
 

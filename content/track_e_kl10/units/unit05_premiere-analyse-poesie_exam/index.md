@@ -23,59 +23,58 @@ curriculum:
     - B1.MED.breaking-down-complicated-information.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez l'extrait *Femme noire* (Unité 5, texte C). Répondez :
+## Support
 
-1. Qui est l'auteur ?
-2. De quel recueil est tiré le poème ? Quelle année ?
-3. À quoi est comparée la femme ?
-4. Quel sentiment domine ?
-5. À quel mouvement littéraire appartient l'auteur ?
+### C. Le poème support — *Chanson d'automne* (Verlaine, 1866, extrait)
 
-### Tâche 2 — Outils d'analyse (8 points)
+> Les sanglots longs
+> Des violons
+> De l'automne
+> Blessent mon cœur
+> D'une langueur
+> Monotone.
+>
+> Tout suffocant
+> Et blême, quand
+> Sonne l'heure,
+> Je me souviens
+> Des jours anciens
+> Et je pleure ;
+>
+> *(Paul Verlaine, « Chanson d'automne », Poèmes saturniens, 1866 — domaine public)*
 
-Reliez chaque outil à sa définition :
+### Tâche 1 — Compréhension écrite (10 points)
 
-- vers · strophe · rime · métaphore · anaphore ·
- allitération · personnification · comparaison
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
 
-(Définitions : ligne · groupe de vers · sons identiques en
-fin · image · répétition au début · répétition d'un son ·
-attribuer humain à objet · « comme ».)
+1. Quel poète est nommé et dans quel recueil cet extrait est-il publié ?
+2. Quelle saison et quel instrument apparaissent dans la première strophe ?
+3. Relevez deux mots qui riment dans la première strophe.
+4. Quel événement sonore déclenche le souvenir et de quelle période le locuteur se souvient-il ?
+5. Quelle émotion domine ? Justifiez avec un mot ou un vers.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+### Tâche 2 — Langue (8 points)
 
-À partir de *Déjeuner du matin* (Prévert, fourni), rédigez
-une **mini-analyse** (~150 mots) : forme + 2 outils +
-interprétation + conclusion.
+Dans l’extrait fourni, relevez : 1. une métaphore et son effet; 2. une paire de rimes; 3. le nombre de strophes reproduites et le nombre de vers dans chacune; 4. un verbe qui montre l’action du souvenir et expliquez-le.
 
-## Notation
+**Barème :** 4 repérages × 2 points : élément exact 1, précision ou explication 1.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Outils | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+### Tâche 3 — Production (12 points)
 
-## Solutions
+Rédigez une mini-analyse de l’extrait fourni de Chanson d’automne en 120 à 150 mots : forme, une image citée brièvement, thème et atmosphère, puis conclusion personnelle. Distinguez les mots du poème de votre interprétation. Aucun autre poème n’est nécessaire.
 
-**Tâche 1.** 1) Senghor. 2) *Chants d'ombre*, 1945. 3) À la
-« Terre promise ». 4) Admiration / célébration. 5)
-Négritude.
+**Barème :** Contenu pertinent : 4 points; structure et connecteurs : 3; langue et formes demandées : 3; adaptation au destinataire : 2.
 
-**Tâche 2.** Réponses libres (associations).
-
-**Tâche 3.** Réponses libres. Critères : 150 mots · 2
-outils · interprétation · conclusion.
-
----
+## Barème total
 
 {{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
 **Total.** 30 points
@@ -90,4 +89,31 @@ outils · interprétation · conclusion.
 | 0–8 | 6 |
 {{< /callout >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 5*
+*Ce barème reprend les seuils du sujet antérieur; il est proposé pour ces tâches seulement, sans valeur de certification GER ou de règlement scolaire.*
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Tâche 1.**
+
+1. Paul Verlaine; Poèmes saturniens (1 + 1). 2. Automne; violons (1 + 1). 3. longs/violons ou cœur/langueur (1 + 1). 4. L’heure qui sonne; jours anciens (1 + 1). 5. Tristesse/mélancolie (1); sanglots/blessent/pleure ou autre indice pertinent (1).
+
+**Tâche 2.** 1. « sanglots… violons » : rapprochement entre plainte et musique, autre lecture justifiée admise. 2. longs/violons ou cœur/langueur. 3. Deux strophes de six vers. 4. « je me souviens » : retour aux jours anciens; explication équivalente acceptée.
+
+**Tâche 3.** Analyse appuyée sur les deux strophes effectivement fournies; accepter plusieurs interprétations étayées. Forme brève, musicalité/rimes, souvenir et tristesse constituent des pistes, pas une réponse unique.
+
+{{< /details >}}
+
+## Sources
+
+- « Chanson d'automne » — Wikipédia (consulté 2026), https://fr.wikipedia.org/wiki/Chanson_d%27automne — licence CC BY-SA 4.0.
+- « Paul Verlaine » — Wikipédia (consulté 2026), https://fr.wikipedia.org/wiki/Paul_Verlaine — licence CC BY-SA 4.0.
+- « Poèmes saturniens » — Wikipédia (consulté 2026), https://fr.wikipedia.org/wiki/Po%C3%A8mes_saturniens — licence CC BY-SA 4.0.
+- Paul Verlaine, « Chanson d'automne », *Poèmes saturniens* (1866) — texte du domaine public (auteur mort en 1896).
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

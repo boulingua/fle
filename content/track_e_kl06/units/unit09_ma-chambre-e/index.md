@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 9
 slug: "ma-chambre-e"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production orale en continu"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — production orale en continu"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_ma-chambre-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_ma-chambre-e.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit09_ma-chambre-e.html"
+- "/track_e_kl06/units/unit09_ma-chambre-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.PROD.overall-oral-production.01
-    - A1.LING.phonological-control.01
-    - A1.PLUR.plurilingual-comprehension.01
-    - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.creative-writing.01
+  - A1.PROD.overall-oral-production.01
+  - A1.LING.phonological-control.01
+  - A1.PLUR.plurilingual-comprehension.01
+  - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit09_ma-chambre-e_exam
+  format: written
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_ma-chambre-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit09_ma-chambre-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,8 +103,7 @@ Léa vient d'emménager dans un nouvel appartement. Au téléphone, elle décrit
 2. Qu'est-ce qu'il y a à côté du lit ?
 3. Comment Léa trouve-t-elle sa chambre ? Citez deux adjectifs.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Habitez-vous dans une maison ou dans un appartement ?
 - Combien de pièces y a-t-il chez vous ?
 - Partagez-vous votre chambre, ou avez-vous une chambre à vous ?
@@ -79,8 +111,7 @@ Léa vient d'emménager dans un nouvel appartement. Au téléphone, elle décrit
 
 En classe entière, on note au tableau tous les mots de la maison que la classe connaît déjà (remue-méninges, en français).
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand |
@@ -136,8 +167,7 @@ Attention : **à côté de** + *le* → **à côté du** ; + *les* → **à côt
 
 En France, une part importante des ménages vit dans une **maison individuelle** (*Einfamilienhaus*) plutôt que dans un appartement, surtout à la campagne et dans les petites villes ; en ville, l'appartement domine. Le sigle **HLM** (*habitation à loyer modéré*) désigne les logements sociaux, dont les loyers sont encadrés pour rester accessibles. Ces informations sont reprises et reformulées d'après l'article « Logement en France » de Wikipédia (licence CC BY-SA), cité dans les Sources.
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte B).** Répondez par une phrase complète.
 
 1. Où se trouve le lit de Théo ?
@@ -169,6 +199,7 @@ a) la cuisine · b) le canapé · c) le couloir · d) l'armoire · e) le salon �
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 
 1. Le lit de Théo se trouve à droite, contre le mur.
@@ -181,9 +212,9 @@ a) la cuisine · b) le canapé · c) le couloir · d) l'armoire · e) le salon �
 **Exercice 3.** Pièces : a, c, e, g. Meubles : b, d, f, h.
 
 **Exercice 4 (proposition).** Dans le salon, il y a un canapé contre le mur. Devant le canapé, il y a une télévision. Sous la table, au milieu de la pièce, il y a un tapis.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (production en continu, environ 6 à 8 phrases).**
 
 Présentez **votre chambre** (ou une chambre imaginaire) devant un·e camarade ou à l'enseignant·e. Votre présentation doit contenir :
@@ -203,27 +234,18 @@ Présentez **votre chambre** (ou une chambre imaginaire) devant un·e camarade o
 | Langue | *il y a*, articles, genres corrects | 3 |
 | Fluidité / prononciation | discours en continu, compréhensible | 2 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer les pièces d'un logement et les meubles principaux.
 - [ ] Je peux utiliser *il y a* correctement.
 - [ ] Je peux employer au moins 3 prépositions de lieu différentes.
 - [ ] Je peux présenter ma chambre à l'oral en continu.
 - [ ] Je peux écrire un court texte structuré sur ma chambre.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit09_ma-chambre-e_exam" >}}).
 
-**Tâche 1 — Vocabulaire (10 points).** Nommez 4 pièces de la maison et 6 meubles (en français, avec l'article correct).
-
-**Tâche 2 — Prépositions (8 points).** Complétez 8 phrases avec la bonne préposition de lieu.
-
-**Tâche 3 — Expression écrite / *Schreiben* (12 points).** Rédigez la description de votre chambre (environ 70 mots), avec *il y a*, au moins 4 meubles et 3 prépositions différentes.
-
-**Barème : 30 points.** 30–27 = très bien · 26–21 = bien · 20–15 = satisfaisant · 14–9 = passable · < 9 = à retravailler.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min).**
 

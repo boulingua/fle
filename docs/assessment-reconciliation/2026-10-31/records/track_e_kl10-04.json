@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
+  "exam": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam/index.md",
+  "before_unit_sha256": "dfd0d21629eb79d198558d6de89dc54cfc029eb0a9ceaf4eaa3bc67dbaaaead2",
+  "after_unit_sha256": "475e23b37e15959db6c297345771954756426fc146ed2bf4ae089f3292669f9d",
+  "before_exam_sha256": "8d58da36011564cbe58aeb4030ca4c20e9d5b6f2715523dcc23c678d152cfb3a",
+  "after_exam_sha256": "7852a04acfb97985352634ea54e59295e22b8bcbfbd8d1ca430bcf4177460d24",
+  "source_sections": "C",
+  "supplied_source_sha256": "6c058320922b743a955493a0c9097c8f7287293808e6f7dd2e9c9f5b2edcc46c",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed nonexistent celebrity portrait and unstable88/OIF321m fact matching. Source-bounded writing and oral presentation retained without requiring invented biography."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "6fa9af6752f3081c306f68b82a2c85754a81dd29e6b23adfc913ff3c1861cd4a",
+      "after_sha256": "475e23b37e15959db6c297345771954756426fc146ed2bf4ae089f3292669f9d",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ca2aae5e2fc17b0855ca2d24e6050479b7cedd05404ab33ec09b7819696305f6",
+      "after_sha256": "1f82d6a9bc748a2886eeb8344a100cb8c84f8f9afdda59d0cd9cc5f9bc0de78b",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "1f82d6a9bc748a2886eeb8344a100cb8c84f8f9afdda59d0cd9cc5f9bc0de78b",
+      "after_sha256": "73531f0bbcede800122edec0428265198edcd9889c268ef9f5ce78e65dc4d55c",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam/index.md",
+      "before_sha256": "73531f0bbcede800122edec0428265198edcd9889c268ef9f5ce78e65dc4d55c",
+      "after_sha256": "7852a04acfb97985352634ea54e59295e22b8bcbfbd8d1ca430bcf4177460d24",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

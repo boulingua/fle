@@ -23,72 +23,84 @@ curriculum:
     - B2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 45
+assessment_scoring: points-only
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d'entraînement réconcilié avec les supports de l'unité. Ce n'est ni un sujet officiel ni une certification de niveau. Les situations originales sont des scénarios pédagogiques; les références littéraires conservent leur attribution. Les durées et barèmes proposés restent à éprouver en classe. La validation pédagogique et linguistique reste en attente.
 
-Lisez la présentation francophonie (Unité 2, texte C).
-Répondez :
+Durée indicative : 45 minutes, selon les phases précisées ci-dessous.
 
-1. Combien d'États OIF en 2024 ?
-2. Combien de locuteurs en Afrique subsaharienne ?
-3. Quelle linguiste française est citée ?
-4. Quelle citation de Senghor ?
-5. Quelle est la thèse de la présentation ?
+## Support
 
-### Tâche 2 — Variantes francophones (8 points)
+### B. Texte documentaire (texte original, ~230 mots)
 
-Reliez chaque mot à sa variante :
+> **Une langue, des visages**
+>
+> On imagine parfois le français comme un cercle fermé autour de Paris. La réalité est tout autre : le français se parle sur cinq continents, et c'est aujourd'hui en Afrique que le nombre de locuteurs progresse le plus vite. Le français de Montréal, celui de Dakar, celui de Bruxelles et celui de Marseille ne se ressemblent pas tout à fait — et c'est très bien ainsi.
+>
+> Chaque région façonne la langue à sa manière. En Belgique, on compte en « septante » et « nonante » là où la France dit « soixante-dix » et « quatre-vingt-dix ». Au Québec, on « magasine » au lieu de « faire les courses », et l'on tient à protéger le français face à l'anglais voisin. En Afrique de l'Ouest, le français se mêle aux langues locales et invente des mots nouveaux, pleins d'énergie.
+>
+> Aucune de ces variétés n'est « meilleure » qu'une autre. La norme scolaire sert de repère commun, utile pour se comprendre d'un pays à l'autre ; mais elle ne rend pas les usages régionaux fautifs. La francophonie n'est donc pas une uniformité imposée : c'est une pluralité vivante, un patrimoine que des millions de personnes partagent et transforment chaque jour.
 
-- char · septante · moussa · bezzef · poutine · drink ·
- yallah · écœurant
+## Tâches et barème
 
-(Variantes : québécois · belge · sénégalais · maghrébin ·
-québécois · belge · maghrébin · québécois.)
+**Partie A — Compréhension écrite (Leseverstehen) · 12 points**
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+Relisez le texte B (« Une langue, des visages ») et répondez.
 
-Rédigez votre **dissertation** (~400 mots) : *« La
-francophonie est-elle un héritage colonial ou un patrimoine
-partagé ? »* — TAS + 3 citations + 2 références.
+1. Citez deux variétés du français mentionnées et un trait propre à chacune. *(4 pts)*
+2. Expliquez, avec vos propres mots, la thèse de l'auteur sur la norme. *(4 pts)*
+3. « La francophonie n'est pas une uniformité imposée. » Reformulez cette phrase et dites si vous êtes d'accord. *(4 pts)*
 
-## Notation
+**Partie B — Expression orale en continu (Sprechen, monologue) · 18 points**
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Variantes | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+Présentez, sans lecture continue, un exposé de cinq minutes sur **« Pourquoi la pluralité du français est-elle une richesse ? »**.
 
-## Solutions
+**Barème total : 30 points**
 
-**Tâche 1.** 1) 88. 2) 140 millions. 3) Henriette Walter.
-4) *« Le français est une langue à laquelle nous nous
-donnons et qui nous a donné. »* 5) Pluralité = richesse.
+| Domaine | Points |
+|-------------------------------|--------|
+| Compréhension écrite (A) | 12 |
+| Contenu et structure (B) | 8 |
+| Correction linguistique (B) | 5 |
+| Fluidité et prononciation (B) | 5 |
 
-**Tâche 2.** char/poutine/écœurant = QC · septante/drink =
-BE · moussa = SN · bezzef/yallah = MA.
+**Conditions de l'oral.** Préparez une fiche de mots-clés à partir du support. Présentez deux exemples précis de variétés, distinguez norme scolaire et usages régionaux, puis développez votre point de vue. La personne enseignante observe la prestation réelle; un texte remis ou lu en continu ne remplace pas le monologue.
 
-**Tâche 3.** Réponses libres. Critères : 400 mots · TAS ·
-3 citations · 2 références.
+## Corrigé et observation
 
----
+**Total : 30 points.**
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+**A 1 (4).** Belgique : septante/nonante (région 1, trait 1); Québec : magasiner au lieu de faire les courses (région 1, trait 1). Accepter une autre paire région/trait explicitement soutenue par le support. **A 2 (4).** Repère commun utile à l'intercompréhension 2; ne rend pas fautifs les usages régionaux 2. **A 3 (4).** Reformulation : diversité et transformation partagées 2; accord ou désaccord justifié 2. Ne pas noter l'opinion elle-même.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 2*
+**B (18).** Contenu/structure 8 : question et organisation 2, exemples du support 3, point de vue nuancé 3. Langue 5 : précision lexicale et constructions compréhensibles. Fluidité/prononciation 5 : continuité et intelligibilité, sans exiger un accent natif. Consigner au moins un exemple observé par critère.
+
+{{< /details >}}
+
+## Prolongement facultatif, hors barème
+
+Prolongement écrit facultatif : discutez en 250 mots le rapport entre norme commune et diversité régionale, avec deux exemples du support. Ce travail ne remplace aucun point de la prestation orale.
+
+## Sources
+
+- OIF — Qui parle français dans le monde, données 2022 (vérifié le 31 octobre 2026), <https://observatoireancien.francophonie.org/qui-parle-francais-dans-le-monde/>.
+
+
+- Organisation internationale de la Francophonie — Wikipédia (contributeur·rice·s de Wikipédia, consulté en 2026), <https://fr.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie>, licence CC BY-SA 4.0.
+- Français de Belgique — Wikipédia (contributeur·rice·s de Wikipédia, consulté en 2026), <https://fr.wikipedia.org/wiki/Fran%C3%A7ais_de_Belgique>, licence CC BY-SA 4.0.
+- Français québécois — Wikipédia (contributeur·rice·s de Wikipédia, consulté en 2026), <https://fr.wikipedia.org/wiki/Fran%C3%A7ais_qu%C3%A9b%C3%A9cois>, licence CC BY-SA 4.0.
+- Journée internationale de la Francophonie — Wikipédia (contributeur·rice·s de Wikipédia, consulté en 2026), <https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_la_Francophonie>, licence CC BY-SA 4.0.
+
+## Provenance
+
+Support : unité correspondante, section(s) B. Les deux versions antérieures et les décisions sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. La reprise d’un texte connu est un entraînement; une épreuve de transfert indépendante demande un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

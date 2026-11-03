@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 4
 slug: "repas-en-famille-e"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - listening
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_repas-en-famille-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_repas-en-famille-e.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit04_repas-en-famille-e.html"
+- "/track_e_kl07/units/unit04_repas-en-famille-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.goal-oriented-co-operation.01
-    - A1.REC.reading-for-information-and-argument.01
-    - A1.INT.information-exchange.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.INT.goal-oriented-co-operation.01
+  - A1.REC.reading-for-information-and-argument.01
+  - A1.INT.information-exchange.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit04_repas-en-famille-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_repas-en-famille-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit04_repas-en-famille-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,8 +98,7 @@ Dimanche, midi, chez la famille Lemaire. Anouk met la dernière assiette sur la 
 2. Qui a préparé l'entrée ?
 3. Pourquoi Anouk ne prend-elle pas de viande ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, en classe ou en binôme :
 
 - Mangez-vous souvent tous ensemble en famille ? Quel jour ?
@@ -75,8 +106,7 @@ Répondez oralement, en classe ou en binôme :
 - Aimez-vous cuisiner ? Que savez-vous préparer ?
 - Connaissez-vous des plats français ? Lesquels ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — le repas en famille
 
 | Catégorie | Aliments et mots utiles |
@@ -118,8 +148,7 @@ Répondez oralement, en classe ou en binôme :
 
 En 2010, l'UNESCO a inscrit « le repas gastronomique des Français » sur la liste représentative du patrimoine culturel immatériel de l'humanité. Selon les descriptions librement diffusées, il ne s'agit pas d'une recette précise, mais d'une **pratique sociale** : on se réunit pour célébrer les moments importants de la vie (anniversaires, fêtes, réunions de famille). Le repas suit généralement un ordre — apéritif, entrée, plat accompagné de fromage, puis dessert — et accorde une grande importance au choix des produits et à l'harmonie entre les plats et les boissons. C'est cette dimension conviviale et partagée, plus que les mets eux-mêmes, qui a été distinguée. *(Paraphrasé et cité — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension orale.** Relisez (ou réécoutez) le texte C, puis répondez.
 
 1. Quel repas est décrit ?
@@ -156,6 +185,7 @@ a) le gigot d'agneau · b) la tarte aux pommes · c) la quiche lorraine · d) la
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Le repas du dimanche. 2) Anouk. 3) Du jus de pomme et de l'eau. 4) De la quiche et des légumes. 5) De la tarte aux pommes.
 
 **Ex. 2.** 1) du · 2) de la · 3) des · 4) de · 5) de l'eau / du jus · 6) de.
@@ -163,9 +193,9 @@ a) le gigot d'agneau · b) la tarte aux pommes · c) la quiche lorraine · d) la
 **Ex. 3.** Entrée : c, e. Plat : a, f. Dessert : b, d.
 
 **Ex. 4.** 1) le (opinion : *adorer*) · 2) du (quantité) · 3) le (opinion : *détester*) · 4) des (quantité).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, environ 10 répliques).**
 
 A et B planifient un repas familial pour dimanche. Ensemble, ils décident d'une entrée, d'un plat, d'un dessert et des boissons. Chacun exprime au moins une préférence et pose au moins une question à l'autre.
@@ -181,8 +211,7 @@ A et B planifient un repas familial pour dimanche. Ensemble, ils décident d'une
 | Interaction | Questions et réponses, tour de parole équilibré | 3 |
 | Fluidité / prononciation | Débit compréhensible, liaisons | 2 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire :
 
 - [ ] Je comprends un dialogue à table et j'en repère le menu.
@@ -191,19 +220,11 @@ Cochez ce que vous savez faire :
 - [ ] Je distingue l'article partitif (quantité) de l'article défini (opinion).
 - [ ] Je dialogue pour planifier un repas et je pose des questions.
 
-## Évaluation
+## Évaluation {#exam}
 
-Épreuve conforme aux compétences visées (compréhension orale et audiovisuelle ; expression orale — interaction).
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit04_repas-en-famille-e_exam" >}}).
 
-**Tâche 1 — Compréhension orale (10 points).** L'enseignant·e lit (ou diffuse) un court dialogue à table. Répondez à 5 questions sur le menu et les préférences (2 points par réponse).
-
-**Tâche 2 — Partitifs (8 points).** Complétez 8 phrases avec *du, de la, de l', des* ou *de / d'* (1 point par phrase).
-
-**Tâche 3 — Interaction orale (12 points).** En binôme, jouez une scène « à table » : proposez un menu, exprimez vos goûts, posez des questions (au moins 8 répliques). Barème : contenu 4, partitifs 4, interaction 4.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Minutage (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' · Produire 12' · Réfléchir 2' · Bilan / aperçu 2'.
 

@@ -16,64 +16,15 @@
    both --network-bg-light and --network-bg-dark. Verified at
    https://webaim.org/resources/contrastchecker/ — do not change
    without re-checking. */
-:root {
-  /* surfaces */
-  --network-bg: #ffffff;
-  --network-surface: #FAFAF7;
-  --network-border: rgba(0, 0, 0, 0.08);
-  --network-border-strong: rgba(0, 0, 0, 0.16);
-  --network-fg: #23272b;
-  --network-fg-muted: #5a5f66;
-  --network-highlight: #C9A227;        /* warm gold, dimmed for AA */
-  --network-dim-opacity: 0.12;
-
-  /* topic colours (light mode) */
-  --topic-sprechen_dialog: #4A7E97;
-  --topic-sprechen_monolog: #5C7C1F;
-  --topic-schreiben: #B16A53;
-  --topic-leseverstehen: #6B8773;
-  --topic-hoerverstehen: #856EA8;
-  --topic-sprachmittlung: #A87A45;
-  --topic-text_medien: #756758;
-}
-
-@media (prefers-color-scheme: dark) {
-  body.colorscheme-auto {
-    --network-bg: #14161A;
-    --network-surface: #1C1F26;
-    --network-border: rgba(255, 255, 255, 0.08);
-    --network-border-strong: rgba(255, 255, 255, 0.18);
-    --network-fg: #e8e8e8;
-    --network-fg-muted: #9aa0a8;
-    --network-highlight: #F0D060;
-
-    /* topic colours (dark mode — slightly brighter for AA contrast) */
-    --topic-sprechen_dialog: #7FB0CC;
-    --topic-sprechen_monolog: #A7C26B;
-    --topic-schreiben: #E29A82;
-    --topic-leseverstehen: #A4C3B2;
-    --topic-hoerverstehen: #B8A1D9;
-    --topic-sprachmittlung: #E5B98F;
-    --topic-text_medien: #B8A89A;
-  }
-}
-
-body.colorscheme-dark {
-  --network-bg: #14161A;
-  --network-surface: #1C1F26;
-  --network-border: rgba(255, 255, 255, 0.08);
-  --network-border-strong: rgba(255, 255, 255, 0.18);
-  --network-fg: #e8e8e8;
-  --network-fg-muted: #9aa0a8;
-  --network-highlight: #F0D060;
-
-  --topic-sprechen_dialog: #7FB0CC;
-  --topic-sprechen_monolog: #A7C26B;
-  --topic-schreiben: #E29A82;
-  --topic-leseverstehen: #A4C3B2;
-  --topic-hoerverstehen: #B8A1D9;
-  --topic-sprachmittlung: #E5B98F;
-  --topic-text_medien: #B8A89A;
+body{
+ --network-bg:var(--boulingua-page-bg);--network-surface:var(--boulingua-surface);
+ --network-border:var(--boulingua-border);--network-border-strong:var(--boulingua-fg-muted);
+ --network-fg:var(--boulingua-fg);--network-fg-muted:var(--boulingua-fg);
+ --network-highlight:var(--boulingua-network-highlight);
+ --topic-sprechen_dialog:var(--boulingua-topic-wissenschaft);--topic-sprechen_monolog:var(--boulingua-topic-umwelt);
+ --topic-schreiben:var(--boulingua-topic-kultur);--topic-leseverstehen:var(--boulingua-topic-alltag);
+ --topic-hoerverstehen:var(--boulingua-topic-gesellschaft);--topic-sprachmittlung:var(--boulingua-topic-arbeit);
+ --topic-text_medien:var(--boulingua-topic-kommunikation);
 }
 
 /* ---------- Layout grid ------------------------------------- */
@@ -107,14 +58,14 @@ body.colorscheme-dark {
   border: 0;
   color: var(--network-fg);
   font-family: 'Source Sans 3', system-ui, sans-serif;
-  font-size: 0.95rem;
+  font-size: 1.52rem;
   outline: none;
   padding: 0.25rem 0.25rem;
 }
 .network-search-input::placeholder { color: var(--network-fg-muted); }
 .network-search-key {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.7rem;
+  font-size: 1.2rem;
   color: var(--network-fg-muted);
   border: 1px solid var(--network-border-strong);
   padding: 0.1rem 0.4rem;
@@ -151,7 +102,7 @@ body.colorscheme-dark {
 }
 .network-filters h3 {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.7rem;
+  font-size: 1.2rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -174,7 +125,7 @@ body.colorscheme-dark {
   border: 1px solid var(--network-border-strong);
   border-radius: 999px;
   padding: 0.2rem 0.65rem;
-  font-size: 0.82rem;
+  font-size: 1.31rem;
   font-family: 'Source Sans 3', system-ui, sans-serif;
   cursor: pointer;
   transition: background 0.12s ease-out, border-color 0.12s ease-out;
@@ -183,23 +134,23 @@ body.colorscheme-dark {
 .network-chip[aria-pressed="true"] {
   background: var(--network-highlight);
   border-color: var(--network-highlight);
-  color: #1d1f21;
+  color: var(--boulingua-badge-contrast-ink);
 }
 .network-chip-count {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.7rem;
+  font-size: 1.2rem;
   opacity: 0.7;
 }
 .network-chip-swatch {
   width: 0.7rem;
   height: 0.7rem;
   border-radius: 50%;
-  border: 1px solid rgba(0, 0, 0, 0.18);
+  border: 1px solid var(--boulingua-border);
   display: inline-block;
 }
 .network-type-glyph {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.85rem;
+  font-size: 1.36rem;
   line-height: 1;
 }
 
@@ -244,7 +195,7 @@ body.colorscheme-dark {
   align-items: center;
   justify-content: space-between;
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.78rem;
+  font-size: 1.25rem;
   color: var(--network-fg-muted);
   padding: 0.3rem 0.2rem;
   border-bottom: 1px solid var(--network-border);
@@ -256,7 +207,7 @@ body.colorscheme-dark {
   padding: 0.2rem 0.6rem;
   border-radius: 4px;
   font-family: inherit;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
   cursor: pointer;
   transition: border-color 0.12s ease-out, color 0.12s ease-out;
 }
@@ -288,7 +239,7 @@ body.colorscheme-dark {
 }
 .network-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  box-shadow:var(--boulingua-elev-1);
 }
 .network-card.is-article { grid-column: span 2; }
 @media (max-width: 767px) {
@@ -297,20 +248,20 @@ body.colorscheme-dark {
 .network-card-title {
   font-family: 'Source Sans 3', system-ui, sans-serif;
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 1.6rem;
   color: var(--network-fg);
   line-height: 1.3;
   margin: 0;
 }
 .network-card-meta {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.72rem;
+  font-size: 1.2rem;
   color: var(--network-fg-muted);
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
 .network-card-desc {
-  font-size: 0.88rem;
+  font-size: 1.41rem;
   line-height: 1.5;
   color: var(--network-fg-muted);
   margin: 0;
@@ -323,15 +274,15 @@ body.colorscheme-dark {
 .network-card-download {
   display: inline-block;
   padding: 0.25rem 0.6rem;
-  border: 1px solid var(--boulingua-accent, #1a73e8);
-  color: var(--boulingua-accent, #1a73e8);
+  border: 1px solid var(--boulingua-accent);
+  color: var(--boulingua-accent);
   border-radius: 4px;
-  font-size: 0.85rem;
+  font-size: 1.36rem;
   text-decoration: none;
   transition: background 0.12s ease-out, color 0.12s ease-out;
 }
 .network-card-download:hover {
-  background: var(--boulingua-accent, #1a73e8);
+  background: var(--boulingua-accent);
   color: var(--network-bg);
 }
 .network-cards {
@@ -346,7 +297,7 @@ body.colorscheme-dark {
 }
 .network-card-tag {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.7rem;
+  font-size: 1.2rem;
   background: var(--network-bg);
   color: var(--network-fg-muted);
   border: 1px solid var(--network-border-strong);
@@ -357,11 +308,11 @@ body.colorscheme-dark {
   display: flex;
   gap: 0.6rem;
   margin-top: 0.4rem;
-  font-size: 0.85rem;
+  font-size: 1.36rem;
 }
 .network-card-actions a {
   text-decoration: none;
-  color: var(--boulingua-accent, #1a73e8);
+  color: var(--boulingua-accent);
 }
 
 /* topic accent on cards */
@@ -407,3 +358,10 @@ body.colorscheme-dark {
   opacity: 0.5;
   margin-bottom: 0.8rem;
 }
+
+/* Links must retain contrast against the card surface in both themes. */
+.network-card-actions a { color: var(--boulingua-accent-hover); }
+
+/* Keep discovery controls comfortable on touch screens. */
+.network-chip { min-height: 3.2rem; font-size: 1.4rem; }
+.network-chip-count { opacity: 1; }

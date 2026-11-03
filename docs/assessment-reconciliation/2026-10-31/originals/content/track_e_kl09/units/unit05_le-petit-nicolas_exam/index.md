@@ -1,0 +1,90 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 5"
+subtitle: "Le Petit Nicolas (extraits) · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 5
+slug: "le-petit-nicolas-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.INT.information-exchange.01
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'extrait *On a eu l'inspecteur* (Unité 5, texte C).
+Répondez :
+
+1. Qui doit venir dans la classe ?
+2. Que fait Geoffroy ?
+3. Que fait Alceste ?
+4. Comment le maître réagit-il ?
+5. Que dit l'inspecteur en partant ?
+
+### Tâche 2 — Imparfait / PC (8 points)
+
+Classez en **imparfait** (description) ou **PC** (action) :
+
+1. *allait* · 2. *a dit* · 3. *mangeait* · 4. *est entré* ·
+5. *dormait* · 6. *a rigolé* · 7. *était* · 8. *a applaudi*.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez la **suite de l'extrait** (~150 mots) : que se passe-
+t-il **après** le départ de l'inspecteur ? 5 personnages +
+PC + imparfait + 1 réplique au discours direct.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Imparfait / PC | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) L'inspecteur. 2) Il éternue très fort. 3) Il
+mange son croissant. 4) Il devient tout rouge. 5) *Vos élèves
+sont vivants — c'est l'essentiel.*
+
+**Tâche 2.** Imparfait : 1, 3, 5, 7. PC : 2, 4, 6, 8.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 5
+personnages · PC + imparfait · 1 discours direct.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 5*

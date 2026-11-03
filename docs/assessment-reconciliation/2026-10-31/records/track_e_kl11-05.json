@@ -1,0 +1,70 @@
+{
+  "unit": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+  "exam": "content/track_e_kl11/units/unit05_mediation-academique_exam/index.md",
+  "before_unit_sha256": "078e3ae6f55427fb221f3c6b1b325cc72618db904363bd14952869daa498a892",
+  "after_unit_sha256": "cd5ab3c4ebc28ecdeca3f967b5303afd4a41dd7c789aeb1a90c0b9c582c5d324",
+  "before_exam_sha256": "00b96513e38567f9e0276b4cac5816118ba58de98673d7b23378073f6e7556f9",
+  "after_exam_sha256": "0c155350878c762d64f79489ae99ee9979e2e56ed5d867bbe8694d51dca52bf6",
+  "source_sections": "C",
+  "supplied_source_sha256": "fd75e032006e543e44aea3a86f3fcf40873d3ae80cd72dd98433d4915150016e",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed inventedStanford27percent/Wang source claim. Replaced fabricated namedPIKstudy attribution with explicit fictive modelling scenario, boundedwordlength and modal fidelity; preserve originals in archive. Underlying unit source label queued."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "9ff467afa6ed4e96317485b6f44bd2869f5d725d50fa3d9514e883418d4b4956",
+      "before_sha256": "9ff467afa6ed4e96317485b6f44bd2869f5d725d50fa3d9514e883418d4b4956",
+      "after_sha256": "f38a6069cab598e2655a5986835a3c2634174f4c33775e9da914e483410cb9da",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "f38a6069cab598e2655a5986835a3c2634174f4c33775e9da914e483410cb9da",
+      "after_sha256": "cd5ab3c4ebc28ecdeca3f967b5303afd4a41dd7c789aeb1a90c0b9c582c5d324",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit05_mediation-academique/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3d2840f873b79ab4d13d21475ebeaaf74edb68c46420e269985cc0b46d1b9bfb",
+      "after_sha256": "8c4a8240118fbd1774ad5bd94ad273d356072ba58c1095953b20e2aa49af3371",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit05_mediation-academique_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "8c4a8240118fbd1774ad5bd94ad273d356072ba58c1095953b20e2aa49af3371",
+      "after_sha256": "b91eb8add5ab00ee800a7e18b486b3e8020592420eac1fd59c700e14dbbd0823",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl11/units/unit05_mediation-academique_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "b91eb8add5ab00ee800a7e18b486b3e8020592420eac1fd59c700e14dbbd0823",
+      "after_sha256": "dffc6b2c9ed8caa094b72c5c18b9495ba504bd11bff40e93b20078aa1eddd528",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit05_mediation-academique_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit05_mediation-academique_exam/index.md",
+      "before_sha256": "dffc6b2c9ed8caa094b72c5c18b9495ba504bd11bff40e93b20078aa1eddd528",
+      "after_sha256": "0c155350878c762d64f79489ae99ee9979e2e56ed5d867bbe8694d51dca52bf6",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

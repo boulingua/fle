@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 1
 slug: "synthese-themes-litteraires"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_synthese-themes-litteraires.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_synthese-themes-litteraires.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit01_synthese-themes-litteraires.html"
+- "/track_e_kl13/units/unit01_synthese-themes-litteraires.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.reports-and-essays.04
-    - B2.REC.overall-reading-comprehension.01
-    - B2.REC.reading-for-information-and-argument.03
-    - B2.PROD.compensating.01
-    - B2.INT.information-exchange.05
+  - B2.PROD.reports-and-essays.04
+  - B2.REC.overall-reading-comprehension.01
+  - B2.REC.reading-for-information-and-argument.03
+  - B2.PROD.compensating.01
+  - B2.INT.information-exchange.05
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit01_synthese-themes-litteraires_exam
+  format: existing-assessment
+  duration_minutes: 90
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_synthese-themes-litteraires-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit01_synthese-themes-litteraires-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,14 +103,12 @@ curriculum:
 2. Quel thème propose-t-il comme exemple ?
 3. Selon vous, par quoi doit commencer une bonne synthèse ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel **thème** vous a le plus marqué·e cette année (mémoire, révolte, écriture de soi, société… ) ?
 - Citez **deux textes** différents qui parlent, selon vous, du même thème.
 - Complétez : « Une synthèse, ce n'est pas ______, c'est ______. »
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la synthèse littéraire
 
 | Français | Allemand |
@@ -131,8 +162,7 @@ Nominaliser permet de comparer des idées, pas seulement de raconter des actions
 
 L'année **1857** est célèbre dans l'histoire des lettres françaises : deux œuvres majeures y sont poursuivies devant les tribunaux pour « outrage à la morale publique et aux bonnes mœurs ». *Madame Bovary* de Gustave Flaubert est jugé puis **acquitté** ; *Les Fleurs du mal* de Charles Baudelaire est **condamné**, l'auteur reçoit une amende et **six poèmes** sont censurés. L'interdiction de ces « pièces condamnées » ne sera officiellement levée qu'en **1949**. Cet épisode montre combien le thème du conflit entre l'artiste et la société n'est pas abstrait : il a une histoire judiciaire concrète. *(Fait paraphrasé de l'article « Les Fleurs du mal », Wikipédia, CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension du texte-modèle (C).**
 1. Quel mot-thème structure tout le texte ?
 2. Contre quoi se révolte Rimbaud, selon le texte ?
@@ -163,6 +193,7 @@ L'année **1857** est célèbre dans l'histoire des lettres françaises : deux �
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. La **révolte**.
 2. Contre la **langue** « sage » héritée de l'école ; il cherche une voix neuve (la révolte vise la forme).
@@ -177,9 +208,9 @@ L'année **1857** est célèbre dans l'histoire des lettres françaises : deux �
 - « **D'abord**, la révolte peut être poétique. **En revanche** (ou *Ensuite*), elle peut être sociale. »
 - « … ; **de même**, Hugo fait du roman une tribune. »
 - « **Ainsi**, un seul thème réunit plusieurs gestes distincts. »
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~450 mots).**
 
 Rédigez une **synthèse comparative** autour d'un thème de votre choix travaillé pendant le cycle (par exemple : la mémoire, l'écriture de soi, la révolte, le rapport à la société). Votre texte doit :
@@ -199,33 +230,18 @@ Rédigez une **synthèse comparative** autour d'un thème de votre choix travail
 | Langue | connecteurs variés, nominalisation, correction |
 | Prise de position | thèse personnelle + chute mémorable |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] J'ai posé une **problématique**, pas seulement un titre.
 - [ ] J'ai **comparé** des textes au lieu de les résumer l'un après l'autre.
 - [ ] Mes citations sont **exactes** et **du domaine public**.
 - [ ] J'ai utilisé au moins **quatre connecteurs** différents.
 - [ ] Ma conclusion contient une **thèse à moi**.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve écrite — filière E, classe 13 (compétences : compréhension écrite + expression écrite).**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit01_synthese-themes-litteraires_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 points).** À partir du texte-modèle « La révolte, du poème à la barricade » :
-- a) Dégagez la problématique du texte (2 pts).
-- b) Expliquez, en une phrase chacun, les trois « visages » de la révolte présentés (6 pts).
-- c) Relevez un connecteur de mise en relation et expliquez sa fonction (2 pts).
-- d) Distinguez, à l'aide du texte, *résumer* et *synthétiser* (2 pts).
-
-**Tâche 2 — Expression écrite (18 points).** Rédigez votre propre synthèse comparative (~450 mots) sur un thème du cycle, en respectant les quatre exigences de la partie Produire.
-- Contenu et mise en relation : 8 pts
-- Citations (domaine public, exactes) : 3 pts
-- Langue et articulation : 4 pts
-- Problématique et thèse personnelle : 3 pts
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min) :** Activer 5' · Apporter 13' · S'entraîner 12' · Produire 11' · Réfléchir 2' · Bilan 2'.
 

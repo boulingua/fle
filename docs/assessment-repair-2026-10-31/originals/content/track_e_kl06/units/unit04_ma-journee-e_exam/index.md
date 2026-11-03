@@ -1,0 +1,95 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 4"
+subtitle: "Ma journée · classe 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 4
+slug: "ma-journee-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.INT.conversation.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
+
+### Tâche 1 — Conjugaison (10 points)
+
+Conjuguez au présent.
+
+1. Je *(se lever)* à 7h.
+2. Tu *(s'habiller)* vite.
+3. Il *(se laver)* les mains.
+4. Nous *(se brosser)* les dents.
+5. Vous *(se coucher)* tard ?
+6. Elles *(se réveiller)* à 6h.
+7. On *(se promener)* au parc.
+8. Mes amis *(se voir)* le samedi.
+
+### Tâche 2 — L'heure (8 points)
+
+Écrivez l'heure en lettres.
+
+1. 8h00 · 2. 9h30 · 3. 10h15 · 4. 12h00 · 5. 14h45 · 6. 16h00
+· 7. 19h30 · 8. 0h00.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Décrivez **votre journée** en **80 mots** : **5 verbes
+pronominaux** + **5 heures**. Plan : matin – midi – après-midi
+– soir.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Conjugaison | 10 |
+| Tâche 2 — L'heure | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) me lève · 2) t'habilles · 3) se lave · 4) nous
+brossons · 5) vous couchez · 6) se réveillent · 7) se promène
+· 8) se voient.
+
+**Tâche 2.** 1) huit heures · 2) neuf heures et demie ·
+3) dix heures et quart · 4) midi · 5) trois heures moins le
+quart (de l'après-midi) · 6) quatre heures · 7) sept heures et
+demie (du soir) · 8) minuit.
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · 5 verbes
+pronominaux · 5 heures.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 4*

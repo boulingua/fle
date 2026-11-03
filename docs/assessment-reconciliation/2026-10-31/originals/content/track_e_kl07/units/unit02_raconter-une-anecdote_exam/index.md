@@ -1,0 +1,96 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 2"
+subtitle: "Raconter une anecdote · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 2
+slug: "raconter-une-anecdote-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.REC.identifying-cues-and-inferring.01
+    - A1.INT.asking-for-clarification.01
+    - A1.INT.conversation.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez l'anecdote de Tristan (Unité 2, texte C). Répondez :
+
+1. Que faisait Tristan ? Quel temps faisait-il ?
+2. Que portait-il ?
+3. Que s'est-il passé soudain ?
+4. Comment finit l'histoire ?
+
+### Tâche 2 — PC ou imparfait ? (10 points)
+
+Conjuguez selon le sens.
+
+1. *Il (faire) ___ beau ce jour-là.*
+2. *Soudain, j' (voir) ___ un éclair.*
+3. *Nous (habiter) ___ à Paris en 2018.*
+4. *Le téléphone (sonner) ___ trois fois.*
+5. *Quand j' (être) ___ petit, je (jouer) ___ au foot.*
+6. *Hier, on (aller) ___ au cinéma.*
+7. *Pendant que je (lire) ___, ma sœur (entrer) ___.*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Racontez **une anecdote drôle** en **150 mots** : décor
+(imparfait) + action (PC) + conclusion. **3 marqueurs** +
+**5 PC** + **5 imparfaits**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — PC / imparfait | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Vélo en Belgique, beau et chaud (28 °C).
+2) Casque rouge + T-shirt blanc. 3) Une vache est arrivée ; il
+a freiné, est tombé dans un fossé. 4) Le fermier est venu et
+l'a aidé.
+
+**Tâche 2.** 1) faisait · 2) ai vu · 3) habitions · 4) a sonné
+· 5) étais / jouais · 6) est allé(e)(s) · 7) lisais / est
+entrée.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3 paragraphes
+· 3 marqueurs · 5 PC + 5 imparfaits.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 2*

@@ -23,82 +23,78 @@ curriculum:
     - B2.PRAG.propositional-precision.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 60
+assessment_scoring: points-only
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock 2)
+## Modalités
 
-### Tâche 1 — Verstehen (10 points) — 60 min
+Sujet d'entraînement réconcilié avec les supports de l'unité. Ce n'est ni un sujet officiel ni une certification de niveau. Les situations originales sont des scénarios pédagogiques; les références littéraires conservent leur attribution. Les durées et barèmes proposés restent à éprouver en classe. La validation pédagogique et linguistique reste en attente.
 
-Lisez l'extrait *Chanson douce* (Unité 5, texte C). Répondez :
+Durée indicative : 60 minutes, selon les phases précisées ci-dessous.
 
-1. Qui sont Louise et Mila ?
-2. Quels types d'histoires Louise raconte-t-elle ?
-3. Que fait Mila la nuit ?
-4. Le matin, que demande Mila ?
-5. Quel mot apparaît à la fin et pourquoi inquiète-t-il ?
+## Support
 
-### Tâche 2 — Analyse stylistique (12 points) — 90 min
+### C. Texte support (extrait du domaine public)
 
-Rédigez (~350 mots) : *« Le danger derrière la douceur »*
-— 3 procédés stylistiques + interprétation du mot *vide*
-+ 1 référence à *L'Étranger* OU *Dora Bruder*.
+L'extrait suivant ouvre la nouvelle *La Parure* de Guy de Maupassant, parue en 1884. L'auteur est mort en 1893 : le texte est **libre de droits**.
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 points) — 60 min
+> *« C'était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d'employés. Elle n'avait pas de dot, pas d'espérances, aucun moyen d'être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l'Instruction publique.*
+>
+> *Elle fut simple, ne pouvant être parée ; mais malheureuse comme une déclassée ; car les femmes n'ont point de caste ni de race, leur beauté, leur grâce et leur charme leur servant de naissance et de famille.*
+>
+> *Elle souffrait sans cesse, se sentant née pour toutes les délicatesses et tous les luxes. Elle souffrait de la pauvreté de son logement, de la misère des murs, de l'usure des sièges, de la laideur des étoffes. »*
+>
+> — Guy de Maupassant, *La Parure* (1884), incipit. Domaine public.
 
-Médiez ce texte allemand (~280 mots) :
+## Tâches et barème
 
-> *Leïla Slimani, geboren 1981 in Rabat, ist eine der
-> wichtigsten Stimmen der zeitgenössischen französischen
-> Literatur. Ihr Roman *Dann schlaf auch du* (frz.
-> Originaltitel: *Chanson douce*, 2016) gewann den Prix
-> Goncourt. Slimani schreibt mit kühler Präzision: « Das
-> Baby ist tot. » Ihre Themen: Mutterschaft, soziale
-> Klassen, Migration. Sie engagiert sich auch politisch:
-> 2017 wurde sie von Präsident Macron zur Beauftragten für
-> die Frankophonie ernannt.*
+**Épreuve blanche — extrait littéraire (Niveau E, 60 min).**
 
-## Notation
+Support : l'incipit de *La Parure* de Maupassant (fourni ci-dessus).
 
-| Tâche | Points | Durée |
-|-------------------------|--------|--------|
-| Verstehen | 10 | 60 min |
-| Analyse stylistique | 12 | 90 min |
-| médiation linguistique | 8 | 60 min |
-| **Total** | **30** | **210 min** |
+**Partie A — Compréhension écrite (12 points)**
 
-## Solutions
+1. Résumez en deux phrases la situation de l'héroïne au début de la nouvelle. *(4 P.)*
+2. Relevez deux procédés d'écriture (champ lexical, opposition, ironie) et expliquez l'effet de chacun. *(4 P.)*
+3. Le titre est *La Parure*. En quoi l'incipit prépare-t-il déjà le thème de l'apparence et de la vanité ? *(4 P.)*
 
-**Tâche 1.** 1) Louise = nounou, Mila = enfant. 2)
-Princesses + histoires sombres. 3) Cauchemars. 4) D'autres
-histoires. 5) *« Vide »* — annonce la dérive intérieure
-de Louise.
+**Partie B — Expression écrite (18 points)**
 
-**Tâche 2.** Réponses libres. Critères : 350 mots · 3
-procédés · interprétation · 1 référence.
+Rédigez un texte argumenté d'environ **300 mots** :
+> *« Le désir de paraître peut-il conduire au malheur ? »*
+> Reliez l'extrait de Maupassant à un exemple personnel ou social; un exemple fictif clairement signalé est admis.
 
-**Tâche 3.** Modèle : *Leïla Slimani, née en 1981 à Rabat,
-est l'une des grandes voix de la littérature française
-contemporaine. Son roman Chanson douce (2016) a obtenu le
-prix Goncourt. Slimani écrit avec une précision glacée :
-« Le bébé est mort. » Ses thèmes : maternité, classes
-sociales, migration. Engagée politiquement, elle a été
-nommée en 2017 par Emmanuel Macron déléguée à la
-francophonie.* (~280 mots).
-
----
-
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 32 points)" collapse="true" >}}
-**Total.** 32 points
-
-| Points | Note |
+| Barème Partie B | Points |
 |---|---|
-| 30–32 | 1 |
-| 26–29 | 2 |
-| 22–25 | 3 |
-| 16–21 | 4 |
-| 10–15 | 5 |
-| 0–9 | 6 |
-{{< /callout >}}
+| Contenu et pertinence des arguments | 6 |
+| Appui sur le texte (citation interprétée) | 3 |
+| Structure et connecteurs | 4 |
+| Correction de la langue | 5 |
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 5*
+**Total : 30 points.**
+
+## Corrigé et observation
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**A 1 (4).** Jeune femme d'une famille d'employés 1; sans dot/moyen d'épouser un homme riche 1; mariée à un petit commis 1; insatisfaite, aspire au luxe 1. **A 2 (4).** Deux procédés exacts, chacun : repérage 1 et effet justifié 1. Exemples : accumulation « pauvreté/misère/usure/laideur » souligne l'insatisfaction; opposition simplicité/luxe montre le décalage désir/condition. Ne pas imposer l'ironie si elle n'est pas expliquée. **A 3 (4).** Importance de beauté/parure/apparence 2; contraste avec le quotidien et sentiment de déclassement 2. Aucune connaissance de la fin de la nouvelle n'est exigée.
+
+**B (18).** Contenu 6; appui sur le texte 3; structure 4; langue 5. Accepter plusieurs thèses et des exemples fictifs explicitement présentés. Les citations doivent provenir de l'extrait réellement fourni.
+
+{{< /details >}}
+
+## Sources
+
+- *La Parure* — Guy de Maupassant (1884). Œuvre du domaine public (auteur mort en 1893). Texte de référence : Wikisource — <https://fr.wikisource.org/wiki/La_Parure> — domaine public.
+- *Guy de Maupassant* — Wikipédia, l'encyclopédie libre. <https://fr.wikipedia.org/wiki/Guy_de_Maupassant> — licence CC BY-SA.
+- *La Parure* (nouvelle) — Wikipédia, l'encyclopédie libre. <https://fr.wikipedia.org/wiki/La_Parure> — licence CC BY-SA.
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. La reprise d’un texte connu est un entraînement; une épreuve de transfert indépendante demande un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl11/units/unit04_court-metrage/index.md",
+  "exam": "content/track_e_kl11/units/unit04_court-metrage_exam/index.md",
+  "before_unit_sha256": "406e96feb22a4fa91e9580e4fe33104bcbb978a892753856bab8f81191a30f64",
+  "after_unit_sha256": "d5b23650e9b8bedb3e330a1a5f68f80ec642cee582c68301b2ccbffd672b47e7",
+  "before_exam_sha256": "0d6f8b76de915e9da75a63337d1e7b5fadcadd523e1d381851ccc39c0269564e",
+  "after_exam_sha256": "063d8396d81dbb1b6e7f7d8958a8112bacf77a1689a0242ec02b6204c8b02652",
+  "source_sections": "C",
+  "supplied_source_sha256": "653dc06ad294d99da6618f8ab69935da4ca87af64d5838bbf9c0832efac7de73",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed Bonbon au poivre key and false hearing label. Supplied actual imaginary-film fiche; preserved legally sourced future audiovisual task explicitly unavailable rather than falsely claiming viewing competency."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "76f962fcfee9fd950f5969616534ddf5dfe9a8d1db45067094e3dc83c257f4e7",
+      "after_sha256": "d5b23650e9b8bedb3e330a1a5f68f80ec642cee582c68301b2ccbffd672b47e7",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit04_court-metrage/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "58675136854d6f9a5044d34474fb6a4750ac27357d28243c7bf42d0c629ea358",
+      "after_sha256": "b5497db611cc0fc390324caf1b0936fe1ea4366b2fcca3565177370e4ec5bfe8",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit04_court-metrage_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "b5497db611cc0fc390324caf1b0936fe1ea4366b2fcca3565177370e4ec5bfe8",
+      "after_sha256": "6684e0f83608997fea085307435fb3530ca47b65b5166f9248444905725833e5",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit04_court-metrage_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit04_court-metrage_exam/index.md",
+      "before_sha256": "6684e0f83608997fea085307435fb3530ca47b65b5166f9248444905725833e5",
+      "after_sha256": "063d8396d81dbb1b6e7f7d8958a8112bacf77a1689a0242ec02b6204c8b02652",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

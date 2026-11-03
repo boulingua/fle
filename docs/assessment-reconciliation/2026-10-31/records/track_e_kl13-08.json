@@ -1,0 +1,50 @@
+{
+  "unit": "content/track_e_kl13/units/unit08_discussion-sur-stimulus/index.md",
+  "exam": "content/track_e_kl13/units/unit08_discussion-sur-stimulus_exam/index.md",
+  "before_unit_sha256": "042cac4f757993c26933a2be4e7585883fb0ff72ee238412dd4d81d4a77cc508",
+  "after_unit_sha256": "9995ec66f8520c7e7c450a8a713cea8632a0e705ea1194cf06ccab4cbb4b1de1",
+  "before_exam_sha256": "7c9b60932a81ede211052db8a1c5eff974bd74ea07a461456a78b1f4c1c5628d",
+  "after_exam_sha256": "4ecdc70f8c3e506dcbf67b27708a2a0c782c53b25b1abf093c79c29f2a8d30c2",
+  "source_sections": [
+    "B"
+  ],
+  "supplied_source_sha256": "3210270bb8210fe5b8c58ff06848700adab828071434bfbc8d1c1849bdde4d2b",
+  "source_mode": "learner-reading-and-observed-oral",
+  "total_points": 30,
+  "decisions": [
+    "Preserved12+12+6 realoral rubric; suppliedoriginalvisualstimulus instead ofmissingphoto; unsupportedAnoukidentities and erroneousbacklightingmatching archived."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "709469c4ecd1b6298eecaf49a80648ddb08c3acfba542aaf95e5c6ded851c9a0",
+      "after_sha256": "f9a1b2da2f3ce0639500a17192a334fcaa379fbf88f91515cda2dc772ad664e0",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit08_discussion-sur-stimulus_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "f9a1b2da2f3ce0639500a17192a334fcaa379fbf88f91515cda2dc772ad664e0",
+      "after_sha256": "dbe0f602b64b5528898e46a1e80260c8d262c17e626fdc319d6ba4acd1b55db3",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl13/units/unit08_discussion-sur-stimulus_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit08_discussion-sur-stimulus_exam/index.md",
+      "before_sha256": "dbe0f602b64b5528898e46a1e80260c8d262c17e626fdc319d6ba4acd1b55db3",
+      "after_sha256": "4ecdc70f8c3e506dcbf67b27708a2a0c782c53b25b1abf093c79c29f2a8d30c2",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

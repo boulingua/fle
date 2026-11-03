@@ -1,0 +1,53 @@
+{
+  "unit": "content/track_e_kl12/units/unit07_discours-radio/index.md",
+  "exam": "content/track_e_kl12/units/unit07_discours-radio_exam/index.md",
+  "before_unit_sha256": "c27a2964f633e43d2ae27346e05d55a5ceb90b575d496a4f2df991a84daad9f6",
+  "after_unit_sha256": "20f2cc336a5b7757df0c01b586efc168398872b7fc094fe7d1c6b18e7b33380c",
+  "before_exam_sha256": "3e8d1b17392ad6cb3565ada14bd9af5d5d92b0399f754615af439efb556c4b13",
+  "after_exam_sha256": "2701d64d6bc5c8ee592296a000bb64bdf45341ebb9215270fcd2c362090bada8",
+  "source_sections": "B",
+  "source_mode": "teacher-listening-and-live-speaking",
+  "total_points": 24,
+  "skills_observed": [
+    "listening",
+    "speaking"
+  ],
+  "decisions": [
+    "Preserved primary24point listening+spokenchronicle; supplied actualCamille script and source-specifickey; removed unrelatedFrontex/victims/Glissant claims."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "60b430d1c151cf486192b7b619c770226dc66868fc38cd5c9df39f94686febf7",
+      "after_sha256": "7a90bd25fbb03d0b6c0d3fee60a58db0dcaadcbd19393586be594c03dc35da3b",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit07_discours-radio_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "7a90bd25fbb03d0b6c0d3fee60a58db0dcaadcbd19393586be594c03dc35da3b",
+      "after_sha256": "fbcb8174e7d9e8cde63f8fbb3fc6c7132f750326df3d384d62ff0a44092495da",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl12/units/unit07_discours-radio_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "fbcb8174e7d9e8cde63f8fbb3fc6c7132f750326df3d384d62ff0a44092495da",
+      "after_sha256": "76ed0c73cd52dd9e0c38085889b56a8f943b16e6ddb8cc8ee5dbfae95f1e09a1",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit07_discours-radio_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit07_discours-radio_exam/index.md",
+      "before_sha256": "76ed0c73cd52dd9e0c38085889b56a8f943b16e6ddb8cc8ee5dbfae95f1e09a1",
+      "after_sha256": "2701d64d6bc5c8ee592296a000bb64bdf45341ebb9215270fcd2c362090bada8",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

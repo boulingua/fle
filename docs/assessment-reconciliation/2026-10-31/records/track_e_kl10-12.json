@@ -1,0 +1,70 @@
+{
+  "unit": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
+  "exam": "content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md",
+  "before_unit_sha256": "db5bfc23bbe571d652dbebb13a7e08dc878b690f2c71c5da21b23ac4caec6131",
+  "after_unit_sha256": "a2fd263861afd7c5292f946fc83212699e8bd23ed7b4a6efa86547ad4e674848",
+  "before_exam_sha256": "9a976a3b81075876b425c926011a4805fb9c554c6f4dd2b5dcddc1f6c37a8bf4",
+  "after_exam_sha256": "241e81023a1d22c8e995c8931939da65af1a41163eea0657c674f041cad24eb9",
+  "source_sections": "C",
+  "supplied_source_sha256": "22fef8bbf946bd4d7f17e04e908aee64e593d9a3a274e756b63ed4c9eb1c41ec",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual Nils monologue replaces unrelatedAnoukCV key; corrected6items8points mismatch and unearnedCEFRattainment; preserved live bilan sample and privacy option."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "fe81bb2dcd6ab1cf3154c8202aca8a07bf2d51340c585cce0a6e2f97a7f55081",
+      "after_sha256": "13c60825bab5e0f251d126465988fcac9015945fb98124bfefc3e13532fb8f15",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "13c60825bab5e0f251d126465988fcac9015945fb98124bfefc3e13532fb8f15",
+      "after_sha256": "388a1dd92fb5fc3e234872cb8461aa97e8319a818e2772fa562745eca55045b6",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md",
+      "before_sha256": "388a1dd92fb5fc3e234872cb8461aa97e8319a818e2772fa562745eca55045b6",
+      "after_sha256": "5df371986509f8684aad826ebba6c217b939ea43caf3a378daeea05a047a33c8",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md",
+      "before_sha256": "5df371986509f8684aad826ebba6c217b939ea43caf3a378daeea05a047a33c8",
+      "after_sha256": "241e81023a1d22c8e995c8931939da65af1a41163eea0657c674f041cad24eb9",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl10",
+      "unit": 12,
+      "total": 30,
+      "graded_tasks": [
+        {
+          "title": "Bilan oral",
+          "points": 15
+        },
+        {
+          "title": "CV scolaire",
+          "points": 15
+        }
+      ]
+    }
+  ]
+}

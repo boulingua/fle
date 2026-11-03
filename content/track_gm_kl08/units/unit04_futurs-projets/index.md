@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 4
 slug: "futurs-projets"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.8 Moyens linguistiques — grammaire"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
 - speaking_production
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_futurs-projets.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_futurs-projets.png"
 tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
+- filiere-gm
+- classe-8
+- niveau-m
 aliases:
-  - "/track_gm_kl08/units/unit04_futurs-projets.html"
+- "/track_gm_kl08/units/unit04_futurs-projets.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.PROD.overall-oral-production.01
-    - A2.INT.conversation.08
-    - A2.INT.goal-oriented-co-operation.04
-    - A2.LING.general-linguistic-range.02
+  - A2.PROD.creative-writing.04
+  - A2.PROD.overall-oral-production.01
+  - A2.INT.conversation.08
+  - A2.INT.goal-oriented-co-operation.04
+  - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl08/units/unit04_futurs-projets_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_futurs-projets-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit04_futurs-projets-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -67,15 +99,13 @@ Vendredi, dernière heure. Le professeur, Monsieur Bakayoko, écrit au tableau :
 - Léa et Karim parlent-ils du présent, du passé ou du futur ?
 - Et vous : que ferez-vous dans dix ans ? Une phrase, à voix haute.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que ferez-vous **demain** ? Et **dans dix ans** ? Comparez.
 - Connaissez-vous déjà une façon de parler du futur en français ? Laquelle ?
 - Quelle est la différence entre *je vais partir* et *je partirai* ?
 - Cherchez dans le dialogue : *feras, serai, soignerai, voyagerai, verrai, apprendrons, ferez*. Quelle lettre revient toujours ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — parler de l'avenir
 
 | Français | Beispiel / allemand |
@@ -109,8 +139,8 @@ Vendredi, dernière heure. Le professeur, Monsieur Bakayoko, écrit au tableau :
 être → *ser-* (je serai) · avoir → *aur-* (tu auras) · aller → *ir-* (il ira) · faire → *fer-* (nous ferons) · voir → *verr-* (vous verrez) · pouvoir → *pourr-* (ils pourront) · vouloir → *voudr-* (je voudrai) · venir → *viendr-* (elle viendra) · savoir → *saur-* (tu sauras).
 
 **Futur proche ou futur simple ?**
-*Futur proche* = *aller* (présent) + infinitif → action immédiate, sûre : *Je vais partir* (tout de suite).
-*Futur simple* → projet, avenir plus lointain : *Je partirai un jour à Paris.*
+*Futur proche* = *aller* (présent) + infinitif : on présente un événement comme lié à la situation présente, par exemple un projet ou un indice visible (*Je vais partir*). Il n'est pas nécessairement immédiat ni certain.
+*Futur simple* : on projette un événement dans l'avenir (*Je partirai demain / un jour à Paris*). La distance temporelle seule ne décide pas entre les deux formes.
 {{< /callout >}}
 
 ### C. Texte modèle
@@ -121,8 +151,7 @@ Vendredi, dernière heure. Le professeur, Monsieur Bakayoko, écrit au tableau :
 
 En France, les élèves terminent le collège par la classe de **troisième** et passent le **diplôme national du brevet**, à la fin de la scolarité obligatoire du collège. Ensuite, ils choisissent une orientation : la **voie générale et technologique** (au lycée) ou la **voie professionnelle**. Chaque élève formule des **vœux** d'orientation, et l'affectation dépend à la fois de ses souhaits et de ses résultats. C'est souvent le premier grand « projet d'avenir » qu'un adolescent français doit formuler — un bon contexte pour employer le futur simple. *(Paraphrasé de Wikipédia, CC BY-SA ; voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Conjugaison (G).** Mettez le verbe au futur simple.
 
 1. (être) Tu *…* en classe demain.
@@ -151,16 +180,17 @@ En France, les élèves terminent le collège par la classe de **troisième** et
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) seras · 2) ferons · 3) iront · 4) aurez · 5) saurai.
 
-**Ex. 2.** 1) vais partir *(action immédiate)* · 2) habiterai *(futur lointain)* · 3) vas tomber *(danger immédiat)* · 4) sauverons *(projet lointain)*.
+**Ex. 2.** Réponses possibles : 1) vais partir; 2) habiterai; 3) vas tomber; 4) sauverons. Accepter un autre futur grammaticalement correct si l'élève explique le sens choisi. Les expressions temporelles ne suffisent pas à imposer un temps unique.
 
 **Ex. 3.** *Dans dix ans, Léa sera à l'université. Elle étudiera la biologie. Elle fera un stage au Sénégal et elle rencontrera des chercheuses qui parlent français. Un jour, elle publiera son premier article. Le soir, elle téléphonera à Inès…* (etc. ; les verbes passent à *il/elle*).
 
 **Ex. 4.** Réponses libres. Vérifier : radical + **-r-** + terminaison correcte, au moins un verbe irrégulier bien formé.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — monologue (M, ~1 min).**
 Présentez **trois projets d'avenir** en monologue continu, sans lire un texte écrit (notes autorisées : 5 mots-clés maximum). Structurez : d'abord **où** vous serez, ensuite **ce que** vous ferez (études/métier), enfin **un projet personnel** (voyage, famille, passion).
 
@@ -176,45 +206,18 @@ Utilisez au moins **six verbes au futur simple**, dont **deux irréguliers**, et
 | Fluidité / prononciation | débit régulier, compréhensible | 2 |
 | **Total** | | **12** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais conjuguer au futur simple les 9 verbes irréguliers du tableau.
 - [ ] Je choisis correctement entre futur proche et futur simple.
 - [ ] Je repère la lettre **-r-** dans chaque forme du futur.
 - [ ] Je peux parler ~1 minute de mes projets, sans lire.
 - [ ] Je peux écrire ~80 mots avec au moins six verbes au futur simple.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple de devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl08/units/unit04_futurs-projets_exam" >}}).
 
-**Tâche 1 — Grammaire (10 P.)** — Mettez les phrases au futur simple.
-
-1. Karim *(prendre)* le train demain matin.
-2. Nous *(aller)* à Lille pour les vacances.
-3. Tu *(faire)* tes devoirs ce soir ?
-4. Léa *(être)* à Strasbourg dans cinq ans.
-5. Vous *(savoir)* la réponse après le cours.
-
-**Tâche 2 — Futur proche ou futur simple ? (5 P.)** — Choisissez et justifiez en 4-5 mots.
-
-1. *Je vais manger / mangerai* dans cinq minutes.
-2. *Je vais habiter / habiterai* à Paris quand j'aurai 25 ans.
-3. *Attention, tu vas tomber / tu tomberas* — la marche est cassée.
-
-**Tâche 3 — Expression écrite (15 P.)** — Rédigez ~80 mots sur **vos futurs projets** (lieu, études/métier, projet personnel). Au moins **6 verbes** au futur simple, dont **2 irréguliers**.
-
-**Barème**
-
-| Tâche | Compétence | Points |
-|---|---|---|
-| 1 | Grammaire (conjugaison) | 10 |
-| 2 | Grammaire (emploi des temps) | 5 |
-| 3 — contenu & structure | Expression écrite | 7 |
-| 3 — langue (futur, orthographe) | Expression écrite | 8 |
-| **Total** | | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min).** Activer 5' · Apporter (vocabulaire + grammaire + texte modèle + note culturelle) 12' · S'entraîner 13' · Produire (préparation + 2-3 monologues témoins) 12' · Réfléchir 3'.
 

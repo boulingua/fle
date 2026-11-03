@@ -1,0 +1,83 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 12 (finale)"
+subtitle: "Bilan : portrait de classe · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 12
+slug: "bilan-portrait-de-classe-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.01
+    - A1.INT.correspondence.01
+    - A1.LING.orthographic-control.01
+    - A1.LING.phonological-control.01
+    - A1.MED.collaborating-to-construct-meaning.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé finale — Niveau M, classe 6
+
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») (15 points)
+
+Lisez le texte allemand sur la 6c.
+
+> Wir sind 24 Schüler:innen — 12 Mädchen und 12 Jungen. Unser
+> Lehrerinnen-Team besteht aus Frau Renault (Französisch) und
+> Herrn Klein (Mathe). Acht Schüler:innen machen Sport in einem
+> Verein, fünf spielen ein Instrument. Die beliebteste
+> Aktivität ist Fußball.
+
+Écrivez en **français** un résumé en **3 à 5 phrases courtes**
+pour Inès à Montréal. Inclure : nombre d'élèves · profs ·
+activités · activité préférée.
+
+Critères : Contenu 6 P · Langue 5 P · Sens fidèle 4 P.
+
+### Tâche 2 — Expression orale (« Sprechen ») mündlich (15 points)
+
+Présentation orale de votre classe en 1-2 minutes. Inclure :
+
+- Nombre d'élèves (filles/garçons).
+- Nom de 2 profs.
+- 3 activités fréquentes.
+- 1 chose unique.
+
+Critères : Contenu 6 P · Langue 5 P · Aussprache 4 P.
+
+## Total : 30 P.
+
+## Modèle de médiation (~50 mots)
+
+> Nous sommes 24 élèves dans la 6c, à Karlsruhe : 12 filles et
+> 12 garçons. Nos profs sont Madame Renault (français) et
+> Monsieur Klein (maths). Huit élèves font du sport en club et
+> cinq jouent d'un instrument. L'activité préférée de la classe
+> est le foot.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 12 · devoir surveillé (« Klassenarbeit ») finale*

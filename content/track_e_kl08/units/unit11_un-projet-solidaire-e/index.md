@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 11
 slug: "un-projet-solidaire-e"
 bildungsplan:
-  - "3.1.3.4 Expression orale (monologisches Sprechen)"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale (monologisches Sprechen)"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_un-projet-solidaire-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_un-projet-solidaire-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit11_un-projet-solidaire-e.html"
+- "/track_e_kl08/units/unit11_un-projet-solidaire-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.PROD.creative-writing.03
-    - A2.INT.goal-oriented-online-transactions-and-collaboration.05
-    - A2.INT.online-conversation-and-discussion.01
-    - A2.PLUR.building-on-plurilingual-repertoire.02
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.PROD.creative-writing.03
+  - A2.INT.goal-oriented-online-transactions-and-collaboration.05
+  - A2.INT.online-conversation-and-discussion.01
+  - A2.PLUR.building-on-plurilingual-repertoire.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit11_un-projet-solidaire-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_un-projet-solidaire-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_un-projet-solidaire-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -84,8 +116,7 @@ déléguée de la 8e, se lève devant le tableau.
 2. Quelles deux solutions les élèves imaginent-ils ?
 3. Quelles expressions utilisent-ils pour *proposer* une idée ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà participé à une action solidaire à l'école
   (collecte, vente de gâteaux, jumelage, action écolo) ?
 - Pour vous, qu'est-ce qu'un « projet solidaire » ? Donnez trois
@@ -93,8 +124,7 @@ déléguée de la 8e, se lève devant le tableau.
 - Si votre classe recevait 200 € pour aider les autres,
   **qu'est-ce que vous feriez** ? Notez une idée en une phrase.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — l'engagement et le projet
 
 | Français | Catégorie | Deutsch |
@@ -168,8 +198,7 @@ d'autrui — un cadre différent du salariat. *(Paraphrasé
 d'après Wikipédia, articles « Journée internationale des
 volontaires » et « Bénévolat », CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte C).** Répondez par une phrase
 complète.
 
@@ -210,6 +239,7 @@ pourrait* pour convaincre.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Elle en a deux : le foyer des élèves et une école au Sénégal.
 2. Une association de bénévoles (la cousine de Léa y est
@@ -232,9 +262,9 @@ la classe, afin de financer la sortie. **Comment ?** Les élèves
 prépareront et vendront le petit-déjeuner ; *on pourrait*
 demander l'aide des parents. **Quand ?** Un vendredi matin avant
 les cours, en janvier.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue, ~1 min 30).** Vous présentez à la
 classe **votre** projet solidaire. Structurez votre passage en
 quatre temps : (1) le problème ou le besoin, (2) votre
@@ -256,8 +286,7 @@ Comment / Quand.
 - **Effet** : l'invitation donne envie de participer.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux proposer une idée avec *on pourrait / il faudrait /
   je propose de*.
 - [ ] Je structure un projet en quatre questions.
@@ -267,30 +296,11 @@ Comment / Quand.
   l'engagement.
 - [ ] Mon affiche donne envie de participer.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E.** Compétences
-visées : *expression écrite* et *expression orale (monologue)*.
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit11_un-projet-solidaire-e_exam" >}}).
 
-**Tâche 1 — Compréhension de l'écrit (8 pts).** À partir de
-l'affiche du texte C, répondez à quatre questions par des phrases
-complètes.
-
-**Tâche 2 — Grammaire (10 pts).** (a) Conjuguez cinq verbes au
-futur simple (5 pts). (b) Reformulez trois idées avec une
-expression de proposition différente à chaque fois (5 pts).
-
-**Tâche 3 — Expression écrite (12 pts).** Rédigez une
-affiche-projet solidaire de votre choix (~100 mots) : quatre
-questions structurantes, au moins trois verbes au futur simple,
-deux expressions de proposition et une invitation à participer.
-
-**Barème.** Structure 3 · Langue (futur / proposition) 4 ·
-Lexique de l'engagement 3 · Cohérence et effet 2.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.** Activer 5' (tour de table sur les actions
 déjà vécues) · Apporter 12' (vocabulaire + point de langue au

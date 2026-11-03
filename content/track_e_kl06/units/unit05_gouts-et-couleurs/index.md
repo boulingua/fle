@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 5
 slug: "gouts-et-couleurs"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_interaction
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_gouts-et-couleurs.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_gouts-et-couleurs.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit05_gouts-et-couleurs.html"
+- "/track_e_kl06/units/unit05_gouts-et-couleurs.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.PROD.creative-writing.01
-    - A1.INT.information-exchange.02
-    - A1.PROD.overall-oral-production.01
-    - A1.LING.orthographic-control.01
+  - A1.INT.correspondence.03
+  - A1.PROD.creative-writing.01
+  - A1.INT.information-exchange.02
+  - A1.PROD.overall-oral-production.01
+  - A1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit05_gouts-et-couleurs_exam
+  format: written
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_interaction
+  - writing
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_gouts-et-couleurs-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit05_gouts-et-couleurs-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,8 +101,7 @@ Devant les casiers du lycée, Anouk et Tristan comparent leurs nouveaux sacs.
 3. Quelle couleur Tristan n'aime pas trop ? Pourquoi ?
 4. Et vous : quelle est votre couleur préférée ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En groupe classe, on active ce qu'on sait déjà.
 
 - Regardez autour de vous : nommez **cinq couleurs** que vous voyez dans la salle.
@@ -77,8 +109,7 @@ En groupe classe, on active ce qu'on sait déjà.
 - Vrai ou faux ? *En français, on dit « une voiture rouge » et « une voiture rouges ».*
 - Cherchez à deux : connaissez-vous déjà les verbes *aimer* et *adorer* ? Donnez un exemple.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 **Les couleurs**
@@ -134,8 +165,7 @@ Attention aussi : *rose* prend un **-s** au pluriel (*des chaussettes roses*), m
 
 En Europe, quand on demande aux gens leur couleur préférée, le **bleu** arrive très souvent en tête, devant le vert et le rouge. L'historien des couleurs Michel Pastoureau explique que le bleu est longtemps resté une couleur discrète en Europe avant de devenir, à l'époque moderne, la couleur la plus appréciée et associée au calme et à la confiance. On retrouve d'ailleurs le bleu sur de nombreux drapeaux et symboles européens. *(Paraphrasé d'après l'article « Bleu », Wikipédia, CC-BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte B).** Répondez par une phrase.
 
 1. Qu'est-ce que Léa adore faire ?
@@ -173,6 +203,7 @@ En Europe, quand on demande aux gens leur couleur préférée, le **bleu** arriv
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) Elle adore la peinture (peindre). 2) Beaucoup de bleu et de vert, parce qu'elle peint des paysages. 3) Il/elle préfère le noir et le blanc (des dessins au crayon). 4) Parce que sans couleur, elle s'ennuie.
 
 **Exercice 2.** 1) bleue · 2) noires · 3) verte · 4) orange (invariable) · 5) blanche · 6) gris.
@@ -180,9 +211,9 @@ En Europe, quand on demande aux gens leur couleur préférée, le **bleu** arriv
 **Exercice 3.** Réponses possibles : 1) J'adore le foot. 2) Je n'aime pas les épinards. 3) J'aime la musique. 4) Je déteste les devoirs. *(Niveau E : + justification avec « parce que ».)*
 
 **Exercice 4.** aimes · déteste · préfère · adore.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'expression écrite (E, environ 70 mots).**
 
 Vous écrivez un petit message à un(e) correspondant(e) francophone pour présenter vos goûts. Écrivez **cinq à six phrases** :
@@ -203,8 +234,7 @@ Vous écrivez un petit message à un(e) correspondant(e) francophone pour prése
 | Justification | au moins une phrase avec *parce que* |
 | Correction de la langue | orthographe et ponctuation compréhensibles |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Je fais le point (coche ce que tu sais faire) :
 
 - [ ] Je nomme dix couleurs en français.
@@ -214,26 +244,11 @@ Je fais le point (coche ce que tu sais faire) :
 - [ ] Je pose une question sur les goûts et je réponds.
 - [ ] Je justifie un goût avec *parce que*.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — expression orale (dialogue) et expression écrite** *(en lien avec 3.1.3.3 et 3.1.3.5)*
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit05_gouts-et-couleurs_exam" >}}).
 
-**Partie A — Interaction orale (dialogue, 10 P.).** À deux, jouez un dialogue de six à huit répliques : vous parlez de vos goûts et de vos couleurs préférées. Chaque personne doit poser **une question** et exprimer **au moins trois goûts** (positifs et négatifs) avec des couleurs accordées.
-
-**Partie B — Expression écrite (12 P.).** Écrivez un petit texte (environ 70 mots) qui présente vos goûts et trois couleurs préférées, avec une justification (*parce que*).
-
-**Partie C — Vocabulaire et grammaire (8 P.).** 1) Traduisez cinq couleurs. 2) Accordez cinq adjectifs de couleur.
-
-**Barème :**
-
-| Partie | Points |
-|---|---|
-| A — Interaction orale | 10 |
-| B — Expression écrite | 12 |
-| C — Vocabulaire et grammaire | 8 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

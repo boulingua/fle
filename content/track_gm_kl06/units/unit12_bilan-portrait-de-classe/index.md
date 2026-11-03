@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 12
 slug: "bilan-portrait-de-classe"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.3.6 Médiation linguistique"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.3.6 Médiation linguistique"
 skills_focus:
 - mediation
 - speaking_production
@@ -20,22 +20,57 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-portrait-de-classe.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-portrait-de-classe.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit12_bilan-portrait-de-classe.html"
+- "/track_gm_kl06/units/unit12_bilan-portrait-de-classe.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.MED.collaborating-to-construct-meaning.01
-    - A1.PROD.creative-writing.01
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
-    - A1.PROD.overall-oral-production.01
-    - A1.INT.conversation.01
+  - A1.MED.collaborating-to-construct-meaning.01
+  - A1.PROD.creative-writing.01
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.PROD.overall-oral-production.01
+  - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam
+  format: existing-assessment
+  duration_minutes: 2
+  points: 30
+  skills:
+  - reading
+  - writing
+  - speaking_production
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-portrait-de-classe-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit12_bilan-portrait-de-classe-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,8 +105,7 @@ C'est la dernière séance de l'année. Madame Renault entre en classe avec une 
 - Que faut-il raconter dans un portrait de classe ?
 - À votre avis, qu'est-ce qui rend une classe « unique » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, en français, avec votre voisin·e :
 
 - Combien d'élèves y a-t-il dans votre classe ?
@@ -81,8 +115,7 @@ Répondez oralement, en français, avec votre voisin·e :
 
 **Remue-méninges (« Brainstorming ») :** au tableau, notez ensemble tous les mots français de l'année qui servent à décrire une classe (nombres, loisirs, matières, caractère).
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire
 
 | Français | Allemand | Exemple |
@@ -129,8 +162,7 @@ L'idée d'écrire à une autre classe n'est pas nouvelle. Selon Wikipédia, la *
 
 *(Source paraphrasée : Wikipédia, articles « Pédagogie Freinet » et « Journal scolaire », CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du texte modèle.** Répondez en français par une phrase complète :
 
 1. Combien d'élèves y a-t-il dans la 6e M ?
@@ -160,6 +192,7 @@ d) ______ les élèves parlent allemand (23 sur 24).
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Il y a vingt-quatre élèves dans la 6e M.
 2. La moitié de la classe (douze élèves) fait du sport.
@@ -179,9 +212,9 @@ d) ______ les élèves parlent allemand (23 sur 24).
 - **M :** quatre phrases complètes, sans surlignage.
 - **E :** ajouter une cinquième phrase personnelle (une comparaison avec sa propre classe).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue, 1 à 2 minutes).**
 
 Présentez **votre classe** à la 6e B de Lyon, comme si vous parliez devant une caméra. Structurez avec *d'abord / ensuite / enfin* et incluez :
@@ -200,8 +233,7 @@ Présentez **votre classe** à la 6e B de Lyon, comme si vous parliez devant une
 | Langue | Nombres et vocabulaire de l'année corrects. |
 | Fluidité | Discours en continu, sans longues pauses. |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire à la fin de la classe de 6e :
 
 - [ ] Je peux présenter ma classe à l'oral pendant 1 à 2 minutes.
@@ -212,23 +244,11 @@ Cochez ce que vous savez faire à la fin de la classe de 6e :
 
 **Bilan de l'année.** En classe de 6e, vous avez appris à : saluer et vous présenter (U1), parler de votre famille (U2), décrire votre école (U3), raconter votre journée (U4), exprimer vos goûts (U5), faire un achat (U6), dire l'heure et la date (U7), décrire la météo (U8), décrire votre chambre (U9), parler de vos loisirs (U10), écrire une carte postale (U11) et dresser un portrait de classe (U12). C'est la base du niveau A1, orientée sur le référentiel régional (« Bildungsplan »).
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve de fin d'année (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam" >}}).
 
-**Tâche 1 — Médiation linguistique (« Sprachmittlung ») · 15 points**
-À partir du texte source allemand (« Unsere 6c »), rédigez **cinq phrases françaises** qui transmettent l'essentiel à un·e correspondant·e français·e (nombre d'élèves, professeur·e·s, activité la plus populaire, un point commun, la particularité de la classe).
-
-*Barème :* contenu transmis 8 · correction linguistique 5 · lisibilité / phrases complètes 2.
-
-**Tâche 2 — Expression orale (« Sprechen ») · 15 points**
-Présentation orale de votre classe (1 à 2 minutes), suivie d'**une question** de l'enseignant·e.
-
-*Barème :* contenu (4 points demandés) 6 · structure (mots-outils) 3 · langue et nombres 4 · réponse à la question 2.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :**
 

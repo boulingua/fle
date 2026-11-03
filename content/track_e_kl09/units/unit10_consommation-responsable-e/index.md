@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 10
 slug: "consommation-responsable-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_consommation-responsable-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_consommation-responsable-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit10_consommation-responsable-e.html"
+- "/track_e_kl09/units/unit10_consommation-responsable-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.PROD.overall-oral-production.01
-    - A2.MED.adapting-language.01
+  - A2.PROD.creative-writing.04
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.PROD.overall-oral-production.01
+  - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit10_consommation-responsable-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_consommation-responsable-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit10_consommation-responsable-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,15 +101,13 @@ Devant le rayon d'un supermarché, Anouk et Mehdi comparent deux paquets de caf�
 - Quel argument Mehdi donne-t-il contre l'achat équitable ?
 - Que veut dire la phrase « Chaque achat est un petit vote » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Regardez-vous les logos et les étiquettes quand vous faites des courses ?
 - Connaissez-vous le label **AB** ? Que signifie-t-il, selon vous ?
 - Êtes-vous prêt·e à payer plus cher un produit plus respectueux de l'environnement ? Pourquoi (pas) ?
 - Citez deux raisons d'acheter local et deux obstacles possibles.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — l'achat responsable
 
 | Français | Catégorie | Sens / exemple |
@@ -114,7 +145,7 @@ Un bon argument suit souvent le schéma : **opinion → cause → nuance**.
 >
 > Depuis un an, je change mes habitudes. Je **privilégie** les produits locaux et de saison, parce qu'ils voyagent moins et gardent plus de goût. Pour mes vêtements, j'**évite** la fast-fashion : j'achète en friperie ou en seconde main.
 >
-> Bien sûr, tout n'est pas simple. Un tee-shirt en coton bio coûte plus cher, **mais** il dure plus longtemps, **donc** je le remplace moins souvent. **Même si** mon budget est limité, je choisis quelques produits responsables plutôt que beaucoup de produits jetables.
+> Bien sûr, tout n'est pas simple. Le tee-shirt que j'ai choisi coûtait plus cher, **mais** j'en prends soin, **donc** j'espère le garder longtemps. La mention « bio » ne garantit pas à elle seule la durée de vie d'un vêtement. **Même si** mon budget est limité, je choisis quelques produits responsables plutôt que beaucoup de produits jetables.
 >
 > Mon conseil : ne changez pas tout d'un coup. Commencez petit, lisez les étiquettes, et rappelez-vous que chaque achat compte.
 
@@ -122,8 +153,7 @@ Un bon argument suit souvent le schéma : **opinion → cause → nuance**.
 
 Le label **AB** (« Agriculture Biologique ») est un signe officiel français créé par le ministère de l'Agriculture au milieu des années 1980. Il indique qu'un produit alimentaire est issu de l'agriculture biologique, c'est-à-dire cultivé sans pesticides ni engrais chimiques de synthèse. Pour un produit transformé, la très grande majorité des ingrédients agricoles (au moins 95 %) doit provenir du bio. Aujourd'hui, ce logo coexiste avec le label écologique européen (la « feuille » verte). *(Faits paraphrasés d'après Wikipédia FR, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 
 1. Depuis combien de temps Léa a-t-elle changé ses habitudes ?
@@ -142,7 +172,7 @@ e) Il ne faut pas \_\_\_\_ la nourriture.
 **Ex. 3 — Connecteurs logiques.** Reliez les deux phrases avec le connecteur entre parenthèses.
 
 a) Le café est équitable. Le producteur reçoit un prix juste. *(donc)*
-b) Le coton bio est plus cher. Il dure plus longtemps. *(mais)*
+b) Ce tee-shirt est plus cher. Je compte le garder longtemps. *(mais)*
 c) J'achète local. Les produits voyagent moins. *(parce que)*
 d) Mon budget est limité. Je choisis quelques produits responsables. *(même si)*
 
@@ -150,6 +180,7 @@ d) Mon budget est limité. Je choisis quelques produits responsables. *(même si
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Depuis un an, elle a changé ses habitudes.
 2. Parce que ces produits voyagent moins et gardent plus de goût.
@@ -160,7 +191,7 @@ d) Mon budget est limité. Je choisis quelques produits responsables. *(même si
 
 **Ex. 3.** *(réponses possibles)*
 a) Le café est équitable, **donc** le producteur reçoit un prix juste.
-b) Le coton bio est plus cher, **mais** il dure plus longtemps.
+b) Ce tee-shirt est plus cher, **mais** je compte le garder longtemps.
 c) J'achète local **parce que** les produits voyagent moins.
 d) **Même si** mon budget est limité, je choisis quelques produits responsables.
 
@@ -172,9 +203,9 @@ d) **Même si** mon budget est limité, je choisis quelques produits responsable
 - **M (moyen) :** exercices tels quels.
 - **E (renforcé) :** Ex. 4 étendu à trois arguments enchaînés (opinion → cause → conséquence → nuance).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (E, ~180 mots).**
 
 Rédigez **votre chronique argumentée** intitulée *« Consommer autrement »* pour le journal de la classe. Défendez un choix de consommation responsable (alimentation, vêtement, transport ou cosmétique). Votre texte doit contenir :
@@ -194,33 +225,18 @@ Rédigez **votre chronique argumentée** intitulée *« Consommer autrement »* 
 - Cohérence et présence d'une nuance + d'un conseil (3 pts)
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer cinq labels et dire ce qu'ils garantissent.
 - [ ] Je comprends une chronique et je retrouve ses arguments.
 - [ ] J'utilise le vocabulaire de l'achat responsable.
 - [ ] J'emploie les connecteurs de cause, de conséquence et d'opposition.
 - [ ] Je rédige une chronique argumentée d'environ 180 mots avec une nuance.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E · 45 min · 40 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit10_consommation-responsable-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen »), 16 pts.**
-Lisez la chronique de Léa (texte C). Répondez en phrases complètes.
-1. Quels deux types d'achats Léa a-t-elle changés ? (4 pts)
-2. Relevez **deux arguments** en faveur de sa démarche. (4 pts)
-3. Quelle **limite** reconnaît-elle et comment la dépasse-t-elle ? (4 pts)
-4. Expliquez avec vos mots la phrase « chaque achat compte ». (4 pts)
-
-**Tâche 2 — Expression écrite (« Schreiben »), 24 pts.**
-Rédigez une chronique argumentée (~180 mots) selon la consigne de la partie « Produire » : opinion, deux notions de l'unité, trois connecteurs, une nuance, un conseil.
-
-*Barème Tâche 2 :* contenu et consigne 8 pts · argumentation et connecteurs 8 pts · langue (grammaire, orthographe, richesse) 8 pts.
-
-**Total : 40 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 5' · Apporter 12' · S'entraîner 14' · Produire 10' · Réfléchir 2' · Aperçu de l'évaluation 2'.
 

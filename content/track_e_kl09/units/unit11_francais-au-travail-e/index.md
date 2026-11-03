@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 11
 slug: "francais-au-travail-e"
 bildungsplan:
-  - "3.1.3.6 Médiation linguistique"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.6 Médiation linguistique"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - mediation
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_francais-au-travail-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_francais-au-travail-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit11_francais-au-travail-e.html"
+- "/track_e_kl09/units/unit11_francais-au-travail-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.MED.adapting-language.01
-    - A2.INT.goal-oriented-online-transactions-and-collaboration.05
-    - A2.MED.collaborating-to-construct-meaning.02
-    - A2.REC.reading-as-a-leisure-activity.04
+  - A2.INT.conversation.08
+  - A2.MED.adapting-language.01
+  - A2.INT.goal-oriented-online-transactions-and-collaboration.05
+  - A2.MED.collaborating-to-construct-meaning.02
+  - A2.REC.reading-as-a-leisure-activity.04
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit11_francais-au-travail-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_francais-au-travail-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_francais-au-travail-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,14 +98,12 @@ Anouk commence un stage à l'**Institut français**. Sa tutrice, Mme Lambert, la
 - Pourquoi Mme Lambert dit-elle « on se vouvoie » ?
 - Quelle est la première tâche confiée à Anouk ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel français vous semble le **plus difficile** : l'oral professionnel ou l'écrit professionnel ? Pourquoi ?
 - **Tu ou vous ?** Dans un premier contact au travail, lequel choisiriez-vous ? Qui décide de passer au tutoiement ?
 - Connaissez-vous des **formules de clôture** d'un courriel français ? Notez-en deux.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — dix expressions du français professionnel
 
 | Français (registre pro) | Équivalent allemand | Emploi |
@@ -118,8 +148,7 @@ Formation : radical du **futur** + terminaisons de l'imparfait (*-ais, -ais, -ai
 
 En français, le **vouvoiement** (emploi de *vous* pour une seule personne) marque la distance ou le respect, tandis que le **tutoiement** signale la proximité. Dans le monde professionnel français, le vouvoiement reste souvent la règle lors d'un premier contact ou avec un supérieur, mais l'usage varie beaucoup selon les entreprises et les générations : dans de nombreuses équipes jeunes, on se tutoie rapidement. Le passage du *vous* au *tu* se propose en général explicitement (« On peut se tutoyer ? »), et c'est souvent la personne la plus âgée ou la plus haut placée qui le propose. *(Paraphrasé de l'article « Vouvoiement », Wikipédia, CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du courriel (texte B).** Répondez par une phrase.
 
 1. Qui écrit ce courriel et à qui ?
@@ -155,6 +184,7 @@ c) *Vous pouvez rappeler demain ?* → ______
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Klaus Weber écrit à Mme Lambert. 2) Le programme provisoire de la Foire du livre de Francfort. 3) De transmettre le programme à la collègue de Strasbourg. 4) *Cordialement.*
 
 **Ex. 2.** a) en pièce jointe · b) avec mes remerciements · c) Pourriez-vous… ? · d) Chère Madame Lambert.
@@ -162,9 +192,9 @@ c) *Vous pouvez rappeler demain ?* → ______
 **Ex. 3.** a) *Pourriez-vous m'envoyer le contrat ?* · b) *Je voudrais parler à M. Weber.* · c) *Pourriez-vous rappeler demain ?*
 
 **Ex. 4.** Réponses libres. Modèle : *Bonjour, c'est Anouk Meyer, de l'Institut français. / Oui, je veux bien laisser un message. / Je l'appelais au sujet du programme de la Foire de Francfort. / Pourriez-vous lui demander de me rappeler ? / Merci beaucoup, bonne journée.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche — médiation écrite + jeu de rôle oral (E, ~150 mots + dialogue).**
 
 Vous recevez un courriel en allemand (fourni par l'enseignant·e). En binôme :
@@ -179,40 +209,18 @@ Vous recevez un courriel en allemand (fourni par l'enseignant·e). En binôme :
 - Au moins **cinq expressions** de la liste sont réemployées correctement.
 - Le dialogue oral est **fluide** et poli (ouverture, corps, clôture).
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux saluer et me présenter dans un contexte professionnel.
 - [ ] Je sais choisir entre le tutoiement et le vouvoiement.
 - [ ] Je peux médier un courriel simple de l'allemand vers le français.
 - [ ] Je connais dix expressions du français professionnel.
 - [ ] Je peux laisser un message clair et poli au téléphone.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit11_francais-au-travail-e_exam" >}}).
 
-**Tâche 1 — Médiation linguistique (« Sprachmittlung »), 16 points.**
-À partir d'un courriel professionnel rédigé en allemand (fourni), rédigez en français un message d'environ 120 mots destiné à un·e collègue francophone. Rendez fidèlement le contenu et employez les formules du registre professionnel.
-
-**Tâche 2 — Expression orale en interaction (« Sprechen — dialogue »), 10 points.**
-En binôme, jouez un **appel téléphonique** de six répliques : vous transmettez l'information du courriel et convenez d'un rendez-vous. La clôture doit rester polie.
-
-**Tâche 3 — Lexique professionnel, 4 points.**
-Traduisez quatre expressions allemandes en français professionnel.
-
-**Barème (30 points)**
-
-| Critère | Points |
-|---|---|
-| Fidélité du contenu (T1) | 6 |
-| Registre et formules (T1) | 6 |
-| Correction linguistique (T1) | 4 |
-| Fluidité et interaction (T2) | 5 |
-| Politesse et structure du dialogue (T2) | 5 |
-| Exactitude lexicale (T3) | 4 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

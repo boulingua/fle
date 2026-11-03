@@ -1,0 +1,100 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 11"
+subtitle: "Français au travail · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 11
+slug: "francais-au-travail-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.overall-oral-interaction.02
+    - A2.MED.adapting-language.01
+    - A2.MED.overall-mediation.02
+    - A2.INT.formal-discussion.01
+    - A2.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
+
+Lisez le mail allemand de Caroline (Unité 11, texte C).
+**Médiez** son contenu en **français** (~80 mots) sous forme
+d'un mail professionnel : objet, salutation, corps, formule
+finale, signature.
+
+### Tâche 2 — Vocabulaire (10 points)
+
+Donnez l'équivalent **français simple** :
+
+1. un brief
+2. un debrief
+3. la deadline
+4. asap
+5. faire un point
+6. livrer un projet
+7. en ligne
+8. onboarder
+9. le feedback
+10. un délai
+
+### Tâche 3 — Expression écrite (« Schreiben ») (5 points)
+
+Rédigez un **mail-réponse** à Caroline (~50 mots) : confirmer la
+réunion, signaler que vous apportez la clé USB, poser **une**
+question. Salutation + formule finale.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — médiation linguistique | 15 |
+| Tâche 2 — Vocabulaire | 10 |
+| Tâche 3 — Expression écrite | 5 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** Modèle : *Objet : Confirmation réunion jeudi.
+Bonjour Léa, petit message pour confirmer : demain à 9h, nous
+avons le brief en salle 3. Apporte ta clé USB avec les photos.
+Le debrief suivra à 11h. Le délai final pour la publication est
+vendredi soir. À demain ! Caroline.*
+
+**Tâche 2.** 1) une réunion d'information · 2) un retour après
+l'événement · 3) le délai final · 4) aussi vite que possible ·
+5) une réunion brève · 6) terminer et remettre · 7) publié sur
+internet · 8) accueillir un nouveau · 9) le retour, l'avis ·
+10) une date limite.
+
+**Tâche 3.** Réponses libres. Critères : 50 mots · objet ·
+salutation + formule · 1 question · ton professionnel.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 11*

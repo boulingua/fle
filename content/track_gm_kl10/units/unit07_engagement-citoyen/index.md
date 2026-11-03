@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 7
 slug: "engagement-citoyen"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_interaction
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_engagement-citoyen.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_engagement-citoyen.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit07_engagement-citoyen.html"
+- "/track_gm_kl10/units/unit07_engagement-citoyen.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.formal-discussion.01
-    - B1.PROD.monitoring-and-repair.01
-    - B1.INT.correspondence.04
-    - B1.PROD.planning.02
-    - B1.MED.analysis-and-criticism-of-creative-texts.01
+  - B1.INT.formal-discussion.01
+  - B1.PROD.monitoring-and-repair.01
+  - B1.INT.correspondence.04
+  - B1.PROD.planning.02
+  - B1.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit07_engagement-citoyen_exam
+  format: existing-assessment
+  duration_minutes: 30
+  points: 24
+  skills:
+  - speaking_interaction
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_engagement-citoyen-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_engagement-citoyen-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,15 +101,13 @@ Au foyer du lycée, deux affiches sont côte à côte. Sur la première :
 - Quel argument de Nour te semble le plus convaincant ?
 - Et toi, tu répondrais quoi à la place de Théo ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Fais-tu partie d'un club, d'une association ou d'une équipe ?
 - Cite une action concrète qu'un·e jeune peut mener pour sa ville.
 - À ton avis, pourquoi certains jeunes s'engagent-ils et d'autres non ?
 - Termine la phrase à l'oral : *« Je m'engagerais volontiers pour… parce que… »*
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — l'engagement citoyen
 
 | Français | Allemand |
@@ -109,8 +139,7 @@ Au foyer du lycée, deux affiches sont côte à côte. Sur la première :
 - **pour** + infinitif : *Je manifeste **pour** protéger la nature.*
 - **afin de** + infinitif (soutenu) : *…, **afin d'**alerter les adultes.*
 
-Attention : après **pour** et **afin de**, on met un **infinitif**, jamais
-« que + subjonctif » ici.
+**Attention :** lorsque le sujet est le même, on emploie *pour / afin de + infinitif* : *Je participe pour aider*. Avec deux sujets différents, *pour que / afin que + subjonctif* sont corrects : *Je participe pour que les enfants puissent apprendre*.
 {{< /callout >}}
 
 ### C. Texte original — « Deux heures par semaine »
@@ -139,8 +168,7 @@ plusieurs mois, contre une indemnité mensuelle. L'idée centrale :
 donner à chacun·e la possibilité d'être utile, sans diplôme exigé.
 *(Paraphrasé de l'article « Service civique », Wikipédia, CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension du texte C (niveau G).**
 Réponds par une phrase complète.
 
@@ -181,6 +209,7 @@ de 4 phrases avec au moins 3 connecteurs différents.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Elle est bénévole **chaque mercredi**, après les cours.
 2. Elle **aide des enfants à faire leurs devoirs**.
@@ -197,9 +226,9 @@ de 4 phrases avec au moins 3 connecteurs différents.
 *« Je m'engagerais pour les animaux **parce que** beaucoup sont
 abandonnés. J'irais dans un refuge **pour** m'occuper d'eux. »*
 (Vérifier : infinitif après *pour*, phrase complète après *parce que*.)
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche écrite (M, ~120 mots) — une lettre de motivation courte.**
 
 Une association de ta ville cherche des jeunes bénévoles. Écris-lui
@@ -222,40 +251,18 @@ Plan :
 - Registre et formules adaptés (politesse) — 1 pt.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer au moins 5 formes ou mots de l'engagement.
 - [ ] Je peux justifier une opinion avec *parce que / car*.
 - [ ] Je peux exprimer un but avec *pour / afin de* + infinitif.
 - [ ] Je peux réagir à l'argument de quelqu'un dans un débat.
 - [ ] Je peux écrire une courte lettre de motivation structurée.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve type — expression orale et écrite (M).**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit07_engagement-citoyen_exam" >}}).
 
-**Tâche 1 — Interaction orale (« Sprechen », 12 pts).**
-En binôme, jouez un dialogue de 2-3 minutes : l'un·e propose de
-rejoindre un projet citoyen (nettoyage, tutorat, collecte), l'autre
-hésite. Chacun·e doit donner **au moins deux raisons** (cause ou but)
-et réagir à l'autre.
-
-**Tâche 2 — Expression écrite (« Schreiben », 12 pts).**
-Rédige la lettre de motivation de la partie *Produire* (~120 mots).
-
-**Barème (24 points au total)**
-
-| Critère | Points |
-|-----------------------------------------------|--------|
-| Oral : contenu et arguments | 5 |
-| Oral : interaction et réactions | 4 |
-| Oral : fluidité et prononciation | 3 |
-| Écrit : contenu et structure | 5 |
-| Écrit : justification (cause + but) | 4 |
-| Écrit : correction de la langue | 3 |
-| **Total** | **24** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min).**
 

@@ -23,73 +23,80 @@ curriculum:
     - B1.MED.acting-as-an-intermediary-in-informal-situations.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 24
+assessment_duration_minutes: 30
+assessment_scoring: points-only
 ---
 
-## Devoir surveillé — Niveau M, classe 10
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+Durée indicative : 30 minutes, à éprouver en classe.
 
-Lisez la tribune de Léa (Unité 7, texte C). Répondez :
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-1. Quel jour Léa manifeste-t-elle, à quelle heure ?
-2. Citez ses **3 raisons**.
-3. Quel droit n'a-t-elle pas encore ?
-4. Quelle phrase de la conclusion résume sa position ?
+## Support
 
-### Tâche 2 — Vocabulaire (10 points)
+### C. Texte original — « Deux heures par semaine »
 
-Traduisez :
+> Camille a seize ans. Chaque mercredi, après les cours, elle rejoint
+> une petite association de son quartier qui aide des enfants à faire
+> leurs devoirs.
+>
+> « Au début, je venais surtout pour remplir mon dossier, avoue-t-elle
+> en riant. Mais maintenant, j'y vais parce que ça me plaît vraiment.
+> Les enfants m'attendent, et moi aussi je les attends. »
+>
+> Deux heures par semaine, ce n'est pas énorme. Pourtant, grâce à ce
+> petit geste régulier, Camille a compris quelque chose : on n'a pas
+> besoin d'être adulte, ni d'avoir de l'argent, pour être utile.
+> « Il suffit d'un peu de temps et d'envie », résume-t-elle.
 
-- das Ehrenamt · die Petition · die Demonstration · der Boykott
- · der Verein · die Tribüne (Meinung) · der Aktivismus ·
- die Bürgerinitiative.
+### Tâche 1 — Interaction orale (12 points)
 
-Plus, 2 jeunes français engagés (FR) à nommer (avec leur cause) :
-*Hugo Travers · Camille Étienne · Bilal Hassani*.
+En binôme, jouez un dialogue de deux à trois minutes : une personne propose de rejoindre un projet citoyen (tutorat, collecte, nettoyage), l'autre hésite. Chacune donne au moins deux raisons de cause ou de but, pose une question et réagit à une réponse. Choisissez des rôles fictifs; l'engagement réel n'est pas évalué.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Barème :** Contenu/arguments 5; interaction 4; intelligibilité 3.
 
-Rédigez une **tribune** de **200 mots** sur une cause qui vous
-tient à cœur. Plan : accroche + **3 arguments** (5 connecteurs)
-+ conclusion-appel. Style engagé, respectueux.
+### Tâche 2 — Expression écrite (12 points)
 
-## Notation
+Rédigez une lettre de motivation d'environ 120 mots à une association fictive : présentez-vous, expliquez la cause choisie, proposez une contribution concrète et vos disponibilités, puis terminez poliment. Employez une cause et un but. Les données peuvent être inventées.
+
+**Barème :** Contenu/structure 5; cause/but 4; langue 3.
+
+## Barème total
+
+**Total : 24 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 8 |
-| Tâche 2 — Vocabulaire | 10 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+|---|---:|
+| 1 | 12 |
+| 2 | 12 |
+| **Total** | **24** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) Vendredi, 11h. 2) GIEC 2024 + voter ne suffit
-pas (pas encore 18 ans) + se taire = consentir. 3) Le droit de
-vote. 4) « Mon engagement n'est pas politique : il est vital. »
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** le bénévolat · la pétition · la manifestation · le
-boycott · l'association · la tribune (d'opinion) · le militantisme
-· l'initiative citoyenne. + Hugo Travers (info jeune), Camille
-Étienne (climat), Bilal Hassani (LGBTQ+/liberté).
+**Oral 12.** Contenu/arguments 5 : proposition et raisons; interaction 4 : écoute/réaction 2 et question/relance 2; fluidité/intelligibilité 3. Noter chaque élève individuellement, avec exemples observés. **Écrit 12.** Contenu/structure 5; justification de la cause et du but 4; langue 3. Le modèle Camille évoque aide aux devoirs le mercredi, deux heures par semaine, pas une manifestation ni une citation climatique. Aucune figure publique à nommer n'est requise.
 
-**Tâche 3.** Réponses libres. Critères : 200 mots · plan
-complet · 5 connecteurs · style engagé.
+{{< /details >}}
 
----
+## Prolongement
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+Prolongement écrit facultatif : rédigez une tribune courte sur la même cause, avec une accroche, trois arguments et un appel respectueux. Ce travail conserve une possibilité du sujet divergent et ne remplace pas les 12 points d’interaction.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 7*
+- « Service civique » — Wikipédia, l'encyclopédie libre (consulté en
+  2026), <https://fr.wikipedia.org/wiki/Service_civique>, licence
+  CC BY-SA 4.0.
+- Textes, dialogues et exercices : originaux, rédigés pour cette unité
+  (aucune affiliation avec un organisme cité).
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

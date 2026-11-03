@@ -1,0 +1,97 @@
+---
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 12"
+subtitle: "Bilan final : épreuve finale en vue · classe 13 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 12
+slug: "bilan-final-abitur-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-13
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.amplifying-a-dense-text.02
+    - B2.MED.analysis-and-criticism-of-creative-texts.03
+    - B2.PLUR.building-on-plurilingual-repertoire.03
+    - B2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — final)
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la lettre d'au revoir d'Anouk (Unité 12, texte C).
+Répondez :
+
+1. À qui Anouk écrit-elle (5 destinataires) ?
+2. Quelle citation de Camus ouvre la lettre ?
+3. Quels 5 auteurs cite-t-elle ?
+4. Que fera Anouk en septembre 2030 ?
+5. Quel est le PS final ?
+
+### Tâche 2 — 3 actes du rite final (8 points)
+
+Reliez chaque acte à son contenu :
+
+- reconnaissance · inventaire · engagement
+
+(Contenus : merci aux profs/auteur·e·s · ce que j'emporte ·
+ce que je ferai du français.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre lettre d'au revoir** (~600 mots) : 3
+actes + 5 remerciements personnels + 4 citations littéraires
++ 1 PS mémorable.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — 3 actes | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Profs (Devos, Lefèvre, Théodore),
+camarades, correspondant·e·s. 2) *« Devant cette nuit
+chargée de signes et d'étoiles, je m'ouvrais pour la
+première fois à la tendre indifférence du monde. »* 3)
+Camus, Senghor, Ernaux, Despentes, Slimani. 4) Bordeaux,
+stage Mollat puis licence de lettres modernes. 5) *« On
+ne quitte jamais vraiment une langue qu'on a aimée. »*
+
+**Tâche 2.** reconnaissance = merci · inventaire = ce que
+j'emporte · engagement = ce que je ferai.
+
+**Tâche 3.** Réponses libres. Critères : 600 mots ·
+3 actes · 5 remerciements · 4 citations · 1 PS.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 12 · FIN*

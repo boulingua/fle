@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 6
 slug: "etude-de-roman"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_etude-de-roman.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_etude-de-roman.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit06_etude-de-roman.html"
+- "/track_e_kl12/units/unit06_etude-de-roman.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.monitoring-and-repair.01
-    - B2.REC.overall-oral-comprehension.01
-    - B2.PROD.overall-oral-production.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.SOC.sociolinguistic-appropriateness.02
+  - B2.PROD.monitoring-and-repair.01
+  - B2.REC.overall-oral-comprehension.01
+  - B2.PROD.overall-oral-production.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.SOC.sociolinguistic-appropriateness.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit06_etude-de-roman_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_etude-de-roman-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_etude-de-roman-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,15 +100,13 @@ curriculum:
 2. Pourquoi vaut-il mieux s'entraîner sur des **textes du domaine public** ?
 3. Selon vous, qu'est-ce qui distingue la lecture d'un roman de celle d'un article ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **trois genres** de roman que vous connaissez (roman policier, roman d'apprentissage, roman épistolaire…).
 - Dans un roman, qui parle : l'**auteur** ou le **narrateur** ? Justifiez la différence.
 - Qu'appelle-t-on l'**incipit** d'un roman ? À quoi sert-il ?
 - Reconstituez de mémoire l'ordre des étapes : *péripéties · situation initiale · dénouement · élément perturbateur*.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'analyse romanesque
 
 | Français | Définition brève | Deutsch |
@@ -126,8 +156,7 @@ Le théoricien Gérard Genette a proposé de distinguer trois **focalisations**.
 **Astuce Niveau E :** pour identifier la focalisation, repérez les **verbes de perception et de pensée** (*il crut, elle sentit, on ignorait*). S'ils sont attachés à un seul personnage, la focalisation est probablement **interne**.
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (texte C).**
 Répondez en français par des phrases complètes.
 
@@ -170,6 +199,7 @@ d) Elle (ouvrir) \_\_\_\_ la porte et (comprendre) \_\_\_\_ tout. *(premier plan
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. L'**imparfait** domine (*tambourinait, relisait, songeait*) ; il installe une atmosphère d'attente et un arrière-plan statique.
 2. « **Puis on frappa à la porte.** » — Le passage au **passé simple** marque une rupture soudaine : c'est l'élément perturbateur.
@@ -183,9 +213,9 @@ d) Elle (ouvrir) \_\_\_\_ la porte et (comprendre) \_\_\_\_ tout. *(premier plan
 
 **Exercice 4.**
 a) tombait · b) surgit · c) marchaient · d) ouvrit / comprit.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~350–400 mots) — analyse littéraire.**
 
 À partir de l'**exemple original** du texte C (ou d'un incipit du domaine public de votre choix : Maupassant, Flaubert, Zola…), rédigez une **analyse structurée** :
@@ -206,8 +236,7 @@ Vous pouvez **mentionner par référence** un roman contemporain lu en classe (a
 - **Structure** (3 pts) : introduction, paragraphes liés par des connecteurs, conclusion.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue l'**auteur** du **narrateur**.
 - [ ] Je nomme les **trois focalisations** et je les justifie par des indices.
 - [ ] Je reconstitue un **schéma narratif** complet.
@@ -215,25 +244,11 @@ Vous pouvez **mentionner par référence** un roman contemporain lu en classe (a
 - [ ] Je rédige une analyse de ~350 mots avec thèse, exemples cités et conclusion.
 - [ ] Je sais **discuter un roman protégé par référence**, sans le recopier.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — compréhension écrite + expression écrite (30 points)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit06_etude-de-roman_exam" >}}).
 
-**Partie A — Compréhension écrite / Leseverstehen (12 pts).**
-On donne un court extrait **du domaine public** (par ex. l'incipit de *Bel-Ami*, Maupassant, 1885).
-
-1. Identifiez la **focalisation** dominante et justifiez par un indice. (4 pts)
-2. Relevez **deux verbes** au passé simple et **deux** à l'imparfait, en précisant leur rôle (premier plan / arrière-plan). (4 pts)
-3. Quel **milieu social** ou quelle **atmosphère** l'incipit installe-t-il ? Citez le texte. (4 pts)
-
-**Partie B — Expression écrite / Schreiben (18 pts).**
-Rédigez une **analyse de l'extrait** (~300 mots) : point de vue, temps du récit, effet produit sur le lecteur, et une **référence** à un roman contemporain (sans citation).
-
-**Barème détaillé (18 pts) :** méthode et pertinence 7 · citations intégrées 3 · langue 5 · structure 3.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

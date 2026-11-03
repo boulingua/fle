@@ -23,73 +23,77 @@ curriculum:
     - B2.PLUR.building-on-plurilingual-repertoire.03
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 45
+assessment_scoring: points-only
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d'entraînement réconcilié avec les supports de l'unité. Ce n'est ni un sujet officiel ni une certification de niveau. Les situations originales sont des scénarios pédagogiques; les références littéraires conservent leur attribution. Les durées et barèmes proposés restent à éprouver en classe. La validation pédagogique et linguistique reste en attente.
 
-Lisez le récit de parcours d'Anouk (Unité 10, texte C).
-Répondez :
+Durée indicative : 45 minutes, selon les phases précisées ci-dessous.
 
-1. Quel est le premier mot écrit en français ?
-2. Qui est Inès ?
-3. Qui est Karim et quand est-il arrivé ?
-4. Quelle citation d'Ernaux est mentionnée ?
-5. Que fera Anouk en septembre 2030 ?
+## Support
 
-### Tâche 2 — 6 axes de réflexion (8 points)
+### Texte — « Ce que le français m'a appris » (texte original)
 
-Reliez chaque axe à sa question :
+> Quand j'ai commencé le français, je croyais qu'apprendre une langue, c'était mémoriser des mots. Je remplissais des colonnes de vocabulaire, et le lendemain, tout avait disparu. Je trouvais cela décourageant.
+>
+> Un jour, une enseignante m'a posé une question simple : « Comment fais-tu, toi, pour retenir ? » Je n'avais jamais réfléchi à cela. J'ai essayé de m'observer. J'ai remarqué que je retenais mieux en lisant à voix haute et en reliant les mots à des images. C'était ma première prise de conscience : je pouvais choisir *comment* j'apprenais.
+>
+> Depuis, mon rapport au français a changé. Mes points faibles n'ont pas disparu — je confonds encore certains temps — mais je sais désormais les surmonter : je relis, je vérifie, je demande. J'ai appris à faire le bilan sans me juger trop durement.
+>
+> Ce que le français m'a vraiment appris, ce n'est pas seulement une langue. C'est une méthode : observer, essayer, corriger, recommencer. À l'avenir, quelle que soit ma voie, je garderai cette manière de faire.
 
-- origine · transformations · voix marquantes · difficultés
- · réussites · avenir
+## Tâches et barème
 
-(Questions : Comment ai-je rencontré ? · Qu'a changé en
-moi ? · Quel·le·s auteur·e·s ? · Qu'ai-je trouvé difficile ?
-· De quoi suis-je fier·ère ? · Qu'en ferai-je ?)
+**Épreuve — Bilan réflexif (skills_focus : expression orale en continu + expression écrite)**
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Partie A — Expression orale, monologue suivi (18 points).**
+Présentez pendant 2 à 3 minutes votre bilan et votre projet de français en reliant deux étapes passées, une capacité présente, une difficulté et un projet futur, avec un exemple concret et des connecteurs.
 
-Rédigez **votre récit de parcours FLE** (~500 mots) :
-6 axes + 5 moments-clés + 4 citations littéraires + 1
-projet d'avenir + 1 chute mémorable.
+**Partie B — Expression écrite (12 points).**
+Rédigez un texte réflexif de **180 à 220 mots** : « Ce que le français m'a appris et ce que j'en ferai. » Reliez au moins deux étapes passées et un projet futur ; employez au moins trois connecteurs.
 
-## Notation
+**Barème**
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — 6 axes | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+| Partie | Critère | Points |
+|---|---|---|
+| A (oral) | Contenu (bilan + présent + projet) | 6 |
+| A (oral) | Organisation et connecteurs | 4 |
+| A (oral) | Correction et lexique | 4 |
+| A (oral) | Fluidité et prononciation | 4 |
+| B (écrit) | Pertinence et richesse du contenu | 4 |
+| B (écrit) | Structure et connecteurs | 3 |
+| B (écrit) | Correction grammaticale (temps) | 3 |
+| B (écrit) | Lexique et orthographe | 2 |
+| **Total** | | **30** |
 
-## Solutions
+Les expériences peuvent être fictives et annoncées comme telles. N'indiquez pas de niveau certifié sans justificatif; présentez une autoévaluation comme provisoire et appuyée sur une tâche réalisée. L'oral est observé directement, sans lecture continue.
 
-**Tâche 1.** 1) *Anouk*. 2) Cousine québécoise, premier
-contact francophonie autre. 3) Correspondant lillois, en
-8e. 4) *« Toutes les images disparaîtront. »* 5) Stage à
-Bordeaux, chez Mollat.
+## Corrigé et observation
 
-**Tâche 2.** Réponses libres (associations).
+**Total : 30 points.**
 
-**Tâche 3.** Réponses libres. Critères : 500 mots · 6 axes
-· 5 moments · 4 citations · 1 projet · 1 chute.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
----
+**Oral 18.** Contenu 6 : passé 2, présent 2, projet 2; organisation/connecteurs 4; correction/lexique 4; fluidité/intelligibilité 4. **Écrit 12.** Contenu 4; structure/connecteurs 3; temps grammaticaux 3; lexique/orthographe 2. Le modèle décrit lecture à voix haute, images, vérification et demande d'aide; il ne fournit aucun prénom de narrateur, projet 2030 ou souvenir d'Anouk.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+Accepter un parcours fictif clairement signalé. Ne pas noter la réussite personnelle, le niveau revendiqué ou la sensibilité des confidences; évaluer la construction du propos et la langue. Conserver une observation distincte pour l'oral.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+{{< /details >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 10*
+## Sources
+
+- *Cadre européen commun de référence pour les langues* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Cadre_européen_commun_de_référence_pour_les_langues , licence CC-BY-SA.
+- *Portfolio européen des langues* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Portfolio_européen_des_langues , licence CC-BY-SA.
+- *Métacognition* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Métacognition , licence CC-BY-SA.
+
+## Provenance
+
+Support : unité correspondante, section(s) Texte. Les deux versions antérieures et les décisions sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. La reprise d’un texte connu est un entraînement; une épreuve de transfert indépendante demande un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

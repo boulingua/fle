@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 11
 slug: "voyage-en-france"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.4 Compétence textuelle et médiatique"
-  - "3.1.1 Connaissances socio-culturelles / thèmes"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.4 Compétence textuelle et médiatique"
+- "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
 - listening
 presentation:
@@ -20,22 +20,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_voyage-en-france.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_voyage-en-france.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit11_voyage-en-france.html"
+- "/track_gm_kl06/units/unit11_voyage-en-france.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.reading-for-orientation.01
-    - A1.INT.conversation.01
-    - A1.INT.correspondence.01
-    - A1.LING.phonological-control.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.reading-for-orientation.01
+  - A1.INT.conversation.01
+  - A1.INT.correspondence.01
+  - A1.LING.phonological-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit11_voyage-en-france_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_voyage-en-france-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_voyage-en-france-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -68,15 +99,13 @@ Dans la salle de classe, Madame Renault déplie une grande carte de France au mu
 - Qu'est-ce qu'il y a à Marseille ?
 - Que veut faire Léa ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **trois villes françaises** que vous connaissez.
 - Avez-vous déjà voyagé en France ? Où êtes-vous allé·e ?
 - Quel monument français vous fait rêver ? Pourquoi ?
 - Mer ou montagne : que préférez-vous pour les vacances ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Mot / expression | Sens (Deutsch) |
@@ -137,8 +166,7 @@ Marseille se trouve en **Provence-Alpes-Côte d'Azur**, une région du sud-est d
 
 *(Faits paraphrasés d'après Wikipédia, CC-BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Géographie.** Reliez chaque ville à sa situation.
 
 a) Paris · b) Marseille · c) Lyon · d) Strasbourg · e) Nice
@@ -175,6 +203,7 @@ a) Paris · b) Marseille · c) Lyon · d) Strasbourg · e) Nice
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** a–1 · b–2 · c–3 · d–4 · e–5.
 
 **Ex. 2.** 1) Elle est à Marseille. 2) Il fait très chaud. 3) Elle a mangé une bouillabaisse. 4) Elle montera à Notre-Dame de la Garde.
@@ -182,9 +211,9 @@ a) Paris · b) Marseille · c) Lyon · d) Strasbourg · e) Nice
 **Ex. 3.** 1) le port · 2) la bouillabaisse · 3) bisous.
 
 **Ex. 4.** 1) en · 2) à · 3) à · 4) à.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (M, environ 50 mots).**
 
 Écrivez une **carte postale** depuis une ville française de votre choix :
@@ -204,30 +233,18 @@ a) Paris · b) Marseille · c) Lyon · d) Strasbourg · e) Nice
 | Lisibilité et présentation | 1 |
 | **Total** | **10** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je situe cinq villes françaises sur la carte.
 - [ ] Je nomme trois monuments français.
 - [ ] J'utilise correctement « en France » et « à » + ville.
 - [ ] J'écris une carte postale d'environ 50 mots.
 - [ ] Je peux dire en une phrase où se trouve la région Provence-Alpes-Côte d'Azur.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit11_voyage-en-france_exam" >}}).
 
-**Tâche 1 — Compréhension de l'écrit / médias (« Leseverstehen ») (10 P.)**
-Lisez la carte postale de Léa (texte D) et répondez à quatre questions par une phrase complète.
-
-**Tâche 2 — Connaissances culturelles (10 P.)**
-Situez cinq villes françaises et nommez trois monuments avec leur ville ou région.
-
-**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)**
-Rédigez votre propre carte postale d'environ 50 mots (voir critères de la partie 4).
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min) :** Situation de départ + Activer (carte au mur) 6' · Apporter (vocabulaire, point de langue, texte, note culturelle) 13' · S'entraîner (Ex. 1–4 + correction) 12' · Produire (cartes postales sur papier) 10' · Réfléchir 2' · Aperçu de la séance suivante 2'.
 

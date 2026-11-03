@@ -1,0 +1,82 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 10"
+subtitle: "Mes loisirs · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 10
+slug: "mes-loisirs-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.interviewing-and-being-interviewed.01
+    - A1.INT.goal-oriented-co-operation.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.LING.general-linguistic-range.01
+    - A1.LING.grammatical-accuracy.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 6
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'affiche des activités du collège (« Realschule ») (Unité 10, texte C).
+Répondez :
+
+1. Quel club a lieu le mercredi ?
+2. À quelle heure se tient l'équipe de basket ?
+3. Où se réunit le club de lecture ?
+4. Quel jour est-il réservé aux échecs ?
+5. Quelle activité est mentionnée pour le jeudi ?
+
+### Tâche 2 — Grammatik (10 points)
+
+Complétez avec : *au · à la · aux · du · de la · des*.
+
+1. Je joue ___ tennis.
+2. Tu fais ___ piano.
+3. Elle joue ___ guitare.
+4. Nous allons ___ cinéma.
+5. Vous jouez ___ cartes.
+6. Ils font ___ équitation.
+
+### Tâche 3 — Expression orale (« Sprechen ») mündlich (10 points)
+
+Interview en binôme : 3 questions sur les loisirs + restitution
+orale (1 minute).
+
+## Total : 30 P.
+
+## Solutions
+
+**Tâche 1.** 1) théâtre. 2) 17h. 3) salle 12. 4) vendredi.
+5) danse moderne (16h, gymnase B).
+
+**Tâche 2.** 1) au · 2) du · 3) de la · 4) au · 5) aux · 6) de l'.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 10*

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 11
 slug: "preparer-un-discours-e"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production orale en continu"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — production orale en continu"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_preparer-un-discours-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_preparer-un-discours-e.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit11_preparer-un-discours-e.html"
+- "/track_e_kl10/units/unit11_preparer-un-discours-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.monitoring-and-repair.01
-    - B1.PROD.creative-writing.02
-    - B1.MED.overall-mediation.01
-    - B1.INT.formal-discussion.01
-    - B1.INT.overall-written-interaction.02
+  - B1.PROD.monitoring-and-repair.01
+  - B1.PROD.creative-writing.02
+  - B1.MED.overall-mediation.01
+  - B1.INT.formal-discussion.01
+  - B1.INT.overall-written-interaction.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit11_preparer-un-discours-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_preparer-un-discours-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_preparer-un-discours-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,8 +102,7 @@ Cérémonie de fin de secondaire I au collège. Dans le couloir, Mme Lefèvre s'
 2. Selon vous, pourquoi un discours doit-il viser une **émotion** précise ?
 3. Anouk a peur. Que feriez-vous à sa place pour vous préparer ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, à deux, puis mettez en commun.
 
 - Avez-vous déjà parlé devant un groupe (exposé, mariage, vidéo) ? Comment vous êtes-vous senti·e ?
@@ -79,8 +110,7 @@ Répondez oralement, à deux, puis mettez en commun.
 - À votre avis, qu'est-ce qui est le plus difficile : **écrire** un discours ou le **dire** ? Pourquoi ?
 - Citez un discours célèbre (réel ou de film) qui vous a marqué·e. Qu'est-ce qui le rendait fort ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Le plan en quatre parties
 
 Un discours court se construit comme un petit voyage : on capte l'attention, on développe, on touche, puis on conclut.
@@ -134,8 +164,7 @@ L'art de composer un discours pour convaincre porte un nom ancien : la **rhétor
 
 *(Faits paraphrasés d'après l'article « Rhétorique », Wikipédia, licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte C).**
 
 1. À qui Anouk s'adresse-t-elle dans sa première phrase ?
@@ -163,6 +192,7 @@ Exemple donné : *l'école : des devoirs, des amis, des souvenirs.*
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) À ses camarades (et, plus largement, aux professeur·es et aux familles présent·es : *« Mesdames, messieurs, chères et chers camarades »*). 2) Le premier jour de sixième, Mme Devos a demandé aux élèves d'écrire leur prénom au tableau et a parlé d'un « long voyage ». 3) Trois au choix : la Bretagne, le Québec, la France (des grandes dates), la francophonie du monde. 4) *« Bonne route à toutes et à tous — et à bientôt ! »*
 
 **Exercice 2.** Anaphore : *« Cinq ans ensemble. Cinq ans d'apprentissages. Cinq ans d'amitié. »* — Métaphore : *« Notre français est devenu un pont »* (ou *« un long voyage »*). — Triade : *« la Bretagne, le Québec, la France »* (ou *« Merci à nos professeur·es, merci à nos familles, et merci à vous »*).
@@ -170,9 +200,9 @@ Exemple donné : *l'école : des devoirs, des amis, des souvenirs.*
 **Exercice 3.** Réponses libres. Modèles : *amitié :* rire, écoute, confiance. *avenir :* choisir, oser, construire.
 
 **Exercice 4.** Réponses libres. Modèles : 1) *Nous devons agir, nous devons agir vite, nous devons agir ensemble.* 2) *L'avenir est une montagne à gravir.* 3) *Qui, parmi nous, oserait rester sans rien faire ?* — Gradation (E) : *un doute, une hésitation, un renoncement.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche (expression écrite + orale, niveau E — environ 250 mots / 3 minutes) :**
 
 Rédigez puis prononcez un **discours-cause** sur un thème qui vous tient à cœur (climat, solidarité, école inclusive, sport, culture…). Votre discours doit contenir :
@@ -196,8 +226,7 @@ Entraînez-vous à voix haute au moins deux fois avant de présenter.
 | Oral | rythme, pauses, regard, voix audible |
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous maîtrisez ; entourez ce qui reste à travailler.
 
 - [ ] Je sais structurer un discours en quatre parties.
@@ -206,22 +235,11 @@ Cochez ce que vous maîtrisez ; entourez ce qui reste à travailler.
 - [ ] J'utilise des connecteurs pour guider l'auditoire.
 - [ ] Je tiens trois minutes à l'oral en regardant le public.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit11_preparer-un-discours-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 points).** Lisez le discours d'Anouk (texte C) et répondez à cinq questions (destinataires, anecdote, figures, thème central, chute).
-
-**Tâche 2 — Repérage des figures de style (8 points).** Identifiez quatre figures dans un court passage donné et nommez-les.
-
-**Tâche 3 — Expression écrite (« Schreiben ») (12 points).** Rédigez un discours-cause d'environ 250 mots (quatre parties, trois figures de style, une chute marquante).
-
-**Barème : 30 points au total.**
-- 27–30 : très bien · 23–26 : bien · 18–22 : satisfaisant · 13–17 : passable · < 13 : à retravailler.
-
-Détail de la Tâche 3 : structure /4 · figures de style /3 · langue /3 · chute /2.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

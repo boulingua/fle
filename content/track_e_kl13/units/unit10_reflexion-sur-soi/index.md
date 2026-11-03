@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 10
 slug: "reflexion-sur-soi"
 bildungsplan:
-  - "3.1.3.4 Expression orale — monologisches Expression orale"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Expression orale"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_reflexion-sur-soi.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_reflexion-sur-soi.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit10_reflexion-sur-soi.html"
+- "/track_e_kl13/units/unit10_reflexion-sur-soi.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.overall-oral-production.01
-    - B2.PROD.reports-and-essays.01
-    - B2.MED.collaborating-to-construct-meaning.05
-    - B2.MED.note-taking.01
-    - B2.INT.conversation.01
+  - B2.PROD.overall-oral-production.01
+  - B2.PROD.reports-and-essays.01
+  - B2.MED.collaborating-to-construct-meaning.05
+  - B2.MED.note-taking.01
+  - B2.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit10_reflexion-sur-soi_exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_reflexion-sur-soi-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit10_reflexion-sur-soi-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,16 +102,14 @@ Deux dernières semaines avant l'examen. Dans le couloir du lycée, Léa et Mali
 2. Qu'est-ce que Léa considère comme le « plus important » ?
 3. Et vous : diriez-vous plutôt comme Léa ou comme Malik ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - En quelle classe avez-vous commencé le français, et pourquoi (choix, obligation, hasard) ?
 - Citez **un moment** où vous avez senti que vous progressiez vraiment.
 - Citez **une difficulté** qui revient encore aujourd'hui.
 - Quand vous ne comprenez pas un texte, que faites-vous concrètement ? (Vous relisez ? cherchez le contexte ? traduisez ?)
 - En un mot : le français, pour vous, c'est plutôt un *outil*, un *plaisir* ou une *contrainte* ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire — parler de son apprentissage
 
 | Français | Catégorie | Explication / exemple |
@@ -127,8 +157,7 @@ Exemple : « **Au début**, je *n'osais pas* parler (imparfait) ; **peu à peu**
 Le *Cadre européen commun de référence pour les langues* (CECRL), publié par le Conseil de l'Europe en 2001, décrit les compétences en langue par niveaux (de A1 à C2). Il a rendu courantes les descriptions dites « can-do », formulées à la première personne — « **Je peux** comprendre… », « **Je peux** écrire… ». Un outil associé, le *Portfolio européen des langues*, invite précisément chaque apprenant·e à **réfléchir sur ses acquis et à s'autoévaluer** au lieu d'attendre seulement le jugement d'un enseignant. C'est exactement la démarche de cette unité. *(Paraphrasé d'après Wikipédia, CC-BY-SA — voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte « Ce que le français m'a appris »).**
 Répondez par une phrase complète.
 
@@ -163,6 +192,7 @@ d) Si j'avais plus de temps, j' (aimer — *conditionnel présent*) ______ faire
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Elle/il croyait qu'apprendre une langue, c'était (seulement) mémoriser des mots.
 2. « Comment fais-tu, toi, pour retenir ? »
@@ -174,9 +204,9 @@ d) Si j'avais plus de temps, j' (aimer — *conditionnel présent*) ______ faire
 **Exercice 3.** a) n'osais pas — b) ai compris — c) continuerai — d) aimerais.
 
 **Exercice 4.** Réponses libres ; vérifier la présence des trois temps (passé, présent, futur/conditionnel) et d'au moins deux connecteurs.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche — Monologue suivi (oral, 2 à 3 minutes) : « Mon parcours de français : bilan et projet ».**
 
 Préparez et présentez, sans lire un texte rédigé (notes autorisées : mots-clés seulement), un monologue en trois temps :
@@ -195,8 +225,7 @@ Préparez et présentez, sans lire un texte rédigé (notes autorisées : mots-c
 | Richesse lexicale | vocabulaire de l'unité réinvesti |
 | Fluidité et prononciation | parole en continu, débit régulier, intonation |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire :
 
 - [ ] Je peux distinguer mes points forts et mes points faibles en français.
@@ -206,31 +235,11 @@ Cochez ce que vous savez faire :
 - [ ] Je peux parler en continu pendant 2 à 3 minutes sans lire.
 - [ ] Je peux me fixer un objectif concret pour après l'examen.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — Bilan réflexif (skills_focus : expression orale en continu + expression écrite)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit10_reflexion-sur-soi_exam" >}}).
 
-**Partie A — Expression orale, monologue suivi (18 points).**
-Présentez pendant 2 à 3 minutes votre bilan et votre projet de français (mêmes consignes que la tâche « Produire »).
-
-**Partie B — Expression écrite (12 points).**
-Rédigez un texte réflexif de **180 à 220 mots** : « Ce que le français m'a appris et ce que j'en ferai. » Reliez au moins deux étapes passées et un projet futur ; employez au moins trois connecteurs.
-
-**Barème**
-
-| Partie | Critère | Points |
-|---|---|---|
-| A (oral) | Contenu (bilan + présent + projet) | 6 |
-| A (oral) | Organisation et connecteurs | 4 |
-| A (oral) | Correction et lexique | 4 |
-| A (oral) | Fluidité et prononciation | 4 |
-| B (écrit) | Pertinence et richesse du contenu | 4 |
-| B (écrit) | Structure et connecteurs | 3 |
-| B (écrit) | Correction grammaticale (temps) | 3 |
-| B (écrit) | Lexique et orthographe | 2 |
-| **Total** | | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

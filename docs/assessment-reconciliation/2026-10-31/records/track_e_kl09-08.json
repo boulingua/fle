@@ -1,0 +1,106 @@
+{
+  "unit": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+  "exam": "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md",
+  "before_unit_sha256": "0662a07b705bd2590415f8d4a32bca5ec200b367a3d4bd8014b7ae3fb193393e",
+  "after_unit_sha256": "eba4cc9ec8804951cab88460754e3bac9056da88889dcbee2be29b2a7ca97251",
+  "before_exam_sha256": "679ae6bf0fb91054ecfbe855137894d98d265b267ab183809f92cb179abe08af",
+  "after_exam_sha256": "d527892e547134222914b72087b48e14c72963fc5d535f4a6decd2deb8b14ba1",
+  "source_sections": "C",
+  "supplied_source_sha256": "921bf0ea830dde1d09290f57681d53326c2c9a23a72ead9caa0f49dd385ebda6",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed fabricated national75/50/25percent statistics and impossible140word translation. Replaced with explicitly fictional classroom quantities and bounded family mediation; source generalizations marked as examples."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "2687192ffaac95a7bf62d0f2539d3aa4c6d149a99d3cf77a9077d2e88a6d2d16",
+      "before_sha256": "2687192ffaac95a7bf62d0f2539d3aa4c6d149a99d3cf77a9077d2e88a6d2d16",
+      "after_sha256": "5242c7e70c0b1a109f088e8190add77023f59c79449525316bb5e4f27af1aa24",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "feb0e1cfaa6071d7d6cef7cd1d62a6d51390fde14bffded881cb5af8df9b1f06",
+      "before_sha256": "feb0e1cfaa6071d7d6cef7cd1d62a6d51390fde14bffded881cb5af8df9b1f06",
+      "after_sha256": "01583255613f05a04160beee48e280cf361ac09a086eef5550dddd11b56f67b8",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "5242c7e70c0b1a109f088e8190add77023f59c79449525316bb5e4f27af1aa24",
+      "after_sha256": "74dfeb2ae93d0772515b1aae5b51480ec76e51301e469ef3046e0de169417608",
+      "reasons": [
+        "Align exam total with restored primary outcomes.",
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit08_differences-culturelles-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "01583255613f05a04160beee48e280cf361ac09a086eef5550dddd11b56f67b8",
+      "after_sha256": "0108051764d4423fc857f89c79517f948f0a1da4d0b77d047a22278bb771771c",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "74dfeb2ae93d0772515b1aae5b51480ec76e51301e469ef3046e0de169417608",
+      "after_sha256": "eba4cc9ec8804951cab88460754e3bac9056da88889dcbee2be29b2a7ca97251",
+      "reasons": [
+        "Question follows actual bounded source.",
+        "Do not turn a local observation into a national statistic.",
+        "Replace invented national percentages with an explicit fictional group; retain quantifier/mediation learning goals.",
+        "Align cultural exercise keys with corrected, bounded prompts."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl09/units/unit08_differences-culturelles-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "0108051764d4423fc857f89c79517f948f0a1da4d0b77d047a22278bb771771c",
+      "after_sha256": "3c27be737b91ea8a745bc2aeeacdde554dbe32bc24b6b394f11397cffc39611a",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md",
+      "before_sha256": "3c27be737b91ea8a745bc2aeeacdde554dbe32bc24b6b394f11397cffc39611a",
+      "after_sha256": "c6986d939b7246098167ed1e4a3fde1a0ce1b951b1f4ae4d7070eb8d2cf25709",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md",
+      "before_sha256": "c6986d939b7246098167ed1e4a3fde1a0ce1b951b1f4ae4d7070eb8d2cf25709",
+      "after_sha256": "d527892e547134222914b72087b48e14c72963fc5d535f4a6decd2deb8b14ba1",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl09",
+      "unit": 8,
+      "total": 30,
+      "graded_tasks": [
+        {
+          "title": "Comparer à l’oral",
+          "points": 16
+        },
+        {
+          "title": "Médiation DE → FR",
+          "points": 14
+        }
+      ]
+    }
+  ]
+}

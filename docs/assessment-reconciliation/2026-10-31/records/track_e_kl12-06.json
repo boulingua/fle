@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
+  "exam": "content/track_e_kl12/units/unit06_etude-de-roman_exam/index.md",
+  "before_unit_sha256": "2fd7b73bf91b6ec31fd1eb51971546f41c9b7055311fb72070336f59eaeb2c17",
+  "after_unit_sha256": "e0bd11206bbc318ba13e8420a352cf03958ab367d49f72c60854da67290f06dc",
+  "before_exam_sha256": "fa718434b839f5da950723eead9fabcb995746745dd40f35eb20f053e78055e7",
+  "after_exam_sha256": "b58cb473403e8b29e3d46114c476f141553ecaf89b878c9161847e1f5bb80d41",
+  "source_sections": "C",
+  "supplied_source_sha256": "462261aa9a556b506aae7b06d36d728b2765a66be54c78a7965edf341c6eb56b",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unavailableCamus ending and nonexistentIIchapter6 mapping; actual publicdomain sentence+originalCamille passage supplied without analysis key; corrected impossible2PS2imparfait demand on single sentence."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "f86c7c6f684ce16a353531aba66c5ab72fcf0139720a56cb101a0f9b66163894",
+      "after_sha256": "ec26425fe5cb5f93a0c31342c47de2ecb72fec3b9fc559998789925db0dfae53",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit06_etude-de-roman_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ec26425fe5cb5f93a0c31342c47de2ecb72fec3b9fc559998789925db0dfae53",
+      "after_sha256": "780a34c5f2e995f7b5fde1ad8ac9cd90aacceef06ffb5674b49474606e7e18ad",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit06_etude-de-roman_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit06_etude-de-roman_exam/index.md",
+      "before_sha256": "780a34c5f2e995f7b5fde1ad8ac9cd90aacceef06ffb5674b49474606e7e18ad",
+      "after_sha256": "b58cb473403e8b29e3d46114c476f141553ecaf89b878c9161847e1f5bb80d41",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

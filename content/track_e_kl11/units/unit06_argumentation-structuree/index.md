@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 6
 slug: "argumentation-structuree"
 bildungsplan:
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.4 Expression orale — monologisches Sprechen"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_argumentation-structuree.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_argumentation-structuree.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit06_argumentation-structuree.html"
+- "/track_e_kl11/units/unit06_argumentation-structuree.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.PROD.compensating.03
-    - B1.INT.formal-discussion.01
-    - B1.MED.note-taking.02
-    - B1.INT.obtaining-goods-and-services.07
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.PROD.compensating.03
+  - B1.INT.formal-discussion.01
+  - B1.MED.note-taking.02
+  - B1.INT.obtaining-goods-and-services.07
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit06_argumentation-structuree_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_argumentation-structuree-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit06_argumentation-structuree-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,15 +103,13 @@ Au lycée, Anouk et Malik préparent un débat pour le cours de français. Le su
 - Quel **exemple** vient soutenir son argument ?
 - Pourquoi Malik lui demande-t-il d'envisager une **objection** ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que signifie **argumenter** ? Est-ce la même chose que **donner son avis** ?
 - Quelle différence faites-vous entre une **thèse**, un **argument** et un **exemple** ?
 - Connaissez-vous des mots qui servent à **relier deux idées opposées** (par exemple : *mais*, *pourtant*) ?
 - Quel sujet d'actualité aimeriez-vous défendre en classe ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'argumentation
 
 | Français | Fonction | Exemple |
@@ -123,8 +154,7 @@ La tradition scolaire française accorde une place centrale à la **dissertation
 
 *(Fait paraphrasé d'après Wikipédia, « Dissertation », licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).**
 
 1. Comment appelle-t-on le plan en trois temps ?
@@ -156,6 +186,7 @@ La tradition scolaire française accorde une place centrale à la **dissertation
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Le plan dialectique. 2) Deux arguments, chacun illustré par un exemple. 3) On présente honnêtement les objections / idées contraires. 4) Parce qu'elle **dépasse** l'opposition au lieu de choisir mollement un camp.
 
 **Ex. 2.** 1) **Par exemple** — 2) **De plus** — 3) **Toutefois** — 4) **donc**.
@@ -163,9 +194,9 @@ La tradition scolaire française accorde une place centrale à la **dissertation
 **Ex. 3.** T : b) — A : a) — Ex : c).
 
 **Ex. 4.** Réponses libres. Exemple : **Thèse** : le bénévolat obligatoire développe le sens des responsabilités. **Antithèse** : toutefois, une obligation supprime le sens même du don de soi. **Synthèse** : proposer un engagement encouragé et accompagné, mais librement choisi.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (E, ~400 mots).**
 
 Rédigez un texte argumenté en **plan dialectique (thèse — antithèse — synthèse)** sur l'un des sujets suivants :
@@ -186,38 +217,18 @@ Rédigez un texte argumenté en **plan dialectique (thèse — antithèse — sy
 - **Nuance :** la synthèse dépasse l'opposition.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais formuler une thèse claire.
 - [ ] Je distingue argument et exemple.
 - [ ] Je construis un plan en thèse, antithèse et synthèse.
 - [ ] J'emploie au moins six connecteurs logiques différents.
 - [ ] Ma synthèse propose une position nuancée.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — Expression écrite et orale (niveau E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit06_argumentation-structuree_exam" >}}).
 
-**Tâche 1 — Compréhension (8 pts).** Lisez le texte C (*« Comment organiser une argumentation ? »*) et répondez :
-1. Quelles sont les trois parties du plan dialectique ? (3 pts)
-2. Quelle est la fonction de l'antithèse ? (2 pts)
-3. Expliquez la différence entre une synthèse et un compromis. (3 pts)
-
-**Tâche 2 — Connecteurs (7 pts).** Complétez un court paragraphe par **sept connecteurs** logiques appropriés (un point par connecteur correct et adapté).
-
-**Tâche 3 — Expression écrite (15 pts).** Rédigez un texte argumenté (~400 mots) en plan dialectique sur un sujet au choix. Barème : structure /5 · arguments et exemples /5 · langue et connecteurs /5.
-
-**Total : 30 points.**
-
-| Note | Points |
-|---|---|
-| sehr gut | 30–27 |
-| gut | 26–22 |
-| befriedigend | 21–17 |
-| ausreichend | 16–12 |
-| mangelhaft | 11–6 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée :** 45 minutes.
 

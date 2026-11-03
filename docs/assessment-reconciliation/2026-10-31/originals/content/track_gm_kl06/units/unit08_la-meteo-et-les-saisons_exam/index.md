@@ -1,0 +1,84 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau M) — Unité 8"
+subtitle: "La météo et les saisons · classe 6 · Niveau M"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 8
+slug: "la-meteo-et-les-saisons-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.understanding-an-interlocutor.01
+    - A1.LING.general-linguistic-range.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.PRAG.fluency.01
+    - A1.PROD.overall-written-production.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 6
+
+### Tâche 1 — Hörverstehen (12 points)
+
+La prof lit deux fois le mini-bulletin (Unité 8, texte B).
+Répondez :
+
+1. Quelle ville aura 22 degrés ?
+2. Où pleut-il ?
+3. Combien de degrés à Marseille ?
+4. Quelle ville aura beaucoup de vent ?
+5. À Strasbourg, à quel moment de la journée pleuvra-t-il ?
+6. Citez **deux** expressions météo entendues.
+
+### Tâche 2 — Saisons (8 points)
+
+Reliez chaque description à une saison.
+
+1. Il fait très chaud, 30°C, on va à la plage.
+2. Les feuilles tombent, il y a du vent.
+3. Il neige et il fait -5°C.
+4. Les fleurs poussent, il fait doux.
+
+a) printemps · b) été · c) automne · d) hiver.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Décrivez la météo dans **3 villes** (~30 mots) avec température
+et phénomène (soleil/pluie/vent/nuages).
+
+## Total : 30 P.
+
+## Solutions
+
+**Tâche 1.** 1) Paris. 2) Strasbourg. 3) 28°C. 4) Lille. 5)
+L'après-midi. 6) *Il fera beau · il pleuvra · il y aura du soleil
+· il y aura du vent.*
+
+**Tâche 2.** 1–b · 2–c · 3–d · 4–a.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau M · Unité 8*

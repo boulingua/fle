@@ -23,73 +23,94 @@ curriculum:
     - A1.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 20
 ---
 
-## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez le courriel d'Inès (Unité 1, texte C). Répondez :
+## Support
 
-1. D'où écrit-elle ?
-2. Quelle classe a-t-elle commencée ?
-3. Quelles 3 nouveautés cite-t-elle ?
-4. Quels sentiments éprouve-t-elle ?
+### C. Texte — « Le premier jour de Nour » (texte original)
 
-### Tâche 2 — Passé composé (10 points)
+> Nour entre en 7e. Le matin, elle range son sac : un cahier, deux stylos, une trousse et son emploi du temps tout neuf. Elle a un peu peur, mais elle est surtout curieuse.
+>
+> Dans la cour, elle retrouve deux amies. « On est ensemble ? » demande-t-elle. « Oui ! » répond Salomé. « On a les mêmes options. »
+>
+> À 8 h 15, la cloche sonne. La prof principale, Mme Aziz, appelle les élèves un par un. Elle explique l'emploi du temps, les salles et les règles de la classe. « Cette année, dit-elle, vous changez souvent de salle. Regardez bien votre emploi du temps chaque matin. »
+>
+> À midi, Nour va à la cantine avec ses amies. Elle sourit : la rentrée, finalement, ce n'est pas si stressant.
 
-Conjuguez avec *avoir* ou *être*.
+### Tâche 1 — Interaction de rentrée (20 points)
 
-1. Je *(jouer)* au tennis.
-2. Tu *(aller)* en France ?
-3. Nous *(partir)* tôt.
-4. Vous *(visiter)* Paris ?
-5. Elles *(arriver)* hier.
-6. Léa *(manger)* une glace.
-7. On *(rester)* à la maison.
-8. Mes parents *(rentrer)* tard.
+En binôme, jouez une scène de rentrée. Préparation : cinq minutes; échange : trois à quatre minutes. Saluez-vous, présentez votre classe, échangez sur deux matières et votre emploi du temps, puis convenez d'une activité ensemble. Posez des questions et répondez à votre partenaire. Les horaires, les goûts et les expériences peuvent être fictifs. Employez le présent pour votre situation actuelle.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Barème :** Réalisation de la tâche 5; interaction et répartition des tours 5; présent et correction grammaticale 5; lexique scolaire 3; intelligibilité et continuité 2.
 
-Racontez **votre rentrée** en **80 mots** : où parti(e), avec
-qui, ce que vous avez fait + sentiments pour la 7e. **3 verbes
-au passé composé** dont **1 avec être**.
+## Barème total
 
-## Notation
+**Total : 20 points.**
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 8 |
-| Tâche 2 — Passé composé | 10 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+Ces points décrivent ce sujet d’entraînement; ils ne valent pas une note officielle ni une certification de niveau. La prestation orale doit être observée directement. Une réponse écrite ne la remplace pas.
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) Montréal. 2) Secondaire 1 (= 6e). 3) Matières,
-profs, bâtiment. 4) Peur + excitée.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1) ai joué · 2) es allé(e) · 3) sommes parti(e)s ·
-4) avez visité · 5) sont arrivées · 6) a mangé · 7) est resté(e)
-· 8) sont rentrés.
+Observer les deux personnes séparément : au moins une question et une réponse pertinentes, un accord négocié et des informations compréhensibles au présent. Consigner un exemple entendu pour chaque critère. Le récit au passé et une expérience réelle de vacances ne sont pas exigés.
 
-**Tâche 3.** Réponses libres. Critères : 80 mots · 3 PC dont 1
-avec être · sentiments rentrée.
+{{< /details >}}
 
----
+## Activités complémentaires, hors barème
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+Les activités suivantes conservent des exercices compatibles de la version écrite antérieure. Elles ne remplacent aucune prestation orale et ne participent pas au total ci-dessus.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+### Activité complémentaire 1 — Compréhension écrite
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 1*
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
+
+1. Quelle classe Nour commence-t-elle ? Citez un objet de son sac.
+2. Quels deux sentiments éprouve-t-elle avant les cours ?
+3. À quelle heure sonne la cloche et que fait Mme Aziz au début ?
+4. Quel conseil Mme Aziz donne-t-elle ? Pourquoi ce conseil est-il utile ?
+
+### Activité complémentaire 2 — Langue
+
+Conjuguez au présent.
+
+1. Je (être) ____ en 7e.
+2. Nous (avoir) ____ cours ce matin.
+3. Tu (aller) ____ à la cantine ?
+4. Les élèves (faire) ____ un exercice.
+5. Vous (être) ____ dans quelle salle ?
+6. J’ (aimer) ____ le français.
+7. Les cours (commencer) ____ à huit heures.
+8. Nous (regarder) ____ l’emploi du temps.
+
+Choisissez ensuite deux formes et indiquez pour chacune son sujet et son infinitif.
+
+
+
+### Activité complémentaire 3 — Production
+
+Présentez votre rentrée dans un message d’environ 80 mots à un camarade : votre classe, deux matières, une salle, votre emploi du temps et vos sentiments. Employez le présent. Les informations peuvent être imaginaires.
+
+
+
+
+
+## Sources
+
+- « Vacances scolaires en France » — Contributeurs de Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Vacances_scolaires_en_France, licence CC BY-SA 4.0.
+- « Rentrée scolaire » — Contributeurs de Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Rentr%C3%A9e_scolaire, licence CC BY-SA 4.0.
+- Textes et dialogues (« Situation de départ », texte C « Le premier jour de Nour », exercices) : originaux de l'auteur·e de l'unité.
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

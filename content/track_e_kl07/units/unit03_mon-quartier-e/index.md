@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 3
 slug: "mon-quartier-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_mon-quartier-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-quartier-e.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit03_mon-quartier-e.html"
+- "/track_e_kl07/units/unit03_mon-quartier-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.reading-correspondence.02
-    - A1.INT.correspondence.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.reading-correspondence.02
+  - A1.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit03_mon-quartier-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_mon-quartier-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_mon-quartier-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,8 +102,7 @@ Anouk fait visiter sa rue à Karim, un nouvel élève de sa classe qui vient d'a
 2. Que peut-on acheter à la librairie de Camille ?
 3. Comment Karim peut-il trouver la boulangerie ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez à l'oral, avec votre voisin·e :
 
 - Y a-t-il une boulangerie près de chez vous ?
@@ -80,8 +111,7 @@ Répondez à l'oral, avec votre voisin·e :
 
 Notez au tableau tous les lieux de quartier que vous connaissez déjà en français.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — dix lieux du quartier
 
 | Français | Allemand |
@@ -133,8 +163,7 @@ Exemple : *La pharmacie est **en face de la** mairie, **entre** la poste **et** 
 
 En France, le mot *boulangerie* est protégé par la loi. Depuis un décret de 1998, un commerce ne peut afficher le nom de « boulangerie » que si le pain y est **pétri, façonné et cuit sur place**. Un magasin qui se contente de réchauffer du pain surgelé n'a donc pas le droit de s'appeler ainsi. Cette règle explique pourquoi la boulangerie reste souvent au cœur de la vie de quartier, comme lieu de fabrication et de rencontre. (Fait paraphrasé d'après Wikipédia, article « Boulangerie », CC-BY-SA — voir Sources.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte C).** Répondez par une phrase complète.
 
 1. Comment est la rue d'Anouk ?
@@ -163,6 +192,7 @@ e) On y emprunte des livres et des films gratuitement.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. La rue d'Anouk est calme et il y a beaucoup d'arbres.
 2. Hugo est pâtissier (il tient la pâtisserie) ; Camille est libraire (elle tient la librairie).
@@ -187,9 +217,9 @@ a) la pharmacie · b) la librairie · c) la boulangerie · d) la poste · e) la 
 - **(M)** Réaliser les exercices sans aide, phrases complètes exigées à l'exercice 1.
 - **(E)** Ajouter, à l'exercice 4, deux prépositions supplémentaires (*entre … et …*, *au coin de*) et une phrase justifiant le lieu préféré.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, environ 120 mots).**
 
 Écrivez une **lettre à un·e correspondant·e** pour présenter votre quartier. Votre lettre doit contenir :
@@ -208,31 +238,18 @@ a) la pharmacie · b) la librairie · c) la boulangerie · d) la poste · e) la 
 | Langue | articles contractés corrects (*du, de la, des*) |
 | Longueur | environ 120 mots (±20) |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer dix lieux de mon quartier.
 - [ ] Je peux situer un lieu avec les prépositions de lieu.
 - [ ] Je sais faire les contractions *de + le → du*, *de + les → des*.
 - [ ] Je peux comprendre une lettre simple sur un quartier.
 - [ ] Je peux écrire une lettre de quartier d'environ 120 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit03_mon-quartier-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») · 10 P.**
-Lisez la lettre d'Anouk (texte C) et répondez à cinq questions par des phrases complètes (localisation des commerces, distances, activités).
-
-**Tâche 2 — Vocabulaire et prépositions · 8 P.**
-Traduisez huit lieux du quartier (4 P.) et complétez quatre phrases avec la préposition et l'article contracté corrects (4 P.).
-
-**Tâche 3 — Expression écrite (« Schreiben ») · 12 P.**
-Rédigez votre lettre de quartier (environ 120 mots) : contenu (5 P.), structure de la lettre (3 P.), correction de la langue (4 P.).
-
-**Barème :** Compréhension 10 · Vocabulaire/langue 8 · Expression 12 · **Total : 30 P.**
-Note : ≥ 27 P. = très bien · ≥ 21 P. = bien · ≥ 15 P. = satisfaisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min) :** Activer 4' · Apporter 14' · S'entraîner 13' · Produire 11' · Réfléchir 2' · Aperçu de la séance suivante 1'.
 

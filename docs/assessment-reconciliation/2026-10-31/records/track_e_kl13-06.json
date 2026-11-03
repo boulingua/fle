@@ -1,0 +1,52 @@
+{
+  "unit": "content/track_e_kl13/units/unit06_mediation-finale/index.md",
+  "exam": "content/track_e_kl13/units/unit06_mediation-finale_exam/index.md",
+  "before_unit_sha256": "69ba44d22a81a15847bffe16df2d4dc2d53e170d86b7f005f2b1416a992249fe",
+  "after_unit_sha256": "4ee02150871bd8170ea0484ff533bf75c8cea1a7e09ce3fbb7b67e722fcfa899",
+  "before_exam_sha256": "fb2202e037df83a22c6e75d7752333d90b11a16c26df9ac9056c76e9efc30b63",
+  "after_exam_sha256": "27de373c634b5a8092e770a0e2f95f5b535e81ff910f08752ebd2db40dd92f13",
+  "source_sections": [
+    "Texte à médier"
+  ],
+  "supplied_source_sha256": "8151df9f956e6e4130b4a242094f74df50618886b52b09d0a7e9b51ce6bcbeed",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Copied completeactualletter; removed unprovidedprize comprehension facts; contextuallexical task correctsEnglish/Frenchfalsefriend confusion; shortreversemediation explicitlyfictional and lengthproportionate.",
+    "Underlying unit lexical table, practice key, reflection and teacher note corrected coherently; exact prior unit retained.",
+    "Explicitly labelled the mixed French/German opening, preventing its German turns from being synthesized with the French voice."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "9c9d6637b797841cb393852a057159bb53367acafbf44c45ca38cfc34dc9743a",
+      "after_sha256": "ce3eea70fa0401e847b49c2d43837811882e7517050c67f8a42dc2d37e77ecac",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit06_mediation-finale_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "ad4ff2410583257277b8b8b83ccb5dbe2e46b0bdf65546e740618dfe332346c5",
+      "after_sha256": "4ee02150871bd8170ea0484ff533bf75c8cea1a7e09ce3fbb7b67e722fcfa899",
+      "reasons": [
+        "A structural loan is not inherently incorrect."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl13/units/unit06_mediation-finale/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit06_mediation-finale_exam/index.md",
+      "before_sha256": "ce3eea70fa0401e847b49c2d43837811882e7517050c67f8a42dc2d37e77ecac",
+      "after_sha256": "27de373c634b5a8092e770a0e2f95f5b535e81ff910f08752ebd2db40dd92f13",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

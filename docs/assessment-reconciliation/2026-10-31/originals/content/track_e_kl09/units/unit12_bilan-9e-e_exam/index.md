@@ -1,0 +1,94 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 12"
+subtitle: "Bilan : 9e en route vers la cycle terminal · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 12
+slug: "bilan-9e-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.INT.overall-written-interaction.01
+    - A2.LING.grammatical-accuracy.01
+    - A2.LING.phonological-control.02
+    - A2.MED.overall-mediation.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la lettre d'Anouk (Unité 12, texte C). Répondez :
+
+1. Quelles structures grammaticales Anouk a-t-elle consolidées ?
+2. Que sait-elle rédiger en français pro ?
+3. Citez 3 thèmes découverts cette année.
+4. Quel choix vise-t-elle pour la cycle terminal (« Kursstufe ») ?
+5. Quel projet a-t-elle à long terme ?
+
+### Tâche 2 — 3 temps en alternance (8 points)
+
+Conjuguez :
+
+1. *J'___ (consolider, PC) le subjonctif.*
+2. *Maintenant, je ___ (savoir, présent) écrire un mail pro.*
+3. *À l'avenir, je ___ (viser, futur simple) le Lf.*
+4. *Je ___ (préparer, futur simple) un Erasmus à Lille.*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre lettre** à votre moi de 13e (~180 mots) :
+4 axes (langue, contenus, méthodes, projets) + 6 connecteurs
++ 3 temps mêlés + 1 phrase forte de motivation.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — 3 temps | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Subjonctif simple + conditionnel. 2) Lettre
+de motivation + mail pro. 3) Sempé-Goscinny, RGPD, podcasts
+(France Inter), consommation responsable. 4) option d'approfondissement (« Leistungsfach »)
+Französisch. 5) Erasmus à Lille / stagiaire libraire à
+Bordeaux (Mollat).
+
+**Tâche 2.** 1) ai consolidé · 2) sais · 3) viserai ·
+4) préparerai.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 4 axes
+· 6 connecteurs · 3 temps · 1 phrase de motivation.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 12*

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 5
 slug: "abitur-mock-2"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_abitur-mock-2.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_abitur-mock-2.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit05_abitur-mock-2.html"
+- "/track_e_kl13/units/unit05_abitur-mock-2.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.overall-oral-production.01
-    - B2.REC.reading-as-a-leisure-activity.04
-    - B2.PROD.reports-and-essays.01
-    - B2.MED.note-taking.01
-    - B2.REC.identifying-cues-and-inferring.01
+  - B2.PROD.overall-oral-production.01
+  - B2.REC.reading-as-a-leisure-activity.04
+  - B2.PROD.reports-and-essays.01
+  - B2.MED.note-taking.01
+  - B2.REC.identifying-cues-and-inferring.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit05_abitur-mock-2_exam
+  format: existing-assessment
+  duration_minutes: 60
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_abitur-mock-2-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit05_abitur-mock-2-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,16 +102,14 @@ Cette unité propose un **deuxième examen blanc** (mock 2) orienté vers un **e
 - Quelle est, selon vous, la différence entre **résumer** et **analyser** un texte ?
 - Quels **connecteurs logiques** connaissez-vous pour organiser une argumentation ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant de lire l'extrait, réactivez vos réflexes d'analyse.
 
 - **Anticipation par le titre.** Une nouvelle s'intitule *La Parure* (le bijou, la parure). À quoi vous fait penser ce mot ? Quels thèmes attendez-vous ?
 - **Trois axes de lecture.** Pour tout extrait, on peut se demander : *Que se passe-t-il ?* (intrigue), *Comment est-ce écrit ?* (forme, style), *Quel sens cela produit-il ?* (thème, message).
 - **Vocabulaire de la classe sociale.** Notez trois mots liés à la richesse et trois mots liés à la pauvreté. Vous en aurez besoin.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'analyse littéraire
 
 | Terme français | Emploi / définition | Repère allemand |
@@ -122,8 +152,7 @@ L'extrait suivant ouvre la nouvelle *La Parure* de Guy de Maupassant, parue en 1
 
 Guy de Maupassant (1850–1893) est l'un des grands auteurs français de nouvelles du XIXe siècle. Proche du courant **réaliste** et influencé par le naturalisme, il peint souvent la société de son temps : la petite bourgeoisie, les employés modestes, la vie de province et la vie parisienne. *La Parure*, publiée d'abord dans un journal en 1884, est célèbre pour sa **chute** (un retournement final inattendu) et pour sa critique de la **vanité** et du désir de paraître au-dessus de sa condition. Ces éléments sont largement documentés et paraphrasés ici d'après l'encyclopédie collaborative Wikipédia (licence CC BY-SA).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (G).** Répondez par une phrase complète.
 
 1. De quel milieu social vient l'héroïne au début du texte ?
@@ -144,6 +173,7 @@ Guy de Maupassant (1850–1893) est l'un des grands auteurs français de nouvell
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Elle vient d'une **famille d'employés**, un milieu modeste (« comme par une erreur du destin, dans une famille d'employés »).
 2. Elle se marie avec un **petit commis du ministère de l'Instruction publique**.
@@ -154,9 +184,9 @@ Guy de Maupassant (1850–1893) est l'un des grands auteurs français de nouvell
 **Exercice 3.** Opposition entre la **beauté / le charme** de l'héroïne et sa **condition sociale modeste** (« jolies et charmantes filles » / « famille d'employés », « déclassée »). Effet : elle souligne le **décalage** entre ce qu'elle est et ce à quoi elle aspire, et prépare le thème de la frustration et de la vanité.
 
 **Exercice 4.** Modèle : la formule *« comme par une erreur du destin »* montre que le narrateur adopte, avec une **légère ironie**, le point de vue de l'héroïne : celle-ci se croit victime d'une injustice sociale. Le narrateur **prend de la distance** et annonce déjà le thème central — l'illusion et la vanité de vouloir paraître au-dessus de sa condition.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'expression écrite (à l'écrit, individuel).**
 
 Rédigez un texte argumenté d'environ **300 mots** sur le sujet suivant :
@@ -174,8 +204,7 @@ Rédigez un texte argumenté d'environ **300 mots** sur le sujet suivant :
 | Connecteurs | emploi correct de 4 connecteurs logiques différents |
 | Langue | phrases variées, temps maîtrisés, orthographe soignée |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Auto-évaluation — cochez ce qui est acquis :
 
 - [ ] Je distingue **résumer** et **analyser** un texte.
@@ -184,34 +213,11 @@ Auto-évaluation — cochez ce qui est acquis :
 - [ ] J'organise mon argumentation avec des **connecteurs logiques**.
 - [ ] Je **relis** ma production et je corrige au moins trois erreurs.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve blanche — extrait littéraire (Niveau E, 60 min).**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit05_abitur-mock-2_exam" >}}).
 
-Support : l'incipit de *La Parure* de Maupassant (partie C ci-dessus).
-
-**Partie A — Compréhension écrite (12 points)**
-
-1. Résumez en deux phrases la situation de l'héroïne au début de la nouvelle. *(4 P.)*
-2. Relevez deux procédés d'écriture (champ lexical, opposition, ironie) et expliquez l'effet de chacun. *(4 P.)*
-3. Le titre est *La Parure*. En quoi l'incipit prépare-t-il déjà le thème de l'apparence et de la vanité ? *(4 P.)*
-
-**Partie B — Expression écrite (18 points)**
-
-Rédigez un texte argumenté d'environ **300 mots** :
-> *« Le désir de paraître peut-il conduire au malheur ? »*
-> Reliez l'extrait de Maupassant à votre expérience ou à l'actualité.
-
-| Barème Partie B | Points |
-|---|---|
-| Contenu et pertinence des arguments | 6 |
-| Appui sur le texte (citation interprétée) | 3 |
-| Structure et connecteurs | 4 |
-| Correction de la langue | 5 |
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Minutage (45 min) :** Activer 5' · Apporter 12' · S'entraîner 12' · Produire 10' · Réfléchir 3' · Bilan / aperçu de l'épreuve blanche 3'.
 

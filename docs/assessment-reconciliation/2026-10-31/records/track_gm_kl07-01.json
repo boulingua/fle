@@ -1,0 +1,55 @@
+{
+  "unit": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+  "exam": "content/track_gm_kl07/units/unit01_ma-rentree_exam/index.md",
+  "before_unit_sha256": "34d74fbc9d593a3042e91ca90d3267474214f239f7dac1d7ab58fd46f86cb462",
+  "after_unit_sha256": "599d26d074c88d2e983af4841b1506eda703c9783bd851cd32e0d4a60756949f",
+  "before_exam_sha256": "bf53ef7c475b393ac2bf390907d7a85fc52dfef3030d510948530d21e2889c59",
+  "after_exam_sha256": "ba5873a9880ba3b39ce30e9964d4f7e21dd7d708491e344e371df808c8b8234b",
+  "source_sections": "B",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "speaking",
+    "writing"
+  ],
+  "decisions": [
+    "Primary8+12+10form retained; actualSarah story replaces unrelatedLéaThéo."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "fb5db75bb0b2aa317a1e5cf0bbe714433e1f6be767326192cf07bac16178113e",
+      "after_sha256": "599d26d074c88d2e983af4841b1506eda703c9783bd851cd32e0d4a60756949f",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit01_ma-rentree/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "5a2a7a0dae8b6b98828f51806c6b828be172d2ac1d4c3182aec55640e064a27e",
+      "after_sha256": "ae3dc58df8cafeafd04a596d7f019a1e126fb6b691e4cae6654a554894030778",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit01_ma-rentree_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ae3dc58df8cafeafd04a596d7f019a1e126fb6b691e4cae6654a554894030778",
+      "after_sha256": "15d65f2e212b0bd8d835ef5e0e389ebe49d688e7444f1a0d77debf672fe7fd78",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit01_ma-rentree_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl07/units/unit01_ma-rentree_exam/index.md",
+      "before_sha256": "15d65f2e212b0bd8d835ef5e0e389ebe49d688e7444f1a0d77debf672fe7fd78",
+      "after_sha256": "ba5873a9880ba3b39ce30e9964d4f7e21dd7d708491e344e371df808c8b8234b",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

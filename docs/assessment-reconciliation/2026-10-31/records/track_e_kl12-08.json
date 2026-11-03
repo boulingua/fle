@@ -1,0 +1,53 @@
+{
+  "unit": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
+  "exam": "content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md",
+  "before_unit_sha256": "d7fd853863ff85f1d8ffd30d6a92825387e8bc792ffd56f420b48321e618044b",
+  "after_unit_sha256": "15c4461a2e6a87ba44f2ff274e6a1062d68fbb3d96d614841a110e566ac67b74",
+  "before_exam_sha256": "f1cb0fc595b443fada361f81244504ba90309b03cf240bbda87737f11178689b",
+  "after_exam_sha256": "8d043433dada80d36ab41aa578e3e900effe6ba870c6d746f9be23fb5cf5b455",
+  "source_sections": "BC",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "speaking"
+  ],
+  "decisions": [
+    "Preserved complete primary12+18reading/liveinteraction; replaced missingDespentes extract and unsupportedanachronistic key with suppliedGouges/Sand/Colette dossier."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "3c22037e3f6be384a8f371b9baba135a6ec315c26026e24448453a287ad0259c",
+      "after_sha256": "b30c8f6a9ff272cbb288a37e970bdfee6a88588870790f80f1dfa7f49149c370",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "b30c8f6a9ff272cbb288a37e970bdfee6a88588870790f80f1dfa7f49149c370",
+      "after_sha256": "8191ec1dae8e7feb58c726433c2f079d6dbc9f31e5101468b8790948d06335e3",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "8191ec1dae8e7feb58c726433c2f079d6dbc9f31e5101468b8790948d06335e3",
+      "after_sha256": "9457c1c9a4eb6d4059a31bca7e2bb4f713f71a1886d5b5cd539775bd72d0e35d",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md",
+      "before_sha256": "9457c1c9a4eb6d4059a31bca7e2bb4f713f71a1886d5b5cd539775bd72d0e35d",
+      "after_sha256": "8d043433dada80d36ab41aa578e3e900effe6ba870c6d746f9be23fb5cf5b455",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

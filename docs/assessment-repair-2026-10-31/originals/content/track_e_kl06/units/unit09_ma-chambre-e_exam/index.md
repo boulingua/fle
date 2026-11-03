@@ -1,0 +1,95 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 9"
+subtitle: "Ma chambre, ma maison · classe 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 9
+slug: "ma-chambre-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.notes-messages-and-forms.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.REC.overall-reading-comprehension.01
+    - A1.INT.asking-for-clarification.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
+
+### Tâche 1 — Vocabulaire (10 points)
+
+Traduisez :
+
+- das Zimmer · die Küche · das Wohnzimmer · das Badezimmer ·
+ der Balkon · der Garten · das Bett · der Schreibtisch ·
+ das Sofa · der Schrank.
+
+### Tâche 2 — Prépositions (8 points)
+
+Complétez avec : *sur, sous, dans, devant, derrière, à côté de*.
+
+1. Le livre est ___ la table.
+2. La voiture est ___ le garage.
+3. Le chat dort ___ le canapé.
+4. L'arbre est ___ la maison.
+5. Le poster est ___ le mur.
+6. L'armoire est ___ la porte.
+7. Les vieux jouets sont ___ le lit.
+8. Le tapis est ___ le canapé et la table.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Décrivez **votre chambre** en **70 mots** : taille + **4
+meubles** + **3 prépositions** différentes + ce que vous y
+aimez.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Vocabulaire | 10 |
+| Tâche 2 — Prépositions | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** la chambre · la cuisine · le salon · la salle de
+bains · le balcon · le jardin · le lit · le bureau · le canapé
+· l'armoire.
+
+**Tâche 2.** 1) sur · 2) dans · 3) sur (ou sous) · 4) derrière
+(ou devant) · 5) sur · 6) à côté de · 7) sous · 8) entre ou à
+côté de.
+
+**Tâche 3.** Réponses libres. Critères : 70 mots · 4 meubles ·
+3 prépositions · plus 1 phrase d'opinion.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 9*

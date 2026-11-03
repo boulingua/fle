@@ -1,0 +1,44 @@
+{
+  "unit": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
+  "exam": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam/index.md",
+  "before_unit_sha256": "91f40f4a8fcfa3a8c050ab048f9269cf1f415feef249f317fd55a83640169f20",
+  "after_unit_sha256": "dc07d4aa03854d2722ede7afa9cbcf6a244985ddf647f8c4ebc00698690def20",
+  "before_exam_sha256": "f1dc904bd08adef570e76f72cda42e1053d8ef92b128438ae53f0a24415627b4",
+  "after_exam_sha256": "1f20bc13c0a6c244e90e075566f3987b0ce312634a00b9c930d06d41ca8e7470",
+  "source_sections": "Texte",
+  "source_mode": "learner-reading",
+  "total_points": 20,
+  "skills_observed": [
+    "reading",
+    "writing"
+  ],
+  "decisions": [
+    "Kept coherent embedded20pointmethod-reading/writing; discarded fabricatedAIlegislation hearing/dates/key and inflated280word mediation of51wordtext."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "77e508ef9751ff83fd67c4d6ca78f6d370e524dcbe95a4f32407b1e444c59b2c",
+      "after_sha256": "5d6dc83acc1d2e99718b81d023ee9ce2663c11b288d0c1cfde1b922b6e44053c",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "5d6dc83acc1d2e99718b81d023ee9ce2663c11b288d0c1cfde1b922b6e44053c",
+      "after_sha256": "5bac77fbf13874b3bbbee9bf134b269d9785f1cbcc77d4f43f585c679b82d1f2",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam/index.md",
+      "before_sha256": "5bac77fbf13874b3bbbee9bf134b269d9785f1cbcc77d4f43f585c679b82d1f2",
+      "after_sha256": "1f20bc13c0a6c244e90e075566f3987b0ce312634a00b9c930d06d41ca8e7470",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

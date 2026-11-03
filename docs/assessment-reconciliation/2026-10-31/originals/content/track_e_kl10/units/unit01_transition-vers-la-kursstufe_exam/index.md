@@ -1,0 +1,91 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 1"
+subtitle: "Transition vers la cycle terminal · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 1
+slug: "transition-vers-la-kursstufe-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.explaining-data.03
+    - B1.MED.note-taking.02
+    - B1.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la lettre d'Anouk (Unité 1, texte C). Répondez :
+
+1. Quel choix sollicite Anouk ?
+2. Quels acquis grammaticaux mentionne-t-elle ?
+3. Quel stage cite-t-elle ?
+4. Combien d'œuvres complètes prévoit-elle ?
+5. Quel niveau CECRL vise-t-elle ?
+
+### Tâche 2 — Verbes d'engagement au futur simple (8 points)
+
+Conjuguez :
+
+1. Je ___ (s'engager) à lire 3 œuvres.
+2. Nous ___ (persévérer) vers le C1.
+3. Tu ___ (viser) un Erasmus.
+4. Vous ___ (s'investir) en cours de littérature.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre lettre de motivation** (Lf ou Bf) au comité
+d'orientation (~180 mots) : 3 § + 5 verbes d'engagement + 4
+futurs simples + 2 formules de politesse.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Verbes engagement | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Lf Französisch. 2) Conditionnel + subjonctif.
+3) Stage à l'Institut français de Karlsruhe. 4) 3-4. 5) C1.
+
+**Tâche 2.** 1) m'engagerai · 2) persévérerons · 3) viseras
+· 4) vous investirez.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 3 § ·
+5 verbes engagement · 4 futurs · 2 politesse.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 1*

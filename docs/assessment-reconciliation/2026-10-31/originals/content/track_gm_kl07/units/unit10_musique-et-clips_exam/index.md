@@ -1,0 +1,93 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 10"
+subtitle: "Musique et clips · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 10
+slug: "musique-et-clips-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.understanding-an-interlocutor.01
+    - A1.LING.general-linguistic-range.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.PRAG.fluency.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — Hörverstehen (10 points)
+
+Écoutez la description du clip d'Aya Nakamura (Unité 10, texte D).
+Vrai/faux :
+
+| | Affirmation | V | F |
+|---|---------------------------------------------------------|:-:|:-:|
+| 1 | Aya Nakamura chante *« Pookie »*. | ☐ | ☐ |
+| 2 | Le clip se passe dans une école. | ☐ | ☐ |
+| 3 | Aya porte une robe bleue. | ☐ | ☐ |
+| 4 | Le clip dure 3 minutes 20. | ☐ | ☐ |
+| 5 | Le clip a 80 millions de vues. | ☐ | ☐ |
+
+### Tâche 2 — Vocabulaire (8 points)
+
+Traduisez :
+
+- der Pop · der Rock · der Rap · der Hip-Hop ·
+ das Chanson · der R'n'B · die elektronische Musik ·
+ der Reggae.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Décrivez **votre clip préféré** en **80 mots** : titre,
+chanteur(se), lieu, couleurs, action, durée. Utilisez
+**2 expressions de goût** (*j'adore, je préfère, je n'aime pas*).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) V. 2) F (maison colorée). 3) F (rouge). 4) V.
+5) F (800 millions).
+
+**Tâche 2.** la pop · le rock · le rap · le hip-hop · la chanson
+· le R'n'B · la musique électronique · le reggae.
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · 2 expressions
+de goût · description visuelle.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 10*

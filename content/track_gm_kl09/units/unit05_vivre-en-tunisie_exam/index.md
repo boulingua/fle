@@ -23,78 +23,88 @@ curriculum:
     - A2.MED.encouraging-conceptual-talk.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 9
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez le blog de Mehdi (Unité 5, texte C). Répondez :
+## Support
 
-1. Dans quelle ville vit Mehdi et où se situe-t-elle ?
-2. Que fait-il le vendredi soir ?
-3. Combien d'heures de français a-t-il par semaine ?
-4. Quels auteurs lit-il ?
-5. Que fait-il le week-end ?
-6. Quelle question pose-t-il à Léa ?
+### C. Le courriel de Mehdi (texte original)
 
-### Tâche 2 — Vocabulaire (8 points)
+> **Objet : Une journée ordinaire**
+>
+> Coucou Léa,
+>
+> Aujourd'hui, après les cours, je suis allé au souk avec ma mère. On a acheté des dattes et du pain pour ce soir. Le vendredi, on mange souvent le couscous en famille.
+>
+> En classe, j'aime beaucoup le français, mais ce n'est pas toujours facile : nos cours de sciences sont en français, alors il faut apprendre le vocabulaire deux fois ! Mes camarades et moi, on lit aussi des auteurs qui écrivent en français, comme l'écrivain tunisien Albert Memmi.
+>
+> Le week-end, on joue au foot sur la plage. Sfax est au bord de la mer Méditerranée, à environ 270 km au sud de Tunis. Et chez toi, comment se passe le samedi ?
+>
+> À bientôt,
+> Mehdi
 
-Reliez les termes tunisiens et leur équivalent standard.
+### Tâche 1 — Lecture (12 points)
 
-| Tunisien | Standard |
-|----------|----------|
-| 1. la koura | a. le marché |
-| 2. la brick | b. le foot |
-| 3. la medina | c. l'arabe parlé |
-| 4. le souk | d. la vieille ville |
-| 5. la darija | e. un beignet d'œuf |
+1. Dans quelle ville Mehdi vit-il et au bord de quelle mer ?
+2. Avec qui va-t-il au souk et quels achats mentionne-t-il ?
+3. Quel plat mange-t-il souvent en famille et quel jour ?
+4. Dans quelle langue suivent-ils les sciences et quelle difficulté explique-t-il ?
+5. Quel écrivain nomme-t-il et quelle nationalité lui attribue-t-il ?
+6. Quelle activité pratique-t-il en fin de semaine et où ?
 
-Plus, traduisez en français standard : *l'indépendance · la
-révolution · une langue officielle*.
+**Barème :** 6 réponses ×2.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+### Tâche 2 — Lexique (8 points)
 
-Rédigez une **réponse à Mehdi** en **120 mots** : votre samedi
-à Karlsruhe + comparaison avec Sfax. **2 mots tunisiens** entre
-guillemets + **1 fait** sur la Tunisie.
+Associez : médina, souk, littoral, matière, voisinage, habitude, langue de scolarité, comparer.
+A. Domaine étudié à l’école. B. Rapprocher deux éléments pour voir ressemblances et différences. C. Marché. D. Ancien quartier d’une ville. E. Côte. F. Personnes et lieux proches du domicile. G. Pratique répétée. H. Langue dans laquelle se fait l’enseignement.
 
-## Notation
+**Barème :** 8 associations ×1.
+
+### Tâche 3 — Courriel (10 points)
+
+Répondez à Mehdi en 120 mots : décrivez un samedi réel ou fictif, posez une question et comparez deux habitudes précises avec plus/moins/aussi…que. Reprenez un fait du courriel, sans le généraliser à tous les Tunisiens.
+
+**Barème :** Contenu 4, comparatifs 3, langueetformat 3.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 12 |
-| Tâche 2 — Vocabulaire | 8 |
-| Tâche 3 — Expression écrite | 10 |
+|---|---:|
+| 1 | 12 |
+| 2 | 8 |
+| 3 | 10 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) Sfax, sur la côte méditerranéenne, 270 km au sud
-de Tunis. 2) Couscous en famille. 3) 4h. 4) Tahar Ben Jelloun
-(marocain) et Albert Memmi (tunisien). 5) *Koura* sur la plage.
-6) « Vous avez quoi à Karlsruhe pour vous amuser le samedi ? »
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1-b · 2-e · 3-d · 4-a · 5-c. + die Unabhängigkeit ·
-die Revolution · eine offizielle Langue.
+**Tâche 1.** Sfax/Méditerranée; mère/dattes et pain; couscous/vendredi; français/apprentissage du vocabulaire deux fois; Albert Memmi/tunisien; football/plage. Un point par élément attendu.
 
-**Tâche 3.** Réponses libres. Critères : 120 mots · 2 mots
-tunisiens · 1 fait sur la Tunisie · format réponse blog.
+**Tâche 2.** Médina D; souk C; littoral E; matière A; voisinage F; habitude G; langue de scolarité H; comparer B.
 
----
+**Tâche 3.** Comparer les situations familiales fournies, sans généraliser à des populations. Ne pas exiger de fait ou de mot absent du support.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 5*
+- « Langues en Tunisie » — Wikipédia (consulté le 2026-07-21), <https://fr.wikipedia.org/wiki/Langues_en_Tunisie>, licence CC BY-SA 4.0.
+- « Tunisia » — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/Tunisia>, licence CC BY-SA 4.0.
+- « French protectorate of Tunisia » — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/French_protectorate_of_Tunisia>, licence CC BY-SA 4.0.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

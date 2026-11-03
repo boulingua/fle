@@ -1,0 +1,112 @@
+---
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 5"
+subtitle: "Médiation FR↔DE (épreuve finale) · classe 12 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 5
+slug: "mediation-fr-de-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-12
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - B2.MED.relaying-specific-information.05
+    - B2.INT.formal-discussion.01
+    - B2.INT.information-exchange.05
+    - B2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez la médiation FR (Unité 5, texte C). Répondez :
+
+1. Quel est le sujet du débat allemand ?
+2. Quel pourcentage limite le déficit ?
+3. Quelle économiste est citée ?
+4. Quels deux camps s'opposent ?
+
+### Tâche 2 — Verbes-charnières (8 points)
+
+Reformulez en français :
+
+1. *Der Artikel betont …* → ___
+2. *Die SPD will lockern …* → ___
+3. *Die FDP lehnt ab …* → ___
+4. *Grimm fordert …* → ___
+
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 points)
+
+Médiez ce dossier allemand en français (~350 mots) :
+
+> *Berlin diskutiert über das Tempolimit auf Autobahnen.
+> Aktuell gilt eine Empfehlung von 130 km/h, aber kein
+> verbindliches Limit. Eine Studie des Umweltbundesamts
+> (2024) zeigt, dass ein Limit von 130 km/h jährlich 6,7
+> Mio. Tonnen CO2 sparen würde — entspricht 0,8 % der
+> deutschen Emissionen. Die Grünen und SPD befürworten ein
+> Tempolimit. Die FDP lehnt es als « Verbotspartei-Politik »
+> ab. Verkehrsminister Volker Wissing (FDP): « Es gibt
+> keinen Konsens. »*
+
+Utilisez 4 § + 5 verbes-charnières + 1 citation + 1 lien
+interculturel (France 130 km/h sur autoroute par défaut).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Verbes | 8 |
+| Tâche 3 — médiation linguistique | 14 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Frein à l'endettement (*Schuldenbremse*).
+2) 0,35 % du PIB. 3) Veronika Grimm. 4) SPD + Verts vs CDU
++ FDP.
+
+**Tâche 2.** 1) *L'article souligne …* · 2) *La SPD veut
+assouplir …* · 3) *La FDP s'oppose / refuse …* · 4) *Grimm
+réclame / exige …*
+
+**Tâche 3.** Modèle : *Cet article expose le débat allemand
+sur la limitation de vitesse sur autoroute. Une étude de
+l'Office fédéral allemand de l'environnement (2024) démontre
+qu'un plafond à 130 km/h économiserait 6,7 millions de
+tonnes de CO2 annuelles, soit 0,8 % des émissions
+allemandes. Politiquement, les Verts et la SPD sont pour ;
+la FDP s'oppose en parlant de « parti des interdictions ».
+Le ministre des Transports Volker Wissing affirme qu'« il
+n'y a pas de consensus ». En France, la limitation à 130
+km/h est en vigueur depuis 1973 — différence culturelle
+notable.* (~350 mots).
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 5*

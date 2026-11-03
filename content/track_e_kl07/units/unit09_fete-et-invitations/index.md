@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 9
 slug: "fete-et-invitations"
 bildungsplan:
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - speaking_interaction
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_fete-et-invitations.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_fete-et-invitations.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit09_fete-et-invitations.html"
+- "/track_e_kl07/units/unit09_fete-et-invitations.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.interviewing-and-being-interviewed.02
-    - A1.PROD.creative-writing.01
-    - A1.INT.notes-messages-and-forms.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.overall-reading-comprehension.01
+  - A1.INT.interviewing-and-being-interviewed.02
+  - A1.PROD.creative-writing.01
+  - A1.INT.notes-messages-and-forms.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit09_fete-et-invitations_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_fete-et-invitations-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit09_fete-et-invitations-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -66,8 +98,7 @@ Léa et Karim se croisent à la sortie du collège, un mardi après-midi.
 2. Relevez les deux verbes qui parlent du futur (*je vais fêter…*, *on va commander…*).
 3. Karim accepte-t-il tout de suite ? Pourquoi doit-il attendre ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant d'écrire une invitation, mobilisons ce que nous savons déjà.
 
 - Comment fêtez-vous votre anniversaire ? À la maison, au restaurant, ailleurs ?
@@ -79,8 +110,7 @@ Avant d'écrire une invitation, mobilisons ce que nous savons déjà.
 **Astuce :** une bonne invitation répond toujours à quatre questions : **Quoi ? Quand ? Où ? Comment répondre ?**
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la fête et de l'invitation
 
 | Français | Catégorie | Allemand |
@@ -135,8 +165,7 @@ On l'utilise pour un projet ou une action **bientôt** dans le futur.
 
 En France, on chante souvent *« Joyeux anniversaire »* pendant qu'on apporte le gâteau. D'après Wikipédia, cette chanson d'anniversaire reprend la mélodie internationale la plus connue au monde ; on la chante en soufflant les bougies et en faisant un vœu. Le sigle **R.S.V.P.**, très fréquent sur les cartons français comme sur les invitations en anglais, vient de la formule française *« Répondez s'il vous plaît »* : il demande à l'invité·e de confirmer sa présence pour que l'organisateur prépare la fête (sources ci-dessous, licence CC BY-SA).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (texte C).** *(niveau G/M)*
 
 Répondez par une phrase courte.
@@ -178,6 +207,7 @@ b) Vous refusez poliment : vous êtes en vacances ce week-end.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Elle va fêter ses 13 ans.
 2. Le samedi 23 mai, de 18 h à 22 h.
@@ -195,9 +225,9 @@ b) Vous refusez poliment : vous êtes en vacances ce week-end.
 **Exercice 4.** *(propositions)*
 a) *Merci beaucoup pour ton invitation ! Je viens avec plaisir.*
 b) *Merci pour ton invitation, mais je suis en vacances ce week-end. Je suis vraiment désolé·e. À une prochaine fois !*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (individuelle, ~80 mots).**
 
 Rédigez le **carton d'invitation** de votre propre fête (anniversaire, fête de fin d'année, soirée jeux…). Votre carton doit contenir :
@@ -218,8 +248,7 @@ Rédigez le **carton d'invitation** de votre propre fête (anniversaire, fête d
 - À l'oral : question claire + acceptation/refus poli et compréhensible.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire.
 
 - [ ] Je sais écrire une invitation avec la date, l'heure et le lieu.
@@ -228,31 +257,11 @@ Cochez ce que vous savez faire.
 - [ ] Je sais accepter ou refuser poliment une invitation.
 - [ ] Je sais utiliser R.S.V.P. et donner une date limite de réponse.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Fête et invitations**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit09_fete-et-invitations_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 points).**
-Lisez un carton d'invitation et répondez à 4 questions (âge/occasion, date, heure, lieu).
-
-**Tâche 2 — Le futur proche (10 points).**
-Conjuguez 5 phrases au futur proche (2 points par phrase : forme d'*aller* + infinitif).
-
-**Tâche 3 — Expression écrite (12 points).**
-Rédigez votre invitation (~80 mots) : occasion, date/heure/lieu, programme au futur proche, R.S.V.P.
-
-**Barème :**
-
-| Tâche | Compétence | Points |
-|---|---|---|
-| 1 | Compréhension écrite | 8 |
-| 2 | Futur proche (langue) | 10 |
-| 3 | Expression écrite | 12 |
-| **Total** | | **30** |
-
-Répartition de la tâche 3 : contenu et informations clés (5) · futur proche (4) · politesse et orthographe (3).
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

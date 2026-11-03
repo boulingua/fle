@@ -1,0 +1,106 @@
+---
+title: "épreuve FLE — classe 13 (Niveau E) — Unité 4 (mock 1)"
+subtitle: "épreuve finale mock 1 — texte journalistique · classe 13 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 4
+slug: "abitur-mock-1-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-13
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.relaying-specific-information.05
+    - B2.PROD.reports-and-essays.01
+    - B2.INT.formal-discussion.01
+    - B2.INT.information-exchange.05
+    - B2.MED.adapting-language.03
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — mock 1)
+
+### Tâche 1 — Verstehen (10 points) — 60 min
+
+Lisez l'article (Unité 4, texte C). Répondez :
+
+1. Quel jour le Prix Schuman a-t-il été décerné ?
+2. À quelle occasion ?
+3. Quel est le titre de l'essai d'Anouk ?
+4. Quels 4 auteurs cite-t-elle ?
+5. Quelle est la dotation du prix ?
+
+### Tâche 2 — Analyse / Expression écrite (« Schreiben ») (10 points) — 90 min
+
+Rédigez un **commentaire personnel** (~400 mots) : que
+pensez-vous de l'idée *« le français est une langue
+choisie »* ? — TAS + 2 références littéraires.
+
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») (10 points) — 60 min
+
+Médiez ce texte allemand en français (~280 mots) :
+
+> *Am 9. Mai 2029 hat die deutsch-französische Schülerin
+> Anouk Schmidt aus Karlsruhe den Robert-Schuman-Preis für
+> junge Europäer gewonnen. Ihr Essay *« Warum Französisch ? »*
+> hat die Jury durch Aufrichtigkeit und literarische
+> Strenge überzeugt. Schmidt zitiert Camus, Senghor und Ben
+> Jelloun. Sie wird im September nach Bordeaux gehen, in
+> die größte unabhängige Buchhandlung Frankreichs, die
+> Librairie Mollat. Marie-Christine Saragosse, Präsidentin
+> von France Médias Monde, lobt: « Diese neue Generation
+> erfindet die Francophonie neu. »*
+
+## Notation
+
+| Tâche | Points | Durée |
+|-----------------------|--------|--------|
+| Verstehen | 10 | 60 min |
+| Analyse / Expression écrite | 10 | 90 min |
+| médiation linguistique | 10 | 60 min |
+| **Total** | **30** | **210 min** |
+
+## Solutions
+
+**Tâche 1.** 1) 9 mai 2029. 2) Jour de l'Europe. 3)
+*« Pourquoi le français ? »* 4) Camus, Senghor, Ben Jelloun,
+Despentes. 5) 5 000 €.
+
+**Tâche 2.** Réponses libres. Critères : 400 mots · TAS ·
+2 références.
+
+**Tâche 3.** Modèle : *Le 9 mai 2029, l'élève franco-
+allemande Anouk Schmidt de Karlsruhe a remporté le Prix
+Robert Schuman pour les jeunes Européens. Son essai
+« Pourquoi le français ? » a convaincu le jury par sa
+sincérité et sa rigueur littéraire. Schmidt cite Camus,
+Senghor et Ben Jelloun. Elle ira en septembre à Bordeaux,
+à la plus grande librairie indépendante de France, la
+Librairie Mollat. Marie-Christine Saragosse, présidente de
+France Médias Monde, salue : « Cette nouvelle génération
+réinvente la francophonie. »* (~280 mots).
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 4*

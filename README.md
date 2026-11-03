@@ -1,95 +1,77 @@
-# FLE BW — Français Langue Étrangère, Gesamtschule Bade-Wurtemberg
+# Français langue étrangère
 
-<img src="brand/icon.png" alt="French icon" width="64" align="right">
+<img src="brand/icon.png" alt="Français langue étrangère" width="64" align="right">
 
-Curriculum FLE pour la Gesamtschule du Bade-Wurtemberg, **Klasse
-6 à 13**, aligné sur le Bildungsplan 2016 (Sek I) et le
-Bildungsplan gymnasiale Oberstufe 2021. **156 Unités** sur deux
-parcours :
+Open teaching materials by **S. Le Boulanger**, part of
+[Boulingua](https://boulingua.github.io/website/).
 
-- **G+M** (grundlegend + mittel) — Klasse 6 à 10 (5 cours).
-- **E** (erweitert / gymnasial) — Klasse 6 à 13 (8 cours).
+156 units and 156 examination pages across 13 courses: G+M in grades 6–10 and E in grades 6–13.
 
-Auteure : **S. Le Boulanger**. Site live :
+The site uses Hugo and the shared `kit` module. Units are Markdown leaf bundles
+under `content/`; downloadable materials and recordings are committed under
+`static/materials/`. There are 468 unit PDF downloads (deck, learner worksheet and teacher worksheet). Compilation and
+file counts do not establish educational review or curriculum conformance.
+
+## Try the current development version
+
+Prerequisites: Hugo **extended 0.159.2**, Go **1.26.1**, Python **3.12** and Node
+**22**. Keep the matching `kit`, `curriculum` and `.github` checkouts beside this
+repository. The refinement branch is a coordinated release candidate;
+its changes have not yet been published as a compatible release set.
+
+From this repository:
+
+```sh
+python3.12 -m venv .venv
+. .venv/bin/activate
+pip install -r ../kit/requirements.txt
+npm ci --prefix ../kit
+go work init ../kit
+export HUGO_MODULE_WORKSPACE="$PWD/go.work"
+python ../kit/bin/kit build .
+mkdir -p build/preview
+ln -s "$PWD/public" build/preview/fle
+python -m http.server 1317 --bind 127.0.0.1 --directory build/preview
+```
+
+Open `http://127.0.0.1:1317/fle/`. For an interactive preview, use `hugo server --bind 127.0.0.1` after the build
+and open the address Hugo prints. The production-style build includes the
+Pagefind search index and material-discovery data. A plain root HTTP server
+needs the `/fle/` URL prefix; see kit's preview instructions for that layout.
+
+Run the release checks with the same checkouts:
+
+```sh
+npm exec --prefix ../kit -- playwright install chromium
+python ../kit/bin/kit check . --ci \
+  --owner-root curriculum=../curriculum --owner-root .github=../.github
+```
+
+On Linux, use `playwright install --with-deps chromium` to install required
+browser libraries. These checks currently report historical audio provenance
+and missing pronunciation-review evidence as release blockers; they must not
+be bypassed to publish.
+
+## Use and maintain
+
+Browse units from the course menu. Search finds indexed teaching pages; the
+materials page supports filtering and direct PDF downloads. The network view is
+optional. Text remains available when a recording is absent.
+
+Edit the source bundle, then rebuild and review the rendered unit. Generate new
+PDFs or audio deliberately with kit, review their contents, and commit source,
+manifest and artifacts together. CI verifies committed materials; it does not
+silently regenerate them. Preserve all published URLs and counting-mark locks.
+
+The curriculum manifest is `curriculum.yml`. Descriptor mappings remain
+proposed until reviewed. [REFINEMENT.md](REFINEMENT.md) records current findings,
+verification and remaining release work. Older roadmap/handover documents are
+historical evidence where they disagree with this build path.
+
+## Licence and citation
+
+Original teaching content: **CC BY-SA 4.0**, attributed to **S. Le Boulanger**.
+Code: **MIT**. See the licence files and `NOTICE.md` for third-party terms.
+
+Le Boulanger, S. (2026). *Français langue étrangère*. Boulingua.
 <https://boulingua.github.io/fle/>
-
-## Sites sœurs
-
-- **[EFL BW](https://boulingua.github.io/efl/)** — Anglais, Kl. 5–13.
-- **FLE BW** — Français, Kl. 6–13 (ce site).
-- **[DaF](https://boulingua.github.io/daf/)** — Allemand langue
-  étrangère, GER A1–C1.
-- **[Ressources](https://boulingua.github.io/ressources/)** — hub
-  de ressources curées.
-
-## Architecture
-
-- Bâti avec **[Quarto](https://quarto.org)**.
-- Chaque Unité rend **deux fois** depuis une seule source `.qmd` :
-  article HTML + diapositives Reveal.js.
-- Exemple d'épreuve par Unité (Klassenarbeit Kl. 6–10, Abitur
-  Kl. 11–13) en PDF.
-- Fiche d'exercices en PDF (placeholder, contenu réel à venir).
-- Bascule clair/sombre. Icônes Lucide.
-
-Déploiement via **GitHub Actions** (`actions/deploy-pages@v4`).
-
-## Modèle pédagogique
-
-Cinq étapes : **Activer → Apporter → S'entraîner → Produire →
-Réfléchir** (variante préparation-épreuve : *Tâche → Modèle →
-Stratégie → Tentative → Retour*).
-
-## Bildungsplan-BW
-
-Le squelette des compétences est dans
-`_resources/bildungsplan_bw_franzoesisch.yml`, extrait verbatim
-des pages officielles `bildungsplaene-bw.de`. Aucune compétence
-n'est inventée ; chaque Unité cite des codes vérifiables.
-
-## Licence
-
-- **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** (`LICENSE`) — contenu didactique.
-- **[MIT](LICENSE-CODE.md)** (`LICENSE-CODE.md`) — code du site.
-
-`© S. Le Boulanger · CC BY 4.0 (contenu) / MIT (code)`.
-
-## Citation
-
-Si vous réutilisez ce curriculum, merci de le citer :
-
-> Le Boulanger, S. (2026). *FLE — Curriculum bilingue pour
-> l'enseignement secondaire, classes 6 à 13* [Cours en ligne].
-> Boulingua. <https://boulingua.github.io/fle/>
-
-```bibtex
-@misc{leboulanger2026fle,
-  author       = {Le Boulanger, S.},
-  title        = {{FLE} --- Curriculum bilingue pour l'enseignement
-                  secondaire, classes 6 {\`a} 13},
-  year         = {2026},
-  howpublished = {\url{https://boulingua.github.io/fle/}},
-  note         = {Boulingua. Code sous licence MIT ; contenu sous
-                  licence CC-BY 4.0.}
-}
-```
-
-Voir la page **[Références](https://boulingua.github.io/fle/references.html)**
-pour la bibliographie complète et les remerciements.
-
-## Build local
-
-```
-quarto render
-```
-
-Le CI reproduit le même build et déploie via les actions Pages
-officielles.
-
-## Recours aux outils LLM
-
-Certaines parties de ce projet ont été préparées avec l'aide d'outils de grands modèles de langage pour des tâches précises et non-auctoriales : révision, lissage de la prose, mise en forme Markdown/LaTeX, génération de fichiers standard (configurations CI, scripts de build), refactorisation du code. Les outils utilisés étaient Chat AI, le service LLM de KISSKI (GWDG), et un Mistral Small (24B, Apache-2.0) auto-hébergé et exécuté localement via Ollama et le paquet R ollamar — inférence locale uniquement, sans transmission de données à des tiers pour le modèle auto-hébergé.
-
-## Signature colour & icon
-
-This project's signature accent is **`#4B8D19`** (light theme) / **`#ACE77E`** (dark theme), paired with the **pentagon** mark (`brand/icon.svg`). The accent is *flag-safe* — the hue does not appear in the French flag — is distinct from every other boulingua language, and is kept clear of the boulingua hub blue. The whole colour system lives in the [boulingua hub](https://github.com/boulingua/website#per-language-accent-colours).

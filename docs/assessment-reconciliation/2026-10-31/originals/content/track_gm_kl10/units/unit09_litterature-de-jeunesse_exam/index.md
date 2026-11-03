@@ -1,0 +1,98 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 9"
+subtitle: "Littérature de jeunesse FR · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 9
+slug: "litterature-de-jeunesse-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.explaining-data.03
+    - B1.REC.reading-for-orientation.06
+    - B1.REC.understanding-audio-media-and-recordings.03
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'extrait du *Temps des miracles* d'A.-L. Bondoux
+(Unité 9, texte C). Répondez :
+
+1. Comment s'appelle vraiment le narrateur ?
+2. Pourquoi a-t-il changé de nom ?
+3. Qui est Gloria ? Pourquoi est-elle importante ?
+4. Quelle est la conclusion personnelle du narrateur ?
+5. Quel est le **thème** principal de l'extrait ?
+
+### Tâche 2 — Analyse littéraire (8 points)
+
+1. Le narrateur écrit à la **1ʳᵉ** ou à la **3ᵉ** personne ?
+2. Quel **âge** a-t-il au début de l'extrait ?
+3. Quel **registre** (familier, courant, soutenu) ?
+4. Citez **une phrase** qui exprime la **gratitude**.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez un **avis personnel** structuré (~180 mots) sur
+l'extrait :
+
+1. **Résumé** en 2 phrases.
+2. **Ce qui vous a touché** : 2 éléments précis.
+3. **Évaluation** + recommandation à un(e) ami(e).
+
+3 connecteurs minimum (*d'abord, ensuite, en conclusion*).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Analyse | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Koumaïl. 2) Pour qu'il soit français
+(protection / nouvelle identité après la guerre). 3) La femme
+qui l'a sauvé du train ; il lui doit la vie. 4) « Je suis
+vivant grâce à Gloria. Et ça, c'est plus important que tout. »
+5) Identité, exil, mémoire, gratitude.
+
+**Tâche 2.** 1) 1ʳᵉ. 2) 7 ans. 3) Courant. 4) « Je suis vivant
+grâce à Gloria. »
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 3 parties ·
+3 connecteurs · cohérence.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 9*

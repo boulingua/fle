@@ -1,0 +1,44 @@
+{
+  "unit": "content/track_gm_kl08/units/unit08_un-allemand-a-paris/index.md",
+  "exam": "content/track_gm_kl08/units/unit08_un-allemand-a-paris_exam/index.md",
+  "before_unit_sha256": "c0892a53358fa6ef7b97198d39db622562d5aa35edcc7b381b745b7d5aad649e",
+  "after_unit_sha256": "79c7275b2bccdbfc3d68e019709d3f9141fdefb0ba5f6f3d0bab80a67aae4129",
+  "before_exam_sha256": "5a7947c52fbb2ce522148672481d18e270d939c76f4bf041b68c4bc839e956ab",
+  "after_exam_sha256": "53192dceea65336e2d127a6389d50849a4e26403ecabab4fb52d88edd798c212",
+  "source_sections": "A",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "writing"
+  ],
+  "decisions": [
+    "Retained coherent original embedded task structure and totals; supplied exact source and full key; reconciled incompatible sibling source/answer claims."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "9b399b2dd58250798fea48422f528f983350be80e509add3a2bf2fd80de77d91",
+      "after_sha256": "3762473fd969938889da01002801d0400dda85bc65202d890e09857c4329a514",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl08/units/unit08_un-allemand-a-paris_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3762473fd969938889da01002801d0400dda85bc65202d890e09857c4329a514",
+      "after_sha256": "9950930e3d231a6d719d58f6fd71518ab7e5750499e1f82c53580ff9bfbf8775",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit08_un-allemand-a-paris_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl08/units/unit08_un-allemand-a-paris_exam/index.md",
+      "before_sha256": "9950930e3d231a6d719d58f6fd71518ab7e5750499e1f82c53580ff9bfbf8775",
+      "after_sha256": "53192dceea65336e2d127a6389d50849a4e26403ecabab4fb52d88edd798c212",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

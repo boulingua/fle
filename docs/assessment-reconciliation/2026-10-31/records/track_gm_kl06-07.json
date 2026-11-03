@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
+  "exam": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure_exam/index.md",
+  "before_unit_sha256": "815a7a60372b899f4823c4aa17f1f760ae6837b1c5aa19d75f299f72f9d93e30",
+  "after_unit_sha256": "990e8b98ca4ad7f1865375d64970e1f7f4a48a192ffb3d81a69403baa9924e68",
+  "before_exam_sha256": "83a24958116c9e16d46dade203c9c10040aa3b8a31827daf3cf9b066d572fafb",
+  "after_exam_sha256": "994fa909a03094e646df254a4546af45a815c2d0a93a96a8e38f2fee0162385a",
+  "source_sections": [
+    ""
+  ],
+  "supplied_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source_mode": "self-contained-tasks",
+  "total_points": 30,
+  "task_points": [
+    12,
+    10,
+    8
+  ],
+  "decisions": [
+    "Retain all12 vocabulary stimuli with12explicit points, clocks10 and writing8; same30total and thresholds.",
+    "Honor embedded formal24-hour objective; correct inconsistent informal clock key.",
+    "Add concrete agenda-transfer self-check to the three-date writing task."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "bed610620fc6963b06d66c0cebd499f672c8db9f3be695073b7017ef831ee570",
+      "after_sha256": "990e8b98ca4ad7f1865375d64970e1f7f4a48a192ffb3d81a69403baa9924e68",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "473fce263aa7a83f037f058626309b000bf039ccb58f1bf625c133e375bbd727",
+      "after_sha256": "6b1a86198b7c699b3d52113cf13a78c45cb370491a10aec3860e8afb8e5e3c11",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit07_le-temps-et-l-heure_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6b1a86198b7c699b3d52113cf13a78c45cb370491a10aec3860e8afb8e5e3c11",
+      "after_sha256": "13c06382ada88432c81d8fed00468f882a5936a30e1916fb9c63cfeb1b1d8cfa",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit07_le-temps-et-l-heure_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure_exam/index.md",
+      "before_sha256": "13c06382ada88432c81d8fed00468f882a5936a30e1916fb9c63cfeb1b1d8cfa",
+      "after_sha256": "994fa909a03094e646df254a4546af45a815c2d0a93a96a8e38f2fee0162385a",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

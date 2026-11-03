@@ -1,0 +1,39 @@
+{
+  "unit": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse/index.md",
+  "exam": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse_exam/index.md",
+  "before_unit_sha256": "ea15ef51a07e1201864f63eca0c6d6fe4844ac3e5e3f3af07573aec9169c473a",
+  "after_unit_sha256": "9f9c14931b857e168a3ed4042b6cb57024fdf859cdc2541e4688d06c8092bf60",
+  "before_exam_sha256": "3927674b918145f13a210c4d35384bbc9337b7ee87ce5d986145ce557e5042ae",
+  "after_exam_sha256": "77e27aa52ef322e13cf8d326536121626384c249eeee4bee3c53f958487a86d9",
+  "source_sections": [
+    "C"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "writing"
+  ],
+  "decisions": [
+    "Original Carnet de Nour supplied instead of an absent Bondoux excerpt. Narrator, theme, register and comparison questions are answerable from this text."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "92b0d0a49ebe97f6180efc3eb94ae0dce5a3b60452a94b9983444fdb28fc9c53",
+      "after_sha256": "1402282469a4e4b77e5d0590debc8df4c08116aab0a87c24f6e8addaf7930b82",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit09_litterature-de-jeunesse_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse_exam/index.md",
+      "before_sha256": "1402282469a4e4b77e5d0590debc8df4c08116aab0a87c24f6e8addaf7930b82",
+      "after_sha256": "77e27aa52ef322e13cf8d326536121626384c249eeee4bee3c53f958487a86d9",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

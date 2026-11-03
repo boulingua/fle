@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl12/units/unit02_analyse-stylistique/index.md",
+  "exam": "content/track_e_kl12/units/unit02_analyse-stylistique_exam/index.md",
+  "before_unit_sha256": "dbea511c51521539110a654f4fd4ebb58a4b34a8d9d10524a91ee15450a17030",
+  "after_unit_sha256": "e23dab03f6af6201e1b4d37591b2cbe7b244f74c719aa48531fffe2e368690c4",
+  "before_exam_sha256": "c7c50847c78fe01e88d1e38cd53b02685ab342158358cf9855f09b50e2844a4c",
+  "after_exam_sha256": "4c098de490a3698888292883a951978a75a2dd5d4a5740c4d63f5c3d606af89e",
+  "source_sections": "C",
+  "supplied_source_sha256": "651e0f92d137f946a5efe3b9264ea782584b0caab2b5c12becbe5fc4ad687c28",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Original port prose replaces nonexistent murder scene, false oxymoron and unprovided novels. Taskscoped to actual source and taught tools."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "733ab1d9d85fde38a01cd2b3185a464d17b35850051ec23bca4cc768c472c3ea",
+      "after_sha256": "425d1ed1c7ac7894d7c68647bbaf1056bb278fe13d0f2e38d2ddd862ee545b64",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit02_analyse-stylistique_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "425d1ed1c7ac7894d7c68647bbaf1056bb278fe13d0f2e38d2ddd862ee545b64",
+      "after_sha256": "d32828b340fc611e0f5f372110bbef96fb77ab6e0ccf35308889aeeab7f95ce4",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit02_analyse-stylistique_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit02_analyse-stylistique_exam/index.md",
+      "before_sha256": "d32828b340fc611e0f5f372110bbef96fb77ab6e0ccf35308889aeeab7f95ce4",
+      "after_sha256": "4c098de490a3698888292883a951978a75a2dd5d4a5740c4d63f5c3d606af89e",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "unit": "content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
+  "exam": "content/track_e_kl07/units/unit09_fete-et-invitations_exam/index.md",
+  "before_unit_sha256": "7e96c74522d7e254fb777bb0157366720bd984f81d9bea15fcabe26ce9603976",
+  "after_unit_sha256": "4267623d69c7938a6b7824197424a2e5d4ee112f0cabc68d3517ded7aa044391",
+  "before_exam_sha256": "0a03be76bf623d929abbbb0ca24eb95f4cb37367a4783d6da033a7f7a08e393e",
+  "after_exam_sha256": "6ce87f505305568a28b1cba94f47e576e1c5a45edf70fd909b57627056427ece",
+  "source_sections": "C",
+  "supplied_source_sha256": "39e7a21bfb76193e9cda561f86992664e1e33920d41450ce5164ba99d6ca1efe",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Replaced Anouk/12years/Karlsruhe16May key with actual Léa invitation; eight original grammar items retained with transparent8+2 allocation."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "2a004e56008eb5b1f81c4fea60fcb41408ebb44e81ce409f182d93b81ec0c5fe",
+      "after_sha256": "4267623d69c7938a6b7824197424a2e5d4ee112f0cabc68d3517ded7aa044391",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit09_fete-et-invitations/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6c760ea19fb9c6f894fe3108f537c0b1c08dd69e4452f1908d6cfcc10547a28e",
+      "after_sha256": "2b9e7e559f83a38ded6f4aa482c472cb00418ac0a03b32d578a2359e304b8aee",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit09_fete-et-invitations_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "2b9e7e559f83a38ded6f4aa482c472cb00418ac0a03b32d578a2359e304b8aee",
+      "after_sha256": "2b44e5388ba16a71ca4124507d8fa56643389a9f0856939b44850f4f32904960",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit09_fete-et-invitations_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit09_fete-et-invitations_exam/index.md",
+      "before_sha256": "2b44e5388ba16a71ca4124507d8fa56643389a9f0856939b44850f4f32904960",
+      "after_sha256": "6ce87f505305568a28b1cba94f47e576e1c5a45edf70fd909b57627056427ece",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

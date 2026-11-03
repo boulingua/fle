@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 10
 slug: "cinema-quebecois-e"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.4 Expression orale — production orale en continu"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.4 Expression orale — production orale en continu"
 skills_focus:
 - listening
 - speaking_production
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_cinema-quebecois-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_cinema-quebecois-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit10_cinema-quebecois-e.html"
+- "/track_e_kl08/units/unit10_cinema-quebecois-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-announcements-and-instructions.04
-    - A2.PROD.creative-writing.04
-    - A2.INT.overall-oral-interaction.02
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-announcements-and-instructions.04
+  - A2.PROD.creative-writing.04
+  - A2.INT.overall-oral-interaction.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit10_cinema-quebecois-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_cinema-quebecois-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit10_cinema-quebecois-e-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,15 +104,13 @@ curriculum:
 - Quelle difficulté Théo mentionne-t-il à propos de la langue ?
 - Que doit contenir une bonne présentation orale, d'après lui ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quels films **francophones** (France, Belgique, Afrique, Canada…) connaissez-vous ?
 - À votre avis, en quoi le **français du Québec** peut-il surprendre une oreille habituée au français de France ?
 - Quand vous regardez un film étranger : **version doublée** ou **version originale sous-titrée** ? Pourquoi ?
 - Quels mots français du **vocabulaire du cinéma** connaissez-vous déjà ? Faites une liste rapide au tableau.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du cinéma
 
 | Français | Catégorie | Aide / synonyme |
@@ -129,8 +159,7 @@ Le Québec possède une **production cinématographique en français** ancienne 
 
 Sur le plan de la langue, le **français québécois** partage la grammaire et l'orthographe du français standard, mais présente des particularités : une **prononciation** propre (certaines voyelles, l'affrication de *t/d* devant *i/u*), un **vocabulaire** régional et des expressions locales. Ces traits ne sont pas des « fautes » : ce sont des variantes régionales d'une même langue. (D'après l'article « Français québécois », Wikipédia, licence CC BY-SA.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension orale (l'enseignant·e lit le texte C à voix haute).**
 
 1. De quel pays / région vient le film présenté ?
@@ -162,6 +191,7 @@ Sur le plan de la langue, le **français québécois** partage la grammaire et l
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Du Québec (Canada), film en français. 2) Un rythme lent / calme. 3) Une conversation très simple, presque sans musique, où les silences comptent. 4) Avis **nuancé mais positif** : il aime le film « même si le rythme est calme » et le recommande.
 
 **Ex. 2.** a–3 · b–4 · c–5 · d–1 · e–2.
@@ -169,9 +199,9 @@ Sur le plan de la langue, le **français québécois** partage la grammaire et l
 **Ex. 3.** Réponses possibles : 1) *D'abord / Personnellement*. 2) *pourtant / en revanche*. 3) *soit* (subjonctif après *ne pas penser que*). 4) *Pour finir / En conclusion*.
 
 **Ex. 4.** Exemple : *« C'est un film québécois où l'accent est différent de celui de France. Une scène m'a beaucoup ému·e, et je pense que ce film est à voir. »* (Réponses libres, correction sur la construction et les connecteurs.)
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (Niveau E, production en continu, environ 90 secondes)**
 
 Présentez, **sans support projeté et sans lire vos notes**, **un film francophone** de votre choix (québécois de préférence). Votre présentation doit contenir, dans cet ordre :
@@ -191,8 +221,7 @@ Présentez, **sans support projeté et sans lire vos notes**, **un film francoph
 | Fluidité et prononciation | débit continu, sans lecture | 3 |
 | **Total** | | **12** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux comprendre l'essentiel d'une présentation orale sur un film.
 - [ ] Je peux nommer au moins **deux repères** du cinéma québécois (ex. l'ONF, le cinéma direct).
 - [ ] J'emploie au moins **six mots** du vocabulaire du cinéma.
@@ -200,23 +229,11 @@ Présentez, **sans support projeté et sans lire vos notes**, **un film francoph
 - [ ] Je sais exprimer une **opinion nuancée** avec un connecteur.
 - [ ] Je reconnais que les traits du **français québécois** sont des variantes, non des fautes.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé — compréhension audiovisuelle et production orale (Niveau E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit10_cinema-quebecois-e_exam" >}}).
 
-**Tâche 1 — Compréhension orale / audiovisuelle (10 pts).**
-L'enseignant·e lit (ou diffuse une présentation orale enregistrée en classe) un texte de type « présentation de film ». Répondez à 5 questions : région/pays du film, réalisateur·rice, sujet/intrigue, une scène citée, avis du locuteur (positif/nuancé/négatif + justification).
-
-**Tâche 2 — Vocabulaire du cinéma (8 pts).**
-Complétez 8 phrases à trous avec les mots étudiés (réalisateur·rice, intrigue, scène, générique, mise en scène, bande-annonce, primé, émouvant).
-
-**Tâche 3 — Production orale en continu (12 pts).**
-Présentez un film francophone (~90 s) selon les 4 critères de la partie 4. Évaluation selon le barème de la tâche « Produire ».
-
-**Barème total : 30 points.**
-- Tâche 1 : 10 pts · Tâche 2 : 8 pts · Tâche 3 : 12 pts.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Minutage (45 min) :** Activer 4' · Apporter 13' · S'entraîner 13' · Produire 11' · Réfléchir 2' · Aperçu du devoir 2'.
 

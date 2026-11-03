@@ -1,0 +1,96 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 12"
+subtitle: "Bilan : Portrait d'une rencontre · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 12
+slug: "bilan-portrait-d-une-rencontre-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.INT.online-conversation-and-discussion.03
+    - A2.LING.phonological-control.02
+    - A2.MED.overall-mediation.01
+    - A2.MED.processing-text.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le portrait Anouk/Karim (Unité 12, texte C). Répondez :
+
+1. Comment Anouk a-t-elle rencontré Karim ?
+2. Quelle spécialité a-t-elle découverte grâce à lui ?
+3. Quand Karim est-il venu à Karlsruhe ?
+4. Quel petit problème a-t-il eu ?
+5. Que fera Anouk en mars 2027 ?
+
+### Tâche 2 — 3 temps en alternance (8 points)
+
+Conjuguez au temps demandé :
+
+1. Karim ___ (avoir, imparfait) 13 ans.
+2. Il ___ (habiter, imparfait) à Lille.
+3. Je ___ (rencontrer, PC) Karim par lettre.
+4. Nous ___ (faire, PC) du vélo le long du Rhin.
+5. L'an prochain, je ___ (partir, futur) à Lille.
+6. Je ___ (manger, futur) des moules-frites.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez le **portrait d'une rencontre** de votre 8e
+(~150 mots), en 3 paragraphes : §1 PC + imparfait
+(rencontre) · §2 PC (ce qu'on a fait) · §3 futur simple
+(projet) · **6 connecteurs** + 1 phrase-bilan.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — 3 temps | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Par correspondance / lettre. 2) Carbonade,
+frites belges. 3) En février (5 jours). 4) Il a eu froid.
+5) Elle partira à Lille, mangera des moules-frites, verra la
+Vieille Bourse.
+
+**Tâche 2.** 1) avait · 2) habitait · 3) ai rencontré · 4)
+avons fait · 5) partirai · 6) mangerai.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3 temps
+mêlés · 6 connecteurs · 1 phrase-bilan.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 12*

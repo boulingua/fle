@@ -1,0 +1,73 @@
+{
+  "unit": "content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md",
+  "exam": "content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md",
+  "before_unit_sha256": "94fe5dca45fb565b11388203bf96ffe223b436afce4127e268a8e044a2f2821f",
+  "after_unit_sha256": "11473f8b09395dcd8104ff61703a4951ecd8bd5a598552479053b976e6d70585",
+  "before_exam_sha256": "5cfba04ab5faf651ae6e7e5cbcee06a9c511c39dcb72efa080efd1b9a7c5b8ad",
+  "after_exam_sha256": "bda28ae14a4b3fc472872f5d5e340009abe72af1338e13fb5b0625d87cd70787",
+  "source_sections": "CD",
+  "supplied_source_sha256": "358b789c22e563112ee29dc62de8bef1ed14013200c36a9a2c3de186a21d0d89",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unrelated BenJelloun dialogue and underdetermined thinker-name matching. Actual language/identity dossier supplied; removed outdated undated OIF count from copied notice, coherent unit correction queued."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "e02c9a9af44a9a89ba13610f96314f5b0278065e6d8da72d7502034a91f6a46f",
+      "after_sha256": "a176dc07a44c9ced4782798afc943bd4cc1565a192c779dfc90de4bd48eb87f2",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "b6ffc400960f523ed8f77078b9b379419d701db2428e52c34abc5b3bf1124247",
+      "after_sha256": "4388a5635839437a08fd242c79fd0b59eb1ffd9f80180b4b70a0850c5ac53314",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "a176dc07a44c9ced4782798afc943bd4cc1565a192c779dfc90de4bd48eb87f2",
+      "after_sha256": "11473f8b09395dcd8104ff61703a4951ecd8bd5a598552479053b976e6d70585",
+      "reasons": [
+        "Remove outdated current membership count; date demographic evidence.",
+        "Attach primary source for controlled correction."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "4388a5635839437a08fd242c79fd0b59eb1ffd9f80180b4b70a0850c5ac53314",
+      "after_sha256": "1165c27f944fd0c6190aae6db6e2e9ad77312f080d819c9939f61993d19514c5",
+      "reasons": [
+        "Attach primary source for controlled correction."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "1165c27f944fd0c6190aae6db6e2e9ad77312f080d819c9939f61993d19514c5",
+      "after_sha256": "b34d47020754597392489d9fdaf45e03734e9dd6c57d98df8e0a2a06c5162787",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md",
+      "before_sha256": "b34d47020754597392489d9fdaf45e03734e9dd6c57d98df8e0a2a06c5162787",
+      "after_sha256": "bda28ae14a4b3fc472872f5d5e340009abe72af1338e13fb5b0625d87cd70787",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

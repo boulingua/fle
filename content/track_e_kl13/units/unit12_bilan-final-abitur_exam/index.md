@@ -23,75 +23,79 @@ curriculum:
     - B2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 60
+assessment_scoring: points-only
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach ») — final)
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d'entraînement réconcilié avec les supports de l'unité. Ce n'est ni un sujet officiel ni une certification de niveau. Les situations originales sont des scénarios pédagogiques; les références littéraires conservent leur attribution. Les durées et barèmes proposés restent à éprouver en classe. La validation pédagogique et linguistique reste en attente.
 
-Lisez la lettre d'au revoir d'Anouk (Unité 12, texte C).
-Répondez :
+Durée indicative : 60 minutes, selon les phases précisées ci-dessous.
 
-1. À qui Anouk écrit-elle (5 destinataires) ?
-2. Quelle citation de Camus ouvre la lettre ?
-3. Quels 5 auteurs cite-t-elle ?
-4. Que fera Anouk en septembre 2030 ?
-5. Quel est le PS final ?
+## Support
 
-### Tâche 2 — 3 actes du rite final (8 points)
+### B. Texte original — Un dernier tour de piste
 
-Reliez chaque acte à son contenu :
+> **Le bilan d'Amir (monologue, ~180 mots)**
+>
+> « Quand j'ai commencé le français en sixième, je ne savais dire que *bonjour* et *merci*. Aujourd'hui, je lis un article de journal sans dictionnaire, je défends un point de vue et je comprends une chanson dès la première écoute. En somme, le chemin est réel.
+>
+> Bien sûr, tout n'est pas parfait. Mon point faible reste le subjonctif : je le reconnais, mais je le produis encore avec hésitation. En revanche, mon expression orale s'est beaucoup améliorée — je n'ai plus peur de prendre la parole.
+>
+> Pour ma dernière semaine, j'ai un plan simple. D'abord, je relis mes fiches de connecteurs. Ensuite, je m'entraîne à parler deux minutes chaque soir, sans notes. Enfin, je dors. Parce qu'une épreuve, cela se prépare aussi en se reposant.
+>
+> Je ne vise pas la perfection. Je vise ma meilleure version, le jour J. Et ça, je sais que j'en suis capable. »
 
-- reconnaissance · inventaire · engagement
+## Tâches et barème
 
-(Contenus : merci aux profs/auteur·e·s · ce que j'emporte ·
-ce que je ferai du français.)
+**Épreuve blanche — Bilan (Niveau E, 13e).** Compétences visées : **expression écrite** et **expression orale en continu (monologue)**.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Partie A — Expression écrite (18 points).**
+Rédigez un **bilan structuré** de votre parcours en français (250-300 mots) organisé en trois parties : (1) mes acquis, (2) mes points à consolider, (3) mon projet avec le français après l'école. Employez au moins **cinq connecteurs logiques** différents.
 
-Rédigez **votre lettre d'au revoir** (~600 mots) : 3
-actes + 5 remerciements personnels + 4 citations littéraires
-+ 1 PS mémorable.
+**Partie B — Expression orale en continu (12 points).**
+Présentez, sans notes rédigées, un **monologue de 2 minutes** répondant à la question : *« Qu'est-ce que le français m'a apporté ? »* Structure attendue : introduction, deux idées illustrées, conclusion.
 
-## Notation
+**Barème (30 points au total).**
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — 3 actes | 8 |
-| Tâche 3 — Expression écrite | 12 |
+| Critère | Points |
+|-----------------------------------------------|:------:|
+| Écrit — structure en trois parties | 4 |
+| Écrit — correction de la langue | 6 |
+| Écrit — connecteurs et cohérence | 4 |
+| Écrit — richesse et pertinence du contenu | 4 |
+| Oral — structure et clarté du propos | 4 |
+| Oral — correction et richesse de la langue | 4 |
+| Oral — fluidité et prononciation | 4 |
 | **Total** | **30** |
 
-## Solutions
+Un bilan fictif, signalé comme tel, est admis. Appuyez chaque capacité revendiquée sur un exemple de tâche; distinguez objectif, autoévaluation et certification. Le modèle d'Amir sert d'exemple de structure, sans imposer ses acquis ni ses difficultés. Les deux prestations sont notées séparément.
 
-**Tâche 1.** 1) Profs (Devos, Lefèvre, Théodore),
-camarades, correspondant·e·s. 2) *« Devant cette nuit
-chargée de signes et d'étoiles, je m'ouvrais pour la
-première fois à la tendre indifférence du monde. »* 3)
-Camus, Senghor, Ernaux, Despentes, Slimani. 4) Bordeaux,
-stage Mollat puis licence de lettres modernes. 5) *« On
-ne quitte jamais vraiment une langue qu'on a aimée. »*
+## Corrigé et observation
 
-**Tâche 2.** reconnaissance = merci · inventaire = ce que
-j'emporte · engagement = ce que je ferai.
+**Total : 30 points.**
 
-**Tâche 3.** Réponses libres. Critères : 600 mots ·
-3 actes · 5 remerciements · 4 citations · 1 PS.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
----
+**Écrit 18.** Structure 4 : trois parties et progression; langue 6; connecteurs/cohérence 4; contenu 4 : acquis, consolidation et projet illustrés. **Oral 12.** Structure/clarté 4; langue 4; fluidité/intelligibilité 4. Observer effectivement le monologue de deux minutes; le texte écrit ne prouve pas cette compétence.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+Aucune réponse sur une lettre d'Anouk, cinq destinataires ou des projets 2030 n'est attendue. Ne pas valoriser une affirmation de niveau sans preuve ni exiger une confidence. Les opinions et projets peuvent différer du modèle d'Amir.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+{{< /details >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 12 · FIN*
+## Sources
+
+- « Cadre européen commun de référence pour les langues » — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Cadre_europ%C3%A9en_commun_de_r%C3%A9f%C3%A9rence_pour_les_langues>, licence CC BY-SA 4.0.
+- « Conseil de l'Europe » — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Conseil_de_l%27Europe>, licence CC BY-SA 4.0.
+
+*Plateforme éducative indépendante, sans affiliation avec le Conseil de l'Europe ni aucune autorité d'examen.*
+
+## Provenance
+
+Support : unité correspondante, section(s) B. Les deux versions antérieures et les décisions sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. La reprise d’un texte connu est un entraînement; une épreuve de transfert indépendante demande un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

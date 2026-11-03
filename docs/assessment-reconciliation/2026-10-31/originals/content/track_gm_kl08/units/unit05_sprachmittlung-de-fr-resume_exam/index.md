@@ -1,0 +1,98 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 5"
+subtitle: "Médiation linguistique DE → résumé FR · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 5
+slug: "sprachmittlung-de-fr-resume-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.asking-for-clarification.02
+    - A2.INT.conversation.10
+    - A2.LING.general-linguistic-range.02
+    - A2.LING.phonological-control.04
+    - A2.MED.analysis-and-criticism-of-creative-texts.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 8 (médiation linguistique (« Sprachmittlung »))
+
+### Tâche unique — médiation linguistique (30 points)
+
+Lisez l'article allemand suivant et écrivez en **français**,
+en **cinq à sept phrases courtes**, le résumé des informations
+principales pour Inès, votre correspondante à Montréal.
+
+> **Schüleraustausch nach Frankreich — was bringt das wirklich?**
+>
+> Im vergangenen Schuljahr nahmen 24 Schüler:innen einer
+> Karlsruher Gemeinschaftsschule an einem zweiwöchigen
+> Frankreichaustausch teil. Die Schule kooperiert mit einem
+> Collège in Lille. Lehrerin Frau Renault sagt : *„Die
+> sprachlichen Fortschritte sind klein, aber die kulturellen
+> Erkenntnisse sind groß."* Die Mehrheit der Teilnehmenden gibt
+> an, sich nach dem Austausch sicherer zu fühlen, wenn sie
+> Französisch sprechen — auch wenn das Vokabular noch begrenzt
+> ist. Die Schule plant, das Programm im nächsten Jahr auf
+> drei Wochen auszudehnen. Eltern berichten : *„Mein Sohn ist
+> selbstständiger zurückgekommen — das ist mehr wert als jede
+> Vokabelliste."*
+
+**Consignes :**
+
+- Pas de traduction mot à mot.
+- Garder les noms propres (Karlsruhe, Lille, Madame Renault).
+- Inclure : ce dont il s'agit · qui · combien · ce qu'en dit la
+ prof · le projet futur.
+- Au moins **trois** expressions de résumé (*il s'agit · selon
+ le texte · l'auteur·rice cite · la majorité de · l'école
+ envisage*).
+
+## Notation
+
+| Critère | Points |
+|------------------------------------------|-------:|
+| Contenu (idées principales restituées) | 12 |
+| Langue (résumé fluide, expressions adéquates) | 10 |
+| Sens fidèle (pas de contresens) | 8 |
+| **Total** | **30** |
+
+## Modèle de résumé (~75 mots, ~6 phrases)
+
+> Il s'agit d'un échange scolaire entre une Gemeinschaftsschule
+> de Karlsruhe et un collège (« Realschule ») de Lille. Vingt-quatre élèves y ont
+> participé pendant deux semaines. D'après Madame Renault, les
+> progrès linguistiques sont modestes mais les connaissances
+> culturelles sont grandes. La majorité des participant·e·s se
+> sent plus à l'aise pour parler français après l'échange.
+> L'école envisage d'étendre le programme à trois semaines
+> l'année prochaine. Les parents soulignent l'autonomie
+> retrouvée des enfants.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 5*

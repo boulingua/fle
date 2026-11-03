@@ -1,0 +1,51 @@
+{
+  "unit": "content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+  "exam": "content/track_gm_kl09/units/unit04_argumenter-pour-contre_exam/index.md",
+  "before_unit_sha256": "7f6a100911395be852eb15742a8f66415c1e71b5351fbb6b2ff4a7457509deb8",
+  "after_unit_sha256": "0f9572d9d44db0a41e9c8b5ba555f98c9ba01ecf43ac02964badd420d8340249",
+  "before_exam_sha256": "cdda68b76fd564be4df1d620266d3e8c2373f5f71e39703e97f33f4b6b44a936",
+  "after_exam_sha256": "d9740d911c185586985236fcb7dfdf14557465d0ec18fda3bff93e6e020cba00",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Coherentphoneopinion retained and separatedfromlaw; corrected6items10score; explicitcompletewriter task."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "3851437d26b3ea2f097a080ddea7c9c9c434f0c129e489050213c410e6b94e7a",
+      "after_sha256": "0f9572d9d44db0a41e9c8b5ba555f98c9ba01ecf43ac02964badd420d8340249",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "c883044fa3e8717fa841b9a02f3ffda75aee108bb4a818e6558499ea2b54dc21",
+      "after_sha256": "c06d907509a677e770247617f6d53c9d05a6ad4500b6c6287f6c6bdc68ee73b2",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit04_argumenter-pour-contre_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "c06d907509a677e770247617f6d53c9d05a6ad4500b6c6287f6c6bdc68ee73b2",
+      "after_sha256": "f8dd10786cf916f4e5e1d29fa8096233b8fad0032ead7624e43434f80add4542",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit04_argumenter-pour-contre_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre_exam/index.md",
+      "before_sha256": "f8dd10786cf916f4e5e1d29fa8096233b8fad0032ead7624e43434f80add4542",
+      "after_sha256": "d9740d911c185586985236fcb7dfdf14557465d0ec18fda3bff93e6e020cba00",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 8
 slug: "le-quebec"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.2 Compétence interculturelle communicative"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.2 Compétence interculturelle communicative"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - intercultural
 - reading
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_le-quebec.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_le-quebec.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit08_le-quebec.html"
+- "/track_gm_kl07/units/unit08_le-quebec.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.REC.overall-reading-comprehension.01
-    - A1.SOC.sociolinguistic-appropriateness.01
-    - A1.REC.reading-for-orientation.01
-    - A1.INT.interviewing-and-being-interviewed.02
-    - A1.INT.conversation.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.SOC.sociolinguistic-appropriateness.01
+  - A1.REC.reading-for-orientation.01
+  - A1.INT.interviewing-and-being-interviewed.02
+  - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit08_le-quebec_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_le-quebec-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit08_le-quebec-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -65,15 +97,13 @@ Léa reçoit un message vocal de sa cousine Inès, qui habite à Montréal.
 2. Quels mots te semblent différents du français de France ?
 3. À ton avis, qu'est-ce qu'une « tuque » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que sais-tu déjà du Québec ? (pays, langue, ville principale)
 - Quelle langue parle-t-on au Québec, et pourquoi ?
 - Connais-tu une chanson, un film ou une personne célèbre du Québec ?
 - Regarde une carte du Canada : où se trouve le Québec ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — 10 mots pour parler du Québec
 
 | Français du Québec | Français de France | Allemand |
@@ -122,8 +152,7 @@ Chaque année, le **24 juin**, le Québec célèbre sa **Fête nationale** (auss
 
 *(Faits paraphrasés d'après Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (lettre d'Inès).** Réponds par une phrase complète.
 
 1. En quelle saison Inès écrit-elle sa lettre ?
@@ -155,6 +184,7 @@ Chaque année, le **24 juin**, le Québec célèbre sa **Fête nationale** (auss
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Elle écrit en automne.
 2. Elle a mangé de la poutine et de la tarte au sirop d'érable.
@@ -172,9 +202,9 @@ Chaque année, le **24 juin**, le Québec célèbre sa **Fête nationale** (auss
 
 **Exercice 4.**
 1. a soupé · 2. a magasiné · 3. sont allés · 4. sont devenus
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau M, environ 80 mots).**
 
 Écris une **réponse à la lettre d'Inès**. Présente ta saison actuelle, ce que tu manges d'habitude et ce que tu fais la fin de semaine. Emploie **au moins deux québécismes** (entre guillemets) et **deux verbes au passé composé**.
@@ -186,27 +216,18 @@ Chaque année, le **24 juin**, le Québec célèbre sa **Fête nationale** (auss
 - Grammaire : passé composé correct ; phrases claires. *(2 pts)*
 - Longueur et présentation : format lettre, environ 80 mots. *(2 pts)*
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux situer le Québec sur la carte du Canada.
 - [ ] Je comprends une lettre simple d'une correspondante québécoise.
 - [ ] Je connais au moins huit québécismes et je peux les traduire.
 - [ ] Je peux nommer la date et le nom de la Fête nationale du Québec.
 - [ ] Je peux écrire une courte réponse en utilisant des mots québécois.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit08_le-quebec_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 pts).** Lis la lettre d'Inès et réponds à six questions (situation, saison, repas, achats, week-end, Fête nationale).
-
-**Tâche 2 — Vocabulaire / compétence interculturelle (8 pts).** Traduis huit québécismes en français de France et explique une différence culturelle de ton choix (repas, fête, climat).
-
-**Tâche 3 — Expression écrite (10 pts).** Rédige une réponse à Inès (environ 80 mots) avec deux québécismes et deux verbes au passé composé.
-
-**Barème :** 30–27 = très bien · 26–22 = bien · 21–15 = satisfaisant · 14–9 = passable · < 9 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 - **Durée : 45 min.** Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Aperçu 2'.
 - **Organisation.** Situation de départ lue à voix haute ou écoutée (lecture expressive) ; vocabulaire en binômes ; note culturelle en lecture guidée. Corriger l'exercice 1 à l'oral, les exercices 2–4 avec la section Solutions projetée.

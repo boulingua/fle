@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_gm_kl06/units/unit02_ma-famille/index.md",
+  "exam": "content/track_gm_kl06/units/unit02_ma-famille_exam/index.md",
+  "before_unit_sha256": "25e85251f8b2100148b047f56be62995cc531cfe1394e0373c938c5ae5cbfbe7",
+  "after_unit_sha256": "312c85923c6751ecb8f22c4afab1d183a9ce4256fac92c28528beeeb2bf7a52a",
+  "before_exam_sha256": "45f34cb13add0c52f108f0df6306966f56405c4e1ee9307f5ca89de2678797e6",
+  "after_exam_sha256": "f0de3222e991280cf044b73b1c2c0e038d492757fb7a9d7b62513837f058172e",
+  "source_sections": [
+    ""
+  ],
+  "supplied_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source_mode": "self-contained-tasks",
+  "total_points": 30,
+  "task_points": [
+    10,
+    10,
+    10
+  ],
+  "decisions": [
+    "Retain sibling vocabulary, writing and real oral outcomes; restore embedded possessive grammar as five explicitly weighted items.",
+    "Retain30-point sibling scale; the incompatible embedded40-point allocation remains archived.",
+    "Do not treat invented Berlin/parent ages from former writing model as reading facts."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "665f9c22a1293817c99dbc1d8b704f8958e6e09deb2c3f783b9dd87fd52237d6",
+      "after_sha256": "312c85923c6751ecb8f22c4afab1d183a9ce4256fac92c28528beeeb2bf7a52a",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit02_ma-famille/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a3f1ca6a0b171b75bca2f6847700f3f2ea99d80f624efc324e968a83a8184d9c",
+      "after_sha256": "7fc56443f0246d223c8492a81571bfae33e5fc026d0983b57c1362ed2c4c09ab",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit02_ma-famille_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "7fc56443f0246d223c8492a81571bfae33e5fc026d0983b57c1362ed2c4c09ab",
+      "after_sha256": "f6fcec2551f165d5c709fa1b794488dc1b9da4675c8259e547128387627af81b",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit02_ma-famille_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit02_ma-famille_exam/index.md",
+      "before_sha256": "f6fcec2551f165d5c709fa1b794488dc1b9da4675c8259e547128387627af81b",
+      "after_sha256": "f0de3222e991280cf044b73b1c2c0e038d492757fb7a9d7b62513837f058172e",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

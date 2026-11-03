@@ -1,0 +1,50 @@
+{
+  "unit": "content/track_e_kl13/units/unit10_reflexion-sur-soi/index.md",
+  "exam": "content/track_e_kl13/units/unit10_reflexion-sur-soi_exam/index.md",
+  "before_unit_sha256": "ee4d29330b8403bfcd9df49d562cdcf60c9dd3d603c8f75bc11c9619881d119f",
+  "after_unit_sha256": "ea47eca05a9fd30a5bb1a583136af29baa041120ab19f30b268a851d4d1abc39",
+  "before_exam_sha256": "bb1c2407b9a5e51cd45869e7fa4e8ae1049120db2d19a27d27044e55c9435c75",
+  "after_exam_sha256": "d5957b2b2422afeb27625aee3603f1decbab55c07a6b8c627d4a8ca2c67d6b85",
+  "source_sections": [
+    "Texte"
+  ],
+  "supplied_source_sha256": "eb6072ef834fce1a39688f73f23e27278a8c0a3ef5a1b52c159e291dd40ff27d",
+  "source_mode": "learner-reading-and-observed-oral",
+  "total_points": 30,
+  "decisions": [
+    "Preserved18oral+12written reflectiveassessment; supplied actualanonymouslearningaccount; fabricatednames/futureplans and500word requirement removed."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "dd09cff2615a3836b1a3155674c96005ac958bc5bc7fa5167909cea99abaf5a3",
+      "after_sha256": "f1670d7bb47f53d27d8f0815cdc3bd39d89dd0429ea754c6accdd6696aee61d5",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit10_reflexion-sur-soi_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "f1670d7bb47f53d27d8f0815cdc3bd39d89dd0429ea754c6accdd6696aee61d5",
+      "after_sha256": "30f7fc00725ae8fda42a1e65f8d386852e95c0fe8a981e4cdf8688b54ca20eb5",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl13/units/unit10_reflexion-sur-soi_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit10_reflexion-sur-soi_exam/index.md",
+      "before_sha256": "30f7fc00725ae8fda42a1e65f8d386852e95c0fe8a981e4cdf8688b54ca20eb5",
+      "after_sha256": "d5957b2b2422afeb27625aee3603f1decbab55c07a6b8c627d4a8ca2c67d6b85",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

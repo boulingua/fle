@@ -1,0 +1,94 @@
+---
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 2"
+subtitle: "Francophonie postcoloniale · classe 11 · Niveau E (épreuve finale Bf)"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 2
+slug: "francophonie-postcoloniale-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-11
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.adapting-language.01
+    - B1.MED.breaking-down-complicated-information.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'extrait Ben Jelloun (Unité 2, texte C). Répondez :
+
+1. Combien de races humaines existe-t-il selon l'auteur ?
+2. Quelles 3 causes du racisme cite-t-il ?
+3. Quels 3 remèdes propose-t-il ?
+4. Pourquoi écrit-il en français ?
+5. Qui est l'interlocutrice du dialogue ?
+
+### Tâche 2 — Concepts postcoloniaux (8 points)
+
+Reliez :
+
+- colonisation · décolonisation · diaspora · créolité ·
+ hybridité · postcolonial
+
+(Définitions : domination · indépendance · diffusion ·
+Glissant/Chamoiseau · Bhabha · après l'empire.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez une **mini-dissertation** (~300 mots) : *« La langue
+française est-elle un héritage ou une appropriation pour les
+écrivains postcoloniaux ? »* — 4 § + 2 références +
+3 concepts.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Concepts | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Une seule. 2) Peur, ignorance, intérêt
+politique. 3) Lire, voyager, rencontrer l'autre. 4) Le
+français l'a adopté, lui permet de parler aux Français.
+5) Sa fille.
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 300 mots · 4 § ·
+2 auteurs · 3 concepts.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 2*

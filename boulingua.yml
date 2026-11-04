@@ -48,3 +48,12 @@ gates:
 vgwort:
   registry: data/vgwort.yaml    # all 351; the 349 front-matter marks moved in at R1.2
   url_lock: vgwort/url-lock-provisional.csv
+
+# Course/product-specific views; select by layout, independent of URLs.
+templates:
+  selection: layout
+  local:
+  - _default/filiere.html
+  - _default/material-discovery.html
+  - _default/materials-list.html
+  - _partials/list.html

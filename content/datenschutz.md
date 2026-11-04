@@ -5,6 +5,9 @@ aliases:
   - /legal/privacy/
   - "/datenschutz.html"
   - /privacy/
+analytics_policy: disabled
+analytics_notice_language: de
+analytics_notice_path: /datenschutz/
 ---
 
 ## 1. Verantwortlicher
@@ -71,9 +74,7 @@ Beide Übermittlungen erfolgen auf Grundlage des EU-US Data
 Privacy Framework bzw. der Standardvertragsklauseln.
 
 Eine darüber hinausgehende Übermittlung in Drittländer findet
-**nicht** statt. Die Reichweitenmessung mittels Plausible
-Analytics erfolgt auf einer **selbst gehosteten Instanz auf einem
-Server in Deutschland**; siehe Abschnitt 4.
+**nicht** statt. Plausible Analytics ist auf dieser Website deaktiviert; siehe Abschnitt 4.
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
 
@@ -179,37 +180,12 @@ Diese Daten werden nicht ohne Ihre Einwilligung weitergegeben.
 
 ## 4. Analyse-Tools und Tools von Drittanbietern
 
-### Plausible Analytics (selbst gehostet)
+### Plausible Analytics
 
-Diese Website verwendet **Plausible Analytics** zur statistischen
-Reichweitenmessung. Plausible wird als **selbst gehostete
-Instanz** unter `analytics.hellebo.de` betrieben; der Server
-steht in **Deutschland**. Eine Übermittlung der Messdaten an die
-Plausible Insights OÜ (Tartu, Estland) oder an andere
-Drittanbieter findet **nicht** statt.
-
-Plausible ist **cookielos** und erhebt **keine
-personenbezogenen Daten** im engeren Sinn. IP-Adressen werden
-nicht gespeichert; zur Sitzungserkennung wird täglich rotierend
-ein gesalzener Hash gebildet. Eine seitenübergreifende
-Wiedererkennung von Nutzerinnen und Nutzern findet nicht statt.
-
-Erhoben und ausgewertet werden insbesondere:
-
-- aufgerufene Seiten-URL,
-- Verweisquelle (Referrer),
-- grobe Geolokation auf Länderebene,
-- Gerätetyp, Browser, Betriebssystem (anhand User-Agent).
-
-Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes
-Interesse an einer datensparsamen, anonymen
-Reichweitenmessung). Eine Einwilligung nach § 25 TDDDG ist
-nicht erforderlich, da kein Zugriff auf bzw. keine Speicherung
-von Informationen im Endgerät stattfindet, die nicht unbedingt
-erforderlich sind.
-
-Weitere Informationen:
-<https://plausible.io/data-policy>
+Auf dieser Website ist Plausible Analytics deaktiviert.
+Es wird kein Plausible-Analyseskript geladen. Seitenaufrufe, Dateidownloads
+und Klicks auf externe Links werden nicht an einen Plausible-Endpunkt gemeldet.
+Die Angaben zu Hosting und anderen Diensten stehen in den jeweiligen Abschnitten.
 
 ### VG Wort Zählpixel (Standard)
 

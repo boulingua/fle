@@ -17,7 +17,6 @@ import { mountList } from './list.js';
 import { mountSearch } from './search.js';
 
 const SMALL_VIEWPORT = '(max-width: 767px)';
-const GRAPH_JSON_URL = '/fle/network/graph.json';
 
 async function fetchGraph(url) {
   const res = await fetch(url, { credentials: 'same-origin' });
@@ -40,7 +39,7 @@ function watchTheme(onChange) {
 }
 
 async function boot() {
-  if (window.matchMedia(SMALL_VIEWPORT).matches) return;
+  const small = window.matchMedia(SMALL_VIEWPORT).matches;
   const container = document.getElementById('network-graph');
   if (!container) return;
 
@@ -49,7 +48,7 @@ async function boot() {
 
   let data;
   try {
-    data = await fetchGraph(GRAPH_JSON_URL);
+    data = await fetchGraph(container.dataset.graphUrl);
   } catch (err) {
     console.error('[network] failed to load graph.json:', err);
     if (skeleton) skeleton.textContent = '⚠ Graphe indisponible.';
@@ -62,6 +61,43 @@ async function boot() {
     searchQuery: '',
   });
 
+  // Phase 4: filter rail.
+  const filterRail = document.querySelector('.network-filters');
+  if (filterRail) {
+    mountFilters({ root: filterRail, data, store });
+  }
+
+  // Phase 5: list view (cards below the graph).
+  const cardsRoot = document.getElementById('network-cards');
+  if (cardsRoot) {
+    mountList({ root: cardsRoot, data, store });
+  }
+
+  // Phase 5: search input + Pagefind.
+  const searchInput = document.querySelector('.network-search-input');
+  if (searchInput) {
+    mountSearch({ input: searchInput, data, store });
+  }
+
+  // Cards, filters and search also initialize on a fresh mobile page.
+  if (small) return;
+
+  const button = document.createElement('button');
+  button.type = 'button'; button.textContent = 'Afficher le réseau';
+  container.replaceChildren(button);
+  button.addEventListener('click', async () => {
+  button.disabled = true;
+  try {
+  for (const src of JSON.parse(container.dataset.vendors)) {
+    if (document.querySelector(`script[src="${src}"]`)) continue;
+    await new Promise((resolve, reject) => {
+      const script = document.createElement('script'); script.src = src;
+      script.onload = resolve;
+      script.onerror = () => { script.remove(); reject(new Error('Graph library unavailable')); };
+      document.head.append(script);
+    });
+  }
+  container.replaceChildren();
   // Wait one frame so the surrounding layout is sized — fcose
   // computes geometry from the container dimensions.
   await new Promise(r => requestAnimationFrame(r));
@@ -92,24 +128,6 @@ async function boot() {
     }
   });
 
-  // Phase 4: filter rail.
-  const filterRail = document.querySelector('.network-filters');
-  if (filterRail) {
-    mountFilters({ root: filterRail, data, store });
-  }
-
-  // Phase 5: list view (cards below the graph).
-  const cardsRoot = document.getElementById('network-cards');
-  if (cardsRoot) {
-    mountList({ root: cardsRoot, data, store });
-  }
-
-  // Phase 5: search input + Pagefind.
-  const searchInput = document.querySelector('.network-search-input');
-  if (searchInput) {
-    mountSearch({ input: searchInput, data, store });
-  }
-
   // Phase 5: graph node hover -> store, so list scrolls / future
   // hover-targeting works in the other direction too.
   graph.cy.on('mouseover', 'node', evt => {
@@ -139,10 +157,15 @@ async function boot() {
     }
   });
 
-  // expose for debugging — non-enumerable
+  // expose the loaded network for diagnostics
   Object.defineProperty(window, '__network', {
     value: { store, graph, data },
     enumerable: false,
+  });
+  } catch (error) {
+    container.replaceChildren(button); button.disabled = false;
+    button.textContent = 'Réseau indisponible — réessayer';
+  }
   });
 }
 

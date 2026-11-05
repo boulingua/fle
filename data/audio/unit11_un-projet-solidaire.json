@@ -1,30 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit11_un-projet-solidaire/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Madame Renault : La semaine prochaine, c'est la Journée internationale des volontaires. J'aimerais qu'on fasse quelque chose ensemble. Vous avez des idées ?\nLéa : On pourrait organiser une vente de gâteaux pour aider une association.\nKarim : Ou une collecte de livres pour la bibliothèque du quartier. Il faudrait juste trouver des cartons.\nMadame Renault : Très bien. Alors aujourd'hui, on va apprendre à proposer et à organiser un vrai projet.",
-    "file": "/fle/materials/audio/unit11_un-projet-solidaire/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+    "source_body_sha256": "01b00ec2281bb1d532c4559bf2e17498f866ac324b0a00db492f78a47dcff09b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Madame Renault : La semaine prochaine, c'est la Journée internationale des volontaires. J'aimerais qu'on fasse quelque chose ensemble. Vous avez des idées ? Léa : On pourrait organiser une vente de gâteaux pour aider une association. Karim : Ou une collecte de livres pour la bibliothèque du quartier. Il faudrait juste trouver des cartons. Madame Renault : Très bien. Alors aujourd'hui, on va apprendre à proposer et à organiser un vrai projet."
   },
   {
+    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "la solidarité · une association · un·e bénévole · une collecte · un don · récolter (des fonds) · proposer · organiser · le but / l'objectif · le suivi",
-    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+    "source_body_sha256": "01b00ec2281bb1d532c4559bf2e17498f866ac324b0a00db492f78a47dcff09b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "la solidarité.\nune association.\nun·e bénévole.\nune collecte.\nun don.\nrécolter (des fonds).\nproposer.\norganiser.\nle but / l'objectif.\nle suivi."
   },
   {
+    "file": "/fle/materials/audio/unit11_un-projet-solidaire/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Notre projet :  Des livres pour tous\nLe problème : la bibliothèque du quartier manque de livres en français pour les enfants. Alors, nous avons eu une idée.\nLa proposition : on pourrait organiser une collecte de livres pendant deux semaines. Chaque élève apporterait un ou deux livres en bon état.\nL'objectif : nous récolterons au moins 100 livres afin de créer un petit coin lecture à la bibliothèque.\nLe suivi : à la fin, nous compterons les livres et nous prendrons une photo pour le journal du collège.",
-    "file": "/fle/materials/audio/unit11_un-projet-solidaire/dialogue2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Structure · Conditionnel · Futur simple · But · Fluidité",
-    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab2.ogg",
-    "tts": "Structure.\nConditionnel.\nFutur simple.\nBut.\nFluidité."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "1 — Grammaire · 2 — Expression écrite · 3 — Expression orale · Total",
-    "file": "/fle/materials/audio/unit11_un-projet-solidaire/vocab3.ogg",
-    "tts": "1 — Grammaire.\n2 — Expression écrite.\n3 — Expression orale.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+    "source_body_sha256": "01b00ec2281bb1d532c4559bf2e17498f866ac324b0a00db492f78a47dcff09b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Notre projet :  Des livres pour tous Le problème : la bibliothèque du quartier manque de livres en français pour les enfants. Alors, nous avons eu une idée. La proposition : on pourrait organiser une collecte de livres pendant deux semaines. Chaque élève apporterait un ou deux livres en bon état. L'objectif : nous récolterons au moins 100 livres afin de créer un petit coin lecture à la bibliothèque. Le suivi : à la fin, nous compterons les livres et nous prendrons une photo pour le journal du collège."
   }
 ]

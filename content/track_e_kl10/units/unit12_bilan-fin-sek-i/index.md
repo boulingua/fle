@@ -36,6 +36,7 @@ curriculum:
     - B1.MED.processing-text.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit12_bilan-fin-sek-i
 ---
 
 {{< callout type="note" >}}

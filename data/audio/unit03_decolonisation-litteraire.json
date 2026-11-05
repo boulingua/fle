@@ -1,20 +1,63 @@
 [
   {
+    "file": "/fle/materials/audio/unit03_decolonisation-litteraire/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Nora : Tu as vu la liste des auteurs ? On nous demande de parler de la  décolonisation littéraire . Je ne comprends pas : on décolonise un pays, pas un livre.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+    "source_body_sha256": "467e561d40792dd9126094fba517dfef96d545d200347a14bfa863aedbf8860c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit03_decolonisation-litteraire/texte2.ogg",
+    "label": "Texte 2",
+    "transcript": "Samuel : Justement, l'idée est là. Pendant des siècles, ce sont surtout les colonisateurs qui ont écrit l'histoire des colonies. Les colonisé·es n'y avaient presque jamais la parole.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+    "source_body_sha256": "467e561d40792dd9126094fba517dfef96d545d200347a14bfa863aedbf8860c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit03_decolonisation-litteraire/texte3.ogg",
+    "label": "Texte 3",
+    "transcript": "Samuel : Oui. Prendre une personne oubliée — une servante, une esclave, un enfant sans nom — et lui inventer une voix, une mémoire, un point de vue.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+    "source_body_sha256": "467e561d40792dd9126094fba517dfef96d545d200347a14bfa863aedbf8860c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit03_decolonisation-litteraire/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "la décolonisation · effacer / l'effacement (m.) · réécrire / la réécriture · une voix (ici) · rendre / redonner la parole · invisibiliser · une figure oubliée · la créolité · la créolisation · le métissage · la diaspora · un récit",
-    "file": "/fle/materials/audio/unit03_decolonisation-litteraire/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+    "source_body_sha256": "467e561d40792dd9126094fba517dfef96d545d200347a14bfa863aedbf8860c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "la décolonisation.\neffacer / l'effacement (m.).\nréécrire / la réécriture.\nune voix (ici).\nrendre / redonner la parole.\ninvisibiliser.\nune figure oubliée.\nla créolité.\nla créolisation.\nle métissage.\nla diaspora.\nun récit."
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu et structure · Richesse de la langue · Correction · Prise de parole en continu",
-    "file": "/fle/materials/audio/unit03_decolonisation-litteraire/vocab2.ogg",
-    "tts": "Contenu et structure.\nRichesse de la langue.\nCorrection.\nPrise de parole en continu."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Contenu et exactitude · Structure et cohérence (connecteurs, plan) · Richesse lexicale et mise en relief · Correction et prononciation · Prise de parole en continu (fluidité, durée)",
-    "file": "/fle/materials/audio/unit03_decolonisation-litteraire/vocab3.ogg",
-    "tts": "Contenu et exactitude.\nStructure et cohérence (connecteurs, plan).\nRichesse lexicale et mise en relief.\nCorrection et prononciation.\nPrise de parole en continu (fluidité, durée)."
   }
 ]

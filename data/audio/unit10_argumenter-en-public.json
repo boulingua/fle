@@ -1,19 +1,79 @@
 [
   {
+    "file": "/fle/materials/audio/unit10_argumenter-en-public/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Théo : Le monologue, ça allait : j'avais préparé mon plan. Mais dès que l'examinatrice a posé une question, j'ai bloqué. Je ne savais plus quoi dire.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit10_argumenter-en-public/texte2.ogg",
+    "label": "Texte 2",
+    "transcript": "Naïma : Moi, c'est l'inverse. Le dialogue m'a sauvée. Quand on me contredit, ça me donne des idées. Le plus dur, c'était de tenir cinq minutes toute seule sans lire mes notes.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit10_argumenter-en-public/texte3.ogg",
+    "label": "Texte 3",
+    "transcript": "Naïma : Exactement.  Si je comprends bien votre question… ,  Prenons un exemple concret… . Avec ça, on ne reste jamais muet.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit10_argumenter-en-public/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "tout d'abord / en premier lieu · par ailleurs / de plus · en revanche / cependant · par exemple / ainsi · c'est-à-dire · certes… mais · en somme / pour conclure · avoir raison / tort · soutenir / défendre une idée · relancer le débat",
-    "file": "/fle/materials/audio/unit10_argumenter-en-public/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "tout d'abord / en premier lieu.\npar ailleurs / de plus.\nen revanche / cependant.\npar exemple / ainsi.\nc'est-à-dire.\ncertes… mais.\nen somme / pour conclure.\navoir raison / tort.\nsoutenir / défendre une idée.\nrelancer le débat."
   },
   {
+    "file": "/fle/materials/audio/unit10_argumenter-en-public/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Sujet :  Faut-il interdire les téléphones portables au lycée ?\nIntroduction. Le téléphone portable est devenu un objet du quotidien pour les lycéens. Faut-il pour autant l'interdire pendant les cours ? Je défendrai l'idée qu'un usage encadré vaut mieux qu'une interdiction totale.\nPremier argument. Tout d'abord, le téléphone est un outil de travail : dictionnaire, calculatrice, accès à des documents. L'interdire complètement, c'est se priver d'une ressource utile.\nDeuxième argument. Par ailleurs, une interdiction stricte est difficile à faire respecter. En revanche, apprendre aux élèves à gérer leur attention prépare mieux à la vie adulte.\nConcession. Certes, le téléphone peut distraire et nuire à la concentration. Mais la solution n'est pas l'interdiction : c'est l'éducation à un usage responsable.\nConclusion. En somme, je pense qu'il faut encadrer plutôt qu'interdire. Cela pose d'ailleurs une autre question : quel rôle l'école doit-elle jouer dans l'éducation au numérique ? Merci de votre attention.",
-    "file": "/fle/materials/audio/unit10_argumenter-en-public/dialogue1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Structure et pertinence du contenu · Richesse et correction de la langue · Qualité de l'interaction (rebonds, réactivité) · Fluidité et prononciation · Total",
-    "file": "/fle/materials/audio/unit10_argumenter-en-public/vocab2.ogg",
-    "tts": "Structure et pertinence du contenu.\nRichesse et correction de la langue.\nQualité de l'interaction (rebonds, réactivité).\nFluidité et prononciation.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Sujet :  Faut-il interdire les téléphones portables au lycée ? Introduction. Le téléphone portable est devenu un objet du quotidien pour les lycéens. Faut-il pour autant l'interdire pendant les cours ? Je défendrai l'idée qu'un usage encadré vaut mieux qu'une interdiction totale. Premier argument. Tout d'abord, le téléphone est un outil de travail : dictionnaire, calculatrice, accès à des documents. L'interdire complètement, c'est se priver d'une ressource utile. Deuxième argument. Par ailleurs, une interdiction stricte est difficile à faire respecter. En revanche, apprendre aux élèves à gérer leur attention prépare mieux à la vie adulte. Concession. Certes, le téléphone peut distraire et nuire à la concentration. Mais la solution n'est pas l'interdiction : c'est l'éducation à un usage responsable. Conclusion. En somme, je pense qu'il faut encadrer plutôt qu'interdire. Cela pose d'ailleurs une autre question : quel rôle l'école doit-elle jouer dans l'éducation au numérique ? Merci de votre attention."
   }
 ]

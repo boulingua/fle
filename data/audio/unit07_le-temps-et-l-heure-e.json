@@ -1,13 +1,34 @@
 [
   {
+    "file": "/fle/materials/audio/unit07_le-temps-et-l-heure-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "l'heure (f.) · la minute · et quart · et demie · moins le quart · midi / minuit · le matin · l'après-midi (m.) · le soir / la nuit · pile · se lever / se coucher · l'emploi du temps (m.)",
-    "file": "/fle/materials/audio/unit07_le-temps-et-l-heure-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e/index.md",
+    "source_body_sha256": "3bba8f2f073b360b7acd84aa56c341e3b617ad4124b8b395e3d082f7988e8b94",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "l'heure (f.).\nla minute.\net quart.\net demie.\nmoins le quart.\nmidi / minuit.\nle matin.\nl'après-midi (m.).\nle soir / la nuit.\npile.\nse lever / se coucher.\nl'emploi du temps (m.)."
   },
   {
+    "file": "/fle/materials/audio/unit07_le-temps-et-l-heure-e/texte1.ogg",
     "label": "Texte 1",
     "transcript": "La journée de Naïma, élève en classe de sixième\nLe matin, mon réveil sonne à six heures et demie. Je me lève, je prends\nmon petit-déjeuner à sept heures et je pars à sept heures et quart.\nLes cours commencent à huit heures. À midi et demi, je déjeune à la\ncantine avec mes amies. L'après-midi, j'ai deux heures de cours, puis\nje rentre à la maison vers seize heures trente. Le soir, je fais mes\ndevoirs de dix-huit heures à dix-neuf heures. Je me couche à vingt et\nune heures trente, parce que le matin arrive vite !",
-    "file": "/fle/materials/audio/unit07_le-temps-et-l-heure-e/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e/index.md",
+    "source_body_sha256": "3bba8f2f073b360b7acd84aa56c341e3b617ad4124b8b395e3d082f7988e8b94",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "La journée de Naïma, élève en classe de sixième Le matin, mon réveil sonne à six heures et demie. Je me lève, je prends mon petit-déjeuner à sept heures et je pars à sept heures et quart. Les cours commencent à huit heures. À midi et demi, je déjeune à la cantine avec mes amies. L'après-midi, j'ai deux heures de cours, puis je rentre à la maison vers seize heures trente. Le soir, je fais mes devoirs de dix-huit heures à dix-neuf heures. Je me couche à vingt et une heures trente, parce que le matin arrive vite !"
   }
 ]

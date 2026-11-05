@@ -34,6 +34,7 @@ curriculum:
     - B1.PRAG.thematic-development.03
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit06_mediation-avancee-e
 ---
 
 {{< callout type="note" >}}

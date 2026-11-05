@@ -36,6 +36,7 @@ curriculum:
     - A2.PRAG.flexibility.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit04_argumenter-pour-contre
 ---
 
 {{< callout type="note" >}}

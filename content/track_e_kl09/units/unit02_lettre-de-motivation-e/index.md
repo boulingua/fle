@@ -34,6 +34,7 @@ curriculum:
     - A2.REC.reading-as-a-leisure-activity.04
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit02_lettre-de-motivation-e
 ---
 
 {{< callout type="note" >}}

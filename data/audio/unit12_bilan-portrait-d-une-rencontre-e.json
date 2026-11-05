@@ -1,35 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Mme Devos : Cette année, vous avez fait beaucoup de rencontres — par lettre, par vidéo, dans vos lectures. Pour le bilan, choisissez une seule personne et faites son portrait.\nAnouk : Une personne réelle, madame ?\nMme Devos : Réelle ou tirée d'un texte, peu importe. Ce qui compte, c'est de raconter qui elle était, ce que vous avez vécu ensemble, et ce que vous ferez ensuite.\nLéo : Alors moi, je choisis mon correspondant. On s'écrit depuis septembre.",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+    "source_body_sha256": "c4d3faaa33c2d7b8cfdc132bd5857f15ec72d63a196e80c9ebdae9a5295fb3df",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mme Devos : Cette année, vous avez fait beaucoup de rencontres — par lettre, par vidéo, dans vos lectures. Pour le bilan, choisissez une seule personne et faites son portrait. Anouk : Une personne réelle, madame ? Mme Devos : Réelle ou tirée d'un texte, peu importe. Ce qui compte, c'est de raconter qui elle était, ce que vous avez vécu ensemble, et ce que vous ferez ensuite. Léo : Alors moi, je choisis mon correspondant. On s'écrit depuis septembre."
   },
   {
+    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "une rencontre marquante · un correspondant / une correspondante · faire le portrait de qqn · avoir l'esprit ouvert · au fil des mois · garder le contact",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+    "source_body_sha256": "c4d3faaa33c2d7b8cfdc132bd5857f15ec72d63a196e80c9ebdae9a5295fb3df",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "une rencontre marquante.\nun correspondant / une correspondante.\nfaire le portrait de qqn.\navoir l'esprit ouvert.\nau fil des mois.\ngarder le contact."
   },
   {
+    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Mon portrait : Karim, mon correspondant de Lille.\nEn septembre dernier, j'ai rencontré Karim par lettre. Il avait treize ans, il habitait à Lille et il rêvait de venir un jour à Karlsruhe. Grâce à notre correspondance, j'ai découvert sa famille et la cuisine du Nord.\nEn février, Karim est venu chez nous pour cinq jours. D'abord, il a visité mon collège. Ensuite, nous avons fait du vélo le long du Rhin. Cependant, il a trouvé qu'il faisait froid : à Lille, disait-il, le ciel est plus gris mais l'air plus doux.\nEnfin, au printemps prochain, je partirai à Lille à mon tour. Je verrai sa ville, je goûterai les moules-frites et nous garderons le contact. Cette rencontre m'a ouvert l'esprit.",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/dialogue2.ogg"
-  },
-  {
-    "label": "Texte 1",
-    "transcript": "______, j'ai écrit une première lettre. ______, nous avons échangé des photos. ______, il n'a pas répondu tout de suite. ______, nous sommes devenus de vrais amis.",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Structure · Temps verbaux · Connecteurs · Richesse · Fluidité (oral)",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab2.ogg",
-    "tts": "Structure.\nTemps verbaux.\nConnecteurs.\nRichesse.\nFluidité (oral)."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Écrit — respect de la consigne (3 paragraphes, ~150 mots) · Écrit — temps verbaux (PC / imparfait / futur simple) · Écrit — connecteurs et cohérence · Écrit — richesse lexicale et phrase-bilan · Oral — contenu et structure du monologue · Oral — fluidité et prononciation · Total",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-d-une-rencontre-e/vocab3.ogg",
-    "tts": "Écrit — respect de la consigne (3 paragraphes, ~150 mots).\nÉcrit — temps verbaux (PC / imparfait / futur simple).\nÉcrit — connecteurs et cohérence.\nÉcrit — richesse lexicale et phrase-bilan.\nOral — contenu et structure du monologue.\nOral — fluidité et prononciation.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+    "source_body_sha256": "c4d3faaa33c2d7b8cfdc132bd5857f15ec72d63a196e80c9ebdae9a5295fb3df",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mon portrait : Karim, mon correspondant de Lille. En septembre dernier, j'ai rencontré Karim par lettre. Il avait treize ans, il habitait à Lille et il rêvait de venir un jour à Karlsruhe. Grâce à notre correspondance, j'ai découvert sa famille et la cuisine du Nord. En février, Karim est venu chez nous pour cinq jours. D'abord, il a visité mon collège. Ensuite, nous avons fait du vélo le long du Rhin. Cependant, il a trouvé qu'il faisait froid : à Lille, disait-il, le ciel est plus gris mais l'air plus doux. Enfin, au printemps prochain, je partirai à Lille à mon tour. Je verrai sa ville, je goûterai les moules-frites et nous garderons le contact. Cette rencontre m'a ouvert l'esprit."
   }
 ]

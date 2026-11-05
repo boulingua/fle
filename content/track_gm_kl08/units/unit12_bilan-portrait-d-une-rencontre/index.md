@@ -37,6 +37,7 @@ curriculum:
     - A2.INT.goal-oriented-co-operation.04
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit12_bilan-portrait-d-une-rencontre
 ---
 
 {{< callout type="note" >}}

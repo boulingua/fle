@@ -35,6 +35,7 @@ curriculum:
     - A2.INT.conversation.10
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit05_vivre-en-tunisie
 ---
 
 {{< callout type="note" >}}

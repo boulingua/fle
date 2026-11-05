@@ -36,6 +36,7 @@ curriculum:
     - A1.PROD.overall-oral-production.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit10_mes-loisirs
 ---
 
 {{< callout type="note" >}}

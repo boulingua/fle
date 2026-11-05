@@ -34,6 +34,7 @@ curriculum:
     - A1.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit01_salutations-et-prenoms-e
 ---
 
 {{< callout type="note" >}}

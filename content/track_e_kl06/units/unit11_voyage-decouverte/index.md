@@ -36,6 +36,7 @@ curriculum:
     - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit11_voyage-decouverte
 ---
 
 {{< callout type="note" >}}

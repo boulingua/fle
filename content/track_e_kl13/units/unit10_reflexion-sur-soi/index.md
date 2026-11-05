@@ -36,6 +36,7 @@ curriculum:
     - B2.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit10_reflexion-sur-soi
 ---
 
 {{< callout type="note" >}}

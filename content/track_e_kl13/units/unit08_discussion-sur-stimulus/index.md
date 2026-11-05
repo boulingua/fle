@@ -36,6 +36,7 @@ curriculum:
     - B2.MED.acting-as-an-intermediary-in-informal-situations.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit08_discussion-sur-stimulus
 ---
 
 {{< callout type="note" >}}

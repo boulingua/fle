@@ -36,6 +36,7 @@ curriculum:
     - B1.MED.facilitating-pluricultural-space.03
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit11_preparer-un-discours
 ---
 
 {{< callout type="note" >}}

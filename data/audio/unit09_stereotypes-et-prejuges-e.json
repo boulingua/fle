@@ -1,20 +1,18 @@
 [
   {
+    "file": "/fle/materials/audio/unit09_stereotypes-et-prejuges-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un stéréotype · un préjugé · un cliché · généraliser · nuancer · remettre en question · une part de vérité · le respect",
-    "file": "/fle/materials/audio/unit09_stereotypes-et-prejuges-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md",
+    "source_body_sha256": "acc4fcfd4373d1e9d07488aaec68f2dd8cfd5db8273f50ce528425941ff18774",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un stéréotype.\nun préjugé.\nun cliché.\ngénéraliser.\nnuancer.\nremettre en question.\nune part de vérité.\nle respect."
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "aimer · être · avoir · pouvoir",
-    "file": "/fle/materials/audio/unit09_stereotypes-et-prejuges-e/vocab2.ogg",
-    "tts": "aimer.\nêtre.\navoir.\npouvoir."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "1 (sehr gut) · 2 (gut) · 3 (befriedigend) · 4 (ausreichend) · 5 (mangelhaft) · 6 (ungenügend)",
-    "file": "/fle/materials/audio/unit09_stereotypes-et-prejuges-e/vocab3.ogg",
-    "tts": "1 (sehr gut).\n2 (gut).\n3 (befriedigend).\n4 (ausreichend).\n5 (mangelhaft).\n6 (ungenügend)."
   }
 ]

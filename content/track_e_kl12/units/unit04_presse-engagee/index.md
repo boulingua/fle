@@ -36,6 +36,7 @@ curriculum:
     - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit04_presse-engagee
 ---
 
 {{< callout type="note" >}}

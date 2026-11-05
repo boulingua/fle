@@ -36,6 +36,7 @@ curriculum:
     - A1.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit03_mon-quartier-e
 ---
 
 {{< callout type="note" >}}

@@ -1,30 +1,65 @@
 [
   {
+    "file": "/fle/materials/audio/unit05_mediation-academique/texte1.ogg",
     "label": "Texte 1",
+    "transcript": "À l'atelier de traduction du lycée, deux élèves préparent une rubrique  science  pour le journal francophone de l'établissement.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+    "source_body_sha256": "713826ecacc08a0c797d37a86eb5df34773b19e421a6fc7e872f4290db7fb901",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit05_mediation-academique/texte2.ogg",
+    "label": "Texte 2",
     "transcript": "Léa — J'ai trouvé un super article en allemand sur les erreurs des intelligences artificielles. Mais je ne peux pas tout traduire, ce serait trop long et trop technique.\nYanis — De toute façon, on ne te demande pas de traduire. Il faut transmettre : dire l'essentiel en français, pour des lecteurs qui ne lisent pas l'allemand.\nLéa — Donc je garde les chiffres et le nom des chercheurs, mais je reformule les explications ?\nYanis — Exactement. Et surtout, tu ne rajoutes pas ton avis. On restitue ce que dit l'auteur, pas ce qu'on en pense.",
-    "file": "/fle/materials/audio/unit05_mediation-academique/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+    "source_body_sha256": "713826ecacc08a0c797d37a86eb5df34773b19e421a6fc7e872f4290db7fb901",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa — J'ai trouvé un super article en allemand sur les erreurs des intelligences artificielles. Mais je ne peux pas tout traduire, ce serait trop long et trop technique. Yanis — De toute façon, on ne te demande pas de traduire. Il faut transmettre : dire l'essentiel en français, pour des lecteurs qui ne lisent pas l'allemand. Léa — Donc je garde les chiffres et le nom des chercheurs, mais je reformule les explications ? Yanis — Exactement. Et surtout, tu ne rajoutes pas ton avis. On restitue ce que dit l'auteur, pas ce qu'on en pense."
   },
   {
-    "label": "Vocabulaire 1",
-    "transcript": "die Studie · die Forscherin / der Forscher · die Quelle · das Ergebnis · die These · nachweisen · vermuten · die Fachbegriffe · annähernd / rund · laut (+ Dat.)",
     "file": "/fle/materials/audio/unit05_mediation-academique/vocab1.ogg",
-    "tts": "die Studie.\ndie Forscherin / der Forscher.\ndie Quelle.\ndas Ergebnis.\ndie These.\nnachweisen.\nvermuten.\ndie Fachbegriffe.\nannähernd / rund.\nlaut (+ Dat.)."
+    "label": "Vocabulaire 1",
+    "transcript": "l'étude (f.) · la chercheuse / le chercheur · la source · le résultat · la thèse (l'hypothèse) · démontrer, établir · supposer, suggérer · les termes techniques · environ, à peu près · selon, d'après",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+    "source_body_sha256": "713826ecacc08a0c797d37a86eb5df34773b19e421a6fc7e872f4290db7fb901",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "l'étude (f.).\nla chercheuse / le chercheur.\nla source.\nle résultat.\nla thèse (l'hypothèse).\ndémontrer, établir.\nsupposer, suggérer.\nles termes techniques.\nenviron, à peu près.\nselon, d'après."
   },
   {
+    "file": "/fle/materials/audio/unit05_mediation-academique/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Médiation d'un article de vulgarisation (source allemande).\nSelon un article de vulgarisation scientifique, les grands modèles de langage — comme les agents conversationnels d'aujourd'hui — produisent parfois des réponses fausses tout en paraissant sûrs d'eux. Les spécialistes appellent ce phénomène une  hallucination  : le programme invente une information plausible mais inexacte. D'après les données citées, ces erreurs seraient plus fréquentes lorsque la question porte sur un domaine précis, par exemple la médecine ou le droit. Les auteurs ne condamnent pas la technologie ; ils suggèrent plutôt une vérification systématique des sources par des personnes compétentes. La conclusion reste prudente : l'outil peut aider, à condition que l'utilisateur garde un regard critique et ne prenne pas chaque réponse pour une vérité établie.",
-    "file": "/fle/materials/audio/unit05_mediation-academique/dialogue1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Fidélité au contenu · Précision · Reformulation · Neutralité · Langue",
-    "file": "/fle/materials/audio/unit05_mediation-academique/vocab2.ogg",
-    "tts": "Fidélité au contenu.\nPrécision.\nReformulation.\nNeutralité.\nLangue."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Contenu / fidélité · Précision académique · Reformulation · Neutralité · Langue",
-    "file": "/fle/materials/audio/unit05_mediation-academique/vocab3.ogg",
-    "tts": "Contenu / fidélité.\nPrécision académique.\nReformulation.\nNeutralité.\nLangue."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+    "source_body_sha256": "713826ecacc08a0c797d37a86eb5df34773b19e421a6fc7e872f4290db7fb901",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Médiation d'un article de vulgarisation (source allemande). Selon un article de vulgarisation scientifique, les grands modèles de langage — comme les agents conversationnels d'aujourd'hui — produisent parfois des réponses fausses tout en paraissant sûrs d'eux. Les spécialistes appellent ce phénomène une  hallucination  : le programme invente une information plausible mais inexacte. D'après les données citées, ces erreurs seraient plus fréquentes lorsque la question porte sur un domaine précis, par exemple la médecine ou le droit. Les auteurs ne condamnent pas la technologie ; ils suggèrent plutôt une vérification systématique des sources par des personnes compétentes. La conclusion reste prudente : l'outil peut aider, à condition que l'utilisateur garde un regard critique et ne prenne pas chaque réponse pour une vérité établie."
   }
 ]

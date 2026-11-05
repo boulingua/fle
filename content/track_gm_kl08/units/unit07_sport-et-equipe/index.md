@@ -36,6 +36,7 @@ curriculum:
     - A2.MED.relaying-specific-information.03
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit07_sport-et-equipe
 ---
 
 {{< callout type="note" >}}

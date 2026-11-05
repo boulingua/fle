@@ -1,30 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : — Tu écoutes quoi, toi, en ce moment ?\nKarim : — Surtout du rap français et un peu d'afropop. Et toi ?\nLéa : — Moi, j'adore la chanson, mais je n'aime pas trop le rap. Je trouve ça trop rapide, je ne comprends pas les paroles.\nKarim : — Justement, c'est pour ça que j'aime ! On peut réécouter, chercher les mots. Tiens, écoute cet artiste belge…\nLéa : — Belge ? Je croyais qu'il était français !\nKarim : — Non, francophone, ce n'est pas seulement la France. Il y a la Belgique, le Québec, le Sénégal, la Côte d'Ivoire…",
-    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+    "source_body_sha256": "55785d431e06edf3b4406f9edc256ae26f451733b9496cf38ed043ae315542ff",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : — Tu écoutes quoi, toi, en ce moment ? Karim : — Surtout du rap français et un peu d'afropop. Et toi ? Léa : — Moi, j'adore la chanson, mais je n'aime pas trop le rap. Je trouve ça trop rapide, je ne comprends pas les paroles. Karim : — Justement, c'est pour ça que j'aime ! On peut réécouter, chercher les mots. Tiens, écoute cet artiste belge… Léa : — Belge ? Je croyais qu'il était français ! Karim : — Non, francophone, ce n'est pas seulement la France. Il y a la Belgique, le Québec, le Sénégal, la Côte d'Ivoire…"
   },
   {
+    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "une chanson · les paroles (f.) · le refrain · le couplet · la mélodie · le rythme · un·e chanteur/chanteuse · un groupe · un tube · un clip · aimer / adorer · détester · préférer",
-    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+    "source_body_sha256": "55785d431e06edf3b4406f9edc256ae26f451733b9496cf38ed043ae315542ff",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "une chanson.\nles paroles (f.).\nle refrain.\nle couplet.\nla mélodie.\nle rythme.\nun·e chanteur/chanteuse.\nun groupe.\nun tube.\nun clip.\naimer / adorer.\ndétester.\npréférer."
   },
   {
-    "label": "Vocabulaire 2",
-    "transcript": "Céline Dion · Stromae · Aya Nakamura · Magic System · Youssou N'Dour",
-    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab2.ogg",
-    "tts": "Céline Dion.\nStromae.\nAya Nakamura.\nMagic System.\nYoussou N'Dour."
-  },
-  {
+    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Nadia : — Pour la playlist de la classe, tu proposes quoi ?\nThéo : — Un morceau d'Aya Nakamura. J'aime beaucoup le rythme et sa façon de mélanger le français et l'argot.\nNadia : — Moi, je préfère quelque chose de plus calme. Céline Dion, peut-être, parce que la mélodie est douce et on comprend chaque mot.\nThéo : — D'accord pour un morceau de chacun. Comme ça, on montre deux styles et deux pays francophones : le Québec et la France.\nNadia : — Parfait. Et on n'écrit pas les paroles sur l'affiche : on met juste le titre, l'artiste et le pays.",
-    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/dialogue2.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Contenu · Goût justifié · Langue · Références",
-    "file": "/fle/materials/audio/unit10_musique-et-chanson-e/vocab3.ogg",
-    "tts": "Contenu.\nGoût justifié.\nLangue.\nRéférences."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+    "source_body_sha256": "55785d431e06edf3b4406f9edc256ae26f451733b9496cf38ed043ae315542ff",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Nadia : — Pour la playlist de la classe, tu proposes quoi ? Théo : — Un morceau d'Aya Nakamura. J'aime beaucoup le rythme et sa façon de mélanger le français et l'argot. Nadia : — Moi, je préfère quelque chose de plus calme. Céline Dion, peut-être, parce que la mélodie est douce et on comprend chaque mot. Théo : — D'accord pour un morceau de chacun. Comme ça, on montre deux styles et deux pays francophones : le Québec et la France. Nadia : — Parfait. Et on n'écrit pas les paroles sur l'affiche : on met juste le titre, l'artiste et le pays."
   }
 ]

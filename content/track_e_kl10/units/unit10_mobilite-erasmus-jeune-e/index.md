@@ -36,6 +36,7 @@ curriculum:
     - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit10_mobilite-erasmus-jeune-e
 ---
 
 {{< callout type="note" >}}

@@ -35,6 +35,7 @@ curriculum:
     - B1.MED.encouraging-conceptual-talk.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit02_presse-francaise-e
 ---
 
 {{< callout type="note" >}}

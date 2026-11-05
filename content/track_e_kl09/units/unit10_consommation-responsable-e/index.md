@@ -36,6 +36,7 @@ curriculum:
     - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit10_consommation-responsable-e
 ---
 
 {{< callout type="note" >}}

@@ -35,6 +35,7 @@ curriculum:
     - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit02_mes-medias-preferes
 ---
 
 {{< callout type="note" >}}

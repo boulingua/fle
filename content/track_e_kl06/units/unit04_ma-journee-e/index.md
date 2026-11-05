@@ -36,6 +36,7 @@ curriculum:
     - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit04_ma-journee-e
 ---
 
 {{< callout type="note" >}}

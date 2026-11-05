@@ -36,6 +36,7 @@ curriculum:
     - A2.INT.goal-oriented-co-operation.04
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit08_differences-culturelles
 ---
 
 {{< callout type="note" >}}

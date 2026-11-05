@@ -36,6 +36,7 @@ curriculum:
     - A1.LING.phonological-control.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit09_fete-d-anniversaire
 ---
 
 {{< callout type="note" >}}

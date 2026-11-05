@@ -1,24 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit01_la-rentree-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : Salut Malik ! Ça va ? On est dans la même classe cette année ?\nMalik : Salut ! Oui, je crois. Moi, je suis en 7e B. Et toi ?\nLéa : Pareil ! Tu sais où est la salle 214 ?\nMalik : Au deuxième étage, à droite. On commence par quoi, ce matin ?\nLéa : On a français, puis maths. Le prof principal, c'est M. Renaud.\nMalik : D'accord. On y va ensemble ? Je déteste arriver en retard le premier jour !",
-    "file": "/fle/materials/audio/unit01_la-rentree-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+    "source_body_sha256": "8ede17692c41571482db446c6d37db1252c562c9c93c8dd1330577c4a7782284",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : Salut Malik ! Ça va ? On est dans la même classe cette année ? Malik : Salut ! Oui, je crois. Moi, je suis en 7e B. Et toi ? Léa : Pareil ! Tu sais où est la salle 214 ? Malik : Au deuxième étage, à droite. On commence par quoi, ce matin ? Léa : On a français, puis maths. Le prof principal, c'est M. Renaud. Malik : D'accord. On y va ensemble ? Je déteste arriver en retard le premier jour !"
   },
   {
+    "file": "/fle/materials/audio/unit01_la-rentree-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "la rentrée (scolaire) · l'emploi du temps (m.) · la matière · la salle (de classe) · le prof principal / la prof principale · l'étage (m.) · être en retard · avoir cours",
-    "file": "/fle/materials/audio/unit01_la-rentree-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+    "source_body_sha256": "8ede17692c41571482db446c6d37db1252c562c9c93c8dd1330577c4a7782284",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "la rentrée (scolaire).\nl'emploi du temps (m.).\nla matière.\nla salle (de classe).\nle prof principal / la prof principale.\nl'étage (m.).\nêtre en retard.\navoir cours."
   },
   {
+    "file": "/fle/materials/audio/unit01_la-rentree-e/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Nour entre en 7e. Le matin, elle range son sac : un cahier, deux stylos, une trousse et son emploi du temps tout neuf. Elle a un peu peur, mais elle est surtout curieuse.\nDans la cour, elle retrouve deux amies.  On est ensemble ?  demande-t-elle.  Oui !  répond Salomé.  On a les mêmes options.\nÀ 8 h 15, la cloche sonne. La prof principale, Mme Aziz, appelle les élèves un par un. Elle explique l'emploi du temps, les salles et les règles de la classe.  Cette année, dit-elle, vous changez souvent de salle. Regardez bien votre emploi du temps chaque matin.\nÀ midi, Nour va à la cantine avec ses amies. Elle sourit : la rentrée, finalement, ce n'est pas si stressant.",
-    "file": "/fle/materials/audio/unit01_la-rentree-e/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Réalisation de la tâche · Interaction · Langue · Lexique · Fluidité / prononciation",
-    "file": "/fle/materials/audio/unit01_la-rentree-e/vocab2.ogg",
-    "tts": "Réalisation de la tâche.\nInteraction.\nLangue.\nLexique.\nFluidité / prononciation."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+    "source_body_sha256": "8ede17692c41571482db446c6d37db1252c562c9c93c8dd1330577c4a7782284",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Nour entre en 7e. Le matin, elle range son sac : un cahier, deux stylos, une trousse et son emploi du temps tout neuf. Elle a un peu peur, mais elle est surtout curieuse. Dans la cour, elle retrouve deux amies.  On est ensemble ?  demande-t-elle.  Oui !  répond Salomé.  On a les mêmes options. À 8 h 15, la cloche sonne. La prof principale, Mme Aziz, appelle les élèves un par un. Elle explique l'emploi du temps, les salles et les règles de la classe.  Cette année, dit-elle, vous changez souvent de salle. Regardez bien votre emploi du temps chaque matin. À midi, Nour va à la cantine avec ses amies. Elle sourit : la rentrée, finalement, ce n'est pas si stressant."
   }
 ]

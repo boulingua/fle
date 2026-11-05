@@ -1,19 +1,64 @@
 [
   {
+    "file": "/fle/materials/audio/unit09_histoire-et-memoire/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Léa : — C'est étrange. On sait que ces événements ont eu lieu, mais on a l'impression que le pays a mis très longtemps à en parler.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+    "source_body_sha256": "fcdc29ce27104caa09aceae42e77f2d13b46aae49f95ef997aa573ee0d0d65d9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit09_histoire-et-memoire/texte2.ogg",
+    "label": "Texte 2",
+    "transcript": "M. Rousseau : — Bonne question. Les faits, c'est l'histoire. La manière dont une société choisit de s'en souvenir — ou de les oublier —, c'est la mémoire. Les deux ne vont pas toujours au même rythme.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+    "source_body_sha256": "fcdc29ce27104caa09aceae42e77f2d13b46aae49f95ef997aa573ee0d0d65d9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit09_histoire-et-memoire/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "une rafle · la déportation · l'Occupation (f.) · la collaboration · un passé sensible · la mémoire · la reconnaissance · une commémoration · imprescriptible · occulté·e",
-    "file": "/fle/materials/audio/unit09_histoire-et-memoire/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+    "source_body_sha256": "fcdc29ce27104caa09aceae42e77f2d13b46aae49f95ef997aa573ee0d0d65d9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "une rafle.\nla déportation.\nl'Occupation (f.).\nla collaboration.\nun passé sensible.\nla mémoire.\nla reconnaissance.\nune commémoration.\nimprescriptible.\nocculté·e."
   },
   {
+    "file": "/fle/materials/audio/unit09_histoire-et-memoire/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Deux dates, deux silences\nLe 16 juillet 1942, en plein cœur de Paris, une rafle de grande ampleur est organisée par la police française sur ordre de l'occupant allemand. Des milliers de personnes juives, dont de nombreux enfants, sont arrêtées, puis rassemblées avant d'être déportées. Très peu reviendront. Pendant longtemps, cet épisode reste occulté : le pays préfère se raconter comme une nation unie dans la Résistance.\nVingt ans plus tard, un autre silence s'installe. Le 17 octobre 1961, à Paris, une manifestation pacifique d'Algériens est violemment réprimée. Le bilan exact restera longtemps incertain, car les faits sont dissimulés. La guerre d'Algérie (1954-1962) s'achève quelques mois après, avec les Accords d'Évian de mars 1962 et l'indépendance de l'Algérie.\nDans les deux cas, il faudra des décennies pour que l'histoire — le travail des archives et des historiens — rejoigne la mémoire — ce que la société accepte de regarder en face. Reconnaître un passé difficile ne signifie pas s'accuser sans fin : c'est transmettre les faits avec exactitude, pour que les générations suivantes comprennent, et n'oublient pas.",
-    "file": "/fle/materials/audio/unit09_histoire-et-memoire/dialogue1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu et exactitude · Structure · Langue · Correction et registre",
-    "file": "/fle/materials/audio/unit09_histoire-et-memoire/vocab2.ogg",
-    "tts": "Contenu et exactitude.\nStructure.\nLangue.\nCorrection et registre."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+    "source_body_sha256": "fcdc29ce27104caa09aceae42e77f2d13b46aae49f95ef997aa573ee0d0d65d9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Deux dates, deux silences Le 16 juillet 1942, en plein cœur de Paris, une rafle de grande ampleur est organisée par la police française sur ordre de l'occupant allemand. Des milliers de personnes juives, dont de nombreux enfants, sont arrêtées, puis rassemblées avant d'être déportées. Très peu reviendront. Pendant longtemps, cet épisode reste occulté : le pays préfère se raconter comme une nation unie dans la Résistance. Vingt ans plus tard, un autre silence s'installe. Le 17 octobre 1961, à Paris, une manifestation pacifique d'Algériens est violemment réprimée. Le bilan exact restera longtemps incertain, car les faits sont dissimulés. La guerre d'Algérie (1954-1962) s'achève quelques mois après, avec les Accords d'Évian de mars 1962 et l'indépendance de l'Algérie. Dans les deux cas, il faudra des décennies pour que l'histoire — le travail des archives et des historiens — rejoigne la mémoire — ce que la société accepte de regarder en face. Reconnaître un passé difficile ne signifie pas s'accuser sans fin : c'est transmettre les faits avec exactitude, pour que les générations suivantes comprennent, et n'oublient pas."
   }
 ]

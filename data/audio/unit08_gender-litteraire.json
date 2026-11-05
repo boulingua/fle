@@ -1,19 +1,49 @@
 [
   {
+    "file": "/fle/materials/audio/unit08_gender-litteraire/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Nour. — J'ai trouvé plein de romans récents, mais je n'ose pas les recopier : les autrices sont vivantes.\nBasile. — On n'a pas besoin de recopier. On peut décrire le sujet, résumer, renvoyer au livre.\nNour. — Et si on veut vraiment une phrase entre guillemets ?\nBasile. — Alors on prend un texte ancien, du domaine public. Olympe de Gouges, George Sand… elles parlaient déjà du droit des femmes il y a deux siècles.\nNour. — Donc : on cite les ancien·ne·s, on paraphrase les contemporain·e·s.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
+    "source_body_sha256": "e3a26f8b917541847fd4c5ad93424b739617761a718421822164b79f557859d2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit08_gender-litteraire/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "le genre (social) · les études de genre · un stéréotype · l'identité · l'intersectionnalité · l'écriture inclusive · le point médian · remettre en question · une autrice / un auteur · le domaine public",
-    "file": "/fle/materials/audio/unit08_gender-litteraire/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
+    "source_body_sha256": "e3a26f8b917541847fd4c5ad93424b739617761a718421822164b79f557859d2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "le genre (social).\nles études de genre.\nun stéréotype.\nl'identité.\nl'intersectionnalité.\nl'écriture inclusive.\nle point médian.\nremettre en question.\nune autrice / un auteur.\nle domaine public."
   },
   {
+    "file": "/fle/materials/audio/unit08_gender-litteraire/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "La question du genre n'est pas neuve en littérature française. Dès 1791, Olympe de Gouges réclame l'égalité dans sa Déclaration des droits de la femme et de la citoyenne :  La femme naît libre et demeure égale à l'homme en droits.  Un demi-siècle plus tard, George Sand signe ses romans d'un prénom d'homme et porte le pantalon pour circuler librement dans Paris ; son nom de plume devient lui-même un geste politique. Plus tard encore, Colette décrit sans détour le désir et les rôles imposés aux femmes.\nLa littérature contemporaine prolonge ce questionnement, mais autrement. Des autrices et auteurs d'aujourd'hui — on peut penser à Virginie Despentes, à Maylis de Kerangal, à Édouard Louis ou à Nina Bouraoui — explorent l'identité, le corps et les assignations sociales. On ne les citera pas ici mot pour mot : leurs œuvres sont protégées par le droit d'auteur. On peut en revanche les lire, les résumer, en discuter et renvoyer vers les livres. C'est toute la différence entre s'approprier un texte et en rendre compte honnêtement.",
-    "file": "/fle/materials/audio/unit08_gender-litteraire/dialogue1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Richesse et exactitude du vocabulaire (4 termes) · Citation du domaine public correctement attribuée · Référence contemporaine sans plagiat · Concession + réfutation bien construites · Fluidité de l'interaction, prise de parole équilibrée · Total",
-    "file": "/fle/materials/audio/unit08_gender-litteraire/vocab2.ogg",
-    "tts": "Richesse et exactitude du vocabulaire (4 termes).\nCitation du domaine public correctement attribuée.\nRéférence contemporaine sans plagiat.\nConcession + réfutation bien construites.\nFluidité de l'interaction, prise de parole équilibrée.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
+    "source_body_sha256": "e3a26f8b917541847fd4c5ad93424b739617761a718421822164b79f557859d2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "La question du genre n'est pas neuve en littérature française. Dès 1791, Olympe de Gouges réclame l'égalité dans sa Déclaration des droits de la femme et de la citoyenne :  La femme naît libre et demeure égale à l'homme en droits.  Un demi-siècle plus tard, George Sand signe ses romans d'un prénom d'homme et porte le pantalon pour circuler librement dans Paris ; son nom de plume devient lui-même un geste politique. Plus tard encore, Colette décrit sans détour le désir et les rôles imposés aux femmes. La littérature contemporaine prolonge ce questionnement, mais autrement. Des autrices et auteurs d'aujourd'hui — on peut penser à Virginie Despentes, à Maylis de Kerangal, à Édouard Louis ou à Nina Bouraoui — explorent l'identité, le corps et les assignations sociales. On ne les citera pas ici mot pour mot : leurs œuvres sont protégées par le droit d'auteur. On peut en revanche les lire, les résumer, en discuter et renvoyer vers les livres. C'est toute la différence entre s'approprier un texte et en rendre compte honnêtement."
   }
 ]

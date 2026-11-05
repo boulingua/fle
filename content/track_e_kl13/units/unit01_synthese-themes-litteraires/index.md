@@ -36,6 +36,7 @@ curriculum:
     - B2.INT.information-exchange.05
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit01_synthese-themes-litteraires
 ---
 
 {{< callout type="note" >}}

@@ -35,6 +35,7 @@ curriculum:
     - B1.MED.adapting-language.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit04_francophonie-aujourd-hui
 ---
 
 {{< callout type="note" >}}

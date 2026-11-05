@@ -36,6 +36,7 @@ curriculum:
     - A2.INT.overall-oral-interaction.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit10_cinema-quebecois-e
 ---
 
 {{< callout type="note" >}}

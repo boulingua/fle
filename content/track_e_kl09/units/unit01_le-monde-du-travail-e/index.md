@@ -36,6 +36,7 @@ curriculum:
     - A2.PLUR.building-on-plurilingual-repertoire.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit01_le-monde-du-travail-e
 ---
 
 {{< callout type="note" >}}

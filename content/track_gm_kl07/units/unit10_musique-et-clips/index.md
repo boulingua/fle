@@ -35,6 +35,7 @@ curriculum:
     - A1.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit10_musique-et-clips
 ---
 
 {{< callout type="note" >}}

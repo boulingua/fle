@@ -36,6 +36,7 @@ curriculum:
     - B1.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit07_engagement-citoyen
 ---
 
 {{< callout type="note" >}}

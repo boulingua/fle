@@ -1,24 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Mme Ferrand. — Aujourd'hui, on analyse un poème pour la première fois. Pas de panique !\nLéa. — Un poème entier ? Je ne comprends jamais tout…\nTom. — Moi, je trouve juste que ça  sonne  bien, mais je ne sais pas expliquer pourquoi.\nMme Ferrand. — Justement. Analyser, ce n'est pas tout comprendre d'un coup. C'est observer la forme, repérer une image, puis dire l'effet. On avance étape par étape.\nLéa. — Donc on a le droit de commencer par ce qu'on voit ?\nMme Ferrand. — Exactement. On regarde d'abord, on interprète ensuite.",
-    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
+    "source_body_sha256": "ccee7caf62705c06d3ed1e772a6f6797b53eb93fecb7da78d79d7dc1bf96d196",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mme Ferrand. — Aujourd'hui, on analyse un poème pour la première fois. Pas de panique ! Léa. — Un poème entier ? Je ne comprends jamais tout… Tom. — Moi, je trouve juste que ça  sonne  bien, mais je ne sais pas expliquer pourquoi. Mme Ferrand. — Justement. Analyser, ce n'est pas tout comprendre d'un coup. C'est observer la forme, repérer une image, puis dire l'effet. On avance étape par étape. Léa. — Donc on a le droit de commencer par ce qu'on voit ? Mme Ferrand. — Exactement. On regarde d'abord, on interprète ensuite."
   },
   {
+    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un vers · une strophe · la rime · une comparaison · une métaphore · le thème · l'atmosphère",
-    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
+    "source_body_sha256": "ccee7caf62705c06d3ed1e772a6f6797b53eb93fecb7da78d79d7dc1bf96d196",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un vers.\nune strophe.\nla rime.\nune comparaison.\nune métaphore.\nle thème.\nl'atmosphère."
   },
   {
+    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/texte2.ogg",
     "label": "Texte 2",
     "transcript": "Les sanglots longs\nDes violons\nDe l'automne\nBlessent mon cœur\nD'une langueur\nMonotone.\nTout suffocant\nEt blême, quand\nSonne l'heure,\nJe me souviens\nDes jours anciens\nEt je pleure ;\n(Paul Verlaine,  Chanson d'automne , Poèmes saturniens, 1866 — domaine public)",
-    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Forme repérée (strophes, vers, une rime) · Une image nommée et citée correctement · Thème et atmosphère exprimés · Langue : présent du commentaire, connecteurs, guillemets · Total",
-    "file": "/fle/materials/audio/unit05_premiere-analyse-poesie/vocab2.ogg",
-    "tts": "Forme repérée (strophes, vers, une rime).\nUne image nommée et citée correctement.\nThème et atmosphère exprimés.\nLangue : présent du commentaire, connecteurs, guillemets.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
+    "source_body_sha256": "ccee7caf62705c06d3ed1e772a6f6797b53eb93fecb7da78d79d7dc1bf96d196",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Les sanglots longs Des violons De l'automne Blessent mon cœur D'une langueur Monotone. Tout suffocant Et blême, quand Sonne l'heure, Je me souviens Des jours anciens Et je pleure ;"
   }
 ]

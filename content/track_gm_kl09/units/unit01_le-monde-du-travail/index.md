@@ -36,6 +36,7 @@ curriculum:
     - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit01_le-monde-du-travail
 ---
 
 {{< callout type="note" >}}

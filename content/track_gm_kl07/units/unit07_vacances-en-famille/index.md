@@ -36,6 +36,7 @@ curriculum:
     - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit07_vacances-en-famille
 ---
 
 {{< callout type="note" >}}

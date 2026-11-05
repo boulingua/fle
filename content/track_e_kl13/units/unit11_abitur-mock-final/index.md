@@ -36,6 +36,7 @@ curriculum:
     - B2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit11_abitur-mock-final
 ---
 
 {{< callout type="note" >}}

@@ -36,6 +36,7 @@ curriculum:
     - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit11_preparer-l-abitur-ecrit
 ---
 
 {{< callout type="note" >}}

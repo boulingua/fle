@@ -1,36 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit04_ma-journee-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : Salut Karim ! Tu es déjà là ? Il est tôt !\nKarim : Oui, je me lève à six heures et demie. Le bus passe à sept heures et quart.\nLéa : Six heures et demie ?! Moi, je me lève à sept heures, je me lave vite, je m'habille, et je pars en courant.\nKarim : Et le matin, tu prends un petit déjeuner ?\nLéa : Non, jamais. Je n'ai pas le temps !\nKarim : Moi, je mange toujours. Sinon, à dix heures, j'ai faim.",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
+    "source_body_sha256": "2728ba2c809405d3c70b725181d2bd35d81b3b07cd98d84385e7efbcc91efcdb",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : Salut Karim ! Tu es déjà là ? Il est tôt ! Karim : Oui, je me lève à six heures et demie. Le bus passe à sept heures et quart. Léa : Six heures et demie ?! Moi, je me lève à sept heures, je me lave vite, je m'habille, et je pars en courant. Karim : Et le matin, tu prends un petit déjeuner ? Léa : Non, jamais. Je n'ai pas le temps ! Karim : Moi, je mange toujours. Sinon, à dix heures, j'ai faim."
   },
   {
+    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "se lever · se laver · s'habiller · se brosser les dents · se coucher · le petit déjeuner · la cantine · les cours · les devoirs · tôt / tard",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
+    "source_body_sha256": "2728ba2c809405d3c70b725181d2bd35d81b3b07cd98d84385e7efbcc91efcdb",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "se lever.\nse laver.\ns'habiller.\nse brosser les dents.\nse coucher.\nle petit déjeuner.\nla cantine.\nles cours.\nles devoirs.\ntôt / tard."
   },
   {
-    "label": "Vocabulaire 2",
-    "transcript": "je · tu · il / elle / on · nous · vous · ils / elles",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab2.ogg",
-    "tts": "je.\ntu.\nil / elle / on.\nnous.\nvous.\nils / elles."
-  },
-  {
+    "file": "/fle/materials/audio/unit04_ma-journee-e/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Je m'appelle Anouk et j'ai onze ans. Du lundi au vendredi, je me lève à sept heures. D'abord, je me lave et je m'habille. Ensuite, je prends mon petit déjeuner : du pain, du beurre et un jus d'orange. À sept heures quarante-cinq, je prends le bus.\nLes cours commencent à huit heures. À midi, je mange à la cantine avec mes amis. Le mercredi, les cours finissent tôt ; les autres jours, ils finissent à seize heures.\nLe soir, je fais mes devoirs. Puis je dîne avec ma famille. Enfin, je me couche à neuf heures et demie, parce que le matin arrive vite !",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Contenu · Verbes pronominaux · Heures · Mots de liaison · Fluidité / prononciation",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab3.ogg",
-    "tts": "Contenu.\nVerbes pronominaux.\nHeures.\nMots de liaison.\nFluidité / prononciation."
-  },
-  {
-    "label": "Vocabulaire 4",
-    "transcript": "sehr gut · gut · befriedigend · ausreichend · mangelhaft · ungenügend",
-    "file": "/fle/materials/audio/unit04_ma-journee-e/vocab4.ogg",
-    "tts": "sehr gut.\ngut.\nbefriedigend.\nausreichend.\nmangelhaft.\nungenügend."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
+    "source_body_sha256": "2728ba2c809405d3c70b725181d2bd35d81b3b07cd98d84385e7efbcc91efcdb",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Je m'appelle Anouk et j'ai onze ans. Du lundi au vendredi, je me lève à sept heures. D'abord, je me lave et je m'habille. Ensuite, je prends mon petit déjeuner : du pain, du beurre et un jus d'orange. À sept heures quarante-cinq, je prends le bus. Les cours commencent à huit heures. À midi, je mange à la cantine avec mes amis. Le mercredi, les cours finissent tôt ; les autres jours, ils finissent à seize heures. Le soir, je fais mes devoirs. Puis je dîne avec ma famille. Enfin, je me couche à neuf heures et demie, parce que le matin arrive vite !"
   }
 ]

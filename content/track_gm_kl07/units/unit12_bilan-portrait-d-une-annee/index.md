@@ -37,6 +37,7 @@ curriculum:
     - A1.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit12_bilan-portrait-d-une-annee
 ---
 
 {{< callout type="note" >}}

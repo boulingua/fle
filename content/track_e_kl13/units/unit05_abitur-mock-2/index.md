@@ -36,6 +36,7 @@ curriculum:
     - B2.REC.identifying-cues-and-inferring.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit05_abitur-mock-2
 ---
 
 {{< callout type="note" >}}

@@ -36,6 +36,7 @@ curriculum:
     - A2.INT.conversation.08
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit08_un-allemand-a-paris-e
 ---
 
 {{< callout type="note" >}}

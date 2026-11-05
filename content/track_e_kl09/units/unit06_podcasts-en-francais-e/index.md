@@ -34,6 +34,7 @@ curriculum:
     - A2.MED.note-taking.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit06_podcasts-en-francais-e
 ---
 
 {{< callout type="note" >}}

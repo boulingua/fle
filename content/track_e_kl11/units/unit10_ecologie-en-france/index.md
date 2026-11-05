@@ -36,6 +36,7 @@ curriculum:
     - B1.MED.adapting-language.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit10_ecologie-en-france
 ---
 
 {{< callout type="note" >}}

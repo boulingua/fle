@@ -35,6 +35,7 @@ curriculum:
     - B2.SOC.sociolinguistic-appropriateness.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit09_memoire-et-traumatisme
 ---
 
 {{< callout type="note" >}}

@@ -1,35 +1,65 @@
 [
   {
+    "file": "/fle/materials/audio/unit09_ma-chambre/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Théo : — Bienvenue ! Voici ma chambre.\nLéa : — Oh, elle est grande ! Qu'est-ce qu'il y a sur ton bureau ?\nThéo : — Il y a mon ordinateur et mes cahiers. Mon lit est à côté de la fenêtre.\nLéa : — Et qu'est-ce qu'il y a sous le lit ?\nThéo : — Sous le lit, il y a mon ballon de foot… et mon chat qui dort !",
-    "file": "/fle/materials/audio/unit09_ma-chambre/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+    "source_body_sha256": "9bd95db1226de33d7de30675f8b75ad37568071810e7c759f02e50a683194428",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Théo : — Bienvenue ! Voici ma chambre. Léa : — Oh, elle est grande ! Qu'est-ce qu'il y a sur ton bureau ? Théo : — Il y a mon ordinateur et mes cahiers. Mon lit est à côté de la fenêtre. Léa : — Et qu'est-ce qu'il y a sous le lit ? Théo : — Sous le lit, il y a mon ballon de foot… et mon chat qui dort !"
   },
   {
-    "label": "Vocabulaire 1",
-    "transcript": "la chambre · la cuisine · le salon · la salle de bains · les toilettes / les WC · le couloir · la salle à manger · le garage · le jardin · le grenier",
     "file": "/fle/materials/audio/unit09_ma-chambre/vocab1.ogg",
-    "tts": "la chambre.\nla cuisine.\nle salon.\nla salle de bains.\nles toilettes / les WC.\nle couloir.\nla salle à manger.\nle garage.\nle jardin.\nle grenier."
+    "label": "Vocabulaire 1",
+    "transcript": "la chambre · le lit · la cuisine · le bureau · le salon · la chaise · la salle de bains · l'armoire (f.) · les toilettes / les WC · la table · le couloir · l'étagère (f.) · la salle à manger · la fenêtre · le garage · la porte · le jardin · le tapis · le grenier · la lampe",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+    "source_body_sha256": "9bd95db1226de33d7de30675f8b75ad37568071810e7c759f02e50a683194428",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "la chambre.\nle lit.\nla cuisine.\nle bureau.\nle salon.\nla chaise.\nla salle de bains.\nl'armoire (f.).\nles toilettes / les WC.\nla table.\nle couloir.\nl'étagère (f.).\nla salle à manger.\nla fenêtre.\nle garage.\nla porte.\nle jardin.\nle tapis.\nle grenier.\nla lampe."
   },
   {
+    "file": "/fle/materials/audio/unit09_ma-chambre/vocab2.ogg",
     "label": "Vocabulaire 2",
     "transcript": "sur · sous · dans · devant · derrière · à côté de · entre … et …",
-    "file": "/fle/materials/audio/unit09_ma-chambre/vocab2.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+    "source_body_sha256": "9bd95db1226de33d7de30675f8b75ad37568071810e7c759f02e50a683194428",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "sur.\nsous.\ndans.\ndevant.\nderrière.\nà côté de.\nentre … et …."
   },
   {
+    "file": "/fle/materials/audio/unit09_ma-chambre/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Voici ma chambre. Elle est petite mais lumineuse. Mon lit est à côté de la fenêtre. Devant le lit, il y a un tapis rouge. Sur mon bureau, il y a un ordinateur et une lampe. Au-dessus du bureau, il y a une étagère avec beaucoup de livres. Mes vêtements sont dans l'armoire, entre la porte et le bureau. Mon chat Mistigri dort souvent sous le lit. J'aime bien ma chambre !",
-    "file": "/fle/materials/audio/unit09_ma-chambre/texte1.ogg"
-  },
-  {
-    "label": "Texte 2",
-    "transcript": "Voici ma chambre. Mon lit est entre la fenêtre et l'armoire. Sur le bureau, il y a mon ordinateur et mes livres. Mes vêtements sont dans l'armoire. À côté de la porte, il y a une petite étagère avec des photos. J'aime ma chambre !",
-    "file": "/fle/materials/audio/unit09_ma-chambre/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "5 phrases complètes · 5 meubles / objets nommés · 3 prépositions de lieu correctes · il y a  utilisé 2 fois · Orthographe et articles (le/la/les)",
-    "file": "/fle/materials/audio/unit09_ma-chambre/vocab3.ogg",
-    "tts": "5 phrases complètes.\n5 meubles / objets nommés.\n3 prépositions de lieu correctes.\nil y a  utilisé 2 fois.\nOrthographe et articles (le/la/les)."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+    "source_body_sha256": "9bd95db1226de33d7de30675f8b75ad37568071810e7c759f02e50a683194428",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

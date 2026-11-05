@@ -35,6 +35,7 @@ curriculum:
     - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit01_salutations-et-prenoms
 ---
 
 {{< callout type="note" >}}

@@ -35,6 +35,7 @@ curriculum:
     - A2.INT.goal-oriented-co-operation.04
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit05_le-petit-nicolas
 ---
 
 {{< callout type="note" >}}

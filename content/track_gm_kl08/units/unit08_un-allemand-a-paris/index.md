@@ -37,6 +37,7 @@ curriculum:
     - A2.INT.correspondence.04
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit08_un-allemand-a-paris
 ---
 
 {{< callout type="note" >}}

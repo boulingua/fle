@@ -36,6 +36,7 @@ curriculum:
     - A1.INT.online-conversation-and-discussion.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit06_les-transports
 ---
 
 {{< callout type="note" >}}

@@ -35,6 +35,7 @@ curriculum:
     - A2.PRAG.flexibility.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit05_sprachmittlung-de-fr-resume
 ---
 
 {{< callout type="note" >}}

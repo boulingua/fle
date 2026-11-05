@@ -34,6 +34,7 @@ curriculum:
     - B2.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit05_mediation-fr-de
 ---
 
 {{< callout type="note" >}}

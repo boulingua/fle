@@ -36,6 +36,7 @@ curriculum:
     - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit09_monologue-et-presentation
 ---
 
 {{< callout type="note" >}}

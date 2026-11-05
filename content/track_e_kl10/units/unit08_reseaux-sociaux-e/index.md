@@ -36,6 +36,7 @@ curriculum:
     - B1.MED.linking-to-previous-knowledge.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit08_reseaux-sociaux-e
 ---
 
 {{< callout type="note" >}}

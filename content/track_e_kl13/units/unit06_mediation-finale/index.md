@@ -34,6 +34,7 @@ curriculum:
     - B2.PLUR.building-on-plurilingual-repertoire.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit06_mediation-finale
 ---
 
 {{< callout type="note" >}}

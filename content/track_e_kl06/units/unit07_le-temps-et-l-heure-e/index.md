@@ -36,6 +36,7 @@ curriculum:
     - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit07_le-temps-et-l-heure-e
 ---
 
 {{< callout type="note" >}}

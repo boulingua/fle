@@ -36,6 +36,7 @@ curriculum:
     - A2.REC.reading-as-a-leisure-activity.04
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit08_differences-culturelles-e
 ---
 
 {{< callout type="note" >}}

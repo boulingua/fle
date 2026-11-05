@@ -36,6 +36,7 @@ curriculum:
     - B2.INT.asking-for-clarification.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit12_bilan-12e
 ---
 
 {{< callout type="note" >}}

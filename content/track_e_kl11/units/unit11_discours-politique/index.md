@@ -36,6 +36,7 @@ curriculum:
     - B1.INT.overall-written-interaction.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit11_discours-politique
 ---
 
 {{< callout type="note" >}}

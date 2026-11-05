@@ -36,6 +36,7 @@ curriculum:
     - A1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit12_bilan-portrait-e
 ---
 
 {{< callout type="note" >}}

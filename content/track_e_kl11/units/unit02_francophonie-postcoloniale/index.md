@@ -35,6 +35,7 @@ curriculum:
     - B1.MED.facilitating-pluricultural-space.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit02_francophonie-postcoloniale
 ---
 
 {{< callout type="note" >}}

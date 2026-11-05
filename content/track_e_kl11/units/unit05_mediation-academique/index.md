@@ -34,6 +34,7 @@ curriculum:
     - B1.PRAG.propositional-precision.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit05_mediation-academique
 ---
 
 {{< callout type="note" >}}

@@ -36,6 +36,7 @@ curriculum:
     - A2.MED.acting-as-an-intermediary-in-informal-situations.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit03_ecologie-au-quotidien
 ---
 
 {{< callout type="note" >}}

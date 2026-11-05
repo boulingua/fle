@@ -36,6 +36,7 @@ curriculum:
     - A1.INT.correspondence.03
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit11_mediation-de-base
 ---
 
 {{< callout type="note" >}}

@@ -37,6 +37,7 @@ curriculum:
     - A1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit05_j-aime-je-n-aime-pas
 ---
 
 {{< callout type="note" >}}

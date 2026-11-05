@@ -1,18 +1,65 @@
 [
   {
+    "file": "/fle/materials/audio/unit05_vivre-en-tunisie/texte1.ogg",
     "label": "Texte 1",
-    "transcript": "Jeudi, 18 h — Sfax\nSalut Léa ! Chez nous, la journée d'école se passe en deux langues : les cours de maths et de sciences sont en français, le reste en arabe. À la récréation, on mélange tout — arabe, français, un peu d'anglais. C'est normal ici ! Et toi, tu as combien de langues à l'école ?",
-    "file": "/fle/materials/audio/unit05_vivre-en-tunisie/texte1.ogg"
+    "transcript": "Mehdi, 15 ans, habite à Sfax, sur la côte tunisienne. Il tient un blog qu'il partage avec sa correspondante Léa, à Karlsruhe.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
+    "source_body_sha256": "58f9a529e15ddc9d89ea451180995ffb5d5354bb66e0c282402d85ea3a6ea26d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/fle/materials/audio/unit05_vivre-en-tunisie/texte2.ogg",
+    "label": "Texte 2",
+    "transcript": "Jeudi, 18 h — Sfax\nSalut Léa ! Chez nous, la journée d'école se passe en deux langues : les cours de maths et de sciences sont en français, le reste en arabe. À la récréation, on mélange tout — arabe, français, un peu d'anglais. C'est normal ici ! Et toi, tu as combien de langues à l'école ?",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
+    "source_body_sha256": "58f9a529e15ddc9d89ea451180995ffb5d5354bb66e0c282402d85ea3a6ea26d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Jeudi, 18 h — Sfax Salut Léa ! Chez nous, la journée d'école se passe en deux langues : les cours de maths et de sciences sont en français, le reste en arabe. À la récréation, on mélange tout — arabe, français, un peu d'anglais. C'est normal ici ! Et toi, tu as combien de langues à l'école ?"
+  },
+  {
+    "file": "/fle/materials/audio/unit05_vivre-en-tunisie/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "la vieille ville (la médina) · le marché (le souk) · le quartier · la côte / le littoral · la langue de scolarité · une matière (scolaire) · le voisinage · une habitude",
-    "file": "/fle/materials/audio/unit05_vivre-en-tunisie/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
+    "source_body_sha256": "58f9a529e15ddc9d89ea451180995ffb5d5354bb66e0c282402d85ea3a6ea26d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "la vieille ville (la médina).\nle marché (le souk).\nle quartier.\nla côte / le littoral.\nla langue de scolarité.\nune matière (scolaire).\nle voisinage.\nune habitude."
   },
   {
+    "file": "/fle/materials/audio/unit05_vivre-en-tunisie/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Objet : Une journée ordinaire\nCoucou Léa,\nAujourd'hui, après les cours, je suis allé au souk avec ma mère. On a acheté des dattes et du pain pour ce soir. Le vendredi, on mange souvent le couscous en famille.\nEn classe, j'aime beaucoup le français, mais ce n'est pas toujours facile : nos cours de sciences sont en français, alors il faut apprendre le vocabulaire deux fois ! Mes camarades et moi, on lit aussi des auteurs qui écrivent en français, comme l'écrivain tunisien Albert Memmi.\nLe week-end, on joue au foot sur la plage. Sfax est au bord de la mer Méditerranée, à environ 270 km au sud de Tunis. Et chez toi, comment se passe le samedi ?\nÀ bientôt,\nMehdi",
-    "file": "/fle/materials/audio/unit05_vivre-en-tunisie/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
+    "source_body_sha256": "58f9a529e15ddc9d89ea451180995ffb5d5354bb66e0c282402d85ea3a6ea26d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Objet : Une journée ordinaire Coucou Léa, Aujourd'hui, après les cours, je suis allé au souk avec ma mère. On a acheté des dattes et du pain pour ce soir. Le vendredi, on mange souvent le couscous en famille. En classe, j'aime beaucoup le français, mais ce n'est pas toujours facile : nos cours de sciences sont en français, alors il faut apprendre le vocabulaire deux fois ! Mes camarades et moi, on lit aussi des auteurs qui écrivent en français, comme l'écrivain tunisien Albert Memmi. Le week-end, on joue au foot sur la plage. Sfax est au bord de la mer Méditerranée, à environ 270 km au sud de Tunis. Et chez toi, comment se passe le samedi ? À bientôt, Mehdi"
   }
 ]

@@ -1,19 +1,34 @@
 [
   {
+    "file": "/fle/materials/audio/unit10_cinema-quebecois/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un·e réalisateur·rice · un·e scénariste · un long-métrage · un court-métrage · une bande-annonce · un sous-titre · le doublage · une scène",
-    "file": "/fle/materials/audio/unit10_cinema-quebecois/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
+    "source_body_sha256": "061ea0934743dcdca33e6c816f7046debb7527f315d9b8c2857ed78bdf88d8a0",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un·e réalisateur·rice.\nun·e scénariste.\nun long-métrage.\nun court-métrage.\nune bande-annonce.\nun sous-titre.\nle doublage.\nune scène."
   },
   {
+    "file": "/fle/materials/audio/unit10_cinema-quebecois/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "(Une mère et sa fille, dans la cuisine, à Montréal.)\nMère : T'as fini tes devoirs, ma belle ?\nFille : Pas encore. C'est plate, l'algèbre.\nMère : Pis ton examen demain ?\nFille : Je vais le passer. Inquiète-toi pas.\nMère : Bon. Je t'attends pas pour souper. Y a du restant dans le frigo.",
-    "file": "/fle/materials/audio/unit10_cinema-quebecois/dialogue1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Langue · Prononciation · Total",
-    "file": "/fle/materials/audio/unit10_cinema-quebecois/vocab2.ogg",
-    "tts": "Contenu.\nLangue.\nPrononciation.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
+    "source_body_sha256": "061ea0934743dcdca33e6c816f7046debb7527f315d9b8c2857ed78bdf88d8a0",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mère : T'as fini tes devoirs, ma belle ? Fille : Pas encore. C'est plate, l'algèbre. Mère : Pis ton examen demain ? Fille : Je vais le passer. Inquiète-toi pas. Mère : Bon. Je t'attends pas pour souper. Y a du restant dans le frigo."
   }
 ]

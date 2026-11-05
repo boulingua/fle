@@ -36,6 +36,7 @@ curriculum:
     - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit09_internet-et-vie-privee-e
 ---
 
 {{< callout type="note" >}}

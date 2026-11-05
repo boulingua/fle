@@ -37,6 +37,7 @@ curriculum:
     - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit05_amis-et-conflits
 ---
 
 {{< callout type="note" >}}

@@ -36,6 +36,7 @@ curriculum:
     - A1.REC.reading-for-information-and-argument.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit02_raconter-une-anecdote
 ---
 
 {{< callout type="note" >}}

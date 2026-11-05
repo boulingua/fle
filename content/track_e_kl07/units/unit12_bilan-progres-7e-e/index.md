@@ -36,6 +36,7 @@ curriculum:
     - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit12_bilan-progres-7e-e
 ---
 
 {{< callout type="note" >}}

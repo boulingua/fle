@@ -1,35 +1,65 @@
 [
   {
-    "label": "Dialogue 1",
-    "transcript": "Léa : Salut Sarah ! Lundi, je commence mon stage à la boulangerie. J'ai un peu peur… mais je suis curieuse.\nSarah : Super ! Tu vas faire quoi exactement ?\nLéa : Je vais observer le boulanger, peser la farine et aider à ranger la boutique. Je dois écrire un rapport de stage après.\nSarah : Génial ! Et tu dois te lever tôt ?\nLéa : Oui… à 4 h du matin ! Mais je veux voir comment on fait le pain. C'est mon rêve.",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail/dialogue1.ogg"
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Léa est élève en classe de 9e. La semaine prochaine, elle commence son stage (Praktikum) à la boulangerie  Chez Hugo . Le soir, elle écrit un message à son amie Sarah.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+    "source_body_sha256": "3c2b77a105fbf6ce6d79913269fd1688c348939ecb396dd9b952147491f3b76a",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail/dialogue1.ogg",
+    "label": "Dialogue 1",
+    "transcript": "Léa : Salut Sarah ! Lundi, je commence mon stage à la boulangerie. J'ai un peu peur… mais je suis curieuse.\nSarah : Super ! Tu vas faire quoi exactement ?\nLéa : Je vais observer le boulanger, peser la farine et aider à ranger la boutique. Je dois écrire un rapport de stage après.\nSarah : Génial ! Et tu dois te lever tôt ?\nLéa : Oui… à 4 h du matin ! Mais je veux voir comment on fait le pain. C'est mon rêve.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+    "source_body_sha256": "3c2b77a105fbf6ce6d79913269fd1688c348939ecb396dd9b952147491f3b76a",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : Salut Sarah ! Lundi, je commence mon stage à la boulangerie. J'ai un peu peur… mais je suis curieuse. Sarah : Super ! Tu vas faire quoi exactement ? Léa : Je vais observer le boulanger, peser la farine et aider à ranger la boutique. Je dois écrire un rapport de stage après. Sarah : Génial ! Et tu dois te lever tôt ? Léa : Oui… à 4 h du matin ! Mais je veux voir comment on fait le pain. C'est mon rêve."
+  },
+  {
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un stage / une stagiaire · faire un stage · une entreprise · le tuteur / la tutrice · les horaires (m.) · une tâche · un rapport de stage · un métier · un secteur d'activité · observer · aider · apprendre",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+    "source_body_sha256": "3c2b77a105fbf6ce6d79913269fd1688c348939ecb396dd9b952147491f3b76a",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un stage / une stagiaire.\nfaire un stage.\nune entreprise.\nle tuteur / la tutrice.\nles horaires (m.).\nune tâche.\nun rapport de stage.\nun métier.\nun secteur d'activité.\nobserver.\naider.\napprendre."
   },
   {
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Mardi 14 mars — Boulangerie  Chez Hugo\nCe matin, je suis arrivée à 5 h. Hugo, mon tuteur, m'a accueillie avec un café. D'abord, j'ai pesé la farine. Ensuite, j'ai aidé à pétrir la pâte — ce n'est pas facile ! Vers 7 h, le pain était cuit. À 8 h, les premiers clients sont arrivés et j'ai vendu trois baguettes.\nJ'ai appris trois choses importantes : la patience, la précision et l'importance d'aimer son métier. Le soir, j'étais fatiguée, mais très contente. Hugo m'a dit :  Le pain, c'est comme la vie : il faut du temps.",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail/dialogue2.ogg"
-  },
-  {
-    "label": "Texte 1",
-    "transcript": "J'ai fait mon stage chez ______ (lieu). Mon tuteur / ma tutrice s'appelait ______. Les horaires étaient de ______ à ______. J'ai ______ (tâche 1) et j'ai ______ (tâche 2). J'ai appris ______. Ce stage était ______ (adjectif).",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Passé composé · Structure et connecteurs · Vocabulaire du travail · Correction de la langue",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab2.ogg",
-    "tts": "Contenu.\nPassé composé.\nStructure et connecteurs.\nVocabulaire du travail.\nCorrection de la langue."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "1 — Compréhension écrite · 2 — Vocabulaire · 3 — Expression écrite · Total",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail/vocab3.ogg",
-    "tts": "1 — Compréhension écrite.\n2 — Vocabulaire.\n3 — Expression écrite.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+    "source_body_sha256": "3c2b77a105fbf6ce6d79913269fd1688c348939ecb396dd9b952147491f3b76a",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mardi 14 mars — Boulangerie  Chez Hugo Ce matin, je suis arrivée à 5 h. Hugo, mon tuteur, m'a accueillie avec un café. D'abord, j'ai pesé la farine. Ensuite, j'ai aidé à pétrir la pâte — ce n'est pas facile ! Vers 7 h, le pain était cuit. À 8 h, les premiers clients sont arrivés et j'ai vendu trois baguettes. J'ai appris trois choses importantes : la patience, la précision et l'importance d'aimer son métier. Le soir, j'étais fatiguée, mais très contente. Hugo m'a dit :  Le pain, c'est comme la vie : il faut du temps."
   }
 ]

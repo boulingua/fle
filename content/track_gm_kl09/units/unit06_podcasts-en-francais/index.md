@@ -34,6 +34,7 @@ curriculum:
     - A2.INT.conversation.08
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit06_podcasts-en-francais
 ---
 
 {{< callout type="note" >}}

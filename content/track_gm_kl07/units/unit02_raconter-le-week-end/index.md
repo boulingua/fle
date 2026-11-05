@@ -37,6 +37,7 @@ curriculum:
     - A1.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit02_raconter-le-week-end
 ---
 
 {{< callout type="note" >}}

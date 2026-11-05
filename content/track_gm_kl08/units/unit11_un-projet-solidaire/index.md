@@ -37,6 +37,7 @@ curriculum:
     - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit11_un-projet-solidaire
 ---
 
 {{< callout type="note" >}}

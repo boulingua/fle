@@ -1,24 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/texte1.ogg",
     "label": "Texte 1",
     "transcript": "— Salut ! Tu es en sixième, toi aussi ?\n— Oui, en 6ᵉ B. Moi, c'est Anouk.\n— Enchanté, moi c'est Tristan. Tiens, voilà madame Lefèvre, notre professeure.\n— Bonjour, madame ! Est-ce que vous êtes la prof de français ?\n— Bonjour à tous les deux. Oui, c'est bien moi. Bienvenue au lycée !",
-    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
+    "source_body_sha256": "0c2be814cccdbd64f92879cfeac2f5df002a6477a68205fb0df714df4a91f586",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "— Salut ! Tu es en sixième, toi aussi ? — Oui, en 6ᵉ B. Moi, c'est Anouk. — Enchanté, moi c'est Tristan. Tiens, voilà madame Lefèvre, notre professeure. — Bonjour, madame ! Est-ce que vous êtes la prof de français ? — Bonjour à tous les deux. Oui, c'est bien moi. Bienvenue au lycée !"
   },
   {
+    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "Bonjour · Bonsoir · Salut · Coucou · Au revoir · À bientôt · Bonne journée · Enchanté(e) · Comment tu t'appelles ? · Comment vous appelez-vous ?",
-    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
+    "source_body_sha256": "0c2be814cccdbd64f92879cfeac2f5df002a6477a68205fb0df714df4a91f586",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "Bonjour.\nBonsoir.\nSalut.\nCoucou.\nAu revoir.\nÀ bientôt.\nBonne journée.\nEnchanté(e).\nComment tu t'appelles ?.\nComment vous appelez-vous ?."
   },
   {
+    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/texte2.ogg",
     "label": "Texte 2",
     "transcript": "Anouk pousse la porte de la salle 12. Une fille est déjà assise près de la fenêtre.\n— Bonjour ! Je peux m'asseoir ici ? Je m'appelle Anouk Schmidt, je suis allemande.\n— Bien sûr ! Moi, c'est Yasmine. Tu viens d'où, exactement ?\n— De Fribourg, mais ma famille habite maintenant à Strasbourg. Et toi ?\n— Je suis française, de Colmar. On a le même âge, je pense : j'ai onze ans.\n— Oui, onze ans aussi ! Comment ça s'écrit, ton nom ?\n— Y-A-S-M-I-N-E. Et  Schmidt , ça prend un  c  et un  h  ?\n— Exactement : S-C-H-M-I-D-T. En France, on me demande souvent de l'épeler.\nÀ ce moment, madame Lefèvre entre.\n— Bonjour à toutes et à tous. Installez-vous, s'il vous plaît. Nous allons commencer.",
-    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Salutation adaptée · Présentation complète · Épellation · Tu / vous · Fluidité et prononciation",
-    "file": "/fle/materials/audio/unit01_salutations-et-prenoms-e/vocab2.ogg",
-    "tts": "Salutation adaptée.\nPrésentation complète.\nÉpellation.\nTu / vous.\nFluidité et prononciation."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
+    "source_body_sha256": "0c2be814cccdbd64f92879cfeac2f5df002a6477a68205fb0df714df4a91f586",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Anouk pousse la porte de la salle 12. Une fille est déjà assise près de la fenêtre. — Bonjour ! Je peux m'asseoir ici ? Je m'appelle Anouk Schmidt, je suis allemande. — Bien sûr ! Moi, c'est Yasmine. Tu viens d'où, exactement ? — De Fribourg, mais ma famille habite maintenant à Strasbourg. Et toi ? — Je suis française, de Colmar. On a le même âge, je pense : j'ai onze ans. — Oui, onze ans aussi ! Comment ça s'écrit, ton nom ? — Y-A-S-M-I-N-E. Et  Schmidt , ça prend un  c  et un  h  ? — Exactement : S-C-H-M-I-D-T. En France, on me demande souvent de l'épeler. À ce moment, madame Lefèvre entre. — Bonjour à toutes et à tous. Installez-vous, s'il vous plaît. Nous allons commencer."
   }
 ]

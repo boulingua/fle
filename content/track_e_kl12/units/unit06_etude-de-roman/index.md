@@ -36,6 +36,7 @@ curriculum:
     - B2.SOC.sociolinguistic-appropriateness.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit06_etude-de-roman
 ---
 
 {{< callout type="note" >}}

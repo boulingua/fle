@@ -1,30 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : Tu te rends compte ? Sept ans de français, et c'est presque fini.\nMalik : Presque. Mais honnêtement, je ne sais pas ce que j'ai vraiment appris. Des listes de mots, des règles…\nLéa : Moi, je crois que le plus important, ce n'est pas les règles. C'est que j'ai appris comment j'apprends. Quand je bloque, maintenant, je sais quoi faire.\nMalik : Tu veux dire que réfléchir sur sa manière d'apprendre, ça compte autant que le français lui-même ?\nLéa : Exactement. Et après le bac, moi, je continue. Toi ?",
-    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl13/units/unit10_reflexion-sur-soi/index.md",
+    "source_body_sha256": "3a28c3a8470f2b12a481fb787cdf4178556b72de1ee7a8077ec7d0dc1892b236",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : Tu te rends compte ? Sept ans de français, et c'est presque fini. Malik : Presque. Mais honnêtement, je ne sais pas ce que j'ai vraiment appris. Des listes de mots, des règles… Léa : Moi, je crois que le plus important, ce n'est pas les règles. C'est que j'ai appris comment j'apprends. Quand je bloque, maintenant, je sais quoi faire. Malik : Tu veux dire que réfléchir sur sa manière d'apprendre, ça compte autant que le français lui-même ? Léa : Exactement. Et après le bac, moi, je continue. Toi ?"
   },
   {
+    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "le parcours d'apprentissage · la métacognition · apprendre à apprendre · une stratégie d'apprentissage · s'autoévaluer / l'autoévaluation · se fixer un objectif · une prise de conscience · un point fort / un point faible · faire le bilan · surmonter une difficulté · persévérer / la persévérance · tirer une leçon de qqch · désormais · à l'avenir",
-    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl13/units/unit10_reflexion-sur-soi/index.md",
+    "source_body_sha256": "3a28c3a8470f2b12a481fb787cdf4178556b72de1ee7a8077ec7d0dc1892b236",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "le parcours d'apprentissage.\nla métacognition.\napprendre à apprendre.\nune stratégie d'apprentissage.\ns'autoévaluer / l'autoévaluation.\nse fixer un objectif.\nune prise de conscience.\nun point fort / un point faible.\nfaire le bilan.\nsurmonter une difficulté.\npersévérer / la persévérance.\ntirer une leçon de qqch.\ndésormais.\nà l'avenir."
   },
   {
+    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Quand j'ai commencé le français, je croyais qu'apprendre une langue, c'était mémoriser des mots. Je remplissais des colonnes de vocabulaire, et le lendemain, tout avait disparu. Je trouvais cela décourageant.\nUn jour, une enseignante m'a posé une question simple :  Comment fais-tu, toi, pour retenir ?  Je n'avais jamais réfléchi à cela. J'ai essayé de m'observer. J'ai remarqué que je retenais mieux en lisant à voix haute et en reliant les mots à des images. C'était ma première prise de conscience : je pouvais choisir comment j'apprenais.\nDepuis, mon rapport au français a changé. Mes points faibles n'ont pas disparu — je confonds encore certains temps — mais je sais désormais les surmonter : je relis, je vérifie, je demande. J'ai appris à faire le bilan sans me juger trop durement.\nCe que le français m'a vraiment appris, ce n'est pas seulement une langue. C'est une méthode : observer, essayer, corriger, recommencer. À l'avenir, quelle que soit ma voie, je garderai cette manière de faire.",
-    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu et pertinence · Structure · Correction linguistique · Richesse lexicale · Fluidité et prononciation",
-    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab2.ogg",
-    "tts": "Contenu et pertinence.\nStructure.\nCorrection linguistique.\nRichesse lexicale.\nFluidité et prononciation."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "A (oral) · A (oral) · A (oral) · A (oral) · B (écrit) · B (écrit) · B (écrit) · B (écrit) · Total",
-    "file": "/fle/materials/audio/unit10_reflexion-sur-soi/vocab3.ogg",
-    "tts": "A (oral).\nA (oral).\nA (oral).\nA (oral).\nB (écrit).\nB (écrit).\nB (écrit).\nB (écrit).\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl13/units/unit10_reflexion-sur-soi/index.md",
+    "source_body_sha256": "3a28c3a8470f2b12a481fb787cdf4178556b72de1ee7a8077ec7d0dc1892b236",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Quand j'ai commencé le français, je croyais qu'apprendre une langue, c'était mémoriser des mots. Je remplissais des colonnes de vocabulaire, et le lendemain, tout avait disparu. Je trouvais cela décourageant. Un jour, une enseignante m'a posé une question simple :  Comment fais-tu, toi, pour retenir ?  Je n'avais jamais réfléchi à cela. J'ai essayé de m'observer. J'ai remarqué que je retenais mieux en lisant à voix haute et en reliant les mots à des images. C'était ma première prise de conscience : je pouvais choisir comment j'apprenais. Depuis, mon rapport au français a changé. Mes points faibles n'ont pas disparu — je confonds encore certains temps — mais je sais désormais les surmonter : je relis, je vérifie, je demande. J'ai appris à faire le bilan sans me juger trop durement. Ce que le français m'a vraiment appris, ce n'est pas seulement une langue. C'est une méthode : observer, essayer, corriger, recommencer. À l'avenir, quelle que soit ma voie, je garderai cette manière de faire."
   }
 ]

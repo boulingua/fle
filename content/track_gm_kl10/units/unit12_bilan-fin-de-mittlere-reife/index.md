@@ -36,6 +36,7 @@ curriculum:
     - B1.MED.note-taking.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit12_bilan-fin-de-mittlere-reife
 ---
 
 {{< callout type="note" >}}

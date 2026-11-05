@@ -1,24 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "M. Klein : Cette année, vous ferez une semaine de stage : un stage d'orientation en entreprise. Choisissez bien votre lieu !\nAnouk : Moi, je voudrais aller à l'Institut français de Karlsruhe. J'aime les langues et les livres.\nKarim : Et moi, j'aimerais découvrir une maison d'édition à Lille. Je veux devenir journaliste.\nM. Klein : Très bien. À la fin, chacun rédigera un rapport de stage.",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
+    "source_body_sha256": "f580445c1bda73ef2910bb0758c069a7fbff2debfb8c132a8616a6d0732f9807",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "M. Klein : Cette année, vous ferez une semaine de stage : un stage d'orientation en entreprise. Choisissez bien votre lieu ! Anouk : Moi, je voudrais aller à l'Institut français de Karlsruhe. J'aime les langues et les livres. Karim : Et moi, j'aimerais découvrir une maison d'édition à Lille. Je veux devenir journaliste. M. Klein : Très bien. À la fin, chacun rédigera un rapport de stage."
   },
   {
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un stage · un·e stagiaire · une entreprise · un·e collègue · un patron / une patronne · un·e tuteur·rice · un métier · un emploi · une convention de stage · un rapport de stage",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
+    "source_body_sha256": "f580445c1bda73ef2910bb0758c069a7fbff2debfb8c132a8616a6d0732f9807",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un stage.\nun·e stagiaire.\nune entreprise.\nun·e collègue.\nun patron / une patronne.\nun·e tuteur·rice.\nun métier.\nun emploi.\nune convention de stage.\nun rapport de stage."
   },
   {
+    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Lundi 15 février — Institut français de Karlsruhe.\nAu début, ma tutrice, Mme Lambert, m'a accueillie à 9 h. D'abord, j'ai visité la médiathèque et les salles de cours. Pendant la matinée, j'ai aidé à classer des livres jeunesse : environ quarante ouvrages.\nEnsuite, j'ai assisté à un cours de français pour adultes débutants. Les apprenants étaient très motivés. J'ai même corrigé deux exercices au tableau.\nEnfin, après le déjeuner, j'ai rangé l'espace enfants, puis j'ai écrit ce premier compte rendu. Grâce à ma tutrice, je comprends mieux le métier de bibliothécaire. Première journée enrichissante !",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu et étapes · Connecteurs · Vocabulaire du travail · Passé composé · Longueur et bilan",
-    "file": "/fle/materials/audio/unit01_le-monde-du-travail-e/vocab2.ogg",
-    "tts": "Contenu et étapes.\nConnecteurs.\nVocabulaire du travail.\nPassé composé.\nLongueur et bilan."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
+    "source_body_sha256": "f580445c1bda73ef2910bb0758c069a7fbff2debfb8c132a8616a6d0732f9807",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Lundi 15 février — Institut français de Karlsruhe. Au début, ma tutrice, Mme Lambert, m'a accueillie à 9 h. D'abord, j'ai visité la médiathèque et les salles de cours. Pendant la matinée, j'ai aidé à classer des livres jeunesse : environ quarante ouvrages. Ensuite, j'ai assisté à un cours de français pour adultes débutants. Les apprenants étaient très motivés. J'ai même corrigé deux exercices au tableau. Enfin, après le déjeuner, j'ai rangé l'espace enfants, puis j'ai écrit ce premier compte rendu. Grâce à ma tutrice, je comprends mieux le métier de bibliothécaire. Première journée enrichissante !"
   }
 ]

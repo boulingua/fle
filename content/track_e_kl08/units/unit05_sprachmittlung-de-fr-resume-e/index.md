@@ -34,6 +34,7 @@ curriculum:
     - A2.REC.understanding-audio-media-and-recordings.04
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit05_sprachmittlung-de-fr-resume-e
 ---
 
 {{< callout type="note" >}}

@@ -1,30 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit07_champs-de-bataille/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Mme Devos. — En mai, notre classe partira pour Verdun, dans l'est de la France. C'est l'un des plus grands champs de bataille de la Première Guerre mondiale.\nAnouk. — Pourquoi visiter un endroit où tant de soldats sont morts ?\nMme Devos. — Justement pour ne pas oublier. Aujourd'hui, Verdun est devenu un lieu de mémoire franco-allemand : Français et Allemands s'y souviennent ensemble.\nYanis. — Et nous, qu'est-ce que nous allons y faire ?\nMme Devos. — Chacun préparera une petite  page mémoire  sur un lieu. Anouk, tu prends Verdun ; Yanis, tu prends Ypres, en Belgique.",
-    "file": "/fle/materials/audio/unit07_champs-de-bataille/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+    "source_body_sha256": "ff2535045ead73a1391a7a902c3122c12bae0292551736f434c82d60c62519d3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mme Devos. — En mai, notre classe partira pour Verdun, dans l'est de la France. C'est l'un des plus grands champs de bataille de la Première Guerre mondiale. Anouk. — Pourquoi visiter un endroit où tant de soldats sont morts ? Mme Devos. — Justement pour ne pas oublier. Aujourd'hui, Verdun est devenu un lieu de mémoire franco-allemand : Français et Allemands s'y souviennent ensemble. Yanis. — Et nous, qu'est-ce que nous allons y faire ? Mme Devos. — Chacun préparera une petite  page mémoire  sur un lieu. Anouk, tu prends Verdun ; Yanis, tu prends Ypres, en Belgique."
   },
   {
+    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un soldat · une tranchée · une bataille · un monument aux morts · un cimetière · la mémoire · la paix · la réconciliation",
-    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+    "source_body_sha256": "ff2535045ead73a1391a7a902c3122c12bae0292551736f434c82d60c62519d3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un soldat.\nune tranchée.\nune bataille.\nun monument aux morts.\nun cimetière.\nla mémoire.\nla paix.\nla réconciliation."
   },
   {
-    "label": "Vocabulaire 2",
-    "transcript": "il combattit · ils tombèrent · elle fut blessée · ils se serrèrent la main",
-    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab2.ogg",
-    "tts": "il combattit.\nils tombèrent.\nelle fut blessée.\nils se serrèrent la main."
-  },
-  {
+    "file": "/fle/materials/audio/unit07_champs-de-bataille/texte2.ogg",
     "label": "Texte 2",
     "transcript": "Verdun, février – décembre 1916.\nLa bataille de Verdun fut l'une des plus longues de la Grande Guerre. Pendant près de dix mois, l'armée française et l'armée allemande s'affrontèrent autour de cette ville de l'est de la France. Des centaines de milliers de soldats tombèrent ou furent blessés.\nAujourd'hui, l'Ossuaire de Douaumont conserve les ossements de dizaines de milliers de soldats restés inconnus, français comme allemands. Devant lui s'étend un immense cimetière militaire.\nEn 1984, le président français et le chancelier allemand se tinrent la main devant l'ossuaire. Ce geste devint un symbole fort de la réconciliation et de la paix en Europe.",
-    "file": "/fle/materials/audio/unit07_champs-de-bataille/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "très bien · bien · satisfaisant · passable · insuffisant",
-    "file": "/fle/materials/audio/unit07_champs-de-bataille/vocab3.ogg",
-    "tts": "très bien.\nbien.\nsatisfaisant.\npassable.\ninsuffisant."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+    "source_body_sha256": "ff2535045ead73a1391a7a902c3122c12bae0292551736f434c82d60c62519d3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Verdun, février – décembre 1916. La bataille de Verdun fut l'une des plus longues de la Grande Guerre. Pendant près de dix mois, l'armée française et l'armée allemande s'affrontèrent autour de cette ville de l'est de la France. Des centaines de milliers de soldats tombèrent ou furent blessés. Aujourd'hui, l'Ossuaire de Douaumont conserve les ossements de dizaines de milliers de soldats restés inconnus, français comme allemands. Devant lui s'étend un immense cimetière militaire. En 1984, le président français et le chancelier allemand se tinrent la main devant l'ossuaire. Ce geste devint un symbole fort de la réconciliation et de la paix en Europe."
   }
 ]

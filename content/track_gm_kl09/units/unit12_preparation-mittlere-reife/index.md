@@ -36,6 +36,7 @@ curriculum:
     - A2.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit12_preparation-mittlere-reife
 ---
 
 {{< callout type="note" >}}

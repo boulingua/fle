@@ -37,6 +37,7 @@ curriculum:
     - A1.PROD.compensating.01
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit07_le-temps-et-l-heure
 ---
 
 {{< callout type="note" >}}

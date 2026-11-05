@@ -1,24 +1,65 @@
 [
   {
-    "label": "Dialogue 1",
-    "transcript": "Anouk. — Moi, je suis pour l'interdiction : en cours, tout le monde regarde son écran.\nMalik. — Attends, tu donnes ton avis, mais où sont tes arguments ? Il faut d'abord une thèse, puis des raisons, puis des exemples.\nAnouk. — D'accord. Ma thèse : le téléphone nuit à la concentration. Premier argument : il interrompt le cours. Exemple : hier, trois notifications pendant l'exercice.\nMalik. — Bien ! Mais un bon argumentateur envisage aussi l'objection : et si le téléphone servait à travailler ?\nAnouk. — Alors je réponds : certes, il peut aider, toutefois la tablette de la classe suffit.",
-    "file": "/fle/materials/audio/unit06_argumentation-structuree/dialogue1.ogg"
+    "file": "/fle/materials/audio/unit06_argumentation-structuree/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Au lycée, Anouk et Malik préparent un débat pour le cours de français. Le sujet est affiché au tableau :  Faut-il interdire les téléphones portables au lycée ?",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+    "source_body_sha256": "1e8771c25a138f6608c1544c6b62c6b56b218d8b53ac48c507c2cc0ae36a4e31",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/fle/materials/audio/unit06_argumentation-structuree/dialogue1.ogg",
+    "label": "Dialogue 1",
+    "transcript": "Anouk. — Moi, je suis pour l'interdiction : en cours, tout le monde regarde son écran.\nMalik. — Attends, tu donnes ton avis, mais où sont tes arguments ? Il faut d'abord une thèse, puis des raisons, puis des exemples.\nAnouk. — D'accord. Ma thèse : le téléphone nuit à la concentration. Premier argument : il interrompt le cours. Exemple : hier, trois notifications pendant l'exercice.\nMalik. — Bien ! Mais un bon argumentateur envisage aussi l'objection : et si le téléphone servait à travailler ?\nAnouk. — Alors je réponds : certes, il peut aider, toutefois la tablette de la classe suffit.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+    "source_body_sha256": "1e8771c25a138f6608c1544c6b62c6b56b218d8b53ac48c507c2cc0ae36a4e31",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Anouk. — Moi, je suis pour l'interdiction : en cours, tout le monde regarde son écran. Malik. — Attends, tu donnes ton avis, mais où sont tes arguments ? Il faut d'abord une thèse, puis des raisons, puis des exemples. Anouk. — D'accord. Ma thèse : le téléphone nuit à la concentration. Premier argument : il interrompt le cours. Exemple : hier, trois notifications pendant l'exercice. Malik. — Bien ! Mais un bon argumentateur envisage aussi l'objection : et si le téléphone servait à travailler ? Anouk. — Alors je réponds : certes, il peut aider, toutefois la tablette de la classe suffit."
+  },
+  {
+    "file": "/fle/materials/audio/unit06_argumentation-structuree/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "une thèse · un argument · un exemple · une objection · une concession · la réfutation · la synthèse",
-    "file": "/fle/materials/audio/unit06_argumentation-structuree/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+    "source_body_sha256": "1e8771c25a138f6608c1544c6b62c6b56b218d8b53ac48c507c2cc0ae36a4e31",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "une thèse.\nun argument.\nun exemple.\nune objection.\nune concession.\nla réfutation.\nla synthèse."
   },
   {
+    "file": "/fle/materials/audio/unit06_argumentation-structuree/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Comment organiser une argumentation ?\nUne argumentation solide se construit en trois temps. On l'appelle souvent le plan dialectique.\nD'abord, la thèse : on défend une position à l'aide de deux arguments, chacun illustré par un exemple. Ensuite, l'antithèse : on présente honnêtement les objections, car un bon argumentateur ne cache pas les idées contraires. Enfin, la synthèse : on ne choisit pas mollement un camp, mais on dépasse l'opposition pour proposer une position nuancée.\nPrenons le sujet :  Les réseaux sociaux rapprochent-ils les gens ?  Thèse : ils permettent de garder le contact malgré la distance. Antithèse : toutefois, ils remplacent parfois les rencontres réelles. Synthèse : ils rapprochent à condition de rester un outil, et non un substitut à la vie sociale.\n⏤ Fiche méthode, cours de français, classe 11.",
-    "file": "/fle/materials/audio/unit06_argumentation-structuree/dialogue2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "sehr gut · gut · befriedigend · ausreichend · mangelhaft",
-    "file": "/fle/materials/audio/unit06_argumentation-structuree/vocab2.ogg",
-    "tts": "sehr gut.\ngut.\nbefriedigend.\nausreichend.\nmangelhaft."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+    "source_body_sha256": "1e8771c25a138f6608c1544c6b62c6b56b218d8b53ac48c507c2cc0ae36a4e31",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Comment organiser une argumentation ? Une argumentation solide se construit en trois temps. On l'appelle souvent le plan dialectique. D'abord, la thèse : on défend une position à l'aide de deux arguments, chacun illustré par un exemple. Ensuite, l'antithèse : on présente honnêtement les objections, car un bon argumentateur ne cache pas les idées contraires. Enfin, la synthèse : on ne choisit pas mollement un camp, mais on dépasse l'opposition pour proposer une position nuancée. Prenons le sujet :  Les réseaux sociaux rapprochent-ils les gens ?  Thèse : ils permettent de garder le contact malgré la distance. Antithèse : toutefois, ils remplacent parfois les rencontres réelles. Synthèse : ils rapprochent à condition de rester un outil, et non un substitut à la vie sociale. ⏤ Fiche méthode, cours de français, classe 11."
   }
 ]

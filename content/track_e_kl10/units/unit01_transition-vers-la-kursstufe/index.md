@@ -36,6 +36,7 @@ curriculum:
     - B1.INT.overall-written-interaction.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit01_transition-vers-la-kursstufe
 ---
 
 {{< callout type="note" >}}

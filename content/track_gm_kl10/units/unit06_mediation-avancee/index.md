@@ -34,6 +34,7 @@ curriculum:
     - B1.PLUR.plurilingual-comprehension.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit06_mediation-avancee
 ---
 
 {{< callout type="note" >}}

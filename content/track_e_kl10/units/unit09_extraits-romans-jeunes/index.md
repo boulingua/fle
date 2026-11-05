@@ -35,6 +35,7 @@ curriculum:
     - B1.MED.note-taking.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit09_extraits-romans-jeunes
 ---
 
 {{< callout type="note" >}}

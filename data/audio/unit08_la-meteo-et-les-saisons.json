@@ -1,14 +1,49 @@
 [
   {
+    "file": "/fle/materials/audio/unit08_la-meteo-et-les-saisons/dialogue1.ogg",
+    "label": "Dialogue 1",
+    "transcript": "La radio :  Bonjour ! Voici la météo de ce mardi. Ce matin, à Paris, il fait frais, huit degrés. Cet après-midi, il y aura du soleil sur toute la France. À Strasbourg, attention : il pleuvra ce soir.\nLéa :  Maman, il pleut à Strasbourg ? Mais mamie habite là-bas !\nMme Renault :  Ce soir seulement, ma chérie. Prends quand même ton parapluie pour l'école.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+    "source_body_sha256": "9c5b8af4d9b465b22449793624fac1bad5ae0a38526ea7c766a56ead2f3aa1a5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "La radio :  Bonjour ! Voici la météo de ce mardi. Ce matin, à Paris, il fait frais, huit degrés. Cet après-midi, il y aura du soleil sur toute la France. À Strasbourg, attention : il pleuvra ce soir. Léa :  Maman, il pleut à Strasbourg ? Mais mamie habite là-bas ! Mme Renault :  Ce soir seulement, ma chérie. Prends quand même ton parapluie pour l'école."
+  },
+  {
+    "file": "/fle/materials/audio/unit08_la-meteo-et-les-saisons/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "le printemps · l'été (m.) · l'automne (m.) · l'hiver (m.) · Il fait beau. · Il fait chaud / froid. · Il y a du soleil. · Il y a du vent. · Il y a des nuages. · Il pleut. · Il neige. · un degré",
-    "file": "/fle/materials/audio/unit08_la-meteo-et-les-saisons/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+    "source_body_sha256": "9c5b8af4d9b465b22449793624fac1bad5ae0a38526ea7c766a56ead2f3aa1a5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "le printemps.\nl'été (m.).\nl'automne (m.).\nl'hiver (m.).\nIl fait beau..\nIl fait chaud / froid..\nIl y a du soleil..\nIl y a du vent..\nIl y a des nuages..\nIl pleut..\nIl neige..\nun degré."
   },
   {
-    "label": "Vocabulaire 2",
-    "transcript": "a) le printemps · b) l'été · c) l'automne · d) l'hiver",
-    "file": "/fle/materials/audio/unit08_la-meteo-et-les-saisons/vocab2.ogg",
-    "tts": "a) le printemps.\nb) l'été.\nc) l'automne.\nd) l'hiver."
+    "file": "/fle/materials/audio/unit08_la-meteo-et-les-saisons/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Demain en France. Le matin, il fera frais partout. À Paris, il y aura du soleil, dix-huit degrés. À Strasbourg, il pleuvra l'après-midi, seize degrés. À Marseille, il fera chaud, vingt-huit degrés. À Lille, attention : il y aura beaucoup de vent et des nuages. Bonne journée !",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+    "source_body_sha256": "9c5b8af4d9b465b22449793624fac1bad5ae0a38526ea7c766a56ead2f3aa1a5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

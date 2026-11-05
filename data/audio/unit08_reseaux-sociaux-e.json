@@ -1,24 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : Alors, une semaine sans rien poster, tu as survécu ?\nÉlise : Franchement, oui. Les deux premiers jours, je vérifiais mon téléphone toutes les cinq minutes par réflexe. C'était bizarre.\nLéa : Et maintenant ?\nÉlise : Maintenant, je dors mieux. Mais je dois avouer une chose : j'ai raté l'anniversaire de Sofiane parce que l'invitation était passée dans le groupe.\nLéa : Tu vois ! On ne peut pas complètement décrocher. C'est comme ça qu'on reste en contact.\nÉlise : Je sais. Je ne dis pas que c'est mauvais. Je dis juste qu'il faut choisir quand et comment on l'utilise.",
-    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+    "source_body_sha256": "2197ea1324d7ea99713156160c4ee717aec9d53c46ec32b9dc930918e0fadef8",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : Alors, une semaine sans rien poster, tu as survécu ? Élise : Franchement, oui. Les deux premiers jours, je vérifiais mon téléphone toutes les cinq minutes par réflexe. C'était bizarre. Léa : Et maintenant ? Élise : Maintenant, je dors mieux. Mais je dois avouer une chose : j'ai raté l'anniversaire de Sofiane parce que l'invitation était passée dans le groupe. Léa : Tu vois ! On ne peut pas complètement décrocher. C'est comme ça qu'on reste en contact. Élise : Je sais. Je ne dis pas que c'est mauvais. Je dis juste qu'il faut choisir quand et comment on l'utilise."
   },
   {
+    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "l'identité numérique (f.) · un compte / un profil · la bulle de filtres (f.) · la comparaison sociale · la désinformation (f.) · poster / publier · faire défiler (le scroll) · une notification · la vie privée (f.) · décrocher / faire une pause",
-    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+    "source_body_sha256": "2197ea1324d7ea99713156160c4ee717aec9d53c46ec32b9dc930918e0fadef8",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "l'identité numérique (f.).\nun compte / un profil.\nla bulle de filtres (f.).\nla comparaison sociale.\nla désinformation (f.).\nposter / publier.\nfaire défiler (le scroll).\nune notification.\nla vie privée (f.).\ndécrocher / faire une pause."
   },
   {
+    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Camille a seize ans. Sur son profil, on la voit en voyage, souriante, entourée d'amis.  C'est vrai, mais ce n'est pas toute la vérité , reconnaît-elle.  On poste ses meilleurs moments, pas les journées grises.\nSon ami Yanis, lui, refuse de publier des photos personnelles.  Mon identité numérique, je la garde professionnelle : mes projets, mes dessins, rien de privé.  Deux stratégies opposées, un même objectif : contrôler l'image que les autres reçoivent.\nLe soir, Camille désactive ses notifications pour réviser.  Sinon, je fais défiler le fil pendant une heure sans m'en rendre compte.  Yanis, de son côté, s'impose une règle simple :  Pas de téléphone à table, ni dans le lit.\nNi l'une ni l'autre ne veulent supprimer leurs comptes. Ce qu'ils cherchent, c'est un usage choisi, et non subi.",
-    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/dialogue2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Interaction · Langue · Fluidité et prononciation · Total",
-    "file": "/fle/materials/audio/unit08_reseaux-sociaux-e/vocab2.ogg",
-    "tts": "Contenu.\nInteraction.\nLangue.\nFluidité et prononciation.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+    "source_body_sha256": "2197ea1324d7ea99713156160c4ee717aec9d53c46ec32b9dc930918e0fadef8",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Camille a seize ans. Sur son profil, on la voit en voyage, souriante, entourée d'amis.  C'est vrai, mais ce n'est pas toute la vérité , reconnaît-elle.  On poste ses meilleurs moments, pas les journées grises. Son ami Yanis, lui, refuse de publier des photos personnelles.  Mon identité numérique, je la garde professionnelle : mes projets, mes dessins, rien de privé.  Deux stratégies opposées, un même objectif : contrôler l'image que les autres reçoivent. Le soir, Camille désactive ses notifications pour réviser.  Sinon, je fais défiler le fil pendant une heure sans m'en rendre compte.  Yanis, de son côté, s'impose une règle simple :  Pas de téléphone à table, ni dans le lit. Ni l'une ni l'autre ne veulent supprimer leurs comptes. Ce qu'ils cherchent, c'est un usage choisi, et non subi."
   }
 ]

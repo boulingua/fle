@@ -1,24 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit12_bilan-12e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : — Voilà, la 12e est finie. J'ai l'impression d'avoir beaucoup lu cette année.\nThéo : — Moi aussi. On a travaillé des romans, la francophonie, l'argumentation… Et maintenant, l'année terminale.\nLéa : — Justement, il faut faire le point avant l'été. Qu'est-ce qui a marché ? Qu'est-ce qui reste fragile ?\nThéo : — Pour moi, l'écrit progresse, mais l'oral en continu me stresse encore. Toi ?\nLéa : — L'inverse ! Je parle sans problème, mais mes textes manquent de structure. On se fixe trois priorités chacun ?",
-    "file": "/fle/materials/audio/unit12_bilan-12e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
+    "source_body_sha256": "f2d2a4502ffe3c493902049583dee1c08b8a61bc86bdf315c1b9a774d70246bb",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : — Voilà, la 12e est finie. J'ai l'impression d'avoir beaucoup lu cette année. Théo : — Moi aussi. On a travaillé des romans, la francophonie, l'argumentation… Et maintenant, l'année terminale. Léa : — Justement, il faut faire le point avant l'été. Qu'est-ce qui a marché ? Qu'est-ce qui reste fragile ? Théo : — Pour moi, l'écrit progresse, mais l'oral en continu me stresse encore. Toi ? Léa : — L'inverse ! Je parle sans problème, mais mes textes manquent de structure. On se fixe trois priorités chacun ?"
   },
   {
+    "file": "/fle/materials/audio/unit12_bilan-12e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "dresser un bilan · un acquis · une lacune · consolider · se projeter · une priorité · un objectif · franchir un cap · l'échéance",
-    "file": "/fle/materials/audio/unit12_bilan-12e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
+    "source_body_sha256": "f2d2a4502ffe3c493902049583dee1c08b8a61bc86bdf315c1b9a774d70246bb",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "dresser un bilan.\nun acquis.\nune lacune.\nconsolider.\nse projeter.\nune priorité.\nun objectif.\nfranchir un cap.\nl'échéance."
   },
   {
+    "file": "/fle/materials/audio/unit12_bilan-12e/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Mon bilan de 12e — Léa\nCette année a été dense et exigeante. J'ai lu davantage qu'avant : un roman\ncomplet, des extraits de la littérature francophone, des articles de presse.\nJ'ai découvert des autrices et des auteurs qui interrogent l'identité, la\nmémoire et l'engagement, et j'ai appris à replacer un texte dans son époque.\nCôté méthode, j'ai progressé en compréhension : je repère plus vite l'idée\nprincipale et le point de vue de l'auteur. À l'écrit, en revanche, mes textes\nrestent parfois désordonnés. Je sais quoi dire, mais je ne hiérarchise pas\ntoujours mes idées. C'est ma lacune la plus nette.\nÀ l'oral, je me sens à l'aise : je parle spontanément et je réagis vite. Mais\nen continu, sur un sujet préparé, je manque encore de plan.\nPour l'année terminale, je me fixe trois priorités. D'abord, structurer chaque\ntexte avec une introduction, deux parties et une conclusion. Ensuite,\nenrichir mon vocabulaire d'analyse. Enfin, m'entraîner à parler seule trois\nminutes sans notes.\nMon objectif est simple : transformer mes idées en textes clairs et en\nprésentations solides. L'échéance approche, mais je me sens prête à franchir\nce cap.",
-    "file": "/fle/materials/audio/unit12_bilan-12e/dialogue2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Écrit — structure et pertinence du contenu · Écrit — correction grammaticale (temps verbaux) · Écrit — richesse lexicale · Oral — cohérence et organisation du propos · Oral — fluidité et prononciation · Oral — emploi du futur simple et du vocabulaire · Total",
-    "file": "/fle/materials/audio/unit12_bilan-12e/vocab2.ogg",
-    "tts": "Écrit — structure et pertinence du contenu.\nÉcrit — correction grammaticale (temps verbaux).\nÉcrit — richesse lexicale.\nOral — cohérence et organisation du propos.\nOral — fluidité et prononciation.\nOral — emploi du futur simple et du vocabulaire.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
+    "source_body_sha256": "f2d2a4502ffe3c493902049583dee1c08b8a61bc86bdf315c1b9a774d70246bb",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mon bilan de 12e — Léa Cette année a été dense et exigeante. J'ai lu davantage qu'avant : un roman complet, des extraits de la littérature francophone, des articles de presse. J'ai découvert des autrices et des auteurs qui interrogent l'identité, la mémoire et l'engagement, et j'ai appris à replacer un texte dans son époque. Côté méthode, j'ai progressé en compréhension : je repère plus vite l'idée principale et le point de vue de l'auteur. À l'écrit, en revanche, mes textes restent parfois désordonnés. Je sais quoi dire, mais je ne hiérarchise pas toujours mes idées. C'est ma lacune la plus nette. À l'oral, je me sens à l'aise : je parle spontanément et je réagis vite. Mais en continu, sur un sujet préparé, je manque encore de plan. Pour l'année terminale, je me fixe trois priorités. D'abord, structurer chaque texte avec une introduction, deux parties et une conclusion. Ensuite, enrichir mon vocabulaire d'analyse. Enfin, m'entraîner à parler seule trois minutes sans notes. Mon objectif est simple : transformer mes idées en textes clairs et en présentations solides. L'échéance approche, mais je me sens prête à franchir ce cap."
   }
 ]

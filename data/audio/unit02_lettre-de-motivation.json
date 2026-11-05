@@ -1,18 +1,65 @@
 [
   {
-    "label": "Dialogue 1",
-    "transcript": "Léa : J'ai écrit :  Salut, je veux faire un stage chez vous. Répondez vite !\nMme Renault : C'est un bon début pour un message à un ami. Mais une lettre de motivation, c'est un document formel. On ne dit pas  Salut , on écrit  Madame, Monsieur, .\nLéa : Et pour finir ?\nMme Renault : Pas de  Bisous  ! On écrit  Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.  Je vais te montrer la structure complète.",
-    "file": "/fle/materials/audio/unit02_lettre-de-motivation/dialogue1.ogg"
+    "file": "/fle/materials/audio/unit02_lettre-de-motivation/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Léa veut faire un stage d'une semaine dans une librairie française à Strasbourg. Elle montre un premier texte à Mme Renault, sa professeure de français.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+    "source_body_sha256": "213d774cc04d7d75cb50fe951eec7960b09c503791af553cc43f4c5b29e60580",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/fle/materials/audio/unit02_lettre-de-motivation/dialogue1.ogg",
+    "label": "Dialogue 1",
+    "transcript": "Léa : J'ai écrit :  Salut, je veux faire un stage chez vous. Répondez vite !\nMme Renault : C'est un bon début pour un message à un ami. Mais une lettre de motivation, c'est un document formel. On ne dit pas  Salut , on écrit  Madame, Monsieur, .\nLéa : Et pour finir ?\nMme Renault : Pas de  Bisous  ! On écrit  Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.  Je vais te montrer la structure complète.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+    "source_body_sha256": "213d774cc04d7d75cb50fe951eec7960b09c503791af553cc43f4c5b29e60580",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : J'ai écrit :  Salut, je veux faire un stage chez vous. Répondez vite ! Mme Renault : C'est un bon début pour un message à un ami. Mais une lettre de motivation, c'est un document formel. On ne dit pas  Salut , on écrit  Madame, Monsieur, . Léa : Et pour finir ? Mme Renault : Pas de  Bisous  ! On écrit  Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.  Je vais te montrer la structure complète."
+  },
+  {
+    "file": "/fle/materials/audio/unit02_lettre-de-motivation/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "une lettre de motivation · un stage · le/la destinataire · les coordonnées (f. pl.) · l'objet (m.) · solliciter · une candidature · une formule de politesse · la salutation · ci-joint / ci-jointe",
-    "file": "/fle/materials/audio/unit02_lettre-de-motivation/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+    "source_body_sha256": "213d774cc04d7d75cb50fe951eec7960b09c503791af553cc43f4c5b29e60580",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "une lettre de motivation.\nun stage.\nle/la destinataire.\nles coordonnées (f. pl.).\nl'objet (m.).\nsolliciter.\nune candidature.\nune formule de politesse.\nla salutation.\nci-joint / ci-jointe."
   },
   {
-    "label": "Texte 1",
+    "file": "/fle/materials/audio/unit02_lettre-de-motivation/texte2.ogg",
+    "label": "Texte 2",
     "transcript": "Léa Schmitt\nKarlsruher Straße 23\n76137 Karlsruhe\nKarlsruhe, le 5 mars 2026\nLibrairie Kléber\n1, rue des Francs-Bourgeois\n67000 Strasbourg\nObjet : demande de stage (une semaine)\nMadame, Monsieur,\nJe me permets de vous écrire pour solliciter un stage d'une semaine dans votre librairie, du 8 au 12 juin 2026.\nActuellement en classe de 9e à la Gemeinschaftsschule de Karlsruhe, je suis passionnée par la lecture et par les langues. J'apprends le français depuis quatre ans et je souhaite découvrir le métier de libraire.\nJe serais ravie de vous aider à ranger les rayons et à conseiller les clients. Je parle allemand et français, ce qui peut être utile à Strasbourg.\nJe vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.\nLéa Schmitt",
-    "file": "/fle/materials/audio/unit02_lettre-de-motivation/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+    "source_body_sha256": "213d774cc04d7d75cb50fe951eec7960b09c503791af553cc43f4c5b29e60580",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa Schmitt Karlsruher Straße 23 76137 Karlsruhe Karlsruhe, le 5 mars 2026 Librairie Kléber 1, rue des Francs-Bourgeois 67000 Strasbourg Objet : demande de stage (une semaine) Madame, Monsieur, Je me permets de vous écrire pour solliciter un stage d'une semaine dans votre librairie, du 8 au 12 juin 2026. Actuellement en classe de 9e à la Gemeinschaftsschule de Karlsruhe, je suis passionnée par la lecture et par les langues. J'apprends le français depuis quatre ans et je souhaite découvrir le métier de libraire. Je serais ravie de vous aider à ranger les rayons et à conseiller les clients. Je parle allemand et français, ce qui peut être utile à Strasbourg. Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées. Léa Schmitt"
   }
 ]

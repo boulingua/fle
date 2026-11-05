@@ -1,35 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Yanis. — Trois ans que j'attends ce jour, et maintenant je voudrais qu'il n'arrive jamais.\nFatou. — Je te comprends. Mais dis-toi une chose : on ne part pas de zéro. Regarde tout ce qu'on sait déjà faire.\nYanis. — À l'oral, je bloque toujours. Dès qu'on me demande de parler seul pendant trois minutes, ma tête se vide.\nFatou. — Alors on prépare un plan. Trois parties, quelques connecteurs, deux exemples concrets. Si tu sais où tu vas, tu ne te perds plus.\nYanis. — Et pour l'écrit ?\nFatou. — Pareil : on lit la consigne deux fois, on note nos idées, on rédige, on se relit. La stratégie compte autant que le vocabulaire.",
-    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
+    "source_body_sha256": "53ee136f4015259b9fff7a64fdc150e2ad2d59d1904f0de7c714031697a405f5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Yanis. — Trois ans que j'attends ce jour, et maintenant je voudrais qu'il n'arrive jamais. Fatou. — Je te comprends. Mais dis-toi une chose : on ne part pas de zéro. Regarde tout ce qu'on sait déjà faire. Yanis. — À l'oral, je bloque toujours. Dès qu'on me demande de parler seul pendant trois minutes, ma tête se vide. Fatou. — Alors on prépare un plan. Trois parties, quelques connecteurs, deux exemples concrets. Si tu sais où tu vas, tu ne te perds plus. Yanis. — Et pour l'écrit ? Fatou. — Pareil : on lit la consigne deux fois, on note nos idées, on rédige, on se relit. La stratégie compte autant que le vocabulaire."
   },
   {
+    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "dresser un bilan · une compétence · réviser · une épreuve · une stratégie · gérer son temps · se relire · progresser · un point fort / faible · poursuivre",
-    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
+    "source_body_sha256": "53ee136f4015259b9fff7a64fdc150e2ad2d59d1904f0de7c714031697a405f5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "dresser un bilan.\nune compétence.\nréviser.\nune épreuve.\nune stratégie.\ngérer son temps.\nse relire.\nprogresser.\nun point fort / faible.\npoursuivre."
   },
   {
+    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Avant, l'oral me faisait peur. Maintenant, j'ai une méthode simple.\nD'abord, je prépare un plan en trois parties : d'où je pars, où j'en suis, où je veux aller. Ensuite, pour chaque partie, je choisis un exemple concret — un livre lu, un échange, un projet. Puis je relie mes idées avec des connecteurs : d'abord, ensuite, en revanche, pour conclure. Enfin, je m'entraîne à voix haute, une fois seul, une fois devant un camarade.\nLe jour de l'épreuve, je respire lentement avant de commencer. Si un mot me manque, je le contourne : je dis la même chose autrement. En somme, je ne cherche plus la perfection ; je cherche la clarté.",
-    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/texte1.ogg"
-  },
-  {
-    "label": "Texte 2",
-    "transcript": "______ , j'ai beaucoup progressé à l'écrit. ______ , je me sens plus à l'aise à l'oral. ______ , la grammaire reste mon point faible. ______ , je suis fier·ère de mon parcours.",
-    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "1. Je manque de temps à l'écrit. · 2. Je bloque à l'oral. · 3. Je fais des fautes d'inattention. · 4. Mes idées partent dans tous les sens.",
-    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab2.ogg",
-    "tts": "1. Je manque de temps à l'écrit..\n2. Je bloque à l'oral..\n3. Je fais des fautes d'inattention..\n4. Mes idées partent dans tous les sens.."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Structure · Cohérence · Contenu · Langue · Fluidité",
-    "file": "/fle/materials/audio/unit12_bilan-fin-de-mittlere-reife/vocab3.ogg",
-    "tts": "Structure.\nCohérence.\nContenu.\nLangue.\nFluidité."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
+    "source_body_sha256": "53ee136f4015259b9fff7a64fdc150e2ad2d59d1904f0de7c714031697a405f5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Avant, l'oral me faisait peur. Maintenant, j'ai une méthode simple. D'abord, je prépare un plan en trois parties : d'où je pars, où j'en suis, où je veux aller. Ensuite, pour chaque partie, je choisis un exemple concret — un livre lu, un échange, un projet. Puis je relie mes idées avec des connecteurs : d'abord, ensuite, en revanche, pour conclure. Enfin, je m'entraîne à voix haute, une fois seul, une fois devant un camarade. Le jour de l'épreuve, je respire lentement avant de commencer. Si un mot me manque, je le contourne : je dis la même chose autrement. En somme, je ne cherche plus la perfection ; je cherche la clarté."
   }
 ]

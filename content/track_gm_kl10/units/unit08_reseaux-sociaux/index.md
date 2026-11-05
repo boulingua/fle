@@ -36,6 +36,7 @@ curriculum:
     - B1.MED.explaining-data.03
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit08_reseaux-sociaux
 ---
 
 {{< callout type="note" >}}

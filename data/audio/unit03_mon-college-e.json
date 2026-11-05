@@ -1,30 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit03_mon-college-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Anouk : Voici la cour de récréation. Là-bas, c'est la cantine.\nTristan : Et cette grande salle avec les livres ?\nAnouk : C'est le CDI. On y va pour lire et pour travailler.\nTristan : Ah, comme une bibliothèque !\nAnouk : Exactement. Viens, je te montre le gymnase.",
-    "file": "/fle/materials/audio/unit03_mon-college-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
+    "source_body_sha256": "9926dd5c8560225f1f14cbed7bed51b1b65d9c62b717b090eb4e077684e3377d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Anouk : Voici la cour de récréation. Là-bas, c'est la cantine. Tristan : Et cette grande salle avec les livres ? Anouk : C'est le CDI. On y va pour lire et pour travailler. Tristan : Ah, comme une bibliothèque ! Anouk : Exactement. Viens, je te montre le gymnase."
   },
   {
+    "file": "/fle/materials/audio/unit03_mon-college-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "la cantine · le CDI / la bibliothèque · le gymnase · la cour de récréation · la salle de classe · le couloir · la salle des professeurs · le bureau du directeur · les maths (f. pl.) · le français · l'allemand (m.) · l'anglais (m.) · le sport · la musique · les arts plastiques (m. pl.) · les sciences (f. pl.)",
-    "file": "/fle/materials/audio/unit03_mon-college-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
+    "source_body_sha256": "9926dd5c8560225f1f14cbed7bed51b1b65d9c62b717b090eb4e077684e3377d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "la cantine.\nle CDI / la bibliothèque.\nle gymnase.\nla cour de récréation.\nla salle de classe.\nle couloir.\nla salle des professeurs.\nle bureau du directeur.\nles maths (f. pl.).\nle français.\nl'allemand (m.).\nl'anglais (m.).\nle sport.\nla musique.\nles arts plastiques (m. pl.).\nles sciences (f. pl.)."
   },
   {
-    "label": "Vocabulaire 2",
-    "transcript": "8h – 9h · 9h – 10h · 10h – 11h · 11h – 12h",
-    "file": "/fle/materials/audio/unit03_mon-college-e/vocab2.ogg",
-    "tts": "8h – 9h.\n9h – 10h.\n10h – 11h.\n11h – 12h."
-  },
-  {
+    "file": "/fle/materials/audio/unit03_mon-college-e/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Le lundi, je commence à huit heures avec les maths — ce n'est pas ma\nmatière préférée ! Ensuite, j'ai français, allemand et anglais. J'adore\nles langues. Le mercredi, on finit à midi : l'après-midi est libre.\nMa journée préférée, c'est le mardi, parce que j'ai musique et sport.",
-    "file": "/fle/materials/audio/unit03_mon-college-e/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Contenu complet (4 matières, préférée, lieu) · Articles corrects devant les matières · Phrases simples et correctes · Total",
-    "file": "/fle/materials/audio/unit03_mon-college-e/vocab3.ogg",
-    "tts": "Contenu complet (4 matières, préférée, lieu).\nArticles corrects devant les matières.\nPhrases simples et correctes.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
+    "source_body_sha256": "9926dd5c8560225f1f14cbed7bed51b1b65d9c62b717b090eb4e077684e3377d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Le lundi, je commence à huit heures avec les maths — ce n'est pas ma matière préférée ! Ensuite, j'ai français, allemand et anglais. J'adore les langues. Le mercredi, on finit à midi : l'après-midi est libre. Ma journée préférée, c'est le mardi, parce que j'ai musique et sport."
   }
 ]

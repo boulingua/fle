@@ -1,25 +1,49 @@
 [
   {
+    "file": "/fle/materials/audio/unit02_presse-francaise/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Regarde, dit Nadia, le même jour, trois titres racontent la même grève, mais pas de la même façon. L'un écrit \"Mobilisation historique\", l'autre \"Nouvelle journée de blocages\".\n— Et lequel dit la vérité ? demande Théo.\n— Les deux donnent des faits, répond Nadia. Mais chacun choisit ses mots. Pour comprendre, il faut lire plusieurs journaux… et repérer d'où vient l'information.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
+    "source_body_sha256": "6c87ef30155217c7201419cc1f6c1ed8cc705d19ec524429789d65b5713163b5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit02_presse-francaise/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "la une · le gros titre · la brève · le reportage · l'interview (f.) · l'éditorial (m.) · la ligne éditoriale · le tirage / la diffusion · la source · vérifier / recouper",
-    "file": "/fle/materials/audio/unit02_presse-francaise/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
+    "source_body_sha256": "6c87ef30155217c7201419cc1f6c1ed8cc705d19ec524429789d65b5713163b5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "la une.\nle gros titre.\nla brève.\nle reportage.\nl'interview (f.).\nl'éditorial (m.).\nla ligne éditoriale.\nle tirage / la diffusion.\nla source.\nvérifier / recouper."
   },
   {
-    "label": "Vocabulaire 2",
-    "transcript": "Le Monde · Le Figaro · Libération · L'Équipe · Ouest-France",
-    "file": "/fle/materials/audio/unit02_presse-francaise/vocab2.ogg",
-    "tts": "Le Monde.\nLe Figaro.\nLibération.\nL'Équipe.\nOuest-France."
-  },
-  {
+    "file": "/fle/materials/audio/unit02_presse-francaise/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "LE COURRIER DU MATIN — jeudi 21 mai 2026\nTransports : les trains de nuit font leur retour\nSelon un rapport publié hier, la fréquentation des trains de nuit a doublé en trois ans. Trois nouvelles lignes relieront les grandes villes dès l'automne. Le ministère des Transports parle d'un  choix écologique et populaire .\nÀ l'intérieur : Page 3, reportage à bord du Paris–Nice. Page 6, interview d'une ingénieure du rail. Page 11, l'éditorial du directeur :  Le rail, il est temps d'y croire.",
-    "file": "/fle/materials/audio/unit02_presse-francaise/dialogue1.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Information vs opinion · Discours rapporté · Vocabulaire de la presse · Fiabilité · Correction de la langue",
-    "file": "/fle/materials/audio/unit02_presse-francaise/vocab3.ogg",
-    "tts": "Information vs opinion.\nDiscours rapporté.\nVocabulaire de la presse.\nFiabilité.\nCorrection de la langue."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
+    "source_body_sha256": "6c87ef30155217c7201419cc1f6c1ed8cc705d19ec524429789d65b5713163b5",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "LE COURRIER DU MATIN — jeudi 21 mai 2026 Transports : les trains de nuit font leur retour Selon un rapport publié hier, la fréquentation des trains de nuit a doublé en trois ans. Trois nouvelles lignes relieront les grandes villes dès l'automne. Le ministère des Transports parle d'un  choix écologique et populaire . À l'intérieur : Page 3, reportage à bord du Paris–Nice. Page 6, interview d'une ingénieure du rail. Page 11, l'éditorial du directeur :  Le rail, il est temps d'y croire."
   }
 ]

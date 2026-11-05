@@ -1,29 +1,55 @@
 [
   {
+    "file": "/fle/materials/audio/unit11_premiere-mediation/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Inès revient de Karlsruhe avec un petit dépliant en allemand. Elle le pose sur la table devant sa correspondante québécoise, Anouk.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+    "source_body_sha256": "71040f4d6135c39033c9a9f77cbc2b71f9ab59b4ae7c326cc8349d402e075b11",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "C. Texte source (allemand) et médiation modèle"
+    ]
+  },
+  {
+    "file": "/fle/materials/audio/unit11_premiere-mediation/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Anouk : C'est en allemand… je n'y comprends rien !\nInès : Attends, je te dis l'essentiel en français. Pas mot à mot, juste ce qui compte.\nAnouk : Alors, on peut y aller quand ? Et ça coûte cher ?\nInès : Justement, c'est écrit ici. Je te résume.",
-    "file": "/fle/materials/audio/unit11_premiere-mediation/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+    "source_body_sha256": "71040f4d6135c39033c9a9f77cbc2b71f9ab59b4ae7c326cc8349d402e075b11",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "C. Texte source (allemand) et médiation modèle"
+    ],
+    "tts": "Anouk : C'est en allemand… je n'y comprends rien ! Inès : Attends, je te dis l'essentiel en français. Pas mot à mot, juste ce qui compte. Anouk : Alors, on peut y aller quand ? Et ça coûte cher ? Inès : Justement, c'est écrit ici. Je te résume."
   },
   {
-    "label": "Vocabulaire 1",
-    "transcript": "die Öffnungszeiten · geöffnet / geschlossen · der Eintritt · kostenlos · die Ausstellung · der Text sagt, dass… · laut dem Text · das Wesentliche",
     "file": "/fle/materials/audio/unit11_premiere-mediation/vocab1.ogg",
-    "tts": "die Öffnungszeiten.\ngeöffnet / geschlossen.\nder Eintritt.\nkostenlos.\ndie Ausstellung.\nder Text sagt, dass….\nlaut dem Text.\ndas Wesentliche."
-  },
-  {
-    "label": "Texte 1",
-    "transcript": "ZKM Karlsruhe — Besucherinformation\nDas ZKM (Zentrum für Kunst und Medien) ist ein Museum in Karlsruhe. Es zeigt Medienkunst, Videoinstallationen und Computerkunst. Es ist von Mittwoch bis Sonntag von 10 bis 18 Uhr geöffnet, montags und dienstags geschlossen. Der Eintritt kostet 8 Euro für Erwachsene, 4 Euro für Schüler. Junge Besucher unter 12 Jahren haben freien Eintritt.",
-    "file": "/fle/materials/audio/unit11_premiere-mediation/texte1.ogg"
-  },
-  {
-    "label": "Texte 2",
-    "transcript": "Le ZKM est un musée d'art numérique à Karlsruhe. On y voit de l'art vidéo et des œuvres réalisées avec l'ordinateur. Il est ouvert du mercredi au dimanche, de 10 h à 18 h (fermé le lundi et le mardi). L'entrée coûte 8 € pour les adultes et 4 € pour les élèves. Les enfants de moins de 12 ans entrent gratuitement.",
-    "file": "/fle/materials/audio/unit11_premiere-mediation/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Sens transmis · Pas de mot à mot · Chiffres exacts · Adaptation · Langue",
-    "file": "/fle/materials/audio/unit11_premiere-mediation/vocab2.ogg",
-    "tts": "Sens transmis.\nPas de mot à mot.\nChiffres exacts.\nAdaptation.\nLangue."
+    "label": "Vocabulaire 1",
+    "transcript": "les horaires d'ouverture · ouvert / fermé · l'entrée, le tarif d'entrée · gratuit · l'exposition · le texte dit que… · selon le texte · l'essentiel",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+    "source_body_sha256": "71040f4d6135c39033c9a9f77cbc2b71f9ab59b4ae7c326cc8349d402e075b11",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "C. Texte source (allemand) et médiation modèle"
+    ],
+    "tts": "les horaires d'ouverture.\nouvert / fermé.\nl'entrée, le tarif d'entrée.\ngratuit.\nl'exposition.\nle texte dit que….\nselon le texte.\nl'essentiel."
   }
 ]

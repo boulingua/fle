@@ -36,6 +36,7 @@ curriculum:
     - B2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit07_discours-radio
 ---
 
 {{< callout type="note" >}}

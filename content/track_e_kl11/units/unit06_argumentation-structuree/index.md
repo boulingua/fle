@@ -36,6 +36,7 @@ curriculum:
     - B1.INT.obtaining-goods-and-services.07
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit06_argumentation-structuree
 ---
 
 {{< callout type="note" >}}

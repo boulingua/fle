@@ -37,6 +37,7 @@ curriculum:
     - A2.INT.conversation.08
   implements_basis: proposed
   level_basis: proposed
+audio_manifest: unit03_autour-de-la-planete-francophone
 ---
 
 {{< callout type="note" >}}

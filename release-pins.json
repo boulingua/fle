@@ -9,9 +9,9 @@
   },
   "kit": {
     "repository": "boulingua/kit",
-    "tag": "v2.0.1",
-    "version": "2.0.1",
-    "commit": "072522c4dca98ad71bbf7006a7890ab9bca372a4"
+    "tag": "v2.0.2",
+    "version": "2.0.2",
+    "commit": "ea6813258b1a57564a7d7389636c670e7167c9a5"
   },
   "curriculum": {
     "repository": "boulingua/curriculum",

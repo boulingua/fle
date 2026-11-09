@@ -5,7 +5,7 @@ aliases:
   - /legal/privacy/
   - "/datenschutz.html"
   - /privacy/
-analytics_policy: disabled
+analytics_policy: plausible
 analytics_notice_language: de
 analytics_notice_path: /datenschutz/
 ---
@@ -74,7 +74,7 @@ Beide Übermittlungen erfolgen auf Grundlage des EU-US Data
 Privacy Framework bzw. der Standardvertragsklauseln.
 
 Eine darüber hinausgehende Übermittlung in Drittländer findet
-**nicht** statt. Plausible Analytics ist auf dieser Website deaktiviert; siehe Abschnitt 4.
+**nicht** statt. Die Reichweitenmessung mit Plausible Analytics erfolgt auf einer selbst gehosteten Instanz auf einem Server in Deutschland; siehe Abschnitt 4.
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
 
@@ -182,10 +182,16 @@ Diese Daten werden nicht ohne Ihre Einwilligung weitergegeben.
 
 ### Plausible Analytics
 
-Auf dieser Website ist Plausible Analytics deaktiviert.
-Es wird kein Plausible-Analyseskript geladen. Seitenaufrufe, Dateidownloads
-und Klicks auf externe Links werden nicht an einen Plausible-Endpunkt gemeldet.
-Die Angaben zu Hosting und anderen Diensten stehen in den jeweiligen Abschnitten.
+Auf dieser Website ist Plausible Analytics aktiviert.
+Das Analyseskript wird von `https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js` geladen. Die Aufrufe werden der
+Kennung `boulingua.github.io/fle` zugeordnet. Erfasst werden Seitenaufrufe,
+Dateidownloads und Klicks auf externe Links. Der Browser kontaktiert dafür
+die selbst gehostete Instanz unter `analytics.hellebo.de` (Server in Deutschland);
+eine Übermittlung an die Plausible Insights OÜ oder andere Dritte findet nicht statt.
+Plausible setzt keine Cookies und speichert keine IP-Adressen; Besuche werden über
+einen täglich wechselnden, gesalzenen Hash gezählt. Rechtsgrundlage ist
+Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer datensparsamen,
+anonymen Reichweitenmessung).
 
 ### VG Wort Zählpixel (Standard)
 
@@ -271,4 +277,4 @@ stehen Ihnen folgende Rechte zu:
 Zur Wahrnehmung dieser Rechte wenden Sie sich an die unter
 Abschnitt 1 genannte Verantwortliche.
 
-*Stand: 2026-05-05.*
+*Stand: 2026-11-09.*

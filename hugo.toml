@@ -113,5 +113,5 @@ enableRobotsTXT = true
 
 
 [params.plausible]
-  domain = ""
-  src = ""
+  domain = "boulingua.github.io/fle"
+  src = "https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js"

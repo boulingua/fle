@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
-    "source_body_sha256": "ecb86d8c828414dd2f9d77061cfe2c5bb70b59ce9bee5e93f1e042d57270b9f7",
+    "source_body_sha256": "1f0c0c9e3e0a9d46c5e8cf06c048ad79a7d054240046136f0a1eb1bc410a5d06",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
-    "source_body_sha256": "ecb86d8c828414dd2f9d77061cfe2c5bb70b59ce9bee5e93f1e042d57270b9f7",
+    "source_body_sha256": "1f0c0c9e3e0a9d46c5e8cf06c048ad79a7d054240046136f0a1eb1bc410a5d06",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa. Alors, Jonas, ta première journée à Paris, c'était comment ? Jonas. Fatigante, mais géniale ! Une chose m'a surpris : ici, on dîne très tard. Chez moi, à Karlsruhe, on mange souvent à dix-huit heures. Léa. Ah oui, chez nous, vingt heures, c'est normal. Et demain, qu'est-ce que tu voudras faire ? Jonas. Je visiterai la tour Eiffel, bien sûr ! Et j'achèterai des macarons pour ma mère. Léa. Parfait. On prendra le métro ensemble."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
-    "source_body_sha256": "ecb86d8c828414dd2f9d77061cfe2c5bb70b59ce9bee5e93f1e042d57270b9f7",
+    "source_body_sha256": "1f0c0c9e3e0a9d46c5e8cf06c048ad79a7d054240046136f0a1eb1bc410a5d06",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un·e correspondant·e.\nun séjour.\nune habitude.\nun malentendu.\nsurprendre.\ndécouvrir.\ns'habituer à.\nun monument.\naccueillir."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
-    "source_body_sha256": "ecb86d8c828414dd2f9d77061cfe2c5bb70b59ce9bee5e93f1e042d57270b9f7",
+    "source_body_sha256": "1f0c0c9e3e0a9d46c5e8cf06c048ad79a7d054240046136f0a1eb1bc410a5d06",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mon carnet parisien — jour 3. Aujourd'hui, Léa et moi, nous sommes montés au deuxième étage de la tour Eiffel. La vue était incroyable ! J'ai remarqué que les Français saluent souvent avec deux bises ; au début, cela m'a gêné, mais je m'y habituerai. Demain, nous irons au Louvre. Léa dit que la foule sera énorme, alors nous arriverons tôt. Ensuite, je chercherai une boulangerie : un vrai croissant parisien, ça se mérite. Ce séjour me montre une chose : nos deux cultures ne sont pas si différentes. Nous rirons des mêmes blagues, même en deux langues."

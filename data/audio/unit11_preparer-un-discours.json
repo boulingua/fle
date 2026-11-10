@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit11_preparer-un-discours/index.md",
-    "source_body_sha256": "7282227dfd997cb09c1af8ed927c0976e47abfd6896ee276fad6520191cb560e",
+    "source_body_sha256": "e7292c7038a773085571282e1fb1f8f7b10b17c59df9c36e05bbba70e81912e9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa — (elle lit ses notes)  Mesdames, Messieurs, chers camarades… euh… je voudrais parler de… l'importance des langues, voilà. Nour — Attends, tu lis tout ? On dirait que tu récites la liste des courses. Léa — Je sais, mais j'ai peur d'oublier. Nour — Commence par une image, une question ou un chiffre. Quelque chose qui réveille la salle. Et regarde les gens, pas ta feuille ! Léa — Une accroche… d'accord. Et je termine comment ? Nour — Par une phrase forte. On doit avoir envie d'applaudir."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit11_preparer-un-discours/index.md",
-    "source_body_sha256": "7282227dfd997cb09c1af8ed927c0976e47abfd6896ee276fad6520191cb560e",
+    "source_body_sha256": "e7292c7038a773085571282e1fb1f8f7b10b17c59df9c36e05bbba70e81912e9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un discours.\nprendre la parole.\nl'accroche (f.).\nla thèse.\nun argument.\nun exemple.\nla chute / la conclusion.\nconvaincre.\némouvoir.\nune figure de style.\nle rythme.\nfaire une pause."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit11_preparer-un-discours/index.md",
-    "source_body_sha256": "7282227dfd997cb09c1af8ed927c0976e47abfd6896ee276fad6520191cb560e",
+    "source_body_sha256": "e7292c7038a773085571282e1fb1f8f7b10b17c59df9c36e05bbba70e81912e9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Discours de Léa pour la remise des diplômes (≈ 3 min) (Accroche) Mesdames, Messieurs, chers camarades : en octobre 2018, j'avais huit ans et je ne parlais pas un mot de français. (Thèse) Aujourd'hui, je quitte ce collège avec mon diplôme en poche. Et je veux vous dire ceci : apprendre une langue, c'est apprendre à voir le monde autrement. (Argument 1) D'abord, le français m'a donné des amis. Karim à Lille, Inès à Montréal, Mehdi à Sfax. Sans eux, je serais une autre personne. (Argument 2) Ensuite, le français m'a ouvert des livres. Chaque histoire lue dans cette langue a déplacé un peu mon regard. (Argument 3) Enfin, le français m'a ouvert un avenir : un stage, peut-être des études à l'étranger, des portes que je n'imaginais pas. (Chute) Alors, mes amis, n'arrêtez jamais d'apprendre. Une langue de plus, c'est un monde de plus. Merci."

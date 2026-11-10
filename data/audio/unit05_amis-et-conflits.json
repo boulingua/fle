@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
-    "source_body_sha256": "7b91ef7f6588db9cc13af9023e3f27bfbe224014e3fa2cf4ad87d74dc2f5cf98",
+    "source_body_sha256": "16d45463a33f07c55ebf353c13f836c13fefd663fc4eb52c8cc25fd8ca021c60",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "— Léa, tu fais la tête ? Qu'est-ce qu'il y a ? — Rien. Enfin… si. Tu ne m'as pas attendue ce matin. — Oh… je suis désolé. J'étais en retard, alors j'ai couru. — Tu aurais pu m'envoyer un message ! — Tu as raison. Excuse-moi. On se réconcilie ? — D'accord. Mais la prochaine fois, tu m'attends."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
-    "source_body_sha256": "7b91ef7f6588db9cc13af9023e3f27bfbe224014e3fa2cf4ad87d74dc2f5cf98",
+    "source_body_sha256": "16d45463a33f07c55ebf353c13f836c13fefd663fc4eb52c8cc25fd8ca021c60",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "content(e).\nheureux(se).\ntriste.\nfâché(e) / en colère.\njaloux(se).\ndéçu(e).\ninquiet / inquiète.\nse disputer.\nse réconcilier.\nfaire la paix.\nun malentendu.\ns'excuser."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
-    "source_body_sha256": "7b91ef7f6588db9cc13af9023e3f27bfbe224014e3fa2cf4ad87d74dc2f5cf98",
+    "source_body_sha256": "16d45463a33f07c55ebf353c13f836c13fefd663fc4eb52c8cc25fd8ca021c60",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mardi matin. Léa boude sur un banc. Théo s'approche, prudent. — Qu'est-ce que tu as ? Tu es encore fâchée ? — Tu m'as oubliée samedi ! On devait aller au cinéma ! — Oh non… Je suis vraiment désolé. J'ai eu un match de foot et je t'ai envoyé un message pour te prévenir. — Un message ? Je ne l'ai pas reçu. — Alors c'est un malentendu ! Regarde, il est là, dans mes envois. — Ah… c'est vrai. Excuse-moi, j'ai été injuste. — Ce n'est pas grave. On se voit ce soir ? Et cette fois, c'est moi qui t'invite à une glace !"

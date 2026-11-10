@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
-    "source_body_sha256": "6f232d58c286766fe9f96c2ca15df3edaccc76c89fd4cb6391acab3ca526c893",
+    "source_body_sha256": "2532923119583086e78b90426cd5e8a70f4c49e63d1afe025c5b90330b91f7db",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "M. Klein : L'an prochain, vous entrerez dans le cycle terminal : le français en Leistungsfach ou en Basisfach. Avant de choisir, faisons le point. Où en êtes-vous ? Où voulez-vous aller ? Anouk : Cette année a été intense… J'ai beaucoup progressé à l'écrit, mais je n'ose pas encore parler longtemps sans notes. Karim : Moi, c'est l'inverse : je m'exprime facilement à l'oral, mais mes textes manquent de connecteurs. M. Klein : Voilà déjà un bilan ! Chacun de vous va le mettre par écrit, puis le présenter à la classe."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
-    "source_body_sha256": "6f232d58c286766fe9f96c2ca15df3edaccc76c89fd4cb6391acab3ca526c893",
+    "source_body_sha256": "2532923119583086e78b90426cd5e8a70f4c49e63d1afe025c5b90330b91f7db",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "dresser un bilan.\nun acquis.\nconsolider.\nune progression / un progrès.\nse projeter.\nviser (un objectif).\nfranchir une étape.\nl'orientation."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
-    "source_body_sha256": "6f232d58c286766fe9f96c2ca15df3edaccc76c89fd4cb6391acab3ca526c893",
+    "source_body_sha256": "2532923119583086e78b90426cd5e8a70f4c49e63d1afe025c5b90330b91f7db",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Karlsruhe, juin 2027 — pour Anouk, juin 2031 Chère Anouk de 13e, Cette année, en 9e, j'ai consolidé le subjonctif présent et le conditionnel. Auparavant, le stage d'orientation au lycée me faisait peur ; maintenant, je sais rédiger une lettre de motivation et un courriel professionnel en français. J'ai découvert la bande dessinée francophone, la protection des données et les podcasts de radio publique. Grâce à mon stage à l'Institut français, je crois que j'aimerai les métiers du livre. À l'avenir, en cycle terminal, je vise le Leistungsfach de français. Je veux lire davantage et préparer un échange à Lille avec Karim, si bien que dans quatre ans je me sentirai peut-être prête pour des études à l'étranger. À toi de jouer, Anouk de 13e ! Anouk, juin 2027"

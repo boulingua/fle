@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
-    "source_body_sha256": "1d670027ef04afeb5d5579eae145a440268838274160a91776a088e82cb071cf",
+    "source_body_sha256": "fe3ee5bb604840dcf8306d3fffd6b56ad40ad246c3fc856ba9aac77edefa6c89",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
-    "source_body_sha256": "1d670027ef04afeb5d5579eae145a440268838274160a91776a088e82cb071cf",
+    "source_body_sha256": "fe3ee5bb604840dcf8306d3fffd6b56ad40ad246c3fc856ba9aac77edefa6c89",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nour : Tu viens samedi ? On ramasse les déchets au parc. Théo : Bof… un samedi matin ? Pour quoi faire, franchement ? Nour : Parce que le parc est sale et que personne ne le fait. Et puis, c'est sympa : on est une équipe. Théo : Mouais. Et ça change vraiment quelque chose ? Nour : Un peu, oui. Et surtout, ça montre qu'on ne reste pas les bras croisés."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
-    "source_body_sha256": "1d670027ef04afeb5d5579eae145a440268838274160a91776a088e82cb071cf",
+    "source_body_sha256": "fe3ee5bb604840dcf8306d3fffd6b56ad40ad246c3fc856ba9aac77edefa6c89",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le bénévolat.\nune association.\nun·e bénévole.\nune pétition.\nune manifestation.\ns'engager (pour).\nune cause.\ndéfendre (une idée).\nsoutenir un projet.\navoir un impact."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
-    "source_body_sha256": "1d670027ef04afeb5d5579eae145a440268838274160a91776a088e82cb071cf",
+    "source_body_sha256": "fe3ee5bb604840dcf8306d3fffd6b56ad40ad246c3fc856ba9aac77edefa6c89",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Camille a seize ans. Chaque mercredi, après les cours, elle rejoint une petite association de son quartier qui aide des enfants à faire leurs devoirs. Au début, je venais surtout pour remplir mon dossier, avoue-t-elle en riant. Mais maintenant, j'y vais parce que ça me plaît vraiment. Les enfants m'attendent, et moi aussi je les attends. Deux heures par semaine, ce n'est pas énorme. Pourtant, grâce à ce petit geste régulier, Camille a compris quelque chose : on n'a pas besoin d'être adulte, ni d'avoir de l'argent, pour être utile. Il suffit d'un peu de temps et d'envie , résume-t-elle."

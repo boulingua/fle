@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
-    "source_body_sha256": "0c2be814cccdbd64f92879cfeac2f5df002a6477a68205fb0df714df4a91f586",
+    "source_body_sha256": "33e15cf4d9366dc21f457da12c0a4cd7c504f4778501f01569dc970d83cca4c0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "— Salut ! Tu es en sixième, toi aussi ? — Oui, en 6ᵉ B. Moi, c'est Anouk. — Enchanté, moi c'est Tristan. Tiens, voilà madame Lefèvre, notre professeure. — Bonjour, madame ! Est-ce que vous êtes la prof de français ? — Bonjour à tous les deux. Oui, c'est bien moi. Bienvenue au lycée !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
-    "source_body_sha256": "0c2be814cccdbd64f92879cfeac2f5df002a6477a68205fb0df714df4a91f586",
+    "source_body_sha256": "33e15cf4d9366dc21f457da12c0a4cd7c504f4778501f01569dc970d83cca4c0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Bonjour.\nBonsoir.\nSalut.\nCoucou.\nAu revoir.\nÀ bientôt.\nBonne journée.\nEnchanté(e).\nComment tu t'appelles ?.\nComment vous appelez-vous ?."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
-    "source_body_sha256": "0c2be814cccdbd64f92879cfeac2f5df002a6477a68205fb0df714df4a91f586",
+    "source_body_sha256": "33e15cf4d9366dc21f457da12c0a4cd7c504f4778501f01569dc970d83cca4c0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk pousse la porte de la salle 12. Une fille est déjà assise près de la fenêtre. — Bonjour ! Je peux m'asseoir ici ? Je m'appelle Anouk Schmidt, je suis allemande. — Bien sûr ! Moi, c'est Yasmine. Tu viens d'où, exactement ? — De Fribourg, mais ma famille habite maintenant à Strasbourg. Et toi ? — Je suis française, de Colmar. On a le même âge, je pense : j'ai onze ans. — Oui, onze ans aussi ! Comment ça s'écrit, ton nom ? — Y-A-S-M-I-N-E. Et  Schmidt , ça prend un  c  et un  h  ? — Exactement : S-C-H-M-I-D-T. En France, on me demande souvent de l'épeler. À ce moment, madame Lefèvre entre. — Bonjour à toutes et à tous. Installez-vous, s'il vous plaît. Nous allons commencer."

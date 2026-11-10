@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit04_ma-journee/index.md",
-    "source_body_sha256": "83a6418bcad5608c9c3d092bd93e466492eb126f4da8da3b66606189de43fc89",
+    "source_body_sha256": "ec77982277e737fb63d4309fbd83c9f324872583eb99fe19b4ff24f8237ef29c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Timo : Salut Léa ! Il est déjà 8 heures chez moi. Et chez toi ? Léa : Bonjour Timo ! Ici aussi, il est 8 heures. Je me lève tôt le lundi. Timo : Moi, je me réveille à 6 h 45 ! Je me lave, je m'habille, puis je pars. Léa : Six heures quarante-cinq ? C'est très tôt ! À quelle heure commences-tu les cours ? Timo : À 8 h 30. Et l'après-midi, je rentre à la maison vers 16 heures."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit04_ma-journee/index.md",
-    "source_body_sha256": "83a6418bcad5608c9c3d092bd93e466492eb126f4da8da3b66606189de43fc89",
+    "source_body_sha256": "ec77982277e737fb63d4309fbd83c9f324872583eb99fe19b4ff24f8237ef29c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "se réveiller.\nse lever.\nse laver.\ns'habiller.\nle petit-déjeuner.\nl'après-midi (m.).\nse coucher.\ntôt / tard."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit04_ma-journee/index.md",
-    "source_body_sha256": "83a6418bcad5608c9c3d092bd93e466492eb126f4da8da3b66606189de43fc89",
+    "source_body_sha256": "ec77982277e737fb63d4309fbd83c9f324872583eb99fe19b4ff24f8237ef29c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

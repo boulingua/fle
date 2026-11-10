@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit10_consommation-responsable/index.md",
-    "source_body_sha256": "d63eeb25067ccf982c6b296ebb87802bc3faba97ba51e9fb68209df17fb1e5c2",
+    "source_body_sha256": "68f9730a6020082090d45fc8bcafb0af5b80c6a2ca209e91ce347a2f5f46d945",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit10_consommation-responsable/index.md",
-    "source_body_sha256": "d63eeb25067ccf982c6b296ebb87802bc3faba97ba51e9fb68209df17fb1e5c2",
+    "source_body_sha256": "68f9730a6020082090d45fc8bcafb0af5b80c6a2ca209e91ce347a2f5f46d945",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la consommation responsable.\nle commerce équitable.\nun label.\ndurable.\nd'occasion / la seconde main.\nle producteur / la productrice.\nl'empreinte (f.) carbone.\ngaspiller.\nun argument.\nconvaincre."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit10_consommation-responsable/index.md",
-    "source_body_sha256": "d63eeb25067ccf982c6b296ebb87802bc3faba97ba51e9fb68209df17fb1e5c2",
+    "source_body_sha256": "68f9730a6020082090d45fc8bcafb0af5b80c6a2ca209e91ce347a2f5f46d945",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Consommer autrement, c'est possible Léa a 15 ans et elle adore la mode. Avant, elle achetait un nouveau tee-shirt presque chaque semaine.  Ils ne coûtaient rien, alors j'en prenais beaucoup , raconte-t-elle. Mais un jour, elle a vu un reportage sur les ateliers de couture à l'autre bout du monde. Depuis, Léa a changé ses habitudes. Elle achète moins, mais mieux. Maintenant, je vais d'abord dans les magasins de seconde main. Quand j'achète neuf, je choisis du coton bio et je garde mes vêtements plus longtemps. Résultat : Léa dépense presque la même somme qu'avant, mais elle possède moins d'affaires.  Je n'ai pas l'impression de me priver. Au contraire, je suis fière de mes choix , conclut-elle."

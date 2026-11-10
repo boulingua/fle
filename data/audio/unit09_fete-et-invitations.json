@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
-    "source_body_sha256": "6e09d3a5f5556f1f80af1265f63d4cbb935143b3d7b43697a1a445240fc7c6d5",
+    "source_body_sha256": "07d32206a6cdd393ac2e52742b350b45624ff4810d2d3fa5a19b1163ca155f86",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : — Salut Karim ! Samedi, je vais fêter mes treize ans. Tu viens ? Karim : — Ah, super ! C'est où et à quelle heure ? Léa : — Chez moi, à partir de dix-huit heures. On va commander des pizzas et écouter de la musique. Karim : — Avec plaisir ! Je vais juste demander à mes parents. Je te réponds ce soir. Léa : — D'accord. N'oublie pas : réponds avant vendredi, comme sur le carton !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
-    "source_body_sha256": "6e09d3a5f5556f1f80af1265f63d4cbb935143b3d7b43697a1a445240fc7c6d5",
+    "source_body_sha256": "07d32206a6cdd393ac2e52742b350b45624ff4810d2d3fa5a19b1163ca155f86",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "une invitation / un carton.\nfêter (son anniversaire).\nun cadeau.\nle gâteau · les bougies.\nsouffler les bougies.\nfaire un vœu.\ninviter quelqu'un.\naccepter · refuser.\nrépondre (avant le…).\nR.S.V.P..\navec plaisir · désolé(e)."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
-    "source_body_sha256": "6e09d3a5f5556f1f80af1265f63d4cbb935143b3d7b43697a1a445240fc7c6d5",
+    "source_body_sha256": "07d32206a6cdd393ac2e52742b350b45624ff4810d2d3fa5a19b1163ca155f86",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Tu es invité·e ! 🎉 Léa fête ses 13 ans ! 📅 Samedi 23 mai, de 18 h à 22 h 🏠 Chez Léa, 14 rue des Lilas 🍕 Au programme : pizzas, gâteau au chocolat, musique et jeux 🎁 Un petit cadeau fait maison suffit R.S.V.P. avant le vendredi 22 mai — par téléphone ou par message. On va bien s'amuser ! À samedi, Léa"

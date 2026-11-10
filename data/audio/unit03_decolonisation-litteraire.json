@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
-    "source_body_sha256": "467e561d40792dd9126094fba517dfef96d545d200347a14bfa863aedbf8860c",
+    "source_body_sha256": "7e8c5864987df87aec7df7ed99e678813ccf3aeea65eebdb0e7041ddf94b47a4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
-    "source_body_sha256": "467e561d40792dd9126094fba517dfef96d545d200347a14bfa863aedbf8860c",
+    "source_body_sha256": "7e8c5864987df87aec7df7ed99e678813ccf3aeea65eebdb0e7041ddf94b47a4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
-    "source_body_sha256": "467e561d40792dd9126094fba517dfef96d545d200347a14bfa863aedbf8860c",
+    "source_body_sha256": "7e8c5864987df87aec7df7ed99e678813ccf3aeea65eebdb0e7041ddf94b47a4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -55,7 +55,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
-    "source_body_sha256": "467e561d40792dd9126094fba517dfef96d545d200347a14bfa863aedbf8860c",
+    "source_body_sha256": "7e8c5864987df87aec7df7ed99e678813ccf3aeea65eebdb0e7041ddf94b47a4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la décolonisation.\neffacer / l'effacement (m.).\nréécrire / la réécriture.\nune voix (ici).\nrendre / redonner la parole.\ninvisibiliser.\nune figure oubliée.\nla créolité.\nla créolisation.\nle métissage.\nla diaspora.\nun récit."

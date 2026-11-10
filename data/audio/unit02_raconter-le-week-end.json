@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
-    "source_body_sha256": "3951a30a65f033f1754974cfc52462313afec7cdba785a3ba3c6f1de9a056804",
+    "source_body_sha256": "3e6382c66bf2987227254d050e2b10d8d3a1f50d9ba7c04f2c3b61ca73451221",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nour : Salut Tom ! Tu as passé un bon week-end ? Tom : Oui, super ! Samedi, j'ai joué au basket avec mon frère. Et toi ? Nour : Moi, je suis allée à la piscine avec ma cousine. Après, on a mangé une glace. Tom : Génial ! Dimanche, je suis resté à la maison. J'ai regardé un film et j'ai fini mes devoirs. Nour : Ah, les devoirs… moi aussi, j'ai travaillé le soir !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
-    "source_body_sha256": "3951a30a65f033f1754974cfc52462313afec7cdba785a3ba3c6f1de9a056804",
+    "source_body_sha256": "3e6382c66bf2987227254d050e2b10d8d3a1f50d9ba7c04f2c3b61ca73451221",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "jouer au foot / au basket.\nregarder un film.\naller à la piscine.\nrester à la maison.\nfaire les devoirs.\nrendre visite à.\nsortir avec des amis.\nse promener.\nsamedi / dimanche."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
-    "source_body_sha256": "3951a30a65f033f1754974cfc52462313afec7cdba785a3ba3c6f1de9a056804",
+    "source_body_sha256": "3e6382c66bf2987227254d050e2b10d8d3a1f50d9ba7c04f2c3b61ca73451221",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Le week-end de Lucas Samedi matin, j'ai pris mon vélo et je suis parti au parc avec Maxime. Nous avons joué au foot pendant deux heures. À midi, j'ai mangé un sandwich sur un banc. L'après-midi, je suis rentré à la maison et j'ai aidé mon père dans le jardin. Le soir, ma sœur est arrivée de Lyon. On a regardé un film ensemble. Dimanche, je suis resté tranquille. J'ai fini mes devoirs de maths et j'ai lu un peu. C'était un week-end calme et agréable !"

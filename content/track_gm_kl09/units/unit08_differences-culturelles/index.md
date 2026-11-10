@@ -138,7 +138,7 @@ Pour **comparer**, on utilise :
 >
 > Quand je suis arrivée à Lyon, tout allait un peu différemment. En entrant dans la boulangerie, ma famille d'accueil disait toujours « Bonjour, Madame ! » — même à une inconnue. Le soir, on passait presque deux heures à table, et tout le monde parlait en même temps, avec passion. Au début, je croyais qu'ils se disputaient. En fait, non : discuter fort, ici, c'est une manière d'être ensemble. Après quelques jours, j'ai appris à dire bonjour partout et à prendre mon temps le soir.
 
-### C. Conseils d’une famille d’accueil fictive
+### C. Conseils d’une famille d’accueil fictive (allemand)
 
 > 1. Frag deine Gastfamilie, wie sie begrüßt werden möchte. Ein Wangenkuss ist keine Pflicht.
 > 2. In unserer Familie essen wir das Brot mit der Hand, ohne es zu zerdrücken.

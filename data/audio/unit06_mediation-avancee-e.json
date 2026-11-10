@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
-    "source_body_sha256": "2c62f4a60aec5dc9f27828b4328a1f47a5eb1a784a99601f9b2afcde664468cb",
+    "source_body_sha256": "e7ccac6f6f8645d7ce554e52b31f9ccbbeb196b4ad2800a42deed570c1ac6dd9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Lambert : Anouk, voici un éditorial allemand sur les transports en ville. Notre partenaire parisien n'a pas le temps de tout lire : peux-tu lui en écrire un résumé fidèle en français, en une centaine de mots ? Anouk : D'accord. Je garde l'idée principale, les arguments et le ton de l'auteur ? Mme Lambert : Exactement. Et surtout, ne traduis pas mot à mot : reformule. Ensuite, tu feras l'inverse avec un éditorial du Monde, pour nos collègues de Munich."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
-    "source_body_sha256": "2c62f4a60aec5dc9f27828b4328a1f47a5eb1a784a99601f9b2afcde664468cb",
+    "source_body_sha256": "e7ccac6f6f8645d7ce554e52b31f9ccbbeb196b4ad2800a42deed570c1ac6dd9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "soutenir / affirmer.\nplaider pour.\nmettre en garde contre.\nnuancer.\nconstater.\nréclamer / exiger.\nfaute de quoi.\nl'enjeu."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
-    "source_body_sha256": "2c62f4a60aec5dc9f27828b4328a1f47a5eb1a784a99601f9b2afcde664468cb",
+    "source_body_sha256": "e7ccac6f6f8645d7ce554e52b31f9ccbbeb196b4ad2800a42deed570c1ac6dd9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Texte allemand (extrait fictif, éditorial de presse régionale) Unsere Innenstädte ersticken im Verkehr. Wer die Luft sauber halten will, muss den Autoverkehr begrenzen und den Bus, das Rad und die eigenen Füße bevorzugen. Die Städte, die diesen Schritt gewagt haben, sind heute lebenswerter. Zögern wir länger, verlieren wir wertvolle Zeit. Médiation française (environ 75 mots) Dans cet éditorial, l'auteur constate que les centres-villes sont saturés par la circulation automobile. Il plaide pour une réduction de la voiture au profit des transports en commun, du vélo et de la marche. Il soutient que les villes ayant osé ce changement sont aujourd'hui plus agréables à vivre. Il met en garde contre l'attentisme :  hésiter plus longtemps , écrit-il, reviendrait à perdre un temps précieux."

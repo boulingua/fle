@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
-    "source_body_sha256": "702b969db4b3d4b98e79121ce76e6e08b19400468a79c05a775400880e6f5c94",
+    "source_body_sha256": "b394210572505a508d1c7efda280471e69d96fe00fac1d57db4c7db0ebba276c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk. — Monsieur, j'ai écrit à la librairie Mollat à Bordeaux. J'ai commencé par  Salut, je voudrais un stage ! . C'est bon ? M. Klein. — Attention, Anouk : une candidature, c'est du registre formel. On ne dit pas  Salut , on écrit  Madame, Monsieur, . Anouk. — Et pour terminer ? En allemand, j'écris juste  Mit freundlichen Grüßen . M. Klein. — En français, la formule de clôture est plus longue :  Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.  La forme compte autant que le contenu."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
-    "source_body_sha256": "702b969db4b3d4b98e79121ce76e6e08b19400468a79c05a775400880e6f5c94",
+    "source_body_sha256": "b394210572505a508d1c7efda280471e69d96fe00fac1d57db4c7db0ebba276c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "une lettre de motivation.\nun stage (d'observation).\nune candidature.\nle / la destinataire.\nl'objet (m.).\nla formule d'appel.\nla formule de clôture.\nle registre formel.\neffectuer un stage.\njoindre (un CV)."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
-    "source_body_sha256": "702b969db4b3d4b98e79121ce76e6e08b19400468a79c05a775400880e6f5c94",
+    "source_body_sha256": "b394210572505a508d1c7efda280471e69d96fe00fac1d57db4c7db0ebba276c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk Schmidt 12 rue des Tilleuls, 76000 Karlsruhe Librairie Mollat 15 rue Vital-Carles, 33000 Bordeaux Karlsruhe, le 12 octobre 2026 Objet : demande de stage d'observation Madame, Monsieur, Votre librairie indépendante, l'une des plus grandes de France, m'inspire beaucoup. Je suis vos rencontres avec les auteur·e·s en ligne depuis deux ans et j'admire votre travail de conseil auprès des lecteurs. Je suis élève de classe 9 dans un lycée de Karlsruhe et lectrice passionnée. J'aimerais effectuer un stage d'observation d'une semaine chez vous au mois d'avril 2027, dans le cadre de mon orientation professionnelle. J'apprends le français depuis quatre ans et je suis à l'aise à l'oral comme à l'écrit. Je serais heureuse de découvrir le métier de libraire et de contribuer, à ma mesure, à votre équipe. Je me tiens à votre disposition pour un entretien à votre convenance. Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées. Anouk Schmidt"

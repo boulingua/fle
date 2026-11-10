@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
-    "source_body_sha256": "702d62e925124f154fb6de8823c63c6334e51a72ec4958a4765d009ac1b2a19e",
+    "source_body_sha256": "711f005f35c9f04fb1c9296c036c34cb295092e80c1b835dfa76fcb973a67571",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
-    "source_body_sha256": "702d62e925124f154fb6de8823c63c6334e51a72ec4958a4765d009ac1b2a19e",
+    "source_body_sha256": "711f005f35c9f04fb1c9296c036c34cb295092e80c1b835dfa76fcb973a67571",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Devos : Voici la fiche de votre correspondant. Léo, à Strasbourg, écrit :  Salut ! Je m'appelle Léo, j'ai 11 ans. Et toi, qui es-tu ? Anouk : Madame, on répond en français ? Mme Devos : Bien sûr. Présentez-vous comme vous le feriez à un·e ami·e francophone. Tout ce que vous avez appris cette année ! Tristan : Tout ? Mais on a appris beaucoup de choses… Mme Devos : Justement. C'est votre bilan : votre portrait, du début à la fin de l'année."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
-    "source_body_sha256": "702d62e925124f154fb6de8823c63c6334e51a72ec4958a4765d009ac1b2a19e",
+    "source_body_sha256": "711f005f35c9f04fb1c9296c036c34cb295092e80c1b835dfa76fcb973a67571",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "je m'appelle…, j'ai … ans, je suis (allemand·e), j'habite à….\nmon père, ma mère, ma sœur, mon frère, nous sommes….\nje suis en 6e, ma matière préférée est…, j'aime….\nle matin, l'après-midi, le soir, je fais….\nj'aime, je n'aime pas, je préfère, mon sport favori.\nil fait beau, en été, ma saison préférée est….\ndans ma chambre, il y a…, à côté de….\nj'ai visité…, je rêve d'aller à….\net, mais, parce que, alors, aussi, d'abord, enfin."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
-    "source_body_sha256": "702d62e925124f154fb6de8823c63c6334e51a72ec4958a4765d009ac1b2a19e",
+    "source_body_sha256": "711f005f35c9f04fb1c9296c036c34cb295092e80c1b835dfa76fcb973a67571",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Salut ! Je m'appelle Anouk, j'ai 11 ans. Je suis allemande et j'habite à Karlsruhe. Je suis en 6e B au lycée. J'ai une petite famille : mon père Klaus, ma mère Sonja et ma petite sœur Lena, qui a 8 ans. À l'école, ma matière préférée est l'art, mais j'aime beaucoup le français aussi. Le mardi, je fais du judo avec Tristan. Le week-end, je vais au marché avec ma mère parce que j'adore les fraises ! En été, dans ma chambre, il y a toujours des fleurs sur la table. Et je rêve d'aller à Strasbourg pour visiter la cathédrale. Voilà, c'est moi. Et toi, qui es-tu ?"

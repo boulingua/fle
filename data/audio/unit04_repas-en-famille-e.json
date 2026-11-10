@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
-    "source_body_sha256": "268fa49400f9c54fe2db5c0b9804413f30241c96e1a3b073aa666e7bcb033a52",
+    "source_body_sha256": "f6c0a67cf7c7c5fcf661142543d7c5d48cebfb97dfa9eeaf8d96c0ff35ae7f66",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
-    "source_body_sha256": "268fa49400f9c54fe2db5c0b9804413f30241c96e1a3b073aa666e7bcb033a52",
+    "source_body_sha256": "f6c0a67cf7c7c5fcf661142543d7c5d48cebfb97dfa9eeaf8d96c0ff35ae7f66",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "— Anouk : Théo, tu apportes le plat ? Tout le monde a faim. — Théo : Deux secondes ! Aujourd'hui, c'est gigot d'agneau avec des haricots verts. — La mère : Et en entrée, j'ai préparé une petite quiche. Anouk, tu veux de l'eau ou du jus de pomme ? — Anouk : De l'eau, s'il te plaît. Mais je ne prends pas de viande aujourd'hui : je préfère la salade. — Théo : Pas de problème, il y a de la quiche pour tout le monde. Et de la tarte aux pommes en dessert !"
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
-    "source_body_sha256": "268fa49400f9c54fe2db5c0b9804413f30241c96e1a3b073aa666e7bcb033a52",
+    "source_body_sha256": "f6c0a67cf7c7c5fcf661142543d7c5d48cebfb97dfa9eeaf8d96c0ff35ae7f66",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la quiche, la soupe, la salade, la charcuterie.\nle gigot d'agneau, le poulet rôti, le poisson, les pâtes, les haricots verts.\nla tarte aux pommes, le gâteau, la glace, la mousse au chocolat.\nl'eau, le jus de pomme, le soda.\nl'assiette, les couverts, le verre, mettre la table, avoir faim."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
-    "source_body_sha256": "268fa49400f9c54fe2db5c0b9804413f30241c96e1a3b073aa666e7bcb033a52",
+    "source_body_sha256": "f6c0a67cf7c7c5fcf661142543d7c5d48cebfb97dfa9eeaf8d96c0ff35ae7f66",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Chez les Lemaire, le repas du dimanche est un moment important. Vers midi, chacun a une tâche : Anouk met la table, Théo aide à la cuisine, et les parents préparent le plat principal. On sert d'abord une entrée, puis le plat avec un accompagnement, et enfin un dessert. — Qu'est-ce qu'on boit ? demande Théo. — Il y a du jus de pomme et de l'eau, répond sa mère. — Et pour Anouk, qui ne mange pas de viande, il reste de la quiche et des légumes. — Parfait, dit Anouk. Et comme dessert ? — De la tarte aux pommes, faite maison !"

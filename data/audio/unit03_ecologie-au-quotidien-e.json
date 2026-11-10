@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
-    "source_body_sha256": "6f351151a43de1dada8430cd49285a0df49b19bd2e7f2997fccfb5d9377b4daa",
+    "source_body_sha256": "a9695053535247baa9e1f086164925545030fe5158900badb861a2a705deb81c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Tu es venu à vélo ? Il pleut des cordes ! Karim : Oui, comme d'habitude. J'ai un imperméable, ça va. Et toi, encore en bus ? Léa : Oui… mais je culpabilise un peu. Mon frère, lui, prend la voiture pour trois cents mètres. Karim : Trois cents mètres ?! Tu devrais lui dire de marcher. Franchement, ce serait plus simple. Léa : Je sais. Mais chez moi, on trie déjà les déchets, on baisse le chauffage… On fait des efforts, quoi. Karim : C'est déjà bien. Le plus important, c'est de commencer petit et de continuer."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
-    "source_body_sha256": "6f351151a43de1dada8430cd49285a0df49b19bd2e7f2997fccfb5d9377b4daa",
+    "source_body_sha256": "a9695053535247baa9e1f086164925545030fe5158900badb861a2a705deb81c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "trier ses déchets.\nle tri sélectif.\nrecycler / le recyclage.\ngaspiller ≠ économiser.\nréduire ses déchets.\nl'empreinte carbone.\nl'énergie renouvelable.\nle covoiturage.\nles transports en commun.\nd'occasion / de seconde main.\njetable ≠ réutilisable.\ndurable."
@@ -34,7 +34,7 @@
   {
     "file": "/fle/materials/audio/unit03_ecologie-au-quotidien-e/dialogue2.ogg",
     "label": "Dialogue 2",
-    "transcript": "Commencer petit, mais commencer\nOn croit souvent qu'être écolo, c'est tout changer d'un coup. En réalité, quelques gestes simples, répétés chaque jour, comptent déjà beaucoup.\nD'abord, trier ses déchets : le verre, le papier et les emballages ne vont pas dans la même poubelle. Ensuite, économiser l'eau : une douche courte consomme trois fois moins qu'un bain. On peut aussi éteindre les appareils au lieu de les laisser en veille, privilégier le vélo ou les transports en commun pour les petits trajets, et acheter d'occasion plutôt que du neuf.\nAucun de ces gestes ne demande de l'argent ni beaucoup de temps. Comme le dit Karim dans notre dialogue :  Le plus important, c'est de commencer petit et de continuer.",
+    "transcript": "Commencer petit, mais commencer\nOn croit souvent qu'être écolo, c'est tout changer d'un coup. En réalité, quelques gestes simples, répétés chaque jour, comptent déjà beaucoup.\nD'abord, trier ses déchets : suivre les consignes locales pour le verre, le papier et les emballages. Ensuite, économiser l'eau : une douche courte peut consommer moins qu'un bain, selon sa durée et le débit. On peut aussi éteindre les appareils au lieu de les laisser en veille, privilégier le vélo ou les transports en commun pour les petits trajets, et acheter d'occasion plutôt que du neuf.\nLe coût, le temps et les possibilités varient selon les personnes; choisissons un premier geste réalisable. Comme le dit Karim dans notre dialogue :  Le plus important, c'est de commencer petit et de continuer.",
     "source": "tts",
     "voice": "fr_FR-mls-medium",
     "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
@@ -42,9 +42,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
-    "source_body_sha256": "6f351151a43de1dada8430cd49285a0df49b19bd2e7f2997fccfb5d9377b4daa",
+    "source_body_sha256": "a9695053535247baa9e1f086164925545030fe5158900badb861a2a705deb81c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
-    "tts": "Commencer petit, mais commencer On croit souvent qu'être écolo, c'est tout changer d'un coup. En réalité, quelques gestes simples, répétés chaque jour, comptent déjà beaucoup. D'abord, trier ses déchets : le verre, le papier et les emballages ne vont pas dans la même poubelle. Ensuite, économiser l'eau : une douche courte consomme trois fois moins qu'un bain. On peut aussi éteindre les appareils au lieu de les laisser en veille, privilégier le vélo ou les transports en commun pour les petits trajets, et acheter d'occasion plutôt que du neuf. Aucun de ces gestes ne demande de l'argent ni beaucoup de temps. Comme le dit Karim dans notre dialogue :  Le plus important, c'est de commencer petit et de continuer."
+    "tts": "Commencer petit, mais commencer On croit souvent qu'être écolo, c'est tout changer d'un coup. En réalité, quelques gestes simples, répétés chaque jour, comptent déjà beaucoup. D'abord, trier ses déchets : suivre les consignes locales pour le verre, le papier et les emballages. Ensuite, économiser l'eau : une douche courte peut consommer moins qu'un bain, selon sa durée et le débit. On peut aussi éteindre les appareils au lieu de les laisser en veille, privilégier le vélo ou les transports en commun pour les petits trajets, et acheter d'occasion plutôt que du neuf. Le coût, le temps et les possibilités varient selon les personnes; choisissons un premier geste réalisable. Comme le dit Karim dans notre dialogue :  Le plus important, c'est de commencer petit et de continuer."
   }
 ]

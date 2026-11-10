@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
-    "source_body_sha256": "8ede17692c41571482db446c6d37db1252c562c9c93c8dd1330577c4a7782284",
+    "source_body_sha256": "bb3fcb48c532cf3e2f0b72fdaf8a24b8e73a711401296c5cd913fbf713a57e6a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Salut Malik ! Ça va ? On est dans la même classe cette année ? Malik : Salut ! Oui, je crois. Moi, je suis en 7e B. Et toi ? Léa : Pareil ! Tu sais où est la salle 214 ? Malik : Au deuxième étage, à droite. On commence par quoi, ce matin ? Léa : On a français, puis maths. Le prof principal, c'est M. Renaud. Malik : D'accord. On y va ensemble ? Je déteste arriver en retard le premier jour !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
-    "source_body_sha256": "8ede17692c41571482db446c6d37db1252c562c9c93c8dd1330577c4a7782284",
+    "source_body_sha256": "bb3fcb48c532cf3e2f0b72fdaf8a24b8e73a711401296c5cd913fbf713a57e6a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la rentrée (scolaire).\nl'emploi du temps (m.).\nla matière.\nla salle (de classe).\nle prof principal / la prof principale.\nl'étage (m.).\nêtre en retard.\navoir cours."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
-    "source_body_sha256": "8ede17692c41571482db446c6d37db1252c562c9c93c8dd1330577c4a7782284",
+    "source_body_sha256": "bb3fcb48c532cf3e2f0b72fdaf8a24b8e73a711401296c5cd913fbf713a57e6a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nour entre en 7e. Le matin, elle range son sac : un cahier, deux stylos, une trousse et son emploi du temps tout neuf. Elle a un peu peur, mais elle est surtout curieuse. Dans la cour, elle retrouve deux amies.  On est ensemble ?  demande-t-elle.  Oui !  répond Salomé.  On a les mêmes options. À 8 h 15, la cloche sonne. La prof principale, Mme Aziz, appelle les élèves un par un. Elle explique l'emploi du temps, les salles et les règles de la classe.  Cette année, dit-elle, vous changez souvent de salle. Regardez bien votre emploi du temps chaque matin. À midi, Nour va à la cantine avec ses amies. Elle sourit : la rentrée, finalement, ce n'est pas si stressant."

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
-    "source_body_sha256": "58f9a529e15ddc9d89ea451180995ffb5d5354bb66e0c282402d85ea3a6ea26d",
+    "source_body_sha256": "bf7bb178e6738210f674cb2569f71b08164ac1ee2355787647201f802dce2d01",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
-    "source_body_sha256": "58f9a529e15ddc9d89ea451180995ffb5d5354bb66e0c282402d85ea3a6ea26d",
+    "source_body_sha256": "bf7bb178e6738210f674cb2569f71b08164ac1ee2355787647201f802dce2d01",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Jeudi, 18 h — Sfax Salut Léa ! Chez nous, la journée d'école se passe en deux langues : les cours de maths et de sciences sont en français, le reste en arabe. À la récréation, on mélange tout — arabe, français, un peu d'anglais. C'est normal ici ! Et toi, tu as combien de langues à l'école ?"
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
-    "source_body_sha256": "58f9a529e15ddc9d89ea451180995ffb5d5354bb66e0c282402d85ea3a6ea26d",
+    "source_body_sha256": "bf7bb178e6738210f674cb2569f71b08164ac1ee2355787647201f802dce2d01",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la vieille ville (la médina).\nle marché (le souk).\nle quartier.\nla côte / le littoral.\nla langue de scolarité.\nune matière (scolaire).\nle voisinage.\nune habitude."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
-    "source_body_sha256": "58f9a529e15ddc9d89ea451180995ffb5d5354bb66e0c282402d85ea3a6ea26d",
+    "source_body_sha256": "bf7bb178e6738210f674cb2569f71b08164ac1ee2355787647201f802dce2d01",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Objet : Une journée ordinaire Coucou Léa, Aujourd'hui, après les cours, je suis allé au souk avec ma mère. On a acheté des dattes et du pain pour ce soir. Le vendredi, on mange souvent le couscous en famille. En classe, j'aime beaucoup le français, mais ce n'est pas toujours facile : nos cours de sciences sont en français, alors il faut apprendre le vocabulaire deux fois ! Mes camarades et moi, on lit aussi des auteurs qui écrivent en français, comme l'écrivain tunisien Albert Memmi. Le week-end, on joue au foot sur la plage. Sfax est au bord de la mer Méditerranée, à environ 270 km au sud de Tunis. Et chez toi, comment se passe le samedi ? À bientôt, Mehdi"

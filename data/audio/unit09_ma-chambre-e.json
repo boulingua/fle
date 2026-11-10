@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit09_ma-chambre-e/index.md",
-    "source_body_sha256": "af14df3c62e5c0f8e1a553d6e6ac4866ad2e25dfac6dc8aa66c365a215ca27d3",
+    "source_body_sha256": "a7ed152b5bc6557a92f6d5f202c9020d4a575e8caba56dc0745606d7fa38ef30",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la maison.\nl'appartement (m.).\nla chambre.\nla cuisine.\nle salon.\nla salle de bains.\nles toilettes (f. pl.).\nle couloir.\nun lit.\nun bureau.\nune chaise.\nune armoire.\nune étagère.\nun canapé.\nun tapis.\nune fenêtre."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit09_ma-chambre-e/index.md",
-    "source_body_sha256": "af14df3c62e5c0f8e1a553d6e6ac4866ad2e25dfac6dc8aa66c365a215ca27d3",
+    "source_body_sha256": "a7ed152b5bc6557a92f6d5f202c9020d4a575e8caba56dc0745606d7fa38ef30",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "sur.\nsous.\ndans.\ndevant.\nderrière.\nà côté de."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit09_ma-chambre-e/index.md",
-    "source_body_sha256": "af14df3c62e5c0f8e1a553d6e6ac4866ad2e25dfac6dc8aa66c365a215ca27d3",
+    "source_body_sha256": "a7ed152b5bc6557a92f6d5f202c9020d4a575e8caba56dc0745606d7fa38ef30",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ma chambre n'est pas grande, mais je l'aime bien. Quand on entre, il y a mon lit à droite, contre le mur. Devant la fenêtre, j'ai mon bureau : dessus, il y a mon ordinateur et une petite lampe. À côté de la porte, il y a une armoire bleue pour mes vêtements. Sous le lit, je range mes chaussures et une vieille boîte de jouets. Dans un coin, mon étagère est pleine de bandes dessinées. Sur le mur, au-dessus du bureau, il y a une carte du monde. J'aime regarder tous les pays et rêver de voyages. Ma chambre, c'est mon petit coin tranquille."

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
-    "source_body_sha256": "39d3751e531f440c685bfaf3e9216d838ff5a2c782e6d7dd8083bfd1d34357a4",
+    "source_body_sha256": "5d54af357147b66bb45fa367d39a8442342a5de46b45bf3c42337d3c1eb54924",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Renault : Regardez : Paris, Marseille, Lyon, Strasbourg, Nice. La semaine prochaine, la classe part en voyage à Marseille ! Théo : À Marseille ? Il y a la mer là-bas ? Mme Renault : Oui, la mer Méditerranée. Il fait chaud et le ciel est bleu. Léa : Super ! Je vais écrire une carte postale à mes parents."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
-    "source_body_sha256": "39d3751e531f440c685bfaf3e9216d838ff5a2c782e6d7dd8083bfd1d34357a4",
+    "source_body_sha256": "5d54af357147b66bb45fa367d39a8442342a5de46b45bf3c42337d3c1eb54924",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la mer · la plage.\nla montagne · le port.\nune ville · une région.\nun monument · un pont.\nvisiter · monter.\nil fait chaud · il fait beau.\nune carte postale.\nbisous."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
-    "source_body_sha256": "39d3751e531f440c685bfaf3e9216d838ff5a2c782e6d7dd8083bfd1d34357a4",
+    "source_body_sha256": "5d54af357147b66bb45fa367d39a8442342a5de46b45bf3c42337d3c1eb54924",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Marseille, le 15 juillet Salut maman, salut papa ! Je suis à Marseille avec la classe. Il fait très chaud et la mer est bleue. Hier, on a visité le Vieux-Port. J'ai mangé une bouillabaisse : c'est une soupe de poisson. C'est bon, mais c'est salé ! Demain, on monte à Notre-Dame de la Garde. On voit toute la ville de là-haut. À bientôt ! Bisous, Léa"

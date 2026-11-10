@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
-    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "source_body_sha256": "cd0d1d7f5e1add80de136b702efe367f40a8b61a6776d689ee9190b80ca2f54d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
-    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "source_body_sha256": "cd0d1d7f5e1add80de136b702efe367f40a8b61a6776d689ee9190b80ca2f54d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
-    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "source_body_sha256": "cd0d1d7f5e1add80de136b702efe367f40a8b61a6776d689ee9190b80ca2f54d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -55,7 +55,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
-    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "source_body_sha256": "cd0d1d7f5e1add80de136b702efe367f40a8b61a6776d689ee9190b80ca2f54d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "tout d'abord / en premier lieu.\npar ailleurs / de plus.\nen revanche / cependant.\npar exemple / ainsi.\nc'est-à-dire.\ncertes… mais.\nen somme / pour conclure.\navoir raison / tort.\nsoutenir / défendre une idée.\nrelancer le débat."
@@ -71,7 +71,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
-    "source_body_sha256": "f9ac662bf0ce8bb42609a93939e20c374c2aa30ef910fcf65fa1b70a2baa0b1e",
+    "source_body_sha256": "cd0d1d7f5e1add80de136b702efe367f40a8b61a6776d689ee9190b80ca2f54d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Sujet :  Faut-il interdire les téléphones portables au lycée ? Introduction. Le téléphone portable est devenu un objet du quotidien pour les lycéens. Faut-il pour autant l'interdire pendant les cours ? Je défendrai l'idée qu'un usage encadré vaut mieux qu'une interdiction totale. Premier argument. Tout d'abord, le téléphone est un outil de travail : dictionnaire, calculatrice, accès à des documents. L'interdire complètement, c'est se priver d'une ressource utile. Deuxième argument. Par ailleurs, une interdiction stricte est difficile à faire respecter. En revanche, apprendre aux élèves à gérer leur attention prépare mieux à la vie adulte. Concession. Certes, le téléphone peut distraire et nuire à la concentration. Mais la solution n'est pas l'interdiction : c'est l'éducation à un usage responsable. Conclusion. En somme, je pense qu'il faut encadrer plutôt qu'interdire. Cela pose d'ailleurs une autre question : quel rôle l'école doit-elle jouer dans l'éducation au numérique ? Merci de votre attention."

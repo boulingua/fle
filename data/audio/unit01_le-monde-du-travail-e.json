@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
-    "source_body_sha256": "f580445c1bda73ef2910bb0758c069a7fbff2debfb8c132a8616a6d0732f9807",
+    "source_body_sha256": "724ebb8ff9ddadfaafbe4ce5f24ef06e52eab8fbad2d15c813ba7ab1d3db637b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "M. Klein : Cette année, vous ferez une semaine de stage : un stage d'orientation en entreprise. Choisissez bien votre lieu ! Anouk : Moi, je voudrais aller à l'Institut français de Karlsruhe. J'aime les langues et les livres. Karim : Et moi, j'aimerais découvrir une maison d'édition à Lille. Je veux devenir journaliste. M. Klein : Très bien. À la fin, chacun rédigera un rapport de stage."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
-    "source_body_sha256": "f580445c1bda73ef2910bb0758c069a7fbff2debfb8c132a8616a6d0732f9807",
+    "source_body_sha256": "724ebb8ff9ddadfaafbe4ce5f24ef06e52eab8fbad2d15c813ba7ab1d3db637b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un stage.\nun·e stagiaire.\nune entreprise.\nun·e collègue.\nun patron / une patronne.\nun·e tuteur·rice.\nun métier.\nun emploi.\nune convention de stage.\nun rapport de stage."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
-    "source_body_sha256": "f580445c1bda73ef2910bb0758c069a7fbff2debfb8c132a8616a6d0732f9807",
+    "source_body_sha256": "724ebb8ff9ddadfaafbe4ce5f24ef06e52eab8fbad2d15c813ba7ab1d3db637b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Lundi 15 février — Institut français de Karlsruhe. Au début, ma tutrice, Mme Lambert, m'a accueillie à 9 h. D'abord, j'ai visité la médiathèque et les salles de cours. Pendant la matinée, j'ai aidé à classer des livres jeunesse : environ quarante ouvrages. Ensuite, j'ai assisté à un cours de français pour adultes débutants. Les apprenants étaient très motivés. J'ai même corrigé deux exercices au tableau. Enfin, après le déjeuner, j'ai rangé l'espace enfants, puis j'ai écrit ce premier compte rendu. Grâce à ma tutrice, je comprends mieux le métier de bibliothécaire. Première journée enrichissante !"

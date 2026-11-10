@@ -35,7 +35,7 @@ Sujet d’entraînement original, non officiel. La durée, les critères et la d
 
 ## Support
 
-### C. Conseils d’une famille d’accueil fictive
+### C. Conseils d’une famille d’accueil fictive (allemand)
 
 > 1. Frag deine Gastfamilie, wie sie begrüßt werden möchte. Ein Wangenkuss ist keine Pflicht.
 > 2. In unserer Familie essen wir das Brot mit der Hand, ohne es zu zerdrücken.

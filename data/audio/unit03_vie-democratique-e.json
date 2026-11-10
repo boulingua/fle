@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
-    "source_body_sha256": "506dc20f7fc6b7b68ace5cafea902fe07c10e1f75c903583c5522b1dbe7da3d9",
+    "source_body_sha256": "9f28c1c9b95f5c8009d2ec8763fdf77caf21f5f03b6dde10067f4be3b19ae3cc",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Au foyer du lycée, un mardi midi. Léa : Dimanche, ma sœur a voté pour la première fois. Elle avait dix-huit ans la semaine dernière. Karim : Elle a voté pour le président ? Léa : Non, pour les députés. Le président, c'est une autre élection. Karim : Attends… il y a le président, les députés, les sénateurs… Qui décide vraiment ? Léa : Justement, personne tout seul. C'est réparti. On voit ça en cours cet après-midi."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
-    "source_body_sha256": "506dc20f7fc6b7b68ace5cafea902fe07c10e1f75c903583c5522b1dbe7da3d9",
+    "source_body_sha256": "9f28c1c9b95f5c8009d2ec8763fdf77caf21f5f03b6dde10067f4be3b19ae3cc",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "élire (j'élis, nous élisons).\nvoter.\nun·e électeur·rice.\nle suffrage universel.\nun mandat.\nun·e député·e.\nun·e sénateur·rice.\nune loi.\nle pouvoir exécutif.\nle pouvoir législatif.\nle pouvoir judiciaire.\nla citoyenneté."
@@ -34,7 +34,7 @@
   {
     "file": "/fle/materials/audio/unit03_vie-democratique-e/dialogue2.ogg",
     "label": "Dialogue 2",
-    "transcript": "Anouk explique la Vᵉ République à sa correspondante\nSalut Mia ! Tu m'as demandé comment fonctionne la démocratie chez nous. Voici l'essentiel.\nLa France est une République. Depuis 1958, nous vivons sous la Cinquième République. Le pouvoir n'est pas concentré dans une seule main : il est partagé.\nLe président de la République est élu directement par les citoyens, pour cinq ans. Avec le Premier ministre et le gouvernement, il forme le pouvoir exécutif : il fait appliquer les lois.\nLe Parlement fait les lois : c'est le pouvoir législatif. Il a deux chambres, l'Assemblée nationale (les députés, élus directement) et le Sénat (les sénateurs, élus indirectement).\nEnfin, des juges et le Conseil constitutionnel contrôlent le respect de la Constitution : c'est le pouvoir judiciaire.\nParticiper, c'est possible de bien des manières : voter, adhérer à une association, signer une pétition, débattre. La démocratie, ce n'est pas seulement le jour du vote !\nÀ bientôt, Anouk",
+    "transcript": "Anouk explique la Vᵉ République à sa correspondante\nSalut Mia ! Tu m'as demandé comment fonctionne la démocratie chez nous. Voici l'essentiel.\nLa France est une République. Depuis 1958, nous vivons sous la Cinquième République. Le pouvoir n'est pas concentré dans une seule main : il est partagé.\nLe président de la République est élu directement par les citoyens, pour cinq ans. Avec le Premier ministre et le gouvernement, il forme le pouvoir exécutif : il fait appliquer les lois.\nLe Parlement fait les lois : c'est le pouvoir législatif. Il a deux chambres, l'Assemblée nationale (les députés, élus directement) et le Sénat (les sénateurs, élus indirectement).\nLes juridictions rendent la justice. Le Conseil constitutionnel, distinct de l'autorité judiciaire, contrôle notamment la conformité des lois à la Constitution.\nParticiper, c'est possible de bien des manières : voter, adhérer à une association, signer une pétition, débattre. La démocratie, ce n'est pas seulement le jour du vote !\nÀ bientôt, Anouk",
     "source": "tts",
     "voice": "fr_FR-mls-medium",
     "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
@@ -42,9 +42,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
-    "source_body_sha256": "506dc20f7fc6b7b68ace5cafea902fe07c10e1f75c903583c5522b1dbe7da3d9",
+    "source_body_sha256": "9f28c1c9b95f5c8009d2ec8763fdf77caf21f5f03b6dde10067f4be3b19ae3cc",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
-    "tts": "Anouk explique la Vᵉ République à sa correspondante Salut Mia ! Tu m'as demandé comment fonctionne la démocratie chez nous. Voici l'essentiel. La France est une République. Depuis 1958, nous vivons sous la Cinquième République. Le pouvoir n'est pas concentré dans une seule main : il est partagé. Le président de la République est élu directement par les citoyens, pour cinq ans. Avec le Premier ministre et le gouvernement, il forme le pouvoir exécutif : il fait appliquer les lois. Le Parlement fait les lois : c'est le pouvoir législatif. Il a deux chambres, l'Assemblée nationale (les députés, élus directement) et le Sénat (les sénateurs, élus indirectement). Enfin, des juges et le Conseil constitutionnel contrôlent le respect de la Constitution : c'est le pouvoir judiciaire. Participer, c'est possible de bien des manières : voter, adhérer à une association, signer une pétition, débattre. La démocratie, ce n'est pas seulement le jour du vote ! À bientôt, Anouk"
+    "tts": "Anouk explique la Vᵉ République à sa correspondante Salut Mia ! Tu m'as demandé comment fonctionne la démocratie chez nous. Voici l'essentiel. La France est une République. Depuis 1958, nous vivons sous la Cinquième République. Le pouvoir n'est pas concentré dans une seule main : il est partagé. Le président de la République est élu directement par les citoyens, pour cinq ans. Avec le Premier ministre et le gouvernement, il forme le pouvoir exécutif : il fait appliquer les lois. Le Parlement fait les lois : c'est le pouvoir législatif. Il a deux chambres, l'Assemblée nationale (les députés, élus directement) et le Sénat (les sénateurs, élus indirectement). Les juridictions rendent la justice. Le Conseil constitutionnel, distinct de l'autorité judiciaire, contrôle notamment la conformité des lois à la Constitution. Participer, c'est possible de bien des manières : voter, adhérer à une association, signer une pétition, débattre. La démocratie, ce n'est pas seulement le jour du vote ! À bientôt, Anouk"
   }
 ]

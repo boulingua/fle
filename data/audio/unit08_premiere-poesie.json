@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
-    "source_body_sha256": "9151cd34925def205b80edf80de6ff4c547917bb02fecfb0ba7d24a0dafb9b5c",
+    "source_body_sha256": "f06cac32dec43f869fb2fe6cfd65523b9cbcd017e4829ae62b618429de8fc8eb",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
-    "source_body_sha256": "9151cd34925def205b80edf80de6ff4c547917bb02fecfb0ba7d24a0dafb9b5c",
+    "source_body_sha256": "f06cac32dec43f869fb2fe6cfd65523b9cbcd017e4829ae62b618429de8fc8eb",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un poème.\nun vers.\nune strophe.\nune rime.\nun poète / une poète.\nle rythme.\nla musicalité.\nune image.\nréciter.\ndoux / douce."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
-    "source_body_sha256": "9151cd34925def205b80edf80de6ff4c547917bb02fecfb0ba7d24a0dafb9b5c",
+    "source_body_sha256": "f06cac32dec43f869fb2fe6cfd65523b9cbcd017e4829ae62b618429de8fc8eb",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Les sanglots longs Des violons De l'automne Blessent mon cœur D'une langueur Monotone. Tout suffocant Et blême, quand Sonne l'heure, Je me souviens Des jours anciens Et je pleure ;"

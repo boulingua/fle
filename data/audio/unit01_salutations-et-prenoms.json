@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
-    "source_body_sha256": "803f1d929e1a1f42a5a95c25d2b4b500aa9e787a9401368d0df5dff19c0fdb19",
+    "source_body_sha256": "773476ee1d78bced22cbcb535cd22b652f40c63b591359a65a6de09d248398c6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Camille : Bonjour ! Moi, c'est Camille. Et toi, comment tu t'appelles ? Yanis : Salut Camille ! Je m'appelle Yanis. Y-A-N-I-S. Camille : Enchantée ! Tu as quel âge ? Yanis : J'ai onze ans. Et toi ? Camille : Moi aussi, onze ans. À tout à l'heure ! Camille et Yanis : Bonjour, madame ! La directrice : Bonjour ! Vous êtes en 6e ? Bienvenue."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
-    "source_body_sha256": "803f1d929e1a1f42a5a95c25d2b4b500aa9e787a9401368d0df5dff19c0fdb19",
+    "source_body_sha256": "773476ee1d78bced22cbcb535cd22b652f40c63b591359a65a6de09d248398c6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Bonjour.\nBonsoir.\nSalut.\nAu revoir.\nÀ bientôt.\nMerci.\nS'il te plaît / vous plaît.\nJe m'appelle ….\nComment tu t'appelles ?.\nTu as quel âge ?.\nJ'ai … ans.\nEnchanté·e."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
-    "source_body_sha256": "803f1d929e1a1f42a5a95c25d2b4b500aa9e787a9401368d0df5dff19c0fdb19",
+    "source_body_sha256": "773476ee1d78bced22cbcb535cd22b652f40c63b591359a65a6de09d248398c6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Bonsoir ! Je m'appelle Léa. Et toi ? Théo : Salut Léa. Moi, c'est Théo. T-H-É-O. Léa : Tu as quel âge, Théo ? Théo : J'ai douze ans. Et toi ? Léa : J'ai onze ans. À bientôt ! Théo : Au revoir !"

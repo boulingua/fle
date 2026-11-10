@@ -1,23 +1,5 @@
 [
   {
-    "file": "/fle/materials/audio/unit06_mediation-finale/dialogue1.ogg",
-    "label": "Dialogue 1",
-    "transcript": "Frau Weber : Entschuldigung, ich verstehe diese Durchsage nicht. Was hat der Kontrolleur gerade gesagt?\nLéo (lycéen) : Il a annoncé que le train pour Bâle partira du quai 3, avec dix minutes de retard. Vous avez le temps.\nFrau Weber : Und muss ich umsteigen?\nLéo : Non, c'est direct. Mais il a précisé qu'il ne faut pas oublier de composter — enfin, de valider — votre billet avant de monter.",
-    "source": "tts",
-    "voice": "fr_FR-mls-medium",
-    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
-    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
-    "speaker_id": 0,
-    "synthesis_backend": "piper-python/1thread",
-    "source_path": "content/track_e_kl13/units/unit06_mediation-finale/index.md",
-    "source_body_sha256": "275bbb77d2357180f21673a7620707791d6c67af0f8f32762e99845500e09841",
-    "extraction_policy": "learner-input-v3",
-    "withheld_foreign_sections": [
-      "Texte à médier (original, DE)"
-    ],
-    "tts": "Frau Weber : Entschuldigung, ich verstehe diese Durchsage nicht. Was hat der Kontrolleur gerade gesagt? Léo (lycéen) : Il a annoncé que le train pour Bâle partira du quai 3, avec dix minutes de retard. Vous avez le temps. Frau Weber : Und muss ich umsteigen? Léo : Non, c'est direct. Mais il a précisé qu'il ne faut pas oublier de composter — enfin, de valider — votre billet avant de monter."
-  },
-  {
     "file": "/fle/materials/audio/unit06_mediation-finale/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "transmettre l'essentiel · reformuler · le destinataire · adapter le registre · un faux ami · un calque · préciser · selon la source",
@@ -28,9 +10,10 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit06_mediation-finale/index.md",
-    "source_body_sha256": "275bbb77d2357180f21673a7620707791d6c67af0f8f32762e99845500e09841",
+    "source_body_sha256": "1c8ff9928e05c0ca580d0a3d654a7baa399ed039995ac3910f6da84ac018057f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
+      "Situation de départ (français / allemand)",
       "Texte à médier (original, DE)"
     ],
     "tts": "transmettre l'essentiel.\nreformuler.\nle destinataire.\nadapter le registre.\nun faux ami.\nun calque.\npréciser.\nselon la source."

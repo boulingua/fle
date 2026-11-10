@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit03_vie-democratique/index.md",
-    "source_body_sha256": "657c2a11acbf6fa62a791f5916ea7ff6fecfad4c3f1e358b7d620b9b334541ce",
+    "source_body_sha256": "f42669cca6f6c10da6116c97a0c888e0a3a1d5cc1166516c594756ac9c3b7609",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la démocratie.\nune élection.\nvoter.\nun·e électeur·rice.\nle suffrage universel.\nun·e citoyen·ne.\nun·e député·e.\nune loi.\nle pouvoir.\nun mandat."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit03_vie-democratique/index.md",
-    "source_body_sha256": "657c2a11acbf6fa62a791f5916ea7ff6fecfad4c3f1e358b7d620b9b334541ce",
+    "source_body_sha256": "f42669cca6f6c10da6116c97a0c888e0a3a1d5cc1166516c594756ac9c3b7609",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Participer, c'est un droit En France, les citoyennes et les citoyens majeurs peuvent voter. Le vote est un droit, pas une obligation : on est libre d'aller ou non aux urnes. Voter permet de choisir ses représentants, par exemple les députés qui votent les lois à l'Assemblée nationale. Mais participer à la vie démocratique ne se limite pas au vote. On peut aussi s'informer auprès de sources fiables, débattre, signer une pétition ou s'engager dans une association. La démocratie vit grâce à cette participation quotidienne, entre deux élections."

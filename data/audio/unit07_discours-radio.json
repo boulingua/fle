@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit07_discours-radio/index.md",
-    "source_body_sha256": "da344c0d56114576ca82a2df1273672d024844366dc6f2ee3486f3dcada3d8a1",
+    "source_body_sha256": "b5ea792c745947378b7f9a9d31babc0bbe74cd8102771e53aa369d599c8d16c1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit07_discours-radio/index.md",
-    "source_body_sha256": "da344c0d56114576ca82a2df1273672d024844366dc6f2ee3486f3dcada3d8a1",
+    "source_body_sha256": "b5ea792c745947378b7f9a9d31babc0bbe74cd8102771e53aa369d599c8d16c1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un éditorial / un édito.\nune chronique.\nêtre à l'antenne.\nle direct.\nun auditeur / une auditrice.\ns'adresser à.\nle débit.\nle registre (de langue).\nla chute.\ntendre l'oreille."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit07_discours-radio/index.md",
-    "source_body_sha256": "da344c0d56114576ca82a2df1273672d024844366dc6f2ee3486f3dcada3d8a1",
+    "source_body_sha256": "b5ea792c745947378b7f9a9d31babc0bbe74cd8102771e53aa369d599c8d16c1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Chronique du matin — 7 h 45. Bonjour à toutes et à tous, ici Camille Da Silva. Ce matin, je voudrais vous parler d'un geste tout simple : écouter. Écouter, vraiment. Pas seulement entendre. Nous entendons des milliers de mots chaque jour. Mais combien en écoutons-nous vraiment ? À la radio, il y a une chose précieuse : le silence. Une seconde de silence, à l'antenne, c'est très long. Trop long, disent certains. Et pourtant, ce silence, c'est de la place pour votre pensée. D'un côté, un monde qui parle vite, qui parle fort. De l'autre, une voix qui prend le temps. Vous voyez la différence ? Alors, ce matin, je vous propose une expérience. Éteignez vos écrans une minute. Fermez les yeux. Et écoutez : la ville, la pluie, la personne à côté de vous. Écouter, c'est déjà comprendre. Écouter, c'est déjà respecter. Nous vivons pressés. Mais la radio, elle, nous rappelle une vérité toute simple : il faut du temps pour se comprendre. Voilà. C'était la chronique du matin. Belle journée à vous — et surtout, tendez l'oreille."

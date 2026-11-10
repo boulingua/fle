@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit11_abitur-mock-final/index.md",
-    "source_body_sha256": "8d7ccf7f7c536e2a3d26c19abdc7f2056bb643a1fc6c71d81740f87b6b68e9e1",
+    "source_body_sha256": "7e1c53780fe1ba6a6980ea5491bb491ed01034c42469ec32de93aa6d5b06d7d7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Renard :  Aujourd'hui, ce n'est pas un cours ordinaire. C'est un examen blanc, en conditions réelles : une seule feuille de sujet, un dictionnaire, et le temps qui tourne. Yanis :  Madame, on a le droit de commencer par l'expression écrite ? Mme Renard :  Vous êtes libres de l'ordre. Mais lisez d'abord tout le sujet. On ne rédige jamais avant d'avoir compris ce qu'on vous demande. Lina :  Et si je bloque sur une question ? Mme Renard :  Vous passez à la suivante, vous y revenez après. Une copie finie vaut mieux qu'une copie parfaite mais inachevée."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit11_abitur-mock-final/index.md",
-    "source_body_sha256": "8d7ccf7f7c536e2a3d26c19abdc7f2056bb643a1fc6c71d81740f87b6b68e9e1",
+    "source_body_sha256": "7e1c53780fe1ba6a6980ea5491bb491ed01034c42469ec32de93aa6d5b06d7d7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la consigne.\nle barème.\nla relecture.\nla compréhension écrite.\nl'expression écrite.\nla francophonie.\nun·e locuteur·rice.\nune langue en partage.\nvaloriser.\nnéanmoins.\nen effet.\npar conséquent."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit11_abitur-mock-final/index.md",
-    "source_body_sha256": "8d7ccf7f7c536e2a3d26c19abdc7f2056bb643a1fc6c71d81740f87b6b68e9e1",
+    "source_body_sha256": "7e1c53780fe1ba6a6980ea5491bb491ed01034c42469ec32de93aa6d5b06d7d7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Une langue, plusieurs voix Chaque année, le 20 mars, la Journée internationale de la francophonie rappelle une évidence simple : le français n'appartient plus à un seul pays. On le parle à Dakar comme à Montréal, à Bruxelles comme à Port-au-Prince, et bien sûr à Paris. Pour les uns, cette diffusion est une richesse : chaque région apporte ses mots, ses accents, ses musiques. Pour les autres, elle pose une question : à qui  appartient  une langue partagée par des centaines de millions de personnes ? Les linguistes répondent souvent par une image : une langue n'est pas un musée que l'on protège, mais une rivière qui coule et se transforme. Elle emprunte, elle invente, elle oublie. Ce mouvement n'est pas une faiblesse ; c'est le signe qu'elle est vivante. Reste une certitude : plus on est nombreux à la parler, plus elle a de voix pour dire le monde."

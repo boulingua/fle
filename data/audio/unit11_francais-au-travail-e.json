@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
-    "source_body_sha256": "928428530041c913847503d103c7f3b440ad62b138894047a5f2c556cce768e3",
+    "source_body_sha256": "0f3b221149df5a0c5aac0fe415877798d5435f05c1d6074d7baa87abe5528793",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Lambert : Bonjour Anouk, bienvenue dans l'équipe. Vous avez fait bon voyage ? Anouk : Bonjour Madame. Oui, merci, tout s'est bien passé. Mme Lambert : Parfait. Alors, votre première mission : nous avons reçu un courriel en allemand d'un partenaire de Francfort. Pourriez-vous m'en résumer le contenu en français, pour notre collègue de Strasbourg ? Anouk : Bien sûr. Je m'en occupe tout de suite. Mme Lambert : Merci. Et n'hésitez pas à me poser des questions : ici, on se vouvoie, mais on reste une petite équipe."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
-    "source_body_sha256": "928428530041c913847503d103c7f3b440ad62b138894047a5f2c556cce768e3",
+    "source_body_sha256": "0f3b221149df5a0c5aac0fe415877798d5435f05c1d6074d7baa87abe5528793",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Cordialement,.\nBien à vous,.\nJe me permets de vous écrire.\nVeuillez trouver ci-joint.\nEn pièce jointe.\nPourriez-vous… ?.\nJe me permets de vous relancer.\nAvec mes remerciements,.\nCher Monsieur, / Chère Madame,.\nJe reste à votre disposition."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
-    "source_body_sha256": "928428530041c913847503d103c7f3b440ad62b138894047a5f2c556cce768e3",
+    "source_body_sha256": "0f3b221149df5a0c5aac0fe415877798d5435f05c1d6074d7baa87abe5528793",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Objet : Programme de la Foire du livre de Francfort Chère Madame Lambert, Je me permets de vous écrire au sujet de notre rencontre du mois prochain. Veuillez trouver ci-joint le programme provisoire de la Foire du livre de Francfort. Pourriez-vous le transmettre à votre collègue de Strasbourg ? Je reste à votre disposition pour toute question et vous en remercie par avance. Cordialement, Klaus Weber"

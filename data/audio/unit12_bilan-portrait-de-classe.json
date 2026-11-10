@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
-    "source_body_sha256": "f6806cfb43ffbc16aac9d190688b9112936e367173d4088df285d260d267282d",
+    "source_body_sha256": "55f04240c218ac708ca20ef1de84adc4dc1487fffe84b3c2a9d34c79ea8417d4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "Texte source allemand pour la médiation (texte original)"
@@ -28,7 +28,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
-    "source_body_sha256": "f6806cfb43ffbc16aac9d190688b9112936e367173d4088df285d260d267282d",
+    "source_body_sha256": "55f04240c218ac708ca20ef1de84adc4dc1487fffe84b3c2a9d34c79ea8417d4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "Texte source allemand pour la médiation (texte original)"
@@ -46,7 +46,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
-    "source_body_sha256": "f6806cfb43ffbc16aac9d190688b9112936e367173d4088df285d260d267282d",
+    "source_body_sha256": "55f04240c218ac708ca20ef1de84adc4dc1487fffe84b3c2a9d34c79ea8417d4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "Texte source allemand pour la médiation (texte original)"

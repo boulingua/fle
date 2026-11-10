@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
-    "source_body_sha256": "713826ecacc08a0c797d37a86eb5df34773b19e421a6fc7e872f4290db7fb901",
+    "source_body_sha256": "be4be4f4b8afcdc9dc9f68e0bf88f9a1c679bf2cc5fae89b05d4d7dbc43a2df1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
-    "source_body_sha256": "713826ecacc08a0c797d37a86eb5df34773b19e421a6fc7e872f4290db7fb901",
+    "source_body_sha256": "be4be4f4b8afcdc9dc9f68e0bf88f9a1c679bf2cc5fae89b05d4d7dbc43a2df1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa — J'ai trouvé un super article en allemand sur les erreurs des intelligences artificielles. Mais je ne peux pas tout traduire, ce serait trop long et trop technique. Yanis — De toute façon, on ne te demande pas de traduire. Il faut transmettre : dire l'essentiel en français, pour des lecteurs qui ne lisent pas l'allemand. Léa — Donc je garde les chiffres et le nom des chercheurs, mais je reformule les explications ? Yanis — Exactement. Et surtout, tu ne rajoutes pas ton avis. On restitue ce que dit l'auteur, pas ce qu'on en pense."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
-    "source_body_sha256": "713826ecacc08a0c797d37a86eb5df34773b19e421a6fc7e872f4290db7fb901",
+    "source_body_sha256": "be4be4f4b8afcdc9dc9f68e0bf88f9a1c679bf2cc5fae89b05d4d7dbc43a2df1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "l'étude (f.).\nla chercheuse / le chercheur.\nla source.\nle résultat.\nla thèse (l'hypothèse).\ndémontrer, établir.\nsupposer, suggérer.\nles termes techniques.\nenviron, à peu près.\nselon, d'après."
@@ -49,7 +49,7 @@
   {
     "file": "/fle/materials/audio/unit05_mediation-academique/dialogue1.ogg",
     "label": "Dialogue 1",
-    "transcript": "Médiation d'un article de vulgarisation (source allemande).\nSelon un article de vulgarisation scientifique, les grands modèles de langage — comme les agents conversationnels d'aujourd'hui — produisent parfois des réponses fausses tout en paraissant sûrs d'eux. Les spécialistes appellent ce phénomène une  hallucination  : le programme invente une information plausible mais inexacte. D'après les données citées, ces erreurs seraient plus fréquentes lorsque la question porte sur un domaine précis, par exemple la médecine ou le droit. Les auteurs ne condamnent pas la technologie ; ils suggèrent plutôt une vérification systématique des sources par des personnes compétentes. La conclusion reste prudente : l'outil peut aider, à condition que l'utilisateur garde un regard critique et ne prenne pas chaque réponse pour une vérité établie.",
+    "transcript": "Exemple fictif de discours de vulgarisation.\nLe passage et les données évoquées ci-dessous sont inventés pour travailler l'attribution et la prudence. Aucun article allemand identifiable n'est fourni; ce texte ne constitue pas une preuve scientifique.\nSelon un article de vulgarisation scientifique, les grands modèles de langage — comme les agents conversationnels d'aujourd'hui — produisent parfois des réponses fausses tout en paraissant sûrs d'eux. Les spécialistes appellent ce phénomène une  hallucination  : le programme invente une information plausible mais inexacte. D'après les données citées, ces erreurs seraient plus fréquentes lorsque la question porte sur un domaine précis, par exemple la médecine ou le droit. Les auteurs ne condamnent pas la technologie ; ils suggèrent plutôt une vérification systématique des sources par des personnes compétentes. La conclusion reste prudente : l'outil peut aider, à condition que l'utilisateur garde un regard critique et ne prenne pas chaque réponse pour une vérité établie.",
     "source": "tts",
     "voice": "fr_FR-mls-medium",
     "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
@@ -57,9 +57,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
-    "source_body_sha256": "713826ecacc08a0c797d37a86eb5df34773b19e421a6fc7e872f4290db7fb901",
+    "source_body_sha256": "be4be4f4b8afcdc9dc9f68e0bf88f9a1c679bf2cc5fae89b05d4d7dbc43a2df1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
-    "tts": "Médiation d'un article de vulgarisation (source allemande). Selon un article de vulgarisation scientifique, les grands modèles de langage — comme les agents conversationnels d'aujourd'hui — produisent parfois des réponses fausses tout en paraissant sûrs d'eux. Les spécialistes appellent ce phénomène une  hallucination  : le programme invente une information plausible mais inexacte. D'après les données citées, ces erreurs seraient plus fréquentes lorsque la question porte sur un domaine précis, par exemple la médecine ou le droit. Les auteurs ne condamnent pas la technologie ; ils suggèrent plutôt une vérification systématique des sources par des personnes compétentes. La conclusion reste prudente : l'outil peut aider, à condition que l'utilisateur garde un regard critique et ne prenne pas chaque réponse pour une vérité établie."
+    "tts": "Exemple fictif de discours de vulgarisation. Le passage et les données évoquées ci-dessous sont inventés pour travailler l'attribution et la prudence. Aucun article allemand identifiable n'est fourni; ce texte ne constitue pas une preuve scientifique. Selon un article de vulgarisation scientifique, les grands modèles de langage — comme les agents conversationnels d'aujourd'hui — produisent parfois des réponses fausses tout en paraissant sûrs d'eux. Les spécialistes appellent ce phénomène une  hallucination  : le programme invente une information plausible mais inexacte. D'après les données citées, ces erreurs seraient plus fréquentes lorsque la question porte sur un domaine précis, par exemple la médecine ou le droit. Les auteurs ne condamnent pas la technologie ; ils suggèrent plutôt une vérification systématique des sources par des personnes compétentes. La conclusion reste prudente : l'outil peut aider, à condition que l'utilisateur garde un regard critique et ne prenne pas chaque réponse pour une vérité établie."
   }
 ]

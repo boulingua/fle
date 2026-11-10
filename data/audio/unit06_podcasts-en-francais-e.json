@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
-    "source_body_sha256": "67e30f6abd75257d3308f10ab0846a66b16c4d32f21030aec69191796b46121e",
+    "source_body_sha256": "e9131812c8fa9056c37893f646a1b068a24e211046e3fdd9e6f183eb68a9501b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Tu écoutes quoi, en ce moment ? Malik : Un podcast sur l'histoire, Les récits du jeudi. Un épisode dure un quart d'heure, c'est parfait pour le trajet. Léa : Moi, je préfère les podcasts d'actualité. Le matin, j'en écoute un qui résume l'info en dix minutes. Comme ça, je sais de quoi tout le monde parle. Malik : Et tu retiens tout ? Léa : Non ! Je note trois ou quatre mots-clés sur mon téléphone. Après, je réécoute si c'est important."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
-    "source_body_sha256": "67e30f6abd75257d3308f10ab0846a66b16c4d32f21030aec69191796b46121e",
+    "source_body_sha256": "e9131812c8fa9056c37893f646a1b068a24e211046e3fdd9e6f183eb68a9501b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un podcast / une baladodiffusion.\nun épisode.\nl'animateur / l'animatrice.\nl'invité / l'invitée.\ns'abonner (à).\nun extrait.\nla transcription.\nrésumer.\nun mot-clé."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
-    "source_body_sha256": "67e30f6abd75257d3308f10ab0846a66b16c4d32f21030aec69191796b46121e",
+    "source_body_sha256": "e9131812c8fa9056c37893f646a1b068a24e211046e3fdd9e6f183eb68a9501b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Animatrice : Bonjour et bienvenue dans Les récits du jeudi. Aujourd'hui, direction l'Égypte, en 1922. Un archéologue britannique cherche depuis des années une tombe oubliée dans la Vallée des Rois. Animatrice : Au mois de novembre, ses ouvriers dégagent une première marche taillée dans la pierre. L'archéologue fait creuser, encore et encore. Puis, à travers un petit trou, il aperçoit enfin des objets qui brillent.  Vous voyez quelque chose ?  lui demande un ami.  Oui, répond-il, des merveilles ! Animatrice : C'était l'entrée d'une tombe restée fermée pendant plus de trois mille ans. Une découverte qui allait faire le tour du monde. La suite, tout de suite, après une courte pause."

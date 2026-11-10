@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e/index.md",
-    "source_body_sha256": "4a231d272297fee1596a42f8dad4fb18691c556252188b3a561b9f89c7d67b20",
+    "source_body_sha256": "f23f21cee6ad7a80f5e81ba38736d6035ff32c4231e7dcf3f5ee2bc390aed6c4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Devos : Aujourd'hui, une question qui vous concerne : faut-il interdire les écrans en classe ? Anouk, tu commences. Anouk : Alors… d'un côté, les écrans sont utiles. On accède vite à un dictionnaire ou à une carte. Karim : Oui, mais d'un autre côté, ça distrait. Hier, trois personnes regardaient des vidéos pendant le cours. Anouk : C'est vrai. Néanmoins, je pense qu'un usage encadré serait une bonne solution. Mme Devos : Très bien. Vous venez d'annoncer une position nuancée : ni tout pour, ni tout contre."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e/index.md",
-    "source_body_sha256": "4a231d272297fee1596a42f8dad4fb18691c556252188b3a561b9f89c7d67b20",
+    "source_body_sha256": "f23f21cee6ad7a80f5e81ba38736d6035ff32c4231e7dcf3f5ee2bc390aed6c4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un argument.\nune prise de position.\nun exemple.\nêtre pour / contre.\nnuancé·e.\nun inconvénient.\nun avantage.\nconvaincre."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e/index.md",
-    "source_body_sha256": "4a231d272297fee1596a42f8dad4fb18691c556252188b3a561b9f89c7d67b20",
+    "source_body_sha256": "f23f21cee6ad7a80f5e81ba38736d6035ff32c4231e7dcf3f5ee2bc390aed6c4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Faut-il interdire les écrans à l'école ? D'une part, les écrans donnent un accès rapide aux ressources : dictionnaires, cartes, simulations. En effet, en cours d'histoire, on peut visiter un monument en trois dimensions. De plus, les élèves qui apprennent mieux par l'image y trouvent un vrai soutien. D'autre part, les écrans peuvent distraire. Pourtant, une attention limitée nuit aux apprentissages : certains élèves consultent leurs messages au lieu de suivre. Néanmoins, des règles claires permettraient un usage raisonné. En conclusion, je suis pour un usage encadré : pas d'interdiction totale, mais une durée limitée et des applications validées par l'enseignant·e."

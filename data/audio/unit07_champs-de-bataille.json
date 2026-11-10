@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
-    "source_body_sha256": "ff2535045ead73a1391a7a902c3122c12bae0292551736f434c82d60c62519d3",
+    "source_body_sha256": "0acded2c226af5e86ad2c8a255500c2aa964d63eaf3189da7997613687f43d6a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Devos. — En mai, notre classe partira pour Verdun, dans l'est de la France. C'est l'un des plus grands champs de bataille de la Première Guerre mondiale. Anouk. — Pourquoi visiter un endroit où tant de soldats sont morts ? Mme Devos. — Justement pour ne pas oublier. Aujourd'hui, Verdun est devenu un lieu de mémoire franco-allemand : Français et Allemands s'y souviennent ensemble. Yanis. — Et nous, qu'est-ce que nous allons y faire ? Mme Devos. — Chacun préparera une petite  page mémoire  sur un lieu. Anouk, tu prends Verdun ; Yanis, tu prends Ypres, en Belgique."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
-    "source_body_sha256": "ff2535045ead73a1391a7a902c3122c12bae0292551736f434c82d60c62519d3",
+    "source_body_sha256": "0acded2c226af5e86ad2c8a255500c2aa964d63eaf3189da7997613687f43d6a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un soldat.\nune tranchée.\nune bataille.\nun monument aux morts.\nun cimetière.\nla mémoire.\nla paix.\nla réconciliation."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
-    "source_body_sha256": "ff2535045ead73a1391a7a902c3122c12bae0292551736f434c82d60c62519d3",
+    "source_body_sha256": "0acded2c226af5e86ad2c8a255500c2aa964d63eaf3189da7997613687f43d6a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Verdun, février – décembre 1916. La bataille de Verdun fut l'une des plus longues de la Grande Guerre. Pendant près de dix mois, l'armée française et l'armée allemande s'affrontèrent autour de cette ville de l'est de la France. Des centaines de milliers de soldats tombèrent ou furent blessés. Aujourd'hui, l'Ossuaire de Douaumont conserve les ossements de dizaines de milliers de soldats restés inconnus, français comme allemands. Devant lui s'étend un immense cimetière militaire. En 1984, le président français et le chancelier allemand se tinrent la main devant l'ossuaire. Ce geste devint un symbole fort de la réconciliation et de la paix en Europe."

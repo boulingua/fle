@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit10_mes-loisirs-e/index.md",
-    "source_body_sha256": "d42c7f619f220dc5675159930230f65382d61ecdeb522b4d73536d62d4d8f868",
+    "source_body_sha256": "7735438b2cad4d7b1cbd66d67e94585abcf891b62afa6fa06ead2ae487911f27",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Tristan — Salut Anouk ! Qu'est-ce que tu fais ce soir ? Anouk — Ce soir, j'ai judo. Je fais du judo tous les mardis. Tristan — Ah, moi je joue de la guitare le mardi. Et le week-end, je joue au foot. Anouk — Tu joues souvent ? Tristan — Deux fois par semaine ! Tu veux venir essayer dimanche ? Anouk — Pourquoi pas !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit10_mes-loisirs-e/index.md",
-    "source_body_sha256": "d42c7f619f220dc5675159930230f65382d61ecdeb522b4d73536d62d4d8f868",
+    "source_body_sha256": "7735438b2cad4d7b1cbd66d67e94585abcf891b62afa6fa06ead2ae487911f27",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le football (le foot).\nla danse.\nle judo.\nla natation.\nle théâtre.\nla guitare.\nle piano.\nla lecture.\nl'escalade (f.).\nle dessin."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit10_mes-loisirs-e/index.md",
-    "source_body_sha256": "d42c7f619f220dc5675159930230f65382d61ecdeb522b4d73536d62d4d8f868",
+    "source_body_sha256": "7735438b2cad4d7b1cbd66d67e94585abcf891b62afa6fa06ead2ae487911f27",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Salut ! Je m'appelle Anouk, j'ai onze ans et j'habite à Strasbourg. Mes loisirs ? J'en ai beaucoup ! Le mardi soir, je fais du judo avec mon copain Tristan. Le mercredi après-midi, je joue au foot avec mes copines : on s'entraîne toujours au stade du quartier. Le week-end, c'est plus calme. Le dimanche matin, je joue du piano pendant une heure. J'aime aussi beaucoup la lecture : en ce moment, je lis un roman d'aventures et je le trouve passionnant. Tristan, lui, joue de la guitare et fait de l'escalade. Il ne fait presque jamais de natation, parce qu'il n'aime pas l'eau froide ! On se retrouve souvent au club de judo, et parfois on va ensemble au cinéma."

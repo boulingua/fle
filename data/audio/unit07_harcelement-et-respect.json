@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
-    "source_body_sha256": "2739dfccf0682abb257529c0f309c58c55e6aa883081075e9a10374e6552071f",
+    "source_body_sha256": "0ab113d8202d527d3cdfacc517b8731de2d8936389a76d0645482e425a2744c5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
-    "source_body_sha256": "2739dfccf0682abb257529c0f309c58c55e6aa883081075e9a10374e6552071f",
+    "source_body_sha256": "0ab113d8202d527d3cdfacc517b8731de2d8936389a76d0645482e425a2744c5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le harcèlement / harceler.\nle cyberharcèlement.\nse moquer de quelqu'un.\ninsulter.\nisoler / mettre à l'écart.\nle témoin.\nsignaler / dénoncer.\nsoutenir / le soutien.\navoir peur / la peur.\nse sentir seul·e.\ndemander de l'aide.\nla confiance."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
-    "source_body_sha256": "2739dfccf0682abb257529c0f309c58c55e6aa883081075e9a10374e6552071f",
+    "source_body_sha256": "0ab113d8202d527d3cdfacc517b8731de2d8936389a76d0645482e425a2744c5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ce soir, j'ai enfin parlé. J'avais les mains qui tremblaient, mais Yanis était à côté de moi. Mme Blanc nous a écoutés sans nous couper. Elle a dit une phrase que je n'oublierai pas :  Ce n'est pas à toi d'avoir honte. Demain, on rencontre la CPE. J'ai encore un peu peur, mais moins qu'hier. Ce qui a changé ? Je ne suis plus seule. Quand on est deux à porter un poids, il devient plus léger."

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit04_futurs-projets/index.md",
-    "source_body_sha256": "dadb916f6d85027d89cd9657831494b0e3f3fbca8eb3291dea3380f14d41ce78",
+    "source_body_sha256": "40f6d32f9acefb741bc011b226057e697aba3a40aa2afaa9f48bd215bf80e0a6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "M. Bakayoko. — Léa, qu'est-ce que tu feras dans dix ans ? Léa. — Je serai vétérinaire. Je soignerai les animaux dans une clinique. M. Bakayoko. — Très bien. Et toi, Karim ? Karim. — Moi, je ne sais pas encore… Je voyagerai, je pense. Je verrai le monde d'abord ! M. Bakayoko. — Parfait. Aujourd'hui, nous apprendrons à parler de l'avenir. Vous ferez tous des projets."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit04_futurs-projets/index.md",
-    "source_body_sha256": "dadb916f6d85027d89cd9657831494b0e3f3fbca8eb3291dea3380f14d41ce78",
+    "source_body_sha256": "40f6d32f9acefb741bc011b226057e697aba3a40aa2afaa9f48bd215bf80e0a6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "l'avenir (m.).\nun projet.\nun rêve.\nun métier.\nles études (f. pl.).\nfaire un stage.\ns'installer (quelque part).\ngagner sa vie.\nfonder une famille.\nplus tard.\ndans dix ans.\npeut-être."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit04_futurs-projets/index.md",
-    "source_body_sha256": "dadb916f6d85027d89cd9657831494b0e3f3fbca8eb3291dea3380f14d41ce78",
+    "source_body_sha256": "40f6d32f9acefb741bc011b226057e697aba3a40aa2afaa9f48bd215bf80e0a6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

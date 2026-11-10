@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
-    "source_body_sha256": "018f7c7d22e079b8ecd39b09a86138ee7158bc87a6fb678803d185731870b4f4",
+    "source_body_sha256": "fade5865e79c2464dd979e2ec00110262c3b942b05bddd8963e1d4ede4d0b453",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Karim, tu m'avais promis de venir samedi. Je t'ai attendue une heure devant le cinéma ! Karim : Je sais, je suis vraiment désolé. Ma petite sœur était malade et je devais la garder. Léa : Mais tu aurais pu m'envoyer un message ! Je me suis sentie ridicule, toute seule. Karim : Tu as raison, j'aurais dû te prévenir. Je comprends que tu sois fâchée. On se voit demain ? Je t'invite au café."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
-    "source_body_sha256": "018f7c7d22e079b8ecd39b09a86138ee7158bc87a6fb678803d185731870b4f4",
+    "source_body_sha256": "fade5865e79c2464dd979e2ec00110262c3b942b05bddd8963e1d4ede4d0b453",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "content(e) / heureux(se).\ntriste.\nfâché(e) / en colère.\ndéçu(e).\njaloux(se).\ninquiet(ète).\nse disputer.\nun malentendu.\ns'excuser.\nse réconcilier.\nfaire la paix."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
-    "source_body_sha256": "018f7c7d22e079b8ecd39b09a86138ee7158bc87a6fb678803d185731870b4f4",
+    "source_body_sha256": "fade5865e79c2464dd979e2ec00110262c3b942b05bddd8963e1d4ede4d0b453",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Salut Karim, Je t'écris parce que je n'aime pas rester fâchée avec toi. Hier, j'étais déçue, mais je te comprends : ta sœur avait besoin de toi. Toi aussi, tu m'as souvent aidée quand ça n'allait pas. Une amitié, ça vaut plus qu'un après-midi au cinéma. Alors oui, on se voit demain. Le café, c'est moi qui t'invite cette fois ! À demain, Léa"

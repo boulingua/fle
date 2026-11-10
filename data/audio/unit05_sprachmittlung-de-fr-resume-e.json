@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
-    "source_body_sha256": "337eb8202ab8a2fd2c2741401de8ba928e0eb62e9d02dc7c246d12a4a0be381a",
+    "source_body_sha256": "aae3e66befb0c24ba4f3161e856623fc7bed4d06c08507b9aab87bdc2e39de3e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Karim : Anouk, tu passes tes vacances à Fribourg, non ? Ma correspondante allemande m'a envoyé cette annonce, mais je ne comprends rien ! Karim :  Vom 12. bis 21. Juli findet auf dem Mundenhof das Zeltmusikfestival statt. Über 50 Künstler treten in großen Zelten auf. Anouk : Attends, je te résume : c'est un festival de musique à Fribourg, en juillet. Les concerts ont lieu sous de grandes tentes, avec plus de cinquante artistes. Karim : Parfait ! Tu ne m'as pas tout traduit, mais j'ai compris l'important. Merci !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
-    "source_body_sha256": "337eb8202ab8a2fd2c2741401de8ba928e0eb62e9d02dc7c246d12a4a0be381a",
+    "source_body_sha256": "aae3e66befb0c24ba4f3161e856623fc7bed4d06c08507b9aab87bdc2e39de3e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "il s'agit de….\nl'article / le texte explique que….\non apprend que….\nl'auteur présente / mentionne….\nl'idée principale est….\navoir lieu / se dérouler.\nse produire (sur scène).\nl'entrée (coûte…).\nen résumé / pour résumer."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
-    "source_body_sha256": "337eb8202ab8a2fd2c2741401de8ba928e0eb62e9d02dc7c246d12a4a0be381a",
+    "source_body_sha256": "aae3e66befb0c24ba4f3161e856623fc7bed4d06c08507b9aab87bdc2e39de3e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Le résumé d'Anouk (modèle à imiter) : Dans cette annonce, il s'agit du Zeltmusikfestival, un festival de musique à Fribourg-en-Brisgau. On apprend qu'il se déroule du 12 au 21 juillet sur le site du Mundenhof, un grand parc à l'extérieur de la ville. L'article explique que plus de cinquante artistes venus de différents pays se produisent sous de grandes tentes. En résumé, c'est un rendez-vous musical très populaire dans la région, ouvert à tous les publics. (74 mots)"

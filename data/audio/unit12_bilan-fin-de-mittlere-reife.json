@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
-    "source_body_sha256": "53ee136f4015259b9fff7a64fdc150e2ad2d59d1904f0de7c714031697a405f5",
+    "source_body_sha256": "5f21d22192097f899e7a41fed20a7deb8443b7abe9c6f412043a954020d274a3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Yanis. — Trois ans que j'attends ce jour, et maintenant je voudrais qu'il n'arrive jamais. Fatou. — Je te comprends. Mais dis-toi une chose : on ne part pas de zéro. Regarde tout ce qu'on sait déjà faire. Yanis. — À l'oral, je bloque toujours. Dès qu'on me demande de parler seul pendant trois minutes, ma tête se vide. Fatou. — Alors on prépare un plan. Trois parties, quelques connecteurs, deux exemples concrets. Si tu sais où tu vas, tu ne te perds plus. Yanis. — Et pour l'écrit ? Fatou. — Pareil : on lit la consigne deux fois, on note nos idées, on rédige, on se relit. La stratégie compte autant que le vocabulaire."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
-    "source_body_sha256": "53ee136f4015259b9fff7a64fdc150e2ad2d59d1904f0de7c714031697a405f5",
+    "source_body_sha256": "5f21d22192097f899e7a41fed20a7deb8443b7abe9c6f412043a954020d274a3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "dresser un bilan.\nune compétence.\nréviser.\nune épreuve.\nune stratégie.\ngérer son temps.\nse relire.\nprogresser.\nun point fort / faible.\npoursuivre."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
-    "source_body_sha256": "53ee136f4015259b9fff7a64fdc150e2ad2d59d1904f0de7c714031697a405f5",
+    "source_body_sha256": "5f21d22192097f899e7a41fed20a7deb8443b7abe9c6f412043a954020d274a3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Avant, l'oral me faisait peur. Maintenant, j'ai une méthode simple. D'abord, je prépare un plan en trois parties : d'où je pars, où j'en suis, où je veux aller. Ensuite, pour chaque partie, je choisis un exemple concret — un livre lu, un échange, un projet. Puis je relie mes idées avec des connecteurs : d'abord, ensuite, en revanche, pour conclure. Enfin, je m'entraîne à voix haute, une fois seul, une fois devant un camarade. Le jour de l'épreuve, je respire lentement avant de commencer. Si un mot me manque, je le contourne : je dis la même chose autrement. En somme, je ne cherche plus la perfection ; je cherche la clarté."

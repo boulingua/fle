@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit08_discussion-sur-stimulus/index.md",
-    "source_body_sha256": "7429a28509178a9afccd6cfc864b5e2645328d83f9d444fb8f11c292d5037fd1",
+    "source_body_sha256": "70794b5d82a6982de1569cf66a81e480ddcf5ad4df59e77b525f2d2b3427d3c4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : L'examinatrice va nous montrer une image, sans texte. Il faut la décrire, puis en discuter. Ça me stresse : par où commencer ? Malik : On m'a conseillé une méthode simple. D'abord tu dis ce que tu vois — objectivement, sans interpréter. Ensuite seulement, tu dis ce que tu comprends et ce que tu en penses. Léa : Donc décrire d'abord, interpréter ensuite. Et si je ne reconnais pas l'image ? Malik : Peu importe. Tu n'as pas besoin de connaître l'œuvre : tu observes, tu déduis, tu argumentes. L'important, c'est de structurer ton propos."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit08_discussion-sur-stimulus/index.md",
-    "source_body_sha256": "7429a28509178a9afccd6cfc864b5e2645328d83f9d444fb8f11c292d5037fd1",
+    "source_body_sha256": "70794b5d82a6982de1569cf66a81e480ddcf5ad4df59e77b525f2d2b3427d3c4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "au premier plan / à l'arrière-plan.\nen haut / en bas / au centre.\nà gauche / à droite.\nle cadrage.\nle contre-jour.\nles couleurs dominantes.\nreprésenter / figurer.\nil s'agit de… / on dirait que….\nsuggérer / évoquer.\nprendre position."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit08_discussion-sur-stimulus/index.md",
-    "source_body_sha256": "7429a28509178a9afccd6cfc864b5e2645328d83f9d444fb8f11c292d5037fd1",
+    "source_body_sha256": "70794b5d82a6982de1569cf66a81e480ddcf5ad4df59e77b525f2d2b3427d3c4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Décrire et discuter une image en quatre temps 1. Décrire objectivement. Dites ce que l'on voit, sans interpréter : qui, quoi, où.  Au premier plan, on voit… À l'arrière-plan se trouve… 2. Décrire techniquement. Observez le cadrage, la lumière, les couleurs dominantes, la composition.  Le cadrage est serré ; la lumière vient de la gauche. 3. Interpréter. Proposez un sens en nuançant.  On dirait que… Cette image pourrait suggérer… 4. Prendre position. Donnez votre avis et justifiez-le.  À mon sens, cette image nous invite à… parce que… Cette progression vous protège du piège le plus fréquent à l'oral : interpréter trop vite, avant d'avoir vraiment regardé."

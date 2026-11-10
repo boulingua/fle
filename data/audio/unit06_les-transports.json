@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit06_les-transports/index.md",
-    "source_body_sha256": "ffdca0a1db6c2011502ca2a4e6a7727e51918b35ef42465181244a97e8d436e0",
+    "source_body_sha256": "9893519c6355af4d6050f35f691798afd5442b1a348510f033b8424a1342e608",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "— Pardon monsieur, où est la voie 4, s'il vous plaît ? — La voie 4 ? Vous allez tout droit, puis vous tournez à gauche. — Merci beaucoup ! Le TGV pour Paris part bien à 9 h 22 ? — Oui, dépêchez-vous, il part dans dix minutes !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit06_les-transports/index.md",
-    "source_body_sha256": "ffdca0a1db6c2011502ca2a4e6a7727e51918b35ef42465181244a97e8d436e0",
+    "source_body_sha256": "9893519c6355af4d6050f35f691798afd5442b1a348510f033b8424a1342e608",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le train / le TGV.\nla voiture.\nle bus.\nle tram(way).\nle métro.\nle vélo.\nl'avion.\nà pied.\nla gare.\nla voie / le quai.\nle billet (aller-retour).\ntout droit / à gauche / à droite."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit06_les-transports/index.md",
-    "source_body_sha256": "ffdca0a1db6c2011502ca2a4e6a7727e51918b35ef42465181244a97e8d436e0",
+    "source_body_sha256": "9893519c6355af4d6050f35f691798afd5442b1a348510f033b8424a1342e608",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "— Bonjour, je voudrais un billet pour Paris, s'il vous plaît. — Aller simple ou aller-retour ? — Aller-retour, pour aujourd'hui. — Voilà : le TGV de 9 h 22, voie 4. Ça fait 45 euros. — Et pour aller à la voie 4 ? — Tout droit, puis à gauche. Bon voyage !"

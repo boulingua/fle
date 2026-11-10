@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
-    "source_body_sha256": "35b3e024191bd326b9c741afcc169fdae53465e474ed08aee98280596712d16d",
+    "source_body_sha256": "f9d656ef5890e59b8cc7e3d2102b0b2ed5d04c40f9c9c2238676b4c7a95d2baa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Théo : Salut Léa ! Alors, tes vacances ? Léa : Super ! Je suis partie deux semaines à Nice, chez ma tante. Théo : Vous avez fait quoi ? Léa : D'abord, on s'est baignés tous les jours. Ensuite, on a visité le vieux Nice et son marché aux fleurs. Et toi ? Théo : Moi, je suis resté à la campagne, chez mes grands-parents. On a fait du vélo et j'ai lu trois livres !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
-    "source_body_sha256": "35b3e024191bd326b9c741afcc169fdae53465e474ed08aee98280596712d16d",
+    "source_body_sha256": "f9d656ef5890e59b8cc7e3d2102b0b2ed5d04c40f9c9c2238676b4c7a95d2baa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "partir en vacances.\nla mer / la plage.\nla montagne.\nla campagne.\nse baigner.\nfaire une randonnée.\nvisiter un musée.\nprendre le train.\nloger à l'hôtel / au camping.\nun souvenir."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
-    "source_body_sha256": "35b3e024191bd326b9c741afcc169fdae53465e474ed08aee98280596712d16d",
+    "source_body_sha256": "f9d656ef5890e59b8cc7e3d2102b0b2ed5d04c40f9c9c2238676b4c7a95d2baa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "À la gare, le jour du retour La mère : Tu as pris ton billet et ton sac ? Sami : Oui ! Et j'ai gardé le ticket du téléphérique comme souvenir. La mère : Ces vacances t'ont plu ? Sami : Beaucoup. D'abord la mer, ensuite la montagne… On a bien profité. Mais je suis un peu fatigué : hier, on a marché six heures !"

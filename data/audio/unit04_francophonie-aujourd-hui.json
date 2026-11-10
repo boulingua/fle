@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
-    "source_body_sha256": "c8402dad948295758b88a0d6746e1d35d1aaf1596a6e4e7c83e974bd2ef63134",
+    "source_body_sha256": "57f065de9a1b06300de75c8717b43ba390afbaea5187dcc4b77588d100e78ed9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un·e locuteur·rice.\nla langue maternelle.\nla langue officielle.\nune langue véhiculaire.\nla francophonie (minuscule).\nla Francophonie (majuscule).\nun État membre.\nrépandu·e.\nen pleine croissance.\nparaphraser."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
-    "source_body_sha256": "c8402dad948295758b88a0d6746e1d35d1aaf1596a6e4e7c83e974bd2ef63134",
+    "source_body_sha256": "57f065de9a1b06300de75c8717b43ba390afbaea5187dcc4b77588d100e78ed9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Une langue sur cinq continents Le français n'est pas seulement la langue de la France. On le parle aussi en Belgique, en Suisse, au Québec, au Sénégal, à Madagascar ou en Polynésie française. C'est l'une des rares langues présentes sur les cinq continents. Dans certains pays, le français est la langue maternelle. Dans beaucoup d'autres, surtout en Afrique, c'est une **langue officielle ou une langue d'enseignement** : les élèves l'apprennent à l'école et l'utilisent pour les études et le travail. Aujourd'hui, la population francophone est **en pleine croissance**, portée surtout par le continent africain. Les spécialistes estiment que, au milieu du XXIᵉ siècle, la majorité des personnes qui parlent français vivront en Afrique."

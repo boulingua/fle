@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
-    "source_body_sha256": "f2d2a4502ffe3c493902049583dee1c08b8a61bc86bdf315c1b9a774d70246bb",
+    "source_body_sha256": "c9d3fdad4cb596e8b8f42398b0f567d919d6a50937b93eeb27d5b6102176419e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : — Voilà, la 12e est finie. J'ai l'impression d'avoir beaucoup lu cette année. Théo : — Moi aussi. On a travaillé des romans, la francophonie, l'argumentation… Et maintenant, l'année terminale. Léa : — Justement, il faut faire le point avant l'été. Qu'est-ce qui a marché ? Qu'est-ce qui reste fragile ? Théo : — Pour moi, l'écrit progresse, mais l'oral en continu me stresse encore. Toi ? Léa : — L'inverse ! Je parle sans problème, mais mes textes manquent de structure. On se fixe trois priorités chacun ?"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
-    "source_body_sha256": "f2d2a4502ffe3c493902049583dee1c08b8a61bc86bdf315c1b9a774d70246bb",
+    "source_body_sha256": "c9d3fdad4cb596e8b8f42398b0f567d919d6a50937b93eeb27d5b6102176419e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "dresser un bilan.\nun acquis.\nune lacune.\nconsolider.\nse projeter.\nune priorité.\nun objectif.\nfranchir un cap.\nl'échéance."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
-    "source_body_sha256": "f2d2a4502ffe3c493902049583dee1c08b8a61bc86bdf315c1b9a774d70246bb",
+    "source_body_sha256": "c9d3fdad4cb596e8b8f42398b0f567d919d6a50937b93eeb27d5b6102176419e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mon bilan de 12e — Léa Cette année a été dense et exigeante. J'ai lu davantage qu'avant : un roman complet, des extraits de la littérature francophone, des articles de presse. J'ai découvert des autrices et des auteurs qui interrogent l'identité, la mémoire et l'engagement, et j'ai appris à replacer un texte dans son époque. Côté méthode, j'ai progressé en compréhension : je repère plus vite l'idée principale et le point de vue de l'auteur. À l'écrit, en revanche, mes textes restent parfois désordonnés. Je sais quoi dire, mais je ne hiérarchise pas toujours mes idées. C'est ma lacune la plus nette. À l'oral, je me sens à l'aise : je parle spontanément et je réagis vite. Mais en continu, sur un sujet préparé, je manque encore de plan. Pour l'année terminale, je me fixe trois priorités. D'abord, structurer chaque texte avec une introduction, deux parties et une conclusion. Ensuite, enrichir mon vocabulaire d'analyse. Enfin, m'entraîner à parler seule trois minutes sans notes. Mon objectif est simple : transformer mes idées en textes clairs et en présentations solides. L'échéance approche, mais je me sens prête à franchir ce cap."

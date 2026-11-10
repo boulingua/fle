@@ -36,7 +36,7 @@ Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité
 
 *Scénario historique simplifié du débat avant les réformes de 2025. La présentation ne décrit pas le droit actuel et omet les exceptions juridiques; le chiffre concerne la règle structurelle présentée dans ce dossier.*
 
-### B. Texte source — débat historique simplifié, avant la réforme de 2025
+### B. Texte source (allemand) — débat historique simplifié, avant la réforme de 2025
 
 Texte pédagogique original : il expose un débat antérieur à la réforme allemande de mars 2025. Il ne décrit pas toutes les exceptions ni les règles actuelles. La médiation doit conserver ce repère temporel.
 

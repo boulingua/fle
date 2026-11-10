@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
-    "source_body_sha256": "cfddcfbc3d475e6bb43fca89dcc12d4f95693623c529d143bd4584e6c136b134",
+    "source_body_sha256": "be87b089c17f6b9f095870afc45884a166f55bd6bed1794f2f51e6b976df33f0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Karim : Salut ! Qu'est-ce que tu écoutes ? Anouk : Un podcast d'histoire. Le matin, dans le bus, je préfère écouter plutôt que regarder un écran. Karim : Moi, c'est l'inverse : le soir, je regarde une série. En ce moment, un épisode par jour, pas plus, sinon je me couche trop tard ! Anouk : Un épisode par jour, tu as de la volonté… Moi, je regarde tout d'un coup le week-end."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
-    "source_body_sha256": "cfddcfbc3d475e6bb43fca89dcc12d4f95693623c529d143bd4584e6c136b134",
+    "source_body_sha256": "be87b089c17f6b9f095870afc45884a166f55bd6bed1794f2f51e6b976df33f0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "une série · un épisode · une saison.\nune plateforme de streaming.\nun podcast (une baladodiffusion).\nune chaîne · un·e youtubeur·euse.\ns'abonner à · un abonnement.\nle replay · l'actualité (l'actu).\ntélécharger · en direct.\nun écran · les écouteurs."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
-    "source_body_sha256": "cfddcfbc3d475e6bb43fca89dcc12d4f95693623c529d143bd4584e6c136b134",
+    "source_body_sha256": "be87b089c17f6b9f095870afc45884a166f55bd6bed1794f2f51e6b976df33f0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

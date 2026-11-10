@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
-    "source_body_sha256": "71040f4d6135c39033c9a9f77cbc2b71f9ab59b4ae7c326cc8349d402e075b11",
+    "source_body_sha256": "b2627c8ca50c5814163ac346ed3a8283247bf02edd86790dd9b3c81002b427a0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Texte source (allemand) et médiation modèle"
@@ -27,7 +27,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
-    "source_body_sha256": "71040f4d6135c39033c9a9f77cbc2b71f9ab59b4ae7c326cc8349d402e075b11",
+    "source_body_sha256": "b2627c8ca50c5814163ac346ed3a8283247bf02edd86790dd9b3c81002b427a0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Texte source (allemand) et médiation modèle"
@@ -45,7 +45,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
-    "source_body_sha256": "71040f4d6135c39033c9a9f77cbc2b71f9ab59b4ae7c326cc8349d402e075b11",
+    "source_body_sha256": "b2627c8ca50c5814163ac346ed3a8283247bf02edd86790dd9b3c81002b427a0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Texte source (allemand) et médiation modèle"

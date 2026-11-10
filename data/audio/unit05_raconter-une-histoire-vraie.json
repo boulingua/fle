@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie/index.md",
-    "source_body_sha256": "d39326b3c73ba451b5bca17a0c0facd2c41440f630e743831b8ad019e5b2a7f7",
+    "source_body_sha256": "9c1da4b7f44d62b563a44720d4b5f25bd76861b3334d83d54c286bd56fbf6ba8",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Lefèvre : Aujourd'hui, chacun va raconter une histoire vraie — pas un fait divers de journal, mais un moment que vous avez vraiment vécu, un souvenir marquant. Léa : Une histoire… triste ou drôle ? Mme Lefèvre : Comme vous voulez. L'important, c'est qu'elle soit vraie et qu'on comprenne pourquoi elle compte pour vous. Yanis : Moi, je me souviens du jour où on a retrouvé mon chat perdu. J'étais tellement content ! Mme Lefèvre : Parfait. Écoutez bien Yanis :  C'était un dimanche, il pleuvait… puis, tout à coup, on l'a entendu miauler.  Vous entendez les deux temps du passé ?"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie/index.md",
-    "source_body_sha256": "d39326b3c73ba451b5bca17a0c0facd2c41440f630e743831b8ad019e5b2a7f7",
+    "source_body_sha256": "9c1da4b7f44d62b563a44720d4b5f25bd76861b3334d83d54c286bd56fbf6ba8",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "une histoire vraie.\nun souvenir.\nun événement.\nle décor / le cadre.\nd'abord.\nensuite / puis.\ntout à coup / soudain.\nenfin / finalement.\nse passer / arriver.\nse souvenir de.\nraconter.\némouvant·e."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie/index.md",
-    "source_body_sha256": "d39326b3c73ba451b5bca17a0c0facd2c41440f630e743831b8ad019e5b2a7f7",
+    "source_body_sha256": "9c1da4b7f44d62b563a44720d4b5f25bd76861b3334d83d54c286bd56fbf6ba8",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Le jour où nous avons retrouvé le chat C'était un dimanche d'automne. Il pleuvait depuis le matin et la maison était triste : notre chat, Filou, avait disparu depuis trois jours. Ma petite sœur pleurait souvent ; moi, je collais des affiches dans le quartier. Vers cinq heures, on a entendu un miaulement faible dans le jardin du voisin. Mon père a ouvert la porte, j'ai couru dehors sous la pluie. Filou était là, trempé, coincé sous une vieille barrière. Nous l'avons dégagé doucement et je l'ai serré contre moi. Ce soir-là, j'ai compris une chose simple : on ne mesure pas toujours ce qu'on aime avant de risquer de le perdre. Depuis, je fais attention à laisser la fenêtre fermée."

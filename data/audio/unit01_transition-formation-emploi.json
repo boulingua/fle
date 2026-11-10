@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
-    "source_body_sha256": "d601201dd333763bda13722e602d94ae64dfc5ac4ad6175d0f8858d635c5307d",
+    "source_body_sha256": "89b0a902e132ee5c7375a654fe672f72ff311977aba6bceca1cdf11eaa49db5d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
-    "source_body_sha256": "d601201dd333763bda13722e602d94ae64dfc5ac4ad6175d0f8858d635c5307d",
+    "source_body_sha256": "89b0a902e132ee5c7375a654fe672f72ff311977aba6bceca1cdf11eaa49db5d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Alors, tu sais déjà ce que tu vas faire après la 10e ? Karim : Pas encore vraiment. Je pense faire un apprentissage, peut-être dans la mécanique. Et toi ? Léa : Moi, j'aimerais continuer à l'école, au lycée professionnel. Mais je vais aussi envoyer une candidature à une boulangerie, juste pour voir. Karim : Une candidature spontanée, tu veux dire ? Sans annonce ? Léa : Exactement. On ne sait jamais !"
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
-    "source_body_sha256": "d601201dd333763bda13722e602d94ae64dfc5ac4ad6175d0f8858d635c5307d",
+    "source_body_sha256": "89b0a902e132ee5c7375a654fe672f72ff311977aba6bceca1cdf11eaa49db5d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un apprenti / une apprentie.\nl'apprentissage (m.).\nune candidature.\nune petite annonce.\nun entretien (d'embauche).\nun stage.\nune entreprise.\nun salaire.\nle lycée professionnel.\nles études supérieures (f. pl.).\nle service civique.\nenvoyer un CV."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
-    "source_body_sha256": "d601201dd333763bda13722e602d94ae64dfc5ac4ad6175d0f8858d635c5307d",
+    "source_body_sha256": "89b0a902e132ee5c7375a654fe672f72ff311977aba6bceca1cdf11eaa49db5d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Boulangerie  Chez Hugo  — Karlsruhe Nous recherchons un(e) apprenti(e) boulanger(ère) pour la rentrée de septembre 2026. - Durée : 3 ans (apprentissage en alternance). - Horaires : du lundi au samedi, tôt le matin. - Profil : personne motivée, ponctuelle, qui aime le travail en équipe. - Un plus : une première expérience (stage) dans la boulangerie. Candidature : lettre de motivation + CV à envoyer à contact@chez-hugo.example avant le 15 mai 2026."
@@ -73,7 +73,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
-    "source_body_sha256": "d601201dd333763bda13722e602d94ae64dfc5ac4ad6175d0f8858d635c5307d",
+    "source_body_sha256": "89b0a902e132ee5c7375a654fe672f72ff311977aba6bceca1cdf11eaa49db5d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa Schmitt Karlsruher Straße 23 — 76137 Karlsruhe Karlsruhe, le 8 avril 2026 Objet : candidature pour un apprentissage de boulangère Madame, Monsieur, Suite à votre annonce, je souhaite poser ma candidature pour l'apprentissage de boulangère que vous proposez à partir de septembre 2026. Actuellement en classe de 10e, je vais passer mon diplôme intermédiaire en juin. J'ai déjà effectué un stage d'une semaine dans une boulangerie ; cette expérience a confirmé mon envie d'apprendre ce métier. Je suis motivée, ponctuelle et j'aime le travail manuel. Je serais très heureuse de faire mon apprentissage dans votre entreprise. Vous trouverez ci-joint mon CV. Je me tiens à votre disposition pour un entretien. Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées. Léa Schmitt"

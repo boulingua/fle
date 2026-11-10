@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
-    "source_body_sha256": "72c8c0093eb9c24a222a7001e61ad946d64a5d6330a8eff0708a7d35ebfb59bf",
+    "source_body_sha256": "6145c658ea8c8dabf4d771392cbc2227d6dc468d207fce5d188fe0410cc1344d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
-    "source_body_sha256": "72c8c0093eb9c24a222a7001e61ad946d64a5d6330a8eff0708a7d35ebfb59bf",
+    "source_body_sha256": "6145c658ea8c8dabf4d771392cbc2227d6dc468d207fce5d188fe0410cc1344d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
-    "source_body_sha256": "72c8c0093eb9c24a222a7001e61ad946d64a5d6330a8eff0708a7d35ebfb59bf",
+    "source_body_sha256": "6145c658ea8c8dabf4d771392cbc2227d6dc468d207fce5d188fe0410cc1344d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -55,7 +55,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
-    "source_body_sha256": "72c8c0093eb9c24a222a7001e61ad946d64a5d6330a8eff0708a7d35ebfb59bf",
+    "source_body_sha256": "6145c658ea8c8dabf4d771392cbc2227d6dc468d207fce5d188fe0410cc1344d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "une épreuve.\nla compréhension écrite.\nl'expression écrite.\nla médiation.\nsurvoler un texte.\nrepérer une information.\nrédiger un brouillon.\nrelire, corriger.\ngérer son temps.\nun bilan."

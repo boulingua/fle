@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
-    "source_body_sha256": "3d627675894a9a30f07f91c4d85659e8be15669c04e9e5e8d90d14bd6603e730",
+    "source_body_sha256": "39f2d51365c612d7d27ba6e68222acb699ffeb8e503b38e6fdc8f658c07d1864",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
-    "source_body_sha256": "3d627675894a9a30f07f91c4d85659e8be15669c04e9e5e8d90d14bd6603e730",
+    "source_body_sha256": "39f2d51365c612d7d27ba6e68222acb699ffeb8e503b38e6fdc8f658c07d1864",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Salut Théo ! Ça y est, c'est la rentrée. Tu as passé de bonnes vacances ? Théo : Salut Léa ! Oui, super. Je suis allé chez mes grands-parents, en Bretagne. Et toi ? Léa : Moi, je suis restée à Karlsruhe. C'était calme, mais j'ai beaucoup lu. Regarde, on a le même emploi du temps ! Théo : Génial. On commence par le français à 8 h. Je suis un peu fatigué, mais content de te revoir."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
-    "source_body_sha256": "3d627675894a9a30f07f91c4d85659e8be15669c04e9e5e8d90d14bd6603e730",
+    "source_body_sha256": "39f2d51365c612d7d27ba6e68222acb699ffeb8e503b38e6fdc8f658c07d1864",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le cartable · le sac.\ncontent·e · ravi·e.\nle manuel · le classeur.\ncurieux·euse · impatient·e.\nla trousse · le stylo.\ninquiet·inquiète · nerveux·euse.\nle crayon · la règle.\nfatigué·e · pressé·e.\nla cour · la salle de classe.\nretrouver (ses ami·e·s).\nl'emploi du temps (m.).\ncommencer · rencontrer."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
-    "source_body_sha256": "3d627675894a9a30f07f91c4d85659e8be15669c04e9e5e8d90d14bd6603e730",
+    "source_body_sha256": "39f2d51365c612d7d27ba6e68222acb699ffeb8e503b38e6fdc8f658c07d1864",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "C'est ma première rentrée dans ce collège. Le matin, je suis un peu nerveuse : je ne connais pas encore ma classe. Dans la cour, une fille me sourit. Elle s'appelle Amina. Nous avons français en première heure. La professeure écrit son nom au tableau : Madame Leroy . Elle explique l'emploi du temps et distribue les manuels. À midi, je suis rassurée : j'ai déjà une nouvelle amie et l'après-midi, nous avons sport. La rentrée, finalement, ce n'est pas si terrible !"

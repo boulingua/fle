@@ -131,7 +131,7 @@ Pour marquer la **distance** (contenu attribué à la source, non validé par vo
 Évitez le calque : *betonen* ≠ « bétonner » → **souligner / mettre en avant**.
 {{< /callout >}}
 
-### B. Texte source — débat historique simplifié, avant la réforme de 2025
+### B. Texte source (allemand) — débat historique simplifié, avant la réforme de 2025
 
 Texte pédagogique original : il expose un débat antérieur à la réforme allemande de mars 2025. Il ne décrit pas toutes les exceptions ni les règles actuelles. La médiation doit conserver ce repère temporel.
 

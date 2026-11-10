@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
-    "source_body_sha256": "9c5b8af4d9b465b22449793624fac1bad5ae0a38526ea7c766a56ead2f3aa1a5",
+    "source_body_sha256": "64b01c687e3a91a68edcaaaec6a73a6df981808d0c37026be8d68f48db5dd9a0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "La radio :  Bonjour ! Voici la météo de ce mardi. Ce matin, à Paris, il fait frais, huit degrés. Cet après-midi, il y aura du soleil sur toute la France. À Strasbourg, attention : il pleuvra ce soir. Léa :  Maman, il pleut à Strasbourg ? Mais mamie habite là-bas ! Mme Renault :  Ce soir seulement, ma chérie. Prends quand même ton parapluie pour l'école."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
-    "source_body_sha256": "9c5b8af4d9b465b22449793624fac1bad5ae0a38526ea7c766a56ead2f3aa1a5",
+    "source_body_sha256": "64b01c687e3a91a68edcaaaec6a73a6df981808d0c37026be8d68f48db5dd9a0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le printemps.\nl'été (m.).\nl'automne (m.).\nl'hiver (m.).\nIl fait beau..\nIl fait chaud / froid..\nIl y a du soleil..\nIl y a du vent..\nIl y a des nuages..\nIl pleut..\nIl neige..\nun degré."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
-    "source_body_sha256": "9c5b8af4d9b465b22449793624fac1bad5ae0a38526ea7c766a56ead2f3aa1a5",
+    "source_body_sha256": "64b01c687e3a91a68edcaaaec6a73a6df981808d0c37026be8d68f48db5dd9a0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

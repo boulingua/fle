@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit08_le-quebec/index.md",
-    "source_body_sha256": "489c8b1ab4be63d6389115a7108f1d1128b8f65fccce170f5a16cafa501323cf",
+    "source_body_sha256": "9701d8ca55d61f34f5e872f613117c24ce9193533dfbe75d2a8e409fe323e05c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Inès : Allô Léa ! Il fait frette ici, moins dix ce matin ! Hier soir, on a soupé chez mémé : de la poutine, puis de la tarte au sirop d'érable. Après, j'ai magasiné une nouvelle tuque avec mon chum. En fin de semaine, on va voir un match de hockey. Écris-moi ! Bye ! Léa : (elle sourit) Soupé ? Magasiné ? Une tuque ? Je comprends la moitié… mais ça donne envie !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit08_le-quebec/index.md",
-    "source_body_sha256": "489c8b1ab4be63d6389115a7108f1d1128b8f65fccce170f5a16cafa501323cf",
+    "source_body_sha256": "9701d8ca55d61f34f5e872f613117c24ce9193533dfbe75d2a8e409fe323e05c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le déjeuner.\nle petit-déjeuner.\nle dîner.\nle déjeuner.\nle souper.\nle dîner.\nun char.\nune voiture.\nun chum / une blonde.\nun copain / une copine.\nmagasiner.\nfaire les magasins.\nun dépanneur.\nune épicerie de quartier.\nune tuque.\nun bonnet.\nla fin de semaine.\nle week-end.\nil fait frette.\nil fait très froid."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit08_le-quebec/index.md",
-    "source_body_sha256": "489c8b1ab4be63d6389115a7108f1d1128b8f65fccce170f5a16cafa501323cf",
+    "source_body_sha256": "9701d8ca55d61f34f5e872f613117c24ce9193533dfbe75d2a8e409fe323e05c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Montréal, le 12 octobre Salut Léa ! Comment ça va à Karlsruhe ? Ici, c'est l'automne : les érables sont rouges et oranges, c'est magnifique. Hier, on a soupé chez ma grand-mère — poutine et tarte au sirop d'érable, un vrai régal ! Aujourd'hui, j'ai magasiné au centre-ville avec ma mère. J'ai trouvé une belle tuque pour l'hiver, parce qu'il fait déjà 5 °C et le vent est froid. En fin de semaine, on va voir un match de hockey. Est-ce que tu connais les Canadiens de Montréal ? C'est notre équipe préférée ! Le 24 juin, chez nous, c'est la Fête nationale du Québec. Il y a des feux de joie, de la musique et beaucoup de drapeaux bleu et blanc. J'adore cette journée. Écris-moi vite pour me raconter ta saison. Bises ! Inès"

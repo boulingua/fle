@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit03_mon-quartier-e/index.md",
-    "source_body_sha256": "ba5f7abc3a10c107e7f82f090895395fd37f2fc742c35366515e1822d79b9780",
+    "source_body_sha256": "cae75afdeee377295256ed7c83caec8cb2e67019d75de65214d1754ecec8383f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk. — Alors, tu vois, ici c'est ma rue. Là, en face de nous, c'est la pâtisserie. Karim. — Et à côté, le magasin avec les livres, c'est quoi ? Anouk. — Ça, c'est la librairie de Camille. J'y vais tous les samedis. Karim. — Super. Et pour acheter du pain ? Anouk. — La boulangerie est au coin de la rue, à gauche. Tu ne peux pas la manquer, ça sent bon le matin !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit03_mon-quartier-e/index.md",
-    "source_body_sha256": "ba5f7abc3a10c107e7f82f090895395fd37f2fc742c35366515e1822d79b9780",
+    "source_body_sha256": "cae75afdeee377295256ed7c83caec8cb2e67019d75de65214d1754ecec8383f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la boulangerie.\nla pâtisserie.\nla librairie.\nla poste.\nla mairie.\nle parc.\nla gare.\nla pharmacie.\nle supermarché.\nla médiathèque."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit03_mon-quartier-e/index.md",
-    "source_body_sha256": "ba5f7abc3a10c107e7f82f090895395fd37f2fc742c35366515e1822d79b9780",
+    "source_body_sha256": "cae75afdeee377295256ed7c83caec8cb2e67019d75de65214d1754ecec8383f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Karlsruhe, le 12 octobre Chère Inès, J'aimerais te présenter mon quartier. J'habite près du centre, dans une rue calme avec beaucoup d'arbres. À côté de chez moi, il y a la pâtisserie d'Hugo — ses macarons sont délicieux ! En face de la pâtisserie, il y a la pharmacie de Mme Klein. Au coin de la rue se trouve la librairie de Camille, où j'achète tous mes livres. Le parc est derrière ma maison, à cinq minutes à pied. La gare, elle, est loin : vingt minutes en tram. Et toi, comment est ton quartier à Montréal ? Est-ce qu'il y a des commerces près de chez toi ? Je t'embrasse, Anouk"

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
-    "source_body_sha256": "9bd95db1226de33d7de30675f8b75ad37568071810e7c759f02e50a683194428",
+    "source_body_sha256": "08de3aab49c2f98de870fe2da0994f92ea65e70d2d450c11d7eacf0ee104d583",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Théo : — Bienvenue ! Voici ma chambre. Léa : — Oh, elle est grande ! Qu'est-ce qu'il y a sur ton bureau ? Théo : — Il y a mon ordinateur et mes cahiers. Mon lit est à côté de la fenêtre. Léa : — Et qu'est-ce qu'il y a sous le lit ? Théo : — Sous le lit, il y a mon ballon de foot… et mon chat qui dort !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
-    "source_body_sha256": "9bd95db1226de33d7de30675f8b75ad37568071810e7c759f02e50a683194428",
+    "source_body_sha256": "08de3aab49c2f98de870fe2da0994f92ea65e70d2d450c11d7eacf0ee104d583",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la chambre.\nle lit.\nla cuisine.\nle bureau.\nle salon.\nla chaise.\nla salle de bains.\nl'armoire (f.).\nles toilettes / les WC.\nla table.\nle couloir.\nl'étagère (f.).\nla salle à manger.\nla fenêtre.\nle garage.\nla porte.\nle jardin.\nle tapis.\nle grenier.\nla lampe."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
-    "source_body_sha256": "9bd95db1226de33d7de30675f8b75ad37568071810e7c759f02e50a683194428",
+    "source_body_sha256": "08de3aab49c2f98de870fe2da0994f92ea65e70d2d450c11d7eacf0ee104d583",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "sur.\nsous.\ndans.\ndevant.\nderrière.\nà côté de.\nentre … et …."
@@ -58,7 +58,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
-    "source_body_sha256": "9bd95db1226de33d7de30675f8b75ad37568071810e7c759f02e50a683194428",
+    "source_body_sha256": "08de3aab49c2f98de870fe2da0994f92ea65e70d2d450c11d7eacf0ee104d583",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

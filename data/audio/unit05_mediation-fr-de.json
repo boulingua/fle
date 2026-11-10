@@ -10,10 +10,10 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
-    "source_body_sha256": "892c89b1f09bcd49028108580f18040b71beb7ee9a27a4fc149184ec8903f80b",
+    "source_body_sha256": "8ce520024e4ab638c9cd44621af30fb04c8d0355fef2650cfa7bddcb9a69bbea",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
-      "B. Texte source (dossier allemand, extrait — texte original)"
+      "B. Texte source (allemand) — débat historique simplifié, avant la réforme de 2025"
     ]
   },
   {
@@ -27,10 +27,10 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
-    "source_body_sha256": "892c89b1f09bcd49028108580f18040b71beb7ee9a27a4fc149184ec8903f80b",
+    "source_body_sha256": "8ce520024e4ab638c9cd44621af30fb04c8d0355fef2650cfa7bddcb9a69bbea",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
-      "B. Texte source (dossier allemand, extrait — texte original)"
+      "B. Texte source (allemand) — débat historique simplifié, avant la réforme de 2025"
     ],
     "tts": "L'examinatrice : — Votre correspondant français Léo prépare un exposé sur la politique allemande. Il ne lit pas l'allemand. Résumez-lui, en français, l'essentiel de ce dossier : de quoi parle-t-on, quels sont les arguments, et pourquoi cela peut l'intéresser en France ? Anouk : — D'accord. Je ne traduis pas tout, je transmets ce qui compte pour Léo, c'est bien ça ? L'examinatrice : — Exactement. Vous sélectionnez, vous reformulez, vous expliquez."
   },
@@ -45,17 +45,17 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
-    "source_body_sha256": "892c89b1f09bcd49028108580f18040b71beb7ee9a27a4fc149184ec8903f80b",
+    "source_body_sha256": "8ce520024e4ab638c9cd44621af30fb04c8d0355fef2650cfa7bddcb9a69bbea",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
-      "B. Texte source (dossier allemand, extrait — texte original)"
+      "B. Texte source (allemand) — débat historique simplifié, avant la réforme de 2025"
     ],
     "tts": "le frein à l'endettement.\nl'endettement (m.) / la dette publique.\nle déficit annuel.\nassouplir une règle.\nmaintenir / conserver.\nl'investissement (m.).\nsouligner que.\nremettre en question.\nun compromis modéré."
   },
   {
     "file": "/fle/materials/audio/unit05_mediation-fr-de/dialogue2.ogg",
     "label": "Dialogue 2",
-    "transcript": "Ce dossier allemand porte sur un débat budgétaire : le frein à l'endettement (Schuldenbremse). Il s'agit d'une règle inscrite dans la Loi fondamentale en 2009 ; elle limite le déficit annuel de l'État fédéral à 0,35 % du produit intérieur brut. Son objectif initial était de stabiliser durablement les finances publiques.\nLe texte explique que cette règle est aujourd'hui remise en question. En effet, le changement climatique, l'état des infrastructures et la numérisation exigent d'importants investissements. Les critiques estiment que l'État devrait pouvoir dépenser davantage pour préparer l'avenir. À l'inverse, les partisans du frein soulignent le risque d'une dette publique croissante.\nSur le plan politique, le dossier oppose deux camps : certains réclament un assouplissement de la règle, d'autres veulent la maintenir telle quelle. Une position intermédiaire apparaît : plusieurs économistes proposent un compromis modéré, une réforme qui autoriserait les investissements sans renoncer à la discipline budgétaire.\nPour un lecteur français, ce débat fait écho à la question européenne des 3 % de déficit (critères de Maastricht) : dans les deux cas, on cherche l'équilibre entre rigueur budgétaire et investissements d'avenir. En conclusion, ce dossier illustre un dilemme partagé des deux côtés du Rhin : financer la transition écologique tout en maîtrisant la dette.",
+    "transcript": "Ce dossier pédagogique allemand présente un débat historique antérieur à mars 2025 : le frein à l'endettement (Schuldenbremse). Il s'agit d'une règle inscrite dans la Loi fondamentale en 2009 ; la règle de base présentée limite l'endettement structurel de la Fédération à 0,35 % du produit intérieur brut, sans détailler les exceptions. Son objectif initial était de stabiliser durablement les finances publiques.\nLe texte explique que cette règle est aujourd'hui remise en question. En effet, le changement climatique, l'état des infrastructures et la numérisation exigent d'importants investissements. Les critiques estiment que l'État devrait pouvoir dépenser davantage pour préparer l'avenir. À l'inverse, les partisans du frein soulignent le risque d'une dette publique croissante.\nSur le plan politique, le dossier oppose deux camps : certains réclament un assouplissement de la règle, d'autres veulent la maintenir telle quelle. Une position intermédiaire apparaît : plusieurs économistes proposent un compromis modéré, une réforme qui autoriserait les investissements sans renoncer à la discipline budgétaire.\nPour un lecteur français, il faut expliquer le terme allemand sans ajouter une comparaison chiffrée absente du dossier : les règles européennes ne sont pas documentées dans cette source. En conclusion, ce dossier illustre un dilemme partagé des deux côtés du Rhin : financer la transition écologique tout en maîtrisant la dette.",
     "source": "tts",
     "voice": "fr_FR-mls-medium",
     "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
@@ -63,11 +63,11 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
-    "source_body_sha256": "892c89b1f09bcd49028108580f18040b71beb7ee9a27a4fc149184ec8903f80b",
+    "source_body_sha256": "8ce520024e4ab638c9cd44621af30fb04c8d0355fef2650cfa7bddcb9a69bbea",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
-      "B. Texte source (dossier allemand, extrait — texte original)"
+      "B. Texte source (allemand) — débat historique simplifié, avant la réforme de 2025"
     ],
-    "tts": "Ce dossier allemand porte sur un débat budgétaire : le frein à l'endettement (Schuldenbremse). Il s'agit d'une règle inscrite dans la Loi fondamentale en 2009 ; elle limite le déficit annuel de l'État fédéral à 0,35 % du produit intérieur brut. Son objectif initial était de stabiliser durablement les finances publiques. Le texte explique que cette règle est aujourd'hui remise en question. En effet, le changement climatique, l'état des infrastructures et la numérisation exigent d'importants investissements. Les critiques estiment que l'État devrait pouvoir dépenser davantage pour préparer l'avenir. À l'inverse, les partisans du frein soulignent le risque d'une dette publique croissante. Sur le plan politique, le dossier oppose deux camps : certains réclament un assouplissement de la règle, d'autres veulent la maintenir telle quelle. Une position intermédiaire apparaît : plusieurs économistes proposent un compromis modéré, une réforme qui autoriserait les investissements sans renoncer à la discipline budgétaire. Pour un lecteur français, ce débat fait écho à la question européenne des 3 % de déficit (critères de Maastricht) : dans les deux cas, on cherche l'équilibre entre rigueur budgétaire et investissements d'avenir. En conclusion, ce dossier illustre un dilemme partagé des deux côtés du Rhin : financer la transition écologique tout en maîtrisant la dette."
+    "tts": "Ce dossier pédagogique allemand présente un débat historique antérieur à mars 2025 : le frein à l'endettement (Schuldenbremse). Il s'agit d'une règle inscrite dans la Loi fondamentale en 2009 ; la règle de base présentée limite l'endettement structurel de la Fédération à 0,35 % du produit intérieur brut, sans détailler les exceptions. Son objectif initial était de stabiliser durablement les finances publiques. Le texte explique que cette règle est aujourd'hui remise en question. En effet, le changement climatique, l'état des infrastructures et la numérisation exigent d'importants investissements. Les critiques estiment que l'État devrait pouvoir dépenser davantage pour préparer l'avenir. À l'inverse, les partisans du frein soulignent le risque d'une dette publique croissante. Sur le plan politique, le dossier oppose deux camps : certains réclament un assouplissement de la règle, d'autres veulent la maintenir telle quelle. Une position intermédiaire apparaît : plusieurs économistes proposent un compromis modéré, une réforme qui autoriserait les investissements sans renoncer à la discipline budgétaire. Pour un lecteur français, il faut expliquer le terme allemand sans ajouter une comparaison chiffrée absente du dossier : les règles européennes ne sont pas documentées dans cette source. En conclusion, ce dossier illustre un dilemme partagé des deux côtés du Rhin : financer la transition écologique tout en maîtrisant la dette."
   }
 ]

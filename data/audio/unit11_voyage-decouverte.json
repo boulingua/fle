@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit11_voyage-decouverte/index.md",
-    "source_body_sha256": "0bf823ed9c4ca51efb06a53a9ac43c8dbb7c53bcdc3c7a812e54fb8b19c70490",
+    "source_body_sha256": "15db4e1a2ccb47cea1e2c5ed0309a6172c055b99db9f85f9b893f86c76515044",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Lena : Regarde, Malik ! On est déjà à Strasbourg. Le guide nous attend devant la cathédrale. Malik : Super. Et après, qu'est-ce qu'on va faire ? Lena : On va d'abord visiter la cathédrale, puis on va se promener à la Petite France. Le soir, on va manger une tarte flambée. Malik : Parfait. Alors, on prend le tram ou on y va à pied ? Lena : À pied, c'est tout près !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit11_voyage-decouverte/index.md",
-    "source_body_sha256": "0bf823ed9c4ca51efb06a53a9ac43c8dbb7c53bcdc3c7a812e54fb8b19c70490",
+    "source_body_sha256": "15db4e1a2ccb47cea1e2c5ed0309a6172c055b99db9f85f9b893f86c76515044",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un voyage scolaire.\nune visite (guidée).\nun guide / un audioguide.\nun billet · un tarif · l'entrée.\nun monument · un quartier.\nse promener · découvrir · visiter.\nà pied · en tram · en bus."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit11_voyage-decouverte/index.md",
-    "source_body_sha256": "0bf823ed9c4ca51efb06a53a9ac43c8dbb7c53bcdc3c7a812e54fb8b19c70490",
+    "source_body_sha256": "15db4e1a2ccb47cea1e2c5ed0309a6172c055b99db9f85f9b893f86c76515044",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Bonjour à tous, bienvenue à Strasbourg ! Notre visite commence à 10 h, ici, sur la place de la Cathédrale. La flèche de Notre-Dame mesure 142 mètres : pendant plus de deux siècles, c'était l'un des édifices les plus hauts du monde. À l'intérieur, ne ratez pas l'horloge astronomique. Ensuite, à pied, nous allons rejoindre la Petite France, l'ancien quartier des tanneurs et des meuniers. La visite dure deux heures. Tarif : 8 € pour les adultes, 4 € pour les jeunes de moins de 18 ans. L'audioguide en allemand ou en anglais coûte 2 € en plus. Rendez-vous à 10 h précises. Bonne visite !"

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
-    "source_body_sha256": "856ad15078de45365de22fe159a3fc46fcb6a054a0f49517f8509863aae3bd8c",
+    "source_body_sha256": "c3c02e939410fb345f5eeaf7207bb37652bf4db5aab731ec9332be6a2f6df9ea",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Bonjour ! Excuse-moi, cette place est libre ? Noah : Oui, assieds-toi. Tu es nouvelle ? Léa : Oui. Je regarde mon emploi du temps… On a maths, là ? Noah : Non, à 8 heures on a français. Les maths, c'est à 9 heures. Léa : D'accord. Et j'ai oublié ma règle. Tu as une règle ? Noah : Tiens, prends la mienne. Ouvre ton cahier, le prof arrive !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
-    "source_body_sha256": "856ad15078de45365de22fe159a3fc46fcb6a054a0f49517f8509863aae3bd8c",
+    "source_body_sha256": "c3c02e939410fb345f5eeaf7207bb37652bf4db5aab731ec9332be6a2f6df9ea",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "les maths.\nle français.\nl'allemand (m.).\nl'anglais (m.).\nle sport / l'EPS.\nla musique.\nles arts plastiques.\nles sciences."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
-    "source_body_sha256": "856ad15078de45365de22fe159a3fc46fcb6a054a0f49517f8509863aae3bd8c",
+    "source_body_sha256": "c3c02e939410fb345f5eeaf7207bb37652bf4db5aab731ec9332be6a2f6df9ea",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le cahier.\nle crayon.\nle stylo.\nla règle.\nla gomme.\nle cartable.\nle tableau.\nla trousse."
@@ -58,7 +58,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
-    "source_body_sha256": "856ad15078de45365de22fe159a3fc46fcb6a054a0f49517f8509863aae3bd8c",
+    "source_body_sha256": "c3c02e939410fb345f5eeaf7207bb37652bf4db5aab731ec9332be6a2f6df9ea",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ouvrez votre livre..\nÉcoutez !.\nÉcrivez la date..\nLevez la main.."
@@ -74,7 +74,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
-    "source_body_sha256": "856ad15078de45365de22fe159a3fc46fcb6a054a0f49517f8509863aae3bd8c",
+    "source_body_sha256": "c3c02e939410fb345f5eeaf7207bb37652bf4db5aab731ec9332be6a2f6df9ea",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "* Le lundi, je commence par le français, puis j'ai maths. J'aime bien le mardi : il y a musique ! Le mercredi, on finit à midi. Ma matière préférée, c'est le sport. * — Léa"

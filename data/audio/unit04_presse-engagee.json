@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit04_presse-engagee/index.md",
-    "source_body_sha256": "ca273aac50090d7c39cdbb5a146d5396c1e77c8b9d63dbd1460f8552d5b9932c",
+    "source_body_sha256": "97314f32d94e7cbdea0503e33310f10921cf5def0386f2b50051c6c74f6c72a1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un éditorial.\nune tribune (libre).\nla ligne éditoriale.\nl'énonciateur.\nla modalisation.\nun procédé rhétorique.\nune question rhétorique.\nune gradation.\nle  nous  inclusif.\nétayer / réfuter."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit04_presse-engagee/index.md",
-    "source_body_sha256": "ca273aac50090d7c39cdbb5a146d5396c1e77c8b9d63dbd1460f8552d5b9932c",
+    "source_body_sha256": "97314f32d94e7cbdea0503e33310f10921cf5def0386f2b50051c6c74f6c72a1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Qui paiera pour vous informer ? Chaque matin, des millions de titres défilent sur nos écrans : gratuits, infinis, immédiats. Nous nous croyons mieux informés que jamais. Et si c'était l'inverse ? Car cette gratuité n'existe pas. Quand l'information ne coûte rien au lecteur, c'est qu'elle est payée par quelqu'un d'autre : l'annonceur, l'actionnaire, l'algorithme. Or celui qui paie choisit. Il choisit les sujets qui rapportent, écarte ceux qui dérangent, et transforme le citoyen en simple cible publicitaire. Face à cette logique, une presse indépendante subsiste, portée par ses seuls lecteurs. Elle enquête lentement, vérifie, dérange. Elle refuse la publicité et les grands groupes. Son modèle est fragile, exigeant, presque héroïque. Mais il reste le dernier rempart d'une démocratie qui a besoin de doutes plus que de certitudes. Alors ne nous y trompons pas : s'informer librement a un prix. Ce prix, ce n'est pas seulement quelques euros par mois. C'est le refus du confort, l'effort de lire, la volonté de comprendre. Une société qui ne veut plus payer pour son information finit par payer bien plus cher : son ignorance. Le choix nous appartient. Et il commence aujourd'hui."

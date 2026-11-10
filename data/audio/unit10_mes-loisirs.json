@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
-    "source_body_sha256": "7c1a5eb1c5ff04ddfb50a08fb96905195c964e2664ed92ad6f1871881dcee6ba",
+    "source_body_sha256": "73ffc3a71831e78c98fa42e474a82c0d1165ad57338d7b3ea7e2ce91d19ca582",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Regarde, il y a un nouveau club le mercredi ! Théo : Ah oui ? Moi, le mercredi, je joue au foot avec mon équipe. Léa : Tu joues souvent ? Théo : Deux fois par semaine. Et toi, tu fais du sport ? Léa : Pas vraiment. Je fais de la guitare et je joue aux échecs. Je ne fais jamais de foot ! Théo : Alors viens au club d'échecs, il est le mardi."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
-    "source_body_sha256": "7c1a5eb1c5ff04ddfb50a08fb96905195c964e2664ed92ad6f1871881dcee6ba",
+    "source_body_sha256": "73ffc3a71831e78c98fa42e474a82c0d1165ad57338d7b3ea7e2ce91d19ca582",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le foot, le basket, le tennis.\nles échecs, les cartes.\nla guitare, le piano, la batterie.\nla danse, la natation, l'escalade.\nle dessin, le vélo, le sport.\nla lecture, les jeux vidéo, la télé."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
-    "source_body_sha256": "7c1a5eb1c5ff04ddfb50a08fb96905195c964e2664ed92ad6f1871881dcee6ba",
+    "source_body_sha256": "73ffc3a71831e78c98fa42e474a82c0d1165ad57338d7b3ea7e2ce91d19ca582",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Collège Jean-Moulin — clubs de la semaine - Lundi, 16 h 30 : club de lecture (salle 12). On lit et on parle des livres. C'est calme et sympa. - Mardi, 17 h : club d'échecs (CDI). Débutants bienvenus ! - Mercredi, 14 h : club de guitare (salle de musique). Apporte ton instrument. - Jeudi, 16 h : danse moderne (gymnase B). Deux groupes : débutants et confirmés. - Vendredi, 16 h 30 : club de vélo (cour). Sortie d'une heure autour du parc."

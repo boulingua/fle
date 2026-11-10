@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
-    "source_body_sha256": "9926dd5c8560225f1f14cbed7bed51b1b65d9c62b717b090eb4e077684e3377d",
+    "source_body_sha256": "9c37b0570eb2525986d10e093e66a35bc9be62cae35a2ff0b03ed0ccf58e8800",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk : Voici la cour de récréation. Là-bas, c'est la cantine. Tristan : Et cette grande salle avec les livres ? Anouk : C'est le CDI. On y va pour lire et pour travailler. Tristan : Ah, comme une bibliothèque ! Anouk : Exactement. Viens, je te montre le gymnase."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
-    "source_body_sha256": "9926dd5c8560225f1f14cbed7bed51b1b65d9c62b717b090eb4e077684e3377d",
+    "source_body_sha256": "9c37b0570eb2525986d10e093e66a35bc9be62cae35a2ff0b03ed0ccf58e8800",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la cantine.\nle CDI / la bibliothèque.\nle gymnase.\nla cour de récréation.\nla salle de classe.\nle couloir.\nla salle des professeurs.\nle bureau du directeur.\nles maths (f. pl.).\nle français.\nl'allemand (m.).\nl'anglais (m.).\nle sport.\nla musique.\nles arts plastiques (m. pl.).\nles sciences (f. pl.)."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
-    "source_body_sha256": "9926dd5c8560225f1f14cbed7bed51b1b65d9c62b717b090eb4e077684e3377d",
+    "source_body_sha256": "9c37b0570eb2525986d10e093e66a35bc9be62cae35a2ff0b03ed0ccf58e8800",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Le lundi, je commence à huit heures avec les maths — ce n'est pas ma matière préférée ! Ensuite, j'ai français, allemand et anglais. J'adore les langues. Le mercredi, on finit à midi : l'après-midi est libre. Ma journée préférée, c'est le mardi, parce que j'ai musique et sport."

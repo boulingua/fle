@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
-    "source_body_sha256": "35ea08bac4bf679b64e15c37a7eea9715d8872b89ff4bcd57112e1cfcaf4c0d5",
+    "source_body_sha256": "168b41720418886f71a1595a257c59bc9b920e4b9328b1970d2c5a97c5116705",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
-    "source_body_sha256": "35ea08bac4bf679b64e15c37a7eea9715d8872b89ff4bcd57112e1cfcaf4c0d5",
+    "source_body_sha256": "168b41720418886f71a1595a257c59bc9b920e4b9328b1970d2c5a97c5116705",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "une anecdote.\nun souvenir.\nun jour.\nsoudain / tout à coup.\nalors.\nfinalement.\nil m'est arrivé….\npar hasard.\nheureusement.\nc'était incroyable !."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
-    "source_body_sha256": "35ea08bac4bf679b64e15c37a7eea9715d8872b89ff4bcd57112e1cfcaf4c0d5",
+    "source_body_sha256": "168b41720418886f71a1595a257c59bc9b920e4b9328b1970d2c5a97c5116705",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "L'été dernier, je passais une semaine chez ma grand-mère, à la campagne. Il faisait très chaud et je me levais tôt pour profiter de la fraîcheur du matin. Ce jour-là, je prenais mon petit-déjeuner dans le jardin. Les oiseaux chantaient et une chèvre broutait tranquillement derrière la clôture. Soudain, la chèvre a sauté par-dessus la clôture, a traversé le jardin et a mangé ma tartine ! J'ai crié, mais il était déjà trop tard. Finalement, ma grand-mère est arrivée et a ri aux éclats. Depuis ce jour, on appelle cette chèvre  la voleuse de tartines ."

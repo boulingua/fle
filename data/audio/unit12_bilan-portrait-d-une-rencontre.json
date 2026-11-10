@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
-    "source_body_sha256": "d5389fbaeb2e0accacb8f66cbc321ce8280ec3d79c9809f59936c0dae9139dc9",
+    "source_body_sha256": "e7f15e7caade608437fb36a9e53d436d842434136ff3cdccdc9a302011d6b90d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Renault : Cette année, vous avez rencontré le français de mille façons. Une lettre, un film, une chanson, une personne. Fermez les yeux : quel visage revient ? Léa : Moi, c'est Inès. Ma correspondante de Montréal. On ne s'est jamais vues, mais je crois la connaître. Karim : Moi, une dame âgée, devant Notre-Dame. Elle parlait allemand et français dans la même phrase. On a discuté dix minutes. Sandrine : Et moi, une voix — celle de Soolking dans une chanson. Ça compte aussi, non ? Mme Renault : Bien sûr. Une rencontre, ce n'est pas toujours une poignée de main. Aujourd'hui, chacun·e écrit le portrait d'une rencontre de l'année."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
-    "source_body_sha256": "d5389fbaeb2e0accacb8f66cbc321ce8280ec3d79c9809f59936c0dae9139dc9",
+    "source_body_sha256": "e7f15e7caade608437fb36a9e53d436d842434136ff3cdccdc9a302011d6b90d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "une rencontre marquante.\nun·e correspondant·e.\ndresser le portrait de.\npar écrit / en personne.\nun trait de caractère.\nce qu'elle représente pour moi.\ncela m'a appris que.\nplus tard, j'aimerais."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
-    "source_body_sha256": "d5389fbaeb2e0accacb8f66cbc321ce8280ec3d79c9809f59936c0dae9139dc9",
+    "source_body_sha256": "e7f15e7caade608437fb36a9e53d436d842434136ff3cdccdc9a302011d6b90d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Inès Tremblay, 14 ans, Montréal. Inès est ma correspondante depuis octobre. Elle est en deuxième secondaire et vit avec sa mère, infirmière, son père, déménageur, et son petit frère Olivier, huit ans, passionné de hockey. Je l'ai rencontrée par écrit dès le début de l'année. Elle m'a appris qu'au Québec  écœurant  peut vouloir dire génial, et elle m'a raconté ses matchs d'improvisation théâtrale, où l'on joue comme sur une patinoire de hockey. Pour moi, Inès n'est pas seulement une correspondante. Elle est la preuve que le français vit autrement de l'autre côté de l'océan, que les mots peuvent retourner leur sens, et qu'une rencontre par écrit peut être aussi forte qu'en personne. Plus tard, j'irai à Montréal. Je verrai le mont Royal sous la neige. Et je rencontrerai Inès, enfin, en personne."

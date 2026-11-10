@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit11_voyage-en-france-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit11_voyage-en-france-teacher.png
+audio_manifest: unit11_voyage-en-france
 ---
 
 {{< callout type="note" >}}

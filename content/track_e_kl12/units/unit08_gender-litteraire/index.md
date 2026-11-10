@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit08_gender-litteraire-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit08_gender-litteraire-teacher.png
+audio_manifest: unit08_gender-litteraire
 ---
 
 {{< callout type="note" >}}

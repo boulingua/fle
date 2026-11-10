@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit02_raconter-le-week-end-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit02_raconter-le-week-end-teacher.png
+audio_manifest: unit02_raconter-le-week-end
 ---
 
 {{< callout type="note" >}}

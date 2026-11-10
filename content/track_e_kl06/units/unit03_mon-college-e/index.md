@@ -69,6 +69,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit03_mon-college-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit03_mon-college-e-teacher.png
+audio_manifest: unit03_mon-college-e
 ---
 
 {{< callout type="note" >}}

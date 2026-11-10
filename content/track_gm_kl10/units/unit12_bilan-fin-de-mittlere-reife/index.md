@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit12_bilan-fin-de-mittlere-reife-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit12_bilan-fin-de-mittlere-reife-teacher.png
+audio_manifest: unit12_bilan-fin-de-mittlere-reife
 ---
 
 {{< callout type="note" >}}

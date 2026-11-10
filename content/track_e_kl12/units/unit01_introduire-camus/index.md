@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit01_introduire-camus-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit01_introduire-camus-teacher.png
+audio_manifest: unit01_introduire-camus
 ---
 
 {{< callout type="note" >}}

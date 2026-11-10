@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit04_court-metrage-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit04_court-metrage-teacher.png
+audio_manifest: unit04_court-metrage
 ---
 
 {{< callout type="note" >}}

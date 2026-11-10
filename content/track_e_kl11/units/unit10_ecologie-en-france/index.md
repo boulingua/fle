@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit10_ecologie-en-france-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit10_ecologie-en-france-teacher.png
+audio_manifest: unit10_ecologie-en-france
 ---
 
 {{< callout type="note" >}}

@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit06_transports-et-mobilite-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit06_transports-et-mobilite-teacher.png
+audio_manifest: unit06_transports-et-mobilite
 ---
 
 {{< callout type="note" >}}

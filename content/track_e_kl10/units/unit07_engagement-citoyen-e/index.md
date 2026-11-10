@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit07_engagement-citoyen-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit07_engagement-citoyen-e-teacher.png
+audio_manifest: unit07_engagement-citoyen-e
 ---
 
 {{< callout type="note" >}}

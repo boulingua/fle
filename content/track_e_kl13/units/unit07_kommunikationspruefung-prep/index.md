@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit07_kommunikationspruefung-prep-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit07_kommunikationspruefung-prep-teacher.png
+audio_manifest: unit07_kommunikationspruefung-prep
 ---
 
 {{< callout type="note" >}}

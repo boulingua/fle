@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit12_bilan-fin-sek-i-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit12_bilan-fin-sek-i-teacher.png
+audio_manifest: unit12_bilan-fin-sek-i
 ---
 
 {{< callout type="note" >}}

@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit01_ma-rentree-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit01_ma-rentree-teacher.png
+audio_manifest: unit01_ma-rentree
 ---
 
 {{< callout type="note" >}}

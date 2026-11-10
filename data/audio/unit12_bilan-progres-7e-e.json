@@ -1,35 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Mme Devos : Voilà, c'est presque fini. Une année entière de français. Alors, dites-moi : qu'est-ce que vous savez faire aujourd'hui que vous ne saviez pas faire en septembre ?\nRayan : Moi, je sais raconter mon week-end au passé composé. En septembre, je ne connaissais même pas ce temps !\nLéa : Et moi, j'ai écrit ma première lettre en français. À une correspondante à Rennes.\nMme Devos : Très bien. Et pour la 8e, vous avez des projets ?\nRayan : Je vais lire un vrai livre en français. Un roman, un vrai !",
-    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+    "source_body_sha256": "cfd7a143d007fdc8b5a0f9f6a5e372fda20b1171739eda42dd041e02805d94f4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mme Devos : Voilà, c'est presque fini. Une année entière de français. Alors, dites-moi : qu'est-ce que vous savez faire aujourd'hui que vous ne saviez pas faire en septembre ? Rayan : Moi, je sais raconter mon week-end au passé composé. En septembre, je ne connaissais même pas ce temps ! Léa : Et moi, j'ai écrit ma première lettre en français. À une correspondante à Rennes. Mme Devos : Très bien. Et pour la 8e, vous avez des projets ? Rayan : Je vais lire un vrai livre en français. Un roman, un vrai !"
   },
   {
+    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un bilan · un progrès · un acquis · une compétence · une difficulté · un projet · progresser · améliorer",
-    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+    "source_body_sha256": "cfd7a143d007fdc8b5a0f9f6a5e372fda20b1171739eda42dd041e02805d94f4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un bilan.\nun progrès.\nun acquis.\nune compétence.\nune difficulté.\nun projet.\nprogresser.\naméliorer."
   },
   {
+    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Cette année, j'ai vraiment progressé en français. D'abord, j'ai appris le passé composé et l'imparfait : maintenant, je sais raconter une histoire au passé. Ensuite, j'ai découvert deux cultures francophones — le Québec, grâce à ma cousine Inès, et la Bretagne, pendant nos vacances à Saint-Malo.\nAujourd'hui, je sais écrire une lettre, présenter ma famille et faire une petite médiation de l'allemand vers le français. Ma plus grande difficulté reste la prononciation, mais je m'améliore.\nL'an prochain, en 8e, je vais lire mon premier vrai roman en français. Je vais aussi écrire à Inès une fois par mois. Plus tard, je rêve de faire un échange à Montréal !",
-    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/texte1.ogg"
-  },
-  {
-    "label": "Texte 2",
-    "transcript": "\\_\\_\\_\\_, j'ai appris à me présenter. \\_\\_\\_\\_, j'ai découvert le passé composé. \\_\\_\\_\\_, je sais raconter mon week-end. \\_\\_\\_\\_, je vais lire un livre entier.",
-    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Structure · Connecteurs · Correction de la langue · Oral (si oral)",
-    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab2.ogg",
-    "tts": "Contenu.\nStructure.\nConnecteurs.\nCorrection de la langue.\nOral (si oral)."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "1. Compréhension écrite · 2. Maîtrise de la langue · 3. Expression écrite · Total",
-    "file": "/fle/materials/audio/unit12_bilan-progres-7e-e/vocab3.ogg",
-    "tts": "1. Compréhension écrite.\n2. Maîtrise de la langue.\n3. Expression écrite.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+    "source_body_sha256": "cfd7a143d007fdc8b5a0f9f6a5e372fda20b1171739eda42dd041e02805d94f4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Cette année, j'ai vraiment progressé en français. D'abord, j'ai appris le passé composé et l'imparfait : maintenant, je sais raconter une histoire au passé. Ensuite, j'ai découvert deux cultures francophones — le Québec, grâce à ma cousine Inès, et la Bretagne, pendant nos vacances à Saint-Malo. Aujourd'hui, je sais écrire une lettre, présenter ma famille et faire une petite médiation de l'allemand vers le français. Ma plus grande difficulté reste la prononciation, mais je m'améliore. L'an prochain, en 8e, je vais lire mon premier vrai roman en français. Je vais aussi écrire à Inès une fois par mois. Plus tard, je rêve de faire un échange à Montréal !"
   }
 ]

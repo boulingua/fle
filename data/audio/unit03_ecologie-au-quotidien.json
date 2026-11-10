@@ -1,41 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : Tu as vu ? Il y a trois poubelles maintenant : verre, plastique, déchets.\nThéo : Ah oui, je ne savais pas où mettre ma bouteille. Je trie mal, moi.\nLéa : Ce n'est pas grave, on apprend ! Moi, je suis flexitarienne : je mange de la viande deux fois par semaine seulement.\nMehdi : Chez moi, en Tunisie, on cuisine beaucoup de légumes — c'est le climat, mais c'est aussi l'habitude.\nThéo : Donc, pour la planète, il faut manger moins de viande et mieux trier. On devrait commencer aujourd'hui, non ?",
-    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+    "source_body_sha256": "2c7e73b44f0f21cc8b0b5cf54293501c672e11802cfe7717e19c5cb5ead198e3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : Tu as vu ? Il y a trois poubelles maintenant : verre, plastique, déchets. Théo : Ah oui, je ne savais pas où mettre ma bouteille. Je trie mal, moi. Léa : Ce n'est pas grave, on apprend ! Moi, je suis flexitarienne : je mange de la viande deux fois par semaine seulement. Mehdi : Chez moi, en Tunisie, on cuisine beaucoup de légumes — c'est le climat, mais c'est aussi l'habitude. Théo : Donc, pour la planète, il faut manger moins de viande et mieux trier. On devrait commencer aujourd'hui, non ?"
   },
   {
+    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "trier les déchets · prendre une douche courte · éteindre la lumière · acheter local et de saison · manger moins de viande · se déplacer à vélo · réparer au lieu de jeter · acheter d'occasion",
-    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+    "source_body_sha256": "2c7e73b44f0f21cc8b0b5cf54293501c672e11802cfe7717e19c5cb5ead198e3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "trier les déchets.\nprendre une douche courte.\néteindre la lumière.\nacheter local et de saison.\nmanger moins de viande.\nse déplacer à vélo.\nréparer au lieu de jeter.\nacheter d'occasion."
   },
   {
+    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Chaque personne qui vit en France produit en moyenne un peu plus de huit tonnes de gaz à effet de serre par an. C'est beaucoup ! Pour protéger le climat, il faudrait réduire ce chiffre de moitié.\nTrois domaines pèsent le plus lourd. D'abord, l'alimentation : ce que nous mangeons représente près d'un quart de notre empreinte. Ensuite, le logement : le chauffage et l'électricité comptent pour un peu moins d'un quart. Enfin, les transports : la voiture et l'avion pèsent eux aussi environ un cinquième.\nLa bonne nouvelle ? Chaque geste compte. On devrait manger un peu moins de viande, mieux isoler son logement et se déplacer autrement. Il n'est pas nécessaire d'être parfait : il est important de commencer.",
-    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/dialogue2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "a) réparer un objet · b) prendre une douche courte · c) acheter local · d) se déplacer à vélo",
-    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/vocab2.ogg",
-    "tts": "a) réparer un objet.\nb) prendre une douche courte.\nc) acheter local.\nd) se déplacer à vélo."
-  },
-  {
-    "label": "Texte 1",
-    "transcript": "Sujet :  On devrait servir un repas végétarien à la cantine tous les jours.\nTrouvez deux arguments pour et deux arguments contre. Utilisez au moins deux fois il faut / on devrait.",
-    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Réalisation de la tâche · Tournures de conseil · Interaction · Langue · Fluidité",
-    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/vocab3.ogg",
-    "tts": "Réalisation de la tâche.\nTournures de conseil.\nInteraction.\nLangue.\nFluidité."
-  },
-  {
-    "label": "Vocabulaire 4",
-    "transcript": "1 · 2 · 3 · Total",
-    "file": "/fle/materials/audio/unit03_ecologie-au-quotidien/vocab4.ogg",
-    "tts": "1.\n2.\n3.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+    "source_body_sha256": "2c7e73b44f0f21cc8b0b5cf54293501c672e11802cfe7717e19c5cb5ead198e3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Chaque personne qui vit en France produit en moyenne un peu plus de huit tonnes de gaz à effet de serre par an. C'est beaucoup ! Pour protéger le climat, il faudrait réduire ce chiffre de moitié. Trois domaines pèsent le plus lourd. D'abord, l'alimentation : ce que nous mangeons représente près d'un quart de notre empreinte. Ensuite, le logement : le chauffage et l'électricité comptent pour un peu moins d'un quart. Enfin, les transports : la voiture et l'avion pèsent eux aussi environ un cinquième. La bonne nouvelle ? Chaque geste compte. On devrait manger un peu moins de viande, mieux isoler son logement et se déplacer autrement. Il n'est pas nécessaire d'être parfait : il est important de commencer."
   }
 ]

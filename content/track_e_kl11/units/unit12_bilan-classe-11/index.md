@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit12_bilan-classe-11-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit12_bilan-classe-11-teacher.png
+audio_manifest: unit12_bilan-classe-11
 ---
 
 {{< callout type="note" >}}

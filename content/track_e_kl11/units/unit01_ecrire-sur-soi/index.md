@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit01_ecrire-sur-soi-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit01_ecrire-sur-soi-teacher.png
+audio_manifest: unit01_ecrire-sur-soi
 ---
 
 {{< callout type="note" >}}

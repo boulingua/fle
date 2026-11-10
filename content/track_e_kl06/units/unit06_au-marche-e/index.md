@@ -69,6 +69,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit06_au-marche-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit06_au-marche-e-teacher.png
+audio_manifest: unit06_au-marche-e
 ---
 
 {{< callout type="note" >}}

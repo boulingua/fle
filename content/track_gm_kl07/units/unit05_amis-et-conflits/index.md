@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit05_amis-et-conflits-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit05_amis-et-conflits-teacher.png
+audio_manifest: unit05_amis-et-conflits
 ---
 
 {{< callout type="note" >}}

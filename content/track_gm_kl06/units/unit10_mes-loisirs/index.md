@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit10_mes-loisirs-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit10_mes-loisirs-teacher.png
+audio_manifest: unit10_mes-loisirs
 ---
 
 {{< callout type="note" >}}

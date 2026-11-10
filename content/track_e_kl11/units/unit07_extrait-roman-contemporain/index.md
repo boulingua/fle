@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit07_extrait-roman-contemporain-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit07_extrait-roman-contemporain-teacher.png
+audio_manifest: unit07_extrait-roman-contemporain
 ---
 
 {{< callout type="note" >}}

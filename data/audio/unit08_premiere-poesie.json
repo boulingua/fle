@@ -1,29 +1,49 @@
 [
   {
+    "file": "/fle/materials/audio/unit08_premiere-poesie/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "—  Aujourd'hui, on ne fait pas de grammaire. On écoute un poème. \n—  Un poème, c'est difficile ?  demande Léa.\n—  Non. Écoute juste les sons , répond M. Simon.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
+    "source_body_sha256": "9151cd34925def205b80edf80de6ff4c547917bb02fecfb0ba7d24a0dafb9b5c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit08_premiere-poesie/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un poème · un vers · une strophe · une rime · un poète / une poète · le rythme · la musicalité · une image · réciter · doux / douce",
-    "file": "/fle/materials/audio/unit08_premiere-poesie/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
+    "source_body_sha256": "9151cd34925def205b80edf80de6ff4c547917bb02fecfb0ba7d24a0dafb9b5c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un poème.\nun vers.\nune strophe.\nune rime.\nun poète / une poète.\nle rythme.\nla musicalité.\nune image.\nréciter.\ndoux / douce."
   },
   {
-    "label": "Texte 1",
-    "transcript": "Les sanglots longs\nDes violons\nDe l'automne\nBlessent mon cœur\nD'une langueur\nMonotone.\nTout suffocant\nEt blême, quand\nSonne l'heure,\nJe me souviens\nDes jours anciens\nEt je pleure ;",
-    "file": "/fle/materials/audio/unit08_premiere-poesie/texte1.ogg"
-  },
-  {
+    "file": "/fle/materials/audio/unit08_premiere-poesie/texte2.ogg",
     "label": "Texte 2",
-    "transcript": "Le matin, je vois le ___(1)___ ,\nIl fait un peu ___(2)___ ;\nMais dans mon cœur, je suis ___(3)___ ,\nEt je pense à cette ___(4)___ .",
-    "file": "/fle/materials/audio/unit08_premiere-poesie/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "6 vers courts · Sujet respecté (saison / météo) · Au moins une paire de rimes · Au moins une image · Lecture à voix haute claire",
-    "file": "/fle/materials/audio/unit08_premiere-poesie/vocab2.ogg",
-    "tts": "6 vers courts.\nSujet respecté (saison / météo).\nAu moins une paire de rimes.\nAu moins une image.\nLecture à voix haute claire."
-  },
-  {
-    "label": "Texte 3",
-    "transcript": "Il pleut ce matin sur la ville,\nles rues brillent, l'eau tranquille ;\nun enfant court sous son parapluie,\net rit tout seul dans la pluie.\nIl saute dans une grande flaque,\nson chien joyeux le suit et claque.",
-    "file": "/fle/materials/audio/unit08_premiere-poesie/texte3.ogg"
+    "transcript": "Les sanglots longs\nDes violons\nDe l'automne\nBlessent mon cœur\nD'une langueur\nMonotone.\nTout suffocant\nEt blême, quand\nSonne l'heure,\nJe me souviens\nDes jours anciens\nEt je pleure ;",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
+    "source_body_sha256": "9151cd34925def205b80edf80de6ff4c547917bb02fecfb0ba7d24a0dafb9b5c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Les sanglots longs Des violons De l'automne Blessent mon cœur D'une langueur Monotone. Tout suffocant Et blême, quand Sonne l'heure, Je me souviens Des jours anciens Et je pleure ;"
   }
 ]

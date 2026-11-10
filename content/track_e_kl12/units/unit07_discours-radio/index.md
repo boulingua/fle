@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit07_discours-radio-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit07_discours-radio-teacher.png
+audio_manifest: unit07_discours-radio
 ---
 
 {{< callout type="note" >}}

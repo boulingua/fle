@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit10_mobilite-erasmus-jeune-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit10_mobilite-erasmus-jeune-teacher.png
+audio_manifest: unit10_mobilite-erasmus-jeune
 ---
 
 {{< callout type="note" >}}

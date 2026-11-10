@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit06_musiques-du-maghreb-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit06_musiques-du-maghreb-e-teacher.png
+audio_manifest: unit06_musiques-du-maghreb-e
 ---
 
 {{< callout type="note" >}}

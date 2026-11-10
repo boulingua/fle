@@ -65,6 +65,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit03_essai-personnel-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit03_essai-personnel-teacher.png
+audio_manifest: unit03_essai-personnel
 ---
 
 {{< callout type="note" >}}

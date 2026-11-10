@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit07_harcelement-et-respect-e-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit07_harcelement-et-respect-e-teacher.png
+audio_manifest: unit07_harcelement-et-respect-e
 ---
 
 {{< callout type="note" >}}

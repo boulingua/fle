@@ -70,6 +70,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit08_differences-culturelles-e-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit08_differences-culturelles-e-teacher.png
+audio_manifest: unit08_differences-culturelles-e
 ---
 
 {{< callout type="note" >}}

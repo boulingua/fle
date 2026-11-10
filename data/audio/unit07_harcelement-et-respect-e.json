@@ -1,18 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit07_harcelement-et-respect-e/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Léa — Ça va, Sofiane ? Tu as l'air ailleurs depuis ce matin.\nSofiane — Bof… Y a un groupe sur la messagerie de la classe. Ils mettent des photos de moi, ils se moquent de ma façon de parler. C'est  pour rigoler , qu'ils disent.\nLéa — Attends… ça dure depuis quand ? Tu en as parlé à quelqu'un ?\nSofiane — Non. J'ai honte. Et j'ai peur que ça empire si je dis quelque chose.\nLéa — Tu n'as pas à avoir honte : ce n'est pas toi le problème. On peut en parler à Mme Roy, ou appeler le 3018. Tu ne restes pas seul là-dedans, d'accord ? Je suis avec toi.",
-    "file": "/fle/materials/audio/unit07_harcelement-et-respect-e/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+    "source_body_sha256": "4a4bd58db2e956a1987d000f473a5788689c24d591af6f399b81134371809eed",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa — Ça va, Sofiane ? Tu as l'air ailleurs depuis ce matin. Sofiane — Bof… Y a un groupe sur la messagerie de la classe. Ils mettent des photos de moi, ils se moquent de ma façon de parler. C'est  pour rigoler , qu'ils disent. Léa — Attends… ça dure depuis quand ? Tu en as parlé à quelqu'un ? Sofiane — Non. J'ai honte. Et j'ai peur que ça empire si je dis quelque chose. Léa — Tu n'as pas à avoir honte : ce n'est pas toi le problème. On peut en parler à Mme Roy, ou appeler le 3018. Tu ne restes pas seul là-dedans, d'accord ? Je suis avec toi."
   },
   {
+    "file": "/fle/materials/audio/unit07_harcelement-et-respect-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "avoir honte · avoir peur / être angoissé·e · se sentir seul·e / isolé·e · être blessé·e (moralement) · être soulagé·e · l'auteur·e (du harcèlement) · la victime · le/la témoin · le harcèlement / le cyberharcèlement · soutenir quelqu'un · signaler (un message, un fait) · oser en parler · briser le silence",
-    "file": "/fle/materials/audio/unit07_harcelement-et-respect-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+    "source_body_sha256": "4a4bd58db2e956a1987d000f473a5788689c24d591af6f399b81134371809eed",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "avoir honte.\navoir peur / être angoissé·e.\nse sentir seul·e / isolé·e.\nêtre blessé·e (moralement).\nêtre soulagé·e.\nl'auteur·e (du harcèlement).\nla victime.\nle/la témoin.\nle harcèlement / le cyberharcèlement.\nsoutenir quelqu'un.\nsignaler (un message, un fait).\noser en parler.\nbriser le silence."
   },
   {
+    "file": "/fle/materials/audio/unit07_harcelement-et-respect-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Je n'osais rien dire\nPendant des semaines, Nour arrivait au collège la boule au ventre. Dans le groupe de la classe, on commentait ses vêtements, on imitait sa voix.  Ce n'est qu'une blague , répétaient-ils. Mais une blague qui se répète et qui blesse toujours la même personne n'est plus une blague : c'est du harcèlement.\nNour avait honte. Elle se sentait seule, comme si personne ne pouvait comprendre. Elle pensait, à tort, que se taire ferait tout disparaître.\nUn midi, Maël s'est assis à côté d'elle. Il n'a pas fait de grand discours. Il a simplement dit :  J'ai vu les messages. Ce n'est pas normal, et ce n'est pas ta faute. Si tu veux, on va voir la CPE ensemble.\nCe jour-là, quelque chose a changé. Ce n'est pas le silence de Nour qui l'a sauvée — c'est le geste d'un témoin qui a refusé de détourner le regard.",
-    "file": "/fle/materials/audio/unit07_harcelement-et-respect-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+    "source_body_sha256": "4a4bd58db2e956a1987d000f473a5788689c24d591af6f399b81134371809eed",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Je n'osais rien dire Pendant des semaines, Nour arrivait au collège la boule au ventre. Dans le groupe de la classe, on commentait ses vêtements, on imitait sa voix.  Ce n'est qu'une blague , répétaient-ils. Mais une blague qui se répète et qui blesse toujours la même personne n'est plus une blague : c'est du harcèlement. Nour avait honte. Elle se sentait seule, comme si personne ne pouvait comprendre. Elle pensait, à tort, que se taire ferait tout disparaître. Un midi, Maël s'est assis à côté d'elle. Il n'a pas fait de grand discours. Il a simplement dit :  J'ai vu les messages. Ce n'est pas normal, et ce n'est pas ta faute. Si tu veux, on va voir la CPE ensemble. Ce jour-là, quelque chose a changé. Ce n'est pas le silence de Nour qui l'a sauvée — c'est le geste d'un témoin qui a refusé de détourner le regard."
   }
 ]

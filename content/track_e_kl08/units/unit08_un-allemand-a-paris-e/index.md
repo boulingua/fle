@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit08_un-allemand-a-paris-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit08_un-allemand-a-paris-e-teacher.png
+audio_manifest: unit08_un-allemand-a-paris-e
 ---
 
 {{< callout type="note" >}}

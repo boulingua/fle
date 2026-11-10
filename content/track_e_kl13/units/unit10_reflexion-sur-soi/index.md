@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit10_reflexion-sur-soi-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit10_reflexion-sur-soi-teacher.png
+audio_manifest: unit10_reflexion-sur-soi
 ---
 
 {{< callout type="note" >}}

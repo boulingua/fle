@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit02_analyse-stylistique-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit02_analyse-stylistique-teacher.png
+audio_manifest: unit02_analyse-stylistique
 ---
 
 {{< callout type="note" >}}

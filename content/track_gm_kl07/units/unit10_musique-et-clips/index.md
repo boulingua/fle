@@ -66,6 +66,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit10_musique-et-clips-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit10_musique-et-clips-teacher.png
+audio_manifest: unit10_musique-et-clips
 ---
 
 {{< callout type="note" >}}

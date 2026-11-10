@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit04_argumenter-pour-contre-e-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit04_argumenter-pour-contre-e-teacher.png
+audio_manifest: unit04_argumenter-pour-contre-e
 ---
 
 {{< callout type="note" >}}

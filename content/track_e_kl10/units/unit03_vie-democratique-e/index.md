@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit03_vie-democratique-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit03_vie-democratique-e-teacher.png
+audio_manifest: unit03_vie-democratique-e
 ---
 
 {{< callout type="note" >}}

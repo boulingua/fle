@@ -1,19 +1,49 @@
 [
   {
+    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Anouk : Sur cette photo, il y a Léa et Karim. Leur visage, c'est une donnée personnelle. Tu devrais leur demander leur accord.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+    "source_body_sha256": "e1db186cec405e12b3b90b08a99ba8b7aae3d0cf70b270bc477d4c02915e8575",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "une donnée personnelle · la vie privée · les paramètres de confidentialité · un mot de passe · un compte privé / public · l'empreinte numérique · un·e abonné·e (un·e follower) · les cookies · le consentement / l'accord · signaler / bloquer",
-    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+    "source_body_sha256": "e1db186cec405e12b3b90b08a99ba8b7aae3d0cf70b270bc477d4c02915e8575",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "une donnée personnelle.\nla vie privée.\nles paramètres de confidentialité.\nun mot de passe.\nun compte privé / public.\nl'empreinte numérique.\nun·e abonné·e (un·e follower).\nles cookies.\nle consentement / l'accord.\nsignaler / bloquer."
   },
   {
+    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Mes données, mes droits\nSur Internet, ton nom, ta photo et tes messages sont des données personnelles. Elles t'appartiennent, et la loi les protège.\nDepuis 2018, un règlement européen te donne des droits : tu peux savoir quelles données une entreprise possède sur toi, corriger une erreur et demander la suppression d'une vieille photo. C'est ce qu'on appelle parfois le  droit à l'oubli .\nMais la meilleure protection, c'est la prudence. Ne partage jamais ton mot de passe. Réfléchis avant de publier la photo d'un·e ami·e : demande son accord. Et si un message te dérange, tu peux le signaler ou bloquer son auteur.\nTa vie privée, c'est ton droit. À toi de la protéger.",
-    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/dialogue1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Richesse du vocabulaire (5 mots ciblés) · Conditionnel correct (3 conseils) · Interaction : questions, réponses, relance · Prononciation et fluidité · Total",
-    "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/vocab2.ogg",
-    "tts": "Richesse du vocabulaire (5 mots ciblés).\nConditionnel correct (3 conseils).\nInteraction : questions, réponses, relance.\nPrononciation et fluidité.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+    "source_body_sha256": "e1db186cec405e12b3b90b08a99ba8b7aae3d0cf70b270bc477d4c02915e8575",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mes données, mes droits Sur Internet, ton nom, ta photo et tes messages sont des données personnelles. Elles t'appartiennent, et la loi les protège. Depuis 2018, un règlement européen te donne des droits : tu peux savoir quelles données une entreprise possède sur toi, corriger une erreur et demander la suppression d'une vieille photo. C'est ce qu'on appelle parfois le  droit à l'oubli . Mais la meilleure protection, c'est la prudence. Ne partage jamais ton mot de passe. Réfléchis avant de publier la photo d'un·e ami·e : demande son accord. Et si un message te dérange, tu peux le signaler ou bloquer son auteur. Ta vie privée, c'est ton droit. À toi de la protéger."
   }
 ]

@@ -69,6 +69,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit02_ma-famille-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit02_ma-famille-e-teacher.png
+audio_manifest: unit02_ma-famille-e
 ---
 
 {{< callout type="note" >}}

@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit08_voix-feminines-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit08_voix-feminines-teacher.png
+audio_manifest: unit08_voix-feminines
 ---
 
 {{< callout type="note" >}}

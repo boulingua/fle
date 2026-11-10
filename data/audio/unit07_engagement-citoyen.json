@@ -1,24 +1,65 @@
 [
   {
-    "label": "Dialogue 1",
-    "transcript": "Nour : Tu viens samedi ? On ramasse les déchets au parc.\nThéo : Bof… un samedi matin ? Pour quoi faire, franchement ?\nNour : Parce que le parc est sale et que personne ne le fait.\nEt puis, c'est sympa : on est une équipe.\nThéo : Mouais. Et ça change vraiment quelque chose ?\nNour : Un peu, oui. Et surtout, ça montre qu'on ne reste pas\nles bras croisés.",
-    "file": "/fle/materials/audio/unit07_engagement-citoyen/dialogue1.ogg"
+    "file": "/fle/materials/audio/unit07_engagement-citoyen/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Au foyer du lycée, deux affiches sont côte à côte. Sur la première :\n Nettoyage du parc — samedi 10 h, rejoins-nous ! . Sur la seconde :\n Réunion du conseil des élèves — jeudi 13 h .",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+    "source_body_sha256": "1d670027ef04afeb5d5579eae145a440268838274160a91776a088e82cb071cf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/fle/materials/audio/unit07_engagement-citoyen/dialogue1.ogg",
+    "label": "Dialogue 1",
+    "transcript": "Nour : Tu viens samedi ? On ramasse les déchets au parc.\nThéo : Bof… un samedi matin ? Pour quoi faire, franchement ?\nNour : Parce que le parc est sale et que personne ne le fait.\nEt puis, c'est sympa : on est une équipe.\nThéo : Mouais. Et ça change vraiment quelque chose ?\nNour : Un peu, oui. Et surtout, ça montre qu'on ne reste pas\nles bras croisés.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+    "source_body_sha256": "1d670027ef04afeb5d5579eae145a440268838274160a91776a088e82cb071cf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Nour : Tu viens samedi ? On ramasse les déchets au parc. Théo : Bof… un samedi matin ? Pour quoi faire, franchement ? Nour : Parce que le parc est sale et que personne ne le fait. Et puis, c'est sympa : on est une équipe. Théo : Mouais. Et ça change vraiment quelque chose ? Nour : Un peu, oui. Et surtout, ça montre qu'on ne reste pas les bras croisés."
+  },
+  {
+    "file": "/fle/materials/audio/unit07_engagement-citoyen/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "le bénévolat · une association · un·e bénévole · une pétition · une manifestation · s'engager (pour) · une cause · défendre (une idée) · soutenir un projet · avoir un impact",
-    "file": "/fle/materials/audio/unit07_engagement-citoyen/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+    "source_body_sha256": "1d670027ef04afeb5d5579eae145a440268838274160a91776a088e82cb071cf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "le bénévolat.\nune association.\nun·e bénévole.\nune pétition.\nune manifestation.\ns'engager (pour).\nune cause.\ndéfendre (une idée).\nsoutenir un projet.\navoir un impact."
   },
   {
-    "label": "Texte 1",
+    "file": "/fle/materials/audio/unit07_engagement-citoyen/texte2.ogg",
+    "label": "Texte 2",
     "transcript": "Camille a seize ans. Chaque mercredi, après les cours, elle rejoint\nune petite association de son quartier qui aide des enfants à faire\nleurs devoirs.\nAu début, je venais surtout pour remplir mon dossier, avoue-t-elle\nen riant. Mais maintenant, j'y vais parce que ça me plaît vraiment.\nLes enfants m'attendent, et moi aussi je les attends.\nDeux heures par semaine, ce n'est pas énorme. Pourtant, grâce à ce\npetit geste régulier, Camille a compris quelque chose : on n'a pas\nbesoin d'être adulte, ni d'avoir de l'argent, pour être utile.\nIl suffit d'un peu de temps et d'envie , résume-t-elle.",
-    "file": "/fle/materials/audio/unit07_engagement-citoyen/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Oral : contenu et arguments · Oral : interaction et réactions · Oral : fluidité et prononciation · Écrit : contenu et structure · Écrit : justification (cause + but) · Écrit : correction de la langue · Total",
-    "file": "/fle/materials/audio/unit07_engagement-citoyen/vocab2.ogg",
-    "tts": "Oral : contenu et arguments.\nOral : interaction et réactions.\nOral : fluidité et prononciation.\nÉcrit : contenu et structure.\nÉcrit : justification (cause + but).\nÉcrit : correction de la langue.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+    "source_body_sha256": "1d670027ef04afeb5d5579eae145a440268838274160a91776a088e82cb071cf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Camille a seize ans. Chaque mercredi, après les cours, elle rejoint une petite association de son quartier qui aide des enfants à faire leurs devoirs. Au début, je venais surtout pour remplir mon dossier, avoue-t-elle en riant. Mais maintenant, j'y vais parce que ça me plaît vraiment. Les enfants m'attendent, et moi aussi je les attends. Deux heures par semaine, ce n'est pas énorme. Pourtant, grâce à ce petit geste régulier, Camille a compris quelque chose : on n'a pas besoin d'être adulte, ni d'avoir de l'argent, pour être utile. Il suffit d'un peu de temps et d'envie , résume-t-elle."
   }
 ]

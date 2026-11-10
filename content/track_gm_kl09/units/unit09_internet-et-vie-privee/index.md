@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit09_internet-et-vie-privee-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit09_internet-et-vie-privee-teacher.png
+audio_manifest: unit09_internet-et-vie-privee
 ---
 
 {{< callout type="note" >}}

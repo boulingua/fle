@@ -1,29 +1,73 @@
 [
   {
+    "file": "/fle/materials/audio/unit06_mediation-avancee/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Au foyer du lycée franco-allemand, Naïm lit un article en allemand sur son téléphone. Son amie Chloé, qui apprend l'allemand depuis deux ans seulement, se penche vers lui.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+    "source_body_sha256": "dbfe5300c8b57beaf844120dbcc03769aeaa996ecc585171acd6701fe3e37d65",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "C. Texte source allemand (texte original, ~160 mots)"
+    ]
+  },
+  {
+    "file": "/fle/materials/audio/unit06_mediation-avancee/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Chloé : Ça parle de quoi, ton article ? Je vois  Repair-Café  partout, mais je ne comprends pas tout.\nNaïm : Attends, je te résume l'essentiel en français. En gros, ce sont des ateliers gratuits où on répare ses objets cassés au lieu de les jeter.\nChloé : Ah, super ! Et c'est nouveau ?\nNaïm : Non, d'après le texte, le premier a ouvert à Amsterdam en 2009. Depuis, l'idée s'est répandue en Europe.\nChloé : Tu ne me traduis pas tout, alors ?\nNaïm : Non, je te donne juste ce qui compte pour toi. C'est ça, la médiation !",
-    "file": "/fle/materials/audio/unit06_mediation-avancee/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+    "source_body_sha256": "dbfe5300c8b57beaf844120dbcc03769aeaa996ecc585171acd6701fe3e37d65",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "C. Texte source allemand (texte original, ~160 mots)"
+    ],
+    "tts": "Chloé : Ça parle de quoi, ton article ? Je vois  Repair-Café  partout, mais je ne comprends pas tout. Naïm : Attends, je te résume l'essentiel en français. En gros, ce sont des ateliers gratuits où on répare ses objets cassés au lieu de les jeter. Chloé : Ah, super ! Et c'est nouveau ? Naïm : Non, d'après le texte, le premier a ouvert à Amsterdam en 2009. Depuis, l'idée s'est répandue en Europe. Chloé : Tu ne me traduis pas tout, alors ? Naïm : Non, je te donne juste ce qui compte pour toi. C'est ça, la médiation !"
   },
   {
-    "label": "Vocabulaire 1",
-    "transcript": "In dem Text geht es um… · Der Autor erklärt, dass… · Laut dem Text… · das Ziel ist… · reparieren statt wegwerfen · Ressourcen schonen · sich verbreiten · ehrenamtlich / freiwillig · kurz gesagt…",
     "file": "/fle/materials/audio/unit06_mediation-avancee/vocab1.ogg",
-    "tts": "In dem Text geht es um….\nDer Autor erklärt, dass….\nLaut dem Text….\ndas Ziel ist….\nreparieren statt wegwerfen.\nRessourcen schonen.\nsich verbreiten.\nehrenamtlich / freiwillig.\nkurz gesagt…."
+    "label": "Vocabulaire 1",
+    "transcript": "Le texte parle de… / Il s'agit de… · L'auteur explique que… · Selon le texte… / D'après le texte… · l'objectif / le but est de… · réparer au lieu de jeter · préserver / économiser les ressources · se répandre / se développer · bénévole / volontaire · en résumé / pour faire court…",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+    "source_body_sha256": "dbfe5300c8b57beaf844120dbcc03769aeaa996ecc585171acd6701fe3e37d65",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "C. Texte source allemand (texte original, ~160 mots)"
+    ],
+    "tts": "Le texte parle de… / Il s'agit de….\nL'auteur explique que….\nSelon le texte… / D'après le texte….\nl'objectif / le but est de….\nréparer au lieu de jeter.\npréserver / économiser les ressources.\nse répandre / se développer.\nbénévole / volontaire.\nen résumé / pour faire court…."
   },
   {
-    "label": "Dialogue 2",
-    "transcript": "Reparieren statt wegwerfen — Repair-Cafés in Deutschland\nIn vielen deutschen Städten gibt es sogenannte Repair-Cafés. Das sind offene Treffpunkte, an denen Menschen ihre kaputten Geräte kostenlos reparieren können. Freiwillige Helferinnen und Helfer — oft pensionierte Handwerker oder technikbegeisterte Jugendliche — zeigen den Besuchern, wie man eine Lampe, ein Fahrrad oder einen Toaster wieder in Gang bringt.\nDas erste Repair-Café wurde 2009 in Amsterdam gegründet. Seitdem hat sich die Idee in ganz Europa verbreitet. Die Ziele sind klar: weniger Müll produzieren, Ressourcen schonen und das alte Wissen über Reparaturen bewahren. Außerdem lernen sich Nachbarn kennen und trinken zusammen einen Kaffee.\nWer mitmachen möchte, bringt einfach seinen defekten Gegenstand mit und wartet, bis ein Helfer Zeit hat. Manchmal dauert eine Reparatur nur zehn Minuten, manchmal einen ganzen Nachmittag. Am Ende freuen sich fast alle: Ein repariertes Gerät ist oft besser als ein neues im Regal.",
-    "file": "/fle/materials/audio/unit06_mediation-avancee/dialogue2.ogg"
-  },
-  {
-    "label": "Texte 1",
+    "file": "/fle/materials/audio/unit06_mediation-avancee/texte2.ogg",
+    "label": "Texte 2",
     "transcript": "Salut Chloé,\nVoici l'essentiel de l'article : dans beaucoup de villes allemandes, il existe des  Repair-Cafés . Ce sont des lieux gratuits où on peut réparer ses appareils cassés — une lampe, un vélo, un grille-pain — avec l'aide de bénévoles, souvent des retraités bricoleurs ou des jeunes passionnés de technique.\nD'après le texte, le premier café de ce genre a ouvert à Amsterdam en 2009, et depuis l'idée s'est répandue dans toute l'Europe. Le but est clair : produire moins de déchets, économiser les ressources et garder le savoir-faire de la réparation. En plus, les voisins se rencontrent autour d'un café.\nPour faire court : mieux vaut un objet réparé qu'un objet neuf resté au magasin !",
-    "file": "/fle/materials/audio/unit06_mediation-avancee/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu transmis · Sélection / adaptation · Reformulation · Registre & source · Langue · Total",
-    "file": "/fle/materials/audio/unit06_mediation-avancee/vocab2.ogg",
-    "tts": "Contenu transmis.\nSélection / adaptation.\nReformulation.\nRegistre & source.\nLangue.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+    "source_body_sha256": "dbfe5300c8b57beaf844120dbcc03769aeaa996ecc585171acd6701fe3e37d65",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "C. Texte source allemand (texte original, ~160 mots)"
+    ],
+    "tts": "Salut Chloé, Voici l'essentiel de l'article : dans beaucoup de villes allemandes, il existe des  Repair-Cafés . Ce sont des lieux gratuits où on peut réparer ses appareils cassés — une lampe, un vélo, un grille-pain — avec l'aide de bénévoles, souvent des retraités bricoleurs ou des jeunes passionnés de technique. D'après le texte, le premier café de ce genre a ouvert à Amsterdam en 2009, et depuis l'idée s'est répandue dans toute l'Europe. Le but est clair : produire moins de déchets, économiser les ressources et garder le savoir-faire de la réparation. En plus, les voisins se rencontrent autour d'un café. Pour faire court : mieux vaut un objet réparé qu'un objet neuf resté au magasin !"
   }
 ]

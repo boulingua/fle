@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit05_j-aime-je-n-aime-pas-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit05_j-aime-je-n-aime-pas-teacher.png
+audio_manifest: unit05_j-aime-je-n-aime-pas
 ---
 
 {{< callout type="note" >}}

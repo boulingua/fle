@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit08_reseaux-sociaux-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit08_reseaux-sociaux-e-teacher.png
+audio_manifest: unit08_reseaux-sociaux-e
 ---
 
 {{< callout type="note" >}}

@@ -1,30 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit11_discours-politique/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : J'ai lu le discours trois fois. Le contenu tient en une phrase :  il faut rénover la bibliothèque .\nYanis : Alors pourquoi ça sonne aussi fort ? Il répète  Nous voulons… nous voulons… nous voulons…  à chaque paragraphe.\nLéa : C'est peut-être ça, la rhétorique : la même idée, mais habillée pour convaincre.\nYanis : Donc analyser un discours, ce n'est pas résumer ce qu'il dit. C'est expliquer comment il le dit.",
-    "file": "/fle/materials/audio/unit11_discours-politique/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit11_discours-politique/index.md",
+    "source_body_sha256": "83cf96c210ac1987bb4f4ec4ab5787954e4a24ee1bb04ed28ba8f427570b60c0",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : J'ai lu le discours trois fois. Le contenu tient en une phrase :  il faut rénover la bibliothèque . Yanis : Alors pourquoi ça sonne aussi fort ? Il répète  Nous voulons… nous voulons… nous voulons…  à chaque paragraphe. Léa : C'est peut-être ça, la rhétorique : la même idée, mais habillée pour convaincre. Yanis : Donc analyser un discours, ce n'est pas résumer ce qu'il dit. C'est expliquer comment il le dit."
   },
   {
+    "file": "/fle/materials/audio/unit11_discours-politique/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un discours · l'orateur / l'oratrice · l'auditoire (m.) · la thèse · un procédé rhétorique · le cadrage · convaincre / persuader · souligner, mettre en relief · l'auditoire adhère à… · prendre du recul",
-    "file": "/fle/materials/audio/unit11_discours-politique/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit11_discours-politique/index.md",
+    "source_body_sha256": "83cf96c210ac1987bb4f4ec4ab5787954e4a24ee1bb04ed28ba8f427570b60c0",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un discours.\nl'orateur / l'oratrice.\nl'auditoire (m.).\nla thèse.\nun procédé rhétorique.\nle cadrage.\nconvaincre / persuader.\nsouligner, mettre en relief.\nl'auditoire adhère à….\nprendre du recul."
   },
   {
-    "label": "Vocabulaire 2",
-    "transcript": "anaphore · triade (tricolon) · antithèse · question rhétorique · nous  inclusif · chute",
-    "file": "/fle/materials/audio/unit11_discours-politique/vocab2.ogg",
-    "tts": "anaphore.\ntriade (tricolon).\nantithèse.\nquestion rhétorique.\nnous  inclusif.\nchute."
-  },
-  {
+    "file": "/fle/materials/audio/unit11_discours-politique/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Discours de rentrée du conseil des élèves (texte fictif, à but pédagogique)\nChères et chers camarades,\nOn nous répète que rien ne changera jamais. On nous répète que voter ne sert à rien. On nous répète que la salle des élèves restera fermée. Faut-il vraiment les croire ?\nNous voulons un lieu pour travailler. Nous voulons un lieu pour nous rencontrer. Nous voulons un lieu qui soit vraiment le nôtre.\nCe projet n'est pas un caprice : c'est un besoin. Il ne coûte pas cher : il rapporte du calme, du respect et du temps.\nAlors ne demandons pas la permission de rêver. Ouvrons la porte.",
-    "file": "/fle/materials/audio/unit11_discours-politique/dialogue2.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Contenu / analyse · Structure · Langue · Prise de recul · Fluidité orale",
-    "file": "/fle/materials/audio/unit11_discours-politique/vocab3.ogg",
-    "tts": "Contenu / analyse.\nStructure.\nLangue.\nPrise de recul.\nFluidité orale."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit11_discours-politique/index.md",
+    "source_body_sha256": "83cf96c210ac1987bb4f4ec4ab5787954e4a24ee1bb04ed28ba8f427570b60c0",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Discours de rentrée du conseil des élèves (texte fictif, à but pédagogique) Chères et chers camarades, On nous répète que rien ne changera jamais. On nous répète que voter ne sert à rien. On nous répète que la salle des élèves restera fermée. Faut-il vraiment les croire ? Nous voulons un lieu pour travailler. Nous voulons un lieu pour nous rencontrer. Nous voulons un lieu qui soit vraiment le nôtre. Ce projet n'est pas un caprice : c'est un besoin. Il ne coûte pas cher : il rapporte du calme, du respect et du temps. Alors ne demandons pas la permission de rêver. Ouvrons la porte."
   }
 ]

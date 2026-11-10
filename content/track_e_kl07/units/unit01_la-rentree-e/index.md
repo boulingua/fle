@@ -65,6 +65,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit01_la-rentree-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit01_la-rentree-e-teacher.png
+audio_manifest: unit01_la-rentree-e
 ---
 
 {{< callout type="note" >}}

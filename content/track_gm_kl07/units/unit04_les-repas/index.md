@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit04_les-repas-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit04_les-repas-teacher.png
+audio_manifest: unit04_les-repas
 ---
 
 {{< callout type="note" >}}

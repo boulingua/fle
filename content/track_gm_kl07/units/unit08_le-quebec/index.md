@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit08_le-quebec-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit08_le-quebec-teacher.png
+audio_manifest: unit08_le-quebec
 ---
 
 {{< callout type="note" >}}

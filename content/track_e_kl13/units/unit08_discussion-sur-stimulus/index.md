@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit08_discussion-sur-stimulus-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit08_discussion-sur-stimulus-teacher.png
+audio_manifest: unit08_discussion-sur-stimulus
 ---
 
 {{< callout type="note" >}}

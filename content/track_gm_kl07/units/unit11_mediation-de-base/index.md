@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit11_mediation-de-base-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit11_mediation-de-base-teacher.png
+audio_manifest: unit11_mediation-de-base
 ---
 
 {{< callout type="note" >}}

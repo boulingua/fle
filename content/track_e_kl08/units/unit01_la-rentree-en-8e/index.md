@@ -65,6 +65,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit01_la-rentree-en-8e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit01_la-rentree-en-8e-teacher.png
+audio_manifest: unit01_la-rentree-en-8e
 ---
 
 {{< callout type="note" >}}

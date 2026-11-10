@@ -68,6 +68,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit04_francophonie-aujourd-hui-e-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit04_francophonie-aujourd-hui-e-teacher.png
+audio_manifest: unit04_francophonie-aujourd-hui-e
 ---
 
 {{< callout type="note" >}}

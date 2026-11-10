@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit01_le-monde-du-travail-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit01_le-monde-du-travail-teacher.png
+audio_manifest: unit01_le-monde-du-travail
 ---
 
 {{< callout type="note" >}}

@@ -71,6 +71,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit12_bilan-portrait-de-classe-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit12_bilan-portrait-de-classe-teacher.png
+audio_manifest: unit12_bilan-portrait-de-classe
 ---
 
 {{< callout type="note" >}}

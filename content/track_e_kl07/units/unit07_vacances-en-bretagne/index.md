@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit07_vacances-en-bretagne-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit07_vacances-en-bretagne-teacher.png
+audio_manifest: unit07_vacances-en-bretagne
 ---
 
 {{< callout type="note" >}}

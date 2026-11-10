@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit12_preparation-mittlere-reife-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit12_preparation-mittlere-reife-teacher.png
+audio_manifest: unit12_preparation-mittlere-reife
 ---
 
 {{< callout type="note" >}}

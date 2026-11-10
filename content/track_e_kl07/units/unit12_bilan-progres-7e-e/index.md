@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit12_bilan-progres-7e-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit12_bilan-progres-7e-e-teacher.png
+audio_manifest: unit12_bilan-progres-7e-e
 ---
 
 {{< callout type="note" >}}

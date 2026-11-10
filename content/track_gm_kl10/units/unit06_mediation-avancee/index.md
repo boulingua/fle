@@ -66,6 +66,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit06_mediation-avancee-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit06_mediation-avancee-teacher.png
+audio_manifest: unit06_mediation-avancee
 ---
 
 {{< callout type="note" >}}

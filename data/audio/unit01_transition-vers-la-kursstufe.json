@@ -1,18 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit01_transition-vers-la-kursstufe/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Anouk : Tu as vu ? L'année prochaine, on entre dans le cycle terminal. Il faut déjà choisir nos matières.\nLucas : Je sais… J'hésite encore. Et surtout, je n'ai aucune méthode. En classe, je révise tout la veille du contrôle.\nAnouk : Moi, cette année, je vais changer de stratégie. Je planifierai mes révisions chaque semaine et je me fixerai des objectifs clairs.\nLucas : Des objectifs ? Par exemple ?\nAnouk : Atteindre le niveau B2 en français, mieux gérer mon temps, et arrêter de tout faire au dernier moment.",
-    "file": "/fle/materials/audio/unit01_transition-vers-la-kursstufe/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+    "source_body_sha256": "09a6b74ee844890b91d84c2a37f8e18923c6e4c8c341be3fcb52a91dd8262048",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Anouk : Tu as vu ? L'année prochaine, on entre dans le cycle terminal. Il faut déjà choisir nos matières. Lucas : Je sais… J'hésite encore. Et surtout, je n'ai aucune méthode. En classe, je révise tout la veille du contrôle. Anouk : Moi, cette année, je vais changer de stratégie. Je planifierai mes révisions chaque semaine et je me fixerai des objectifs clairs. Lucas : Des objectifs ? Par exemple ? Anouk : Atteindre le niveau B2 en français, mieux gérer mon temps, et arrêter de tout faire au dernier moment."
   },
   {
+    "file": "/fle/materials/audio/unit01_transition-vers-la-kursstufe/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "se fixer un objectif · planifier · réviser · gérer son temps · l'emploi du temps (m.) · l'échéance (f.) · prendre des notes · s'organiser · la méthode de travail · approfondir · viser · persévérer",
-    "file": "/fle/materials/audio/unit01_transition-vers-la-kursstufe/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+    "source_body_sha256": "09a6b74ee844890b91d84c2a37f8e18923c6e4c8c341be3fcb52a91dd8262048",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "se fixer un objectif.\nplanifier.\nréviser.\ngérer son temps.\nl'emploi du temps (m.).\nl'échéance (f.).\nprendre des notes.\ns'organiser.\nla méthode de travail.\napprofondir.\nviser.\npersévérer."
   },
   {
+    "file": "/fle/materials/audio/unit01_transition-vers-la-kursstufe/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "Mon plan pour l'année prochaine\nÀ partir de septembre, tout changera. En cycle terminal, les cours seront plus exigeants et les échéances plus rapprochées. Je ne veux plus travailler dans l'urgence.\nD'abord, je planifierai ma semaine : chaque dimanche soir, je noterai mes tâches dans un carnet. Ensuite, je réviserai un peu chaque jour, plutôt que tout la veille du contrôle. Je prendrai des notes claires en cours afin de gagner du temps à la maison.\nMon objectif principal est simple : atteindre le niveau B2 en français. Pour y arriver, je lirai un article par semaine et je persévérerai, même quand ce sera difficile. Je sais que je réussirai si je reste organisée.",
-    "file": "/fle/materials/audio/unit01_transition-vers-la-kursstufe/dialogue2.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+    "source_body_sha256": "09a6b74ee844890b91d84c2a37f8e18923c6e4c8c341be3fcb52a91dd8262048",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mon plan pour l'année prochaine À partir de septembre, tout changera. En cycle terminal, les cours seront plus exigeants et les échéances plus rapprochées. Je ne veux plus travailler dans l'urgence. D'abord, je planifierai ma semaine : chaque dimanche soir, je noterai mes tâches dans un carnet. Ensuite, je réviserai un peu chaque jour, plutôt que tout la veille du contrôle. Je prendrai des notes claires en cours afin de gagner du temps à la maison. Mon objectif principal est simple : atteindre le niveau B2 en français. Pour y arriver, je lirai un article par semaine et je persévérerai, même quand ce sera difficile. Je sais que je réussirai si je reste organisée."
   }
 ]

@@ -1,18 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit03_mon-quartier/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : Bienvenue ! Ici, à gauche, c'est la boulangerie. On y achète le pain tous les matins.\nInès : Et ce grand bâtiment, en face, c'est quoi ?\nLéa : C'est la mairie. À côté, il y a la poste. La bibliothèque est juste derrière.\nInès : Super ! Et pour prendre le bus, c'est loin ?\nLéa : Non, l'arrêt est au coin de la rue, devant la pharmacie. Tout est près d'ici !",
-    "file": "/fle/materials/audio/unit03_mon-quartier/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+    "source_body_sha256": "e9e4e92199f865796a344eb104765494f96c93df9d474c0e5766730b63f68bda",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : Bienvenue ! Ici, à gauche, c'est la boulangerie. On y achète le pain tous les matins. Inès : Et ce grand bâtiment, en face, c'est quoi ? Léa : C'est la mairie. À côté, il y a la poste. La bibliothèque est juste derrière. Inès : Super ! Et pour prendre le bus, c'est loin ? Léa : Non, l'arrêt est au coin de la rue, devant la pharmacie. Tout est près d'ici !"
   },
   {
+    "file": "/fle/materials/audio/unit03_mon-quartier/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "la boulangerie · la pharmacie · le supermarché · la poste · la banque · le café · le parc · la bibliothèque · l'arrêt de bus · la mairie",
-    "file": "/fle/materials/audio/unit03_mon-quartier/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+    "source_body_sha256": "e9e4e92199f865796a344eb104765494f96c93df9d474c0e5766730b63f68bda",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "la boulangerie.\nla pharmacie.\nle supermarché.\nla poste.\nla banque.\nle café.\nle parc.\nla bibliothèque.\nl'arrêt de bus.\nla mairie."
   },
   {
+    "file": "/fle/materials/audio/unit03_mon-quartier/texte1.ogg",
     "label": "Texte 1",
     "transcript": "J'habite dans un petit quartier à Karlsruhe. À côté de chez moi, il y a\nla boulangerie d'Hugo — son pain au chocolat est le meilleur du quartier !\nEn face, on trouve la pharmacie. Au coin de la rue, il y a un café avec\nune grande terrasse. Le parc est juste derrière la bibliothèque, à cinq\nminutes à pied. L'arrêt de bus n°3 est devant la mairie. Le samedi, il y\na un petit marché sur la place. J'aime beaucoup mon quartier : tout est\nprès et on connaît les voisins !",
-    "file": "/fle/materials/audio/unit03_mon-quartier/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+    "source_body_sha256": "e9e4e92199f865796a344eb104765494f96c93df9d474c0e5766730b63f68bda",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "J'habite dans un petit quartier à Karlsruhe. À côté de chez moi, il y a la boulangerie d'Hugo — son pain au chocolat est le meilleur du quartier ! En face, on trouve la pharmacie. Au coin de la rue, il y a un café avec une grande terrasse. Le parc est juste derrière la bibliothèque, à cinq minutes à pied. L'arrêt de bus n°3 est devant la mairie. Le samedi, il y a un petit marché sur la place. J'aime beaucoup mon quartier : tout est près et on connaît les voisins !"
   }
 ]

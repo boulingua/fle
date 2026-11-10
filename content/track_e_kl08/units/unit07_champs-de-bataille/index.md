@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit07_champs-de-bataille-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit07_champs-de-bataille-teacher.png
+audio_manifest: unit07_champs-de-bataille
 ---
 
 {{< callout type="note" >}}

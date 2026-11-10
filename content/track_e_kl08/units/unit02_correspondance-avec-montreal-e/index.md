@@ -70,6 +70,7 @@ worksheet_teacher:
     /fle/materials/worksheets/unit02_correspondance-avec-montreal-e-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit02_correspondance-avec-montreal-e-teacher.png
+audio_manifest: unit02_correspondance-avec-montreal-e
 ---
 
 {{< callout type="note" >}}

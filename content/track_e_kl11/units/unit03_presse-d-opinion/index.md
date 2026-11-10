@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit03_presse-d-opinion-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit03_presse-d-opinion-teacher.png
+audio_manifest: unit03_presse-d-opinion
 ---
 
 {{< callout type="note" >}}

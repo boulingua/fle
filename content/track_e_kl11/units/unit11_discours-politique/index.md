@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit11_discours-politique-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit11_discours-politique-teacher.png
+audio_manifest: unit11_discours-politique
 ---
 
 {{< callout type="note" >}}

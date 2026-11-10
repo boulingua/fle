@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit09_memoire-et-traumatisme-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit09_memoire-et-traumatisme-teacher.png
+audio_manifest: unit09_memoire-et-traumatisme
 ---
 
 {{< callout type="note" >}}

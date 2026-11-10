@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit04_presse-engagee-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit04_presse-engagee-teacher.png
+audio_manifest: unit04_presse-engagee
 ---
 
 {{< callout type="note" >}}

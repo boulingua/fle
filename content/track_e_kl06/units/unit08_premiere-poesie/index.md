@@ -67,6 +67,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit08_premiere-poesie-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit08_premiere-poesie-teacher.png
+audio_manifest: unit08_premiere-poesie
 ---
 
 {{< callout type="note" >}}

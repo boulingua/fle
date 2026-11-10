@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit10_cinema-quebecois-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit10_cinema-quebecois-e-teacher.png
+audio_manifest: unit10_cinema-quebecois-e
 ---
 
 {{< callout type="note" >}}

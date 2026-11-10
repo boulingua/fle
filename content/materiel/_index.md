@@ -1,6 +1,6 @@
 ---
-page_type: section
 layout: material-discovery
+page_type: section
 title: "Matériel"
 subtitle: "Découvrir les présentations et fiches d'exercices par sujet, niveau et filière"
 aliases:

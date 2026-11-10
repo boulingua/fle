@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit04_repas-en-famille-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit04_repas-en-famille-e-teacher.png
+audio_manifest: unit04_repas-en-famille-e
 ---
 
 {{< callout type="note" >}}

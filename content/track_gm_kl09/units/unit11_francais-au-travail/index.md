@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit11_francais-au-travail-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit11_francais-au-travail-teacher.png
+audio_manifest: unit11_francais-au-travail
 ---
 
 {{< callout type="note" >}}

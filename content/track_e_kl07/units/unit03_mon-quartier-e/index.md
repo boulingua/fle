@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit03_mon-quartier-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit03_mon-quartier-e-teacher.png
+audio_manifest: unit03_mon-quartier-e
 ---
 
 {{< callout type="note" >}}

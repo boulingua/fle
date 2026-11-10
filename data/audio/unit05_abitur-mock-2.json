@@ -1,25 +1,79 @@
 [
   {
+    "file": "/fle/materials/audio/unit05_abitur-mock-2/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Camille : Le premier examen blanc portait sur un article de presse. Là, on nous annonce un extrait littéraire. Ça me stresse un peu.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+    "source_body_sha256": "56aa49cff5daef7a2e7c934a940adef540b3ecd8b4751b2ee14b94e85629d83f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit05_abitur-mock-2/texte2.ogg",
+    "label": "Texte 2",
+    "transcript": "Yanis : Moi je trouve ça plus rassurant, en fait. Avec un texte littéraire, on peut s'appuyer sur des méthodes fixes : on lit, on repère les images, on interprète.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+    "source_body_sha256": "56aa49cff5daef7a2e7c934a940adef540b3ecd8b4751b2ee14b94e85629d83f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit05_abitur-mock-2/texte3.ogg",
+    "label": "Texte 3",
+    "transcript": "Yanis : Exactement. Et pour l'expression écrite, l'important, c'est de prendre position et de structurer avec des connecteurs.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+    "source_body_sha256": "56aa49cff5daef7a2e7c934a940adef540b3ecd8b4751b2ee14b94e85629d83f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un extrait · le champ lexical · une opposition (antithèse) · l'ironie · le registre · la focalisation · une visée critique",
-    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+    "source_body_sha256": "56aa49cff5daef7a2e7c934a940adef540b3ecd8b4751b2ee14b94e85629d83f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un extrait.\nle champ lexical.\nune opposition (antithèse).\nl'ironie.\nle registre.\nla focalisation.\nune visée critique."
   },
   {
-    "label": "Texte 1",
-    "transcript": "Vouloir paraître plus riche que l'on n'est : faiblesse humaine ou moteur social ?\nAppuyez-vous sur l'extrait de Maupassant et sur au moins un exemple personnel ou d'actualité (réseaux sociaux, mode, consommation…).",
-    "file": "/fle/materials/audio/unit05_abitur-mock-2/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Prise de position · Structure · Appui sur le texte · Connecteurs · Langue",
-    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab2.ogg",
-    "tts": "Prise de position.\nStructure.\nAppui sur le texte.\nConnecteurs.\nLangue."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Contenu et pertinence des arguments · Appui sur le texte (citation interprétée) · Structure et connecteurs · Correction de la langue",
-    "file": "/fle/materials/audio/unit05_abitur-mock-2/vocab3.ogg",
-    "tts": "Contenu et pertinence des arguments.\nAppui sur le texte (citation interprétée).\nStructure et connecteurs.\nCorrection de la langue."
+    "file": "/fle/materials/audio/unit05_abitur-mock-2/texte4.ogg",
+    "label": "Texte 4",
+    "transcript": "C'était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d'employés. Elle n'avait pas de dot, pas d'espérances, aucun moyen d'être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l'Instruction publique.\nElle fut simple, ne pouvant être parée ; mais malheureuse comme une déclassée ; car les femmes n'ont point de caste ni de race, leur beauté, leur grâce et leur charme leur servant de naissance et de famille.\nElle souffrait sans cesse, se sentant née pour toutes les délicatesses et tous les luxes. Elle souffrait de la pauvreté de son logement, de la misère des murs, de l'usure des sièges, de la laideur des étoffes.\n— Guy de Maupassant, La Parure (1884), incipit. Domaine public.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+    "source_body_sha256": "56aa49cff5daef7a2e7c934a940adef540b3ecd8b4751b2ee14b94e85629d83f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "C'était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d'employés. Elle n'avait pas de dot, pas d'espérances, aucun moyen d'être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l'Instruction publique. Elle fut simple, ne pouvant être parée ; mais malheureuse comme une déclassée ; car les femmes n'ont point de caste ni de race, leur beauté, leur grâce et leur charme leur servant de naissance et de famille. Elle souffrait sans cesse, se sentant née pour toutes les délicatesses et tous les luxes. Elle souffrait de la pauvreté de son logement, de la misère des murs, de l'usure des sièges, de la laideur des étoffes. — Guy de Maupassant, La Parure (1884), incipit. Domaine public."
   }
 ]

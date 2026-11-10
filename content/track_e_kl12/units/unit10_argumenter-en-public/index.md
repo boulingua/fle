@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit10_argumenter-en-public-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit10_argumenter-en-public-teacher.png
+audio_manifest: unit10_argumenter-en-public
 ---
 
 {{< callout type="note" >}}

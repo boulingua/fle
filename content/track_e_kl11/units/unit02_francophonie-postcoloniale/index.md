@@ -68,6 +68,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit02_francophonie-postcoloniale-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit02_francophonie-postcoloniale-teacher.png
+audio_manifest: unit02_francophonie-postcoloniale
 ---
 
 {{< callout type="note" >}}

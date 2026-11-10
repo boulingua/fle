@@ -65,6 +65,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit06_podcasts-en-francais-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit06_podcasts-en-francais-teacher.png
+audio_manifest: unit06_podcasts-en-francais
 ---
 
 {{< callout type="note" >}}

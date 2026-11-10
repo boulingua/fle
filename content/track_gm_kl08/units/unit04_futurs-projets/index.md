@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit04_futurs-projets-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit04_futurs-projets-teacher.png
+audio_manifest: unit04_futurs-projets
 ---
 
 {{< callout type="note" >}}

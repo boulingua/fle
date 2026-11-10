@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit06_au-marche-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit06_au-marche-teacher.png
+audio_manifest: unit06_au-marche
 ---
 
 {{< callout type="note" >}}

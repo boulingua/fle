@@ -66,6 +66,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit11_premiere-mediation-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit11_premiere-mediation-teacher.png
+audio_manifest: unit11_premiere-mediation
 ---
 
 {{< callout type="note" >}}

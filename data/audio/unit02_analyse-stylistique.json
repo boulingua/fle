@@ -1,30 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit02_analyse-stylistique/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Naïm :  Ta description du port, là… pourquoi tu écris que la mer rugit ? La mer ne rugit pas, ce sont les lions.\nLéa :  Justement. En lui prêtant un cri d'animal, je la rends vivante, presque menaçante. Ce n'est pas une erreur, c'est une personnification.\nNaïm :  Donc chaque mot est un choix ?\nLéa :  Oui. Analyser un style, c'est expliquer pourquoi un choix produit tel effet.",
-    "file": "/fle/materials/audio/unit02_analyse-stylistique/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit02_analyse-stylistique/index.md",
+    "source_body_sha256": "213a04adcc820d4458348877c70fb6283aeceea2f7e2bbddadcb1f2d78943313",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Naïm :  Ta description du port, là… pourquoi tu écris que la mer rugit ? La mer ne rugit pas, ce sont les lions. Léa :  Justement. En lui prêtant un cri d'animal, je la rends vivante, presque menaçante. Ce n'est pas une erreur, c'est une personnification. Naïm :  Donc chaque mot est un choix ? Léa :  Oui. Analyser un style, c'est expliquer pourquoi un choix produit tel effet."
   },
   {
+    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "la comparaison · la métaphore · la personnification · l'anaphore · la gradation · l'oxymore · le chiasme · l'hyperbole",
-    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit02_analyse-stylistique/index.md",
+    "source_body_sha256": "213a04adcc820d4458348877c70fb6283aeceea2f7e2bbddadcb1f2d78943313",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "la comparaison.\nla métaphore.\nla personnification.\nl'anaphore.\nla gradation.\nl'oxymore.\nle chiasme.\nl'hyperbole."
   },
   {
+    "file": "/fle/materials/audio/unit02_analyse-stylistique/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Le port au petit matin\nLe vieux port dormait sous un ciel de plomb. Les vagues, patientes, léchaient les quais comme des bêtes lasses. Pas un bruit, pas un cri, pas un souffle : la ville entière retenait son haleine. Puis le vent se leva — timide, puis hardi, puis furieux — et la mer, soudain réveillée, se mit à rugir.",
-    "file": "/fle/materials/audio/unit02_analyse-stylistique/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "a) oxymore · b) chiasme · c) hyperbole · d) anaphore",
-    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab2.ogg",
-    "tts": "a) oxymore.\nb) chiasme.\nc) hyperbole.\nd) anaphore."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Repérage · Analyse · Langue · Cohérence · Total",
-    "file": "/fle/materials/audio/unit02_analyse-stylistique/vocab3.ogg",
-    "tts": "Repérage.\nAnalyse.\nLangue.\nCohérence.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit02_analyse-stylistique/index.md",
+    "source_body_sha256": "213a04adcc820d4458348877c70fb6283aeceea2f7e2bbddadcb1f2d78943313",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Le port au petit matin Le vieux port dormait sous un ciel de plomb. Les vagues, patientes, léchaient les quais comme des bêtes lasses. Pas un bruit, pas un cri, pas un souffle : la ville entière retenait son haleine. Puis le vent se leva — timide, puis hardi, puis furieux — et la mer, soudain réveillée, se mit à rugir."
   }
 ]

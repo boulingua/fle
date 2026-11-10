@@ -1,19 +1,49 @@
 [
   {
+    "file": "/fle/materials/audio/unit07_harcelement-et-respect/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Nour : Bof… Dans le groupe de classe, ils écrivent des messages sur moi tous les soirs. Ils se moquent de mon accent. Je n'ose plus rien dire.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
+    "source_body_sha256": "2739dfccf0682abb257529c0f309c58c55e6aa883081075e9a10374e6552071f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit07_harcelement-et-respect/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "le harcèlement / harceler · le cyberharcèlement · se moquer de quelqu'un · insulter · isoler / mettre à l'écart · le témoin · signaler / dénoncer · soutenir / le soutien · avoir peur / la peur · se sentir seul·e · demander de l'aide · la confiance",
-    "file": "/fle/materials/audio/unit07_harcelement-et-respect/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
+    "source_body_sha256": "2739dfccf0682abb257529c0f309c58c55e6aa883081075e9a10374e6552071f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "le harcèlement / harceler.\nle cyberharcèlement.\nse moquer de quelqu'un.\ninsulter.\nisoler / mettre à l'écart.\nle témoin.\nsignaler / dénoncer.\nsoutenir / le soutien.\navoir peur / la peur.\nse sentir seul·e.\ndemander de l'aide.\nla confiance."
   },
   {
-    "label": "Texte 1",
+    "file": "/fle/materials/audio/unit07_harcelement-et-respect/texte2.ogg",
+    "label": "Texte 2",
     "transcript": "Ce soir, j'ai enfin parlé. J'avais les mains qui tremblaient, mais Yanis était à côté de moi. Mme Blanc nous a écoutés sans nous couper. Elle a dit une phrase que je n'oublierai pas :  Ce n'est pas à toi d'avoir honte.\nDemain, on rencontre la CPE. J'ai encore un peu peur, mais moins qu'hier. Ce qui a changé ? Je ne suis plus seule. Quand on est deux à porter un poids, il devient plus léger.",
-    "file": "/fle/materials/audio/unit07_harcelement-et-respect/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Écoute et soutien · Conseil pertinent · Ressources citées · Langue et fluidité · Total",
-    "file": "/fle/materials/audio/unit07_harcelement-et-respect/vocab2.ogg",
-    "tts": "Écoute et soutien.\nConseil pertinent.\nRessources citées.\nLangue et fluidité.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
+    "source_body_sha256": "2739dfccf0682abb257529c0f309c58c55e6aa883081075e9a10374e6552071f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ce soir, j'ai enfin parlé. J'avais les mains qui tremblaient, mais Yanis était à côté de moi. Mme Blanc nous a écoutés sans nous couper. Elle a dit une phrase que je n'oublierai pas :  Ce n'est pas à toi d'avoir honte. Demain, on rencontre la CPE. J'ai encore un peu peur, mais moins qu'hier. Ce qui a changé ? Je ne suis plus seule. Quand on est deux à porter un poids, il devient plus léger."
   }
 ]

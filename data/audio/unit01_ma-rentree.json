@@ -1,30 +1,65 @@
 [
   {
+    "file": "/fle/materials/audio/unit01_ma-rentree/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Lundi 1er septembre, 8 h 05. Dans la cour du collège, Léa retrouve\nThéo. Ils sont maintenant en classe de cinquième (en Allemagne : la\n7e année).",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+    "source_body_sha256": "3d627675894a9a30f07f91c4d85659e8be15669c04e9e5e8d90d14bd6603e730",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit01_ma-rentree/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Léa : Salut Théo ! Ça y est, c'est la rentrée. Tu as passé de\nbonnes vacances ?\nThéo : Salut Léa ! Oui, super. Je suis allé chez mes\ngrands-parents, en Bretagne. Et toi ?\nLéa : Moi, je suis restée à Karlsruhe. C'était calme, mais\nj'ai beaucoup lu. Regarde, on a le même emploi du temps !\nThéo : Génial. On commence par le français à 8 h. Je suis un\npeu fatigué, mais content de te revoir.",
-    "file": "/fle/materials/audio/unit01_ma-rentree/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+    "source_body_sha256": "3d627675894a9a30f07f91c4d85659e8be15669c04e9e5e8d90d14bd6603e730",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Léa : Salut Théo ! Ça y est, c'est la rentrée. Tu as passé de bonnes vacances ? Théo : Salut Léa ! Oui, super. Je suis allé chez mes grands-parents, en Bretagne. Et toi ? Léa : Moi, je suis restée à Karlsruhe. C'était calme, mais j'ai beaucoup lu. Regarde, on a le même emploi du temps ! Théo : Génial. On commence par le français à 8 h. Je suis un peu fatigué, mais content de te revoir."
   },
   {
-    "label": "Vocabulaire 1",
-    "transcript": "le cartable · le sac · le manuel · le classeur · la trousse · le stylo · le crayon · la règle · la cour · la salle de classe · l'emploi du temps (m.)",
     "file": "/fle/materials/audio/unit01_ma-rentree/vocab1.ogg",
-    "tts": "le cartable.\nle sac.\nle manuel.\nle classeur.\nla trousse.\nle stylo.\nle crayon.\nla règle.\nla cour.\nla salle de classe.\nl'emploi du temps (m.)."
+    "label": "Vocabulaire 1",
+    "transcript": "le cartable · le sac · content·e · ravi·e · le manuel · le classeur · curieux·euse · impatient·e · la trousse · le stylo · inquiet·inquiète · nerveux·euse · le crayon · la règle · fatigué·e · pressé·e · la cour · la salle de classe · retrouver (ses ami·e·s) · l'emploi du temps (m.) · commencer · rencontrer",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+    "source_body_sha256": "3d627675894a9a30f07f91c4d85659e8be15669c04e9e5e8d90d14bd6603e730",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "le cartable · le sac.\ncontent·e · ravi·e.\nle manuel · le classeur.\ncurieux·euse · impatient·e.\nla trousse · le stylo.\ninquiet·inquiète · nerveux·euse.\nle crayon · la règle.\nfatigué·e · pressé·e.\nla cour · la salle de classe.\nretrouver (ses ami·e·s).\nl'emploi du temps (m.).\ncommencer · rencontrer."
   },
   {
-    "label": "Texte 1",
+    "file": "/fle/materials/audio/unit01_ma-rentree/texte2.ogg",
+    "label": "Texte 2",
     "transcript": "C'est ma première rentrée dans ce collège. Le matin, je suis un\npeu nerveuse : je ne connais pas encore ma classe. Dans la cour,\nune fille me sourit. Elle s'appelle Amina. Nous avons français en\npremière heure. La professeure écrit son nom au tableau :\nMadame Leroy . Elle explique l'emploi du temps et distribue les\nmanuels. À midi, je suis rassurée : j'ai déjà une nouvelle amie et\nl'après-midi, nous avons sport. La rentrée, finalement, ce n'est\npas si terrible !",
-    "file": "/fle/materials/audio/unit01_ma-rentree/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Salutations et question sur les vacances · Au moins un sentiment exprimé et justifié · Trois verbes au présent corrects · Prononciation compréhensible, échange fluide",
-    "file": "/fle/materials/audio/unit01_ma-rentree/vocab2.ogg",
-    "tts": "Salutations et question sur les vacances.\nAu moins un sentiment exprimé et justifié.\nTrois verbes au présent corrects.\nPrononciation compréhensible, échange fluide."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Compréhension écrite · Expression orale (interaction) · Expression écrite · Total",
-    "file": "/fle/materials/audio/unit01_ma-rentree/vocab3.ogg",
-    "tts": "Compréhension écrite.\nExpression orale (interaction).\nExpression écrite.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+    "source_body_sha256": "3d627675894a9a30f07f91c4d85659e8be15669c04e9e5e8d90d14bd6603e730",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "C'est ma première rentrée dans ce collège. Le matin, je suis un peu nerveuse : je ne connais pas encore ma classe. Dans la cour, une fille me sourit. Elle s'appelle Amina. Nous avons français en première heure. La professeure écrit son nom au tableau : Madame Leroy . Elle explique l'emploi du temps et distribue les manuels. À midi, je suis rassurée : j'ai déjà une nouvelle amie et l'après-midi, nous avons sport. La rentrée, finalement, ce n'est pas si terrible !"
   }
 ]

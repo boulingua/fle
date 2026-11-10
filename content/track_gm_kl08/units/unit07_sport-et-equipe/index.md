@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit07_sport-et-equipe-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit07_sport-et-equipe-teacher.png
+audio_manifest: unit07_sport-et-equipe
 ---
 
 {{< callout type="note" >}}

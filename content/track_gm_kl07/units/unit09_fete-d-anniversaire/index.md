@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit09_fete-d-anniversaire-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit09_fete-d-anniversaire-teacher.png
+audio_manifest: unit09_fete-d-anniversaire
 ---
 
 {{< callout type="note" >}}

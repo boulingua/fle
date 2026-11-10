@@ -66,6 +66,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit05_vivre-en-tunisie-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit05_vivre-en-tunisie-teacher.png
+audio_manifest: unit05_vivre-en-tunisie
 ---
 
 {{< callout type="note" >}}

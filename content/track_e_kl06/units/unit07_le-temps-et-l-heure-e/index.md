@@ -69,6 +69,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit07_le-temps-et-l-heure-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit07_le-temps-et-l-heure-e-teacher.png
+audio_manifest: unit07_le-temps-et-l-heure-e
 ---
 
 {{< callout type="note" >}}

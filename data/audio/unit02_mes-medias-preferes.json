@@ -1,23 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit02_mes-medias-preferes/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Zoé : Tu es réveillé depuis longtemps ?\nLucas : Depuis huit heures. Je regarde des vidéos.\nZoé : Encore ! Tu passes combien de temps sur ton écran le week-end ?\nLucas : Je sais pas… deux heures, peut-être trois. Et toi, tu écoutes toujours ta radio ?\nZoé : Oui, tous les matins. J'aime bien, parce qu'on peut faire autre chose en même temps.\nLucas : Moi, je préfère les vidéos. C'est plus drôle qu'une émission de radio.",
-    "file": "/fle/materials/audio/unit02_mes-medias-preferes/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md",
+    "source_body_sha256": "bd8881542a4dff3455548369089984901a9fe4f30a1294274d31068dde7a0db7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Zoé : Tu es réveillé depuis longtemps ? Lucas : Depuis huit heures. Je regarde des vidéos. Zoé : Encore ! Tu passes combien de temps sur ton écran le week-end ? Lucas : Je sais pas… deux heures, peut-être trois. Et toi, tu écoutes toujours ta radio ? Zoé : Oui, tous les matins. J'aime bien, parce qu'on peut faire autre chose en même temps. Lucas : Moi, je préfère les vidéos. C'est plus drôle qu'une émission de radio."
   },
   {
+    "file": "/fle/materials/audio/unit02_mes-medias-preferes/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un écran · une habitude (d'écran) · passer du temps sur… · une chaîne (vidéo / radio) · s'informer / se divertir · une source · fiable · à mon avis / je trouve que",
-    "file": "/fle/materials/audio/unit02_mes-medias-preferes/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md",
+    "source_body_sha256": "bd8881542a4dff3455548369089984901a9fe4f30a1294274d31068dde7a0db7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un écran.\nune habitude (d'écran).\npasser du temps sur….\nune chaîne (vidéo / radio).\ns'informer / se divertir.\nune source.\nfiable.\nà mon avis / je trouve que."
   },
   {
+    "file": "/fle/materials/audio/unit02_mes-medias-preferes/dialogue2.ogg",
     "label": "Dialogue 2",
     "transcript": "La professeure : Alors, Inès, quel est ton média préféré ?\nInès : Moi, c'est les podcasts. J'en écoute presque tous les jours, dans le bus.\nLa professeure : Et pourquoi les podcasts, plutôt que les vidéos ?\nInès : Parce que je peux écouter les yeux fermés. C'est moins fatigant que l'écran, et j'apprends des choses.\nLa professeure : Très bien. Et toi, Malik ?\nMalik : Moi, je regarde surtout des vidéos courtes. J'aime bien, mais je passe trop de temps dessus, je trouve.\nLa professeure : Sais-tu toujours qui a fait ces vidéos ?\nMalik : Pas vraiment… Non, pas toujours.",
-    "file": "/fle/materials/audio/unit02_mes-medias-preferes/dialogue2.ogg"
-  },
-  {
-    "label": "Texte 1",
-    "transcript": "Mon média préféré, c'est les podcasts. J'en écoute presque tous les jours, dans le bus. J'aime bien parce que c'est moins fatigant que l'écran. Pour les vidéos, je regarde souvent le nom de la chaîne pour savoir qui les a faites.",
-    "file": "/fle/materials/audio/unit02_mes-medias-preferes/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md",
+    "source_body_sha256": "bd8881542a4dff3455548369089984901a9fe4f30a1294274d31068dde7a0db7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "La professeure : Alors, Inès, quel est ton média préféré ? Inès : Moi, c'est les podcasts. J'en écoute presque tous les jours, dans le bus. La professeure : Et pourquoi les podcasts, plutôt que les vidéos ? Inès : Parce que je peux écouter les yeux fermés. C'est moins fatigant que l'écran, et j'apprends des choses. La professeure : Très bien. Et toi, Malik ? Malik : Moi, je regarde surtout des vidéos courtes. J'aime bien, mais je passe trop de temps dessus, je trouve. La professeure : Sais-tu toujours qui a fait ces vidéos ? Malik : Pas vraiment… Non, pas toujours."
   }
 ]

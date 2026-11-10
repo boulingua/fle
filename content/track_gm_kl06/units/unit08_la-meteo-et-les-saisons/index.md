@@ -68,6 +68,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit08_la-meteo-et-les-saisons-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit08_la-meteo-et-les-saisons-teacher.png
+audio_manifest: unit08_la-meteo-et-les-saisons
 ---
 
 {{< callout type="note" >}}

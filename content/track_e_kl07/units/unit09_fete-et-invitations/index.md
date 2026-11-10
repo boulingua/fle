@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit09_fete-et-invitations-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit09_fete-et-invitations-teacher.png
+audio_manifest: unit09_fete-et-invitations
 ---
 
 {{< callout type="note" >}}

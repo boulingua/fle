@@ -1,24 +1,49 @@
 [
   {
+    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Mme Devos : Regardez : le français ne se parle pas seulement à Paris. On le parle sur cinq continents.\nAnouk : Sur cinq ? Moi, je connais la France et la Belgique, c'est tout.\nKarim : Ma cousine habite à Tunis, en Tunisie. Là-bas aussi, beaucoup de gens parlent français.\nMme Devos : Exactement, Karim. Et cette année, notre correspondante Inès nous écrit depuis Montréal, au Canada.\nAnouk : Donc on peut aller très loin… et se débrouiller en français ?\nMme Devos : C'est toute l'idée de la planète francophone.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e/index.md",
+    "source_body_sha256": "fe0c069e56d37d999046e43ce3c35af5f474980d74b8336c6920fff3ab4cb8d7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un·e locuteur·rice · un continent · une capitale · la francophonie · un pays francophone · un·e correspondant·e · se débrouiller · découvrir",
-    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e/index.md",
+    "source_body_sha256": "fe0c069e56d37d999046e43ce3c35af5f474980d74b8336c6920fff3ab4cb8d7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un·e locuteur·rice.\nun continent.\nune capitale.\nla francophonie.\nun pays francophone.\nun·e correspondant·e.\nse débrouiller.\ndécouvrir."
   },
   {
+    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "La francophonie, c'est une grande famille de langue répartie sur cinq continents. On parle français en France et en Belgique, en Europe. On le parle aussi au Sénégal et en Tunisie, en Afrique. Traversons l'océan : au Canada, surtout au Québec, des millions de personnes vivent en français. Et tout au bout du monde, en Polynésie française, on parle français au milieu du Pacifique.\nKarim écrit à sa cousine à Tunis, en Tunisie. Anouk correspond avec Inès, qui habite à Montréal. Moi, l'an prochain, j'aimerais partir au Sénégal, à Dakar, pour découvrir un autre visage du français.\nCinq continents, une même langue : voilà la planète francophone.",
-    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/dialogue1.ogg"
-  },
-  {
-    "label": "Texte 1",
-    "transcript": "Je choisis le/la ___ (pays). Ce pays est situé en/au/aux ___ (continent). Sa capitale est ___. J'aimerais y aller parce que ___.",
-    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Prépositions · Fluidité · Prononciation · Total",
-    "file": "/fle/materials/audio/unit04_autour-de-la-planete-francophone-e/vocab2.ogg",
-    "tts": "Contenu.\nPrépositions.\nFluidité.\nPrononciation.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e/index.md",
+    "source_body_sha256": "fe0c069e56d37d999046e43ce3c35af5f474980d74b8336c6920fff3ab4cb8d7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "La francophonie, c'est une grande famille de langue répartie sur cinq continents. On parle français en France et en Belgique, en Europe. On le parle aussi au Sénégal et en Tunisie, en Afrique. Traversons l'océan : au Canada, surtout au Québec, des millions de personnes vivent en français. Et tout au bout du monde, en Polynésie française, on parle français au milieu du Pacifique. Karim écrit à sa cousine à Tunis, en Tunisie. Anouk correspond avec Inès, qui habite à Montréal. Moi, l'an prochain, j'aimerais partir au Sénégal, à Dakar, pour découvrir un autre visage du français. Cinq continents, une même langue : voilà la planète francophone."
   }
 ]

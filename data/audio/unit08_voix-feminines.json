@@ -1,29 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit08_voix-feminines/texte1.ogg",
     "label": "Texte 1",
     "transcript": "M. Berger. — Regardez ce nom sur la couverture : George Sand. À votre avis, homme ou femme ?\nLéa. — Un homme ?  George , c'est un prénom masculin.\nNassim. — Mais vous souriez, monsieur… c'est un piège, alors ?\nM. Berger. — En effet. George Sand était une femme, née en 1804. Elle s'appelait Aurore Dupin. Pourquoi, selon vous, une écrivaine choisirait-elle un nom d'homme ?\nLéa. — Pour qu'on la prenne au sérieux, peut-être ?",
-    "file": "/fle/materials/audio/unit08_voix-feminines/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit08_voix-feminines/index.md",
+    "source_body_sha256": "49cc2fb0baca65a0fe598748c20c04798c3f8b1c1230834e09f0274fdcf3388a",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "M. Berger. — Regardez ce nom sur la couverture : George Sand. À votre avis, homme ou femme ? Léa. — Un homme ?  George , c'est un prénom masculin. Nassim. — Mais vous souriez, monsieur… c'est un piège, alors ? M. Berger. — En effet. George Sand était une femme, née en 1804. Elle s'appelait Aurore Dupin. Pourquoi, selon vous, une écrivaine choisirait-elle un nom d'homme ? Léa. — Pour qu'on la prenne au sérieux, peut-être ?"
   },
   {
+    "file": "/fle/materials/audio/unit08_voix-feminines/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "une autrice / une écrivaine · un pseudonyme · une œuvre · un roman · un récit · l'écriture (f.) · paraître / publier · s'affranchir de · une pionnière · la condition féminine · consacrer (sa vie à) · le domaine public",
-    "file": "/fle/materials/audio/unit08_voix-feminines/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit08_voix-feminines/index.md",
+    "source_body_sha256": "49cc2fb0baca65a0fe598748c20c04798c3f8b1c1230834e09f0274fdcf3388a",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "une autrice / une écrivaine.\nun pseudonyme.\nune œuvre.\nun roman.\nun récit.\nl'écriture (f.).\nparaître / publier.\ns'affranchir de.\nune pionnière.\nla condition féminine.\nconsacrer (sa vie à).\nle domaine public."
   },
   {
+    "file": "/fle/materials/audio/unit08_voix-feminines/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Aurore Dupin est née en 1804. Très jeune, elle a choisi un nom d'homme, George Sand, pour signer ses livres : à cette époque, une femme qui écrivait n'était pas toujours prise au sérieux. Sand portait parfois des vêtements masculins et voulait vivre libre. Elle a publié des dizaines de romans ; ses  romans champêtres , comme La Mare au diable (1846) ou La Petite Fadette (1849), décrivaient la vie paysanne du Berry.\nSoixante-dix ans plus tard, une autre femme a marqué la littérature : Colette (1873–1954). Ses premiers livres, la série des Claudine, ont d'abord paru sous le nom de son mari. Peu à peu, Colette a imposé sa propre voix, sensible et attentive à la nature. En 1945, elle est entrée à l'Académie Goncourt, qu'elle a présidée. À sa mort, en 1954, la France lui a offert des funérailles nationales — une première pour une femme de lettres.\nAujourd'hui, cette tradition continue. Des autrices contemporaines comme Annie Ernaux, Marie NDiaye ou Leïla Slimani prolongent, chacune à leur manière, ces voix féminines. (Leurs œuvres sont sous droits : on les cite et on les évoque, on ne les recopie pas.)",
-    "file": "/fle/materials/audio/unit08_voix-feminines/dialogue1.ogg"
-  },
-  {
-    "label": "Texte 2",
-    "transcript": "L'art n'est pas une étude de la réalité positive ; c'est une recherche de la vérité idéale.\n— George Sand, Histoire de ma vie (1855, domaine public)",
-    "file": "/fle/materials/audio/unit08_voix-feminines/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Structure · Langue · Sourçage · Aisance",
-    "file": "/fle/materials/audio/unit08_voix-feminines/vocab2.ogg",
-    "tts": "Contenu.\nStructure.\nLangue.\nSourçage.\nAisance."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit08_voix-feminines/index.md",
+    "source_body_sha256": "49cc2fb0baca65a0fe598748c20c04798c3f8b1c1230834e09f0274fdcf3388a",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Aurore Dupin est née en 1804. Très jeune, elle a choisi un nom d'homme, George Sand, pour signer ses livres : à cette époque, une femme qui écrivait n'était pas toujours prise au sérieux. Sand portait parfois des vêtements masculins et voulait vivre libre. Elle a publié des dizaines de romans ; ses  romans champêtres , comme La Mare au diable (1846) ou La Petite Fadette (1849), décrivaient la vie paysanne du Berry. Soixante-dix ans plus tard, une autre femme a marqué la littérature : Colette (1873–1954). Ses premiers livres, la série des Claudine, ont d'abord paru sous le nom de son mari. Peu à peu, Colette a imposé sa propre voix, sensible et attentive à la nature. En 1945, elle est entrée à l'Académie Goncourt, qu'elle a présidée. À sa mort, en 1954, la France lui a offert des funérailles nationales — une première pour une femme de lettres. Aujourd'hui, cette tradition continue. Des autrices contemporaines comme Annie Ernaux, Marie NDiaye ou Leïla Slimani prolongent, chacune à leur manière, ces voix féminines. (Leurs œuvres sont sous droits : on les cite et on les évoque, on ne les recopie pas.)"
   }
 ]

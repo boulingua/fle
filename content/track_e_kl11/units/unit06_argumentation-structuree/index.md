@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit06_argumentation-structuree-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit06_argumentation-structuree-teacher.png
+audio_manifest: unit06_argumentation-structuree
 ---
 
 {{< callout type="note" >}}

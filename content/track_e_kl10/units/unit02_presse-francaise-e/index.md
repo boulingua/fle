@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit02_presse-francaise-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit02_presse-francaise-e-teacher.png
+audio_manifest: unit02_presse-francaise-e
 ---
 
 {{< callout type="note" >}}

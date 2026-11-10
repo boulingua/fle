@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit11_preparer-un-discours-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit11_preparer-un-discours-teacher.png
+audio_manifest: unit11_preparer-un-discours
 ---
 
 {{< callout type="note" >}}

@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit02_francophonie-pluralite-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit02_francophonie-pluralite-teacher.png
+audio_manifest: unit02_francophonie-pluralite
 ---
 
 {{< callout type="note" >}}

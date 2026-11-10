@@ -66,6 +66,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit05_mediation-fr-de-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit05_mediation-fr-de-teacher.png
+audio_manifest: unit05_mediation-fr-de
 ---
 
 {{< callout type="note" >}}

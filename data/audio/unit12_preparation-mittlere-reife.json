@@ -1,20 +1,63 @@
 [
   {
+    "file": "/fle/materials/audio/unit12_preparation-mittlere-reife/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Mme Renault : Dans quatre semaines, vous passez l'examen intermédiaire. En français, deux écrits comptent le plus : la compréhension et l'expression écrite.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+    "source_body_sha256": "72c8c0093eb9c24a222a7001e61ad946d64a5d6330a8eff0708a7d35ebfb59bf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit12_preparation-mittlere-reife/texte2.ogg",
+    "label": "Texte 2",
+    "transcript": "Mme Renault : C'est justement pour ça qu'on va s'entraîner à faire un plan en deux minutes. Un bon plan, c'est déjà la moitié du travail.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+    "source_body_sha256": "72c8c0093eb9c24a222a7001e61ad946d64a5d6330a8eff0708a7d35ebfb59bf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit12_preparation-mittlere-reife/texte3.ogg",
+    "label": "Texte 3",
+    "transcript": "Mme Renault : Non. Il faut comprendre l'essentiel, pas chaque mot. On apprend à lire vite, puis à chercher les réponses. Aujourd'hui, on révise les stratégies.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+    "source_body_sha256": "72c8c0093eb9c24a222a7001e61ad946d64a5d6330a8eff0708a7d35ebfb59bf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit12_preparation-mittlere-reife/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "une épreuve · la compréhension écrite · l'expression écrite · la médiation · survoler un texte · repérer une information · rédiger un brouillon · relire, corriger · gérer son temps · un bilan",
-    "file": "/fle/materials/audio/unit12_preparation-mittlere-reife/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+    "source_body_sha256": "72c8c0093eb9c24a222a7001e61ad946d64a5d6330a8eff0708a7d35ebfb59bf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "une épreuve.\nla compréhension écrite.\nl'expression écrite.\nla médiation.\nsurvoler un texte.\nrepérer une information.\nrédiger un brouillon.\nrelire, corriger.\ngérer son temps.\nun bilan."
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Structure · Langue · Relecture · Total",
-    "file": "/fle/materials/audio/unit12_preparation-mittlere-reife/vocab2.ogg",
-    "tts": "Contenu.\nStructure.\nLangue.\nRelecture.\nTotal."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "très bien · bien · satisfaisant · passable",
-    "file": "/fle/materials/audio/unit12_preparation-mittlere-reife/vocab3.ogg",
-    "tts": "très bien.\nbien.\nsatisfaisant.\npassable."
   }
 ]

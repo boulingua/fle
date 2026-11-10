@@ -69,6 +69,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit05_gouts-et-couleurs-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit05_gouts-et-couleurs-teacher.png
+audio_manifest: unit05_gouts-et-couleurs
 ---
 
 {{< callout type="note" >}}

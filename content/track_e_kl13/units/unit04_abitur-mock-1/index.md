@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit04_abitur-mock-1-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit04_abitur-mock-1-teacher.png
+audio_manifest: unit04_abitur-mock-1
 ---
 
 {{< callout type="note" >}}

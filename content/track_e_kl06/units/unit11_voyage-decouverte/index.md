@@ -69,6 +69,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit11_voyage-decouverte-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit11_voyage-decouverte-teacher.png
+audio_manifest: unit11_voyage-decouverte
 ---
 
 {{< callout type="note" >}}

@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit06_les-transports-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit06_les-transports-teacher.png
+audio_manifest: unit06_les-transports
 ---
 
 {{< callout type="note" >}}

@@ -71,6 +71,7 @@ worksheet_teacher:
     /fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit12_bilan-portrait-d-une-rencontre-teacher.png
+audio_manifest: unit12_bilan-portrait-d-une-rencontre
 ---
 
 {{< callout type="note" >}}

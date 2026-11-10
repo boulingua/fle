@@ -68,6 +68,7 @@ worksheet_teacher:
     /fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume-e-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit05_sprachmittlung-de-fr-resume-e-teacher.png
+audio_manifest: unit05_sprachmittlung-de-fr-resume-e
 ---
 
 {{< callout type="note" >}}

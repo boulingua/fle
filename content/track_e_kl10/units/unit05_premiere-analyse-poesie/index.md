@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit05_premiere-analyse-poesie-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit05_premiere-analyse-poesie-teacher.png
+audio_manifest: unit05_premiere-analyse-poesie
 ---
 
 {{< callout type="note" >}}

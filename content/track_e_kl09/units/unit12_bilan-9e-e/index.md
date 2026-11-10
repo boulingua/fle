@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit12_bilan-9e-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit12_bilan-9e-e-teacher.png
+audio_manifest: unit12_bilan-9e-e
 ---
 
 {{< callout type="note" >}}

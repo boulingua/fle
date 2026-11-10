@@ -1,21 +1,23 @@
 {
   "schema_version": 1,
-  "state": "historical",
+  "state": "published",
   "org": {
     "repository": "boulingua/.github",
-    "commit": "e4650352c8084b5857cf1dc32fecf3c347826aa0",
-    "historical_ref": "v1"
+    "tag": "v2.0.1",
+    "version": "2.0.1",
+    "commit": "654c70d7a52ee6281b9394d59e762654d1df9f7f"
   },
   "kit": {
     "repository": "boulingua/kit",
-    "version": "1.21.0",
-    "commit": "bd17abee181d44a151346365472cbbdbf10aa3a1"
+    "tag": "v2.0.2",
+    "version": "2.0.2",
+    "commit": "ea6813258b1a57564a7d7389636c670e7167c9a5"
   },
   "curriculum": {
     "repository": "boulingua/curriculum",
-    "version": "1.2.0",
-    "commit": "af0b66177c450c6f07a2b7a4f83875d6315fd666"
+    "tag": "v1.3.0",
+    "version": "1.3.0",
+    "commit": "5a8bb7cb2ea95f00998deb064a4f0e02b56c0cbc"
   },
-  "curriculum_schema_sha256": null,
-  "note": "Historical published dependency set only; curriculum v1.2.0 has no conformance schema. This does not release the remediated suite."
+  "curriculum_schema_sha256": "9a027b4d91633e73805943733e7e1ed45e5471c835e65d162cdb9f3ef0da7783"
 }

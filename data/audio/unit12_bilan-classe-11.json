@@ -1,19 +1,49 @@
 [
   {
+    "file": "/fle/materials/audio/unit12_bilan-classe-11/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "M. Berger : Excellente idée. Écrivez-les avant les vacances : un objectif écrit noir sur blanc a plus de chances de se réaliser.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+    "source_body_sha256": "95014fb7da2aa095d7d58fdb2b28d1ee5afee3af15bcb9daf6c388bb3564cbda",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit12_bilan-classe-11/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "dresser un bilan · un acquis · une lacune · un point fort / un point faible · se fixer un objectif · une priorité · l'année terminale · l'épreuve finale · progresser · approfondir",
-    "file": "/fle/materials/audio/unit12_bilan-classe-11/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+    "source_body_sha256": "95014fb7da2aa095d7d58fdb2b28d1ee5afee3af15bcb9daf6c388bb3564cbda",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "dresser un bilan.\nun acquis.\nune lacune.\nun point fort / un point faible.\nse fixer un objectif.\nune priorité.\nl'année terminale.\nl'épreuve finale.\nprogresser.\napprofondir."
   },
   {
+    "file": "/fle/materials/audio/unit12_bilan-classe-11/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Bilan de 11e — Léa, juin.\nCette année m'a demandé beaucoup de travail, mais je la termine plutôt fière. En compréhension et à l'écrit, j'ai nettement progressé : je construis maintenant un texte argumenté avec une introduction, deux ou trois parties et une conclusion. La médiation est devenue un vrai acquis ; je sais transposer une idée d'un texte allemand vers un français correct.\nIl me reste des lacunes. À l'oral, je perds mes moyens dès que je dois parler sans notes. Mon vocabulaire s'appauvrit et je répète les mêmes tournures. C'est mon principal point à travailler.\nPour l'année terminale, je me fixe trois priorités. D'abord, je m'entraînerai à parler à voix haute, deux minutes par jour. Ensuite, j'approfondirai ma culture littéraire francophone. Enfin, je réviserai régulièrement la grammaire, sans attendre la veille de l'épreuve finale.\nMon objectif chiffré : atteindre un niveau B2 solide, en visant le C1 pour la compréhension écrite. Je sais que ce sera exigeant, mais je pars confiante.",
-    "file": "/fle/materials/audio/unit12_bilan-classe-11/dialogue1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Structure · Langue · Aisance orale",
-    "file": "/fle/materials/audio/unit12_bilan-classe-11/vocab2.ogg",
-    "tts": "Contenu.\nStructure.\nLangue.\nAisance orale."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+    "source_body_sha256": "95014fb7da2aa095d7d58fdb2b28d1ee5afee3af15bcb9daf6c388bb3564cbda",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Bilan de 11e — Léa, juin. Cette année m'a demandé beaucoup de travail, mais je la termine plutôt fière. En compréhension et à l'écrit, j'ai nettement progressé : je construis maintenant un texte argumenté avec une introduction, deux ou trois parties et une conclusion. La médiation est devenue un vrai acquis ; je sais transposer une idée d'un texte allemand vers un français correct. Il me reste des lacunes. À l'oral, je perds mes moyens dès que je dois parler sans notes. Mon vocabulaire s'appauvrit et je répète les mêmes tournures. C'est mon principal point à travailler. Pour l'année terminale, je me fixe trois priorités. D'abord, je m'entraînerai à parler à voix haute, deux minutes par jour. Ensuite, j'approfondirai ma culture littéraire francophone. Enfin, je réviserai régulièrement la grammaire, sans attendre la veille de l'épreuve finale. Mon objectif chiffré : atteindre un niveau B2 solide, en visant le C1 pour la compréhension écrite. Je sais que ce sera exigeant, mais je pars confiante."
   }
 ]

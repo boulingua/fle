@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit11_preparer-l-abitur-ecrit-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit11_preparer-l-abitur-ecrit-teacher.png
+audio_manifest: unit11_preparer-l-abitur-ecrit
 ---
 
 {{< callout type="note" >}}

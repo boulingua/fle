@@ -1,29 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Nora : Tu as vu ? Mme Ferreira veut organiser un débat sur les uniformes à l'école.\nMalik : Un débat ? Je n'ai jamais d'idées, moi. Je dis juste  je suis d'accord  ou  je ne suis pas d'accord .\nNora : Justement, il faut expliquer pourquoi. Moi, je suis pour : d'abord, on ne se moque plus des vêtements. Ensuite, on gagne du temps le matin.\nMalik : Ah oui… Mais moi je serais plutôt contre : on perd sa liberté de choisir. Cependant, ton argument sur les moqueries est intéressant.\nNora : Tu vois, tu sais déjà argumenter !",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+    "source_body_sha256": "c309b61d4e20028ea01f9417c4f59f354f89c4b1766160a680e85f0cc846c3d4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Nora : Tu as vu ? Mme Ferreira veut organiser un débat sur les uniformes à l'école. Malik : Un débat ? Je n'ai jamais d'idées, moi. Je dis juste  je suis d'accord  ou  je ne suis pas d'accord . Nora : Justement, il faut expliquer pourquoi. Moi, je suis pour : d'abord, on ne se moque plus des vêtements. Ensuite, on gagne du temps le matin. Malik : Ah oui… Mais moi je serais plutôt contre : on perd sa liberté de choisir. Cependant, ton argument sur les moqueries est intéressant. Nora : Tu vois, tu sais déjà argumenter !"
   },
   {
+    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "à mon avis / selon moi · je suis pour / contre · un argument · d'abord · ensuite · de plus · cependant · en revanche · en conclusion",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+    "source_body_sha256": "c309b61d4e20028ea01f9417c4f59f354f89c4b1766160a680e85f0cc846c3d4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "à mon avis / selon moi.\nje suis pour / contre.\nun argument.\nd'abord.\nensuite.\nde plus.\ncependant.\nen revanche.\nen conclusion."
   },
   {
+    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Faut-il interdire les téléphones portables au collège ?\nÀ mon avis, il faudrait interdire les portables pendant les cours. D'abord, ils\ndistraient les élèves : on regarde les notifications au lieu d'écouter le professeur.\nEnsuite, ils peuvent créer des conflits, par exemple avec des photos prises en\ncachette. De plus, il est plus facile de se concentrer quand le téléphone reste\ndans le sac.\nCependant, le portable est utile pendant la récréation, notamment pour prévenir\nles parents en cas d'urgence. En revanche, on pourrait installer un téléphone dans\nle bureau de la vie scolaire.\nEn conclusion, je suis pour une interdiction pendant les cours, mais pas sur tout\nle temps scolaire.",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/texte1.ogg"
-  },
-  {
-    "label": "Texte 2",
-    "transcript": "*(1) ______, le sport scolaire est important pour la santé. (2) ______, il favorise\nl'esprit d'équipe. (3) ______, certains élèves le détestent. (4) ______, on peut\nproposer des activités variées. (5) ______, il faut le maintenir avec plus de choix.*",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/texte2.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Compréhension écrite (T1) · Connecteurs — emploi et place (T2) · Expression écrite — structure et contenu · Expression écrite — langue et connecteurs · Total",
-    "file": "/fle/materials/audio/unit04_argumenter-pour-contre/vocab2.ogg",
-    "tts": "Compréhension écrite (T1).\nConnecteurs — emploi et place (T2).\nExpression écrite — structure et contenu.\nExpression écrite — langue et connecteurs.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+    "source_body_sha256": "c309b61d4e20028ea01f9417c4f59f354f89c4b1766160a680e85f0cc846c3d4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Faut-il interdire les téléphones portables au collège ? À mon avis, il faudrait interdire les portables pendant les cours. D'abord, ils distraient les élèves : on regarde les notifications au lieu d'écouter le professeur. Ensuite, ils peuvent créer des conflits, par exemple avec des photos prises en cachette. De plus, il est plus facile de se concentrer quand le téléphone reste dans le sac. Cependant, le portable est utile pendant la récréation, notamment pour prévenir les parents en cas d'urgence. En revanche, on pourrait installer un téléphone dans le bureau de la vie scolaire. En conclusion, je suis pour une interdiction pendant les cours, mais pas sur tout le temps scolaire."
   }
 ]

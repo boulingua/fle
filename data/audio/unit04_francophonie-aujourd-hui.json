@@ -1,25 +1,34 @@
 [
   {
+    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un·e locuteur·rice · la langue maternelle · la langue officielle · une langue véhiculaire · la francophonie (minuscule) · la Francophonie (majuscule) · un État membre · répandu·e · en pleine croissance · paraphraser",
-    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
+    "source_body_sha256": "c8402dad948295758b88a0d6746e1d35d1aaf1596a6e4e7c83e974bd2ef63134",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un·e locuteur·rice.\nla langue maternelle.\nla langue officielle.\nune langue véhiculaire.\nla francophonie (minuscule).\nla Francophonie (majuscule).\nun État membre.\nrépandu·e.\nen pleine croissance.\nparaphraser."
   },
   {
+    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Une langue sur cinq continents\nLe français n'est pas seulement la langue de la France. On le\nparle aussi en Belgique, en Suisse, au Québec, au Sénégal, à\nMadagascar ou en Polynésie française. C'est l'une des rares\nlangues présentes sur les cinq continents.\nDans certains pays, le français est la langue maternelle. Dans\nbeaucoup d'autres, surtout en Afrique, c'est une **langue\nofficielle ou une langue d'enseignement** : les élèves\nl'apprennent à l'école et l'utilisent pour les études et le\ntravail.\nAujourd'hui, la population francophone est **en pleine\ncroissance**, portée surtout par le continent africain. Les\nspécialistes estiment que, au milieu du XXIᵉ siècle, la\nmajorité des personnes qui parlent français vivront en Afrique.",
-    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Structure · Langue · Prononciation / fluidité · Durée / prise de parole · Total",
-    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab2.ogg",
-    "tts": "Contenu.\nStructure.\nLangue.\nPrononciation / fluidité.\nDurée / prise de parole.\nTotal."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "sehr gut · gut · befriedigend · ausreichend · mangelhaft · ungenügend",
-    "file": "/fle/materials/audio/unit04_francophonie-aujourd-hui/vocab3.ogg",
-    "tts": "sehr gut.\ngut.\nbefriedigend.\nausreichend.\nmangelhaft.\nungenügend."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
+    "source_body_sha256": "c8402dad948295758b88a0d6746e1d35d1aaf1596a6e4e7c83e974bd2ef63134",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Une langue sur cinq continents Le français n'est pas seulement la langue de la France. On le parle aussi en Belgique, en Suisse, au Québec, au Sénégal, à Madagascar ou en Polynésie française. C'est l'une des rares langues présentes sur les cinq continents. Dans certains pays, le français est la langue maternelle. Dans beaucoup d'autres, surtout en Afrique, c'est une **langue officielle ou une langue d'enseignement** : les élèves l'apprennent à l'école et l'utilisent pour les études et le travail. Aujourd'hui, la population francophone est **en pleine croissance**, portée surtout par le continent africain. Les spécialistes estiment que, au milieu du XXIᵉ siècle, la majorité des personnes qui parlent français vivront en Afrique."
   }
 ]

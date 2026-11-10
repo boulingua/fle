@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit03_ecologie-au-quotidien-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit03_ecologie-au-quotidien-teacher.png
+audio_manifest: unit03_ecologie-au-quotidien
 ---
 
 {{< callout type="note" >}}

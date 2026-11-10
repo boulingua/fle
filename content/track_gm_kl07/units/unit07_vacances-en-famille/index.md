@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit07_vacances-en-famille-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit07_vacances-en-famille-teacher.png
+audio_manifest: unit07_vacances-en-famille
 ---
 
 {{< callout type="note" >}}

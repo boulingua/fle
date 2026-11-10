@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit03_mes-medias-preferes-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit03_mes-medias-preferes-e-teacher.png
+audio_manifest: unit03_mes-medias-preferes-e
 ---
 
 {{< callout type="note" >}}

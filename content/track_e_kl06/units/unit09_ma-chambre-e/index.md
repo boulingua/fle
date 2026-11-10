@@ -69,6 +69,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit09_ma-chambre-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit09_ma-chambre-e-teacher.png
+audio_manifest: unit09_ma-chambre-e
 ---
 
 {{< callout type="note" >}}

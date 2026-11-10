@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit07_le-temps-et-l-heure-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit07_le-temps-et-l-heure-teacher.png
+audio_manifest: unit07_le-temps-et-l-heure
 ---
 
 {{< callout type="note" >}}

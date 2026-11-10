@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit03_decolonisation-litteraire-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit03_decolonisation-litteraire-teacher.png
+audio_manifest: unit03_decolonisation-litteraire
 ---
 
 {{< callout type="note" >}}

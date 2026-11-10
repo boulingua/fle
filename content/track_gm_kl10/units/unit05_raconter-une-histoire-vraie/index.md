@@ -70,6 +70,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit05_raconter-une-histoire-vraie-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit05_raconter-une-histoire-vraie-teacher.png
+audio_manifest: unit05_raconter-une-histoire-vraie
 ---
 
 {{< callout type="note" >}}

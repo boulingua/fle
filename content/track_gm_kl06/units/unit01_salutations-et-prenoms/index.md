@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit01_salutations-et-prenoms-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit01_salutations-et-prenoms-teacher.png
+audio_manifest: unit01_salutations-et-prenoms
 ---
 
 {{< callout type="note" >}}

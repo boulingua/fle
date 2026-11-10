@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit10_musique-et-chanson-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit10_musique-et-chanson-e-teacher.png
+audio_manifest: unit10_musique-et-chanson-e
 ---
 
 {{< callout type="note" >}}

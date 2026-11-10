@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit01_transition-formation-emploi-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit01_transition-formation-emploi-teacher.png
+audio_manifest: unit01_transition-formation-emploi
 ---
 
 {{< callout type="note" >}}

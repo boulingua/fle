@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit06_etude-de-roman-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit06_etude-de-roman-teacher.png
+audio_manifest: unit06_etude-de-roman
 ---
 
 {{< callout type="note" >}}

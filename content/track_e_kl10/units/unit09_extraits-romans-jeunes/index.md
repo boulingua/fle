@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit09_extraits-romans-jeunes-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit09_extraits-romans-jeunes-teacher.png
+audio_manifest: unit09_extraits-romans-jeunes
 ---
 
 {{< callout type="note" >}}

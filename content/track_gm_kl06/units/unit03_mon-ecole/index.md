@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit03_mon-ecole-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit03_mon-ecole-teacher.png
+audio_manifest: unit03_mon-ecole
 ---
 
 {{< callout type="note" >}}

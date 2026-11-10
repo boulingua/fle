@@ -67,6 +67,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit05_le-petit-nicolas-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit05_le-petit-nicolas-teacher.png
+audio_manifest: unit05_le-petit-nicolas
 ---
 
 {{< callout type="note" >}}

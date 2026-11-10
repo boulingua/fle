@@ -69,6 +69,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit10_mes-loisirs-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit10_mes-loisirs-e-teacher.png
+audio_manifest: unit10_mes-loisirs-e
 ---
 
 {{< callout type="note" >}}

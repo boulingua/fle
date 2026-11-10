@@ -1,40 +1,66 @@
 [
   {
+    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/texte1.ogg",
     "label": "Texte 1",
     "transcript": "— Allô, Inès ? C'est Léa ! Samedi, je vais avoir treize ans. Tu es libre ?\n— Oui, super ! Qu'est-ce que tu vas faire ?\n— On va faire une petite fête à la maison : de la pizza, un gâteau au chocolat et de la musique. Tu vas venir ?\n— Bien sûr ! Je vais apporter des ballons. Et pour le cadeau, tu veux quoi ?\n— Oh, c'est gentil… Une surprise, ça me suffit !",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/texte1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+    "source_body_sha256": "527e5ddb1b292dc9bc7ce96e9ab65c0db0993329f4d314d35537a47bdce11d50",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "— Allô, Inès ? C'est Léa ! Samedi, je vais avoir treize ans. Tu es libre ? — Oui, super ! Qu'est-ce que tu vas faire ? — On va faire une petite fête à la maison : de la pizza, un gâteau au chocolat et de la musique. Tu vas venir ? — Bien sûr ! Je vais apporter des ballons. Et pour le cadeau, tu veux quoi ? — Oh, c'est gentil… Une surprise, ça me suffit !"
   },
   {
+    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "l'invitation (f.) · fêter / faire la fête · le cadeau · offrir un cadeau · le gâteau · la bougie · souffler les bougies · le ballon · inviter quelqu'un · accepter / refuser · la surprise · Joyeux anniversaire !",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+    "source_body_sha256": "527e5ddb1b292dc9bc7ce96e9ab65c0db0993329f4d314d35537a47bdce11d50",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "l'invitation (f.).\nfêter / faire la fête.\nle cadeau.\noffrir un cadeau.\nle gâteau.\nla bougie.\nsouffler les bougies.\nle ballon.\ninviter quelqu'un.\naccepter / refuser.\nla surprise.\nJoyeux anniversaire !."
   },
   {
-    "label": "Vocabulaire 2",
-    "transcript": "je · tu · il / elle / on · nous · vous · ils / elles",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab2.ogg",
-    "tts": "je.\ntu.\nil / elle / on.\nnous.\nvous.\nils / elles."
-  },
-  {
+    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/texte2.ogg",
     "label": "Texte 2",
     "transcript": "Tu es invité·e ! 🎉\nLéa fête ses 13 ans !\n📅 Samedi 15 mars, de 18 h à 22 h\n🏠 Chez Léa, 7 rue des Lilas\n🎂 Au programme : pizza, gâteau au chocolat, karaoké et jeux.\nOn va bien s'amuser ! Réponds-moi avant le 12 mars.\nBisous, Léa",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/texte2.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+    "source_body_sha256": "527e5ddb1b292dc9bc7ce96e9ab65c0db0993329f4d314d35537a47bdce11d50",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Tu es invité·e ! 🎉 Léa fête ses 13 ans ! 📅 Samedi 15 mars, de 18 h à 22 h 🏠 Chez Léa, 7 rue des Lilas 🎂 Au programme : pizza, gâteau au chocolat, karaoké et jeux. On va bien s'amuser ! Réponds-moi avant le 12 mars. Bisous, Léa"
   },
   {
+    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/texte3.ogg",
     "label": "Texte 3",
     "transcript": "— Allô Léa ? C'est Karim. Je viens de recevoir ton invitation, merci !\n— Génial ! Tu vas pouvoir venir samedi ?\n— Oui, avec plaisir. Je vais arriver vers 18 h.\n— Super ! Et tu peux apporter de la musique ?\n— Bien sûr, je vais préparer une playlist. À samedi !",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/texte3.ogg"
-  },
-  {
-    "label": "Texte 4",
-    "transcript": "— Salut ! Samedi, je vais fêter mon anniversaire. Tu vas venir ?\n— (a) Accepte poliment et propose d'apporter quelque chose.\n— Super ! Et toi, Léo ?\n— (b) Refuse poliment : tu es en vacances ce week-end.",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/texte4.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Réalisation de la tâche · Futur proche · Vocabulaire de la fête · Interaction · Prononciation",
-    "file": "/fle/materials/audio/unit09_fete-d-anniversaire/vocab3.ogg",
-    "tts": "Réalisation de la tâche.\nFutur proche.\nVocabulaire de la fête.\nInteraction.\nPrononciation."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+    "source_body_sha256": "527e5ddb1b292dc9bc7ce96e9ab65c0db0993329f4d314d35537a47bdce11d50",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "— Allô Léa ? C'est Karim. Je viens de recevoir ton invitation, merci ! — Génial ! Tu vas pouvoir venir samedi ? — Oui, avec plaisir. Je vais arriver vers 18 h. — Super ! Et tu peux apporter de la musique ? — Bien sûr, je vais préparer une playlist. À samedi !"
   }
 ]

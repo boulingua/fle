@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit09_histoire-et-memoire-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit09_histoire-et-memoire-teacher.png
+audio_manifest: unit09_histoire-et-memoire
 ---
 
 {{< callout type="note" >}}

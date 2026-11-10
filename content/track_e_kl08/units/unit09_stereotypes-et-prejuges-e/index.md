@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit09_stereotypes-et-prejuges-e-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit09_stereotypes-et-prejuges-e-teacher.png
+audio_manifest: unit09_stereotypes-et-prejuges-e
 ---
 
 {{< callout type="note" >}}

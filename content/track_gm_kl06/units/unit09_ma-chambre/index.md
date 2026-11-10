@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit09_ma-chambre-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit09_ma-chambre-teacher.png
+audio_manifest: unit09_ma-chambre
 ---
 
 {{< callout type="note" >}}

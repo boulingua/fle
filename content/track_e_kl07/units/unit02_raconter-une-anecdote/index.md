@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit02_raconter-une-anecdote-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit02_raconter-une-anecdote-teacher.png
+audio_manifest: unit02_raconter-une-anecdote
 ---
 
 {{< callout type="note" >}}

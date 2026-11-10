@@ -71,6 +71,7 @@ worksheet_teacher:
     /fle/materials/worksheets/unit01_correspondance-avec-montreal-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit01_correspondance-avec-montreal-teacher.png
+audio_manifest: unit01_correspondance-avec-montreal
 ---
 
 {{< callout type="note" >}}

@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit02_ma-famille-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit02_ma-famille-teacher.png
+audio_manifest: unit02_ma-famille
 ---
 
 {{< callout type="note" >}}

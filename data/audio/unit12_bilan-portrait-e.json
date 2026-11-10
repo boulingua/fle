@@ -1,36 +1,65 @@
 [
   {
+    "file": "/fle/materials/audio/unit12_bilan-portrait-e/texte1.ogg",
+    "label": "Texte 1",
+    "transcript": "Dernière semaine de juin. La classe de 6e B prépare un échange avec un collège de Strasbourg. Madame Devos distribue les fiches des correspondant·e·s français·es.",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
+    "source_body_sha256": "702d62e925124f154fb6de8823c63c6334e51a72ec4958a4765d009ac1b2a19e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/fle/materials/audio/unit12_bilan-portrait-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Mme Devos : Voici la fiche de votre correspondant. Léo, à Strasbourg, écrit :  Salut ! Je m'appelle Léo, j'ai 11 ans. Et toi, qui es-tu ?\nAnouk : Madame, on répond en français ?\nMme Devos : Bien sûr. Présentez-vous comme vous le feriez à un·e ami·e francophone. Tout ce que vous avez appris cette année !\nTristan : Tout ? Mais on a appris beaucoup de choses…\nMme Devos : Justement. C'est votre bilan : votre portrait, du début à la fin de l'année.",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
+    "source_body_sha256": "702d62e925124f154fb6de8823c63c6334e51a72ec4958a4765d009ac1b2a19e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mme Devos : Voici la fiche de votre correspondant. Léo, à Strasbourg, écrit :  Salut ! Je m'appelle Léo, j'ai 11 ans. Et toi, qui es-tu ? Anouk : Madame, on répond en français ? Mme Devos : Bien sûr. Présentez-vous comme vous le feriez à un·e ami·e francophone. Tout ce que vous avez appris cette année ! Tristan : Tout ? Mais on a appris beaucoup de choses… Mme Devos : Justement. C'est votre bilan : votre portrait, du début à la fin de l'année."
   },
   {
-    "label": "Vocabulaire 1",
-    "transcript": "Identité · Famille · École · Journée · Goûts · Météo / saisons · Ma chambre · Voyages · Connecteurs",
     "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab1.ogg",
-    "tts": "Identité.\nFamille.\nÉcole.\nJournée.\nGoûts.\nMétéo / saisons.\nMa chambre.\nVoyages.\nConnecteurs."
+    "label": "Vocabulaire 1",
+    "transcript": "je m'appelle…, j'ai … ans, je suis (allemand·e), j'habite à… · mon père, ma mère, ma sœur, mon frère, nous sommes… · je suis en 6e, ma matière préférée est…, j'aime… · le matin, l'après-midi, le soir, je fais… · j'aime, je n'aime pas, je préfère, mon sport favori · il fait beau, en été, ma saison préférée est… · dans ma chambre, il y a…, à côté de… · j'ai visité…, je rêve d'aller à… · et, mais, parce que, alors, aussi, d'abord, enfin",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
+    "source_body_sha256": "702d62e925124f154fb6de8823c63c6334e51a72ec4958a4765d009ac1b2a19e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "je m'appelle…, j'ai … ans, je suis (allemand·e), j'habite à….\nmon père, ma mère, ma sœur, mon frère, nous sommes….\nje suis en 6e, ma matière préférée est…, j'aime….\nle matin, l'après-midi, le soir, je fais….\nj'aime, je n'aime pas, je préfère, mon sport favori.\nil fait beau, en été, ma saison préférée est….\ndans ma chambre, il y a…, à côté de….\nj'ai visité…, je rêve d'aller à….\net, mais, parce que, alors, aussi, d'abord, enfin."
   },
   {
-    "label": "Texte 1",
+    "file": "/fle/materials/audio/unit12_bilan-portrait-e/texte2.ogg",
+    "label": "Texte 2",
     "transcript": "Salut ! Je m'appelle Anouk, j'ai 11 ans. Je suis allemande et j'habite à Karlsruhe. Je suis en 6e B au lycée.\nJ'ai une petite famille : mon père Klaus, ma mère Sonja et ma petite sœur Lena, qui a 8 ans.\nÀ l'école, ma matière préférée est l'art, mais j'aime beaucoup le français aussi. Le mardi, je fais du judo avec Tristan. Le week-end, je vais au marché avec ma mère parce que j'adore les fraises !\nEn été, dans ma chambre, il y a toujours des fleurs sur la table. Et je rêve d'aller à Strasbourg pour visiter la cathédrale.\nVoilà, c'est moi. Et toi, qui es-tu ?",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-e/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "Contenu · Durée · Langue · Cohésion · Interaction",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab2.ogg",
-    "tts": "Contenu.\nDurée.\nLangue.\nCohésion.\nInteraction."
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "1 — Compréhension · 2 — Oral · 3 — Écrit · Total",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab3.ogg",
-    "tts": "1 — Compréhension.\n2 — Oral.\n3 — Écrit.\nTotal."
-  },
-  {
-    "label": "Vocabulaire 4",
-    "transcript": "Situation de départ + Activer · Apporter (vocab, langue, texte, culture) · S'entraîner (Ex. 1–4) · Produire (préparation + passages) · Réfléchir + aperçu",
-    "file": "/fle/materials/audio/unit12_bilan-portrait-e/vocab4.ogg",
-    "tts": "Situation de départ + Activer.\nApporter (vocab, langue, texte, culture).\nS'entraîner (Ex. 1–4).\nProduire (préparation + passages).\nRéfléchir + aperçu."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
+    "source_body_sha256": "702d62e925124f154fb6de8823c63c6334e51a72ec4958a4765d009ac1b2a19e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Salut ! Je m'appelle Anouk, j'ai 11 ans. Je suis allemande et j'habite à Karlsruhe. Je suis en 6e B au lycée. J'ai une petite famille : mon père Klaus, ma mère Sonja et ma petite sœur Lena, qui a 8 ans. À l'école, ma matière préférée est l'art, mais j'aime beaucoup le français aussi. Le mardi, je fais du judo avec Tristan. Le week-end, je vais au marché avec ma mère parce que j'adore les fraises ! En été, dans ma chambre, il y a toujours des fleurs sur la table. Et je rêve d'aller à Strasbourg pour visiter la cathédrale. Voilà, c'est moi. Et toi, qui es-tu ?"
   }
 ]

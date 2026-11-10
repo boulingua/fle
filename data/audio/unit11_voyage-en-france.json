@@ -1,30 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit11_voyage-en-france/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Mme Renault : Regardez : Paris, Marseille, Lyon, Strasbourg, Nice. La semaine prochaine, la classe part en voyage à Marseille !\nThéo : À Marseille ? Il y a la mer là-bas ?\nMme Renault : Oui, la mer Méditerranée. Il fait chaud et le ciel est bleu.\nLéa : Super ! Je vais écrire une carte postale à mes parents.",
-    "file": "/fle/materials/audio/unit11_voyage-en-france/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+    "source_body_sha256": "39d3751e531f440c685bfaf3e9216d838ff5a2c782e6d7dd8083bfd1d34357a4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Mme Renault : Regardez : Paris, Marseille, Lyon, Strasbourg, Nice. La semaine prochaine, la classe part en voyage à Marseille ! Théo : À Marseille ? Il y a la mer là-bas ? Mme Renault : Oui, la mer Méditerranée. Il fait chaud et le ciel est bleu. Léa : Super ! Je vais écrire une carte postale à mes parents."
   },
   {
+    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "la mer · la plage · la montagne · le port · une ville · une région · un monument · un pont · visiter · monter · il fait chaud · il fait beau · une carte postale · bisous",
-    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab1.ogg",
-    "tts": "la mer.\nla plage.\nla montagne.\nle port.\nune ville.\nune région.\nun monument.\nun pont.\nvisiter.\nmonter.\nil fait chaud.\nil fait beau.\nune carte postale.\nbisous."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+    "source_body_sha256": "39d3751e531f440c685bfaf3e9216d838ff5a2c782e6d7dd8083bfd1d34357a4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "la mer · la plage.\nla montagne · le port.\nune ville · une région.\nun monument · un pont.\nvisiter · monter.\nil fait chaud · il fait beau.\nune carte postale.\nbisous."
   },
   {
-    "label": "Vocabulaire 2",
-    "transcript": "Paris · Marseille · Lyon · Strasbourg · Nice",
-    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab2.ogg",
-    "tts": "Paris.\nMarseille.\nLyon.\nStrasbourg.\nNice."
-  },
-  {
+    "file": "/fle/materials/audio/unit11_voyage-en-france/texte1.ogg",
     "label": "Texte 1",
     "transcript": "Marseille, le 15 juillet\nSalut maman, salut papa !\nJe suis à Marseille avec la classe. Il fait très chaud et la mer est bleue. Hier, on a visité le Vieux-Port. J'ai mangé une bouillabaisse : c'est une soupe de poisson. C'est bon, mais c'est salé !\nDemain, on monte à Notre-Dame de la Garde. On voit toute la ville de là-haut. À bientôt !\nBisous,\nLéa",
-    "file": "/fle/materials/audio/unit11_voyage-en-france/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 3",
-    "transcript": "Structure de la carte (lieu, date, salutation, fin) · Contenu (météo + activité + nourriture) · Langue ( en / à ,  il fait , vocabulaire) · Lisibilité et présentation · Total",
-    "file": "/fle/materials/audio/unit11_voyage-en-france/vocab3.ogg",
-    "tts": "Structure de la carte (lieu, date, salutation, fin).\nContenu (météo + activité + nourriture).\nLangue ( en / à ,  il fait , vocabulaire).\nLisibilité et présentation.\nTotal."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+    "source_body_sha256": "39d3751e531f440c685bfaf3e9216d838ff5a2c782e6d7dd8083bfd1d34357a4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Marseille, le 15 juillet Salut maman, salut papa ! Je suis à Marseille avec la classe. Il fait très chaud et la mer est bleue. Hier, on a visité le Vieux-Port. J'ai mangé une bouillabaisse : c'est une soupe de poisson. C'est bon, mais c'est salé ! Demain, on monte à Notre-Dame de la Garde. On voit toute la ville de là-haut. À bientôt ! Bisous, Léa"
   }
 ]

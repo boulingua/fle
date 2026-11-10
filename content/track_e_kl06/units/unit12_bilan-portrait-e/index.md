@@ -69,6 +69,7 @@ assessment_review: pending
 worksheet_teacher:
   file: /fle/materials/worksheets/unit12_bilan-portrait-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit12_bilan-portrait-e-teacher.png
+audio_manifest: unit12_bilan-portrait-e
 ---
 
 {{< callout type="note" >}}

@@ -69,6 +69,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit04_ma-journee-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit04_ma-journee-teacher.png
+audio_manifest: unit04_ma-journee
 ---
 
 {{< callout type="note" >}}

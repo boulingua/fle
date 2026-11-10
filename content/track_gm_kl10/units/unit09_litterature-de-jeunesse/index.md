@@ -68,6 +68,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit09_litterature-de-jeunesse-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit09_litterature-de-jeunesse-teacher.png
+audio_manifest: unit09_litterature-de-jeunesse
 ---
 
 {{< callout type="note" >}}

@@ -68,6 +68,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit11_un-projet-solidaire-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit11_un-projet-solidaire-e-teacher.png
+audio_manifest: unit11_un-projet-solidaire-e
 ---
 
 {{< callout type="note" >}}

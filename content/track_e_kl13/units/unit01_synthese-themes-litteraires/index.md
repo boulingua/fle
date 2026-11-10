@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit01_synthese-themes-litteraires-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit01_synthese-themes-litteraires-teacher.png
+audio_manifest: unit01_synthese-themes-litteraires
 ---
 
 {{< callout type="note" >}}

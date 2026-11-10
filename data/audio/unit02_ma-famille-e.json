@@ -1,24 +1,50 @@
 [
   {
+    "file": "/fle/materials/audio/unit02_ma-famille-e/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Anouk : Regarde, c'est ma famille ! Voici mon père, Klaus, et ma mère, Sonja. Et là, c'est ma petite sœur Lena.\nTristan : Vous êtes combien à la maison ?\nAnouk : On est quatre, plus le chien. Et toi ?\nTristan : Moi, je suis fils unique. Mais j'ai beaucoup de cousins !",
-    "file": "/fle/materials/audio/unit02_ma-famille-e/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
+    "source_body_sha256": "10ea773ada8593c80782f32345b4c9b22468806999dcf7a7651e443211096b65",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Anouk : Regarde, c'est ma famille ! Voici mon père, Klaus, et ma mère, Sonja. Et là, c'est ma petite sœur Lena. Tristan : Vous êtes combien à la maison ? Anouk : On est quatre, plus le chien. Et toi ? Tristan : Moi, je suis fils unique. Mais j'ai beaucoup de cousins !"
   },
   {
+    "file": "/fle/materials/audio/unit02_ma-famille-e/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "le père / le papa · la mère / la maman · le frère · la sœur · le grand-père · la grand-mère · l'oncle · la tante · le cousin / la cousine · les parents / les grands-parents",
-    "file": "/fle/materials/audio/unit02_ma-famille-e/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
+    "source_body_sha256": "10ea773ada8593c80782f32345b4c9b22468806999dcf7a7651e443211096b65",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "le père / le papa.\nla mère / la maman.\nle frère.\nla sœur.\nle grand-père.\nla grand-mère.\nl'oncle.\nla tante.\nle cousin / la cousine.\nles parents / les grands-parents."
   },
   {
+    "file": "/fle/materials/audio/unit02_ma-famille-e/texte1.ogg",
     "label": "Texte 1",
     "transcript": "J'ai une petite famille. Mon père s'appelle Klaus, il est ingénieur. Ma mère, Sonja, est médecin. Ma petite sœur Lena a 8 ans — elle est à l'école primaire.\nMes grands-parents habitent à Stuttgart. Mon oncle Hans et ma tante Ingrid vivent à Berlin. J'ai aussi deux cousines, Mia et Klara, mais on se voit seulement à Noël.\nNotre chien s'appelle Bello. Lui, il est avec nous tous les jours !",
-    "file": "/fle/materials/audio/unit02_ma-famille-e/texte1.ogg"
-  },
-  {
-    "label": "Vocabulaire 2",
-    "transcript": "très bien · bien · satisfaisant · passable · insuffisant",
-    "file": "/fle/materials/audio/unit02_ma-famille-e/vocab2.ogg",
-    "tts": "très bien.\nbien.\nsatisfaisant.\npassable.\ninsuffisant."
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
+    "source_body_sha256": "10ea773ada8593c80782f32345b4c9b22468806999dcf7a7651e443211096b65",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "J'ai une petite famille. Mon père s'appelle Klaus, il est ingénieur. Ma mère, Sonja, est médecin. Ma petite sœur Lena a 8 ans — elle est à l'école primaire. Mes grands-parents habitent à Stuttgart. Mon oncle Hans et ma tante Ingrid vivent à Berlin. J'ai aussi deux cousines, Mia et Klara, mais on se voit seulement à Noël. Notre chien s'appelle Bello. Lui, il est avec nous tous les jours !"
   }
 ]

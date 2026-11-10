@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit09_monologue-et-presentation-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit09_monologue-et-presentation-teacher.png
+audio_manifest: unit09_monologue-et-presentation
 ---
 
 {{< callout type="note" >}}

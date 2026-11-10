@@ -70,6 +70,7 @@ worksheet_teacher:
     /fle/materials/worksheets/unit01_transition-vers-la-kursstufe-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit01_transition-vers-la-kursstufe-teacher.png
+audio_manifest: unit01_transition-vers-la-kursstufe
 ---
 
 {{< callout type="note" >}}

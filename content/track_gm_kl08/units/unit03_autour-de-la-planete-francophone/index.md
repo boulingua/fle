@@ -71,6 +71,7 @@ worksheet_teacher:
     /fle/materials/worksheets/unit03_autour-de-la-planete-francophone-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit03_autour-de-la-planete-francophone-teacher.png
+audio_manifest: unit03_autour-de-la-planete-francophone
 ---
 
 {{< callout type="note" >}}

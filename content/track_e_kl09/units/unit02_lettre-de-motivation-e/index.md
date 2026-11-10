@@ -66,6 +66,7 @@ exam:
 worksheet_teacher:
   file: /fle/materials/worksheets/unit02_lettre-de-motivation-e-teacher.pdf
   thumbnail: /fle/materials/worksheets/unit02_lettre-de-motivation-e-teacher.png
+audio_manifest: unit02_lettre-de-motivation-e
 ---
 
 {{< callout type="note" >}}

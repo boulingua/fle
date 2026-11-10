@@ -69,6 +69,7 @@ worksheet_teacher:
   file: /fle/materials/worksheets/unit10_consommation-responsable-teacher.pdf
   thumbnail:
     /fle/materials/worksheets/unit10_consommation-responsable-teacher.png
+audio_manifest: unit10_consommation-responsable
 ---
 
 {{< callout type="note" >}}

@@ -1,13 +1,34 @@
 [
   {
+    "file": "/fle/materials/audio/unit04_presse-engagee/vocab1.ogg",
     "label": "Vocabulaire 1",
     "transcript": "un éditorial · une tribune (libre) · la ligne éditoriale · l'énonciateur · la modalisation · un procédé rhétorique · une question rhétorique · une gradation · le  nous  inclusif · étayer / réfuter",
-    "file": "/fle/materials/audio/unit04_presse-engagee/vocab1.ogg",
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit04_presse-engagee/index.md",
+    "source_body_sha256": "ca273aac50090d7c39cdbb5a146d5396c1e77c8b9d63dbd1460f8552d5b9932c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
     "tts": "un éditorial.\nune tribune (libre).\nla ligne éditoriale.\nl'énonciateur.\nla modalisation.\nun procédé rhétorique.\nune question rhétorique.\nune gradation.\nle  nous  inclusif.\nétayer / réfuter."
   },
   {
+    "file": "/fle/materials/audio/unit04_presse-engagee/dialogue1.ogg",
     "label": "Dialogue 1",
     "transcript": "Qui paiera pour vous informer ?\nChaque matin, des millions de titres défilent sur nos écrans : gratuits, infinis, immédiats. Nous nous croyons mieux informés que jamais. Et si c'était l'inverse ?\nCar cette gratuité n'existe pas. Quand l'information ne coûte rien au lecteur, c'est qu'elle est payée par quelqu'un d'autre : l'annonceur, l'actionnaire, l'algorithme. Or celui qui paie choisit. Il choisit les sujets qui rapportent, écarte ceux qui dérangent, et transforme le citoyen en simple cible publicitaire.\nFace à cette logique, une presse indépendante subsiste, portée par ses seuls lecteurs. Elle enquête lentement, vérifie, dérange. Elle refuse la publicité et les grands groupes. Son modèle est fragile, exigeant, presque héroïque. Mais il reste le dernier rempart d'une démocratie qui a besoin de doutes plus que de certitudes.\nAlors ne nous y trompons pas : s'informer librement a un prix. Ce prix, ce n'est pas seulement quelques euros par mois. C'est le refus du confort, l'effort de lire, la volonté de comprendre. Une société qui ne veut plus payer pour son information finit par payer bien plus cher : son ignorance.\nLe choix nous appartient. Et il commence aujourd'hui.",
-    "file": "/fle/materials/audio/unit04_presse-engagee/dialogue1.ogg"
+    "source": "tts",
+    "voice": "fr_FR-mls-medium",
+    "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
+    "config_sha256": "252b0b0a6e4cc4949e23eccb956f9c779986c32f934f2f7e2191e5fdc2edca61",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track_e_kl12/units/unit04_presse-engagee/index.md",
+    "source_body_sha256": "ca273aac50090d7c39cdbb5a146d5396c1e77c8b9d63dbd1460f8552d5b9932c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Qui paiera pour vous informer ? Chaque matin, des millions de titres défilent sur nos écrans : gratuits, infinis, immédiats. Nous nous croyons mieux informés que jamais. Et si c'était l'inverse ? Car cette gratuité n'existe pas. Quand l'information ne coûte rien au lecteur, c'est qu'elle est payée par quelqu'un d'autre : l'annonceur, l'actionnaire, l'algorithme. Or celui qui paie choisit. Il choisit les sujets qui rapportent, écarte ceux qui dérangent, et transforme le citoyen en simple cible publicitaire. Face à cette logique, une presse indépendante subsiste, portée par ses seuls lecteurs. Elle enquête lentement, vérifie, dérange. Elle refuse la publicité et les grands groupes. Son modèle est fragile, exigeant, presque héroïque. Mais il reste le dernier rempart d'une démocratie qui a besoin de doutes plus que de certitudes. Alors ne nous y trompons pas : s'informer librement a un prix. Ce prix, ce n'est pas seulement quelques euros par mois. C'est le refus du confort, l'effort de lire, la volonté de comprendre. Une société qui ne veut plus payer pour son information finit par payer bien plus cher : son ignorance. Le choix nous appartient. Et il commence aujourd'hui."
   }
 ]

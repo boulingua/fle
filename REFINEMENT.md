@@ -114,3 +114,29 @@ shortfalls remain recorded rather than padded or represented as fulfilled.
 All 156 unit assessment pointers now identify standalone, source-complete editorial papers. The 144 remaining divergent pairs have immutable full originals, explicit decisions, hashes and revision histories in `docs/assessment-reconciliation/2026-10-31/`. Nineteen papers regained their graded oral outcomes; learner answers and listening scripts stay behind teacher-key controls. Thirty-nine teaching bodies in this tranche received coherent factual/grammar/source corrections, with original text preserved. The declaration/point checker passes all 156 papers: 77 retain proposed grade scales; 79 explicitly use criterion points without an unvalidated grade conversion. This does not approve the pedagogy or scoring policy.
 
 The final source receipt and refreshed curriculum-review ledger bind the current tasks and mappings. All mapping assertions remain proposed and reviewer decisions pending. Native/pedagogical review, actual timing, voice auditions and substantive teaching-word-band deficits remain open. Source checks found 94 units outside the required word bands and 126 pointers without reviewed timings. Rendered exam-length and final material results must come from a rebuild of the frozen revision, not earlier public HTML. Full policy, verification boundaries and next actions are in the reconciliation README.
+
+## Integration with main — 10 November 2026
+
+This branch was updated by merging `main` before integration. Main's published
+foundation set (org v2.0.1, kit v2.0.2, curriculum v1.3.0), its regenerated
+lesson recordings and audio manifests (5 November) and the analytics section of
+its privacy notice replace the historical pins, the earlier audio manifest
+mapping and the 31 October analytics wording recorded above; D6 now passes.
+Plausible was enabled on `main` on 9 November; the configuration follows `main`.
+
+14 units whose recorded input text was revised on this branch no longer match
+their recordings: `track_e_kl09/units/unit03_ecologie-au-quotidien-e`,
+`track_e_kl09/units/unit08_differences-culturelles-e`,
+`track_e_kl09/units/unit09_internet-et-vie-privee-e`,
+`track_e_kl09/units/unit10_consommation-responsable-e`,
+`track_e_kl10/units/unit03_vie-democratique-e`,
+`track_e_kl11/units/unit05_mediation-academique`,
+`track_e_kl11/units/unit10_ecologie-en-france`,
+`track_e_kl12/units/unit05_mediation-fr-de`,
+`track_e_kl13/units/unit06_mediation-finale`,
+`track_gm_kl08/units/unit03_autour-de-la-planete-francophone`,
+`track_gm_kl09/units/unit03_ecologie-au-quotidien`,
+`track_gm_kl09/units/unit06_podcasts-en-francais`,
+`track_gm_kl09/units/unit08_differences-culturelles`,
+`track_gm_kl09/units/unit09_internet-et-vie-privee`. Before release these need
+new recordings of the revised text, or a decision to keep the recorded wording.

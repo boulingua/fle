@@ -1,0 +1,91 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 8"
+subtitle: "Le Québec · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 8
+slug: "le-quebec-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.processing-text.03
+    - A1.INT.asking-for-clarification.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (12 points)
+
+Lisez la lettre d'Inès (Unité 8, texte C). Répondez :
+
+1. D'où écrit Inès ?
+2. Quelle saison + temps ?
+3. Qu'a mangé Inès chez sa grand-mère ?
+4. Qui est Antoine ?
+5. Qu'a-t-elle acheté en magasinant ?
+6. Que va-t-elle faire le mois prochain ?
+
+### Tâche 2 — Québécismes (8 points)
+
+Traduisez en français de France :
+
+- char · chum · magasiner · dépanneur · souper · déjeuner ·
+ blonde · dîner.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+
+Rédigez une **réponse à Inès** en **120 mots** : votre saison
++ ce que vous mangez + ce que vous faites le week-end. **2
+québécismes** entre guillemets.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 12 |
+| Tâche 2 — Québécismes | 8 |
+| Tâche 3 — Expression écrite | 10 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Montréal. 2) Automne, 5 °C. 3) Poutine + tarte
+au sirop d'érable. 4) Son chum (copain). 5) Une tuque (bonnet).
+6) Voir les Canadiens de Montréal (hockey).
+
+**Tâche 2.** voiture · copain · faire les magasins · épicerie
+de quartier · dîner · petit-déjeuner · copine · déjeuner.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · format
+lettre · 2 québécismes guillemetés.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 8*

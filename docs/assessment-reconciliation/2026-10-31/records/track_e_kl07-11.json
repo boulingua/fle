@@ -1,0 +1,73 @@
+{
+  "unit": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+  "exam": "content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md",
+  "before_unit_sha256": "576a309fb43da1d84b0ca856759bf2c6653527a2dfc2d3219f5a246e7b5cde8a",
+  "after_unit_sha256": "04fe806054f2156099370c634279bf92503bddc691f0b48e36b1afcb48dce823",
+  "before_exam_sha256": "cb9250e6f78094e8e4f0159676b6054906207279e5f5286c5070d10e72ec1eac",
+  "after_exam_sha256": "e489cb906c2a00a13e536e6f8b713aeba8164fa7fe712ca6d232b6aee218d105",
+  "source_sections": "C",
+  "supplied_source_sha256": "bf4af9cc38ae3cf649038883fa0c261d8ba914b15f65eea5ce5ff008869c4586",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Retained source-backed ZKM task rather than swapping to different embedded Naturkundemuseum source. Reordered reading8/mediation15/writing7 to match engine; original model excluded from learner support."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "9ff1f6ec0a6cc493f0f5c09de0bccfc646bc1a216d86aaa144da6597eb16cec2",
+      "after_sha256": "d4f5397dd8f2246ab04b07548aa5cc252c6e36a6623c22e6be617518ada9be3f",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit11_premiere-mediation/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "4d7c7f5c0f8747a305bf5dee4f3712040bcf71e277401c222aad2e2539549d9c",
+      "after_sha256": "f664dbd1d26b26b704370800061d6f94b6be1094a7ef7bf45fa202d615fd250a",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "d4f5397dd8f2246ab04b07548aa5cc252c6e36a6623c22e6be617518ada9be3f",
+      "after_sha256": "04fe806054f2156099370c634279bf92503bddc691f0b48e36b1afcb48dce823",
+      "reasons": [
+        "Separate authored visitor exercise from current operational information."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl07/units/unit11_premiere-mediation/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "f664dbd1d26b26b704370800061d6f94b6be1094a7ef7bf45fa202d615fd250a",
+      "after_sha256": "b6b299f48f183efa9abf01b2be6a8451f3e7842c04c952986f10446cc784de20",
+      "reasons": [
+        "Separate authored visitor exercise from current operational information."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "b6b299f48f183efa9abf01b2be6a8451f3e7842c04c952986f10446cc784de20",
+      "after_sha256": "a888c670c171f36e8a45d4860e153ea3ab422991b370963b8700d47a615d1741",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md",
+      "before_sha256": "a888c670c171f36e8a45d4860e153ea3ab422991b370963b8700d47a615d1741",
+      "after_sha256": "e489cb906c2a00a13e536e6f8b713aeba8164fa7fe712ca6d232b6aee218d105",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+---
+title: "devoir surveillé FLE — classe 6 (Niveau E) — Unité 12"
+subtitle: "Bilan : mon portrait · classe 6 · Niveau E"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 12
+slug: "bilan-portrait-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-6
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.MED.relaying-specific-information.02
+    - A1.REC.reading-for-orientation.04
+    - A1.INT.asking-for-clarification.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 6
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le portrait d'Anouk (Unité 12, texte C). Répondez :
+
+1. Quel âge a Anouk ? Quelle classe ?
+2. Combien de personnes dans sa famille ?
+3. Quelle est sa matière préférée ?
+4. Que fait-elle le mardi ?
+5. Quel est son rêve ?
+
+### Tâche 2 — Auto-évaluation (5 points)
+
+Notez-vous de 1 à 5 sur 5 domaines :
+
+- Vocabulaire (famille, école, marché, loisirs) ___
+- Conjugaison (présent, verbes pronominaux) ___
+- Heure / date / météo ___
+- Compréhension d'un texte simple ___
+- Présentation orale ___
+
+### Tâche 3 — Expression écrite (« Schreiben ») (15 points)
+
+Rédigez **votre portrait** en **120 mots** : 9 éléments des 11
+Unités. Plan : identité + famille + école + journée + goûts +
+chambre + voyage + question finale au lecteur.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Auto-évaluation | 5 |
+| Tâche 3 — Expression écrite | 15 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 11 ans, 6e B lycée. 2) 4 (Anouk + parents +
+Lena). 3) L'art. 4) Judo avec Tristan. 5) Aller à Strasbourg
+voir la cathédrale.
+
+**Tâche 2.** Réponses libres.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 9 éléments
+demandés · question finale.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 6 · Niveau E · Unité 12*

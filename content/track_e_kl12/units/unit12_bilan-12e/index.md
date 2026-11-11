@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 12
 slug: "bilan-12e"
 bildungsplan:
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.4 Expression orale — prise de parole en continu"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — prise de parole en continu"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-12e.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-12e.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit12_bilan-12e.html"
+- "/track_e_kl12/units/unit12_bilan-12e.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.monitoring-and-repair.01
-    - B2.PROD.overall-oral-production.01
-    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
-    - B2.MED.managing-interaction.03
-    - B2.INT.asking-for-clarification.02
+  - B2.PROD.monitoring-and-repair.01
+  - B2.PROD.overall-oral-production.01
+  - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  - B2.MED.managing-interaction.03
+  - B2.INT.asking-for-clarification.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit12_bilan-12e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 20
+  skills:
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-12e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit12_bilan-12e-teacher.png
 audio_manifest: unit12_bilan-12e
 ---
 
@@ -71,14 +103,12 @@ Dernière semaine de juin. Léa et Théo rangent leurs classeurs dans la salle 2
 2. Sur quel point Léa et Théo se sentent-ils différents ?
 3. Et vous : quel est votre point fort, quel est votre point à travailler ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **trois choses** que vous avez apprises cette année en français.
 - Nommez **une compétence** (lire, écrire, parler, médier) où vous avez le plus progressé.
 - En un mot : votre année de 12e, c'était comment ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du bilan et de la projection
 
 | Français | Exemple d'emploi |
@@ -146,8 +176,7 @@ concrètement (comprendre, parler, écrire). En fin de lycée, beaucoup d'élèv
 visent le niveau **B2**. Situer son propre niveau aide à cibler ses priorités
 avant l'année terminale. *(Fait paraphrasé de Wikipédia, CC BY-SA ; voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension du texte C.**
 
 1. Quel est le point fort de Léa ?
@@ -180,6 +209,7 @@ avant l'année terminale. *(Fait paraphrasé de Wikipédia, CC BY-SA ; voir Sour
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) L'oral spontané (elle est à l'aise à l'oral, elle réagit vite). 2) Ses textes écrits restent désordonnés / mal structurés. 3) Trois priorités. 4) Par exemple : structurer chaque texte ; enrichir le vocabulaire d'analyse ; parler seule trois minutes sans notes (une réponse suffit).
 
 **Exercice 2.** 1) serai · 2) devrons · 3) pourras · 4) fera.
@@ -187,9 +217,9 @@ avant l'année terminale. *(Fait paraphrasé de Wikipédia, CC BY-SA ; voir Sour
 **Exercice 3.** 1) acquis · 2) lacune · 3) priorité · 4) consolider · 5) se projeter.
 
 **Exercice 4.** Réponse libre. Modèle : *Cette année, j'ai lu un roman complet en français. Aujourd'hui, je manque encore de structure à l'écrit. L'an prochain, je ferai un plan avant chaque devoir.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche écrite (Niveau E, ~300 mots) — « Mon bilan de 12e ».**
 
 Rédigez votre bilan personnel de l'année. Votre texte doit comporter :
@@ -207,37 +237,18 @@ Rédigez votre bilan personnel de l'année. Votre texte doit comporter :
 - Cohérence et connecteurs logiques.
 - Longueur et lisibilité.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais nommer mes acquis de l'année.
 - [ ] Je sais identifier une lacune précise.
 - [ ] Je formule trois priorités au futur simple.
 - [ ] Je structure mon texte en introduction, développement et conclusion.
 - [ ] Je peux exposer mon bilan à l'oral en continu.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Tâche A — Expression écrite (schreiben).** Rédigez un bilan personnel de 12e
-(~300 mots) selon la consigne de la partie « Produire ».
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit12_bilan-12e_exam" >}}).
 
-**Tâche B — Expression orale en continu (sprechen_monolog).** Présentez un
-**monologue de 3 minutes** exposant vos trois priorités pour l'année terminale
-et votre objectif de niveau (repère CECRL). Préparation : 10 minutes, notes
-autorisées mais lecture interdite.
-
-**Barème (20 points) :**
-
-| Critère | Points |
-|-------------------------------------------------|:------:|
-| Écrit — structure et pertinence du contenu | 5 |
-| Écrit — correction grammaticale (temps verbaux) | 4 |
-| Écrit — richesse lexicale | 3 |
-| Oral — cohérence et organisation du propos | 4 |
-| Oral — fluidité et prononciation | 2 |
-| Oral — emploi du futur simple et du vocabulaire | 2 |
-| **Total** | **20** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Activer 4' · Apporter 13' · S'entraîner 14' · Produire
 10' · Réfléchir 2' · Aperçu de l'année terminale 2'.

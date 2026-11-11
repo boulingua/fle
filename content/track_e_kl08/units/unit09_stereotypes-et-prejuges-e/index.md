@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 9
 slug: "stereotypes-et-prejuges-e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_interaction
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_stereotypes-et-prejuges-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_stereotypes-et-prejuges-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit09_stereotypes-et-prejuges-e.html"
+- "/track_e_kl08/units/unit09_stereotypes-et-prejuges-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.PROD.creative-writing.04
-    - A2.INT.goal-oriented-co-operation.04
-    - A2.PROD.overall-oral-production.01
-    - A2.PLUR.building-on-plurilingual-repertoire.02
+  - A2.INT.conversation.08
+  - A2.PROD.creative-writing.04
+  - A2.INT.goal-oriented-co-operation.04
+  - A2.PROD.overall-oral-production.01
+  - A2.PLUR.building-on-plurilingual-repertoire.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_stereotypes-et-prejuges-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit09_stereotypes-et-prejuges-e-teacher.png
 audio_manifest: unit09_stereotypes-et-prejuges-e
 ---
 
@@ -69,15 +102,13 @@ audio_manifest: unit09_stereotypes-et-prejuges-e
 - Léa parle-t-elle d'une personne ou d'un groupe entier ?
 - Connaissez-vous d'autres phrases qui commencent par « Tous les… » ou « Les… sont toujours… » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez un stéréotype que vous avez déjà entendu sur les Français. Et sur les Allemands ?
 - À votre avis, quelle est la différence entre un **stéréotype** et un **préjugé** ?
 - Un stéréotype peut-il être positif ? Donnez un exemple.
 - Complétez à l'oral : « On dit souvent que… mais en réalité… »
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Explication (français simple) | Deutsch |
@@ -126,8 +157,7 @@ On forme le conditionnel avec le **radical du futur** + les terminaisons de l'im
 
 Le mot « stéréotype » vient d'abord de l'imprimerie : c'était une plaque de métal fixe qui reproduisait toujours la même image. Le journaliste Walter Lippmann a repris ce mot en 1922, dans son ouvrage *Public Opinion*, pour décrire les « images dans nos têtes » : des représentations simplifiées qui nous aident à trier le monde, mais qui déforment la réalité des personnes. En psychologie sociale, on distingue le **stéréotype** (la croyance sur un groupe) du **préjugé** (l'attitude, souvent négative, envers ce groupe) et de la **discrimination** (le comportement). *(Paraphrasé des articles « Stéréotype » et « Préjugé » de Wikipédia en français, CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte B).**
 
 1. Quel cliché sur les Allemands Karim cite-t-il ?
@@ -161,6 +191,7 @@ c) J'ai entendu cette idée souvent. Je ne suis pas d'accord.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) « Tous les Allemands seraient disciplinés. » 2) Elle-même, à moitié allemande, est désordonnée : le cliché ne correspond pas aux individus. 3) « Les Français, toujours en grève. » 4) Se parler et poser des questions au lieu de juger.
 
 **Ex. 2.** a) stéréotype (image d'un groupe, plutôt positive) · b) préjugé (jugement négatif avant de connaître) · c) stéréotype (généralisation sur un groupe) · d) préjugé (jugement négatif, accusation avant tout fait).
@@ -168,9 +199,9 @@ c) J'ai entendu cette idée souvent. Je ne suis pas d'accord.
 **Ex. 3.** a) aimerais · b) serions · c) verrais · d) pourriez.
 
 **Ex. 4 (exemples).** a) *Le stéréotype généralise, **cependant** il a parfois une part de vérité.* · b) *Certes, ce cliché est répandu, **mais** il ne décrit pas chaque individu.* · c) *J'ai entendu cette idée souvent ; **néanmoins**, je ne suis pas d'accord.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, ~10 répliques, à jouer devant un autre binôme).**
 
 A et B discutent de **trois stéréotypes** (un sur la France, un sur l'Allemagne, un libre). Pour chaque stéréotype :
@@ -190,41 +221,18 @@ Le dialogue doit rester **respectueux** : on questionne l'idée, jamais la perso
 - Fluidité et prononciation — 2 pts
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais expliquer la différence entre stéréotype et préjugé.
 - [ ] J'ai utilisé au moins cinq formes au conditionnel présent.
 - [ ] J'ai nuancé avec au moins trois connecteurs d'opposition.
 - [ ] J'ai gardé un ton respectueux envers les personnes.
 - [ ] Je peux citer un moyen concret de dépasser un préjugé.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — expression orale/interaction et expression écrite**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 P.)**
-Lisez le dialogue de Karim et Anouk (texte B) et répondez à quatre questions (distinguer stéréotype / préjugé, repérer les nuances).
-
-**Tâche 2 — Grammaire : le conditionnel (7 P.)**
-Conjuguez sept verbes au conditionnel présent (politesse et hypothèse).
-
-**Tâche 3 — Expression écrite (15 P.)**
-Rédigez un court dialogue (~120 mots) dans lequel deux personnes questionnent un stéréotype avec respect. Employez au moins **trois conditionnels** et **trois connecteurs d'opposition**.
-
-**Barème détaillé de la Tâche 3 :** contenu et pertinence 5 P. · richesse de la langue (conditionnel, connecteurs) 5 P. · correction grammaticale et orthographe 3 P. · ton respectueux 2 P.
-
-**Total : 30 P.**
-
-| Note | Points |
-|------|--------|
-| 1 (sehr gut) | 30–27 |
-| 2 (gut) | 26–23 |
-| 3 (befriedigend) | 22–18 |
-| 4 (ausreichend) | 17–13 |
-| 5 (mangelhaft) | 12–7 |
-| 6 (ungenügend) | 6–0 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Activer 5' · Apporter 13' · S'entraîner 12' · Produire 11' · Réfléchir 2' · Aperçu du prochain cours 2'.
 

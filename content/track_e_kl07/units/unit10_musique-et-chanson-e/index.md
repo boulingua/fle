@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 10
 slug: "musique-et-chanson-e"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - listening
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_musique-et-chanson-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_musique-et-chanson-e.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit10_musique-et-chanson-e.html"
+- "/track_e_kl07/units/unit10_musique-et-chanson-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.reading-for-orientation.01
-    - A1.INT.interviewing-and-being-interviewed.01
-    - A1.INT.conversation.01
-    - A1.LING.orthographic-control.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.reading-for-orientation.01
+  - A1.INT.interviewing-and-being-interviewed.01
+  - A1.INT.conversation.01
+  - A1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit10_musique-et-chanson-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_musique-et-chanson-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit10_musique-et-chanson-e-teacher.png
 audio_manifest: unit10_musique-et-chanson-e
 ---
 
@@ -67,15 +99,13 @@ Au foyer du lycée, pendant la pause, Léa met une chanson sur son téléphone.
 2. Quelle raison Karim donne-t-il pour aimer le rap ?
 3. Quelle idée fausse Léa avait-elle sur le mot « francophone » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel(le) chanteur ou chanteuse francophone connaissez-vous ? Nommez-en un·e.
 - Quel style écoutez-vous le plus : le rap, la pop, la chanson, l'électro ?
 - Comprenez-vous les paroles quand vous écoutez une chanson en français ? Un peu, beaucoup, pas du tout ?
 - En français, la musique se dit **la musique**, une chanson **une chanson**. Que veulent dire, à votre avis, *les paroles* et *le refrain* ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Catégorie | Aide (allemand) |
@@ -130,8 +160,7 @@ Après un verbe de goût, on emploie l'**article défini** :
 
 Le mot *francophone* désigne l'ensemble des personnes et des pays qui utilisent le français. La chanson d'expression française n'est donc pas seulement française : elle est aussi belge, québécoise, suisse, sénégalaise, ivoirienne, marocaine, etc. Cette diversité explique la variété des styles, du zouglou ivoirien au mbalax sénégalais, en passant par la pop et le rap européens. Beaucoup d'artistes mêlent le français à d'autres langues ou à des sonorités locales, ce qui fait de la musique un très bon point d'entrée pour découvrir le monde francophone. *(Paraphrasé d'après les articles Wikipédia « Francophonie » et « Chanson française », CC BY-SA 4.0 ; voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du dialogue (texte B).** Répondez par des phrases complètes.
 
 1. Quel artiste Théo propose-t-il, et pour quelles raisons ?
@@ -154,6 +183,7 @@ a) Céline Dion · b) Stromae · c) Aya Nakamura · d) Magic System · e) Yousso
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Il propose un morceau d'Aya Nakamura, parce qu'il aime le rythme et le mélange de français et d'argot.
 2. Parce que la mélodie est douce et qu'on comprend chaque mot.
@@ -173,9 +203,9 @@ a) Céline Dion · b) Stromae · c) Aya Nakamura · d) Magic System · e) Yousso
 - **M** : travail tel quel ; encourager une deuxième raison à l'Ex. 4.
 - **E** : à l'Ex. 4, ajouter une comparaison (*préférer X à Y*) et un connecteur (*d'abord… ensuite…*).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche (au choix, oral ou écrit) — « Ma sélection francophone » (env. 80 mots ou 1 min 30) :**
 
 Choisissez **un clip ou un morceau francophone** (3–4 min). Présentez-le **par référence uniquement** (titre, artiste, pays, style) : ne recopiez pas les paroles. Dites :
@@ -193,31 +223,18 @@ Choisissez **un clip ou un morceau francophone** (3–4 min). Présentez-le **pa
 | Langue | verbes de goût + articles corrects | 2 |
 | Références | aucune parole citée ; sources indiquées | 2 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux exprimer un goût musical et le justifier avec *parce que*.
 - [ ] Je peux comprendre l'essentiel d'un document audio ou d'un clip francophone.
 - [ ] Je peux situer cinq artistes dans leur pays et leur style.
 - [ ] Je peux nommer six styles et le vocabulaire de base de la musique.
 - [ ] J'ai parlé de la musique **par référence**, sans copier de paroles protégées.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit10_musique-et-chanson-e_exam" >}}).
 
-**Tâche 1 — Compréhension orale / audiovisuelle (12 P.)**
-L'enseignant·e passe deux fois un court extrait audio ou un clip francophone (interview ou présentation d'un·e artiste, 1–2 min). Répondez à 6 questions (qui ? / quel pays ? / quel style ? / quelle émotion ? / etc.). *2 points par réponse.*
-
-**Tâche 2 — Vocabulaire et point de langue (8 P.)**
-- Nommez 6 styles musicaux (3 P.).
-- Complétez 5 phrases avec le bon article ou la bonne préposition après un verbe de goût (5 P.).
-
-**Tâche 3 — Expression écrite / médiatique (10 P.)**
-Rédigez env. 80 mots : présentez un morceau francophone **par référence** (artiste, pays, style) et donnez votre avis justifié. *Contenu 4 P. · goût justifié 3 P. · langue 3 P.*
-
-**Barème indicatif :** 30–27 = très bien · 26–23 = bien · 22–18 = satisfaisant · 17–15 = passable · < 15 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

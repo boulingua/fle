@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
-    "source_body_sha256": "ed77931b6a20522368be8b00d5a1bed73fdcee9821c2985d33e7a204aef4192c",
+    "source_body_sha256": "b808fef20b54ef3e05749500fe5c3106a1fa6f976d7d27d16b7f7d89d2914f31",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Salut Sarah ! Ça y est, on est arrivés à Concarneau. Il pleuvait un peu ce matin, mais maintenant il fait beau. On a mangé des galettes au marché, c'était trop bon ! Sarah : Génial ! Et vous avez fait quoi cet après-midi ? Léa : On s'est promenés dans la Ville close, au bord de la mer. Demain, on va visiter une crêperie et goûter le caramel au beurre salé. J'ai hâte !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
-    "source_body_sha256": "ed77931b6a20522368be8b00d5a1bed73fdcee9821c2985d33e7a204aef4192c",
+    "source_body_sha256": "b808fef20b54ef3e05749500fe5c3106a1fa6f976d7d27d16b7f7d89d2914f31",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "les vacances (f. pl.).\nla côte.\nla marée.\nune crêpe (sucrée).\nune galette (salée).\nune crêperie.\nse promener.\nvisiter.\nil faisait beau.\navoir hâte."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
-    "source_body_sha256": "ed77931b6a20522368be8b00d5a1bed73fdcee9821c2985d33e7a204aef4192c",
+    "source_body_sha256": "b808fef20b54ef3e05749500fe5c3106a1fa6f976d7d27d16b7f7d89d2914f31",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mardi 16 juillet — Presqu'île de Crozon Ce matin, le ciel était gris et le vent soufflait fort. On a quand même pris le bateau pour visiter une petite île. L'eau était bleu-vert, magnifique. J'ai vu des oiseaux de mer partout. À midi, on a mangé une galette complète — jambon, fromage, œuf — dans une crêperie du port. C'était délicieux et pas cher. L'après-midi, le soleil est revenu. On s'est baignés, mais l'eau était froide ! Le soir, j'étais fatigué mais content. Demain, on part goûter le kouign-amann. J'ai hâte !"

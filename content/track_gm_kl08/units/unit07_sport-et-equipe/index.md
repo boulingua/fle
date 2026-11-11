@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 7
 slug: "sport-et-equipe"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_sport-et-equipe.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_sport-et-equipe.png"
 tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
+- filiere-gm
+- classe-8
+- niveau-m
 aliases:
-  - "/track_gm_kl08/units/unit07_sport-et-equipe.html"
+- "/track_gm_kl08/units/unit07_sport-et-equipe.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.INT.correspondence.01
-    - A2.MED.relaying-specific-information.03
+  - A2.INT.conversation.08
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.INT.correspondence.01
+  - A2.MED.relaying-specific-information.03
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl08/units/unit07_sport-et-equipe_exam
+  format: existing-assessment
+  duration_minutes: 35
+  points: 30
+  skills:
+  - reading
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_sport-et-equipe-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_sport-et-equipe-teacher.png
 audio_manifest: unit07_sport-et-equipe
 ---
 
@@ -73,15 +105,13 @@ Devant le gymnase, trois camarades discutent après le cours d'EPS.
 - Qui aime les sports collectifs, qui préfère un sport individuel ?
 - Quelle expression Léa utilise-t-elle pour donner son opinion ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel sport pratiques-tu, et avec qui ?
 - Préfères-tu un sport individuel ou un sport d'équipe ? Pourquoi ?
 - À ton avis, qu'est-ce qu'une équipe apporte de plus qu'un sport individuel ?
 - T'est-il déjà arrivé de gagner ou de perdre en équipe ? Quel effet cela fait-il ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Mot / expression | Sens |
@@ -130,10 +160,9 @@ Exemple : *À mon avis, le sport d'équipe est plus motivant.*
 
 ### D. Note culturelle — Le sport scolaire en France
 
-En France, le sport scolaire du secondaire est organisé par l'UNSS (Union nationale du sport scolaire), une fédération créée en 1938. Les rencontres ont surtout lieu le mercredi après-midi. L'UNSS propose plus d'une centaine d'activités, des sports collectifs (football, handball, basket) aux disciplines individuelles (athlétisme, natation). Un point intéressant : les élèves ne sont pas seulement joueur·euse·s — ils peuvent aussi devenir « jeunes officiels », c'est-à-dire arbitres ou organisateurs des rencontres. Cela développe l'autonomie et l'esprit d'équipe. *(Faits paraphrasés de Wikipédia, CC BY-SA — voir Sources.)*
+En France, le sport scolaire du secondaire est organisé par l'UNSS (Union nationale du sport scolaire), une fédération créée en 1975, précédée notamment par l'OSSU fondé en 1938. Les rencontres ont surtout lieu le mercredi après-midi. L'UNSS propose plus d'une centaine d'activités, des sports collectifs (football, handball, basket) aux disciplines individuelles (athlétisme, natation). Un point intéressant : les élèves ne sont pas seulement joueur·euse·s — ils peuvent aussi devenir « jeunes officiels », c'est-à-dire arbitres ou organisateurs des rencontres. Cela développe l'autonomie et l'esprit d'équipe. *(Faits paraphrasés de Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du règlement (G).** Vrai ou faux ?
 
 1. Une équipe peut être composée uniquement de filles.
@@ -173,6 +202,7 @@ a) À mon avis, · b) Je trouve que · c) Pour moi, · d) Je pense que
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Faux (équipes mixtes obligatoires). 2) Vrai (2 × 12 min). 3) Vrai. 4) Faux (avant le 10 mars).
 
 **Ex. 2.** 1) du. 2) de la. 3) de l'. 4) au.
@@ -180,9 +210,9 @@ a) À mon avis, · b) Je trouve que · c) Pour moi, · d) Je pense que
 **Ex. 3.** a–1 · b–2 · c–3 · d–4 (d'autres associations logiques sont acceptées si la phrase a du sens).
 
 **Ex. 4.** Modèle : *s'inscrire · s'appelle · Six joueur·euse·s · capitaine.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (en binôme, environ 90 secondes).**
 
 A joue un·e élève qui veut s'inscrire ; B joue l'organisateur·rice du tournoi. A pose au moins **4 questions** et donne **une opinion** sur le sport choisi. B répond en s'appuyant sur le règlement.
@@ -196,40 +226,18 @@ Questions possibles : Combien de joueur·euse·s ? · Quelle est la durée d'un 
 - **Interaction :** on écoute et on réagit à son / sa partenaire.
 - **Prononciation :** message clair et compréhensible.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux dire quel sport je fais avec *faire du / de la / de l'*.
 - [ ] Je peux donner mon opinion avec *à mon avis*, *je trouve que*.
 - [ ] Je peux comprendre un règlement de tournoi court.
 - [ ] Je peux mener un dialogue d'inscription.
 - [ ] Je connais au moins 8 mots du sport collectif.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl08/units/unit07_sport-et-equipe_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen », 12 P.)**
-
-Lisez le règlement (partie C). Répondez en français par des phrases courtes.
-
-1. Combien de joueur·euse·s compte une équipe ?
-2. Quelle est la composition mixte obligatoire ?
-3. Quelle est la durée totale de jeu d'un match ?
-4. Combien de matchs minimum joue chaque équipe ?
-5. Que se passe-t-il à la troisième insulte ?
-6. Jusqu'à quelle date peut-on s'inscrire ?
-
-**Tâche 2 — Expression orale en interaction (« Sprechen — Dialog », 12 P.)**
-
-Menez un dialogue d'inscription avec un·e camarade (4 questions et réponses, plus une opinion). *Barème :* réalisation de la tâche 4 P. · langue 4 P. · prononciation 4 P.
-
-**Tâche 3 — Expression écrite (« Schreiben », 6 P.)**
-
-Décrivez en 4 phrases **votre équipe idéale** : quel sport, combien de joueur·euse·s, quelle ambiance, et donnez votre opinion sur l'esprit d'équipe.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min)**
 
@@ -246,5 +254,8 @@ Décrivez en 4 phrases **votre équipe idéale** : quel sport, combien de joueur
 **Points de vigilance linguistique.** *Arbitre* et *capitaine* sont invariables et s'emploient au masculin comme au féminin (*Léa est capitaine*). *Mixte* est un adjectif invariable en genre au singulier (*une équipe mixte*). Attention à *jouer au* (avec ballon) vs *faire de* (sport en général).
 
 ## Sources
+
+- UNSS — Histoire (vérification éditoriale du 31 octobre 2026), <https://www.unss.org/histoire>.
+
 
 - *Union nationale du sport scolaire* — Wikipédia (consulté en 2026), https://fr.wikipedia.org/wiki/Union_nationale_du_sport_scolaire — licence CC BY-SA 4.0.

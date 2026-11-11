@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md",
+  "exam": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam/index.md",
+  "before_unit_sha256": "b454901bb182a8e43900a21e560fa8a612789481044e91650433f1e6d470e78d",
+  "after_unit_sha256": "64626bdc80ed64e480a0314f0564486e4d57913605d9ae73cd6f232b44267542",
+  "before_exam_sha256": "3fb50b1119dc7cccfc20d694c8af8e42ce71225fa6c15488d2916dcd4726202d",
+  "after_exam_sha256": "98e2469fcd565749d6d38567e58954daaca9dd982b9cebf6898ad23ba107f777",
+  "source_sections": "B",
+  "supplied_source_sha256": "1908b4e80f5484137d7623a57080a5dd523d39ffc3cc71d582ed43e38c261d33",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual sectionB dialogue supplied; replaced source-absent prejudice definition with textual reasoning. Corrected solution from travel to conversation. Retained conditional language and respectful nuance writing."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "713b1e91bbbfa48cef5bde47e5dbbb5d5cb411f7189081f5b55f7279e189b345",
+      "after_sha256": "64626bdc80ed64e480a0314f0564486e4d57913605d9ae73cd6f232b44267542",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9b33bcbfe51a002b8cd79619ea1346c1612d09388d5d431f9200b2119b64a407",
+      "after_sha256": "792eac0ac9f373ce9d3dd01fe0c9a4103168d5912946a9c1d18d9f3612714b69",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "792eac0ac9f373ce9d3dd01fe0c9a4103168d5912946a9c1d18d9f3612714b69",
+      "after_sha256": "0f472f6ceba44f59e95d38df1862c2a58c9bd1232187e31e512227c38b74197c",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam/index.md",
+      "before_sha256": "0f472f6ceba44f59e95d38df1862c2a58c9bd1232187e31e512227c38b74197c",
+      "after_sha256": "98e2469fcd565749d6d38567e58954daaca9dd982b9cebf6898ad23ba107f777",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

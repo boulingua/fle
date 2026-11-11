@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 12
 slug: "bilan-classe-11"
 bildungsplan:
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.4 Expression orale — monologisches Expression orale"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Expression orale"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-classe-11.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-classe-11.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit12_bilan-classe-11.html"
+- "/track_e_kl11/units/unit12_bilan-classe-11.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.compensating.03
-    - B1.PROD.creative-writing.02
-    - B1.INT.formal-discussion.01
-    - B1.INT.notes-messages-and-forms.01
-    - B1.MED.facilitating-pluricultural-space.01
+  - B1.PROD.compensating.03
+  - B1.PROD.creative-writing.02
+  - B1.INT.formal-discussion.01
+  - B1.INT.notes-messages-and-forms.01
+  - B1.MED.facilitating-pluricultural-space.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit12_bilan-classe-11_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - writing
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-classe-11-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit12_bilan-classe-11-teacher.png
 audio_manifest: unit12_bilan-classe-11
 ---
 
@@ -71,15 +103,13 @@ audio_manifest: unit12_bilan-classe-11
 - Pourquoi M. Berger conseille-t-il d'**écrire** ses objectifs ?
 - Et vous : quelle phrase résumerait **votre** année de 11e ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **trois choses** que vous savez faire en français aujourd'hui et que vous ne saviez pas faire il y a un an.
 - Quelle unité de cette année vous a le plus **marqué·e** ? Pourquoi ?
 - Sur quelle compétence (compréhension, écrit, oral, médiation) vous sentez-vous **le moins à l'aise** ?
 - Que représente pour vous, en un mot, l'**année terminale** qui approche ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — bilan et perspectives
 
 | Français | Allemand | Exemple |
@@ -124,8 +154,7 @@ audio_manifest: unit12_bilan-classe-11
 
 Le **Cadre européen commun de référence pour les langues** (CECRL), publié en 2001 par le **Conseil de l'Europe**, propose une échelle commune pour décrire les compétences en langues. Il distingue **six niveaux** répartis en trois groupes : utilisateur élémentaire (**A1, A2**), utilisateur indépendant (**B1, B2**) et utilisateur expérimenté (**C1, C2**). Le Cadre inclut une **grille d'auto-évaluation** organisée autour de cinq activités langagières (écouter, lire, prendre part à une conversation, s'exprimer en continu, écrire). Cet outil aide chaque apprenant·e à situer son niveau et à formuler des objectifs concrets — exactement la démarche d'un bilan de fin d'année. *(Paraphrasé d'après Wikipédia, CC BY-SA ; voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension du texte C (niveau G).**
 Répondez par une phrase complète.
 
@@ -157,6 +186,7 @@ Formulez **trois priorités** personnelles pour l'année terminale, au **futur s
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. En compréhension et à l'écrit. 2. L'expression orale sans notes. 3. Trois priorités. 4. Un B2 solide, en visant le C1 pour la compréhension écrite.
 
@@ -171,9 +201,9 @@ Formulez **trois priorités** personnelles pour l'année terminale, au **futur s
 {{< callout type="tip" title="Différenciation" >}}
 **G :** l'exercice 1 peut se faire en surlignant les réponses directement dans le texte C. **M :** fournir un mémo des terminaisons du futur pour l'exercice 2. **E :** exiger à l'exercice 4 au moins un verbe irrégulier et un connecteur (*d'abord, ensuite, enfin*).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — monologue suivi (2 à 3 minutes).**
 
 Préparez et présentez un court monologue intitulé **« Mon bilan de 11e et mes trois priorités pour la terminale »**. Vous mentionnerez :
@@ -193,31 +223,18 @@ Parlez sans lire vos notes intégralement : appuyez-vous sur un plan de quelques
 | Langue | futur simple correct, vocabulaire du bilan employé |
 | Aisance orale | débit régulier, peu de lecture, prononciation soignée |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue mes **acquis** et mes **lacunes** de l'année.
 - [ ] J'emploie correctement le **futur simple** pour me projeter.
 - [ ] Je formule **trois priorités** concrètes pour la terminale.
 - [ ] Je situe mon **niveau CECRL** avec un objectif réaliste.
 - [ ] Je m'exprime en **continu** pendant 2 à 3 minutes sans tout lire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve écrite et orale — bilan et perspectives (E).**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit12_bilan-classe-11_exam" >}}).
 
-**Tâche 1 — Expression écrite (« Schreiben », 20 P.).**
-Rédigez votre **note de bilan de 11e** (environ 250 mots) comprenant : deux acquis, une lacune, trois priorités pour la terminale (au futur simple) et un objectif chiffré. Structure introduction / développement / conclusion attendue.
-
-*Barème :* contenu 8 · structure et connecteurs 4 · richesse lexicale 4 · correction grammaticale (dont futur) 4.
-
-**Tâche 2 — Expression orale monologique (« Sprechen », 10 P.).**
-Présentez oralement, en 2 à 3 minutes, vos **trois priorités** pour l'année terminale et la raison de chacune.
-
-*Barème :* contenu et pertinence 4 · structure du monologue 3 · langue et aisance 3.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 3
 slug: "ecologie-au-quotidien"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_ecologie-au-quotidien.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_ecologie-au-quotidien.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit03_ecologie-au-quotidien.html"
+- "/track_gm_kl09/units/unit03_ecologie-au-quotidien.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-audio-media-and-recordings.01
-    - A2.INT.correspondence.01
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.INT.conversation.08
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-audio-media-and-recordings.01
+  - A2.INT.correspondence.01
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit03_ecologie-au-quotidien_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_ecologie-au-quotidien-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_ecologie-au-quotidien-teacher.png
 audio_manifest: unit03_ecologie-au-quotidien
 ---
 
@@ -71,8 +103,7 @@ audio_manifest: unit03_ecologie-au-quotidien
 2. Que veut dire « flexitarien·ne », d'après Léa ?
 3. Quels deux gestes Théo propose-t-il à la fin ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, à deux, en une phrase complète.
 
 - Que faites-vous déjà pour la planète ?
@@ -84,8 +115,7 @@ Répondez oralement, à deux, en une phrase complète.
 **Astuce d'amorçage :** notez au tableau tous les verbes d'action que la classe connaît déjà (*trier, éteindre, recycler, économiser…*). Cette liste servira de réservoir pour la suite.
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — huit gestes écologiques
 
 | Français | Allemand |
@@ -111,12 +141,14 @@ Répondez oralement, à deux, en une phrase complète.
 - **il est important de** + infinitif : *Il est important de réparer les objets.*
 - **il vaut mieux** + infinitif : *Il vaut mieux acheter d'occasion.*
 
-**Attention :** *il faut* est impersonnel — il ne change jamais de forme et il est toujours suivi d'un infinitif (ou de *de* + infinitif). On ne dit pas *« il faut que je trie »* à ce niveau : on reste à l'infinitif.
+**Attention :** *falloir* est impersonnel : *il faut, il fallait, il faudra, il faudrait*. Dans ces exercices, employez *il faut + infinitif*, sans *de* : *il faut trier*. La construction *il faut que + subjonctif* est également correcte (*il faut que je trie*), mais elle n'est pas demandée ici.
 {{< /callout >}}
 
-### C. Texte — « Le climat change, et nous ? » (texte original)
+### C. Texte — « Le climat change, et nous ? » (scénario chiffré fictif)
 
-> Chaque personne qui vit en France produit en moyenne un peu plus de **huit tonnes** de gaz à effet de serre par an. C'est beaucoup ! Pour protéger le climat, il faudrait réduire ce chiffre de moitié.
+Les chiffres servent à l'exercice de lecture; ils ne sont ni un inventaire national ni un objectif climatique officiel.
+
+> Dans une population fictive étudiée pour cet exercice, chaque personne produit en moyenne un peu plus de **huit tonnes** de gaz à effet de serre par an. C'est beaucoup ! Dans le scénario, le groupe se fixe un objectif de réduction de moitié, sans prétendre que ce seuil suffirait à atteindre un objectif climatique mondial.
 >
 > Trois domaines pèsent le plus lourd. D'abord, **l'alimentation** : ce que nous mangeons représente près d'un quart de notre empreinte. Ensuite, **le logement** : le chauffage et l'électricité comptent pour un peu moins d'un quart. Enfin, **les transports** : la voiture et l'avion pèsent eux aussi environ un cinquième.
 >
@@ -124,10 +156,9 @@ Répondez oralement, à deux, en une phrase complète.
 
 ### D. Note culturelle
 
-En France, la répartition de l'empreinte carbone moyenne d'un habitant est suivie chaque année par les services publics. Les données montrent que trois postes dominent — **l'alimentation, le logement et les transports** —, chacun représentant environ un cinquième à un quart du total. Ces chiffres sont publiés en accès libre par le service statistique du ministère chargé de l'environnement et par l'Insee, ce qui permet à chacun de comprendre où agir en priorité (source paraphrasée, voir *Sources*).
+En France, la répartition de l'empreinte carbone moyenne d'un habitant est suivie chaque année par les services publics. Les statistiques distinguent notamment **l'alimentation, le logement et les transports**. Leurs parts dépendent de l'année et du périmètre; les fractions du texte C sont celles d'un scénario fictif et ne doivent pas être attribuées à ces sources. Ces chiffres sont publiés en accès libre par le service statistique du ministère chargé de l'environnement et par l'Insee, ce qui permet à chacun de comprendre où agir en priorité (source paraphrasée, voir *Sources*).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).**
 Répondez par une phrase complète.
 
@@ -170,9 +201,10 @@ Reliez le geste à son effet.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Un peu plus de huit tonnes de gaz à effet de serre par an.
-2. Il faudrait le réduire de moitié.
+2. Dans le scénario, le groupe se fixe une réduction de moitié; ce n'est pas un objectif mondial établi.
 3. L'alimentation, le logement et les transports.
 4. Non, il ne faut pas être parfait ; il est important de commencer.
 
@@ -188,9 +220,9 @@ Reliez le geste à son effet.
 **Ex. 4.** Réponses libres. Exemples —
 *Pour :* on réduit l'empreinte carbone ; c'est souvent moins cher ; cela fait découvrir de nouveaux plats.
 *Contre :* certains élèves veulent le choix ; un repas végétarien mal préparé n'est pas apprécié ; il faut varier pour l'équilibre.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (Niveau M, en binôme, environ 12 répliques).**
 
 A et B discutent d'un dilemme écologique du quotidien, par exemple :
@@ -211,8 +243,7 @@ A et B discutent d'un dilemme écologique du quotidien, par exemple :
 | Langue | phrases compréhensibles, vocabulaire du thème |
 | Fluidité | on parle sans lire, avec des pauses naturelles |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire.
 
 - [ ] Je nomme huit gestes écologiques du quotidien.
@@ -221,29 +252,11 @@ Cochez ce que vous savez faire.
 - [ ] Je donne deux arguments *pour* et deux arguments *contre*.
 - [ ] Je réagis poliment à l'opinion de mon/ma partenaire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M · Total : 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit03_ecologie-au-quotidien_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») — 10 points.**
-Lecture d'un court article sur l'empreinte carbone (type texte C) suivi de 5 questions (2 points chacune).
-
-**Tâche 2 — Grammaire / point de langue — 8 points.**
-Transformer 6 ordres en conseils avec *il faut / on devrait / il est important de* + infinitif (barème : 1 point la tournure correcte, 0,5 point le reste ; répartition arrondie sur 8).
-
-**Tâche 3 — Expression écrite (« Schreiben ») — 12 points.**
-Prise de position d'environ 120 mots sur un dilemme écologique au choix (*avion / voiture / viande / achats d'occasion*), avec au moins deux arguments et une conclusion.
-
-**Barème global :**
-
-| Tâche | Compétence | Points |
-|---|---|---|
-| 1 | Compréhension écrite | 10 |
-| 2 | Correction linguistique (conseil) | 8 |
-| 3 | Expression écrite (prise de position) | 12 |
-| **Total** | | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' · Produire 13' · Réfléchir 2' · Aperçu de la séance suivante 2'.
 

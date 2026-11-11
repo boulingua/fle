@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 11
 slug: "abitur-mock-final"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_abitur-mock-final.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_abitur-mock-final.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit11_abitur-mock-final.html"
+- "/track_e_kl13/units/unit11_abitur-mock-final.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.reports-and-essays.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.PROD.sustained-monologue-putting-a-case.01
-    - B2.REC.identifying-cues-and-inferring.01
-    - B2.MED.overall-mediation.02
+  - B2.PROD.reports-and-essays.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.PROD.sustained-monologue-putting-a-case.01
+  - B2.REC.identifying-cues-and-inferring.01
+  - B2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit11_abitur-mock-final_exam
+  format: existing-assessment
+  duration_minutes: 90
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_abitur-mock-final-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_abitur-mock-final-teacher.png
 audio_manifest: unit11_abitur-mock-final
 ---
 
@@ -71,8 +103,7 @@ Dernière semaine avant l'épreuve. Dans la salle 214, l'enseignante distribue l
 2. Que faites-vous quand une question vous bloque ?
 3. Combien de minutes réservez-vous à la relecture ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Avant de vous lancer, faites le point sur vos examens blancs précédents.
 
 - Quelle a été votre note moyenne aux derniers examens blancs ?
@@ -80,8 +111,7 @@ Avant de vous lancer, faites le point sur vos examens blancs précédents.
 - Quel type de tâche vous inquiète le plus : la compréhension écrite ou l'expression écrite ? Pourquoi ?
 - Notez **un objectif chiffré** pour aujourd'hui (par ex. « rédiger au moins 350 mots », « garder 20 minutes de relecture »).
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'examen et de la francophonie
 
 | Français | Catégorie | Équivalent / explication |
@@ -155,8 +185,7 @@ domaines de la langue, de l'éducation, de la culture et de la
 coopération. *(Faits paraphrasés d'après l'article « Francophonie » de
 Wikipédia en français, licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (repérage).** Relisez le texte
 B et répondez par une phrase complète.
 
@@ -188,6 +217,7 @@ relecture.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Trois villes parmi : Dakar, Montréal, Bruxelles, Port-au-Prince, Paris.
 2. Le 20 mars.
@@ -205,9 +235,9 @@ tous se comprennent.
 **Exercice 4 (modèle).** Compréhension écrite ≈ 25 min · Expression
 écrite ≈ 50 min · Relecture ≈ 15 min. (Total 90 min ; toute
 répartition gardant ≥ 10 min de relecture est valable.)
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'expression écrite (écrit, ~40 min en classe).**
 
 À partir du texte B, rédigez un texte structuré de **250 à 300 mots**
@@ -233,8 +263,7 @@ Consignes :
 | Correction | orthographe, accords, ponctuation | 2 |
 | **Total** | | **12** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce qui est vrai pour vous aujourd'hui.
 
 - [ ] J'ai lu **toutes** les consignes avant de rédiger.
@@ -244,33 +273,11 @@ Cochez ce qui est vrai pour vous aujourd'hui.
 - [ ] J'ai gardé du temps pour la relecture.
 - [ ] Je peux nommer **deux axes de progrès** pour l'épreuve réelle.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve écrite — compréhension et expression (Niveau E, ~90 min)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit11_abitur-mock-final_exam" >}}).
 
-Support : le texte B « Une langue, plusieurs voix ».
-
-**Partie 1 — Compréhension écrite (10 points)**
-
-1. Relevez, avec vos propres mots, les **deux positions** opposées présentées dans le texte à propos de la diffusion du français. *(4 P.)*
-2. Expliquez l'image de la « rivière » et ce qu'elle dit d'une langue. *(3 P.)*
-3. Citez deux régions du monde évoquées dans le texte et dites ce qu'elles montrent. *(3 P.)*
-
-**Partie 2 — Expression écrite (20 points)**
-
-Rédigez un texte argumenté de **300 à 350 mots** : *« La diversité
-de la francophonie : richesse ou obstacle ? »* Défendez une position
-nuancée (thèse, contre-argument, conclusion).
-
-| Barème détaillé (expression écrite) | Points |
-|---|---|
-| Contenu et argumentation | 8 |
-| Structure et connecteurs | 6 |
-| Richesse et correction de la langue | 6 |
-
-**Total de l'épreuve : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée de la séance :** 45 minutes.
 

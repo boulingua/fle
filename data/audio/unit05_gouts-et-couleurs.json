@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit05_gouts-et-couleurs/index.md",
-    "source_body_sha256": "cc861883bfd0a910012d55d81b33ba10db2310f4d12537feda75835f53e2fc9a",
+    "source_body_sha256": "d7bb0f4232c655d61c0f161994b75063a48a912408c5e036b60e7a3a885791b0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk : Oh, ton sac est vert ! J'adore cette couleur. Tristan : Merci ! Moi, je préfère le bleu, mais le vert va bien avec ma veste. Anouk : Mon sac est rouge, comme mes baskets. Tu aimes le rouge ? Tristan : Bof… je n'aime pas trop le rouge. C'est trop vif pour moi. Anouk : Et le orange ? Regarde ma trousse ! Tristan : Ça, j'adore ! L'orange, c'est joyeux."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit05_gouts-et-couleurs/index.md",
-    "source_body_sha256": "cc861883bfd0a910012d55d81b33ba10db2310f4d12537feda75835f53e2fc9a",
+    "source_body_sha256": "d7bb0f4232c655d61c0f161994b75063a48a912408c5e036b60e7a3a885791b0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "rouge.\nbleu / bleue.\njaune.\nvert / verte.\nnoir / noire.\nblanc / blanche.\norange.\nviolet / violette.\nrose.\ngris / grise."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit05_gouts-et-couleurs/index.md",
-    "source_body_sha256": "cc861883bfd0a910012d55d81b33ba10db2310f4d12537feda75835f53e2fc9a",
+    "source_body_sha256": "d7bb0f4232c655d61c0f161994b75063a48a912408c5e036b60e7a3a885791b0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "j'adore.\nj'aime (bien).\nje préfère.\nje n'aime pas (trop).\nje déteste."
@@ -58,7 +58,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit05_gouts-et-couleurs/index.md",
-    "source_body_sha256": "cc861883bfd0a910012d55d81b33ba10db2310f4d12537feda75835f53e2fc9a",
+    "source_body_sha256": "d7bb0f4232c655d61c0f161994b75063a48a912408c5e036b60e7a3a885791b0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "— Léa, tu aimes la peinture ? — Oui, j'adore ! Je peins souvent le week-end. — Et quelles couleurs tu utilises ? — Beaucoup de bleu et de vert, parce que je peins des paysages. — Moi, je préfère le noir et le blanc. Je fais des dessins au crayon. — Le noir et le blanc, c'est élégant ! Mais moi, sans couleur, je m'ennuie. — Chacun ses goûts !"

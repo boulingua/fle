@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 12
 slug: "bilan-fin-sek-i"
 bildungsplan:
-  - "3.1.3.4 Expression orale — monologisches Expression orale"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Expression orale"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-fin-sek-i.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-fin-sek-i.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit12_bilan-fin-sek-i.html"
+- "/track_e_kl10/units/unit12_bilan-fin-sek-i.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.PROD.sustained-monologue-giving-information.03
-    - B1.INT.formal-discussion.01
-    - B1.MED.note-taking.02
-    - B1.MED.processing-text.02
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.PROD.sustained-monologue-giving-information.03
+  - B1.INT.formal-discussion.01
+  - B1.MED.note-taking.02
+  - B1.MED.processing-text.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit12_bilan-fin-sek-i_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-fin-sek-i-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit12_bilan-fin-sek-i-teacher.png
 audio_manifest: unit12_bilan-fin-sek-i
 ---
 
@@ -69,15 +101,13 @@ audio_manifest: unit12_bilan-fin-sek-i
 - Dans quel domaine Nils a-t-il le plus progressé ?
 - Selon Mme Lefèvre, à quoi sert un bilan ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelle unité de la Sekundarstufe I avez-vous **préférée** ? Pourquoi ?
 - Dans quel domaine (lecture, écriture, oral, médiation) vous sentez-vous le plus **à l'aise** ?
 - Citez **un acquis** dont vous êtes fier·ère depuis la 6e.
 - Que voudriez-vous **encore améliorer** au cycle terminal ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du bilan
 
 | Français | Allemand |
@@ -113,8 +143,7 @@ Exemple : *Au début, je **bloquais** sur chaque mot ; puis j'**ai appris** à d
 
 Le **Cadre européen commun de référence pour les langues** (CECRL) a été publié par le **Conseil de l'Europe** en 2001. Il décrit la maîtrise d'une langue sur six niveaux répartis en trois groupes : **A** (utilisateur élémentaire : A1, A2), **B** (utilisateur indépendant : B1, B2) et **C** (utilisateur expérimenté : C1, C2). Chaque niveau est formulé avec des descripteurs « je peux… », ce qui permet à l'apprenant·e de s'autoévaluer plutôt que d'être seulement noté·e. Le CECRL sert de référence commune dans toute l'Europe pour comparer diplômes et compétences (d'après l'article *Cadre européen commun de référence pour les langues*, Wikipédia, licence CC BY-SA).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).**
 
 1. Que savait faire Nils en 6e ?
@@ -146,6 +175,7 @@ Le **Cadre européen commun de référence pour les langues** (CECRL) a été pu
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Réciter l'alphabet ; il confondait *le* et *la*. 2) Qu'il pouvait comprendre une histoire (BD) entière. 3) Point fort : la lecture (dégager l'essentiel d'un article) ; point faible : la grammaire (les accords). 4) Parler plus spontanément, sans traduire chaque phrase mentalement.
 
 **Ex. 2.** 1) ne comprenais rien (imparfait). 2) ai osé (passé composé). 3) lis (présent). 4) confondions (imparfait).
@@ -153,9 +183,9 @@ Le **Cadre européen commun de référence pour les langues** (CECRL) a été pu
 **Ex. 3.** A1 et A2 = utilisateur élémentaire · B1 et B2 = utilisateur indépendant.
 
 **Ex. 4.** 1) dresser un bilan. 2) faire des progrès / progresser. 3) un point fort. 4) se fixer un objectif. 5) l'autoévaluation.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — monologue-bilan (E, 1 à 2 minutes).**
 
 Préparez et présentez un court **monologue** sur vos cinq années de français. Structurez-le ainsi :
@@ -172,27 +202,18 @@ Préparez et présentez un court **monologue** sur vos cinq années de français
 - **Communication** : débit fluide, prise de parole libre (fiche de notes autorisée, texte lu interdit).
 - **Contenu** : les exemples sont concrets et personnels.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux raconter mon parcours en reliant passé et présent.
 - [ ] Je peux nommer un point fort et un point faible.
 - [ ] Je peux situer mon niveau sur l'échelle du CECRL.
 - [ ] Je peux me fixer un objectif pour la Kursstufe.
 - [ ] Je peux tenir un monologue d'une minute sans lire mon texte.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve de fin de Sekundarstufe I (E) — 30 points.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit12_bilan-fin-sek-i_exam" >}}).
 
-**Partie A — Expression orale / monologue (15 P.).**
-Présentez votre bilan de français en un monologue de 1 à 2 minutes (les quatre étapes de la tâche « Produire »).
-*Barème :* structure et connecteurs 5 P. · correction de la langue (temps du passé, vocabulaire) 6 P. · fluidité et prise de parole libre 4 P.
-
-**Partie B — Expression écrite / CV scolaire (15 P.).**
-Rédigez votre **CV scolaire** francophone (environ 200 mots), en cinq rubriques : état civil, formation, expériences, compétences (dont niveau CECRL), centres d'intérêt.
-*Barème :* rubriques complètes et pertinentes 5 P. · correction linguistique 6 P. · présentation et concision 4 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée :** 45 min.
 **Déroulement indicatif :** Situation de départ + Activer 6' · Apporter (vocabulaire, point de langue, texte, note culturelle) 13' · S'entraîner 12' · Produire (préparation + deux ou trois passages) 11' · Réfléchir 3'.

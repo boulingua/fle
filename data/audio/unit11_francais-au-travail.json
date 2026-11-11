@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
-    "source_body_sha256": "a4d2e681996eb520ae26d4d0024794f37544c541601a1768157d56437173d8cb",
+    "source_body_sha256": "e694125445a67c9521ed77b4dffcd6a6dca7a313ede736754484053d4ea5e73a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "B. Texte source (allemand) — message à médier"
@@ -27,7 +27,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
-    "source_body_sha256": "a4d2e681996eb520ae26d4d0024794f37544c541601a1768157d56437173d8cb",
+    "source_body_sha256": "e694125445a67c9521ed77b4dffcd6a6dca7a313ede736754484053d4ea5e73a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "B. Texte source (allemand) — message à médier"
@@ -45,7 +45,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
-    "source_body_sha256": "a4d2e681996eb520ae26d4d0024794f37544c541601a1768157d56437173d8cb",
+    "source_body_sha256": "e694125445a67c9521ed77b4dffcd6a6dca7a313ede736754484053d4ea5e73a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "B. Texte source (allemand) — message à médier"
@@ -63,7 +63,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
-    "source_body_sha256": "a4d2e681996eb520ae26d4d0024794f37544c541601a1768157d56437173d8cb",
+    "source_body_sha256": "e694125445a67c9521ed77b4dffcd6a6dca7a313ede736754484053d4ea5e73a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "B. Texte source (allemand) — message à médier"

@@ -23,63 +23,57 @@ curriculum:
     - B1.MED.breaking-down-complicated-information.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez l'extrait *Les Années* (Unité 1, texte C). Répondez :
+## Support
 
-1. Quel est l'incipit du livre ?
-2. Quelles 3 images personnelles sont citées ?
-3. À quelle époque renvoie *La Famille Mora* ?
-4. Que veut « sauver » la narratrice ?
-5. Comment qualifie-t-elle ce projet ?
+### C. Texte — « La cuisine du dimanche » (texte original)
 
-### Tâche 2 — Genres autobiographiques (8 points)
+> La cuisine sentait le café réchauffé et le linge humide. Ma grand-mère se tenait
+> devant la fenêtre, les mains dans la farine, et ne parlait presque pas. Sur la table
+> cirée, il y avait toujours le même bol ébréché et la même nappe à carreaux rouges.
+> Le dimanche, la radio grésillait dans la pièce d'à côté ; des voix annonçaient des
+> nouvelles qui ne nous concernaient pas. Dehors, les usines étaient fermées et la rue
+> restait vide. Je croyais que ces matins-là ne finiraient jamais, qu'ils étaient le
+> monde entier. Aujourd'hui, la maison n'existe plus, mais l'odeur revient dès que
+> j'ouvre un paquet de café.
 
-Reliez chaque genre à sa définition :
+*(Texte original rédigé pour cette unité, dans la tradition de l'« écriture de soi ». Domaine du cours.)*
 
-- autobiographie · autofiction · récit transpersonnel ·
- journal intime · mémoires · témoignage
+### Tâche 1 — Compréhension écrite (10 points)
 
-(Définitions : « je » + vérité · « je » + fiction · « je » →
-« nous » · au jour le jour · vie publique · expérience
-collective.)
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+1. Dans quelle pièce et quel jour la scène se déroule-t-elle ?
+2. Quelles sont les deux odeurs évoquées au début ?
+3. Où se tient la grand-mère et que porte-t-elle sur les mains ?
+4. Que fait la radio et quel état de la rue contraste avec elle ?
+5. Qu’est devenue la maison et qu’est-ce qui fait revenir le souvenir ?
 
-À la manière d'Ernaux, rédigez votre **page d'écriture de
-soi** (~250 mots) : 5 images personnelles + 2 collectives
-+ 1 incipit + 1 chute.
+### Tâche 2 — Langue (8 points)
 
-## Notation
+Pour chaque observation, citez un élément du texte et expliquez son effet.
+1. Un détail visuel.
+2. Un détail sonore.
+3. Un imparfait qui décrit une habitude ou un décor.
+4. Le passage du passé au présent dans la dernière phrase.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Genres | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+**Barème :** 4 observations × 2 points : citation/repérage 1, effet 1.
 
-## Solutions
+### Tâche 3 — Production (12 points)
 
-**Tâche 1.** 1) *Toutes les images disparaîtront.* 2) Femme
-accroupie urinant ; Claude Piéplu dans *La Famille Mora* ;
-mari devant la cuisinière à charbon. 3) 1969. 4) Ses images
-personnelles + collectives. 5) *« Ce qu'on appelle une vie. »*
+Écrivez une page originale d’écriture de soi de 200 à 250 mots : un incipit, une scène à l’imparfait, trois détails sensoriels, un élément d’époque partagé et une chute. Vous pouvez inventer le narrateur et tous les souvenirs; aucune révélation personnelle n’est exigée. Ne recopiez pas un texte d’une autrice étudiée.
 
-**Tâche 2.** autobiographie = « je » + vérité ; autofiction
-= « je » + fiction ; transpersonnel = « je » → « nous » ;
-journal = au jour le jour ; mémoires = vie publique ;
-témoignage = expérience collective.
+**Barème :** Contenu et exemples : 4 points; structure : 3; langue et lexique : 3; précision des références et adaptation : 2.
 
-**Tâche 3.** Réponses libres. Critères : 250 mots · 5 images
-perso · 2 collectives · 1 incipit · 1 chute.
-
----
+## Barème total
 
 {{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
 **Total.** 30 points
@@ -94,4 +88,31 @@ perso · 2 collectives · 1 incipit · 1 chute.
 | 0–8 | 6 |
 {{< /callout >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 1*
+*Ce barème reprend les seuils du sujet antérieur; il est proposé pour ces tâches seulement, sans valeur de certification GER ou de règlement scolaire.*
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Tâche 1.**
+
+1. Cuisine; dimanche (1 + 1). 2. Café réchauffé; linge humide (1 + 1). 3. Devant la fenêtre; farine (1 + 1). 4. Elle grésille/des voix annoncent les nouvelles; rue vide (1 + 1). 5. Elle n’existe plus; odeur du café (1 + 1). Texte original du cours, pas extrait d’Ernaux.
+
+**Tâche 2.** 1. Bol ébréché/nappe rouge/fenêtre : ancrage concret. 2. Radio grésillait : ambiance. 3. Sentait/se tenait/il y avait/restait, avec fonction expliquée. 4. Aujourd’hui/n’existe/revient : disparition du lieu mais persistance sensorielle. Autres indices justifiés admis.
+
+**Tâche 3.** Évaluer l’originalité de la scène, les détails et leur fonction, l’imparfait, le lien individuel/collectif et la chute. Le caractère fictif est autorisé et ne réduit pas la note.
+
+{{< /details >}}
+
+## Sources
+
+- *Annie Ernaux* — Wikipédia (contributeurs), consulté en 2026 — <https://fr.wikipedia.org/wiki/Annie_Ernaux> — CC BY-SA 4.0.
+- *The Nobel Prize in Literature 2022* — The Nobel Foundation (2022) — <https://www.nobelprize.org/prizes/literature/2022/summary/> — © Nobel Foundation (page de référence, non citée).
+- *Imparfait* — Wiktionnaire / Wikipédia (contributeurs), consulté en 2026 — <https://fr.wikipedia.org/wiki/Imparfait> — CC BY-SA 4.0.
+- Textes « La cuisine du dimanche » et dialogue de la *Situation de départ* : originaux, rédigés pour cette unité (domaine du cours).
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

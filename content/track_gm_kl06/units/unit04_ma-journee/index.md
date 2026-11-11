@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 4
 slug: "ma-journee"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.8 Moyens linguistiques — grammaire"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
 - speaking_production
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_ma-journee.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_ma-journee.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit04_ma-journee.html"
+- "/track_gm_kl06/units/unit04_ma-journee.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.conversation.01
-    - A1.INT.correspondence.01
+  - A1.PROD.creative-writing.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.conversation.01
+  - A1.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit04_ma-journee_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_ma-journee-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit04_ma-journee-teacher.png
 audio_manifest: unit04_ma-journee
 ---
 
@@ -68,8 +100,7 @@ Léa et son correspondant belge, Timo, discutent en visio.
 - Que fait-il le matin avant de partir ?
 - Et toi, à quelle heure te lèves-tu le lundi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En classe, à l'oral, chacun répond rapidement :
 
 - À quelle heure te lèves-tu le matin ?
@@ -81,8 +112,7 @@ En classe, à l'oral, chacun répond rapidement :
 **Astuce :** notez au tableau tous les verbes de la « journée » que la classe connaît déjà (*se lever, manger, aller, faire…*). Vous les réutiliserez à l'étape *Produire*.
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand | Exemple |
@@ -130,8 +160,7 @@ Devant une voyelle, *me / te / se* deviennent *m' / t' / s'* : *je **m'**habille
 
 D'après l'encyclopédie libre Wikipédia, l'école primaire française est organisée sur plusieurs demi-journées du lundi au vendredi. La journée commence souvent vers 8 h 30 et se termine autour de 16 h 30, et les élèves passent en moyenne environ six heures par jour en classe. Beaucoup d'écoles proposent aussi une garderie jusqu'à 18 heures. Le rythme diffère donc de l'emploi du temps allemand, qui se termine souvent plus tôt l'après-midi.
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Verbes pronominaux.** Complétez avec le bon pronom réfléchi.
 
 1. Je ____ lève à 7 heures.
@@ -172,6 +201,7 @@ D'après l'encyclopédie libre Wikipédia, l'école primaire française est orga
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) me · 2) te · 3) s' · 4) nous · 5) se.
 
 **Ex. 2.** 1) Il est huit heures. 2) Il est dix heures et quart. 3) Il est une heure et demie. 4) Il est cinq heures moins le quart. 5) Il est midi.
@@ -179,9 +209,9 @@ D'après l'encyclopédie libre Wikipédia, l'école primaire française est orga
 **Ex. 3.** b – c – e – a – d.
 
 **Ex. 4.** 1) Elle se réveille à 6 h 45 (six heures quarante-cinq). 2) Elle mange des tartines (et boit du jus d'orange). 3) Elle va à l'école à vélo. 4) Elle se couche à 21 heures (neuf heures du soir).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, ~1 minute) :** *Raconte ta journée.*
 
 Présentez votre journée à l'oral, dans l'ordre chronologique, en 6 à 8 phrases. Utilisez au moins **3 verbes pronominaux** et **2 indications d'heure**.
@@ -197,32 +227,17 @@ Présentez votre journée à l'oral, dans l'ordre chronologique, en 6 à 8 phras
 - Indications d'heure correctes — 2 pts
 - Prononciation compréhensible, débit régulier — 2 pts
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais dire l'heure (heure pleine, et quart, et demie, moins le quart).
 - [ ] Je conjugue 3 verbes pronominaux au présent sans erreur de pronom.
 - [ ] J'utilise 4 marqueurs de temps différents.
 - [ ] Je raconte ma journée en 6 phrases dans le bon ordre.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit04_ma-journee_exam" >}}).
 
-**Tâche 1 — Grammaire (10 P.)**
-Conjuguez deux verbes pronominaux (*se lever*, *se laver*) aux six personnes.
-
-**Tâche 2 — Dire l'heure (8 P.)**
-Écrivez quatre heures données en toutes lettres (heure courante).
-
-**Tâche 3 — Compréhension écrite (« Lesen ») (7 P.)**
-Lisez le texte D et répondez à cinq questions sur la chronologie.
-
-**Tâche 4 — Expression écrite (« Schreiben ») (15 P.)**
-Décrivez votre journée en ~60 mots : au moins 3 verbes pronominaux, 2 indications d'heure et 3 marqueurs de temps.
-
-**Barème :** Grammaire 10 · Heure 8 · Lecture 7 · Écriture 15. **Total : 40 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 5' · Apporter (vocabulaire + grammaire + heure + texte) 15' · S'entraîner 12' · Produire 8' · Réfléchir 2' · Aperçu de la séance suivante 3'.
 

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 9
 slug: "memoire-et-traumatisme"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_memoire-et-traumatisme.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_memoire-et-traumatisme.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit09_memoire-et-traumatisme.html"
+- "/track_e_kl12/units/unit09_memoire-et-traumatisme.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.REC.overall-reading-comprehension.01
-    - B2.REC.reading-as-a-leisure-activity.01
-    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
-    - B2.MED.managing-interaction.03
-    - B2.SOC.sociolinguistic-appropriateness.02
+  - B2.REC.overall-reading-comprehension.01
+  - B2.REC.reading-as-a-leisure-activity.01
+  - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+  - B2.MED.managing-interaction.03
+  - B2.SOC.sociolinguistic-appropriateness.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit09_memoire-et-traumatisme_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_memoire-et-traumatisme-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit09_memoire-et-traumatisme-teacher.png
 audio_manifest: unit09_memoire-et-traumatisme
 ---
 
@@ -68,15 +100,13 @@ Dans la salle de documentation du lycée, Léa ouvre une chemise cartonnée trou
 2. Pourquoi Adrien dit-il que lire le nom « à voix haute » a de l'importance ?
 3. À votre avis, qu'est-ce qu'une « enquête mémorielle » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que signifie l'expression **« devoir de mémoire »** ? Donnez un exemple concret (monument, plaque, cérémonie).
 - Quelle est la différence entre **un souvenir personnel** et **une mémoire collective** ?
 - Un lieu peut-il **garder la trace** d'un événement ? Citez un lieu que vous connaissez.
 - Patrick Modiano a reçu le **prix Nobel de littérature en 2014**. À votre avis, pourquoi un écrivain de la mémoire est-il aujourd'hui reconnu ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — mémoire et traumatisme
 
 | Français | Catégorie | Aide (allemand) |
@@ -123,8 +153,7 @@ Après la Seconde Guerre mondiale, la société française a développé ce que 
 
 *Source paraphrasée : « Devoir de mémoire » et « Lieux de mémoire », Wikipédia (CC BY-SA) — voir Sources.*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C « La boîte de fer »).** Répondez par des phrases complètes.
 
 1. Où se trouvait la boîte et qui la gardait ?
@@ -158,6 +187,7 @@ a) une archive — b) l'oubli — c) un témoin — d) une trace — e) le deuil
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Au fond du grenier, derrière les draps ; la grand-mère la gardait. 2) Elle changeait de sujet / évitait le sujet. 3) Une photographie jaunie, un ticket de tramway, une enveloppe sans adresse (et, au dos de la photo, le prénom « Rachel » et une date interrompue). 4) « J'ai compris… que ma grand-mère avait passé sa vie à protéger un silence » (ou « Elle n'avait jamais prononcé ce prénom »). 5) Pour que ce prénom « cesse d'être seul » — pour lutter contre l'oubli / rendre son nom à la disparue.
 
 **Ex. 2.** a) retournions (imparfait, habitude). b) a apporté (passé composé, événement). c) était déjà partie (plus-que-parfait, antériorité). d) était (imparfait, description) ; avait écrit (plus-que-parfait, fait antérieur).
@@ -165,9 +195,9 @@ a) une archive — b) l'oubli — c) un témoin — d) une trace — e) le deuil
 **Ex. 3.** a-3 ; b-5 ; c-4 ; d-1 ; e-2.
 
 **Ex. 4.** Modèle : **l'objet-trace** (la photo jaunie) matérialise une présence disparue et rend l'absence concrète ; **la date interrompue** au dos suggère une vie brutalement arrêtée, ce qui crée chez le lecteur un sentiment de manque et l'invite à combler le vide. *(Toute réponse cohérente citant deux procédés du texte est acceptée.)*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~400 mots).**
 
 Rédigez **une courte enquête mémorielle originale**. Vous partez d'**une archive fictive** (une fiche, une photo, une lettre, un ticket…) liée à un lieu de votre choix, réel ou imaginé. Votre texte doit contenir :
@@ -190,37 +220,18 @@ Ne citez aucun texte de Modiano ; inspirez-vous seulement de sa **démarche** d'
 | Longueur et lisibilité | ~400 mots, structure claire | 2 |
 | **Total** | | **15** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux comprendre un texte littéraire sur la mémoire et repérer un silence / un non-dit.
 - [ ] Je peux nommer et analyser deux procédés d'une enquête mémorielle.
 - [ ] Je peux situer Modiano et l'idée de « devoir de mémoire » sans citer d'œuvre protégée.
 - [ ] Je distingue l'imparfait, le passé composé et le plus-que-parfait dans un récit.
 - [ ] Je peux rédiger ~400 mots d'enquête mémorielle originale avec une archive et une interprétation.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — Compréhension écrite + compétence textuelle et médiatique (Niveau E).**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit09_memoire-et-traumatisme_exam" >}}).
 
-Support : texte original « La boîte de fer » (section 2C).
-
-**Tâche 1 — Compréhension écrite (10 P.)**
-Répondez en français, par des phrases complètes :
-a) Résumez la situation initiale en deux phrases. (3 P.)
-b) Relevez trois objets contenus dans la boîte et dites ce qu'ils révèlent. (3 P.)
-c) Expliquez la phrase « Le vide… avait toujours eu la forme exacte de cette boîte fermée ». (4 P.)
-
-**Tâche 2 — Compétence textuelle et médiatique (12 P.)**
-d) Analysez comment le texte construit une « enquête mémorielle » (objet-trace, silence, date interrompue, motivation du narrateur) et l'effet sur le lecteur. (8 P.)
-e) En un court paragraphe, reliez cette démarche au « devoir de mémoire » et à l'œuvre de Modiano, sans citer son texte. (4 P.)
-
-**Tâche 3 — Langue (8 P.)**
-f) Repérez dans le texte deux plus-que-parfaits et justifiez leur emploi. (4 P.)
-g) Réécrivez le premier paragraphe au présent de narration. (4 P.)
-
-**Barème total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

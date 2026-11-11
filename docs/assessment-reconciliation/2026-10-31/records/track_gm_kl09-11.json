@@ -1,0 +1,52 @@
+{
+  "unit": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
+  "exam": "content/track_gm_kl09/units/unit11_francais-au-travail_exam/index.md",
+  "before_unit_sha256": "9325d71ba1279604aad8d372d94372294c6354d8ccaee56e94561227d1b12455",
+  "after_unit_sha256": "dfa6718b6ef10fecf388e47b6216023d1cf2cffa4d03fdcfa84208c036125bfa",
+  "before_exam_sha256": "4f8f4bf9fd1a9d41532f16aca713089c81a53f88a7263d1b0e8a1bc636ff13d2",
+  "after_exam_sha256": "1fbfb82dbdbf490be8df038f30ef027d8c501fdf31702410529a97179d3b91b1",
+  "source_sections": "embedded German rescheduled meeting",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "mediation",
+    "writing"
+  ],
+  "decisions": [
+    "Preservedcoherent14h/laptopembeddedvariationratherthanmergewith9h/USBunit; correctedGermanBrief/Briefing, noanswer-derivednewstimulus."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "520597a7cdc9d3556d982899b61524611ca19c65e5b8198a6b3abd9c8b407e72",
+      "before_sha256": "520597a7cdc9d3556d982899b61524611ca19c65e5b8198a6b3abd9c8b407e72",
+      "after_sha256": "dfa6718b6ef10fecf388e47b6216023d1cf2cffa4d03fdcfa84208c036125bfa",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9d200b7338319f0bef763aee584601de1650dd10dbe72ed8660b1aa77bb2a187",
+      "after_sha256": "5fe9fa351099d5b9c9a4912538d28dfd57e8519cea65094a4142998ff5f7253c",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit11_francais-au-travail_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "5fe9fa351099d5b9c9a4912538d28dfd57e8519cea65094a4142998ff5f7253c",
+      "after_sha256": "56c3123ab80eb1b8e1f180d829bf616468606a9e9f5f1ba28313f5a2a6e84357",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit11_francais-au-travail_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl09/units/unit11_francais-au-travail_exam/index.md",
+      "before_sha256": "56c3123ab80eb1b8e1f180d829bf616468606a9e9f5f1ba28313f5a2a6e84357",
+      "after_sha256": "1fbfb82dbdbf490be8df038f30ef027d8c501fdf31702410529a97179d3b91b1",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

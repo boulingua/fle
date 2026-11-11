@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 4
 slug: "francophonie-aujourd-hui-e"
 bildungsplan:
-  - "3.1.4 Compétence textuelle et médiatique"
-  - "3.1.3.4 Expression orale — monologisches Sprechen"
+- "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
 - speaking_production
 presentation:
@@ -19,22 +19,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui-e.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit04_francophonie-aujourd-hui-e.html"
+- "/track_e_kl10/units/unit04_francophonie-aujourd-hui-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.planning.02
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.MED.facilitating-pluricultural-space.03
-    - B1.MED.processing-text.02
-    - B1.INT.conversation.01
+  - B1.PROD.planning.02
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.MED.facilitating-pluricultural-space.03
+  - B1.MED.processing-text.02
+  - B1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_francophonie-aujourd-hui-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit04_francophonie-aujourd-hui-e-teacher.png
 audio_manifest: unit04_francophonie-aujourd-hui-e
 ---
 
@@ -70,8 +103,7 @@ Dans la salle 214, Mme Lefèvre affiche une carte du monde couverte de petits dr
 - Connaissez-vous une chanteuse, un écrivain ou un sportif francophone né hors de France ?
 - Que veut dire le mot *francophone* ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez spontanément, en groupe, avant de lire la suite.
 
 - Combien de pays, environ, sont membres de l'OIF ? (une dizaine ? cinquante ? plus de quatre-vingts ?)
@@ -83,8 +115,7 @@ Répondez spontanément, en groupe, avant de lire la suite.
 **Astuce :** notez vos réponses au brouillon. Vous les corrigerez vous-mêmes à la fin de la partie 2.
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Nature | Allemand |
@@ -140,8 +171,7 @@ La langue française y est présentée comme un espace partagé : on estime les 
 *Paraphrasé et cité — voir Sources.*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension du texte C.**
 Répondez par une phrase complète.
 
@@ -184,6 +214,7 @@ Préparez **quatre phrases** pour présenter un pays francophone de votre choix,
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Par exemple la Belgique et la Suisse (ou le Luxembourg).
 2. En Afrique, parce que la population jeune y est nombreuse.
@@ -197,9 +228,9 @@ Préparez **quatre phrases** pour présenter un pays francophone de votre choix,
 1. compte — 2. célébrons — 3. progresse — 4. parlez.
 
 **Exercice 4.** Réponses libres. Exemple : *Le Sénégal est un pays francophone situé en Afrique de l'Ouest. On y parle français comme langue officielle. Sa capitale est Dakar. Une chose intéressante : Léopold Sédar Senghor, poète et premier président du pays, était aussi membre de l'Académie française.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, environ 150 mots).**
 
 Rédigez le **portrait** d'une figure francophone contemporaine de votre choix (musique, littérature, cinéma, sport, sciences…). Organisez votre texte en trois paragraphes :
@@ -220,8 +251,7 @@ Employez le présent et le passé composé, et au moins **trois mots** de la lis
 | Lexique | au moins 3 mots de la liste réutilisés |
 | Longueur | environ 150 mots |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire.
 
 - [ ] Je distingue la **Francophonie** (institution, OIF) de la **francophonie** (les locuteurs).
@@ -230,27 +260,11 @@ Cochez ce que vous savez faire.
 - [ ] J'utilise correctement le **présent** pour décrire des faits.
 - [ ] J'ai rédigé un portrait d'environ 150 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam" >}}).
 
-**Tâche 1 — Compréhension de l'écrit (10 points).**
-Lisez le texte C. Répondez à cinq questions (2 points chacune) sur les pays cités, le continent en croissance, la date du 20 mars, le sigle OIF et une information de votre choix.
-
-**Tâche 2 — Lexique et grammaire (8 points).**
-Complétez quatre phrases à trous avec le vocabulaire de la francophonie (4 points) et conjuguez quatre verbes au présent (4 points).
-
-**Tâche 3 — Expression écrite / orale (12 points).**
-Au choix de l'enseignant·e selon le *skills_focus* :
-
-- **Écrit :** rédigez le portrait d'une figure francophone (environ 150 mots).
-- **Oral (monologue en continu) :** présentez, sans lire, une figure ou un pays francophone pendant une minute.
-
-**Barème détaillé (Tâche 3, 12 points) :** contenu 4 · structure 3 · langue 3 · lexique 2.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Minutage (45 min) :** Activer 5' · Apporter 13' · S'entraîner 12' · Produire 11' · Réfléchir 2' · Bilan / aperçu 2'.
 

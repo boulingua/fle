@@ -1,0 +1,100 @@
+---
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 9"
+subtitle: "Histoire et mémoire (Vichy, Algérie) · classe 11 · Niveau E (épreuve finale Bf)"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 9
+slug: "histoire-et-memoire-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-11
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.note-taking.02
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la note historique (Unité 9, texte C). Répondez :
+
+1. Date de la rafle du Vél d'Hiv ?
+2. Combien de personnes ? Combien d'enfants ?
+3. Combien d'années de silence officiel ?
+4. Quel président reconnaît la responsabilité, quand ?
+5. Combien de noms au Mémorial de la Shoah ?
+
+### Tâche 2 — Dates pivots (8 points)
+
+Reliez chaque date à son événement :
+
+- 16 juillet 1942 · 1ᵉʳ nov. 1954 · 17 oct. 1961 · 19 mars
+ 1962 · 16 juillet 1995 · 2018
+
+(Événements : Vél d'Hiv · Toussaint rouge · massacre Paris ·
+Accords d'Évian · discours Chirac · reconnaissance torture
+Algérie.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez une **note historique** (~300 mots) sur :
+
+- 17 octobre 1961 (massacre Paris) **OU**
+- 19 mars 1962 (Accords d'Évian)
+
+Structure : faits + 4 dates + 1 reconnaissance officielle +
+1 citation + 1 paragraphe « histoire vs mémoire ».
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Dates | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 16 juillet 1942. 2) 13 152 / 4 115 enfants.
+3) 50 ans (1944-1995). 4) Jacques Chirac, 16 juillet 1995.
+5) 76 000.
+
+**Tâche 2.** 16-VII-1942 = Vél d'Hiv · 1-XI-1954 =
+Toussaint rouge · 17-X-1961 = massacre Paris · 19-III-1962
+= Évian · 16-VII-1995 = Chirac · 2018 = Macron-torture
+Algérie.
+
+**Tâche 3.** Réponses libres. Critères : 300 mots · 4
+dates · 1 reconnaissance · 1 citation.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 9*

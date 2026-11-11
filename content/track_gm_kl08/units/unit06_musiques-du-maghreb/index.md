@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 6
 slug: "musiques-du-maghreb"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.4 Compétence textuelle et médiatique"
-  - "3.1.1 Connaissances socio-culturelles / thèmes"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.4 Compétence textuelle et médiatique"
+- "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
 - listening
 presentation:
@@ -20,22 +20,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_musiques-du-maghreb.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_musiques-du-maghreb.png"
 tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
+- filiere-gm
+- classe-8
+- niveau-m
 aliases:
-  - "/track_gm_kl08/units/unit06_musiques-du-maghreb.html"
+- "/track_gm_kl08/units/unit06_musiques-du-maghreb.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.reading-for-information-and-argument.03
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - A2.MED.adapting-language.01
-    - A2.PRAG.flexibility.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.reading-for-information-and-argument.03
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.MED.adapting-language.01
+  - A2.PRAG.flexibility.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl08/units/unit06_musiques-du-maghreb_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_musiques-du-maghreb-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_musiques-du-maghreb-teacher.png
 audio_manifest: unit06_musiques-du-maghreb
 ---
 
@@ -67,15 +98,13 @@ Vendredi, salle de musique. Madame Renault projette une carte du Maghreb : Maroc
 2. À votre avis, pourquoi Mme Renault demande une explication *avant* l'écoute ?
 3. Existe-t-il, dans votre entourage, une musique qui « voyage » entre deux cultures ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Connaissez-vous des artistes francophones d'origine maghrébine ?
 - Le mot **raï** vient de l'arabe : à votre avis, que peut-il signifier ?
 - Quels instruments imaginez-vous dans une musique du Maghreb ?
 - Quelle musique écoutent vos ami·e·s ? Passe-t-elle parfois d'une langue à une autre ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Mot | Sens |
@@ -129,8 +158,7 @@ Astuce : après **qui**, il y a tout de suite un verbe ; après **que**, il y a 
 *Paraphrasé d'après Wikipédia (fr), articles « Raï » et « Chaâbi (Algérie) », CC BY-SA 4.0.*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Reconnaître le genre.** Quel genre se cache derrière chaque description ?
 
 1. Née près d'Oran, voix puissantes, connue en Europe dans les années 1980.
@@ -165,6 +193,7 @@ a) une diaspora — b) le oud — c) la derbouka — d) la gasba
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) le raï · 2) le chaâbi · 3) le rap maghrébin.
 
 **Ex. 2.** 1) qui · 2) que · 3) qui · 4) que.
@@ -172,9 +201,9 @@ a) une diaspora — b) le oud — c) la derbouka — d) la gasba
 **Ex. 3.** 1) Faux (Marseille *et* Oran). · 2) Vrai (« deux pays », « aucun n'est fini »). · 3) Vrai (un écran = télé ou téléphone).
 
 **Ex. 4.** a–2 · b–4 · c–1 · d–3.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (Niveau M, ~1 min).**
 
 Présentez une chanson francophone de votre choix en deux ou trois phrases :
@@ -196,40 +225,18 @@ Présentez une chanson francophone de votre choix en deux ou trois phrases :
 | Vocabulaire | au moins deux mots de la leçon réemployés |
 | Fluidité | phrases compréhensibles, débit régulier |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue le raï, le chaâbi et le rap maghrébin.
 - [ ] Je comprends les informations principales d'un court extrait audio/vidéo.
 - [ ] Je repère les informations clés d'un court texte médiatique.
 - [ ] Je définis un genre avec *qui* ou *que*.
 - [ ] Je présente une chanson en deux ou trois phrases.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl08/units/unit06_musiques-du-maghreb_exam" >}}).
 
-**Tâche 1 — Compréhension orale / audiovisuelle (14 P.)**
-Vous écoutez le refrain (texte D, lu deux fois) puis répondez :
-
-1. Quels sont les **deux lieux** mentionnés ? (4 P.)
-2. Que signifie « aucun n'est vraiment fini » ? (4 P.)
-3. À votre avis, qui est la personne qui chante ? Qu'est-ce qui vous fait dire cela ? (6 P.)
-
-**Tâche 2 — Compétence textuelle et médiatique (10 P.)**
-Lisez les trois descriptions de genres (texte C). Reliez chaque indice au bon genre :
-
-a) Oran + voix puissantes + années 1980 → ______
-b) Alger + oud + mariages → ______
-c) Français-arabe-argot + double identité → ______
-
-Puis, en une phrase, définissez **un** de ces genres avec *qui* ou *que*. (4 P. reliage + 6 P. phrase)
-
-**Tâche 3 — Expression écrite (6 P.)**
-En trois phrases, présentez votre **chanson préférée** : genre, artiste et pourquoi. Utilisez au moins un pronom relatif.
-
-**Barème :** T1 = 14 · T2 = 10 · T3 = 6 · **Total = 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Situation + Activer 6' · Apporter (vocabulaire, point de langue, écoute, note culturelle) 15' · S'entraîner 12' · Produire (présentations courtes) 9' · Réfléchir 3'.
 

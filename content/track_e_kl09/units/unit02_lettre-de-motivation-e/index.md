@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 2
 slug: "lettre-de-motivation-e"
 bildungsplan:
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - writing
 presentation:
@@ -18,22 +18,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_lettre-de-motivation-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_lettre-de-motivation-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit02_lettre-de-motivation-e.html"
+- "/track_e_kl09/units/unit02_lettre-de-motivation-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.PROD.overall-oral-production.01
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - A2.MED.analysis-and-criticism-of-creative-texts.01
-    - A2.REC.reading-as-a-leisure-activity.04
+  - A2.PROD.creative-writing.04
+  - A2.PROD.overall-oral-production.01
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.MED.analysis-and-criticism-of-creative-texts.01
+  - A2.REC.reading-as-a-leisure-activity.04
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit02_lettre-de-motivation-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_lettre-de-motivation-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_lettre-de-motivation-e-teacher.png
 audio_manifest: unit02_lettre-de-motivation-e
 ---
 
@@ -67,15 +99,13 @@ Anouk cherche un stage d'observation en France. Elle montre son brouillon à son
 2. Quelle différence voyez-vous entre la clôture allemande et la clôture française ?
 3. Dans quelles situations écrit-on une lettre de motivation ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà rédigé une lettre formelle, en allemand ou en français ?
 - Que doit contenir, selon vous, une bonne candidature ?
 - *Vouvoiement* et *tutoiement* : quand emploie-t-on l'un ou l'autre ?
 - Quelles informations mettez-vous en haut d'une lettre (expéditeur, destinataire, date) ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la candidature
 
 | Français | Exemple / précision | Allemand |
@@ -132,8 +162,7 @@ Formation : radical du futur + terminaisons de l'imparfait (*-ais, -ais, -ait, -
 
 En France, la lettre de motivation accompagne traditionnellement le curriculum vitæ lors d'une candidature à un emploi, à un stage ou à une formation. Elle sert à exposer les raisons pour lesquelles on postule et à mettre en valeur l'adéquation entre le profil du candidat et le poste visé. Longtemps rédigée à la main, elle est aujourd'hui le plus souvent dactylographiée, mais certains recruteurs demandent encore un exemplaire manuscrit. On y attend un registre soutenu, une mise en page soignée et des formules de politesse conventionnelles. *(Paraphrasé de l'article « Lettre de motivation », Wikipédia, CC BY-SA 4.0.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase.
 
 a) À qui Anouk adresse-t-elle sa lettre ?
@@ -172,6 +201,7 @@ c) *Donnez-moi un rendez-vous.*
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 a) À la librairie Mollat, à Bordeaux.
 b) Un stage d'observation d'une semaine, en avril 2027.
@@ -190,9 +220,9 @@ b) *Serait-il possible de venir en avril ? / Je pourrais venir en avril.*
 c) *Je souhaiterais convenir d'un rendez-vous avec vous.*
 
 **Ex. 4.** 1 = Coordonnées de l'expéditeur · 2 = Lieu et date · 3 = Formule d'appel · 4 = Corps de la lettre · 5 = Formule de clôture · 6 = Signature.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (E, environ 180 mots).**
 
 Rédigez **votre lettre de motivation** pour un stage d'observation d'une semaine dans une entreprise ou une institution en France ou en Suisse romande (librairie, office de tourisme, école, cinéma, etc.). Votre lettre doit contenir :
@@ -212,8 +242,7 @@ Rédigez **votre lettre de motivation** pour un stage d'observation d'une semain
 | Langue | conditionnel de politesse, orthographe, ponctuation |
 | Longueur | environ 180 mots |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] J'ai écrit un en-tête complet (expéditeur, destinataire, lieu, date, objet).
 - [ ] J'ai utilisé la structure en trois paragraphes « Vous – Moi – Nous ».
 - [ ] J'ai employé une formule d'appel et une formule de clôture correctes.
@@ -221,28 +250,11 @@ Rédigez **votre lettre de motivation** pour un stage d'observation d'une semain
 - [ ] J'ai utilisé au moins trois conditionnels de politesse.
 - [ ] J'ai relu ma lettre et corrigé l'orthographe et la ponctuation.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau E · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit02_lettre-de-motivation-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 pts).** Lisez la lettre d'Anouk (texte C) et répondez à quatre questions.
-
-**Tâche 2 — Registre et formules (10 pts).** Classez cinq expressions en « approprié / inapproprié » et corrigez les inappropriées ; complétez deux formulations au conditionnel de politesse.
-
-**Tâche 3 — Expression écrite (12 pts).** Rédigez votre propre lettre de motivation (environ 180 mots) pour un stage en France ou en Suisse romande.
-
-**Barème.**
-
-| Tâche | Points |
-|---|---|
-| 1 — Compréhension écrite | 8 |
-| 2 — Registre et formules | 10 |
-| 3 — Expression écrite | 12 |
-| **Total** | **30** |
-
-Répartition de la tâche 3 : mise en forme 3 · structure 3 · registre et politesse 3 · langue 3.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Bilan 2'.
 

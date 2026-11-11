@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 4
 slug: "argumenter-pour-contre"
 bildungsplan:
-  - "3.1.3.4 Expression orale — prise de parole en continu (monologue)"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — prise de parole en continu (monologue)"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_argumenter-pour-contre.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_argumenter-pour-contre.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit04_argumenter-pour-contre.html"
+- "/track_gm_kl09/units/unit04_argumenter-pour-contre.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.PROD.overall-oral-production.01
-    - A2.INT.overall-written-interaction.01
-    - A2.MED.note-taking.01
-    - A2.PRAG.flexibility.01
+  - A2.PROD.creative-writing.04
+  - A2.PROD.overall-oral-production.01
+  - A2.INT.overall-written-interaction.01
+  - A2.MED.note-taking.01
+  - A2.PRAG.flexibility.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit04_argumenter-pour-contre_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_argumenter-pour-contre-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit04_argumenter-pour-contre-teacher.png
 audio_manifest: unit04_argumenter-pour-contre
 ---
 
@@ -71,15 +102,13 @@ Dans la cour du collège, Nora et Malik discutent avant le cours de français.
 2. Nora est-elle *pour* ou *contre* ? Relevez ses deux arguments.
 3. Quel mot Malik utilise-t-il pour introduire une objection ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Aimez-vous débattre en classe ? Pourquoi ?
 - Qu'est-ce qui fait, selon vous, un *bon* argument ?
 - Citez un sujet de société qui vous tient à cœur.
 - En allemand, comment dites-vous « à mon avis » et « cependant » ? Comparez avec le français.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'argumentation
 
 | Français | Fonction | Allemand |
@@ -135,8 +164,7 @@ avant la concentration et le respect entre élèves, tandis que d'autres soulign
 l'intérêt du téléphone en cas d'urgence. *(Fait paraphrasé de sources ouvertes ; voir
 Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Repérer la structure (texte C).**
 
 1. Quelle est la thèse de l'auteur ?
@@ -170,6 +198,7 @@ revanche*. Au niveau **E**, rédigez sans banque de mots et introduisez une nuan
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Il faudrait interdire les portables pendant les cours. 2) Trois arguments :
 distraction, conflits (photos), concentration facilitée. 3) Un argument contre : utile en
 cas d'urgence pour prévenir les parents. 4) Pour une interdiction pendant les cours, mais
@@ -185,9 +214,9 @@ parcours.*
 D'abord, il évite les moqueries sur les vêtements. Ensuite, on gagne du temps le matin.
 Cependant, il réduit la liberté de s'habiller comme on veut. En conclusion, je suis
 plutôt pour, à condition de garder un modèle simple.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (Niveau M, ~2 minutes) — exposé argumenté.**
 
 Choisissez **un sujet** :
@@ -210,40 +239,18 @@ Préparez et présentez votre position selon le plan : **thèse · 2 arguments p
 **Total : /15**
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux annoncer clairement ma thèse.
 - [ ] Je structure mon propos : thèse → arguments → conclusion.
 - [ ] J'utilise au moins cinq connecteurs logiques.
 - [ ] Je présente deux arguments pour et un argument contre.
 - [ ] Je peux exposer ma position à l'oral pendant environ deux minutes.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit »), Niveau M — ancré sur l'expression orale en
-continu et l'expression écrite.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit04_argumenter-pour-contre_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 P.)** : un court texte argumenté est fourni ;
-répondez à 4 questions (thèse, arguments pour, argument contre, conclusion).
-
-**Tâche 2 — Connecteurs (10 P.)** : complétez 8 phrases avec le connecteur qui convient
-et corrigez 2 connecteurs mal placés.
-
-**Tâche 3 — Expression écrite / prise de position (12 P.)** : rédigez une prise de
-position d'environ **150 mots** sur un sujet imposé (plan complet : thèse, 2 arguments
-pour, 1 objection, conclusion ; au moins 5 connecteurs).
-
-**Barème — Total : 30 P.**
-
-| Critère | Points |
-|-----------------------------------------|--------|
-| Compréhension écrite (T1) | 8 |
-| Connecteurs — emploi et place (T2) | 10 |
-| Expression écrite — structure et contenu | 8 |
-| Expression écrite — langue et connecteurs | 4 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' · Produire 12' ·
 Réfléchir 2' · Aperçu de la suite 2'.

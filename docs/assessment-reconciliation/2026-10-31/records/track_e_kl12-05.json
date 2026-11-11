@@ -1,0 +1,77 @@
+{
+  "unit": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+  "exam": "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md",
+  "before_unit_sha256": "d2faf0fd3553b30a342981b27a560d761055a0fc7b9072b37a7b53732990e033",
+  "after_unit_sha256": "5c4ffa272f827fcdd6b25edcf0e295c1f6219040618a7fa74831b924459b7dea",
+  "before_exam_sha256": "8f74958620ef32cf470a54d5a7872513e32cf364851afd34fa12de6be46ec7a9",
+  "after_exam_sha256": "68c81ed80e13cd9d2a925e356ecdf13880f23ebdf738c9cbbc836632eda0b3f3",
+  "source_sections": "B",
+  "supplied_source_sha256": "cea1e444c716906589271757b63d19a5ec8ded010fe0e83256ad10be146f3fe5",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Replaced unsupportedGrimm/parties and inaccurate unrelatedmotorway fake-study dossier with actual historical debt source; concise mediation avoids padding and unsupported3percent bridge. Coherent unit historical label/model correction queued."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "c94a848cc9213befc6f032c5fba349039013932fc084a66aee004d4a055cabd2",
+      "before_sha256": "c94a848cc9213befc6f032c5fba349039013932fc084a66aee004d4a055cabd2",
+      "after_sha256": "112c831bfd5f4db2c89da7b09f3b38d46341e44d853501fb74b9e92974623cf5",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "a1dd317ac2f664d005bb52389ee9b0b6cc5fc84b56a5fea60077fff89b917183",
+      "before_sha256": "a1dd317ac2f664d005bb52389ee9b0b6cc5fc84b56a5fea60077fff89b917183",
+      "after_sha256": "3f31ffb3af236ee9826161bca897a2b955a522af3977065053e4628c4fa3b505",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "112c831bfd5f4db2c89da7b09f3b38d46341e44d853501fb74b9e92974623cf5",
+      "after_sha256": "5c4ffa272f827fcdd6b25edcf0e295c1f6219040618a7fa74831b924459b7dea",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit05_mediation-fr-de/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3f31ffb3af236ee9826161bca897a2b955a522af3977065053e4628c4fa3b505",
+      "after_sha256": "bc12a16550716e1487de8b22c4a3769ffa3b19630f5c0f4d59bf33e028eea2e8",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "bc12a16550716e1487de8b22c4a3769ffa3b19630f5c0f4d59bf33e028eea2e8",
+      "after_sha256": "7488391243364b80fbeff274a4469dd6a70b2a9a7c048e4d15d6a695be3abf9b",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "7488391243364b80fbeff274a4469dd6a70b2a9a7c048e4d15d6a695be3abf9b",
+      "after_sha256": "45b22c23bd034cf3a347787602f8aa4544576e6b9f3920c257a76591a04ed1c8",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md",
+      "before_sha256": "45b22c23bd034cf3a347787602f8aa4544576e6b9f3920c257a76591a04ed1c8",
+      "after_sha256": "68c81ed80e13cd9d2a925e356ecdf13880f23ebdf738c9cbbc836632eda0b3f3",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

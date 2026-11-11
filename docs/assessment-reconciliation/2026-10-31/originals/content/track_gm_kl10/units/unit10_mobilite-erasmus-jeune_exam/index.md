@@ -1,0 +1,92 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 10"
+subtitle: "Mobilité (Erasmus jeune) · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 10
+slug: "mobilite-erasmus-jeune-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.processing-text.09
+    - B1.REC.watching-tv-film-and-video.03
+    - B1.INT.formal-discussion.01
+    - B1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Hörverstehen (12 points)
+
+Écoutez le témoignage d'Inès (Unité 10, texte C). Répondez :
+
+1. D'où vient Inès et pour combien de temps est-elle là ?
+2. Quel programme suit-elle ?
+3. Pourquoi l'Allemagne ?
+4. Quels **2 conseils** donne-t-elle ?
+5. Le plus beau ? Le plus dur ?
+6. Quelle est sa formule finale ?
+
+### Tâche 2 — Programmes (6 points)
+
+Quel programme conviendrait ? (Erasmus+ / OFAJ / Service civique)
+
+1. Lisa, 18 ans, étudiante, veut un semestre en Espagne.
+2. Lukas, 14 ans, veut un échange de 3 semaines en France.
+3. Carla, 21 ans, veut du bénévolat 6 mois en France.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez un **dossier de candidature simplifié** (~180 mots)
+pour un programme au choix : intro (qui), 3 motivations, projet
+précis, formule finale + mention DELF B1.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen | 12 |
+| Tâche 2 — Programmes | 6 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Montréal, 6 mois. 2) OFAJ. 3) Son arrière-grand-père
+est né en Allemagne. 4) Commencer 6 mois à l'avance · soigner la
+lettre de motivation. 5) Beau : découvrir une autre culture. Dur :
+barrière langue les 1ʳᵉˢ semaines. 6) « Foncez ! »
+
+**Tâche 2.** 1) Erasmus+. 2) OFAJ. 3) Service civique.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 3 motivations ·
+projet précis · DELF cité · formule polie.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 10*

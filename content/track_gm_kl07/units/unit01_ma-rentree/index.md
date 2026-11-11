@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 1
 slug: "ma-rentree"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.7 Moyens linguistiques — lexique"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - speaking_interaction
 presentation:
@@ -19,22 +19,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_ma-rentree.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_ma-rentree.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit01_ma-rentree.html"
+- "/track_gm_kl07/units/unit01_ma-rentree.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.conversation.01
-    - A1.INT.correspondence.01
-    - A1.LING.vocabulary-range.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.reading-for-orientation.01
+  - A1.INT.conversation.01
+  - A1.INT.correspondence.01
+  - A1.LING.vocabulary-range.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.reading-for-orientation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit01_ma-rentree_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_interaction
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_ma-rentree-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit01_ma-rentree-teacher.png
 audio_manifest: unit01_ma-rentree
 ---
 
@@ -74,8 +107,7 @@ Théo. Ils sont maintenant en classe de cinquième (en Allemagne : la
 - Comment se sent-il le jour de la rentrée ?
 - Et vous, comment vous sentez-vous aujourd'hui ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Comment s'est passée votre rentrée cette année ? Racontez en une
   phrase.
 - Citez **trois sentiments** liés au premier jour d'école.
@@ -84,8 +116,7 @@ Théo. Ils sont maintenant en classe de cinquième (en Allemagne : la
 - Au tableau : notez ensemble tous les mots français de l'école que
   vous connaissez déjà (*brainstorming*, 2 minutes).
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Le matériel et les lieux | Les sentiments et les actions |
@@ -147,8 +178,7 @@ et C) afin d'étaler les départs. *(Paraphrasé d'après Wikipédia,
 « Rentrée scolaire » et « Calendrier scolaire », CC BY-SA.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite.** Relisez le texte B (« La rentrée
 de Sarah ») et répondez :
 
@@ -191,6 +221,7 @@ vocabulaire.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Parce qu'elle ne connaît pas encore sa classe (c'est
 sa première rentrée dans ce collège). 2) Amina. 3) Le français
 (première heure). 4) Rassurée : elle a une nouvelle amie et il y a
@@ -203,9 +234,9 @@ sport l'après-midi.
 **Ex. 4.** Réponses libres, p. ex. : *Dans mon cartable, il y a un
 manuel, une trousse, un classeur et une règle.* (Vérifier l'article :
 *un/une/des*.)
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, en binôme, 1 à 2 minutes) :**
 
 A et B jouent une scène de rentrée dans la cour. Chacun·e doit :
@@ -225,38 +256,18 @@ A et B jouent une scène de rentrée dans la cour. Chacun·e doit :
 | Trois verbes au présent corrects | ✓ |
 | Prononciation compréhensible, échange fluide | ✓ |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux saluer et poser une question sur les vacances.
 - [ ] Je raconte ma rentrée en 3 à 4 phrases au présent.
 - [ ] J'utilise au moins trois adjectifs de sentiment.
 - [ ] Je nomme au moins six objets ou lieux de l'école.
 - [ ] Je conjugue *être*, *avoir* et un verbe en *-er* sans erreur.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit01_ma-rentree_exam" >}}).
 
-*Compétence évaluée : expression orale — interaction (dialogue).*
-
-- **Tâche 1 — Compréhension écrite (8 P.) :** lire le texte « La
-  rentrée de Sarah » et répondre à quatre questions.
-- **Tâche 2 — Expression orale en interaction (12 P.) :** en binôme,
-  jouer un dialogue de rentrée d'environ une minute (salutations,
-  vacances, un sentiment justifié, emploi du temps).
-- **Tâche 3 — Expression écrite (10 P.) :** rédiger environ 50 mots
-  sur votre propre rentrée, au présent.
-
-**Barème :**
-
-| Tâche | Points |
-|-------|--------|
-| Compréhension écrite | 8 |
-| Expression orale (interaction) | 12 |
-| Expression écrite | 10 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :** Activer 5' · Apporter 13' · S'entraîner
 12' · Produire 10' · Réfléchir 3' · Aperçu de l'unité suivante 2'.

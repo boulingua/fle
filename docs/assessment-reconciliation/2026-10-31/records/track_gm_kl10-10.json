@@ -1,0 +1,65 @@
+{
+  "unit": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
+  "exam": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam/index.md",
+  "before_unit_sha256": "e2ae4ba45d3419a64f8f220ba1d62b3d09fd9da33e9b43b5ba1c78bf7bf6ebfe",
+  "after_unit_sha256": "6fc4f6cf6ad6da2f70a300f8afe9d524a8db9a8d76ec638730f5cb0779d9861c",
+  "before_exam_sha256": "11ca05a7b49756914437d83e44fd2d3801bba97ce66f9601799eafd2a200bfd7",
+  "after_exam_sha256": "7fc1cf6a34f7f99ae7d9a1b41bfe57456ad93584bd0b6d6b8b6331a15d92935c",
+  "source_sections": [
+    "C"
+  ],
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "skills_observed": [
+    "listening",
+    "writing"
+  ],
+  "decisions": [
+    "Actual Nour testimony supplied only inside a teacher key. Fictional mobility offers avoid claiming real programme eligibility; no unearned DELF certification is required."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "cbe48ae2f3a341043f30995c456dabb66f07ead80a2abaeff70383778ab28a73",
+      "before_sha256": "cbe48ae2f3a341043f30995c456dabb66f07ead80a2abaeff70383778ab28a73",
+      "after_sha256": "5fb2bd44b6187fc631b854ebaddf68c20ddf7c93bc0ecc66a030c1a095bab5e2",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "a69339920fa0e8c666e3940f195312a1e9c4f0b80ca2d7eaaa96d54dccd46576",
+      "before_sha256": "a69339920fa0e8c666e3940f195312a1e9c4f0b80ca2d7eaaa96d54dccd46576",
+      "after_sha256": "6c15affea925441848ad83f207427e576ae98d893826ae085ce1161080aa5c17",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6c15affea925441848ad83f207427e576ae98d893826ae085ce1161080aa5c17",
+      "after_sha256": "908766c72a39266d32bf853b970ac030a437ed08c137fae0419999b176c1b94d",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "5fb2bd44b6187fc631b854ebaddf68c20ddf7c93bc0ecc66a030c1a095bab5e2",
+      "after_sha256": "6fc4f6cf6ad6da2f70a300f8afe9d524a8db9a8d76ec638730f5cb0779d9861c",
+      "reasons": [
+        "Keep matching task usable without false eligibility guarantee.",
+        "Align model with scoped programme table.",
+        "Pour and afin de can both express same-subject purpose.",
+        "Accept both valid purpose constructions."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam/index.md",
+      "before_sha256": "908766c72a39266d32bf853b970ac030a437ed08c137fae0419999b176c1b94d",
+      "after_sha256": "7fc1cf6a34f7f99ae7d9a1b41bfe57456ad93584bd0b6d6b8b6331a15d92935c",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "unit": "content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md",
+  "exam": "content/track_e_kl10/units/unit09_extraits-romans-jeunes_exam/index.md",
+  "before_unit_sha256": "7a3c3ec746cfeeecea4992019ea06d1637380838f9e749b0886736c99415a8c1",
+  "after_unit_sha256": "75571c3f83876d0dae295fd54a105a17612215e62faee927c9758ee5770cc6e8",
+  "before_exam_sha256": "8802b3342d3b09e7a7c2de7d745ffb9ebfebca48f70ae47c5649078d4e51bee0",
+  "after_exam_sha256": "a459a08e86c26785f232cebc87a47551f0080a7cffc2effe9f17923a34dd03e7",
+  "source_sections": "C",
+  "supplied_source_sha256": "6c99141f1a75243dafca7ed4ef0e3f24fca4185dcbaea65e62256ceebb89933c",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed nonexistent La Tresse excerpt and key. Corrected confusion between third-person narrator and external focalization; preserved coherent original La lettre oubliée excerpt as optional additional source."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "c0ed7a85044aca13dc45dd3219f7bd037770b61c97a80a512026a6a1248a4039",
+      "before_sha256": "c0ed7a85044aca13dc45dd3219f7bd037770b61c97a80a512026a6a1248a4039",
+      "after_sha256": "f9d800c21d96d5863b22b0d521a6625f89c82a8f9f8eee1e11d43323b5fa653b",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "f9d800c21d96d5863b22b0d521a6625f89c82a8f9f8eee1e11d43323b5fa653b",
+      "after_sha256": "2a8e08c1700fe3d83f25c3536217fb5f00bbe0469d6319189cffd8c3de6def69",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "2a8e08c1700fe3d83f25c3536217fb5f00bbe0469d6319189cffd8c3de6def69",
+      "after_sha256": "75571c3f83876d0dae295fd54a105a17612215e62faee927c9758ee5770cc6e8",
+      "reasons": [
+        "Separate narrative person and focalization in task as well as lesson.",
+        "Repair legacy key after lesson correction.",
+        "Do not infer a newly built school from fresh paint."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "31d55f7c17fa3c7f2bd1b2b781fbaf43917c50012c42f924a6523ed20258afc2",
+      "after_sha256": "6b68d03d7e2bd39e5cfd877e7c02e00aa2b9909fe933e8c728a8e97fc2da0374",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit09_extraits-romans-jeunes_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit09_extraits-romans-jeunes_exam/index.md",
+      "before_sha256": "6b68d03d7e2bd39e5cfd877e7c02e00aa2b9909fe933e8c728a8e97fc2da0374",
+      "after_sha256": "a459a08e86c26785f232cebc87a47551f0080a7cffc2effe9f17923a34dd03e7",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

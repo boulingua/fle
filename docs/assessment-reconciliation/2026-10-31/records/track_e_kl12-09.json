@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
+  "exam": "content/track_e_kl12/units/unit09_memoire-et-traumatisme_exam/index.md",
+  "before_unit_sha256": "bb3717784c0e316babba9e0bfaca732f3c631458fcff08998df50663a1a56b3c",
+  "after_unit_sha256": "8a9fe6c924c8ec788f3d10aa89c579c3058e541657b9c330676a6b0235f64e04",
+  "before_exam_sha256": "f5562e955e26854a83e27c4f41b1a6d6ba944a915aa3905814f3e7953c8356a9",
+  "after_exam_sha256": "7eea61e28178be805e1c9fbc0e594d49bfa998df2214019ed50932632823a0c6",
+  "source_sections": "C",
+  "supplied_source_sha256": "dc5ecfb4275dc165763bd58e9fb0d10c3ca059f895ff745077f693ca89f71fcf",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual originalboîte narrative replaces unprovidedDoraBruder opening. Restored text/mediaanalysis and tensework rather than demanding fabricatedpersonalarchive."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "69a660c2f415ec3f5b75016fd98199be820c640b3a9498bb1b6577f9b35c5e81",
+      "after_sha256": "8a9fe6c924c8ec788f3d10aa89c579c3058e541657b9c330676a6b0235f64e04",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3d4ba217250f399d364fb46f693bef8c420f2c7a3d8ac57d567e18b75528e31a",
+      "after_sha256": "ffb29016aa1a96e4c048a2933526f207f1466ee2aa50d2b087794e5d8498dfbc",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit09_memoire-et-traumatisme_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ffb29016aa1a96e4c048a2933526f207f1466ee2aa50d2b087794e5d8498dfbc",
+      "after_sha256": "86d01517f9bf7d3fe0ccd4602f7df70292f16c343a1cc8606b1bcab2c24780c4",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit09_memoire-et-traumatisme_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme_exam/index.md",
+      "before_sha256": "86d01517f9bf7d3fe0ccd4602f7df70292f16c343a1cc8606b1bcab2c24780c4",
+      "after_sha256": "7eea61e28178be805e1c9fbc0e594d49bfa998df2214019ed50932632823a0c6",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

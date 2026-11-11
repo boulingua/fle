@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 6
 slug: "musiques-du-maghreb-e"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - listening
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_musiques-du-maghreb-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_musiques-du-maghreb-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit06_musiques-du-maghreb-e.html"
+- "/track_e_kl08/units/unit06_musiques-du-maghreb-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.identifying-cues-and-inferring.03
-    - A2.MED.translating-a-written-text.02
-    - A2.PLUR.building-on-plurilingual-repertoire.02
-    - A2.PRAG.flexibility.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.identifying-cues-and-inferring.03
+  - A2.MED.translating-a-written-text.02
+  - A2.PLUR.building-on-plurilingual-repertoire.02
+  - A2.PRAG.flexibility.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit06_musiques-du-maghreb-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_musiques-du-maghreb-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_musiques-du-maghreb-e-teacher.png
 audio_manifest: unit06_musiques-du-maghreb-e
 ---
 
@@ -67,15 +99,13 @@ Dans le couloir du lycée, Anouk montre son téléphone à Karim pendant la paus
 2. Dans quelles langues chante l'artiste évoquée ?
 3. Quel instrument Karim reconnaît-il ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quels·les artistes francophones connaissez-vous ? D'où viennent-ils·elles ?
 - Selon vous, pourquoi un·e artiste peut-il·elle chanter dans plusieurs langues à la fois ?
 - Le Maghreb : quels pays cette expression désigne-t-elle ?
 - Citez trois mots qui vous viennent à l'esprit quand vous pensez à une chanson.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la musique
 
 | Français | Genre | Traduction (allemand) |
@@ -117,8 +147,7 @@ D'après l'encyclopédie libre Wikipédia, Souad Massi est une chanteuse et comp
 
 *(Faits paraphrasés à partir de l'article « Souad Massi », Wikipédia, licence CC BY-SA — voir Sources. La plateforme n'est affiliée ni à l'artiste ni à aucune maison de disques.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).** Répondez par une phrase complète.
 
 1. En quelle année et dans quelle ville Souad Massi est-elle née ?
@@ -148,6 +177,7 @@ Maroc → ___ · Algérie → ___ · Tunisie → ___.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Elle est née en 1972 à Alger. 2) Elle chante en arabe, en français et en kabyle. 3) L'album *Raoui*, en 2001. 4) Le folk, le chaâbi, le raï et d'autres influences.
 
 **Ex. 2.** a-2 · b-4 · c-1 · d-5 · e-3.
@@ -155,9 +185,9 @@ Maroc → ___ · Algérie → ___ · Tunisie → ___.
 **Ex. 3.** 1) est née · 2) a sorti · 3) sont devenus · 4) avons écouté.
 
 **Ex. 4.** Maroc → Rabat · Algérie → Alger · Tunisie → Tunis.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (≈ 90 secondes) :** présentez un·e artiste maghrébin·e francophone de votre choix.
 
 Votre présentation doit contenir :
@@ -177,37 +207,18 @@ Votre présentation doit contenir :
 | Opinion personnelle | 1 |
 | **Total** | **10** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux situer le Maghreb et nommer deux genres musicaux.
 - [ ] Je peux comprendre une fiche d'artiste à l'oral.
 - [ ] J'utilise au moins dix mots de vocabulaire musical.
 - [ ] Je sais raconter une carrière au passé composé.
 - [ ] Je peux présenter un·e artiste en 90 secondes avec une opinion.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit06_musiques-du-maghreb-e_exam" >}}).
 
-**Tâche 1 — Compréhension orale / audiovisuelle (« Hörverstehen ») — 10 P.**
-L'enseignant·e lit (ou fait écouter) une fiche d'artiste d'environ une minute. Répondez à cinq questions (pays, langues, style, album, opinion de l'artiste).
-
-**Tâche 2 — Compétence textuelle et médiatique (« Textkompetenz ») — 8 P.**
-Reliez huit mots du vocabulaire musical à leur définition, puis complétez trois phrases au passé composé.
-
-**Tâche 3 — Expression écrite (« Schreiben ») — 12 P.**
-Rédigez un portrait d'un·e artiste maghrébin·e francophone (environ 120 mots) : pays, style, une étape de carrière au passé composé, vocabulaire musical et une opinion personnelle.
-
-**Barème :**
-
-| Tâche | Compétence | Points |
-|-------|--------------------------------------|:------:|
-| 1 | Compréhension orale / audiovisuelle | 10 |
-| 2 | Vocabulaire + langue | 8 |
-| 3 | Expression écrite | 12 |
-| | **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

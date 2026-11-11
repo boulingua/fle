@@ -1,0 +1,93 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 6"
+subtitle: "Podcasts en français · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 6
+slug: "podcasts-en-francais-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.08
+    - A2.INT.correspondence.01
+    - A2.MED.collaborating-to-construct-meaning.01
+    - A2.MED.overall-mediation.02
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Hörverstehen (10 points)
+
+Écoutez l'extrait *Les Odyssées* (Unité 6, texte C). Répondez :
+
+1. Qui est le personnage principal ?
+2. Quelle est sa profession ?
+3. Où se déroule l'histoire ?
+4. Quelle date est mentionnée pour la découverte de la tombe ?
+5. Que dit Carter à son mécène ?
+
+### Tâche 2 — Vocabulaire podcast (8 points)
+
+Reliez chaque mot à sa définition :
+
+- podcast · épisode · animateur · transcription · abonnement
+ · saison · plateforme · téléchargement
+
+(Définitions : émission audio à la demande · épisode unitaire
+· voix qui guide · texte écrit du podcast · suivi régulier ·
+série annuelle · service de diffusion · récupération du
+fichier.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+À partir d'un autre extrait fourni, rédigez un **résumé**
+(~140 mots) : 6 questions (qui/quoi/où/quand/pourquoi/comment)
++ 1 opinion + 5 verbes au présent ou PC.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Howard Carter. 2) Archéologue. 3) En Égypte.
+4) 26 novembre 1922. 5) *Oui, des merveilles !*
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 140 mots · 6
+questions · 1 opinion · 5 verbes.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 6*

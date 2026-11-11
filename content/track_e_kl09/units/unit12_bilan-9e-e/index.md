@@ -1,6 +1,6 @@
 ---
 page_type: unit
-title: "Unité 12 — Bilan : 9e en route vers la cycle terminal"
+title: "Unité 12 — Bilan : 9e en route vers le cycle terminal"
 subtitle: "Parcours E (lycée) · classe 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9
@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 12
 slug: "bilan-9e-e"
 bildungsplan:
-  - "3.1.3.4 Expression orale — monologisches Sprechen"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Sprechen"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-9e-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-9e-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit12_bilan-9e-e.html"
+- "/track_e_kl09/units/unit12_bilan-9e-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.PROD.overall-oral-production.01
-    - A2.INT.overall-written-interaction.01
-    - A2.MED.note-taking.01
-    - A2.PLUR.building-on-plurilingual-repertoire.02
+  - A2.PROD.creative-writing.04
+  - A2.PROD.overall-oral-production.01
+  - A2.INT.overall-written-interaction.01
+  - A2.MED.note-taking.01
+  - A2.PLUR.building-on-plurilingual-repertoire.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit12_bilan-9e-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-9e-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit12_bilan-9e-e-teacher.png
 audio_manifest: unit12_bilan-9e-e
 ---
 
@@ -69,15 +102,13 @@ Fin juin, dernière semaine de cours. M. Klein réunit la classe de 9e.
 - Êtes-vous plutôt « Anouk » (fort à l'écrit) ou « Karim » (fort à l'oral) ?
 - *Leistungsfach* ou *Basisfach* de français : qu'envisagez-vous, et pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelle unité de 9e avez-vous préférée ? Pourquoi ?
 - Quel **acquis** (grammaire, lexique, méthode) est vraiment nouveau cette année ?
 - Comparez : « Au début de la 9e, je savais… » / « Maintenant, je sais… »
 - En un mot : quel est votre objectif prioritaire pour le cycle terminal ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — le bilan et l'orientation
 
 | Français | Allemand | Exemple |
@@ -125,8 +156,7 @@ Fin juin, dernière semaine de cours. M. Klein réunit la classe de 9e.
 
 Le **Cadre européen commun de référence pour les langues** (CECRL), publié par le **Conseil de l'Europe en 2001**, décrit la maîtrise d'une langue sur une échelle commune de **six niveaux**, de **A1** (utilisateur débutant) à **C2** (maîtrise). Il permet, partout en Europe, de situer et de comparer ses compétences en compréhension, en expression orale et en expression écrite. Faire son bilan de 9e, c'est aussi se demander : *où est-ce que je me situe, et vers quel niveau je progresse ?* *(D'après Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 
 1. Quelles structures grammaticales Anouk a-t-elle consolidées ?
@@ -152,6 +182,7 @@ d) Nous ______ (progresser, *passé composé*) à l'oral cette année.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Elle a consolidé le subjonctif présent et le conditionnel.
 2. Elle sait rédiger une lettre de motivation et un courriel professionnel.
@@ -170,9 +201,9 @@ d) Nous ______ (progresser, *passé composé*) à l'oral cette année.
 - **M (moyen) :** exercices 1–4 ; connecteurs à choisir sans liste pour l'exercice 4.
 - **E (renforcé) :** exercice 4 étendu à cinq phrases avec *si bien que* / *de sorte que*, puis reformulation orale sans notes.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche A — Écrit (~180 mots).** Rédigez **votre lettre à votre moi de 13e**. Structurez-la selon les **quatre axes** (langue, contenus, méthodes, projets). Employez **au moins six connecteurs**, les **trois temps** (passé composé, présent, futur simple) et **une phrase forte de motivation** pour conclure.
 
 **Tâche B — Oral en continu (~2 min).** Présentez votre bilan devant la classe (ou en enregistrement) : trois acquis de la 9e, un point à améliorer, un objectif pour le cycle terminal. Parlez **sans lire**, à l'aide de quelques mots-clés seulement.
@@ -185,8 +216,7 @@ d) Nous ______ (progresser, *passé composé*) à l'oral cette année.
 - **Oral (tâche B) :** débit continu, prononciation compréhensible, prise de parole sans lecture.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je dresse mon bilan de 9e en quatre axes.
 - [ ] Je projette au moins trois objectifs pour le cycle terminal.
 - [ ] J'emploie les trois temps (passé composé, présent, futur simple).
@@ -194,29 +224,11 @@ d) Nous ______ (progresser, *passé composé*) à l'oral cette année.
 - [ ] Je présente mon bilan à l'oral sans lire mon texte.
 - [ ] Je mesure mes progrès depuis la 8e.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir « bilan » (« Klassenarbeit ») — Niveau E · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit12_bilan-9e-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 P.).** Lisez la lettre d'Anouk (texte C) et répondez à cinq questions par des phrases complètes.
-
-**Tâche 2 — Maîtrise de la langue (7 P.).** Conjuguez quatre verbes aux temps demandés (passé composé, présent, futur simple) et complétez trois phrases avec les connecteurs qui conviennent.
-
-**Tâche 3 — Expression écrite (« Schreiben », 8 P.).** Rédigez votre lettre à votre moi de 13e (~180 mots) : quatre axes, six connecteurs, trois temps.
-
-**Tâche 4 — Expression orale en continu (« monologisches Sprechen », 7 P.).** Présentez oralement votre bilan (~2 min) sans lire vos notes.
-
-**Barème indicatif**
-
-| Tâche | Compétence | Points |
-|---|---|---|
-| 1 | Compréhension écrite | 8 |
-| 2 | Langue (temps + connecteurs) | 7 |
-| 3 | Expression écrite | 8 |
-| 4 | Expression orale (monologue) | 7 |
-| **Total** | | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min)**
 

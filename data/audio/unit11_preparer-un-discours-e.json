@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit11_preparer-un-discours-e/index.md",
-    "source_body_sha256": "e369af875e1fad85135be65972d31f8bbdf1e8b52576158f595851433ba6af5c",
+    "source_body_sha256": "50142a193a65ae94d1e6b58bc948dd530b40a613062c1345a65dc6b588343de1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Lefèvre. — Anouk, tu écris bien et tu parles clairement. Accepterais-tu de prononcer le discours d'adieu, au nom de toute la classe ? Anouk. — Moi ? Devant tout le monde ? Mais… je n'ai jamais fait ça. Mme Lefèvre. — Justement. Tu as quatre jours. Commence par te demander une seule chose : qu'est-ce que je veux que les gens ressentent à la fin ? Anouk. — Qu'ils sourient… et qu'ils aient un peu envie de pleurer, en même temps. Mme Lefèvre. — Alors tu tiens déjà ton discours. Le reste, c'est du travail."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit11_preparer-un-discours-e/index.md",
-    "source_body_sha256": "e369af875e1fad85135be65972d31f8bbdf1e8b52576158f595851433ba6af5c",
+    "source_body_sha256": "50142a193a65ae94d1e6b58bc948dd530b40a613062c1345a65dc6b588343de1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mesdames, messieurs, chères et chers camarades, Nous voici à la fin du collège. Cinq ans ensemble. Cinq ans d'apprentissages. Cinq ans d'amitié. Je me souviens de la sixième. Le premier jour, Mme Devos nous a demandé d'écrire notre prénom au tableau.  C'est ainsi que commence un long voyage , a-t-elle dit. Et elle avait raison. Depuis, nous avons traversé bien des pays sans quitter la salle : la Bretagne et ses légendes, le Québec et son accent, la France des grandes dates, les voix de la francophonie du monde entier. Notre français est devenu un pont — un pont entre nous, et un pont vers le monde. Alors je voudrais dire merci. Merci à nos professeur·es, merci à nos familles, et merci à vous, mes camarades : sans vous, je ne serais pas ici, à cet instant, à vous parler. Demain, nos routes vont se séparer. Certain·es continueront ici, d'autres ailleurs. Mais le voyage, lui, continue. On dit souvent que le français est une matière. Je crois que c'est plutôt une manière de regarder le monde et d'aller vers les autres. Gardez cette manière-là. Bonne route à toutes et à tous — et à bientôt !"

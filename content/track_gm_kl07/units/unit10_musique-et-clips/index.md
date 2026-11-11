@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 10
 slug: "musique-et-clips"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - listening
 presentation:
@@ -19,22 +19,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit10_musique-et-clips.pdf"
   thumbnail: "/fle/materials/worksheets/unit10_musique-et-clips.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit10_musique-et-clips.html"
+- "/track_gm_kl07/units/unit10_musique-et-clips.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.reading-for-orientation.01
-    - A1.INT.online-conversation-and-discussion.02
-    - A1.INT.conversation.01
-    - A1.LING.general-linguistic-range.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.reading-for-orientation.01
+  - A1.INT.online-conversation-and-discussion.02
+  - A1.INT.conversation.01
+  - A1.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit10_musique-et-clips_exam
+  format: existing-assessment
+  duration_minutes: 3
+  points: 30
+  skills:
+  - listening
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit10_musique-et-clips-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit10_musique-et-clips-teacher.png
 audio_manifest: unit10_musique-et-clips
 ---
 
@@ -66,8 +97,7 @@ Devant le collège, Léa et Théo comparent leurs écouteurs.
 2. Comment est le clip de Théo (lieu, ambiance) ?
 3. Et vous : plutôt rap ou plutôt pop ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez à l'oral, avec votre voisin·e :
 
 - Quel·le est votre chanteur ou votre chanteuse préféré·e ?
@@ -75,8 +105,7 @@ Répondez à l'oral, avec votre voisin·e :
 - Regardez-vous des clips vidéo ? Sur quel écran (téléphone, ordinateur, télévision) ?
 - Un clip, pour vous, c'est surtout la musique ou surtout les images ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — la musique et le clip
 
 | Français | Allemand |
@@ -107,7 +136,7 @@ On utilise un verbe de goût, puis une petite raison introduite par *parce que*.
 - *J'adore ce clip **parce que** les couleurs sont vives.*
 - *Je n'aime pas ce style **parce que** c'est trop rapide pour moi.*
 
-**Attention :** après un verbe de goût, l'article reste : *j'aime **le** rap*, *je préfère **la** pop*. Le mot **la musique** est toujours au singulier.
+**Attention :** après un verbe de goût, l'article reste : *j'aime **le** rap*, *je préfère **la** pop*. On emploie ici **la musique** comme notion générale. Le pluriel existe pour différents genres ou traditions : *les musiques du monde*.
 {{< /callout >}}
 
 ### C. Décrire un clip — expressions utiles
@@ -131,15 +160,14 @@ On utilise un verbe de goût, puis une petite raison introduite par *parce que*.
 {{< callout type="note" >}}
 **D'où vient le clip vidéo ?**
 
-Un clip est une œuvre audiovisuelle réalisée à partir d'une chanson ou d'une musique. Dès les années 1960, le *Scopitone* — un juke-box équipé d'un écran — diffusait déjà de courts films pour accompagner des chansons. Le clip prend vraiment son essor avec la naissance de la chaîne MTV en 1981. D'après l'article encyclopédique cité ci-dessous, le clip *Thriller* de Michael Jackson (1984) marque un tournant : l'image ne sert plus seulement la musique, les deux se répondent.
+Un clip est une œuvre audiovisuelle réalisée à partir d'une chanson ou d'une musique. Dès les années 1960, le *Scopitone* — un juke-box équipé d'un écran — diffusait déjà de courts films pour accompagner des chansons. Le clip prend vraiment son essor avec la naissance de la chaîne MTV en 1981. D'après l'article encyclopédique cité ci-dessous, le clip *Thriller* de Michael Jackson (1983) marque un tournant : l'image ne sert plus seulement la musique, les deux se répondent.
 
 La **chanson francophone**, elle, ne se limite pas à la France : elle réunit aussi des artistes du Québec, de Belgique, de Suisse et d'Afrique francophone.
 
 *(Faits paraphrasés, non cités mot pour mot — voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte D).** Répondez par une phrase complète.
 
 1. Où se passe le clip présenté par Camille ?
@@ -175,6 +203,7 @@ Styles : *le rap · la pop · le reggae · la musique électronique*
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Il se passe sur une plage, en plein jour.
 2. Elle porte une robe blanche.
@@ -186,9 +215,9 @@ Styles : *le rap · la pop · le reggae · la musique électronique*
 **Exercice 3.** Réponses libres. Exemple : *J'aime le rap français parce que les paroles racontent des histoires.*
 
 **Exercice 4.** Réponses libres ; vérifier l'article après le verbe de goût et l'emploi de *parce que*.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, environ 8 phrases) :**
 
 Présentez **votre clip préféré** à la classe. Donnez : le titre, le chanteur ou la chanteuse, le style, le lieu du clip, les couleurs, une action. Exprimez **au moins deux goûts** avec une justification (*j'adore … parce que …*).
@@ -202,8 +231,7 @@ Présentez **votre clip préféré** à la classe. Donnez : le titre, le chanteu
 | Langue | articles corrects, phrases complètes |
 | Fluidité | débit régulier, prononciation compréhensible |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire :
 
 - [ ] Je peux nommer six styles musicaux en français.
@@ -212,24 +240,11 @@ Cochez ce que vous savez faire :
 - [ ] Je peux exprimer un goût et le justifier avec *parce que*.
 - [ ] Je peux présenter mon clip préféré en plusieurs phrases.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit10_musique-et-clips_exam" >}}).
 
-**Tâche 1 — Compréhension audiovisuelle / orale (10 points).**
-Écoutez (ou lisez) une courte description de clip, puis répondez à 6 affirmations *vrai / faux* et justifiez deux réponses.
-
-**Tâche 2 — Vocabulaire (8 points).**
-Traduisez 8 mots liés à la musique et au clip (styles, chanteur·euse, paroles, mélodie…).
-
-**Tâche 3 — Expression écrite (« Schreiben ») (12 points).**
-Décrivez votre clip préféré (environ 80 mots) : lieu, couleurs, action, et deux goûts justifiés.
-
-**Total : 30 points.**
-
-Barème indicatif de la tâche 3 : contenu 5 P. · expression des goûts 3 P. · correction de la langue 3 P. · longueur respectée 1 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 
@@ -248,13 +263,16 @@ Barème indicatif de la tâche 3 : contenu 5 P. · expression des goûts 3 P. ·
 
 **Pièges fréquents à signaler :**
 
-- *la musique* est toujours au singulier ;
+- *la musique* désigne ici une notion générale; le pluriel *les musiques du monde* est correct ;
 - *faire de la musique* = jouer d'un instrument, ≠ *écouter de la musique* ;
 - garder l'article après un verbe de goût : *j'aime **le** rap*.
 
 **Posture :** on parle des artistes et des clips **par référence seulement** ; aucune parole de chanson protégée n'est reproduite.
 
 ## Sources
+
+- Library of Congress — Making Michael Jackson’s Thriller (vérification éditoriale du 31 octobre 2026), <https://www.loc.gov/item/86708393/>.
+
 
 - *Clip* — Wikipédia (contributeurs), consulté le 21/07/2026, <https://fr.wikipedia.org/wiki/Clip>, licence CC BY-SA 4.0.
 - *Chanson française* — Wikipédia (contributeurs), consulté le 21/07/2026, <https://fr.wikipedia.org/wiki/Chanson_fran%C3%A7aise>, licence CC BY-SA 4.0.

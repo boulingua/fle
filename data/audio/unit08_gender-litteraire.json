@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
-    "source_body_sha256": "e3a26f8b917541847fd4c5ad93424b739617761a718421822164b79f557859d2",
+    "source_body_sha256": "455915b13844f28893d5a120b93d7d110662e357b9ee246bdb52fa610007dd89",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
-    "source_body_sha256": "e3a26f8b917541847fd4c5ad93424b739617761a718421822164b79f557859d2",
+    "source_body_sha256": "455915b13844f28893d5a120b93d7d110662e357b9ee246bdb52fa610007dd89",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le genre (social).\nles études de genre.\nun stéréotype.\nl'identité.\nl'intersectionnalité.\nl'écriture inclusive.\nle point médian.\nremettre en question.\nune autrice / un auteur.\nle domaine public."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
-    "source_body_sha256": "e3a26f8b917541847fd4c5ad93424b739617761a718421822164b79f557859d2",
+    "source_body_sha256": "455915b13844f28893d5a120b93d7d110662e357b9ee246bdb52fa610007dd89",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "La question du genre n'est pas neuve en littérature française. Dès 1791, Olympe de Gouges réclame l'égalité dans sa Déclaration des droits de la femme et de la citoyenne :  La femme naît libre et demeure égale à l'homme en droits.  Un demi-siècle plus tard, George Sand signe ses romans d'un prénom d'homme et porte le pantalon pour circuler librement dans Paris ; son nom de plume devient lui-même un geste politique. Plus tard encore, Colette décrit sans détour le désir et les rôles imposés aux femmes. La littérature contemporaine prolonge ce questionnement, mais autrement. Des autrices et auteurs d'aujourd'hui — on peut penser à Virginie Despentes, à Maylis de Kerangal, à Édouard Louis ou à Nina Bouraoui — explorent l'identité, le corps et les assignations sociales. On ne les citera pas ici mot pour mot : leurs œuvres sont protégées par le droit d'auteur. On peut en revanche les lire, les résumer, en discuter et renvoyer vers les livres. C'est toute la différence entre s'approprier un texte et en rendre compte honnêtement."

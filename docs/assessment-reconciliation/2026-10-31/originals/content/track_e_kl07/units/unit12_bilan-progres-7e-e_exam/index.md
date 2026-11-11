@@ -1,0 +1,96 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 12"
+subtitle: "Bilan : mes progrès en 7e · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 12
+slug: "bilan-progres-7e-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.notes-messages-and-forms.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le bilan d'Anouk (Unité 12, texte C). Répondez :
+
+1. Quels temps a-t-elle appris cette année ?
+2. Quelles 2 régions/pays a-t-elle découverts ?
+3. Que sait-elle faire maintenant (3 choses) ?
+4. Que va-t-elle lire en 8e ?
+5. Quel est son rêve plus tard ?
+
+### Tâche 2 — Conjugaison 3 temps (8 points)
+
+Conjuguez avec le bon temps.
+
+1. *Cette année, j' (apprendre, PC) ___ le PC.*
+2. *Maintenant, je (savoir, présent) ___ raconter.*
+3. *L'an prochain, je (lire, futur proche) ___ un roman.*
+4. *Tu (parler, présent) ___ français.*
+5. *Tu (visiter, PC) ___ la Bretagne ?*
+6. *Vous (aller voir, futur proche) ___ Inès ?*
+7. *Léa (rentrer, PC) ___ tard hier.*
+8. *Anouk (étudier, présent) ___ tous les jours.*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre bilan de 7e** en **150 mots / 3 paragraphes** :
+3 acquis (PC) + 2 compétences actuelles (présent) + 2 projets
+8e (futur proche). **5 connecteurs**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Conjugaison | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) PC + imparfait. 2) Québec, Bretagne.
+3) Raconter une anecdote, écrire une lettre, médiation DE→FR.
+4) *Le Petit Prince*. 5) Erasmus à Montréal.
+
+**Tâche 2.** 1) ai appris · 2) sais · 3) vais lire · 4) parles
+· 5) as visité · 6) allez voir · 7) est rentrée · 8) étudie.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3
+paragraphes · 3 temps · 5 connecteurs.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 12*

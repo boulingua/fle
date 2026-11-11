@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 9
 slug: "stereotypes-et-prejuges"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.2 Compétence interculturelle communicative"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
+- "3.1.2 Compétence interculturelle communicative"
 skills_focus:
 - speaking_interaction
 - writing
@@ -21,22 +21,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_stereotypes-et-prejuges.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_stereotypes-et-prejuges.png"
 tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
+- filiere-gm
+- classe-8
+- niveau-m
 aliases:
-  - "/track_gm_kl08/units/unit09_stereotypes-et-prejuges.html"
+- "/track_gm_kl08/units/unit09_stereotypes-et-prejuges.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.PROD.creative-writing.04
-    - A2.INT.goal-oriented-co-operation.04
-    - A2.PROD.overall-oral-production.01
-    - A2.LING.general-linguistic-range.02
+  - A2.INT.conversation.08
+  - A2.PROD.creative-writing.04
+  - A2.INT.goal-oriented-co-operation.04
+  - A2.PROD.overall-oral-production.01
+  - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam
+  format: existing-assessment
+  duration_minutes: 3
+  points: 30
+  skills:
+  - speaking_interaction
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_stereotypes-et-prejuges-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit09_stereotypes-et-prejuges-teacher.png
 audio_manifest: unit09_stereotypes-et-prejuges
 ---
 
@@ -72,15 +105,13 @@ audio_manifest: unit09_stereotypes-et-prejuges
 - Qui, dans le dialogue, propose de nuancer ? Comment ?
 - À votre avis, la dernière question de Théo, comment y répondriez-vous ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **trois clichés** que vous avez déjà entendus sur les Français.
 - Citez **trois clichés** sur les Allemands.
 - D'où viennent ces images, à votre avis : la télé, les films, la famille, les vacances ?
 - Connaissez-vous une personne qui **contredit** un de ces clichés ? Donnez un exemple.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand | Exemple |
@@ -141,8 +172,7 @@ groupe et à voir « les autres » comme tous pareils.
 *(D'après « Préjugé (psychologie) », Wikipédia, CC BY-SA 4.0.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Stéréotype, préjugé ou discrimination ?**
 Classez chaque énoncé : **S** (stéréotype) · **P** (préjugé) · **D** (discrimination).
 
@@ -181,6 +211,7 @@ Classez chaque énoncé : **S** (stéréotype) · **P** (préjugé) · **D** (di
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) S — 2) P — 3) D — 4) S.
 
 **Ex. 2.** Modèles : 1) *Les Français ne mangent pas tous des escargots ; c'est une spécialité régionale.* 2) *Beaucoup d'Allemands sont sérieux au travail, mais pas toujours.* 3) *Certains ados lisent moins qu'avant, mais pas tous.* 4) *La plupart du temps cela dépend de la personne, pas du pays.*
@@ -188,9 +219,9 @@ Classez chaque énoncé : **S** (stéréotype) · **P** (préjugé) · **D** (di
 **Ex. 3.** 1) Tous — 2) Toutes — 3) Toutes — 4) Tous.
 
 **Ex. 4.** Modèles : B : *Pas tous. Ma corres allemande adore les blagues.* — B : *Les films montrent une image ; la vraie vie est plus variée. D'où vient cette idée, à ton avis ?*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche — dialogue (oral, 3 min en binôme).**
 A énonce un cliché (sur les Français, les Allemands, les Québécois, les Marocains…). B **réagit sans se moquer**, en utilisant **au moins deux** expressions pour relativiser et **une** question de relance. Puis échangez les rôles.
 
@@ -210,37 +241,18 @@ A énonce un cliché (sur les Français, les Allemands, les Québécois, les Mar
 | Langue | quantifieurs corrects, accord de *tout*, vocabulaire de l'unité | 4 |
 | Interaction | écoute, question de relance, ton respectueux | 4 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue stéréotype, préjugé et discrimination.
 - [ ] Je relativise une généralisation avec *pas tous / la plupart / cela dépend*.
 - [ ] J'accorde correctement *tous / toutes*.
 - [ ] Je peux mener un mini-dialogue de 3 minutes sur un cliché, poliment.
 - [ ] Je peux écrire un court texte qui questionne un stéréotype.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam" >}}).
 
-**Tâche 1 — Compréhension et notions (8 P.)**
-Classez chaque énoncé en **S** (stéréotype), **P** (préjugé) ou **D** (discrimination), puis justifiez en une phrase le n° 3.
-
-1. *« Les Asiatiques sont forts en maths. »*
-2. *« Je ne veux pas travailler avec lui parce qu'il est turc. »*
-3. *« Une boulangerie refuse de servir une cliente à cause de son voile. »*
-4. *« Les Anglais boivent beaucoup de thé. »*
-
-**Tâche 2 — Expression orale : interaction (12 P.)**
-Mini-dialogue de 3 minutes en binôme. A énonce un cliché, B relativise avec **au moins trois** expressions de l'unité et **une** question de relance ; échangez les rôles.
-Barème : Accomplissement 4 P. · Langue 4 P. · Interaction / prononciation 4 P.
-
-**Tâche 3 — Expression écrite (10 P.)**
-Écrivez **6 phrases** sur le sujet : *« Un cliché que j'ai entendu — et pourquoi il est trop simple. »* Utilisez au moins **trois quantifieurs nuancés** et **un contre-exemple**.
-Barème : Contenu 4 P. · Langue / quantifieurs 4 P. · Cohérence 2 P.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Situation de départ + Activer 8' · Apporter 12' · S'entraîner 13' · Produire (binômes) 9' · Réfléchir 3'.
 

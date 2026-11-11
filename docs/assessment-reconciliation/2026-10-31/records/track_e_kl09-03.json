@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+  "exam": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md",
+  "before_unit_sha256": "b44a31b013b5453428d0b2496fdbe4f235ee4605a0996aead7123f939a9e82f5",
+  "after_unit_sha256": "b5a1e2c1b7d06c9b942864faad96299576aa66d39642a99c263f1babea8c15c3",
+  "before_exam_sha256": "be9441aea49ed77b0892b8a72f3692006fef3cba615bf9a9c82a7762f562f246",
+  "after_exam_sha256": "df1e18711368f388ea380c7f985a60a52240cca5d39609f02b62c8014e130f92",
+  "source_sections": "C",
+  "supplied_source_sha256": "73930b5443cce5f4606d4ef1d64f980956aec07e15ec984b7b1ffe0adf38a56b",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unsupported 15/40/25percent claims and fixed tu compostes; reconciled conflicting number of actions in dialogue. Supplied source is original teaching passage; blanket ecological claims queued for coherent source correction."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "260420ace001787479f3a2f16f15f0d8574e1371c08eb7c2c5c1458a0f77620e",
+      "before_sha256": "260420ace001787479f3a2f16f15f0d8574e1371c08eb7c2c5c1458a0f77620e",
+      "after_sha256": "801f21e67ee353c74d8fda8c5592abd8cf63a52cfd16692b82065c36b5fcb821",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "5cef4e4ef8f31e33feff847532049dac92a1b8020f9c8d79f4e466f57b3812f8",
+      "before_sha256": "5cef4e4ef8f31e33feff847532049dac92a1b8020f9c8d79f4e466f57b3812f8",
+      "after_sha256": "96bf0158530441f36c2df1cd9b0cd062730b689817253bc0a39b91ee5edcbd76",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "801f21e67ee353c74d8fda8c5592abd8cf63a52cfd16692b82065c36b5fcb821",
+      "after_sha256": "b5a1e2c1b7d06c9b942864faad96299576aa66d39642a99c263f1babea8c15c3",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "96bf0158530441f36c2df1cd9b0cd062730b689817253bc0a39b91ee5edcbd76",
+      "after_sha256": "75bad9d46e648a799105c3379e34877a6c05d57ea96a370926978e15f0320394",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md",
+      "before_sha256": "75bad9d46e648a799105c3379e34877a6c05d57ea96a370926978e15f0320394",
+      "after_sha256": "df1e18711368f388ea380c7f985a60a52240cca5d39609f02b62c8014e130f92",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
+  "exam": "content/track_e_kl09/units/unit06_podcasts-en-francais-e_exam/index.md",
+  "before_unit_sha256": "a4b4c2282eaab3ff493ebdf6ad9b454eaa661d30e4710dd4fc46d8450953fea9",
+  "after_unit_sha256": "32a8bb568a46014c1defeb954784529a36eb7291414e0f1960270d6623461407",
+  "before_exam_sha256": "19266f134f50fa10297a0c99cdc6f93cbed46f66db5bcaa1b5615fca52ac0836",
+  "after_exam_sha256": "1fb7d3cc4376e842c63252592bb204a6800dcc13a59ab1d90d386e865b242883",
+  "source_sections": "C",
+  "supplied_source_sha256": "43c27f1a2a6288f98d63686c7d97e2cccadcacb26fb5a01e1bb50891c2536e2c",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "decisions": [
+    "Original Les récits du jeudi supplied as live-reader source, not an unprovided public-radio recording. Removed unsupported Carter/date question and second-excerpt summary; corrected season definition."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "81e2016fcc2f5a54218bff1c400e7ffe7d7c485942fd860673de208908141de1",
+      "after_sha256": "32a8bb568a46014c1defeb954784529a36eb7291414e0f1960270d6623461407",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "673223354fac02e51629a119eafb44b6995585b5b2d2bbb4c0d3e1f9c1780b56",
+      "after_sha256": "ea443d23944ee43d54304367f8bb66cfd6b192f8ad0447a54e01506c40fe410d",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit06_podcasts-en-francais-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ea443d23944ee43d54304367f8bb66cfd6b192f8ad0447a54e01506c40fe410d",
+      "after_sha256": "cdcb85d701b350d2e271c828303a0cf2f978c500c24e3d150487e81fdd495f31",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit06_podcasts-en-francais-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e_exam/index.md",
+      "before_sha256": "cdcb85d701b350d2e271c828303a0cf2f978c500c24e3d150487e81fdd495f31",
+      "after_sha256": "1fb7d3cc4376e842c63252592bb204a6800dcc13a59ab1d90d386e865b242883",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

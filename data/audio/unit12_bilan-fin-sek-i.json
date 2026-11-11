@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
-    "source_body_sha256": "0f6be913ea4b20bc646bf1066d0b4e7d84689ba7b680202a6473fd6b6803d9a8",
+    "source_body_sha256": "2195c46bf50d050cdd50ab37e6c3f2447e2f6de149fd6276bf9cfe91d3b9701e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
-    "source_body_sha256": "0f6be913ea4b20bc646bf1066d0b4e7d84689ba7b680202a6473fd6b6803d9a8",
+    "source_body_sha256": "2195c46bf50d050cdd50ab37e6c3f2447e2f6de149fd6276bf9cfe91d3b9701e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
-    "source_body_sha256": "0f6be913ea4b20bc646bf1066d0b4e7d84689ba7b680202a6473fd6b6803d9a8",
+    "source_body_sha256": "2195c46bf50d050cdd50ab37e6c3f2447e2f6de149fd6276bf9cfe91d3b9701e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -55,7 +55,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
-    "source_body_sha256": "0f6be913ea4b20bc646bf1066d0b4e7d84689ba7b680202a6473fd6b6803d9a8",
+    "source_body_sha256": "2195c46bf50d050cdd50ab37e6c3f2447e2f6de149fd6276bf9cfe91d3b9701e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -70,7 +70,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
-    "source_body_sha256": "0f6be913ea4b20bc646bf1066d0b4e7d84689ba7b680202a6473fd6b6803d9a8",
+    "source_body_sha256": "2195c46bf50d050cdd50ab37e6c3f2447e2f6de149fd6276bf9cfe91d3b9701e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "dresser un bilan.\nun acquis / une compétence.\nfaire des progrès / progresser.\nprendre du recul.\nun point fort / un point faible.\nse fixer un objectif.\nl'autoévaluation (f.).\nle parcours (scolaire)."
@@ -86,7 +86,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
-    "source_body_sha256": "0f6be913ea4b20bc646bf1066d0b4e7d84689ba7b680202a6473fd6b6803d9a8",
+    "source_body_sha256": "2195c46bf50d050cdd50ab37e6c3f2447e2f6de149fd6276bf9cfe91d3b9701e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

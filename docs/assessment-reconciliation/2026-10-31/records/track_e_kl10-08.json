@@ -1,0 +1,56 @@
+{
+  "unit": "content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+  "exam": "content/track_e_kl10/units/unit08_reseaux-sociaux-e_exam/index.md",
+  "before_unit_sha256": "f02fe03265107fcada7b88ad1fa4ffb9c55bf75872670f86c806c3897f9c6b87",
+  "after_unit_sha256": "fe015b6438179c0425e64db949d29752c582543e2ba1227528493adf33cd8f62",
+  "before_exam_sha256": "2bc33e06a197eb2ee108ea0dac46c57be082972a9794fcca5e937bc08a3957a0",
+  "after_exam_sha256": "3e4377634be969c5b955f4084a0e2a4316aacbb0efe4e0c737a1d3e68c670955",
+  "source_sections": [
+    "Texte"
+  ],
+  "supplied_source_sha256": "2a93f49a88201d0949b89ef583747d635a532ac608d1a3d826f01f5524dea3d1",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual Camille/Yanis profile text supplied; removed fabricated detox/sleep statistics and required numerical quote; preserved observed oral follow-up."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "1227de1d2cda604ef2e1221681ec585a38964057ca7371e8bbdbb7a3adcc83ca",
+      "after_sha256": "fe015b6438179c0425e64db949d29752c582543e2ba1227528493adf33cd8f62",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "13181bb369244da5eea4081ca84b51d0914bf791db36c0711bedf7dcbbc4e30e",
+      "after_sha256": "6219da95ded470902f885b24cfb20e4a3ed97744d174d7df7e1ea94f63189e06",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit08_reseaux-sociaux-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6219da95ded470902f885b24cfb20e4a3ed97744d174d7df7e1ea94f63189e06",
+      "after_sha256": "113a2a2a8fe6b4d9516a3d7797089f6bc1dd9a2fd6a25f6f65c58c5c1f1aa7c2",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit08_reseaux-sociaux-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e_exam/index.md",
+      "before_sha256": "113a2a2a8fe6b4d9516a3d7797089f6bc1dd9a2fd6a25f6f65c58c5c1f1aa7c2",
+      "after_sha256": "3e4377634be969c5b955f4084a0e2a4316aacbb0efe4e0c737a1d3e68c670955",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+[
+  {
+    "path": "content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "f6299ffb4487ebe40d9160c7ad6ff1052d7652e7e883965bf345aa4bd3ac2b3f",
+    "after_sha256": "c40c5626bfd0630f82a0ccdf68e95148cc5968335b01331b392ce706d33fd08a",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit02_raconter-une-anecdote_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "305838a55ff517a21de9f64d1a9b4b69d5d1be012b95d95b4343988ecb691553",
+    "after_sha256": "6931a63eb6db8fa48e14bae5f53f043570a37ebc6d81d143876635d04b940a66",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit02_raconter-une-anecdote_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit03_mon-quartier-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "f32f7c4ab89ec8472c2cef5cec1f91a4202d211b66516af6c931330bebddb10f",
+    "after_sha256": "510c25a34fd495f83ee9d456a7040a0efb1e26acdcff875a31a0d63dbe85eb3b",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit03_mon-quartier-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit04_repas-en-famille-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "53665b30a3301b9d0f5550aea1c344ba23090a262e320c1e244e2f9092b80c42",
+    "after_sha256": "b16a23a0e218718bcbce42259cdc366e4572ecb4cc79e701f7150d0044f92c50",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit04_repas-en-famille-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "b1295801169785f6b172aa2228931379439cae71a55052e2695264aa11fed2c4",
+    "after_sha256": "d3c82c1b0c14b4acd0a551c02172de3ba86d00bdb63aae4a549a91020a24dc38",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit06_transports-et-mobilite_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "bd2c1a1b8f25b22239f0e53268a51eda582c6302caf850ce4e228a3baca4eca0",
+    "after_sha256": "3e5c7f8c87820be2bd4ac7a2ef864ec09e1268a8b07d3c19ceffd44958906335",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit06_transports-et-mobilite_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit07_vacances-en-bretagne_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "aa3a343c81bebb574a05c3dc055c7ea726d54668825dace573997e49d45aa075",
+    "after_sha256": "caf21d1e3ab79017f70f5825aafc2e6013fb9b6f22c729bfa2aef1cb31fd35ed",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit07_vacances-en-bretagne_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit08_le-quebec-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "612e72ee5dcdc15e18b73e37042cad24d18c931f5d477ece93227b7313768199",
+    "after_sha256": "7c51cde4cb667aa39997b153bd0891538952997a2af196bf538565eded78aa1e",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit08_le-quebec-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit09_fete-et-invitations_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "2b9e7e559f83a38ded6f4aa482c472cb00418ac0a03b32d578a2359e304b8aee",
+    "after_sha256": "2b44e5388ba16a71ca4124507d8fa56643389a9f0856939b44850f4f32904960",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit09_fete-et-invitations_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit10_musique-et-chanson-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "d2a82cc3c5e567f415bb77784abf46416722742a0e5654c87025c5daa308f5a7",
+    "after_sha256": "72c0f2a78ccb9f1290e20dc92d6e09550db8d7ff3fb984c944dc5b0fd11070e2",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit10_musique-et-chanson-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "b6b299f48f183efa9abf01b2be6a8451f3e7842c04c952986f10446cc784de20",
+    "after_sha256": "a888c670c171f36e8a45d4860e153ea3ab422991b370963b8700d47a615d1741",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "4864d1f9563156b64b00b5ab55ed8eb34b2b9874ed5af7ea1a72f72ff89eb55e",
+    "after_sha256": "bb27133266c659d917e214b242b65cd18813bebc362f06c346598efd426ba8c8",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit12_bilan-progres-7e-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "a9be9a05517779a202d4702fc74572aeccbf8d5898e39c25af6cb3ccba6e41a6",
+    "after_sha256": "044313e13d5351ef879851cd92f6198d29a146302859d8da1b86df696e265dce",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "0cf53c78d4c18719a0e209448d19463c85c43a0af586cfdb3d465f5be4e2fd1a",
+    "after_sha256": "e97b3ea27ad38a2e6928c5a54c82aa8298cbe9737785f83e94447698c0b0dc8d",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "20693f9476cba8bdcd06072dc2a85d84598f2423994c7fb5a45e6750a478178b",
+    "after_sha256": "71372d245a52b914a18a04cd4fb070c95402b56ead351ddde77126bc63d42c31",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit03_mes-medias-preferes-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "a32e466a93b787effe9cdd2c0c9965d6b9c07df9ea900df2c3d95735923db8ba",
+    "after_sha256": "94132cf9c676133936cde6c1b3e675ee3f9c9dcfd8a0110340da12385340bc69",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "2f5e4814d359895a23899da27d0bcb43143ea8f6705b62a68d307bf92aca6caf",
+    "after_sha256": "cd78f84a410664c5a99dd164a9b74eef673a5feff24009652ca2626e3369ca3f",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "d76020b2b35fbca0658c44e432adf6c4aab700c340d54f38eab4ae2e464dd199",
+    "after_sha256": "32ed1e5e98acef784e38673b658b07067f57399abbc539dd86f898783adc2456",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit06_musiques-du-maghreb-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "9fddb68eab2acbb75f5f65d1e477eb2aa5c300320347b6f1191dfa68141a33ad",
+    "after_sha256": "60ca97154a78bfe7870374d93087ef21a15f732bafca5be7081d8aa1a89ca594",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "91d1e03081931d5ea152774c6c2b2f6d330347100d8c80e0b17e55774b920647",
+    "after_sha256": "f14093cab2b844f4246818c492f991cd3e7a20b68c4bf790255e4110ea048bfd",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit08_un-allemand-a-paris-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "792eac0ac9f373ce9d3dd01fe0c9a4103168d5912946a9c1d18d9f3612714b69",
+    "after_sha256": "0f472f6ceba44f59e95d38df1862c2a58c9bd1232187e31e512227c38b74197c",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit10_cinema-quebecois-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "dc5fb21b21fd9b08e7ffb112d06067160b3532a7ede2cdb9955aa23338ce50fd",
+    "after_sha256": "773a6024061f55d01aa43f3b6ad0276f8f5ce0e3fab8e10e1508145850e15493",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit10_cinema-quebecois-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "6c7bd8a829a2df1b6c9cf5a8c307b578cdf5568bc093343dda0f4e0f2e85b842",
+    "after_sha256": "513fc21e5571ea15655b89b4d260ac1af4df777620b4d29a5599dbb6a785c97d",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit11_un-projet-solidaire-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "8d388cb301467d7cea03348ca8e9fb54e063d44effb59bb626c5745381b597f7",
+    "after_sha256": "c8a100f67def72e69fb79152fe81320c403c496fb9de8d63249e11ac07950ba2",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "ec2c3cb115af1d182cca6f27542b5282199222d5d0760c08344ff0ea99fe7cf8",
+    "after_sha256": "2c319864b1b4f8e1c8079d8167db888309816d59b25ed25b1627e9aa6e0655d3",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit01_le-monde-du-travail-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit02_lettre-de-motivation-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "37a684eb75f0300201c0256ef114d2cc7a2fb0f5670547c49c023420b6700756",
+    "after_sha256": "24f490b1118dcd5862688993404b0250e96abd904c5387c32aed6f0ee9e2c109",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit02_lettre-de-motivation-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "96bf0158530441f36c2df1cd9b0cd062730b689817253bc0a39b91ee5edcbd76",
+    "after_sha256": "75bad9d46e648a799105c3379e34877a6c05d57ea96a370926978e15f0320394",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "0289852befee06c1197cd0b749cfb3a612ebdc56fd4c432350bfc1df4968e87f",
+    "after_sha256": "17a787f2e99c1996f52468c62d244260283fa7b8f0020b23320e16ea2e4dc8af",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "a9c3b7437883acba0193faea6d2852b786727b10fa3f85fd6c18d012b43c10b4",
+    "after_sha256": "3bc2b6a37e8f0b50c0c07908ff16a1a83f5e38a135737986ad0b72869bb2e7cb",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "ea443d23944ee43d54304367f8bb66cfd6b192f8ad0447a54e01506c40fe410d",
+    "after_sha256": "cdcb85d701b350d2e271c828303a0cf2f978c500c24e3d150487e81fdd495f31",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit06_podcasts-en-francais-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "61bbc1dac4da7e5cfef12c209d43f3b6e1922682ca7f854ea9a6c22ee3919389",
+    "after_sha256": "6fd145f9a326bada2951f19a0d2bd7c0991ff304f7085ffb81a1e42525f9ec3c",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit07_harcelement-et-respect-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "0108051764d4423fc857f89c79517f948f0a1da4d0b77d047a22278bb771771c",
+    "after_sha256": "3c27be737b91ea8a745bc2aeeacdde554dbe32bc24b6b394f11397cffc39611a",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "1ea1e138e490849c851fa0bf1029fb28c455ecd6d625ca3d940d0e5179494507",
+    "after_sha256": "6f3e40efad7bd1a0972936985b15feee66fc80bc8710cf5ebc9eceb704dad706",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "a555eb03f2048798e4eee3786846ef7373b59beecbe646dc8d5aee580749ffcd",
+    "after_sha256": "a28e60853d5cdc25d06cc7ca2c5df735c012cfec784eb5a284b4a3934ef947aa",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "adf8bb2026fd0494f6b973319375567e12af7765c18b6eaa92a812346db60e14",
+    "after_sha256": "9b23484ebcdea605a5758e67559b2c3ed1547496cbc191675dab48c8207557f7",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "3b21369452e0e6901f8a681bfd65c4feaf4c9d272681cc4dd4619ec810ba945d",
+    "after_sha256": "9073c7a1a50b56de1d00c5cae12f5e86e86557c6a704d87c00a0343aed8c66c3",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "ba1771b5f12717ea3d63c78e1cc7cbd9514406d7ee8e3f41b44efabcce2e539b",
+    "after_sha256": "cf2be218c88a94f7f7c538b19aacc2f8969a92166bcb3cc018ee09d19e2a472e",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit02_presse-francaise-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "b3925dc713dc0faabfa2d07c4849b1ef933cfc884713038de6aaadb810acf9e2",
+    "after_sha256": "58f0f7d014b7af27d3ad29e58c18d15f29c9abe932f5c7e95cfbea4e7ba7ebc3",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit02_presse-francaise-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "99c53b6b717803050f465998f0600938c8ab74237496ec9e7fa7ae3a8b177cc4",
+    "after_sha256": "77063dfa2129c3961d87e7ac6e5670f4ff671cfe77163d7335cb3a77a64af01f",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "1f82d6a9bc748a2886eeb8344a100cb8c84f8f9afdda59d0cd9cc5f9bc0de78b",
+    "after_sha256": "73531f0bbcede800122edec0428265198edcd9889c268ef9f5ce78e65dc4d55c",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "82cc3a04215f02edf7ccf6b356d8251b6f0116b1f22798a4199a9d1aab8d8400",
+    "after_sha256": "bf26bad874e9d75ad407d1aea58afc948c47b047ae55444d325e80bee6714ca4",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit05_premiere-analyse-poesie_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "c68d7bece6cb9163bc1414295ec5f5f866c9921684f553aefc4d3c76d7f3acb1",
+    "after_sha256": "22f3c4047a1e11548c031f5a522b1885b7c065ad1404d6ee377c022f4bd3d0d9",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "7d1b7a30e996a2b644c34214a45e681d4c279d4fe1870b9e6cb4bd3db0a3a118",
+    "after_sha256": "6c398130bf9a96d00c78dfc8700950dd6ebfdab4854b08eef27218fd33898de4",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "6219da95ded470902f885b24cfb20e4a3ed97744d174d7df7e1ea94f63189e06",
+    "after_sha256": "113a2a2a8fe6b4d9516a3d7797089f6bc1dd9a2fd6a25f6f65c58c5c1f1aa7c2",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit08_reseaux-sociaux-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit09_extraits-romans-jeunes_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "31d55f7c17fa3c7f2bd1b2b781fbaf43917c50012c42f924a6523ed20258afc2",
+    "after_sha256": "6b68d03d7e2bd39e5cfd877e7c02e00aa2b9909fe933e8c728a8e97fc2da0374",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit09_extraits-romans-jeunes_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "57537ced5a73faf0f4028e6c1d35c40c137ef6a6ef565b6c73585fc084a1f4eb",
+    "after_sha256": "4882efb8f1080d3129deaf1645a9d08ccb1428697e4844960a2d83ba93d88291",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit11_preparer-un-discours-e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "4a79cf5d9cfa7363f6eb3c0baf675cbf57c32fec5e8d133863307bb17aa5404f",
+    "after_sha256": "a536c2fa5c19bec481fa81606dad2d3fb35ef1f88936ddfa3fc5c8a08298f76c",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit11_preparer-un-discours-e_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "13c60825bab5e0f251d126465988fcac9015945fb98124bfefc3e13532fb8f15",
+    "after_sha256": "388a1dd92fb5fc3e234872cb8461aa97e8319a818e2772fa562745eca55045b6",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit01_ecrire-sur-soi_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "1330fd4c0bdd71e201fd64569b71b6d0c2a6b54acda5e00526ab068fe3872e74",
+    "after_sha256": "97be09361199156d3d7c26279d158ccd4d8352b41ebd698985b59d18b3f088f5",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit01_ecrire-sur-soi_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "1165c27f944fd0c6190aae6db6e2e9ad77312f080d819c9939f61993d19514c5",
+    "after_sha256": "b34d47020754597392489d9fdaf45e03734e9dd6c57d98df8e0a2a06c5162787",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "bfda12cf4c5242c112a38932af5bd90134f30aedfcab72d037a7e47f5949f1e1",
+    "after_sha256": "ff62cc4830de9189f631edf96c64224fcafe88fdbea8b47aaa8c1edb498e1177",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit04_court-metrage_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "b5497db611cc0fc390324caf1b0936fe1ea4366b2fcca3565177370e4ec5bfe8",
+    "after_sha256": "6684e0f83608997fea085307435fb3530ca47b65b5166f9248444905725833e5",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit04_court-metrage_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit05_mediation-academique_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "b91eb8add5ab00ee800a7e18b486b3e8020592420eac1fd59c700e14dbbd0823",
+    "after_sha256": "dffc6b2c9ed8caa094b72c5c18b9495ba504bd11bff40e93b20078aa1eddd528",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit05_mediation-academique_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit06_argumentation-structuree_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "f16d8d709442246e9776cf75013980f10ec72629797429518e821b7cd81345a6",
+    "after_sha256": "9c725dd4a64ebfbe70d37a7aa0533e3adf5ef65b7fb0ceeb7b97aff7351fa798",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit06_argumentation-structuree_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit07_extrait-roman-contemporain_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "9eb440b736d7aace0ab3b204f650fd5e981ad69b50c7d06461e05cc768239bcb",
+    "after_sha256": "e70ace0861ccf10920df2926086560b543fb936a51e3fb21ac6732b5b4c1f55b",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit07_extrait-roman-contemporain_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit08_voix-feminines_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "a5e883707de15d65eb4cf50e1bef144340e45578a458d44b30200c68e07f473c",
+    "after_sha256": "f38c760f7c75c1014b89a9730d60f5388827a6a87e8a23f67ba4e454a35d0bea",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit08_voix-feminines_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "4d77299d4faf5a711eea52b3648a1cdb15c135df6946e173b17b21e41fe78f08",
+    "after_sha256": "6b256313bbfda89d47ab72a08389c75c5b8bb7b32e4e3d903300c5a700e746da",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "89711d96c4e633d7d8cf041b17916e4890c7d24ce86d6d795c67311254157f8b",
+    "after_sha256": "49863f312ed9fbd303c428be5335e77eaf49b57509adb0e0cdeeefd07f73ce08",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit11_discours-politique_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "a563c3bfec19b4c8a0b4b8a19c32e86aa1c4cbc46fae26c19ea36cdf87983d04",
+    "after_sha256": "7ddbdb15c3d80f3c9da06afd3353e864b1e4b022f8a6a1d13302f8357748d543",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit11_discours-politique_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "167998ca2912ef32ef7403f5ed4c70667ad9deb49223a7accbfa962461932463",
+    "after_sha256": "6c85536d12e57f6eb91af540ae4de2ea43bb86adf1ffc623b8a8a7553d07002e",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit01_introduire-camus_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "874c25a15ed0be97ff8236d5e5d211f456876fd59f2faf11b8ace00d80c94fdd",
+    "after_sha256": "e8a477ae5221fe65bbf83688763515f7d24167795ed6e576bde207379608843e",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit01_introduire-camus_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit02_analyse-stylistique_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "425d1ed1c7ac7894d7c68647bbaf1056bb278fe13d0f2e38d2ddd862ee545b64",
+    "after_sha256": "d32828b340fc611e0f5f372110bbef96fb77ab6e0ccf35308889aeeab7f95ce4",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit02_analyse-stylistique_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "e18e4eacc1ddf1e12db8710c21b9d9f21a355c6bc00c216f6518f99750471755",
+    "after_sha256": "d8a38398e0cb66d93d74cadf60a905857452396aa74ed4149159d279a7a633d9",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit04_presse-engagee_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "68bb683800001874b6386a2980d18cc2227cd4f87d62719e6d7ee7e9eb4c855c",
+    "after_sha256": "adbb1112b8348c664962992d33d9e2eafd7a03d468d8a845bf7afd950cd4a3aa",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit04_presse-engagee_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "7488391243364b80fbeff274a4469dd6a70b2a9a7c048e4d15d6a695be3abf9b",
+    "after_sha256": "45b22c23bd034cf3a347787602f8aa4544576e6b9f3920c257a76591a04ed1c8",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit06_etude-de-roman_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "ec26425fe5cb5f93a0c31342c47de2ecb72fec3b9fc559998789925db0dfae53",
+    "after_sha256": "780a34c5f2e995f7b5fde1ad8ac9cd90aacceef06ffb5674b49474606e7e18ad",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit06_etude-de-roman_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit07_discours-radio_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "fbcb8174e7d9e8cde63f8fbb3fc6c7132f750326df3d384d62ff0a44092495da",
+    "after_sha256": "76ed0c73cd52dd9e0c38085889b56a8f943b16e6ddb8cc8ee5dbfae95f1e09a1",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit07_discours-radio_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "8191ec1dae8e7feb58c726433c2f079d6dbc9f31e5101468b8790948d06335e3",
+    "after_sha256": "9457c1c9a4eb6d4059a31bca7e2bb4f713f71a1886d5b5cd539775bd72d0e35d",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "ffb29016aa1a96e4c048a2933526f207f1466ee2aa50d2b087794e5d8498dfbc",
+    "after_sha256": "86d01517f9bf7d3fe0ccd4602f7df70292f16c343a1cc8606b1bcab2c24780c4",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit09_memoire-et-traumatisme_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit10_argumenter-en-public_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "11dd20297193f8a78496a780ba6d2f1e8e510164d6c6980a9fe92d4a580a705e",
+    "after_sha256": "7e2c26887e071ca5c76cefb627b769b308b2f1b097a4d4cdb4e5af02c6fdfef7",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit10_argumenter-en-public_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "5d6dc83acc1d2e99718b81d023ee9ce2663c11b288d0c1cfde1b922b6e44053c",
+    "after_sha256": "5bac77fbf13874b3bbbee9bf134b269d9785f1cbcc77d4f43f585c679b82d1f2",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam/index.md"
+  },
+  {
+    "path": "content/track_e_kl12/units/unit12_bilan-12e_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "3bf460722820da62e8500e521c921341ad18a15f9eaf1d3da546ca241bc0f55c",
+    "after_sha256": "13fad8571bc6170a33c300bb0e2940a279016c346b7b42120f7097af8f6982c3",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit12_bilan-12e_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "8d3666301bb197261383c82f97975c0cc42a6a47157ad1b60a29814beb63b7d7",
+    "after_sha256": "180fabf1a8e68a0fb51e5869be06b8120c30ffe954a6d0a632bef4c4cf71eeea",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit02_ma-famille_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "7fc56443f0246d223c8492a81571bfae33e5fc026d0983b57c1362ed2c4c09ab",
+    "after_sha256": "f6fcec2551f165d5c709fa1b794488dc1b9da4675c8259e547128387627af81b",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit02_ma-famille_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "fedbecd031ab12deaef3db4c3235bf0551f8360cd1017ffa466b44413a099e55",
+    "after_sha256": "89ce3e8380cb67c94f1cc5de9fdafa42fc3be86df301b5c797cf3c5073076aef",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit04_ma-journee_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "1bd9517d9352a64abfcefe9fa1d1922253f6b3160fd216f0a01d2147d7290c56",
+    "after_sha256": "591effce39abb7f5ad237c63c3aa5fde011a1d11bb91d9ab428eb246699e4bad",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit04_ma-journee_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "e0243f00e764428d4a10bb9042de33bf48a349dfe5be2d0cf92e4e5f42bd2033",
+    "after_sha256": "611213ecb9098f2f9e70a6fd8cf9b5e678c62734819a963dd5cefd53762796f2",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit06_au-marche_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "867db2d3c4cb29199d46d057172348bb42df9597ffe84aac84776606875967aa",
+    "after_sha256": "891b56455929ef51e9b038b1fe46bcf003a806db17da0e0f33dd6b60a80efb35",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit06_au-marche_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "6b1a86198b7c699b3d52113cf13a78c45cb370491a10aec3860e8afb8e5e3c11",
+    "after_sha256": "13c06382ada88432c81d8fed00468f882a5936a30e1916fb9c63cfeb1b1d8cfa",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit07_le-temps-et-l-heure_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "bdf35a37c67b6e35a2080be5f3d59a2be63b5427df71078b7cd7c75f3f134d4b",
+    "after_sha256": "a9c0bfcdbefd46076793105ab4af9b3ec1ca09e749bca2a410ac0291b1a85c9d",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "a4f8dead4a4f41208b270d465f18ae8716f6b167c632bedf9d58947d4bbc5723",
+    "after_sha256": "aa647a43efa211a1f0b0e29cf3dfc03e90e882bc972d62dff1f5b855c8cdf08e",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit10_mes-loisirs_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "05594461bba5d9d0b2c1b94b9e2966d885ddf48d78c79b76a3543d887a4b3369",
+    "after_sha256": "fb6f0a0d6af5beaebb00af741ac3d0f39d78c9e4b49f3d30405dc1c8eb9432d2",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit10_mes-loisirs_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
+    "kind": "unit",
+    "before_sha256": "e15b2cb785188deb41c477fe653962c48742cd645b5a3191d068063220c2ec7a",
+    "after_sha256": "7496212141ebbbf99e9239e1f3097003f3d0873ac337878edd09ee5ac7ec1e9a",
+    "reason": "Record both actually observed speaking production and interaction.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit10_mes-loisirs/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "136abd9a79fc652d22b9cb080f466c0cd8c7d9f250f629da8e2c3a4806c07a5f",
+    "after_sha256": "61ddd9c2fa06362373c860be693ab47a01c9ab265bf4c96853dcda6f5cd81c86",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "66f69caf7dc0e29bc268bd91a90827cf6e40e7dd37c8dafd26a3576dd898a627",
+    "after_sha256": "90b511f22a0c8e5b68fe8fae2981a04f22521ab358555ce8f31f002c0e616027",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
+    "kind": "unit",
+    "before_sha256": "068eaccafb185f17e4874be3ae4236abd2329b942f16a173a0f12875068cd9e1",
+    "after_sha256": "74a57db70ac98c14fafea2c4ea5acdede52596b62d3d1d33742a0d03081c4117",
+    "reason": "Record both actually observed speaking production and interaction.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit01_ma-rentree_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "ae3dc58df8cafeafd04a596d7f019a1e126fb6b691e4cae6654a554894030778",
+    "after_sha256": "15d65f2e212b0bd8d835ef5e0e389ebe49d688e7444f1a0d77debf672fe7fd78",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit01_ma-rentree_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "a2523b286330e0046e82e6db9749d7ccf4a424f8638fc5e440dade310bf7e4e3",
+    "after_sha256": "24d9deb12c41808c9b4794d16525ee1abc0af8f774abaa62355f5f1bc732668c",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "8e471e4e0f3ba5326771880b306cae31751ad44bfdfe6131a2542e825e92f330",
+    "after_sha256": "30b727f775f247927b9e12e013770237cb4d362682f9d3e6578ac3bb4e2f75b6",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit04_les-repas_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "22d7b0fd3092636f8bb199178d8eb8bb341f4dee3525953e88b773f8d09d04fa",
+    "after_sha256": "8d2ba4b0694cfbaa6246a11780002e01f00f1ec6aff5e5708596d72a2569ee1b",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit04_les-repas_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit05_amis-et-conflits_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "aa94c46d5790f526254d0f064b53265393ea2c636acc8a0dfef564ee03e73c7f",
+    "after_sha256": "d81d06eb31e859d7fb54c6e9fec50adecf5ca204140a88713114a009c10f0b80",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit05_amis-et-conflits_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit06_les-transports_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "1cc09c1db7d6f1a779e187d8d6335899793606236594eccb09dd85eb608dc3ee",
+    "after_sha256": "99502873887c269986daf2913a00eb9b9ebaefaa7865a7181a37e2d8e98c1d47",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit06_les-transports_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "8d4225608d205755fa99fb4a22a6cf97ca843fc3a09627a942f1759b9dcb2d5a",
+    "after_sha256": "52a0acb30e2b7bf3482a0ef1cfa530c47595392a0fd380c5c2a4a07acc39f121",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit08_le-quebec_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "00f73c88966ca15fc1230c55ff0addbe11302e608dbb841f4ae9ea230c7342b1",
+    "after_sha256": "32c5fa71b7cfb3fe01a49c18cacddea1dbca13f3ff838b0bf7009c2c9e130706",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit08_le-quebec_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "98488fe9231aa39725584b42e0888b7d32f9ceb3c17f5a8f4b1522f413b37b56",
+    "after_sha256": "c2219cdf3b04c6f49e0b11df21fa8dd2c00334e3bf2a924dc0ca3e0c4f20c20c",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit09_fete-d-anniversaire_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit10_musique-et-clips_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "e9e60dfd1a6bf807a285679cd9bfcb8122c20e02b7c94b5ddf1b1d57e86d260c",
+    "after_sha256": "dc5e1e202e9ebde88062bc22c6aadd4af512b8f0d8e6f8c48923d32ed04cae8f",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit10_musique-et-clips_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit11_mediation-de-base_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "baeb9423ed57b4786126d7279023b0891e1df88006f3d890db1046b2328c2ccf",
+    "after_sha256": "d05eca5229f840fb421622c6d65c283c0890d38a54454fa6bd9e551ce2fe6e4d",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit11_mediation-de-base_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "4ff928181328d03a3c57fe241a966cacb8bce40b11b5e2dfa6640cd833549bc9",
+    "after_sha256": "025efd900c4f3429197a3e769a82b06ede58cdcac9baf5a028d2f19a65d87066",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "73f8b7bb88b00e1922647453a09e552dd3d52e412f277fc7725c805ec69af3a1",
+    "after_sha256": "5300e682c159660dd3b19027b876577921f3e6f94f686d56fb3cdcb967473834",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit01_correspondance-avec-montreal_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit02_mes-medias-preferes_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "bd67a6074df24918085f5cc7c0c5e503aad72389cb06db7d14c3cc2cc17e8805",
+    "after_sha256": "816161a58293d93b0103e22821c1a64fe80753bf73b88ec98f52d3bfd9e21153",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit02_mes-medias-preferes_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "382da90321a6c51a201ab04d0cbb20e6894df24451d52c6441ca9c50d1f8a274",
+    "after_sha256": "23bb082b25b216f4c82d14d46e96b9336af7173fafa03ee4a27473e926f24eb2",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit04_futurs-projets_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "565c200805fca92bc9b51cab52e5728f25b0d8c99ab40f64abe2d10c69e0c1d7",
+    "after_sha256": "6440ba2001ae83a05121e7d7cd4fa890dce746303ed2c3632c4b55794f188fce",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit04_futurs-projets_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "ef230a78eb1c09f10aa8849f3b4651ba696b2bf7aa5c1aa8deda3f3e847ede67",
+    "after_sha256": "9c2f07ce9302c36a4de92b2815a2ca11153c16f860cebb05e61d1f8ca57ba86b",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit06_musiques-du-maghreb_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "747a5b702b7790de7ff7d9aba182ed10e6478eea25019572bf6df329835b22ce",
+    "after_sha256": "e0a6ca95821cd59fea13a0a9ba994386a7095695014cf7a3eb5f13f4225cb4f5",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit06_musiques-du-maghreb_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "98edda19ff663ec676174be119aa65887eab6fcea0008866646d3ccb16060888",
+    "after_sha256": "44afbe54d0b9b17b0753330e7c5e98d10989ea252fc2eac9ad53f5fb2ca2b0d6",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit08_un-allemand-a-paris_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "3762473fd969938889da01002801d0400dda85bc65202d890e09857c4329a514",
+    "after_sha256": "9950930e3d231a6d719d58f6fd71518ab7e5750499e1f82c53580ff9bfbf8775",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit08_un-allemand-a-paris_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "faa206b9d17737602a77ad38e228b4d6d3a201c5b55009bfe63b0d7c6bbb8084",
+    "after_sha256": "3442a17abe0a7b77c7b01ef335cda34e174cbee0e16d581eb6587f6e6fe094a0",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "949b29b561c1102e5d2bdeff191d922d294b2d5fe361ffb8d38e9bbd6a9a9f7d",
+    "after_sha256": "0595f572b728485ce8f49295185990c4ba3d3430f8371cf33aa7a042d4ee3de6",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "e13e8f42a44fb47bcf9f42d725c98ee9a356268acd782e8d158643eccb82fcf4",
+    "after_sha256": "63cb7b69058003012f09fa4b5dd0d1b87c50d8f21cf2c9feccebcd6b6f68d4af",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "858de5e2244ad79930a8f8826406ce4f8d64764af704f37101f0d3943d803228",
+    "after_sha256": "cb446985ae194e244f4fee2a7eaea9ec7df32f3f3b12ac34e67e6ffb046a1881",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "d32318e383cb79c003c9967cd974aeb89d32cb323e8c2e70fa9c71db6e3267cb",
+    "after_sha256": "c530283a158f1f727e20ed24e7fb4c7432c2987104865cdad3dd6f64ec9f2de4",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit02_lettre-de-motivation_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "cc8e9b7a0a9230f7d2cc5d797c879e3e9b3f82e7b41a457eb722ff8d80ac4b82",
+    "after_sha256": "6510eaa1b5e66218e58170f3e0031555de06b0c3f62f13f9764410f7f10e238a",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit02_lettre-de-motivation_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "c0af427d08d4359f31245b3d1b88ea927a1d122a022d23967766ed5f9c356d69",
+    "after_sha256": "9a7f86854a40a807d59a5e262ef31580df152815841ce88152a1789c49a9c589",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit03_ecologie-au-quotidien_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "c06d907509a677e770247617f6d53c9d05a6ad4500b6c6287f6c6bdc68ee73b2",
+    "after_sha256": "f8dd10786cf916f4e5e1d29fa8096233b8fad0032ead7624e43434f80add4542",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit04_argumenter-pour-contre_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "55c2b79b7c23b920493f452fb7d47d882ddc88e6f3220f81be5fbbd9fc29eeb4",
+    "after_sha256": "c50051fe5ca0f25ee035fd1af6ac47e5f0f1a65fc4401ca3cd2f8b2e019e6e96",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit05_vivre-en-tunisie_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "a468a554538f8a78ddc59ce3988aeab0f06aa7ff42a0737c95c7723efed074f5",
+    "after_sha256": "7700abd3195ef236495f9c8f128025ed9096efeb3d504614a578b4b6f68fbfae",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit07_harcelement-et-respect_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "f2f2097418217911bdfcda157f37b4202bc1697c3f17704c4197b1c1b356f04c",
+    "after_sha256": "c385b084421de4f0a09440dcf292413255043ce97f98e9c0ab82bae02acc62d5",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit07_harcelement-et-respect_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit08_differences-culturelles_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "b77b919aa5a82c6dd99edda35c22d842d24a503400747643c55c447fc61e18e0",
+    "after_sha256": "7d3d40928021061388256cf890c062e316502007ef3606c5dd2891d95cbc6d1d",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit08_differences-culturelles_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit09_internet-et-vie-privee_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "f8a0dae03c7de190c4f834fd6f406135619f77502a25f8b2d973977a9ad6503d",
+    "after_sha256": "0548c62f0de1ac847f26a5ef4f0d1b19fd697ee6a58b56afbd1ae51ea54de58a",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit09_internet-et-vie-privee_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit10_consommation-responsable_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "9b55dff52429b7b731425f73769df1ead218aba9615a4c424c7ab560b1a5959e",
+    "after_sha256": "e28917e70cab39dd905e4cd3feedce403dfc4fd79bbfd40bcf4e271f5aec86d1",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit10_consommation-responsable_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit11_francais-au-travail_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "5fe9fa351099d5b9c9a4912538d28dfd57e8519cea65094a4142998ff5f7253c",
+    "after_sha256": "56c3123ab80eb1b8e1f180d829bf616468606a9e9f5f1ba28313f5a2a6e84357",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit11_francais-au-travail_exam/index.md"
+  },
+  {
+    "path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md",
+    "kind": "exam",
+    "before_sha256": "fd024a28ff8885b4507a2433e4504997f4e2a16189fe57676b5c1401f6c767bc",
+    "after_sha256": "20244f609ee75e7e70c609ae13cb047106bd43ed592891d3bf1d1a70b0cb6f6f",
+    "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+    "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md"
+  }
+]

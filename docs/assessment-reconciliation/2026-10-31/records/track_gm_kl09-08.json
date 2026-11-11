@@ -1,0 +1,58 @@
+{
+  "unit": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
+  "exam": "content/track_gm_kl09/units/unit08_differences-culturelles_exam/index.md",
+  "before_unit_sha256": "5c8e80694d24001b9f89922693e2d6f351b29aefe148a034685a1c5b88403cab",
+  "after_unit_sha256": "19539a66e345223dad1d2cc315898cba3fdbbdc99cb7314851090c67694b23fc",
+  "before_exam_sha256": "2bbf2538214c6db5799ce196a3c1648bf952cce00c1ba43d3fa3142417813803",
+  "after_exam_sha256": "5b4201dc7277c9db3bcfad4c88af2094df354e51998e1be6c9bd582b59d886b5",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Repairedcoherentunderlyingsource stereotype/mandatorybise and Germanzerdrücken mistranslation; exactunitreplacement queued before freeze, originalpreserved."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "7d2b1d92b8fd5aaaab8cc5dc9dd425a0a1bb4fde98c856978be3a36084b7dbcd",
+      "before_sha256": "7d2b1d92b8fd5aaaab8cc5dc9dd425a0a1bb4fde98c856978be3a36084b7dbcd",
+      "after_sha256": "68b5fe13d2a4c5886e3fb47fc0e6f6fdf01d8a73296e7a8930d3b33be1192908",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "68b5fe13d2a4c5886e3fb47fc0e6f6fdf01d8a73296e7a8930d3b33be1192908",
+      "after_sha256": "19539a66e345223dad1d2cc315898cba3fdbbdc99cb7314851090c67694b23fc",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit08_differences-culturelles/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ab0fa93f1d1a57032e9967695f3e4957e7606363314fa3a289bba763a9707ae0",
+      "after_sha256": "b77b919aa5a82c6dd99edda35c22d842d24a503400747643c55c447fc61e18e0",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit08_differences-culturelles_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "b77b919aa5a82c6dd99edda35c22d842d24a503400747643c55c447fc61e18e0",
+      "after_sha256": "7d3d40928021061388256cf890c062e316502007ef3606c5dd2891d95cbc6d1d",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit08_differences-culturelles_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl09/units/unit08_differences-culturelles_exam/index.md",
+      "before_sha256": "7d3d40928021061388256cf890c062e316502007ef3606c5dd2891d95cbc6d1d",
+      "after_sha256": "5b4201dc7277c9db3bcfad4c88af2094df354e51998e1be6c9bd582b59d886b5",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

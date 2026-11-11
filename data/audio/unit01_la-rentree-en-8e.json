@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
-    "source_body_sha256": "4d6936231940738e0e01848a6ddf63d5026badc169ce0025da851bb3d27c6ece",
+    "source_body_sha256": "baaadd0892df33d6c5935d7b05161014f31e52bbcdcf5cdabf27d93a958c6bc5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk : Salut Léo ! Ça va ? Tu as passé de bonnes vacances ? Léo : Salut ! Oui, super. Et toi, tu es contente de la rentrée ? Anouk : Oui ! Cette année, j'ai un correspondant à Lille. Il s'appelle Karim. Léo : Génial ! On est dans la même classe, cette année ? Anouk : On regarde la liste ? Elle est là-bas, sur le panneau."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
-    "source_body_sha256": "4d6936231940738e0e01848a6ddf63d5026badc169ce0025da851bb3d27c6ece",
+    "source_body_sha256": "baaadd0892df33d6c5935d7b05161014f31e52bbcdcf5cdabf27d93a958c6bc5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la rentrée.\nune matière.\nl'emploi du temps (m.).\nun·e camarade.\nun casier.\nun·e correspondant·e.\nla cour (de récréation).\nl'emploi (m.) du temps.\nposer une question."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
-    "source_body_sha256": "4d6936231940738e0e01848a6ddf63d5026badc169ce0025da851bb3d27c6ece",
+    "source_body_sha256": "baaadd0892df33d6c5935d7b05161014f31e52bbcdcf5cdabf27d93a958c6bc5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Bonjour ! Je m'appelle Anouk et je suis en 8e. Aujourd'hui, c'est la rentrée. Le matin, je retrouve mes camarades dans la cour. Nous regardons l'emploi du temps ensemble. Cette année, j'ai français, maths, anglais et sport. Ma matière préférée, c'est le français, parce que j'aime les langues. J'ai aussi un projet : je corresponds avec Karim, un garçon de Lille. Nous nous écrivons en français. Et toi, quelle est ta matière préférée ?"

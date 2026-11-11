@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
-    "source_body_sha256": "38a94ce8ed3eb4d85b72fb0aa61c6884f132530e8851faa52b7fe25f9ae1a392",
+    "source_body_sha256": "012e3a9d8740b1ea2bd4300274e4184a9524b5a0bc727571561b71f1e2e9b8e5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
-    "source_body_sha256": "38a94ce8ed3eb4d85b72fb0aa61c6884f132530e8851faa52b7fe25f9ae1a392",
+    "source_body_sha256": "012e3a9d8740b1ea2bd4300274e4184a9524b5a0bc727571561b71f1e2e9b8e5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
-    "source_body_sha256": "38a94ce8ed3eb4d85b72fb0aa61c6884f132530e8851faa52b7fe25f9ae1a392",
+    "source_body_sha256": "012e3a9d8740b1ea2bd4300274e4184a9524b5a0bc727571561b71f1e2e9b8e5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un souvenir.\nse souvenir de qqch.\névoquer un souvenir.\nl'écriture de soi (f.).\nl'autobiographie (f.).\nl'autofiction (f.).\nle récit (m.).\nla mémoire (f.).\nune image (f.).\nl'incipit (m.).\nune génération (f.).\nle pacte de vérité."
@@ -56,7 +56,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
-    "source_body_sha256": "38a94ce8ed3eb4d85b72fb0aa61c6884f132530e8851faa52b7fe25f9ae1a392",
+    "source_body_sha256": "012e3a9d8740b1ea2bd4300274e4184a9524b5a0bc727571561b71f1e2e9b8e5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "La cuisine sentait le café réchauffé et le linge humide. Ma grand-mère se tenait devant la fenêtre, les mains dans la farine, et ne parlait presque pas. Sur la table cirée, il y avait toujours le même bol ébréché et la même nappe à carreaux rouges. Le dimanche, la radio grésillait dans la pièce d'à côté ; des voix annonçaient des nouvelles qui ne nous concernaient pas. Dehors, les usines étaient fermées et la rue restait vide. Je croyais que ces matins-là ne finiraient jamais, qu'ils étaient le monde entier. Aujourd'hui, la maison n'existe plus, mais l'odeur revient dès que j'ouvre un paquet de café."

@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
+  "exam": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e_exam/index.md",
+  "before_unit_sha256": "18a221a959cac77cb41bfaa39e69172710b5882c56d62313b4f079256df0ff4b",
+  "after_unit_sha256": "caf365c0b414f55da4230c9ab647c9f15903859dee101a9a6339352a552d9d95",
+  "before_exam_sha256": "730727019fdf7f2dd9d55e7b83b4f587c43300c9423f2596ba94783110647c60",
+  "after_exam_sha256": "b6bd38b86d775c839ea18364cc1a2297bff8cd591375e596810fcdda2abe26cf",
+  "source_sections": "C",
+  "supplied_source_sha256": "c5981f8392dece8eed5dd11afc4f069230a36bb8e11532ad57aa33e938077b5a",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "decisions": [
+    "Supplied actual attributed biography as live-reader stimulus; removed unsupported most-famous-song assertion; retained vocabulary/artist portrait."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "14e1467bd160aa53d0fa7614822049485cc4d62d67246fb70cc7bc11070c5b88",
+      "after_sha256": "caf365c0b414f55da4230c9ab647c9f15903859dee101a9a6339352a552d9d95",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "597b535e3ee9d6b190385bb90b90bc44bfd6918a4387bf01ac4c4e29ecc3f299",
+      "after_sha256": "d76020b2b35fbca0658c44e432adf6c4aab700c340d54f38eab4ae2e464dd199",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit06_musiques-du-maghreb-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "d76020b2b35fbca0658c44e432adf6c4aab700c340d54f38eab4ae2e464dd199",
+      "after_sha256": "32ed1e5e98acef784e38673b658b07067f57399abbc539dd86f898783adc2456",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit06_musiques-du-maghreb-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e_exam/index.md",
+      "before_sha256": "32ed1e5e98acef784e38673b658b07067f57399abbc539dd86f898783adc2456",
+      "after_sha256": "b6bd38b86d775c839ea18364cc1a2297bff8cd591375e596810fcdda2abe26cf",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

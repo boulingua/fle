@@ -23,22 +23,69 @@ curriculum:
     - A2.MED.processing-text.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez le portrait Anouk/Karim (Unité 12, texte C). Répondez :
+## Support
 
-1. Comment Anouk a-t-elle rencontré Karim ?
-2. Quelle spécialité a-t-elle découverte grâce à lui ?
-3. Quand Karim est-il venu à Karlsruhe ?
-4. Quel petit problème a-t-il eu ?
-5. Que fera Anouk en mars 2027 ?
+### C. Portrait d'Anouk — Karim, son correspondant de Lille (texte original)
 
-### Tâche 2 — 3 temps en alternance (8 points)
+> **Mon portrait : Karim, mon correspondant de Lille.**
+>
+> En septembre dernier, j'**ai rencontré** Karim par lettre. Il **avait** treize ans, il **habitait** à Lille et il **rêvait** de venir un jour à Karlsruhe. **Grâce à** notre correspondance, j'**ai découvert** sa famille et la cuisine du Nord.
+>
+> En février, Karim **est venu** chez nous pour cinq jours. **D'abord**, il a visité mon collège. **Ensuite**, nous avons fait du vélo le long du Rhin. **Cependant**, il **a trouvé** qu'il faisait froid : à Lille, disait-il, le ciel est plus gris mais l'air plus doux.
+>
+> **Enfin**, au printemps prochain, je **partirai** à Lille à mon tour. Je **verrai** sa ville, je **goûterai** les moules-frites et nous **garderons** le contact. Cette rencontre m'**a ouvert l'esprit**.
+
+### Tâche 1 — Portrait écrit d’une rencontre (18 points)
+
+Écrivez environ 150 mots en trois paragraphes : cadre de la rencontre (passé composé et imparfait), activités partagées (passé composé), puis projet (futur simple). Utilisez six connecteurs pertinents et une phrase-bilan. Une rencontre fictive, clairement signalée, est admise.
+
+**Barème :** Consigne et trois paragraphes 4; temps verbaux 6; connecteurs et cohérence 4; lexique et phrase-bilan 4.
+
+### Tâche 2 — Portrait oral (12 points)
+
+Présentez oralement la personne de votre portrait pendant une à deux minutes, à partir de trois mots-clés. Faites comprendre qui elle est, ce que vous avez partagé et pourquoi cette rencontre compte dans le récit. Ne lisez pas votre texte.
+
+**Barème :** Contenu et structure 6; continuité et intelligibilité 6.
+
+## Barème total
+
+**Total : 30 points.**
+
+Ces points décrivent ce sujet d’entraînement; ils ne valent pas une note officielle ni une certification de niveau. La prestation orale doit être observée directement. Une réponse écrite ne la remplace pas.
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Écrit.** Les temps doivent correspondre au sens, sans imposer une alternance mécanique. **Oral.** Noter l'organisation et des exemples réellement entendus. Aucun vécu intime ou rencontre réelle n'est exigé.
+
+{{< /details >}}
+
+## Activités complémentaires, hors barème
+
+Les activités suivantes conservent des exercices compatibles de la version écrite antérieure. Elles ne remplacent aucune prestation orale et ne participent pas au total ci-dessus.
+
+### Activité complémentaire 1 — Compréhension écrite
+
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
+
+1. Comment et quand Anouk rencontre-t-elle Karim ?
+2. Quel âge a-t-il alors et où habite-t-il ?
+3. Quand vient-il chez Anouk et pour combien de jours ?
+4. Citez deux activités faites pendant cette visite.
+5. Quand Anouk prévoit-elle sa visite à Lille et quelle spécialité veut-elle goûter ?
+
+### Activité complémentaire 2 — 3 temps en alternance
 
 Conjuguez au temps demandé :
 
@@ -49,48 +96,25 @@ Conjuguez au temps demandé :
 5. L'an prochain, je ___ (partir, futur) à Lille.
 6. Je ___ (manger, futur) des moules-frites.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+
+### Activité complémentaire 3 — Expression écrite (« Schreiben »)
 
 Rédigez le **portrait d'une rencontre** de votre 8e
 (~150 mots), en 3 paragraphes : §1 PC + imparfait
 (rencontre) · §2 PC (ce qu'on a fait) · §3 futur simple
 (projet) · **6 connecteurs** + 1 phrase-bilan.
 
-## Notation
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — 3 temps | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
 
-## Solutions
 
-**Tâche 1.** 1) Par correspondance / lettre. 2) Carbonade,
-frites belges. 3) En février (5 jours). 4) Il a eu froid.
-5) Elle partira à Lille, mangera des moules-frites, verra la
-Vieille Bourse.
 
-**Tâche 2.** 1) avait · 2) habitait · 3) ai rencontré · 4)
-avons fait · 5) partirai · 6) mangerai.
+## Sources
 
-**Tâche 3.** Réponses libres. Critères : 150 mots · 3 temps
-mêlés · 6 connecteurs · 1 phrase-bilan.
+- *Vieille Bourse* — Wikipédia (contributeurs), consulté en 2026, https://fr.wikipedia.org/wiki/Vieille_Bourse — licence CC BY-SA 4.0.
 
----
+## Provenance
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
-
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 12*
+*© S. Le Boulanger · CC BY-SA 4.0.*

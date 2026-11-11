@@ -1,0 +1,51 @@
+{
+  "unit": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee/index.md",
+  "exam": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam/index.md",
+  "before_unit_sha256": "7ec6033c4103eb65995f1c961bbe830a4b8083d1b0853a00d79a0d72d81235fa",
+  "after_unit_sha256": "26058ea84cff31ef512b4baecc9cbdb382bd0ba4fde880f5d855abd7ca75ebb8",
+  "before_exam_sha256": "a93aec8bba52948c1d141698606933f7cbbdf2eda595aae5772a11c0d8452b95",
+  "after_exam_sha256": "3f617601760410dedfc7cfae00bf68c1b3fd0e9a1a1f6bfe6124865b429db554",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "CorrectedCanada/Montréalanddoublealler; actualsourceandtaskmostlycoherent."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "7ba690ed8c7923a79d3f9c7e658110ab24bb9923024478e216e4b45109204a8a",
+      "after_sha256": "26058ea84cff31ef512b4baecc9cbdb382bd0ba4fde880f5d855abd7ca75ebb8",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6bea03013f9961676fe3351f55210116e91a1d5aca9ac10678796116cdb3e470",
+      "after_sha256": "4ff928181328d03a3c57fe241a966cacb8bce40b11b5e2dfa6640cd833549bc9",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "4ff928181328d03a3c57fe241a966cacb8bce40b11b5e2dfa6640cd833549bc9",
+      "after_sha256": "025efd900c4f3429197a3e769a82b06ede58cdcac9baf5a028d2f19a65d87066",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam/index.md",
+      "before_sha256": "025efd900c4f3429197a3e769a82b06ede58cdcac9baf5a028d2f19a65d87066",
+      "after_sha256": "3f617601760410dedfc7cfae00bf68c1b3fd0e9a1a1f6bfe6124865b429db554",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

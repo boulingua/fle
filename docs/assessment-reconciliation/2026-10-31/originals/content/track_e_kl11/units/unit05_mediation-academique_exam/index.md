@@ -1,0 +1,107 @@
+---
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 5"
+subtitle: "Médiation académique · classe 11 · Niveau E (épreuve finale Bf)"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 5
+slug: "mediation-academique-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-11
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.processing-text.10
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez la médiation FR (Unité 5, texte C). Répondez :
+
+1. Combien d'hallucinations en moyenne ?
+2. Quelle université a mené l'étude ?
+3. Quels chercheur·se·s sont cités, en quelle année ?
+4. Que recommandent-ils ?
+
+### Tâche 2 — Verbes académiques (8 points)
+
+Reformulez en français :
+
+1. *Sie zeigen …* → ___
+2. *Die Forscher behaupten …* → ___
+3. *Eine Studie nuanciert …* → ___
+4. *Die Autoren bestreiten …* → ___
+
+### Tâche 3 — médiation linguistique (« Sprachmittlung ») académique (14 points)
+
+Médiez ce texte allemand en français (~280 mots) :
+
+> *Eine Studie des Potsdam-Instituts für Klimafolgenforschung
+> (Müller et al., 2024) zeigt, dass die globale Temperatur
+> bis 2100 um 2,7 °C steigen wird, wenn die aktuellen
+> Klimapolitiken unverändert bleiben. Die Forscher
+> betonen, dass eine Reduktion der CO2-Emissionen um 45 %
+> bis 2030 nötig wäre, um das 1,5-°C-Ziel von Paris zu
+> halten. Die Autoren bestreiten jedoch nicht, dass dies
+> politisch sehr schwierig sei.*
+
+Utilisez **6 contraintes** + 5 verbes académiques + 3 chiffres
+précis + 1 citation (Müller et al., 2024).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Verbes académiques| 8 |
+| Tâche 3 — médiation linguistique | 14 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 27 %. 2) Stanford. 3) Wang et al., 2023.
+4) Vérification systématique des sources par des médecins.
+
+**Tâche 2.** 1) *démontrent / montrent* · 2) *affirment* ·
+3) *nuance* · 4) *contestent*.
+
+**Tâche 3.** Modèle : *Une étude de l'Institut de Potsdam
+pour la recherche sur les conséquences du climat (Müller
+et al., 2024) démontre que la température globale
+augmentera de 2,7 °C d'ici 2100 si les politiques
+climatiques actuelles restent inchangées. Les chercheurs
+soulignent qu'une réduction des émissions de CO2 de 45 %
+d'ici 2030 serait nécessaire pour respecter l'objectif
+de 1,5 °C de Paris. Les auteurs ne contestent toutefois
+pas la difficulté politique de cette réduction.*
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 5*

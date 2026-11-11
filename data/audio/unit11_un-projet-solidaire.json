@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
-    "source_body_sha256": "01b00ec2281bb1d532c4559bf2e17498f866ac324b0a00db492f78a47dcff09b",
+    "source_body_sha256": "8d1fdf1c1af16fa821ba007138182b09f95a8ac7922f8639ff8d24e7759668c2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Madame Renault : La semaine prochaine, c'est la Journée internationale des volontaires. J'aimerais qu'on fasse quelque chose ensemble. Vous avez des idées ? Léa : On pourrait organiser une vente de gâteaux pour aider une association. Karim : Ou une collecte de livres pour la bibliothèque du quartier. Il faudrait juste trouver des cartons. Madame Renault : Très bien. Alors aujourd'hui, on va apprendre à proposer et à organiser un vrai projet."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
-    "source_body_sha256": "01b00ec2281bb1d532c4559bf2e17498f866ac324b0a00db492f78a47dcff09b",
+    "source_body_sha256": "8d1fdf1c1af16fa821ba007138182b09f95a8ac7922f8639ff8d24e7759668c2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la solidarité.\nune association.\nun·e bénévole.\nune collecte.\nun don.\nrécolter (des fonds).\nproposer.\norganiser.\nle but / l'objectif.\nle suivi."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
-    "source_body_sha256": "01b00ec2281bb1d532c4559bf2e17498f866ac324b0a00db492f78a47dcff09b",
+    "source_body_sha256": "8d1fdf1c1af16fa821ba007138182b09f95a8ac7922f8639ff8d24e7759668c2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Notre projet :  Des livres pour tous Le problème : la bibliothèque du quartier manque de livres en français pour les enfants. Alors, nous avons eu une idée. La proposition : on pourrait organiser une collecte de livres pendant deux semaines. Chaque élève apporterait un ou deux livres en bon état. L'objectif : nous récolterons au moins 100 livres afin de créer un petit coin lecture à la bibliothèque. Le suivi : à la fin, nous compterons les livres et nous prendrons une photo pour le journal du collège."

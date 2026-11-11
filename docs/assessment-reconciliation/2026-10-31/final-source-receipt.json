@@ -1,0 +1,2942 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-10-31T12:49:42.447252+00:00",
+  "course": "fle",
+  "scope": "all 156 teaching units and canonical standalone assessments",
+  "sources_stable": true,
+  "review_status": "pending",
+  "verification": {
+    "unit_count": 156,
+    "individually_reconciled_followup_pairs": 144,
+    "prior_class6_pairs": 12,
+    "originals_and_final_record_hashes_verified": true,
+    "yaml_and_key_boundaries_verified": true,
+    "canonical_steps_and_exam_pointers_verified": true,
+    "teacher_key_extraction_verified": true,
+    "curriculum_mappings_preserved": true,
+    "A13_observed_result": "156 pass: 77 retained grade-scaled, 79 explicitly declared points-only; independent product review",
+    "A13_inventory": "remediation/fle-assessments/points-only-independent-inventory.json",
+    "fresh_rendered_EQS": "must rerun after build of this source revision; old public HTML is stale",
+    "native_pedagogical_approval": false
+  },
+  "units": [
+    {
+      "path": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
+      "after_sha256": "d9ff55f7c28571cacacc59e9fa5e9f9ea13dc9eed65d816350475402e12a0cb4",
+      "source_sha256": "d9ff55f7c28571cacacc59e9fa5e9f9ea13dc9eed65d816350475402e12a0cb4",
+      "exam": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e_exam/index.md",
+      "exam_sha256": "3ec85080f99a917072fbfd5b49ccad4381a9901c0a3e51c7a94b1220465fa23a",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
+      "after_sha256": "2a739dcf0442ee988f399230387e8911757048e98b7c411c31a3e2d149dcda44",
+      "source_sha256": "2a739dcf0442ee988f399230387e8911757048e98b7c411c31a3e2d149dcda44",
+      "exam": "content/track_e_kl06/units/unit02_ma-famille-e_exam/index.md",
+      "exam_sha256": "63a497801122431afa7cb10fdae776c487f8b0284611cecac9497f82df64d844",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
+      "after_sha256": "6d81e5d5c4cbe0c784c766be500a88f5ca9df2603cda0e2485786f30dbf308da",
+      "source_sha256": "6d81e5d5c4cbe0c784c766be500a88f5ca9df2603cda0e2485786f30dbf308da",
+      "exam": "content/track_e_kl06/units/unit03_mon-college-e_exam/index.md",
+      "exam_sha256": "381e0b569638dacdbef41036fdb7fa97ed56dd4eb9b12470e81155a73f8007b3",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
+      "after_sha256": "ea49b5f6657624fc185e00580d78612980703ca66520d4c1d3e0364ef733b003",
+      "source_sha256": "ea49b5f6657624fc185e00580d78612980703ca66520d4c1d3e0364ef733b003",
+      "exam": "content/track_e_kl06/units/unit04_ma-journee-e_exam/index.md",
+      "exam_sha256": "8a0818212dcf23c6cd209a293239d52ca4c0060e978b8e369a4559a1e60365af",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit05_gouts-et-couleurs/index.md",
+      "after_sha256": "a8a7047c84643c539e89d9083798b41236d87526183d5c7b68aeddbbb86b45e5",
+      "source_sha256": "a8a7047c84643c539e89d9083798b41236d87526183d5c7b68aeddbbb86b45e5",
+      "exam": "content/track_e_kl06/units/unit05_gouts-et-couleurs_exam/index.md",
+      "exam_sha256": "affa9350d46de49622e58e78345e425d30681343c88564ee405a95925ff1ecf5",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_interaction",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit06_au-marche-e/index.md",
+      "after_sha256": "aee5d434242a4559978b80fac915d08dcdf437d81fb5b5a1c1da3b8401c3674c",
+      "source_sha256": "aee5d434242a4559978b80fac915d08dcdf437d81fb5b5a1c1da3b8401c3674c",
+      "exam": "content/track_e_kl06/units/unit06_au-marche-e_exam/index.md",
+      "exam_sha256": "3cd9ff73595ad568c209cbd98878204693e84cf5ff7f046b2875f4d0f97a4655",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e/index.md",
+      "after_sha256": "806c67c6f1dae57d987a0d0a90fbc6db1a2df6d9f302bb77faa031837f32b059",
+      "source_sha256": "806c67c6f1dae57d987a0d0a90fbc6db1a2df6d9f302bb77faa031837f32b059",
+      "exam": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam/index.md",
+      "exam_sha256": "e041556b197438c1b5733920df6ac4185f04e80375ff527a121be9f867a29cf7",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
+      "after_sha256": "c03b49aa132a23e64508c54309b0d39caafefe868a353fa218bd92db578f30e7",
+      "source_sha256": "c03b49aa132a23e64508c54309b0d39caafefe868a353fa218bd92db578f30e7",
+      "exam": "content/track_e_kl06/units/unit08_premiere-poesie_exam/index.md",
+      "exam_sha256": "1282b8bb7d627a0b0175b0ff8a801db3a083b4395fd7b71e486d9e9bfee0b711",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit09_ma-chambre-e/index.md",
+      "after_sha256": "852a54205c59cdb086e84ac20076cecdb1468c7c517c7e787103e68d6eda7643",
+      "source_sha256": "852a54205c59cdb086e84ac20076cecdb1468c7c517c7e787103e68d6eda7643",
+      "exam": "content/track_e_kl06/units/unit09_ma-chambre-e_exam/index.md",
+      "exam_sha256": "2a748f2f0469b27946eaae645641283765cb5ede442feff99ae7299ffe5812c5",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit10_mes-loisirs-e/index.md",
+      "after_sha256": "7f7b433ac95c11a92948ce26567909ace63bfdf804c1c74fb3979b89972a8195",
+      "source_sha256": "7f7b433ac95c11a92948ce26567909ace63bfdf804c1c74fb3979b89972a8195",
+      "exam": "content/track_e_kl06/units/unit10_mes-loisirs-e_exam/index.md",
+      "exam_sha256": "f38a8075e935fffe4ab1347298e94fce64e9f317b7a3a19b84f4a9718f9bb82a",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit11_voyage-decouverte/index.md",
+      "after_sha256": "397bd83ad4df17ddb0402e944cb542eba87d7e0bb7ab105077256159fa0eac3f",
+      "source_sha256": "397bd83ad4df17ddb0402e944cb542eba87d7e0bb7ab105077256159fa0eac3f",
+      "exam": "content/track_e_kl06/units/unit11_voyage-decouverte_exam/index.md",
+      "exam_sha256": "6036afc71e14d499ab67d6429b5f20bcdcf018ce79b5ef8ffc8aa1eaf9725a71",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "speaking_production"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
+      "after_sha256": "b2f0d3f81f783952471e6caef932bf71a73e81c7579bd1785f3ccce4568f2c34",
+      "source_sha256": "b2f0d3f81f783952471e6caef932bf71a73e81c7579bd1785f3ccce4568f2c34",
+      "exam": "content/track_e_kl06/units/unit12_bilan-portrait-e_exam/index.md",
+      "exam_sha256": "25b75e0aaaa5bdddf7c4befeb9a7c8effce70fea25ed2c5bb9500687c791cac5",
+      "points": 35,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending"
+    },
+    {
+      "path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+      "after_sha256": "cef7ff528249cd1ca4f7affa9d203c118ef05cb68228c0d76a673850b5191efa",
+      "source_sha256": "cef7ff528249cd1ca4f7affa9d203c118ef05cb68228c0d76a673850b5191efa",
+      "exam": "content/track_e_kl07/units/unit01_la-rentree-e_exam/index.md",
+      "exam_sha256": "86ae6710594de630773d5b63a98af57b466eafd7d046ec4db1a52f23f63766dc",
+      "points": 20,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "be314bfd6c6bb8faf324fa1eccc88dac75890cdae6f33d20de68c664fe4c219c",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-01.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
+      "after_sha256": "2b8e259637c1c92aae5474bc1c263d99f339ac542635cea726a36fe7d677c477",
+      "source_sha256": "2b8e259637c1c92aae5474bc1c263d99f339ac542635cea726a36fe7d677c477",
+      "exam": "content/track_e_kl07/units/unit02_raconter-une-anecdote_exam/index.md",
+      "exam_sha256": "3e384d80534d25d3edec55128659bd82c25490213afa2e01831c54aedb1d8eef",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "cb9065287622c4b4cdc6eafb87c7c8216aa3a6d4959759442c4fa7dd1a16da09",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-02.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl07/units/unit03_mon-quartier-e/index.md",
+      "after_sha256": "4d8cf6c7f55adf6385535662c5259405c3f977598f5169618ad87c5251df9eff",
+      "source_sha256": "4d8cf6c7f55adf6385535662c5259405c3f977598f5169618ad87c5251df9eff",
+      "exam": "content/track_e_kl07/units/unit03_mon-quartier-e_exam/index.md",
+      "exam_sha256": "d648420feb0917528d80b1f5e30a53830d395375ada1e3a0bc5fec16bdc6ca60",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "07658220b229272371eacb197f367aaa6dfada3d524408743aa31b9e40280144",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit03_mon-quartier-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-03.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
+      "after_sha256": "20e1e29626dae0c5be9c40ab82c284dbfc96636038e542949e6cdc3be97ebe73",
+      "source_sha256": "20e1e29626dae0c5be9c40ab82c284dbfc96636038e542949e6cdc3be97ebe73",
+      "exam": "content/track_e_kl07/units/unit04_repas-en-famille-e_exam/index.md",
+      "exam_sha256": "0b385198c3dbba3dba02a3c38d54edd490f35a0a7ca08c5ef431b5085123c30f",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "1ac16e45e1986d026a3cecfbb57deeb0e87559422610e66523160796be9f1020",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
+      "after_sha256": "a5a11c0630b05f32b4e44de0101b8c7a6a4e19878a53c66757326b7cfbbaaf1a",
+      "source_sha256": "a5a11c0630b05f32b4e44de0101b8c7a6a4e19878a53c66757326b7cfbbaaf1a",
+      "exam": "content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md",
+      "exam_sha256": "b180855bebc059527cd81a4a8b157a6a699491eef36c4cffa95b5b8e57c91706",
+      "points": 25,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_interaction",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "6f36af54ad2687ffc029b5a8082b0cf1cbdfae993052c572166f15528844b53a",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-05.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
+      "after_sha256": "fe9a77cc91b6ba6625ab1b37f606e4b10461d43b1ca967e5c08bb960756488b8",
+      "source_sha256": "fe9a77cc91b6ba6625ab1b37f606e4b10461d43b1ca967e5c08bb960756488b8",
+      "exam": "content/track_e_kl07/units/unit06_transports-et-mobilite_exam/index.md",
+      "exam_sha256": "2030ec215d213ad33de0dba1c80a3de097e7d0a30becaac54256225f7bd2d719",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "8745cf6608b4657e6d80924bfcc07d8e80550feef7a9f23c52bb95a8558dcd29",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-06.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
+      "after_sha256": "5a5f8fee8eab80d01943bfb63cefbb31feff4670ee0c84d6e1eb3805d7257d0f",
+      "source_sha256": "5a5f8fee8eab80d01943bfb63cefbb31feff4670ee0c84d6e1eb3805d7257d0f",
+      "exam": "content/track_e_kl07/units/unit07_vacances-en-bretagne_exam/index.md",
+      "exam_sha256": "12097d026f5040608467dd7f0a3198edbdb7e05f971ccf0ccdf69b0c71030de3",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "3e245b3cc8edb4500f6fffee3b829978c42bb645f44eb391eca55b24b1496107",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-07.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl07/units/unit08_le-quebec-e/index.md",
+      "after_sha256": "4b5123d3609ffd500722de44b8a92dc739e724d46affbe188fcd1ceabd59740b",
+      "source_sha256": "4b5123d3609ffd500722de44b8a92dc739e724d46affbe188fcd1ceabd59740b",
+      "exam": "content/track_e_kl07/units/unit08_le-quebec-e_exam/index.md",
+      "exam_sha256": "8f45557b10b03adc2c95ee40a35dff16ee9b9f9b200afd05b2c2c297e0b2afc5",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "0c49a4c38e770fa4a7faf2f1013088c8e6d8aaacbf81c58fcc7182dc681d3545",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit08_le-quebec-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
+      "after_sha256": "4267623d69c7938a6b7824197424a2e5d4ee112f0cabc68d3517ded7aa044391",
+      "source_sha256": "4267623d69c7938a6b7824197424a2e5d4ee112f0cabc68d3517ded7aa044391",
+      "exam": "content/track_e_kl07/units/unit09_fete-et-invitations_exam/index.md",
+      "exam_sha256": "6ce87f505305568a28b1cba94f47e576e1c5a45edf70fd909b57627056427ece",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "7e96c74522d7e254fb777bb0157366720bd984f81d9bea15fcabe26ce9603976",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-09.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+      "after_sha256": "17e7d8c542adcb4ce5a4c775647e84b4ee4fbd1f7b1c73f83bea6afa96685070",
+      "source_sha256": "17e7d8c542adcb4ce5a4c775647e84b4ee4fbd1f7b1c73f83bea6afa96685070",
+      "exam": "content/track_e_kl07/units/unit10_musique-et-chanson-e_exam/index.md",
+      "exam_sha256": "c6e1399ff27ac69c5ecf7334dab641cfb95f9b94e368ffd848082515822d2be6",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "26bfa19c99b0d28423734e04e73dcc535e7115ff592f49ee833b80ea49723901",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-10.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+      "after_sha256": "04fe806054f2156099370c634279bf92503bddc691f0b48e36b1afcb48dce823",
+      "source_sha256": "04fe806054f2156099370c634279bf92503bddc691f0b48e36b1afcb48dce823",
+      "exam": "content/track_e_kl07/units/unit11_premiere-mediation_exam/index.md",
+      "exam_sha256": "e489cb906c2a00a13e536e6f8b713aeba8164fa7fe712ca6d232b6aee218d105",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "576a309fb43da1d84b0ca856759bf2c6653527a2dfc2d3219f5a246e7b5cde8a",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-11.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+      "after_sha256": "f2eb57734fe0bbb5fdf843e7679185e336c27ae49801d25a41b8a887a53e1828",
+      "source_sha256": "f2eb57734fe0bbb5fdf843e7679185e336c27ae49801d25a41b8a887a53e1828",
+      "exam": "content/track_e_kl07/units/unit12_bilan-progres-7e-e_exam/index.md",
+      "exam_sha256": "b25c527f8a972e1d2484fd2c879aac09172ab48546e7ad8dcbebdd19898939ac",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "fb999d81f432efa1a91fd2f2d5f667adb33bf40c1e7597d9e5e4ec291c74ec07",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl07-12.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
+      "after_sha256": "30a89a579cee3d541ef1f00ffaf6fdab6ef32c741e3ca44473e278a423d6b03e",
+      "source_sha256": "30a89a579cee3d541ef1f00ffaf6fdab6ef32c741e3ca44473e278a423d6b03e",
+      "exam": "content/track_e_kl08/units/unit01_la-rentree-en-8e_exam/index.md",
+      "exam_sha256": "11d3eb92d3650ff1ae1602adfe30ca741702a45608343284097bba7054c4ed63",
+      "points": 20,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "7500644ebcbee8fdf5643296f0bcc92e70aefb58102759c6333a60bcaa084840",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-01.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
+      "after_sha256": "5e12e97205428474dbdb99b04846ba5e6410a97b3b3aafabbdb2fe742a7450dc",
+      "source_sha256": "5e12e97205428474dbdb99b04846ba5e6410a97b3b3aafabbdb2fe742a7450dc",
+      "exam": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e_exam/index.md",
+      "exam_sha256": "eb199d509808f96844e363416bb7b38286f8e1134abf93ead7eb683ba08d7ba9",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "898a6a22a4447ae06e4654f29db984f3c3a4fc01cced0058d9e0067c036f4aad",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-02.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
+      "after_sha256": "1fe9260cc21baecc6071d3d8e77fd6b7e52ff85edfcd9913a37fccaa63468247",
+      "source_sha256": "1fe9260cc21baecc6071d3d8e77fd6b7e52ff85edfcd9913a37fccaa63468247",
+      "exam": "content/track_e_kl08/units/unit03_mes-medias-preferes-e_exam/index.md",
+      "exam_sha256": "722a657a5f44d995eb41ca03eba54ff013e90e3c1637fb469f10767eecd7fe33",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "648e041d0275224ddeee687cb196bea3f62fcd99957653c6ed1d79ff5c8a1383",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-03.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e/index.md",
+      "after_sha256": "4d78f8635a6bd9d25ce9c40bae19dd3bb6061f84b41f74ead9f5b18dfb7bf8cf",
+      "source_sha256": "4d78f8635a6bd9d25ce9c40bae19dd3bb6061f84b41f74ead9f5b18dfb7bf8cf",
+      "exam": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e_exam/index.md",
+      "exam_sha256": "05f77cb2a58115e32cdfd42ad1b85a8a99b38ed4106808300563ac6cd57e5e11",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "1ad53920728138f18b1159d306ad6e38bc1c5b80a99cc95c7b228fc481a633e7",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
+      "after_sha256": "c9377ba31900d8aa64731829f6cf1bda7de21d17ce68d5d58ccc0653081d3702",
+      "source_sha256": "c9377ba31900d8aa64731829f6cf1bda7de21d17ce68d5d58ccc0653081d3702",
+      "exam": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md",
+      "exam_sha256": "963c9df2098cf06be49111abd9d77f8721df362457d38ca6d34a3f17310ebbdf",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "37706edaf0f5e42862571dcc2cd9696719ce9075a4f03572faabfa721f51f331",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-05.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
+      "after_sha256": "caf365c0b414f55da4230c9ab647c9f15903859dee101a9a6339352a552d9d95",
+      "source_sha256": "caf365c0b414f55da4230c9ab647c9f15903859dee101a9a6339352a552d9d95",
+      "exam": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e_exam/index.md",
+      "exam_sha256": "b6bd38b86d775c839ea18364cc1a2297bff8cd591375e596810fcdda2abe26cf",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "18a221a959cac77cb41bfaa39e69172710b5882c56d62313b4f079256df0ff4b",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-06.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+      "after_sha256": "4e53bb47e2ddd06c745926723c7928fc1f7e5bdaee6c2f7bf8d4effbce226d38",
+      "source_sha256": "4e53bb47e2ddd06c745926723c7928fc1f7e5bdaee6c2f7bf8d4effbce226d38",
+      "exam": "content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md",
+      "exam_sha256": "38905f87b54c3fad54e5dd822f418482f658a6ce4bbc0f5a0580967e487535b9",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "1b9b58caf145bb851c263c0da7f19f6b6426be0075d9a07162ddec394e7f13cb",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-07.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
+      "after_sha256": "910636b27c4fd245ce62ed16aa06e925931cafa1f9a35c0c8b62bc9eb1c684bc",
+      "source_sha256": "910636b27c4fd245ce62ed16aa06e925931cafa1f9a35c0c8b62bc9eb1c684bc",
+      "exam": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e_exam/index.md",
+      "exam_sha256": "4e0c3588e466838d419526624811d765a7ff1cfa05dea8cac3767efe52520280",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "4ad54fe79977c6c9289f98dede4c57cea54e088af1498d3eda052262300d4144",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md",
+      "after_sha256": "64626bdc80ed64e480a0314f0564486e4d57913605d9ae73cd6f232b44267542",
+      "source_sha256": "64626bdc80ed64e480a0314f0564486e4d57913605d9ae73cd6f232b44267542",
+      "exam": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e_exam/index.md",
+      "exam_sha256": "98e2469fcd565749d6d38567e58954daaca9dd982b9cebf6898ad23ba107f777",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "b454901bb182a8e43900a21e560fa8a612789481044e91650433f1e6d470e78d",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-09.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
+      "after_sha256": "8a368f00d445dfa7f990a2fa2da94b73d74fb9a5a825831d101af6485e710c86",
+      "source_sha256": "8a368f00d445dfa7f990a2fa2da94b73d74fb9a5a825831d101af6485e710c86",
+      "exam": "content/track_e_kl08/units/unit10_cinema-quebecois-e_exam/index.md",
+      "exam_sha256": "69d05f7a476ec34e8a76e552ed9cf8c2040f78d96d9f2f2a96b633a6dc921ae8",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "speaking_production"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "76eb0a37fd2162f15ed567ce2faa2d53f21c6d90ed4bac5f45a910e7cf52a6f4",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-10.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
+      "after_sha256": "ba5ce94bb2ff6be2c99e8967a894fbd34b92d7cb7d0796cd27da6df6ba9e1104",
+      "source_sha256": "ba5ce94bb2ff6be2c99e8967a894fbd34b92d7cb7d0796cd27da6df6ba9e1104",
+      "exam": "content/track_e_kl08/units/unit11_un-projet-solidaire-e_exam/index.md",
+      "exam_sha256": "7df354ade54039edd5694d82655071774564b103301c9b692c106ff38a07ccfb",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "37383418df73e12c1bb82ccd20da34e952abf8b68cd20e88bb40ee594c2b5239",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-11.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+      "after_sha256": "bdaa9af48c9796e9b885e36cdf9a6923d390ba3e8718035cc56b15b10ff527df",
+      "source_sha256": "bdaa9af48c9796e9b885e36cdf9a6923d390ba3e8718035cc56b15b10ff527df",
+      "exam": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e_exam/index.md",
+      "exam_sha256": "4f2a2f0acaab97f8c6a64d625332f93b8fb9b0aa2f48c7f18669639dd0e92a92",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "writing",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "b9a35ac90e2c2a6a8922729781d24577147a1898dcab59c7c4eff0ac3d58fadf",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl08-12.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
+      "after_sha256": "fd453fec3a1d5cdfe3bd4e67ee61cd47216483fc09ab99b4d9a72d2d413335df",
+      "source_sha256": "fd453fec3a1d5cdfe3bd4e67ee61cd47216483fc09ab99b4d9a72d2d413335df",
+      "exam": "content/track_e_kl09/units/unit01_le-monde-du-travail-e_exam/index.md",
+      "exam_sha256": "019266d6aa8638da3640aeb51941c1476683367d9a7291bcec4e461893b143f0",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "a2c46c059f4146b8a9daf6c52a67593079fb366a24bfa8980e3a863f68e29c49",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-01.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
+      "after_sha256": "edd36fd2232143bff5cf58db449d319634c6c1559f705fdcfc5b86912e2c6116",
+      "source_sha256": "edd36fd2232143bff5cf58db449d319634c6c1559f705fdcfc5b86912e2c6116",
+      "exam": "content/track_e_kl09/units/unit02_lettre-de-motivation-e_exam/index.md",
+      "exam_sha256": "8dbf7e6256b9df27bc4f10f673576620f8b7f6a11d680f9b2a38d5ff0a343f23",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "a2a16fb51f77e6fe70975f7e1bbbeee44dc105b3a6f4dd807a8b4cb9b4a57181",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-02.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+      "after_sha256": "b5a1e2c1b7d06c9b942864faad96299576aa66d39642a99c263f1babea8c15c3",
+      "source_sha256": "b5a1e2c1b7d06c9b942864faad96299576aa66d39642a99c263f1babea8c15c3",
+      "exam": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e_exam/index.md",
+      "exam_sha256": "df1e18711368f388ea380c7f985a60a52240cca5d39609f02b62c8014e130f92",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "b44a31b013b5453428d0b2496fdbe4f235ee4605a0996aead7123f939a9e82f5",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-03.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e/index.md",
+      "after_sha256": "e8d5e00ee262e3941aca2bdf115e5e9783d16831f07bdf084e5d5688574db8be",
+      "source_sha256": "e8d5e00ee262e3941aca2bdf115e5e9783d16831f07bdf084e5d5688574db8be",
+      "exam": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md",
+      "exam_sha256": "2d1bf61193f9ad55d275278a0afa1fac04035a30cddcafade7c2acacfa3acdff",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "3ceeaadbabc028ae30c3c7fd7f1a714560e7f3984319fe6d723730d1bf64eace",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit04_argumenter-pour-contre-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl09/units/unit05_le-petit-nicolas/index.md",
+      "after_sha256": "0cdf3d1d306a561871b8398ec5511726179c1498bc73abf9e0240e95bc85c926",
+      "source_sha256": "0cdf3d1d306a561871b8398ec5511726179c1498bc73abf9e0240e95bc85c926",
+      "exam": "content/track_e_kl09/units/unit05_le-petit-nicolas_exam/index.md",
+      "exam_sha256": "84c21149fdaeca818422a7330812cbfa1130a85f76ef44e18e95ae955ef3429a",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "99b48109d01617d6bccb58443f13bfea3fe4b291f0d8d045b13de68197dc0acc",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit05_le-petit-nicolas/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-05.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
+      "after_sha256": "32a8bb568a46014c1defeb954784529a36eb7291414e0f1960270d6623461407",
+      "source_sha256": "32a8bb568a46014c1defeb954784529a36eb7291414e0f1960270d6623461407",
+      "exam": "content/track_e_kl09/units/unit06_podcasts-en-francais-e_exam/index.md",
+      "exam_sha256": "1fb7d3cc4376e842c63252592bb204a6800dcc13a59ab1d90d386e865b242883",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "a4b4c2282eaab3ff493ebdf6ad9b454eaa661d30e4710dd4fc46d8450953fea9",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-06.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+      "after_sha256": "61a5c2769e7134ee02593514825fdc31cf83c11442922f7f8c89e880de63149b",
+      "source_sha256": "61a5c2769e7134ee02593514825fdc31cf83c11442922f7f8c89e880de63149b",
+      "exam": "content/track_e_kl09/units/unit07_harcelement-et-respect-e_exam/index.md",
+      "exam_sha256": "e8b3c36fc872d4d34a68b61b029c2525715a3a40e2ab2b665faf16cd0d677e94",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "44ddb98fe605d65ac7339c1bf9d76abad401c8c118900ec187dca221ab8bcb62",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-07.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+      "after_sha256": "eba4cc9ec8804951cab88460754e3bac9056da88889dcbee2be29b2a7ca97251",
+      "source_sha256": "eba4cc9ec8804951cab88460754e3bac9056da88889dcbee2be29b2a7ca97251",
+      "exam": "content/track_e_kl09/units/unit08_differences-culturelles-e_exam/index.md",
+      "exam_sha256": "d527892e547134222914b72087b48e14c72963fc5d535f4a6decd2deb8b14ba1",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "0662a07b705bd2590415f8d4a32bca5ec200b367a3d4bd8014b7ae3fb193393e",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-08.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+      "after_sha256": "89b056b619c4f98aee76fe3b6d18e6bcb093efdd316f0b78ce9a752dbc750d4c",
+      "source_sha256": "89b056b619c4f98aee76fe3b6d18e6bcb093efdd316f0b78ce9a752dbc750d4c",
+      "exam": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e_exam/index.md",
+      "exam_sha256": "703f0a0a7b314a9b41a7c65683998709b2c142771acd99719203711d0ef9287d",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "9b1e51906402762ef6d7a0f5bc01c11c469ca9dd1bca227fb4af72d29c0f184e",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-09.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl09/units/unit10_consommation-responsable-e/index.md",
+      "after_sha256": "7b9d416e9d47fae1f1b1c704edecdff16314d275f265b7d1308cdc1e7f7fe627",
+      "source_sha256": "7b9d416e9d47fae1f1b1c704edecdff16314d275f265b7d1308cdc1e7f7fe627",
+      "exam": "content/track_e_kl09/units/unit10_consommation-responsable-e_exam/index.md",
+      "exam_sha256": "7388992139cebf8c1acca5ca1a33df3e10357d2507282499e006943073f0b6a4",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "1bc3821a55930d691fdd23d1dea7adc62b2aa957fdb877b32de15b7a44eb206f",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit10_consommation-responsable-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-10.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
+      "after_sha256": "630c5849a153ad4b861f7e0d4509be98120cf228c5a57be0baea51081298733a",
+      "source_sha256": "630c5849a153ad4b861f7e0d4509be98120cf228c5a57be0baea51081298733a",
+      "exam": "content/track_e_kl09/units/unit11_francais-au-travail-e_exam/index.md",
+      "exam_sha256": "54d789b1e99adab11db5201557d947cfa5ce8700f9b613a1446a580007e964d2",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "ef23c0c97169e4b995fbe3036cc8690d820f98a9b931e093a882c79585abd2c5",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-11.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
+      "after_sha256": "053803c5976c2adbf830da4bc1277784d962bf0f6854d94eb60c8f8610db0e75",
+      "source_sha256": "053803c5976c2adbf830da4bc1277784d962bf0f6854d94eb60c8f8610db0e75",
+      "exam": "content/track_e_kl09/units/unit12_bilan-9e-e_exam/index.md",
+      "exam_sha256": "9894b4c931c3a85e38b9f5abdb17eb3f5c39cd2c7c212baebbc7500b9b5b24b6",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "a58645060c1aece53f0c26f5f43ca282f3b49f5bb8580778e6749195f8e96e8a",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl09-12.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+      "after_sha256": "9e6174b0e61e7dda6af55edd2a5a7e83ced2a1e0c7e8cefe2ce052bde65c2de3",
+      "source_sha256": "9e6174b0e61e7dda6af55edd2a5a7e83ced2a1e0c7e8cefe2ce052bde65c2de3",
+      "exam": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md",
+      "exam_sha256": "d68af717bd8a4a0d04fac0e7f3d257976deafa5ce0149fb1ca3725da3442ca36",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "0d419fb90bd94ef14f3aef6b544da5706318a6c2a5f2f075624168d1febe26d1",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-01.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl10/units/unit02_presse-francaise-e/index.md",
+      "after_sha256": "386434a51e7e0211a02a5ad048c535d7ec86bc6bcf3652247092135a2c06ce5f",
+      "source_sha256": "386434a51e7e0211a02a5ad048c535d7ec86bc6bcf3652247092135a2c06ce5f",
+      "exam": "content/track_e_kl10/units/unit02_presse-francaise-e_exam/index.md",
+      "exam_sha256": "26104122b23e7238dfbf7bcf4c5bcfa2f2881678655a6f0e02ad77440dd0e389",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "5346dda9beb8b25bf63198331d0a28e5b3bf0987904c17e6755df72c41b663f7",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit02_presse-francaise-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-02.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
+      "after_sha256": "92cfbd6bf39f35ca00c69f1eb8f14649f27a18a822a0d90cc330de46b55d5dcb",
+      "source_sha256": "92cfbd6bf39f35ca00c69f1eb8f14649f27a18a822a0d90cc330de46b55d5dcb",
+      "exam": "content/track_e_kl10/units/unit03_vie-democratique-e_exam/index.md",
+      "exam_sha256": "ab51618dfe39c672ef5cd548066da147aa0b99382266a38e3357971be57578e8",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "8e8bf6b859a71bd4a86940ac80ebfe317e7a5c9d4ab0a7e4b52d5d91ee94ec5f",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-03.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
+      "after_sha256": "475e23b37e15959db6c297345771954756426fc146ed2bf4ae089f3292669f9d",
+      "source_sha256": "475e23b37e15959db6c297345771954756426fc146ed2bf4ae089f3292669f9d",
+      "exam": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e_exam/index.md",
+      "exam_sha256": "7852a04acfb97985352634ea54e59295e22b8bcbfbd8d1ca430bcf4177460d24",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "dfd0d21629eb79d198558d6de89dc54cfc029eb0a9ceaf4eaa3bc67dbaaaead2",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
+      "after_sha256": "fa42921a6d6cafa25d43a1114d4e404dd53553240b5c87c22ef7076b7d72b706",
+      "source_sha256": "fa42921a6d6cafa25d43a1114d4e404dd53553240b5c87c22ef7076b7d72b706",
+      "exam": "content/track_e_kl10/units/unit05_premiere-analyse-poesie_exam/index.md",
+      "exam_sha256": "4abb2927acc64689fd23cd670e9ed118735432d218aa90bbb182390dab5f22f5",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "b0e44a43df028b2fc80623445c18c76a04916cbd552b53755149823f86f5f0a7",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-05.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
+      "after_sha256": "64a3d43dec97b32a3c3754cfaa93340be68e796f6ee4ec013aa983f137749537",
+      "source_sha256": "64a3d43dec97b32a3c3754cfaa93340be68e796f6ee4ec013aa983f137749537",
+      "exam": "content/track_e_kl10/units/unit06_mediation-avancee-e_exam/index.md",
+      "exam_sha256": "37bdbce4da01f6ce41b81d81506c64df3c6cf900eb61659fd33bbf60ce2fabdc",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "597a6014a9532ad2f5ac0cd4cd7e1a463a7b87a4837c884121b250f6c7b2ceb3",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-06.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl10/units/unit07_engagement-citoyen-e/index.md",
+      "after_sha256": "0adfedb1ee05fc16206305a177cc2df7fc88c33773a07e0ac3a7e7216b73188c",
+      "source_sha256": "0adfedb1ee05fc16206305a177cc2df7fc88c33773a07e0ac3a7e7216b73188c",
+      "exam": "content/track_e_kl10/units/unit07_engagement-citoyen-e_exam/index.md",
+      "exam_sha256": "9659750277915e6a9f7422a9229956625475414d23fbecc880a037c3aa08a085",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_interaction",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "c15e0ebbaa003694c17b04ec7b15a65c023f46d7ffbaa62eb63c0c79f7c137f8",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit07_engagement-citoyen-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-07.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+      "after_sha256": "fe015b6438179c0425e64db949d29752c582543e2ba1227528493adf33cd8f62",
+      "source_sha256": "fe015b6438179c0425e64db949d29752c582543e2ba1227528493adf33cd8f62",
+      "exam": "content/track_e_kl10/units/unit08_reseaux-sociaux-e_exam/index.md",
+      "exam_sha256": "3e4377634be969c5b955f4084a0e2a4316aacbb0efe4e0c737a1d3e68c670955",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "f02fe03265107fcada7b88ad1fa4ffb9c55bf75872670f86c806c3897f9c6b87",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md",
+      "after_sha256": "75571c3f83876d0dae295fd54a105a17612215e62faee927c9758ee5770cc6e8",
+      "source_sha256": "75571c3f83876d0dae295fd54a105a17612215e62faee927c9758ee5770cc6e8",
+      "exam": "content/track_e_kl10/units/unit09_extraits-romans-jeunes_exam/index.md",
+      "exam_sha256": "a459a08e86c26785f232cebc87a47551f0080a7cffc2effe9f17923a34dd03e7",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "7a3c3ec746cfeeecea4992019ea06d1637380838f9e749b0886736c99415a8c1",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-09.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e/index.md",
+      "after_sha256": "c996c4be270fea82da6ed11ce80d9fd40d90a1ce3ecbcf45fbb46a756c75ed72",
+      "source_sha256": "c996c4be270fea82da6ed11ce80d9fd40d90a1ce3ecbcf45fbb46a756c75ed72",
+      "exam": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e_exam/index.md",
+      "exam_sha256": "5a410261a74bf178cc759bbf67ebb2c011b6118a07666a7809efc617ed492439",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "cc4027daa5822d3e61063c6ce01b9bd995726ecf74c0e89324e27bd7725dd107",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-10.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl10/units/unit11_preparer-un-discours-e/index.md",
+      "after_sha256": "64331ef6275805846fc30ac9c213952f0deee26179200e49db54398310f4c85f",
+      "source_sha256": "64331ef6275805846fc30ac9c213952f0deee26179200e49db54398310f4c85f",
+      "exam": "content/track_e_kl10/units/unit11_preparer-un-discours-e_exam/index.md",
+      "exam_sha256": "87ff67ec28f47af9e019dcf247af695122a0ccadcc48a6013cb9bf953d84b02e",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "e3d92b7a498b4ed0c443c36bda6c78dcd31d166bb3097b1bf3d61b923e41ef4f",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit11_preparer-un-discours-e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-11.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
+      "after_sha256": "a2fd263861afd7c5292f946fc83212699e8bd23ed7b4a6efa86547ad4e674848",
+      "source_sha256": "a2fd263861afd7c5292f946fc83212699e8bd23ed7b4a6efa86547ad4e674848",
+      "exam": "content/track_e_kl10/units/unit12_bilan-fin-sek-i_exam/index.md",
+      "exam_sha256": "241e81023a1d22c8e995c8931939da65af1a41163eea0657c674f041cad24eb9",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "db5bfc23bbe571d652dbebb13a7e08dc878b690f2c71c5da21b23ac4caec6131",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl10-12.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
+      "after_sha256": "b9e6eddc3d196a5876ec184530b3e1ac9234d3f8111b1d8cd8f2ae3d885c84af",
+      "source_sha256": "b9e6eddc3d196a5876ec184530b3e1ac9234d3f8111b1d8cd8f2ae3d885c84af",
+      "exam": "content/track_e_kl11/units/unit01_ecrire-sur-soi_exam/index.md",
+      "exam_sha256": "b26d8bee6a8e6c516c7214bd770cdfd095c3d1f6a9dc5913acdea93a7e9c4a99",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "d68b420b85c3965b04dd4a1ee5d0a9204dee3cae8310d2a657860142eaf173c8",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-01.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md",
+      "after_sha256": "11473f8b09395dcd8104ff61703a4951ecd8bd5a598552479053b976e6d70585",
+      "source_sha256": "11473f8b09395dcd8104ff61703a4951ecd8bd5a598552479053b976e6d70585",
+      "exam": "content/track_e_kl11/units/unit02_francophonie-postcoloniale_exam/index.md",
+      "exam_sha256": "bda28ae14a4b3fc472872f5d5e340009abe72af1338e13fb5b0625d87cd70787",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "94fe5dca45fb565b11388203bf96ffe223b436afce4127e268a8e044a2f2821f",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-02.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl11/units/unit03_presse-d-opinion/index.md",
+      "after_sha256": "d2cec266d83b7ae2ca4005e876d4af859016c174bf7693ff1aa06eba0f24e1e8",
+      "source_sha256": "d2cec266d83b7ae2ca4005e876d4af859016c174bf7693ff1aa06eba0f24e1e8",
+      "exam": "content/track_e_kl11/units/unit03_presse-d-opinion_exam/index.md",
+      "exam_sha256": "3f7e630ee98b673fc2edec5fdc9341b5849602a8df19935baa4bd8273722380c",
+      "points": 20,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "b64442ddc78a09223b83f7d7499d1793309ec124cc7cb4dc50f4fab3eac96947",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit03_presse-d-opinion/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-03.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl11/units/unit04_court-metrage/index.md",
+      "after_sha256": "d5b23650e9b8bedb3e330a1a5f68f80ec642cee582c68301b2ccbffd672b47e7",
+      "source_sha256": "d5b23650e9b8bedb3e330a1a5f68f80ec642cee582c68301b2ccbffd672b47e7",
+      "exam": "content/track_e_kl11/units/unit04_court-metrage_exam/index.md",
+      "exam_sha256": "063d8396d81dbb1b6e7f7d8958a8112bacf77a1689a0242ec02b6204c8b02652",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "406e96feb22a4fa91e9580e4fe33104bcbb978a892753856bab8f81191a30f64",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit04_court-metrage/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+      "after_sha256": "cd5ab3c4ebc28ecdeca3f967b5303afd4a41dd7c789aeb1a90c0b9c582c5d324",
+      "source_sha256": "cd5ab3c4ebc28ecdeca3f967b5303afd4a41dd7c789aeb1a90c0b9c582c5d324",
+      "exam": "content/track_e_kl11/units/unit05_mediation-academique_exam/index.md",
+      "exam_sha256": "0c155350878c762d64f79489ae99ee9979e2e56ed5d867bbe8694d51dca52bf6",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "078e3ae6f55427fb221f3c6b1b325cc72618db904363bd14952869daa498a892",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit05_mediation-academique/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-05.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+      "after_sha256": "658941d78d1990272e2f9f599d6dc7887b121fcf615907ac7bc74cea031ef6d2",
+      "source_sha256": "658941d78d1990272e2f9f599d6dc7887b121fcf615907ac7bc74cea031ef6d2",
+      "exam": "content/track_e_kl11/units/unit06_argumentation-structuree_exam/index.md",
+      "exam_sha256": "6466ffec3237ca25030ece473865397081b38f796111b619108ac63407ebc9c9",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "9a55c165ebcfacee5fdd2fe2c85bc820a89cdd615d50102f8427c4b92021b231",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-06.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl11/units/unit07_extrait-roman-contemporain/index.md",
+      "after_sha256": "2851485d7baf15774b2cd7032a88b5dbd80c52b7dbd858d24f773e912b9f690c",
+      "source_sha256": "2851485d7baf15774b2cd7032a88b5dbd80c52b7dbd858d24f773e912b9f690c",
+      "exam": "content/track_e_kl11/units/unit07_extrait-roman-contemporain_exam/index.md",
+      "exam_sha256": "52d3e77f4657dcc8dd51728b7d29459dfd454eddc70273fe4237ca94805e98fd",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "b2a3372e2bd7a9f878aa291676a7b4f57a8a0fe9f606e2bf29a8a5a3705ff52b",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit07_extrait-roman-contemporain/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-07.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl11/units/unit08_voix-feminines/index.md",
+      "after_sha256": "089bb0e86d4d1aa529731a339016cfb6c45940592257e85589de0c5d04d1f218",
+      "source_sha256": "089bb0e86d4d1aa529731a339016cfb6c45940592257e85589de0c5d04d1f218",
+      "exam": "content/track_e_kl11/units/unit08_voix-feminines_exam/index.md",
+      "exam_sha256": "a25c0219d321d97452d63e1113afa724e6466c3657bc0ad57d7b11ee809d65ae",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "2dee5db06cd9986600b34958d45c82d9b7544d3bb848e2363618f23e1745f3a5",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit08_voix-feminines/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+      "after_sha256": "2d4812a7716734cc28fa20c5f687391be69faf263b6ddcd67e313c4a4cc1e1be",
+      "source_sha256": "2d4812a7716734cc28fa20c5f687391be69faf263b6ddcd67e313c4a4cc1e1be",
+      "exam": "content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md",
+      "exam_sha256": "6b46003e93b8de7425af08d4ed3f7a38956c3ccc7357edfd954b81542b330f50",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "483d1ccf43b35cd84505feb3c8021a45b54a87b49bbf9c1e50313c24ca68de37",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-09.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl11/units/unit10_ecologie-en-france/index.md",
+      "after_sha256": "17cf96bac4ed4495d22519ffa1c034fb742570cb29a45b3e811fa52bde777734",
+      "source_sha256": "17cf96bac4ed4495d22519ffa1c034fb742570cb29a45b3e811fa52bde777734",
+      "exam": "content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md",
+      "exam_sha256": "49b27c1bca782370e78dbd6b851a2847669074f4b0ebd8c20edf790b0f0778b3",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "52372299b24dff94b070eacb7da455ec39e42b360ee3a1b2fa419e16cdf46ae4",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit10_ecologie-en-france/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-10.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl11/units/unit11_discours-politique/index.md",
+      "after_sha256": "409e0989025aa8499947730cba17efaf1ec9e9234f74097df4c09a94f72f00a1",
+      "source_sha256": "409e0989025aa8499947730cba17efaf1ec9e9234f74097df4c09a94f72f00a1",
+      "exam": "content/track_e_kl11/units/unit11_discours-politique_exam/index.md",
+      "exam_sha256": "2e17980572521cd0e5a77802f3d0f973d0ba845199c91e6f7b48cef85340e2ec",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "de996f63efd6df24cdaec6fd1071305c13caad3c254ceee0c0c9750ca15dd200",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit11_discours-politique/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-11.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+      "after_sha256": "b7754f23cce82a1be4387b9271b880165509cea732ffe2c1998d9d08088ef651",
+      "source_sha256": "b7754f23cce82a1be4387b9271b880165509cea732ffe2c1998d9d08088ef651",
+      "exam": "content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md",
+      "exam_sha256": "6c88b77bc3caf347265ae10089eb7b9601dc8b351b70376ce5d17da886767b52",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "writing",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "ffb437a820dd2301bbb3a1fb0974e95c4e2d9a38ac2a3c313255c296d982b5fe",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl11-12.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit01_introduire-camus/index.md",
+      "after_sha256": "c4089a6da726cff28ba7ba85bee04a19612fb109808430e74fbce9e97b7a5f00",
+      "source_sha256": "c4089a6da726cff28ba7ba85bee04a19612fb109808430e74fbce9e97b7a5f00",
+      "exam": "content/track_e_kl12/units/unit01_introduire-camus_exam/index.md",
+      "exam_sha256": "2e26e6ca8a681971fca2ea9aa2824026f67c0f7de793f5a62bf408bee47faa43",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "3b49392f6ac36c7a3293b2025d0ad97caf92366791f3f6f3b79246af94ce507d",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit01_introduire-camus/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-01.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit02_analyse-stylistique/index.md",
+      "after_sha256": "e23dab03f6af6201e1b4d37591b2cbe7b244f74c719aa48531fffe2e368690c4",
+      "source_sha256": "e23dab03f6af6201e1b4d37591b2cbe7b244f74c719aa48531fffe2e368690c4",
+      "exam": "content/track_e_kl12/units/unit02_analyse-stylistique_exam/index.md",
+      "exam_sha256": "4c098de490a3698888292883a951978a75a2dd5d4a5740c4d63f5c3d606af89e",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "dbea511c51521539110a654f4fd4ebb58a4b34a8d9d10524a91ee15450a17030",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit02_analyse-stylistique/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-02.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+      "after_sha256": "b9559eeb1208cb186f0844bef20ad46cc2467331bfca93dc995fb2b8e9c42b94",
+      "source_sha256": "b9559eeb1208cb186f0844bef20ad46cc2467331bfca93dc995fb2b8e9c42b94",
+      "exam": "content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md",
+      "exam_sha256": "8e53ac0a4f5459a8a4e9a52d9ec83ea2687c2b26a16da9aaf3d6f7fe844ba72e",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "0d7554d787f9b97ef74885898eb29a3baab9ae5405974932f79c34f5c4b04fc2",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-03.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit04_presse-engagee/index.md",
+      "after_sha256": "bbc5eb5f691ee53d99ffd8bc4e350b63722a60a354cca3b9c63dcf7961d1dc5d",
+      "source_sha256": "bbc5eb5f691ee53d99ffd8bc4e350b63722a60a354cca3b9c63dcf7961d1dc5d",
+      "exam": "content/track_e_kl12/units/unit04_presse-engagee_exam/index.md",
+      "exam_sha256": "ba3db8037a648aaefc122c54c76c3ccbc6fc7b227b042ee05faee0ed5aa58b9b",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "f621a166ee107c5ea462432722c6469760a80bffb141721284c5d1e1f2242664",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit04_presse-engagee/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+      "after_sha256": "5c4ffa272f827fcdd6b25edcf0e295c1f6219040618a7fa74831b924459b7dea",
+      "source_sha256": "5c4ffa272f827fcdd6b25edcf0e295c1f6219040618a7fa74831b924459b7dea",
+      "exam": "content/track_e_kl12/units/unit05_mediation-fr-de_exam/index.md",
+      "exam_sha256": "68c81ed80e13cd9d2a925e356ecdf13880f23ebdf738c9cbbc836632eda0b3f3",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "d2faf0fd3553b30a342981b27a560d761055a0fc7b9072b37a7b53732990e033",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-05.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
+      "after_sha256": "e0bd11206bbc318ba13e8420a352cf03958ab367d49f72c60854da67290f06dc",
+      "source_sha256": "e0bd11206bbc318ba13e8420a352cf03958ab367d49f72c60854da67290f06dc",
+      "exam": "content/track_e_kl12/units/unit06_etude-de-roman_exam/index.md",
+      "exam_sha256": "b58cb473403e8b29e3d46114c476f141553ecaf89b878c9161847e1f5bb80d41",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "2fd7b73bf91b6ec31fd1eb51971546f41c9b7055311fb72070336f59eaeb2c17",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit06_etude-de-roman/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-06.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit07_discours-radio/index.md",
+      "after_sha256": "20f2cc336a5b7757df0c01b586efc168398872b7fc094fe7d1c6b18e7b33380c",
+      "source_sha256": "20f2cc336a5b7757df0c01b586efc168398872b7fc094fe7d1c6b18e7b33380c",
+      "exam": "content/track_e_kl12/units/unit07_discours-radio_exam/index.md",
+      "exam_sha256": "2701d64d6bc5c8ee592296a000bb64bdf45341ebb9215270fcd2c362090bada8",
+      "points": 24,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "c27a2964f633e43d2ae27346e05d55a5ceb90b575d496a4f2df991a84daad9f6",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit07_discours-radio/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-07.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
+      "after_sha256": "15c4461a2e6a87ba44f2ff274e6a1062d68fbb3d96d614841a110e566ac67b74",
+      "source_sha256": "15c4461a2e6a87ba44f2ff274e6a1062d68fbb3d96d614841a110e566ac67b74",
+      "exam": "content/track_e_kl12/units/unit08_gender-litteraire_exam/index.md",
+      "exam_sha256": "8d043433dada80d36ab41aa578e3e900effe6ba870c6d746f9be23fb5cf5b455",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "d7fd853863ff85f1d8ffd30d6a92825387e8bc792ffd56f420b48321e618044b",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit08_gender-litteraire/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
+      "after_sha256": "8a9fe6c924c8ec788f3d10aa89c579c3058e541657b9c330676a6b0235f64e04",
+      "source_sha256": "8a9fe6c924c8ec788f3d10aa89c579c3058e541657b9c330676a6b0235f64e04",
+      "exam": "content/track_e_kl12/units/unit09_memoire-et-traumatisme_exam/index.md",
+      "exam_sha256": "7eea61e28178be805e1c9fbc0e594d49bfa998df2214019ed50932632823a0c6",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "bb3717784c0e316babba9e0bfaca732f3c631458fcff08998df50663a1a56b3c",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-09.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+      "after_sha256": "c3b8ebefe9e67c27cfc31227b3da67a3aeb306977caa3c775e9753f02012dc51",
+      "source_sha256": "c3b8ebefe9e67c27cfc31227b3da67a3aeb306977caa3c775e9753f02012dc51",
+      "exam": "content/track_e_kl12/units/unit10_argumenter-en-public_exam/index.md",
+      "exam_sha256": "91914340fb53623cd9877d1fd0b0d65663e060e6469355e6dd4b314617f3de57",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_interaction",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "f09aa805c536b9a8c9bf48ee9fda86ba1bac389a678e00e7ad5ee63293fd902e",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-10.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
+      "after_sha256": "dc07d4aa03854d2722ede7afa9cbcf6a244985ddf647f8c4ebc00698690def20",
+      "source_sha256": "dc07d4aa03854d2722ede7afa9cbcf6a244985ddf647f8c4ebc00698690def20",
+      "exam": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit_exam/index.md",
+      "exam_sha256": "1f20bc13c0a6c244e90e075566f3987b0ce312634a00b9c930d06d41ca8e7470",
+      "points": 20,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "91f40f4a8fcfa3a8c050ab048f9269cf1f415feef249f317fd55a83640169f20",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-11.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
+      "after_sha256": "6e8e25fd7ade70ec2b21e24e4f46c0dbaa92f71e23042c5ceaf1a861956abf85",
+      "source_sha256": "6e8e25fd7ade70ec2b21e24e4f46c0dbaa92f71e23042c5ceaf1a861956abf85",
+      "exam": "content/track_e_kl12/units/unit12_bilan-12e_exam/index.md",
+      "exam_sha256": "fea91bb7a1aad799285d958045749c87c0ea1b67cf5bb1dfae60e05b3c7022f9",
+      "points": 20,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "0cff5bc7d74079a25d828a6ff3c695135c6329acd14972b2ea6555b8b2f7f50b",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl12/units/unit12_bilan-12e/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl12-12.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit01_synthese-themes-litteraires/index.md",
+      "after_sha256": "cebbc60a168d6091aa2e4fa3ff25a2c7b87b6dda51914ee39a5fbf5ee39764ed",
+      "source_sha256": "cebbc60a168d6091aa2e4fa3ff25a2c7b87b6dda51914ee39a5fbf5ee39764ed",
+      "exam": "content/track_e_kl13/units/unit01_synthese-themes-litteraires_exam/index.md",
+      "exam_sha256": "ca28745bc26ae4ede73a9a4806c0d9d2e75f53e439dc3a8af56135568af1a03a",
+      "points": 30,
+      "duration_minutes": 90,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "06e1083ab80c9262a1acb458d1ede1311c6222f9082de528e0cfb9381768edbd",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit01_synthese-themes-litteraires/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-01.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
+      "after_sha256": "c010dcaceb602331b5f3727e82b80f0ea1d9bc1381f4e3bfab285b8c44a76ac2",
+      "source_sha256": "c010dcaceb602331b5f3727e82b80f0ea1d9bc1381f4e3bfab285b8c44a76ac2",
+      "exam": "content/track_e_kl13/units/unit02_francophonie-pluralite_exam/index.md",
+      "exam_sha256": "0acbf1b79721f659f98b027e9fc6f074d02516a200422a542e87d90030038aae",
+      "points": 30,
+      "duration_minutes": 45,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "e624f357d44f3fdb6f1f258399eb94779bfd9da4e9647b7faa615cad8ed0d6b4",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-02.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
+      "after_sha256": "c3ef54a9aa201d52d04ecd628fb6fd058c254e0791f6f218e1c114535ac09a1d",
+      "source_sha256": "c3ef54a9aa201d52d04ecd628fb6fd058c254e0791f6f218e1c114535ac09a1d",
+      "exam": "content/track_e_kl13/units/unit03_essai-personnel_exam/index.md",
+      "exam_sha256": "e07c0fc975602cfe9258f951ffb588e20788be015933bf718e31cf1588dcc497",
+      "points": 30,
+      "duration_minutes": 90,
+      "skills": [
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "14ddf99b5be98976020a902e563a519ac36747a134c1e2198b40a95639b14749",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit03_essai-personnel/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-03.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit04_abitur-mock-1/index.md",
+      "after_sha256": "6120cc1f176326faf7692939499681456085baed86b87dad1c0119b5efa56a30",
+      "source_sha256": "6120cc1f176326faf7692939499681456085baed86b87dad1c0119b5efa56a30",
+      "exam": "content/track_e_kl13/units/unit04_abitur-mock-1_exam/index.md",
+      "exam_sha256": "ab7b5779cadcabd4bc263e4f484068206f4adac1ac3f805f8937196f63150879",
+      "points": 30,
+      "duration_minutes": 90,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "1d32a6377ff330b1fbb2eba40f16a4e47f29a59e81702b0e30cc3046a80dd571",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit04_abitur-mock-1/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+      "after_sha256": "1c1c19af4e3cb8be3abf5a67bf23dd388b2938c23b3ad4140d592da713fc3eeb",
+      "source_sha256": "1c1c19af4e3cb8be3abf5a67bf23dd388b2938c23b3ad4140d592da713fc3eeb",
+      "exam": "content/track_e_kl13/units/unit05_abitur-mock-2_exam/index.md",
+      "exam_sha256": "c2eb3887f1bd9e0edf2a1d5430304ee41dde491524225094899f2e0f8ad5749f",
+      "points": 30,
+      "duration_minutes": 60,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "3520ed36bd755bb3dc02ee7f9fa7bae33942c6bc00daa51b0e0046fde249c3e8",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-05.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit06_mediation-finale/index.md",
+      "after_sha256": "4ee02150871bd8170ea0484ff533bf75c8cea1a7e09ce3fbb7b67e722fcfa899",
+      "source_sha256": "4ee02150871bd8170ea0484ff533bf75c8cea1a7e09ce3fbb7b67e722fcfa899",
+      "exam": "content/track_e_kl13/units/unit06_mediation-finale_exam/index.md",
+      "exam_sha256": "27de373c634b5a8092e770a0e2f95f5b535e81ff910f08752ebd2db40dd92f13",
+      "points": 30,
+      "duration_minutes": 45,
+      "skills": [
+        "mediation"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "69ba44d22a81a15847bffe16df2d4dc2d53e170d86b7f005f2b1416a992249fe",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit06_mediation-finale/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-06.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep/index.md",
+      "after_sha256": "a8d99e7d39e3f47e6e29921bcd729198510defe9f6b98fe69f246abd1a8532e5",
+      "source_sha256": "a8d99e7d39e3f47e6e29921bcd729198510defe9f6b98fe69f246abd1a8532e5",
+      "exam": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep_exam/index.md",
+      "exam_sha256": "eb439c264194ab908dcd42b2f283e7b974c7f23c805ad2733c0db1f762bc2651",
+      "points": 30,
+      "duration_minutes": 15,
+      "skills": [
+        "speaking_interaction",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "a47e0a0d2479eee5dee68fa77066eddf073e1b6641d97744d497b2cfede0d924",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit07_kommunikationspruefung-prep/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-07.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit08_discussion-sur-stimulus/index.md",
+      "after_sha256": "9995ec66f8520c7e7c450a8a713cea8632a0e705ea1194cf06ccab4cbb4b1de1",
+      "source_sha256": "9995ec66f8520c7e7c450a8a713cea8632a0e705ea1194cf06ccab4cbb4b1de1",
+      "exam": "content/track_e_kl13/units/unit08_discussion-sur-stimulus_exam/index.md",
+      "exam_sha256": "4ecdc70f8c3e506dcbf67b27708a2a0c782c53b25b1abf093c79c29f2a8d30c2",
+      "points": 30,
+      "duration_minutes": 13,
+      "skills": [
+        "speaking_interaction",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "042cac4f757993c26933a2be4e7585883fb0ff72ee238412dd4d81d4a77cc508",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit08_discussion-sur-stimulus/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit09_monologue-et-presentation/index.md",
+      "after_sha256": "d804efb258fd598edae9559156e621f2c1970d9d0936157299d37049e512aa66",
+      "source_sha256": "d804efb258fd598edae9559156e621f2c1970d9d0936157299d37049e512aa66",
+      "exam": "content/track_e_kl13/units/unit09_monologue-et-presentation_exam/index.md",
+      "exam_sha256": "d8db8f956e0d379b86d4b9ac8e6db1c470617de2e79740d6162be056e1fa773c",
+      "points": 30,
+      "duration_minutes": 20,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "d98d7bcfb7a01f1586c65310605e8268c9080177cb091753ea5fcd45a67b4b44",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit09_monologue-et-presentation/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-09.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit10_reflexion-sur-soi/index.md",
+      "after_sha256": "ea47eca05a9fd30a5bb1a583136af29baa041120ab19f30b268a851d4d1abc39",
+      "source_sha256": "ea47eca05a9fd30a5bb1a583136af29baa041120ab19f30b268a851d4d1abc39",
+      "exam": "content/track_e_kl13/units/unit10_reflexion-sur-soi_exam/index.md",
+      "exam_sha256": "d5957b2b2422afeb27625aee3603f1decbab55c07a6b8c627d4a8ca2c67d6b85",
+      "points": 30,
+      "duration_minutes": 45,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "ee4d29330b8403bfcd9df49d562cdcf60c9dd3d603c8f75bc11c9619881d119f",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit10_reflexion-sur-soi/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-10.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit11_abitur-mock-final/index.md",
+      "after_sha256": "eadd80685df8cb12e223161ad2e78c36dc7b127a723a1d11b4f60c1cb354c118",
+      "source_sha256": "eadd80685df8cb12e223161ad2e78c36dc7b127a723a1d11b4f60c1cb354c118",
+      "exam": "content/track_e_kl13/units/unit11_abitur-mock-final_exam/index.md",
+      "exam_sha256": "8389efac746c2b9d34e3ac7e714dfe88668ad80918e53fa38050b4b744489a86",
+      "points": 30,
+      "duration_minutes": 90,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "e8604e169202bb83e5715c3d54debb3a0f049f21bb04e554b8b77b6758415dd4",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit11_abitur-mock-final/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-11.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_e_kl13/units/unit12_bilan-final-abitur/index.md",
+      "after_sha256": "e1934af2ac00b3ed107b905c646bc4e3b3602ca136edb8bc9dbe50dcce79d811",
+      "source_sha256": "e1934af2ac00b3ed107b905c646bc4e3b3602ca136edb8bc9dbe50dcce79d811",
+      "exam": "content/track_e_kl13/units/unit12_bilan-final-abitur_exam/index.md",
+      "exam_sha256": "646943afefbff720a79c5d81c968b789f5dfd4bb72d58a2914f9915ae39d8383",
+      "points": 30,
+      "duration_minutes": 60,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "1150d2f9da86f2fd62a9c8cb3332e749a2f5a8f7fb39d569d0fd35428c8f4d15",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_e_kl13/units/unit12_bilan-final-abitur/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_e_kl13-12.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
+      "after_sha256": "e60a18612d6a138271b3d960c1f5ff2b8b17885a997bb31c5cd6148e81eab00a",
+      "source_sha256": "e60a18612d6a138271b3d960c1f5ff2b8b17885a997bb31c5cd6148e81eab00a",
+      "exam": "content/track_gm_kl06/units/unit01_salutations-et-prenoms_exam/index.md",
+      "exam_sha256": "d37f7ab9ff69344b9ca9ea8529f493289a17958d0f85fdcaa411441cf0873878",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "a39985c0ac475346335a317237865649acbd403463ba417adc8c7de707c08538",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-01.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit02_ma-famille/index.md",
+      "after_sha256": "312c85923c6751ecb8f22c4afab1d183a9ce4256fac92c28528beeeb2bf7a52a",
+      "source_sha256": "312c85923c6751ecb8f22c4afab1d183a9ce4256fac92c28528beeeb2bf7a52a",
+      "exam": "content/track_gm_kl06/units/unit02_ma-famille_exam/index.md",
+      "exam_sha256": "f0de3222e991280cf044b73b1c2c0e038d492757fb7a9d7b62513837f058172e",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "writing",
+        "speaking_production"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "25e85251f8b2100148b047f56be62995cc531cfe1394e0373c938c5ae5cbfbe7",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit02_ma-famille/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-02.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
+      "after_sha256": "b434fb381e386723e570fca7713a2c4a015debfce2125896802a5ae96233cfaa",
+      "source_sha256": "b434fb381e386723e570fca7713a2c4a015debfce2125896802a5ae96233cfaa",
+      "exam": "content/track_gm_kl06/units/unit03_mon-ecole_exam/index.md",
+      "exam_sha256": "f7a7533673b7ccbbe348ee90b15c136343e37e8d851b5a437a8da0b5b1ca9977",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "a2b3dacc05f95d3c721064352ff5a5f062d8a897a0e21dbe45ef93909ecc4dda",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit03_mon-ecole/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-03.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit04_ma-journee/index.md",
+      "after_sha256": "1022ea91dbde81d707b9860b079ca53467210ed52866488ee6c877b215edf38e",
+      "source_sha256": "1022ea91dbde81d707b9860b079ca53467210ed52866488ee6c877b215edf38e",
+      "exam": "content/track_gm_kl06/units/unit04_ma-journee_exam/index.md",
+      "exam_sha256": "58a47239b2b9f5386a50af9c97d92726b6c1d473144112d47186613289d4f086",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "6cea56a7c5e06272a6e0afb5e9d2f4e03472c038004aa00878fc6785c51511d6",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit04_ma-journee/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
+      "after_sha256": "8bd839f41ea613ea61f19e44d1897034cd0dfb46ba1e1b003243e5f7fa63a84f",
+      "source_sha256": "8bd839f41ea613ea61f19e44d1897034cd0dfb46ba1e1b003243e5f7fa63a84f",
+      "exam": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam/index.md",
+      "exam_sha256": "10bac1f80a163a88b3344c8dc73cb503bf2441f4b52fcf9092972c623624bd6b",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "89e8b7dd2c4b5754a80febf65a61aaba5de78dd8238321e65ae9b41464dc89f6",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-05.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit06_au-marche/index.md",
+      "after_sha256": "2d06dcf5764acb014494456a598416d83799cf94c61fb89fa18409d71831eabf",
+      "source_sha256": "2d06dcf5764acb014494456a598416d83799cf94c61fb89fa18409d71831eabf",
+      "exam": "content/track_gm_kl06/units/unit06_au-marche_exam/index.md",
+      "exam_sha256": "d8b3774ba69fce6ab372149a9a050216ab327aff2c5145a84733d091c89971e3",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "0c98dc8e4b637ad8d1510122dce2de103d1331d6655d359b0fe05b8711232a25",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit06_au-marche/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-06.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
+      "after_sha256": "990e8b98ca4ad7f1865375d64970e1f7f4a48a192ffb3d81a69403baa9924e68",
+      "source_sha256": "990e8b98ca4ad7f1865375d64970e1f7f4a48a192ffb3d81a69403baa9924e68",
+      "exam": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure_exam/index.md",
+      "exam_sha256": "994fa909a03094e646df254a4546af45a815c2d0a93a96a8e38f2fee0162385a",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "815a7a60372b899f4823c4aa17f1f760ae6837b1c5aa19d75f299f72f9d93e30",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-07.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+      "after_sha256": "8271c774106df61fcbd9ed20a9ce8080655b6574dcf0a0715f7d1cb4b62c2c6f",
+      "source_sha256": "8271c774106df61fcbd9ed20a9ce8080655b6574dcf0a0715f7d1cb4b62c2c6f",
+      "exam": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam/index.md",
+      "exam_sha256": "3e5bc3c840d6fc4fb360ea3c4baa90a946d890677d2c534013677c8240032992",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "d8fbdec594d3513cccd2ad78da8ce3e77a9a938bb3a7ff3dc8caadc9586b8ed6",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+      "after_sha256": "618afc6c1d1f11335d435c1010a76cfb661575b45f5f5c44c8e8b5ae180bf3c2",
+      "source_sha256": "618afc6c1d1f11335d435c1010a76cfb661575b45f5f5c44c8e8b5ae180bf3c2",
+      "exam": "content/track_gm_kl06/units/unit09_ma-chambre_exam/index.md",
+      "exam_sha256": "42be23747c0f5996e07fddda035aeff671d6011c1215b589a8cb8ecb7a145b2b",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "2c04db7163d1a221b7dbbb43475b71e22bdcb863416bb8120dbeab451614c8ce",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-09.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
+      "after_sha256": "7496212141ebbbf99e9239e1f3097003f3d0873ac337878edd09ee5ac7ec1e9a",
+      "source_sha256": "7496212141ebbbf99e9239e1f3097003f3d0873ac337878edd09ee5ac7ec1e9a",
+      "exam": "content/track_gm_kl06/units/unit10_mes-loisirs_exam/index.md",
+      "exam_sha256": "3140a98824bc38b9d0db3310569b334f59d7a8a528756624f384a055aaf1783d",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_interaction",
+        "speaking_production"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "defb961eff8e5426eaaa54902071ead2b04faa70cbc798b9b23c90384a92a794",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-10.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+      "after_sha256": "6c6b8b3cf1f46c53d12464d3e5486c7f18f9eceec34d8b8b7d13f05dbd79f4ff",
+      "source_sha256": "6c6b8b3cf1f46c53d12464d3e5486c7f18f9eceec34d8b8b7d13f05dbd79f4ff",
+      "exam": "content/track_gm_kl06/units/unit11_voyage-en-france_exam/index.md",
+      "exam_sha256": "327092031d9c03f0af1a9c33d08b266d986045b73aa0fbab1ac77fdad0de113f",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "1342e7f82bde9f9f15d86801ab7a6ecdbcd925b24e33afe55cf9e7bbab5b1259",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-11.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
+      "after_sha256": "74a57db70ac98c14fafea2c4ea5acdede52596b62d3d1d33742a0d03081c4117",
+      "source_sha256": "74a57db70ac98c14fafea2c4ea5acdede52596b62d3d1d33742a0d03081c4117",
+      "exam": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md",
+      "exam_sha256": "cd06bcd3d9d228ecaf449bb013463bb92a451a14ff8d1c8cab2c98015176b128",
+      "points": 30,
+      "duration_minutes": 2,
+      "skills": [
+        "reading",
+        "writing",
+        "speaking_production",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "d2fb4b3d42010d21a7204e5b0f0d652c0063b575d2369caca0450a5f532e1682",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl06-12.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+      "after_sha256": "599d26d074c88d2e983af4841b1506eda703c9783bd851cd32e0d4a60756949f",
+      "source_sha256": "599d26d074c88d2e983af4841b1506eda703c9783bd851cd32e0d4a60756949f",
+      "exam": "content/track_gm_kl07/units/unit01_ma-rentree_exam/index.md",
+      "exam_sha256": "ba5873a9880ba3b39ce30e9964d4f7e21dd7d708491e344e371df808c8b8234b",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_interaction",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "34d74fbc9d593a3042e91ca90d3267474214f239f7dac1d7ab58fd46f86cb462",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-01.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
+      "after_sha256": "c6d6da5cc4a3b72888333606df41303ea8ad4931af0c94405af327d3cf00fb3b",
+      "source_sha256": "c6d6da5cc4a3b72888333606df41303ea8ad4931af0c94405af327d3cf00fb3b",
+      "exam": "content/track_gm_kl07/units/unit02_raconter-le-week-end_exam/index.md",
+      "exam_sha256": "d09a39ddbefa6c34f6a3116605fb0ae0a610bc5bece01717f24e80cf43257d1d",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "3affcc7d66928775210c17972edb598a8ce4a0aac8f74e6a06bfaa97337fd460",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-02.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+      "after_sha256": "06931dde596a8dccabf5cfe36e057609c420124e68848b17c8419d30f6a2cd82",
+      "source_sha256": "06931dde596a8dccabf5cfe36e057609c420124e68848b17c8419d30f6a2cd82",
+      "exam": "content/track_gm_kl07/units/unit03_mon-quartier_exam/index.md",
+      "exam_sha256": "3b25bd790d180e9f0feb74d0bac10ada8fa91860813920c2a19c1e42e3c9c4cd",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "378aa8e6f68a41404fd94b1c1d6d4645adf332ad1e26173b1411e5b0c07eed88",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-03.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit04_les-repas/index.md",
+      "after_sha256": "b74b8134d6aab8a599bbe9cc79f1b5d39cf06a77e7187cb119951728ee18df06",
+      "source_sha256": "b74b8134d6aab8a599bbe9cc79f1b5d39cf06a77e7187cb119951728ee18df06",
+      "exam": "content/track_gm_kl07/units/unit04_les-repas_exam/index.md",
+      "exam_sha256": "94f0b0e8e06724490223ad445c7b0337e091d07ee802932d4678f6ebedc79d8d",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "ed7568482bac2a33a20874066bd810472c6018b2be5021ee08bcd7c7efc1ac99",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit04_les-repas/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
+      "after_sha256": "feef7245dd202ba94b05a790ab1d1e30b531827008c6cf67aae972d06c23f6d4",
+      "source_sha256": "feef7245dd202ba94b05a790ab1d1e30b531827008c6cf67aae972d06c23f6d4",
+      "exam": "content/track_gm_kl07/units/unit05_amis-et-conflits_exam/index.md",
+      "exam_sha256": "a81ecb14fce20e5c386cae989d91c5697bff96d4e2f3f3db5e3f1717f64c62b2",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "d100716ad60c8e4f3216ab265e2bd3ef1d8bfacdb870c5b7d8e59c057ba2b656",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-05.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit06_les-transports/index.md",
+      "after_sha256": "636a85d0306cd8e85137871ac563d114acb92b9fb093647f798cbaef536697f7",
+      "source_sha256": "636a85d0306cd8e85137871ac563d114acb92b9fb093647f798cbaef536697f7",
+      "exam": "content/track_gm_kl07/units/unit06_les-transports_exam/index.md",
+      "exam_sha256": "3d0f1f054a29b8aa20e3557c8a27f9053118d9d2461ffa18ceb4d53d975ace90",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "d7383e5ae3270adeac03e8fc4546e69a3739bfe3e31b07a087340067a6adb9bc",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit06_les-transports/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-06.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
+      "after_sha256": "2f143d0e8c8ee5718c3b1646b779554837b143860f94ea3d3ca27e1b1a2ce70f",
+      "source_sha256": "2f143d0e8c8ee5718c3b1646b779554837b143860f94ea3d3ca27e1b1a2ce70f",
+      "exam": "content/track_gm_kl07/units/unit07_vacances-en-famille_exam/index.md",
+      "exam_sha256": "57024d3d8048793f607ae76005fee179097295ae520a317573751b82807c3d83",
+      "points": 40,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "397a52b85471db67af34802c735f31496c9dcd95f711255efe5ef0be4777c0df",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-07.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit08_le-quebec/index.md",
+      "after_sha256": "284c59b0ef2e05faf603ac7c8a780c872d927bc73a2a415c6d3efc177032b999",
+      "source_sha256": "284c59b0ef2e05faf603ac7c8a780c872d927bc73a2a415c6d3efc177032b999",
+      "exam": "content/track_gm_kl07/units/unit08_le-quebec_exam/index.md",
+      "exam_sha256": "e2b3d8e24eb019e4b759a11ec889e28fb17e776741e0e3510b35450d239c50a2",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "dc140aaf652b68ef87d70e8679e2abbf114515bb38ca249c77f5dbe07946507b",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit08_le-quebec/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+      "after_sha256": "8db3def2b0abd22735a356544fd3dd114e72973904bc4353265b46e322546b1e",
+      "source_sha256": "8db3def2b0abd22735a356544fd3dd114e72973904bc4353265b46e322546b1e",
+      "exam": "content/track_gm_kl07/units/unit09_fete-d-anniversaire_exam/index.md",
+      "exam_sha256": "a1ebbc57c61658169f01ef1435bc05cc620be04d050ab78de71744de5fb8791e",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "c55e4001aeeff681628b96fbfe7e16bd8376403284c1f32f54648174eace658e",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-09.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit10_musique-et-clips/index.md",
+      "after_sha256": "fa176186dcb50b94f3d060e4925efada34e312e730ba594a9dbaecb8b8b9816d",
+      "source_sha256": "fa176186dcb50b94f3d060e4925efada34e312e730ba594a9dbaecb8b8b9816d",
+      "exam": "content/track_gm_kl07/units/unit10_musique-et-clips_exam/index.md",
+      "exam_sha256": "5c362615adea0a9ce00855e23b0ea020c38869a8b5fe9bdce9ac118bc1f91b72",
+      "points": 30,
+      "duration_minutes": 3,
+      "skills": [
+        "listening"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "2834e702b2c256a913f09ca34f2705f6bfacbf523535a96ac489ecab1abc2d39",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit10_musique-et-clips/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-10.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit11_mediation-de-base/index.md",
+      "after_sha256": "60d86e426c29fc94f8b3f0a833541f9980f887b4539e3df26bb7e36481250362",
+      "source_sha256": "60d86e426c29fc94f8b3f0a833541f9980f887b4539e3df26bb7e36481250362",
+      "exam": "content/track_gm_kl07/units/unit11_mediation-de-base_exam/index.md",
+      "exam_sha256": "2372a8c7b1afdd839949f7ebad7ec0d25ba0398b040663e16f4c6445c523b707",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "mediation",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "56bee0d096f7ab675895e27cfcf5af94f33655e5a40d2d34b8e6261f8495e093",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit11_mediation-de-base/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-11.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee/index.md",
+      "after_sha256": "26058ea84cff31ef512b4baecc9cbdb382bd0ba4fde880f5d855abd7ca75ebb8",
+      "source_sha256": "26058ea84cff31ef512b4baecc9cbdb382bd0ba4fde880f5d855abd7ca75ebb8",
+      "exam": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee_exam/index.md",
+      "exam_sha256": "3f617601760410dedfc7cfae00bf68c1b3fd0e9a1a1f6bfe6124865b429db554",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "7ec6033c4103eb65995f1c961bbe830a4b8083d1b0853a00d79a0d72d81235fa",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl07-12.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
+      "after_sha256": "685718654ced402876f2f27dc98e5ae38549f3db0478e228998b347e5e86c70b",
+      "source_sha256": "685718654ced402876f2f27dc98e5ae38549f3db0478e228998b347e5e86c70b",
+      "exam": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal_exam/index.md",
+      "exam_sha256": "0384bfd7916cc7c03e570f659d905c1f34e3e1df16d5a25d81cbedb805581eb3",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "retained-grade-scale",
+      "pedagogical_review": "pending",
+      "before_sha256": "c79efc908e1beb83fa54c2b8d4dba63581c3c0aa25b4eb7edbfeb963f484a4e7",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-01.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md",
+      "after_sha256": "d806d9d1639b3b9357fd1a59c92bb0c24294c859e6229c1d8bd12174fa17a240",
+      "source_sha256": "d806d9d1639b3b9357fd1a59c92bb0c24294c859e6229c1d8bd12174fa17a240",
+      "exam": "content/track_gm_kl08/units/unit02_mes-medias-preferes_exam/index.md",
+      "exam_sha256": "8602eab63599638356f3ba66ff722148c76d5b9671a26931a25a816614bbb18d",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "6c0b5edf7d13fb6955cef14026b7453820c13cafc5853c920e0588259273444c",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-02.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md",
+      "after_sha256": "b4d41625161168fa2a311ae917230f517d426c28ef5336a76d7891baa4798943",
+      "source_sha256": "b4d41625161168fa2a311ae917230f517d426c28ef5336a76d7891baa4798943",
+      "exam": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam/index.md",
+      "exam_sha256": "3f9482f361a78c0791d725cb2e061dddb562aa77e609ef136c7b768f0ed4b5f1",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "43aa1050d52f9b8425ebc64e10691b2894a2c08f869c1d33740e4487f531f58b",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-03.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit04_futurs-projets/index.md",
+      "after_sha256": "971be5c1df7c11db62d5c11762f12c2e336db319068cb11e1b6d3b3709252e7d",
+      "source_sha256": "971be5c1df7c11db62d5c11762f12c2e336db319068cb11e1b6d3b3709252e7d",
+      "exam": "content/track_gm_kl08/units/unit04_futurs-projets_exam/index.md",
+      "exam_sha256": "8de70b1d4bf67f3fdd4fa0f82dc1d333c4f510a56cfaa79ef6b6d6a0a377f489",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "fa3d4be29e0d2fad683b42ff1567f354ef237a09d225463c8bf24413d3e14c36",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit04_futurs-projets/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-04.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume/index.md",
+      "after_sha256": "eb700f99f13bb743bc2da6bbd5e83aa47607ce3346c4d40d901fcf23f5f4bd4d",
+      "source_sha256": "eb700f99f13bb743bc2da6bbd5e83aa47607ce3346c4d40d901fcf23f5f4bd4d",
+      "exam": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume_exam/index.md",
+      "exam_sha256": "bcefd2182437637c342850504a1e820a4bb61e8dd8bc1ca7496ee684dfa3c90c",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "mediation"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "e705f20ccee94d4b36be1014d2e54f2d30643a292f0e5fd9a416c11217b4da91",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-05.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit06_musiques-du-maghreb/index.md",
+      "after_sha256": "2914635478a84fe980cd9c0cef211a6fda24e94bf363722a1d243a7219a8f381",
+      "source_sha256": "2914635478a84fe980cd9c0cef211a6fda24e94bf363722a1d243a7219a8f381",
+      "exam": "content/track_gm_kl08/units/unit06_musiques-du-maghreb_exam/index.md",
+      "exam_sha256": "49bae658f4ea320bd4ac8a5ed9b8be50d8d42e2a2bf4cdea94f2f0319d7bad3d",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "80343f988b5a14f485de8b2e3f6847ee64522da6d9d3f57f271a2a3081859344",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit06_musiques-du-maghreb/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-06.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
+      "after_sha256": "9567d4df31b406bb8249ead1d1ea51bb4de9a202cc067b6d64857f922041cd30",
+      "source_sha256": "9567d4df31b406bb8249ead1d1ea51bb4de9a202cc067b6d64857f922041cd30",
+      "exam": "content/track_gm_kl08/units/unit07_sport-et-equipe_exam/index.md",
+      "exam_sha256": "fea872e3ca2403e927ffe7be4abff00dfe7e32c2c15f5c1c01e6d545aefd30ff",
+      "points": 30,
+      "duration_minutes": 35,
+      "skills": [
+        "reading",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "3d3cddc32842c2085b6e6e9a904677960ef2ac5aa2e7cb283724939fbe2341df",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-07.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit08_un-allemand-a-paris/index.md",
+      "after_sha256": "79c7275b2bccdbfc3d68e019709d3f9141fdefb0ba5f6f3d0bab80a67aae4129",
+      "source_sha256": "79c7275b2bccdbfc3d68e019709d3f9141fdefb0ba5f6f3d0bab80a67aae4129",
+      "exam": "content/track_gm_kl08/units/unit08_un-allemand-a-paris_exam/index.md",
+      "exam_sha256": "53192dceea65336e2d127a6389d50849a4e26403ecabab4fb52d88edd798c212",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "c0892a53358fa6ef7b97198d39db622562d5aa35edcc7b381b745b7d5aad649e",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit08_un-allemand-a-paris/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit09_stereotypes-et-prejuges/index.md",
+      "after_sha256": "b2d80e29f51d313c68372ac0f079d7cc5bb17b9367b574a976f854708ad195e5",
+      "source_sha256": "b2d80e29f51d313c68372ac0f079d7cc5bb17b9367b574a976f854708ad195e5",
+      "exam": "content/track_gm_kl08/units/unit09_stereotypes-et-prejuges_exam/index.md",
+      "exam_sha256": "3515282280393fb92a15e4ef465b31942d25afc37fb1af3aef9c6264f91e24b6",
+      "points": 30,
+      "duration_minutes": 3,
+      "skills": [
+        "speaking_interaction",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "57902fa8dd77c04035680d74eec93a686019ff4ba41badd0e2d5d926afdeac22",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit09_stereotypes-et-prejuges/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-09.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
+      "after_sha256": "aa65809265f91746c33029cdf247269a81844ec753fec7b7f068cf945660c97b",
+      "source_sha256": "aa65809265f91746c33029cdf247269a81844ec753fec7b7f068cf945660c97b",
+      "exam": "content/track_gm_kl08/units/unit10_cinema-quebecois_exam/index.md",
+      "exam_sha256": "4be3e6223fa2d61b76c2f11612698d8ca8dc7848d8a60e46d5abe341142cb92e",
+      "points": 30,
+      "duration_minutes": 2,
+      "skills": [
+        "listening",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "7894d37839d48769eb9c8268f786921923d9d133d11869443e7b4a962702a47a",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-10.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+      "after_sha256": "2d0bab98fe47425a4cbae85ab0e962a99db696bb1eaa4b786c6ed62903ab4976",
+      "source_sha256": "2d0bab98fe47425a4cbae85ab0e962a99db696bb1eaa4b786c6ed62903ab4976",
+      "exam": "content/track_gm_kl08/units/unit11_un-projet-solidaire_exam/index.md",
+      "exam_sha256": "ad1d550d6dc9f6d91ac47eb54791001d7df19defaf4c774a8f97906bd44fe318",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "0bfc5d5b80077740c2167f2f7d356a35c5c31b18837e38008b5745af9ef6146c",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-11.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
+      "after_sha256": "f5169109492a1c9698e6cdc375a11a361ea7ec6bf33d2011ba1a96d0f2ff39e7",
+      "source_sha256": "f5169109492a1c9698e6cdc375a11a361ea7ec6bf33d2011ba1a96d0f2ff39e7",
+      "exam": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam/index.md",
+      "exam_sha256": "fce66f101917cc23252eea3ebb52f0ac6a4fd52cc36a628300821025b823e3bf",
+      "points": 40,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "3eeb8d199b044b6ebd628b8dbba4ab8a20e475109c985993cb07c3c93fdc63ba",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl08-12.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+      "after_sha256": "6082666c96f971f32354ebcf88b824aa48bc3257f5f606afcf907744e61b1129",
+      "source_sha256": "6082666c96f971f32354ebcf88b824aa48bc3257f5f606afcf907744e61b1129",
+      "exam": "content/track_gm_kl09/units/unit01_le-monde-du-travail_exam/index.md",
+      "exam_sha256": "eabb9b44a05f452c1b12e1f604251886c657a57da157488523ed68dc6c358b57",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "f1b48116be17b7fa6ec8a38f30442ecd10cb0aca516d7eeb51bb464736adb620",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-01.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+      "after_sha256": "72d18d3bff0b69454b58b9df85da2d89e53d331019b80e9799e28491694fb5a7",
+      "source_sha256": "72d18d3bff0b69454b58b9df85da2d89e53d331019b80e9799e28491694fb5a7",
+      "exam": "content/track_gm_kl09/units/unit02_lettre-de-motivation_exam/index.md",
+      "exam_sha256": "0193e24de9d81aefd88170ff55b499854d20353b4d96090180d32da3038345bd",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "8f341dc497d505665f0c4a688c57e991945a152d00068b1b5e9786456b7b44c8",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-02.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+      "after_sha256": "6b7a759481301654cd45cd423cc6fffdd92147f89f56ebbdc1f12a3533078372",
+      "source_sha256": "6b7a759481301654cd45cd423cc6fffdd92147f89f56ebbdc1f12a3533078372",
+      "exam": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien_exam/index.md",
+      "exam_sha256": "8c092fcf5fdb164184eba8c909443eee59a702af83facd256092068c19830806",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "3e3ab2f36fde684482b8fb4c8c00a2823aeb64d925d7e1d74e483dfebf9040c5",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-03.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+      "after_sha256": "0f9572d9d44db0a41e9c8b5ba555f98c9ba01ecf43ac02964badd420d8340249",
+      "source_sha256": "0f9572d9d44db0a41e9c8b5ba555f98c9ba01ecf43ac02964badd420d8340249",
+      "exam": "content/track_gm_kl09/units/unit04_argumenter-pour-contre_exam/index.md",
+      "exam_sha256": "d9740d911c185586985236fcb7dfdf14557465d0ec18fda3bff93e6e020cba00",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "7f6a100911395be852eb15742a8f66415c1e71b5351fbb6b2ff4a7457509deb8",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
+      "after_sha256": "6468f2369080af03c223cff6a097c905fb34ce48a5d465074b66a3982942a052",
+      "source_sha256": "6468f2369080af03c223cff6a097c905fb34ce48a5d465074b66a3982942a052",
+      "exam": "content/track_gm_kl09/units/unit05_vivre-en-tunisie_exam/index.md",
+      "exam_sha256": "c01c3f73c236d6bb5ac0c80f4b5b90645b6d549fe9fb5d8cf066b02329469a3c",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "54b9e4da7470ea5b8bbdf6204c260fb81412250d46389ad3903529e446fec01d",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-05.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit06_podcasts-en-francais/index.md",
+      "after_sha256": "ecbcb88b9e507bee1348d246850d21f112e35f1ae1b5cb4fb4ccdac98f500c00",
+      "source_sha256": "ecbcb88b9e507bee1348d246850d21f112e35f1ae1b5cb4fb4ccdac98f500c00",
+      "exam": "content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md",
+      "exam_sha256": "60d0f3705985abe35548f22c7899071936225c7628c1f82e45483b54f750efe1",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "listening"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "2b2fe3f2f7bfcc1b3becf375293d3ff0306c7bbeff86ad0a99aca4dd024ee604",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit06_podcasts-en-francais/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-06.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
+      "after_sha256": "2c25495b3db37fa8a747aeb9c2db1aafa64efc1d6cc538b77a652d63ce13e678",
+      "source_sha256": "2c25495b3db37fa8a747aeb9c2db1aafa64efc1d6cc538b77a652d63ce13e678",
+      "exam": "content/track_gm_kl09/units/unit07_harcelement-et-respect_exam/index.md",
+      "exam_sha256": "5202b9f96e18806a0531e7a79ba7e048226a01fcd3743a06573116bf8b07e777",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "speaking_interaction",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "977df44d7bb7607d1a7247f2df83784e4a6aae2e559e575b31c7d4f21053d034",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-07.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
+      "after_sha256": "19539a66e345223dad1d2cc315898cba3fdbbdc99cb7314851090c67694b23fc",
+      "source_sha256": "19539a66e345223dad1d2cc315898cba3fdbbdc99cb7314851090c67694b23fc",
+      "exam": "content/track_gm_kl09/units/unit08_differences-culturelles_exam/index.md",
+      "exam_sha256": "5b4201dc7277c9db3bcfad4c88af2094df354e51998e1be6c9bd582b59d886b5",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "5c8e80694d24001b9f89922693e2d6f351b29aefe148a034685a1c5b88403cab",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-08.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md",
+      "after_sha256": "729ecccf5f02bdb4c8839f8c8b1e6f4fb92a77710465a55b2f4a34ee1f513f5d",
+      "source_sha256": "729ecccf5f02bdb4c8839f8c8b1e6f4fb92a77710465a55b2f4a34ee1f513f5d",
+      "exam": "content/track_gm_kl09/units/unit09_internet-et-vie-privee_exam/index.md",
+      "exam_sha256": "dee50f1e5dc20f6921f85bbb538aa930eea1724314666c4b37f4ee15fb4bc605",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "29f1fb93e2e0faded9cb8d7c96ebff12e3205ad744b217a483bf8f7decd6fd01",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-09.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit10_consommation-responsable/index.md",
+      "after_sha256": "87768fe0b06adaf403f84ffc1e7121cd9bea35b1b46db4f32a11dc8166b7d9ed",
+      "source_sha256": "87768fe0b06adaf403f84ffc1e7121cd9bea35b1b46db4f32a11dc8166b7d9ed",
+      "exam": "content/track_gm_kl09/units/unit10_consommation-responsable_exam/index.md",
+      "exam_sha256": "bd28bf055680e68c3a744d122db2fd2fb142d81512277dc07bdac11ffbea6a0b",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "01fdcf12585e719ae7ad8baa4eda016ac9688508e8b53b90801d96620c588492",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit10_consommation-responsable/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-10.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
+      "after_sha256": "dfa6718b6ef10fecf388e47b6216023d1cf2cffa4d03fdcfa84208c036125bfa",
+      "source_sha256": "dfa6718b6ef10fecf388e47b6216023d1cf2cffa4d03fdcfa84208c036125bfa",
+      "exam": "content/track_gm_kl09/units/unit11_francais-au-travail_exam/index.md",
+      "exam_sha256": "1fbfb82dbdbf490be8df038f30ef027d8c501fdf31702410529a97179d3b91b1",
+      "points": 30,
+      "duration_minutes": null,
+      "skills": [
+        "mediation",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "9325d71ba1279604aad8d372d94372294c6354d8ccaee56e94561227d1b12455",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-11.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+      "after_sha256": "c79d13f302d430c02e03ed670c5ec8b50baa006aae55d34b7a18a6f7a1779c54",
+      "source_sha256": "c79d13f302d430c02e03ed670c5ec8b50baa006aae55d34b7a18a6f7a1779c54",
+      "exam": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife_exam/index.md",
+      "exam_sha256": "4b6eb5f4aaaeff0cc4f260c29759de3db7a3d891fb290795634e4a884a341314",
+      "points": 30,
+      "duration_minutes": 15,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "49a548badefcec45f5c4b743b881cb6ccf02040b8a18de403a8f963c545e3551",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl09-12.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
+      "after_sha256": "fa8c56ab42f12ea06cdbed67c05bd80b1fb43e4ec567d6e1c9ba7363a76e9713",
+      "source_sha256": "fa8c56ab42f12ea06cdbed67c05bd80b1fb43e4ec567d6e1c9ba7363a76e9713",
+      "exam": "content/track_gm_kl10/units/unit01_transition-formation-emploi_exam/index.md",
+      "exam_sha256": "7aed070ac3f93e859865c4a7bff1bf589abf14a477b1c81580e6546636bcb67d",
+      "points": 30,
+      "duration_minutes": 60,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "8c006906f2cbad9f84d4ad64ce3b6b813a95f919d020979110fdd35ffd5f6d1f",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-01.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
+      "after_sha256": "6c8f4e3b0c05bd9117d8631dd43340e9134a76c6ef2f6be0f644e8fee876e45a",
+      "source_sha256": "6c8f4e3b0c05bd9117d8631dd43340e9134a76c6ef2f6be0f644e8fee876e45a",
+      "exam": "content/track_gm_kl10/units/unit02_presse-francaise_exam/index.md",
+      "exam_sha256": "53bb675a6bfeeb45028481a0f5e4bf7e0a65db61544662b3b5e0e59518fead77",
+      "points": 30,
+      "duration_minutes": 45,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "9c87857962aae5b953caddf21dff2893171b256b4b07215fc1fed8f25266a40b",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit02_presse-francaise/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-02.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit03_vie-democratique/index.md",
+      "after_sha256": "4f9a2fdca5269bcc82613a553a8c8174e8f9c11859abb8252df90bc95283b9c2",
+      "source_sha256": "4f9a2fdca5269bcc82613a553a8c8174e8f9c11859abb8252df90bc95283b9c2",
+      "exam": "content/track_gm_kl10/units/unit03_vie-democratique_exam/index.md",
+      "exam_sha256": "2e29c608766ede084327fe6e9c0c80bb856db0f4e34867387b78a31c4bf73183",
+      "points": 30,
+      "duration_minutes": 45,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "bb025528d48224e9c9c61e3075d3e76179e100fe7fd294517ffd87aba79e2d27",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit03_vie-democratique/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-03.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
+      "after_sha256": "6f433769f8a2f179454b391a8b37e103a90ac75f46141de5a54138954d33a856",
+      "source_sha256": "6f433769f8a2f179454b391a8b37e103a90ac75f46141de5a54138954d33a856",
+      "exam": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam/index.md",
+      "exam_sha256": "cff54fd2ea31ede4b8873bf0eb9ae124d762ee6c9166e1f03c7bf81280915a28",
+      "points": 30,
+      "duration_minutes": 45,
+      "skills": [
+        "reading",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "5da81546f358190224594a833d042b37711c1e93bb562f0e110d5f18b983a866",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-04.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie/index.md",
+      "after_sha256": "c9dc9e955dbf9eaa3ad6f89697c3b443d9534d5e161e972321ec050af437646b",
+      "source_sha256": "c9dc9e955dbf9eaa3ad6f89697c3b443d9534d5e161e972321ec050af437646b",
+      "exam": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie_exam/index.md",
+      "exam_sha256": "cd02c3d42aae5a6ebccd8336ddc8058db810232bc13491d7202610859f75dcea",
+      "points": 40,
+      "duration_minutes": 60,
+      "skills": [
+        "reading",
+        "writing",
+        "speaking_production"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "fd4a8ce295f01d467c45e7257520aee93b57c0731a8065a10f6bca6c23be7eb1",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-05.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+      "after_sha256": "2685c2c8d9b16b5363e3c642176815e07bc74d6a0266d049e946b45e0d8d3665",
+      "source_sha256": "2685c2c8d9b16b5363e3c642176815e07bc74d6a0266d049e946b45e0d8d3665",
+      "exam": "content/track_gm_kl10/units/unit06_mediation-avancee_exam/index.md",
+      "exam_sha256": "c2fdb494c0d1286e7523a68bc7cdceb704b195be5fef479cda5bc5aada1b1d78",
+      "points": 30,
+      "duration_minutes": 30,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "cef6ca0d13830a8c8263d0d03bc0527665541568633bb91ea65c3d5b4cb5a4aa",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-06.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+      "after_sha256": "ce55558f0fbb140ddad2a3b95d94579d217f19e44e3b088667abb05cb41dda9a",
+      "source_sha256": "ce55558f0fbb140ddad2a3b95d94579d217f19e44e3b088667abb05cb41dda9a",
+      "exam": "content/track_gm_kl10/units/unit07_engagement-citoyen_exam/index.md",
+      "exam_sha256": "462e39df67a88fac3ca333c9eab01b41fe1db56e9c699454ac39a4b3f1925c76",
+      "points": 24,
+      "duration_minutes": 30,
+      "skills": [
+        "speaking_interaction",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "d95543c2c80a16be098fee6fcb1f7eee0ade0ed49db93e96e86012cc237906d0",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-07.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit08_reseaux-sociaux/index.md",
+      "after_sha256": "e07958762122ead965734fc84b422a27da3f96265e61c34ca536a0c3b519c10d",
+      "source_sha256": "e07958762122ead965734fc84b422a27da3f96265e61c34ca536a0c3b519c10d",
+      "exam": "content/track_gm_kl10/units/unit08_reseaux-sociaux_exam/index.md",
+      "exam_sha256": "38fe6c5d9714272a78ee063e80cce1404a4e7928e2c03d7fa9246c7047481d21",
+      "points": 30,
+      "duration_minutes": 45,
+      "skills": [
+        "reading",
+        "speaking_interaction"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "0f893e48ded402225a4c98d8293f67fd33929a6da32d5fbc630600cc044b77e6",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit08_reseaux-sociaux/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-08.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse/index.md",
+      "after_sha256": "9f9c14931b857e168a3ed4042b6cb57024fdf859cdc2541e4688d06c8092bf60",
+      "source_sha256": "9f9c14931b857e168a3ed4042b6cb57024fdf859cdc2541e4688d06c8092bf60",
+      "exam": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse_exam/index.md",
+      "exam_sha256": "77e27aa52ef322e13cf8d326536121626384c249eeee4bee3c53f958487a86d9",
+      "points": 30,
+      "duration_minutes": 60,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "ea15ef51a07e1201864f63eca0c6d6fe4844ac3e5e3f3af07573aec9169c473a",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit09_litterature-de-jeunesse/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-09.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
+      "after_sha256": "6fc4f6cf6ad6da2f70a300f8afe9d524a8db9a8d76ec638730f5cb0779d9861c",
+      "source_sha256": "6fc4f6cf6ad6da2f70a300f8afe9d524a8db9a8d76ec638730f5cb0779d9861c",
+      "exam": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune_exam/index.md",
+      "exam_sha256": "7fc1cf6a34f7f99ae7d9a1b41bfe57456ad93584bd0b6d6b8b6331a15d92935c",
+      "points": 30,
+      "duration_minutes": 45,
+      "skills": [
+        "listening",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "e2ae4ba45d3419a64f8f220ba1d62b3d09fd9da33e9b43b5ba1c78bf7bf6ebfe",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-10.json",
+      "teaching_sections_changed": true
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit11_preparer-un-discours/index.md",
+      "after_sha256": "eb005346c790231aef8fe7fc0500a060faa5c3fb2c4067732435b6cd6473e3f2",
+      "source_sha256": "eb005346c790231aef8fe7fc0500a060faa5c3fb2c4067732435b6cd6473e3f2",
+      "exam": "content/track_gm_kl10/units/unit11_preparer-un-discours_exam/index.md",
+      "exam_sha256": "faff4fc83cf096712a188cf5e1704dddf0350931e0b18f384821394f67da75c1",
+      "points": 30,
+      "duration_minutes": 60,
+      "skills": [
+        "reading",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "4e78b749f4dd2873720109bd7165643636612daef9d3d2e522dccd43ec2d09f2",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit11_preparer-un-discours/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-11.json",
+      "teaching_sections_changed": false
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
+      "after_sha256": "f681b6ef21c47eb5abe31864872e41eef6551bb9bc33bd362f221ecf8677bb6a",
+      "source_sha256": "f681b6ef21c47eb5abe31864872e41eef6551bb9bc33bd362f221ecf8677bb6a",
+      "exam": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam/index.md",
+      "exam_sha256": "87366ce18d53cf69a2ed18d2900385a76e98f360a5af65469d81bfc2764bc618",
+      "points": 30,
+      "duration_minutes": 45,
+      "skills": [
+        "speaking_production",
+        "writing"
+      ],
+      "assessment_scoring": "points-only",
+      "pedagogical_review": "pending",
+      "before_sha256": "c016371d691767bec5b9eda3e38f437439bd3a9b997e39a9ab54331ffec4bf00",
+      "archive": "docs/assessment-reconciliation/2026-10-31/originals/content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
+      "record": "docs/assessment-reconciliation/2026-10-31/records/track_gm_kl10-12.json",
+      "teaching_sections_changed": false
+    }
+  ],
+  "exam_only_revisions": [
+    {
+      "reason": "Trailing whitespace only; all156 teaching unit hashes unchanged.",
+      "manifest": "docs/assessment-reconciliation/2026-10-31/revisions/exam-whitespace/manifest.json",
+      "changed_exams": 15
+    },
+    {
+      "reason": "Current course-owned exam footer follows already-established content licence; historical originals/grants preserved. All156 teaching-unit hashes unchanged.",
+      "manifest": "docs/assessment-reconciliation/2026-10-31/revisions/licence-footer/manifest.json",
+      "changed_exams": 144
+    }
+  ]
+}

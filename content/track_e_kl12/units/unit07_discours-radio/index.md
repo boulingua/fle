@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 7
 slug: "discours-radio"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.4 Expression orale — monologisches Sprechen"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
 - listening
 - speaking_production
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_discours-radio.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_discours-radio.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit07_discours-radio.html"
+- "/track_e_kl12/units/unit07_discours-radio.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.overall-written-production.01
-    - B2.REC.reading-as-a-leisure-activity.04
-    - B2.PROD.reports-and-essays.05
-    - B2.REC.reading-for-information-and-argument.01
-    - B2.MED.overall-mediation.02
+  - B2.PROD.overall-written-production.01
+  - B2.REC.reading-as-a-leisure-activity.04
+  - B2.PROD.reports-and-essays.05
+  - B2.REC.reading-for-information-and-argument.01
+  - B2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit07_discours-radio_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 24
+  skills:
+  - listening
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_discours-radio-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_discours-radio-teacher.png
 audio_manifest: unit07_discours-radio
 ---
 
@@ -73,15 +105,13 @@ Nour : *« Non. À la radio, on **parle** à quelqu'un. On te parle à **toi**. 
 2. Relevez, dans le dialogue, une phrase qui montre que le journaliste s'adresse directement à l'auditeur.
 3. Quelle radio publique francophone connaissez-vous ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez une émission de radio (en français, en allemand ou en anglais) que vous écoutez : quel est son **ton** ?
 - *Un éditorial de radio* et *un article de journal* : selon vous, quelles différences de langue ?
 - Une chronique dure environ 2 minutes. À un débit moyen de **150 mots par minute**, combien de mots cela représente-t-il ?
 - Quels mots utilise-t-on pour **saluer** l'auditeur au début et le **quitter** à la fin ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du discours radiophonique
 
 | Terme français | Traduction (allemand) | Exemple |
@@ -135,8 +165,7 @@ Trois procédés typiques de la radio :
 
 France Inter est l'une des stations généralistes du groupe public **Radio France** ; elle figure régulièrement parmi les radios les plus écoutées de France et propose, chaque matin, des chroniques et des billets d'humeur au sein de sa matinale. La station porte ce nom depuis les années 1960, dans la continuité des radios publiques françaises d'après-guerre. Dans le journalisme, l'**éditorial** (ou « édito ») désigne un texte où un·e journaliste exprime une **opinion** sur un sujet d'actualité, au nom de la rédaction ou en son nom propre — à distinguer de l'article d'information, qui vise la neutralité. *(Paraphrasé de « France Inter » et « Éditorial (presse) », Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension / repérage (texte B).**
 
 1. À quelle heure est diffusée la chronique ?
@@ -175,6 +204,7 @@ e) la **chute** (phrase finale).
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) À 7 h 45. 2) Camille Da Silva. 3) Écouter. 4) Le silence. 5) Éteindre les écrans une minute, fermer les yeux et écouter les bruits autour de soi.
 
 **Ex. 2.** 1-c · 2-d · 3-a · 4-e · 5-b.
@@ -185,9 +215,9 @@ e) la **chute** (phrase finale).
 1. *« Ce matin, un conseil : éteignez vos écrans, ne serait-ce qu'une minute. »*
 2. *« Écouter, c'est déjà comprendre. »*
 3. *« Faites une pause. Le silence, ça aide à réfléchir. »*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (E, ~2 min) — Votre chronique du matin.**
 
 Enregistrez (ou présentez en direct) **votre propre chronique** sur un sujet de votre choix (le temps, les langues, l'amitié, le sport, une habitude à changer…). Votre texte doit contenir :
@@ -207,40 +237,18 @@ Enregistrez (ou présentez en direct) **votre propre chronique** sur un sujet de
 | Prononciation, débit, fluidité | 4 |
 | Chute et signature efficaces | 2 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais **repérer** l'essentiel d'une chronique radio à l'écoute.
 - [ ] Je reconnais **l'adresse directe**, les **présentatifs** et les **connecteurs d'opposition**.
 - [ ] Je fais la différence entre **registre écrit** et **registre oral** radio.
 - [ ] Je peux tenir **2 minutes** de parole en continu, sans lire mot à mot.
 - [ ] J'ai construit une **chute** qui reste en tête.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — compréhension orale + expression en continu (24 points)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit07_discours-radio_exam" >}}).
 
-**Tâche A — Compréhension (Hörverstehen, 10 P.)**
-À partir de la chronique (texte B, lue par l'enseignant·e ou écoutée), répondez :
-
-1. Quel est le thème de la chronique ? (2 P.)
-2. Quelle différence la journaliste fait-elle entre *entendre* et *écouter* ? (2 P.)
-3. Pourquoi le silence est-il « précieux » à la radio ? (2 P.)
-4. Citez les **trois** consignes de l'« expérience » proposée. (2 P.)
-5. Reformulez la **chute** avec vos propres mots. (2 P.)
-
-**Tâche B — Expression orale en continu (monologisches Sprechen, 14 P.)**
-Présentez **votre chronique** (~2 min) selon les critères de la partie *Produire*.
-
-| Critère (Tâche B) | Points |
-|---|---|
-| Contenu et structure | 4 |
-| Procédés rhétoriques (≥ 3) | 4 |
-| Registre radio | 3 |
-| Prononciation / fluidité | 3 |
-
-**Total : 24 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Minutage (45 min) :** Situation de départ + Activer 6′ · Apporter 12′ · S'entraîner 12′ · Produire 11′ · Réfléchir 2′ · Aperçu de l'évaluation 2′.
 

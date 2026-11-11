@@ -1,0 +1,95 @@
+---
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 10"
+subtitle: "Argumenter en public · classe 12 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 10
+slug: "argumenter-en-public-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-12
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.collaborating-to-construct-meaning.03
+    - B2.INT.correspondence.03
+    - B2.INT.formal-discussion.01
+    - B2.LING.grammatical-accuracy.01
+    - B2.MED.amplifying-a-dense-text.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le plan de monologue Senghor (Unité 10, texte C).
+Répondez :
+
+1. Quelles 2 dates clés ?
+2. Quel mouvement Senghor co-fonde-t-il ?
+3. Combien d'années préside-t-il ?
+4. Combien de langues nationales protège-t-il ?
+5. Quelle est la chute citée ?
+
+### Tâche 2 — Stratégies de rebond (8 points)
+
+Reliez chaque stratégie à son exemple :
+
+- reformuler · demander précision · concéder + nuancer ·
+ exemple concret · citer autorité · conclure-rebondir
+
+(Exemples : *« Si je comprends bien … »* · *« Pouvez-vous
+préciser ? »* · *« Certes, mais … »* · *« Prenons par
+exemple … »* · *« Comme l'écrit Camus … »* · *« Cela ouvre
+la question de … »*.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Préparez **votre plan de monologue 5 min** sur un sujet :
+auteur·rice ou thème. Structure I-II-III + 4 citations + 1
+chute mémorable + 6 stratégies de rebond préparées.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Stratégies | 8 |
+| Tâche 3 — Plan de monologue | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 1960 et 1980. 2) La Négritude. 3) 20 ans.
+4) 6 langues nationales. 5) *« Les vraies civilisations
+sont des rendez-vous du donner et du recevoir. »*
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : plan complet · 4
+citations · 1 chute · 6 stratégies de rebond.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 10*

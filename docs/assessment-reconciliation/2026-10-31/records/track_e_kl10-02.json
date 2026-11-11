@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl10/units/unit02_presse-francaise-e/index.md",
+  "exam": "content/track_e_kl10/units/unit02_presse-francaise-e_exam/index.md",
+  "before_unit_sha256": "5346dda9beb8b25bf63198331d0a28e5b3bf0987904c17e6755df72c41b663f7",
+  "after_unit_sha256": "386434a51e7e0211a02a5ad048c535d7ec86bc6bcf3652247092135a2c06ce5f",
+  "before_exam_sha256": "6c923a02153bbd338f6076349acc56b583cefb98a1fd14b4dd55ee5237b2ae75",
+  "after_exam_sha256": "26104122b23e7238dfbf7bcf4c5bcfa2f2881678655a6f0e02ad77440dd0e389",
+  "source_sections": "C",
+  "supplied_source_sha256": "ba611d5535aa6e6d625cc19004552102076907096a099233f4cd8a29a37ab713",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unrelated200books/Tunis key and oversimplified unsourced political-label matching. Authored explicit fact/opinion/source exercise implements coherent embedded media-literacy goal; fictional school news must be labelled."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "7496139b10151654589082f030c3a3865cba65d42ad8ed6c6d503b291d91cd45",
+      "after_sha256": "386434a51e7e0211a02a5ad048c535d7ec86bc6bcf3652247092135a2c06ce5f",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit02_presse-francaise-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "0673cf461caedd78bde12688bb83af0910927748a142cae6f3855e029d330283",
+      "after_sha256": "b3925dc713dc0faabfa2d07c4849b1ef933cfc884713038de6aaadb810acf9e2",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit02_presse-francaise-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "b3925dc713dc0faabfa2d07c4849b1ef933cfc884713038de6aaadb810acf9e2",
+      "after_sha256": "58f0f7d014b7af27d3ad29e58c18d15f29c9abe932f5c7e95cfbea4e7ba7ebc3",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit02_presse-francaise-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit02_presse-francaise-e_exam/index.md",
+      "before_sha256": "58f0f7d014b7af27d3ad29e58c18d15f29c9abe932f5c7e95cfbea4e7ba7ebc3",
+      "after_sha256": "26104122b23e7238dfbf7bcf4c5bcfa2f2881678655a6f0e02ad77440dd0e389",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

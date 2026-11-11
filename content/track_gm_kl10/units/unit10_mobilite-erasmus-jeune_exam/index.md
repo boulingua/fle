@@ -23,70 +23,103 @@ curriculum:
     - B1.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 45
+assessment_scoring: points-only
 ---
 
-## Devoir surveillé — Niveau M, classe 10
+## Modalités
 
-### Tâche 1 — Hörverstehen (12 points)
+Durée indicative : 45 minutes, à éprouver en classe.
 
-Écoutez le témoignage d'Inès (Unité 10, texte C). Répondez :
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-1. D'où vient Inès et pour combien de temps est-elle là ?
-2. Quel programme suit-elle ?
-3. Pourquoi l'Allemagne ?
-4. Quels **2 conseils** donne-t-elle ?
-5. Le plus beau ? Le plus dur ?
-6. Quelle est sa formule finale ?
+## Écoute
 
-### Tâche 2 — Programmes (6 points)
+La personne enseignante lit le texte deux fois; la transcription reste réservée à la correction.
 
-Quel programme conviendrait ? (Erasmus+ / OFAJ / Service civique)
+### Tâche 1 — Compréhension orale (12 points)
 
-1. Lisa, 18 ans, étudiante, veut un semestre en Espagne.
-2. Lukas, 14 ans, veut un échange de 3 semaines en France.
-3. Carla, 21 ans, veut du bénévolat 6 mois en France.
+Écoutez le témoignage fictif de Nour, lu deux fois.
+1. Dans quelle ville et dans quel pays a-t-elle séjourné ?
+2. Combien de temps et dans quel type d'hébergement ?
+3. Quel organisme a organisé l'échange et quelle langue veut-elle améliorer ?
+4. Quelles deux motivations personnelles cite-t-elle en plus de la langue ?
+5. Quelles deux difficultés caractérisent les premiers jours ?
+6. Quels deux conseils donne-t-elle pour la candidature ?
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Barème :** 6 réponses × 2.
 
-Rédigez un **dossier de candidature simplifié** (~180 mots)
-pour un programme au choix : intro (qui), 3 motivations, projet
-précis, formule finale + mention DELF B1.
+### Tâche 2 — Choisir une offre (6 points)
 
-## Notation
+Les trois offres ci-dessous sont fictives et servent uniquement à cette tâche; elles ne décrivent pas les règles actuelles des programmes réels.
+A. Un semestre d'études dans une université partenaire en Espagne, pour étudiants inscrits.
+B. Trois semaines d'échange scolaire France–Allemagne pour une classe de 14 ans.
+C. Six mois de mission bénévole de protection de l'environnement pour jeunes adultes.
+Choisissez l'offre et justifiez : 1 Lisa, 18 ans, étudiante, souhaite un semestre en Espagne; 2 Lukas, 14 ans, souhaite un échange scolaire de 3 semaines; 3 Carla, 21 ans, souhaite une mission environnementale de 6 mois.
+
+**Barème :** 3 choix justifiés × 2.
+
+### Tâche 3 — Expression écrite (12 points)
+
+Rédigez une lettre de motivation de 120 à 150 mots pour une des offres fictives : présentation, trois motivations, projet précis, formule polie. Une certification linguistique n'est mentionnée que si elle est réellement obtenue; sinon indiquez un objectif d'apprentissage, sans prétendre à un diplôme certifié. Les données personnelles peuvent être inventées.
+
+**Barème :** Structure 3; contenu 4; langue 3; lexique 2.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Hörverstehen | 12 |
-| Tâche 2 — Programmes | 6 |
-| Tâche 3 — Expression écrite | 12 |
+|---|---:|
+| 1 | 12 |
+| 2 | 6 |
+| 3 | 12 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) Montréal, 6 mois. 2) OFAJ. 3) Son arrière-grand-père
-est né en Allemagne. 4) Commencer 6 mois à l'avance · soigner la
-lettre de motivation. 5) Beau : découvrir une autre culture. Dur :
-barrière langue les 1ʳᵉˢ semaines. 6) « Foncez ! »
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1) Erasmus+. 2) OFAJ. 3) Service civique.
+**T 1.** 1 Fribourg 1, Allemagne 1. 2 Trois semaines 1, famille d'accueil 1. 3 OFAJ 1, allemand 1. 4 Sortir de sa zone de confort 1, devenir plus indépendante 1. 5 Comprendre mal 1, oser à peine parler 1. 6 Commencer tôt le dossier 1, soigner la lettre de motivation 1. Le récit n'indique ni Montréal ni 6 mois ni ancêtre allemand.
 
-**Tâche 3.** Réponses libres. Critères : 180 mots · 3 motivations ·
-projet précis · DELF cité · formule polie.
+**T 2.** 1 A; 2 B; 3 C.1 point pour le choix de l’offre, 1 justification par sa caractéristique pertinente. Les conditions d'un vrai programme doivent être vérifiées auprès de l'organisme, pas déduites de ces offres fictives.
 
----
+**T 3.** Structure 3; motivations/contenu 4; langue 3; lexique de la mobilité 2. N'exigez aucun DELF non obtenu.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+{{< details title="Texte à lire — personne enseignante" role="key" >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 10*
+### C. Témoignage (texte original — transcription audio)
+
+> **Nour, 17 ans, retour d'un échange OFAJ à Fribourg (3 semaines)**
+>
+> *« Bonjour, je m'appelle Nour. L'an dernier, j'ai participé à un échange organisé par l'OFAJ : trois semaines à Fribourg, en Allemagne, dans une famille d'accueil.*
+>
+> *Pourquoi l'Allemagne ? D'abord pour progresser en allemand, bien sûr. Mais surtout parce que je voulais sortir de ma zone de confort et devenir plus indépendante.*
+>
+> *Le plus difficile, ce sont les premiers jours : on comprend mal, on ose à peine parler. Mais au bout d'une semaine, ça change. On se fait des amis, on rit de ses erreurs, et on progresse sans s'en rendre compte.*
+>
+> *Mon conseil ? Commencez votre dossier tôt et travaillez sérieusement votre lettre de motivation. C'est elle qui montre qui vous êtes vraiment. N'hésitez plus : foncez ! »*
+
+{{< /details >}}
+
+## Sources
+
+- OFAJ — Accord de création de 1963 (vérification éditoriale du 31 octobre 2026), <https://www.ofaj.org/ressources/accord-1963>.
+
+
+- *Erasmus+* — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Erasmus%2B>, licence CC-BY-SA 4.0.
+- *Office franco-allemand pour la jeunesse* — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Office_franco-allemand_pour_la_jeunesse>, licence CC-BY-SA 4.0.
+- *Traité de l'Élysée* — Wikipédia (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Trait%C3%A9_de_l%27%C3%89lys%C3%A9e>, licence CC-BY-SA 4.0.
+- OFAJ — site officiel (référence, non citée) : <https://www.ofaj.org/>
+- Service civique — site officiel (référence, non citée) : <https://www.service-civique.gouv.fr/>
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md",
-    "source_body_sha256": "acc4fcfd4373d1e9d07488aaec68f2dd8cfd5db8273f50ce528425941ff18774",
+    "source_body_sha256": "c60d6dea2d2ff960c16a5f2c26df6e2159176e698a95ac51d03f97757c48d6a4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un stéréotype.\nun préjugé.\nun cliché.\ngénéraliser.\nnuancer.\nremettre en question.\nune part de vérité.\nle respect."

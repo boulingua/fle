@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
-    "source_body_sha256": "dbfe5300c8b57beaf844120dbcc03769aeaa996ecc585171acd6701fe3e37d65",
+    "source_body_sha256": "a62ee6aac73003769d13f910eafa60df82a03ac0248df00add67bd4e4b32e513",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Texte source allemand (texte original, ~160 mots)"
@@ -27,7 +27,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
-    "source_body_sha256": "dbfe5300c8b57beaf844120dbcc03769aeaa996ecc585171acd6701fe3e37d65",
+    "source_body_sha256": "a62ee6aac73003769d13f910eafa60df82a03ac0248df00add67bd4e4b32e513",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Texte source allemand (texte original, ~160 mots)"
@@ -45,7 +45,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
-    "source_body_sha256": "dbfe5300c8b57beaf844120dbcc03769aeaa996ecc585171acd6701fe3e37d65",
+    "source_body_sha256": "a62ee6aac73003769d13f910eafa60df82a03ac0248df00add67bd4e4b32e513",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Texte source allemand (texte original, ~160 mots)"
@@ -63,7 +63,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
-    "source_body_sha256": "dbfe5300c8b57beaf844120dbcc03769aeaa996ecc585171acd6701fe3e37d65",
+    "source_body_sha256": "a62ee6aac73003769d13f910eafa60df82a03ac0248df00add67bd4e4b32e513",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Texte source allemand (texte original, ~160 mots)"

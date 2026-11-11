@@ -1,0 +1,62 @@
+{
+  "unit": "content/track_gm_kl09/units/unit06_podcasts-en-francais/index.md",
+  "exam": "content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md",
+  "before_unit_sha256": "2b2fe3f2f7bfcc1b3becf375293d3ff0306c7bbeff86ad0a99aca4dd024ee604",
+  "after_unit_sha256": "ecbcb88b9e507bee1348d246850d21f112e35f1ae1b5cb4fb4ccdac98f500c00",
+  "before_exam_sha256": "732471c7c56a5fd3d14ec78ae36c986e1ebc1dc9e8d14b3cacba85b2eb29cc3e",
+  "after_exam_sha256": "60d0f3705985abe35548f22c7899071936225c7628c1f82e45483b54f750efe1",
+  "source_sections": "C",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "skills_observed": [],
+  "decisions": [
+    "Suppliedactualoriginalpodcast; removedunsupportedRayleighname and falsepublishedpodcast attribution; no3minrecordingclaim."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "2418eda26e0a6d26b8279d352edfe10184a6eb44dd2f6fce569a5a4f45b56be0",
+      "after_sha256": "9581395c05824f6121a0d6378dbf1d5e9f019f8cc2c2f435433fb4cb9cca7343",
+      "reasons": [
+        "Rewrite compressed key as readable French, retaining task answers and criteria.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "649d2583bcdae26b061cae5e093445fcdc94f7537ef059a6a2e5bd00082fd8e6",
+      "after_sha256": "ecbcb88b9e507bee1348d246850d21f112e35f1ae1b5cb4fb4ccdac98f500c00",
+      "reasons": [
+        "Qualify wavelength/direction explanation rather than claim complete blue disappearance.",
+        "Attach primary source for controlled correction."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl09/units/unit06_podcasts-en-francais/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9581395c05824f6121a0d6378dbf1d5e9f019f8cc2c2f435433fb4cb9cca7343",
+      "after_sha256": "a468a554538f8a78ddc59ce3988aeab0f06aa7ff42a0737c95c7723efed074f5",
+      "reasons": [
+        "Qualify wavelength/direction explanation rather than claim complete blue disappearance.",
+        "Attach primary source for controlled correction."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a468a554538f8a78ddc59ce3988aeab0f06aa7ff42a0737c95c7723efed074f5",
+      "after_sha256": "7700abd3195ef236495f9c8f128025ed9096efeb3d504614a578b4b6f68fbfae",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl09/units/unit06_podcasts-en-francais_exam/index.md",
+      "before_sha256": "7700abd3195ef236495f9c8f128025ed9096efeb3d504614a578b4b6f68fbfae",
+      "after_sha256": "60d0f3705985abe35548f22c7899071936225c7628c1f82e45483b54f750efe1",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

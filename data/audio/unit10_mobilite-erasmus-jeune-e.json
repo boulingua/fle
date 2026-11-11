@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e/index.md",
-    "source_body_sha256": "c2807968abc84a4b2177bc254f0c2ab22ce5a683a1a2595330bf4b133e89182c",
+    "source_body_sha256": "76d257afa08014cbf7aa50765a73da11d51335315fb180b249d5536c611d3ab3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk : Tu as vu l'affiche ? Deux semaines à Lille, au printemps. J'hésite… je ne parle pas si bien. Sofian : Justement, c'est pour ça qu'on part ! Moi, l'an dernier, je bredouillais trois mots et je suis revenu presque bilingue. Anouk : Et l'hébergement, c'est comment ? Sofian : Tu es logée dans une famille d'accueil. La mienne était géniale. Franchement, si tu hésites, vas-y."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e/index.md",
-    "source_body_sha256": "c2807968abc84a4b2177bc254f0c2ab22ce5a683a1a2595330bf4b133e89182c",
+    "source_body_sha256": "76d257afa08014cbf7aa50765a73da11d51335315fb180b249d5536c611d3ab3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un séjour.\nune bourse.\nun·e correspondant·e.\nl'hébergement (m.).\nla famille d'accueil.\nune candidature.\nla motivation.\ns'inscrire.\npostuler.\nprogresser."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e/index.md",
-    "source_body_sha256": "c2807968abc84a4b2177bc254f0c2ab22ce5a683a1a2595330bf4b133e89182c",
+    "source_body_sha256": "76d257afa08014cbf7aa50765a73da11d51335315fb180b249d5536c611d3ab3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "L'animateur : Léa, tu reviens d'un échange Erasmus+. Où es-tu partie ? Léa : J'ai passé trois mois à Salamanque, en Espagne, pendant ma seconde. Au début, j'avais un peu peur : l'espagnol, je le comprenais à peine. L'animateur : Comment s'est passé l'hébergement ? Léa : Ma famille d'accueil était formidable. Le père m'a aidée à réviser mes cours, et la mère m'a appris à cuisiner la paella. On parlait espagnol à table tous les soirs. L'animateur : Et tes progrès en langue ? Léa : Énormes. En trois mois, je suis passée d'un niveau A2 à un niveau B2. Mais surtout, j'ai gagné en confiance. J'ai compris que partir, c'est revenir un peu changée. L'animateur : Un conseil pour celles et ceux qui hésitent ? Léa : Si vous hésitez, lancez-vous. Le pire, ce n'est pas de se tromper, c'est de ne pas essayer."

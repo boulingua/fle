@@ -1,0 +1,105 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau M) — Unité 12"
+subtitle: "Bilan : portrait d'une année · classe 7 · Niveau M"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 12
+slug: "bilan-portrait-d-une-annee-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.INT.notes-messages-and-forms.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le bilan de Léa (Unité 12, texte C). Répondez :
+
+1. Quelle est la leçon préférée de Léa ? Pourquoi ?
+2. Combien de mots connaissait-elle avant la 7e ?
+3. Combien de mots connaît-elle maintenant ?
+4. Cite **2 projets** de Léa pour la 8e.
+5. Quel est son rêve plus tard ?
+
+### Tâche 2 — Grammatik : 3 temps (8 points)
+
+Identifiez le temps (présent / passé composé / futur proche)
+et conjuguez si nécessaire.
+
+1. *J'ai appris* le passé composé.
+2. *Je parle* français.
+3. *Je vais lire* un livre.
+4. *Nous avons découvert* le Québec.
+
+Puis, conjuguez :
+
+5. *(étudier, présent)* Je ___ le français.
+6. *(faire, passé composé)* Tu ___ une fête ?
+7. *(aller voir, futur proche)* Nous ___ Inès.
+8. *(visiter, futur proche)* Léa ___ Montréal.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre bilan d'année de 7e** en **100 mots** :
+
+- Une leçon que **vous avez aimée** (passé composé).
+- Ce que **vous savez faire maintenant** (présent).
+- Ce que **vous allez faire en 8e** (futur proche).
+- Utilisez **3 connecteurs** (*d'abord, ensuite, enfin /
+ l'an prochain*).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Grammatik | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Le passé composé, parce qu'elle peut raconter son
+week-end. 2) ~50. 3) >300. 4) Lire un livre en français +
+correspondre avec Inès. 5) Visiter Montréal.
+
+**Tâche 2.** 1) passé composé · 2) présent · 3) futur proche ·
+4) passé composé · 5) étudie · 6) as fait · 7) allons voir ·
+8) va visiter.
+
+**Tâche 3.** Réponses libres. Critères : 100 mots · 3 temps ·
+3 connecteurs · cohérence du bilan.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 12*

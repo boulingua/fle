@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
-    "source_body_sha256": "52d771c5018e082e67ef225382788e502eb70bacaffbaebbdb3f47552a042c6a",
+    "source_body_sha256": "8c26de79ecc9dc9f9610d8f8d4f32bea6998b6641b42e998b8716d7d8f6113f1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Théo : Salut Léa ! On se voit lundi à 16 heures au parc ? Léa : Lundi, ce n'est pas possible : j'ai sport de 15 h à 17 h. Et mardi ? Théo : Mardi, d'accord. À quelle heure ? Léa : À 17 h 30, après mes devoirs. On révise le français ensemble ? Théo : Parfait. Alors à mardi, 17 h 30, devant l'entrée du parc !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
-    "source_body_sha256": "52d771c5018e082e67ef225382788e502eb70bacaffbaebbdb3f47552a042c6a",
+    "source_body_sha256": "8c26de79ecc9dc9f9610d8f8d4f32bea6998b6641b42e998b8716d7d8f6113f1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "l'heure (f.).\nla minute.\nle jour.\nla semaine.\nle mois.\naujourd'hui.\ndemain.\nhier.\nmidi / minuit.\nle matin / le soir.\net quart / et demie.\nmoins le quart.\nun rendez-vous.\nun emploi du temps."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
-    "source_body_sha256": "52d771c5018e082e67ef225382788e502eb70bacaffbaebbdb3f47552a042c6a",
+    "source_body_sha256": "8c26de79ecc9dc9f9610d8f8d4f32bea6998b6641b42e998b8716d7d8f6113f1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

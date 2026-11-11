@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
-    "source_body_sha256": "c561c7febf28fca7e542b1f2e8e55dddf8097371fe38a58387165b3e1a999b52",
+    "source_body_sha256": "0cc9282531ffec6de7221b56a0ef16f0405efdc27153d144e1e6d5250caa210c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
-    "source_body_sha256": "c561c7febf28fca7e542b1f2e8e55dddf8097371fe38a58387165b3e1a999b52",
+    "source_body_sha256": "0cc9282531ffec6de7221b56a0ef16f0405efdc27153d144e1e6d5250caa210c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
-    "source_body_sha256": "c561c7febf28fca7e542b1f2e8e55dddf8097371fe38a58387165b3e1a999b52",
+    "source_body_sha256": "0cc9282531ffec6de7221b56a0ef16f0405efdc27153d144e1e6d5250caa210c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -55,7 +55,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
-    "source_body_sha256": "c561c7febf28fca7e542b1f2e8e55dddf8097371fe38a58387165b3e1a999b52",
+    "source_body_sha256": "0cc9282531ffec6de7221b56a0ef16f0405efdc27153d144e1e6d5250caa210c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un·e réalisateur·rice.\nun·e acteur·rice.\nun personnage.\nl'intrigue (f.).\nune scène.\nune bande-annonce.\nle générique.\nla mise en scène.\nprimé·e.\némouvant·e."
@@ -71,7 +71,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
-    "source_body_sha256": "c561c7febf28fca7e542b1f2e8e55dddf8097371fe38a58387165b3e1a999b52",
+    "source_body_sha256": "0cc9282531ffec6de7221b56a0ef16f0405efdc27153d144e1e6d5250caa210c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Aujourd'hui, je vous présente un film québécois que j'ai découvert en atelier. D'abord, le contexte : c'est une œuvre en français, tournée au Québec, avec un accent différent de celui qu'on entend à Paris. La réalisation est soignée et la mise en scène met en valeur les paysages d'hiver. Ensuite, l'intrigue : un personnage arrive dans un nouveau milieu et doit trouver sa place. Peu à peu, il tisse des liens avec les autres et affronte un passé difficile. Le récit avance lentement, mais chaque scène compte. De plus, un moment m'a particulièrement ému·e : une conversation très simple, presque sans musique, où les silences en disent plus que les mots. Pour finir, mon avis : j'ai bien aimé ce film, même si le rythme est calme. Je le recommande à qui veut découvrir le français du Québec et un cinéma sensible. Ce n'est pas un film d'action, mais il reste longtemps en mémoire."

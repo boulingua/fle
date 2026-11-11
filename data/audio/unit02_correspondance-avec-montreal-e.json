@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
-    "source_body_sha256": "9d0488d61794d547147cbd3886dd40e42ffb7a7724f2e66c70551b7c563305c0",
+    "source_body_sha256": "396003cb0d3bcf4bd75580e02195ddce7897ddffcad4f9cb27e228b625d89fef",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
-    "source_body_sha256": "9d0488d61794d547147cbd3886dd40e42ffb7a7724f2e66c70551b7c563305c0",
+    "source_body_sha256": "396003cb0d3bcf4bd75580e02195ddce7897ddffcad4f9cb27e228b625d89fef",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk. — Écoute, Inès m'a écrit !  Salut Anouk ! Cette semaine, j'ai magasiné en ligne et j'ai trouvé une tuque super. Aujourd'hui, il fait frette ! Sa sœur. — Une tuque ? Il fait frette ? Je ne comprends rien… Anouk. — Une tuque, c'est un bonnet. Et frette, ça veut dire  très froid . C'est du français, mais du français du Québec !"
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
-    "source_body_sha256": "9d0488d61794d547147cbd3886dd40e42ffb7a7724f2e66c70551b7c563305c0",
+    "source_body_sha256": "396003cb0d3bcf4bd75580e02195ddce7897ddffcad4f9cb27e228b625d89fef",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Salut ! / Coucou !.\nComment ça va ?.\nJ'espère que tu vas bien.\nDevine quoi !.\nEt toi ?.\nRéponds-moi vite !.\nÀ bientôt / Bises."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
-    "source_body_sha256": "9d0488d61794d547147cbd3886dd40e42ffb7a7724f2e66c70551b7c563305c0",
+    "source_body_sha256": "396003cb0d3bcf4bd75580e02195ddce7897ddffcad4f9cb27e228b625d89fef",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "De : ines.tremblay@courriel.qc.ca À : anouk.schmidt@courriel.de Objet : Des nouvelles de Montréal ! Salut Anouk ! Comment ça va ? J'espère que ta rentrée s'est bien passée. Ici, à Montréal, c'est l'automne et il commence à faire frette le matin. Devine quoi ! La semaine dernière, j'ai magasiné au centre-ville avec mon amie Léa. J'ai trouvé une tuque rouge, vraiment écœurante ! Après, on a jasé pendant des heures dans un petit café. C'était super. Aujourd'hui, je reste à la maison : je fais mes devoirs et j'écoute de la musique. Demain, mes parents et moi, nous allons rendre visite à ma grand-mère à Québec. Elle habite près du fleuve. Et toi, qu'est-ce que tu as fait cette semaine ? Est-ce qu'il fait froid à Karlsruhe ? Réponds-moi vite ! Bises, Inès"

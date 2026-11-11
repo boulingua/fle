@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 3
 slug: "mon-quartier"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.7 Moyens linguistiques — lexique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - reading
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_mon-quartier.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-quartier.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit03_mon-quartier.html"
+- "/track_gm_kl07/units/unit03_mon-quartier.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.reading-correspondence.02
-    - A1.INT.correspondence.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.reading-correspondence.02
+  - A1.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit03_mon-quartier_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_mon-quartier-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_mon-quartier-teacher.png
 audio_manifest: unit03_mon-quartier
 ---
 
@@ -68,8 +100,7 @@ Léa fait visiter son quartier à sa correspondante, Inès, qui arrive de Lyon.
 2. Où se trouve l'arrêt de bus ?
 3. Et vous : quel est le premier lieu que vous montreriez à un·e correspondant·e ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En groupe, réfléchissez à votre propre quartier (ou au quartier de l'école).
 
 - Qu'est-ce qu'il y a près de chez vous ?
@@ -77,8 +108,7 @@ En groupe, réfléchissez à votre propre quartier (ou au quartier de l'école).
 - Où est l'arrêt de bus ou de tram le plus proche ?
 - Notez au tableau tous les lieux que vous connaissez déjà en français.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — les lieux du quartier
 
 | Français | Allemand |
@@ -129,14 +159,12 @@ En groupe, réfléchissez à votre propre quartier (ou au quartier de l'école).
 
 En France, la boulangerie est souvent un lieu central de la vie du quartier :
 beaucoup de personnes y achètent du pain frais chaque jour. Le mot
-« boulangerie » est même protégé par la loi : selon un décret de 1993, un
-commerce ne peut porter ce nom que si le pain y est pétri et cuit sur place.
+« boulangerie » est protégé par le Code de la consommation : l'article L122-17 réserve l'appellation aux professionnels qui assurent eux-mêmes, sur le lieu de vente, le pétrissage, la fermentation, la mise en forme et la cuisson du pain à partir de matières premières choisies. La pâte et le pain ne doivent être ni surgelés ni congelés.
 En 2022, les savoir-faire artisanaux et la culture de la baguette de pain ont
 été inscrits par l'UNESCO au patrimoine culturel immatériel de l'humanité.
 (D'après Wikipédia, article « Boulangerie », CC BY-SA.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase.
 
 1. Où se trouve la boulangerie ?
@@ -180,6 +208,7 @@ et une préposition de lieu.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) À côté de chez Léa. · 2) La pharmacie. · 3) Derrière la bibliothèque
 (à cinq minutes à pied). · 4) Le bus n°3. · 5) Il y a un petit marché sur la place.
 
@@ -189,9 +218,9 @@ et une préposition de lieu.
 
 **Ex. 4.** Réponse libre. Exemple : *« Continuez tout droit, puis tournez à droite.
 La boulangerie est au coin de la rue, en face de la pharmacie. »*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau M, ~70–80 mots) :**
 
 Décrivez **votre quartier** (réel ou imaginaire) en 6 à 8 phrases.
@@ -206,8 +235,7 @@ Terminez par une phrase qui dit ce que vous aimez dans votre quartier.
 - **Cohérence (2 pts) :** phrases enchaînées, texte compréhensible.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez déjà faire :
 
 - [ ] Je nomme au moins 10 lieux du quartier.
@@ -216,26 +244,11 @@ Cochez ce que vous savez déjà faire :
 - [ ] Je comprends un court texte qui décrit un quartier.
 - [ ] J'écris une description de mon quartier de 6 à 8 phrases.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit03_mon-quartier_exam" >}}).
 
-**Tâche 1 — Vocabulaire (« Wortschatz ») (10 P.)**
-Traduisez 10 lieux du quartier (français → allemand).
-
-**Tâche 2 — Compréhension écrite (« Leseverstehen ») (10 P.)**
-Lisez le texte C. Répondez à 5 questions par une phrase complète (2 P. par réponse).
-
-**Tâche 3 — Expression écrite (« Schreiben ») (10 P.)**
-Décrivez votre quartier (~70 mots) : au moins 5 lieux et 3 prépositions différentes.
-- Contenu : 4 P. · Langue : 4 P. · Cohérence : 2 P.
-
-**Total : 30 P.**
-
-**Barème indicatif :** 30–27 P. = très bien · 26–22 = bien · 21–17 = satisfaisant ·
-16–13 = suffisant · 12–8 = faible · < 8 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 
@@ -258,6 +271,9 @@ proposer la variante « itinéraire de 4 étapes » comme tâche de production.
 - *chez* + personne : *chez moi, chez Hugo* (pas *à côté de moi maison*).
 
 ## Sources
+
+- Code de la consommation — article L122-17 (vérification éditoriale du 31 octobre 2026), <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227163>.
+
 
 - Wikipédia — « Boulangerie », auteurs de Wikipédia (consulté en 2026),
   <https://fr.wikipedia.org/wiki/Boulangerie>, licence CC BY-SA 4.0.

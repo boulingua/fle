@@ -1,0 +1,80 @@
+{
+  "unit": "content/track_e_kl11/units/unit08_voix-feminines/index.md",
+  "exam": "content/track_e_kl11/units/unit08_voix-feminines_exam/index.md",
+  "before_unit_sha256": "2dee5db06cd9986600b34958d45c82d9b7544d3bb848e2363618f23e1745f3a5",
+  "after_unit_sha256": "089bb0e86d4d1aa529731a339016cfb6c45940592257e85589de0c5d04d1f218",
+  "before_exam_sha256": "c98dc71fe4f2c910f7c2d2b20007578848c5b157123a49b7ce2defa7381220e6",
+  "after_exam_sha256": "a25c0219d321d97452d63e1113afa724e6466c3657bc0ad57d7b11ee809d65ae",
+  "source_sections": "C",
+  "supplied_source_sha256": "2f4f9d052541a57baaa9e75563b9d5a4875d19ba6ea9497f9897083960189a59",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual Sand/Colette biography replaces Beauvoir key and unsourced four-wave quiz. Retained observed monologue without demanding protected work quotation."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "3b3e4e8545a078f4de198e5d979cb672a52a97d27179058287e7e111e4884e5a",
+      "after_sha256": "089bb0e86d4d1aa529731a339016cfb6c45940592257e85589de0c5d04d1f218",
+      "reasons": [
+        "Align exam total with restored primary outcomes.",
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit08_voix-feminines/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "31f0110dc6d90010240341bda2ded670035b1905fb7ac8c23f9fee4c244aee32",
+      "after_sha256": "a5e883707de15d65eb4cf50e1bef144340e45578a458d44b30200c68e07f473c",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit08_voix-feminines_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a5e883707de15d65eb4cf50e1bef144340e45578a458d44b30200c68e07f473c",
+      "after_sha256": "f38c760f7c75c1014b89a9730d60f5388827a6a87e8a23f67ba4e454a35d0bea",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit08_voix-feminines_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit08_voix-feminines_exam/index.md",
+      "before_sha256": "f38c760f7c75c1014b89a9730d60f5388827a6a87e8a23f67ba4e454a35d0bea",
+      "after_sha256": "f19139e94b4e87dbb230facb5bce5a601dfbd743dab0cf1304580a57fe124dcc",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit08_voix-feminines_exam/index.md",
+      "before_sha256": "f19139e94b4e87dbb230facb5bce5a601dfbd743dab0cf1304580a57fe124dcc",
+      "after_sha256": "a25c0219d321d97452d63e1113afa724e6466c3657bc0ad57d7b11ee809d65ae",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl11",
+      "unit": 8,
+      "total": 30,
+      "graded_tasks": [
+        {
+          "title": "Deux pionnières",
+          "points": 12
+        },
+        {
+          "title": "Présentation orale",
+          "points": 18
+        }
+      ]
+    }
+  ]
+}

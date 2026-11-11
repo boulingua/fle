@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 3
 slug: "mon-ecole"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.7 Moyens linguistiques — lexique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - reading
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_mon-ecole.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mon-ecole.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit03_mon-ecole.html"
+- "/track_gm_kl06/units/unit03_mon-ecole.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.REC.reading-for-orientation.04
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.LING.phonological-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.reading-for-orientation.04
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.LING.phonological-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit03_mon-ecole_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_mon-ecole-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_mon-ecole-teacher.png
 audio_manifest: unit03_mon-ecole
 ---
 
@@ -69,15 +101,13 @@ Lundi, 8 heures. Léa arrive dans la salle 12. Elle cherche une place.
 - Quel cours ont-ils à 8 heures ?
 - Quel objet Léa a-t-elle oublié ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelles **matières** avez-vous le lundi ?
 - Quelle est votre **matière préférée** ? Pourquoi ?
 - Qu'est-ce qu'il y a dans votre **cartable** aujourd'hui ? Citez trois objets.
 - À quelle **heure** commencez-vous l'école ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 **Les matières scolaires**
@@ -147,8 +177,7 @@ En France, la première année du collège s'appelle la **classe de sixième** (
 
 *Source paraphrasée : « Classe de sixième française » et « Collège en France », Wikipédia (CC BY-SA) — voir Sources.*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (emploi du temps C).** Vrai ou faux ?
 
 1. Le lundi à 8 heures, Léa a français.
@@ -189,6 +218,7 @@ a) les arts plastiques · b) le sport · c) les maths · d) la musique
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Vrai. 2) Vrai (lundi 9h, mardi 9h, mercredi 10h). 3) Vrai (dernier cours 11h–12h). 4) Vrai (vendredi 8h–9h = anglais).
 
 **Ex. 2.** a–3 · b–1 · c–2 · d–4.
@@ -196,9 +226,9 @@ a) les arts plastiques · b) le sport · c) les maths · d) la musique
 **Ex. 3.** 1) règle. 2) cahier. 3) gomme. 4) trousse.
 
 **Ex. 4.** Réponses libres (vérifier : article après *aimer* / *ne pas aimer*, une raison avec *parce que*, l'heure avec *à … heures*).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau M, environ 50 mots).**
 
 Décrivez **votre lundi** à l'école : nommez **quatre matières** avec les **heures**, dites **votre matière préférée** et **une matière que vous n'aimez pas** (avec une raison courte).
@@ -217,35 +247,18 @@ Décrivez **votre lundi** à l'école : nommez **quatre matières** avec les **h
 - Une matière préférée et une matière non appréciée, avec une raison.
 - Phrases complètes et compréhensibles (environ 50 mots).
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer huit matières scolaires.
 - [ ] Je peux nommer six objets de la classe.
 - [ ] Je peux lire un emploi du temps et y trouver une matière, un jour, une heure.
 - [ ] Je peux écrire un court texte sur ma journée à l'école.
 - [ ] Je peux dire ce que j'aime et ce que je n'aime pas, avec une raison.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau M.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit03_mon-ecole_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 points).**
-Lisez l'emploi du temps de Léa (partie C). Répondez :
-- 4 affirmations vrai/faux *(4 points)*.
-- Question ouverte : *Quelles matières Léa a-t-elle le mardi ?* *(4 points)*.
-- Question ouverte : *À quelle heure Léa commence-t-elle le vendredi, et par quelle matière ?* *(2 points)*.
-
-**Tâche 2 — Vocabulaire (10 points).**
-- Traduisez **6 matières** (français ↔ allemand) *(6 points)*.
-- Nommez **4 objets** de la classe à partir d'une image ou d'une description *(4 points)*.
-
-**Tâche 3 — Expression écrite (10 points).**
-Décrivez **votre lundi** (environ 50 mots) : 4 matières + heures, matière préférée + une matière non appréciée avec une raison.
-Barème : contenu 4 pts · langue/vocabulaire 4 pts · orthographe 2 pts.
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 minutes) :**
 

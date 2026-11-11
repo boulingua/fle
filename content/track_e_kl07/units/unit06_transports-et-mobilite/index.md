@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 6
 slug: "transports-et-mobilite"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — production orale en continu"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — production orale en continu"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_transports-et-mobilite.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_transports-et-mobilite.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit06_transports-et-mobilite.html"
+- "/track_e_kl07/units/unit06_transports-et-mobilite.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.reading-for-orientation.01
-    - A1.INT.conversation.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.reading-for-orientation.01
+  - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit06_transports-et-mobilite_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_transports-et-mobilite-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_transports-et-mobilite-teacher.png
 audio_manifest: unit06_transports-et-mobilite
 ---
 
@@ -67,8 +99,7 @@ Dans la cour du lycée, Léa et Karim parlent de leur week-end.
 2. Quel moyen de transport choisit-elle, et pourquoi ?
 3. Et vous, comment venez-vous au lycée le matin ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, en petits groupes :
 
 - Comment venez-vous au lycée : à pied, à vélo, en bus, en voiture ?
@@ -76,8 +107,7 @@ Répondez oralement, en petits groupes :
 - Selon vous, quel transport est le plus **écologique** ? Le plus **rapide** ? Le plus **cher** ?
 - Faites une liste au tableau : tous les moyens de transport que vous connaissez en français.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Article | Traduction (allemand) |
@@ -126,8 +156,7 @@ Le TGV (train à grande vitesse) circule commercialement en France depuis 1981 :
 
 *(Faits paraphrasés d'après Wikipédia, articles « TGV » et « Vélib' Métropole », licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (textes C et D).** Répondez par une phrase complète.
 
 1. À quelle heure part le TGV ?
@@ -166,6 +195,7 @@ a) le quai — b) la voie — c) le billet — d) la correspondance
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Le TGV part à 9 h 22.
 2. Le trajet dure deux heures.
@@ -180,9 +210,9 @@ a) le quai — b) la voie — c) le billet — d) la correspondance
 a → 2 · b → 4 · c → 1 · d → 3
 
 **Exercice 4.** Réponses personnelles. *Exemples : Ce matin, je suis venu(e) au lycée à vélo. Samedi, nous sommes allés à Strasbourg en train. Hier soir, mes parents sont rentrés en voiture.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — Présentation en continu (Niveau E, environ 8 phrases, 1 à 2 minutes).**
 
 Présentez **vos habitudes de mobilité** ou un **trajet** que vous connaissez bien. Dites :
@@ -203,8 +233,7 @@ Utilisez au moins **trois fois *en* / *à*** + un transport et **deux verbes au 
 | Fluidité et prononciation (parler en continu, sans trop d'hésitations) | 2 |
 | **Total** | **12** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez déjà faire :
 
 - [ ] Je nomme au moins huit moyens de transport en français.
@@ -214,29 +243,11 @@ Cochez ce que vous savez déjà faire :
 - [ ] Je parle de mes habitudes de mobilité pendant une à deux minutes.
 - [ ] Je donne mon avis sur les transports écologiques.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit06_transports-et-mobilite_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 points).**
-Lisez l'annonce de gare et le récit de voyage (textes C et D). Répondez à six questions par des phrases complètes.
-
-**Tâche 2 — *en* / *à* (8 points).**
-Complétez huit phrases avec la bonne préposition et justifiez brièvement une réponse.
-
-**Tâche 3 — Production orale en continu (10 points).**
-Présentez oralement un trajet entre deux villes (environ huit phrases) : départ, arrivée, horaires, moyen de transport, durée et votre avis.
-
-**Barème :**
-
-| Tâche | Compétence | Points |
-|---|---|---|
-| 1 | Compréhension écrite | 12 |
-| 2 | Langue (*en* / *à*) | 8 |
-| 3 | Production orale en continu | 10 |
-| **Total** | | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' · Produire 12' · Réfléchir 2' · Aperçu de la séance suivante 2'.
 

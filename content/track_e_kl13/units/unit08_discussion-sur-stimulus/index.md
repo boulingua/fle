@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 8
 slug: "discussion-sur-stimulus"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.4 Expression orale — production en continu (monologue)"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.4 Expression orale — production en continu (monologue)"
 skills_focus:
 - speaking_interaction
 - speaking_production
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_discussion-sur-stimulus.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_discussion-sur-stimulus.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit08_discussion-sur-stimulus.html"
+- "/track_e_kl13/units/unit08_discussion-sur-stimulus.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.informal-discussion.03
-    - B2.PROD.overall-oral-production.01
-    - B2.PROD.reports-and-essays.01
-    - B2.INT.asking-for-clarification.02
-    - B2.MED.acting-as-an-intermediary-in-informal-situations.01
+  - B2.INT.informal-discussion.03
+  - B2.PROD.overall-oral-production.01
+  - B2.PROD.reports-and-essays.01
+  - B2.INT.asking-for-clarification.02
+  - B2.MED.acting-as-an-intermediary-in-informal-situations.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit08_discussion-sur-stimulus_exam
+  format: existing-assessment
+  duration_minutes: 13
+  points: 30
+  skills:
+  - speaking_interaction
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_discussion-sur-stimulus-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit08_discussion-sur-stimulus-teacher.png
 audio_manifest: unit08_discussion-sur-stimulus
 ---
 
@@ -68,15 +101,13 @@ Deux élèves préparent l'épreuve orale du bac.
 2. Faut-il absolument connaître l'image pour en parler ? Pourquoi ?
 3. Quel mot résume le conseil de Malik en une idée ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - *Premier plan* et *arrière-plan* : quelle est la différence ?
 - *Décrire* et *interpréter* : lequel vient en premier ? Pourquoi ?
 - Quelle image (photo, peinture, dessin de presse) vous a récemment marqué·e ? En un mot : pourquoi ?
 - Quels verbes utilise-t-on pour dire ce qu'on **voit** sans être sûr·e de ce que cela **signifie** ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la description et de la discussion
 
 | Français | Fonction | Allemand |
@@ -127,8 +158,7 @@ Un tableau du domaine public offre un excellent stimulus. *Le Déjeuner sur l'he
 
 Pour décrire ce tableau à l'oral, on n'a pas besoin d'en connaître l'histoire : il suffit d'appliquer les quatre étapes — observer, situer, interpréter, prendre position.
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte B).** Répondez.
 
 1. Dans quel ordre présente-t-on une image, selon la méthode ?
@@ -159,6 +189,7 @@ Pour décrire ce tableau à l'oral, on n'a pas besoin d'en connaître l'histoire
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) On décrit objectivement, puis techniquement, puis on interprète, et enfin on prend position (quatre étapes). 2) Interpréter trop vite, avant d'avoir vraiment regardé l'image. 3) Deux parmi : le cadrage, la lumière, les couleurs dominantes, la composition. 4) La quatrième étape (prendre position).
 
 **Ex. 2.** 1) *il y a une porte ouverte* (visible). 2) *La lumière **vient** de la droite.* 3) *Cette porte **pourrait** symboliser un choix.* 4) *Il **semblerait** que la scène se passe à l'aube.*
@@ -166,9 +197,9 @@ Pour décrire ce tableau à l'oral, on n'a pas besoin d'en connaître l'histoire
 **Ex. 3.** Réponses possibles : 1) *On dirait qu'elle est triste.* 2) *Il semblerait que l'artiste veuille critiquer la société.* / *Cette œuvre pourrait critiquer la société.* 3) *La scène pourrait se passer en hiver.*
 
 **Ex. 4.** Réponses libres. Modèle : *Q : Que voyez-vous au premier plan ? — R : Au premier plan, on voit une femme qui tient un livre. Q : Que pourrait signifier ce livre ? — R : On dirait qu'il symbolise un savoir transmis ; à mon sens, l'image valorise la lecture.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (E, ~10 min, en binôme).**
 
 À partir d'un **stimulus visuel** fourni (photo de presse, dessin de presse ou reproduction d'un tableau du domaine public), présentez et discutez l'image :
@@ -186,29 +217,18 @@ Pour décrire ce tableau à l'oral, on n'a pas besoin d'en connaître l'histoire
 | Interaction | Réactions pertinentes, relances, capacité à défendre son point de vue. |
 | Langue | Correction grammaticale et phonétique suffisante pour être bien compris. |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue le premier plan de l'arrière-plan et je situe les éléments d'une image.
 - [ ] Je décris d'abord objectivement, puis techniquement.
 - [ ] J'emploie l'indicatif pour ce qui est certain et des tournures de prudence pour mes hypothèses.
 - [ ] Je prends position et je justifie mon avis.
 - [ ] Je dialogue sur un stimulus : je réagis, je relance et je conclus.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve orale — discussion sur stimulus visuel (E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit08_discussion-sur-stimulus_exam" >}}).
 
-L'examinateur·rice présente une image sans texte.
-
-- **Phase 1 — Description en continu (monologue).** Décrivez l'image en suivant les quatre étapes. **/ 12 P.**
-  - description objective et technique (6 P.) · interprétation nuancée (4 P.) · langue (2 P.)
-- **Phase 2 — Discussion (interaction).** Répondez aux questions, défendez votre lecture, relancez l'échange. **/ 12 P.**
-  - pertinence et argumentation (6 P.) · capacité de relance et de nuance (4 P.) · langue (2 P.)
-- **Impression d'ensemble** (fluidité, prononciation). **/ 6 P.**
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

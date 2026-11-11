@@ -1,0 +1,74 @@
+{
+  "unit": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e/index.md",
+  "exam": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md",
+  "before_unit_sha256": "3ceeaadbabc028ae30c3c7fd7f1a714560e7f3984319fe6d723730d1bf64eace",
+  "after_unit_sha256": "e8d5e00ee262e3941aca2bdf115e5e9783d16831f07bdf084e5d5688574db8be",
+  "before_exam_sha256": "f4a1efefe9f88b7c18c4ee693c9924e44aaf2b71441f76167ffda293c28d124c",
+  "after_exam_sha256": "2d1bf61193f9ad55d275278a0afa1fac04035a30cddcafade7c2acacfa3acdff",
+  "source_sections": "C",
+  "supplied_source_sha256": "54f7844ec8bb94583dea293c54cae37918bab54f24517c0dfa30040ed6ecd2f9",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed nonexistent30percent statistic; supplied original opinion text; fixed incomplete d’une part pairing; oral mini-debate retained."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "617a70a04721ef74040b34fb65f80ee147f519747b80d5e2a6c686a8a950ebab",
+      "after_sha256": "0289852befee06c1197cd0b749cfb3a612ebdc56fd4c432350bfc1df4968e87f",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "0289852befee06c1197cd0b749cfb3a612ebdc56fd4c432350bfc1df4968e87f",
+      "after_sha256": "17a787f2e99c1996f52468c62d244260283fa7b8f0020b23320e16ea2e4dc8af",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md",
+      "before_sha256": "17a787f2e99c1996f52468c62d244260283fa7b8f0020b23320e16ea2e4dc8af",
+      "after_sha256": "b0553a7dfd9e8014fb9084ce62d646c660b88160d29a8b8eac4c6fe1fc98733a",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e_exam/index.md",
+      "before_sha256": "b0553a7dfd9e8014fb9084ce62d646c660b88160d29a8b8eac4c6fe1fc98733a",
+      "after_sha256": "2d1bf61193f9ad55d275278a0afa1fac04035a30cddcafade7c2acacfa3acdff",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl09",
+      "unit": 4,
+      "total": 30,
+      "graded_tasks": [
+        {
+          "title": "Opinion orale",
+          "points": 12
+        },
+        {
+          "title": "Billet d’opinion",
+          "points": 14
+        },
+        {
+          "title": "Connecteurs",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

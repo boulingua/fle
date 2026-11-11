@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
-    "source_body_sha256": "ccee7caf62705c06d3ed1e772a6f6797b53eb93fecb7da78d79d7dc1bf96d196",
+    "source_body_sha256": "f27fa1495449552503a2c81cd1f17046f6847c3e83273c5e6b7ce6ff398d10a9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Ferrand. — Aujourd'hui, on analyse un poème pour la première fois. Pas de panique ! Léa. — Un poème entier ? Je ne comprends jamais tout… Tom. — Moi, je trouve juste que ça  sonne  bien, mais je ne sais pas expliquer pourquoi. Mme Ferrand. — Justement. Analyser, ce n'est pas tout comprendre d'un coup. C'est observer la forme, repérer une image, puis dire l'effet. On avance étape par étape. Léa. — Donc on a le droit de commencer par ce qu'on voit ? Mme Ferrand. — Exactement. On regarde d'abord, on interprète ensuite."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
-    "source_body_sha256": "ccee7caf62705c06d3ed1e772a6f6797b53eb93fecb7da78d79d7dc1bf96d196",
+    "source_body_sha256": "f27fa1495449552503a2c81cd1f17046f6847c3e83273c5e6b7ce6ff398d10a9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un vers.\nune strophe.\nla rime.\nune comparaison.\nune métaphore.\nle thème.\nl'atmosphère."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
-    "source_body_sha256": "ccee7caf62705c06d3ed1e772a6f6797b53eb93fecb7da78d79d7dc1bf96d196",
+    "source_body_sha256": "f27fa1495449552503a2c81cd1f17046f6847c3e83273c5e6b7ce6ff398d10a9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Les sanglots longs Des violons De l'automne Blessent mon cœur D'une langueur Monotone. Tout suffocant Et blême, quand Sonne l'heure, Je me souviens Des jours anciens Et je pleure ;"

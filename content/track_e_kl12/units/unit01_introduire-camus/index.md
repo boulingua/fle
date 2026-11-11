@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 1
 slug: "introduire-camus"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_introduire-camus.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_introduire-camus.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit01_introduire-camus.html"
+- "/track_e_kl12/units/unit01_introduire-camus.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.overall-written-production.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.PROD.reports-and-essays.04
-    - B2.REC.reading-as-a-leisure-activity.01
-    - B2.MED.facilitating-collaborative-interaction-with-peers.03
+  - B2.PROD.overall-written-production.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.PROD.reports-and-essays.04
+  - B2.REC.reading-as-a-leisure-activity.01
+  - B2.MED.facilitating-collaborative-interaction-with-peers.03
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit01_introduire-camus_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_introduire-camus-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit01_introduire-camus-teacher.png
 audio_manifest: unit01_introduire-camus
 ---
 
@@ -73,14 +105,12 @@ En classe de 12e, M. Berger pose un livre fermé sur la table.
 2. Quelles informations attendez-vous d'un incipit (lieu, personnages, époque… ) ?
 3. Un incipit qui « raconte presque rien » : est-ce un défaut ou une intention ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Connaissez-vous le nom **Albert Camus** ? À quoi l'associez-vous ?
 - Le mot **absurde** dans la langue courante : que signifie-t-il pour vous ?
 - Quand vous ouvrez un roman, quelle phrase vous donne envie de continuer ? Pourquoi ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'analyse littéraire
 
 | Français | Deutsch | Exemple d'emploi |
@@ -122,8 +152,7 @@ Camus rattache *L'Étranger* à ce que les commentateurs appellent son **« cycl
 
 *(Nous ne citons pas le texte du roman, protégé par le droit d'auteur ; ces informations sont reformulées à partir des articles indiqués dans les Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 Travaillez sur le **texte d'appui C** (l'incipit original).
 
 **Ex. 1 — Compréhension (repérer).**
@@ -149,6 +178,7 @@ Complétez en une phrase : *« Dans cet incipit, le lecteur ne sait pas encore _
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** a) À la **1ʳᵉ personne** (*je*). b) Une **lettre** : « Poste vacant. Présentez-vous lundi. Cordialement. » c) **In medias res**, en pleine action (le train est déjà arrivé).
 
 **Ex. 2.** Passé composé : *est arrivé, ai relue, ai posé, ai attendu, ai marché* (deux au choix). Imparfait : *pleuvait, regardais, disait, restaient, allais* (deux au choix). **Effet :** le passé composé, en phrases courtes, donne un rythme **sec et rapide** ; l'imparfait installe un **décor gris et neutre**. Le contraste renforce la froideur du récit.
@@ -156,9 +186,9 @@ Complétez en une phrase : *« Dans cet incipit, le lecteur ne sait pas encore _
 **Ex. 3.** Indices possibles : *« ou peut-être non ; je ne regardais pas la fenêtre »* (le narrateur ne s'intéresse pas au décor) ; *« Les mots restaient plats »* (aucune émotion devant la nouvelle) ; *« sans savoir encore où j'allais dormir »* (dit sans inquiétude). Chaque indice montre un narrateur **détaché**, qui rapporte les faits sans les commenter affectivement.
 
 **Ex. 4.** Réponse ouverte, p. ex. : *« Dans cet incipit, le lecteur ne sait pas encore **qui attend le narrateur ni pourquoi il vient**, mais il comprend déjà que **ce personnage traverse les événements sans émotion**. »*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~300 mots) — étude d'incipit.**
 
 À partir du **texte d'appui C**, rédigez une courte **étude d'incipit** en **trois paragraphes** :
@@ -178,41 +208,18 @@ Vous pouvez, en une phrase, **relier** cette technique à ce que vous avez appri
 - Langue (temps du passé, orthographe, syntaxe) — **3 pts**
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux dire qui était Camus et expliquer l'absurde avec mes mots.
 - [ ] Je peux définir un **incipit** et citer ses fonctions.
 - [ ] Je peux repérer point de vue, temps et ton dans un incipit.
 - [ ] Je distingue **passé composé** (premier plan) et **imparfait** (arrière-plan).
 - [ ] J'ai rédigé une étude structurée d'environ 300 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-*Épreuve alignée sur les compétences visées : **compréhension écrite** + **expression écrite**.*
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit01_introduire-camus_exam" >}}).
 
-**Texte de l'épreuve — incipit original (à ne pas confondre avec une œuvre publiée) :**
-
-> La sonnerie de l'usine a couvert sa voix. Marc a levé la main, puis l'a laissée retomber. « De toute façon, avait-elle écrit, ne réponds pas. » Il n'a pas répondu. Dehors, le ciel avait la couleur du béton. Il a compté ses pas jusqu'au portail : quarante-deux, comme la veille.
-
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») — 12 pts**
-a) Qui est le personnage et où se trouve-t-il ? (3 pts)
-b) Relevez la citation d'un message écrit dans le texte. (2 pts)
-c) Le récit commence-t-il in medias res ? Justifiez. (3 pts)
-d) Relevez un indice de **distance affective**. (2 pts)
-e) Repérez un verbe au passé composé et un verbe à l'imparfait. (2 pts)
-
-**Tâche 2 — Expression écrite (« Schreiben ») — 18 pts**
-Rédigez une **étude d'incipit** (~300 mots, 3 paragraphes : situation / procédés / effet) sur ce texte. Employez au moins **cinq** termes d'analyse et **appuyez-vous** sur des mots précis du texte.
-
-**Barème total : 30 points.**
-
-| Niveau | Points |
-|---|---|
-| Compréhension écrite | 12 |
-| Expression écrite | 18 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Activer 5' · Apporter 13' · S'entraîner 12' · Produire 11' · Réfléchir 2' · Aperçu de l'évaluation 2'.
 

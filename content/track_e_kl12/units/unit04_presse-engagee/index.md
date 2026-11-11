@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 4
 slug: "presse-engagee"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_presse-engagee.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_presse-engagee.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit04_presse-engagee.html"
+- "/track_e_kl12/units/unit04_presse-engagee.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.overall-written-production.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.PROD.reports-and-essays.05
-    - B2.REC.reading-for-information-and-argument.01
-    - B2.INT.formal-discussion.01
+  - B2.PROD.overall-written-production.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.PROD.reports-and-essays.05
+  - B2.REC.reading-for-information-and-argument.01
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit04_presse-engagee_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_presse-engagee-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit04_presse-engagee-teacher.png
 audio_manifest: unit04_presse-engagee
 ---
 
@@ -69,14 +101,12 @@ audio_manifest: unit04_presse-engagee
 2. Êtes-vous plutôt d'accord avec Nour ou avec Malik ? Justifiez en une phrase.
 3. À votre avis, qui finance l'information que vous lisez chaque jour ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - *Éditorial*, *reportage*, *tribune*, *brève* : lesquels donnent une **opinion** ? Lesquels donnent des **faits** ?
 - *Presse engagée* : quels titres francophones connaissez-vous ? Que veut dire « engagé » pour un journal ?
 - Un journaliste peut-il être totalement **neutre** ? Discutez en binômes.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — analyser un texte d'opinion
 
 | Français | Catégorie | Sens / usage |
@@ -127,8 +157,7 @@ Fondé en 1954, *Le Monde diplomatique* est un mensuel français d'analyse consa
 
 *Source paraphrasée : « Le Monde diplomatique », Wikipédia (fr), CC BY-SA 4.0 — voir Sources.*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte B).** Répondez par une phrase complète.
 
 1. Selon l'éditorial, pourquoi la « gratuité » de l'information n'existe-t-elle pas ?
@@ -164,6 +193,7 @@ E : faites les quatre exercices ; à l'Ex. 4, produisez **deux** réécritures d
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Parce que si l'information ne coûte rien au lecteur, elle est financée par quelqu'un d'autre. 2) L'annonceur, l'actionnaire et l'algorithme. 3) *Fragile, exigeant, (presque) héroïque.* 4) Elle finit par payer beaucoup plus cher : son ignorance.
 
 **Ex. 2.** a) *fragile / héroïque / dernier rempart* (au choix). b) *« Et si c'était l'inverse ? »* c) *« Nous nous croyons mieux informés… » / « Le choix nous appartient »* d) *« ne nous y trompons pas »*.
@@ -172,9 +202,9 @@ E : faites les quatre exercices ; à l'Ex. 4, produisez **deux** réécritures d
 Exemples possibles : **ethos** = la posture de lucidité de l'énonciateur (*ne nous y trompons pas*) ; **pathos** = *« presque héroïque » / « son ignorance »* (émotion, inquiétude) ; **logos** = *« celui qui paie choisit »* (raisonnement de cause à effet).
 
 **Ex. 4.** Réponse ouverte. Exemple : *« Fait rare et courageux, quelques journaux refusent la publicité et ne vivent que du soutien de leurs lecteurs — n'est-ce pas là le dernier espace de liberté ? »* (adjectif évaluatif + question rhétorique).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (E, ≈ 350 mots) — commentaire analytique.**
 
 Rédigez le **commentaire** de l'éditorial du texte B en quatre paragraphes :
@@ -192,35 +222,18 @@ Rédigez le **commentaire** de l'éditorial du texte B en quatre paragraphes :
 - Position personnelle argumentée et nuancée (un contre-argument).
 - Langue : richesse lexicale, connecteurs, correction morphosyntaxique (niveau E).
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue un éditorial d'un article d'information.
 - [ ] Je repère au moins quatre marques de subjectivité dans un texte.
 - [ ] Je nomme et j'illustre ethos, pathos et logos.
 - [ ] Je rédige un commentaire analytique structuré (≈ 350 mots).
 - [ ] Je sais présenter le rôle de la presse engagée dans une démocratie.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve (Niveau E) — durée indicative 60 min · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit04_presse-engagee_exam" >}}).
 
-Support : l'éditorial du texte B (ou un éditorial original équivalent fourni par l'enseignant·e).
-
-**Tâche 1 — Compréhension écrite (10 pts).**
-Répondez à quatre questions : thèse de l'auteur, structure argumentative, sens de la chute, tonalité générale. *(4 × 2,5)*
-
-**Tâche 2 — Analyse rhétorique et expression écrite (20 pts).**
-Rédigez un commentaire analytique (≈ 350 mots) : analyse de trois procédés rhétoriques et de leur effet (12 pts) + prise de position nuancée avec contre-argument (5 pts) + correction de la langue (3 pts).
-
-**Barème récapitulatif**
-
-| Tâche | Compétence | Points |
-|-------|--------------------------|--------|
-| 1 | Compréhension écrite | 10 |
-| 2 | Analyse + expression écrite | 20 |
-| **Total** | | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min)** : Activer 5' · Apporter 13' (vocabulaire + point de langue + lecture du texte B + repère culturel) · S'entraîner 13' (Ex. 1–4, correction rapide) · Produire 10' (lancement + plan du commentaire, achèvement en devoir) · Réfléchir 2' · Aperçu de l'évaluation 2'.
 

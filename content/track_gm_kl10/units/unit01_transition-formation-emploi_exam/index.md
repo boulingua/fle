@@ -23,75 +23,113 @@ curriculum:
     - B1.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 60
+assessment_scoring: points-only
 ---
 
-## Devoir surveillé — Niveau M, classe 10
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Durée indicative : 60 minutes, à éprouver en classe.
 
-Lisez l'annonce + la lettre de Léa (Unité 1, textes C+D).
-Répondez :
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-1. Quel est l'objet de l'annonce ?
-2. Combien d'heures par semaine ?
-3. Quel est le salaire la 1ʳᵉ et la 3ᵉ année ?
-4. Pourquoi Léa cite-t-elle son Praktikum de 9ᵉ ?
-5. Quelle est la formule finale de sa lettre ?
+## Support
 
-### Tâche 2 — Vocabulaire (8 points)
+### Petite annonce (texte original)
 
-Donnez l'**équivalent français** (ou définition simple) :
+> **Boulangerie « Chez Hugo » — Karlsruhe**
+>
+> Nous recherchons **un(e) apprenti(e) boulanger(ère)** pour la rentrée de septembre 2026.
+>
+> - **Durée :** 3 ans (apprentissage en alternance).
+> - **Horaires :** du lundi au samedi, tôt le matin.
+> - **Profil :** personne motivée, ponctuelle, qui aime le travail en équipe.
+> - **Un plus :** une première expérience (stage) dans la boulangerie.
+>
+> **Candidature :** lettre de motivation + CV à envoyer à *contact@chez-hugo.example* avant le 15 mai 2026.
 
-- Ausbildung · FSJ · Berufskolleg · Mentor · CDI · CDD ·
- un(e) apprenti(e) · une candidature spontanée.
+### Lettre de candidature (texte original)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+> Léa Schmitt
+> Karlsruher Straße 23 — 76137 Karlsruhe
+>
+> Karlsruhe, le 8 avril 2026
+>
+> **Objet : candidature pour un apprentissage de boulangère**
+>
+> Madame, Monsieur,
+>
+> Suite à votre annonce, je souhaite poser ma candidature pour l'apprentissage de boulangère que vous proposez à partir de septembre 2026.
+>
+> Actuellement en classe de 10e, je vais passer mon diplôme intermédiaire en juin. J'ai déjà effectué un stage d'une semaine dans une boulangerie ; cette expérience a confirmé mon envie d'apprendre ce métier.
+>
+> Je suis motivée, ponctuelle et j'aime le travail manuel. Je serais très heureuse de faire mon apprentissage dans votre entreprise.
+>
+> Vous trouverez ci-joint mon CV. Je me tiens à votre disposition pour un entretien.
+>
+> Je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.
+>
+> Léa Schmitt
 
-Rédigez **votre candidature spontanée** en **180 mots** pour
-un poste de votre choix. Structure : intro (présentation),
-corps (motivation + 2 atouts), conclusion (formule polie + CV
-joint).
 
-## Notation
+
+### Tâche 1 — Compréhension (10 points)
+
+Lisez l'annonce et la lettre fictives fournies. Répondez en phrases complètes.
+1. Quel métier est proposé et à partir de quand ?
+2. Combien de temps dure l'apprentissage et quels jours travaille-t-on ?
+3. Quelles pièces faut-il envoyer et avant quelle date ?
+4. Quelle expérience Léa a-t-elle déjà et qu'en a-t-elle retenu ?
+5. Citez deux qualités qu'elle met en avant.
+
+**Barème :** 5 réponses × 2 points selon les deux éléments attendus.
+
+### Tâche 2 — Langue (8 points)
+
+Donnez l'équivalent français : Ausbildung; Bewerbung; Vorstellungsgespräch; Praktikum; Unternehmen; Gehalt; Berufsschule; Lebenslauf.
+
+**Barème :** 8 équivalents × 1 point.
+
+### Tâche 3 — Production (12 points)
+
+Rédigez une candidature spontanée d'environ 180 mots pour un poste d'apprentissage de votre choix : présentation, motivation, deux atouts illustrés, disponibilité et formule polie. Mentionnez un CV fictif joint; ne donnez ni adresse réelle ni donnée personnelle sensible. Les dates de l'annonce sont celles du scénario, pas une offre ouverte.
+
+**Barème :** Structure 3; contenu et arguments 5; langue 4.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Vocabulaire | 8 |
-| Tâche 3 — Expression écrite | 12 |
+|---|---:|
+| 1 | 10 |
+| 2 | 8 |
+| 3 | 12 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) Apprenti(e) boulanger(ère), rentrée 2026. 2) 8h
-× 6 jours = 48h ; ou 4h-12h selon lecture (réponse acceptée si
-calcul précis). 3) 800 € / 1100 €. 4) Cette expérience l'a
-confortée dans son choix. 5) « Je vous prie d'agréer, Madame,
-Monsieur, mes salutations distinguées. »
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** apprentissage en alternance · service civique ·
-lycée (« Gymnasium ») professionnel · une personne expérimentée qui guide ·
-contrat à durée indéterminée · contrat à durée déterminée ·
-personne en formation chez un patron · candidature sans
-annonce préalable.
+**T 1.** 1 Boulanger/ère 1, septembre 2026 1. 2 Trois ans 1, lundi au samedi 1. 3 Lettre et CV 1, avant 15 mai 2026 1. 4 Stage d'une semaine en boulangerie 1; envie confirmée d'apprendre le métier 1. 5 Deux parmi motivée, ponctuelle, aime le travail manuel (1 chacun). Aucun salaire ni nombre d'heures hebdomadaire n'est indiqué.
 
-**Tâche 3.** Réponses libres. Critères : 180 mots · structure
-complète · 2 atouts · formule polie · mention CV.
+**T 2.** Apprentissage; candidature; entretien d'embauche; stage; entreprise; salaire; lycée professionnel/école professionnelle selon contexte; CV/curriculum vitae.
 
----
+**T 3.** Évaluer les éléments annoncés, sans comparer les expériences réelles des candidats. Les deux atouts doivent être reliés au poste.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 1*
+- « Apprentissage en France » — Wikipédia (consulté le 21 juillet 2026), https://fr.wikipedia.org/wiki/Apprentissage_en_France — licence CC BY-SA 4.0.
+- « Service civique » — Wikipédia (consulté le 21 juillet 2026), https://fr.wikipedia.org/wiki/Service_civique — licence CC BY-SA 4.0.
+- Tous les textes (annonce, dialogue, lettre) sont originaux et rédigés pour cette unité. Les noms d'entreprises et adresses e-mail sont fictifs (domaine *example*).
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

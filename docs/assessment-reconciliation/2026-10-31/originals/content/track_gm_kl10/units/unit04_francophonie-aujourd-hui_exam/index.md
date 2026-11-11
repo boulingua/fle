@@ -1,0 +1,93 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 4"
+subtitle: "Francophonie aujourd'hui · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 4
+slug: "francophonie-aujourd-hui-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.planning.01
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.acting-as-an-intermediary-in-informal-situations.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le texte sur la francophonie (Unité 4, texte C). Répondez :
+
+1. Combien de locuteurs francophones en 2025 ?
+2. Quelle est la place du français au monde ?
+3. Quelle évolution prévoit-on pour 2050 ?
+4. Citez les **5 pays** au plus grand nombre de locuteurs.
+5. Que veut dire OIF ? AUF ?
+
+### Tâche 2 — Géographie (8 points)
+
+Classez ces 8 pays/régions par zone (Europe, Afrique, Amériques,
+Pacifique, Maghreb/Levant) :
+
+- Sénégal · Polynésie française · Belgique · Haïti · Liban ·
+ Vanuatu · Maroc · RDC.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Présentez **un pays francophone** au choix en **150 mots** :
+situation géographique · statut du français · 1 trait culturel
+· 2 personnalités. Plan : intro + 3 paragraphes + conclusion.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Géographie | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 321 millions. 2) 5ᵉ. 3) Moitié des francophones
+seront africains. 4) France, RDC, Algérie, Maroc, Côte d'Ivoire.
+5) Organisation internationale de la Francophonie · Agence
+universitaire de la Francophonie.
+
+**Tâche 2.** Afrique : Sénégal, RDC. Pacifique : Polynésie,
+Vanuatu. Europe : Belgique. Amériques : Haïti. Maghreb/Levant :
+Liban, Maroc.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · structure
+intro/dév/conclu · 4 éléments demandés.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 4*

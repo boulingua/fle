@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 1
 slug: "transition-formation-emploi"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_transition-formation-emploi.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_transition-formation-emploi.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit01_transition-formation-emploi.html"
+- "/track_gm_kl10/units/unit01_transition-formation-emploi.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.REC.identifying-cues-and-inferring.05
-    - B1.PROD.sustained-monologue-giving-information.03
-    - B1.REC.reading-as-a-leisure-activity.04
-    - B1.INT.formal-discussion.01
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.REC.identifying-cues-and-inferring.05
+  - B1.PROD.sustained-monologue-giving-information.03
+  - B1.REC.reading-as-a-leisure-activity.04
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit01_transition-formation-emploi_exam
+  format: existing-assessment
+  duration_minutes: 60
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_transition-formation-emploi-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit01_transition-formation-emploi-teacher.png
 audio_manifest: unit01_transition-formation-emploi
 ---
 
@@ -71,15 +104,13 @@ Léa est en classe de 10e. Elle passera bientôt son diplôme intermédiaire («
 2. Que veut faire Léa après la 10e ?
 3. Qu'est-ce qu'une candidature « spontanée », d'après le dialogue ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que voulez-vous faire après la classe de 10e ?
 - Connaissez-vous quelqu'un qui fait un apprentissage ? Dans quel métier ?
 - À votre avis, quelle est la différence entre un apprentissage et des études au lycée ?
 - Quels mots français connaissez-vous déjà pour parler du monde du travail ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire
 
 | Français | Allemand |
@@ -155,8 +186,7 @@ En France, l'apprentissage s'adresse surtout aux jeunes de 16 à 30 ans. Il repo
 *Paraphrasé d'après « Apprentissage en France », Wikipédia (CC BY-SA).*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (petite annonce + lettre).** Répondez par une phrase complète.
 
 1. Combien de temps dure l'apprentissage proposé ?
@@ -189,6 +219,7 @@ a) die Bewerbung — b) das Praktikum — c) das Vorstellungsgespräch — d) de
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) L'apprentissage dure 3 ans. 2) Une première expérience (un stage) dans la boulangerie. 3) Parce que ce stage a confirmé son envie d'apprendre le métier. 4) Elle envoie son CV.
 
 **Ex. 2.** a) une candidature — b) un stage — c) un entretien — d) le service civique.
@@ -196,9 +227,9 @@ a) die Bewerbung — b) das Praktikum — c) das Vorstellungsgespräch — d) de
 **Ex. 3.** 1) je vais faire. 2) vont visiter. 3) vas envoyer. 4) allons passer.
 
 **Ex. 4.** Réponses libres. Exemples : 1) *…je voudrais continuer au lycée professionnel.* 2) *…j'ai l'intention de faire un apprentissage.* 3) *…je pense travailler dans le tourisme.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau M, environ 180 mots).**
 
 Rédigez une **candidature spontanée** pour un poste d'apprentissage de votre choix. Structurez votre lettre :
@@ -217,36 +248,18 @@ Rédigez une **candidature spontanée** pour un poste d'apprentissage de votre c
 | Langue | verbes d'intention et futur proche corrects |
 | Longueur et lisibilité | environ 180 mots, texte clair et poli |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends une petite annonce d'apprentissage.
 - [ ] Je repère les arguments dans une lettre de candidature.
 - [ ] J'utilise le futur proche et les verbes d'intention pour parler de mes projets.
 - [ ] Je rédige une candidature spontanée structurée d'environ 180 mots.
 - [ ] Je distingue apprentissage, lycée professionnel, études supérieures et service civique.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M · compréhension écrite + expression écrite**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit01_transition-formation-emploi_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 points).** À partir d'une petite annonce et d'une lettre de candidature (fournies), répondez à 5 questions par des phrases complètes.
-
-**Tâche 2 — Vocabulaire du monde du travail (8 points).** Traduisez ou reliez 8 termes professionnels (par ex. *l'apprentissage, un entretien, un stage, une candidature*).
-
-**Tâche 3 — Expression écrite (12 points).** Rédigez une candidature spontanée (environ 180 mots) pour un poste d'apprentissage de votre choix.
-
-**Barème :**
-
-| Tâche | Points |
-|--------------------------------|:------:|
-| 1 — Compréhension écrite | 10 |
-| 2 — Vocabulaire | 8 |
-| 3 — Expression écrite | 12 |
-| **Total** | **30** |
-
-Pour la Tâche 3, la répartition indicative est : structure 3 P., contenu/arguments 5 P., correction de la langue 4 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 minutes.**
 

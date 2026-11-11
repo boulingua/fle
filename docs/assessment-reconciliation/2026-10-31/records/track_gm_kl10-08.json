@@ -1,0 +1,39 @@
+{
+  "unit": "content/track_gm_kl10/units/unit08_reseaux-sociaux/index.md",
+  "exam": "content/track_gm_kl10/units/unit08_reseaux-sociaux_exam/index.md",
+  "before_unit_sha256": "0f893e48ded402225a4c98d8293f67fd33929a6da32d5fbc630600cc044b77e6",
+  "after_unit_sha256": "e07958762122ead965734fc84b422a27da3f96265e61c34ca536a0c3b519c10d",
+  "before_exam_sha256": "b8befd9ba3b7adec804ffd48ed2ec022f2425a96040906759c5df49e3c854c86",
+  "after_exam_sha256": "38fe6c5d9714272a78ee063e80cce1404a4e7928e2c03d7fa9246c7047481d21",
+  "source_sections": [
+    "B"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "speaking_interaction"
+  ],
+  "decisions": [
+    "Actual Inès narrative supplied; fabricated EnCLASS percentages removed. Interaction is observed aloud, with the written dialogue used only for preparation."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "89f57ba63c78dc83b501ca4c56000d9a21ed3ab334d296d47aa857fe892dbc03",
+      "after_sha256": "18e46b263c8a052daefc92bcb5bbf528345944aa45c98848dc2bded8e8270be7",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit08_reseaux-sociaux_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit08_reseaux-sociaux_exam/index.md",
+      "before_sha256": "18e46b263c8a052daefc92bcb5bbf528345944aa45c98848dc2bded8e8270be7",
+      "after_sha256": "38fe6c5d9714272a78ee063e80cce1404a4e7928e2c03d7fa9246c7047481d21",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
-    "source_body_sha256": "e1db186cec405e12b3b90b08a99ba8b7aae3d0cf70b270bc477d4c02915e8575",
+    "source_body_sha256": "75d54f072961a40ba211fd8afbed2c7dba979cbc947c463b1c501ab126b5d02b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
-    "source_body_sha256": "e1db186cec405e12b3b90b08a99ba8b7aae3d0cf70b270bc477d4c02915e8575",
+    "source_body_sha256": "75d54f072961a40ba211fd8afbed2c7dba979cbc947c463b1c501ab126b5d02b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "une donnée personnelle.\nla vie privée.\nles paramètres de confidentialité.\nun mot de passe.\nun compte privé / public.\nl'empreinte numérique.\nun·e abonné·e (un·e follower).\nles cookies.\nle consentement / l'accord.\nsignaler / bloquer."
@@ -33,7 +33,7 @@
   {
     "file": "/fle/materials/audio/unit09_internet-et-vie-privee-e/dialogue1.ogg",
     "label": "Dialogue 1",
-    "transcript": "Mes données, mes droits\nSur Internet, ton nom, ta photo et tes messages sont des données personnelles. Elles t'appartiennent, et la loi les protège.\nDepuis 2018, un règlement européen te donne des droits : tu peux savoir quelles données une entreprise possède sur toi, corriger une erreur et demander la suppression d'une vieille photo. C'est ce qu'on appelle parfois le  droit à l'oubli .\nMais la meilleure protection, c'est la prudence. Ne partage jamais ton mot de passe. Réfléchis avant de publier la photo d'un·e ami·e : demande son accord. Et si un message te dérange, tu peux le signaler ou bloquer son auteur.\nTa vie privée, c'est ton droit. À toi de la protéger.",
+    "transcript": "Mes données, mes droits\nSur Internet, ton nom, ta photo et tes messages sont des données personnelles. La loi encadre leur utilisation et te donne des droits à leur sujet.\nDepuis 2018, un règlement européen te donne des droits : tu peux savoir quelles données une entreprise possède sur toi, corriger une erreur et demander la suppression d'une vieille photo. Le droit à l'effacement s'applique sous certaines conditions et comporte des exceptions; toute demande n'entraîne donc pas automatiquement une suppression.\nMais la meilleure protection, c'est la prudence. Ne partage jamais ton mot de passe. Réfléchis avant de publier la photo d'un·e ami·e : demande son accord. Et si un message te dérange, tu peux le signaler ou bloquer son auteur.\nTa vie privée, c'est ton droit. À toi de la protéger.",
     "source": "tts",
     "voice": "fr_FR-mls-medium",
     "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
@@ -41,9 +41,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
-    "source_body_sha256": "e1db186cec405e12b3b90b08a99ba8b7aae3d0cf70b270bc477d4c02915e8575",
+    "source_body_sha256": "75d54f072961a40ba211fd8afbed2c7dba979cbc947c463b1c501ab126b5d02b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
-    "tts": "Mes données, mes droits Sur Internet, ton nom, ta photo et tes messages sont des données personnelles. Elles t'appartiennent, et la loi les protège. Depuis 2018, un règlement européen te donne des droits : tu peux savoir quelles données une entreprise possède sur toi, corriger une erreur et demander la suppression d'une vieille photo. C'est ce qu'on appelle parfois le  droit à l'oubli . Mais la meilleure protection, c'est la prudence. Ne partage jamais ton mot de passe. Réfléchis avant de publier la photo d'un·e ami·e : demande son accord. Et si un message te dérange, tu peux le signaler ou bloquer son auteur. Ta vie privée, c'est ton droit. À toi de la protéger."
+    "tts": "Mes données, mes droits Sur Internet, ton nom, ta photo et tes messages sont des données personnelles. La loi encadre leur utilisation et te donne des droits à leur sujet. Depuis 2018, un règlement européen te donne des droits : tu peux savoir quelles données une entreprise possède sur toi, corriger une erreur et demander la suppression d'une vieille photo. Le droit à l'effacement s'applique sous certaines conditions et comporte des exceptions; toute demande n'entraîne donc pas automatiquement une suppression. Mais la meilleure protection, c'est la prudence. Ne partage jamais ton mot de passe. Réfléchis avant de publier la photo d'un·e ami·e : demande son accord. Et si un message te dérange, tu peux le signaler ou bloquer son auteur. Ta vie privée, c'est ton droit. À toi de la protéger."
   }
 ]

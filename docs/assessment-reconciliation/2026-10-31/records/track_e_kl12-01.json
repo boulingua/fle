@@ -1,0 +1,44 @@
+{
+  "unit": "content/track_e_kl12/units/unit01_introduire-camus/index.md",
+  "exam": "content/track_e_kl12/units/unit01_introduire-camus_exam/index.md",
+  "before_unit_sha256": "3b49392f6ac36c7a3293b2025d0ad97caf92366791f3f6f3b79246af94ce507d",
+  "after_unit_sha256": "c4089a6da726cff28ba7ba85bee04a19612fb109808430e74fbce9e97b7a5f00",
+  "before_exam_sha256": "59402a65f745a60b8b85a33eda276f539fe815d88757b00848afe5074a336085",
+  "after_exam_sha256": "2e26e6ca8a681971fca2ea9aa2824026f67c0f7de793f5a62bf408bee47faa43",
+  "source_sections": "embedded original Marc",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "writing"
+  ],
+  "decisions": [
+    "Preserved complete original embedded Marc paper12+18; discarded unrelated protectedCamus extract/key and missing secondincipit requirement."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "f5c75a8cba45adc35e3cc6b9a50a5cc24324e72bd1e4493d7f0747511a3a5e86",
+      "after_sha256": "874c25a15ed0be97ff8236d5e5d211f456876fd59f2faf11b8ace00d80c94fdd",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit01_introduire-camus_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "874c25a15ed0be97ff8236d5e5d211f456876fd59f2faf11b8ace00d80c94fdd",
+      "after_sha256": "e8a477ae5221fe65bbf83688763515f7d24167795ed6e576bde207379608843e",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit01_introduire-camus_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit01_introduire-camus_exam/index.md",
+      "before_sha256": "e8a477ae5221fe65bbf83688763515f7d24167795ed6e576bde207379608843e",
+      "after_sha256": "2e26e6ca8a681971fca2ea9aa2824026f67c0f7de793f5a62bf408bee47faa43",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

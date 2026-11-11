@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 8
 slug: "voix-feminines"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — monologisches Sprechen"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_voix-feminines.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_voix-feminines.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit08_voix-feminines.html"
+- "/track_e_kl11/units/unit08_voix-feminines.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.creative-writing.03
-    - B1.REC.reading-as-a-leisure-activity.01
-    - B1.PROD.planning.01
-    - B1.REC.reading-for-orientation.05
-    - B1.MED.processing-text.02
+  - B1.PROD.creative-writing.03
+  - B1.REC.reading-as-a-leisure-activity.01
+  - B1.PROD.planning.01
+  - B1.REC.reading-for-orientation.05
+  - B1.MED.processing-text.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit08_voix-feminines_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_voix-feminines-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit08_voix-feminines-teacher.png
 audio_manifest: unit08_voix-feminines
 ---
 
@@ -71,14 +102,12 @@ Dans la salle de classe, M. Berger projette une couverture de roman ancienne.
 2. Connaissez-vous d'autres autrices françaises ?
 3. Que veut dire, pour vous, l'expression « une voix » en littérature ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **une écrivaine** (française ou autre) que vous connaissez, et une de ses œuvres.
 - À votre avis, à quelle époque les femmes ont-elles pu **publier librement** sous leur propre nom en France ?
 - Que signifie « **le domaine public** » ? Pourquoi peut-on citer Sand ou Colette, mais seulement *évoquer* une autrice vivante ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Deutsch |
@@ -125,8 +154,7 @@ Aurore Dupin (1804–1876) publia sous le pseudonyme masculin **George Sand** et
 *Paraphrasé de l'article « George Sand », Wikipédia (fr), licence CC BY-SA.*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du texte C (Leseverstehen).** Répondez par une phrase complète.
 
 1. Pourquoi Aurore Dupin a-t-elle pris un nom d'homme ?
@@ -162,6 +190,7 @@ Expliquez, en deux ou trois phrases, ce que l'autrice veut dire selon vous.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Parce qu'à son époque, une femme écrivain n'était pas toujours prise au sérieux ; le nom d'homme lui donnait plus de liberté. 2. *La Mare au diable* (1846) et *La Petite Fadette* (1849). 3. Sous le nom de son mari (« Willy »). 4. Des funérailles nationales — une première pour une femme de lettres.
 
@@ -173,9 +202,9 @@ pseudonyme = b · pionnière = c · récit = d · s'affranchir de = a · lauréa
 
 **Ex. 4. Modèle de réponse :**
 Pour George Sand, l'art ne se contente pas de copier le réel : il cherche une vérité plus haute, un idéal. L'écrivain choisit et transforme la réalité pour lui donner un sens. La littérature n'est donc pas une simple photographie du monde, mais une interprétation.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue en continu, ~4–5 min).**
 
 Présentez **une voix féminine** de la littérature française. Choisissez :
@@ -195,32 +224,18 @@ Structurez votre exposé : **vie** (dates, parcours, au passé) → **œuvre cl�
 | Sourçage | cite seulement une autrice du domaine public ; évoque les autres |
 | Aisance | débit régulier, prononciation compréhensible |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux comprendre un texte biographique et en tirer l'essentiel.
 - [ ] Je peux raconter une vie au passé composé et à l'imparfait.
 - [ ] Je peux parler en continu d'une autrice pendant quatre à cinq minutes.
 - [ ] Je peux analyser une courte citation.
 - [ ] Je sais ce que je peux citer (domaine public) et ce que je dois seulement évoquer.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — Compréhension écrite + Expression orale (monologue)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit08_voix-feminines_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (Leseverstehen) — 12 P.**
-Lisez de nouveau le texte C « Deux pionnières » et répondez :
-1. Quand et sous quel nom Aurore Dupin a-t-elle écrit ? *(3 P.)*
-2. Quels aspects de la vie de Sand montraient son désir de liberté ? *(3 P.)*
-3. Comment la voix de Colette s'est-elle affirmée au fil du temps ? *(3 P.)*
-4. Pourquoi le texte cite-t-il Sand et Colette, mais seulement *évoque*-t-il Ernaux, NDiaye et Slimani ? *(3 P.)*
-
-**Tâche 2 — Expression orale en continu (monologisches Sprechen) — 18 P.**
-Présentez, en quatre à cinq minutes, une voix féminine de la littérature française (vie · œuvre clé · apport · avis).
-Barème : contenu **6 P.** · structure et connecteurs **4 P.** · correction linguistique (temps du passé) **4 P.** · sourçage correct (citer / évoquer) **2 P.** · aisance **2 P.**
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min).** Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Bilan 2'.
 

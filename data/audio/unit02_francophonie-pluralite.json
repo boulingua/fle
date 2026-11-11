@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
-    "source_body_sha256": "ecd3fcb4db3488ee7c717df07ea3a81e2dc99e2200748fc1aa755ca60b21080d",
+    "source_body_sha256": "08a529adeb0e9a334eb9fe18e177d871fa05ad052fcc9df164dd8cc982029e2e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Tu as entendu la journaliste de Dakar ? Elle disait  je suis en train de te call . J'ai trouvé ça bizarre au début. Malik : Bizarre, non ! C'est du français, simplement un autre français. Ma cousine à Montréal dit  magasiner  au lieu de  faire les courses . Et en Belgique, on dit  septante  pour soixante-dix. Léa : Donc il n'existe pas un seul  bon  français ? Malik : Il existe une norme scolaire, oui. Mais la langue vit partout où on la parle — et elle change selon les lieux."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
-    "source_body_sha256": "ecd3fcb4db3488ee7c717df07ea3a81e2dc99e2200748fc1aa755ca60b21080d",
+    "source_body_sha256": "08a529adeb0e9a334eb9fe18e177d871fa05ad052fcc9df164dd8cc982029e2e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la francophonie.\nune variété (de langue).\nla norme.\nplurielle / la pluralité.\nun·e locuteur·rice.\nl'usage (m.).\nenrichir.\nun patrimoine partagé.\nlégitime.\nmétisser."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
-    "source_body_sha256": "ecd3fcb4db3488ee7c717df07ea3a81e2dc99e2200748fc1aa755ca60b21080d",
+    "source_body_sha256": "08a529adeb0e9a334eb9fe18e177d871fa05ad052fcc9df164dd8cc982029e2e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Une langue, des visages On imagine parfois le français comme un cercle fermé autour de Paris. La réalité est tout autre : le français se parle sur cinq continents, et c'est aujourd'hui en Afrique que le nombre de locuteurs progresse le plus vite. Le français de Montréal, celui de Dakar, celui de Bruxelles et celui de Marseille ne se ressemblent pas tout à fait — et c'est très bien ainsi. Chaque région façonne la langue à sa manière. En Belgique, on compte en  septante  et  nonante  là où la France dit  soixante-dix  et  quatre-vingt-dix . Au Québec, on  magasine  au lieu de  faire les courses , et l'on tient à protéger le français face à l'anglais voisin. En Afrique de l'Ouest, le français se mêle aux langues locales et invente des mots nouveaux, pleins d'énergie. Aucune de ces variétés n'est  meilleure  qu'une autre. La norme scolaire sert de repère commun, utile pour se comprendre d'un pays à l'autre ; mais elle ne rend pas les usages régionaux fautifs. La francophonie n'est donc pas une uniformité imposée : c'est une pluralité vivante, un patrimoine que des millions de personnes partagent et transforment chaque jour."

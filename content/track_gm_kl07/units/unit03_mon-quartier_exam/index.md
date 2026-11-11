@@ -23,10 +23,27 @@ curriculum:
     - A1.MED.collaborating-to-construct-meaning.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 7
+## Modalités
+
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
+
+## Support
+
+### C. Le quartier de Léa (texte original)
+
+> J'habite dans un petit quartier à Karlsruhe. À côté de chez moi, il y a
+> la boulangerie d'Hugo — son pain au chocolat est le meilleur du quartier !
+> En face, on trouve la pharmacie. Au coin de la rue, il y a un café avec
+> une grande terrasse. Le parc est juste derrière la bibliothèque, à cinq
+> minutes à pied. L'arrêt de bus n°3 est devant la mairie. Le samedi, il y
+> a un petit marché sur la place. J'aime beaucoup mon quartier : tout est
+> près et on connaît les voisins !
 
 ### Tâche 1 — Vocabulaire (10 points)
 
@@ -36,56 +53,66 @@ Traduisez :
  die Bank · das Café · der Park · die Bibliothek ·
  die Bushaltestelle · das Rathaus.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (10 points)
+**Barème :** 10 termes ×1 point.
 
-Lisez le texte C de l'Unité 3 (le quartier de Léa). Vrai/faux :
+### Tâche 2 — Lecture (10 points)
+
+Lisez le support fourni. Vrai/faux :
 
 | | Affirmation | V | F |
 |---|---------------------------------------------------------|:-:|:-:|
 | 1 | La boulangerie d'Hugo est loin de chez Léa. | ☐ | ☐ |
 | 2 | La pharmacie est en face de la boulangerie. | ☐ | ☐ |
 | 3 | Le parc est devant la bibliothèque. | ☐ | ☐ |
-| 4 | Le bus n°3 passe devant la mairie. | ☐ | ☐ |
+| 4 | L’arrêt du bus n°3 est devant la mairie. | ☐ | ☐ |
 | 5 | Léa n'aime pas son quartier. | ☐ | ☐ |
 
-### Tâche 3 — Expression écrite (« Schreiben ») (10 points)
+**Barème :** 5 réponses ×2 points : choix 1, preuve/correction 1.
+
+### Tâche 3 — Écriture (10 points)
 
 Décrivez **votre quartier** en **6 phrases** (~70 mots).
 Au moins **5 lieux** + **3 prépositions de lieu** différentes.
 
-## Notation
+**Barème :** Contenu 4, langue 4, cohérence 2.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Vocabulaire | 10 |
-| Tâche 2 — Compréhension écrite | 10 |
-| Tâche 3 — Expression écrite | 10 |
+|---|---:|
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** la boulangerie · la pharmacie · le supermarché · la
-poste · la banque · le café · le parc · la bibliothèque · l'arrêt
-de bus · la mairie.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1) F (à côté). 2) V. 3) F (derrière). 4) V. 5) F.
+**Tâche 1.** Boulangerie, pharmacie, supermarché, poste, banque, café, parc, bibliothèque, arrêt de bus, mairie; employer un article adapté.
 
-**Tâche 3.** Réponses libres. Critères : 6 phrases · 5 lieux ·
-3 prépositions différentes · accord article défini.
+**Tâche 2.** Faux (à côté); vrai; faux (derrière); vrai; faux (elle aime son quartier). Justifier les réponses avec le texte.
 
----
+**Tâche 3.** Cinq lieux, trois prépositions et six phrases cohérentes.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 3*
+- Code de la consommation — article L122-17 (vérification éditoriale du 31 octobre 2026), <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227163>.
+
+
+- Wikipédia — « Boulangerie », auteurs de Wikipédia (consulté en 2026),
+  <https://fr.wikipedia.org/wiki/Boulangerie>, licence CC BY-SA 4.0.
+- Wikipédia — « Baguette de pain », auteurs de Wikipédia (consulté en 2026),
+  <https://fr.wikipedia.org/wiki/Baguette_de_pain>, licence CC BY-SA 4.0.
+- Géoportail (cartes des villes françaises), IGN,
+  <https://www.geoportail.gouv.fr/> (ressource complémentaire).
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

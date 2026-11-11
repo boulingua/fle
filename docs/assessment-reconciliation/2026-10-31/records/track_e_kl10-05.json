@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
+  "exam": "content/track_e_kl10/units/unit05_premiere-analyse-poesie_exam/index.md",
+  "before_unit_sha256": "b0e44a43df028b2fc80623445c18c76a04916cbd552b53755149823f86f5f0a7",
+  "after_unit_sha256": "fa42921a6d6cafa25d43a1114d4e404dd53553240b5c87c22ef7076b7d72b706",
+  "before_exam_sha256": "afa1e2cb7dc7a8a8db27834883d05709d1f992c568ffa4a6a123ef4c4bf79d19",
+  "after_exam_sha256": "4abb2927acc64689fd23cd670e9ed118735432d218aa90bbb182390dab5f22f5",
+  "source_sections": "C",
+  "supplied_source_sha256": "72ba4204b26e99eb3badc5cb87bb94d4c71ddc6980a16b8fc6073e362e34d61c",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Replaced unprovided Senghor and Prévert poems with existing public-domain Verlaine excerpt. Removed teaching analysis from learner source to avoid leaking the response."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "036546d42c47c93720ac3136dfda9bfab25ffed63eb008f7757c45309f05af60",
+      "after_sha256": "82cc3a04215f02edf7ccf6b356d8251b6f0116b1f22798a4199a9d1aab8d8400",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit05_premiere-analyse-poesie_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "82cc3a04215f02edf7ccf6b356d8251b6f0116b1f22798a4199a9d1aab8d8400",
+      "after_sha256": "bf26bad874e9d75ad407d1aea58afc948c47b047ae55444d325e80bee6714ca4",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit05_premiere-analyse-poesie_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie_exam/index.md",
+      "before_sha256": "bf26bad874e9d75ad407d1aea58afc948c47b047ae55444d325e80bee6714ca4",
+      "after_sha256": "4abb2927acc64689fd23cd670e9ed118735432d218aa90bbb182390dab5f22f5",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

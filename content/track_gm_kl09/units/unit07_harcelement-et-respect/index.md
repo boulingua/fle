@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 7
 slug: "harcelement-et-respect"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_interaction
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_harcelement-et-respect.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_harcelement-et-respect.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit07_harcelement-et-respect.html"
+- "/track_gm_kl09/units/unit07_harcelement-et-respect.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.asking-for-clarification.02
-    - A2.PROD.creative-writing.04
-    - A2.INT.conversation.04
-    - A2.PROD.overall-oral-production.01
-    - A2.MED.adapting-language.01
+  - A2.INT.asking-for-clarification.02
+  - A2.PROD.creative-writing.04
+  - A2.INT.conversation.04
+  - A2.PROD.overall-oral-production.01
+  - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit07_harcelement-et-respect_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_interaction
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_harcelement-et-respect-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_harcelement-et-respect-teacher.png
 audio_manifest: unit07_harcelement-et-respect
 ---
 
@@ -75,15 +107,13 @@ audio_manifest: unit07_harcelement-et-respect
 2. Comment Yanis réagit-il ? Relève **deux** phrases qui montrent son soutien.
 3. Pourquoi Nour hésite-t-elle à en parler ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Que veut dire l'expression *« faire bloc »* ? Trouvez un exemple.
 - À votre avis, quelle est la différence entre **se disputer** et **harceler** ?
 - À qui peut-on demander de l'aide dans un collège ? Citez au moins trois personnes.
 - Complétez à l'oral : *« Quand quelqu'un est isolé dans la cour, je peux… »*
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand |
@@ -130,8 +160,7 @@ Le conditionnel adoucit le conseil : *« tu devrais »* est plus doux que *« tu
 
 En France, le harcèlement scolaire est défini par une circulaire de 2013 comme une violence **répétée** dans le temps, exercée par un ou plusieurs élèves pour blesser ou mettre en difficulté un·e autre élève ; quand elle passe par les écrans, on parle de **cyberharcèlement** (d'après *Harcèlement scolaire en France*, Wikipédia, CC BY-SA). Depuis 2015, une **Journée nationale « Non au harcèlement »** a lieu chaque année en novembre, après les vacances de la Toussaint, avec des ateliers et des jeux de rôle dans les collèges. Les jeunes victimes ou témoins peuvent appeler gratuitement le **3018**, numéro national d'écoute qui a remplacé l'ancien 3020.
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Distinguer.** Harcèlement (**H**), conflit (**C**) ou taquinerie (**T**) ?
 
 1. Léo et Sami se disputent une fois à propos d'un ballon, puis se réconcilient.
@@ -161,6 +190,7 @@ le 3018 · un·e ami·e de confiance · le CPE · la police (cas grave) · le pr
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) C — désaccord ponctuel entre égaux. 2) H — répété, cyberharcèlement. 3) T — sans intention de blesser, l'autre rit aussi. 4) H — répété, intention de nuire.
 
 **Ex. 2.** a) parlerais · b) pourrais · c) devriez · d) irait.
@@ -175,9 +205,9 @@ le 3018 · un·e ami·e de confiance · le CPE · la police (cas grave) · le pr
 **M** — exercices tels quels.
 **E** — Ex. 4 : rédiger en plus une phrase de justification écrite pour chaque recours.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — jeu de rôle à deux (dialogue, ~2 min).**
 
 L'un·e joue un·e élève qui se confie (il/elle est isolé·e ou reçoit des messages méchants) ; l'autre joue l'ami·e qui **écoute, rassure et propose de l'aide**. Utilisez :
@@ -196,30 +226,18 @@ L'un·e joue un·e élève qui se confie (il/elle est isolé·e ou reçoit des m
 | Langue et fluidité | Vocabulaire de l'unité, débit compréhensible | 3 |
 | **Total** | | **12** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue harcèlement, conflit et taquinerie.
 - [ ] Je sais exprimer un sentiment (*je me sens…*, *j'ai peur que…*).
 - [ ] Je sais rassurer un·e camarade avec au moins deux phrases.
 - [ ] Je sais donner un conseil au conditionnel.
 - [ ] Je connais au moins trois personnes-ressources et le numéro 3018.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau M.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit07_harcelement-et-respect_exam" >}}).
 
-**Tâche 1 — Expression écrite (« Schreiben ») — message de soutien (14 P.)**
-Un·e ami·e vous confie par message qu'il/elle est harcelé·e dans le groupe de classe. Répondez en **80–110 mots** : reconnaissez la situation, exprimez votre **soutien**, proposez **deux conseils** au conditionnel, et citez **le 3018 ou une personne-ressource**.
-*Barème :* contenu et soutien 6 · deux conseils au conditionnel 4 · langue (vocabulaire, orthographe) 4.
-
-**Tâche 2 — Expression orale en interaction (« Sprechen : Dialog ») — jeu de rôle (10 P.)**
-En binôme, jouez la scène « se confier / réconforter » (voir Produire). *Barème :* écoute et soutien 4 · conseil et ressource 3 · langue 3.
-
-**Tâche 3 — Vocabulaire (6 P.)** : traduire six mots de la liste A.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Aperçu de l'évaluation 2'.
 

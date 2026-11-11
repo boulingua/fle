@@ -1,0 +1,80 @@
+{
+  "unit": "content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
+  "exam": "content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md",
+  "before_unit_sha256": "6f36af54ad2687ffc029b5a8082b0cf1cbdfae993052c572166f15528844b53a",
+  "after_unit_sha256": "a5a11c0630b05f32b4e44de0101b8c7a6a4e19878a53c66757326b7cfbbaaf1a",
+  "before_exam_sha256": "53476861936a18eccfa9c3bf0d4b190cbeaca6ad028b2e665b30699b961996ba",
+  "after_exam_sha256": "b180855bebc059527cd81a4a8b157a6a699491eef36c4cffa95b5b8e57c91706",
+  "source_sections": "C",
+  "supplied_source_sha256": "9a8e7eff8cffbfe2c70571b156f8655c2890c9b40644603c858a973af504172e",
+  "source_mode": "learner-reading",
+  "total_points": 25,
+  "decisions": [
+    "Sibling Anouk/Tristan/macaron conflict unsupported; read actual Léa/Karim message. Retained COD exercise and reconciliation writing; retained embedded oral interaction separately."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "ccd655ac8be2db30a4ddd228ddc3b226320ac1f85662f6ff83edfa0304aa5cde",
+      "after_sha256": "a5a11c0630b05f32b4e44de0101b8c7a6a4e19878a53c66757326b7cfbbaaf1a",
+      "reasons": [
+        "Align exam total with restored primary outcomes."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ea8fed813bd21780181ef697578d24a85c3013b781727def72391a4db4beb7a8",
+      "after_sha256": "b1295801169785f6b172aa2228931379439cae71a55052e2695264aa11fed2c4",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "b1295801169785f6b172aa2228931379439cae71a55052e2695264aa11fed2c4",
+      "after_sha256": "d3c82c1b0c14b4acd0a551c02172de3ba86d00bdb63aae4a549a91020a24dc38",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md",
+      "before_sha256": "d3c82c1b0c14b4acd0a551c02172de3ba86d00bdb63aae4a549a91020a24dc38",
+      "after_sha256": "29e545fce286aacc266bc687a062c6c6a356116d67c9ebc1751570e030172259",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit05_amis-et-conflits-e_exam/index.md",
+      "before_sha256": "29e545fce286aacc266bc687a062c6c6a356116d67c9ebc1751570e030172259",
+      "after_sha256": "b180855bebc059527cd81a4a8b157a6a699491eef36c4cffa95b5b8e57c91706",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl07",
+      "unit": 5,
+      "total": 25,
+      "graded_tasks": [
+        {
+          "title": "Réconciliation en interaction",
+          "points": 12
+        },
+        {
+          "title": "Message de réconciliation",
+          "points": 13
+        }
+      ]
+    }
+  ]
+}

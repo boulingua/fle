@@ -1,0 +1,51 @@
+{
+  "unit": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
+  "exam": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam/index.md",
+  "before_unit_sha256": "3eeb8d199b044b6ebd628b8dbba4ab8a20e475109c985993cb07c3c93fdc63ba",
+  "after_unit_sha256": "f5169109492a1c9698e6cdc375a11a361ea7ec6bf33d2011ba1a96d0f2ff39e7",
+  "before_exam_sha256": "3dcb5c534c5b7b257210a9819b3f11d269675be655acf39dff16053e77a4ec42",
+  "after_exam_sha256": "fce66f101917cc23252eea3ebb52f0ac6a4fd52cc36a628300821025b823e3bf",
+  "source_sections": "C",
+  "source_mode": "learner-reading",
+  "total_points": 40,
+  "skills_observed": [
+    "writing",
+    "speaking"
+  ],
+  "decisions": [
+    "Retained coherent original embedded task structure and totals; supplied exact source and full key; reconciled incompatible sibling source/answer claims."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "f4a98d5222873b3cc5c97d4d516ca9e48b5131a1940215162d723dafd3730307",
+      "before_sha256": "f4a98d5222873b3cc5c97d4d516ca9e48b5131a1940215162d723dafd3730307",
+      "after_sha256": "f5169109492a1c9698e6cdc375a11a361ea7ec6bf33d2011ba1a96d0f2ff39e7",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ffbb8222a4f62b22953f120bbe54d244677db2e1063cc9e67bba4f1f7be32fe6",
+      "after_sha256": "858de5e2244ad79930a8f8826406ce4f8d64764af704f37101f0d3943d803228",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "858de5e2244ad79930a8f8826406ce4f8d64764af704f37101f0d3943d803228",
+      "after_sha256": "cb446985ae194e244f4fee2a7eaea9ec7df32f3f3b12ac34e67e6ffb046a1881",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre_exam/index.md",
+      "before_sha256": "cb446985ae194e244f4fee2a7eaea9ec7df32f3f3b12ac34e67e6ffb046a1881",
+      "after_sha256": "fce66f101917cc23252eea3ebb52f0ac6a4fd52cc36a628300821025b823e3bf",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

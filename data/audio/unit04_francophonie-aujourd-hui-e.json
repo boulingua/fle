@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
-    "source_body_sha256": "d669324c556696729c3ffa8cdc4f0559c724cc472628cd54da54562e2aa25980",
+    "source_body_sha256": "26cce6aabfb09e4b4d0e61fcfc016ea286753cb2cbaf850ad8881f9fd83c0653",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Lefèvre. — Aujourd'hui, on fête la francophonie. À votre avis, sur combien de continents parle-t-on français ? Anouk. — Deux ? La France et… le Canada ? Karim. — Non, plus ! Chez mes grands-parents, au Sénégal, on parle français à l'école. Mme Lefèvre. — Exactement. Le français se parle sur les cinq continents. Votre mission de la semaine : choisir une figure francophone et la présenter à la classe."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
-    "source_body_sha256": "d669324c556696729c3ffa8cdc4f0559c724cc472628cd54da54562e2aa25980",
+    "source_body_sha256": "26cce6aabfb09e4b4d0e61fcfc016ea286753cb2cbaf850ad8881f9fd83c0653",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la francophonie.\nun·e locuteur·rice.\nune langue officielle.\nun espace linguistique.\nrépandu·e.\nun continent.\nune organisation.\nun État membre.\nrayonner.\nune figure (marquante)."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
-    "source_body_sha256": "d669324c556696729c3ffa8cdc4f0559c724cc472628cd54da54562e2aa25980",
+    "source_body_sha256": "26cce6aabfb09e4b4d0e61fcfc016ea286753cb2cbaf850ad8881f9fd83c0653",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "La langue française, une langue des cinq continents Le français n'est pas seulement la langue de la France. On le parle en Europe (Belgique, Suisse, Luxembourg), en Amérique (Québec, Haïti), en Afrique (Sénégal, Côte d'Ivoire, République démocratique du Congo), et aussi dans l'océan Indien et le Pacifique. Aujourd'hui, on estime qu'il y a plusieurs centaines de millions de francophones dans le monde. Beaucoup de nouveaux locuteurs se trouvent en Afrique, où la population jeune est nombreuse. Selon plusieurs études, c'est sur ce continent que le français progresse le plus vite. Pour organiser la coopération entre ces pays, plusieurs États et gouvernements se réunissent au sein de l'Organisation internationale de la Francophonie (OIF). Chaque année, le 20 mars, on célèbre la Journée internationale de la Francophonie : concerts, expositions, dictées et rencontres ont lieu partout dans le monde."

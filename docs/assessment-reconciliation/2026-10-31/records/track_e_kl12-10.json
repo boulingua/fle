@@ -1,0 +1,43 @@
+{
+  "unit": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+  "exam": "content/track_e_kl12/units/unit10_argumenter-en-public_exam/index.md",
+  "before_unit_sha256": "f09aa805c536b9a8c9bf48ee9fda86ba1bac389a678e00e7ad5ee63293fd902e",
+  "after_unit_sha256": "c3b8ebefe9e67c27cfc31227b3da67a3aeb306977caa3c775e9753f02012dc51",
+  "before_exam_sha256": "c5ebab3d64e1f9fb97bfdd9e701b9ac751ec9efd8d1e93adced554466836fa9a",
+  "after_exam_sha256": "91914340fb53623cd9877d1fd0b0d65663e060e6469355e6dd4b314617f3de57",
+  "source_sections": "original oral task using unitB topic",
+  "source_mode": "live-speaking",
+  "total_points": 30,
+  "skills_observed": [
+    "speaking"
+  ],
+  "decisions": [
+    "Retained originalprimary15+15monologue/dialogue, supplied concrete topic and examinerrelances and nonoverlappingrubric; discarded unrelatedSenghorwrittenpaper."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "bbb87c0d0ae510af1ea863c6d70bdf9bf2206f9e26a6154a195b27269642bfb0",
+      "after_sha256": "11dd20297193f8a78496a780ba6d2f1e8e510164d6c6980a9fe92d4a580a705e",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit10_argumenter-en-public_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "11dd20297193f8a78496a780ba6d2f1e8e510164d6c6980a9fe92d4a580a705e",
+      "after_sha256": "7e2c26887e071ca5c76cefb627b769b308b2f1b097a4d4cdb4e5af02c6fdfef7",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit10_argumenter-en-public_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit10_argumenter-en-public_exam/index.md",
+      "before_sha256": "7e2c26887e071ca5c76cefb627b769b308b2f1b097a4d4cdb4e5af02c6fdfef7",
+      "after_sha256": "91914340fb53623cd9877d1fd0b0d65663e060e6469355e6dd4b314617f3de57",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

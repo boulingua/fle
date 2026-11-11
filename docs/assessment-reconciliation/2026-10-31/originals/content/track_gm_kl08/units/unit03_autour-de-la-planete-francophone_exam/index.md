@@ -1,0 +1,86 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 3"
+subtitle: "Autour de la planète francophone · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 3
+slug: "autour-de-la-planete-francophone-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.asking-for-clarification.02
+    - A2.INT.conversation.10
+    - A2.LING.general-linguistic-range.02
+    - A2.LING.phonological-control.04
+    - A2.MED.analysis-and-criticism-of-creative-texts.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez les portraits courts de Unité 3 (Sénégal, Suisse,
+Belgique, Maroc, Côte d'Ivoire). Répondez en phrases complètes.
+
+1. Quel pays a quatre langues officielles ?
+2. Dans quels domaines utilise-t-on le français au Maroc ?
+3. Qu'est-ce qu'un *locuteur* ?
+4. Pourquoi beaucoup de Sénégalais·es sont-ils bilingues ?
+5. Que veut dire « nouchi » en Côte d'Ivoire ?
+
+### Tâche 2 — Expression orale (« Sprechen ») monologue (15 points)
+
+Présentez en ~90 secondes un pays francophone (en direct ou
+enregistré). Inclure : localisation · statut du français ·
+mot ou langue locale · raison de visiter.
+
+Critères : Contenu 6 P. · Langue 5 P. · Aussprache 4 P.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (5 points)
+
+Écrivez 3 phrases sur votre rapport au français : pourquoi vous
+l'apprenez · ce qui vous plaît · une difficulté.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Expression orale monologue| 15 |
+| Tâche 3 — Expression écrite | 5 |
+| **Total** | **30** |
+
+## Solutions
+
+**1.** Suisse. **2.** Enseignement supérieur, administration.
+**3.** Personne qui parle une langue. **4.** Wolof à la maison
++ français à l'école dès le primaire. **5.** Une variété /
+argot du français de Côte d'Ivoire (avec mots locaux).
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 3*

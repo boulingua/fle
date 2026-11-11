@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
-    "source_body_sha256": "2382381de122e19388d9fb4e6e338cec8437c9e24cdc302dcc12bd3eb16b2dbc",
+    "source_body_sha256": "b18ce42001170a85e6a94f5732a2a398702ebb77e25b34b9ff5adea2dd5ffbbe",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Regarde, c'est une fiche d'inscription scolaire de 1942. Le nom est presque effacé. Adrien :  Suzanne R. , rue des Lilas. Il n'y a pas de date de sortie… juste une croix au crayon. Léa : Une croix. Et après, plus rien. Comme si la fiche s'était arrêtée toute seule. Adrien : On ne saura peut-être jamais. Mais tant qu'on lit son nom à voix haute, elle n'a pas complètement disparu."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
-    "source_body_sha256": "2382381de122e19388d9fb4e6e338cec8437c9e24cdc302dcc12bd3eb16b2dbc",
+    "source_body_sha256": "b18ce42001170a85e6a94f5732a2a398702ebb77e25b34b9ff5adea2dd5ffbbe",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le souvenir.\nla mémoire (trouée).\nl'oubli (m.).\nune trace.\nune archive.\nun témoin / un témoignage.\nla disparition.\nle deuil.\nle silence (des victimes).\nse souvenir de.\nenquêter sur.\nretrouver la trace de.\ncombler un vide.\neffacé·e / illisible.\npoignant·e."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
-    "source_body_sha256": "2382381de122e19388d9fb4e6e338cec8437c9e24cdc302dcc12bd3eb16b2dbc",
+    "source_body_sha256": "b18ce42001170a85e6a94f5732a2a398702ebb77e25b34b9ff5adea2dd5ffbbe",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Il y avait, au fond du grenier, une boîte de fer que personne n'ouvrait. Ma grand-mère la gardait derrière les draps, et chaque fois que je m'en approchais, elle changeait de sujet. Le jour de son enterrement, j'ai enfin soulevé le couvercle. À l'intérieur, il n'y avait presque rien : une photographie jaunie, un ticket de tramway et une enveloppe sans adresse. Sur la photo, une jeune femme souriait devant un immeuble que je ne connaissais pas. Au dos, quelqu'un avait écrit un prénom,  Rachel , puis une date qui s'arrêtait au milieu. J'ai compris, ce soir-là, que ma grand-mère avait passé sa vie à protéger un silence. Elle n'avait jamais prononcé ce prénom. Le vide, dans notre famille, avait toujours eu la forme exacte de cette boîte fermée. Je me suis mis à chercher — non pas pour tout savoir, mais pour que ce prénom cesse d'être seul."

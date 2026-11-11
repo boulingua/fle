@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
-    "source_body_sha256": "5641d8a692c2bff24838e9a639869d64ad7640c9f7703f8786cd67453311cbcb",
+    "source_body_sha256": "727c7f18c972157f95e8f11d4680d735e91d0a5f450fcc06f61507942b04667b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Yasmin : Tu as vu ? Le lycée propose un échange de trois semaines à Lyon au printemps. Tobias : Oui, mais ça me fait un peu peur. Loger dans une famille que je ne connais pas, parler français toute la journée… Yasmin : Justement, c'est pour ça que je veux y aller ! Mon français ne progresse plus. Et puis, on m'a dit qu'il faut écrire une lettre de motivation. Ça t'embête ? Tobias : Un peu. Je ne sais jamais quoi mettre dans ce genre de lettre. Yasmin : On la prépare ensemble ? À deux, c'est plus facile."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
-    "source_body_sha256": "5641d8a692c2bff24838e9a639869d64ad7640c9f7703f8786cd67453311cbcb",
+    "source_body_sha256": "727c7f18c972157f95e8f11d4680d735e91d0a5f450fcc06f61507942b04667b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un échange (scolaire).\nun séjour à l'étranger.\nune famille d'accueil.\nune lettre de motivation.\nun dossier de candidature.\nune bourse.\nune certification linguistique.\nposer sa candidature / candidater."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
-    "source_body_sha256": "5641d8a692c2bff24838e9a639869d64ad7640c9f7703f8786cd67453311cbcb",
+    "source_body_sha256": "727c7f18c972157f95e8f11d4680d735e91d0a5f450fcc06f61507942b04667b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nour, 17 ans, retour d'un échange OFAJ à Fribourg (3 semaines) Bonjour, je m'appelle Nour. L'an dernier, j'ai participé à un échange organisé par l'OFAJ : trois semaines à Fribourg, en Allemagne, dans une famille d'accueil. Pourquoi l'Allemagne ? D'abord pour progresser en allemand, bien sûr. Mais surtout parce que je voulais sortir de ma zone de confort et devenir plus indépendante. Le plus difficile, ce sont les premiers jours : on comprend mal, on ose à peine parler. Mais au bout d'une semaine, ça change. On se fait des amis, on rit de ses erreurs, et on progresse sans s'en rendre compte. Mon conseil ? Commencez votre dossier tôt et travaillez sérieusement votre lettre de motivation. C'est elle qui montre qui vous êtes vraiment. N'hésitez plus : foncez !"

@@ -8,7 +8,7 @@ track: "gm"
 unit_nr: 6
 slug: "podcasts-en-francais"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
 skills_focus:
 - listening
 presentation:
@@ -18,22 +18,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_podcasts-en-francais.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_podcasts-en-francais.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit06_podcasts-en-francais.html"
+- "/track_gm_kl09/units/unit06_podcasts-en-francais.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.reading-for-information-and-argument.05
-    - A2.INT.overall-written-interaction.01
-    - A2.MED.note-taking.01
-    - A2.INT.conversation.08
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.reading-for-information-and-argument.05
+  - A2.INT.overall-written-interaction.01
+  - A2.MED.note-taking.01
+  - A2.INT.conversation.08
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit06_podcasts-en-francais_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_podcasts-en-francais-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_podcasts-en-francais-teacher.png
 audio_manifest: unit06_podcasts-en-francais
 ---
 
@@ -69,8 +100,7 @@ M. Klein, professeur d'orientation, s'adresse à sa classe de 9ᵉ :
 2. Quelle méthode de prise de notes propose-t-il ?
 3. À votre avis, pourquoi conseille-t-il un podcast pour enfants à une classe de 9ᵉ ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Écoutez-vous des podcasts ? En allemand ? En français ?
 - Quels sujets vous intéressent : sciences, sport, histoire, actualité, culture ?
 - Où et quand écoutez-vous : dans le bus, le soir, en faisant du sport ?
@@ -78,8 +108,7 @@ M. Klein, professeur d'orientation, s'adresse à sa classe de 9ᵉ :
 
 Notez au tableau, en français, cinq mots que vous associez au mot **podcast**.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — comprendre et raconter un podcast
 
 | Français | Exemple | Allemand (aide) |
@@ -119,7 +148,7 @@ Attention : après **que**, on garde une phrase complète (sujet + verbe). On en
 >
 > La lumière du Soleil paraît blanche, mais elle contient toutes les couleurs. Quand elle traverse l'atmosphère, l'air disperse surtout le bleu, car cette couleur a une onde plus courte. Voilà pourquoi, en pleine journée, le ciel nous semble bleu.
 >
-> Et le soir ? Au coucher du soleil, la lumière traverse une couche d'air beaucoup plus épaisse. Le bleu se disperse alors complètement, et ce sont le rouge et l'orange qui dominent.
+> Et le soir ? Au coucher du soleil, la lumière traverse une couche d'air beaucoup plus épaisse. Une plus grande partie de la lumière bleue est diffusée hors de la direction du Soleil; dans cette direction, le rouge et l'orange peuvent alors dominer.
 >
 > Merci d'avoir écouté. Posez-nous vos questions, et à demain !
 
@@ -131,8 +160,7 @@ Le mot **podcast** vient de la fusion d'*iPod* et de *broadcasting* (« diffusio
 L'émission pour enfants **Les P'tits Bateaux**, sur France Inter, illustre bien le genre : créée en 1997 par Noëlle Bréham, elle laisse des enfants poser des questions auxquelles des spécialistes répondent. Depuis 2023, c'est Camille Crosnier qui l'anime. *(Sources en fin d'unité.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).** Répondez par une phrase complète.
 
 1. Quel est le titre de l'épisode ?
@@ -168,6 +196,7 @@ L'émission pour enfants **Les P'tits Bateaux**, sur France Inter, illustre bien
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) *Pourquoi le ciel est-il bleu ?* 2) Sofiane, onze ans. 3) L'air disperse surtout le bleu, car cette couleur a une onde plus courte. 4) La lumière traverse une couche d'air plus épaisse ; le bleu se disperse complètement et le rouge et l'orange dominent.
 
 **Ex. 2.** Mots-clés possibles : *ciel, bleu, lumière / Soleil, atmosphère*. Idées principales : *1) l'air disperse surtout le bleu le jour ; 2) au coucher, le rouge et l'orange dominent.* Avis : libre.
@@ -175,9 +204,9 @@ L'émission pour enfants **Les P'tits Bateaux**, sur France Inter, illustre bien
 **Ex. 3.** 1) animateur / animatrice. 2) extrait. 3) abonner. 4) sujet (ou thème).
 
 **Ex. 4.** 1) … que l'air disperse surtout le bleu. 2) … que, le soir, le rouge domine. 3) … de lui poser nos questions (accepter : de poser nos questions).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écoute et de résumé (M, ~80 mots) :**
 
 Choisissez **un épisode** (3 à 5 minutes) parmi les podcasts proposés en cours. Pendant l'écoute, complétez la **grille 3-2-1**. Puis rédigez un **résumé en cinq phrases** : (1) titre et animateur·rice, (2) sujet, (3) première idée-clé, (4) deuxième idée-clé, (5) votre avis. Employez au moins **deux fois** le discours rapporté (« L'animateur explique que… »).
@@ -190,28 +219,18 @@ Choisissez **un épisode** (3 à 5 minutes) parmi les podcasts proposés en cour
 - **Clarté** : le résumé se comprend sans avoir écouté l'épisode.
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends l'essentiel d'un podcast court.
 - [ ] Je prends des notes avec la grille 3-2-1.
 - [ ] Je résume un épisode en cinq phrases.
 - [ ] J'emploie le discours rapporté pour raconter par référence.
 - [ ] Je donne un avis simple et justifié.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — axe : compréhension orale et audiovisuelle (M)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit06_podcasts-en-francais_exam" >}}).
 
-**Tâche 1 — Compréhension orale (15 P.).** Écoute d'un podcast de 3 minutes (deux passages). Six questions de compréhension + complétez une grille 3-2-1.
-
-**Tâche 2 — Vocabulaire (5 P.).** Cinq termes du champ « podcast » à associer ou à compléter.
-
-**Tâche 3 — Expression écrite (« Schreiben ») (10 P.).** Résumé de l'épisode en cinq phrases, avec au moins un emploi du discours rapporté.
-
-**Barème :** Tâche 1 : 15 P. · Tâche 2 : 5 P. · Tâche 3 : 10 P. — **Total : 30 P.**
-Répartition indicative de la Tâche 3 : contenu (5 P.), langue et discours rapporté (3 P.), vocabulaire (2 P.).
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 3′ · Apporter 12′ · Écoute guidée 8′ · S'entraîner 11′ · Produire 9′ · Réfléchir 2′.
 
@@ -222,6 +241,9 @@ Répartition indicative de la Tâche 3 : contenu (5 P.), langue et discours rapp
 **Rappel plateforme.** Les podcasts et émissions cités ne sont pas affiliés à l'établissement ni à ce support ; ils servent uniquement d'exemples pédagogiques, discutés par référence.
 
 ## Sources
+
+- NASA — Crepuscular rays and light scattering (vérifié le 31 octobre 2026), <https://science.nasa.gov/earth/earth-observatory/crepuscular-rays-and-light-scattering-150090/>.
+
 
 - *Podcasting* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Podcasting>, licence CC BY-SA 4.0.
 - *Les P'tits Bateaux* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Les_P%27tits_Bateaux>, licence CC BY-SA 4.0.

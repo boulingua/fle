@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_gm_kl06/units/unit06_au-marche/index.md",
+  "exam": "content/track_gm_kl06/units/unit06_au-marche_exam/index.md",
+  "before_unit_sha256": "0c98dc8e4b637ad8d1510122dce2de103d1331d6655d359b0fe05b8711232a25",
+  "after_unit_sha256": "2d06dcf5764acb014494456a598416d83799cf94c61fb89fa18409d71831eabf",
+  "before_exam_sha256": "69d6e63523e2988876166f56977f42a063d1a9440a63bd57d63a9bc69428c706",
+  "after_exam_sha256": "d8b3774ba69fce6ab372149a9a050216ab327aff2c5145a84733d091c89971e3",
+  "source_sections": [
+    "Situation de départ, dialogue Léa/M.Roux"
+  ],
+  "supplied_source_sha256": "92ca1762472f02c5787448d321572efe2c935763b5374b7760d8bf60dabfd1cf",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "task_points": [
+    10,
+    10,
+    10
+  ],
+  "decisions": [
+    "Copy actual opening dialogue as teacher-only listening source; correct salad/4.50 and replace absent closing line.",
+    "Retain ten vocabulary items and live role-play; make individual observation and role swap explicit.",
+    "Keep standalone30-point scale explicitly; incompatible embedded thresholds archived."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "57368bd50c3b454bfe50dd95534b89107d5c9ad8f0642165d23c560cb2b38b64",
+      "after_sha256": "56ea9e59e93419c6a02bcaa03ff31d9321df407f1c0368df9df3ac0f362e6d7c",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit06_au-marche_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "56ea9e59e93419c6a02bcaa03ff31d9321df407f1c0368df9df3ac0f362e6d7c",
+      "after_sha256": "867db2d3c4cb29199d46d057172348bb42df9597ffe84aac84776606875967aa",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl06/units/unit06_au-marche_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "867db2d3c4cb29199d46d057172348bb42df9597ffe84aac84776606875967aa",
+      "after_sha256": "891b56455929ef51e9b038b1fe46bcf003a806db17da0e0f33dd6b60a80efb35",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit06_au-marche_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit06_au-marche_exam/index.md",
+      "before_sha256": "891b56455929ef51e9b038b1fe46bcf003a806db17da0e0f33dd6b60a80efb35",
+      "after_sha256": "d8b3774ba69fce6ab372149a9a050216ab327aff2c5145a84733d091c89971e3",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -10,10 +10,10 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
-    "source_body_sha256": "6b440673d20d33d7151fb1da4979e0c60c6c1e9c66bc9d22bdf45e1e895eea3e",
+    "source_body_sha256": "dbdb40924df4ab09eba7c8c3ead166f1c98ae13b37ebeb2b0f48e53121b6a2c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
-      "C. Texte source pour la médiation (allemand, original)"
+      "C. Conseils d’une famille d’accueil fictive (allemand)"
     ],
     "tts": "Léa : Camille, on mange déjà ? Il est dix-huit heures. Camille : Déjà ? Chez moi, on dîne plutôt vers huit heures ! Mehdi : Et chez mes grands-parents en Tunisie, parfois à neuf heures… Camille : Alors ce soir, je découvre l'heure allemande !"
   },
@@ -28,10 +28,10 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
-    "source_body_sha256": "6b440673d20d33d7151fb1da4979e0c60c6c1e9c66bc9d22bdf45e1e895eea3e",
+    "source_body_sha256": "dbdb40924df4ab09eba7c8c3ead166f1c98ae13b37ebeb2b0f48e53121b6a2c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
-      "C. Texte source pour la médiation (allemand, original)"
+      "C. Conseils d’une famille d’accueil fictive (allemand)"
     ],
     "tts": "faire la bise.\nune habitude / une coutume.\nun stéréotype.\nnuancer.\nselon les régions.\nle repas principal.\nla ponctualité.\navoir tendance à."
   },
@@ -46,10 +46,10 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
-    "source_body_sha256": "6b440673d20d33d7151fb1da4979e0c60c6c1e9c66bc9d22bdf45e1e895eea3e",
+    "source_body_sha256": "dbdb40924df4ab09eba7c8c3ead166f1c98ae13b37ebeb2b0f48e53121b6a2c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
-      "C. Texte source pour la médiation (allemand, original)"
+      "C. Conseils d’une famille d’accueil fictive (allemand)"
     ],
     "tts": "Une semaine à Lyon Quand je suis arrivée à Lyon, tout allait un peu différemment. En entrant dans la boulangerie, ma famille d'accueil disait toujours  Bonjour, Madame !  — même à une inconnue. Le soir, on passait presque deux heures à table, et tout le monde parlait en même temps, avec passion. Au début, je croyais qu'ils se disputaient. En fait, non : discuter fort, ici, c'est une manière d'être ensemble. Après quelques jours, j'ai appris à dire bonjour partout et à prendre mon temps le soir."
   }

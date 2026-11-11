@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
-    "source_body_sha256": "3c2b77a105fbf6ce6d79913269fd1688c348939ecb396dd9b952147491f3b76a",
+    "source_body_sha256": "67c2376bbd251861314b8162cb8c54f1cb761578a02ae0c793c79f865d6f8e61",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
-    "source_body_sha256": "3c2b77a105fbf6ce6d79913269fd1688c348939ecb396dd9b952147491f3b76a",
+    "source_body_sha256": "67c2376bbd251861314b8162cb8c54f1cb761578a02ae0c793c79f865d6f8e61",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Salut Sarah ! Lundi, je commence mon stage à la boulangerie. J'ai un peu peur… mais je suis curieuse. Sarah : Super ! Tu vas faire quoi exactement ? Léa : Je vais observer le boulanger, peser la farine et aider à ranger la boutique. Je dois écrire un rapport de stage après. Sarah : Génial ! Et tu dois te lever tôt ? Léa : Oui… à 4 h du matin ! Mais je veux voir comment on fait le pain. C'est mon rêve."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
-    "source_body_sha256": "3c2b77a105fbf6ce6d79913269fd1688c348939ecb396dd9b952147491f3b76a",
+    "source_body_sha256": "67c2376bbd251861314b8162cb8c54f1cb761578a02ae0c793c79f865d6f8e61",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un stage / une stagiaire.\nfaire un stage.\nune entreprise.\nle tuteur / la tutrice.\nles horaires (m.).\nune tâche.\nun rapport de stage.\nun métier.\nun secteur d'activité.\nobserver.\naider.\napprendre."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
-    "source_body_sha256": "3c2b77a105fbf6ce6d79913269fd1688c348939ecb396dd9b952147491f3b76a",
+    "source_body_sha256": "67c2376bbd251861314b8162cb8c54f1cb761578a02ae0c793c79f865d6f8e61",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mardi 14 mars — Boulangerie  Chez Hugo Ce matin, je suis arrivée à 5 h. Hugo, mon tuteur, m'a accueillie avec un café. D'abord, j'ai pesé la farine. Ensuite, j'ai aidé à pétrir la pâte — ce n'est pas facile ! Vers 7 h, le pain était cuit. À 8 h, les premiers clients sont arrivés et j'ai vendu trois baguettes. J'ai appris trois choses importantes : la patience, la précision et l'importance d'aimer son métier. Le soir, j'étais fatiguée, mais très contente. Hugo m'a dit :  Le pain, c'est comme la vie : il faut du temps."

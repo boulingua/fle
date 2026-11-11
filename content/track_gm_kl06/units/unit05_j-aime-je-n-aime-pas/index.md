@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 5
 slug: "j-aime-je-n-aime-pas"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.3.8 Moyens linguistiques — grammaire"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.5 Expression écrite"
+- "3.1.3.8 Moyens linguistiques — grammaire"
 skills_focus:
 - speaking_interaction
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_j-aime-je-n-aime-pas.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_j-aime-je-n-aime-pas.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas.html"
+- "/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.information-exchange.02
-    - A1.PROD.creative-writing.01
-    - A1.INT.conversation.01
-    - A1.PROD.overall-oral-production.01
-    - A1.LING.orthographic-control.01
+  - A1.INT.information-exchange.02
+  - A1.PROD.creative-writing.01
+  - A1.INT.conversation.01
+  - A1.PROD.overall-oral-production.01
+  - A1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_j-aime-je-n-aime-pas-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit05_j-aime-je-n-aime-pas-teacher.png
 audio_manifest: unit05_j-aime-je-n-aime-pas
 ---
 
@@ -72,15 +104,13 @@ Dans la cour du collège, Nora et Malik regardent le menu de la cantine.
 - Quel plat les deux aiment-ils ?
 - Et vous : pâtes ou poisson à la cantine ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **trois choses** que vous aimez (un aliment, un sport, une matière).
 - Citez **trois choses** que vous n'aimez pas.
 - Comment dit-on « ich mag nicht » en français ? Connaissez-vous déjà la structure *ne … pas* ?
 - Rangez ces mots du plus positif au plus négatif : *je déteste · j'aime · j'adore · je n'aime pas*.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — l'échelle des goûts
 
 | Force | Verbe | Exemple |
@@ -125,8 +155,7 @@ En France, le 2 février, beaucoup de familles fêtent la **Chandeleur** en pré
 
 Plus largement, le **« repas gastronomique des Français »** — un moment de convivialité autour d'une entrée, d'un plat, d'un fromage et d'un dessert — est inscrit depuis 2010 au patrimoine culturel immatériel de l'UNESCO. *(Voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — La négation.** Mettez les phrases à la forme négative.
 
 1. J'aime le sport.
@@ -162,6 +191,7 @@ Plus largement, le **« repas gastronomique des Français »** — un moment de 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Je n'aime pas le sport. 2) Tu ne manges pas de bonbons. 3) Elle ne joue pas au foot. 4) Nous n'écoutons pas la radio.
 
 **Ex. 2.** 1) ✗✗ · 2) ★★ · 3) ★★★★.
@@ -169,9 +199,9 @@ Plus largement, le **« repas gastronomique des Français »** — un moment de 
 **Ex. 3.** 1) n' / pas · 2) n' / pas · 3) n' / pas.
 
 **Ex. 4.** 1) aimons · 2) jouez · 3) détestent · 4) adore.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, en binôme, 2 minutes).**
 
 Interviewez votre voisin ou voisine. Posez **cinq questions** sur ses goûts :
@@ -192,34 +222,18 @@ Notez les réponses dans un tableau (aime / n'aime pas). Ensuite, faites un **mi
 | Je conjugue le verbe à la bonne personne (il / elle) | ☐ |
 | Je parle de façon compréhensible et audible | ☐ |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] J'utilise *j'adore / j'aime / je n'aime pas / je déteste*.
 - [ ] Je construis la négation *ne … pas* sans erreur.
 - [ ] Je conjugue les verbes en *-er* au présent.
 - [ ] Je peux interviewer un ou une camarade sur ses goûts.
 - [ ] Je peux écrire un court texte sur mes préférences.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé — « Klassenarbeit » (Niveau M)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit05_j-aime-je-n-aime-pas_exam" >}}).
 
-**Tâche 1 — Grammaire : la négation (12 points).**
-Mettez ces six phrases à la forme négative.
-1. J'aime les épinards. 2. Tu joues au foot. 3. Elle mange de la pizza. 4. Nous regardons la télé. 5. Vous écoutez la radio. 6. On adore le lundi.
-
-**Tâche 2 — Compréhension écrite (8 points).**
-Relisez le blog de Camille (partie B). Faites deux listes : ce que Camille **aime** et ce qu'elle **n'aime pas**.
-
-**Tâche 3 — Expression écrite / « Schreiben » (10 points).**
-Écrivez **cinq à six phrases** sur vos goûts : deux choses que vous adorez, deux que vous détestez, une que vous aimez bien. Utilisez au moins une négation correcte et deux verbes en *-er* différents.
-
-**Barème : 30 points.**
-- Tâche 1 : 2 points par phrase correcte (négation bien placée).
-- Tâche 2 : 1 point par élément correctement classé (4 + 4).
-- Tâche 3 : contenu 4 pts · négation 2 pts · conjugaison *-er* 2 pts · orthographe 2 pts.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min) :** Activer 4' · Apporter 12' · S'entraîner 12' · Produire (binômes + restitution) 13' · Réfléchir 2' · Aperçu de la séance suivante 2'.
 

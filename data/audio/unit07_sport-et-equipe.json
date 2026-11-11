@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
-    "source_body_sha256": "a701ba55367415700fb5604b5e4003a07f6a4c0ef4b6dd4b6a26415b0c811bfe",
+    "source_body_sha256": "652ce244f53b2cb14950902e8b494d924c47087b7f78047f83f6d59ae68fd166",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Alors, on monte une équipe pour le tournoi de handball de mercredi ? Karim : Bonne idée ! Moi, j'adore le hand, c'est rapide et on joue ensemble. Nour : Je ne sais pas… Je préfère la natation, c'est plus calme. Léa : Mais dans une équipe, on progresse ensemble ! À mon avis, c'est ça le plus important. Karim : D'accord avec toi. Nour, tu veux bien essayer avec nous ? Nour : Bon, d'accord. Mais je débute, hein !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
-    "source_body_sha256": "a701ba55367415700fb5604b5e4003a07f6a4c0ef4b6dd4b6a26415b0c811bfe",
+    "source_body_sha256": "652ce244f53b2cb14950902e8b494d924c47087b7f78047f83f6d59ae68fd166",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "une équipe (mixte).\nun match.\nun·e arbitre.\nun·e adversaire.\nl'esprit d'équipe.\nun·e capitaine.\ns'entraîner.\nencourager.\nà mon avis / je trouve que."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
-    "source_body_sha256": "a701ba55367415700fb5604b5e4003a07f6a4c0ef4b6dd4b6a26415b0c811bfe",
+    "source_body_sha256": "652ce244f53b2cb14950902e8b494d924c47087b7f78047f83f6d59ae68fd166",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Tournoi inter-collèges — Mercredi 18 mars, gymnase municipal Article 1. Chaque équipe compte 6 joueur·euse·s. Les équipes sont mixtes : au moins 2 filles et 2 garçons. Article 2. Un match dure 2 fois 12 minutes, avec une pause de 3 minutes. Article 3. Chaque équipe joue au moins 3 matchs, quel que soit le résultat. Article 4. Le respect de l'arbitre et de l'adversaire est obligatoire. Une insulte entraîne 2 minutes d'exclusion ; trois insultes, l'exclusion définitive. Article 5. L'inscription se fait avant le 10 mars auprès du professeur d'EPS. Article 6. Le ou la capitaine communique avec les organisateurs et encourage son équipe."

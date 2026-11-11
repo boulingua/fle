@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
-    "source_body_sha256": "1cea1685b0a80025e0f475938a008191a41b2d0a972ca8a0171b1de69aea8abe",
+    "source_body_sha256": "d3ebc977d387277a0922e9f85afe2bf1abd75dbf41c2f7efab8747f1b854a77a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
-    "source_body_sha256": "1cea1685b0a80025e0f475938a008191a41b2d0a972ca8a0171b1de69aea8abe",
+    "source_body_sha256": "d3ebc977d387277a0922e9f85afe2bf1abd75dbf41c2f7efab8747f1b854a77a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
-    "source_body_sha256": "1cea1685b0a80025e0f475938a008191a41b2d0a972ca8a0171b1de69aea8abe",
+    "source_body_sha256": "d3ebc977d387277a0922e9f85afe2bf1abd75dbf41c2f7efab8747f1b854a77a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la consigne.\nla compréhension écrite.\nl'analyse (f.).\nle commentaire.\nla médiation.\nle brouillon.\nsouligner / surligner.\nrelire (se relire).\nl'enchaînement (m.).\nla mise en page."
@@ -56,7 +56,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
-    "source_body_sha256": "1cea1685b0a80025e0f475938a008191a41b2d0a972ca8a0171b1de69aea8abe",
+    "source_body_sha256": "d3ebc977d387277a0922e9f85afe2bf1abd75dbf41c2f7efab8747f1b854a77a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Trois heures, trois réflexes. À l'écrit, le temps est votre matière première. Un réflexe pour chaque partie. Réflexe n° 1 — lire la plume à la main. On ne lit jamais un texte d'examen sans crayon. On souligne les dates, les noms, la thèse et les mots de la consigne. Cinq minutes de lecture active valent une heure de lecture passive. Réflexe n° 2 — planifier avant de rédiger. Deux minutes de plan économisent vingt minutes de panne. Trois idées, un exemple par idée, une ouverture : le squelette du texte tient sur une ligne. Réflexe n° 3 — garder dix minutes pour se relire. On traque d'abord les accords (sujet-verbe, participe passé), ensuite les temps, enfin la ponctuation. La dernière ligne se corrige aussi soigneusement que la première."

@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 12
 slug: "preparation-mittlere-reife"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_preparation-mittlere-reife.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_preparation-mittlere-reife.png"
 tags:
-  - filiere-gm
-  - classe-9
-  - niveau-m
+- filiere-gm
+- classe-9
+- niveau-m
 aliases:
-  - "/track_gm_kl09/units/unit12_preparation-mittlere-reife.html"
+- "/track_gm_kl09/units/unit12_preparation-mittlere-reife.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.reading-for-information-and-argument.03
-    - A2.PROD.overall-oral-production.01
-    - A2.INT.correspondence.01
+  - A2.PROD.creative-writing.04
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.reading-for-information-and-argument.03
+  - A2.PROD.overall-oral-production.01
+  - A2.INT.correspondence.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl09/units/unit12_preparation-mittlere-reife_exam
+  format: existing-assessment
+  duration_minutes: 15
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_preparation-mittlere-reife-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit12_preparation-mittlere-reife-teacher.png
 audio_manifest: unit12_preparation-mittlere-reife
 ---
 
@@ -71,8 +104,7 @@ Mai, salle 214. Mme Renault projette le calendrier au tableau.
 - Qu'est-ce que Mme Renault conseille de faire avant d'écrire ?
 - Faut-il comprendre chaque mot d'un texte d'examen ? Justifie.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Réfléchis seul·e, puis échange avec ta ou ton voisin·e.
 
 - Quelle compétence est ton point fort : lire, écrire, écouter, parler, médier ?
@@ -80,8 +112,7 @@ Réfléchis seul·e, puis échange avec ta ou ton voisin·e.
 - Qu'est-ce qui te stresse le plus avant un examen ? Comment gères-tu ce stress ?
 - Cite **une stratégie** que tu utilises déjà pour lire un texte long.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire — le vocabulaire de l'examen
 
 | Français | Allemand | Exemple |
@@ -119,7 +150,7 @@ Un bon texte se lit comme un chemin balisé. Les connecteurs guident le lecteur 
 
 Chers futurs neuvièmes,
 
-Cette année, j'ai beaucoup progressé en français. **D'abord**, j'ai fait un stage d'une semaine chez un boulanger : j'ai appris à parler avec les clients. **Ensuite**, j'ai écrit ma première lettre de motivation, ce qui m'a semblé difficile au début. **De plus**, j'ai correspondu avec Mehdi, un élève de Tunis, et j'ai découvert une autre culture francophone.
+Cette année, j'ai beaucoup progressé en français. **D'abord**, j'ai fait un stage d'une semaine chez un boulanger : j'ai appris à parler avec les clients. **Ensuite**, j'ai écrit ma première lettre de motivation, ce qui m'a semblé difficile au début. **De plus**, j'ai correspondu avec Mehdi, un élève de Sfax, et j'ai découvert une autre culture francophone.
 
 **Cependant**, tout n'a pas été facile. La grammaire des temps du passé m'a posé problème, et j'ai souvent manqué de temps pendant les devoirs. **C'est pourquoi** j'ai appris à faire un plan avant d'écrire.
 
@@ -133,8 +164,7 @@ En Allemagne, le diplôme intermédiaire (souvent appelé *Mittlere Reife* ou *M
 
 *(Paraphrasé d'après les articles « Mittlere Reife » et « Mittlerer Schulabschluss » de Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension écrite (texte de Léa).**
 Réponds par une phrase complète.
 
@@ -174,10 +204,11 @@ Rédige **ton bilan de 9ᵉ** en suivant ce plan :
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Le stage a duré une semaine.
 2. Elle l'a fait chez un boulanger.
-3. Elle a correspondu avec Mehdi, qui vient de Tunis (Tunisie).
+3. Elle a correspondu avec Mehdi, qui vient de Sfax (Tunisie).
 4. Deux difficultés parmi : la grammaire des temps du passé, le manque de temps, la lettre de motivation difficile au début.
 5. L'an prochain, en 10ᵉ, elle passera l'examen intermédiaire.
 
@@ -185,12 +216,12 @@ Rédige **ton bilan de 9ᵉ** en suivant ce plan :
 1. D'abord — 2. cependant — 3. c'est pourquoi — 4. De plus — 5. Pour conclure.
 
 **Exercice 3.**
-(a) stage / boulanger / clients / lettre de motivation ; (b) la Tunisie (Tunis) ; (c) les temps du passé.
+(a) stage / boulanger / clients / lettre de motivation ; (b) la Tunisie (Sfax) ; (c) les temps du passé.
 
 **Exercice 4.** Réponses libres. Vérifie : un connecteur au début de chaque paragraphe, au moins une réussite et une difficulté, un projet pour la 10ᵉ, environ 150 mots.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'expression écrite (M, ~35 min) — écrire pour transmettre**
 
 Tu écris un court message (~150 mots) à un·e élève qui entrera en 9ᵉ l'an prochain. Donne-lui **trois conseils** pour bien préparer le diplôme intermédiaire (organisation, lecture, écriture). Utilise au moins **quatre connecteurs** différents.
@@ -207,38 +238,18 @@ Tu écris un court message (~150 mots) à un·e élève qui entrera en 9ᵉ l'an
 | Relecture | peu de fautes, texte lisible | 3 |
 | **Total** | | **20** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais survoler un texte avant de le lire en détail.
 - [ ] Je fais un plan avant d'écrire.
 - [ ] J'utilise des connecteurs pour structurer mon texte.
 - [ ] Je relis mon texte pour corriger mes fautes.
 - [ ] Je connais mes points forts et mes points faibles pour l'examen.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl09/units/unit12_preparation-mittlere-reife_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 points).**
-Lis le texte de Léa (section 2) et réponds aux cinq questions de l'exercice 1 par des phrases complètes.
-
-**Tâche 2 — Langue : connecteurs (6 points).**
-Complète les cinq phrases de l'exercice 2 avec le bon connecteur (1 point chacune, +1 pour l'orthographe soignée de l'ensemble).
-
-**Tâche 3 — Expression écrite (14 points).**
-Rédige ton bilan de 9ᵉ (~150 mots) selon le plan de l'exercice 4.
-Barème : contenu (5) · structure et connecteurs (5) · langue (4).
-
-**Total : 30 points.**
-
-| Note | Points |
-|---|---|
-| très bien | 27–30 |
-| bien | 22–26 |
-| satisfaisant | 17–21 |
-| passable | 12–16 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min)**
 

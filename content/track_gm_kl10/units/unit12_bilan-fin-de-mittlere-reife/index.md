@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 12
 slug: "bilan-fin-de-mittlere-reife"
 bildungsplan:
-  - "3.1.3.4 Expression orale — monologisches Expression orale"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Expression orale"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit12_bilan-fin-de-mittlere-reife.pdf"
   thumbnail: "/fle/materials/worksheets/unit12_bilan-fin-de-mittlere-reife.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife.html"
+- "/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.planning.01
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.INT.formal-discussion.01
-    - B1.MED.facilitating-pluricultural-space.01
-    - B1.MED.note-taking.02
+  - B1.PROD.planning.01
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.INT.formal-discussion.01
+  - B1.MED.facilitating-pluricultural-space.01
+  - B1.MED.note-taking.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit12_bilan-fin-de-mittlere-reife-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit12_bilan-fin-de-mittlere-reife-teacher.png
 audio_manifest: unit12_bilan-fin-de-mittlere-reife
 ---
 
@@ -73,15 +106,13 @@ Devant la salle d'examen, deux élèves patientent.
 2. Quelle stratégie Fatou propose-t-elle pour l'oral ? Et pour l'écrit ?
 3. Êtes-vous plutôt « Yanis » ou plutôt « Fatou » avant un examen ? Expliquez en une phrase.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelles sont les cinq compétences travaillées en langue (écouter, lire, parler en continu, prendre part à une conversation, écrire) ?
 - Laquelle avez-vous le plus développée depuis la classe 6 ? Laquelle reste fragile ?
 - Citez trois stratégies qui vous aident vraiment avant ou pendant un examen.
 - En un mot : que représente le français pour vous aujourd'hui ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — faire son bilan et réviser
 
 | Français | Exemple d'emploi | Deutsch |
@@ -126,8 +157,7 @@ Le **Cadre européen commun de référence pour les langues** (CECRL) a été é
 
 Le **DELF** (Diplôme d'études en langue française) est un diplôme officiel délivré pour le compte du ministère français de l'Éducation nationale. La version B1 évalue les quatre activités langagières — compréhension de l'oral, compréhension des écrits, production écrite et production orale — chacune notée sur 25 points, pour un total de 100 ; le diplôme est obtenu à partir de 50 points sur 100, avec une note minimale par épreuve. *(Faits paraphrasés d'après Wikipédia, CC-BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte B).** Répondez par une phrase complète.
 
 1. Combien de parties comporte le plan proposé pour l'oral ?
@@ -164,6 +194,7 @@ d) Autrefois, l'oral me *(faire)* ______ peur, mais j'*(progresser)* ______ .
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) Trois parties (d'où je pars, où j'en suis, où je veux aller). 2) Il le contourne : il dit la même chose autrement. 3) La clarté (et non la perfection).
 
 **Exercice 2.** a) ne comprenais pas ; b) lis ; c) passerai (ou : vais passer) ; d) faisait — ai progressé.
@@ -171,9 +202,9 @@ d) Autrefois, l'oral me *(faire)* ______ peur, mais j'*(progresser)* ______ .
 **Exercice 3.** D'abord — Ensuite — En revanche — Pour conclure.
 
 **Exercice 4.** 1-c ; 2-a ; 3-d ; 4-b.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (monologue suivi, niveau M, ~3 minutes)**
 
 Présentez le **bilan de votre parcours de français** en un monologue structuré. Suivez le plan en trois parties : *d'où je pars* (souvenirs des débuts), *où j'en suis* (points forts et points faibles aujourd'hui), *où je veux aller* (projets pour la 11ᵉ). Employez au moins **quatre connecteurs** et **deux exemples concrets** (un livre, un projet, un échange…).
@@ -188,27 +219,18 @@ Présentez le **bilan de votre parcours de français** en un monologue structur�
 | Langue | temps du bilan corrects, vocabulaire de l'unité |
 | Fluidité | débit régulier, stratégies de contournement en cas de blocage |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais nommer mes points forts et mes points faibles en français.
 - [ ] Je sais construire un monologue de bilan en trois parties.
 - [ ] Je sais employer les temps du passé, du présent et du futur dans un bilan.
 - [ ] Je connais au moins trois stratégies d'examen (plan, gestion du temps, relecture).
 - [ ] Je sais fixer un objectif concret pour la classe 11.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir de fin de 10ᵉ (Niveau M)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam" >}}).
 
-**Partie A — Expression orale (monologue suivi, 12 P.)**
-Présentez oralement, pendant environ 3 minutes, le bilan de votre parcours de français (plan en trois parties, connecteurs, exemples). *Barème :* structure 3 P. · contenu 3 P. · langue 3 P. · fluidité et stratégies 3 P.
-
-**Partie B — Expression écrite (18 P.)**
-Rédigez une **lettre de bilan** (~250 mots) adressée à votre professeur·e de français. Plan attendu : introduction · trois souvenirs marquants · deux points forts et un point faible · un projet pour la 11ᵉ · formule finale. Employez au moins **cinq connecteurs** et les **trois temps du bilan**. *Barème :* respect de la consigne et longueur 4 P. · structure et connecteurs 4 P. · richesse du contenu 4 P. · correction grammaticale 4 P. · orthographe 2 P.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min) :** Situation de départ + Activer 6' · Apporter 12' · S'entraîner 12' · Produire 12' · Réfléchir 3'.
 

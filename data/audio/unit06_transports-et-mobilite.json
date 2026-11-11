@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
-    "source_body_sha256": "4684ac4d6d07fbd2f20f8d5fac5ee72e5f94298fe2dcfaf1451e7871eb95d54a",
+    "source_body_sha256": "cd12a6d53395bcd11bcaff3dc791546abb86e42365fd350d310a24c483225196",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa — Samedi, je vais chez ma cousine à Lyon. Je prends le TGV à Strasbourg. Karim — Le train ? Moi, mes parents voulaient y aller en voiture. Léa — Non, le train est plus rapide et plus écologique. En deux heures, je suis à Lyon ! Karim — Et pour aller de la gare au centre-ville ? Léa — Là-bas, je prends le métro ou je marche. C'est facile."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
-    "source_body_sha256": "4684ac4d6d07fbd2f20f8d5fac5ee72e5f94298fe2dcfaf1451e7871eb95d54a",
+    "source_body_sha256": "cd12a6d53395bcd11bcaff3dc791546abb86e42365fd350d310a24c483225196",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "train / TGV.\nvoiture.\nbus.\ntramway.\nmétro.\nvélo.\navion.\ngare.\nquai.\nvoie.\nbillet.\ntrajet / voyage.\nhoraire.\ncorrespondance."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
-    "source_body_sha256": "4684ac4d6d07fbd2f20f8d5fac5ee72e5f94298fe2dcfaf1451e7871eb95d54a",
+    "source_body_sha256": "cd12a6d53395bcd11bcaff3dc791546abb86e42365fd350d310a24c483225196",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
-    "source_body_sha256": "4684ac4d6d07fbd2f20f8d5fac5ee72e5f94298fe2dcfaf1451e7871eb95d54a",
+    "source_body_sha256": "cd12a6d53395bcd11bcaff3dc791546abb86e42365fd350d310a24c483225196",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

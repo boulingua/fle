@@ -65,16 +65,12 @@ Vorgang auf:
 
 ### Empfänger und Übermittlung in Drittländer
 
-Hosting der Website-Auslieferung erfolgt durch GitHub, Inc.
-(siehe Abschnitt 3 *Server-Log-Dateien*); damit ist eine
-Verarbeitung personenbezogener Daten in den USA möglich.
-Schriftarten werden über Google Fonts (siehe Abschnitt 5)
-ausgeliefert; auch hier ist eine Übermittlung in die USA möglich.
-Beide Übermittlungen erfolgen auf Grundlage des EU-US Data
-Privacy Framework bzw. der Standardvertragsklauseln.
-
-Eine darüber hinausgehende Übermittlung in Drittländer findet
-**nicht** statt. Die Reichweitenmessung mit Plausible Analytics erfolgt auf einer selbst gehosteten Instanz auf einem Server in Deutschland; siehe Abschnitt 4.
+Die Website wird über GitHub Pages ausgeliefert. Beim Abruf verarbeitet
+GitHub technische Verbindungsdaten; dabei ist eine Verarbeitung in den USA
+möglich. Einzelheiten stehen in der verlinkten Datenschutzerklärung von GitHub.
+Die Schriftdateien werden von dieser Website selbst ausgeliefert.
+Der aktuelle Einsatz von Plausible Analytics ist im Abschnitt zur
+Reichweitenmessung beschrieben; Angaben zu weiteren Diensten stehen gesondert.
 
 ### Widerruf Ihrer Einwilligung zur Datenverarbeitung
 

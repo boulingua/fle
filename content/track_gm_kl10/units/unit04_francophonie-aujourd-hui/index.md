@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 4
 slug: "francophonie-aujourd-hui"
 bildungsplan:
-  - "3.1.4 Compétence textuelle et médiatique"
-  - "3.1.3.4 Expression orale — production orale en continu"
+- "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.4 Expression orale — production orale en continu"
 skills_focus:
 - speaking_production
 presentation:
@@ -19,22 +19,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_francophonie-aujourd-hui.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit04_francophonie-aujourd-hui.html"
+- "/track_gm_kl10/units/unit04_francophonie-aujourd-hui.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.PROD.compensating.03
-    - B1.INT.formal-discussion.01
-    - B1.INT.overall-written-interaction.02
-    - B1.MED.adapting-language.02
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.PROD.compensating.03
+  - B1.INT.formal-discussion.01
+  - B1.INT.overall-written-interaction.02
+  - B1.MED.adapting-language.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_francophonie-aujourd-hui-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit04_francophonie-aujourd-hui-teacher.png
 audio_manifest: unit04_francophonie-aujourd-hui
 ---
 
@@ -74,16 +107,14 @@ audio_manifest: unit04_francophonie-aujourd-hui
 2. Pourquoi, à votre avis, le français est-il parlé sur autant de continents ?
 3. Qu'est-ce qui surprend Léa à la fin du dialogue ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En classe entière, sans dictionnaire ni carte :
 
 - Combien de pays francophones pouvez-vous nommer en une minute ?
 - Sur la carte de la salle, montrez **cinq régions** différentes du monde où le français est parlé.
 - À votre avis : le français est-il plutôt une langue qui recule ou une langue qui progresse dans le monde ? Justifiez.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Deutsch |
@@ -149,8 +180,7 @@ l'actuelle **Organisation internationale de la Francophonie (OIF)**.
 - **TV5MONDE** — chaîne de télévision internationale de langue française, diffusée sur plusieurs continents.
 - **AUF** — Agence universitaire de la Francophonie : réseau qui relie de très nombreuses universités francophones dans le monde.
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).** Répondez par une phrase complète.
 
 1. Sur combien de continents le français est-il présent ?
@@ -181,6 +211,7 @@ a) On parle français ___ Belgique. · b) Karim a de la famille ___ Tunis. · c)
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Le français est présent sur les cinq continents.
 2. Il y est souvent une langue officielle ou une langue d'enseignement.
@@ -192,9 +223,9 @@ a) On parle français ___ Belgique. · b) Karim a de la famille ___ Tunis. · c)
 **Ex. 3.** 1 → B · 2 → D · 3 → A · 4 → C.
 
 **Ex. 4.** a) en · b) à · c) au · d) aux · e) au · f) en.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, ~3 min) — Présenter un pays francophone.**
 
 Choisissez **un pays francophone** (autre que la France) et présentez-le à la classe. Structurez votre exposé :
@@ -215,39 +246,18 @@ Choisissez **un pays francophone** (autre que la France) et présentez-le à la 
 | Durée / prise de parole | ~3 min, regard vers la classe | 1 |
 | **Total** | | **12** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais situer cinq régions francophones sur une carte.
 - [ ] Je connais l'OIF, TV5MONDE et l'AUF, et je sais à quoi elles servent.
 - [ ] Je comprends un texte informatif simple sur le français dans le monde.
 - [ ] J'utilise correctement *au / en / aux / à* devant les pays et les villes.
 - [ ] Je peux présenter un pays francophone pendant trois minutes.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — devoir surveillé (« Klassenarbeit »), Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam" >}}).
 
-**Tâche 1 — Compréhension de l'écrit (10 P.)**
-Un court texte informatif sur le français dans le monde (proche du texte C), suivi de 5 questions de compréhension à réponse rédigée.
-
-**Tâche 2 — Vocabulaire et géographie (8 P.)**
-6 pays à classer par région (3 P.) + 5 termes de l'unité à relier à leur définition (5 P.).
-
-**Tâche 3 — Expression orale en continu (12 P.)**
-Présentation orale d'un pays francophone (~3 min), évaluée avec la grille de la partie 4 (contenu, structure, langue, prononciation, prise de parole).
-
-**Total : 30 P.**
-
-| Note | Points |
-|:----:|:------:|
-| sehr gut | 30–27 |
-| gut | 26–23 |
-| befriedigend | 22–18 |
-| ausreichend | 17–14 |
-| mangelhaft | 13–7 |
-| ungenügend | 6–0 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :** Activer 5' · Apporter 14' · S'entraîner 12' · Produire 10' · Réfléchir 2' · Aperçu / consignes 2'.
 

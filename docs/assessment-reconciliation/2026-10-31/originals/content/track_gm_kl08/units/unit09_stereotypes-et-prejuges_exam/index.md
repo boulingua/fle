@@ -1,0 +1,90 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau M) — Unité 9"
+subtitle: "Stéréotypes et préjugés · classe 8 · Niveau M"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 9
+slug: "stereotypes-et-prejuges-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.asking-for-clarification.02
+    - A2.INT.conversation.10
+    - A2.LING.general-linguistic-range.02
+    - A2.LING.phonological-control.04
+    - A2.MED.analysis-and-criticism-of-creative-texts.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 8
+
+### Tâche 1 — Lecture + définitions (10 points)
+
+Pour chaque énoncé, indiquez **S** (stéréotype), **P** (préjugé)
+ou **D** (discrimination), et **justifiez en 1 phrase**.
+
+1. *« Les Espagnols mangent tard le soir. »*
+2. *« Je ne veux pas travailler avec elle parce qu'elle est
+ Roumaine. »*
+3. *« Une boulangerie refuse de servir une cliente voilée. »*
+4. *« Les Belges aiment les frites. »*
+5. *« Les Asiatiques sont meilleurs en maths. »*
+
+### Tâche 2 — Expression orale (« Sprechen ») mündlich (12 points)
+
+Mini-dialogue de 3 minutes en binôme. A énonce un stéréotype, B
+relativise avec au moins 3 expressions du cours. Échangez les
+rôles.
+
+Critères : Erfüllung 4 P. · Langue 4 P. · Aussprache 4 P.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (8 points)
+
+Écrivez **5 phrases** sur :
+
+> *« Un stéréotype dont j'ai été victime ou témoin. »*
+
+Inclure : le stéréotype · qui le portait · effet sur la personne
+visée · une réaction respectueuse · ce que vous en retenez.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Catégoriser | 10 |
+| Tâche 2 — Expression orale mündlich | 12 |
+| Tâche 3 — Expression écrite | 8 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1 = S (généralisation neutre). 2 = P (refus avant
+connaissance). 3 = D (acte concret). 4 = S. 5 = S, mais à
+mi-chemin du préjugé selon le contexte.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 9*

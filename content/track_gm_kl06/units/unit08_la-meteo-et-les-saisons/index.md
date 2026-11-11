@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 8
 slug: "la-meteo-et-les-saisons"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.7 Moyens linguistiques — lexique"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - listening
 presentation:
@@ -19,22 +19,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_la-meteo-et-les-saisons.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_la-meteo-et-les-saisons.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit08_la-meteo-et-les-saisons.html"
+- "/track_gm_kl06/units/unit08_la-meteo-et-les-saisons.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.INT.correspondence.03
-    - A1.INT.notes-messages-and-forms.01
-    - A1.LING.orthographic-control.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.INT.correspondence.03
+  - A1.INT.notes-messages-and-forms.01
+  - A1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_la-meteo-et-les-saisons-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit08_la-meteo-et-les-saisons-teacher.png
 audio_manifest: unit08_la-meteo-et-les-saisons
 ---
 
@@ -66,15 +99,13 @@ Madame Renault allume la radio dans la cuisine. Une voix annonce le bulletin du 
 - Où va-t-il pleuvoir ce soir ?
 - Pourquoi Léa doit-elle prendre son parapluie ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel temps fait-il **aujourd'hui**, ici, à l'école ?
 - Quelle est **votre saison préférée** ? Pourquoi ?
 - Citez **trois mots** français que vous connaissez déjà pour parler de la météo.
 - Regardez par la fenêtre : y a-t-il du soleil, des nuages, de la pluie ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand |
@@ -116,8 +147,7 @@ Par ailleurs, on distingue les **saisons météorologiques**, qui commencent le 
 
 *(D'après « Climat de la France » et « Saison », Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Quelle saison ?** Lisez et écrivez la saison.
 
 1. *Il fait très chaud, trente degrés, on va à la plage.*
@@ -154,6 +184,7 @@ Par ailleurs, on distingue les **saisons météorologiques**, qui commencent le 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) l'été · 2) l'automne · 3) l'hiver · 4) le printemps.
 
 **Ex. 2.** 1) Marseille (mais Paris a aussi du soleil ; Marseille est la plus chaude). 2) Strasbourg. 3) Lille. 4) vingt-huit degrés.
@@ -161,9 +192,9 @@ Par ailleurs, on distingue les **saisons météorologiques**, qui commencent le 
 **Ex. 3.** 1) il fait · 2) il y a · 3) il pleut · 4) il fait.
 
 **Ex. 4.** a–3 (le printemps → avril) · b–1 (l'été → juillet) · c–2 (l'automne → octobre) · d–4 (l'hiver → janvier).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, environ 1 minute).**
 
 Vous êtes présentateur ou présentatrice météo à la télévision. Présentez le temps qu'il fera demain dans **trois villes** (allemandes ou françaises, à votre choix). Pour chaque ville, donnez **le temps** et **la température**.
@@ -176,30 +207,18 @@ Vous êtes présentateur ou présentatrice météo à la télévision. Présente
 - Emploi correct de *il fait / il y a / il pleut·il neige* (langue).
 - Prononciation compréhensible et débit continu (aisance).
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer les 4 saisons et les mois qui vont avec.
 - [ ] Je connais au moins 6 expressions pour décrire la météo.
 - [ ] Je choisis correctement entre *il fait*, *il y a* et *il pleut / il neige*.
 - [ ] Je comprends un court bulletin météo lu à voix haute.
 - [ ] Je peux présenter la météo de trois villes à l'oral.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit »), Niveau M — axe : compréhension orale.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit08_la-meteo-et-les-saisons_exam" >}}).
 
-**Tâche 1 — Hörverstehen / Compréhension orale (12 P.)**
-L'enseignant·e lit le bulletin (texte B) deux fois. Les élèves répondent à 6 questions (vrai / faux et questions ouvertes) sur les villes, le temps et les températures.
-
-**Tâche 2 — Saisons et lexique (8 P.)**
-Associer 4 descriptions à 4 saisons, puis compléter 4 phrases avec *il fait / il y a / il pleut*.
-
-**Tâche 3 — Schreiben / Expression écrite (10 P.)**
-Écrire un mini-bulletin météo pour 3 villes (environ 30 mots).
-
-**Total : 30 P.** Barème indicatif : 27–30 = très bien · 22–26 = bien · 16–21 = satisfaisant · 10–15 = passable · < 10 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :** Activer 4' · Apporter 13' (vocabulaire + point de langue 7', texte B + note culturelle 6') · S'entraîner 12' · Produire 10' · Réfléchir 3' · aperçu de la séance suivante 3'.
 

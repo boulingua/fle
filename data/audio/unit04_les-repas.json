@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit04_les-repas/index.md",
-    "source_body_sha256": "35789259643c860df1eecc0e1525e15b6db9713f9b194f534d91841984a810e9",
+    "source_body_sha256": "64c7290dfc7129afa68e8bb0c62e77736b1fbf2fa582a67478ed1898a116c21e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Alors, tu as choisi ? Ici, ils font de très bonnes crêpes. Jonas : Je crois, oui… mais je ne comprends pas tout. C'est quoi, un  croque-monsieur  ? Léa : C'est du pain grillé avec du jambon et du fromage. C'est très bon ! Jonas : D'accord, alors je voudrais un croque-monsieur et de l'eau, s'il te plaît. Léa : Et moi, une crêpe au chocolat et un jus d'orange."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit04_les-repas/index.md",
-    "source_body_sha256": "35789259643c860df1eecc0e1525e15b6db9713f9b194f534d91841984a810e9",
+    "source_body_sha256": "64c7290dfc7129afa68e8bb0c62e77736b1fbf2fa582a67478ed1898a116c21e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le petit déjeuner.\nle déjeuner.\nle goûter.\nle dîner."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit04_les-repas/index.md",
-    "source_body_sha256": "35789259643c860df1eecc0e1525e15b6db9713f9b194f534d91841984a810e9",
+    "source_body_sha256": "64c7290dfc7129afa68e8bb0c62e77736b1fbf2fa582a67478ed1898a116c21e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le pain.\nle fromage.\nle beurre.\nla confiture.\nle jambon.\nl'œuf (m.).\nla salade.\nla pomme.\nle yaourt.\nle gâteau.\nl'eau (f.).\nle jus d'orange.\nle café.\nle chocolat chaud."
@@ -58,7 +58,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl07/units/unit04_les-repas/index.md",
-    "source_body_sha256": "35789259643c860df1eecc0e1525e15b6db9713f9b194f534d91841984a810e9",
+    "source_body_sha256": "64c7290dfc7129afa68e8bb0c62e77736b1fbf2fa582a67478ed1898a116c21e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

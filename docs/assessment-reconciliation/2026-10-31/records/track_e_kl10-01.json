@@ -1,0 +1,59 @@
+{
+  "unit": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+  "exam": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md",
+  "before_unit_sha256": "0d419fb90bd94ef14f3aef6b544da5706318a6c2a5f2f075624168d1febe26d1",
+  "after_unit_sha256": "9e6174b0e61e7dda6af55edd2a5a7e83ced2a1e0c7e8cefe2ce052bde65c2de3",
+  "before_exam_sha256": "7f8d4250acebf0170bb749307558f2e08c8845cd595220aa58d987cd34cb0dec",
+  "after_exam_sha256": "d68af717bd8a4a0d04fac0e7f3d257976deafa5ce0149fb1ca3725da3442ca36",
+  "source_sections": "C",
+  "supplied_source_sha256": "3492786fa41fa2447588d7b2919df3d8366aa2e20cd8c7176592865ddefc793c",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual planning carnet replaces unsupported motivation letter facts; retained coherent course-choice letter as separate production. Embedded plan preserved as optional task."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "593d2d7adb41ab43d6fa189a1260b25eddc8ff92dc0410938c14120794c295e4",
+      "before_sha256": "593d2d7adb41ab43d6fa189a1260b25eddc8ff92dc0410938c14120794c295e4",
+      "after_sha256": "9e6174b0e61e7dda6af55edd2a5a7e83ced2a1e0c7e8cefe2ce052bde65c2de3",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "2f5e0b4df16e67392895b6dfccd3d785492fabdd95490e97fcdd482ccf4df2aa",
+      "before_sha256": "2f5e0b4df16e67392895b6dfccd3d785492fabdd95490e97fcdd482ccf4df2aa",
+      "after_sha256": "ad55fbd1605f97b2dc63238783e45e64e13535ad2dbf9a69c8137c3d3c50903c",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ad55fbd1605f97b2dc63238783e45e64e13535ad2dbf9a69c8137c3d3c50903c",
+      "after_sha256": "ba1771b5f12717ea3d63c78e1cc7cbd9514406d7ee8e3f41b44efabcce2e539b",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ba1771b5f12717ea3d63c78e1cc7cbd9514406d7ee8e3f41b44efabcce2e539b",
+      "after_sha256": "cf2be218c88a94f7f7c538b19aacc2f8969a92166bcb3cc018ee09d19e2a472e",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe_exam/index.md",
+      "before_sha256": "cf2be218c88a94f7f7c538b19aacc2f8969a92166bcb3cc018ee09d19e2a472e",
+      "after_sha256": "d68af717bd8a4a0d04fac0e7f3d257976deafa5ce0149fb1ca3725da3442ca36",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

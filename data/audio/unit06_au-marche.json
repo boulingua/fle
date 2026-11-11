@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit06_au-marche/index.md",
-    "source_body_sha256": "e85355badd32b8dd6c1501392ad9f2bba7b258a70336c747176e47cc88a5f50e",
+    "source_body_sha256": "e81fe5e576f4d75320c71381ce9ea56a99990af8b08f101dda7ede8e8ca385a0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit06_au-marche/index.md",
-    "source_body_sha256": "e85355badd32b8dd6c1501392ad9f2bba7b258a70336c747176e47cc88a5f50e",
+    "source_body_sha256": "e81fe5e576f4d75320c71381ce9ea56a99990af8b08f101dda7ede8e8ca385a0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Bonjour monsieur ! Je voudrais des pommes, s'il vous plaît. M. Roux : Bonjour ! Combien en voulez-vous ? Léa : Un kilo, s'il vous plaît. Et de la salade aussi. M. Roux : Voilà. Une salade et un kilo de pommes. Et avec ça ? Léa : C'est tout, merci. Ça fait combien ? M. Roux : Ça fait 4 euros 50, mademoiselle."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit06_au-marche/index.md",
-    "source_body_sha256": "e85355badd32b8dd6c1501392ad9f2bba7b258a70336c747176e47cc88a5f50e",
+    "source_body_sha256": "e81fe5e576f4d75320c71381ce9ea56a99990af8b08f101dda7ede8e8ca385a0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la pomme.\nla tomate.\nle marchand / la marchande.\nla banane.\nla carotte.\nl'étal (m.).\nla fraise.\nla pomme de terre.\nun kilo (de).\nl'orange (f.).\nla salade.\nune livre (500 g).\nle raisin.\nle poivron.\nune barquette (de).\nla poire.\nle concombre.\nl'euro (m.)."

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 11
 slug: "voyage-decouverte"
 bildungsplan:
-  - "3.1.3.1 Compréhension orale et audiovisuelle"
-  - "3.1.3.4 Expression orale — prise de parole en continu"
+- "3.1.3.1 Compréhension orale et audiovisuelle"
+- "3.1.3.4 Expression orale — prise de parole en continu"
 skills_focus:
 - listening
 - speaking_production
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_voyage-decouverte.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_voyage-decouverte.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit11_voyage-decouverte.html"
+- "/track_e_kl06/units/unit11_voyage-decouverte.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.reading-correspondence.02
-    - A1.INT.conversation.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.reading-correspondence.02
+  - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit11_voyage-decouverte_exam
+  format: written-with-live-reading
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - speaking_production
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_voyage-decouverte-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_voyage-decouverte-teacher.png
 audio_manifest: unit11_voyage-decouverte
 ---
 
@@ -71,14 +104,12 @@ Lena et Malik arrivent à la gare de Strasbourg avec leur classe. Ils regardent 
 - Qu'est-ce qu'ils vont faire d'abord ?
 - Comment vont-ils à la cathédrale ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà visité Strasbourg ou une autre ville française ?
 - Que savez-vous du Parlement européen ?
 - Quels monuments (en France ou en Allemagne) aimeriez-vous découvrir ? Pourquoi ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire du voyage et du tourisme
 
 | Français | Allemand |
@@ -130,8 +161,7 @@ Lena et Malik arrivent à la gare de Strasbourg avec leur classe. Ils regardent 
 
 Le centre ancien de Strasbourg, appelé la **Grande-Île**, a été inscrit au patrimoine mondial de l'UNESCO en 1988 : c'était le premier centre-ville entier reconnu de cette façon. On y trouve la cathédrale Notre-Dame, dont la flèche haute de 142 mètres a longtemps figuré parmi les plus hauts monuments du monde, ainsi que le quartier pittoresque de la Petite France, autrefois habité par les tanneurs, les meuniers et les pêcheurs. Strasbourg est aussi le siège officiel du Parlement européen. *(D'après « Strasbourg » et « Cathédrale Notre-Dame de Strasbourg », Wikipédia — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension orale (« Hören »).** Écoutez / relisez l'annonce (texte C) et répondez.
 
 1. Où et à quelle heure commence la visite ?
@@ -165,6 +195,7 @@ d) Tours médiévales au bord de l'eau.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Sur la place de la Cathédrale, à 10 h. 2) 142 mètres. 3) La Petite France. 4) 4 € (moins de 18 ans). 5) 2 € en plus.
 
 **Ex. 2.** a) un voyage scolaire · b) une visite guidée · c) l'entrée / le tarif d'entrée · d) un quartier · e) à pied.
@@ -172,9 +203,9 @@ d) Tours médiévales au bord de l'eau.
 **Ex. 3.** a) à · b) à la · c) au · d) allons visiter · e) allez découvrir.
 
 **Ex. 4.** a) la Petite France · b) la cathédrale Notre-Dame · c) le Parlement européen · d) les Ponts couverts.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — prise de parole en continu (Niveau E, ~6-8 phrases) :**
 
 Présentez oralement une visite d'un monument (à Strasbourg ou dans une autre ville). Utilisez le futur proche et les prépositions de lieu. Structurez votre présentation :
@@ -193,27 +224,18 @@ Présentez oralement une visite d'un monument (à Strasbourg ou dans une autre v
 | Grammaire | futur proche + prépositions corrects |
 | Fluidité | phrases enchaînées, débit régulier |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends les informations essentielles d'une annonce de visite.
 - [ ] Je connais cinq lieux de Strasbourg.
 - [ ] J'utilise le futur proche et les prépositions de lieu.
 - [ ] Je peux présenter une visite en 6-8 phrases enchaînées.
 - [ ] Je peux citer un élément du patrimoine de Strasbourg.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit11_voyage-decouverte_exam" >}}).
 
-**Tâche 1 — Compréhension orale / « Hörverstehen » (12 P.)**
-Écoutez l'annonce d'une visite guidée (2 écoutes) et répondez à 6 questions (lieu, heure, durée, tarifs, monuments cités). *2 P. par réponse correcte.*
-
-**Tâche 2 — Expression orale en continu / « Sprechen » (12 P.)**
-Présentez oralement une visite d'un monument de votre choix (~1 minute, 6-8 phrases). Barème : contenu (4 P.), vocabulaire (3 P.), grammaire — futur proche + prépositions (3 P.), fluidité (2 P.).
-
-**Total : 24 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min) :** Activer 4' · Apporter 12' · Écoute de l'annonce 5' · S'entraîner 12' · Produire 10' · Réfléchir 2'.
 

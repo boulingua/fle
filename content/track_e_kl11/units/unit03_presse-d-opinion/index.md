@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 3
 slug: "presse-d-opinion"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — monologisches Sprechen"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — monologisches Sprechen"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_presse-d-opinion.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_presse-d-opinion.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit03_presse-d-opinion.html"
+- "/track_e_kl11/units/unit03_presse-d-opinion.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.creative-writing.02
-    - B1.REC.understanding-announcements-and-instructions.01
-    - B1.PROD.reports-and-essays.02
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.INT.formal-discussion.01
+  - B1.PROD.creative-writing.02
+  - B1.REC.understanding-announcements-and-instructions.01
+  - B1.PROD.reports-and-essays.02
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit03_presse-d-opinion_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 20
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_presse-d-opinion-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_presse-d-opinion-teacher.png
 audio_manifest: unit03_presse-d-opinion
 ---
 
@@ -73,8 +105,7 @@ Dans la salle de rédaction du journal du lycée, Léa relit son article.
 - Où lisez-vous des opinions au quotidien (réseaux sociaux, presse, vidéos) ?
 - Pourquoi un journal signale-t-il clairement ses pages « Opinions » ou « Débats » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez rapidement, à l'oral ou par écrit.
 
 - Citez trois **sujets d'actualité** sur lesquels les gens ont des avis très différents.
@@ -84,8 +115,7 @@ Répondez rapidement, à l'oral ou par écrit.
   3. « Le prix du pain a augmenté. »
 - Qu'attend-on du **ton** d'un éditorial : neutre, engagé, provocateur ? Justifiez.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Précision / emploi | Allemand |
@@ -130,8 +160,7 @@ Répondez rapidement, à l'oral ou par écrit.
 
 En France, la **liberté de la presse** est un principe ancien : la loi du 29 juillet 1881 encadre encore aujourd'hui la publication des journaux et protège l'expression des opinions. La tradition distingue la **presse d'information**, qui vise d'abord à rapporter des faits, et la **presse d'opinion**, qui assume un point de vue éditorial. Dans un journal, l'éditorial est le lieu où la rédaction exprime clairement sa position, généralement signé par un·e responsable de la publication, et nettement séparé des pages d'information. (Paraphrasé d'après Wikipédia, articles « Éditorial (presse) » et « Liberté de la presse en France », CC BY-SA.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Analyser l'éditorial-modèle (texte C).**
 
 1. Quelle est l'accroche (l'entrée en matière) ?
@@ -157,6 +186,7 @@ f. « On imagine sans peine à qui profite ce silence. »
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Les voitures qui s'accumulent devant le lycée et le trottoir encombré (« notre ville étouffe »).
 2. Développer les pistes cyclables est une nécessité de bon sens, pas un luxe.
@@ -177,9 +207,9 @@ f. « On imagine sans peine à qui profite ce silence. »
 **M (standard) :** exercices 1 à 3 en autonomie.
 **E (approfondissement) :** ajouter l'exercice 4 et justifier, pour l'exercice 2, ce qui rend l'insinuation trompeuse.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (exposé structuré, ~3 min).**
 
 Choisissez un éditorial court (le texte C ou un autre fourni par l'enseignant·e) et présentez oralement votre **analyse** devant la classe :
@@ -199,39 +229,18 @@ Choisissez un éditorial court (le texte C ou un autre fourni par l'enseignant·
 | Langue | phrases correctes, vocabulaire de l'unité |
 | Prise de position | avis personnel justifié |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je repère la thèse et les arguments d'un éditorial.
 - [ ] Je distingue un fait, une opinion et une insinuation.
 - [ ] J'identifie les connecteurs et leur fonction.
 - [ ] Je présente une analyse structurée à l'oral.
 - [ ] Je prends position en argumentant.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Tâche A — Compréhension écrite (« Leseverstehen », 12 pts).**
-À partir de l'éditorial-modèle (texte C) :
-- Dégagez la thèse (2 pts).
-- Relevez les trois arguments (3 pts).
-- Repérez le contre-argument concédé et réfuté (2 pts).
-- Classez trois phrases du texte en fait / opinion (3 pts).
-- Relevez deux connecteurs et donnez leur fonction (2 pts).
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit03_presse-d-opinion_exam" >}}).
 
-**Tâche B — Expression orale monologique (« monologisches Sprechen », 8 pts).**
-Présentez en 2 à 3 minutes votre position sur le sujet du texte (la place du vélo en ville) : une thèse, deux arguments, un contre-argument réfuté, au moins trois connecteurs.
-
-**Barème détaillé de la tâche B**
-
-| Critère | Points |
-|---|---|
-| Thèse claire | 2 |
-| Deux arguments pertinents | 2 |
-| Contre-argument réfuté | 2 |
-| Connecteurs et fluidité | 2 |
-
-**Total : 20 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 - **Durée :** 45 min. Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Bilan/aperçu 2'.
 - **Organisation :** le texte C se lit à voix haute une fois, puis l'exercice 1 se fait en binômes. Les exercices 2 à 4 en autonomie, correction en plénière à partir de la section Solutions.

@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 1
 slug: "salutations-et-prenoms"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.3.9 Moyens linguistiques — prononciation und Intonation"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.3.9 Moyens linguistiques — prononciation und Intonation"
 skills_focus:
 - speaking_interaction
 presentation:
@@ -19,22 +19,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_salutations-et-prenoms.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_salutations-et-prenoms.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit01_salutations-et-prenoms.html"
+- "/track_gm_kl06/units/unit01_salutations-et-prenoms.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.asking-for-clarification.01
-    - A1.INT.correspondence.03
-    - A1.LING.orthographic-control.01
-    - A1.LING.phonological-control.04
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.INT.asking-for-clarification.01
+  - A1.INT.correspondence.03
+  - A1.LING.orthographic-control.01
+  - A1.LING.phonological-control.04
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit01_salutations-et-prenoms_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - listening
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_salutations-et-prenoms-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit01_salutations-et-prenoms-teacher.png
 audio_manifest: unit01_salutations-et-prenoms
 ---
 
@@ -76,15 +109,13 @@ C'est la rentrée. Devant le collège, deux élèves se rencontrent pour la prem
 - Pourquoi disent-ils *« Bonjour, madame »* et non *« Salut »* à la directrice ?
 - Repérez deux façons d'épeler ou de dire son prénom.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel est votre prénom ? Comment l'épelez-vous en allemand ?
 - Comment dit-on *« Hallo »* en français, à votre avis ? Et *« Tschüss »* ?
 - Connaissez-vous déjà un mot français ? Lequel ?
 - À qui dit-on *tu* et à qui dit-on *vous*, d'après vous ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand |
@@ -140,8 +171,7 @@ C'est la rentrée. Devant le collège, deux élèves se rencontrent pour la prem
 
 En France, on se salue souvent par *la bise* : on approche la joue et on fait un petit bruit de baiser, une joue puis l'autre. C'est un signe amical, entre familles, ami·e·s et personnes proches. Le nombre de bises change selon les régions — souvent deux, mais parfois une, trois ou quatre. Entre personnes qui ne se connaissent pas, ou dans un cadre plus formel, on préfère se serrer la main et dire *« Bonjour »*. Le choix de *tu* ou de *vous* accompagne ces usages : *vous* marque la politesse et la distance, *tu* la proximité. (D'après Wikipédia, articles *« Bise (salutation) »* et *« Tutoiement et vouvoiement »*, CC BY-SA — voir Sources.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Formel ou informel ?** Que dit-on ?
 
 1. … le matin à ton professeur ? *(Bonjour / Salut)*
@@ -169,6 +199,7 @@ En France, on se salue souvent par *la bise* : on approche la joue et on fait un
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Bonjour. 2) Salut. 3) Bonsoir. 4) À bientôt.
 
 **Ex. 2.** 1) Bonjour. 2) quel. 3) ai. 4) Au revoir / À bientôt.
@@ -183,9 +214,9 @@ En France, on se salue souvent par *la bise* : on approche la joue et on fait un
 - **M :** exercices 1 à 4 en autonomie.
 - **E :** ajouter une 5e phrase à l'exercice 2 et épeler aussi le nom de famille.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (en binôme, 1 min) :**
 
 A arrive dans la classe, B est déjà là. A salue, se présente (prénom + âge), demande le prénom et l'âge de B. B répond et prend congé. Puis **échangez les rôles** et recommencez avec **deux autres camarades**.
@@ -206,37 +237,18 @@ A arrive dans la classe, B est déjà là. A salue, se présente (prénom + âge
 - **Prononciation et intonation** — 3 pts
 - **Correction de la langue** (*tu/vous*, *avoir* pour l'âge) — 3 pts
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux dire *bonjour, bonsoir, salut, au revoir, à bientôt, merci*.
 - [ ] Je peux dire mon prénom et l'épeler.
 - [ ] Je peux dire mon âge avec *avoir* : *J'ai … ans*.
 - [ ] Je peux demander à quelqu'un son prénom et son âge.
 - [ ] Je choisis *tu* ou *vous* selon la personne.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve d'expression orale — interaction (« Sprechen — an Gesprächen teilnehmen »)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit01_salutations-et-prenoms_exam" >}}).
 
-Avec un·e camarade, jouez une rencontre à la rentrée (env. 1 min). Vous devez :
-
-1. vous saluer,
-2. dire votre prénom et l'épeler,
-3. donner votre âge et le demander à l'autre,
-4. prendre congé poliment.
-
-**Barème (20 points) :**
-
-| Critère | Points |
-|-----------------------------------------------|:------:|
-| Salutation adaptée (bonjour/salut + congé) | 4 |
-| Se présenter : prénom + épellation | 4 |
-| Âge : *J'ai … ans* + question à l'autre | 4 |
-| Prononciation et intonation | 4 |
-| Correction de la langue (*tu/vous*, *avoir*) | 4 |
-| **Total** | **20** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

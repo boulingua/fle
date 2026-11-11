@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit07_engagement-citoyen-e/index.md",
-    "source_body_sha256": "87cba85cd7251466bca357334b3d7f95a182c64a93300d67665a86e7700943bf",
+    "source_body_sha256": "0801a085100ce5c9ce3461429bef5ff0814abb39064fb5c8542b1c28e2f183ab",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "s'engager (dans une asso).\nle bénévolat / un·e bénévole.\nmiliter / un·e militant·e.\nmanifester / une manifestation.\nune pétition · signer.\nsensibiliser (le public).\nle Service Civique.\nune association (une  asso ).\nrevendiquer un droit.\nle bien commun."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl10/units/unit07_engagement-citoyen-e/index.md",
-    "source_body_sha256": "87cba85cd7251466bca357334b3d7f95a182c64a93300d67665a86e7700943bf",
+    "source_body_sha256": "0801a085100ce5c9ce3461429bef5ff0814abb39064fb5c8542b1c28e2f183ab",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Deux heures par semaine J'ai seize ans et je ne peux pas encore voter. Longtemps, j'ai cru que cela voulait dire que je n'avais aucun pouvoir. Je me trompais. Depuis septembre, je consacre deux heures par semaine à une association de mon quartier : nous aidons des élèves de collège à faire leurs devoirs. Certes, deux heures, ce n'est pas grand-chose. Cependant, pour un enfant qui bloque sur un exercice, cela change tout. Je ne pense pas qu'un seul bénévole change la société. Mais je suis convaincu que, pour que les choses avancent, il faut que chacun donne un peu de son temps. D'une part, on aide les autres ; d'autre part, on apprend à écouter, à expliquer, à être patient. On me dit parfois :  Tu es trop jeune.  Je réponds : justement, c'est maintenant que je veux prendre l'habitude d'agir."

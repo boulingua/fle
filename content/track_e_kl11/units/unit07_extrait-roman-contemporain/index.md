@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 7
 slug: "extrait-roman-contemporain"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_extrait-roman-contemporain.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_extrait-roman-contemporain.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit07_extrait-roman-contemporain.html"
+- "/track_e_kl11/units/unit07_extrait-roman-contemporain.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.planning.01
-    - B1.REC.identifying-cues-and-inferring.08
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.REC.reading-instructions.03
-    - B1.INT.formal-discussion.01
+  - B1.PROD.planning.01
+  - B1.REC.identifying-cues-and-inferring.08
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.REC.reading-instructions.03
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit07_extrait-roman-contemporain_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_extrait-roman-contemporain-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit07_extrait-roman-contemporain-teacher.png
 audio_manifest: unit07_extrait-roman-contemporain
 ---
 
@@ -69,14 +102,12 @@ Un après-midi au CDI. Léa referme un roman et se tourne vers Marius.
 2. Pourquoi un·e romancier·ère annoncerait-il·elle la fin dès le début ?
 3. Quel dernier livre vous a « attrapé·e » dès la première page ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez un·e romancier·ère francophone vivant·e que vous connaissez.
 - À quoi sert la première page d'un roman ? Notez trois fonctions possibles.
 - « Qui voit ? » et « Qui parle ? » : selon vous, est-ce toujours la même personne dans un récit ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'analyse romanesque
 
 | Terme français | Explication (niveau E) |
@@ -120,8 +151,7 @@ En France, l'automne est la « saison des prix ». Le **prix Goncourt**, décern
 
 *Nous paraphrasons ici des informations factuelles ; nous ne citons aucun texte protégé. Œuvres et auteur·e·s sont mentionné·e·s à titre de référence uniquement — voir Sources.*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).**
 
 1. À quelle heure le téléphone sonne-t-il la première fois ?
@@ -147,6 +177,7 @@ Rédigez trois phrases : *repérage* (un procédé) + *interprétation* + *lien 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) À six heures. 2) À la fenêtre du douzième étage, chez elle. 3) Une lettre, toujours fermée. 4) Non : elle hésite (« Fallait-il vraiment l'ouvrir ? Elle n'en était plus si sûre »).
 
 **Ex. 2.** a) **Focalisation interne** : on perçoit la scène à travers Clara (« elle regardait », « elle savait déjà », son hésitation). b) Rythme : « Puis se tut. » — phrase très courte qui referme la scène et crée une tension / un silence. c) Réponse type : l'**aquarium trouble** et les voitures comme des « poissons gris » enferment la ville dans une image d'irréalité et d'enfermement ; la **lettre fermée** est un motif de secret et de choix à venir.
@@ -154,9 +185,9 @@ Rédigez trois phrases : *repérage* (un procédé) + *interprétation* + *lien 
 **Ex. 3.** DIL dans le texte : *« Fallait-il vraiment l'ouvrir ? Elle n'en était plus si sûre. »* → Discours direct type : *Clara se demanda : « Est-ce que je dois vraiment l'ouvrir ? Je n'en suis plus si sûre. »*
 
 **Ex. 4.** Réponses libres. Modèle : *La focalisation interne nous enferme dans la conscience de Clara. Le lecteur partage son hésitation devant la lettre. Le titre, « La fenêtre du douzième étage », place le personnage en position d'observatrice suspendue, entre le monde d'en bas et une décision qu'elle n'ose pas prendre.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (E, ~300 mots).**
 À partir du texte C (ou d'un autre extrait original fourni par l'enseignant·e), rédigez une **analyse de passage** structurée :
 
@@ -175,30 +206,18 @@ Rédigez trois phrases : *repérage* (un procédé) + *interprétation* + *lien 
 | Langue | phrases correctes, connecteurs, lexique d'analyse |
 | Structure | introduction, développement, ouverture claire |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais nommer et appliquer 4 outils d'analyse romanesque.
 - [ ] Je comprends un incipit et j'en dégage l'enjeu.
 - [ ] Je reconnais le discours indirect libre et j'explique son effet.
 - [ ] Je rédige une analyse argumentée d'environ 300 mots.
 - [ ] Je justifie mes idées par des relevés précis dans le texte.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve type (compréhension écrite + expression écrite) — 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit07_extrait-roman-contemporain_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen »), 10 pts.**
-À partir d'un court incipit original fourni, répondez à 5 questions (identification du narrateur, du lieu, de l'enjeu, d'un motif, d'un effet de rythme). *(2 pts par réponse.)*
-
-**Tâche 2 — Outils d'analyse, 8 pts.**
-Identifiez et justifiez 4 procédés dans le même extrait. *(2 pts par procédé : 1 pt identification + 1 pt justification.)*
-
-**Tâche 3 — Expression écrite (« Schreiben »), 12 pts.**
-Rédigez une analyse de passage d'environ 300 mots. *(Barème : contenu / outils 5 pts · justification par le texte 3 pts · langue 3 pts · structure 1 pt.)*
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Situation de départ + Activer 6' · Apporter 13' · S'entraîner 12' · Produire 10' · Réfléchir 2' · consignes/transition 2'.
 

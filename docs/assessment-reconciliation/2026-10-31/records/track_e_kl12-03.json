@@ -1,0 +1,53 @@
+{
+  "unit": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+  "exam": "content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md",
+  "before_unit_sha256": "0d7554d787f9b97ef74885898eb29a3baab9ae5405974932f79c34f5c4b04fc2",
+  "after_unit_sha256": "b9559eeb1208cb186f0844bef20ad46cc2467331bfca93dc995fb2b8e9c42b94",
+  "before_exam_sha256": "e45301bf975db96577aa74a9a74d1ea20992889b923e3557a36f86a57886fa45",
+  "after_exam_sha256": "8e53ac0a4f5459a8a4e9a52d9ec83ea2687c2b26a16da9aaf3d6f7fe844ba72e",
+  "source_sections": "BC",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "speaking"
+  ],
+  "decisions": [
+    "Kept primary12+18reading/oral form; provided actual original dossier and bounded monologue rather than missingTituba/Glissant excerpts."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "ce45940a2f6b686ed4bf31387de95e54873b55785958e91a9826449447500eb4",
+      "after_sha256": "69f90fe849e3d88dd8342207ae07636ddf67050d2def49a7d06b1624b13fc194",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "69f90fe849e3d88dd8342207ae07636ddf67050d2def49a7d06b1624b13fc194",
+      "after_sha256": "e18e4eacc1ddf1e12db8710c21b9d9f21a355c6bc00c216f6518f99750471755",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "e18e4eacc1ddf1e12db8710c21b9d9f21a355c6bc00c216f6518f99750471755",
+      "after_sha256": "d8a38398e0cb66d93d74cadf60a905857452396aa74ed4149159d279a7a633d9",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl12/units/unit03_decolonisation-litteraire_exam/index.md",
+      "before_sha256": "d8a38398e0cb66d93d74cadf60a905857452396aa74ed4149159d279a7a633d9",
+      "after_sha256": "8e53ac0a4f5459a8a4e9a52d9ec83ea2687c2b26a16da9aaf3d6f7fe844ba72e",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

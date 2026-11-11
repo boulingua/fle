@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 4
 slug: "les-repas"
 bildungsplan:
-  - "3.1.3.3 Expression orale — dialogisches Expression orale"
-  - "3.1.3.7 Moyens linguistiques — lexique"
+- "3.1.3.3 Expression orale — dialogisches Expression orale"
+- "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - language_awareness
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_les-repas.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_les-repas.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit04_les-repas.html"
+- "/track_gm_kl07/units/unit04_les-repas.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.conversation.01
-    - A1.LING.phonological-control.01
-    - A1.INT.correspondence.01
-    - A1.LING.general-linguistic-range.01
-    - A1.REC.overall-reading-comprehension.01
+  - A1.INT.conversation.01
+  - A1.LING.phonological-control.01
+  - A1.INT.correspondence.01
+  - A1.LING.general-linguistic-range.01
+  - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit04_les-repas_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_les-repas-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit04_les-repas-teacher.png
 audio_manifest: unit04_les-repas
 ---
 
@@ -67,8 +99,7 @@ Au café **« Le Petit Bistrot »**, à Lyon. Léa et son correspondant allemand
 2. Que commande Jonas ? Et Léa ?
 3. Quels mots reconnaissez-vous déjà en français ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez oralement, à deux :
 
 - Que mangez-vous le matin, avant l'école ?
@@ -78,8 +109,7 @@ Répondez oralement, à deux :
 
 Notez au tableau tous les mots de nourriture que la classe connaît déjà (en français ou en allemand).
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 **Les trois repas (+ le goûter)**
@@ -152,8 +182,7 @@ Ce repas suit généralement un **ordre des plats** : un apéritif pour commence
 *(Fait paraphrasé d'après Wikipédia, licence CC BY-SA — voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Les partitifs (application).** Complétez avec *du, de la, de l', des* ou *de*.
 
 1. Le matin, je mange ___ pain et ___ confiture.
@@ -189,6 +218,7 @@ Ce repas suit généralement un **ordre des plats** : un apéritif pour commence
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) du · de la. 2) de l' · du. 3) des · de la. 4) de. 5) du. 6) de.
 
 **Exercice 2.** 1) Elle se lève à sept heures. 2) Elle mange du pain avec du beurre et de la confiture (et elle boit un bol de chocolat chaud). 3) Son frère préfère des céréales et un jus d'orange. 4) Parce que, pour elle, le fromage se mange le soir.
@@ -196,9 +226,9 @@ Ce repas suit généralement un **ordre des plats** : un apéritif pour commence
 **Exercice 3.** Petit déjeuner : pain, confiture, yaourt, jus d'orange (œuf possible). Déjeuner / dîner : salade, jambon, gâteau, œuf. *(Certaines réponses sont discutables — l'important est de justifier.)*
 
 **Exercice 4.** choisi · voudrais · de l' · s'il vous plaît · addition.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, à l'oral) :**
 
 Jouez un **dialogue au café** en **six répliques minimum**. Un·e élève est le **serveur / la serveuse**, l'autre est le **client / la cliente**.
@@ -221,8 +251,7 @@ Préparez-le à l'écrit (5 min), puis jouez-le sans lire vos notes.
 | Prononciation compréhensible | ☐ |
 | Dialogue joué (sans lire) | ☐ |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire :
 
 - [ ] Je nomme les trois repas et au moins douze aliments.
@@ -233,30 +262,11 @@ Cochez ce que vous savez faire :
 
 Complétez : *Ce que je dois encore réviser, c'est…*
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit04_les-repas_exam" >}}).
 
-**Tâche 1 — Moyens linguistiques (10 P.)**
-Complétez huit phrases avec l'article partitif qui convient (*du, de la, de l', des, de*), dont deux à la forme négative.
-
-**Tâche 2 — Compréhension écrite (8 P.)**
-Lisez un court menu de café et répondez à quatre questions (quels plats, quelles boissons, quel prix).
-
-**Tâche 3 — Expression orale dialoguée (12 P.)**
-Jouez, avec un·e partenaire, un dialogue au café de six répliques (commande, question du serveur, choix, addition). Emploi d'au moins trois partitifs exigé.
-
-**Barème :** Tâche 1 : 10 P. · Tâche 2 : 8 P. · Tâche 3 : 12 P. — **Total : 30 P.**
-
-| Note | Points |
-|------|--------|
-| sehr gut | 30–27 |
-| gut | 26–23 |
-| befriedigend | 22–18 |
-| ausreichend | 17–13 |
-| mangelhaft | 12–6 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :**
 

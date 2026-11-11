@@ -1,0 +1,56 @@
+{
+  "unit": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
+  "exam": "content/track_e_kl08/units/unit10_cinema-quebecois-e_exam/index.md",
+  "before_unit_sha256": "76eb0a37fd2162f15ed567ce2faa2d53f21c6d90ed4bac5f45a910e7cf52a6f4",
+  "after_unit_sha256": "8a368f00d445dfa7f990a2fa2da94b73d74fb9a5a825831d101af6485e710c86",
+  "before_exam_sha256": "938b587f89d13c404a059ef53dbab11969a20810c2047388efddf9950ac1606c",
+  "after_exam_sha256": "69d05f7a476ec34e8a76e552ed9cf8c2040f78d96d9f2f2a96b633a6dc921ae8",
+  "source_sections": "C",
+  "supplied_source_sha256": "2d02c9891ba655616f6d96112d6c17b9592067921a83a29e19358c5195b70753",
+  "source_mode": "teacher-listening",
+  "total_points": 30,
+  "decisions": [
+    "Generic authored film presentation does not identify MonsieurLazhar, its year/director/actor; replaced those questions. Retained film vocabulary/writing and oral follow-up."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "3046131175d9eb5a293bc8124e2888265d106bfb0f0fc203912037c50a226e73",
+      "after_sha256": "dc5fb21b21fd9b08e7ffb112d06067160b3532a7ede2cdb9955aa23338ce50fd",
+      "reasons": [
+        "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+        "Align teacher key with observed speaking outcome.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit10_cinema-quebecois-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "dc5fb21b21fd9b08e7ffb112d06067160b3532a7ede2cdb9955aa23338ce50fd",
+      "after_sha256": "773a6024061f55d01aa43f3b6ad0276f8f5ce0e3fab8e10e1508145850e15493",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit10_cinema-quebecois-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit10_cinema-quebecois-e_exam/index.md",
+      "before_sha256": "773a6024061f55d01aa43f3b6ad0276f8f5ce0e3fab8e10e1508145850e15493",
+      "after_sha256": "69d05f7a476ec34e8a76e552ed9cf8c2040f78d96d9f2f2a96b633a6dc921ae8",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl08",
+      "unit": 10,
+      "total": 30,
+      "decision": "Observed speaking restored in task 3; source-complete reading/language tasks retained; weighting explicitly revised from embedded variant.",
+      "oral_points": 12
+    }
+  ]
+}

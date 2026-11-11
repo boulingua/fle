@@ -1,0 +1,96 @@
+---
+title: "devoir surveillé FLE — classe 8 (Niveau E) — Unité 1"
+subtitle: "La rentrée en 8e · classe 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 1
+slug: "la-rentree-en-8e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-8
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.MED.collaborating-to-construct-meaning.02
+    - A2.MED.encouraging-conceptual-talk.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 8
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez la présentation d'Anouk (Unité 1, texte C). Répondez :
+
+1. Où est partie Anouk cet été ?
+2. Cite ses 3 projets de 8e.
+3. Qui est Tante Soraya ? Profession et lieu ?
+4. Quel livre va-t-elle lire ?
+
+### Tâche 2 — Conjugaison 3 temps (10 points)
+
+Conjuguez avec le bon temps.
+
+1. *Je (passer, PC) ___ l'été en Bretagne.*
+2. *Maintenant, je (être, présent) ___ en 8e.*
+3. *Je (correspondre, futur proche) ___ avec Karim.*
+4. *Je (visiter, futur proche) ___ Tunis l'été prochain.*
+5. *Tu (lire, futur proche) ___ *Le Petit Prince* ?*
+6. *Anouk (rentrer, PC) ___ tard hier.*
+7. *Nous (écrire, présent) ___ tous les mois.*
+8. *Vous (aller voir, futur proche) ___ Soraya ?*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Présentez **votre rentrée en 8e** en **100 mots** :
+1 souvenir d'été (PC) + 2 projets de l'année (futur proche) +
+1 question à un(e) correspondant(e).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Conjugaison | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Saint-Malo. 2) Correspondre avec Karim, visiter
+Soraya à Tunis, lire *Le Petit Prince*. 3) Sa tante, architecte
+à Tunis. 4) *Le Petit Prince*.
+
+**Tâche 2.** 1) ai passé · 2) suis · 3) vais correspondre ·
+4) vais visiter · 5) vas lire · 6) est rentrée · 7) écrivons ·
+8) allez voir.
+
+**Tâche 3.** Réponses libres. Critères : 100 mots · 3 éléments
+demandés · 1 PC + 2 futurs proches.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau E · Unité 1*

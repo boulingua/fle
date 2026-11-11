@@ -1,0 +1,94 @@
+---
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 11"
+subtitle: "Discours politique : analyser · classe 11 · Niveau E (épreuve finale Bf)"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 11
+slug: "discours-politique-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-11
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.overall-mediation.01
+    - B1.INT.conversation.01
+    - B1.INT.formal-discussion.01
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'appel du 18 juin (Unité 11, texte C). Répondez :
+
+1. Combien de questions rhétoriques ouvrent le discours ?
+2. Pourquoi la guerre n'est-elle pas finie, selon de Gaulle ?
+3. Quelle est la chute du discours ?
+4. Quel mot revient comme métaphore ?
+5. Où le discours a-t-il été prononcé ?
+
+### Tâche 2 — Procédés rhétoriques (8 points)
+
+Identifiez le procédé :
+
+1. *Cette guerre … Cette guerre … Cette guerre …* → ___
+2. *Mais le dernier mot est-il dit ? L'espérance doit-elle
+ disparaître ? La défaite est-elle définitive ?* → ___
+3. *La flamme de la résistance* → ___
+4. *Non !* (isolé après les 3 questions) → ___
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Analysez un **discours politique francophone** (~280 mots) :
+contexte + 4 procédés + 1 chute + lien époque.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Procédés | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Trois (dernier mot, espérance, défaite). 2)
+Parce qu'elle est mondiale. 3) *La flamme de la résistance
+ne doit pas s'éteindre et ne s'éteindra pas.* 4) La flamme
+(résistance). 5) Londres, BBC.
+
+**Tâche 2.** 1) anaphore · 2) questions rhétoriques en
+anaphore · 3) métaphore · 4) chute / interjection
+(rupture).
+
+**Tâche 3.** Réponses libres. Critères : 280 mots ·
+contexte · 4 procédés · 1 chute · 1 lien.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 11*

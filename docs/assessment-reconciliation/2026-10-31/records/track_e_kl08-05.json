@@ -1,0 +1,61 @@
+{
+  "unit": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
+  "exam": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md",
+  "before_unit_sha256": "37706edaf0f5e42862571dcc2cd9696719ce9075a4f03572faabfa721f51f331",
+  "after_unit_sha256": "c9377ba31900d8aa64731829f6cf1bda7de21d17ce68d5d58ccc0653081d3702",
+  "before_exam_sha256": "4cc725501fee2cbf211cb10439add41c8dd980813e7a2a6cef599a92ef9a0b47",
+  "after_exam_sha256": "963c9df2098cf06be49111abd9d77f8721df362457d38ca6d34a3f17310ebbdf",
+  "source_sections": "C",
+  "supplied_source_sha256": "db7780de0d96de065aa7e380d21524f4649cab26c6b76f91a0b90863e558614f",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual model source retained; independently supplied German festival source preserved as explicitly fictional scenario. Removed unchecked wordcount and avoided turning expected visitors into observed attendance."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "ff27d5ce9a9b90ccdfce55c2a7f4b89a6981edc9efcfb2837b0298b1434afab9",
+      "after_sha256": "c9377ba31900d8aa64731829f6cf1bda7de21d17ce68d5d58ccc0653081d3702",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "386afb72d95e237e82286e6dd8e478b5473fc0ff29ee52b9986271793296433a",
+      "after_sha256": "2f5e4814d359895a23899da27d0bcb43143ea8f6705b62a68d307bf92aca6caf",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "2f5e4814d359895a23899da27d0bcb43143ea8f6705b62a68d307bf92aca6caf",
+      "after_sha256": "cd78f84a410664c5a99dd164a9b74eef673a5feff24009652ca2626e3369ca3f",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md",
+      "before_sha256": "cd78f84a410664c5a99dd164a9b74eef673a5feff24009652ca2626e3369ca3f",
+      "after_sha256": "21ee1557eda78639b20ccbe78db00b21c3c5fc1d3fbda44adf515b23179f7e43",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e_exam/index.md",
+      "before_sha256": "21ee1557eda78639b20ccbe78db00b21c3c5fc1d3fbda44adf515b23179f7e43",
+      "after_sha256": "963c9df2098cf06be49111abd9d77f8721df362457d38ca6d34a3f17310ebbdf",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

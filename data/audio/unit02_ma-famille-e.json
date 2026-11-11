@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
-    "source_body_sha256": "10ea773ada8593c80782f32345b4c9b22468806999dcf7a7651e443211096b65",
+    "source_body_sha256": "2e6e5636c82204095f995def8556cafaedfd2d7566f806e5bfed09868547903e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk : Regarde, c'est ma famille ! Voici mon père, Klaus, et ma mère, Sonja. Et là, c'est ma petite sœur Lena. Tristan : Vous êtes combien à la maison ? Anouk : On est quatre, plus le chien. Et toi ? Tristan : Moi, je suis fils unique. Mais j'ai beaucoup de cousins !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
-    "source_body_sha256": "10ea773ada8593c80782f32345b4c9b22468806999dcf7a7651e443211096b65",
+    "source_body_sha256": "2e6e5636c82204095f995def8556cafaedfd2d7566f806e5bfed09868547903e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le père / le papa.\nla mère / la maman.\nle frère.\nla sœur.\nle grand-père.\nla grand-mère.\nl'oncle.\nla tante.\nle cousin / la cousine.\nles parents / les grands-parents."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
-    "source_body_sha256": "10ea773ada8593c80782f32345b4c9b22468806999dcf7a7651e443211096b65",
+    "source_body_sha256": "2e6e5636c82204095f995def8556cafaedfd2d7566f806e5bfed09868547903e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "J'ai une petite famille. Mon père s'appelle Klaus, il est ingénieur. Ma mère, Sonja, est médecin. Ma petite sœur Lena a 8 ans — elle est à l'école primaire. Mes grands-parents habitent à Stuttgart. Mon oncle Hans et ma tante Ingrid vivent à Berlin. J'ai aussi deux cousines, Mia et Klara, mais on se voit seulement à Noël. Notre chien s'appelle Bello. Lui, il est avec nous tous les jours !"

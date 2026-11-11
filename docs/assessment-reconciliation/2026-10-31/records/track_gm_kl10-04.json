@@ -1,0 +1,48 @@
+{
+  "unit": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
+  "exam": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam/index.md",
+  "before_unit_sha256": "5da81546f358190224594a833d042b37711c1e93bb562f0e110d5f18b983a866",
+  "after_unit_sha256": "6f433769f8a2f179454b391a8b37e103a90ac75f46141de5a54138954d33a856",
+  "before_exam_sha256": "7267b889ec9be8f60fb553826db9cf5233e672183247208cab643deba214d4dc",
+  "after_exam_sha256": "cff54fd2ea31ede4b8873bf0eb9ae124d762ee6c9166e1f03c7bf81280915a28",
+  "source_sections": [
+    "C"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "speaking_production"
+  ],
+  "decisions": [
+    "Preserved10+8+12 and primary oral presentation. Added source-bounded fallback so absent country dossiers do not require invented facts."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "2c53d7997d0a83e9a77987c34312178c9d3ad06f87f5879470d653fe1277f40c",
+      "after_sha256": "19037faabfb82b01028f35473cbb07c1a4e513c746fde7964a536ae1e177147c",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "19037faabfb82b01028f35473cbb07c1a4e513c746fde7964a536ae1e177147c",
+      "after_sha256": "ba2e9caf4f1a195cef30247a89262337891f8161dc3323a43706493f6fe44eeb",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui_exam/index.md",
+      "before_sha256": "ba2e9caf4f1a195cef30247a89262337891f8161dc3323a43706493f6fe44eeb",
+      "after_sha256": "cff54fd2ea31ede4b8873bf0eb9ae124d762ee6c9166e1f03c7bf81280915a28",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

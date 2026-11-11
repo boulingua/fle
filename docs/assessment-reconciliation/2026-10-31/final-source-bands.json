@@ -1,0 +1,1411 @@
+{
+  "scope": "final frozen source only; rendered exam counts intentionally excluded",
+  "units": [
+    {
+      "path": "content/track_e_kl06/units/unit01_salutations-et-prenoms-e/index.md",
+      "band": "I",
+      "learner_words": 1020,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit02_ma-famille-e/index.md",
+      "band": "I",
+      "learner_words": 819,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit03_mon-college-e/index.md",
+      "band": "I",
+      "learner_words": 763,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
+      "band": "I",
+      "learner_words": 991,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit05_gouts-et-couleurs/index.md",
+      "band": "I",
+      "learner_words": 875,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit06_au-marche-e/index.md",
+      "band": "I",
+      "learner_words": 976,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit07_le-temps-et-l-heure-e/index.md",
+      "band": "I",
+      "learner_words": 968,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit08_premiere-poesie/index.md",
+      "band": "I",
+      "learner_words": 897,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit09_ma-chambre-e/index.md",
+      "band": "I",
+      "learner_words": 970,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit10_mes-loisirs-e/index.md",
+      "band": "I",
+      "learner_words": 909,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit11_voyage-decouverte/index.md",
+      "band": "I",
+      "learner_words": 936,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl06/units/unit12_bilan-portrait-e/index.md",
+      "band": "I",
+      "learner_words": 1031,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit01_la-rentree-e/index.md",
+      "band": "I",
+      "learner_words": 1051,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit02_raconter-une-anecdote/index.md",
+      "band": "I",
+      "learner_words": 1088,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit03_mon-quartier-e/index.md",
+      "band": "I",
+      "learner_words": 914,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit04_repas-en-famille-e/index.md",
+      "band": "I",
+      "learner_words": 1006,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit05_amis-et-conflits-e/index.md",
+      "band": "I",
+      "learner_words": 947,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
+      "band": "I",
+      "learner_words": 1111,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit07_vacances-en-bretagne/index.md",
+      "band": "I",
+      "learner_words": 1063,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit08_le-quebec-e/index.md",
+      "band": "I",
+      "learner_words": 968,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit09_fete-et-invitations/index.md",
+      "band": "I",
+      "learner_words": 976,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit10_musique-et-chanson-e/index.md",
+      "band": "I",
+      "learner_words": 1009,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit11_premiere-mediation/index.md",
+      "band": "I",
+      "learner_words": 1023,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+      "band": "I",
+      "learner_words": 1014,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit01_la-rentree-en-8e/index.md",
+      "band": "II",
+      "learner_words": 886,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit02_correspondance-avec-montreal-e/index.md",
+      "band": "II",
+      "learner_words": 956,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
+      "band": "II",
+      "learner_words": 945,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit04_autour-de-la-planete-francophone-e/index.md",
+      "band": "II",
+      "learner_words": 936,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit05_sprachmittlung-de-fr-resume-e/index.md",
+      "band": "II",
+      "learner_words": 1106,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
+      "band": "II",
+      "learner_words": 931,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+      "band": "II",
+      "learner_words": 963,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit08_un-allemand-a-paris-e/index.md",
+      "band": "II",
+      "learner_words": 902,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit09_stereotypes-et-prejuges-e/index.md",
+      "band": "II",
+      "learner_words": 968,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit10_cinema-quebecois-e/index.md",
+      "band": "II",
+      "learner_words": 1229,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
+      "band": "II",
+      "learner_words": 973,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl08/units/unit12_bilan-portrait-d-une-rencontre-e/index.md",
+      "band": "II",
+      "learner_words": 992,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit01_le-monde-du-travail-e/index.md",
+      "band": "II",
+      "learner_words": 975,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit02_lettre-de-motivation-e/index.md",
+      "band": "II",
+      "learner_words": 1053,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit03_ecologie-au-quotidien-e/index.md",
+      "band": "II",
+      "learner_words": 991,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit04_argumenter-pour-contre-e/index.md",
+      "band": "II",
+      "learner_words": 847,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit05_le-petit-nicolas/index.md",
+      "band": "II",
+      "learner_words": 1073,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit06_podcasts-en-francais-e/index.md",
+      "band": "II",
+      "learner_words": 951,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit07_harcelement-et-respect-e/index.md",
+      "band": "II",
+      "learner_words": 1499,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
+      "band": "II",
+      "learner_words": 1239,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit09_internet-et-vie-privee-e/index.md",
+      "band": "II",
+      "learner_words": 1031,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit10_consommation-responsable-e/index.md",
+      "band": "II",
+      "learner_words": 983,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit11_francais-au-travail-e/index.md",
+      "band": "II",
+      "learner_words": 930,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl09/units/unit12_bilan-9e-e/index.md",
+      "band": "II",
+      "learner_words": 1002,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit01_transition-vers-la-kursstufe/index.md",
+      "band": "II",
+      "learner_words": 1088,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit02_presse-francaise-e/index.md",
+      "band": "II",
+      "learner_words": 1070,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit03_vie-democratique-e/index.md",
+      "band": "II",
+      "learner_words": 980,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit04_francophonie-aujourd-hui-e/index.md",
+      "band": "II",
+      "learner_words": 1042,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit05_premiere-analyse-poesie/index.md",
+      "band": "II",
+      "learner_words": 849,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit06_mediation-avancee-e/index.md",
+      "band": "II",
+      "learner_words": 1121,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit07_engagement-citoyen-e/index.md",
+      "band": "II",
+      "learner_words": 949,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit08_reseaux-sociaux-e/index.md",
+      "band": "II",
+      "learner_words": 1097,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit09_extraits-romans-jeunes/index.md",
+      "band": "II",
+      "learner_words": 946,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit10_mobilite-erasmus-jeune-e/index.md",
+      "band": "II",
+      "learner_words": 1097,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit11_preparer-un-discours-e/index.md",
+      "band": "II",
+      "learner_words": 1180,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl10/units/unit12_bilan-fin-sek-i/index.md",
+      "band": "II",
+      "learner_words": 942,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit01_ecrire-sur-soi/index.md",
+      "band": "III",
+      "learner_words": 1123,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit02_francophonie-postcoloniale/index.md",
+      "band": "III",
+      "learner_words": 1164,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit03_presse-d-opinion/index.md",
+      "band": "III",
+      "learner_words": 957,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit04_court-metrage/index.md",
+      "band": "III",
+      "learner_words": 1198,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit05_mediation-academique/index.md",
+      "band": "III",
+      "learner_words": 1192,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit06_argumentation-structuree/index.md",
+      "band": "III",
+      "learner_words": 984,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit07_extrait-roman-contemporain/index.md",
+      "band": "III",
+      "learner_words": 970,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit08_voix-feminines/index.md",
+      "band": "III",
+      "learner_words": 1051,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+      "band": "III",
+      "learner_words": 1136,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit10_ecologie-en-france/index.md",
+      "band": "III",
+      "learner_words": 1003,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit11_discours-politique/index.md",
+      "band": "III",
+      "learner_words": 1094,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+      "band": "III",
+      "learner_words": 1086,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit01_introduire-camus/index.md",
+      "band": "III",
+      "learner_words": 1094,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit02_analyse-stylistique/index.md",
+      "band": "III",
+      "learner_words": 872,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit03_decolonisation-litteraire/index.md",
+      "band": "III",
+      "learner_words": 1325,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit04_presse-engagee/index.md",
+      "band": "III",
+      "learner_words": 1128,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit05_mediation-fr-de/index.md",
+      "band": "III",
+      "learner_words": 1288,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
+      "band": "III",
+      "learner_words": 1211,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit07_discours-radio/index.md",
+      "band": "III",
+      "learner_words": 1222,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit08_gender-litteraire/index.md",
+      "band": "III",
+      "learner_words": 1174,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit09_memoire-et-traumatisme/index.md",
+      "band": "III",
+      "learner_words": 1230,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit10_argumenter-en-public/index.md",
+      "band": "III",
+      "learner_words": 1157,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit11_preparer-l-abitur-ecrit/index.md",
+      "band": "III",
+      "learner_words": 1015,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl12/units/unit12_bilan-12e/index.md",
+      "band": "III",
+      "learner_words": 1013,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_e_kl13/units/unit01_synthese-themes-litteraires/index.md",
+      "band": "III",
+      "learner_words": 1248,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 90
+    },
+    {
+      "path": "content/track_e_kl13/units/unit02_francophonie-pluralite/index.md",
+      "band": "III",
+      "learner_words": 1076,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 45
+    },
+    {
+      "path": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
+      "band": "III",
+      "learner_words": 939,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 90
+    },
+    {
+      "path": "content/track_e_kl13/units/unit04_abitur-mock-1/index.md",
+      "band": "III",
+      "learner_words": 1177,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 90
+    },
+    {
+      "path": "content/track_e_kl13/units/unit05_abitur-mock-2/index.md",
+      "band": "III",
+      "learner_words": 1062,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 60
+    },
+    {
+      "path": "content/track_e_kl13/units/unit06_mediation-finale/index.md",
+      "band": "III",
+      "learner_words": 1123,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 45
+    },
+    {
+      "path": "content/track_e_kl13/units/unit07_kommunikationspruefung-prep/index.md",
+      "band": "III",
+      "learner_words": 1165,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 15
+    },
+    {
+      "path": "content/track_e_kl13/units/unit08_discussion-sur-stimulus/index.md",
+      "band": "III",
+      "learner_words": 1087,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 13
+    },
+    {
+      "path": "content/track_e_kl13/units/unit09_monologue-et-presentation/index.md",
+      "band": "III",
+      "learner_words": 1262,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 20
+    },
+    {
+      "path": "content/track_e_kl13/units/unit10_reflexion-sur-soi/index.md",
+      "band": "III",
+      "learner_words": 1315,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 45
+    },
+    {
+      "path": "content/track_e_kl13/units/unit11_abitur-mock-final/index.md",
+      "band": "III",
+      "learner_words": 1175,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 90
+    },
+    {
+      "path": "content/track_e_kl13/units/unit12_bilan-final-abitur/index.md",
+      "band": "III",
+      "learner_words": 1215,
+      "minimum": 1500,
+      "maximum": 2800,
+      "within_band": false,
+      "duration_minutes": 60
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit01_salutations-et-prenoms/index.md",
+      "band": "I",
+      "learner_words": 804,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit02_ma-famille/index.md",
+      "band": "I",
+      "learner_words": 819,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit03_mon-ecole/index.md",
+      "band": "I",
+      "learner_words": 906,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit04_ma-journee/index.md",
+      "band": "I",
+      "learner_words": 937,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
+      "band": "I",
+      "learner_words": 823,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit06_au-marche/index.md",
+      "band": "I",
+      "learner_words": 862,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit07_le-temps-et-l-heure/index.md",
+      "band": "I",
+      "learner_words": 922,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit08_la-meteo-et-les-saisons/index.md",
+      "band": "I",
+      "learner_words": 879,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit09_ma-chambre/index.md",
+      "band": "I",
+      "learner_words": 966,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
+      "band": "I",
+      "learner_words": 927,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit11_voyage-en-france/index.md",
+      "band": "I",
+      "learner_words": 798,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
+      "band": "I",
+      "learner_words": 1053,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": 2
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit01_ma-rentree/index.md",
+      "band": "I",
+      "learner_words": 962,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit02_raconter-le-week-end/index.md",
+      "band": "I",
+      "learner_words": 1129,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit03_mon-quartier/index.md",
+      "band": "I",
+      "learner_words": 987,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit04_les-repas/index.md",
+      "band": "I",
+      "learner_words": 1029,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit05_amis-et-conflits/index.md",
+      "band": "I",
+      "learner_words": 868,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit06_les-transports/index.md",
+      "band": "I",
+      "learner_words": 731,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit07_vacances-en-famille/index.md",
+      "band": "I",
+      "learner_words": 850,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit08_le-quebec/index.md",
+      "band": "I",
+      "learner_words": 955,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit09_fete-d-anniversaire/index.md",
+      "band": "I",
+      "learner_words": 930,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit10_musique-et-clips/index.md",
+      "band": "I",
+      "learner_words": 984,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": 3
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit11_mediation-de-base/index.md",
+      "band": "I",
+      "learner_words": 974,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl07/units/unit12_bilan-portrait-d-une-annee/index.md",
+      "band": "I",
+      "learner_words": 1171,
+      "minimum": 950,
+      "maximum": 1500,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
+      "band": "II",
+      "learner_words": 1276,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit02_mes-medias-preferes/index.md",
+      "band": "II",
+      "learner_words": 992,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit03_autour-de-la-planete-francophone/index.md",
+      "band": "II",
+      "learner_words": 1119,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit04_futurs-projets/index.md",
+      "band": "II",
+      "learner_words": 974,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume/index.md",
+      "band": "II",
+      "learner_words": 990,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit06_musiques-du-maghreb/index.md",
+      "band": "II",
+      "learner_words": 1024,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit07_sport-et-equipe/index.md",
+      "band": "II",
+      "learner_words": 978,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": 35
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit08_un-allemand-a-paris/index.md",
+      "band": "II",
+      "learner_words": 974,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit09_stereotypes-et-prejuges/index.md",
+      "band": "II",
+      "learner_words": 1020,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 3
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
+      "band": "II",
+      "learner_words": 951,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": 2
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit11_un-projet-solidaire/index.md",
+      "band": "II",
+      "learner_words": 1003,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl08/units/unit12_bilan-portrait-d-une-rencontre/index.md",
+      "band": "II",
+      "learner_words": 992,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit01_le-monde-du-travail/index.md",
+      "band": "II",
+      "learner_words": 1011,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit02_lettre-de-motivation/index.md",
+      "band": "II",
+      "learner_words": 1040,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit03_ecologie-au-quotidien/index.md",
+      "band": "II",
+      "learner_words": 1147,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit04_argumenter-pour-contre/index.md",
+      "band": "II",
+      "learner_words": 904,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit05_vivre-en-tunisie/index.md",
+      "band": "II",
+      "learner_words": 906,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit06_podcasts-en-francais/index.md",
+      "band": "II",
+      "learner_words": 1081,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit07_harcelement-et-respect/index.md",
+      "band": "II",
+      "learner_words": 1032,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
+      "band": "II",
+      "learner_words": 868,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit09_internet-et-vie-privee/index.md",
+      "band": "II",
+      "learner_words": 977,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit10_consommation-responsable/index.md",
+      "band": "II",
+      "learner_words": 943,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit11_francais-au-travail/index.md",
+      "band": "II",
+      "learner_words": 1049,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": null
+    },
+    {
+      "path": "content/track_gm_kl09/units/unit12_preparation-mittlere-reife/index.md",
+      "band": "II",
+      "learner_words": 1078,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 15
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit01_transition-formation-emploi/index.md",
+      "band": "II",
+      "learner_words": 1021,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 60
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
+      "band": "II",
+      "learner_words": 956,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": 45
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit03_vie-democratique/index.md",
+      "band": "II",
+      "learner_words": 900,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": 45
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit04_francophonie-aujourd-hui/index.md",
+      "band": "II",
+      "learner_words": 1054,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 45
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit05_raconter-une-histoire-vraie/index.md",
+      "band": "II",
+      "learner_words": 1101,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 60
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit06_mediation-avancee/index.md",
+      "band": "II",
+      "learner_words": 1243,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 30
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit07_engagement-citoyen/index.md",
+      "band": "II",
+      "learner_words": 957,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": false,
+      "duration_minutes": 30
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit08_reseaux-sociaux/index.md",
+      "band": "II",
+      "learner_words": 1068,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 45
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit09_litterature-de-jeunesse/index.md",
+      "band": "II",
+      "learner_words": 1105,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 60
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit10_mobilite-erasmus-jeune/index.md",
+      "band": "II",
+      "learner_words": 1279,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 45
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit11_preparer-un-discours/index.md",
+      "band": "II",
+      "learner_words": 1034,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 60
+    },
+    {
+      "path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
+      "band": "II",
+      "learner_words": 1225,
+      "minimum": 1000,
+      "maximum": 1800,
+      "within_band": true,
+      "duration_minutes": 45
+    }
+  ],
+  "outside_band": 94,
+  "missing_timings": 126
+}

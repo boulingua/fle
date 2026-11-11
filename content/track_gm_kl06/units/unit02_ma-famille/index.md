@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 2
 slug: "ma-famille"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.7 Moyens linguistiques — lexique"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.7 Moyens linguistiques — lexique"
 skills_focus:
 - reading
 - speaking_production
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_ma-famille.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_ma-famille.png"
 tags:
-  - filiere-gm
-  - classe-6
-  - niveau-m
+- filiere-gm
+- classe-6
+- niveau-m
 aliases:
-  - "/track_gm_kl06/units/unit02_ma-famille.html"
+- "/track_gm_kl06/units/unit02_ma-famille.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.compensating.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.INT.goal-oriented-co-operation.01
+  - A1.PROD.compensating.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.INT.goal-oriented-co-operation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl06/units/unit02_ma-famille_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - writing
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_ma-famille-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_ma-famille-teacher.png
 audio_manifest: unit02_ma-famille
 ---
 
@@ -69,8 +101,7 @@ La classe rit gentiment.
 - Comment dit-on *« mein Vater »* et *« meine Mutter »* en français ?
 - Est-ce qu'un animal fait partie de la famille, pour toi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Réponds oralement, avec ton/ta voisin·e :
 
 - Combien de personnes y a-t-il dans ta famille ?
@@ -78,8 +109,7 @@ Réponds oralement, avec ton/ta voisin·e :
 - As-tu un animal à la maison ? Comment s'appelle-t-il ?
 - Quels mots français pour la famille connais-tu déjà ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Allemand |
@@ -123,8 +153,7 @@ En France, on célèbre plusieurs fêtes de famille au cours de l'année. La **f
 
 *(Faits paraphrasés d'après les articles « Fête des mères » et « Fête des grands-mères » de Wikipédia en français, licence CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Vocabulaire.** Traduis en allemand.
 
 1. la mère
@@ -169,6 +198,7 @@ En France, on célèbre plusieurs fêtes de famille au cours de l'année. La **f
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1 = die Mutter · 2 = der Großvater · 3 = die Schwester · 4 = der Hund · 5 = die Tante · 6 = der Sohn.
 
 **Ex. 2.** 1) mon · 2) ma · 3) mon · 4) ma · 5) mon · 6) mon *(mon amie — voyelle)*.
@@ -176,9 +206,9 @@ En France, on célèbre plusieurs fêtes de famille au cours de l'année. La **f
 **Ex. 3.** 1) mes · 2) ma · 3) mes · 4) mon · 5) mes.
 
 **Ex. 4.** 1) Vrai · 2) Faux (elle est médecin ; le père est ingénieur) · 3) Vrai · 4) Faux (Mistigri est un chat) · 5) Vrai.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, monologue d'environ 1 minute) :**
 
 Présente **ta famille** en français, avec une photo ou un dessin. Ta présentation contient au moins :
@@ -202,8 +232,7 @@ Présente **ta famille** en français, avec une photo ou un dessin. Ta présenta
 | Prononciation compréhensible | ☐ |
 | Durée d'environ 1 minute | ☐ |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Coche ce que tu sais faire :
 
 - [ ] Je nomme au moins 8 membres de la famille.
@@ -212,43 +241,11 @@ Coche ce que tu sais faire :
 - [ ] Je dis l'âge avec le verbe *avoir*.
 - [ ] Je présente ma famille à l'oral pendant 1 minute.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl06/units/unit02_ma-famille_exam" >}}).
 
-**Tâche 1 — Vocabulaire (10 points)**
-
-Traduis en français :
-1. der Bruder
-2. die Tante
-3. die Eltern
-4. der Sohn
-5. die Großmutter
-
-**Tâche 2 — Adjectifs possessifs (10 points)**
-
-Complète avec *mon, ma* ou *mes* :
-1. ___ père · 2. ___ sœur · 3. ___ parents · 4. ___ grand-mère · 5. ___ amie
-
-**Tâche 3 — Expression écrite (10 points)**
-
-Présente ta famille en **environ 40 mots**. Emploie au moins **3 adjectifs possessifs** (*mon / ma / mes*) et **1 âge** avec le verbe *avoir*.
-
-**Tâche 4 — Expression orale (10 points)**
-
-Présentation orale de ta famille avec une photo (environ 1 minute), selon les critères de la partie « Produire ».
-
-**Barème :**
-
-| Tâche | Points |
-|---|---|
-| 1 — Vocabulaire | 10 |
-| 2 — Possessifs | 10 |
-| 3 — Expression écrite | 10 |
-| 4 — Expression orale | 10 |
-| **Total** | **40** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min) :**
 

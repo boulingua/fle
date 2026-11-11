@@ -1,0 +1,50 @@
+{
+  "unit": "content/track_e_kl13/units/unit04_abitur-mock-1/index.md",
+  "exam": "content/track_e_kl13/units/unit04_abitur-mock-1_exam/index.md",
+  "before_unit_sha256": "1d32a6377ff330b1fbb2eba40f16a4e47f29a59e81702b0e30cc3046a80dd571",
+  "after_unit_sha256": "6120cc1f176326faf7692939499681456085baed86b87dad1c0119b5efa56a30",
+  "before_exam_sha256": "b11728dbf7cc71d38bfa2732df31cf6b31a08931db1f54a2d655a97b9c9fcc13",
+  "after_exam_sha256": "ab7b5779cadcabd4bc263e4f484068206f4adac1ac3f805f8937196f63150879",
+  "source_sections": [
+    "C"
+  ],
+  "supplied_source_sha256": "55be3816b43fece62f9cdeb01219436306e664406bf5f3ec374643feb5743733",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "ActualLéapodcast source supplied; kept12+18; unsupported2029prize/real-personquote mediation archived and not republished."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "320491c060fb49c2800157380bfa2a7ccd239f603f49169a550329cb17ccfda0",
+      "after_sha256": "d19902fce1742de34404f78e00fb5d8003faab3e3e0626852d1006ba5e7e8efa",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit04_abitur-mock-1_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "d19902fce1742de34404f78e00fb5d8003faab3e3e0626852d1006ba5e7e8efa",
+      "after_sha256": "9b747ac1b5b92a5d8b1ed991640dc70845a49a6b04073d56a5f4c876d248fdc7",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl13/units/unit04_abitur-mock-1_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit04_abitur-mock-1_exam/index.md",
+      "before_sha256": "9b747ac1b5b92a5d8b1ed991640dc70845a49a6b04073d56a5f4c876d248fdc7",
+      "after_sha256": "ab7b5779cadcabd4bc263e4f484068206f4adac1ac3f805f8937196f63150879",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

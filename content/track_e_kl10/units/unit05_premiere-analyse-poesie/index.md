@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 5
 slug: "premiere-analyse-poesie"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_premiere-analyse-poesie.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_premiere-analyse-poesie.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit05_premiere-analyse-poesie.html"
+- "/track_e_kl10/units/unit05_premiere-analyse-poesie.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.REC.identifying-cues-and-inferring.02
-    - B1.PROD.compensating.03
-    - B1.REC.overall-oral-comprehension.01
-    - B1.INT.formal-discussion.01
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.REC.identifying-cues-and-inferring.02
+  - B1.PROD.compensating.03
+  - B1.REC.overall-oral-comprehension.01
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit05_premiere-analyse-poesie_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_premiere-analyse-poesie-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit05_premiere-analyse-poesie-teacher.png
 audio_manifest: unit05_premiere-analyse-poesie
 ---
 
@@ -68,15 +101,13 @@ Cours de français, un lundi matin. Madame Ferrand distribue une feuille.
 2. Comme Tom, as-tu déjà trouvé qu'un texte « sonnait bien » sans savoir l'expliquer ?
 3. À ton avis, que veut dire « observer avant d'interpréter » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quel poème (français ou allemand) connais-tu, même un seul vers ?
 - **Rime**, **vers**, **strophe** : peux-tu expliquer la différence avec tes mots ?
 - Ferme les yeux : le mot *automne* évoque quelle saison, quelles couleurs, quelle émotion ?
 - Selon toi, un poème sert surtout à : raconter une histoire · exprimer un sentiment · décrire une image ? (Il peut faire les trois.)
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'analyse
 
 | Français (terme) | Allemand | Exemple / repère |
@@ -128,8 +159,7 @@ Cours de français, un lundi matin. Madame Ferrand distribue une feuille.
 Paul Verlaine (1844-1896) est l'un des grands poètes français associés au **Symbolisme** ; il recherche avant tout la **musicalité** du vers. « Chanson d'automne » ouvre le recueil *Poèmes saturniens* (1866), dans la section « Paysages tristes ». Détail d'histoire : en juin 1944, les premiers vers du poème furent utilisés par la radio (BBC) comme **message codé** annonçant le débarquement aux réseaux de la Résistance. *(Faits paraphrasés de l'article « Chanson d'automne », Wikipédia, licence CC BY-SA.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (facile).** Relis l'extrait C, puis réponds.
 
 1. Qui est l'auteur du poème ?
@@ -153,6 +183,7 @@ Paul Verlaine (1844-1896) est l'un des grands poètes français associés au **S
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Paul Verlaine. 2) L'automne. 3) Le violon. 4) Triste — mots possibles : *sanglots*, *blessent*, *langueur*, *je pleure*.
 
 **Ex. 2.** 1) Deux strophes (dans l'extrait). 2) Courts (3 ou 4 syllabes). 3) Par exemple *longs / violons*, ou *cœur / langueur*, ou *suffocant / quand*, ou *souviens / anciens*.
@@ -164,9 +195,9 @@ Paul Verlaine (1844-1896) est l'un des grands poètes français associés au **S
 {{< callout type="info" >}}
 **Différenciation.** **G** : faire l'Ex. 1 et 2, avec la liste de vocabulaire ouverte. **M** : Ex. 1 à 3, citer un vers correctement. **E** : traiter les 4 exercices ; en Ex. 4, ajouter une phrase sur l'**atmosphère** du poème.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (E, environ 120 mots).** Rédige une **mini-analyse** de l'extrait de *Chanson d'automne* en suivant 4 étapes :
 
 1. **Forme** : nombre de strophes, longueur des vers, une rime citée.
@@ -184,30 +215,18 @@ Paul Verlaine (1844-1896) est l'un des grands poètes français associés au **S
 | Langue : présent du commentaire, connecteurs, guillemets | 2 |
 | **Total** | **10** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais nommer un vers, une strophe et une rime.
 - [ ] Je distingue une comparaison (*comme*) d'une métaphore.
 - [ ] Je peux citer un vers entre guillemets.
 - [ ] Je dégage le thème et l'atmosphère d'un poème court.
 - [ ] J'écris une mini-analyse structurée d'environ 120 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit05_premiere-analyse-poesie_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») — 10 P.**
-À partir de l'extrait de *Chanson d'automne*, réponds à 5 questions : auteur, saison, instrument, une rime, l'émotion dominante (avec justification).
-
-**Tâche 2 — Repérage des outils — 8 P.**
-Identifie et cite : 1 métaphore · 1 rime · le nombre de strophes · le thème du poème.
-
-**Tâche 3 — Expression écrite (« Schreiben ») — 12 P.**
-Rédige une mini-analyse (environ 120 mots) : forme + une image citée + thème/atmosphère + conclusion personnelle.
-
-**Barème total : 30 P.** — Note indicative : 30-27 = très bien · 26-21 = bien · 20-15 = satisfaisant · 14-9 = passable · < 9 = insuffisant.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Situation + Activer 6' · Apporter 14' · S'entraîner 13' · Produire 9' · Réfléchir 3'.
 

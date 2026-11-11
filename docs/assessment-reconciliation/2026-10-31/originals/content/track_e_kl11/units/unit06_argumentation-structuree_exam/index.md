@@ -1,0 +1,95 @@
+---
+title: "épreuve FLE — classe 11 (Niveau E) — Unité 6"
+subtitle: "Argumentation structurée · classe 11 · Niveau E (épreuve finale Bf)"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 6
+slug: "argumentation-structuree-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-11
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.adapting-language.01
+    - B1.MED.analysis-and-criticism-of-creative-texts.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 11 (épreuve finale (option de base) (« Abitur Basisfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la dissertation d'Anouk (Unité 6, texte C). Répondez :
+
+1. Quel événement déclencheur en 2015 ?
+2. Quel article de la Déclaration fonde la liberté ?
+3. Citez 3 limites légales.
+4. Quelles 2 instances distinguent opinion / haine ?
+5. Que cite Anouk de Beaumarchais ?
+
+### Tâche 2 — Connecteurs logiques (8 points)
+
+Insérez le bon connecteur (*certes, toutefois, en revanche,
+finalement, cela étant, en outre, de surcroît, au
+contraire*) :
+
+1. ___, l'article 11 de 1789 affirme la libre communication.
+2. ___, aucune liberté n'est absolue.
+3. ___, l'incitation à la haine est punie par la loi.
+4. ___, la liberté doit être large mais responsable.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez votre **dissertation TAS** (~400 mots) sur un sujet
+au choix : IA / climat / réseaux sociaux. 4 parties + 6
+connecteurs + 2 références + 1 citation.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Connecteurs | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Attentat *Charlie Hebdo*. 2) Article 11 de
+1789. 3) Haine, harcèlement, diffamation. 4) Loi de 1881 +
+Cour européenne des droits de l'homme. 5) *« Sans la
+liberté de blâmer, il n'est point d'éloge flatteur. »*
+
+**Tâche 2.** 1) Certes · 2) Toutefois · 3) En revanche ·
+4) Finalement.
+
+**Tâche 3.** Réponses libres. Critères : 400 mots · 4
+parties · 6 connecteurs · 2 références · 1 citation.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 11 · Niveau E · Unité 6*

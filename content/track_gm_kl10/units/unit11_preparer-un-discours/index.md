@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 11
 slug: "preparer-un-discours"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production orale en continu"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — production orale en continu"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_preparer-un-discours.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_preparer-un-discours.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit11_preparer-un-discours.html"
+- "/track_gm_kl10/units/unit11_preparer-un-discours.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.planning.01
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.INT.formal-discussion.01
-    - B1.INT.overall-written-interaction.02
-    - B1.MED.facilitating-pluricultural-space.03
+  - B1.PROD.planning.01
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.INT.formal-discussion.01
+  - B1.INT.overall-written-interaction.02
+  - B1.MED.facilitating-pluricultural-space.03
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit11_preparer-un-discours_exam
+  format: existing-assessment
+  duration_minutes: 60
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_preparer-un-discours-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_preparer-un-discours-teacher.png
 audio_manifest: unit11_preparer-un-discours
 ---
 
@@ -73,14 +105,12 @@ Léa prépare son discours pour la fête de fin d'année du collège. Elle rép�
 2. Quels conseils Nour lui donne-t-elle ?
 3. À votre avis, qu'est-ce qui rend un discours vivant ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà pris la parole devant un groupe ? Comment vous êtes-vous senti·e ?
 - Quel discours célèbre connaissez-vous (Simone Veil, Martin Luther King, Greta Thunberg, une personnalité de votre pays) ?
 - Selon vous, qu'est-ce qui distingue un **bon** discours d'un discours ennuyeux ? Notez trois idées.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Sens / équivalent allemand |
@@ -141,8 +171,7 @@ Astuce : un discours clair contient **un connecteur au début de chaque argument
 
 Bien avant nos cours d'expression orale, le philosophe grec **Aristote** (IVᵉ siècle av. J.-C.), dans sa *Rhétorique*, décrivait déjà trois grands moyens de convaincre un auditoire. L'**ethos** repose sur la crédibilité et l'honnêteté de la personne qui parle. Le **pathos** cherche à toucher les émotions de l'auditoire. Le **logos** s'appuie sur le raisonnement, les faits et les exemples. Un discours réussi combine souvent les trois : on inspire confiance, on émeut, et on démontre. *(Faits généraux paraphrasés d'après l'article « Rhétorique » de Wikipédia, licence CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Repérer la structure (texte D).**
 1. Quelle phrase constitue l'accroche ?
 2. Quelle est la thèse ?
@@ -171,6 +200,7 @@ d) *« Il faut agir. Il faut agir vite. Il faut agir ensemble. »*
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) « En octobre 2018, j'avais huit ans et je ne parlais pas un mot de français. » 2) « Apprendre une langue, c'est apprendre à voir le monde autrement. » 3) Trois arguments : les amitiés, les livres, l'avenir. 4) « N'arrêtez jamais d'apprendre. Une langue de plus, c'est un monde de plus. Merci. »
 
 **Ex. 2.** a) anaphore · b) question rhétorique · c) métaphore · d) anaphore.
@@ -178,9 +208,9 @@ d) *« Il faut agir. Il faut agir vite. Il faut agir ensemble. »*
 **Ex. 3.** 1) D'abord · 2) Ensuite · 3) par exemple · 4) Enfin.
 
 **Ex. 4.** Réponses libres. Modèles : *(chiffre)* « En France, près d'un adolescent sur cinq n'a lu aucun livre cette année. » *(question)* « Et si un seul livre pouvait changer votre façon de voir le monde ? »
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, ≈ 3 min) :**
 
 Préparez et présentez un **discours** sur un sujet libre (un engagement, un rêve, un souvenir marquant, une cause à défendre). Respectez le plan : **accroche → thèse → trois arguments → chute**. Employez **au moins deux figures de style** et **un connecteur au début de chaque argument**. Présentez sans lire mot à mot : notes autorisées, texte intégral interdit.
@@ -194,38 +224,18 @@ Préparez et présentez un **discours** sur un sujet libre (un engagement, un r�
 | Langue | Vocabulaire du discours, connecteurs, phrases correctes. |
 | Présentation orale | Regard, voix audible, rythme, pauses ; sans lecture continue. |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais structurer un discours en quatre parties.
 - [ ] J'emploie au moins deux figures de style.
 - [ ] J'utilise un connecteur au début de chaque argument.
 - [ ] Je présente environ trois minutes sans lire mot à mot.
 - [ ] Je regarde mon auditoire et je fais des pauses.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — production orale et écrite (Niveau M)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit11_preparer-un-discours_exam" >}}).
 
-**Tâche 1 — Compréhension du discours modèle (8 P.)**
-Lisez le discours de Léa (texte D) et répondez :
-a) Repérez et recopiez l'accroche. (2 P.)
-b) Formulez la thèse avec vos propres mots. (2 P.)
-c) Nommez les trois arguments. (3 P.)
-d) Relevez la figure de style présente dans la chute. (1 P.)
-
-**Tâche 2 — Figures de style (6 P.)**
-Classez ces trois phrases (anaphore / question rhétorique / métaphore) et justifiez en une phrase chacune :
-a) *« Notre école est un jardin où chacun peut grandir. »*
-b) *« Allons-nous vraiment laisser faire ? »*
-c) *« Marchons pour nos droits. Marchons pour notre avenir. Marchons ensemble. »*
-
-**Tâche 3 — Expression écrite (16 P.)**
-Rédigez le texte d'un discours d'environ **250 mots** sur le thème : **« Un engagement qui me tient à cœur »**. Respectez la structure en quatre parties et employez au moins deux figures de style et des connecteurs.
-
-**Barème : Tâche 1 (8) + Tâche 2 (6) + Tâche 3 (16) = 30 P.**
-Répartition de la Tâche 3 : structure 4 P. · figures de style 3 P. · contenu et cohérence 5 P. · langue 4 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 - **Durée : 45 min.** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' (préparation + premiers essais) · Réfléchir 2' · Bilan et aperçu 2'.
 - **Organisation :** la production orale peut déborder sur une deuxième séance (passages devant la classe ou en petits groupes). Prévoir une grille d'observation par pairs avec les critères ci-dessus.

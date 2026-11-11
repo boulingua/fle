@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
-    "source_body_sha256": "8aa9f6ae0fe66d22d734f2a4b8941f5de1b4825fd5d4f32dc9e3726598a01741",
+    "source_body_sha256": "0ec77f81d550eb2f24c5bf6c0ca8cbffbd3d9c00969f524a02e7f18bd9853bd1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mehdi. — On mange déjà ? Il est seulement dix-neuf heures ! Anouk. — Oui, chez nous on dîne assez tôt. Mais quand je suis chez ma grand-mère à Lyon, on passe à table vers vingt heures. Mehdi. — Et pourquoi tu fais deux bises à ta voisine, mais ton correspondant allemand te serre la main ? Anouk. — Bonne question ! Ça dépend beaucoup du pays… et même de la région."
@@ -26,15 +26,15 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
-    "source_body_sha256": "8aa9f6ae0fe66d22d734f2a4b8941f5de1b4825fd5d4f32dc9e3726598a01741",
+    "source_body_sha256": "0ec77f81d550eb2f24c5bf6c0ca8cbffbd3d9c00969f524a02e7f18bd9853bd1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le repas du soir / dîner.\nune habitude, une coutume.\nla salutation, faire la bise.\nserrer la main.\nle tutoiement / vouvoiement.\nla cantine (scolaire).\nle repos dominical.\nau contraire / en revanche."
   },
   {
-    "file": "/fle/materials/audio/unit08_differences-culturelles-e/dialogue1.ogg",
-    "label": "Dialogue 1",
-    "transcript": "Six différences entre la France et l'Allemagne\nEn France, la plupart des familles dînent vers vingt heures, souvent un repas chaud. En Allemagne, beaucoup de familles préfèrent l'Abendbrot vers dix-huit heures : du pain, de la charcuterie et du fromage.\nPour se saluer, certain·e·s jeunes Allemand·e·s font un câlin, mais la plupart se serrent la main. En France, entre ami·e·s, on se fait souvent deux bises — parfois plus, selon la région.\nÀ l'école, beaucoup d'élèves français déjeunent à la cantine après midi. En Allemagne, beaucoup d'élèves rentrent chez eux vers treize heures.\nEnfin, en Allemagne, presque tous les magasins ferment le dimanche : c'est le repos dominical. En France, certain·e·s commerces restent ouverts le dimanche matin.",
+    "file": "/fle/materials/audio/unit08_differences-culturelles-e/texte2.ogg",
+    "label": "Texte 2",
+    "transcript": "Observations d'Anouk dans deux familles fictives\nCette fiche rapporte les impressions d'Anouk sur des familles et lieux du récit. Les quantificateurs concernent ces exemples; ils ne décrivent pas les populations de deux pays.\nDans la famille française d'Anouk, on dîne vers vingt heures, souvent un repas chaud. Dans la famille allemande de son correspondant, on préfère l'Abendbrot vers dix-huit heures : du pain, de la charcuterie et du fromage.\nParmi les amis de son correspondant, certain·e·s font un câlin, d'autres se serrent la main. Anouk et deux amies se font souvent deux bises, si chacune le souhaite. On peut aussi simplement dire bonjour.\nDans l'école d'Anouk, beaucoup d'élèves déjeunent à la cantine après midi. Dans celle de son correspondant, certain·e·s rentrent chez eux vers treize heures.\nEnfin, dans le quartier allemand visité, presque tous les magasins ferment le dimanche. Dans le quartier d'Anouk, certain·e·s commerces restent ouverts le dimanche matin.",
     "source": "tts",
     "voice": "fr_FR-mls-medium",
     "model_sha256": "0ed223f78466917f2bae05ee90096ce69ab1fdeb251f55590d0e7422d234e162",
@@ -42,9 +42,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl09/units/unit08_differences-culturelles-e/index.md",
-    "source_body_sha256": "8aa9f6ae0fe66d22d734f2a4b8941f5de1b4825fd5d4f32dc9e3726598a01741",
+    "source_body_sha256": "0ec77f81d550eb2f24c5bf6c0ca8cbffbd3d9c00969f524a02e7f18bd9853bd1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
-    "tts": "Six différences entre la France et l'Allemagne En France, la plupart des familles dînent vers vingt heures, souvent un repas chaud. En Allemagne, beaucoup de familles préfèrent l'Abendbrot vers dix-huit heures : du pain, de la charcuterie et du fromage. Pour se saluer, certain·e·s jeunes Allemand·e·s font un câlin, mais la plupart se serrent la main. En France, entre ami·e·s, on se fait souvent deux bises — parfois plus, selon la région. À l'école, beaucoup d'élèves français déjeunent à la cantine après midi. En Allemagne, beaucoup d'élèves rentrent chez eux vers treize heures. Enfin, en Allemagne, presque tous les magasins ferment le dimanche : c'est le repos dominical. En France, certain·e·s commerces restent ouverts le dimanche matin."
+    "tts": "Observations d'Anouk dans deux familles fictives Cette fiche rapporte les impressions d'Anouk sur des familles et lieux du récit. Les quantificateurs concernent ces exemples; ils ne décrivent pas les populations de deux pays. Dans la famille française d'Anouk, on dîne vers vingt heures, souvent un repas chaud. Dans la famille allemande de son correspondant, on préfère l'Abendbrot vers dix-huit heures : du pain, de la charcuterie et du fromage. Parmi les amis de son correspondant, certain·e·s font un câlin, d'autres se serrent la main. Anouk et deux amies se font souvent deux bises, si chacune le souhaite. On peut aussi simplement dire bonjour. Dans l'école d'Anouk, beaucoup d'élèves déjeunent à la cantine après midi. Dans celle de son correspondant, certain·e·s rentrent chez eux vers treize heures. Enfin, dans le quartier allemand visité, presque tous les magasins ferment le dimanche. Dans le quartier d'Anouk, certain·e·s commerces restent ouverts le dimanche matin."
   }
 ]

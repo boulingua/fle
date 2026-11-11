@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
-    "source_body_sha256": "314de83f78d2b3a564e224093812708ea9a1791fd24cabebdc441a2aa75851fb",
+    "source_body_sha256": "a0b2e9d335666c502f7d2a19c0d0e156b9ff36cb754eb65412e09df15e65197f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
-    "source_body_sha256": "314de83f78d2b3a564e224093812708ea9a1791fd24cabebdc441a2aa75851fb",
+    "source_body_sha256": "a0b2e9d335666c502f7d2a19c0d0e156b9ff36cb754eb65412e09df15e65197f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
-    "source_body_sha256": "314de83f78d2b3a564e224093812708ea9a1791fd24cabebdc441a2aa75851fb",
+    "source_body_sha256": "a0b2e9d335666c502f7d2a19c0d0e156b9ff36cb754eb65412e09df15e65197f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "l'incipit (m.).\nle narrateur.\nla focalisation.\nle schéma narratif.\nl'élément perturbateur.\nl'intrigue (f.).\nle protagoniste.\nle champ lexical.\nla tonalité.\nle dénouement."
@@ -56,7 +56,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
-    "source_body_sha256": "314de83f78d2b3a564e224093812708ea9a1791fd24cabebdc441a2aa75851fb",
+    "source_body_sha256": "a0b2e9d335666c502f7d2a19c0d0e156b9ff36cb754eb65412e09df15e65197f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant. — Guy de Maupassant, Bel-Ami (1885), domaine public"
@@ -72,7 +72,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit06_etude-de-roman/index.md",
-    "source_body_sha256": "314de83f78d2b3a564e224093812708ea9a1791fd24cabebdc441a2aa75851fb",
+    "source_body_sha256": "a0b2e9d335666c502f7d2a19c0d0e156b9ff36cb754eb65412e09df15e65197f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

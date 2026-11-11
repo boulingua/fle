@@ -1,0 +1,97 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau M) — Unité 1"
+subtitle: "Transition formation / emploi · classe 10 · Niveau M"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 1
+slug: "transition-formation-emploi-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.note-taking.02
+    - B1.INT.formal-discussion.01
+    - B1.MED.collaborating-to-construct-meaning.01
+    - B1.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 10
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'annonce + la lettre de Léa (Unité 1, textes C+D).
+Répondez :
+
+1. Quel est l'objet de l'annonce ?
+2. Combien d'heures par semaine ?
+3. Quel est le salaire la 1ʳᵉ et la 3ᵉ année ?
+4. Pourquoi Léa cite-t-elle son Praktikum de 9ᵉ ?
+5. Quelle est la formule finale de sa lettre ?
+
+### Tâche 2 — Vocabulaire (8 points)
+
+Donnez l'**équivalent français** (ou définition simple) :
+
+- Ausbildung · FSJ · Berufskolleg · Mentor · CDI · CDD ·
+ un(e) apprenti(e) · une candidature spontanée.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre candidature spontanée** en **180 mots** pour
+un poste de votre choix. Structure : intro (présentation),
+corps (motivation + 2 atouts), conclusion (formule polie + CV
+joint).
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Apprenti(e) boulanger(ère), rentrée 2026. 2) 8h
+× 6 jours = 48h ; ou 4h-12h selon lecture (réponse acceptée si
+calcul précis). 3) 800 € / 1100 €. 4) Cette expérience l'a
+confortée dans son choix. 5) « Je vous prie d'agréer, Madame,
+Monsieur, mes salutations distinguées. »
+
+**Tâche 2.** apprentissage en alternance · service civique ·
+lycée (« Gymnasium ») professionnel · une personne expérimentée qui guide ·
+contrat à durée indéterminée · contrat à durée déterminée ·
+personne en formation chez un patron · candidature sans
+annonce préalable.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · structure
+complète · 2 atouts · formule polie · mention CV.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 1*

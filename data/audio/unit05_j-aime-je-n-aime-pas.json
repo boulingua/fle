@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
-    "source_body_sha256": "fff40f748c18dccc25c0c2e40f5752849aff0fc178a6ea239bd02966140d6175",
+    "source_body_sha256": "b21d82682f8bb9997c114f6909c491a6f7676697a8ac980fd2745bd56d71ff0e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Nora : Aujourd'hui, il y a des pâtes au fromage. J'adore ça ! Malik : Moi aussi, j'aime bien les pâtes. Mais je déteste le poisson. Nora : Ah bon ? Moi, j'aime beaucoup le poisson. Et le dessert, tu regardes ? Malik : Oui : une crêpe au chocolat. Je n'aime pas trop le chocolat, mais la crêpe, d'accord ! Nora : Pas de chocolat ?! Alors je prends ta part. 😄"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
-    "source_body_sha256": "fff40f748c18dccc25c0c2e40f5752849aff0fc178a6ea239bd02966140d6175",
+    "source_body_sha256": "b21d82682f8bb9997c114f6909c491a6f7676697a8ac980fd2745bd56d71ff0e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "J'adore.\nJ'aime beaucoup.\nJ'aime bien.\nJe n'aime pas trop.\nJe n'aime pas.\nJe déteste."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
-    "source_body_sha256": "fff40f748c18dccc25c0c2e40f5752849aff0fc178a6ea239bd02966140d6175",
+    "source_body_sha256": "b21d82682f8bb9997c114f6909c491a6f7676697a8ac980fd2745bd56d71ff0e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le sport.\nla musique.\nles maths.\nle français.\nla pizza.\nles légumes.\nles jeux vidéo.\nles animaux.\nla lecture.\nle dessin."
@@ -58,7 +58,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit05_j-aime-je-n-aime-pas/index.md",
-    "source_body_sha256": "fff40f748c18dccc25c0c2e40f5752849aff0fc178a6ea239bd02966140d6175",
+    "source_body_sha256": "b21d82682f8bb9997c114f6909c491a6f7676697a8ac980fd2745bd56d71ff0e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Salut ! Moi, c'est Camille. J'ai onze ans et j'habite à Lyon. J'adore la danse et je joue de la guitare. Le week-end, j'aime beaucoup cuisiner avec ma mère : nous préparons des crêpes ! Par contre, je n'aime pas trop les jeux vidéo et je déteste ranger ma chambre. Et toi, qu'est-ce que tu aimes ?"

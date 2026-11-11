@@ -23,80 +23,74 @@ curriculum:
     - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 8
+## Modalités
 
-### Tâche 1 — Grammatik / Futur simple (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Mettez les verbes entre parenthèses au futur simple.
+## Support
 
-1. Karim *(prendre)* _____________ le train demain matin.
-2. Nous *(aller)* _____________ à Lille pour les vacances.
-3. Tu *(faire)* _____________ tes devoirs ce soir ?
-4. Léa *(être)* _____________ à Strasbourg dans cinq ans.
-5. Vous *(savoir)* _____________ la réponse après le cours.
+### C. Texte modèle
 
-### Tâche 2 — Distinguer futur proche / simple (5 points)
+> Dans dix ans, je serai à l'université. J'étudierai la biologie. Je ferai un stage au Sénégal et je rencontrerai des chercheuses qui parlent français. Un jour, je publierai mon premier article. Le soir, je téléphonerai à Inès, qui sera devenue professeure à Montréal. Nous nous raconterons nos projets et nous rirons beaucoup.
 
-Pour chaque phrase, choisissez la forme correcte et **justifiez
-en 4–5 mots**.
+## Sujet
 
-1. *Je (vais manger / mangerai)* dans cinq minutes.
-2. *Je (vais habiter / habiterai)* à Paris quand j'aurai 25 ans.
-3. *Attention, tu (vas tomber / tomberas)* — la marche est cassée.
+**Exemple de devoir surveillé (« Klassenarbeit ») — Niveau M**
 
-### Tâche 3 — Expression écrite (« Schreiben ») (15 points)
+**Tâche 1 — Grammaire (10 P.)** — Mettez les phrases au futur simple.
 
-Écrivez environ **80 mots** sur **vos futurs projets**. Au moins
-**6 verbes au futur simple**, dont **2 irréguliers**. Mentionnez :
+1. Karim *(prendre)* le train demain matin.
+2. Nous *(aller)* à Lille pour les vacances.
+3. Tu *(faire)* tes devoirs ce soir ?
+4. Léa *(être)* à Strasbourg dans cinq ans.
+5. Vous *(savoir)* la réponse après le cours.
 
-- où vous serez,
-- ce que vous étudierez ou ferez,
-- un projet personnel (voyage, famille, hobby).
+**Tâche 2 — Futur proche ou futur simple ? (5 P.)** — Choisissez et justifiez en 4-5 mots.
 
-## Notation
+1. *Je vais manger / mangerai* dans cinq minutes.
+2. *Je vais habiter / habiterai* à Paris quand j'aurai 25 ans.
+3. *Attention, tu vas tomber / tu tomberas* — la marche est cassée.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Grammatik | 10 |
-| Tâche 2 — Distinguer | 5 |
-| Tâche 3 — Expression écrite | 15 |
-| **Total** | **30** |
+**Tâche 3 — Expression écrite (15 P.)** — Rédigez ~80 mots sur **vos futurs projets** (lieu, études/métier, projet personnel). Au moins **6 verbes** au futur simple, dont **2 irréguliers**.
 
-## Solutions
+**Barème**
 
-**Tâche 1.** 1) prendra · 2) irons · 3) feras · 4) sera · 5)
-saurez.
+| Tâche | Compétence | Points |
+|---|---|---|
+| 1 | Grammaire (conjugaison) | 10 |
+| 2 | Grammaire (emploi des temps) | 5 |
+| 3 — contenu & structure | Expression écrite | 7 |
+| 3 — langue (futur, orthographe) | Expression écrite | 8 |
+| **Total** | | **30** |
 
-**Tâche 2.** 1) *vais manger* (futur immédiat, dans 5 min). 2)
-*habiterai* (futur lointain, projet). 3) *vas tomber* (alarme,
-imminent).
+Pour la tâche 2, choisissez une forme naturelle dans le contexte puis justifiez les deux premiers choix. Il ne s’agit pas d’une opposition absolue proche/lointain.
 
-**Tâche 3 (modèle, ~85 mots).** *Dans cinq ans, je serai à
-Strasbourg. J'étudierai l'architecture. Je vivrai dans une
-petite chambre. Le week-end, je prendrai le train pour
-Karlsruhe. Je voyagerai aussi au Maroc, parce que mon père y est
-né. Plus tard, j'aurai un bureau d'architecture spécialisé dans
-les bâtiments écologiques. Je n'oublierai pas le français.*
-*(verbes futur simple : serai, étudierai, vivrai, prendrai,
-voyagerai, aurai, oublierai — 7 verbes, dont* serai *et* aurai
-*irréguliers.)*
+## Corrigé
 
----
+**Total : 30 points.**
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+T1.prendra, irons, feras, sera, saurez : 2 points par forme, radical 1 et terminaison 1.
+T2. Les deux futurs sont possibles selon la perspective. On attend généralement vais manger, habiterai, vas tomber dans les contextes donnés, mais accepter une autre forme avec justification cohérente. Trois choix grammaticaux : 3 points; justification de deux choix : 2 points. La distance temporelle seule n’impose pas un temps.
+T3.contenu/structure 7, six futurs dont deux irréguliers et langue 8. Les projets peuvent être fictifs.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 8 · Niveau M · Unité 4*
+{{< /details >}}
+
+## Sources
+
+- *Futur simple* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Futur_simple>, licence CC BY-SA 4.0.
+- *Système éducatif français / orientation après la troisième* — Wikipédia, l'encyclopédie libre (consulté le 21 juillet 2026), <https://fr.wikipedia.org/wiki/Syst%C3%A8me_%C3%A9ducatif_fran%C3%A7ais>, licence CC BY-SA 4.0.
+- Textes, dialogues et exercices : originaux, rédigés pour cette unité.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

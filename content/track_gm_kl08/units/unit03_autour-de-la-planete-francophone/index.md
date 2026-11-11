@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 3
 slug: "autour-de-la-planete-francophone"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — production en continu"
-  - "3.1.1 Connaissances socio-culturelles / thèmes"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — production en continu"
+- "3.1.1 Connaissances socio-culturelles / thèmes"
 skills_focus:
 - reading
 - speaking_production
@@ -21,22 +21,56 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_autour-de-la-planete-francophone.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_autour-de-la-planete-francophone.png"
 tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
+- filiere-gm
+- classe-8
+- niveau-m
 aliases:
-  - "/track_gm_kl08/units/unit03_autour-de-la-planete-francophone.html"
+- "/track_gm_kl08/units/unit03_autour-de-la-planete-francophone.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.compensating.01
-    - A2.REC.reading-as-a-leisure-activity.03
-    - A2.REC.reading-for-information-and-argument.08
-    - A2.PROD.creative-writing.01
-    - A2.INT.conversation.08
+  - A2.PROD.compensating.01
+  - A2.REC.reading-as-a-leisure-activity.03
+  - A2.REC.reading-for-information-and-argument.08
+  - A2.PROD.creative-writing.01
+  - A2.INT.conversation.08
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file:
+    /fle/materials/worksheets/unit03_autour-de-la-planete-francophone-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit03_autour-de-la-planete-francophone-teacher.png
 audio_manifest: unit03_autour-de-la-planete-francophone
 ---
 
@@ -70,15 +104,13 @@ Lundi matin, en cours de français. Sur le tableau, une grande carte du monde. M
 2. Sur quels continents parle-t-on français, à votre avis ?
 3. Pourquoi, selon vous, parle-t-on français dans autant de pays différents ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Sur combien de **continents** pense-t-on que le français est parlé ?
 - Combien de **personnes** parlent français dans le monde, à votre avis : 30 millions, 100 millions ou plus de 300 millions ?
 - Nommez un pays francophone que vous n'avez **jamais** vu dans un manuel scolaire.
 - Que veut dire le mot **« francophone »** ? Décomposez-le : *franco-* + *-phone* (du grec *phônê*, « la voix, la parole »).
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Mot | Sens |
@@ -108,7 +140,7 @@ Lundi matin, en cours de français. Sur le tableau, une grande carte du monde. M
 
 > **Sénégal — Dakar.** Au Sénégal, le français est la langue officielle. Mais à la maison, beaucoup de familles parlent **wolof**. À l'école, l'enseignement se fait en français. De nombreux élèves grandissent donc bilingues : wolof à la maison, français en classe.
 
-> **Suisse — Berne.** La Suisse a quatre langues officielles : allemand, français, italien et romanche. À Genève et à Lausanne, on parle français. Particularité romande : on dit **« septante »** pour 70 et **« nonante »** pour 90.
+> **Suisse — Berne.** La Suisse a quatre langues nationales : allemand, français, italien et romanche. Au niveau fédéral, l'allemand, le français et l'italien sont langues officielles; le romanche l'est aussi dans les rapports avec les personnes de langue romanche. À Genève et à Lausanne, on parle français. Particularité romande : on dit **« septante »** pour 70 et **« nonante »** pour 90.
 
 > **Belgique — Bruxelles.** La Belgique a trois langues officielles : néerlandais, français et allemand. Bruxelles est officiellement bilingue (français et néerlandais). Comme en Suisse romande, on y dit **« septante »** et **« nonante »**.
 
@@ -119,22 +151,21 @@ Lundi matin, en cours de français. Sur le tableau, une grande carte du monde. M
 ### D. Note culturelle — un monde qui parle français
 
 {{< callout type="info" >}}
-Le français est une des langues les plus répandues de la planète. On l'estime à environ **300 millions de locuteur·rice·s**, dont à peu près 74 millions de personnes dont c'est la langue maternelle. Il est langue officielle dans une vingtaine de pays indépendants, répartis sur **tous les continents habités**.
+Le français est utilisé dans de nombreux pays et régions. Son statut et ses usages diffèrent : langue officielle, langue d'enseignement, langue familiale ou langue apprise. Un nombre de locuteurs doit toujours être accompagné de son année et de la définition utilisée.
 
-Fait souvent surprenant : le pays qui compte le plus grand nombre de francophones n'est pas la France, mais la **République démocratique du Congo**, en Afrique centrale. Sa capitale, **Kinshasa**, est la plus grande ville francophone du monde par sa population.
+La **République démocratique du Congo**, en Afrique centrale, compte une importante population francophone. À **Kinshasa**, le français coexiste avec d'autres langues. Un classement des villes ou des pays dépend du critère retenu : population totale, locuteurs réels ou maîtrise déclarée.
 
 *(Faits paraphrasés d'après Wikipédia, CC BY-SA — voir Sources.)*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Quel pays ?** Reliez chaque description au bon pays (A–E).
 
 A. Sénégal · B. Suisse · C. Belgique · D. Maroc · E. Côte d'Ivoire
 
 1. Le français y est la seule langue officielle. → ___
 2. À la maison, beaucoup de familles parlent wolof. → ___
-3. Ce pays a quatre langues officielles, dont le romanche. → ___
+3. Ce pays a quatre langues nationales, dont le romanche. → ___
 4. Ce pays a trois langues officielles, dont le néerlandais. → ___
 5. Les langues officielles sont l'arabe et l'amazigh. → ___
 
@@ -164,6 +195,7 @@ A. Sénégal · B. Suisse · C. Belgique · D. Maroc · E. Côte d'Ivoire
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1 = E · 2 = A · 3 = B · 4 = C · 5 = D.
 
 **Ex. 2.** 1) en Belgique · 2) au Maroc · 3) au Canada · 4) aux Seychelles · 5) au Sénégal.
@@ -171,9 +203,9 @@ A. Sénégal · B. Suisse · C. Belgique · D. Maroc · E. Côte d'Ivoire
 **Ex. 3.** 1 = M · 2 = E · 3 = O.
 
 **Ex. 4.** 1) Environ 300 millions de personnes parlent français dans le monde. · 2) La République démocratique du Congo compte le plus grand nombre de francophones. · 3) La plus grande ville francophone du monde est Kinshasa.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (M, monologue ~90 s).**
 
 Présentez un **pays francophone** de votre choix (un pays de la liste ou un autre). Suivez cette structure :
@@ -196,40 +228,18 @@ Présentez un **pays francophone** de votre choix (un pays de la liste ou un aut
 | Prononciation | prononciation claire et compréhensible | 4 |
 | **Total** | | **15** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux citer 5 pays francophones et leur capitale.
 - [ ] Je distingue *langue officielle*, *maternelle* et *d'enseignement*.
 - [ ] J'emploie correctement *au*, *en* et *aux* devant un nom de pays.
 - [ ] Je sais que le pays le plus francophone du monde est la RD Congo.
 - [ ] Je peux faire un monologue de 90 secondes sur un pays francophone.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit »)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl08/units/unit03_autour-de-la-planete-francophone_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 P.)**
-
-Lisez les cinq portraits courts (partie C) et répondez par des phrases complètes.
-
-1. Quel pays a quatre langues officielles ? (2 P.)
-2. Au Maroc, dans quels domaines le français reste-t-il présent ? (2 P.)
-3. Pourquoi beaucoup d'élèves sénégalais·es sont-ils bilingues ? (2 P.)
-4. Que veut dire le mot ivoirien *« enjailler »* ? (2 P.)
-5. Que signifie être *bilingue* ? (2 P.)
-
-**Tâche 2 — Expression orale, production en continu (15 P.)**
-
-Présentez à la classe, en direct ou enregistré, un pays francophone (~90 s), en suivant la structure de la partie *Produire*. Barème : Contenu 6 P. · Langue 5 P. · Prononciation 4 P.
-
-**Tâche 3 — Prépositions (5 P.)**
-
-Complétez avec *au*, *en* ou *aux* :
-Je voyage ___ Belgique, puis ___ Sénégal ; ensuite je vais ___ Seychelles, ___ Maroc et enfin ___ Suisse.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.** Répartition indicative : Situation de départ + Activer 7' · Apporter 13' · S'entraîner 12' · Produire (préparation) 8' · Réfléchir 5'. Les présentations orales (Produire) et le devoir surveillé (Évaluation) se déroulent sur une séance suivante.
 
@@ -240,6 +250,9 @@ Je voyage ___ Belgique, puis ___ Sénégal ; ensuite je vais ___ Seychelles, ___
 **Remarque de langue.** Distinguer *la francophonie* (l'ensemble des locuteur·rice·s) et *la Francophonie* / l'OIF (l'organisation internationale, avec majuscule).
 
 ## Sources
+
+- Office fédéral de la culture — Langues (vérification éditoriale du 31 octobre 2026), <https://www.bak.admin.ch/fr/langues>.
+
 
 - **Francophonie** — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/Francophonie>, licence CC BY-SA 4.0.
 - **Organisation internationale de la Francophonie** — Wikipedia (consulté le 2026-07-21), <https://en.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie>, licence CC BY-SA 4.0.

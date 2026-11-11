@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit08_reseaux-sociaux/index.md",
-    "source_body_sha256": "5518467b82047a8afaf79a73a48d21788f97997a79f1b617ed13b6dce3982447",
+    "source_body_sha256": "56169bcc0102f882f0b79fd23077aa5b96d28bc66898c8c4ff9489f3f7914de6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le réseau social.\nune publication / un post.\nun like / aimer.\nun filtre.\nl'algorithme (m.).\nla bulle de filtre.\nl'identité numérique.\nla comparaison.\nla déconnexion.\nle bien-être."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit08_reseaux-sociaux/index.md",
-    "source_body_sha256": "5518467b82047a8afaf79a73a48d21788f97997a79f1b617ed13b6dce3982447",
+    "source_body_sha256": "56169bcc0102f882f0b79fd23077aa5b96d28bc66898c8c4ff9489f3f7914de6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Chaque matin, Inès ouvre son téléphone avant même de se lever. Elle regarde les stories de ses amies : une plage, un café joliment décoré, un nouveau sac.  Tout le monde a l'air heureux, sauf moi , se dit-elle. Mais un jour, sa cousine lui explique :  Personne ne poste ses journées ennuyeuses. Tu compares ta vraie vie à une vitrine.  Inès y réfléchit. Le soir, elle publie une photo simple : ses devoirs, une tasse de thé, et la légende  lundi normal . À sa surprise, ce sont ses amies les plus proches qui réagissent.  C'est reposant , lui écrit l'une d'elles. Depuis, Inès ne poste plus pour impressionner, mais pour partager. Elle passe aussi moins de temps à scroller.  Je n'ai pas quitté les réseaux , dit-elle,  j'ai juste changé ma façon de les utiliser."

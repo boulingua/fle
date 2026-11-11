@@ -23,12 +23,23 @@ curriculum:
     - A1.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 7
+## Modalités
 
-### Tâche 1 — Grammatik : partitifs (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
+
+## Support
+
+### C. Texte — Le petit déjeuner de Camille (texte original)
+
+> Le matin, Camille se lève à sept heures. Pour le petit déjeuner, elle mange **du** pain avec **du** beurre et **de la** confiture. Elle boit **un** grand bol de chocolat chaud. Son frère, lui, préfère **des** céréales et **un** jus d'orange. « Je ne mange pas **de** fromage le matin », dit Camille en riant, « le fromage, c'est pour le soir ! »
+
+### Tâche 1 — Articles (10 points)
 
 Complétez avec *du, de la, de l', des, de*.
 
@@ -41,53 +52,57 @@ Complétez avec *du, de la, de l', des, de*.
 7. Il commande ___ jus d'orange.
 8. On ne mange pas ___ viande aujourd'hui.
 
-### Tâche 2 — Compréhension écrite (« Leseverstehen ») (8 points)
+**Barème :** 8 réponses ×1 point +2 justifications ×1.
 
-Lisez le dialogue D de l'Unité 4 (au café). Répondez :
+Justifiez deux de vos choix grammaticaux : expliquez la négation ou l’élision employée.
 
-1. Qui est le serveur ?
-2. Que commande Léa ?
-3. Que prend Inès comme boisson ?
-4. Inès veut-elle de la confiture ?
+### Tâche 2 — Lecture (8 points)
 
-### Tâche 3 — Expression orale (« Sprechen ») / Expression écrite (« Schreiben ») (12 points)
+1. À quelle heure Camille se lève-t-elle et que mange-t-elle comme base du petit déjeuner ?
+2. Quels deux aliments met-elle sur le pain ?
+3. Que boit Camille et dans quel récipient ?
+4. Que préfère son frère comme aliment et comme boisson ?
 
-Écrivez un **dialogue au café** en **6 répliques** :
-serveur ↔ client(e). Utilisez **3 partitifs** différents.
+**Barème :** 4 réponses ×2 points.
 
-## Notation
+### Tâche 3 — Interaction orale (12 points)
+
+Jouez un dialogue de café de six à huit répliques : accueil, commande, question, choix et addition. Choisissez des aliments du vocabulaire; inventez clairement un prix. Employez trois partitifs et des formules polies.
+
+**Barème :** Commande/contenu 4, interaction 4, partitifs/politesse 4.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Grammatik | 10 |
-| Tâche 2 — Compréhension écrite | 8 |
-| Tâche 3 — Dialogue | 12 |
+|---|---:|
+| 1 | 10 |
+| 2 | 8 |
+| 3 | 12 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) du · 2) de l' · 3) des · 4) de la · 5) du ·
-6) de · 7) du · 8) de.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** 1) L'employé du café. 2) Une crêpe au chocolat + un
-jus d'orange. 3) Un chocolat chaud. 4) Non, juste du beurre.
+**Tâche 1.** Du, de l', des, de la, du, de, du, de. Deux justifications : *de/d'* après une négation, ou élision dans *de l'eau*.
 
-**Tâche 3.** Réponses libres. Critères : 6 répliques · 3 partitifs ·
-formules polies (*je voudrais, s'il vous plaît, merci*).
+**Tâche 2.** Sept heures/pain; beurre/confiture; chocolat chaud/grand bol; céréales/jus d'orange. Un point par élément attendu.
 
----
+**Tâche 3.** Observer l'échange réel. Les prix inventés sont admis dans le scénario annoncé; aucun ancien menu absent du sujet n'est exigé.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 4*
+- *Repas gastronomique des Français* — Wikipédia (contributeurs), consulté en 2026, <https://fr.wikipedia.org/wiki/Repas_gastronomique_des_Fran%C3%A7ais>, licence CC BY-SA 4.0.
+- *Gastronomic meal of the French* — UNESCO, Patrimoine culturel immatériel, inscription 2010, <https://ich.unesco.org/fr/RL/le-repas-gastronomique-des-francais-00437>, informations publiques (paraphrasées).
+
+*Plateforme éducative indépendante, sans affiliation à TV5 Monde, à l'UNESCO ni à aucun établissement mentionné.*
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

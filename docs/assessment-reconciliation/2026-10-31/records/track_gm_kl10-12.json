@@ -1,0 +1,39 @@
+{
+  "unit": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife/index.md",
+  "exam": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam/index.md",
+  "before_unit_sha256": "c016371d691767bec5b9eda3e38f437439bd3a9b997e39a9ab54331ffec4bf00",
+  "after_unit_sha256": "f681b6ef21c47eb5abe31864872e41eef6551bb9bc33bd362f221ecf8677bb6a",
+  "before_exam_sha256": "28b51367b57d4f8a441828aeb471a41e2e93dc95f7e0f2f16471b7b73c6c520a",
+  "after_exam_sha256": "87366ce18d53cf69a2ed18d2900385a76e98f360a5af65469d81bfc2764bc618",
+  "source_sections": [
+    "B"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "speaking_production",
+    "writing"
+  ],
+  "decisions": [
+    "Preserved12 oral and18 written reflection points. Removed absent farewell-letter facts and scoring of unearned self-claimed certification."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "77d222cce0b406d5acab111c1327b56676240c8046017dee328b4b2cc05d76d6",
+      "after_sha256": "5bbec51b4c0907401aae26aac856fc5b5a96e690ad93cc36dfe70678e8630531",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit12_bilan-fin-de-mittlere-reife_exam/index.md",
+      "before_sha256": "5bbec51b4c0907401aae26aac856fc5b5a96e690ad93cc36dfe70678e8630531",
+      "after_sha256": "87366ce18d53cf69a2ed18d2900385a76e98f360a5af65469d81bfc2764bc618",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

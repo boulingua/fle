@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit02_ma-famille/index.md",
-    "source_body_sha256": "39af578d4dfba4d288f45ac77563c5c12622ad78b9b6868fd1b05685023c60dd",
+    "source_body_sha256": "8f9c0b30c1022c44c5e706da669be2625d2644802c5ed3d41970a6046b739184",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Madame Renault : Léa, présente-nous ta famille, s'il te plaît ! Léa : D'accord. Voici mon père, Stefan. Voici ma mère, Anne. Et là, c'est mon petit frère, Jonas. Madame Renault : Très bien. Et ce petit animal, à droite ? Léa : Ah, c'est mon chat, Mistigri ! Pour moi, c'est aussi ma famille."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit02_ma-famille/index.md",
-    "source_body_sha256": "39af578d4dfba4d288f45ac77563c5c12622ad78b9b6868fd1b05685023c60dd",
+    "source_body_sha256": "8f9c0b30c1022c44c5e706da669be2625d2644802c5ed3d41970a6046b739184",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la mère.\nle père.\nles parents.\nle frère.\nla sœur.\nle grand-père.\nla grand-mère.\nla fille.\nle fils.\nl'oncle · la tante.\nle cousin · la cousine.\nle chien · le chat."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl06/units/unit02_ma-famille/index.md",
-    "source_body_sha256": "39af578d4dfba4d288f45ac77563c5c12622ad78b9b6868fd1b05685023c60dd",
+    "source_body_sha256": "8f9c0b30c1022c44c5e706da669be2625d2644802c5ed3d41970a6046b739184",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

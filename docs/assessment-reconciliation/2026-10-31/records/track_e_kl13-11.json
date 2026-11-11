@@ -1,0 +1,50 @@
+{
+  "unit": "content/track_e_kl13/units/unit11_abitur-mock-final/index.md",
+  "exam": "content/track_e_kl13/units/unit11_abitur-mock-final_exam/index.md",
+  "before_unit_sha256": "e8604e169202bb83e5715c3d54debb3a0f049f21bb04e554b8b77b6758415dd4",
+  "after_unit_sha256": "eadd80685df8cb12e223161ad2e78c36dc7b127a723a1d11b4f60c1cb354c118",
+  "before_exam_sha256": "a121c7cb32e43cac10e2417a50a3e97be1a0ddca5e3fd6df214ed7ddd0b89eb0",
+  "after_exam_sha256": "8389efac746c2b9d34e3ac7e714dfe88668ad80918e53fa38050b4b744489a86",
+  "source_sections": [
+    "B"
+  ],
+  "supplied_source_sha256": "d3b1cb440fc9da987ef7890f1a5e7dffbb749a65eb2a735a85db52350dad7c0a",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Preserved10+20withactualsingletext; correctednonexistentopposingposition; futurecampaign andunsourcedGoethestudy model archived."
+  ],
+  "sibling_task_disposition": {
+    "1": "replaced by source-bound embedded assessment",
+    "2": "replaced by coherent embedded assessment",
+    "3": "retained only where aligned; divergent originals archived"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "0cf74f36e928247f0ba96a79b8429c15138b93cab592890357335156d85ee99a",
+      "after_sha256": "fb83517f3877592c8897bc47b1181d1dc3b8fe5ba1d40df8e55fba7c45f0abaf",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl13/units/unit11_abitur-mock-final_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "fb83517f3877592c8897bc47b1181d1dc3b8fe5ba1d40df8e55fba7c45f0abaf",
+      "after_sha256": "92af2fd46523ee356fd824d0e07bca79ce5b77f5ff917e34d2e19e987790adb2",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl13/units/unit11_abitur-mock-final_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl13/units/unit11_abitur-mock-final_exam/index.md",
+      "before_sha256": "92af2fd46523ee356fd824d0e07bca79ce5b77f5ff917e34d2e19e987790adb2",
+      "after_sha256": "8389efac746c2b9d34e3ac7e714dfe88668ad80918e53fa38050b4b744489a86",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

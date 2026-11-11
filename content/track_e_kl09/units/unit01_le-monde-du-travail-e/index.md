@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 1
 slug: "le-monde-du-travail-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_le-monde-du-travail-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_le-monde-du-travail-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit01_le-monde-du-travail-e.html"
+- "/track_e_kl09/units/unit01_le-monde-du-travail-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.03
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.PROD.overall-oral-production.01
-    - A2.PLUR.building-on-plurilingual-repertoire.02
+  - A2.PROD.creative-writing.03
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.PROD.overall-oral-production.01
+  - A2.PLUR.building-on-plurilingual-repertoire.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit01_le-monde-du-travail-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_le-monde-du-travail-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit01_le-monde-du-travail-e-teacher.png
 audio_manifest: unit01_le-monde-du-travail-e
 ---
 
@@ -66,15 +98,13 @@ M. Klein, professeur d'orientation, distribue un dossier à la classe de 9e.
 2. Quel lieu de stage choisit Anouk ? Et Karim ?
 3. Quel métier intéresse Karim ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà fait un mini-stage ou visité une entreprise ?
 - Quel métier vous intéresse aujourd'hui ? Pourquoi ?
 - À votre avis, quelle différence y a-t-il entre un *stage* et un *job d'été* ?
 - Notez au tableau trois mots français que vous connaissez déjà sur le travail.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — le monde du travail
 
 | Français | Genre / pluriel | Allemand |
@@ -121,8 +151,7 @@ En France, un stage en entreprise repose sur une **convention de stage** : un do
 
 *(Faits paraphrasés d'après l'article « Stage en entreprise », Wikipédia en français, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Réponds par une phrase complète.
 
 1. Où Anouk fait-elle son stage ?
@@ -157,6 +186,7 @@ En France, un stage en entreprise repose sur une **convention de stage** : un do
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Elle fait son stage à l'Institut français de Karlsruhe.
 2. Sa tutrice est Mme Lambert ; elle l'accueille à 9 h.
@@ -168,9 +198,9 @@ En France, un stage en entreprise repose sur une **convention de stage** : un do
 **Ex. 3.** Réponse possible : *Au début, je suis arrivée. D'abord, j'ai aidé à l'accueil. Ensuite, j'ai observé une réunion. Puis j'ai classé des dossiers. Enfin, je suis partie.*
 
 **Ex. 4.** 1) est arrivé — 2) a visité — 3) ont préparé — 4) sont allés.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, environ 150 mots) :**
 
 Rédige **ton rapport de stage d'une journée** (réel ou imaginaire). Ton texte doit contenir :
@@ -191,28 +221,18 @@ Rédige **ton rapport de stage d'une journée** (réel ou imaginaire). Ton texte
 | Passé composé | Temps et accords majoritairement corrects | 3 |
 | Longueur et bilan | ~150 mots + une phrase-bilan | 2 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je connais une dizaine de mots du monde du travail.
 - [ ] J'enchaîne les étapes avec au moins cinq connecteurs de séquence.
 - [ ] J'emploie le passé composé et je vérifie les accords avec *être*.
 - [ ] Je repère des informations précises dans un rapport de stage.
 - [ ] Je rédige un rapport d'environ 150 mots et je le relis.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — compréhension écrite + expression écrite (E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit01_le-monde-du-travail-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 P.).** Lis un court rapport de stage (jour 2, fourni par l'enseignant·e). Réponds à cinq questions par des phrases complètes.
-
-**Tâche 2 — Vocabulaire (8 P.).** Complète huit phrases avec les mots du monde du travail (tableau A).
-
-**Tâche 3 — Expression écrite (12 P.).** Rédige le rapport d'une journée de stage (environ 150 mots) : 4 étapes, 5 connecteurs, 6 mots du travail, passé composé, une phrase-bilan.
-
-**Barème — Total : 30 P.** (Tâche 1 : 10 · Tâche 2 : 8 · Tâche 3 : 12).
-Répartition Tâche 3 : contenu 4 · connecteurs 3 · langue 3 · longueur/bilan 2.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

@@ -23,75 +23,84 @@ curriculum:
     - B1.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 45
+assessment_scoring: points-only
 ---
 
-## Devoir surveillé — Niveau M, classe 10
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Durée indicative : 45 minutes, à éprouver en classe.
 
-Lisez l'article EnCLASS 2024 (Unité 8, texte C). Répondez :
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-1. Quelle proportion de jeunes ressent un impact négatif ?
-2. Filles ou garçons plus touchés ? Avec quels chiffres ?
-3. Citez les **3 facteurs** principaux + leur pourcentage.
-4. Quelle proportion garde malgré tout ses comptes ?
-5. Citez **3 solutions** proposées.
+## Support
 
-### Tâche 2 — Vocabulaire (8 points)
+### B. Texte (original) — « Poster ou pas ? »
 
-Définition simple en français :
+> Chaque matin, Inès ouvre son téléphone avant même de se lever. Elle regarde les stories de ses amies : une plage, un café joliment décoré, un nouveau sac. « Tout le monde a l'air heureux, sauf moi », se dit-elle.
+>
+> Mais un jour, sa cousine lui explique : « Personne ne poste ses journées ennuyeuses. Tu compares ta vraie vie à une vitrine. » Inès y réfléchit. Le soir, elle publie une photo simple : ses devoirs, une tasse de thé, et la légende « lundi normal ». À sa surprise, ce sont ses amies les plus proches qui réagissent. « C'est reposant », lui écrit l'une d'elles.
+>
+> Depuis, Inès ne poste plus pour impressionner, mais pour partager. Elle passe aussi moins de temps à scroller. « Je n'ai pas quitté les réseaux », dit-elle, « j'ai juste changé ma façon de les utiliser. »
 
-- la FOMO · la bulle de filtre · l'addiction au scroll ·
- la détox numérique · l'algorithme · le filtre beauté ·
- la comparaison · le syndrome de l'imposteur.
+### Tâche 1 — Compréhension (12 points)
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+1. Que regarde Inès le matin et quelle impression en tire-t-elle ? (2)
+2. Quelle explication sa cousine lui donne-t-elle ? (2)
+3. Que montre la nouvelle photo d'Inès ? Donnez deux éléments. (2)
+4. Que signifie « vitrine » dans la phrase de la cousine ? (2)
+5. Quelle évolution se produit dans sa façon d'utiliser les réseaux ? Justifiez avec deux indices du texte. (4)
 
-Prise de position (~**150 mots**) :
+**Barème :** Questions 1–4 : 2 chacune; question 5 : 4.
 
-> *« Faut-il interdire les filtres beauté sur les réseaux ? »*
+### Tâche 2 — Vocabulaire (6 points)
 
-Plan : thèse + 2 arguments pour + 2 arguments contre +
-conclusion. **5 connecteurs** minimum.
+Reliez : réseau social; publication; filtre; algorithme; comparaison; déconnexion.
+A. Faire une pause hors ligne. B. Texte, photo ou vidéo partagé. C. Plateforme d'échanges. D. Retouche d'une image. E. Programme qui sélectionne les contenus. F. Se mesurer aux autres.
 
-## Notation
+**Barème :** 6 associations × 1.
+
+### Tâche 3 — Interaction orale guidée (12 points)
+
+Préparez puis jouez en binôme un dialogue d'au moins huit répliques sur « Les réseaux peuvent-ils servir à partager sans impressionner ? ». Chacun donne deux arguments, pose une question, répond et formule au moins une concession. Distinguez le récit d'Inès d'une preuve sur tous les jeunes; ne fabriquez ni statistique ni diagnostic. La fiche écrite prépare l'échange, elle ne le remplace pas.
+
+**Barème :** Contenu 6; interaction 4; langue 2.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Vocabulaire | 8 |
-| Tâche 3 — Expression écrite | 12 |
+|---|---:|
+| 1 | 12 |
+| 2 | 6 |
+| 3 | 12 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) 27 %. 2) Filles 33 %, garçons 21 %. 3) Comparaison
-physique (47 %), cyberharcèlement (29 %), dépendance au scroll
-(24 %). 4) 80 %. 5) Déconnexion 1h avant coucher, compte privé,
-pause d'une semaine par trimestre.
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** Peur de rater · algorithme qui ne montre que ce qui
-nous ressemble · habitude irrépressible · période sans réseaux ·
-trie automatique du contenu · retouche photo · se mesurer aux
-autres · sentiment de ne pas mériter sa place.
+**T 1.** 1 Stories des amies 1, tout le monde heureux sauf elle 1. 2 Les journées ennuyeuses ne sont pas montrées; comparer sa vie à une vitrine (2).3 Deux parmi devoirs, tasse de thé, légende « lundi normal » (1 chacun).4 Image choisie/exposée 1, pas vie complète 1. 5 Partager plutôt qu'impressionner 2; moins de défilement 1 et réactions des amies proches / photo ordinaire 1.
 
-**Tâche 3.** Réponses libres. Critères : 150 mots · plan complet
-· 5 connecteurs · arguments concrets.
+**T 2.** Réseau social C; publication B; filtre D; algorithme E; comparaison F; déconnexion A.
 
----
+**T 3.** Contenu 6 : raisons cohérentes 4, nuance 2; interaction 4 : réponses et relances; langue 2. Observer la prestation, jamais seulement les huit lignes écrites. Aucun chiffre EnCLASS n'est fourni par cette fiction.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau M · Unité 8*
+- « Bulle de filtres » — Wikipédia (contributeurs), consulté en 2026, <https://fr.wikipedia.org/wiki/Bulle_de_filtres>, licence CC BY-SA 4.0.
+- « Réseautage social » — Wikipédia (contributeurs), consulté en 2026, <https://fr.wikipedia.org/wiki/R%C3%A9seautage_social>, licence CC BY-SA 4.0.
+
+*Plateforme indépendante, sans lien avec les organismes ou plateformes cités.*
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

@@ -23,73 +23,73 @@ curriculum:
     - B2.PRAG.fluency.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
+assessment_duration_minutes: 90
+assessment_scoring: points-only
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 13 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d'entraînement réconcilié avec les supports de l'unité. Ce n'est ni un sujet officiel ni une certification de niveau. Les situations originales sont des scénarios pédagogiques; les références littéraires conservent leur attribution. Les durées et barèmes proposés restent à éprouver en classe. La validation pédagogique et linguistique reste en attente.
 
-Lisez l'essai *« Pourquoi le français ? »* (Unité 3, texte C).
-Répondez :
+Durée indicative : 90 minutes, selon les phases précisées ci-dessous.
 
-1. Combien de souvenirs sont cités ?
-2. Quelle citation d'Ormesson ?
-3. Où ira Anouk en septembre ?
-4. Que dit Ben Jelloun cité par Anouk ?
-5. Comment Anouk décrit-elle le français en quatre mots ?
+## Support
 
-### Tâche 2 — Genres argumentatifs (8 points)
+### C. Texte-modèle : « Pourquoi j'écris » (texte original, ~230 mots)
 
-Reliez chaque genre à sa caractéristique :
+> On me demande souvent pourquoi je remplis des carnets que personne ne lira. La réponse est simple : **j'écris pour comprendre ce que je pense**.
+>
+> Enfant, je croyais que les idées existaient d'abord dans la tête, toutes prêtes, et qu'écrire ne servait qu'à les recopier. Je me trompais. En réalité, la plupart de mes idées n'apparaissent qu'au moment où la main avance sur la page. **La phrase précède souvent la pensée.**
+>
+> Cependant, cette découverte a un revers. Écrire, c'est aussi se trahir : on croit dire une chose, et le mot en révèle une autre. J'ai longtemps eu peur de cette trahison. Aujourd'hui, je l'accueille, car c'est elle qui m'apprend qui je suis.
+>
+> Ainsi, chaque carnet est une conversation avec un moi que je ne connais pas encore. Je n'écris pas pour être lu. J'écris pour **me rencontrer**.
 
-- essai · dissertation · commentaire · pamphlet · article ·
- thèse · mémoire · billet
+## Tâches et barème
 
-(Caractéristiques : « je » + thèse personnelle · TAS scolaire
-neutre · analyse texte donné · attaque virulente · presse ·
-universitaire long · master · presse court.)
+**Tâche 1 — Compréhension (8 points).** Répondez à partir de « Pourquoi j'écris ». Chaque réponse vaut 2 points.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+1. Quelle est la thèse du narrateur et quelle ancienne croyance abandonne-t-il ?
+2. Quel risque de l'écriture évoque-t-il et comment son attitude change-t-elle ?
+3. Relevez un connecteur qui introduit une opposition et un autre qui annonce une conclusion.
+4. Quelle image termine l'essai et que signifie-t-elle ?
 
-Rédigez **votre essai personnel** (~500 mots) sur un sujet :
-*Pourquoi le français ? · Pourquoi lire ? · Pourquoi
-voyager ?* — 4-6 § + 5 citations + 1 chute + « je ».
+**Tâche 2 — Genres et connecteurs (6 points).**
 
-## Notation
+Associez les trois genres aux descriptions (3 points) : essai personnel; dissertation; commentaire de texte.
+A. Analyse organisée d'un texte précis. B. Réflexion libre portant une voix personnelle. C. Réponse argumentée à une question selon un plan explicite.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Genres | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+Complétez avec **cependant, car, ainsi**, une fois chacun (3 points) :
+1. J'écris pour comprendre, ___ mes idées se précisent sur la page.
+2. Je souhaite être exact; ___, certains mots me surprennent.
+3. J'observe ce que j'ai écrit; ___, je découvre une pensée nouvelle.
 
-## Solutions
+**Tâche 3 — Essai personnel (16 points).** Environ 500 mots sur « Une activité qui m'aide à penser » ou « Ce que j'ai changé dans ma manière d'apprendre ». Posez une thèse, développez des exemples, utilisez quatre connecteurs pertinents et une voix personnelle, puis terminez par une chute. Les expériences peuvent être fictives; aucune confidence n'est exigée.
 
-**Tâche 1.** 1) Quatre (Inès, Karim, Ernaux, Camus). 2)
-*« Le français n'appartient à personne. »* 3) À Bordeaux,
-chez Mollat. 4) *« La langue française m'a adopté. »* 5)
-Caresse, mosaïque, mémoire, exigence.
+**Barème :** Tâche 1 /8; tâche 2 /6; tâche 3 : réflexion et exemples /6, progression et connecteurs /4, langue /4, voix personnelle et chute /2. **Total : 30 points.**
 
-**Tâche 2.** Réponses libres (associations).
+## Corrigé et observation
 
-**Tâche 3.** Réponses libres. Critères : 500 mots · 4-6 § ·
-5 citations · 1 chute · « je ».
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
----
+**Tâche 1.** 1. Comprendre sa pensée 1; les idées ne sont pas toutes prêtes avant l'écriture 1. 2. Les mots peuvent révéler autre chose que prévu 1; de la peur à l'accueil de cette découverte 1. 3. Cependant 1; ainsi 1. 4. Conversation/rencontre avec soi 1; mieux découvrir sa propre pensée 1.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+**Tâche 2.** Essai B; dissertation C; commentaire A (1 chacun). Phrases : 1 car; 2 cependant; 3 ainsi (1 chacune).
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+**Tâche 3.** Les critères annoncés priment sur l'exactitude d'un récit personnel. Accepter un récit inventé explicitement présenté comme tel. Une simple liste de souvenirs sans réflexion ne remplit pas la tâche.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 13 · Niveau E · Unité 3*
+{{< /details >}}
+
+## Sources
+
+- *Essais (Montaigne)* — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Essais_(Montaigne)>, licence CC BY-SA 4.0.
+- *Essai* — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Essai>, licence CC BY-SA 4.0.
+
+## Provenance
+
+Support : unité correspondante, section(s) C. Les deux versions antérieures et les décisions sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. La reprise d’un texte connu est un entraînement; une épreuve de transfert indépendante demande un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

@@ -1,0 +1,72 @@
+{
+  "unit": "content/track_e_kl11/units/unit10_ecologie-en-france/index.md",
+  "exam": "content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md",
+  "before_unit_sha256": "52372299b24dff94b070eacb7da455ec39e42b360ee3a1b2fa419e16cdf46ae4",
+  "after_unit_sha256": "17cf96bac4ed4495d22519ffa1c034fb742570cb29a45b3e811fa52bde777734",
+  "before_exam_sha256": "d7cb1fb29ae86b6a0ca1921b5fa315ba4d15152c8930c0a660c426bb220d1ccc",
+  "after_exam_sha256": "49b27c1bca782370e78dbd6b851a2847669074f4b0ebd8c20edf790b0f0778b3",
+  "source_sections": [
+    "Texte"
+  ],
+  "supplied_source_sha256": "3b47649d8cde2d35e95520bff63cb702d9a3c60c3a506e811197cfda473f42de",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unsupported figures and policy details from absentAnoukMehdi dialogue; actual debate text supplied, oral interaction preserved. Definition/source-claim corrections queued in unit."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "previous_record_sha256": "c039bf96d30b330884a70bd7405f6c6fdd3f444c9934742c8a7327240f9fd351",
+      "before_sha256": "c039bf96d30b330884a70bd7405f6c6fdd3f444c9934742c8a7327240f9fd351",
+      "after_sha256": "17cf96bac4ed4495d22519ffa1c034fb742570cb29a45b3e811fa52bde777734",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "previous_record_sha256": "c8be3ebadacead0f1ba2c5f8aae939713e37759ea37aa632ed3b50e03c17152c",
+      "before_sha256": "c8be3ebadacead0f1ba2c5f8aae939713e37759ea37aa632ed3b50e03c17152c",
+      "after_sha256": "4e804ccc87993c5fd9d64052b3310657e6517a20ba6e20c516fb6d6ad31961b6",
+      "reason": "Source fidelity and factual/grammar corrections; see factual-source-repairs manifest."
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "4e804ccc87993c5fd9d64052b3310657e6517a20ba6e20c516fb6d6ad31961b6",
+      "after_sha256": "89711d96c4e633d7d8cf041b17916e4890c7d24ce86d6d795c67311254157f8b",
+      "reasons": [
+        "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+        "Align teacher key with observed speaking outcome.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "89711d96c4e633d7d8cf041b17916e4890c7d24ce86d6d795c67311254157f8b",
+      "after_sha256": "49863f312ed9fbd303c428be5335e77eaf49b57509adb0e0cdeeefd07f73ce08",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit10_ecologie-en-france_exam/index.md",
+      "before_sha256": "49863f312ed9fbd303c428be5335e77eaf49b57509adb0e0cdeeefd07f73ce08",
+      "after_sha256": "49b27c1bca782370e78dbd6b851a2847669074f4b0ebd8c20edf790b0f0778b3",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl11",
+      "unit": 10,
+      "total": 30,
+      "decision": "Observed speaking restored in task 3; source-complete reading/language tasks retained; weighting explicitly revised from embedded variant.",
+      "oral_points": 12
+    }
+  ]
+}

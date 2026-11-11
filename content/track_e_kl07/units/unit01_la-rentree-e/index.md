@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 1
 slug: "la-rentree-e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - speaking_interaction
 presentation:
@@ -18,22 +18,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit01_la-rentree-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit01_la-rentree-e.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit01_la-rentree-e.html"
+- "/track_e_kl07/units/unit01_la-rentree-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.conversation.02
-    - A1.INT.goal-oriented-co-operation.01
-    - A1.LING.phonological-control.01
-    - A1.PLUR.building-on-plurilingual-repertoire.01
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.INT.conversation.02
+  - A1.INT.goal-oriented-co-operation.01
+  - A1.LING.phonological-control.01
+  - A1.PLUR.building-on-plurilingual-repertoire.01
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit01_la-rentree-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 20
+  skills:
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit01_la-rentree-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit01_la-rentree-e-teacher.png
 audio_manifest: unit01_la-rentree-e
 ---
 
@@ -66,8 +97,7 @@ Premier jour, 8 h 05. Dans la cour du lycée, Léa cherche sa salle. Elle croise
 2. Quelles informations Léa et Malik échangent-ils sur leur emploi du temps ?
 3. Quelles formules servent à *saluer* et à *proposer quelque chose* ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En classe entière, à l'oral, répondez rapidement :
 
 - Comment dit-on « bonjour » à un·e ami·e, de façon familière ? (au moins deux façons)
@@ -75,8 +105,7 @@ En classe entière, à l'oral, répondez rapidement :
 - Quelle est votre salle de classe principale en 7e ?
 - Que ressentez-vous le jour de la rentrée : content·e, stressé·e, curieux·se… ? Pourquoi ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la rentrée
 
 | Français | Exemple | Allemand (aide) |
@@ -118,8 +147,7 @@ En classe entière, à l'oral, répondez rapidement :
 
 En France, la rentrée scolaire a lieu au début du mois de septembre et concerne, le même jour, tout le pays. Pendant l'année, en revanche, les vacances (hiver, printemps) sont décalées selon trois zones géographiques (A, B et C) : toutes les régions ne partent pas en même temps, afin d'éviter que trop de familles voyagent le même jour. La rentrée de septembre et les grandes vacances d'été restent, elles, communes à toute la France. *(Fait paraphrasé d'après Wikipédia, « Vacances scolaires en France », CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).** Répondez par une phrase complète.
 
 1. Que met Nour dans son sac le matin ?
@@ -153,6 +181,7 @@ En France, la rentrée scolaire a lieu au début du mois de septembre et concern
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1) Elle met un cahier, deux stylos, une trousse et son emploi du temps.
 2) Elle a un peu peur, mais elle est surtout curieuse.
@@ -171,9 +200,9 @@ En France, la rentrée scolaire a lieu au début du mois de septembre et concern
 - **M (intermédiaire) :** exercices tels quels.
 - **E (approfondi) :** après l'Ex. 4, prolongez le dialogue de deux répliques (question sur une matière + réponse) sans modèle.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'interaction orale (en binôme, ~8 répliques).**
 
 A et B se rencontrent le jour de la rentrée. Improvisez un dialogue : se saluer → demander comment vont les vacances / la forme → parler de la classe et de l'emploi du temps (au moins deux matières, une salle) → proposer de faire quelque chose ensemble (aller en cours, à la cantine) → conclure.
@@ -188,8 +217,7 @@ A et B se rencontrent le jour de la rentrée. Improvisez un dialogue : se saluer
 | Lexique | Emploi de 4+ mots de la rentrée (emploi du temps, salle, matière…). |
 | Fluidité / prononciation | Débit compréhensible, salutations naturelles. |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez déjà faire :
 
 - [ ] Je salue un·e camarade de plusieurs façons.
@@ -198,23 +226,11 @@ Cochez ce que vous savez déjà faire :
 - [ ] Je conjugue *être, avoir, aller, faire* et un verbe en -er.
 - [ ] Je tiens un dialogue de rentrée d'environ 8 répliques.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve orale d'interaction (« mündliche Prüfung »), skills_focus : sprechen_dialog.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit01_la-rentree-e_exam" >}}).
 
-Par deux, vous jouez une scène de rentrée devant l'enseignant·e (préparation 5 min, passage 3–4 min). Consigne : vous vous retrouvez le premier jour ; échangez sur vos vacances, votre nouvelle classe, deux matières et votre emploi du temps, puis mettez-vous d'accord pour faire quelque chose ensemble.
-
-**Barème (20 P.) :**
-
-- Réalisation de la tâche (toutes les étapes traitées) : **5 P.**
-- Interaction (questions/réponses réparties entre les deux) : **5 P.**
-- Correction grammaticale (présent) : **5 P.**
-- Lexique de la rentrée : **3 P.**
-- Prononciation / fluidité : **2 P.**
-
-**Total : 20 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

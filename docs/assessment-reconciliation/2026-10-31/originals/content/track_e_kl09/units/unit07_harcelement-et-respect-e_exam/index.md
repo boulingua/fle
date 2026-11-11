@@ -1,0 +1,92 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 7"
+subtitle: "Harcèlement et respect · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 7
+slug: "harcelement-et-respect-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez la lettre ouverte (Unité 7, texte C). Répondez :
+
+1. À qui s'adresse cette lettre ?
+2. Quel numéro français est mentionné ?
+3. Que peut faire un·e victime ?
+4. Que peut faire un·e témoin (3 actions) ?
+5. Quel est le mot de conclusion ?
+
+### Tâche 2 — Subjonctif après *il faut que* (8 points)
+
+Conjuguez :
+
+1. *Il faut que tu ___ (parler) à un·e adulte.*
+2. *Il faut qu'on ___ (agir) ensemble.*
+3. *Il faut que vous ___ (être) courageux·ses.*
+4. *Il faut que je ___ (avoir) le numéro 3018.*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre lettre ouverte** (~150 mots) contre le
+harcèlement : 3 § (victime / témoin / ensemble) + 5 verbes
+d'action + 1 subjonctif + numéro 3018.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Subjonctif | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Aux camarades de classe 9. 2) **3018**. 3)
+Parler à un·e adulte de confiance, appeler 3018. 4)
+Soutenir / signaler / briser le silence. 5) *Le respect est
+un droit — pour chacun·e.*
+
+**Tâche 2.** 1) parles · 2) agisse · 3) soyez · 4) aie.
+
+**Tâche 3.** Réponses libres. Critères : 150 mots · 3 § ·
+5 verbes d'action · 1 subjonctif · 3018.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 7*

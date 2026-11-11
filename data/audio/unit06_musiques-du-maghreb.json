@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit06_musiques-du-maghreb/index.md",
-    "source_body_sha256": "85f3cebd619b376f98baef6a1577370dd83af916bfee0e7eb951ed7d629df6ad",
+    "source_body_sha256": "1361f8ae92b10723193d23784e0b6f228f4507586e47cff3c564730af69fb9e9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Karim : Madame, je peux vous faire écouter quelque chose ? Mme Renault : Bien sûr. C'est quoi ? Karim : Du raï. Ma grand-mère écoute ça à Oran, et moi je l'écoute ici. Mme Renault : Parfait. Alors avant l'écoute, explique en une phrase : le raï, c'est quoi pour toi ? Karim : C'est une musique qui parle de la vie, entre deux pays."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit06_musiques-du-maghreb/index.md",
-    "source_body_sha256": "85f3cebd619b376f98baef6a1577370dd83af916bfee0e7eb951ed7d629df6ad",
+    "source_body_sha256": "1361f8ae92b10723193d23784e0b6f228f4507586e47cff3c564730af69fb9e9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "le Maghreb.\nle raï.\nle chaâbi.\nle rap maghrébin.\nle luth / le oud.\nla derbouka.\nla gasba.\nune diaspora.\nune double identité.\nle refrain."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit06_musiques-du-maghreb/index.md",
-    "source_body_sha256": "85f3cebd619b376f98baef6a1577370dd83af916bfee0e7eb951ed7d629df6ad",
+    "source_body_sha256": "1361f8ae92b10723193d23784e0b6f228f4507586e47cff3c564730af69fb9e9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Le raï. Musique populaire née dans l'ouest de l'Algérie. Dans les années 1980, une nouvelle génération d'artistes le fait connaître en Europe : voix puissantes, paroles souvent en arabe dialectal, parfois en français. Le chaâbi. Musique plus ancienne, née à Alger. On l'entend aux mariages et dans les cafés. Instruments typiques : le oud (ou la mandole), le violon, la derbouka. Le rap maghrébin. Apparu plus récemment. Il mélange le français, l'arabe et l'argot. Thèmes fréquents : la famille, la double identité, la vie de quartier."

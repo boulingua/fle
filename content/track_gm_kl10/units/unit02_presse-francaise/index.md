@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 2
 slug: "presse-francaise"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_presse-francaise.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_presse-francaise.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit02_presse-francaise.html"
+- "/track_gm_kl10/units/unit02_presse-francaise.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.REC.reading-instructions.03
-    - B1.REC.understanding-announcements-and-instructions.03
-    - B1.MED.processing-text.02
-    - B1.INT.interviewing-and-being-interviewed.02
-    - B1.INT.overall-written-interaction.02
+  - B1.REC.reading-instructions.03
+  - B1.REC.understanding-announcements-and-instructions.03
+  - B1.MED.processing-text.02
+  - B1.INT.interviewing-and-being-interviewed.02
+  - B1.INT.overall-written-interaction.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit02_presse-francaise_exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_presse-francaise-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_presse-francaise-teacher.png
 audio_manifest: unit02_presse-francaise
 ---
 
@@ -64,15 +96,13 @@ Devant le kiosque, Nadia et Théo hésitent.
 - Pourquoi deux journaux peuvent-ils donner deux titres différents pour le même événement ?
 - Que faites-vous pour vérifier qu'une information est fiable ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quels journaux ou sites d'information allemands connaissez-vous ?
 - Qu'est-ce qu'une **« ligne éditoriale »** ? Donnez un exemple.
 - Classez ces mots : *un fait*, *un avis*, *une source*, *un titre*, *une rumeur*. Lesquels aident à juger de la fiabilité ?
 - À votre avis, quelle différence y a-t-il entre **informer** et **commenter** ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la presse
 
 | Français | Genre / catégorie | Deutsch |
@@ -129,8 +159,7 @@ Attention aux changements de personne et de possessifs :
 
 Selon Wikipédia, *Ouest-France* est, par sa diffusion, le **quotidien le plus vendu en France**, grâce à ses très nombreuses éditions locales couvrant l'ouest du pays. À l'inverse, *Le Figaro*, fondé en 1826, est souvent présenté comme **le plus ancien quotidien national français encore publié**. Quant au *Monde*, il a été créé fin 1944, à la Libération, et s'est imposé comme un journal de référence. Ces repères montrent que la presse française mêle titres nationaux, régionaux et spécialisés, chacun ayant son histoire et son public.
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte D).**
 
 1. Quel est le gros titre de la une ?
@@ -169,6 +198,7 @@ Définitions :
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) « Transports : les trains de nuit font leur retour. » 2) La fréquentation des trains de nuit a doublé en trois ans. 3) Trois nouvelles lignes, dès l'automne. 4) « Le rail, il est temps d'y croire. »
 
 **Ex. 2.** 1) information · 2) opinion · 3) information · 4) opinion.
@@ -176,9 +206,9 @@ Définitions :
 **Ex. 3.** a-3 · b-1 · c-2 · d-4 · e-5.
 
 **Ex. 4.** 1) Le journal affirme que les trains de nuit reviennent. 2) Le ministère explique qu'il ouvre trois lignes. 3) L'article souligne que ce choix est écologique. 4) Le directeur ajoute qu'il croit au rail.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (M, ~120 mots) — une revue de presse.**
 
 Choisissez un sujet d'actualité (libre). Rédigez une **revue de presse de cinq à six phrases** :
@@ -197,32 +227,18 @@ Choisissez un sujet d'actualité (libre). Rédigez une **revue de presse de cinq
 | Fiabilité | source nommée et située dans le temps |
 | Correction de la langue | phrases claires et compréhensibles |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer cinq quotidiens français et leur type.
 - [ ] Je distingue l'information de l'opinion.
 - [ ] Je reconnais les principaux genres journalistiques.
 - [ ] Je rapporte le contenu d'un article au discours indirect.
 - [ ] Je vérifie la fiabilité d'une information (source, date, auteur).
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit02_presse-francaise_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 P.)**
-Lecture d'une une de journal + 5 questions de compréhension.
-
-**Tâche 2 — Genres et fiabilité (8 P.)**
-8 extraits à classer : information / opinion / genre journalistique, et à justifier brièvement.
-
-**Tâche 3 — Expression écrite (12 P.)**
-Rédiger une revue de presse (~120 mots) mêlant information rapportée et opinion signalée.
-
-**Total : 30 P.**
-
-**Barème indicatif** — Tâche 1 : 2 P. par réponse juste. Tâche 2 : 1 P. par classement correct. Tâche 3 : contenu 4 P., discours rapporté 3 P., distinction info/opinion 3 P., langue 2 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.** Activer 4' · Apporter 14' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Aperçu du devoir 2'.
 

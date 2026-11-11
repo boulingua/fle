@@ -1,0 +1,93 @@
+---
+title: "devoir surveillé FLE — classe 10 (Niveau E) — Unité 10"
+subtitle: "Mobilité (Erasmus jeune) · classe 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 10
+slug: "mobilite-erasmus-jeune-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-10
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.INT.goal-oriented-co-operation.05
+    - B1.LING.general-linguistic-range.01
+    - B1.MED.adapting-language.01
+    - B1.MED.breaking-down-complicated-information.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 10
+
+### Tâche 1 — Hörverstehen (10 points)
+
+Écoutez le témoignage de Léa (Unité 10, texte C). Répondez :
+
+1. Combien de mois est-elle restée à Salamanque ?
+2. En quelle classe ?
+3. Quel niveau au départ ? À l'arrivée ?
+4. Que lui a appris sa famille d'accueil ?
+5. Quelle phrase de motivation finale ?
+
+### Tâche 2 — Vocabulaire mobilité (8 points)
+
+Reliez chaque mot à sa définition :
+
+- bourse · visa · convention de stage · famille d'accueil ·
+ hébergement · correspondant · carte européenne · séjour
+
+(Définitions : aide financière · permis de séjour · contrat
+· famille hôte · logement · ami épistolaire · CEAM · période
+à l'étranger.)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez un **mail-candidature** Erasmus+ (~180 mots) :
+objet + politesse + motivation (3 raisons) + engagement (3
+verbes) + 1 conditionnel + clôture.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 3 mois. 2) En seconde. 3) A2 → B2. 4) À
+cuisiner la paella. 5) *Si tu hésites, vas-y. Le pire,
+c'est de ne pas essayer.*
+
+**Tâche 2.** Réponses libres (associations).
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 3
+raisons · 3 verbes · 1 conditionnel · politesse complète.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 10 · Niveau E · Unité 10*

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 4
 slug: "argumenter-pour-contre-e"
 bildungsplan:
-  - "3.1.3.4 Expression orale — monologisches Expression orale"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Expression orale"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit04_argumenter-pour-contre-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit04_argumenter-pour-contre-e.png"
 tags:
-  - filiere-e
-  - classe-9
-  - niveau-e
+- filiere-e
+- classe-9
+- niveau-e
 aliases:
-  - "/track_e_kl09/units/unit04_argumenter-pour-contre-e.html"
+- "/track_e_kl09/units/unit04_argumenter-pour-contre-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.PROD.overall-oral-production.01
-    - A2.INT.conversation.03
-    - A2.LING.general-linguistic-range.04
-    - A2.LING.orthographic-control.01
+  - A2.PROD.creative-writing.04
+  - A2.PROD.overall-oral-production.01
+  - A2.INT.conversation.03
+  - A2.LING.general-linguistic-range.04
+  - A2.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl09/units/unit04_argumenter-pour-contre-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_production
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit04_argumenter-pour-contre-e-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit04_argumenter-pour-contre-e-teacher.png
 audio_manifest: unit04_argumenter-pour-contre-e
 ---
 
@@ -71,15 +104,13 @@ En cours d'éducation civique, Mme Devos ouvre un débat.
 2. Anouk est-elle totalement pour ou totalement contre ?
 3. Relevez un mot qui introduit un argument contre.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Pour ou contre les écrans en classe ? Notez votre première réaction.
 - Quel est votre **meilleur argument** ? Pourquoi est-il fort ?
 - *Opinion* (« je trouve que… ») et *argument* (« parce que… ») : quelle est la différence ?
 - Connaissez-vous des mots français pour marquer une opposition entre deux idées ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de l'argumentation
 
 | Français | Catégorie | Traduction (allemand) |
@@ -129,8 +160,7 @@ Attention : *d'une part* appelle toujours *d'autre part*. Le connecteur se place
 
 En France, une loi votée le 3 août 2018 encadre l'usage du téléphone portable dans les écoles et les collèges : l'utilisation des appareils y est en principe interdite pendant les activités d'enseignement et dans l'enceinte de l'établissement, sauf usages pédagogiques ou situations prévues par le règlement intérieur. Cette mesure alimente encore le débat entre partisans de la concentration et défenseurs des usages numériques. *(Fait paraphrasé, source citée plus bas.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte C).**
 
 1. Quelle est la question posée dans le billet ?
@@ -157,6 +187,7 @@ a) l'uniforme à l'école · b) le voyage scolaire · c) le smartphone dès 12 a
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1) Faut-il interdire les écrans à l'école ? 2) Accès rapide aux ressources ; soutien pour les élèves qui apprennent par l'image. 3) Distraction ; consultation des messages au lieu de suivre. 4) Elle est pour un **usage encadré** (ni interdiction totale, ni liberté totale).
 
 **Exercice 2 (proposition).** *D'une part, les écrans sont utiles. Cependant, ils distraient parfois. En conclusion, la discipline est la solution.*
@@ -164,9 +195,9 @@ a) l'uniforme à l'école · b) le voyage scolaire · c) le smartphone dès 12 a
 **Exercice 3.** Réponses libres. Exemple pour a) : **pour** — l'uniforme réduit les inégalités visibles ; **contre** — il limite l'expression personnelle.
 
 **Exercice 4.** Ajouter : *de plus, par ailleurs*. Opposer : *néanmoins, cependant*. Conclure : *enfin, en conclusion*.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~180 mots).**
 
 Rédigez un **billet d'opinion** sur un sujet au choix (uniforme, smartphone dès 12 ans, viande à la cantine). Respectez la structure en quatre paragraphes (introduction / pour / contre / conclusion), employez **au moins six connecteurs logiques** et **un verbe au conditionnel** (« il faudrait… », « ce serait… »).
@@ -179,37 +210,18 @@ Rédigez un **billet d'opinion** sur un sujet au choix (uniforme, smartphone dè
 - Un conditionnel présent bien formé.
 - Prise de position nuancée et personnelle en conclusion.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je sais organiser un texte argumentatif en quatre paragraphes.
 - [ ] J'emploie au moins six connecteurs logiques de manière juste.
 - [ ] Je distingue un argument d'une simple opinion.
 - [ ] J'exprime une position nuancée, ni tout pour ni tout contre.
 - [ ] Je peux présenter mon avis à l'oral pendant une minute.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — devoir surveillé (« Klassenarbeit »), Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl09/units/unit04_argumenter-pour-contre-e_exam" >}}).
 
-**Tâche 1 — Expression orale, monologue (« Sprechen ») (12 points).**
-Présentez oralement, pendant environ une minute, votre position sur le sujet : *« Faut-il interdire les écrans en classe ? »* Développez deux arguments pour et deux arguments contre, puis concluez par une prise de position nuancée. Employez au moins quatre connecteurs.
-
-**Tâche 2 — Expression écrite (« Schreiben ») (14 points).**
-Rédigez un billet d'opinion d'environ 180 mots sur un sujet scolaire au choix : structure en quatre paragraphes, six connecteurs, un conditionnel, position finale personnelle.
-
-**Tâche 3 — Connecteurs (4 points).**
-Insérez quatre connecteurs pertinents dans un court texte donné par l'enseignant·e.
-
-**Barème**
-
-| Tâche | Critères | Points |
-|-------|----------------------------------------------|:-----:|
-| 1 | Arguments (4) · connecteurs (4) · fluidité (4) | 12 |
-| 2 | Structure (5) · connecteurs (5) · langue (4) | 14 |
-| 3 | Connecteurs corrects | 4 |
-| **Total** | | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min) :** Activer 5' · Apporter 13' · S'entraîner 12' · Produire 11' · Réfléchir 2' · Aperçu 2'.
 

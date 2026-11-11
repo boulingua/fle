@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 9
 slug: "litterature-de-jeunesse"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit09_litterature-de-jeunesse.pdf"
   thumbnail: "/fle/materials/worksheets/unit09_litterature-de-jeunesse.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit09_litterature-de-jeunesse.html"
+- "/track_gm_kl10/units/unit09_litterature-de-jeunesse.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.REC.reading-for-orientation.06
-    - B1.REC.identifying-cues-and-inferring.05
-    - B1.MED.adapting-language.02
-    - B1.MED.note-taking.02
-    - B1.INT.formal-discussion.01
+  - B1.REC.reading-for-orientation.06
+  - B1.REC.identifying-cues-and-inferring.05
+  - B1.MED.adapting-language.02
+  - B1.MED.note-taking.02
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit09_litterature-de-jeunesse_exam
+  format: existing-assessment
+  duration_minutes: 60
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit09_litterature-de-jeunesse-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit09_litterature-de-jeunesse-teacher.png
 audio_manifest: unit09_litterature-de-jeunesse
 ---
 
@@ -65,15 +98,13 @@ Au CDI (le centre de documentation du collège), Madame Lefèvre pose cinq livre
 - Pourquoi Mme Lefèvre dit-elle que « vieux » ne veut pas dire « ennuyeux » ?
 - Et vous : quel a été votre livre préféré quand vous étiez enfant ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Lisez-vous des romans en français ou en allemand ? Lesquels ?
 - Quel auteur ou quelle autrice pour la jeunesse connaissez-vous (français ou allemand) ?
 - Quel genre préférez-vous : le fantastique, le policier, l'aventure, le roman réaliste ?
 - Selon vous, à quoi sert la littérature de jeunesse : distraire, faire réfléchir, apprendre à lire ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Cinq repères de la littérature de jeunesse française
 
 | Auteur(rice) | Œuvre représentative | Thème |
@@ -133,8 +164,7 @@ Un héritage plus ancien nourrit aussi la lecture des enfants : les **fables** d
 
 *(Voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).**
 
 1. Où se trouve Nour au début du texte ?
@@ -171,6 +201,7 @@ d) Quel est le **registre** des dialogues : familier, courant ou soutenu ?
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Dans un car (en voyage), elle regarde par la fenêtre. 2) Des dessins et des histoires écrites la nuit. 3) Parce que son carnet est personnel/secret et qu'elle est nouvelle : elle a peur d'être jugée. 4) Elle finit par ouvrir son carnet et commence à raconter une histoire au garçon : elle ose partager.
 
 **Ex. 2.** a) 3ᵉ personne (« elle »). b) Le pouvoir des histoires (le carnet, la décision finale de raconter) — l'amitié naissante est aussi acceptable si justifiée. c) « les champs défilaient **comme** des pages qu'on tourne trop vite ». d) Familier / courant (« Tu écris quoi ? », « je déteste écrire »).
@@ -178,9 +209,9 @@ d) Quel est le **registre** des dialogues : familier, courant ou soutenu ?
 **Ex. 3.** ferma → *fermer* ; repensa → *repenser* ; hésita → *hésiter* ; ouvrit → *ouvrir* ; commença → *commencer*.
 
 **Ex. 4.** 1) extrait. 2) narrateur. 3) thème. 4) dénouement. 5) émouvant.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau M, ≈ 180 mots) — un avis personnel.**
 
 Rédigez un avis structuré sur le texte C, *Le carnet de Nour* :
@@ -202,31 +233,18 @@ Utilisez au moins **trois connecteurs** (*d'abord, ensuite, de plus, en revanche
 *Total : 12 points.*
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux citer au moins trois repères de la littérature de jeunesse française.
 - [ ] Je repère le narrateur, le thème et le registre d'un extrait.
 - [ ] Je reconnais le passé simple et je retrouve l'infinitif.
 - [ ] Je rédige un avis personnel structuré avec des connecteurs.
 - [ ] Je sais dire ce que j'ai compris et ce qui reste difficile pour moi.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — compréhension écrite et analyse (Niveau M)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit09_litterature-de-jeunesse_exam" >}}).
 
-**Tâche 1 — Compréhension de l'écrit (10 pts).**
-Lecture d'un extrait de récit jeunesse fourni + 5 questions (informations explicites et implicites).
-
-**Tâche 2 — Compétence textuelle et médiatique (8 pts).**
-Analyse guidée : narrateur (2), thème (2), registre (2), une figure de style relevée et nommée (2).
-
-**Tâche 3 — Expression écrite (12 pts).**
-Avis personnel structuré (≈ 180 mots) : résumé, ce qui touche, recommandation, avec au moins 3 connecteurs.
-
-**Barème total : 30 points.**
-*Indication de notation : 30–27 → très bien · 26–21 → bien · 20–15 → satisfaisant · 14–9 → passable · < 9 → insuffisant.*
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min).**
 

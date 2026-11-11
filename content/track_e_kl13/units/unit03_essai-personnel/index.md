@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 3
 slug: "essai-personnel"
 bildungsplan:
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - writing
 presentation:
@@ -18,22 +18,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_essai-personnel.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_essai-personnel.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit03_essai-personnel.html"
+- "/track_e_kl13/units/unit03_essai-personnel.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.creative-writing.01
-    - B2.PROD.monitoring-and-repair.01
-    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
-    - B2.INT.conversation.01
-    - B2.INT.information-exchange.05
+  - B2.PROD.creative-writing.01
+  - B2.PROD.monitoring-and-repair.01
+  - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.04
+  - B2.INT.conversation.01
+  - B2.INT.information-exchange.05
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit03_essai-personnel_exam
+  format: existing-assessment
+  duration_minutes: 90
+  points: 30
+  skills:
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_essai-personnel-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_essai-personnel-teacher.png
 audio_manifest: unit03_essai-personnel
 ---
 
@@ -67,8 +98,7 @@ audio_manifest: unit03_essai-personnel
 2. Le pronom « je » rend-il un texte moins sérieux ? Justifiez.
 3. Sur quel sujet auriez-vous envie d'écrire un essai personnel ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez rapidement, à l'oral ou par écrit.
 
 - Avez-vous déjà lu un texte où l'auteur raconte sa propre expérience pour défendre une idée ?
@@ -76,8 +106,7 @@ Répondez rapidement, à l'oral ou par écrit.
 - Que signifie pour vous « avoir une voix » dans un texte ?
 - Complétez : *« Écrire, pour moi, c'est … »*
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Précision / catégorie |
@@ -121,8 +150,7 @@ Ils structurent la pensée et rendent l'enchaînement des idées visible.
 
 En 1580, l'écrivain français **Michel de Montaigne** publie un livre au titre alors inhabituel : *Les Essais*. Le mot vient du verbe « essayer », au sens de « tenter, éprouver » : Montaigne présente son ouvrage comme une série de tentatives de la pensée, sans prétention à la certitude, résumées par sa devise *« Que sais-je ? »*. Le genre de l'essai se caractérise depuis par une réflexion personnelle et subjective, où l'auteur assume ouvertement son point de vue, à la différence d'un exposé purement objectif. Ce cadrage historique est paraphrasé des articles encyclopédiques *Essais (Montaigne)* et *Essai* de Wikipédia (licence CC BY-SA), cités dans les Sources.
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).**
 1. Quelle est la thèse défendue par l'auteur ?
 2. Relevez la phrase qui exprime le « revers » de l'écriture.
@@ -144,6 +172,7 @@ c) Démonstration impersonnelle et méthodique d'une thèse imposée.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) On écrit pour comprendre ce que l'on pense. 2) *« Écrire, c'est aussi se trahir : on croit dire une chose, et le mot en révèle une autre. »* 3) Une conversation avec un moi que l'on ne connaît pas encore. 4) Elle sert de chute : elle condense la thèse en une formule brève et marquante.
 
 **Ex. 2.** a) commentaire de texte — b) essai — c) dissertation.
@@ -155,9 +184,9 @@ c) Démonstration impersonnelle et méthodique d'une thèse imposée.
 {{< callout type="tip" >}}
 **Différenciation (G / M / E) :** **G** — l'élève complète l'Ex. 3 avec les connecteurs proposés dans une banque de mots. **M** — l'élève rédige l'Ex. 4 en deux paragraphes. **E** — l'élève rédige l'Ex. 4 en trois paragraphes et ajoute une chute d'une phrase.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~500 mots).**
 
 Rédigez **votre essai personnel** au choix sur l'un des sujets suivants :
@@ -179,34 +208,18 @@ Consignes :
 | Cohérence | connecteurs pertinents, enchaînement clair |
 | Langue | lexique riche, syntaxe correcte |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue l'essai de la dissertation et du commentaire.
 - [ ] Je formule une thèse personnelle dès l'introduction.
 - [ ] J'utilise des connecteurs logiques pour relier mes idées.
 - [ ] J'écris à la première personne sans perdre en rigueur.
 - [ ] Je termine mon essai par une chute marquante.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve d'expression écrite (Niveau E, classe 13) — compétence : *schreiben*.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit03_essai-personnel_exam" >}}).
 
-**Tâche 1 — Compréhension (8 pts).** Lisez le texte-modèle « Pourquoi j'écris » et répondez à 4 questions (thèse, structure, procédés).
-
-**Tâche 2 — Genres et connecteurs (6 pts).** Distinguez essai / dissertation / commentaire (3 pts) et complétez 3 phrases à trous avec des connecteurs (3 pts).
-
-**Tâche 3 — Expression écrite (16 pts).** Rédigez un essai personnel (~500 mots) sur un sujet au choix, avec thèse, 4 connecteurs, voix personnelle et chute.
-
-**Barème :**
-
-| Tâche | Points |
-|-------------------------------|-------:|
-| 1 — Compréhension | 8 |
-| 2 — Genres et connecteurs | 6 |
-| 3 — Expression écrite | 16 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée :** 45 min.
 

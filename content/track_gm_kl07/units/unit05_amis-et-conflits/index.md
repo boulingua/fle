@@ -8,9 +8,9 @@ track: "gm"
 unit_nr: 5
 slug: "amis-et-conflits"
 bildungsplan:
-  - "3.1.3.3 Expression orale — dialogisches Expression orale"
-  - "3.1.3.5 Expression écrite"
-  - "3.1.2 Compétence interculturelle communicative"
+- "3.1.3.3 Expression orale — dialogisches Expression orale"
+- "3.1.3.5 Expression écrite"
+- "3.1.2 Compétence interculturelle communicative"
 skills_focus:
 - speaking_interaction
 - writing
@@ -21,22 +21,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_amis-et-conflits.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_amis-et-conflits.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit05_amis-et-conflits.html"
+- "/track_gm_kl07/units/unit05_amis-et-conflits.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.PROD.creative-writing.01
-    - A1.INT.interviewing-and-being-interviewed.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.overall-reading-comprehension.01
+  - A1.INT.correspondence.03
+  - A1.PROD.creative-writing.01
+  - A1.INT.interviewing-and-being-interviewed.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit05_amis-et-conflits_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_amis-et-conflits-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit05_amis-et-conflits-teacher.png
 audio_manifest: unit05_amis-et-conflits
 ---
 
@@ -69,15 +101,13 @@ Lundi, à la récréation. Léa et Théo sont assis loin l'un de l'autre.
 - Que fait Théo pour arranger les choses ?
 - Et vous : comment réagissez-vous quand un·e ami·e vous déçoit ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous un·e meilleur·e ami·e ? Depuis quand ?
 - Vous arrive-t-il de vous disputer avec vos ami·e·s ? À quel sujet ?
 - Comment fait-on **la paix** après une dispute ?
 - Trouvez trois mots pour décrire un·e bon·ne ami·e.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — les sentiments et l'amitié
 
 | Français | Allemand |
@@ -130,8 +160,7 @@ Lundi, à la récréation. Léa et Théo sont assis loin l'un de l'autre.
 
 En France, plusieurs collèges pratiquent la **médiation par les pairs** : des élèves formés aident d'autres élèves à régler leurs petits conflits par la parole, en respectant des règles simples (écouter l'autre, garder la confidentialité, chercher ensemble une solution). Selon le ministère de l'Éducation nationale, cette approche ne concerne que les conflits sans violence et vise un climat scolaire plus serein. Paraphrasé d'après Éduscol, *Médiation par les pairs* (voir Sources).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Pronoms COD.** Remplacez le mot souligné par un pronom.
 
 1. J'écoute *la prof*. → Je ___ écoute.
@@ -166,6 +195,7 @@ En France, plusieurs collèges pratiquent la **médiation par les pairs** : des 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) l' · 2) nous · 3) le · 4) les · 5) l'.
 
 **Ex. 2.** 1) triste / déçu · 2) heureuse / contente · 3) inquiète · 4) jaloux.
@@ -173,9 +203,9 @@ En France, plusieurs collèges pratiquent la **médiation par les pairs** : des 
 **Ex. 3.** 1-b · 2-c · 3-a.
 
 **Ex. 4.** 1) Parce qu'elle pense que Théo l'a oubliée samedi (ils devaient aller au cinéma). 2) Il a eu un match de foot et il a envoyé un message. 3) Elle n'a pas reçu le message : c'est un malentendu. 4) Ils se réconcilient et Théo invite Léa à une glace.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (M, ~80 mots).**
 
 Racontez une **petite dispute** avec un·e ami·e, puis votre **réconciliation**, en 6 à 8 phrases. Utilisez :
@@ -195,39 +225,18 @@ Racontez une **petite dispute** avec un·e ami·e, puis votre **réconciliation*
 | Passé composé + une opinion | ○ |
 | Texte clair, ~80 mots, ponctuation soignée | ○ |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je nomme au moins 6 sentiments en français.
 - [ ] J'utilise les pronoms COD *me, te, le, la, les* à la bonne place.
 - [ ] Je donne une opinion simple avec *à mon avis* ou *je trouve que*.
 - [ ] Je raconte une dispute et une réconciliation au passé composé.
 - [ ] Je peux jouer un court dialogue de réconciliation avec un·e camarade.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau M.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit05_amis-et-conflits_exam" >}}).
 
-**Tâche 1 — Grammaire : pronoms COD (10 P.)**
-Remplacez le mot souligné par un pronom dans 8 phrases (préparées par l'enseignant·e, sur le modèle de l'Ex. 1).
-
-**Tâche 2 — Compréhension écrite (8 P.)**
-Lisez le texte C. Répondez à 4 questions par des phrases complètes.
-
-**Tâche 3 — Expression écrite « Schreiben » (12 P.)**
-Racontez une dispute puis une réconciliation avec un·e ami·e (~80 mots), avec 2 sentiments + 2 pronoms COD + passé composé.
-
-**Barème :** Tâche 1 = 10 P. · Tâche 2 = 8 P. · Tâche 3 = 12 P. → **Total : 30 P.**
-
-| Note | Points |
-|---|---|
-| sehr gut (1) | 30–27 |
-| gut (2) | 26–23 |
-| befriedigend (3) | 22–18 |
-| ausreichend (4) | 17–13 |
-| mangelhaft (5) | 12–7 |
-| ungenügend (6) | 6–0 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min) :** Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Aperçu / devoirs 2'.
 

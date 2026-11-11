@@ -23,78 +23,51 @@ curriculum:
     - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 9
+## Modalités
 
-### Tâche 1 — médiation linguistique (« Sprachmittlung ») DE → FR (15 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez le mail allemand de Caroline (Unité 11, texte C).
-**Médiez** son contenu en **français** (~80 mots) sous forme
-d'un mail professionnel : objet, salutation, corps, formule
-finale, signature.
+**Devoir surveillé (« Klassenarbeit ») — Niveau M**
 
-### Tâche 2 — Vocabulaire (10 points)
+**Tâche 1 — Médiation linguistique (« Sprachmittlung ») (15 P.).** Médiez le message allemand ci-dessous en ~70 mots de français (l'essentiel, registre poli).
 
-Donnez l'équivalent **français simple** :
+> Hallo Léa, kurze Info: Der Termin mit dem Kunden ist verschoben. Wir machen das Briefing erst um 14 Uhr im Raum 3. Bitte bring deinen Laptop mit. Das Debriefing ist danach. Die Deadline bleibt Freitag. Danke und bis später! Caroline
 
-1. un brief
-2. un debrief
-3. la deadline
-4. asap
-5. faire un point
-6. livrer un projet
-7. en ligne
-8. onboarder
-9. le feedback
-10. un délai
+**Tâche 2 — Vocabulaire (8 P.).** Donnez un équivalent en français soigné pour : *deadline, feedback, faire un point, onboarder.*
 
-### Tâche 3 — Expression écrite (« Schreiben ») (5 points)
+**Tâche 3 — Expression écrite (« Schreiben ») (7 P.).** Rédigez un mail-réponse poli (~50 mots) à Caroline : confirmez votre présence à 14 h et posez une question au conditionnel de politesse. Objet + salutation + formule finale exigés.
 
-Rédigez un **mail-réponse** à Caroline (~50 mots) : confirmer la
-réunion, signaler que vous apportez la clé USB, poser **une**
-question. Salutation + formule finale.
+**Barème : 30 points.** Médiation 15 (contenu 8 / langue 4 / registre 3) · Vocabulaire 8 · Écrit 7 (structure 3 / langue 2 / politesse 2).
 
-## Notation
+## Corrigé
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — médiation linguistique | 15 |
-| Tâche 2 — Vocabulaire | 10 |
-| Tâche 3 — Expression écrite | 5 |
-| **Total** | **30** |
+**Total : 30 points.**
 
-## Solutions
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 1.** Modèle : *Objet : Confirmation réunion jeudi.
-Bonjour Léa, petit message pour confirmer : demain à 9h, nous
-avons le brief en salle 3. Apporte ta clé USB avec les photos.
-Le debrief suivra à 11h. Le délai final pour la publication est
-vendredi soir. À demain ! Caroline.*
+**Tâche 1 — Médiation (15).** Rendez-vous client déplacé (2); 14 h et salle 3 (2); ordinateur portable (2); bilan ensuite et date limite vendredi (2); langue (4); registre (3). Ne pas importer les horaires, la clé USB ou les photos du support différent de l'unité. Aucun horaire précis du bilan n'est fourni.
 
-**Tâche 2.** 1) une réunion d'information · 2) un retour après
-l'événement · 3) le délai final · 4) aussi vite que possible ·
-5) une réunion brève · 6) terminer et remettre · 7) publié sur
-internet · 8) accueillir un nouveau · 9) le retour, l'avis ·
-10) une date limite.
+**Tâche 2 — Vocabulaire (8).** Deadline : date limite; feedback : retour ou avis; faire un point : courte réunion de suivi; onboarder : accueillir ou intégrer. Deux points par réponse.
 
-**Tâche 3.** Réponses libres. Critères : 50 mots · objet ·
-salutation + formule · 1 question · ton professionnel.
+**Tâche 3 — Réponse (7).** Objet, salutation et clôture (3); langue (2); question au conditionnel (2). En allemand, *Brief* signifie *lettre*, tandis que *Briefing* désigne la réunion d'information.
 
----
+{{< /details >}}
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+## Sources
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+- *Loi Toubon (loi n° 94-665 du 4 août 1994 relative à l'emploi de la langue française)* — Wikipédia, contributeurs (consulté en 2026), <https://fr.wikipedia.org/wiki/Loi_Toubon>, licence CC BY-SA 4.0.
+- *Commission d'enrichissement de la langue française* — Wikipédia, contributeurs (consulté en 2026), <https://fr.wikipedia.org/wiki/Commission_d%27enrichissement_de_la_langue_fran%C3%A7aise>, licence CC BY-SA 4.0.
+- *FranceTerme* (base de données terminologiques publique) — Délégation générale à la langue française et aux langues de France, <https://www.culture.fr/franceterme>, données publiques.
+- *Dire, ne pas dire* — Académie française, <https://www.academie-francaise.fr/dire-ne-pas-dire> (ressource de référence, consultée en 2026).
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 11*
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

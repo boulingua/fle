@@ -1,0 +1,39 @@
+{
+  "unit": "content/track_gm_kl10/units/unit11_preparer-un-discours/index.md",
+  "exam": "content/track_gm_kl10/units/unit11_preparer-un-discours_exam/index.md",
+  "before_unit_sha256": "4e78b749f4dd2873720109bd7165643636612daef9d3d2e522dccd43ec2d09f2",
+  "after_unit_sha256": "eb005346c790231aef8fe7fc0500a060faa5c3fb2c4067732435b6cd6473e3f2",
+  "before_exam_sha256": "dd34c34f705d5c5694257cd8cb1fe324f345dbb26e7354b37c844873d0ce69c7",
+  "after_exam_sha256": "faff4fc83cf096712a188cf5e1704dddf0350931e0b18f384821394f67da75c1",
+  "source_sections": [
+    "D"
+  ],
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "skills_observed": [
+    "reading",
+    "writing"
+  ],
+  "decisions": [
+    "Preserved8+6+16 written paper and separate observed oral extension. Removed source annotation labels and invented book/internship details."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "09af2331cb2cd75af72d03182675fa9c3089e8d9bbaf6e5ad5e3b8886a27f0d5",
+      "after_sha256": "f62b69c6ea6ae6901ffd3608c036d03dc86a7a1f951bd241d1678ceb1a3cb554",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl10/units/unit11_preparer-un-discours_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl10/units/unit11_preparer-un-discours_exam/index.md",
+      "before_sha256": "f62b69c6ea6ae6901ffd3608c036d03dc86a7a1f951bd241d1678ceb1a3cb554",
+      "after_sha256": "faff4fc83cf096712a188cf5e1704dddf0350931e0b18f384821394f67da75c1",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

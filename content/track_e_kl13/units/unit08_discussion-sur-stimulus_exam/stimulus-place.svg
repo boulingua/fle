@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Une place partagée</title><desc id="desc">Illustration fictive d'une place urbaine : des personnes à pied, une cycliste, un bus à son arrêt, un banc et des arbres.</desc>
+<rect width="1200" height="720" fill="#e9f1f5"/>
+<g fill="#d8bca5" stroke="#575966" stroke-width="3"><rect x="20" y="110" width="240" height="270"/><rect x="285" y="65" width="240" height="315" fill="#c7cbd2"/><rect x="555" y="135" width="240" height="245" fill="#ead8b3"/><rect x="900" y="90" width="270" height="290" fill="#c7d5ce"/></g>
+<g fill="#546b7d"><path d="M55 150h60v65H55z M155 150h60v65h-60z M55 250h60v65H55z M155 250h60v65h-60z M320 110h65v65h-65z M425 110h65v65h-65z M320 215h65v65h-65z M425 215h65v65h-65z M590 175h65v65h-65z M695 175h65v65h-65z M590 280h65v65h-65z M695 280h65v65h-65z M935 135h65v70h-65z M1050 135h65v70h-65z"/></g>
+<path d="M0 380H1200V720H0Z" fill="#d3c9b9"/>
+<path d="M0 420H1200V490H0Z" fill="#6b7079"/><path d="M0 590H1200V665H0Z" fill="#729787"/>
+<path d="M20 627H1180" stroke="#f6f0de" stroke-width="4" stroke-dasharray="36 30"/>
+<path d="M360 490V590 M390 490V590 M420 490V590 M450 490V590 M480 490V590" stroke="#f6f0de" stroke-width="19"/>
+<g fill="#355a48"><rect x="115" y="300" width="13" height="180" fill="#796148"/><circle cx="120" cy="280" r="65"/><circle cx="80" cy="310" r="40"/><circle cx="160" cy="315" r="44"/><rect x="1040" y="285" width="14" height="205" fill="#796148"/><circle cx="1048" cy="280" r="68"/><circle cx="1000" cy="310" r="42"/><circle cx="1090" cy="320" r="46"/></g>
+<g stroke="#353e47" stroke-width="5"><rect x="540" y="350" width="340" height="115" rx="17" fill="#d79b45"/><path d="M565 365h70v48h-70z M650 365h70v48h-70z M735 365h70v48h-70z M818 365h43v75h-43z" fill="#dbe7eb"/><circle cx="605" cy="464" r="22" fill="#39454e"/><circle cx="810" cy="464" r="22" fill="#39454e"/></g>
+<g stroke="#424b53" stroke-width="6"><path d="M907 310v172"/><rect x="887" y="280" width="40" height="48" fill="#f1ede3"/><rect x="895" y="291" width="24" height="15" rx="3" fill="#446a85"/><path d="M850 510h135 M861 540h115 M864 507v60 M972 507v60"/></g>
+<g stroke="#414750" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><circle cx="280" cy="474" r="16" fill="#bd8d70" stroke="none"/><path d="M280 499v49m0-38-25 25m25-25 24 16m-24 22-20 36m20-36 22 36"/><path d="M265 497h31v46h-31z" fill="#a45753" stroke="none"/><circle cx="355" cy="490" r="13" fill="#dda885" stroke="none"/><path d="M355 509v37m0-25-50 5m50-5 16 17m-16 8-12 28m12-28 15 28"/><path d="M344 509h24v34h-24z" fill="#6388a3" stroke="none"/>
+<circle cx="927" cy="464" r="15" fill="#8f6752" stroke="none"/><path d="M927 484v42h29v35m-29-63 27 10m-27 18-18 35"/><path d="M915 483h25v35h-25z" fill="#6f7299" stroke="none"/></g>
+<g stroke="#34444c" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="610" cy="625" r="34"/><circle cx="750" cy="625" r="34"/><path d="M610 625l47-54 43 54H610l35-76m12 22h70l23 54m-37-77h22"/><circle cx="681" cy="506" r="17" fill="#bc8d70" stroke="none"/><path d="M671 529l-30 39 49 22-14 34m-17-75 52 10 12-11"/><path d="M672 524l-30 38 18 13 29-39z" fill="#b5644c" stroke="none"/></g>
+</svg>

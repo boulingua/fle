@@ -8,7 +8,7 @@ track: "e"
 unit_nr: 5
 slug: "mediation-academique"
 bildungsplan:
-  - "3.1.3.6 Médiation linguistique"
+- "3.1.3.6 Médiation linguistique"
 skills_focus:
 - mediation
 presentation:
@@ -18,22 +18,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit05_mediation-academique.pdf"
   thumbnail: "/fle/materials/worksheets/unit05_mediation-academique.png"
 tags:
-  - filiere-e
-  - classe-11
-  - niveau-e
+- filiere-e
+- classe-11
+- niveau-e
 aliases:
-  - "/track_e_kl11/units/unit05_mediation-academique.html"
+- "/track_e_kl11/units/unit05_mediation-academique.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.MED.overall-mediation.01
-    - B1.MED.acting-as-an-intermediary-in-informal-situations.01
-    - B1.INT.formal-discussion.01
-    - B1.INT.goal-oriented-online-transactions-and-collaboration.01
-    - B1.PRAG.propositional-precision.02
+  - B1.MED.overall-mediation.01
+  - B1.MED.acting-as-an-intermediary-in-informal-situations.01
+  - B1.INT.formal-discussion.01
+  - B1.INT.goal-oriented-online-transactions-and-collaboration.01
+  - B1.PRAG.propositional-precision.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl11/units/unit05_mediation-academique_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit05_mediation-academique-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit05_mediation-academique-teacher.png
 audio_manifest: unit05_mediation-academique
 ---
 
@@ -67,15 +99,13 @@ audio_manifest: unit05_mediation-academique
 2. Pourquoi Léa doit-elle garder les chiffres et les noms, mais reformuler les explications ?
 3. Que veut dire Yanis avec « on ne rajoute pas son avis » ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà eu à expliquer en français un document lu en allemand (article, notice, page web) ?
 - À votre avis, qu'est-ce qui est plus difficile dans un **texte scientifique** que dans un texte de la vie quotidienne ?
 - Selon vous, à qui s'adresse une revue de vulgarisation comme *Spektrum der Wissenschaft* ou *Pour la Science* : à des spécialistes ou à un large public curieux ?
 - Citez trois mots « savants » (techniques ou abstraits) que vous connaissez déjà en français.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la médiation académique
 
 | Allemand | Français | Emploi |
@@ -96,7 +126,7 @@ audio_manifest: unit05_mediation-academique
 {{< callout type="info" >}}
 **Rapporter sans juger.** Pour restituer fidèlement un texte, on emploie des **verbes de constat** et des **modalisateurs** qui indiquent le degré de certitude de l'auteur — sans y ajouter le nôtre.
 
-- **Fort (fait établi) :** *l'étude démontre / établit / constate que…*
+- **Formulation forte (ce que l'auteur affirme, à vérifier) :** *l'étude démontre / établit / constate que…*
 - **Moyen (résultat probable) :** *les données indiquent / montrent que…*
 - **Prudent (hypothèse) :** *les auteurs suggèrent / supposent qu'il se pourrait que…*
 
@@ -105,7 +135,9 @@ Attention au **subjonctif** après les tournures de doute : *il semble **que** l
 
 ### C. Texte de travail (français, ~150 mots)
 
-> **Médiation d'un article de vulgarisation (source allemande).**
+> **Exemple fictif de discours de vulgarisation.**
+>
+> Le passage et les données évoquées ci-dessous sont inventés pour travailler l'attribution et la prudence. Aucun article allemand identifiable n'est fourni; ce texte ne constitue pas une preuve scientifique.
 >
 > Selon un article de vulgarisation scientifique, les grands modèles de langage — comme les agents conversationnels d'aujourd'hui — produisent parfois des réponses fausses tout en paraissant sûrs d'eux. Les spécialistes appellent ce phénomène une « hallucination » : le programme invente une information plausible mais inexacte. D'après les données citées, ces erreurs seraient plus fréquentes lorsque la question porte sur un domaine précis, par exemple la médecine ou le droit. Les auteurs ne condamnent pas la technologie ; ils suggèrent plutôt une vérification systématique des sources par des personnes compétentes. La conclusion reste prudente : l'outil peut aider, à condition que l'utilisateur garde un regard critique et ne prenne pas chaque réponse pour une vérité établie.
 
@@ -113,8 +145,7 @@ Attention au **subjonctif** après les tournures de doute : *il semble **que** l
 
 Le *Cadre européen commun de référence pour les langues* (CECRL) décrit ce que signifie « savoir une langue ». À la réception, la production et l'interaction, son volume complémentaire ajoute une quatrième activité : la **médiation**. Médier, ce n'est pas traduire mot à mot : c'est rendre un contenu accessible à quelqu'un qui n'y aurait pas accès autrement, en reformulant, en résumant ou en expliquant. Cette compétence est aujourd'hui au cœur de l'épreuve allemande de *Sprachmittlung*. *(Paraphrasé d'après « Cadre européen commun de référence pour les langues », Wikipédia, licence CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte C).** Répondez en français par une phrase.
 
 1. Comment les spécialistes appellent-ils une réponse fausse mais crédible d'une IA ?
@@ -133,7 +164,7 @@ d) *Es scheint, dass die KI Fehler macht.* → ___ (attention au mode du verbe)
 
 *Fachbegriffe · Quellenkontrolle · Sprachmodell · annähernd 27 % · laut der Autorin.*
 
-**Exercice 4 — Médiation courte (DE → FR).** Transmettez cet extrait allemand en **deux ou trois phrases françaises**. Conservez le chiffre et la source ; ne traduisez pas mot à mot.
+**Exercice 4 — Médiation courte (DE → FR).** Les noms, l'étude et la proportion de cet exemple sont fictifs. Transmettez cet extrait allemand en **deux ou trois phrases françaises**. Conservez le chiffre et la source ; ne traduisez pas mot à mot.
 
 > *Eine Untersuchung ergab, dass rund ein Drittel der Testpersonen den Antworten einer KI zu sehr vertraute. Die Autorinnen (Meier et al.) empfehlen, Ergebnisse stets mit einer zweiten Quelle zu prüfen.*
 
@@ -145,6 +176,7 @@ d) *Es scheint, dass die KI Fehler macht.* → ___ (attention au mode du verbe)
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Ils l'appellent une « hallucination ».
 2. Dans les domaines précis, par exemple la médecine ou le droit.
@@ -160,9 +192,9 @@ d) *Il semble que l'IA **fasse** des erreurs.* (subjonctif après *il semble que
 **Exercice 3.** *les termes techniques · la vérification des sources · le modèle de langage · environ 27 % · selon l'auteure.*
 
 **Exercice 4 (proposition).** *Selon une étude (Meier et al.), environ un tiers des personnes testées faisaient trop confiance aux réponses d'une IA. Les auteures recommandent de toujours vérifier les résultats à l'aide d'une deuxième source.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche de médiation académique (écrit, ~250 mots).**
 
 Vous rédigez la rubrique « science » du journal francophone de votre lycée. À partir d'un **article de vulgarisation allemand** (fourni par l'enseignant·e, ~300 mots, sujet : climat ou santé), rédigez une **médiation en français** destinée à des lycéen·ne·s francophones.
@@ -185,8 +217,7 @@ Consignes obligatoires :
 | Neutralité | aucune opinion ajoutée ; modalisateurs respectés |
 | Langue | grammaire, orthographe, cohérence des temps |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue *traduire* et *médier*.
 - [ ] Je situe une source (revue, auteur·e, année) en une phrase.
 - [ ] J'emploie des verbes de constat adaptés au degré de certitude.
@@ -194,25 +225,11 @@ Consignes obligatoires :
 - [ ] Je n'ajoute pas mon opinion personnelle.
 - [ ] Je repère une chose que je réussis bien et une chose à améliorer.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve de médiation linguistique (*Sprachmittlung*) — DE → FR.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl11/units/unit05_mediation-academique_exam" >}}).
 
-Un·e correspondant·e francophone vous demande de lui expliquer le contenu d'un court article scientifique allemand (fourni, ~280 mots). Rédigez en français une médiation d'environ **180–220 mots** qui restitue la thèse, les données chiffrées et la conclusion de l'auteur·e.
-
-**Barème (30 points) :**
-
-| Partie | Attendu | Points |
-| --- | --- | --- |
-| Contenu / fidélité | thèse, données et conclusion restituées sans contresens | 12 |
-| Précision académique | chiffres exacts + source citée + termes techniques conservés | 6 |
-| Reformulation | pas de mot à mot ; adaptation au destinataire | 5 |
-| Neutralité | modalisateurs respectés, aucune opinion ajoutée | 3 |
-| Langue | correction grammaticale et orthographique | 4 |
-
-**Total : 30 points.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Aperçu de l'évaluation 2'.
 

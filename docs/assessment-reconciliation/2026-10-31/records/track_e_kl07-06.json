@@ -1,0 +1,57 @@
+{
+  "unit": "content/track_e_kl07/units/unit06_transports-et-mobilite/index.md",
+  "exam": "content/track_e_kl07/units/unit06_transports-et-mobilite_exam/index.md",
+  "before_unit_sha256": "8745cf6608b4657e6d80924bfcc07d8e80550feef7a9f23c52bb95a8558dcd29",
+  "after_unit_sha256": "fe9a77cc91b6ba6625ab1b37f606e4b10461d43b1ca967e5c08bb960756488b8",
+  "before_exam_sha256": "2289be4063cfbb44ae4470563e441cf5046138439e25ab83aeff8da8bfed9d6c",
+  "after_exam_sha256": "2030ec215d213ad33de0dba1c80a3de097e7d0a30becaac54256225f7bd2d719",
+  "source_sections": "CD",
+  "supplied_source_sha256": "7303600a3391b5cc3e68345e34ac808322b81403c2470a2c555e080a3d9e2cc0",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed invented Paris/metro line4/Châtelet/1h45; used Strasbourg-Lyon source. Eight actual transport gaps now match8 marks, retaining country wording as supplied context. Preserved oral route presentation as follow-up."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "5c3573e13829755c692289741b28abbbf70f76436bb2ea89d01800cbe0d0b597",
+      "after_sha256": "bd2c1a1b8f25b22239f0e53268a51eda582c6302caf850ce4e228a3baca4eca0",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Restore graded speaking outcome; explicitly redistribute existing training points with matching rubric.",
+        "Align teacher key with observed speaking outcome.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit06_transports-et-mobilite_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "bd2c1a1b8f25b22239f0e53268a51eda582c6302caf850ce4e228a3baca4eca0",
+      "after_sha256": "3e5c7f8c87820be2bd4ac7a2ef864ec09e1268a8b07d3c19ceffd44958906335",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit06_transports-et-mobilite_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit06_transports-et-mobilite_exam/index.md",
+      "before_sha256": "3e5c7f8c87820be2bd4ac7a2ef864ec09e1268a8b07d3c19ceffd44958906335",
+      "after_sha256": "2030ec215d213ad33de0dba1c80a3de097e7d0a30becaac54256225f7bd2d719",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl07",
+      "unit": 6,
+      "total": 30,
+      "decision": "Observed speaking restored in task 3; source-complete reading/language tasks retained; weighting explicitly revised from embedded variant.",
+      "oral_points": 12
+    }
+  ]
+}

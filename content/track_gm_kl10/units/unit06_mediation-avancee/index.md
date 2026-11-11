@@ -8,7 +8,7 @@ track: "gm"
 unit_nr: 6
 slug: "mediation-avancee"
 bildungsplan:
-  - "3.1.3.6 Médiation linguistique"
+- "3.1.3.6 Médiation linguistique"
 skills_focus:
 - mediation
 presentation:
@@ -18,22 +18,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit06_mediation-avancee.pdf"
   thumbnail: "/fle/materials/worksheets/unit06_mediation-avancee.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit06_mediation-avancee.html"
+- "/track_gm_kl10/units/unit06_mediation-avancee.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.MED.overall-mediation.01
-    - B1.MED.processing-text.11
-    - B1.INT.formal-discussion.01
-    - B1.INT.interviewing-and-being-interviewed.02
-    - B1.PLUR.plurilingual-comprehension.02
+  - B1.MED.overall-mediation.01
+  - B1.MED.processing-text.11
+  - B1.INT.formal-discussion.01
+  - B1.INT.interviewing-and-being-interviewed.02
+  - B1.PLUR.plurilingual-comprehension.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit06_mediation-avancee_exam
+  format: existing-assessment
+  duration_minutes: 30
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit06_mediation-avancee-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit06_mediation-avancee-teacher.png
 audio_manifest: unit06_mediation-avancee
 ---
 
@@ -71,15 +103,13 @@ Au foyer du lycée franco-allemand, Naïm lit un article en allemand sur son té
 2. Pourquoi ne dit-il pas *tout* le contenu de l'article ?
 3. Quelle expression montre qu'il cite sa source ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Vous est-il déjà arrivé de résumer à quelqu'un un texte ou une vidéo dans une autre langue ? Dans quelle situation ?
 - Quelle est la différence entre **traduire** (mot à mot) et **médier** (transmettre le sens) ?
 - Face à un texte allemand de 150 mots, faut-il tout rendre en français ? De quoi cela dépend-il ?
 - Quels mots français connaissez-vous pour **introduire** ce que dit un texte ? (*selon…, d'après…, il s'agit de…*)
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la médiation
 
 | Allemand (source) | Français (médiation) | Fonction |
@@ -131,8 +161,7 @@ Astuce : gardez les **noms propres, chiffres et dates** tels quels — ce sont d
 
 En didactique des langues, la **médiation** (allemand : *Sprachmittlung*) est officiellement décrite dans le **Cadre européen commun de référence pour les langues (CECRL)**, publié par le Conseil de l'Europe. Le volume complémentaire de 2018/2020 en fait, à côté de la réception, de la production et de l'interaction, l'une des grandes activités langagières : le médiateur ne défend pas son propre message, il **rend un contenu accessible** à quelqu'un qui, sans lui, n'y aurait pas accès. C'est exactement ce que fait Naïm pour Chloé. *(Paraphrasé d'après Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Comprendre la source (texte C).** Répondez en français, en une phrase chacun.
 
 1. Qu'est-ce qu'un Repair-Café, en une phrase ?
@@ -161,6 +190,7 @@ En didactique des langues, la **médiation** (allemand : *Sprachmittlung*) est o
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Un lieu ouvert et gratuit où l'on répare ses appareils cassés au lieu de les jeter. 2) Des bénévoles, souvent des artisans retraités ou des jeunes passionnés de technique. 3) Deux parmi : produire moins de déchets, économiser les ressources, préserver le savoir-faire de la réparation, faire se rencontrer les voisins. 4) À Amsterdam, en 2009.
 
 **Ex. 2.** 1-c · 2-d · 3-a · 4-b.
@@ -168,9 +198,9 @@ En didactique des langues, la **médiation** (allemand : *Sprachmittlung*) est o
 **Ex. 3.** (Modèles.) 1) *Le texte explique que le premier Repair-Café a ouvert en 2009.* 2) *Selon l'article, la réparation est gratuite.* 3) *Le texte précise que les voisins font connaissance.*
 
 **Ex. 4.** (Modèle, ~50 mots.) *Selon un article allemand, il existe des « Repair-Cafés » : des ateliers gratuits où des bénévoles t'aident à réparer tes objets cassés. Le but est de produire moins de déchets. Le texte conclut qu'un objet réparé vaut mieux qu'un neuf — donc oui, ça vaut le coup d'y aller !*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche de médiation (M, écrite, ~120–140 mots).**
 
 À partir du **texte source allemand (C)**, rédigez en **français** un message qui en transmet le contenu essentiel à un **destinataire précis de votre choix** (un ami, un parent, un·e enseignant·e). Avant de rédiger, indiquez en une ligne : **destinataire · registre · objectif de votre message**. Puis médiez : thème, fonctionnement, origine (Amsterdam 2009), deux objectifs, et le message final — le tout reformulé avec vos mots.
@@ -186,35 +216,18 @@ En didactique des langues, la **médiation** (allemand : *Sprachmittlung*) est o
 | Langue | phrases claires, correctes, lisibles | 2 |
 | **Total** | | **15** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je transmets le **contenu essentiel** d'un texte allemand plus long sans le traduire mot à mot.
 - [ ] Je **sélectionne** les informations utiles au destinataire.
 - [ ] Je **reformule** avec mes propres mots (paraphrase, équivalents).
 - [ ] Je **cite ma source** (*selon le texte, l'auteur explique que…*).
 - [ ] J'**adapte le registre** (formel / familier) au destinataire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve de médiation linguistique (« Sprachmittlung »)** — durée conseillée : 30 min.
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit06_mediation-avancee_exam" >}}).
 
-**Tâche 1 — Médiation DE→FR (18 P.).** On vous donne le texte source allemand (C, *Repair-Cafés*). Un·e ami·e français·e n'a pas compris l'article. Transmettez-lui en **français** (~120 mots) : le thème, le fonctionnement du lieu, l'origine (Amsterdam, 2009), deux objectifs et le message de conclusion. Introduisez avec une expression de source.
-
-**Tâche 2 — Adapter au destinataire (7 P.).** Réécrivez **deux phrases** de votre médiation pour un **destinataire formel** (votre professeur·e principal·e), puis expliquez en une phrase ce que vous avez changé et pourquoi.
-
-**Tâche 3 — Réflexion (5 P.).** En 2–3 phrases : quelle est la différence entre *traduire* et *médier* ? Donnez un exemple tiré du texte.
-
-**Barème — total : 30 P.**
-
-| Tâche | Détail | Points |
-|-------|-------------------------------------------------------|:------:|
-| 1 | contenu 8 · reformulation 5 · source & langue 5 | 18 |
-| 2 | adaptation du registre 5 · justification 2 | 7 |
-| 3 | définition 3 · exemple 2 | 5 |
-
-Répartition indicative : **note 1 (sehr gut)** ≥ 27 P. · **note 2** ≥ 23 · **note 3** ≥ 18 · **note 4** ≥ 13.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 13' · Produire 12' · Réfléchir 2' · Aperçu de l'évaluation 1'.
 

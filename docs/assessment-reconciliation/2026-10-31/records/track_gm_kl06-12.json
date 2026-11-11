@@ -1,0 +1,74 @@
+{
+  "unit": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md",
+  "exam": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md",
+  "before_unit_sha256": "d2fb4b3d42010d21a7204e5b0f0d652c0063b575d2369caca0450a5f532e1682",
+  "after_unit_sha256": "74a57db70ac98c14fafea2c4ea5acdede52596b62d3d1d33742a0d03081c4117",
+  "before_exam_sha256": "afac69ac8d8eb76c35487cc9664f0494b63cca138dcb1cb0cfc8dfa0da1282b7",
+  "after_exam_sha256": "cd06bcd3d9d228ecaf449bb013463bb92a451a14ff8d1c8cab2c98015176b128",
+  "source_sections": [
+    "Input, texte source allemand complet avec titre"
+  ],
+  "supplied_source_sha256": "4c957f63a6251cf78b3499ee64ba89e91a2f85851d4bb6de16135bece551a58a",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "task_points": [
+    15,
+    15
+  ],
+  "decisions": [
+    "Retain actual fullGerman source including Karlsruheheading and FridayFrenchsong.",
+    "Keep30total with15mediation/15oral; distinguish German eight-sport/five-instrument facts from French model half-class.",
+    "Retain extended actual oral performance and two teacher follow-up questions."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "057928873fa7a5b3af6d531e5db6c84d944061e44f8f7acfca934770628545ba",
+      "after_sha256": "068eaccafb185f17e4874be3ae4236abd2329b942f16a173a0f12875068cd9e1",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "b573a1201d5798134bb52ab6c9e46426c390dd238767a06480f5d0e875b3c74e",
+      "after_sha256": "d1653a667eadc561ce66db6750ddc95a2a738499910c7370d45214baaa5b83f3",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "d1653a667eadc561ce66db6750ddc95a2a738499910c7370d45214baaa5b83f3",
+      "after_sha256": "66f69caf7dc0e29bc268bd91a90827cf6e40e7dd37c8dafd26a3576dd898a627",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "66f69caf7dc0e29bc268bd91a90827cf6e40e7dd37c8dafd26a3576dd898a627",
+      "after_sha256": "90b511f22a0c8e5b68fe8fae2981a04f22521ab358555ce8f31f002c0e616027",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "068eaccafb185f17e4874be3ae4236abd2329b942f16a173a0f12875068cd9e1",
+      "after_sha256": "74a57db70ac98c14fafea2c4ea5acdede52596b62d3d1d33742a0d03081c4117",
+      "reason": "Record both actually observed speaking production and interaction.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit12_bilan-portrait-de-classe/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit12_bilan-portrait-de-classe_exam/index.md",
+      "before_sha256": "90b511f22a0c8e5b68fe8fae2981a04f22521ab358555ce8f31f002c0e616027",
+      "after_sha256": "cd06bcd3d9d228ecaf449bb013463bb92a451a14ff8d1c8cab2c98015176b128",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

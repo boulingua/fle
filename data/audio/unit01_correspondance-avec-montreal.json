@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
-    "source_body_sha256": "03a4c2e975b801cb6fe66c240a6d8daf6064e3951ac7bec939bc7de491bed85d",
+    "source_body_sha256": "3ac1474a1ba464ec7b3785248688a80e5bc1ca4beb35f7b77c1e60818a1e34a8",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
-    "source_body_sha256": "03a4c2e975b801cb6fe66c240a6d8daf6064e3951ac7bec939bc7de491bed85d",
+    "source_body_sha256": "3ac1474a1ba464ec7b3785248688a80e5bc1ca4beb35f7b77c1e60818a1e34a8",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Regarde, j'ai reçu un courriel de Montréal ! La fille s'appelle Inès. Mira : Elle écrit en français ? Léa : Oui, mais il y a des mots bizarres. Elle dit que son école est  écœurante . Mira : Écœurante ? C'est horrible, non ? Léa : Attends… Madame Renault a expliqué : au Québec,  écœurant  veut dire  génial  ! C'est le contraire de chez nous."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
-    "source_body_sha256": "03a4c2e975b801cb6fe66c240a6d8daf6064e3951ac7bec939bc7de491bed85d",
+    "source_body_sha256": "3ac1474a1ba464ec7b3785248688a80e5bc1ca4beb35f7b77c1e60818a1e34a8",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un courriel.\nla 2e secondaire.\nune école polyvalente.\nparascolaire (adj.).\nchargé·e (adj.).\nune colline.\nla fin de semaine.\nécœurant·e (Québec).\nmagasiner (Québec)."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit01_correspondance-avec-montreal/index.md",
-    "source_body_sha256": "03a4c2e975b801cb6fe66c240a6d8daf6064e3951ac7bec939bc7de491bed85d",
+    "source_body_sha256": "3ac1474a1ba464ec7b3785248688a80e5bc1ca4beb35f7b77c1e60818a1e34a8",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Salut Léa, Je m'appelle Inès Tremblay et j'ai 14 ans. Je suis en 2e secondaire à Montréal, au Québec. En semaine, ma journée est chargée : j'ai maths le matin et l'après-midi je fais du théâtre d'improvisation, mon activité parascolaire préférée. Le soir, je rentre à la maison en métro, sur la ligne orange, et je fais mes devoirs. Ma mère est infirmière et mon petit frère Olivier joue au hockey. La fin de semaine dernière, j'ai fait quelque chose de spécial : je suis montée au mont Royal avec mes amies. Nous avons marché jusqu'au belvédère et nous avons regardé toute la ville d'en haut. Après, on a magasiné au centre-ville. Il a même commencé à neiger — et on est déjà en octobre ! Et toi, comment est ta semaine en Allemagne ? Qu'est-ce que tu as fait le week-end dernier ? À bientôt, Inès"

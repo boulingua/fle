@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
-    "source_body_sha256": "cfd7a143d007fdc8b5a0f9f6a5e372fda20b1171739eda42dd041e02805d94f4",
+    "source_body_sha256": "e2bdb7f1f5ee34635b48cb6f94a16d82f4a316335687707c512524b053ba90ac",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mme Devos : Voilà, c'est presque fini. Une année entière de français. Alors, dites-moi : qu'est-ce que vous savez faire aujourd'hui que vous ne saviez pas faire en septembre ? Rayan : Moi, je sais raconter mon week-end au passé composé. En septembre, je ne connaissais même pas ce temps ! Léa : Et moi, j'ai écrit ma première lettre en français. À une correspondante à Rennes. Mme Devos : Très bien. Et pour la 8e, vous avez des projets ? Rayan : Je vais lire un vrai livre en français. Un roman, un vrai !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
-    "source_body_sha256": "cfd7a143d007fdc8b5a0f9f6a5e372fda20b1171739eda42dd041e02805d94f4",
+    "source_body_sha256": "e2bdb7f1f5ee34635b48cb6f94a16d82f4a316335687707c512524b053ba90ac",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un bilan.\nun progrès.\nun acquis.\nune compétence.\nune difficulté.\nun projet.\nprogresser.\naméliorer."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
-    "source_body_sha256": "cfd7a143d007fdc8b5a0f9f6a5e372fda20b1171739eda42dd041e02805d94f4",
+    "source_body_sha256": "e2bdb7f1f5ee34635b48cb6f94a16d82f4a316335687707c512524b053ba90ac",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Cette année, j'ai vraiment progressé en français. D'abord, j'ai appris le passé composé et l'imparfait : maintenant, je sais raconter une histoire au passé. Ensuite, j'ai découvert deux cultures francophones — le Québec, grâce à ma cousine Inès, et la Bretagne, pendant nos vacances à Saint-Malo. Aujourd'hui, je sais écrire une lettre, présenter ma famille et faire une petite médiation de l'allemand vers le français. Ma plus grande difficulté reste la prononciation, mais je m'améliore. L'an prochain, en 8e, je vais lire mon premier vrai roman en français. Je vais aussi écrire à Inès une fois par mois. Plus tard, je rêve de faire un échange à Montréal !"

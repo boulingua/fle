@@ -1,0 +1,66 @@
+{
+  "unit": "content/track_gm_kl06/units/unit10_mes-loisirs/index.md",
+  "exam": "content/track_gm_kl06/units/unit10_mes-loisirs_exam/index.md",
+  "before_unit_sha256": "defb961eff8e5426eaaa54902071ead2b04faa70cbc798b9b23c90384a92a794",
+  "after_unit_sha256": "7496212141ebbbf99e9239e1f3097003f3d0873ac337878edd09ee5ac7ec1e9a",
+  "before_exam_sha256": "4b7756969088c8c4ad23bef8ff18379aba70d023eadca9b35e4547ccda27dca2",
+  "after_exam_sha256": "3140a98824bc38b9d0db3310569b334f59d7a8a528756624f384a055aaf1783d",
+  "source_sections": [
+    "Input C, annonce des clubs"
+  ],
+  "supplied_source_sha256": "ba7aa916209963079553f8048d55e82ae0d027981394a12657288d5952e3bf37",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "task_points": [
+    10,
+    10,
+    10
+  ],
+  "decisions": [
+    "Correct Wednesdayguitar/Tuesdaychess keys; replace absent basketball question with actual cycling time.",
+    "Restore de l’ in word bank and make eight completions plus two frequency tasks total10.",
+    "Retain live interview/restitution, including frequency and individual rubric."
+  ],
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "ea73f2ae98f14a61e28109210800017f1c1bf167a4e11bb814c1d5c1bcfe93db",
+      "after_sha256": "e15b2cb785188deb41c477fe653962c48742cd645b5a3191d068063220c2ec7a",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit10_mes-loisirs/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "7edc92e24d1ac9b3b70c0bf3db4a31e1ce15af42637f94abe3c286ca5205f6ed",
+      "after_sha256": "05594461bba5d9d0b2c1b94b9e2966d885ddf48d78c79b76a3543d887a4b3369",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_gm_kl06/units/unit10_mes-loisirs_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "05594461bba5d9d0b2c1b94b9e2966d885ddf48d78c79b76a3543d887a4b3369",
+      "after_sha256": "fb6f0a0d6af5beaebb00af741ac3d0f39d78c9e4b49f3d30405dc1c8eb9432d2",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit10_mes-loisirs_exam/index.md"
+    },
+    {
+      "kind": "unit",
+      "before_sha256": "e15b2cb785188deb41c477fe653962c48742cd645b5a3191d068063220c2ec7a",
+      "after_sha256": "7496212141ebbbf99e9239e1f3097003f3d0873ac337878edd09ee5ac7ec1e9a",
+      "reason": "Record both actually observed speaking production and interaction.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_gm_kl06/units/unit10_mes-loisirs/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_gm_kl06/units/unit10_mes-loisirs_exam/index.md",
+      "before_sha256": "fb6f0a0d6af5beaebb00af741ac3d0f39d78c9e4b49f3d30405dc1c8eb9432d2",
+      "after_sha256": "3140a98824bc38b9d0db3310569b334f59d7a8a528756624f384a055aaf1783d",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

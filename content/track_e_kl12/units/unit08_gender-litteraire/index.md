@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 8
 slug: "gender-litteraire"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_gender-litteraire.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_gender-litteraire.png"
 tags:
-  - filiere-e
-  - classe-12
-  - niveau-e
+- filiere-e
+- classe-12
+- niveau-e
 aliases:
-  - "/track_e_kl12/units/unit08_gender-litteraire.html"
+- "/track_e_kl12/units/unit08_gender-litteraire.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.formal-discussion.01
-    - B2.REC.reading-for-information-and-argument.05
-    - B2.REC.understanding-conversation-between-other-people.03
-    - B2.INT.asking-for-clarification.02
-    - B2.MED.overall-mediation.02
+  - B2.INT.formal-discussion.01
+  - B2.REC.reading-for-information-and-argument.05
+  - B2.REC.understanding-conversation-between-other-people.03
+  - B2.INT.asking-for-clarification.02
+  - B2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl12/units/unit08_gender-litteraire_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_gender-litteraire-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit08_gender-litteraire-teacher.png
 audio_manifest: unit08_gender-litteraire
 ---
 
@@ -67,15 +99,13 @@ Au CDI, Nour et Basile préparent un exposé sur « genre et littérature ».
 2. Quelle solution Basile propose-t-il pour citer un texte entre guillemets ?
 3. Quelle différence faites-vous entre *citer*, *résumer* et *paraphraser* ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - *Genre* en français a deux sens : le genre grammatical (masculin/féminin) et le genre social. Lequel étudie-t-on ici ?
 - Connaissez-vous une autrice ou un auteur francophone qui écrit sur l'identité, le corps, les rôles féminin/masculin ? Citez un nom.
 - Quel mot français emploie-t-on pour traduire l'anglais *gender studies* ?
 - À votre avis, qu'est-ce qu'un *stéréotype de genre* ? Donnez un exemple tiré d'un livre ou d'un film.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Catégorie | Sens / usage |
@@ -116,8 +146,7 @@ Astuce : concéder d'abord (*Certes…*) rend une réfutation plus convaincante.
 
 Selon l'encyclopédie collaborative Wikipédia (CC BY-SA), les **études de genre** forment un champ de recherche pluridisciplinaire qui analyse le genre comme une **construction sociale et culturelle**, distincte du sexe biologique : les rôles dits « féminins » ou « masculins » varient selon les époques et les sociétés. Le concept d'**intersectionnalité**, forgé par la juriste américaine Kimberlé Crenshaw en 1989, décrit la manière dont plusieurs discriminations (de genre, de classe, d'origine) peuvent se cumuler. En français, l'**écriture inclusive** regroupe des procédés — doublets (*étudiantes et étudiants*), point médian (*étudiant·e·s*), termes épicènes (*le corps enseignant*) — dont l'usage reste débattu et n'est pas obligatoire. *(Paraphrasé ; voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte B).**
 
 1. Citez deux figures du domaine public évoquées dans le texte et l'époque de chacune.
@@ -145,6 +174,7 @@ c) *Cela dépend du contexte.*
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Olympe de Gouges (1791) et George Sand (XIXᵉ / vers 1830–1840) ; Colette (début du XXᵉ) est également acceptée. 2) Signer ses romans d'un prénom d'homme (nom de plume masculin) et porter le pantalon pour circuler librement. 3) Parce que leurs œuvres sont encore protégées par le droit d'auteur ; on peut les résumer et y renvoyer, pas les recopier. 4) Rendre compte fidèlement d'un texte n'est pas la même chose que se l'approprier ; on peut décrire et discuter une œuvre sans la copier.
 
 **Ex. 2.** a) intersectionnalité ; b) stéréotype ; c) domaine public.
@@ -152,9 +182,9 @@ c) *Cela dépend du contexte.*
 **Ex. 3.** *Tou·te·s les lecteur·rice·s sont invité·e·s.* (variante acceptée : *Toutes les lectrices et tous les lecteurs sont invités.*)
 
 **Ex. 4.** 1–b ; 2–a ; 3–c.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (E, en binôme, ~15 répliques).**
 
 Nour et Basile finalisent leur exposé. **A** défend l'idée que la littérature contemporaine a « tout dit » sur le genre ; **B** nuance en rappelant l'apport des autrices du domaine public. Votre dialogue doit contenir :
@@ -175,32 +205,18 @@ Nour et Basile finalisent leur exposé. **A** défend l'idée que la littératur
 | Fluidité de l'interaction, prise de parole équilibrée | 5 |
 | **Total** | **20** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux dégager la thèse et les arguments d'un texte sur le genre.
 - [ ] Je distingue *citer*, *résumer* et *paraphraser*.
 - [ ] Je sais quels auteurs je peux citer (domaine public) et lesquels je dois seulement référencer.
 - [ ] J'emploie au moins quatre termes des études de genre à bon escient.
 - [ ] Dans un débat, je concède avant de réfuter.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve — Compréhension écrite + Interaction orale (Niveau E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl12/units/unit08_gender-litteraire_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (texte B), 12 P.**
-1. Relevez les trois figures du domaine public citées et leur époque. (3 P.)
-2. Expliquez pourquoi le texte oppose « s'approprier » et « rendre compte ». (4 P.)
-3. Quelle est la thèse du texte en une phrase ? (3 P.)
-4. Citez un procédé d'écriture inclusive mentionné dans la note C. (2 P.)
-
-**Tâche 2 — Interaction orale, 18 P.**
-Débat en binôme (≈ 4 min) : *« La littérature peut-elle changer le regard sur le genre ? »* Chaque partenaire défend une position, emploie au moins trois termes spécialisés, cite une source du domaine public et respecte le droit d'auteur pour les œuvres récentes.
-
-*Barème Tâche 2 :* contenu et arguments 6 P. · vocabulaire spécialisé 4 P. · respect du droit d'auteur (citation vs référence) 3 P. · qualité de l'interaction 5 P.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min).** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Aperçu de l'évaluation 2'.
 

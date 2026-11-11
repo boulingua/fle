@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 8
 slug: "reseaux-sociaux-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - reading
 - speaking_interaction
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_reseaux-sociaux-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_reseaux-sociaux-e.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit08_reseaux-sociaux-e.html"
+- "/track_e_kl10/units/unit08_reseaux-sociaux-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.notes-messages-and-forms.01
-    - B1.REC.reading-for-orientation.06
-    - B1.INT.overall-written-interaction.02
-    - B1.REC.understanding-announcements-and-instructions.01
-    - B1.MED.linking-to-previous-knowledge.02
+  - B1.INT.notes-messages-and-forms.01
+  - B1.REC.reading-for-orientation.06
+  - B1.INT.overall-written-interaction.02
+  - B1.REC.understanding-announcements-and-instructions.01
+  - B1.MED.linking-to-previous-knowledge.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit08_reseaux-sociaux-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_reseaux-sociaux-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit08_reseaux-sociaux-e-teacher.png
 audio_manifest: unit08_reseaux-sociaux-e
 ---
 
@@ -73,8 +105,7 @@ Deux amies discutent à la sortie du lycée. Élise vient de désactiver son com
 2. Quel avantage et quel inconvénient mentionne-t-elle ?
 3. Êtes-vous plutôt d'accord avec Élise ou avec Léa ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 En petits groupes, échangez à l'oral avant de mettre en commun.
 
 - Combien de temps par jour passez-vous, en moyenne, sur les réseaux sociaux ?
@@ -82,8 +113,7 @@ En petits groupes, échangez à l'oral avant de mettre en commun.
 - Avez-vous déjà entendu l'expression **« bulle de filtres »** ? Qu'est-ce que cela pourrait signifier ?
 - Selon vous, montre-t-on la même image de soi en ligne et dans la vie réelle ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire
 
 | Français | Sens / usage |
@@ -126,8 +156,7 @@ Retenez trois connecteurs : **d'un côté / d'un autre côté**, **certes … ma
 
 L'expression **bulle de filtres** (en anglais *filter bubble*) a été popularisée par le militant américain Eli Pariser au début des années 2010. Elle décrit l'effet des algorithmes de personnalisation : en sélectionnant les contenus supposés nous plaire, les plateformes finissent par nous montrer surtout des avis proches des nôtres, ce qui peut réduire notre exposition à des points de vue différents. Le phénomène de **comparaison sociale**, lui, est étudié en psychologie depuis les travaux de Leon Festinger en 1954 : nous aurions une tendance naturelle à évaluer nos capacités en nous comparant aux autres — une tendance que les fils d'actualité peuvent amplifier. *(Paraphrasé d'après Wikipédia, CC BY-SA ; voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte « Deux visages d'un même profil »).** Répondez par des phrases complètes.
 
 1. Que montre Camille sur son profil, et que ne montre-t-elle pas ?
@@ -157,6 +186,7 @@ L'expression **bulle de filtres** (en anglais *filter bubble*) a été popularis
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. Elle montre ses voyages, ses sourires, ses amis ; elle ne montre pas ses « journées grises », c'est-à-dire ses moments ordinaires ou difficiles.
 2. Il la garde professionnelle : il publie ses projets et ses dessins, rien de privé.
@@ -171,9 +201,9 @@ L'expression **bulle de filtres** (en anglais *filter bubble*) a été popularis
 3. *Bien que ce soit amusant, je limite mon usage.*
 
 **Ex. 4.** Réponse libre. Exemple : *À mon avis, une interdiction totale serait difficile à appliquer. D'un côté, elle protégerait les plus jeunes ; d'un autre côté, elle les priverait d'un outil de contact. Je pense qu'une éducation à un usage critique serait plus efficace.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (en binôme, ~10 répliques, oral).**
 
 A et B comparent leur usage des réseaux sociaux. Chaque partenaire doit :
@@ -193,8 +223,7 @@ A et B comparent leur usage des réseaux sociaux. Chaque partenaire doit :
 | Fluidité et prononciation | débit compréhensible, hésitations limitées | 3 |
 | **Total** | | **15** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire.
 
 - [ ] Je peux expliquer la différence entre identité réelle et identité numérique.
@@ -203,19 +232,11 @@ Cochez ce que vous savez faire.
 - [ ] Je sais utiliser trois connecteurs d'opinion.
 - [ ] Je peux dialoguer et réagir aux arguments de mon/ma partenaire.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé — « Klassenarbeit » (compréhension écrite + interaction, Niveau E)**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit08_reseaux-sociaux-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 P.).** À partir d'un court article authentique ou du texte « Deux visages d'un même profil », répondez à cinq questions : deux questions de repérage (informations explicites), deux questions d'explication (reformulation), une question d'interprétation (« Selon vous, … »).
-
-**Tâche 2 — Langue (8 P.).** Transformez quatre phrases en utilisant les connecteurs d'opinion imposés (*d'un côté / d'un autre côté*, *certes … mais*, *bien que* + subjonctif, *à mon avis*).
-
-**Tâche 3 — Interaction / expression (10 P.).** Rédigez ou jouez un dialogue de ~140 mots (ou ~8 répliques) dans lequel deux personnes comparent leur usage des réseaux et défendent chacune un point de vue nuancé.
-
-**Barème : 30 points** — Tâche 1 : 12 P. · Tâche 2 : 8 P. · Tâche 3 : 10 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

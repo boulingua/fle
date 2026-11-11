@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit08_le-quebec-e/index.md",
-    "source_body_sha256": "4cb62650ba05b37923f05a139106cd05b6987590ecb8d7235549df0c1a0d2061",
+    "source_body_sha256": "fd571a669f34a02f9a9f1336593d235b1617b5a69f172f9f6d1495c2dc02ba5c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Inès : Salut Anouk ! Ce matin, j'ai déjeuné vite : je suis partie magasiner au centre-ville avec mon chum. Ce soir, on soupe chez ma grand-mère — poutine et tarte au sirop d'érable ! Anouk : Attends… tu as déjeuné le matin ? Tu magasines ? C'est quoi, un chum ? Et vous soupez le soir ? Je comprends un mot sur deux !"
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit08_le-quebec-e/index.md",
-    "source_body_sha256": "4cb62650ba05b37923f05a139106cd05b6987590ecb8d7235549df0c1a0d2061",
+    "source_body_sha256": "fd571a669f34a02f9a9f1336593d235b1617b5a69f172f9f6d1495c2dc02ba5c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "déjeuner.\npetit-déjeuner.\ndîner.\ndéjeuner.\nsouper.\ndîner.\nun char.\nune voiture.\nun chum / une blonde.\nun copain / une copine.\nmagasiner.\nfaire les magasins.\nun dépanneur.\nune épicerie de quartier.\nune tuque.\nun bonnet.\nla fin de semaine.\nle week-end.\nc'est plate.\nc'est ennuyeux."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl07/units/unit08_le-quebec-e/index.md",
-    "source_body_sha256": "4cb62650ba05b37923f05a139106cd05b6987590ecb8d7235549df0c1a0d2061",
+    "source_body_sha256": "fd571a669f34a02f9a9f1336593d235b1617b5a69f172f9f6d1495c2dc02ba5c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Montréal, le 10 octobre Salut Anouk ! Comment ça va à Karlsruhe ? Ici, c'est l'automne : les érables sont rouges et oranges, c'est vraiment magnifique. Il fait déjà 5 °C le matin, alors ma mère m'a acheté une tuque pour l'hiver. Hier soir, on a soupé chez ma grand-mère : de la poutine et une tarte au sirop d'érable. Mon chum Antoine était là. On a beaucoup parlé du match de hockey de samedi. Cet après-midi, j'ai magasiné au centre-ville avec ma cousine. Après, on est allées au dépanneur acheter des boissons. Le mois prochain, on va voir les Canadiens de Montréal jouer — tu connais le hockey ? Écris-moi vite ! Bises, Inès"

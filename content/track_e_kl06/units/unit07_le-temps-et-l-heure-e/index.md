@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 7
 slug: "le-temps-et-l-heure-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_le-temps-et-l-heure-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_le-temps-et-l-heure-e.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit07_le-temps-et-l-heure-e.html"
+- "/track_e_kl06/units/unit07_le-temps-et-l-heure-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.creative-writing.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.overall-oral-production.01
-    - A1.REC.reading-for-information-and-argument.02
-    - A1.INT.conversation.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.overall-oral-production.01
+  - A1.REC.reading-for-information-and-argument.02
+  - A1.INT.conversation.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam
+  format: written
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_le-temps-et-l-heure-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit07_le-temps-et-l-heure-e-teacher.png
 audio_manifest: unit07_le-temps-et-l-heure-e
 ---
 
@@ -71,15 +104,13 @@ audio_manifest: unit07_le-temps-et-l-heure-e
 - À quelle heure commence le cours ?
 - À quelle heure Léa et Karim se retrouvent-ils ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quelle heure est-il maintenant, dans la classe ?
 - À quelle heure commences-tu les cours le matin ? À quelle heure finis-tu ?
 - Cite trois moments de la journée en français.
 - Comment dit-on *12 h 00* et *00 h 00* en français ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Deutsch | Exemple |
@@ -141,8 +172,7 @@ très populaire pendant des décennies, montre l'attachement français à
 l'heure précise et à l'usage du **système de 24 heures** dans les contextes
 officiels. *(Source paraphrasée, Wikipédia FR, CC BY-SA 4.0 — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Réponds par une phrase.
 
 1. À quelle heure sonne le réveil de Naïma ?
@@ -175,6 +205,7 @@ deuxième information par phrase (*Le matin, je me lève à sept heures, puis je
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Son réveil sonne à six heures et demie. 2) Les cours commencent à huit heures.
 3) Elle déjeune à la cantine. 4) Elle fait ses devoirs. 5) Elle se couche à vingt et une heures trente (neuf heures et demie du soir).
 
@@ -183,9 +214,9 @@ deuxième information par phrase (*Le matin, je me lève à sept heures, puis je
 **Ex. 3.** 1) deux heures de l'après-midi · 2) huit heures et quart du soir · 3) quatre heures et demie de l'après-midi · 4) onze heures moins le quart du soir · 5) une heure de l'après-midi.
 
 **Ex. 4.** Réponses libres avec **à** + heure. Modèles : 1) à sept heures · 2) à huit heures · 3) à midi et demi · 4) à seize heures trente · 5) à vingt et une heures trente.
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (E, ~70 mots) :**
 
 Rédige **ta journée type** en semaine, du lever au coucher. Indique au moins
@@ -199,31 +230,18 @@ l'après-midi / le soir* et deux verbes pronominaux (*je me lève, je me couche*
 - deux verbes pronominaux bien conjugués ;
 - texte cohérent, ordre chronologique, environ 70 mots.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux demander et dire l'heure.
 - [ ] Je comprends un emploi du temps ou un horaire écrit.
 - [ ] Je sais lire l'heure officielle (24 h) et la dire de façon familière.
 - [ ] Je décris ma journée avec les bons moments et les bonnes heures.
 - [ ] Je rédige un court texte sur ma journée type.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit07_le-temps-et-l-heure-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 P.).** Lis un court emploi du temps
-(fourni) et réponds à 6 questions (*À quelle heure… ? Que fait-il/elle… ?*).
-
-**Tâche 2 — Lire l'heure (6 P.).** Écris 6 heures en toutes lettres et transforme
-3 heures officielles en heures familières.
-
-**Tâche 3 — Expression écrite (12 P.).** Rédige ta journée type (~70 mots) avec
-au moins 5 heures et deux verbes pronominaux.
-
-**Total : 30 P.** — Barème : 12 + 6 + 12. (Répartition indicative : contenu 60 %,
-langue/heures 40 %.)
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 - **Plan (45 min) :** Activer 4' · Apporter 13' · S'entraîner 14' · Produire 10' · Réfléchir 2' · Aperçu 2'.
 - **Organisation :** l'Ex. 3 (officiel → familier) fonctionne bien en binômes ; projeter une horloge analogique pour l'Apporter.

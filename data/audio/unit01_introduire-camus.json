@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit01_introduire-camus/index.md",
-    "source_body_sha256": "f80eaa4e3cdf203167fefcb19bb6475642b4aff16d8539fd6ac9bd8393f74e9d",
+    "source_body_sha256": "33b93097dda62126876d02d0633f21571b238668e61053c3e2c44e844f13af66",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit01_introduire-camus/index.md",
-    "source_body_sha256": "f80eaa4e3cdf203167fefcb19bb6475642b4aff16d8539fd6ac9bd8393f74e9d",
+    "source_body_sha256": "33b93097dda62126876d02d0633f21571b238668e61053c3e2c44e844f13af66",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un incipit.\nle narrateur / la narratrice.\nle point de vue (la focalisation).\nle récit.\nin medias res.\nle ton.\nla distance affective.\nl'absurde (m.).\nindifférent·e."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl12/units/unit01_introduire-camus/index.md",
-    "source_body_sha256": "f80eaa4e3cdf203167fefcb19bb6475642b4aff16d8539fd6ac9bd8393f74e9d",
+    "source_body_sha256": "33b93097dda62126876d02d0633f21571b238668e61053c3e2c44e844f13af66",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

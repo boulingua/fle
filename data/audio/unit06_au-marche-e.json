@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit06_au-marche-e/index.md",
-    "source_body_sha256": "68ed0e3e86608ef447327c0ce73746c04bbc4a92431a03cae6875c7c3e9e9ded",
+    "source_body_sha256": "95e8c094bfdaa53c0a7a2914b3fd8273ddc69c10eadf62350405b79eeaffb361",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit06_au-marche-e/index.md",
-    "source_body_sha256": "68ed0e3e86608ef447327c0ce73746c04bbc4a92431a03cae6875c7c3e9e9ded",
+    "source_body_sha256": "95e8c094bfdaa53c0a7a2914b3fd8273ddc69c10eadf62350405b79eeaffb361",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "La marchande. — Bonjour ! Qu'est-ce qu'il vous faut aujourd'hui ? Léa. — Bonjour Madame. Est-ce que vous avez des fraises ? La marchande. — Oui, elles sont bien mûres. Vous en voulez combien ? Léa. — Une barquette, s'il vous plaît. Et un kilo de tomates. La marchande. — Voilà. Et avec ceci ? Léa. — C'est tout, merci. Ça fait combien ?"
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit06_au-marche-e/index.md",
-    "source_body_sha256": "68ed0e3e86608ef447327c0ce73746c04bbc4a92431a03cae6875c7c3e9e9ded",
+    "source_body_sha256": "95e8c094bfdaa53c0a7a2914b3fd8273ddc69c10eadf62350405b79eeaffb361",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la pomme.\nla fraise.\nl'orange (f.).\nle melon.\nla tomate.\nla carotte.\nla courgette.\nla salade.\nla pomme de terre.\nl'oignon (m.).\nun kilo de….\nune barquette de….\nune botte de….\nÇa fait combien ?.\nEt avec ceci ?."

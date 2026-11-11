@@ -1,0 +1,95 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 10"
+subtitle: "Musique et chanson · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 10
+slug: "musique-et-chanson-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.notes-messages-and-forms.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.relaying-specific-information.02
+    - A1.INT.asking-for-clarification.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Hörverstehen (10 points)
+
+Écoutez l'extrait de *Papaoutai* (Unité 10, texte C). Répondez :
+
+1. Qui chante ?
+2. De quel pays vient-il ?
+3. Que cherche le chanteur ?
+4. Que dit la maman du papa ?
+5. Quel est le refrain ?
+
+### Tâche 2 — Vocabulaire (8 points)
+
+Reliez chaque artiste à son pays/style :
+
+| Artiste | Pays / Style |
+|------------------------|---------------------------|
+| 1. Céline Dion | a. Belgique / électro |
+| 2. Stromae | b. France / R'n'B |
+| 3. Aya Nakamura | c. Québec / chanson |
+| 4. Magic System | d. Côte d'Ivoire / zouglou|
+
+Plus, traduisez : *die Sängerin · der Liedtext · das Album ·
+das Konzert*.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Décrivez **votre clip francophone préféré** en **80 mots** :
+artiste + pays + style + 2 émotions ressenties + votre avis.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Hörverstehen | 10 |
+| Tâche 2 — Vocabulaire | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Stromae. 2) Belgique. 3) Son père. 4) Qu'il
+travaille beaucoup. 5) « Où t'es, papaoutai ? »
+
+**Tâche 2.** 1-c · 2-a · 3-b · 4-d. + la chanteuse · les
+paroles · l'album · le concert.
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · 5 éléments
+demandés.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 10*

@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md",
+  "exam": "content/track_e_kl08/units/unit03_mes-medias-preferes-e_exam/index.md",
+  "before_unit_sha256": "648e041d0275224ddeee687cb196bea3f62fcd99957653c6ed1d79ff5c8a1383",
+  "after_unit_sha256": "1fe9260cc21baecc6071d3d8e77fd6b7e52ff85edfcd9913a37fccaa63468247",
+  "before_exam_sha256": "b2116dd54a2b1f27801e239a0c443e4ee82687f530d164a84d29a1f02a929abd",
+  "after_exam_sha256": "722a657a5f44d995eb41ca03eba54ff013e90e3c1637fb469f10767eecd7fe33",
+  "source_sections": "B",
+  "supplied_source_sha256": "a8fdcdf314ba336fcf33a2c2bd7cf9f8589742b697f204bff5a27b106514cb4f",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Nonexistent Lupin/HugoDécrypte dialogue removed; actual habits paragraph supplied. Opinion-verb key broadened to semantically valid permutations."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "e94cb161cf0540ff09926cca65514d64277f0372c55b89307b2bdd9abef2edea",
+      "after_sha256": "1fe9260cc21baecc6071d3d8e77fd6b7e52ff85edfcd9913a37fccaa63468247",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit03_mes-medias-preferes-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "6a2b878daf8a7d92fa574e7a0291946fb541f03555b0cd09e6c9c90112cc0b9d",
+      "after_sha256": "20693f9476cba8bdcd06072dc2a85d84598f2423994c7fb5a45e6750a478178b",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit03_mes-medias-preferes-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "20693f9476cba8bdcd06072dc2a85d84598f2423994c7fb5a45e6750a478178b",
+      "after_sha256": "71372d245a52b914a18a04cd4fb070c95402b56ead351ddde77126bc63d42c31",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit03_mes-medias-preferes-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit03_mes-medias-preferes-e_exam/index.md",
+      "before_sha256": "71372d245a52b914a18a04cd4fb070c95402b56ead351ddde77126bc63d42c31",
+      "after_sha256": "722a657a5f44d995eb41ca03eba54ff013e90e3c1637fb469f10767eecd7fe33",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

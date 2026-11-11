@@ -34,14 +34,14 @@ slug:
 
 script_tier: core
 target_language: fr
-chrome_language: de
+chrome_language: fr             # interface language declared in hugo.toml
 
 band_default: II
 milestone: M0
 
 gates:
   network_graph: true
-  pagefind: true
+  pagefind: true               # built by kit build; full-text search at /search/
   bildungsplan: true            # 156 pages carry a bildungsplan block
   curriculum: warn
 

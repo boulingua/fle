@@ -1,0 +1,45 @@
+{
+  "unit": "content/track_e_kl11/units/unit07_extrait-roman-contemporain/index.md",
+  "exam": "content/track_e_kl11/units/unit07_extrait-roman-contemporain_exam/index.md",
+  "before_unit_sha256": "b2a3372e2bd7a9f878aa291676a7b4f57a8a0fe9f606e2bf29a8a5a3705ff52b",
+  "after_unit_sha256": "2851485d7baf15774b2cd7032a88b5dbd80c52b7dbd858d24f773e912b9f690c",
+  "before_exam_sha256": "2a11598c0786d25e18094cf72c8ed1b51ee0119f50c5671f87ee7523469e3b05",
+  "after_exam_sha256": "52d3e77f4657dcc8dd51728b7d29459dfd454eddc70273fe4237ca94805e98fd",
+  "source_sections": "C",
+  "supplied_source_sha256": "7e6348795f7c504fcb6a240531265fbe68275f74337196e452ea9832a3bc52ad",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unprovided protectedSlimani extract and inaccurate key. Actual original Clara narrative supports source-grounded analysis and focalization."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "a9961955f6f13a85f5e20b24b9c2a83564d264a16d4c7d2db3fa3ab80c1d886e",
+      "after_sha256": "9eb440b736d7aace0ab3b204f650fd5e981ad69b50c7d06461e05cc768239bcb",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit07_extrait-roman-contemporain_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9eb440b736d7aace0ab3b204f650fd5e981ad69b50c7d06461e05cc768239bcb",
+      "after_sha256": "e70ace0861ccf10920df2926086560b543fb936a51e3fb21ac6732b5b4c1f55b",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit07_extrait-roman-contemporain_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit07_extrait-roman-contemporain_exam/index.md",
+      "before_sha256": "e70ace0861ccf10920df2926086560b543fb936a51e3fb21ac6732b5b4c1f55b",
+      "after_sha256": "52d3e77f4657dcc8dd51728b7d29459dfd454eddc70273fe4237ca94805e98fd",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

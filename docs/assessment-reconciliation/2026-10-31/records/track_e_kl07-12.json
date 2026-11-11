@@ -1,0 +1,55 @@
+{
+  "unit": "content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md",
+  "exam": "content/track_e_kl07/units/unit12_bilan-progres-7e-e_exam/index.md",
+  "before_unit_sha256": "fb999d81f432efa1a91fd2f2d5f667adb33bf40c1e7597d9e5e4ec291c74ec07",
+  "after_unit_sha256": "f2eb57734fe0bbb5fdf843e7679185e336c27ae49801d25a41b8a887a53e1828",
+  "before_exam_sha256": "b9b18304c39be709f0b2adeec979e94fefce06b31eb94841e3435b3a42258c95",
+  "after_exam_sha256": "b25c527f8a972e1d2484fd2c879aac09172ab48546e7ad8dcbebdd19898939ac",
+  "source_sections": "C",
+  "supplied_source_sha256": "3cd0a3f8fb57da35f15304c347d7c063f5d8ca409bc51baf579f45ec1d06d24e",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unsupported PetitPrince/Erasmus claims; actual first novel/unspecified exchange. Retained conjugation/writing; clarified aller voir future construction."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "56d587120eb7de2e9832697e8557dafbbad9ae70294d3a8f8f7c766fadea5500",
+      "after_sha256": "f2eb57734fe0bbb5fdf843e7679185e336c27ae49801d25a41b8a887a53e1828",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit12_bilan-progres-7e-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9e0012f3d8d01d02774be27cd1a5b9d767b16c4689eb0c9cd4028c7ed9cd9f0c",
+      "after_sha256": "4864d1f9563156b64b00b5ab55ed8eb34b2b9874ed5af7ea1a72f72ff89eb55e",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit12_bilan-progres-7e-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "4864d1f9563156b64b00b5ab55ed8eb34b2b9874ed5af7ea1a72f72ff89eb55e",
+      "after_sha256": "bb27133266c659d917e214b242b65cd18813bebc362f06c346598efd426ba8c8",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit12_bilan-progres-7e-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit12_bilan-progres-7e-e_exam/index.md",
+      "before_sha256": "bb27133266c659d917e214b242b65cd18813bebc362f06c346598efd426ba8c8",
+      "after_sha256": "b25c527f8a972e1d2484fd2c879aac09172ab48546e7ad8dcbebdd19898939ac",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

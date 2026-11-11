@@ -23,70 +23,57 @@ curriculum:
     - A2.MED.processing-text.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 9
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez la lettre de Léa à Sara (Unité 7, texte D). Répondez :
+## Situation et ressource
 
-1. Pourquoi Léa écrit-elle à Sara ?
-2. Qu'a-t-elle déjà fait pour aider ?
-3. Quelles qualités cite-t-elle de Sara ?
-4. Quel est le programme de demain ?
-5. Comment Léa termine-t-elle sa lettre ?
+Scénario fictif : une personne reçoit des messages humiliants répétés dans le groupe de classe et se sent isolée. Elle demande du soutien. En France, le 3018 peut être contacté pour le harcèlement et le cyberharcèlement; un adulte de confiance peut aussi aider. Aucun récit personnel n’est demandé.
 
-### Tâche 2 — Vocabulaire (8 points)
+**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau M.**
 
-Traduisez :
+**Tâche 1 — Expression écrite (« Schreiben ») — message de soutien (14 P.)**
+Un·e ami·e vous confie par message qu'il/elle est harcelé·e dans le groupe de classe. Répondez en **80–110 mots** : reconnaissez la situation, exprimez votre **soutien**, proposez **deux conseils** au conditionnel, et citez **le 3018 ou une personne-ressource**.
+*Barème :* contenu et soutien 6 · deux conseils au conditionnel 4 · langue (vocabulaire, orthographe) 4.
 
-- mobben · beleidigen · sich lustig machen · isolieren ·
- Zeugin · melden · das Vertrauen · die Hilfe.
+**Tâche 2 — Expression orale en interaction (« Sprechen : Dialog ») — jeu de rôle (10 P.)**
+En binôme, jouez la scène « se confier / réconforter » (voir Produire). *Barème :* écoute et soutien 4 · conseil et ressource 3 · langue 3.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Tâche 3 — Vocabulaire (6 P.)** : traduire en français : mobben, beleidigen, Zeuge, melden, Hilfe, Vertrauen.
 
-Rédigez une **lettre de soutien** (~120 mots) à un(e) ami(e)
-victime de harcèlement : reconnaître la situation, proposer
-**3 solutions** concrètes, exprimer le soutien. Citez **2 mots**
-de la liste B + le numéro **3018**.
+**Total : 30 P.**
 
-## Notation
+## Corrigé
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Vocabulaire | 8 |
-| Tâche 3 — Expression écrite | 12 |
-| **Total** | **30** |
+**Total : 30 points.**
 
-## Solutions
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 1.** 1) Pour la soutenir face au harcèlement à la
-cantine. 2) Parlé à Mme Renault. 3) Magnifiques cheveux, drôle,
-intelligente, importante. 4) Voir le CPE tous les trois.
-5) « À demain. Bisous fort, Léa. »
+**Tâche 1.** Soutien sans culpabilisation (6), deux conseils au conditionnel (4), langue (4). Ne pas promettre la disparition immédiate du problème ni imposer une confrontation.
 
-**Tâche 2.** harceler · insulter · se moquer · isoler · témoin
-· signaler · la confiance · l'aide.
+**Tâche 2.** Écoute et soutien (4), conseil et ressource (3), langue (3), observés dans l'échange réel. Un candidat peut jouer un adulte ou un observateur pour éviter de simuler le rôle d'une victime.
 
-**Tâche 3.** Réponses libres. Critères : 120 mots · 3 solutions
-concrètes · 2 mots du lexique · 3018 cité · ton bienveillant.
+**Tâche 3.** Harceler, insulter, témoin, signaler, aide, confiance : 1 point chacun.
 
----
+{{< /details >}}
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+## Sources
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+- *Harcèlement scolaire en France* — Wikipédia (consulté en 2026), <https://fr.wikipedia.org/wiki/Harc%C3%A8lement_scolaire_en_France>, licence CC BY-SA.
+- *Journée nationale de lutte contre le harcèlement à l'École* — Ministère de l'Éducation nationale (2025), <https://www.education.gouv.fr/non-au-harcelement/journee-nationale-de-lutte-contre-le-harcelement-l-ecole-465669>, données publiques paraphrasées.
+- *Le 3018, numéro national contre le harcèlement* — Ministère de l'Éducation nationale / e-Enfance (2025), <https://www.3018.fr/>, données publiques paraphrasées.
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 7*
+*Ressources d'aide (France) : le 3018 (harcèlement et violences numériques). Plateforme éducative indépendante, sans affiliation avec les organismes cités.*
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

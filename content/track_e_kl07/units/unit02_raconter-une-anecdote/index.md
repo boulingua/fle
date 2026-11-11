@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 2
 slug: "raconter-une-anecdote"
 bildungsplan:
-  - "3.1.3.4 Expression orale — monologisches Expression orale"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.4 Expression orale — monologisches Expression orale"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - speaking_production
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_raconter-une-anecdote.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_raconter-une-anecdote.png"
 tags:
-  - filiere-e
-  - classe-7
-  - niveau-e
+- filiere-e
+- classe-7
+- niveau-e
 aliases:
-  - "/track_e_kl07/units/unit02_raconter-une-anecdote.html"
+- "/track_e_kl07/units/unit02_raconter-une-anecdote.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.sustained-monologue-describing-experience.02
-    - A1.PROD.compensating.01
-    - A1.PLUR.plurilingual-comprehension.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.reading-for-information-and-argument.01
+  - A1.PROD.sustained-monologue-describing-experience.02
+  - A1.PROD.compensating.01
+  - A1.PLUR.plurilingual-comprehension.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.reading-for-information-and-argument.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl07/units/unit02_raconter-une-anecdote_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_raconter-une-anecdote-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_raconter-une-anecdote-teacher.png
 audio_manifest: unit02_raconter-une-anecdote
 ---
 
@@ -71,15 +103,13 @@ audio_manifest: unit02_raconter-une-anecdote
 - Quels verbes décrivent le **décor** (le matin, la chaleur, les oiseaux) ? Quels verbes décrivent **l'action soudaine** ?
 - Comment Tristan capte-t-il l'attention d'Anouk dès la première phrase ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous vécu une anecdote drôle ou surprenante pendant les vacances ? Racontez-la en une phrase à votre voisin·e.
 - Vacances ratées, quiproquo, rencontre inattendue : quels sujets d'anecdotes connaissez-vous ?
 - Que dit-on en allemand pour *soudain* et *tout à coup* ? Trouvez deux équivalents.
 - À votre avis, pourquoi une bonne anecdote a-t-elle besoin d'un **décor** avant l'**événement** ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — raconter une anecdote
 
 | Français | Catégorie | Allemand |
@@ -132,8 +162,7 @@ Une image utile : l'imparfait est le **film au ralenti en arrière-plan**, le pa
 
 En France, l'art de raconter une histoire courte a une longue tradition littéraire. Au XIXᵉ siècle, **Guy de Maupassant** (1850–1893) publie des centaines de *nouvelles* et de *contes*, souvent d'abord dans les journaux. Beaucoup partent d'une situation ordinaire de la vie de tous les jours, avant une fin surprenante ou ironique. Comme l'auteur est mort il y a plus de 70 ans, ses textes appartiennent aujourd'hui au **domaine public** et se lisent librement en ligne. Cette tradition montre qu'une bonne anecdote repose souvent sur un ingrédient simple : un décor familier, puis un événement inattendu. *(Paraphrasé d'après Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte C).**
 
 1. Où Tristan passait-il ses vacances ? Que faisait-il chaque matin ?
@@ -167,6 +196,7 @@ a) il faisait nuit · b) tout à coup · c) un jour · d) j'avais dix ans · e) 
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Chez sa grand-mère, à la campagne ; il se levait tôt. 2) Les oiseaux chantaient, la chèvre broutait. 3) La chèvre a mangé sa tartine ; verbes au PC : *a sauté, a traversé, a mangé* (aussi *j'ai crié*). 4) La grand-mère est arrivée et a ri ; depuis, on appelle la chèvre « la voleuse de tartines ».
 
 **Ex. 2.** 1) faisait · 2) ai entendu · 3) étais / jouais · 4) sommes allé·e·s · 5) lisait / a sonné.
@@ -174,9 +204,9 @@ a) il faisait nuit · b) tout à coup · c) un jour · d) j'avais dix ans · e) 
 **Ex. 3.** Décor (D) : a, d, f, h. Action (A) : b, c, e, g.
 
 **Ex. 4.** Ordre : 1) *Il faisait chaud et la salle était pleine* (décor). 2) *Soudain, la chanteuse a oublié les paroles* (événement). 3) *Alors, le public a chanté à sa place* (réaction). 4) *Finalement, tout le monde a applaudi* (chute).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche (Niveau E) — au choix, à l'oral ou à l'écrit :**
 
 Racontez **une anecdote drôle ou surprenante** (réelle ou inventée) en **trois paragraphes** :
@@ -197,36 +227,18 @@ Racontez **une anecdote drôle ou surprenante** (réelle ou inventée) en **troi
 | Richesse et clarté | vocabulaire varié, récit compréhensible |
 | (Oral) fluidité et intonation | débit régulier, chute mise en valeur |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je distingue le passé composé (action) et l'imparfait (décor).
 - [ ] J'utilise les marqueurs temporels pour structurer mon récit.
 - [ ] Je conjugue correctement les deux temps du passé.
 - [ ] Je raconte une anecdote claire de décor → événement → chute.
 - [ ] Je relis mon texte et je corrige le choix des temps.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple de devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl07/units/unit02_raconter-une-anecdote_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 P.).** Lisez l'anecdote de Tristan (texte C) et répondez à quatre questions (décor, événement, chute, verbes au passé composé).
-
-**Tâche 2 — Grammaire : passé composé / imparfait (10 P.).** Conjuguez huit verbes dans un court récit à trous, en justifiant deux choix (décor ou action).
-
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.).** Rédigez votre propre anecdote (~150 mots) en trois paragraphes, avec au moins 3 marqueurs, 5 passés composés et 5 imparfaits.
-
-**Barème :**
-
-| Tâche | Points |
-|-------|--------|
-| 1 — Compréhension écrite | 8 |
-| 2 — Grammaire (temps du passé) | 10 |
-| 3 — Expression écrite | 12 |
-| **Total** | **30** |
-
-*Barème indicatif pour la tâche 3 : structure 3 P., emploi des temps 5 P., marqueurs 2 P., richesse et correction de la langue 2 P.*
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulé (45 min) :** Activer 5' · Apporter 12' · S'entraîner 14' · Produire 10' · Réfléchir 2' · Aperçu de la séance suivante 2'.
 

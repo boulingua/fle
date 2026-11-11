@@ -1,0 +1,95 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau E) — Unité 4"
+subtitle: "Argumenter pour / contre · classe 9 · Niveau E"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 4
+slug: "argumenter-pour-contre-e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.03
+    - A2.INT.formal-discussion.01
+    - A2.MED.collaborating-to-construct-meaning.02
+    - A2.MED.encouraging-conceptual-talk.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le billet d'Anouk (Unité 4, texte C). Répondez :
+
+1. Quelle question pose le billet ?
+2. Citez 2 arguments « pour ».
+3. Citez 2 arguments « contre ».
+4. Quelle statistique mentionne le texte ?
+5. Quelle est la position finale d'Anouk ?
+
+### Tâche 2 — Connecteurs logiques (8 points)
+
+Complétez avec un connecteur (*d'une part, cependant, de
+plus, en effet, en conclusion, néanmoins, pourtant, par
+ailleurs*) :
+
+1. ___, les écrans sont utiles en cours.
+2. ___, ils distraient les élèves faibles.
+3. ___, des règles claires sont possibles.
+4. ___, je suis pour un usage encadré.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre billet d'opinion** (~180 mots) sur un sujet :
+uniforme à l'école · smartphone à 12 ans · viande à la
+cantine. Structure 4 § + 6 connecteurs + 1 conditionnel.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Connecteurs | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Faut-il interdire les écrans à l'école ? 2)
+Accès aux ressources / élèves visuels. 3) Distraction /
+30 % consultent les réseaux. 4) 30 %. 5) Pour un usage
+encadré.
+
+**Tâche 2.** 1) D'une part · 2) Cependant · 3) Néanmoins ·
+4) En conclusion.
+
+**Tâche 3.** Réponses libres. Critères : 180 mots · 4 § ·
+6 connecteurs · 1 conditionnel.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau E · Unité 4*

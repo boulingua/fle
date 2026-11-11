@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 2
 slug: "mes-medias-preferes"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - speaking_interaction
 presentation:
@@ -19,22 +19,53 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_mes-medias-preferes.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_mes-medias-preferes.png"
 tags:
-  - filiere-gm
-  - classe-8
-  - niveau-m
+- filiere-gm
+- classe-8
+- niveau-m
 aliases:
-  - "/track_gm_kl08/units/unit02_mes-medias-preferes.html"
+- "/track_gm_kl08/units/unit02_mes-medias-preferes.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.correspondence.01
-    - A2.INT.overall-oral-interaction.02
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.MED.adapting-language.01
+  - A2.INT.correspondence.01
+  - A2.INT.overall-oral-interaction.02
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl08/units/unit02_mes-medias-preferes_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - speaking_interaction
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_mes-medias-preferes-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_mes-medias-preferes-teacher.png
 audio_manifest: unit02_mes-medias-preferes
 ---
 
@@ -72,15 +103,13 @@ Samedi matin, à la maison. Lucas est encore au lit, le téléphone à la main. 
 - Quel média utilisez-vous **le samedi matin** ?
 - Repérez dans le dialogue **deux** façons de dire *combien de temps* et *à quelle fréquence*.
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Citez **trois médias** que vous utilisez chaque semaine (application, chaîne, site, radio…).
 - Combien de temps passez-vous **par jour** devant un écran, à peu près ?
 - Terminez la phrase : *« Mon média préféré, c'est… parce que… »*
 - Quelle différence faites-vous entre **s'informer** et **se divertir** ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire utile
 
 | Mot / expression | Sens |
@@ -127,10 +156,9 @@ Puis on **justifie** avec **parce que** : *Je trouve la radio pratique **parce q
 
 ### D. Note culturelle — TV5Monde
 
-TV5Monde est une chaîne de télévision internationale de langue française, née en 1984 de la coopération de diffuseurs publics de France, de Belgique, de Suisse, du Canada, du Québec et de Monaco. Elle est diffusée dans plus de 200 pays et territoires et propose des programmes en français, souvent accompagnés de sous-titres en plusieurs langues, ce qui en fait un outil très utilisé pour apprendre le français dans le monde. *(D'après Wikipédia, CC BY-SA — voir Sources.)*
+TV5Monde est une chaîne de télévision internationale de langue française, lancée en 1984 sous le nom TV5. Son partenariat et sa diffusion se sont élargis au fil du temps. Elle est diffusée dans de nombreux pays et territoires et propose des programmes en français, souvent accompagnés de sous-titres en plusieurs langues, ce qui en fait un outil très utilisé pour apprendre le français dans le monde. *(D'après Wikipédia, CC BY-SA — voir Sources.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 (G) — Information ou divertissement ?**
 
 Classez chaque titre en **(I)** information ou **(D)** divertissement.
@@ -170,6 +198,7 @@ Exemple : *(court) vidéo / émission →* **La vidéo est plus courte que l'ém
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.** 1 = I · 2 = D · 3 = I · 4 = D · 5 = I.
 
 **Exercice 2.** 1) tous les jours · 2) rarement · 3) ne … jamais · 4) souvent (ou *de temps en temps* accepté).
@@ -187,9 +216,9 @@ Exemple : *(court) vidéo / émission →* **La vidéo est plus courte que l'ém
 {{< callout type="tip" title="Différenciation" >}}
 **G :** travaillent l'exercice 1 et l'exercice 2 avec la banque de mots affichée. **M :** exercices 2 et 3, phrases complètes. **E :** exercice 4 + rédigent deux comparaisons supplémentaires de leur choix.
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'expression orale (M, ~2 min, en binôme) — « Interview écrans ».**
 
 A est journaliste pour le journal du collège, B répond. A pose **trois questions** ; B répond avec **une opinion et une justification**. Puis on échange les rôles.
@@ -210,44 +239,18 @@ Questions possibles :
 - **Langue :** vocabulaire des médias, adverbes de fréquence, *parce que*, comparaison.
 - **Interaction / prononciation :** on se comprend, le dialogue est fluide, on réagit à l'autre.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer trois médias et dire à quelle fréquence je les utilise.
 - [ ] Je peux donner mon opinion et la justifier avec *parce que*.
 - [ ] Je peux comparer deux médias (*plus / moins… que*).
 - [ ] Je peux poser et répondre à trois questions dans une interview.
 - [ ] Je fais la différence entre information et divertissement et je pense à la source.
 
-## Évaluation
+## Évaluation {#exam}
 
-{{< callout type="warning" >}}
-Devoir surveillé (« Klassenarbeit », Niveau M) avec une **partie orale enregistrée** en binôme, alignée sur *sprechen_dialog* et *text_medien*. Stimulus original.
-{{< /callout >}}
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl08/units/unit02_mes-medias-preferes_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») — 8 P.**
-
-Relisez le mini-dialogue (partie C). Répondez en français par une phrase complète.
-
-1. Quel est le média préféré d'Inès et quand l'écoute-t-elle ?
-2. Pourquoi Inès préfère-t-elle ce média aux vidéos ?
-3. Que répond Malik quand on lui demande qui a fait ses vidéos ? Que montre cette réponse ?
-
-**Tâche 2 — Partie orale enregistrée (« Sprechen — Dialog ») — 12 P.**
-
-En binôme, enregistrez une interview d'environ 90 secondes : **3 questions** + **3 réponses** sur les médias préférés. Barème :
-
-- Réalisation (3 questions + 3 réponses justifiées) — 5 P.
-- Langue (fréquence, opinion, comparaison) — 4 P.
-- Interaction et prononciation (on se comprend, on réagit) — 3 P.
-
-**Tâche 3 — Expression écrite (« Schreiben ») — 10 P.**
-
-Rédigez un court texte d'environ 70 mots : *« Mon média préféré et pourquoi. »*
-Employez au moins **un adverbe de fréquence**, **une opinion justifiée** et **une comparaison**.
-
-**Total : 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan horaire (45 min) :** Activer 5' · Apporter 12' (vocabulaire + point de langue + note culturelle) · S'entraîner 13' · Produire (binômes) 10' · Réfléchir 5'.
 L'évaluation (devoir surveillé) se déroule lors d'une séance séparée ; la partie orale peut être enregistrée par petits groupes pendant que les autres rédigent la Tâche 3.

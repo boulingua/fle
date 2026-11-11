@@ -23,78 +23,55 @@ curriculum:
     - B2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_points: 30
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+Sujet d’entraînement réconcilié avec les supports rédigés pour l’unité. Ce n’est pas un sujet officiel. Les personnages et situations des textes originaux sont des scénarios pédagogiques. Les références institutionnelles ou littéraires conservent leur attribution propre. Les données personnelles peuvent être inventées. La durée et le barème sont à éprouver en classe; la validation pédagogique reste en attente.
 
-Lisez la médiation FR (Unité 5, texte C). Répondez :
+## Support
 
-1. Quel est le sujet du débat allemand ?
-2. Quel pourcentage limite le déficit ?
-3. Quelle économiste est citée ?
-4. Quels deux camps s'opposent ?
+*Scénario historique simplifié du débat avant les réformes de 2025. La présentation ne décrit pas le droit actuel et omet les exceptions juridiques; le chiffre concerne la règle structurelle présentée dans ce dossier.*
 
-### Tâche 2 — Verbes-charnières (8 points)
+### B. Texte source (allemand) — débat historique simplifié, avant la réforme de 2025
 
-Reformulez en français :
+Texte pédagogique original : il expose un débat antérieur à la réforme allemande de mars 2025. Il ne décrit pas toutes les exceptions ni les règles actuelles. La médiation doit conserver ce repère temporel.
 
-1. *Der Artikel betont …* → ___
-2. *Die SPD will lockern …* → ___
-3. *Die FDP lehnt ab …* → ___
-4. *Grimm fordert …* → ___
+> Deutschland diskutiert seit Jahren über die sogenannte **Schuldenbremse**. Diese Regel wurde 2009 in das Grundgesetz aufgenommen. Die hier vereinfacht beschriebene Grundregel begrenzt die strukturelle Neuverschuldung des Bundes auf **0,35 Prozent** des Bruttoinlandsprodukts; Ausnahmen werden in diesem kurzen historischen Text nicht dargestellt. Ziel war es, die öffentlichen Finanzen langfristig zu stabilisieren.
+>
+> In der hier dargestellten Debatte stellten viele Fachleute die Regel infrage. Der Klimawandel, die marode Infrastruktur und die Digitalisierung erfordern hohe **Investitionen**. Kritiker meinen, der Staat müsse mehr Geld ausgeben dürfen. Befürworter der Schuldenbremse warnen dagegen vor einer wachsenden Staatsverschuldung.
+>
+> Die Parteien sind sich uneinig: Einige fordern eine **Lockerung**, andere wollen die Regel **beibehalten**. Manche Ökonominnen schlagen einen Kompromiss vor — eine maßvolle Reform, die Investitionen erlaubt, ohne die Haushaltsdisziplin aufzugeben.
 
-### Tâche 3 — médiation linguistique (« Sprachmittlung ») (14 points)
+### Tâche 1 — Compréhension écrite (8 points)
 
-Médiez ce dossier allemand en français (~350 mots) :
+Lisez le support fourni ci-dessous. Répondez à partir du texte, sans ajouter d’informations extérieures. Chaque réponse vaut 2 points; les éléments attendus sont précisés dans le corrigé.
 
-> *Berlin diskutiert über das Tempolimit auf Autobahnen.
-> Aktuell gilt eine Empfehlung von 130 km/h, aber kein
-> verbindliches Limit. Eine Studie des Umweltbundesamts
-> (2024) zeigt, dass ein Limit von 130 km/h jährlich 6,7
-> Mio. Tonnen CO2 sparen würde — entspricht 0,8 % der
-> deutschen Emissionen. Die Grünen und SPD befürworten ein
-> Tempolimit. Die FDP lehnt es als « Verbotspartei-Politik »
-> ab. Verkehrsminister Volker Wissing (FDP): « Es gibt
-> keinen Konsens. »*
+1. Quelle règle est discutée et en quelle année le dossier situe-t-il son introduction ?
+2. Quel seuil le dossier donne-t-il et à quelle grandeur économique le rapporte-t-il ?
+3. Citez deux besoins d’investissement évoqués.
+4. Quelles sont les deux exigences que le compromis cherche à concilier ?
 
-Utilisez 4 § + 5 verbes-charnières + 1 citation + 1 lien
-interculturel (France 130 km/h sur autoroute par défaut).
+### Tâche 2 — Langue (8 points)
 
-## Notation
+Reformulez en français en conservant le degré de certitude.
+1. Der Artikel betont, dass Investitionen nötig sind.
+2. Einige Kritiker wollen die Regel lockern.
+3. Andere lehnen eine Lockerung ab.
+4. Manche Ökonominnen schlagen einen Kompromiss vor.
 
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 8 |
-| Tâche 2 — Verbes | 8 |
-| Tâche 3 — médiation linguistique | 14 |
-| **Total** | **30** |
+**Barème :** 4 reformulations × 2 points : sens 1, nuance/construction 1.
 
-## Solutions
+### Tâche 3 — Production (14 points)
 
-**Tâche 1.** 1) Frein à l'endettement (*Schuldenbremse*).
-2) 0,35 % du PIB. 3) Veronika Grimm. 4) SPD + Verts vs CDU
-+ FDP.
+Médiez le dossier allemand fourni en 100 à 140 mots pour un correspondant francophone. Présentez la règle telle que ce scénario historique la résume, les besoins d’investissement, l’objection et le compromis. Attribuez les propositions au dossier; n’ajoutez ni personnalité, ni parti, ni comparaison juridique non fournie.
 
-**Tâche 2.** 1) *L'article souligne …* · 2) *La SPD veut
-assouplir …* · 3) *La FDP s'oppose / refuse …* · 4) *Grimm
-réclame / exige …*
+**Barème :** Fidélité : 4 points; adaptation : 3; reformulation : 3; structure et limites : 2; langue : 2.
 
-**Tâche 3.** Modèle : *Cet article expose le débat allemand
-sur la limitation de vitesse sur autoroute. Une étude de
-l'Office fédéral allemand de l'environnement (2024) démontre
-qu'un plafond à 130 km/h économiserait 6,7 millions de
-tonnes de CO2 annuelles, soit 0,8 % des émissions
-allemandes. Politiquement, les Verts et la SPD sont pour ;
-la FDP s'oppose en parlant de « parti des interdictions ».
-Le ministre des Transports Volker Wissing affirme qu'« il
-n'y a pas de consensus ». En France, la limitation à 130
-km/h est en vigueur depuis 1973 — différence culturelle
-notable.* (~350 mots).
-
----
+## Barème total
 
 {{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
 **Total.** 30 points
@@ -109,4 +86,34 @@ notable.* (~350 mots).
 | 0–8 | 6 |
 {{< /callout >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 5*
+*Ce barème reprend les seuils du sujet antérieur; il est proposé pour ces tâches seulement, sans valeur de certification GER ou de règlement scolaire.*
+
+## Corrigé
+
+{{< details title="Solutions et indications pour la correction" role="key" >}}
+
+**Tâche 1.**
+
+1. Schuldenbremse/frein à l’endettement; 2009 (1 + 1).2.0,35%; PIB (1 + 1), simplification historique du dossier, pas exposé du droit actuel.3. Deux parmi climat, infrastructures, numérisation (1 + 1).4. Investir; discipline budgétaire (1 + 1). Aucun économiste ou parti nommé n’est fourni.
+
+**Tâche 2.** 1. L’article souligne que des investissements sont nécessaires.2. Certains critiques veulent assouplir la règle.3. D’autres s’opposent à un assouplissement.4. Certaines économistes proposent un compromis. Garder certains/d’autres, ne pas inventer de noms.
+
+**Tâche 3.** Frein introduit 2009; seuil 0,35% du PIB présenté dans le dossier; besoins climat/infrastructures/numérique; crainte dette; réforme modérée conciliant investissements et discipline. Il s’agit d’un scénario simplifié antérieur aux réformes 2025, pas du droit actuel. Aucun dossier autoroutier ni fausse attribution UBA/Wissing.
+
+{{< /details >}}
+
+## Sources
+
+- Ministère fédéral des Finances — Schuldenbremse (vérification éditoriale du 31 octobre 2026), <https://www.bundesfinanzministerium.de/Content/DE/Glossareintraege/S/schuldenbremse.html?view=renderHelp>.
+
+
+- *Schuldenbremse (Deutschland)* — Wikipedia, les contributeurs (consulté 2026), <https://de.wikipedia.org/wiki/Schuldenbremse>, licence CC BY-SA 4.0.
+- *Cadre européen commun de référence pour les langues* — Wikipédia, les contributeurs (consulté 2026), <https://fr.wikipedia.org/wiki/Cadre_europ%C3%A9en_commun_de_r%C3%A9f%C3%A9rence_pour_les_langues>, licence CC BY-SA 4.0.
+- *Critères de convergence de la zone euro* (règle des 3 % de déficit) — Wikipédia, les contributeurs (consulté 2026), <https://fr.wikipedia.org/wiki/Crit%C3%A8res_de_convergence>, licence CC BY-SA 4.0.
+- *Bildungsplan 2016 — Französisch (Kursstufe)*, Landesinstitut / Kultusministerium Baden-Württemberg, <https://www.bildungsplaene-bw.de/>, contenu officiel du Land (référence de cadrage, non reproduit).
+
+## Provenance
+
+Support : unité correspondante, section(s) B. Les deux versions antérieures et les décisions de rapprochement sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Une reprise du texte connu sert ici à l’entraînement; une épreuve de transfert indépendante demandera un autre support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

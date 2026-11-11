@@ -1,0 +1,102 @@
+---
+title: "devoir surveillé FLE — classe 9 (Niveau M) — Unité 3"
+subtitle: "Écologie au quotidien · classe 9 · Niveau M"
+niveau: "M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 3
+slug: "ecologie-au-quotidien-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-gm
+  - classe-9
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.REC.understanding-audio-media-and-recordings.05
+    - A2.INT.online-conversation-and-discussion.04
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau M, classe 9
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'article (Unité 3, texte C). Répondez :
+
+1. Combien de CO₂ un Français produit-il par an ?
+2. Quel est l'objectif de l'Accord de Paris cité ?
+3. Citez les **3 leviers** proposés.
+4. Combien représente la viande rouge dans l'empreinte
+ alimentaire ?
+5. Selon le sondage 2024, combien de jeunes considèrent
+ l'écologie comme prioritaire ?
+
+### Tâche 2 — Grammatik : *il faut / on devrait* (8 points)
+
+Reformulez avec la formule indiquée.
+
+1. Triez les déchets ! → *(il faut)*
+2. Prends ton vélo ! → *(on devrait)*
+3. N'achetez pas de neuf ! → *(il faudrait)*
+4. Mange moins de viande ! → *(il est important de)*
+5. Réparons nos vêtements ! → *(on devrait)*
+6. Éteins la lumière ! → *(il faut)*
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Prise de position sur un **dilemme écologique** au choix
+(~**120 mots**) :
+
+a) « Faut-il interdire l'avion court-courrier ? »
+b) « Faut-il devenir végétarien ? »
+c) « Faut-il acheter d'occasion ? »
+
+Donnez **2 arguments pour** + **1 contre** + votre conclusion.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Grammatik | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 9 tonnes. 2) 2 tonnes. 3) Moins de viande, moins
+d'avion, isoler le logement. 4) 25 %. 5) 78 %.
+
+**Tâche 2.** 1) Il faut trier les déchets. 2) On devrait prendre
+le vélo. 3) Il faudrait acheter d'occasion. 4) Il est important
+de manger moins de viande. 5) On devrait réparer nos vêtements.
+6) Il faut éteindre la lumière.
+
+**Tâche 3.** Réponses libres. Critères : 120 mots · 2 arguments
+pour · 1 contre · conclusion · *il faut / on devrait* utilisé.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 9 · Niveau M · Unité 3*

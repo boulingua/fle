@@ -1,0 +1,95 @@
+---
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 12"
+subtitle: "Bilan : 12e · classe 12 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 12
+slug: "bilan-12e-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-12
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.amplifying-a-dense-text.02
+    - B2.MED.analysis-and-criticism-of-creative-texts.03
+    - B2.PLUR.building-on-plurilingual-repertoire.03
+    - B2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez le portfolio d'Anouk (Unité 12, texte C). Répondez :
+
+1. Quels 4 auteurs/autrices sont cités ?
+2. Quelle citation ouvre le bilan ?
+3. Quelles notes mocks Anouk a-t-elle obtenues ?
+4. Quels sont les 3 priorités 13e ?
+5. Quel projet post-épreuve finale ?
+
+### Tâche 2 — Références (8 points)
+
+Reliez chaque autrice/auteur à son œuvre + année :
+
+- Camus · Condé · Modiano · Despentes · Senghor · Slimani
+ · Ernaux · Ben Jelloun
+
+(Œuvres : *L'Étranger* (1942) · *Moi, Tituba sorcière*
+(1986) · *Dora Bruder* (1997) · *King Kong théorie* (2006)
+· *Chants d'ombre* (1945) · *Chanson douce* (2016) · *Les
+Années* (2008) · *Le racisme expliqué …* (1998).)
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre portfolio épreuve finale (option d'approfondissement)** (~350 mots) :
+4 acquis + 3 priorités 13e + 4 références + 1 objectif
+chiffré.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Références | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) Camus, Condé, Modiano, Despentes. 2)
+*« Aujourd'hui, maman est morte. »* 3) 13/15 et 14/15.
+4) Mock final · épreuve communicative (« Kommunikationsprüfung ») · synthèse 4 ans. 5)
+Erasmus à Bordeaux chez Mollat, rentrée 2030.
+
+**Tâche 2.** Réponses libres (associations canoniques).
+
+**Tâche 3.** Réponses libres. Critères : 350 mots · 4
+acquis · 3 priorités · 4 références · 1 objectif chiffré.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 12*

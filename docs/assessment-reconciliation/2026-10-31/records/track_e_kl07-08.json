@@ -1,0 +1,55 @@
+{
+  "unit": "content/track_e_kl07/units/unit08_le-quebec-e/index.md",
+  "exam": "content/track_e_kl07/units/unit08_le-quebec-e_exam/index.md",
+  "before_unit_sha256": "0c49a4c38e770fa4a7faf2f1013088c8e6d8aaacbf81c58fcc7182dc681d3545",
+  "after_unit_sha256": "4b5123d3609ffd500722de44b8a92dc739e724d46affbe188fcd1ceabd59740b",
+  "before_exam_sha256": "2d221868b8a10ff070b216644225f1ddd3736ef74625e4d5f0445251721a0949",
+  "after_exam_sha256": "8f45557b10b03adc2c95ee40a35dff16ee9b9f9b200afd05b2c2c297e0b2afc5",
+  "source_sections": "B",
+  "supplied_source_sha256": "893397ee65421346bfa28eb6cdace316fef81bd71c15513040931d5b8c8bc26b",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual source is sectionB, notC; corrected purchase-agent error. Retained lexical task and reply letter. Unavailable authentic tourist notice from embedded outline not invented."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "retained"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "fe06854cd39a305c6b7a94d6d43f31e370a6029cc6f539c297ce96ac06c2a780",
+      "after_sha256": "4b5123d3609ffd500722de44b8a92dc739e724d46affbe188fcd1ceabd59740b",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit08_le-quebec-e/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "3f5a4bb67c619f6a6ff306d01eaee92616bfaf7e878df11b2d79cd6d4fbc762c",
+      "after_sha256": "612e72ee5dcdc15e18b73e37042cad24d18c931f5d477ece93227b7313768199",
+      "reasons": [
+        "Restore original source bibliography to standalone assessment.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl07/units/unit08_le-quebec-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "612e72ee5dcdc15e18b73e37042cad24d18c931f5d477ece93227b7313768199",
+      "after_sha256": "7c51cde4cb667aa39997b153bd0891538952997a2af196bf538565eded78aa1e",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl07/units/unit08_le-quebec-e_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl07/units/unit08_le-quebec-e_exam/index.md",
+      "before_sha256": "7c51cde4cb667aa39997b153bd0891538952997a2af196bf538565eded78aa1e",
+      "after_sha256": "8f45557b10b03adc2c95ee40a35dff16ee9b9f9b200afd05b2c2c297e0b2afc5",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "unit": "content/track_e_kl11/units/unit12_bilan-classe-11/index.md",
+  "exam": "content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md",
+  "before_unit_sha256": "ffb437a820dd2301bbb3a1fb0974e95c4e2d9a38ac2a3c313255c296d982b5fe",
+  "after_unit_sha256": "b7754f23cce82a1be4387b9271b880165509cea732ffe2c1998d9d08088ef651",
+  "before_exam_sha256": "cd5e5b468b5a6f86740c97a0609c63f731d8e64b0a46da669bc0824d2c069dec",
+  "after_exam_sha256": "6c88b77bc3caf347265ae10089eb7b9601dc8b351b70376ce5d17da886767b52",
+  "source_sections": "C",
+  "supplied_source_sha256": "c5eee5b38677bfff30d8747fe777b4723a56a091372f6fa6b8c7042763931461",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Actual Léa reflection replaces unrelated namedauthors/mark/fabricatedstudy key. Replaced unneeded bibliographic recall with aligned future/objective tasks and retained oral priorities."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "4fb5934cb18a990d5469c7818df37a03fabe192ecceed03dd45a0ca0b2f39b64",
+      "after_sha256": "b7754f23cce82a1be4387b9271b880165509cea732ffe2c1998d9d08088ef651",
+      "reasons": [
+        "Align exam total with restored primary outcomes.",
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit12_bilan-classe-11/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "a3084ab02b31bafd4168e4a1490d6f3b8af68e23b9ef9af8325b8e5e3f124922",
+      "after_sha256": "167998ca2912ef32ef7403f5ed4c70667ad9deb49223a7accbfa962461932463",
+      "reasons": [
+        "Restore original primary oral outcomes and original additive points; retain compatible written tasks separately.",
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "167998ca2912ef32ef7403f5ed4c70667ad9deb49223a7accbfa962461932463",
+      "after_sha256": "6c85536d12e57f6eb91af540ae4de2ea43bb86adf1ffc623b8a8a7553d07002e",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md",
+      "before_sha256": "6c85536d12e57f6eb91af540ae4de2ea43bb86adf1ffc623b8a8a7553d07002e",
+      "after_sha256": "9d5a3955817d91ccc37b6f86d55f0ef919ceead1bf49be7c63923e9c923f16e8",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit12_bilan-classe-11_exam/index.md",
+      "before_sha256": "9d5a3955817d91ccc37b6f86d55f0ef919ceead1bf49be7c63923e9c923f16e8",
+      "after_sha256": "6c88b77bc3caf347265ae10089eb7b9601dc8b351b70376ce5d17da886767b52",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "track": "track_e_kl11",
+      "unit": 12,
+      "total": 30,
+      "graded_tasks": [
+        {
+          "title": "Note de bilan",
+          "points": 20
+        },
+        {
+          "title": "Priorités à l’oral",
+          "points": 10
+        }
+      ]
+    }
+  ]
+}

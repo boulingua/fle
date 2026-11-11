@@ -1,0 +1,93 @@
+---
+title: "épreuve FLE — classe 12 (Niveau E) — Unité 4"
+subtitle: "Presse engagée (Le Monde diplomatique) · classe 12 · Niveau E (épreuve finale Lf)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 4
+slug: "presse-engagee-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-12
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.collaborating-to-construct-meaning.03
+    - B2.MED.relaying-specific-information.05
+    - B2.PRAG.thematic-development.03
+    - B2.PROD.reports-and-essays.01
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+
+Lisez l'article *IA : qui en profite ?* (Unité 4, texte C).
+Répondez :
+
+1. % d'entreprises Fortune 500 utilisant l'IA ?
+2. Salaire des annotateur·rice·s d'IA au Kenya/Philippines ?
+3. Valorisation d'OpenAI en 2024 ?
+4. Quelle régulation européenne est mentionnée ?
+5. Qui est cité comme économiste Nobel ?
+
+### Tâche 2 — Structure d'un article (8 points)
+
+Identifiez :
+
+1. Le **chapeau** : ___
+2. L'**accroche** (chiffre choc) : ___
+3. Une **citation d'autorité** : ___
+4. La **chute** : ___
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre commentaire** (~400 mots) : 4 § (résumé,
+analyse, position, ouverture) + 4 citations + 2 chiffres +
+1 contre-argument.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 10 |
+| Tâche 2 — Structure | 8 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 84 %. 2) Moins de 2 $/h. 3) 150 milliards
+$. 4) AI Act 2024. 5) Daron Acemoglu (Nobel 2024).
+
+**Tâche 2.** 1) *« Avec ChatGPT … révolution ? »* · 2) 84 %
+des entreprises Fortune 500 · 3) *« L'IA est le nouveau
+pétrole »* (Acemoglu) · 4) *« Qui décide de l'avenir ? »*
+
+**Tâche 3.** Réponses libres. Critères : 400 mots · 4 § ·
+4 citations · 2 chiffres · 1 contre-argument.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 4*

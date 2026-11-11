@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 3
 slug: "mes-medias-preferes-e"
 bildungsplan:
-  - "3.1.3.3 Expression orale — interaction"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.3 Expression orale — interaction"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - speaking_interaction
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_mes-medias-preferes-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_mes-medias-preferes-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit03_mes-medias-preferes-e.html"
+- "/track_e_kl08/units/unit03_mes-medias-preferes-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.08
-    - A2.INT.correspondence.01
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - A2.MED.adapting-language.01
+  - A2.INT.conversation.08
+  - A2.INT.correspondence.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.MED.adapting-language.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit03_mes-medias-preferes-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_mes-medias-preferes-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_mes-medias-preferes-e-teacher.png
 audio_manifest: unit03_mes-medias-preferes-e
 ---
 
@@ -68,8 +100,7 @@ Récréation du mardi, dans la cour. Karim rejoint Anouk, qui a les écouteurs a
 2. Quelle est l'habitude de Karim le soir ?
 3. Et vous : plutôt écouter ou plutôt regarder ? À quel moment de la journée ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez rapidement à l'oral, en une phrase.
 
 - Quelle série ou quelle vidéo regardez-vous en ce moment ?
@@ -79,8 +110,7 @@ Répondez rapidement à l'oral, en une phrase.
 
 **Mise en commun :** notez au tableau les trois médias les plus cités par la classe.
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire des médias
 
 | Français | Catégorie | Exemple d'emploi |
@@ -115,8 +145,7 @@ En français, l'équivalent officiel de *podcast* est **« baladodiffusion »** 
 
 *Source paraphrasée : article « Baladodiffusion », Wikipédia (CC BY-SA) — voir Sources.*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte B).** Répondez par une phrase complète.
 
 1. Quand beaucoup de jeunes écoutent-ils des podcasts ?
@@ -149,6 +178,7 @@ c) — Je m'abonne à toutes les chaînes d'actu. — ___
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Pendant les transports ou en faisant leurs devoirs. 2) On peut mettre en pause / reprendre plus tard / télécharger pour écouter sans connexion (une réponse). 3) Le soir, sur un grand écran. 4) Suivre une série épisode par épisode, ou tout regarder d'un coup le week-end.
 
 **Ex. 2.** a) trouve · b) préférons · c) recommandent · d) penses.
@@ -156,9 +186,9 @@ c) — Je m'abonne à toutes les chaînes d'actu. — ___
 **Ex. 3.** Réponses libres. Exemples : a) *…parce que je peux les écouter partout.* b) *…parce que je me couche tôt.* c) *…parce qu'elle explique bien l'actualité.*
 
 **Ex. 4.** Réponses libres. Exemples : a) *Pas moi, je trouve qu'elles sont passionnantes parce qu'il y a du suspense.* b) *Moi aussi, je préfère le podcast parce que c'est plus pratique dans le bus.* c) *Pas moi, je préfère m'abonner à une seule chaîne parce que je n'ai pas le temps.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche dialogique (E, en binôme, ~10 répliques).**
 
 A et B comparent leurs médias préférés. Le dialogue doit contenir :
@@ -179,33 +209,18 @@ A et B comparent leurs médias préférés. Le dialogue doit contenir :
 | Interaction | réactions et relances naturelles | 2 |
 | **Total** | | **12** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer au moins 8 mots du vocabulaire des médias.
 - [ ] J'utilise au moins 4 verbes d'opinion différents.
 - [ ] Je justifie mon opinion avec *parce que*.
 - [ ] Je réagis à l'avis de mon/ma partenaire.
 - [ ] Je tiens un dialogue d'une dizaine de répliques sur mes goûts médiatiques.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — E**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit03_mes-medias-preferes-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (8 P.)**
-Lire le texte « Nos habitudes numériques » et répondre à 4 questions par des phrases complètes.
-
-**Tâche 2 — Vocabulaire et opinion (10 P.)**
-Compléter 5 phrases : verbes d'opinion conjugués + une justification avec *parce que*.
-
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.)**
-Rédiger un dialogue (~120 mots) entre deux ami·e·s qui comparent leurs médias préférés (série, podcast, chaîne), avec au moins 3 verbes d'opinion, 2 justifications et 1 recommandation.
-
-**Barème : 30 points.**
-- Réalisation de la tâche : 12 P.
-- Correction linguistique : 10 P.
-- Richesse lexicale : 8 P.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min) :** Activer 4' · Apporter 12' · S'entraîner 13' · Produire 12' · Réfléchir 2' · Aperçu de la suite 2'.
 

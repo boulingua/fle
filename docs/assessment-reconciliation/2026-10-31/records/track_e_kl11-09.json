@@ -1,0 +1,54 @@
+{
+  "unit": "content/track_e_kl11/units/unit09_histoire-et-memoire/index.md",
+  "exam": "content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md",
+  "before_unit_sha256": "483d1ccf43b35cd84505feb3c8021a45b54a87b49bbf9c1e50313c24ca68de37",
+  "after_unit_sha256": "2d4812a7716734cc28fa20c5f687391be69faf263b6ddcd67e313c4a4cc1e1be",
+  "before_exam_sha256": "7fd09dd36792c4809c27c55f47f9a7eeba550b09007414d8701a2aa54dfdaa27",
+  "after_exam_sha256": "6b46003e93b8de7425af08d4ed3f7a38956c3ccc7357edfd954b81542b330f50",
+  "source_sections": "CD",
+  "supplied_source_sha256": "5e4b17424c176ad9c038944de8887a493ebb97ea11ca7127f645a194b52a6ce4",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed absent victim counts/memorialclaims and false19Marchsignature matching. Source-bounded historical note avoids manufactured quotations; historical date distinctions preserved in key."
+  ],
+  "sibling_task_disposition": {
+    "2": "revised",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "exam",
+      "before_sha256": "c9b61ccb263f4ad28dcd876f65ea8498c4f33d2afe014b47fcd624e79721ad8a",
+      "after_sha256": "213789fe1587e7915a783c87390a4bdb316eff748c8b1405f2a16d589598bea9",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "213789fe1587e7915a783c87390a4bdb316eff748c8b1405f2a16d589598bea9",
+      "after_sha256": "4d77299d4faf5a711eea52b3648a1cdb15c135df6946e173b17b21e41fe78f08",
+      "reasons": [
+        "Repair total-marker heading split and preserve decimal/class notation."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/coherence-followup/content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "4d77299d4faf5a711eea52b3648a1cdb15c135df6946e173b17b21e41fe78f08",
+      "after_sha256": "6b256313bbfda89d47ab72a08389c75c5b8bb7b32e4e3d903300c5a700e746da",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl11/units/unit09_histoire-et-memoire_exam/index.md",
+      "before_sha256": "6b256313bbfda89d47ab72a08389c75c5b8bb7b32e4e3d903300c5a700e746da",
+      "after_sha256": "6b46003e93b8de7425af08d4ed3f7a38956c3ccc7357edfd954b81542b330f50",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

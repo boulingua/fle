@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
-    "source_body_sha256": "6c87ef30155217c7201419cc1f6c1ed8cc705d19ec524429789d65b5713163b5",
+    "source_body_sha256": "5519ab0384d46974f89f52288625b0510b8691c503ed1a1f21721c4024207a34",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
-    "source_body_sha256": "6c87ef30155217c7201419cc1f6c1ed8cc705d19ec524429789d65b5713163b5",
+    "source_body_sha256": "5519ab0384d46974f89f52288625b0510b8691c503ed1a1f21721c4024207a34",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "la une.\nle gros titre.\nla brève.\nle reportage.\nl'interview (f.).\nl'éditorial (m.).\nla ligne éditoriale.\nle tirage / la diffusion.\nla source.\nvérifier / recouper."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl10/units/unit02_presse-francaise/index.md",
-    "source_body_sha256": "6c87ef30155217c7201419cc1f6c1ed8cc705d19ec524429789d65b5713163b5",
+    "source_body_sha256": "5519ab0384d46974f89f52288625b0510b8691c503ed1a1f21721c4024207a34",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "LE COURRIER DU MATIN — jeudi 21 mai 2026 Transports : les trains de nuit font leur retour Selon un rapport publié hier, la fréquentation des trains de nuit a doublé en trois ans. Trois nouvelles lignes relieront les grandes villes dès l'automne. Le ministère des Transports parle d'un  choix écologique et populaire . À l'intérieur : Page 3, reportage à bord du Paris–Nice. Page 6, interview d'une ingénieure du rail. Page 11, l'éditorial du directeur :  Le rail, il est temps d'y croire."

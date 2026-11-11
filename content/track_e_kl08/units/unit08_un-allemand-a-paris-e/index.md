@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 8
 slug: "un-allemand-a-paris-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - reading
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_un-allemand-a-paris-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_un-allemand-a-paris-e.png"
 tags:
-  - filiere-e
-  - classe-8
-  - niveau-e
+- filiere-e
+- classe-8
+- niveau-e
 aliases:
-  - "/track_e_kl08/units/unit08_un-allemand-a-paris-e.html"
+- "/track_e_kl08/units/unit08_un-allemand-a-paris-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.creative-writing.04
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.PROD.overall-oral-production.01
-    - A2.REC.understanding-announcements-and-instructions.03
-    - A2.INT.conversation.08
+  - A2.PROD.creative-writing.04
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.PROD.overall-oral-production.01
+  - A2.REC.understanding-announcements-and-instructions.03
+  - A2.INT.conversation.08
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl08/units/unit08_un-allemand-a-paris-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_un-allemand-a-paris-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit08_un-allemand-a-paris-e-teacher.png
 audio_manifest: unit08_un-allemand-a-paris-e
 ---
 
@@ -71,15 +103,13 @@ Jonas, seize ans, vient de Karlsruhe. Il passe une semaine à Paris avec sa corr
 2. Quelle différence culturelle le surprend le premier soir ?
 3. Que projette-t-il de faire le lendemain ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà rencontré une personne d'un autre pays ? Qu'est-ce qui vous a surpris·e ?
 - À quelle heure dîne-t-on chez vous ? Pensez-vous que c'est pareil partout ?
 - Citez trois lieux de Paris que vous aimeriez visiter.
 - Selon vous, quels malentendus peuvent naître entre un·e Allemand·e et un·e Français·e ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire — « rencontre et séjour à Paris »
 
 | Français | Exemple | Allemand (aide) |
@@ -123,8 +153,7 @@ La tour Eiffel a été construite entre 1887 et 1889 par l'entreprise de l'ingé
 
 Les séjours comme celui de Jonas existent souvent grâce à l'**OFAJ** (Office franco-allemand pour la jeunesse), une organisation créée en 1963 dans le cadre du traité de l'Élysée pour encourager les rencontres et les échanges entre les jeunes des deux pays. (D'après Wikipédia, *Office franco-allemand pour la jeunesse*, CC BY-SA.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).**
 1. Où Jonas et Léa sont-ils montés le jour 3 ?
 2. Quelle habitude française a d'abord gêné Jonas ?
@@ -147,6 +176,7 @@ d) Bien parler évite souvent un ___.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Au deuxième étage de la tour Eiffel. 2) Les deux bises pour saluer. 3) Parce que la foule sera énorme (arriver tôt = éviter la foule). 4) Les deux cultures ne sont pas si différentes / on rit des mêmes choses.
 
 **Ex. 2.** a) irons · b) chercherai · c) sera · d) verrez.
@@ -161,9 +191,9 @@ d) Bien parler évite souvent un ___.
 - **M** : travail sans aide-mémoire pour l'ex. 2 ; l'ex. 4 demande deux phrases complètes.
 - **E** : l'ex. 4 exige une justification (*parce que…*) et un connecteur (*en revanche*, *tandis que*).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~120 mots).**
 
 Vous passez trois jours à Paris chez un·e correspondant·e. Rédigez **trois entrées de journal** (une par jour). Chaque entrée doit :
@@ -182,27 +212,18 @@ Vous passez trois jours à Paris chez un·e correspondant·e. Rédigez **trois e
 | Regard interculturel | observation claire et respectueuse | 2 |
 | Correction de la langue | orthographe, ponctuation | 2 |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends un blog / journal de voyage en français.
 - [ ] Je repère une observation interculturelle dans un texte.
 - [ ] Je conjugue cinq verbes au futur simple.
 - [ ] J'emploie le vocabulaire du séjour et de la rencontre.
 - [ ] Je rédige trois entrées de journal cohérentes (~120 mots).
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E · 45 min · 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl08/units/unit08_un-allemand-a-paris-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (10 P.).** Lisez le blog de Jonas (texte C) et répondez à cinq questions (lieux, habitudes, sentiments, malentendu, conclusion interculturelle).
-
-**Tâche 2 — Futur simple (8 P.).** Conjuguez quatre verbes au futur simple (dont deux irréguliers) dans des phrases de contexte.
-
-**Tâche 3 — Expression écrite (« Schreiben ») (12 P.).** Rédigez trois entrées de journal (~120 mots) sur un séjour à Paris, avec cinq verbes au futur simple, cinq mots de vocabulaire et une observation interculturelle.
-
-**Barème.** Compréhension 10 · Grammaire 8 · Expression écrite 12 · **Total 30 P.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min).** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Aperçu / devoirs 2'.
 

@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 7
 slug: "kommunikationspruefung-prep"
 bildungsplan:
-  - "3.1.3.4 Expression orale — production en continu (monologue)"
-  - "3.1.3.3 Expression orale — interaction"
+- "3.1.3.4 Expression orale — production en continu (monologue)"
+- "3.1.3.3 Expression orale — interaction"
 skills_focus:
 - speaking_interaction
 - speaking_production
@@ -20,22 +20,55 @@ worksheet:
   file: "/fle/materials/worksheets/unit07_kommunikationspruefung-prep.pdf"
   thumbnail: "/fle/materials/worksheets/unit07_kommunikationspruefung-prep.png"
 tags:
-  - filiere-e
-  - classe-13
-  - niveau-e
+- filiere-e
+- classe-13
+- niveau-e
 aliases:
-  - "/track_e_kl13/units/unit07_kommunikationspruefung-prep.html"
+- "/track_e_kl13/units/unit07_kommunikationspruefung-prep.html"
 curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.conversation.01
-    - B2.PROD.overall-oral-production.01
-    - B2.INT.notes-messages-and-forms.01
-    - B2.PROD.sustained-monologue-putting-a-case.01
-    - B2.MED.overall-mediation.02
+  - B2.INT.conversation.01
+  - B2.PROD.overall-oral-production.01
+  - B2.INT.notes-messages-and-forms.01
+  - B2.PROD.sustained-monologue-putting-a-case.01
+  - B2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl13/units/unit07_kommunikationspruefung-prep_exam
+  format: existing-assessment
+  duration_minutes: 15
+  points: 30
+  skills:
+  - speaking_interaction
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit07_kommunikationspruefung-prep-teacher.pdf
+  thumbnail:
+    /fle/materials/worksheets/unit07_kommunikationspruefung-prep-teacher.png
 audio_manifest: unit07_kommunikationspruefung-prep
 ---
 
@@ -71,14 +104,12 @@ Deux élèves se retrouvent à la sortie du CDI, une semaine avant l'épreuve.
 2. Quelles deux stratégies Nadia propose-t-elle ?
 3. Et vous, laquelle testeriez-vous en premier ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quels trois sujets pourriez-vous préparer pour une épreuve orale ?
 - Quelle est, pour vous, la phase la plus stressante : le monologue ou l'entretien ? Pourquoi ?
 - Quels mots ou expressions utilisez-vous déjà pour « gagner du temps » quand vous cherchez une idée en français ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire
 
 | Français | Exemple d'emploi | Deutsch |
@@ -129,8 +160,7 @@ Astuce : reprendre une partie de la question dans sa réponse laisse une ou deux
 
 La francophonie désigne l'ensemble des personnes et des pays qui ont le français en partage. D'après l'encyclopédie collaborative Wikipédia, une organisation internationale réunit depuis 1970 des États et gouvernements autour de cette langue commune, et une journée internationale de la Francophonie est célébrée chaque année le 20 mars. Le français figure ainsi parmi les langues les plus parlées dans le monde, avec une présence particulièrement dynamique sur le continent africain (paraphrasé d'après Wikipédia, CC BY-SA — voir Sources).
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension du texte-modèle.**
 
 1. En combien de parties le monologue est-il organisé ?
@@ -163,6 +193,7 @@ La francophonie désigne l'ensemble des personnes et des pays qui ont le frança
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Quatre parties : introduction, trois parties (I, II, III), conclusion. 2) *Cependant* — il introduit une opposition / une nuance. 3) Par exemple : *« Cependant, il faut nuancer. »* 4) Elle conclut et clôt poliment le monologue (formule de clôture).
 
 **Ex. 2.** 1) De plus. 2) par exemple. 3) cependant. 4) En somme.
@@ -170,9 +201,9 @@ La francophonie désigne l'ensemble des personnes et des pays qui ont le frança
 **Ex. 3.** a → 2 ; b → 3 ; c → 1.
 
 **Ex. 4.** Réponse libre. Modèle : *Introduction : « Dans un monde connecté, parler plusieurs langues est un atout. » · Partie 1 : « De plus, cela ouvre l'accès à d'autres cultures. » · Partie 2 : « Par ailleurs, c'est un avantage professionnel. » · Conclusion : « En somme, le plurilinguisme est une vraie richesse. »*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale (Niveau E, ~5 min de monologue + ~10 min d'entretien).**
 
 Choisissez **un sujet** parmi : la francophonie · l'importance des langues · l'engagement des jeunes · un·e auteur·rice francophone de votre choix. Préparez :
@@ -190,32 +221,18 @@ Présentez ensuite votre monologue à voix haute, minuteur en main, puis répond
 - **Interaction :** réactivité aux questions, capacité à reformuler et à nuancer.
 - **Fluidité :** débit régulier, gestion des blancs, intonation.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je connais le déroulement de l'épreuve (monologue puis entretien).
 - [ ] J'ai préparé un plan structuré et cinq cartes mémoire lisibles.
 - [ ] J'utilise au moins quatre connecteurs différents.
 - [ ] Je sais gérer un blanc sans paniquer (reformuler, demander une précision).
 - [ ] Je peux réagir à une question imprévue avec un exemple.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Épreuve communicative — Niveau E (30 points).**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl13/units/unit07_kommunikationspruefung-prep_exam" >}}).
 
-- **Phase 1 — Monologue suivi (15 P.) :** environ 5 minutes. Vous présentez un sujet préparé, avec introduction, parties articulées et conclusion.
-- **Phase 2 — Entretien (15 P.) :** environ 10 minutes. Vous répondez aux questions des examinateurs, développez, nuancez et défendez votre point de vue.
-
-**Barème.**
-
-| Critère | Points |
-|---|---|
-| Structure et contenu du monologue | 8 |
-| Langue (lexique, grammaire, connecteurs) — monologue | 7 |
-| Réactivité et pertinence des réponses — entretien | 8 |
-| Langue et fluidité — entretien | 7 |
-| **Total** | **30** |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min).** Activer 4' · Apporter 13' · S'entraîner 12' · Produire 12' · Réfléchir 2' · Aperçu de la séance suivante 2'.
 

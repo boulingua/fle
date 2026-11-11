@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
-    "source_body_sha256": "2728ba2c809405d3c70b725181d2bd35d81b3b07cd98d84385e7efbcc91efcdb",
+    "source_body_sha256": "19dc42643d5da7f8d9e2835815243f592c7c81dfe31dfb12aaee9008ee5073d2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Salut Karim ! Tu es déjà là ? Il est tôt ! Karim : Oui, je me lève à six heures et demie. Le bus passe à sept heures et quart. Léa : Six heures et demie ?! Moi, je me lève à sept heures, je me lave vite, je m'habille, et je pars en courant. Karim : Et le matin, tu prends un petit déjeuner ? Léa : Non, jamais. Je n'ai pas le temps ! Karim : Moi, je mange toujours. Sinon, à dix heures, j'ai faim."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
-    "source_body_sha256": "2728ba2c809405d3c70b725181d2bd35d81b3b07cd98d84385e7efbcc91efcdb",
+    "source_body_sha256": "19dc42643d5da7f8d9e2835815243f592c7c81dfe31dfb12aaee9008ee5073d2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "se lever.\nse laver.\ns'habiller.\nse brosser les dents.\nse coucher.\nle petit déjeuner.\nla cantine.\nles cours.\nles devoirs.\ntôt / tard."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl06/units/unit04_ma-journee-e/index.md",
-    "source_body_sha256": "2728ba2c809405d3c70b725181d2bd35d81b3b07cd98d84385e7efbcc91efcdb",
+    "source_body_sha256": "19dc42643d5da7f8d9e2835815243f592c7c81dfe31dfb12aaee9008ee5073d2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Je m'appelle Anouk et j'ai onze ans. Du lundi au vendredi, je me lève à sept heures. D'abord, je me lave et je m'habille. Ensuite, je prends mon petit déjeuner : du pain, du beurre et un jus d'orange. À sept heures quarante-cinq, je prends le bus. Les cours commencent à huit heures. À midi, je mange à la cantine avec mes amis. Le mercredi, les cours finissent tôt ; les autres jours, ils finissent à seize heures. Le soir, je fais mes devoirs. Puis je dîne avec ma famille. Enfin, je me couche à neuf heures et demie, parce que le matin arrive vite !"

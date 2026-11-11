@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 11
 slug: "mediation-de-base"
 bildungsplan:
-  - "3.1.3.6 Médiation linguistique"
-  - "3.1.3.5 Expression écrite"
+- "3.1.3.6 Médiation linguistique"
+- "3.1.3.5 Expression écrite"
 skills_focus:
 - mediation
 - writing
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit11_mediation-de-base.pdf"
   thumbnail: "/fle/materials/worksheets/unit11_mediation-de-base.png"
 tags:
-  - filiere-gm
-  - classe-7
-  - niveau-m
+- filiere-gm
+- classe-7
+- niveau-m
 aliases:
-  - "/track_gm_kl07/units/unit11_mediation-de-base.html"
+- "/track_gm_kl07/units/unit11_mediation-de-base.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.MED.acting-as-an-intermediary-in-informal-situations.01
-    - A1.PROD.creative-writing.01
-    - A1.MED.collaborating-to-construct-meaning.01
-    - A1.PROD.overall-oral-production.01
-    - A1.INT.correspondence.03
+  - A1.MED.acting-as-an-intermediary-in-informal-situations.01
+  - A1.PROD.creative-writing.01
+  - A1.MED.collaborating-to-construct-meaning.01
+  - A1.PROD.overall-oral-production.01
+  - A1.INT.correspondence.03
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl07/units/unit11_mediation-de-base_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - mediation
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit11_mediation-de-base-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit11_mediation-de-base-teacher.png
 audio_manifest: unit11_mediation-de-base
 ---
 
@@ -66,15 +98,13 @@ Inès rentre d'une sortie scolaire à Karlsruhe. Elle a pris un petit dépliant 
 - Pourquoi Inès trouve-t-elle d'abord la tâche difficile ?
 - Quelles trois informations Léa veut-elle connaître ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Avez-vous déjà expliqué à un membre de votre famille ce que disait un texte dans une langue étrangère ?
 - Quelle est la différence entre **traduire** et **résumer** ?
 - En cours, on parle de *médiation linguistique* (en allemand : *Sprachmittlung*). D'après vous, qu'est-ce que cela veut dire ?
 - Dans quelles situations de la vie quotidienne fait-on de la médiation (à la gare, chez le médecin, en voyage, en famille…) ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### Vocabulaire
 
 | Français | Allemand | Exemple |
@@ -109,6 +139,8 @@ Astuce : on garde toujours les **chiffres** (heures, prix, dates), car ce sont s
 
 ### Texte source (allemand) — information pour les visiteurs
 
+**Scénario pédagogique fictif.** Les horaires, tarifs et activités ci-dessous servent à la médiation; ils ne constituent pas les informations actuelles du musée réel. Le modèle français transmet uniquement les données de ce scénario.
+
 > **Karlsruher Schloss — Besucherinformation**
 >
 > Das Karlsruher Schloss ist heute ein Museum. Es ist von Dienstag bis Sonntag von 10 bis 18 Uhr geöffnet. Montags ist es geschlossen. Der Eintritt kostet 8 Euro für Erwachsene und 4 Euro für Schüler. Der Schlosspark ist kostenlos. Im Sommer finden dort Konzerte statt.
@@ -123,8 +155,7 @@ Remarquez : la médiation est **plus courte** que le texte source, mais elle gar
 
 Le château de Karlsruhe est un palais baroque commencé en 1715 pour le margrave Karl Wilhelm de Bade-Durlach, fondateur de la ville. La ville fut dessinée autour du château : trente-deux avenues rayonnent depuis la tour centrale, comme les branches d'un éventail — d'où le surnom de *Fächerstadt* (« ville en éventail »). Le bâtiment, très endommagé pendant la Seconde Guerre mondiale, fut reconstruit dans les années 1950-1960 et abrite aujourd'hui un musée. *(Paraphrasé d'après Wikipédia, CC BY-SA.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Vrai ou faux ?** (d'après le texte source allemand ci-dessus)
 
 1. Le château est aujourd'hui un musée.
@@ -156,6 +187,7 @@ c) « Das Karlsruher Schloss wurde 1715 erbaut. »
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) V. 2) F (fermé le lundi). 3) V. 4) F (le parc est gratuit).
 
 **Ex. 2.** **b** — c'est une médiation : on garde le sens (l'époque de construction) sans traduire mot à mot. La réponse a) est une traduction très littérale ; la réponse c) reste en allemand.
@@ -163,9 +195,9 @@ c) « Das Karlsruher Schloss wurde 1715 erbaut. »
 **Ex. 3.** Exemple de réponse : *« La bibliothèque municipale est ouverte du lundi au vendredi, de 9 h à 19 h. Le samedi, elle ferme à 14 h et le dimanche elle est fermée. L'entrée est gratuite pour les élèves. »*
 
 **Ex. 4.** Formel : *« … la bibliothèque **est** ouverte du lundi au vendredi. »* — Familier : *« … c'est ouvert **cinq jours** de la semaine ! »* (autres formulations acceptées si le registre est cohérent).
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche de médiation (écrite, ~70 mots).**
 
 Voici un texte affiché en allemand à la piscine :
@@ -183,44 +215,18 @@ Voici un texte affiché en allemand à la piscine :
 | Registre | adapté à un ami (*tu*, ton familier) |
 | Langue | phrases courtes et correctes, chiffres exacts |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je comprends l'essentiel d'un court texte allemand.
 - [ ] Je transmets le **sens** sans traduire mot à mot.
 - [ ] Je garde les informations importantes (chiffres, horaires, prix).
 - [ ] J'adapte mon message au destinataire.
 - [ ] Je sais expliquer la différence entre traduire et médier.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (*Klassenarbeit*) — Niveau M**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl07/units/unit11_mediation-de-base_exam" >}}).
 
-**Tâche 1 — Médiation linguistique (15 pts).**
-Un camarade non germanophone vous montre ce panneau :
-
-> *« Das Museum ist von Mittwoch bis Sonntag von 11 bis 17 Uhr geöffnet. Der Eintritt ist für Kinder unter 12 Jahren frei. Am ersten Sonntag im Monat kostet der Eintritt für alle nichts. »*
-
-Transmettez l'essentiel en **5 phrases françaises**.
-
-**Tâche 2 — Compréhension (8 pts).**
-Répondez par vrai ou faux (d'après le texte de la Tâche 1) :
-1. Le musée est ouvert le lundi.
-2. Les enfants de moins de 12 ans entrent gratuitement.
-3. Le premier dimanche du mois, l'entrée est gratuite pour tous.
-4. Le musée ferme à 18 h.
-
-**Tâche 3 — Expression écrite (7 pts).**
-Rédigez un court courriel (~50 mots) à un ami pour l'inviter à visiter ce musée, en réutilisant les informations médiées.
-
-**Barème — Total : 30 points**
-
-| Tâche | Points |
-|---|---|
-| 1 · Médiation (contenu 9, langue 6) | 15 |
-| 2 · Compréhension (2 pts/réponse) | 8 |
-| 3 · Expression écrite (contenu 4, langue 3) | 7 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée : 45 min.**
 

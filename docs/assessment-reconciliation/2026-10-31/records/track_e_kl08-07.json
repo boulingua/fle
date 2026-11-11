@@ -1,0 +1,61 @@
+{
+  "unit": "content/track_e_kl08/units/unit07_champs-de-bataille/index.md",
+  "exam": "content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md",
+  "before_unit_sha256": "1b9b58caf145bb851c263c0da7f19f6b6426be0075d9a07162ddec394e7f13cb",
+  "after_unit_sha256": "4e53bb47e2ddd06c745926723c7928fc1f7e5bdaee6c2f7bf8d4effbce226d38",
+  "before_exam_sha256": "a283c2148416b59d9065db107b669ad3056b579aaa5d2148edb8fa6cda74c0f8",
+  "after_exam_sha256": "38905f87b54c3fad54e5dd822f418482f658a6ce4bbc0f5a0580967e487535b9",
+  "source_sections": "C",
+  "supplied_source_sha256": "c75ef9cbbbc1fa3a8767133df1a7c4b72c8b099d708ba4c12f585a8a0111f65a",
+  "source_mode": "learner-reading",
+  "total_points": 30,
+  "decisions": [
+    "Removed unsupported precise casualties and names from comprehension; replaced factually unreliable Ypres/600000deaths/monument task with supported Verdun memory writing. Grammar task retained. Missing photo not invented."
+  ],
+  "sibling_task_disposition": {
+    "2": "retained",
+    "3": "revised"
+  },
+  "review_status": "pending",
+  "source_revisions": [
+    {
+      "kind": "unit",
+      "before_sha256": "d46fe0f34d25ea6df37a7680e1085bf40708f74022eae8c2ec1273eef702c1c8",
+      "after_sha256": "4e53bb47e2ddd06c745926723c7928fc1f7e5bdaee6c2f7bf8d4effbce226d38",
+      "reasons": [
+        "Match declared exam skills and total to actual graded tasks; teaching sections unchanged."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit07_champs-de-bataille/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "ec1f6284481b5976d260f0d1bfc61fda0694ca34b76a880cb3abed38343f0de0",
+      "after_sha256": "9fddb68eab2acbb75f5f65d1e477eb2aa5c300320347b6f1191dfa68141a33ad",
+      "reasons": [
+        "Normalize readable task/key spacing and declare bounded point-only scoring where no grade conversion is adopted."
+      ],
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/editorial-followup/content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "before_sha256": "9fddb68eab2acbb75f5f65d1e477eb2aa5c300320347b6f1191dfa68141a33ad",
+      "after_sha256": "60ca97154a78bfe7870374d93087ef21a15f732bafca5be7081d8aa1a89ca594",
+      "reason": "Declare canonical additive task total explicitly; no change to learner tasks or approval.",
+      "archive": "docs/assessment-reconciliation/2026-10-31/revisions/metadata-final/content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md"
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md",
+      "before_sha256": "60ca97154a78bfe7870374d93087ef21a15f732bafca5be7081d8aa1a89ca594",
+      "after_sha256": "f145aa06973ec2f7c34bae69b53bfbb2dea0718279e2b4e4ea1ea3fe9f752c58",
+      "reason": "Trim trailing line whitespace only; frozen teaching unit unchanged."
+    },
+    {
+      "kind": "exam",
+      "path": "content/track_e_kl08/units/unit07_champs-de-bataille_exam/index.md",
+      "before_sha256": "f145aa06973ec2f7c34bae69b53bfbb2dea0718279e2b4e4ea1ea3fe9f752c58",
+      "after_sha256": "38905f87b54c3fad54e5dd822f418482f658a6ce4bbc0f5a0580967e487535b9",
+      "reason": "Align current-revision course-owned copyright footer with existing LICENSE-CONTENT/2026-08-21 licence transition. Historical grants and third-party licence statements preserved."
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
-    "source_body_sha256": "f382fa3579c229e4a3d5eb77b1c8595867be746e3082ebce2513107f96c2e792",
+    "source_body_sha256": "150a107231c62db4dc1755c112f82e492c7241497ab8ca906ca066b555701330",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anouk : Écoute ça, Karim ! Ma tante Soraya m'a envoyé une playlist du Maghreb. Karim : Ah, j'entends de la guitare… et la chanteuse passe de l'arabe au français dans le même refrain ! Anouk : Oui, elle s'appelle Souad Massi. Elle est née à Alger et elle chante en trois langues. Karim : Trois langues ? Français, arabe et… ? Anouk : Et kabyle. Sa voix est douce, mais les paroles parlent de choses sérieuses. Karim : Ça me plaît. On dirait du folk, mais avec des sonorités d'ailleurs."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
-    "source_body_sha256": "f382fa3579c229e4a3d5eb77b1c8595867be746e3082ebce2513107f96c2e792",
+    "source_body_sha256": "150a107231c62db4dc1755c112f82e492c7241497ab8ca906ca066b555701330",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un single.\nun clip.\nun album.\nune mélodie.\nun refrain.\nles paroles.\nune voix.\nun featuring.\nune tournée.\nun métissage."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit06_musiques-du-maghreb-e/index.md",
-    "source_body_sha256": "f382fa3579c229e4a3d5eb77b1c8595867be746e3082ebce2513107f96c2e792",
+    "source_body_sha256": "150a107231c62db4dc1755c112f82e492c7241497ab8ca906ca066b555701330",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Le raï est né dans la région d'Oran, à l'ouest de l'Algérie. À l'origine, c'est une musique populaire chantée par des artistes de la campagne ; le mot  raï  signifie à peu près  opinion  ou  point de vue  en arabe. À partir des années 1980, le raï devient célèbre en France et dans le monde. Le chaâbi est une musique populaire d'Alger. Son nom vient d'un mot arabe qui veut dire  du peuple . On l'entend souvent lors des fêtes et des mariages. Beaucoup d'artistes du Maghreb pratiquent le métissage : ils mélangent ces traditions avec le folk, la pop ou le flamenco, et ils passent d'une langue à l'autre — arabe, français, parfois kabyle ou berbère."

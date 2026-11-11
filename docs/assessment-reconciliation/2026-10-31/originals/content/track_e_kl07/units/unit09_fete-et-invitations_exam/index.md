@@ -1,0 +1,94 @@
+---
+title: "devoir surveillé FLE — classe 7 (Niveau E) — Unité 9"
+subtitle: "Fête et invitations · classe 7 · Niveau E"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 9
+slug: "fete-et-invitations-exam"
+page_type: exam
+author: "S. Le Boulanger"
+tags:
+  - filiere-e
+  - classe-7
+  - exam
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.07
+    - A1.INT.notes-messages-and-forms.01
+    - A1.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - A1.MED.processing-text.03
+    - A1.REC.reading-correspondence.03
+  implements_basis: proposed
+  level_basis: proposed
+
+---
+
+## Devoir surveillé — Niveau E (lycée (« Gymnasium »)), classe 7
+
+### Tâche 1 — Compréhension écrite (« Leseverstehen ») (8 points)
+
+Lisez le carton d'invitation (Unité 9, texte C). Répondez :
+
+1. Quel âge a Anouk ?
+2. Date et horaires ?
+3. Adresse ?
+4. Cite **3 activités** prévues.
+
+### Tâche 2 — Futur proche (10 points)
+
+Conjuguez.
+
+1. Je *(faire)* un gâteau.
+2. Tu *(venir)* à la fête ?
+3. Nous *(danser)* toute la nuit.
+4. Ils *(apporter)* des cadeaux.
+5. On *(jouer)* au karaoké.
+6. Vous *(arriver)* à quelle heure ?
+7. Anouk *(souffler)* ses bougies.
+8. Mes parents *(préparer)* la pizza.
+
+### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+
+Rédigez **votre invitation d'anniversaire** en **80 mots** :
+date, lieu, programme, RSVP. **3 verbes au futur proche**.
+
+## Notation
+
+| Tâche | Points |
+|-----------------------------|--------:|
+| Tâche 1 — Compréhension écrite | 8 |
+| Tâche 2 — Futur proche | 10 |
+| Tâche 3 — Expression écrite | 12 |
+| **Total** | **30** |
+
+## Solutions
+
+**Tâche 1.** 1) 12 ans. 2) Samedi 16 mai, 17h-22h. 3) Allee 12,
+Karlsruhe. 4) Pizza, gâteau, karaoké, jeux, danse.
+
+**Tâche 2.** 1) vais faire · 2) vas venir · 3) allons danser ·
+4) vont apporter · 5) va jouer · 6) allez arriver · 7) va
+souffler · 8) vont préparer.
+
+**Tâche 3.** Réponses libres. Critères : 80 mots · format
+invitation · 3 futurs proches · RSVP.
+
+---
+
+{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
+**Total.** 30 points
+
+| Points | Note |
+|---|---|
+| 28–30 | 1 |
+| 25–27 | 2 |
+| 21–24 | 3 |
+| 15–20 | 4 |
+| 9–14 | 5 |
+| 0–8 | 6 |
+{{< /callout >}}
+
+*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau E · Unité 9*

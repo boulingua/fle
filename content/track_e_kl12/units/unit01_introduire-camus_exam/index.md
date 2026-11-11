@@ -23,71 +23,62 @@ curriculum:
     - B2.PLUR.building-on-plurilingual-repertoire.03
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Épreuve — Niveau E (lycée (« Gymnasium »)), classe 12 (épreuve finale (option d'approfondissement) (« Abitur Leistungsfach »))
+## Modalités
 
-### Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Lisez l'incipit de *L'Étranger* (Unité 1, texte C). Répondez :
+*Épreuve alignée sur les compétences visées : **compréhension écrite** + **expression écrite**.*
 
-1. Quelle est la 1ʳᵉ phrase et pourquoi célèbre ?
-2. Que dit le télégramme exactement ?
-3. Où est l'asile et à quelle distance d'Alger ?
-4. Que demande Meursault à son patron ?
-5. Que dit Meursault à son patron ?
+**Texte de l'épreuve — incipit original (à ne pas confondre avec une œuvre publiée) :**
 
-### Tâche 2 — Concepts camusiens (8 points)
+> La sonnerie de l'usine a couvert sa voix. Marc a levé la main, puis l'a laissée retomber. « De toute façon, avait-elle écrit, ne réponds pas. » Il n'a pas répondu. Dehors, le ciel avait la couleur du béton. Il a compté ses pas jusqu'au portail : quarante-deux, comme la veille.
 
-Reliez chaque concept à son repérage dans l'incipit :
+**Tâche 1 — Compréhension écrite (« Leseverstehen ») — 12 pts**
+a) Qui est le personnage et où se trouve-t-il ? (3 pts)
+b) Relevez la citation d'un message écrit dans le texte. (2 pts)
+c) Le récit commence-t-il in medias res ? Justifiez. (3 pts)
+d) Relevez un indice de **distance affective**. (2 pts)
+e) Repérez un verbe au passé composé et un verbe à l'imparfait. (2 pts)
 
-- l'absurde · le « je » sec · la distance affective · le
- motif administratif
+**Tâche 2 — Expression écrite (« Schreiben ») — 18 pts**
+Rédigez une **étude d'incipit** (~300 mots, 3 paragraphes : situation / procédés / effet) sur ce texte. Employez au moins **cinq** termes d'analyse et **appuyez-vous** sur des mots précis du texte.
 
-(Repérages : *Cela ne veut rien dire* · phrases courtes ·
-*sentiments distingués* · *Ce n'est pas de ma faute*.)
+**Barème total : 30 points.**
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
-
-Rédigez **votre étude d'incipit** (~350 mots) : 4 § + 5
-citations + 3 concepts camusiens + lien à un autre incipit.
-
-## Notation
-
-| Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Compréhension écrite | 10 |
-| Tâche 2 — Concepts | 8 |
-| Tâche 3 — Expression écrite | 12 |
+| Niveau | Points |
+|---|---|
+| Compréhension écrite | 12 |
+| Expression écrite | 18 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) *Aujourd'hui, maman est morte. Ou peut-être
-hier, je ne sais pas.* — brièveté + distance émotionnelle.
-2) *Mère décédée. Enterrement demain. Sentiments
-distingués.* 3) Marengo, 80 km d'Alger. 4) Deux jours de
-congé. 5) *Ce n'est pas de ma faute.*
+**Total : 30 points.**
 
-**Tâche 2.** Réponses libres (associations).
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 3.** Réponses libres. Critères : 350 mots · 4 § ·
-5 citations · 3 concepts.
+1 a. Marc (1), près d’une usine/du portail (2); ne pas exiger une fonction professionnelle non donnée. b. « De toute façon… ne réponds pas »(2). c. Oui (1), une interaction/message est déjà en cours et le contexte n’est pas expliqué (2). d. Geste interrompu, absence de réponse ou comptage mécanique, avec justification (2). e. Passé composé : a couvert/a levé/a laissé/a compté; imparfait : avait (couleur) (1 chacun). « avait écrit » est un plus-que-parfait.
 
----
+Tâche 2 : situation et limites des informations 4; cinq outils pertinents reliés à des mots exacts 6; interprétation justifiée 3; langue 3; structure 2 =18. Une hypothèse sur les personnages doit rester une hypothèse, pas devenir un fait du texte.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+## Sources
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 12 · Niveau E · Unité 1*
+- **Albert Camus** — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Albert_Camus>, licence CC BY-SA 4.0.
+- **L'Étranger (roman)** — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/L%27%C3%89tranger>, licence CC BY-SA 4.0.
+- **Le Mythe de Sisyphe** — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Le_Mythe_de_Sisyphe>, licence CC BY-SA 4.0.
+- **Absurde (philosophie)** — Wikipédia, l'encyclopédie libre (consulté en 2026), <https://fr.wikipedia.org/wiki/Absurde>, licence CC BY-SA 4.0.
+- Textes d'appui (incipits) : **originaux**, rédigés pour cette unité (2026).
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

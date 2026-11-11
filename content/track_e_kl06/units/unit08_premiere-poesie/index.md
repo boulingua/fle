@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 8
 slug: "premiere-poesie"
 bildungsplan:
-  - "3.1.4 Compétence textuelle et médiatique"
-  - "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit08_premiere-poesie.pdf"
   thumbnail: "/fle/materials/worksheets/unit08_premiere-poesie.png"
 tags:
-  - filiere-e
-  - classe-6
-  - niveau-e
+- filiere-e
+- classe-6
+- niveau-e
 aliases:
-  - "/track_e_kl06/units/unit08_premiere-poesie.html"
+- "/track_e_kl06/units/unit08_premiere-poesie.html"
 curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.REC.overall-reading-comprehension.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.INT.correspondence.03
-    - A1.INT.interviewing-and-being-interviewed.02
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.INT.correspondence.03
+  - A1.INT.interviewing-and-being-interviewed.02
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl06/units/unit08_premiere-poesie_exam
+  format: written
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+assessment_review: pending
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit08_premiere-poesie-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit08_premiere-poesie-teacher.png
 audio_manifest: unit08_premiere-poesie
 ---
 
@@ -66,15 +98,13 @@ Il lit lentement. La classe se tait. À la fin, Léa dit tout bas : *« C'est do
 - Pour toi, un poème, c'est plutôt **la musique des mots** ou **une histoire** ?
 - Aimes-tu lire à voix haute ? Pourquoi ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Connais-tu des poètes français ou allemands ? Cite un nom.
 - Quels mots te font penser à la poésie ? (rime, vers, chanson, rythme…)
 - Une **chanson**, est-ce un poème ? Discute avec ton voisin.
 - Quelle saison te semble la plus « poétique » : le printemps, l'été, l'automne ou l'hiver ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire de la poésie
 
 | Français | Nature | Sens (allemand) |
@@ -143,8 +173,7 @@ Mots simples, vers courts, une image (*« j'écoute la nuit »*) : c'est déjà 
 Les premiers vers de *« Chanson d'automne »* sont devenus célèbres bien au-delà des livres. En **juin 1944**, la radio *Radio Londres* les a diffusés comme **message codé** vers la Résistance française, pour annoncer le début imminent du Débarquement. Un poème très doux a ainsi joué un rôle dans l'Histoire.
 *(D'après Wikipédia, article « Chanson d'automne », CC BY-SA 4.0.)*
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension (texte B, Verlaine).**
 
 1. Quelle **saison** est décrite dans le poème ?
@@ -178,6 +207,7 @@ Quels vers riment ensemble ? Écris le **schéma** (A, B…).
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) L'automne. 2) Les violons. 3) Triste. 4) Au choix : *sanglots*, *blessent*, *langueur*, *monotone*, *je pleure*.
 
 **Ex. 2.** 1-b · 2-c · 3-d · 4-a.
@@ -185,9 +215,9 @@ Quels vers riment ensemble ? Écris le **schéma** (A, B…).
 **Ex. 3.** *longs / violons* riment (son **[ɔ̃]**) → A A ; *automne / monotone* riment (son **[ɔn]**) → B … B ; *cœur / langueur* riment (son **[œʁ]**) → C C. Schéma : **A A B C C B** (rimes embrassées autour de la strophe).
 
 **Ex. 4.** (1) **soleil** — (2) **froid** — (3) **content** — (4) **nuit**. (Rimes : *froid/content* est une rime approchée ; *soleil/nuit* ne riment pas entre eux mais ferment le sens — accepter toute justification correcte des paires *froid–content* comme rime à l'oreille : son **[ɑ̃]** pour *content*, à comparer à d'autres choix des élèves E.)
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (E, ~40-50 mots).**
 
 Écris un **petit poème** de **6 vers courts** sur une **saison** ou la **météo** (la pluie, la neige, le soleil…). Consignes :
@@ -210,46 +240,18 @@ Puis **récite** ton poème à voix basse à ton voisin.
 | Lecture à voix haute claire | ☐ |
 {{< /callout >}}
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je connais les mots : *vers, strophe, rime, poète*.
 - [ ] Je sais repérer les rimes d'un poème court.
 - [ ] Je comprends si un poème est gai ou triste et je peux le dire.
 - [ ] J'ai écrit un petit poème avec au moins une rime.
 - [ ] J'ai lu un poème à voix haute.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E**
+[Ouvrir l’évaluation séparée]({{< relref "track_e_kl06/units/unit08_premiere-poesie_exam" >}}).
 
-Lis ce court poème **original**, puis réponds.
-
-> Il pleut ce matin sur la ville,
-> les rues brillent, l'eau tranquille ;
-> un enfant court sous son parapluie,
-> et rit tout seul dans la pluie.
-> Il saute dans une grande flaque,
-> son chien joyeux le suit et claque.
-
-**Tâche 1 — Compréhension écrite (« Leseverstehen », 10 P.)**
-1. Quel temps fait-il ? (2 P.)
-2. Que fait l'enfant ? Donne deux actions. (4 P.)
-3. Qui accompagne l'enfant ? (2 P.)
-4. Le poème est-il gai ou triste ? Justifie en une phrase. (2 P.)
-
-**Tâche 2 — Compétence textuelle et médiatique (8 P.)**
-5. Combien y a-t-il de vers ? (2 P.)
-6. Relève **deux paires de mots qui riment**. (4 P.)
-7. Le schéma des rimes est-il **plat (AABB)** ou **croisé (ABAB)** ? (2 P.)
-
-**Tâche 3 — Expression écrite (« Schreiben », 12 P.)**
-8. Écris **4 à 6 vers** sur ton animal préféré ou une saison, avec **au moins une paire de rimes** et **une image**. (12 P.)
-
-**Total : 30 P.**
-
-**Barème indicatif :** 28-30 → très bien · 23-27 → bien · 18-22 → satisfaisant · 13-17 → passable · < 13 → à revoir.
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Plan (45 min).** Situation + Activer 5' · Apporter (vocabulaire, point de langue, lecture Verlaine, note culturelle) 13' · Lecture à voix haute guidée 5' · S'entraîner 12' · Produire 8' · Réfléchir 2'.
 

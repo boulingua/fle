@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 3
 slug: "vie-democratique-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — en continu (monologue)"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — en continu (monologue)"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_vie-democratique-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_vie-democratique-e.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit03_vie-democratique-e.html"
+- "/track_e_kl10/units/unit03_vie-democratique-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.planning.01
-    - B1.REC.overall-oral-comprehension.02
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.REC.overall-reading-comprehension.01
-    - B1.INT.overall-written-interaction.02
+  - B1.PROD.planning.01
+  - B1.REC.overall-oral-comprehension.02
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.REC.overall-reading-comprehension.01
+  - B1.INT.overall-written-interaction.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit03_vie-democratique-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_vie-democratique-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_vie-democratique-e-teacher.png
 audio_manifest: unit03_vie-democratique-e
 ---
 
@@ -71,8 +103,7 @@ audio_manifest: unit03_vie-democratique-e
 2. À partir de quel âge peut-on voter en France, d'après le dialogue ?
 3. Pourquoi Karim est-il un peu perdu ? Quelle est sa question centrale ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 Répondez spontanément (à l'oral, en classe entière) :
 
 - Comment s'appelle l'actuel président de la République française ?
@@ -84,8 +115,7 @@ Répondez spontanément (à l'oral, en classe entière) :
 **Astuce mémoire :** trois pouvoirs = trois verbes. On **fait** appliquer (exécutif), on **fait** la loi (législatif), on **juge** (judiciaire).
 {{< /callout >}}
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Catégorie | Allemand |
@@ -129,7 +159,7 @@ Le sujet des deux verbes est le même. Si les sujets sont différents, on utilis
 >
 > Le **Parlement** fait les lois : c'est le **pouvoir législatif**. Il a deux chambres, l'**Assemblée nationale** (les députés, élus directement) et le **Sénat** (les sénateurs, élus indirectement).
 >
-> Enfin, des juges et le **Conseil constitutionnel** contrôlent le respect de la Constitution : c'est le **pouvoir judiciaire**.
+> Les juridictions rendent la justice. Le **Conseil constitutionnel**, distinct de l'autorité judiciaire, contrôle notamment la conformité des lois à la Constitution.
 >
 > Participer, c'est possible de bien des manières : voter, adhérer à une association, signer une pétition, débattre. La démocratie, ce n'est pas seulement le jour du vote !
 >
@@ -145,8 +175,7 @@ L'idée de répartir le pouvoir entre plusieurs organes pour éviter les abus es
 *Faits paraphrasés d'après les articles « Cinquième République » et « Séparation des pouvoirs » de Wikipédia en français (CC BY-SA). Voir Sources.*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase complète.
 
 1. Depuis quelle année existe la Cinquième République ?
@@ -160,7 +189,7 @@ L'idée de répartir le pouvoir entre plusieurs organes pour éviter les abus es
 |--------------|---|-----------------------------------|
 | exécutif | · | Parlement (Assemblée + Sénat) |
 | législatif | · | Président + gouvernement |
-| judiciaire | · | Conseil constitutionnel + juges |
+| judiciaire | · | juridictions et juges |
 
 **Ex. 3 — Vocabulaire.** Complétez avec : *voter · une loi · un mandat · le suffrage universel · un député.*
 
@@ -182,13 +211,14 @@ c. …pour éviter les abus.
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.**
 1. La Cinquième République existe depuis 1958.
 2. Le président est élu pour cinq ans.
 3. Les deux chambres sont l'Assemblée nationale et le Sénat.
 4. Par exemple : adhérer à une association, signer une pétition, débattre (deux au choix).
 
-**Ex. 2.** exécutif = Président + gouvernement · législatif = Parlement (Assemblée + Sénat) · judiciaire = Conseil constitutionnel + juges.
+**Ex. 2.** exécutif = Président + gouvernement · législatif = Parlement (Assemblée + Sénat) · judiciaire = juridictions et juges.
 
 **Ex. 3.** 1) le suffrage universel · 2) un député · 3) voter · 4) un mandat · 5) une loi.
 
@@ -201,9 +231,9 @@ c. …pour éviter les abus.
 - **M (moyen) :** Ex. 1 à 4 en autonomie, phrases complètes.
 - **E (approfondi) :** ajouter à l'Ex. 1 une 5ᵉ question personnelle : *Selon toi, pourquoi séparer les pouvoirs est-il utile ?* (2-3 phrases).
 {{< /callout >}}
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — en continu (Niveau E, ~2 min)**
 
 Vous présentez à la classe un mini-exposé intitulé **« Participer en démocratie »**. Votre exposé doit contenir :
@@ -223,8 +253,7 @@ Vous présentez à la classe un mini-exposé intitulé **« Participer en démoc
 | Fluidité et prise de parole | discours continu, ~2 min, audible | 2 |
 | **Total** | | **12** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 Cochez ce que vous savez faire :
 
 - [ ] Je peux nommer les trois pouvoirs et un organe pour chacun.
@@ -233,31 +262,11 @@ Cochez ce que vous savez faire :
 - [ ] Je peux comparer un point France / Allemagne.
 - [ ] J'utilise *pour* + infinitif pour exprimer un but.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Compréhension écrite + Expression en continu**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit03_vie-democratique-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 P.)**
-À partir du texte C (« Comment ça marche ? »), répondez à 6 questions (2 P. chacune) : année de fondation, durée du mandat présidentiel, rôle du Parlement, les deux chambres, le rôle du Conseil constitutionnel, une forme de participation.
-
-**Tâche 2 — Vocabulaire et institutions (8 P.)**
-- Reliez les trois pouvoirs à leurs organes (3 P.).
-- Complétez 5 phrases à trous avec le vocabulaire civique (5 P.).
-
-**Tâche 3 — Expression en continu, à l'oral ou à l'écrit (10 P.)**
-Présentez « Participer en démocratie » (~150 mots ou ~2 min) : trois pouvoirs, deux formes de participation, une comparaison FR/DE, une conclusion personnelle.
-
-**Barème global : 30 P.** — Répartition : Compréhension 12 · Vocabulaire/Institutions 8 · Production 10.
-
-| Note (points) | Appréciation |
-|:-------------:|--------------|
-| 27-30 | très bien |
-| 23-26 | bien |
-| 18-22 | satisfaisant |
-| 12-17 | passable |
-| < 12 | insuffisant |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Déroulement (45 min)**
 
@@ -282,6 +291,9 @@ Présentez « Participer en démocratie » (~150 mots ou ~2 min) : trois pouvoir
 **Posture.** La plateforme n'est affiliée à aucune institution officielle ; les liens sont fournis à titre documentaire.
 
 ## Sources
+
+- Constitution — titre VIII, autorité judiciaire (vérification éditoriale du 31 octobre 2026), <https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006095828>.
+
 
 - « Cinquième République (France) » — Wikipédia, l'encyclopédie libre (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_R%C3%A9publique_(France)>, licence CC BY-SA 4.0.
 - « Séparation des pouvoirs » — Wikipédia, l'encyclopédie libre (consulté le 21/07/2026), <https://fr.wikipedia.org/wiki/S%C3%A9paration_des_pouvoirs>, licence CC BY-SA 4.0.

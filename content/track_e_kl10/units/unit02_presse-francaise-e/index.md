@@ -8,8 +8,8 @@ track: "e"
 unit_nr: 2
 slug: "presse-francaise-e"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.4 Compétence textuelle et médiatique"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.4 Compétence textuelle et médiatique"
 skills_focus:
 - reading
 presentation:
@@ -19,22 +19,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit02_presse-francaise-e.pdf"
   thumbnail: "/fle/materials/worksheets/unit02_presse-francaise-e.png"
 tags:
-  - filiere-e
-  - classe-10
-  - niveau-e
+- filiere-e
+- classe-10
+- niveau-e
 aliases:
-  - "/track_e_kl10/units/unit02_presse-francaise-e.html"
+- "/track_e_kl10/units/unit02_presse-francaise-e.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.REC.reading-as-a-leisure-activity.01
-    - B1.REC.reading-for-information-and-argument.05
-    - B1.MED.overall-mediation.02
-    - B1.INT.overall-written-interaction.02
-    - B1.MED.encouraging-conceptual-talk.02
+  - B1.REC.reading-as-a-leisure-activity.01
+  - B1.REC.reading-for-information-and-argument.05
+  - B1.MED.overall-mediation.02
+  - B1.INT.overall-written-interaction.02
+  - B1.MED.encouraging-conceptual-talk.02
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_e_kl10/units/unit02_presse-francaise-e_exam
+  format: existing-assessment
+  duration_minutes:
+  points: 30
+  skills:
+  - reading
+  - writing
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit02_presse-francaise-e-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit02_presse-francaise-e-teacher.png
 audio_manifest: unit02_presse-francaise-e
 ---
 
@@ -68,15 +100,13 @@ audio_manifest: unit02_presse-francaise-e
 - Un titre peut-il être à la fois vrai et orienté ? Expliquez.
 - Où vous informez-vous, vous, au quotidien ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Quels journaux français, papier ou en ligne, connaissez-vous ?
 - Faites-vous une différence entre un **fait** et une **opinion** ? Donnez un exemple de chaque.
 - Comment décidez-vous si une information trouvée en ligne est fiable ?
 - Complétez librement : « Une source d'information est fiable quand… »
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Catégorie | Équivalent allemand |
@@ -129,8 +159,7 @@ En France, la presse régionale pèse plus lourd, en nombre de lecteurs, que la 
 *Paraphrasé d'après les articles « Ouest-France » et « Presse quotidienne régionale » de Wikipédia (CC BY-SA) — voir Sources.*
 {{< /callout >}}
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Exercice 1 — Compréhension (texte C).**
 1. Citez deux quotidiens nationaux et un quotidien spécialisé mentionnés dans le texte.
 2. Quel journal a le plus fort tirage ? Depuis quelle année existe-t-il ?
@@ -160,6 +189,7 @@ d) « Ah, la ponctualité des trains ! Un art français, paraît-il. J'ai eu tou
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Exercice 1.**
 1. Nationaux : *Le Monde*, *Le Figaro*, *Libération*, *La Croix* (deux au choix) ; spécialisé : *L'Équipe*.
 2. *Ouest-France*, depuis 1944.
@@ -174,9 +204,9 @@ d) « Ah, la ponctualité des trains ! Un art français, paraît-il. J'ai eu tou
 1. *…que l'article serait vérifié.*
 2. *…qu'il n'avait rien vu.*
 3. *Selon une source, le projet serait abandonné.*
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche d'écriture (Niveau E, ~120 mots).**
 
 Rédigez une **brève d'actualité** sur un événement réel ou imaginé de votre établissement (une collecte, un projet, une sortie, un concours). Votre brève doit contenir :
@@ -196,30 +226,18 @@ Rédigez une **brève d'actualité** sur un événement réel ou imaginé de vot
 | Registre | ton neutre et informatif | 2 |
 | **Total** | | **12** |
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer plusieurs quotidiens français et dire s'ils sont nationaux, spécialisés ou régionaux.
 - [ ] Je distingue une brève, un éditorial, un billet et un reportage.
 - [ ] Je fais la différence entre un fait vérifiable et une opinion.
 - [ ] Je sais attribuer une information à une source et utiliser le conditionnel pour marquer le doute.
 - [ ] Je peux rédiger une brève d'actualité d'environ 120 mots.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Devoir surveillé (« Klassenarbeit ») — Niveau E — 30 points**
+[Ouvrir le sujet d’entraînement]({{< relref "track_e_kl10/units/unit02_presse-francaise-e_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (« Leseverstehen ») (10 pts).**
-Lecture du texte C « Six titres, six regards ». Répondez en français à cinq questions (identification des titres, ligne éditoriale, gestes de la lecture critique).
-
-**Tâche 2 — Compétence médiatique (« Text- und Medienkompetenz ») (10 pts).**
-On donne quatre extraits courts. (a) Identifiez le genre de chacun (4 pts). (b) Pour deux d'entre eux, classez trois phrases en fait / opinion et justifiez en vous référant au texte (6 pts).
-
-**Tâche 3 — Expression écrite (« Schreiben ») (10 pts).**
-Rédigez une brève d'actualité (~120 mots) selon les critères vus en cours (5 W + titre + citation attribuée, ton neutre).
-
-**Barème :** Tâche 1 : 10 · Tâche 2 : 10 · Tâche 3 : 10 · **Total : 30 pts.**
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Durée :** 45 min.
 **Déroulé indicatif :** Situation de départ + Activer (6') · Apporter — vocabulaire, point de langue, texte C, note culturelle (14') · S'entraîner (12') · Produire — lancement de la brève (10') · Réfléchir + aperçu de l'évaluation (3').

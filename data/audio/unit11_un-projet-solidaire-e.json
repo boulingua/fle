@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
-    "source_body_sha256": "49e5f274c324b49b4f5a30f2c6e4a2fc1823d09d80979fdf9b15d9261630014b",
+    "source_body_sha256": "dbcb5d877c4d79f19415652db488f148aab9a9d6635fc46dcf3f3e67dc5cdb05",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Léa : Voilà, on a un problème. Le foyer des élèves n'a presque plus de livres, et beaucoup de camarades n'ont rien à lire à la récré. Yanis : On pourrait organiser une collecte ! Chacun apporte deux ou trois livres qu'il a déjà lus. Léa : Bonne idée. Mais il faudrait aussi penser aux autres. Ma cousine fait du bénévolat dans une association qui envoie des livres à des écoles au Sénégal. Yanis : Alors on fait les deux : une partie pour le foyer, une partie pour l'association. Je propose qu'on présente le projet à la directrice vendredi. Léa : D'accord. On va d'abord écrire une affiche pour convaincre toute la classe."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
-    "source_body_sha256": "49e5f274c324b49b4f5a30f2c6e4a2fc1823d09d80979fdf9b15d9261630014b",
+    "source_body_sha256": "dbcb5d877c4d79f19415652db488f148aab9a9d6635fc46dcf3f3e67dc5cdb05",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un projet solidaire.\nle bénévolat / un·e bénévole.\nune association.\nune collecte.\nun·e bénéficiaire.\nun don / faire un don.\norganiser.\ncollecter / récolter.\nsoutenir.\nsensibiliser.\ns'engager (pour).\nproposer."
@@ -42,7 +42,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl08/units/unit11_un-projet-solidaire-e/index.md",
-    "source_body_sha256": "49e5f274c324b49b4f5a30f2c6e4a2fc1823d09d80979fdf9b15d9261630014b",
+    "source_body_sha256": "dbcb5d877c4d79f19415652db488f148aab9a9d6635fc46dcf3f3e67dc5cdb05",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "## UNE COLLECTE DE LIVRES, DEUX DESTINATIONS Quoi ? Nous organiserons une grande collecte de livres au foyer des élèves. Pour qui ? La moitié restera au foyer ; l'autre moitié partira, grâce à une association de bénévoles, vers une école partenaire au Sénégal. Comment ? Chacun apportera deux ou trois livres. Nous les trierons ensemble, puis nous les enverrons par colis groupé. Quand ? Du 5 au 19 décembre. La remise à l'association aura lieu avant les vacances. Vous voulez vous engager ? Une seule règle : un livre que vous avez aimé. Parlez-en autour de vous ! — Léa, Yanis et la classe de 8e"

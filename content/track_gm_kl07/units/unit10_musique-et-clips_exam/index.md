@@ -23,23 +23,30 @@ curriculum:
     - A1.PRAG.fluency.01
   implements_basis: proposed
   level_basis: proposed
-
+assessment_review: pending
+assessment_source_review: reconciled-pending-pedagogical-review
+assessment_scoring: points-only
+assessment_points: 30
 ---
 
-## Devoir surveillé — Niveau M, classe 7
+## Modalités
 
-### Tâche 1 — Hörverstehen (10 points)
+Sujet d’entraînement original, non officiel. La durée, les critères et la difficulté restent à valider en classe. Les données personnelles peuvent être fictives. Une réponse écrite ne remplace pas l’observation d’une performance orale. Les textes originaux sont des supports pédagogiques; les œuvres et sources citées conservent leur attribution.
 
-Écoutez la description du clip d'Aya Nakamura (Unité 10, texte D).
-Vrai/faux :
+## Écoute
 
-| | Affirmation | V | F |
-|---|---------------------------------------------------------|:-:|:-:|
-| 1 | Aya Nakamura chante *« Pookie »*. | ☐ | ☐ |
-| 2 | Le clip se passe dans une école. | ☐ | ☐ |
-| 3 | Aya porte une robe bleue. | ☐ | ☐ |
-| 4 | Le clip dure 3 minutes 20. | ☐ | ☐ |
-| 5 | Le clip a 80 millions de vues. | ☐ | ☐ |
+La personne enseignante lit le texte deux fois; la transcription reste réservée à la correction.
+
+### Tâche 1 — Écoute (10 points)
+
+Vrai ou faux ? Justifiez ou corrigez.
+1. Camille décrit un clip de pop.
+2. Son clip se déroule sur une plage de jour.
+3. La chanteuse de ce clip porte une robe bleue.
+4. Noé décrit une scène nocturne dans une ville.
+5. Le rythme du clip de rap est lent.
+
+**Barème :** 5 réponses ×2 : choix 1, preuve 1.
 
 ### Tâche 2 — Vocabulaire (8 points)
 
@@ -49,45 +56,61 @@ Traduisez :
  das Chanson · der R'n'B · die elektronische Musik ·
  der Reggae.
 
-### Tâche 3 — Expression écrite (« Schreiben ») (12 points)
+**Barème :** 8 termes ×1.
+
+### Tâche 3 — Description (12 points)
 
 Décrivez **votre clip préféré** en **80 mots** : titre,
 chanteur(se), lieu, couleurs, action, durée. Utilisez
-**2 expressions de goût** (*j'adore, je préfère, je n'aime pas*).
+**2 expressions de goût** (*j'adore, je préfère, je n'aime pas*). Le clip peut être imaginé et annoncé comme tel; ne donnez pas de nombre de vues non vérifié.
 
-## Notation
+**Barème :** Contenu 5, goûts 3, langue 3, longueuradaptée 1.
+
+## Barème total
+
+**Total : 30 points.**
 
 | Tâche | Points |
-|-----------------------------|--------:|
-| Tâche 1 — Hörverstehen | 10 |
-| Tâche 2 — Vocabulaire | 8 |
-| Tâche 3 — Expression écrite | 12 |
+|---|---:|
+| 1 | 10 |
+| 2 | 8 |
+| 3 | 12 |
 | **Total** | **30** |
 
-## Solutions
+## Corrigé
 
-**Tâche 1.** 1) V. 2) F (maison colorée). 3) F (rouge). 4) V.
-5) F (800 millions).
+{{< details title="Solutions et indications pour la correction" role="key" >}}
 
-**Tâche 2.** la pop · le rock · le rap · le hip-hop · la chanson
-· le R'n'B · la musique électronique · le reggae.
+**Tâche 1.** Vrai (pop); vrai (plage, le jour); faux (robe blanche); vrai (ville, la nuit); faux (rapide). Justifications tirées du support.
 
-**Tâche 3.** Réponses libres. Critères : 80 mots · 2 expressions
-de goût · description visuelle.
+**Tâche 2.** Pop, rock, rap, hip-hop, chanson, R'n'B, musique électronique, reggae.
 
----
+**Tâche 3.** Description cohérente et deux goûts justifiés. Aucun nom d'artiste, durée ou nombre de vues absent du support n'est attendu.
 
-{{< callout type="tip" title="Notenschlüssel (grading scale) (sur 30 points)" collapse="true" >}}
-**Total.** 30 points
+{{< /details >}}
 
-| Points | Note |
-|---|---|
-| 28–30 | 1 |
-| 25–27 | 2 |
-| 21–24 | 3 |
-| 15–20 | 4 |
-| 9–14 | 5 |
-| 0–8 | 6 |
-{{< /callout >}}
+{{< details title="Texte à lire — personne enseignante" role="key" >}}
 
-*© S. Le Boulanger · CC-BY 4.0 · FLE · classe 7 · Niveau M · Unité 10*
+### D. Texte original — « Deux clips, deux ambiances »
+
+> Camille et Noé préparent un exposé sur les clips. Camille présente un clip de pop : « Il se passe sur une plage, en plein jour. La chanteuse porte une robe blanche et danse avec ses amies. Les couleurs sont claires, l'ambiance est joyeuse. »
+>
+> Noé, lui, décrit un clip de rap : « Ça se passe la nuit, dans une ville. On voit des néons bleus et rouges. Le rythme est rapide, l'ambiance est sombre mais forte. »
+>
+> Les deux clips sont très différents, mais Camille et Noé sont d'accord sur une chose : « Un bon clip raconte une petite histoire en trois minutes. »
+
+{{< /details >}}
+
+## Sources
+
+- Library of Congress — Making Michael Jackson’s Thriller (vérification éditoriale du 31 octobre 2026), <https://www.loc.gov/item/86708393/>.
+
+
+- *Clip* — Wikipédia (contributeurs), consulté le 21/07/2026, <https://fr.wikipedia.org/wiki/Clip>, licence CC BY-SA 4.0.
+- *Chanson française* — Wikipédia (contributeurs), consulté le 21/07/2026, <https://fr.wikipedia.org/wiki/Chanson_fran%C3%A7aise>, licence CC BY-SA 4.0.
+
+## Provenance
+
+Les versions antérieures intégrales sont conservées dans `docs/assessment-reconciliation/2026-10-31/`. Ce rapprochement éditorial ne vaut ni approbation pédagogique ni certification de niveau. Les supports déjà étudiés servent à l’entraînement; une épreuve indépendante de transfert demande un nouveau support validé.
+
+*© S. Le Boulanger · CC BY-SA 4.0.*

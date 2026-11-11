@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
-    "source_body_sha256": "7933cdc1873fce9fb9c6b53bf3665598a1dc8653762f5f4a86eede85c75561b9",
+    "source_body_sha256": "5c72d6f48ebb765997a092db088949e8c341760a3fae10f4fb063e3d5708d602",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
-    "source_body_sha256": "7933cdc1873fce9fb9c6b53bf3665598a1dc8653762f5f4a86eede85c75561b9",
+    "source_body_sha256": "5c72d6f48ebb765997a092db088949e8c341760a3fae10f4fb063e3d5708d602",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
-    "source_body_sha256": "7933cdc1873fce9fb9c6b53bf3665598a1dc8653762f5f4a86eede85c75561b9",
+    "source_body_sha256": "5c72d6f48ebb765997a092db088949e8c341760a3fae10f4fb063e3d5708d602",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -55,7 +55,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
-    "source_body_sha256": "7933cdc1873fce9fb9c6b53bf3665598a1dc8653762f5f4a86eede85c75561b9",
+    "source_body_sha256": "5c72d6f48ebb765997a092db088949e8c341760a3fae10f4fb063e3d5708d602",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un essai.\nune thèse.\nun argument.\nun exemple.\nune chute.\nun connecteur logique.\nla voix (d'un texte).\nétayer une idée.\nnuancer un propos."
@@ -71,7 +71,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_e_kl13/units/unit03_essai-personnel/index.md",
-    "source_body_sha256": "7933cdc1873fce9fb9c6b53bf3665598a1dc8653762f5f4a86eede85c75561b9",
+    "source_body_sha256": "5c72d6f48ebb765997a092db088949e8c341760a3fae10f4fb063e3d5708d602",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "On me demande souvent pourquoi je remplis des carnets que personne ne lira. La réponse est simple : j'écris pour comprendre ce que je pense. Enfant, je croyais que les idées existaient d'abord dans la tête, toutes prêtes, et qu'écrire ne servait qu'à les recopier. Je me trompais. En réalité, la plupart de mes idées n'apparaissent qu'au moment où la main avance sur la page. La phrase précède souvent la pensée. Cependant, cette découverte a un revers. Écrire, c'est aussi se trahir : on croit dire une chose, et le mot en révèle une autre. J'ai longtemps eu peur de cette trahison. Aujourd'hui, je l'accueille, car c'est elle qui m'apprend qui je suis. Ainsi, chaque carnet est une conversation avec un moi que je ne connais pas encore. Je n'écris pas pour être lu. J'écris pour me rencontrer."

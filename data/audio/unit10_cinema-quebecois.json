@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
-    "source_body_sha256": "061ea0934743dcdca33e6c816f7046debb7527f315d9b8c2857ed78bdf88d8a0",
+    "source_body_sha256": "c97a57e28193ad67b34877456e3fb6f08e79c4c66b48e122675665c7db634280",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "un·e réalisateur·rice.\nun·e scénariste.\nun long-métrage.\nun court-métrage.\nune bande-annonce.\nun sous-titre.\nle doublage.\nune scène."
@@ -26,7 +26,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit10_cinema-quebecois/index.md",
-    "source_body_sha256": "061ea0934743dcdca33e6c816f7046debb7527f315d9b8c2857ed78bdf88d8a0",
+    "source_body_sha256": "c97a57e28193ad67b34877456e3fb6f08e79c4c66b48e122675665c7db634280",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Mère : T'as fini tes devoirs, ma belle ? Fille : Pas encore. C'est plate, l'algèbre. Mère : Pis ton examen demain ? Fille : Je vais le passer. Inquiète-toi pas. Mère : Bon. Je t'attends pas pour souper. Y a du restant dans le frigo."

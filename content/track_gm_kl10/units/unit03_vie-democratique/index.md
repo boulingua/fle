@@ -8,8 +8,8 @@ track: "gm"
 unit_nr: 3
 slug: "vie-democratique"
 bildungsplan:
-  - "3.1.3.2 Compréhension écrite"
-  - "3.1.3.4 Expression orale — production orale en continu"
+- "3.1.3.2 Compréhension écrite"
+- "3.1.3.4 Expression orale — production orale en continu"
 skills_focus:
 - reading
 - speaking_production
@@ -20,22 +20,54 @@ worksheet:
   file: "/fle/materials/worksheets/unit03_vie-democratique.pdf"
   thumbnail: "/fle/materials/worksheets/unit03_vie-democratique.png"
 tags:
-  - filiere-gm
-  - classe-10
-  - niveau-m
+- filiere-gm
+- classe-10
+- niveau-m
 aliases:
-  - "/track_gm_kl10/units/unit03_vie-democratique.html"
+- "/track_gm_kl10/units/unit03_vie-democratique.html"
 curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.PROD.sustained-monologue-describing-experience.02
-    - B1.REC.identifying-cues-and-inferring.05
-    - B1.PROD.compensating.03
-    - B1.REC.reading-as-a-leisure-activity.04
-    - B1.INT.formal-discussion.01
+  - B1.PROD.sustained-monologue-describing-experience.02
+  - B1.REC.identifying-cues-and-inferring.05
+  - B1.PROD.compensating.03
+  - B1.REC.reading-as-a-leisure-activity.04
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: proposed
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activer
+  input:
+  - 2-apporter
+  practise:
+  - 3-sentraîner
+  apply:
+  - 4-produire
+  reflect:
+  - 5-réfléchir
+  teacher-notes:
+  - notes-pour-lenseignante
+  exam:
+  - évaluation
+exam:
+  page: track_gm_kl10/units/unit03_vie-democratique_exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - speaking_production
+worksheet_teacher:
+  file: /fle/materials/worksheets/unit03_vie-democratique-teacher.pdf
+  thumbnail: /fle/materials/worksheets/unit03_vie-democratique-teacher.png
 audio_manifest: unit03_vie-democratique
 ---
 
@@ -69,15 +101,13 @@ Au foyer du lycée, Karim regarde une affiche de campagne électorale.
 - Selon elle, le Président décide-t-il seul ? Pourquoi ?
 - Quel mot signifie « équilibre des pouvoirs » selon vous ?
 
-## 1. Activer
-
+## 1. Activer {#activate}
 - Connaissez-vous le nom du Président de la République actuel ?
 - Combien de temps dure, selon vous, un mandat présidentiel ?
 - Quels moyens un citoyen a-t-il pour participer à la vie démocratique ?
 - Comment dit-on « voter » et « une élection » en allemand ?
 
-## 2. Apporter
-
+## 2. Apporter {#input}
 ### A. Vocabulaire
 
 | Français | Genre / forme | Allemand |
@@ -133,8 +163,7 @@ Rappel : après un mot interrogatif (*combien*, *pourquoi*, *comment*), l'invers
 
 Le régime politique actuel de la France est celui de la **Cinquième République**, fondée en 1958. Selon des ressources encyclopédiques librement réutilisables, une révision de la Constitution adoptée par référendum en 1962 a instauré l'**élection du Président au suffrage universel direct** : depuis, ce sont les citoyens qui l'élisent directement. Depuis le début des années 2000, la durée du mandat présidentiel est de **cinq ans** (le « quinquennat »), au lieu de sept auparavant. Le Parlement est composé de deux chambres : l'**Assemblée nationale**, élue au suffrage direct, et le **Sénat**, élu au suffrage indirect. (Faits paraphrasés d'après Wikipédia et vie-publique.fr, voir Sources.)
 
-## 3. S'entraîner
-
+## 3. S'entraîner {#practise}
 **Ex. 1 — Compréhension écrite (texte C).** Répondez par une phrase.
 
 1. Qui a le droit de voter en France ?
@@ -169,6 +198,7 @@ Le régime politique actuel de la France est celui de la **Cinquième Républiqu
 
 ## Solutions
 
+{{< details summary="Solutions" >}}
 **Ex. 1.** 1) Les citoyennes et citoyens majeurs. 2) Non, c'est un droit, pas une obligation. 3) Ils votent les lois. 4) Deux parmi : s'informer, débattre, signer une pétition, s'engager dans une association.
 
 **Ex. 2.** 1) citoyens · 2) loi · 3) mandat · 4) voter · 5) démocratie.
@@ -176,9 +206,9 @@ Le régime politique actuel de la France est celui de la **Cinquième Républiqu
 **Ex. 3.** 1) Faux — le Sénat compte 348 membres. 2) Vrai. 3) Faux — le Président est élu au suffrage universel direct. 4) Vrai.
 
 **Ex. 4.** 1) Qui le Président nomme-t-il ? 2) Combien de députés l'Assemblée compte-t-elle ? 3) Comment le Sénat est-il élu ?
+{{< /details >}}
 
-## 4. Produire
-
+## 4. Produire {#apply}
 **Tâche orale — production en continu (M, ~2 à 3 min).**
 
 Choisissez **une institution** française (Président, Assemblée nationale ou Sénat) et présentez-la seul·e, en continu. Indiquez : son rôle, qui la compose, comment ses membres sont désignés et la durée du mandat. Terminez par une phrase qui explique son importance pour la démocratie.
@@ -190,35 +220,17 @@ Choisissez **une institution** française (Président, Assemblée nationale ou S
 - **Langue** — vocabulaire de l'unité employé, phrases complètes.
 - **Fluidité** — débit régulier, prononciation compréhensible.
 
-## 5. Réfléchir
-
+## 5. Réfléchir {#reflect}
 - [ ] Je peux nommer les institutions principales de la République.
 - [ ] Je peux comprendre un texte simple sur les élections.
 - [ ] Je peux expliquer deux façons de participer à la vie démocratique.
 - [ ] Je peux présenter une institution en continu pendant deux minutes.
 
-## Évaluation
+## Évaluation {#exam}
 
-**Exemple d'épreuve — devoir surveillé (« Klassenarbeit »), Niveau M.**
+[Ouvrir le sujet d’entraînement]({{< relref "track_gm_kl10/units/unit03_vie-democratique_exam" >}}).
 
-**Tâche 1 — Compréhension écrite (12 P.).** Lisez un court texte informatif sur la participation citoyenne (type texte C) et répondez à cinq questions par des phrases complètes.
-
-**Tâche 2 — Vocabulaire et institutions (8 P.).** Complétez un tableau des institutions (membres, mode de désignation, mandat) et employez cinq mots de l'unité dans des phrases.
-
-**Tâche 3 — Production orale en continu (10 P.).** Présentez, pendant deux à trois minutes, une institution de votre choix (rôle, composition, désignation, mandat, importance).
-
-**Total : 30 P.**
-
-| Note | Points |
-|------|--------|
-| 1 (sehr gut) | 28–30 |
-| 2 (gut) | 24–27 |
-| 3 (befriedigend) | 18–23 |
-| 4 (ausreichend) | 12–17 |
-| 5 (mangelhaft) | 6–11 |
-| 6 (ungenügend) | 0–5 |
-
-## Notes pour l'enseignant·e
+## Notes pour l'enseignant·e {#teacher-notes}
 
 **Timing (45 min) :** Activer 5' · Apporter 13' · S'entraîner 13' · Produire 10' · Réfléchir 2' · Aperçu / consignes 2'.
 

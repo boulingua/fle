@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume/index.md",
-    "source_body_sha256": "715717ed74f183a335f5530ecf5961077fa6fde8ffc3680f6d247c45c13fc472",
+    "source_body_sha256": "1e6b480201f918712344638e277e2db11e1c7ca1b1f2fe188fb966a895038ab7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Texte source (allemand, ~120 mots) à médiatiser"
@@ -28,7 +28,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl08/units/unit05_sprachmittlung-de-fr-resume/index.md",
-    "source_body_sha256": "715717ed74f183a335f5530ecf5961077fa6fde8ffc3680f6d247c45c13fc472",
+    "source_body_sha256": "1e6b480201f918712344638e277e2db11e1c7ca1b1f2fe188fb966a895038ab7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Texte source (allemand, ~120 mots) à médiatiser"

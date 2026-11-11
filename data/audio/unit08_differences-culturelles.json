@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
-    "source_body_sha256": "bf1b62e888486e782ba4c4debdc4fe2a1ca0cb3d9d2115d98c24a743e1f8579e",
+    "source_body_sha256": "dbdb40924df4ab09eba7c8c3ead166f1c98ae13b37ebeb2b0f48e53121b6a2c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Conseils d’une famille d’accueil fictive (allemand)"
@@ -28,7 +28,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
-    "source_body_sha256": "bf1b62e888486e782ba4c4debdc4fe2a1ca0cb3d9d2115d98c24a743e1f8579e",
+    "source_body_sha256": "dbdb40924df4ab09eba7c8c3ead166f1c98ae13b37ebeb2b0f48e53121b6a2c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Conseils d’une famille d’accueil fictive (allemand)"
@@ -46,7 +46,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track_gm_kl09/units/unit08_differences-culturelles/index.md",
-    "source_body_sha256": "bf1b62e888486e782ba4c4debdc4fe2a1ca0cb3d9d2115d98c24a743e1f8579e",
+    "source_body_sha256": "dbdb40924df4ab09eba7c8c3ead166f1c98ae13b37ebeb2b0f48e53121b6a2c7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "C. Conseils d’une famille d’accueil fictive (allemand)"

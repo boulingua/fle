@@ -142,7 +142,7 @@ Pour **comparer**, on utilise :
 
 > 1. Frag deine Gastfamilie, wie sie begrüßt werden möchte. Ein Wangenkuss ist keine Pflicht.
 > 2. In unserer Familie essen wir das Brot mit der Hand, ohne es zu zerdrücken.
-> 3. Wir essen meistens gegen20 Uhr zu Abend; andere Familien haben andere Gewohnheiten.
+> 3. Wir essen meistens gegen 20 Uhr zu Abend; andere Familien haben andere Gewohnheiten.
 > 4. Sage beim Betreten eines Geschäfts freundlich Bonjour.
 > 5. Am Tisch kannst du deine Meinung sagen und den anderen zuhören. Frage nach, wenn du unsicher bist.
 
